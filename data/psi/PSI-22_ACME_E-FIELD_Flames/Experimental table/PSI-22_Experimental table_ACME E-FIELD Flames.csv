@@ -1,0 +1,33 @@
+Test Type,Test Day,Year,Month,Date,Mesh Polarity,Fuel Bottle,Fuel Conc,Flames Ignited,Notes
+First round of tests with coflow burner,18073,2018,3,14,negative,100% CH4,100%,10,Test day is formatted YYDDD where YY identifies year and DDD identifies day of year (GMT). 
+First round of tests with coflow burner,18078,2018,3,19,negative,100% CH4,70%,10,Mesh polarity refers to the polarity of the high-voltage power supply and the copper electrode relative to the burner. 
+,,,,,,,100%,,"Fuel Conc. (diluted with nitrogen on a volume basis) was varied between tests, but typically matched the bottle. The list only accounts for flames ignited. "
+First round of tests with coflow burner,18080,2018,3,21,negative,40% CH4,40%,8,Flames Ignited is the number ignited on that day (neglecting the day change on ISS). 
+First round of tests with coflow burner,18087,2018,3,28,negative,100% C2H4,80%,10,
+,,,,,,,100%,,
+First round of tests with coflow burner,18092,2018,4,2,negative,30% C2H4,30%,11,
+First round of tests with coflow burner,18095,2018,4,5,positive,30% C2H4,30%,10,
+First round of tests with coflow burner,18102,2018,4,12,positive,40% CH4,40%,8,
+First round of tests with coflow burner,18106,2018,4,16,positive,40% CH4,40%,13,
+First round of tests with coflow burner,18113,2018,4,23,positive,100% CH4,100%,15,
+First round of tests with coflow burner,18130,2018,5,10,positive,100% CH4,70%,13,
+First round of tests with coflow burner,18137,2018,5,17,positive,100% C2H4,80%,12,
+,,,,,,,100%,,
+Second round of tests with gas-jet burner,18269,2018,9,26,negative,40% CH4,40%,11,
+Second round of tests with gas-jet burner,18274,2018,10,1,negative,30% C2H4,30%,11,
+Second round of tests with gas-jet burner,18282,2018,10,9,negative,100% CH4,70%,13,
+,,,,,,,100%,,
+Second round of tests with gas-jet burner,18285,2018,10,12,negative,100% C2H4,100%,10,
+Second round of tests with gas-jet burner,18290,2018,10,17,negative,100% C2H4,80%,11,
+Second round of tests with gas-jet burner,18298,2018,10,25,positive,40% CH4,40%,9,
+Second round of tests with gas-jet burner,18302,2018,10,29,positive,30% C2H4,30%,10,
+Second round of tests with gas-jet burner,18312,2018,11,8,positive,100% CH4,70%,13,
+,,,,,,,100%,,
+Second round of tests with gas-jet burner,18319,2018,11,15,positive,100% C2H4,25%,11,
+,,,,,,,50%,,
+,,,,,,,80%,,
+,,,,,,,100%,,
+Second round of tests with gas-jet burner,18319,2018,11,15,positive,100% C2H4,25%,11,
+,,,,,,,50%,,
+,,,,,,,80%,,
+,,,,,,,100%,,

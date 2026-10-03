@@ -1,0 +1,481 @@
+Physical Science Informatics:
+Providing Open Science Access to
+Microheater Array Boiling
+Experiment Data
+John McQuillen
+Robert D. Green
+Ben Henrie
+Teresa Miller
+Fran Chiaramonte
+
+Objective
+Physical Science Informatics system implements Office of
+Science and Technology Policy (OSTP) memorandum, Feb.
+22, 2013 entitled “Increasing Access to the Results of
+Federally Funded Scientific Research” by enabling multiple
+researchers simultaneous, open science, access to
+synergistically build upon ISS data.
+Maximize the value of this important data by mass
+disseminating past, current, and future ISS physical science
+data to the broad science, engineering, and STEM
+community including industry, academia, and government.
+Accelerate from ideas to state of the art of physical sciences
+research and to products, publications, and patents.
+
+Knowledge
+
+Physical
+Science
+Informatics
+System
+
+Information
+
+22 September 2014
+
+ITTW 2014
+
+Data
+
+2
+
+Open Science Examples
+Data science: A new emerging field with the goal of “extracting meaning from data and
+creating data products”. [definition courtesy of Wikipedia.]
+Has emerged as a new field to glean knowledge and new understanding from the large volume and
+diversity of data being published or available and accessible on the internet.
+
+Examples:
+•
+
+•
+
+•
+
+Tracking Hurricane Sandy: Barometric pressure data from
+Google researchers discovered close relationship between searches on flu-related topics and spread of influenza.
+local weather stations, available on-line, accurately track the
+Published in Nature Vol 457, 19 February 2009, doi:10.1038/nature07634
+storm’s path.
+
+Google researchers discovered close relationship between
+searches on flu-related topics and spread of influenza.
+Published in Nature Vol 457, 19 February 2009,
+doi:10.1038/nature07634
+Human behavior researchers using Google n-gram database
+(data from Project Gutenberg) found evidence for distinct
+historical periods of positive and negative moods in 20th
+century books.
+22 September 2014
+ITTW 2014
+
+3
+
+Open Science Campaign
+Platform*
+2. NASA develops
+CONOPS, performs all
+associated science
+activities, and
+manages payload
+integration
+
+Flight
+Experiment
+Definition
+
+3. ISS
+flight
+experiment
+operations
+
+4. Digital Data
+downlink and
+sample return
+for analysis
+Flight Hardware
+
+1. Science
+Definition Team to
+plan and oversee
+scientific
+requirements
+
+NRA to perform ground
+research based on data in
+informatics
+
+Non NRA
+Outside Data
+Users
+
+CASIS
+
+5. Physical Science
+Informatics System
+
+New scientific
+insight and
+publications
+
+22 Sept 2014
+
+*Marshall Porterfield – based on the ISS Science Campaign White Paper 2013
+4
+
+BXF Overview
+The Boiling eXperiment Facility was installed in the Microgravity Science Glovebox (MSG):
+
+•
+•
+•
+•
+•
+
+Two distinct experiments:
+Micro heater Array Boiling Experiment (MABE) PI: Prof. Jungho Kim, University of Maryland
+Nucleate Pool Boiling Experiment (NPBX) PI: Prof. Vijay K. Dhir, University of California at Los Angeles
+Normal perfluorohexane, C6F14, as the test fluid
+Operated between pressures of 60 to 244 kPa and temperatures of 35 to 60 °C.
+Measured Pressure and bulk fluid temperature.
+Acquired standard rate video.
+
+•
+•
+
+Timeline
+• BXF was delivered to the ISS aboard ULF 5, which launched in
+February, 2011.
+• BXF was installed on Tuesday March, 22.
+• Week 1: Hardware setup and checkout, MABE and NPBX heater
+characterizations
+• Weeks 2 and Week 3: MABE and NPBX test points .
+• On Monday, April 11, anomalous pressure readings tripped the BXF
+safety circuit, halting operations. Attempts to restart/reset/recycle
+BXF did not correct these readings and BXF was shut down.
+• By this point MABE completed 260 of 540 tests. NPBX completed less
+than half of planned tests.
+• On orbit troubleshooting was performed via ground control.
+• Limited NPBX operations could still be performed without failed
+power bus.
+• BXF was removed from MSG and returned on ULF 7.
+22 September 2014
+
+ITTW 2014
+
+ESA Astronaut Paulo Nespoli installing
+BXF in MSG
+5
+
+Microheater Array Boiling Experiment
+(MABE)
+Determined the local boiling heat transfer mechanisms in microgravity for
+nucleate and transition boiling and the critical heat flux by examining the
+position of the liquid and vapor adjacent to the heater.
+MABE was incorporated two 96 element microheater arrays, to measure
+localized heat fluxes while operating at a constant temperature.
+2.7 by 2.7 mm (not acquired)
+7.0 by 7.0 mm
+
+22 September 2014
+
+ITTW 2014
+
+6
+
+Physical Science Informatics Platform
+Accessibility Available to the national and international user community,
+using popular devices such as iPhone, iPad, Android, PC, Mac, Linux with
+web based Google like search capability
+Collaboration Allow for data to data links, and provide researchers the
+ability to comment about the data in either private or public discussions
+• Generate metric and usage reports Track usage for NASA managers and
+the science definition teams in planning, gap analysis, data ranking, student
+(undergraduate and graduate) impact, and for future system improvement.
+• Security and Access Controls Access controls will protect the data
+according to the data agreement and to support security controls for SBU,
+International Traffic in Arms Regulations (ITAR), company proprietary, or
+Export Administration Regulations (EAR), data system will need to be on a
+NASA moderate security plan
+Export tools are available to through a set of web services so that a variety
+of research tools can be used to analyze the data.
+7
+
+22 September 2014
+ITTW 2014
+
+Requesting Access
+Website access requires a USERID and Login.
+Submit form at http://psi.nasa.gov/Request.aspx:
+First, Middle and Last Name
+Phone
+Email
+Organization
+Address
+City
+Country
+State
+Postal Code
+Citizenship
+Company
+Manager’s Information
+First and Last Name
+Phone
+Email
+
+Projects (NASA tracks who uses the database and what they use it for. Ultimately, this is one metric
+used to warrant continuation of this resource)
+Justification
+
+22 Sept 2014
+
+8
+
+PSI Introduction PagePage
+URL http://psi.nasa.gov
+
+22 September 2014
+
+ITTW 2014
+
+9
+
+Investigations Page
+General Search, searches all records and attached files
+
+22 September 2014
+
+ITTW 2014
+
+10
+
+Experiment Record
+Data mine with multiple views to understand the data connections
+Close unused panels
+
+Inside NASA Firewall Only to
+edit/update/add new records
+Generate reports to compare data
+or identify data gaps
+
+Export reports to excel or PDF
+22 September 2014
+
+ITTW 2014
+
+11
+
+Investigation Overview Tab
+
+22 September 2014
+
+ITTW 2014
+
+12
+
+Scientific Data and Information
+Data mine with multiple views to understand the data connections
+Close unused panels
+
+Where the Video and Data will be
+Stored
+Experiment Definition
+22 September 2014
+
+13
+ITTW 2014
+
+Engineering Data And Information
+
+Selected Drawings & Engineering
+Reports and Test Data Relevant to
+Analysis of Scientific Data.
+Other Experiments Operating
+during Same time frame.
+ISS Facility Used
+
+22 September 2014
+
+ITTW 2014
+
+14
+
+Engineering Data
+Note:
+• Units are typically in SAE
+(inches, pounds, etc.)
+• BXF had several hundred
+drawings, analyses, reports,
+etc.
+• Only those files that are
+needed for interpretation of
+science data (for example
+position of sensors) have
+been entered.
+• Other files can be requested.
+• Some files will not be
+entered; for example,
+drawings related to
+hardening of high speed
+camera because of
+proprietary nature.
+22 September 2014
+
+ITTW 2014
+
+15
+
+Current Engineering Data Online
+Drawing No.
+60081M01A207
+
+Title
+
+Rationale
+
+Select CHAMBER ASSEMBLY (metadata) to included with the report
+TEST the attributes
+Overall Assembly
+
+60081M01A213
+
+TEST CHAMBER TOP PLATE ASSEMBLY
+
+Position of Pressure Sensor Taps
+
+60081M01A215
+
+COOLING CHAMBER ASSEMBLY
+
+Positioning of Heater Arrays and Backside Cooling
+
+60081M01A216
+
+MABE HEATER BONDING ASSEMBLY
+
+Positioning of Heater Arrays
+
+60081M01C311
+
+CARTRIDGE HEATER, COTS ASSEMBLY
+
+Bulk Fluid Heater
+
+60081M01C314
+
+THERMISTER, 3", COTS ASSEMBLY
+
+Bulk Fluid Temperature Sensor
+
+60081M01C315
+
+THERMISTER, 6", COTS ASSEMBLY
+
+Bulk Fluid Temperature Sensor
+
+60081M01D110
+
+HOUSING, TEST CHAMBER
+
+Test Chamber
+
+60081M01D169
+
+HOUSING, COOLING CHAMBER
+
+Backside Cooling Chamber
+
+60081M01D171
+
+PLATE, TEST CHAMBER TOP
+
+Top of Test Chamber
+
+60081M01D172
+
+DUCT, MIXING, TEST CHAMBER, STRAIGHT
+
+Annular Tube for Bulk Fluid Heater
+
+60081M01D173
+
+DUCT, MIXING, TEST CHAMBER, ANGLE
+
+Annular Tube for Bulk Fluid Heater
+
+60081M01L267
+
+BXF/MSG LAYOUT
+
+All Components
+
+60081M01S291
+
+BXF FLUIDS SCHEMATIC FLIGHT SYSTEM
+
+Fluid System Schematic
+
+BXF Critical Design Review Charts
+
+22 September 2014
+
+ITTW 2014
+
+16
+
+Publications and Other Results
+
+Some reports are on line and
+publicly available, However, others
+may require a subscription to the
+appropriate journal .
+22 September 2014
+
+ITTW 2014
+
+17
+
+Plans
+
+PSI Database becomes publicly available during
+October 2014.
+Limited Data for MABE is on line.
+Drawings
+Reports
+Links to publications
+“Raw” Excel Spreadsheets for MABE Test Cases
+Downlinked Video
+
+Data to be posted:
+Processed Local Heat Transfer Coefficient
+Synchronized Video Data (Side View and Through Array)
+18
+
+22 September 2014
+ITTW 2014
+
+50Comments, Suggestions
+MABE Specific:
+Types of Data to see
+Format of Data
+PSI Database
+Presentation Format
+
+22 September 2014
+
+ITTW 2014
+
+19
+
+Comments, Suggestions
+• Who to contact:
+o MABE: John.B.McQuillen@nasa.gov
+o Informatics Science: Robert.D.Green@nasa.gov
+o Database: Ben.Henrie@nasa.gov
+
+22 September 2014
+
+ITTW 2014
+
+20
+

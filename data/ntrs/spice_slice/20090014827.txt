@@ -1,0 +1,154 @@
+Acronym: SPICE
+Title: Smoke Point In Co-flow Experiment
+
+Principal Investigator(s):
+David L. Urban, Ph.D., Glenn Research Center, Cleveland, OH
+Co-Investigator(s)\Collaborator(s):
+Peter B. Sunderland, Ph.D., University of Maryland, College Park, MD
+Zeng-guang Yuan, Ph. D. National Center for Space Exploration Research, Cleveland, OH
+Contact(s):
+PI - David Urban, (216) 433-2835
+Primary - Frank Vergilii, (216) 433-6733
+Mailing Address(es):
+Dr. David L. Urban
+NASA Glenn Research Center
+MS 77-7
+Cleveland, OH 44135
+Dr. Peter B. Sunderland
+Department of Fire Protection Engineering
+University of Maryland
+0151 Glenn L. Martin Hall
+College Park, MD 20742
+Dr. Zeng-Guang Yuan
+NASA Glenn Research Center
+MS 110-3
+Cleveland, OH 44135
+Developer(s): Glenn Research Center, Cleveland, OH
+ZIN Technologies, Cleveland, OH
+Sponsoring Agency: National Aeronautics and Space Administration (NASA)
+Increment(s) Assigned: 18, 19, 20
+Brief Research Summary (PAO): The Smoke Point In Co-flow Experiment (SPICE) determines the point
+at which gas-jet flames (similar to a butane-lighter flame) begin to emit soot (dark carbonaceous
+particulate formed inside the flame) in microgravity. Studying a soot emitting flame is important in
+understanding the ability of fires to spread and in control of soot in practical combustion systems space.
+Research Summary:
+•
+
+Previous experiments show that soot dominates the heat emitted from flames in normal gravity
+and microgravity fires. Control of this heat emission is critical for prevention of the spread of fires
+on Earth and in space for the design of efficient combustion systems (jet engines and power
+generation boilers).
+
+•
+
+The onset of soot emission from small gas jet flames (similar to a butane-lighter flame) will be
+studied to provide a database that can be used to assess the interaction between fuel chemistry
+and flow conditions on soot formation. These results will be used to support combustion theories
+and to assess fire behavior in microgravity.
+
+•
+
+The Smoke Point In Co-flow Experiment (SPICE) will lead to a
+o improved design of practical combustors through improved control of soot formation;
+o improved understanding of and ability to predict heat release, soot production and
+emission in microgravity fires;
+o improved flammability criteria for selection of materials for use in the next generation of
+spacecraft.
+
+Detailed Research Description: The Smoke Point In Co-flow Experiment (SPICE) will continue the
+study of fundamental phenomena related to understanding the mechanisms controlling the stability and
+extinction of jet diffusion flames begun with the Laminar Soot Processes (LSP) on STS-94. SPICE will
+stabilize an enclosed laminar flame in a co-flowing oxidizer, measure the overall flame shape to validate
+the theoretical and numerical predictions, measure the flame stabilization heights, and measure the
+temperature field to verify flame structure predictions.
+SPICE will determine the laminar smoke point properties of non-buoyant jet diffusion flames (i.e., the
+properties of the largest laminar jet diffusion flames that do not emit soot) for several fuels under different
+nozzle diameter/co-flow velocity configurations. Luminous flame shape measurements would also be
+made to verify models of the flame shapes under co-flow conditions. The smoke point is a simple
+measurement that has been found useful to study the influence of flow and fuel properties on the sooting
+propensity of flames. This information would help support current understanding of soot processes in
+laminar flames and by analogy in turbulent flames of practical interest.
+Project Type: Payload
+Images and Captions:
+
+Top: Onset of the closed-tip smoke point for flames in quiescent ambient from the LSP experiment.
+Bottom: Onset of the open-tip smoke point for flames in quiescent ambient from the LSP experiment on
+STS-94. Similar behaviors are expected with SPICE. Images courtesy of Glenn Research Center,
+Cleveland, OH.
+
+SPICE Hardware inside of the Microgravity Science Glovebox at Marshall Space Flight Center (MSFC).
+Image courtesy of Glenn Research Center.
+
+NASA Image: ISS018E026974 Astronaut Sandra Magnus works with the Smoke Point In Co-flow
+Experiment (SPICE) in the Microgravity Sciences Glovebox (MSG) during Expedition 18.
+
+Operations Location: ISS Inflight
+Brief Research Operations:
+•
+
+The crewmember will unstow and assemble the SPICE hardware on the base plate within the
+Microgravity Science Glovebox (MSG) working volume and connect electrical and data harnesses.
+
+•
+
+During course of experiment, the crew will install and exchange fuel bottles, exchange burner
+tubes, control fuel flow and flame ignition.
+
+•
+
+For each test point the crew will set the burner diameter and air flow before ignition. After ignition,
+the crew will adjust the fuel flow rate until the flame is at the smoke point.
+
+•
+
+The crew will control video and still camera functions, some photos are down-linked for near-real
+time coordination with the investigator. The crewmember will uninstall experiment from the MSG
+and stow the hardware once SPICE is completed.
+
+Operational Requirements: SPICE will be conducted inside the sealed MSG work volume. The
+crewmember is involved throughout the experiment to load fuel bottles, initiate tests, ignite the fuel, adjust
+flame to smoke point, monitor and record data, exchange burner tubes, exchange fuel bottles and replace
+the igniter. Six test sequences covering six different fuels with three different burner tubes, for a total of
+fifty-four (54) test points will be performed by the crewmember. Periodic repeat points are desired if time
+is available. Data will be downlinked via video during or immediately after each flame test. Digital photos
+are downlinked after selected flame tests for ground confirmation before proceeding. SPICE testing
+session must be conducted during periods when no major reboost or docking procedures are underway
+on the International Space Station.
+Operational Protocols: The crewmember installs the SPICE hardware in the MSG work volume. The
+SPICE hardware consists of a small flow duct with an igniter and a small nozzle. Outside the flow duct are
+2 cameras, the fuel supply bottle and various electronic boxes. Each test is conducted by the
+crewmember who installs the correct diameter nozzle and sets the air flow rate through the duct before
+igniting the flame. When the flame is ignited, (it will look similar to a butane-lighter flame) the crewmember
+adjusts the flame size (by controlling the fuel flow rate) until the flame is just at the smoke point (the size
+where the flame just begins to emit a small stream of soot from the tip). After triggering the high resolution
+camera, the crewmember turns off the fuel and prepares for the next test. The science team on the
+ground will monitor the video downlink to assist the crewmember in determining the smoke point and will
+review the sensor data overlaid on the video image. Between test sessions the crew will change the fuel
+bottle to a different fuel (six will be tested). Upon completion of the tests the crewmember stows the
+hardware and the stored images and data are returned to Earth for analysis.
+Review Cycle Status: PI Reviewed
+Category: Physical Sciences in Microgravity
+Sub-Category: Combustion Science
+Space Applications: Current NASA spacecraft materials selection is based upon a simplified test
+method that segregates material based upon behavior on Earth without real consideration of microgravity
+effects. A critical element of this understanding is the radiative heat emission from the flame. This heat
+emission is strongly influenced by the extent of soot formation. Improved understanding of soot formation
+and thereby the heat release from microgravity fires will allow more complete and effective utilization of
+the flammability test results. These results can be used in first-order models and predictions of heat
+
+release in spacecraft fires and as a means to extend heat release data from tests like the NASA conecalorimeter test to microgravity fires to a performance based material selection process.
+Earth Applications: The smoke-point phenomena is a classical metric in the understanding of the heat
+release and spread rate of fires. It is commonly used in fire modeling on Earth and to understand the soot
+growth and emission by flames. The dominant characteristics of many flames of practical interest are
+nonbuoyant. The LSP experiment has shown that the onset of the microgravity smoke point in a
+quiescent environment is very different from that seen in normal gravity. SPICE seeks to extend our
+understanding by looking at the interaction of ambient flow with the smoke point, enabling us to better
+predict heat release from non-buoyant flames in practical combustors (e.g. jet engines and furnaces).
+Manifest Status: Continuing
+Supporting Organization: Exploration Systems Mission Directorate (ESMD)
+Previous Missions: This is a new investigation for research on the ISS.
+Web Sites:
+SPICE
+Related Payload(s): SAME
+Last Update: 02/17/2009
+

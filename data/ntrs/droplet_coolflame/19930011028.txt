@@ -1,0 +1,854 @@
+COMBUSTION
+
+OF INTERACTING
+
+DROPLET
+
+ENVIRONMENT
+
+ARRAYS
+
+IN A MICROGRAVITY
+
+t
+
+20217
+
+Daniel L. Dietrich
+Sverdrup Technology, Inc.
+Cleveland, Ohio 44135
+and
+John B. Haggard
+NASA Lewis Research Center
+Cleveland, Ohio 44135
+
+Inlrgduction
+This research
+program
+involves
+the study of one and two dimensional
+arrays of droplets
+in a
+buoyant-free
+environment.
+The purpose of the work is to extend the database
+and theories
+that
+exist for single droplets into the regime where droplet interactions
+are important.
+The eventual
+goal
+being to use the results
+of this work as inputs to models
+on spray combustion
+where
+droplets
+seldom burn individually;
+instead the combustion
+history of a droplet is strongly influenced
+by the
+presence
+of the neighboring
+droplets.
+Recently,
+Annamali
+and Ryan (ref. 1) have summarized
+the current status of droplet
+array, cloud
+and spray combustion.
+While no attempt will be made to duplicate this work here, there are several
+relevant
+ideas that should be mentioned.
+There a number
+of simplified
+theories
+(refs. 2-6), and a
+small number
+of detailed
+numerical
+studies (refs. 9 and 10) of droplet vaporization/combustion
+where multiple
+droplet effects are significant.
+These theories
+all neglect the effect of buoyancy.
+Experimentally,
+all studies to date show how important
+the effect of buoyancy
+is, in fact, it
+becomes
+the dominant
+transport
+mechanism
+in the problem.
+Only the works of Law and coworkers
+were performed
+in an environment
+where buoyancy
+effects were small (refs. I 1 and 12),
+and the authors
+were limited to studying combustion
+in high oxygen index, low pressure
+ambient
+environments.
+The emphasis
+of the present investigation
+is experimental,
+although
+comparison
+will be made to
+existing
+theoretical
+and numerical
+treatments
+when appropriate.
+Both normal
+gravity
+and low
+gravity testing will be employed,
+and the results compared.
+The work to date will be summarized
+in the next section, followed by a section detailing the future plans.
+
+Research initiation date: 4/I/91.
+
+317
+
+Work
+Normal
+
+to Date
+Gravity
+
+Droplet
+
+Combustion
+
+Chamber
+
+As presented
+in the previous
+section,
+normal
+gravity
+testing will be employed
+in this
+Toward this end a combustion
+chamber to study the burning of single droplets and droplet
+was designed
+and built.
+The chamber
+can handle
+absolute
+pressures
+from 0 - 1 atm,
+equipped
+with a gas mixing
+system so that the ambient
+pressure
+and gas composition
+accurately
+controlled.
+Inside the chamber,
+droplet(s)
+are suspended
+from 125 _tm quartz
+
+work.
+arrays
+and is
+can be
+optical
+
+fibers with a precisely
+controlled
+I 250 }am bead placed on the end. Droplets are placed on the end
+of the fiber with a hypodermic
+tube attached to a rotary solenoid.
+Ignition is accomplished
+with a
+length of .010 inch Kanthal
+(Aluminum
+alloy) wire heated
+with a current
+of approximately
+4
+amps.
+The hot-wire
+is attached to a linear solenoid,
+and is removed
+immediately
+after ignition.
+Photographic
+images
+are obtained
+by two orthogonal
+views; one a backlit view from which the
+droplet
+size as function
+of time is obtained,
+and the other from which the flame dynamics
+are
+captured.
+The entire droplet dispense/ignition
+and photographic
+process is controlled
+with a time
+delay relay circuit.
+One of the first uses of the combustion
+chamber
+was to evaluate
+the suitability
+of an intensified
+array camera to image the flame in the ultra-violet
+region of the spectrum
+as opposed
+to the visual
+image usually
+obtained.
+This work is in support
+of the Droplet
+Combustion
+Experiment
+(M.
+Vehda-Nayagam,
+project scientist).
+Methanol
+and n-heptane
+droplets
+were burned in ambient
+environments
+of Helium/Oxygen
+and Nitrogen/Oxygen
+at atmospheric
+and sub-atmospheric
+pressures.
+The flame images were recorded
+with the intensified
+array camera (UV Nikkor
+lens,
+quartz viewing
+window)
+and regular black and white video camera.
+Most of the video with the
+intensified
+camera was taken with a 310 nm bandpass
+filter in place. The purpose was to attempt
+to image the OH emission and compare that image with the visual image.
+Figure 1 shows two images,
+the one on the right being that obtained
+with the intensified
+array
+camera, and on the left from the black and white video camera at the same time. This was an nheptane droplet
+burning
+in a 35% Oxygen/65%
+Helium
+(mole fraction),
+and a total pressure
+of
+0.75 atm. As is easily seen, the two images are very different,
+with a measurement
+of the flame
+diameter
+and shape being very different depending
+on the camera used.
+At the present
+time, no
+definitive
+conclusions
+can be drawn from the existing data, as further analysis of the existing data
+is needed, in addition to more data with a color video camera and possibly more filters.
+Single droplets
+of methanol
+and n-decane
+were studied in high oxygen, low pressure
+ambients.
+The purpose
+was to duplicate
+some of the work of Law and co-workers
+(refs. 13 and 14). The
+result of one of these tests is shown in Fig. 2 with the square of the normalized
+droplet diameter
+shown as a function
+of time.
+"the burning rate constant,
+defined as the best linear fit between
+the
+two doued lines in Fig. 2, was 0.84 mm2/sec.
+This was somewhat
+lower than the value reported
+by Chung
+and Law.
+As also seen in Fig. 2, flame extinction
+occurs
+before the droplet
+has
+completely
+vaporized
+(fuel was visible on the fiber).
+The extinction
+diameter
+for this droplet was
+approximately
+300 lam. This droplet
+size was very close to the suspending
+fiber bead size,
+however, so fiber interference
+effects were no doubt important.
+For the same oxygen concentration
+and fuel as shown for the test in Fig. 2, but higher pressures
+(0.3 atm), microexplosions
+were observed.
+A sequence
+of frames from before, during, and after a
+microexplosion
+are shown in Fig. 3. In the beginning,
+droplet burning was normal, but then the
+liquid disruption
+begins and finally the explosion.
+After the explosion,
+normal droplet
+burning
+
+The ability to accurately
+control the size of the bead is critical when performing
+the droplet
+array studies so that the droplets in the array are as identical as possible (ref. 10).
+
+318
+
+continued any liquid
+if
+
+remained
+on the fiber. These microexplosions
+seem to originate on the fiber
+indicating
+fiber interference.
+Microexplosions
+also occurred
+at 0.2 atm, but were less severe, and
+typically occurred
+later in the droplet lifetime.
+No microexplosions
+were seen at 0.1 atm.
+More recently,
+work has started on burning
+multiple
+droplets.
+Figure
+4 shows two droplets
+initially
+1 mm in diameter
+separated
+by approximately
+6 mm. The fuel was n-decane,
+and the
+pressure
+was 0.1 atm. Three pictures
+are shown at different
+times in the droplet
+lifetime.
+As
+expected,
+early in the burning history, the two flames merge into a single flame, and later in the
+lifetime the two droplets
+expenence
+less interactions,
+and burn individually.
+Because
+of the low
+pressure
+in the flames in Fig. 4, buoyancy
+effects were reduced
+(not eliminated)
+and the flames
+were more spherical.
+Reduced
+
+Gravity
+
+Droplet
+
+Combustion
+
+Progress in low gravity has been limited by problems
+with the experimental
+apparatus.
+The major
+development
+in this area has been utilizing extremely
+small (10-15 i.tm) Si-C fibers to suspend
+droplets.
+These fibers are an order of magnitude
+smaller
+than the fibers used in most suspended
+droplet studies.
+Figure 5 shows an n-decane
+droplet
+suspended
+from one of these fibers.
+This
+drop was created
+in low gravity by stringing
+one of these fibers between
+the two deployment
+needles in the droplet combustion
+facility of the 2.2 second drop tower.
+As can easily be seen, the
+deviation
+from spherical
+symmetry
+is very small, with the fiber being barely visible.
+Figures
+5
+also shows the backlit view of the same droplet during combustion.
+One of the major advantages
+of using these fibers is the potential
+to perform thermometry
+measurements
+in the gas phase of
+sootless
+droplet
+burning
+(ref. 15).
+This is particularly
+useful
+when
+studying
+extinction
+phenomena;
+enabling
+one to identify
+flame position,
+change
+in flame temperature,
+and flame
+dynamics at extinction.
+Given the encouraging
+results using these fibers, a new experimental
+apparatus
+for the low gravity
+facilities is being developed.
+The experiment
+is designed
+to study one and two dimensional
+arrays
+of droplets
+suspended
+by the Si-C fiber.
+The current
+status of the rig is that the design
+and
+construction
+are nearly complete.
+Integration
+into a drop frame for the 2.2 second drop tower is
+under way. Initial testing is expected to begin in the beginning
+to mid-October.
+Another accomplishment
+is the development
+of an automatic
+data processing
+technique
+to measure
+droplet size as a function
+of time from drop tower data. The technique
+is similar to that of Choi et
+al. (ref. 16) and involves
+grabbing
+a frame from film (or video) and digitizing
+it. The edge of the
+droplet is then detected
+by one of two methods (absolute
+intensity
+or intensity
+gradient),
+and the
+area averaged droplet diameter
+is determined.
+Future
+
+Work
+
+Work in the remaining
+2+ years of the grant will continue in both the normal gravity test cell, and
+the low gravity
+apparatus.
+Several
+minor improvements
+will be made to the normal
+gravity
+apparatus.
+The ignition system will modified, possibly even incorporating
+a spark ignition system;
+the ultimate goal being to reliably
+ignite a droplet in the shortest
+amount
+of time with as little
+disturbance
+as possible.
+This work will be done in conjunction
+with the Droplet
+Combustion
+Experiment
+(DCE)
+science
+team (F. Williams,
+F. Dryer,
+and M. Vehda-Nayagam).
+The fuel
+system will be improved
+to allow accurate delivery of multiple droplets simultaneously.
+This new
+fuel system is nearly complete.
+Another area of
+flame imaging.
+black and white
+of these tests, a
+
+work that will be done in conjunction
+with the DCE science team, is on improved
+Further testing will be done with the intensified
+array video camera, a color and
+video camera to determine
+the best method of imaging a droplet flame.
+For some
+small Si-C fiber will be strung across the droplet (not supporting
+the drople0
+and
+319
+
+the luminousimageof the fiber during combustionwill be recorded. The imageof the 'glowing'
+fiber will becompared the visualflameimages
+to
+obtained
+with thevideo cameras.
+In addition, work will continue on attemptingto obtain temperaturemeasurements
+from these
+fibers. Currently,a modelis beingdeveloped correctthe temperature the fiber for radiation,
+to
+of
+conductionandconvectivelosses. The first experimental ork will be conductedin the normal
+w
+gravity facility, andif the resultsarepromising,it will be incorporatedinto the droprig. Evenif
+absolutetemperaturemeasurementsare not possible, these fibers will enable a qualitative
+measurement location of the maximumflame temperature, hangein flame temperature
+of
+c
+asa
+functionof time andflamewidth.
+Normal gravity work in the next year will be focussedon studying single droplets and linear
+dropletarrays.Two fuels will beemployed.The first will bemethanol,the second
+n-decane.The
+major variableswill be the inter-droplet spacing,ambient oxygen concentration,pressureand
+diluent(heliumor nitrogen). Theresultsof thesestudies
+will becomparedto similar teststhatwill
+beconducted the 2.2 second
+in
+droptowerwith thenewdropletcombustionapparatus.
+
+.
+
+o
+
+3.
+4.
+5.
+6.
+7.
+8.
+
+.
+
+10.
+
+11.
+
+Annamalai,
+K. and W. Ryan. "Interactive
+Processes in Gasificcation
+and Combustion.
+Part I: Liquid Drop Arrays and Clouds," Progress
+in Energy and Combustion
+Science
+18,
+1992, 221.
+Brzustowski,
+T.A., E.M. Twardus,
+S. Wojcicki and A. Sobiesiak.
+"Interaction
+of Two
+Burning Fuel Droplets
+of Arbitrary
+Size," AIAA Journal
+17, No. 1 I, 1979, 1234.
+Labowsky,
+M. "A Formalism
+for Calculating
+the Evaporation
+Rates of Rapidly
+Evaporating
+Interacting
+Particles",
+Combustion
+Science and Technology
+18, 1978, 145.
+Labowsky,
+M. "Calculation
+of the Burning Rates of Interacting
+Fuel Droplets,"
+Combustion
+Science
+and Technology
+22, 1980, 217.
+Marberry,
+M., A.K. Ray and K. Leung. "Effect of Multiple
+Particle Interactions
+on
+Burning Droplets,"
+Combustion
+and Flame 57, 1984, 237.
+Samson, R., D. Bedeaux
+and J.M. Deutch. "A Simple Model of Fuel Spray Burning II.
+Linear Droplet Streams,"
+Combustion
+andFlame
+31, 1978, 223.
+Umemura,
+A., S. Ogawa and O. Nobunori.
+"Analysis
+of the Interaction
+Between
+Two
+Burning Droplets",
+Combustion
+and Flame
+41, 1981, 45.
+Raju, M.S. and W.A. Sirignano.
+"Unsteady
+Navier-Stokes
+Solution for Two Interacting,
+Vaporizing
+Droplets",
+AIAA-87-0300,
+AIAA 25th Aerospace
+Sciences
+Meeting,
+Reno,
+Neveda,
+1987.
+Tal, Reuven and W.A. Sirignano.
+"Cylindrical
+Cell Model for the Hydrodynamics
+of
+Particle Assemblages
+at Intermediate
+Reynolds Numbers",
+American
+Institute of Chemical
+Engineers
+Journal
+28, No. 2, 1982, 233.
+Miyasaka,
+K. and C.K. Law. "Combustion
+of Strongly Interacting
+Linear Droplet Arrays",
+Eighteenth
+Symposium
+(International)
+on Combustion
+[ The Combustion
+Institute,
+1981,
+283.
+Xiong, T.Y., C.K. Law, C.K. and K. Miyasaka.
+"Interactive
+Vaporization
+and
+Combustion
+of Binary Droplet Systems",
+Twentieth Symposium
+(International)
+Combustion
+/ The Combustion
+Institute,
+1984, 1781.
+Chung, S.H., and C.K. Law. "An Experimental
+Study of Droplet Extinction
+in
+Absence of External
+Convection,"
+Combustion
+and Flame
+64, 1986, 237.
+Law, C.K., S.H. Chung and N. Srinivasan.
+"Gas-Phase
+Quasi-Steadiness
+and
+Accumulation
+Effects in Droplet Burning",
+Combustion
+and Flame
+38, 1980,
+
+320
+
+on
+the
+Fuel Vapor
+173.
+
+14.
+
+15.
+
+Vilimpoc, V. and L.P. Goss. "SiC-Based
+Thin-Filament
+Pyrometry:
+Theory and Thermal
+Properties,"
+Twenty-Second
+Symposium
+(International)
+on Combustion
+/ The Combustion
+Institute,
+1988, 1907.
+"Choi, M.Y., F.L: Dryer, J.B. Haggard, M.H. Brace. "Further Observations
+on Microgravity Droplet Combustion
+in the NASA-Lewis
+Drop Tower Facilities: A Digital
+Processing Techniqui
+for Droplet Burning Data," Third International
+Colloquium
+on Drops
+and Bubbles, Monterey,
+California,
+1988.
+
+!
+Figure
+
+1.
+
+Comparison
+of images from a black and white video camera 0eft) and intensified
+array video camera with 310 nm bandpass filter in place, n-Heptane
+in a 0.75 arm,
+0.35/0.65 Oxygen/Helium
+(mole fraction) ambient.
+
+.it..
+0.8"
+
+%
+
+t"q
+
+0.6"
+
+eq
+,¢
+0.4
+
+=
+
+0.2
+
+=
+
+I
+K = 0.84 mm^2/sec
+0
+
+!
+
+0
+
+0.5
+
+1
+Time
+
+Figure
+
+2.
+
+1.5
+
+2
+
+(see)
+
+Normalized
+volume averaged droplet diameter
+burning in a 0.1 atm, 0.5/0.5 Oxygen/Nitrogen
+
+321
+
+"
+
+as a function of time for n-decane
+(mole fraction) ambient.
+
+Figure 3.
+
+n-Decane
+in 0.3 atm, 0.5/0.5 Oxygen/Nitrogen
+(center) and after (right) rnicroexplosion.
+
+Figure
+
+4.
+
+Two n-decane
+droplets burning
+during the burning history.
+
+Figure
+
+5.
+
+n-Decane
+droplet in air at i atm supported
+and during combustion
+(right).
+
+ambient,
+
+before
+
+(left),
+
+in air at 0.1 atm on 125 grn fibers
+
+322
+
+on a 10-15
+
+during
+
+at three
+
+grn Si-C fiber before
+
+times
+
+(left)
+
+COMMENTS
+Question (C.T. Avedisian, Corncll University): In looking at your video of the combustion of droplet arrays
+in microgravity using fiber supported droplets, some work that Brzustowski and co-workers did in the late
+70's on unsupported droplet arrays in microgravity came to my mind. Do vou intend to include a study of
+unsupported droplet arrays in your work?
+Answcr: Not in the immediate future (1 year).
+in the last year of funding.
+
+We are, however, considering
+
+323
+
+looking :it unsupported
+
+arrays
+

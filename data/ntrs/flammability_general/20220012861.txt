@@ -1,0 +1,915 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Determining flame temperature by broadband two color
+pyrometry in a flame spreading over a thin solid in
+
+microgravity
+
+Maria Thomsena,∗, Juan Jose Cruzb, Felipe Escuderob, Andres Fuentesb,
+Carlos Fernandez-Pelloc, Michael Gollnerc, David L. Urband, Gary A. Ruffd
+
+aFaculty of Engineering and Sciences, Universidad Adolfo Ibáñez, Santiago, Chile
+bDepartamento de Industrias, Universidad Técnica Federico Santa Marı́a, Av. España 1680, Valparaı́so, Chile
+
+cDepartment of Mechanical Engineering, University of California Berkeley, Berkeley, CA, USA
+dNASA Glenn Research Center, 21000 Brookpark Rd., Cleveland, OH, USA
+
+Abstract
+
+Fire spread inside a spacecraft is a constant concern in space travel. Understanding how the fire grows and
+spreads, and how it can potentially be extinguished is critical for planning future missions. The conditions inside
+a spacecraft can greatly vary from those encountered on earth, including microgravity, low velocity flows, reduced
+ambient pressure and high oxygen, and thus affecting the combustion processes. In microgravity, the contributions
+of thermal radiation from gaseous species and soot can play a critical role in the spread of a flame and the problem
+has not been fully understood yet. The overall objective of this work is to address this by studying the soot
+temperature of microgravity flames spreading over a thin solid in microgravity. The experiments presented here
+were performed as part of the NASA project Saffire IV, conducted in orbit on board the Cygnus resupply vehicle
+before it re-entered the Earth’s atmosphere. The fuel considered is a thin fabric made of cotton and fiberglass
+(Sibal) exposed to a forced flow of 20 cm/s in a concurrent flow configuration. Reconstruction of the flame
+temperature fields is extracted from two color broadband emission pyrometry (B2CP) as the flame propagates
+over the solid fuel. A methodology, relevant assumptions and its applicability to other microgravity experiments
+are discussed here. The data obtained shows that the technique provides an acceptable average temperature around
+∼ 1300 K, which remains relatively constant during the spread with an error value smaller than 117 K. The data
+presented in this work provides a methodology that could be applied to other microgravity experiments to be
+performed by NASA. It is expected that the results will provide insight for what is to be expected in different
+conditions relevant for fire safety in future space facilities.
+
+Keywords: Broadband pyrometry; Soot temperature; Boundary layer diffusion flame; Concurrent flame spread; Sibal material.
+
+Corresponding author: ∗ maria.thomsen@uai.cl
+
+1
+
+
+
+1. Introduction
+
+Understanding the behavior, spread and growth of
+a fire inside a spacecraft is essential to develop meth-
+ods to prevent and respond to the occurrence of fire
+accidents that could endanger the success of a mis-
+sion and the safety of the crew. Currently, materi-
+als used inside spacecraft cabins or the International
+Space Station (ISS) are rigorously screened to charac-
+terize their fire hazard and determine how they would
+behave in case of a fire [1, 2]. Although ideally, the
+testing of materials would be done under the actual
+conditions of the cabin where it is intended to be used,
+this is sometimes challenging given that testing in a
+space-based facility is very expensive and very lim-
+ited in available space and opportunities.
+
+Aiming to expand the knowledge of fire spread and
+growth, and material flammability in spacecraft en-
+vironments, NASA embarked on a research project,
+the Spacecraft Fire Experiment (Saffire) [3], that aims
+to better understand material flammability and fire
+growth and spread. The Saffire experiments are a se-
+ries of unique and novel large-scale spacecraft exper-
+iments performed on board the Cygnus cargo space-
+craft, after the vehicle has completed its primary mis-
+sion to the ISS, and before its planned destructive
+reentry through Earth’s atmosphere. Using this ve-
+hicle to perform large-scale fire experiments was an
+innovative way to use a microgravity facility and al-
+leviated the concern of crew safety for a large fire
+experiment. The Saffire experiments have been dis-
+cussed and documented previously, and the reader is
+referred to Refs. [3–5] for further details. The re-
+sults of the tests performed have shown that space-
+craft fires could grow significantly, release enough
+heat and toxic gases, and persist long enough to be
+of concern to the crew and the spacecraft.
+
+Despite efforts to better understand fire spread
+mechanisms in microgravity environments, the prob-
+lem is still poorly understood [6]. Traditionally, flame
+spread over solid fuels has been studied in micro-
+gravity by means of tracking the flame or the pyrol-
+ysis front, providing useful but limited information
+of the process. As the flame spreads over the solid
+fuel, it acts both as the source of heat needed to py-
+rolyze the virgin fuel and as a pilot that later ignites
+the flammable mixture formed after the pyrolyzates
+mix with the oxidizer (see Fig. 1). Knowledge of the
+radiative properties of flames, in particular the tem-
+perature, are important to better understand the gen-
+eral process, particularly near extinction [7, 8]. Here,
+color pyrometry provides a useful method to deter-
+mine the temperature of the flame without disruptions
+to the spread process. Previous studies have taken ad-
+vantage of these techniques when studying diffusion
+flames on gas burners [9–12], however only recently
+the technique has been applied to spreading flames
+[13–15].
+
+The results obtained during the Saffire IV experi-
+ments are revisited here to provide further informa-
+tion about the characterization of the flames observed
+
+during this unique experiment. Raw images obtained
+during the tests are analyzed to determine the temper-
+ature of the flame using broadband two color pyrome-
+try (B2CP). It is expected that the results of this work
+will provide further insight into unique data obtained
+during microgravity experiments. Furthermore, this
+methodology could complement point measurements
+traditionally performed, providing a more complete
+view of the flame temperature to be used for the
+validation of numerical models in microgravity, and
+thus shedding light onto the additional processes that
+might play a dominant role in the spread of the flame.
+
+Fig. 1: Diagram of concurrent flame spread over a thin sam-
+ple. Only half of the flame is schematized (symmetry is as-
+sumed with respect to the sample center plane).
+
+2. Experimental setup
+
+The data presented here correspond to experimen-
+tal data obtained as part of the Saffire IV experiments
+[5] performed by NASA on board the resupply ve-
+hicle Cygnus CRS-15 before its destructive re-entry
+through Earth’s atmosphere. A brief description about
+the experimental setup and procedure is given here.
+For further information, the reader is referred to Refs.
+[3, 5]. The hardware, shown in Fig. 2, was a rect-
+angular flow duct measuring 15 cm (perpendicular
+to the sample surface) by 45 cm width and 109 cm
+length. The duct was equipped with a fan at the in-
+let section to induce the flow of air through the flow
+duct, a vane anemometer at the entrance of the in-
+let duct was used to monitor the flow velocity. The
+inlet and outlet of the duct was equipped with flow
+straighteners that connected to a plenum parallel to
+the flow duct, resulting in a folded geometry. This
+geometry favored flow mixing and enabled oxygen,
+carbon dioxide, and carbon monoxide concentration
+measurements at the inlet and outlet sections. In ad-
+dition to the Saffire instrumentation, the vehicle was
+also provided with a Far Field Diagnostics unit con-
+taining a smoke cleanup system and smoke sensors.
+
+The samples tested were placed in a holder located
+in the middle of the flow duct so that air flows on both
+sides of the sample. As part of Saffire IV, four sepa-
+rate fuel samples consisting of different materials and
+sizes were used. One of them was a custom-made
+combustible material, called ‘Sibal fabric’, which is
+a thin composite material made of 75% cotton and
+25% fiberglass with an area density of 18.05 mg/cm2,
+
+2
+
+
+
+Fig. 2: Schematic of the Cygnus vehicle (d), experimental setup (b, c) and sample (a).
+
+and is the subject of this study. This material was
+selected both for comparison with previous micro-
+gravity tests and because the presence of the non-
+combustible matrix of fiberglass provides structural
+integrity and prevents the fabric from cracking and
+curling while burning, as such behavior would de-
+stroy the symmetry of the flame and complicate the
+flame spread process. The sample was 40.64 cm wide
+by 50 cm long and was mounted on a metal frame in
+the center of the flow tunnel (see Fig. 2). To study
+concurrent flame spread, a resistively-heated 29-gage
+Kanthal-wire (0.286 mm) was threaded through the
+upstream end of the sample across the entire width.
+The hot-wire igniter was powered for 8 s (3.98 A, 205
+W) to ensure ignition of the fuel. The Sibal sample
+was burned in a concurrent configuration under a 20
+cm/s flow velocity in an atmosphere of 22% by vol.
+oxygen concentration and 100 kPa ambient pressure.
+
+Four cameras (Allied Vision Manta G 235c) were
+used to record images of the burning samples at 30
+fps. Cameras included an IRC Hoya C-5000 IR cut
+filter. Two front view cameras (C1 and C3) were po-
+sitioned on one side of the duct parallel to the sample
+to observe the full development of the flame over the
+material. Two side view cameras (C2 and C4) were
+positioned on a side of the duct, perpendicular to the
+sample, to observe the profiles of the flame. Cam-
+eras were configured as orthogonal pairs to image the
+totality of the sample holder; however, for the pur-
+pose of the present work only C1 and C2 are rele-
+vant (see Fig. 2(b)). Front and side view cameras
+were equipped with 6 mm (Kowa LM6HC) and 8 mm
+(Kowa LM8HC) lenses, respectively, to improve vi-
+sualization of the flame. The flow duct was kept dark
+to improve flame imaging. However, the front of the
+fuel sample was periodically (for 0.1 s every 2 s) illu-
+minated with four green LED strip assemblies embed-
+ded in the duct wall so that the pyrolysis front could
+be seen as the material burned. Four radiometers on
+the same side as the cameras measured radiation com-
+ing from the flame and fuel. 11 type-R thermocouples
+(130 µm wire diameter) were arrayed to provide tem-
+perature measurements at key locations on and near
+the entire fuel sample card tested, with only 4 of them
+placed on the Sibal fabric. Furthermore, of those four
+thermocouples, two were placed in direct contact with
+the surface to measure surface temperature, one of
+
+them malfunction during the test, and the remaining
+one was devoted to measure gas phase temperature.
+This last thermocouple was particularly relevant to the
+present work, and provided the means for comparison
+and validation purposes of technique presented here.
+The exact position of the device was 34 cm down-
+stream the leading edge of the Sibal sample, 1 cm
+from the center line and 1 cm vertically away from the
+sample surface to probe the temperature of the plume.
+
+3. Methodology
+
+3.1. Theoretical model
+
+The basis of the color pyrometry technique is
+briefly described here. The methodology presented in
+this work allows the measurement of the soot temper-
+ature using a conventional color camera (CMOS), em-
+ploying a similar technique as developed by Jenkins
+and Hanson [16]. In this approach, the flame emis-
+sion is simultaneously captured at three broad spec-
+tral bands to then apply pyrometry analysis. Never-
+theless, is should be noted that the methodology pre-
+sented in Ref. [16] uses a pulsed laser to sequentially
+measure the soot concentration (laser extinction) and
+soot temperature (flame emission). In this case, dur-
+ing the SAFFIRE campaign only flame emission mea-
+surements were carried out. Thus a variation of the
+technique had to be considered.
+
+When imaging flames in spectral regions in which
+the emission is dominated by soot, the measured sig-
+nal intensity represents the soot emission integrated
+along the line-of-sight. However, the intensity of light
+reaching the photo-detector can be attenuated due to
+the absorption and scattering of adjacent soot parti-
+cles. Considering that the soot particle size is small
+enough to be within the Rayleigh regime, scattering
+effects can be neglected when compared with the ef-
+fect of absorption [17]. Thus, the soot emission along
+a line-of-sight l across the flame, at a wavelength λ,
+may be described by the radiative transfer equation
+(RTE) [18]
+
+dIλ
+dl
+
++ κλIλ = Jλ(l) (1)
+
+where Jλ(l) = κλI
+bb
+λ represents the emission of the
+
+flame. κλ is the soot absorption coefficient and Ibbλ is
+
+3
+
+
+
+the blackbody radiative intensity defined by Planck’s
+law at the soot temperature Ts, which in turn is as-
+sumed to be in local thermal equilibrium with the gas-
+phase. The solution of the radiative transfer equation
+along the line-of-sight of the photo-detector l allows
+the definition of the flame radiative intensity emitted
+and self-absorbed by soot particles for a given wave-
+length, Iλ, and can be expressed as:
+
+Iλ(l, Ts) =∫
+l
+
+κλ(l)I
+bb
+λ (Ts) exp
+
+[
+−
+∫
+l′
+κλ(l
+
+′) dl′
+]
+dl. (2)
+
+Assuming that the soot particles generated by the
+combustion process are small enough to be within
+the Rayleigh regime, the soot absorption coefficient
+can be related to the local soot volume fraction fv
+and the soot absorption function Em through κλ =
+fv6πEm/λ [17]. Here, the model of Chang and
+Charalampopoulos [19] is considered for the soot ab-
+sorption function. The exponential term in Eq. 2 rep-
+resents the self-absorption along the flame path to
+the photodetector. This term becomes important for
+flames with large optical thickness; however, it can
+be neglected if the flame is considered to be optically
+thin [20]. In the present work, the soot temperature is
+measured considering the flame to be optically thin,
+and thus the effect of the self-absorption term is ig-
+nored.
+
+When using an RGB camera, the radiative intensity
+of the flame Iλ is affected by the sensitivity of the de-
+tection system (ηλ). Furthermore, the photo-detector
+captures an intensity that is spectrally integrated in a
+broadband. Thus, the intensity captured by the sensor
+at each color channel can be defined as
+
+Si =
+
+∫
+λi
+
+ηλIλ(l, Ts)dλ, (3)
+
+with i ∈ {R, G, B}. Assuming that the soot volume
+fraction remains relatively constant along the optical
+path, a color pyrometry ratio can be defined as done
+in [13, 21],
+
+Θ2S =
+Si
+
+Sj
+=
+
+∫
+λi
+
+ηλ
+Em
+λ
+
+Ibbλ (Ts) dλ∫
+λj
+
+ηλ
+Em
+λ
+
+Ibbλ (Ts) dλ
+. (4)
+
+From Eq. 4, Ts can then be obtained by employing
+an iterative procedure in which experimentally ob-
+tained ratios of intensities captured (LHS) are com-
+pared with the values obtained from the theoretical
+model (RHS) evaluated at different Ts. Similarly, a
+three-color ratio can also be defined by using a modi-
+fied version of Eq. 4 with Θ3S = (SiSj)/(S
+
+2
+k) [21].
+
+3.2. Assessment of the model assumption
+
+A deconvolution procedure is needed to convert the
+line-of-sight integrated signal captured by the camera
+into the local properties of interest. Unfortunately,
+
+this procedure requires knowledge of the flame ge-
+ometry or the distribution of local properties within
+the flame, which is not the case for this micrograv-
+ity flame. For this reason, it is assumed that the
+flame properties can be represented by a mean value
+H̄i of the local flame emission Hi defined as Si =∫
+l
+Hi(l)dl where l is the optical path through the
+
+flame to the camera. Note that the self-absorption has
+been neglected. Thus, the integrated flame emission
+can be written as Si = H̄i∆l where the overbar de-
+notes the mean along the line-of-sight. As the optical
+length is equal for the different broadbands, consid-
+ering a mean Hi (or for constant properties along the
+optical path), a ratio of deconvoluted signals Hi (ΘH )
+is equivalent to a ratio of integrated signals Si (ΘS ,
+see Fig. 1 for reference of where the ratios are com-
+puted). This hypothesis is usually not fulfilled, but
+alleviates the need for knowledge of flame geometry.
+Therefore, its impact on the retrieved temperature is
+assessed on a well-known flame geometry. Although
+the nature and geometry of the flames compared here
+is different to those encountered during the µg exper-
+iments, the purpose of this section is to address the
+validity of the established assumptions in the pres-
+ence of high temperature and high soot volume frac-
+tion gradients along the medium.
+
+A laminar coflow ethylene-air diffusion flame was
+used for validating the methodology. Details of the
+experiments, calibration and simulations used in this
+section can be found elsewhere [21]. The deconvo-
+luted values of Hi are obtained either from exper-
+imental measurements or synthetic signals of Si at
+three broad spectral bands. A synthetic validation is
+first performed. For this purpose, simulations of the
+signals captured by the RGB camera channels were
+conducted, using simulated values of temperature and
+soot volume fraction from a CoFlame simulation [22]
+as described in detail in [21]. The line-of-sight inte-
+grated signals can then be treated to retrieve a tem-
+perature that can be compared against the reference
+temperature provided by the simulation, as done in
+Fig. 3. The retrieved temperatures using deconvolu-
+tion are very similar to the reference. The differences
+are attributed to the neglect of self-absorption for this
+procedure, a hypothesis that is required for the model.
+This effect is not important for low optical thickness,
+but may cause differences around 100 K for high soot
+volume fraction zones [23]. The temperatures re-
+trieved without deconvoluting the signals are shown
+on the second row of Fig. 3(a). These temperatures
+are always higher than those using deconvolution, es-
+pecially in zones near the flame centerline, where the
+flame optical thickness is highest and the hypothesis
+of constant properties along the camera line-of-sight
+is less correct. More detailed results supporting the
+discussion are shown on Fig. 3(b) through four radial
+profiles at different heights above the burner (HABs).
+Although the temperature retrieved without perform-
+ing the deconvolution procedure is incorrectly deter-
+mined as compared to the reference, its prediction is
+within 100 K and results on a higher temperature,
+
+4
+
+
+
+which can be thought as a safety margin for engineer-
+ing applications.
+
+Fig. 3: (a) Temperature fields of CoFlame (first column) and
+retrieved using the deconvoluted ratios ΘH (first row) and
+the ratios of signals captured by the camera ΘS (second row,
+not deconvoluted). Colorbars denote the temperature in K.
+(b) Temperature profiles for the R/G and BG/R2 signal ratios
+for four heights above the burner (HAB).
+
+To complement the numerical analysis, experimen-
+tal temperatures retrieved from the ratio of Hi are
+shown on the first row of Fig. 4(a), whereas those
+retrieved from the ratio of Si are shown on the sec-
+ond row. The classical behavior of the deconvolu-
+tion process is observed on the temperatures retrieved
+from local ratios of Hi, where the signal noise is
+propagated and enhanced toward the flame center-
+line. On the other hand, these issues are not ob-
+served by directly using the ratio of signals captured
+by the camera Si, presenting a smooth and more uni-
+form temperature field, at the cost of lower accuracy.
+Fig. 4(b) shows radial temperature profiles for four
+heights above the burner from 20 to 50 mm from de-
+convoluted (continuous) and integrated (dashed) ra-
+tios. Results are shown for the G/R and BG/R2 chan-
+nel combinations in red and black, respectively. The
+assumption of constant Hi within the optical path is
+propagated to the temperature radial profiles, which
+remain approximately constant until reaching a peak
+
+Fig. 4: (a) Experimental temperature fields retrieved using
+the deconvoluted ratios ΘH (first row) and the ratios of sig-
+nals captured by the camera ΘS (second row, not deconvo-
+luted). Colorbars denote the temperature in K. (b) Temper-
+ature profiles for the R/G and BG/R2 signal ratios for four
+heights above the burner (HAB).
+
+at the flame wings. Nevertheless, these results are
+within 100 K of difference with the deconvoluted re-
+sults, similar to numerical results. The maximum dif-
+ferences are observed near the flame centerline. The
+peak temperature is well captured in magnitude, but
+it is shifted between 0.1 to 0.3 mm toward the flame
+centerline as compared to the reference. The best
+agreement is found in regions where the optical thick-
+ness is low, i.e., low soot volume fraction and flame
+radius, such as the flame tip. This is observed on the
+profiles at an HAB = 50 mm. Although there are
+differences between the proposed and reference ap-
+proaches, these are not significant from an engineer-
+ing standpoint. Therefore, this methodology allows
+for estimation of the mean temperature values using a
+commercial RGB camera.
+
+3.3. Calibration procedure
+
+All the cameras used in the Saffire Experiments
+were previously calibrated following the NIST cali-
+bration standards using equipments certified in accor-
+dance with ANSI/NCSL Z540-1-1994 [24]. The cal-
+
+5
+
+
+
+ibration of the cameras was performed using a certi-
+fied blackbody source(Mikron M360) with tempera-
+tures that ranged between 973 and 1373 K. As part
+of this calibration procedure, images are taken in raw
+and bmp format under conditions of operation simi-
+lar to those considered for the experiments. Simulta-
+neously, multiple image settings are also considered.
+More specifically, the exposure time was varied be-
+tween 60 and 29997, and the gain value was changed
+between 0 and 39 dB.
+
+During the experiments, images of the flame as
+it spreads over the solid are recorded in RAW and
+JPEG formats. RAW images can then be postpro-
+cessed and converted to TIFF to proceed with the
+application of the broadband two color pyrometry
+(B2CP) technique presented above to probe temper-
+ature fields from the frames captured within visible
+spectrum. To ensure that no additional processing and
+alterations to the image are done during the conver-
+sion process, the (B2CP) technique is applied to the
+calibration images to verify the procedure. For this,
+the RHS of Eq. 4 was solved using the emissivity and
+temperature of the blackbody calibration source in-
+stead of the Em/λ and Ts terms, respectively. Figure
+5(a) shows a comparison between theoretical intensi-
+ties ratios (Si/Sj) presented as solid line functions
+and measured intensity ratios from calibration im-
+ages ((Si/Sj)exp)) shown as circular symbols. From
+the figure it can be noted that the measured inten-
+sity ratio and the expected value at the temperature of
+the furnace are clearly different, suggesting that the
+camera adds additional processing to the files when
+recording them. Furthermore, the intensity of the ob-
+ject recorded by the sensor depends directly on the
+camera settings used, which during the experiments
+were set automatically. Thus, a correction factor is
+needed in order to extract appropriate values.
+
+Given the dependence of the intensity data
+recorded by the sensor on the camera settings, a cor-
+rection factor was determined as a function of the ra-
+tio of intensities for each color ratio considered as
+
+β =
+(Si/Sj)
+
+(Si/Sj)exp
+. (5)
+
+The correction factor functions obtained from the cal-
+ibration images at know temperatures are shown in
+Fig. 6. It should be mentioned that, due to limita-
+tions of the equipment higher temperatures could not
+be tested during the calibration and thus an extrap-
+olation of the data had to be made. The correction
+factor functions, β, are then used to correct the ratio
+of SIBAL camera images ((Si/Sj)exp)] which will
+then be replaced on the LHS of Eq. 4. Figure 5(a) also
+shows the corrected intensity ratios using the correc-
+tion factor of Eq. 5. Figure 5(b,c,d,e) shows the tem-
+perature fields obtained from calibration images with
+the furnace at 1273 K and the correction factors calcu-
+lated. It is seen that with the correction factors, the ex-
+tracted temperature fields approximate very well the
+temperature of the furnace with the exception of the
+
+Fig. 5: (a) Comparison between theoretical (solid line func-
+tions) and measured intensity ratios with (squares) and with-
+out (circles) the correction factor. Temperature fields deter-
+mined with the calibration images at Tfurnace=1273K us-
+ing different color ratios (b,c,d,e) and the correction factors
+of Eq. 5
+
+G/R ratio. The discrepancies observed with the G/R
+ratio are generated because of the shape of the correc-
+tion factor (β) curve that when applied to the intensity
+ratios (Si/Sj) at lower temperatures generates more
+than one plausible solution for an intensity ratio.
+
+Fig. 6: Correction factor evolution as a function of tempera-
+ture of the imaged object.
+
+4. Flame temperature
+
+During the spread process, after ignition is
+achieved and the igniter is turned off, the flame
+
+6
+
+
+
+spreads uniformly along the surface of the sample. As
+the flame spreads over the composite fabric, it con-
+sumes most of the cotton, leaving behind the fiber-
+glass mesh and some smoldering cotton residue. Dur-
+ing this process, periodic images are taken of the
+spread process. These images are later corrected for
+perspective issues and processed to extract soot tem-
+perature. Considering that the initial purpose of the
+images recorded during the experiments was to use
+the data to visualize the flame and track its evolu-
+tion over time, i.e., pyrolysis length, flame size, etc.,
+the cameras used in the experiments were set to auto-
+matically modify their settings to better visualize the
+flames. Due to this, some of the images would present
+high levels of saturation, particularly near the center
+of the flame, making it impossible to extract any rele-
+vant information in the area. Thus, when performing
+the color pyrometry ratios, channels green and blue
+were preferred for determining the temperature.
+
+Fig. 7: Comparison between the original data [5] (top),
+B2CP temperature fields (center) and the temperature mea-
+surement from the thermocouple (bottom).
+
+Figure 7 shows the temperature field of the flame as
+determined by the B2CP technique. This image was
+selected to match the instant of time that the thermo-
+couple measuring above the surface, in the fire plume,
+reaches the peak recorded value (TCpeak), as shown
+in the bottom portion of Fig. 7. The thermocouple
+measurements have been corrected for radiation and
+convection effects [25]. From the figure it is seen
+that at the exact point of the thermocouple position,
+B2CP gives a temperature close to 1369 K which is
+relatively close to the 1426 K recorded by the device
+at the same instant in time. This comparison vali-
+dates both the technique and the correction functions
+
+previously determined. The relative uncertainty asso-
+ciated with the thermocouple reading has been esti-
+mated following the work of Ren et al. [26]. A rela-
+tive uncertainty for a type-R thermocouple of 0.25%
+is considered, thus resulting in an overall correction
+for radiation and convection effects of ± 6 K in the
+measured value. The error for B2CP technique was
+computed from a Monte Carlo propagation analysis,
+considering a conservative error of 5% on the signal
+ratio ΘG/R, resulting in 117 K of uncertainty for tem-
+perature determination. With this, both measurements
+are comparable within the error margin.
+
+Figure 8 shows flame images at different selected
+times after the test is initiated and ignition achieved,
+together with the corresponding temperature fields.
+At first, the flame shape for the large-scale sample
+looks a bit distorted because the camera’s field of
+view does not reach the entire sample holder. For
+the initial 120 s, the flame kept its symmetrical shape
+between the top and bottom part. After that, the top
+flame seems to be pushed closer to the surface, getting
+longer than the bottom flame. Towards the end of the
+spread, only small smoldering spots were left burn-
+ing some of the unconsumed fuel. The temperature
+fields of Fig. 8 show that during the spread process
+the flame temperature does not change very signifi-
+cantly, staying constant at an average of 1305 K soon
+after ignition and throughout the entire test. Lastly,
+when looking at the results presented in Figs. 7 and
+8, the reader should keep in mind that no tempera-
+ture values could be determined near the center of the
+flame (the most luminous part) because the saturation
+level presented by the raw images made it impossi-
+ble to extract any sort of useful information at those
+locations. Given that issue, temperature values were
+artificially set to 0 to be able to plot the entire flame
+field.
+
+5. Concluding remarks
+
+The present paper presents a methodology and
+analysis of broadband two color pyrometry technique
+applied to a spreading diffusion flame in micrograv-
+ity conditions. The proposed model is validated us-
+ing numerical simulations and experimental measure-
+ments of well-known coflow flames. The validation
+process supports the major assumptions of the analy-
+sis and shows that the technique provides an accept-
+able average temperature, although it is biased to-
+ward higher values. The processed RAW data from
+the recorded images results in temperature in accor-
+dance with thermocouple measurements of the plume
+obtained during the experiment. The information ex-
+tracted from the recorded images provides additional
+insights of the flame characteristics observed during
+the Saffire IV experiments, showing that the flame
+temperature remains relatively constant during the en-
+tire spread process. The application of this technique
+in this configuration can be coupled with soot volume
+fraction measurements in order to estimate the radia-
+tive heat flux emitted by the flame, in order to design
+
+7
+
+
+
+Fig. 8: A sequence of images from the spreading flame in a forced flow in microgravity conditions. Images on the left show
+snapshots as recorded from the camera after correcting for perspective issues [5]. Images on the right show the temperature
+fields obtained with the B2CP technique. All images have the same scale.
+
+fire safety strategies for spacecraft.
+
+Acknowledgments
+
+The authors acknowledge the support of the NASA
+Advanced Exploration Systems Division for the spon-
+sorship of the Spacecraft Fire Safety Demonstration
+Project and the Saffire experiments. The authors
+would also like to thank Grunde Jomaas, Augustin
+Guibaud, and Guillaume Legros for their insightful
+comments. Maria Thomsen would also like to thank
+Fondecyt 3200964.
+
+References
+[1] National Aeronautics and Space Administration,
+
+NASA-STD-6001B Flammability, Offgassing, and
+Compatibility Requirements and Test Procedures,
+Tech. Rep. I, Washington, DC (2011).
+
+[2] ECSS Secretariat, ECSS-Q-ST-70-21C Space product
+assurance - Flammability testing for the screening of
+space materials, Tech. Rep. February (2010).
+
+[3] D. L. Urban, P. Ferkul, S. Olson, G. A. Ruff, J. S.
+T’ien, Y.-t. T. Liao, A. C. Fernandez-Pello, J. L.
+Torero, G. Legros, C. Eigenbrod, N. Smirnov, O. Fu-
+jita, S. Rouvreau, B. Toth, G. Jomaas, Flame Spread
+: Effects of Microgravity and Scale, Combustion and
+Flame 199 (2019) 168–182.
+
+[4] G. Jomaas, J. L. Torero, C. Eigenbrod, J. Niehaus, S. L.
+Olson, P. V. Ferkul, G. Legros, A. C. Fernandez-Pello,
+A. J. Cowlard, S. Rouvreau, N. Smirnov, O. Fujita,
+J. S. T ’ien, G. A. Ruff, D. L. Urban, Fire safety in
+space – beyond flammability testing of small samples,
+Acta Astronautica 109 (2015) 208–216.
+
+[5] D. L. Urban, G. A. Ruff, P. Ferkul, J. Easton, J. Owens,
+S. Olson, M. Meyer, C. Fontenberry, J. E. Brooker,
+J. Graf, M. Casteel, B. Toth, F. Meyer, C. Eigenbrod,
+J. S. Tien, Y.-t. T. Liao, C. Fernandez-pello, G. Legros,
+
+A. Guibaud, N. Smirnov, O. Fujita, G. Jomaas, Fire
+Safety Implications of Preliminary Results from Saf-
+fire IV and V Experiments on Large Scale Spacecraft
+Fires, in: 50th International Conference on Environ-
+mental Systems, 2021.
+
+[6] G. A. Ruff, Microgravity Research in Spacecraft Fire
+Safety, Halon Options Technical Working Confer-
+ence (April) (2001) 13–22.
+
+[7] H. D. Ross, Basics of Microgravity Combustion, in:
+H. D. Ross (Ed.), Microgravity Combustion: Fire in
+Free Fall, 2001, Ch. 1, pp. 1–33.
+
+[8] S. Takahashi, M. Kondou, K. Wakai, S. Bhattachar-
+jee, Effect of radiation loss on flame spread over a
+thin PMMA sheet in microgravity, Proceedings of the
+Combustion Institute 29 (2002) 2579–2586.
+
+[9] J. Reimann, S. Will, Optical diagnostics on sooting
+laminar diffusion flames in microgravity, Micrograv-
+ity Science and Technology 16 (1) (2005) 333–337.
+
+[10] J. Reimann, S. A. Kuhlmann, S. Will, Investigations on
+soot formation in heptane jet diffusion flames by opti-
+cal techniques, Microgravity Science and Technology
+22 (4) (2010) 499–505.
+
+[11] K. J. Santa, B. H. Chao, P. B. Sunderland, D. L. Urban,
+D. P. Stocker, R. L. Axelbaum, Radiative extinction
+of gaseous spherical diffusion flames in microgravity,
+Combustion and Flame 151 (4) (2007) 665–675.
+
+[12] M. Zhu, H. Zhang, G. Tang, Q. Liu, J. Lu, G. Yue,
+S. Wang, S. Wan, Ignition of single coal particle in a
+hot furnace under normal- And micro-gravity condi-
+tion, Proceedings of the Combustion Institute 32 II (2)
+(2009) 2029–2035.
+
+[13] A. Guibaud, J. L. Consalvi, J. M. Orlac’h, J. M.
+Citerne, G. Legros, Soot Production and Radia-
+tive Heat Transfer in Opposed Flame Spread over
+a Polyethylene Insulated Wire in Microgravity, Fire
+Technology (2019).
+
+[14] A. Guibaud, J. M. Citerne, J. M. Orlac’H, O. Fujita,
+J. L. Consalvi, J. L. Torero, G. Legros, Broadband
+modulated absorption/emission technique to probe
+
+8
+
+
+
+sooting flames: Implementation, validation, and limi-
+tations, Proceedings of the Combustion Institute 37 (3)
+(2019) 3959–3966.
+
+[15] A. Guibaud, J. M. Citerne, J. L. Consalvi, J. L. Torero,
+O. Fujita, M. Kikuchi, P. V. Ferkul, N. Smirnov, G. Jo-
+maas, B. Toth, S. Rouvreau, G. Legros, Accessing the
+soot-related radiative heat feedback in a flame spread-
+ing in microgravity: Optical designs and associated
+limitations, in: Proceedings of the Combustion Insti-
+tute, Vol. 38, Elsevier Ltd, 2021, pp. 4805–4814.
+
+[16] T. P. Jenkins, R. K. Hanson, Soot pyrometry us-
+ing modulated absorption/emission, Combustion and
+Flame 126 (3) (2001) 1669–1679.
+
+[17] M. Modest, Radiative Heat Transfer, Academic Press,
+2013.
+
+[18] R. Viskanta, M. P. Mengüç, Radiation heat transfer in
+combustion systems, Progress in Energy and Combus-
+tion Science 13 (2) (1987) 97–160.
+
+[19] H. Chang, T. T. Charalampopoulos, Determination
+of the Wavelength Dependence of Refractive Indices
+of Flame Soot, Proceedings of the Royal Society
+A: Mathematical, Physical and Engineering Sciences
+430 (1880) (1990) 577–591.
+
+[20] F. Liu, K. A. Thomson, G. J. Smallwood, Soot tem-
+perature and volume fraction retrieval from spectrally
+resolved flame emission measurement in laminar ax-
+isymmetric coflow diffusion flames: Effect of self-
+absorption, Combustion and Flame 160 (9) (2013)
+1693–1705.
+
+[21] J. J. Cruz, F. Escudero, E. Álvarez, L. F. Figueira da
+Silva, G. Carvajal, M. Thomsen, A. Fuentes, Three-
+wavelength broadband soot pyrometry technique for
+axisymmetric flames, Optics Letters 46 (11) (2021)
+2654.
+
+[22] N. A. Eaves, Q. Zhang, F. Liu, H. Guo, S. B. Dworkin,
+M. J. Thomson, Coflame: A refined and validated nu-
+merical algorithm for modeling sooting laminar coflow
+diffusion flames, Comput. Phys. Commun. 207 (2016)
+464–477.
+
+[23] J. J. Cruz, L. F. F. da Silva, F. Escudero, F. Cepeda,
+J. C. Elicer-Cortés, A. Fuentes, Soot pyrometry by
+emission measurements at different wavelengths in
+laminar axisymmetric flames, Combustion Science
+and Technology 194 (8) (2022) 1643–1660.
+
+[24] American National Standard for Calibration, Calibra-
+tion laboratories and measuring and test equipment -
+General requirements, Tech. rep. (1994).
+
+[25] C. R. Shaddix, Correcting Thermocouple Measure-
+ments for Radiation Loss: A Critical Review, in: Pro-
+ceedings of the 33rd National Heat Transfer Confer-
+ence, Albuquerque, New Mexico, 1999, pp. 1–10.
+
+[26] X. Ren, D. Zeng, Y. Wang, G. Xiong, G. Agarwal,
+M. Gollner, Temperature measurement of a turbu-
+lent buoyant ethylene diffusion flame using a dual-
+thermocouple technique, Fire Safety Journal 120 (Jan-
+uary) (2021) 103061.
+
+9
+
+

@@ -1,0 +1,368 @@
+FORCED FORWARD SMOLDERING EXPERIMENTS ABOARD THE
+SPACE SHUTTLE
+A.C. Fernandez-Pello1, A. Bar-Ilan1, G. Rein1, D.L. Urban2, J.L. Torero 3
+1
+University of California, Berkeley, 94720, ferpello@me.berkeley.edu,
+2
+NASA Glenn Research Center, Cleveland, OH 44135
+3
+University of Maryland, College Park, MD 20742
+INTRODUCTION
+Smoldering is a basic combustion problem that presents a fire risk because it is initiated at low
+temperatures and because the reaction can propagate slowly in the material interior and go undetected
+for long periods of time [1]. It yields a higher conversion of fuel to toxic compounds than does flaming,
+and may undergo a transition to flaming. To date there have been a few minor incidents of overheated
+and charred cables and electrical components reported on Space Shuttle flights [2,3]. With the
+establishment of the International Space Station, and the planning of a potential manned mission to
+Mars, there has been an increased interest in the study of smoldering in microgravity.
+The Microgravity Smoldering Combustion (MSC) experiment is part of a study of the smolder
+characteristics of porous combustible materials in a spacecraft environment. The aim of the experiment
+is to provide a better fundamental understanding of the controlling mechanisms of smoldering
+combustion under normal- and microgravity conditions. This in turn will aid in the prevention and control
+of smolder originated fires, both on earth and in spacecrafts. The microgravity smoldering experiments
+have to be conducted in a space-based facility because smoldering is a very slow process and
+consequently its study in a microgravity environment requires extended periods of time. The
+microgravity experiments reported here were conducted aboard the Space Shuttle. The most recent
+tests were conducted during the STS-105 and STS-108 missions. The results of the forward smolder
+experiments from these flights are reported here. In forward smolder, the reaction front propagates in
+the same direction as the oxidizer flow. The heat released by the heterogeneous oxidation reaction is
+transferred ahead of the reaction heating the unreacted fuel. The resulting increase of the virgin fuel
+temperature leads to the onset of the smolder reaction, and propagates through the fuel. The MSC data
+are compared with normal gravity data to determine the effect of gravity on smolder.
+EXPERIMENTAL HARDWARE AND PROTOCOL
+MSC tests were performed in a 21.7 liter combustion chamber. The fuel sample consists of a
+polyurethane foam cylinder, 120 mm diameter by 140 mm long. The disc igniter consists of an
+electrically heated wire between ceramic discs. The oxidizer supply system provides a constant oxidizer
+mass flow through the foam sample. The fuel sample is instrumented with 10 thermocouples which
+provide a temperature history of the smolder propagation. In addition to the thermocouples, an
+ultrasound imaging system (UIS) consisting of 5 ultrasonic transducer pairs fixed along the sample is
+used to obtain average permeability measurements [4]. The UIS is able to image the location and
+velocity of the smolder front. The oxidizer used is air. The ignition is achieved by supplying a constant
+heat flux at the igniter end for 400 s. The overall assembly integrates into a Get Away Special Canister
+or GAS-CAN, which is flown in the Shuttle cargo bay.
+
+NASA/CP—2003-212376/REV1
+
+129
+
+The experiments reported here investigate the dependence of the forward smolder propagation
+velocity along the foam sample on the air flow. Polyurethane foam was selected as fuel because it is
+representative of materials commonly used on both earth and space based facilities, its material
+properties are well known, and it maintains its structural integrity upon smoldering. The forward flow
+smolder experiments of the STS-105 and STS-108 missions were conducted with a forced oxidizer
+flow velocity of 3 mm/s and 5 mm/s respectively.
+Results
+The thermocouples placed along the foam sample are used to calculate propagation velocity of the
+smolder reaction, as well as to provide information about the intensity of the smolder reaction. The UIS
+provide permeability data as well as a second method to measure the smolder propagation velocity. This
+work presents the first ultrasonic data obtained from a microgravity forward smoldering combustion
+experiment.
+For both normal- and microgravity experiments, temperature profiles along the foam centerline are
+presented in Fig. 1. and permeability histories are presented in Fig. 2.
+500
+Temperature [C]
+
+600
+
+400
+Temperature [C]
+
+500
+
+300
+200
+100
+
+400
+300
+200
+100
+
+0
+
+0
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+0
+
+Time [s]
+
+a)
+
+1500
+
+2000
+
+500
+
+400
+
+400
+Temperature [C]
+
+Temperature [C]
+
+1000
+Time [s]
+
+500
+
+300
+200
+100
+
+300
+200
+100
+
+0
+0
+
+500
+
+1000
+
+1500
+
+0
+
+2000
+
+0
+
+b)
+
+500
+
+c)
+
+d)
+
+Time [s]
+
+200
+
+400
+
+600
+
+800
+Time [s]
+
+1000
+
+1200
+
+1400
+
+Figure 1. Thermocouple histories for forced air velocity of (a) 3 mm/s for microgravity, (b) 3 mm/s for
+normal gravity, (c) 5 mm/s for microgravity and (d) 5 mm/s for normal gravity.
+
+In the 3 mm/s microgravity case, as the foam heats up the thermocouples near the igniter (TC 1 and
+2) reach a steady temperature of about 400°C, which is characteristic of foam oxidation. Thermocouple
+2 follows the same pattern but does not reach as high of a temperature. This is indicative of upstream
+consumption of oxygen. This is further evidenced with thermocouple 3 that stabilizes at about 320°C
+(which is a characteristic temperature for endothermic pyrolysis). As the igniter is turned off a slight
+decrease in temperature can be perceived at the surface of the foam. But it is followed past 500 s by a
+sudden generation of heat. Temperatures corresponding to the first 35 mm of the sample (TC 0-3)
+reach about 450°C, which is typical of char oxidation. A weak re-kindling of the reaction is observed on
+the temperature traces corresponding to thermocouples 5 and 6 (75 and 95 mm). The temperature
+traces show a reaction first driven by the igniter and then controlled by energy supply from the char
+oxidation in the first 35 mm of the foam. Char oxidation consumes the oxygen available and the foam
+
+NASA/CP—2003-212376/REV1
+
+130
+
+oxidation fades favoring pyrolysis. Once the char close to the igniter is consumed and the temperature in
+this region decreases, oxygen flows again and heat generation can be observed once more between 75
+and 95 mm. The reaction is not strong enough to progress through the pyrolyzed fuel and eventually
+extinguishes more than 35 mm away from the sample end. Figure 2(a) shows a dramatic increase in
+permeability that coincides in location with the regions where the temperature reached the highest value.
+1.00E-07
+
+Permeability [m2 ]
+
+Permeability [m2 ]
+
+1.00E-07
+
+1.00E-08
+
+1.00E-09
+
+1.00E-09
+
+1.00E-10
+
+1.00E-10
+0
+
+500
+
+a)
+
+1000
+Time [s]
+
+1500
+
+0
+
+2000
+
+c)
+
+500
+
+1000
+Time [s]
+
+1.00E-07
+
+Permeability [m2 ]
+
+1.00E-07
+
+Permeability [m2]
+
+1.00E-08
+
+1.00E-08
+
+1.00E-09
+
+1.00E-10
+
+1.00E-08
+
+1.00E-09
+
+1.00E-10
+0
+
+500
+
+b)
+
+1000
+
+1500
+
+2000
+
+0
+
+d)
+
+Time [s]
+
+500
+Time [s]
+
+1000
+
+Figure 2. UIS permeability histories for forced air velocity of (a) 3 mm/s for microgravity, (b) 3 mm/s for normal
+gravity, (c) 5 mm/s for microgravity and (d) 5 mm/s for normal gravity.
+
+The 3 mm/s normal gravity case in Fig. 1(b) shows a completely different scenario. The temperature
+increases due to the igniter and the first thermocouples reach the same plateau at approximately 400°C.
+It is important to note that the temperature increase is slowed down indicating larger losses than in the
+microgravity case. Once the plateau is reached the temperature immediately begins to decrease. Peak
+temperatures remain within ranges typical of smoldering. Char oxidation has no significant impact on the
+temperature traces. After 1000 s the reaction is about 35 mm away from the end of the sample and a
+gradual increase in the reaction rate throughout the entire foam follows. This effect is related to the
+decrease in pressure drop through the foam that allows an increase in the total contribution of buoyancy
+to the supply of oxidizer. An opposed smolder reaction through the char follows (at time greater than
+1300 s). A consistent increase in permeability is observed and at each stage of the propagation the
+change in permeability is smaller. Past 1000 s the increase in permeability continues showing peaks at
+the locations of the secondary opposed smolder reaction.
+Similar to the 3 mm/s microgravity case, the 5 mm/s microgravity case shows a reaction first
+controlled by the igniter but leading quickly to a strong secondary char oxidation. This secondary char
+oxidation consumes the oxygen supply, but not completely allowing for a much larger region of
+secondary char oxidation. Once this secondary char oxidation has consumed the available fuel, the
+oxygen supply is able to reach further downstream positions. However, the reaction does not extinguish
+like in the 3 mm/s case, since the supply of oxygen is greater in this case, and stimulates a strong
+rekindling of the smolder reaction which is able to propagate through to the end of the sample.
+
+NASA/CP—2003-212376/REV1
+
+131
+
+Despite the reduced number of experiments, some quantitative data can be obtained. Results for the
+smolder propagation velocity and smolder reaction temperature from both the normal gravity and
+microgravity tests are presented in Table 1. The results are divided into regions I, II, and III
+corresponding to the region influenced by the igniter, the middle region of the sample, and the region
+dominated by end effects, respectively.
+
+Forced
+Air
+Velocity
+[mm/s]
+3
+5
+
+Smolder Velocity
+[mm/s]
+
+Smolder Temperature
+[°C]
+Region
+Region I
+Region II Region III Region I Region II
+III
+0g
+1g
+0g
+1g
+0g
+1g
+0g 1g 0g 1g 0g 1g
+0.25 0.19 0.15 0.10
+0.12 399 396 406 355
+- 361
+0.40 0.24 0.23 0.16 0.25 0.22 398 398 428 387 375 406
+
+Table 1. Smolder propagation velocities and smolder temperatures from normal and microgravity experiments.
+
+A comparison between the temperature profiles in microgravity and in the normal-gravity case
+shows that the char temperature histories are significantly different between the two cases. In
+microgravity, the reduced heat losses leads to a hotter char, capable of sustaining a secondary char
+oxidation reaction but suppressing the smolder reaction through the consumption of the oxygen supply.
+In the low flow rate microgravity test, the subsequent smolder reaction is extinguished before
+propagating through the sample, whereas in the high flow rate microgravity test the increased oxygen
+supply is sufficient to sustain a smolder propagation through the entire sample. The normal-gravity tests
+display a markedly different behavior. The increased heat losses in normal-gravity force cooling of the
+char, which allows the forced air flow to pass through the char without significant consumption of the
+oxygen. This permits the smolder reaction to be sustained and propagate through the sample length at
+both low and high forced air flow rates.
+Concluding Remarks
+The present experiments, although limited, are unique in that they provide the only available
+information about forward smolder combustion in microgravity in sample sizes large enough to allow the
+self-propagation of the smolder reaction. The experimental results provide further verification about the
+smolder controlling mechanisms, and data for model verification. Currently the data are being used to
+verify a numerical model of smolder propagation. Finally, it should be emphasized that since the present
+conclusions are based on only two microgravity tests, it cannot be generalized until further tests are
+conducted.
+Acknowledgements
+This work was supported by NASA under grant NAG3-2026. The authors would like to
+acknowledge the comments and technical support of Dr. H.D. Ross and Franklin Vergili.
+References
+1. Ohlemiller, T.J., Prog. Eng. & Comb. Sci., 11:277 (1986).
+2. Ross, H.D., Natl. Fire Protection Assoc. Meeting, May (1996).
+3. Friedman, R., NASA TM-106403 (1994).
+4. Tse, S.D, Anthenien, R.A., Fernandez-Pello, A.C., Miyasaka, K., Comb. & Flame 116:120
+(1999).
+
+NASA/CP—2003-212376/REV1
+
+132
+

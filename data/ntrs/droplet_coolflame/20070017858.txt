@@ -1,0 +1,715 @@
+Paper # G18
+
+Topic: Spray
+5th US Combustion Meeting
+Organized by the Western States Section of the Combustion Institute
+and Hosted by the University of California at San Diego
+March 25-28, 2007.
+
+Microgravity Droplet Combustion in
+CO2 Enriched Environments at Elevated Pressures
+M. C. Hicks1 , V. Nayagam2 and F. A. Williams3
+1
+
+NASA Glenn Research Center, Cleveland, Ohio 44135, USA
+National Center for Space Exploration Research, Cleveland, Ohio 44135, USA
+3
+Center for Energy Research, Department of Mechanical and Aerospace Engineering,
+University of California at San Diego, La Jolla, California 92093-0411, USA
+2
+
+Microgravity droplet combustion experiments were performed in elevated concentrations of CO2 at
+pressures of 1.0 atm, 3.0 atm, and 5.0 atm to examine the effects of a radiatively participating suppression agent in space applications. Methanol and n-heptane droplets, with an initial diameter of 2.0 mm
+supported on a quartz ﬁber, were used in these experiments. The ambient O2 concentration was held
+constant at 21% and the CO2 concentrations ranged from 0% to a maximum of 70%, by volume with
+the balance consisting of N2 . Results from the methanol tests showed slight decreases in burning rates
+with increased CO2 concentrations at all ambient pressures. The n-heptane tests show slight increases
+in burning rates with increasing CO2 concentrations at each pressure level. Instantaneous radiative heat
+ﬂux was also measured using both a broadband radiometer (i.e., wavelengths from 0.6 µm to 40.0 µm)
+and a narrowband radiometer (i.e., centered at 5.6 µm with a ﬁlter width at half maximum of 1.5 µm).
+Radiative exchanges between the droplet and surrounding gases as well as the soot ﬁeld produce departures from the classical quasisteady theory which would predict a decrease in burning rates with
+increasing CO2 concentrations in microgravity.
+
+1.
+
+Introduction
+
+It has long been recognized that radiative heat transfer can play an important role in the effectiveness of gaseous extinguishing agents in low-gravity environments. The radiative properties of
+the gas phase surrounding the fuel source may signiﬁcantly alter Minimum Extinguishment Concentrations (MEC’s) which are often used as an engineering criterion for ﬁre suppression. The
+International Space Station currently employs CO2 for the ﬁre suppression system and a similar
+system remains a likely candidate for future extraterrestrial ﬁre suppression systems because of its
+ready availability and ease of cleanup after discharge. However, CO2 also has strong absorption
+bands in the infrared region of the electromagnetic spectrum and, as a consequence, may prove to
+be a less efﬁcient suppression agent in space applications where radiative thermal losses play a signiﬁcant role in ﬂame quenching. If the gases surrounding a reduced-gravity ﬂame absorb radiative
+energy then the increased temperatures of the surrounding gases, which are not convected away
+because of the absence of buoyant convection, will result in an increase in energy feedback to the
+fuel.
+The effectiveness of CO2 as a suppressant in space applications has been studied using a variety of
+ﬂame conﬁgurations and numerical models. An opposed-ﬂow conﬁguration was used to compare
+1
+
+5th US Combustion Meeting – Paper # G18
+
+Topic: Spray
+
+ﬂame spread rates over solid fuels in the presence of different diluents [1]. In that study it was
+found, when comparing MEC’s, that helium was a more effective suppressant than CO2 . In a numerical study using opposed jet-diffusion ﬂames it was found that argon becomes more effective
+than CO2 as a suppressant in low stretch-rate environments [2]. In a recent numerical study investigating cup-burner ﬂames in zero gravity it was found that radiative losses become the dominant
+process in thermal quenching. In that study it was reported that the MEC for CO2 increased by
+32% compared to similar normal-gravity ﬂames [3].
+In contrast to those results, recent work investigating methanol droplets burning at elevated CO2
+concentrations with a constant volume fraction of 21% O2 showed little change in the ratio of the
+radiative heat loss to the total heat release [4]. Here it was suggested that because of the small
+length scales associated with the 2 mm fuel droplets the increased radiative emissions from the
+radiating volume of CO2 and product species were largely offset by decreases in ﬂame temperature
+resulting from the higher effective speciﬁc heat of the gas mixture. More recently, results from a
+series of normal gravity experiments investigating n-heptane droplets in elevated concentrations of
+CO2 in 21% O2 have been reported [5]. This work showed a dramatic decrease in soot formation
+in the presence of CO2 and an initial decrease in radiative emissions up to the point when soot was
+no longer present at which point radiative emissions began to increase.
+A series of experiments designed to isolate the effects of the interaction between a radiatively participating suppression agent and a low-gravity ﬂame have been performed. In addition to elevating
+ambient CO2 concentrations, experiments have been performed at elevated pressures, effectively
+varying radiative length scales, and with both non-sooting and sooting fuels (i.e., methanol and
+n-heptane). These experiments serve as a follow-on to earlier work [4] and are a precursor to future suppressant ﬂight experiments planned for the International Space Station.
+2.
+
+Experimental Procedure
+
+Experiments were conducted using experimental hardware and approaches similar to that already
+reported in earlier work [4, 6] and only an overview is presented here. All tests were performed in
+the NASA Glenn Research Center’s Zero Gravity Facility (ZGF) allowing a microgravity duration
+of approximately 5.0 seconds. Droplets of either methanol or n-heptane were suspended on a
+110 µm quartz ﬁber. Initial droplet diameters were 2.0 mm ± 0.15 mm for the n-heptane droplets
+and were 2.0 mm ± 0.20 mm for the methanol droplets. Ignition was accomplished with a hotwire igniter made using 29 gauge Kanthal wire and this was placed approximately 1.0 mm from
+the droplet surface. The igniter was energized by a constant current of 4.3 amps for 1.6 seconds,
+after which it was retracted from the ﬂame zone by actuation of a rotary solenoid. Diagnostics
+consisted of a wide-band radiometer (i.e., wavelengths ranging from 0.6 µm to 40 µm) and a
+narrow-band radiometer (i.e., centered at 5.6 µm with a ﬁlter width at half maximum of 0.15 µm).
+The sampling frequency for the two radiometers was 100 Hz. Two color cameras were used for
+ﬂame and droplet imaging and a digital image acquisition system was used to acquire images every
+1/30th of a second.
+Prior to each test, a target atmosphere was established through partial-pressure mixing of air with a
+gas blend consisting of 21% O2 and 79% CO2 , by volume. This effectively displaces atmospheric
+N2 with CO2 while holding the O2 concentration constant at 21%. Using this approach, test atmo2
+
+5th US Combustion Meeting – Paper # G18
+
+Topic: Spray
+
+spheres ranging from 0% CO2 to 71% CO2 were obtained for total pressures of 1 atm, 3 atm, and
+5 atm by adding the required amount of air.
+The test conditions, along with the initial droplet diameter, D0 and the average experimental
+burning-rate constant, Kexp , are presented in Table 1 for both methanol and n-heptane. Initial
+droplet diameters are determined from the droplet projected area while suspended in 1-g immediately prior to energizing the igniter. The volume of the suspended droplet is obtained by integrating
+the projected area from the backlit image and rotating this about the axis of symmetry. An effective
+droplet diameter is then calculated by assuming the volume of fuel is spherical in shape. The slope
+of the square of the instantaneous droplet diameter, D(t)2 , plotted against time after 0.75 seconds
+from ignition is used to obtain average experimental burning-rate constants.
+3.
+
+Results and Discussion
+
+Droplet regression rates were measured and used in determining the average burning-rate constants. These are compared with theoretical calculations at the various test conditions (i.e., pressure and CO2 concentrations) for each fuel type. Flame shapes are characterized by plotting the
+ratio of ﬂame diameter to droplet diameter, and representative images of the ﬂames at 1.0 second
+and 4.0 seconds after ignition are presented. Finally, peak radiation measurements are presented
+for the broad-band radiometer at each of the ambient pressures and the ratio of the narrow-band
+radiometer to broad-band measurement is compared at 1 atm and 5 atm ambient pressures.
+3.1
+
+Burning Rates
+
+Theoretical burning-rate constants, Kcal , for each of the test conditions presented in Table 1 were
+calculated using the following formula [7]:
+Kcal = 8
+
+λg
+ln (B + 1) .
+ρl · Cpg
+
+(1)
+
+The thermal conductivity, λg , and the speciﬁc heat, Cpg , of the gas mixture of the inner region
+¯
+between the droplet surface, rs , and the ﬂame, rf , are calculated at an average temperature, T .
+¯ = (Ta + Tb )/2 , where, Ta is the adiabatic ﬂame temperature and Tb
+This temperature is given by T
+is the fuel’s boiling temperature at the appropriate ambient test pressure. Variations of the droplet
+density, ρl , with Tb at each test pressure were considered. The adiabatic ﬂame temperature is
+obtained using the Chemical Equilibrium with Applications [8] (“CEA”) computer code allowing
+for dissociation of the various equilibrium reaction species for the different pressures and different
+CO2 concentrations at which the experiments were performed. The transfer number, B , deﬁned
+as the ratio of energy released from the combustion reaction to the energy required to evaporate
+the liquid fuel, is given by the following formula when the temperature of the droplet is assumed
+uniform and equal to the fuel’s boiling temperature, Tb , and when it is assumed that the O2 mass
+fraction equals zero at the fuel surface (i.e., Yo,l = 0 ) [9].
+B=
+
+∆H · f · Yo,∞ + Cpg (T∞ − Tb )
+L
+3
+
+(2)
+
+5th US Combustion Meeting – Paper # G18
+
+Topic: Spray
+
+Table 1: Microgravity droplet combustion tests performed at pressures of 1 atm,
+3 atm, and 5 atm in 21% O2 and ambient CO2 concentrations ranging from 0% to 71%,
+by volume.
+
+CO2
+
+methanol
+Do (mm)
+
+CO2
+
+P∞ = 1 atm
+0%
+11%
+20%
+22%
+36%
+40%
+55%
+70%
+
+1.90
+1.81
+1.97
+1.96
+1.85
+1.91
+1.85
+2.03
+
+P∞ = 3 atm
+0%
+21%
+35%
+50%
+70%
+
+1.89
+2.05
+2.05
+1.84
+1.90
+
+P∞ = 5 atm
+0%
+20%
+41%
+51%
+69%
+
+2.03
+2.24
+2.07
+2.14
+1.88
+
+0.65
+0.60
+0.63
+0.59
+0.53
+
+4
+
+1.87
+2.08
+1.97
+1.93
+1.96
+1.86
+1.95
+1.87
+2.08
+2.05
+1.97
+1.96
+2.03
+1.82
+
+0.58
+0.61
+0.68
+0.68
+0.62
+0.59
+0.62
+0.55
+0.57
+0.62
+0.61
+0.64
+0.60
+0.60
+
+1.97
+1.87
+2.08
+2.02
+1.97
+1.91
+1.87
+1.96
+2.06
+1.94
+
+0.94
+0.90
+0.96
+0.91
+0.90
+0.98
+1.05
+0.99
+0.95
+0.97
+
+P∞ = 5 atm
+0%
+10%
+31%
+41%
+60%
+70%
+71%
+
+0.61
+0.60
+0.63
+0.57
+0.53
+
+Kexp (mm2 /s)
+
+P∞ = 3 atm
+0%
+12%
+15%
+17%
+22%
+30%
+51%
+65%
+70%
+77%
+
+0.54
+0.54
+0.54
+0.54
+0.54
+0.50
+0.52
+0.52
+
+n-heptane
+Do (mm)
+
+P∞ = 1 atm
+0%
+10%
+10%
+11%
+16%
+21%
+31%
+40%
+41%
+50%
+54%
+55%
+65%
+70%
+
+Kexp (mm2 /s)
+
+2.02
+1.87
+2.01
+1.89
+1.92
+1.87
+2.01
+
+1.04
+1.02
+1.12
+1.19
+1.10
+1.01
+1.13
+
+5th US Combustion Meeting – Paper # G18
+
+Topic: Spray
+
+In the above formula, Yo,∞ , is the ambient oxygen mass fraction, L , is the heat of vaporization of
+the liquid fuel, Cpg , is the speciﬁc heat of fuel vapor, f , is the stoichiometric fuel/oxygen mass
+ratio, and, ∆H , is the heat of reaction per unit mass. Values for L were obtained for the different
+values of Tb for each of the test pressures.
+As recommended by Law and Williams [7] the thermophysical properties of the inner region’s
+gas phase mixture were determined using only fuel vapor for the values of Cpg and a composition comprising a mixture of fuel vapor, reaction products, and the ambient inerts (i.e., various
+concentrations of CO2 and N2 depending on the test conditions). This can be summarized by the
+following expressions:
+λg = 0.4 λf + 0.6 ( λpr+inerts )
+
+(3)
+
+Cpg = Cpf
+
+(4)
+
+In Figure 1 experimental burning-rate constants for methanol are plotted against the theoretical
+burning-rate constants. Results show reasonably good agreement between experiment and theory with all points falling within 10% error bands, which are shown on the plot. This agreement
+even holds at the higher test pressures suggesting that the d2 -law theory captures most of the
+physics. This is understandable because during methanol droplet combustion very little soot formation was observed and radiation effects play a minor role for initial droplet diameters below
+2 mm. A similar observation was reported by Bae and Avedisian [10] for nonane droplets burning
+in helium/nitrogen environments. Their experimental results showed that when the helium concentrations in the ambient were increased beyond a certain level, soot formation was suppressed due
+to lowered ﬂame temperatures and the burning rate followed the classical d2 -law behavior.
+In Figure 2, experimental burning-rate constants for n-heptane are plotted against theoretical burningrate constants. Here results show a substantial increase in burning rate with ambient pressure; as
+much as 79% for n-heptane droplets burning in air at 5 atm compared to 1 atm. Clearly the simpliﬁed d2 -law theory is not able to predict the increase in burning rate with pressure. At higher
+pressures n-heptane droplets soot profusely even at increased CO2 concentrations leading to an increase in luminous radiation (see Figure A-2). This increased radiation could lead to heat loss from
+the ﬂame zone reducing the burning rate, or, the fuel droplet could absorb an increased amount of
+radiant energy from the gas phase causing an increase in burning rate [11]. Earlier studies investigating the effects of initial droplet size of sooting droplets showed that an increase in sooting with
+initial droplet size actually decreases the burning rate. However, in this study where an increase
+in sooting is brought about by increasing ambient pressures, the burning rate increases with the
+increased sooting propensity.
+This observation might lead one to conclude that an increased radiation absorption by the droplet
+causes this increase in burning rate. However, we have also observed that at higher pressures the
+ﬂame shapes are not spherical and are highly distorted with agglomerated soot particles breaking
+through the ﬂame. The soot particle dynamics induces mixing in the gas phase and causes nonspherical soot-shell motions which may also enhance the heat transfer to the droplet surface leading
+5
+
+5th US Combustion Meeting – Paper # G18
+
+Topic: Spray
+
+0.8
+
+0.7
+
+Kexp
+
+mm2
+s
+
+0.6
+
+0.5
+
+1 atm:
+
+0%
+
+40% CO2,
+
+40% CO2
+
+0% CO2,
+
+0%
+
+40% CO2,
+
+40% CO2
+
+5 atm:
+
+0.4
+
+0% CO2,
+
+3 atm:
+
+0.4
+
+0% CO2,
+
+0%
+
+40% CO2,
+
+40% CO2
+
+0.5
+
+0.6
+Kcal
+
+0.7
+
+0.8
+
+mm2
+s
+
+Figure 1: Experimental burning rates for methanol droplets plotted against theoretical burning rates
+with XCO2 ranging from 0% to 70% (mole fraction), Do = 2.0 mm±0.20 mm, and ambient pressures
+at 1 atm, 3 atm, and 5 atm. Experimental results are within ± 10% of the theoretical calculations
+as shown by the upper and lower error bands at ± 10% of the theoretical values.
+
+1.3
+1.2
+1.1
+1.0
+
+0.8
+
+Kexp
+
+mm2
+s
+
+0.9
+
+0.7
+0.6
+
+1 atm:
+
+0%
+
+40% CO2,
+
+40% CO2
+
+0% CO2,
+
+0%
+
+40% CO2,
+
+40% CO2
+
+5 atm:
+
+0.5
+
+0% CO2,
+
+3 atm:
+
+0% CO2,
+
+0%
+
+40% CO2,
+
+40% CO2
+
+0.4
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+Kcal
+
+0.8
+mm2
+s
+
+0.9
+
+1.0
+
+1.1
+
+1.2
+
+1.3
+
+Figure 2: Experimental burning rates for n-heptane droplets plotted against theoretical burning
+rates with XCO2 ranging from 0% to 70% (mole fraction), Do = 2.0 mm ± 0.15 mm, and ambient
+pressures at 1 atm, 3 atm, and 5 atm. Experimental results for 1 atm are within ± 10% of theoretical
+calculations as shown by upper and lower error bands at ± 10% of theoretical values.
+
+6
+
+5th US Combustion Meeting – Paper # G18
+
+Topic: Spray
+
+to an increased observed burning rate. It is also interesting to note that at a given pressure the
+burning rate increases by a small amount with increasing concentrations of CO2 , which is a trend
+not seen in the methanol experiments.
+3.2
+
+Flame Shape
+
+Flame shape is characterized by plotting the ratio of ﬂame diameter, Df , to the droplet diameter,
+d , against time and this is presented in Figure 3 for methanol droplets. At 1 atm there is a slight
+decrease in ﬂame standoff ratio as the CO2 concentration is increased. The ﬂame standoff ratio
+remains almost a constant with time indicating quasi-steady burning behavior. At higher ambient
+pressure (see Figure 3b) the ﬂame standoff ratio is practically independent of the CO2 concentration
+and slightly lower compared to the one atmospheric cases. Furthermore, the standoff ratio initially
+increases with time indicating unsteady burning behavior caused by a longer droplet heating period
+due to increased boiling point of methanol with pressure.
+Figure 4 shows the ﬂame standoff ratio plotted against time for heptane at 1 atm and 5 atm. At 1
+atm the ﬂame standoff ratio is practically independent of CO2 concentration and increases steadily
+throughout the burning period. At 5 atm the standoff ratios increase much more steeply with time
+and there is considerable variation with CO2 concentration. The steeper increase is primarily due
+to gas phase unsteadiness inherent with heptane due to its stoichiometry. One the other hand, the
+variations with CO2 can be attributed to the difﬁculties in exactly locating the ﬂame front from
+the experiment video images. At higher pressures n-heptane soots profusely and the soot shell
+develops instabilities leading to a non-spherical ﬂame appearance making it difﬁcult to precisely
+locate the ﬂame front.
+Typical methanol and n-heptane ﬂame images at different CO2 concentrations at both 1 atm and
+5 atm are shown in Figures A-1 and A-2 in the Appendix. It can be seen from these images that
+there is evidence of incipient sooting for methanol at 5 atm in 0% CO2 concentration which begins
+to disappear as the CO2 concentration is increased. The ﬂame images for n-heptane at 1 atm show
+signiﬁcant sooting in air which diminishes as CO2 concentrations are increased. However, at 5 atm
+the sooting tendency, although somewhat diminished with increasing CO2 concentrations, was still
+very pronounced for all ambient CO2 concentrations.
+3.3
+
+Flame Radiation
+
+Plots of the maximum radiant ﬂux measured by the broad-band radiometer as a function of CO2
+concentration are shown in Figure 5 for methanol and heptane at 1 atm, 3 atm, and 5 atm. For
+methanol there is little variation in the maximum radiant ﬂux with pressure and this decreases
+only slightly with increased CO2 . This is understandable because, as explained earlier, there is
+little variation in the sooting intensity with pressure for methanol and the reduction in maximum
+radiant output can be attributed to the reduction in ﬂame temperature with increased CO2 . On
+the other hand, the overall maximum radiant output is higher for n-heptane compared to methanol
+and it shows a substantial increase with pressure. This is primarily due to the increased sooting of
+heptane droplets with pressure. The residence time, tres , for fuel molecules in the region between
+the droplet surface and the ﬂame varies as, tres ∼ P/K 2 [10]. For n-heptane, P/K 2 , increases
+7
+
+5th US Combustion Meeting – Paper # G18
+
+Topic: Spray
+
+Figure 3: Ratio of ﬂame diameter, Df , to droplet diameter, d , for methanol ﬂames in 1 atm (a) and 5 atm (b)
+with ambient XCO2 mole fractions ranging from 0% (dashed blue curve) to 70% (solid blue curve).
+
+Figure 4: Ratio of ﬂame diameter, Df , to droplet diameter, d , for n-heptane ﬂames in 1 atm (a) and
+5 atm (b) with ambient XCO2 mole fractions ranging from 0% (dashed blue curve) to 71% (solid blue curve).
+
+8
+
+5th US Combustion Meeting – Paper # G18
+
+Topic: Spray
+
+Figure 5: Maximum broad-band radiation from methanol ﬂames (a) and n-heptane ﬂames (b) with O2 mole
+fraction constant at 21% plotted against CO2 mole fractions ranging from 0% to 70% and at pressures of
+1 atm, 3 atm, and 5 atm.
+
+as we go from 1 atm to 5 atm pressure and consequently the soot formation and its broad-band
+radiation increases.
+It is interesting to plot the ratio of the narrow-band radiation, which has been selectively ﬁltered
+to detect radiation from the water vapor, to the broad-band radiation as a function of CO2 concentrations. This is shown for methanol in Figure 6 and for n-heptane in Figure 7 for both 1 atm
+and 5 atm. Here it is seen that there is a slight increase in the ratio of narrow-band to broad-band
+radiation with increased CO2 concentrations at 1 atm and a more pronounced increase in this ratio
+at 5 atm. For heptane droplets, where luminous radiation from soot dominates, the changes in this
+radiation ratio are not as substantial compared to methanol as one might expect. Further studies
+are needed to quantify these observations.
+4.
+
+Concluding Remarks
+
+Microgravity droplet combustion experiments were performed in elevated concentrations of CO2
+at pressures of 1.0 atm, 3.0 atm, and 5.0 atm to examine the effects of a radiatively participating
+suppression agent in space applications. Methanol and n-heptane droplets, with an initial diameter
+of 2.0 mm were used in these experiments. The ambient O2 concentration was held constant at
+21% and the CO2 concentrations ranged from 0% to a maximum of 71%, by volume, with the
+balance consisting of N2 .
+Results from the methanol tests show a slight decrease in burning rates with increased CO2 concentrations at all ambient pressures. The experimental results correlate, at all test pressures, within
+10% of the theoretical results calculated using the d2 -law formulation. This close correlation suggests that the d2 -law captures most of the physics for methanol droplets with initial diameters of
+2.0 mm burning in high ambient CO2 concentrations at pressures ranging from 1 atm to 5 atm.
+The n-heptane tests show slight increases in burning rates with increasing CO2 concentrations at
+9
+
+5th US Combustion Meeting – Paper # G18
+
+Topic: Spray
+
+Figure 6: Ratio of narrow-band radiation to broad-band radiation for methanol ﬂames in 1 atm (a) and 5 atm
+(b) with ambient concentrations of CO2 varying from 0% to 70%.
+
+Figure 7: Ratio of narrow-band radiation to broad-band radiation for n-heptane ﬂames in 1 atm (a) and 5
+atm (b) with ambient concentrations of CO2 varying from 0% to 70%.
+
+10
+
+5th US Combustion Meeting – Paper # G18
+
+Topic: Spray
+
+each pressure level. The correlation of experimental results with theoretical calculations is within
+10% for all CO2 concentrations at 1 atm. However, a signiﬁcant departure from the simpliﬁed theoretical predictions is observed at the higher test pressures of 3 atm and 5 atm. At these pressures
+sooting increases and this has a signiﬁcant impact on the burning rates. Instabilities in the soot shell
+quickly develop resulting in greater mixing of the gases in the inner region and this, combined with
+the increased radiation from soot, increases the heat transferred to the droplet surface.
+Flame shapes are characterized by plots of the ratio of ﬂame diameter to droplet diameter. Results
+show little dependency with increased CO2 concentrations at both 1 atm and 5 atm for both fuels.
+However, for n-heptane at 5 atm the ﬂame standoffs show considerable variations with increasing
+CO2 concentrations. This is due, in part, to the gas phase unsteadiness inherent with n-heptane
+ﬂames and, in part, to the difﬁculty in accurately deﬁning ﬂame diameters due to the increased
+presence of soot.
+The maximum radiation from the broad-band radiometer at each of the test pressures was plotted
+against the CO2 concentrations. The methanol tests showed no pressure effect on the maximum
+radiation whereas the n-heptane tests show signiﬁcant increases with pressure. When the ratio of
+narrow-band radiation to broad-band radiation (i.e., the ratio of water vapor emissions to broadband emissions) is plotted against time for a range of CO2 concentrations at 1 atm and 5 atm
+there is a clear increase with CO2 concentrations in the methanol ﬂames that is not as apparent
+with the n-heptane ﬂames. The changes in the ratio of narrow-band to broad-band radiation with
+increased CO2 appear to be dominated by the changes in sooting intensity as CO2 concentrations
+are increased; however, this requires further study.
+Acknowledgments
+The authors would like to thank Eric Neumann, the facility manager of the Zero Gravity Facility,
+and his staff for helping with the experiments. This work was supported by the Glenn Research
+Center’s Microgavity Fire Safety Research program.
+References
+[1] L. Honda and P. D. Ronney. Combustion Science and Technolgy, 133 (1998) 267–291.
+[2] F. C. Frate, H. Bedir, C. J. Sung, and J. S. Tien. Proceedings of the Combustion Institute, 28 (2000) 2047–2054.
+[3] V. R. Katta, F. Takahashi, and G. T. Linteris. Combustion and Flame, 137 (2004) 506–522.
+[4] M. C. Hicks, N. Kaib, J. Easton, V. Nayagam, and F. A. Williams. Radiative heat loss measurements during
+microgravity droplet combustion in a slow convective ﬂow. Proceedings of the 3rd Joint Meeting of the U.S.
+Sections of the Combustion Institute, 2003.
+[5] J. Dzik, V. Nayagam, and F. A. Williams. Ignition and combustion of n-heptane droplets in carbon dioxide
+enriched environments. Proceedings of the Central States Section’s Spring Technical Meeting of the Combustion
+Institute, May 2006.
+[6] M. Ackerman, V. Nayagam, M.C. Hicks, and F.A. Williams. Combustion of droplets in steady and unsteady
+ﬂows in microgravity. 43rd AIAA Aerospace Sciences Meeting, 2005.
+[7] C.K. Law and F.A. Williams. Combustion and Flame, 19 (1972) 393–405.
+
+11
+
+5th US Combustion Meeting – Paper # G18
+
+Topic: Spray
+
+[8] Bonnie J. McBride and Sanford Gordon. Computer program for calculations of complex chemical equilibrium
+compositions and application, Vol. II. Technical Report NASA RP-1311, NASA, June 1996.
+[9] Forman A. Williams. Combustion Theory : The fundamental theory of chemically reacting ﬂow systems. Benjamin/Cummings, Menlo Park, CA etc., 1985.
+[10] J. H. Bae and C. T. Avedisian. Combustion and Flame, 145 (2006/5) 607–620.
+[11] C. T. Avedisian. Journal of Propulsion and Power, 16 (2000/5) 628–635.
+
+Figure A-1 Methanol droplet ﬂames in 1 atm and 5 atm with ambient concentrations of CO2
+varying from 0% to 70% and with time after ignition at 1 second (left) and 4 seconds (right).
+
+12
+
+5th US Combustion Meeting – Paper # G18
+
+Topic: Spray
+
+Figure A-2 Heptane droplet ﬂames in 1 atm and 5 atm with ambient concentrations of CO2
+varying from 0% to 70% and with time after ignition at 1 second (left) and 4 seconds (right). A
+dashed circle is overlaid on the actual outer edge of the ﬂame for the 1 atm tests at 54% CO2
+and 71% CO2 at 4 seconds following ignition to highlight the positions of these extremely faint
+ﬂames.
+
+13
+

@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recent Research on Flames of Gaseous Fuel 
+Aboard the International Space Station
+
+Dennis P. Stocker, NASA Glenn Research Center, Cleveland, OH, USA
+
+National Aeronautics and Space Administration
+
+JASMAC-33, 13-15 October 2021
+Above: Norishige Kanai at the Combustion Integrated Rack (CIR) [ISS055e096658] 1
+
+
+
+National Aeronautics and Space Administration JAXA astronaut Norishige Kanai reconfiguring a CIR camera [ISS055e096568] 2
+
+Better burning on Earth through ISS research
+• WHAT? 
+
+• Advanced Combustion via Microgravity Experiments (ACME)
+• 6 independent studies of laminar, non-premixed flames of gaseous fuels
+
+• WHY?
+• Energy & environment with improved efficiency & reduced pollutant emission in practical terrestrial combustion via 
+
+benchmark microgravity data and resulting improvements in computational modeling, design tools, etc.
+
+Microgravity flame advantages?
+• No flicker
+• Spherical flames
+• Large length scales
+• Long residence times
+• Momentum-dominated at low velocities, etc.
+
+• Spacecraft fire safety
+• HOW?
+
+• Modular hardware and the Combustion Integrated Rack (CIR)
+• ISS crew configure hardware
+• Tests remotely commanded from NASA Glenn
+
+• WHEN?
+• ISS operations began Sept. 2017 and are still ongoing
+• ISS testing for 4 of 6 studies complete 
+• 5th is almost done
+
+
+
+National Aeronautics and Space Administration CIR with chamber open; ACME chamber insert held by Kate Rubins [ISS064e029405] 3
+
+Modular experimental hardware
+Combustion 
+Integrated Rack (CIR) 
+• ~100-liter chamber 
+• gas supply & venting 
+• imaging, etc.
+
+ACME chamber insert
+• exchangeable burner 
+• hot-wire igniter
+• gas delivery
+• flame instrumentation 
+
+such as radiometers, 
+photomultiplier tubes, 
+fibers for Thin Filament 
+Pyrometry (TFP)
+
+• experiment-specific 
+hardware, etc.
+
+• Combustion Integrated Rack (CIR)
+• ACME chamber insert
+
+
+
+National Aeronautics and Space Administration Example BRE flames, where the sooty top image is just after ignition. 4
+
+Burning Rate Emulator (BRE)        ISS tests complete
+
+• Objective: Determine burning conditions in still atmospheres as a function of 
+material properties. 
+
+• Selected Findings: 
+Hazard! Low-momentum microgravity flames can burn for minutes in the 
+
+absence of an air flow or flame spread.
+
+Oxygen While the flames can burn for minutes in elevated oxygen 
+concentrations, like those being considered for future spacecraft, they 
+were found to self-extinguish in concentrations below ~25% (by volume).
+
+Size While smaller flames can burn for minutes at elevated oxygen 
+concentrations, larger flames were generally seen to self-extinguish 
+within 1.5 minutes. 
+
+Fuel While ethylene flames at elevated oxygen concentrations can burn for 
+minutes, methane flames were seen to self-extinguish within a minute. 
+
+• Significance: Spacecraft fire prevention, including (1) microgravity flammability 
+conditions and (2) assessment of flammability test methods for spacecraft materials.
+
+• Investigators: Jim Quintiere & Peter Sunderland (University of Maryland), John de Ris (FM Global, retired)
+
+
+
+National Aeronautics and Space Administration
+
+Flame 
+lifting
+
+5
+
+Coflow Laminar Diffusion Flame (CLD Flame)
+• Investigators: Marshall Long & Mitch Smooke (Yale University)
+
+• Objective: Improve computational flame models with benchmark quantitative data for sooty and extremely 
+diluted microgravity flames. 
+
+• Selected Findings: 
+❶ Sooty microgravity flames are taller & wider and contain 5x to 8x more soot than equivalent 1G flames. 
+❷ Microgravity increases the limits of fuel dilution.  Near limits, microgravity flames are more stable, 
+
+allowing for lifted flames at lower fuel concentrations.
+
+• Significance: Should lead to significant improvements in combustion simulation capabilities and contribute 
+to new design tools. 
+
+Soot volume fraction per C2H4 concentration
+
+0G  1G 0G  1G 0G  1G
+❶
+
+0G1G
+
+10 cm/s
+
+0G1G
+
+20 cm/s
+
+0G1G
+
+30 cm/s
+
+0G1G
+
+40 cm/s
+
+CH* profile as a function of matched fuel and coflow velocities
+
+❷
+
+
+
+National Aeronautics and Space Administration 6
+
+Cool Flames Investigation with Gases (CFI-G) almost
+• Investigators: Peter Sunderland (U. Maryland), Rich Axelbaum (Wash. U. in St. Louis), Forman Williams (UC San Diego)
+
+• Objective: Observe non-premixed quasi-steady spherical cool flames on porous burners.
+
+• Selected Finding: Observed the first spherical, quasi-steady, burner-supported cool flames!
+
+• Significance: Improved and quantitative understanding of cool flame chemistry is critical to advanced engine design
+concepts that can simultaneously increase efficiency and reduce pollutant emissions.
+
+Composite time sequence: 
+❶ quenching of a hot flame 
+
+due to radiative heat loss 
+❷ ~1-s dark period 
+
+❸ appearance of a cool flame
+much smaller than hot flame.  
+
+Intensified camera imaging
+with filter for formaldehyde 
+
+emissions associated with cool 
+flame chemistry.
+
+6.35-mm porous 
+spherical burner
+
+❶ ❷
+
+❸
+
+
+
+National Aeronautics and Space Administration 7
+
+Electric-Field Effects on Laminar Diffusion Flames (E-FIELD Flames)
+• Investigators: Derek Dunn-Rankin & Yu-Chien (Alice) Chien (University of California, Irvine)
+
+~2.5
+
+~1.0
+
+~1.8
+
+0G
+
+1G
+
+• Objective: Understand chemi-ionization in flames and the interplay 
+between ion generation and ion-driven flows.
+
+• Selected Findings: 
+❶ There are clear correlations between flame luminosity, 
+
+combustion intensity, and ion current.
+
+❷ Highly-diluted flames can be stabilized with very weak electric 
+fields.
+
+❸ In microgravity, flames exhibit a distinct peak ion current that 
+corresponds to the most compact flame.
+
+• When soot is present in a flame, electric fields create a wide 
+range of behaviors.
+
+• Significance: Ion transport and induced ion wind can modify the 
+flame shape, alter the soot or flammability limits, direct heat 
+transfer, and reduce pollutant emission.
+
+❶
+❸❷
+
+
+
+National Aeronautics and Space Administration
+
+Flames with a variety of sooting characteristics
+
+8
+
+Flame Design normal flames complete; inverse flames to be conducted
+• Investigators: Rich Axelbaum (Washington University in St. Louis), Peter Sunderland (University of Maryland)
+
+• Objective: Improve understanding of soot inception and control.
+
+• Selected Findings:
+❶ Flame size increases with reactant flow rate and decreases with ambient oxygen concentration.
+
+❷ Large flames increase in size over time until the flame extinguishes due to radiative heat loss.
+
+• Before total extinction, these flames experience an unstable, oscillatory mode, in which they partially
+extinguish and reform. The oscillations grow in magnitude until total extinction.
+
+❸ Very small flames have low radiative loss and asymptotically approach steady-state behavior.
+
+• Significance: Optimization of O2-enriched combustion and the “design” of non-premixed flames that are both robust
+and soot free.
+
+❶
+
+❷
+
+❸
+
+
+
+National Aeronautics and Space Administration TFP fibers are 14-micron silicon carbide (SiC) 9
+
+Structure and Response of Spherical Diffusion Flames (s-Flame)
+• Investigators: C.K. (Ed) Law (Princeton University), Stephen Tse (Rutgers University)
+
+• Objective: Characterize and gain predictive capability of spherical diffusion flames; interrogate and possibly modify
+chemical kinetic mechanisms and transport sub-models.
+
+• Selected Findings:
+• Both radiative and kinetic (i.e., convective) extinction of the spherical flames appear to have been observed.
+
+• Radiative extinction seems to occur at high flow rates and kinetic extinction at low flow rates. The latter may seem
+counterintuitive but at low flow rates the flames are close to the burner where the velocities are highest.
+
+• With helium, rather than nitrogen, dilution of both the fuel and oxygen, the extinction limits are shifted and kinetic
+extinction is generally difficult to discern.
+
+• Significance: Relevant to energy conversion, pollutant formation, green house gas emission, and fire safety.
+
+LEFT: Gray-scale images 
+of 3 nitrogen-diluted CH4
+flames, where Thin 
+Filament Pyrometry (TFP) 
+measurements are being 
+made in 2 tests.
+
+False-colored He-
+diluted H2 flame 
+in an O2/He 
+atmosphere with 
+TFP diagnostic.
+
+
+
+National Aeronautics and Space Administration 10
+
+QUESTIONS?
+
+Long        Law      Sunderland    Tse     Axelbaum          King             Smooke      Dunn-Rankin     Urban            Stocker 
+Yale      Princeton     Maryland    Rutgers    Wash. U.         NASA HQ               Yale                UC Irvine       NASA Glenn     NASA Glenn
+
+CLD Flame   s-Flame          BRE, CFI-G,      s-Flame         CFI-G,                                               CLD Flame    E-FIELD Flames
+Flame Design                     Flame Design   
+
+With grateful acknowledgement to the investigators, graduate students, engineers, operations team, ISS crew, 
+and all others who have contributed to the success of the research. 
+
+• www1.grc.nasa.gov/go/acme
+• www.facebook.com/space.flames
+• www.flickr.com/photos/space-flames
+
+LEARN 
+MORE
+
+https://www1.grc.nasa.gov/go/acme
+http://www.facebook.com/space.flames
+http://www.flickr.com/photos/space-flames
+
+
+ACME chamber insert
+
+• Crew-exchangeable & removeable hardware
+• Burner, igniter arm & tip
+
+• Mass Flow Controllers (MFCs)
+
+• High-voltage power supply & electrode mesh
+
+• Analog operations camera
+
+• Thermocouple rake
+
+• Photomultiplier Tube modules (PMTs)
+
+• Radiometer array
+
+National Aeronautics and Space Administration 11
+
+NASA astronaut Christina Koch reconfiguring the ACME 
+chamber insert for a different experiment [ISS059e017074] 
+
+Key elements of the chamber insert
+
+

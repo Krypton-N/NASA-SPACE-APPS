@@ -1,0 +1,2209 @@
+PHYSICAL
+
+AND
+
+CHEMICAL
+
+ASPECTS
+
+OF
+
+EXTRATERRESTRIAL
+F. Takahashi
+1National
+
+Institute
+
+IN
+
+ENVIRONMENTS
+
+Research
+
+on Fluids and Combustion,
+
+of Standards
+
+3Innovative
+
+SUPPRESSION
+
+1, G. T. Linteris 2, and V. R. Katta 3
+
+Center for Microgravity
+2National
+
+FIRE
+
+Scientific
+
+and Technology,
+Solutions,
+
+Cleveland,
+
+Washington,
+
+Inc., Dayton,
+
+Ohio
+
+D.C.
+
+Ohio
+
+INTRODUCTION
+A fire, whether
+mission
+
+termination
+
+excellent,
+Space
+
+Station
+
+of longer
+
+(ISS) increases
+
+The fire safety
+
+principles
+
+sources
+
+oxygen
+
+flammability
+
+models,
+
+chemistry;
+
+variables
+
+and surface
+which
+
+basic
+
+the development
+
+environment
+
+associated
+
+bases
+
+include
+
+and to provide
+
+including
+
+The
+
+and chemical
+
+materials
+
+objectives
+
+of this
+
+to simulate
+
+various
+
+research
+
+descriptions
+
+results
+
+useful
+
+of new fire-extinguishing
+
+with ISS and in the partial-gravity
+
+study
+
+are:
+
+to obtain
+and
+
+environments,
+and
+
+advances
+
+and approaches,
+
+in the
+
+gravity
+
+rigorous
+
+of combustion
+
+Martian
+
+upon
+
+eliminating
+
+using
+
+extraterrestrial
+
+for technological
+agents
+
+termination
+largely
+
+greatly
+
+to provide
+
+to
+
+has been
+
+on fire suppression
+
+of fh'e suppression,
+
+in Mars and moon missions;
+
+lead
+
+the International
+
+is based
+
+and
+
+conducted
+
+processes
+
+comprehensive
+
+missions
+
+or aboard
+
+flight program
+
+has been
+
+environment.
+
+can
+
+with more limited mission
+
+space
+
+of on-board
+
+as independent
+
+spacecraft
+
+analytical
+
+manned
+
+bases,
+
+record of US space
+
+of fire events,
+
+of physical
+
+concentration
+
+on extraterrestrial
+
+to Mars, the moon,
+
+As a result, very little research
+
+knowledge
+
+including
+
+the fire-safety
+
+of NASA's
+
+the
+
+spaces
+
+missions
+
+the likelihood
+
+program
+
+or reduced-gravity
+
+fundamental
+
+While
+
+duration
+
+of controlling
+
+of ignition.
+
+microgravity
+
+or in occupied
+
+or loss of life.
+
+the advent
+
+options.
+the
+
+in a spacecraft
+
+testing
+
+of
+
+suppression
+in fire safety,
+
+in the microgravity
+
+and lunar environments.
+
+MOTIVATION
+As the planned
+Mars
+
+and the moon,
+
+key issues
+must
+exert
+
+tailored
+
+distinct
+
+to respond
+
+the
+
+are possible.
+
+to the
+
+conditions
+
+influences
+
+fire-spread
+
+unusual
+
+fire
+
+structure,
+
+data
+
+combustion
+
+for thin-paper
+
+fuels
+
+(Martian)
+
+environments
+
+partial-gravity
+In quiescent
+a fire
+into
+
+microgravity
+
+suppression
+the
+
+convection
+conditioning
+
+flame
+
+agent
+zone.
+
+(typically
+and
+
+NASA/CP--2001-210826
+
+peculiar
+
+bases
+
+on
+
+the understanding
+Fire safety
+
+in low-gravity
+
+to extraterrestrial
+
+and, in turn, on the various
+
+at normal
+
+represents
+
+[2] showed
+
+and
+
+technology
+
+environments.
+applications
+
+physical
+
+may
+
+and chemical
+
+and/or
+
+cooling
+
+(1 g) are justified
+
+case".
+
+However,
+
+because
+
+by the view
+the
+
+flame
+
+various
+fire phenomena
+may not be simply
+For example,
+the flammability
+and flame
+
+that the maximum
+
+the solid
+
+its decomposed
+
+a continuous
+
+component
+
+gravity
+
+flame-spread
+
+rate
+
+occurred
+
+in
+
+(0.38 g).
+
+environments,
+
+Nonetheless,
+
+earth
+
+a "worst
+
+structure
+significantly
+differs with the gravity level,
+interpolated
+from results in normal and microgravity.
+spread
+
+[1] reviewed
+environments.
+
+characteristics
+
+usage
+
+human-occupied
+
+and agent effectiveness.
+
+tests on the ground
+
+buoyancy-aided
+
+long-term,
+
+Friedman
+
+extraterrestrial
+
+and agent
+
+on the flame
+
+in fire suppression
+
+Materials
+
+aim to establish
+
+in the low-gravity
+
+environmental
+
+processes
+
+missions
+
+fire incidents
+
+of fire safety
+
+be
+
+Unusual
+
+that
+
+extraterrestrial
+
+inhibition
+
+spacecraft
+flow
+[3].
+
+fuel combustion
+
+and
+
+in
+
+the
+
+For
+
+thin
+
+417
+
+species
+
+surface
+range
+
+of
+
+cellulosic
+
+intensities
+may
+
+base
+
+are reduced,
+
+also diffuse
+
+atmospheres
+
+6 to
+fuels,
+
+20
+
+cm/s)
+
+more
+include
+
+for
+
+low-velocity
+
+yet
+
+slowly
+forced
+
+atmospheric
+forced
+
+flow
+
+greatly
+
+increases
+
+application
+
+the flame
+
+spread
+
+rate and
+
+of a fire-extinguishing
+
+current
+of agent-air
+interaction
+with the
+evacuate
+
+the crew
+
+agent
+
+toward
+
+range
+
+to a safe haven
+
+and then
+
+[1, 4].
+The depressurization
+and stabilization
+of the fire
+
+occur.
+
+In a
+
+1-g
+
+experiment,
+
+at the free
+
+depressurize
+
+the module
+
+flame
+
+was
+
+up to ~3 m/s [5, 6].
+
+missions,
+
+may
+
+established
+
+atmosphere,
+result
+
+fires.
+
+conditioning
+Such high
+
+likely
+
+in intense
+
+The
+
+Shuttle
+
+prior to extravehicular
+oxygen
+concentration
+
+February
+
+1997,
+
+difficulty
+
+in predicting
+
+caused
+
+by
+
+to be used
+
+burning
+
+Space
+
+A fire suppressant
+effectiveness
+
+environments.
+production
+iSS
+
+uses
+
+existing
+replace
+systems
+situ
+
+the
+
+failure
+fire
+
+itself such
+various
+
+The
+
+and
+
+and
+
+very
+
+the Shuttle
+
+due to its high
+
+as the
+
+[4].
+
+utilization
+agents
+
+for long-duration
+missions,
+under some conditions.
+RESEARCH
+
+agent,
+
+and
+
+serious
+
+surface
+
+attached
+
+bases
+
+difficulties
+that
+
+in
+
+are
+
+generator,
+
+but these
+
+the
+
+can yield
+
+Martian
+
+suppression
+
+missions
+
+halon
+
+atmosphere
+
+example
+the
+
+aboard
+
+(CF3Br);
+
+the
+
+potential
+
+[9].
+
+Although
+
+the
+
+are
+
+ultimately
+
+ISS, alternatives
+CO2)
+
+as
+
+the
+
+and are unlikely
+
+efficient
+
+oxidizer
+
+in the
+
+extinction.
+
+Because
+
+extinction
+
+concentrations
+
+fraction
+
+to
+
+to the CO2
+of in-
+
+agent
+
+[4].
+
+to be used
+
+and may be appropriate
+
+APPROACH
+
+gravity
+conditions,
+the cup burner
+effectiveness
+by the fire protection
+
+standards
+
+needed
+
+and extinguishment
+
+(95.3-vo1%
+more
+
+1301
+
+In this study, both experimental
+and computational
+approaches
+are pursued.
+The
+include
+both normaland reduced-gravity
+tests using the drop tower and aircraft.
+
+flowing
+
+of the
+oxygen-
+
+atmospheres.
+extraterrestrial
+
+inefficient.
+
+byproducts,
+
+they are an order-of-magnitude
+
+crew
+
+depletion
+
+ozone
+
+for habitation
+
+and corrosive
+
+of
+
+for
+
+at 70.3 kPa [3].
+The Mir fire in
+
+suppressing
+
+or techniques
+
+can be developed
+toxic
+
+with
+
+are relatively
+
+agents
+
+Mars
+
+in oxygen-enriched
+atmospheres
+to the earth atmosphere
+[8].
+
+stratospheric
+
+agents
+
+new
+
+to the
+
+in the
+
+prescribed
+
+is a good
+
+[3] and
+
+extinguishers
+
+for long-duration
+
+Innovations
+using
+
+fire
+
+to be used,
+
+system;
+
+and
+
+be used in crew-compartment
+to be studied
+in realistic
+
+uses
+
+halon
+
+are desirable
+chemical
+
+may possibly
+types needs
+
+banned
+
+continue
+
+stable
+
+suppression
+
+in spacecraft
+
+Shuttle
+
+may
+
+to extinguish
+
+interaction
+
+environments
+
+of a solid-oxygen
+scenarios
+
+CO2
+
+agent
+
+and
+is to
+
+in 1 g [7], but unsteady
+
+cause
+
+ISS
+
+Space
+
+CO2 or H20
+systems
+
+as
+
+a substantial
+dispersion
+procedure
+
+vortex-flame
+
+in spacecraft
+
+has been
+
+of which
+
+resource
+
+Although
+
+of
+
+cause
+
+activities
+are 30-vo1% oxygen
+in nitrogen
+causes
+attendant
+increased
+fire hazards.
+
+potential
+
+In addition,
+
+in an attempt
+
+The unsteady
+
+assisted fires. Although
+microgravity
+flame-spread
+experiments
+have been conducted
+[2], the agent performance
+data is limited
+
+The
+
+may
+
+changing
+the agent
+fires, a last-resort
+
+leading
+to local extinction
+has been studied
+numerically
+phenomena
+are unstudied
+for low-gravity
+environments.
+Oxygen-enriched
+
+fire
+
+[2].
+
+may induce a significant
+airflow,
+which could augment
+in a recirculation
+zone behind
+an obstruction
+could also
+
+a step-stabilized
+
+air velocity
+
+in microgravity
+
+an established
+
+mixture
+and alter the fire dynamics,
+flame zone.
+Finally,
+for uncontrollable
+
+the fire
+burning,
+obstruction
+
+flammability
+
+are based
+
+its structure
+determined
+
+on the cup-burner
+
+of fire suppression
+
+NASAJCPn2001-210826
+
+cup-burner
+
+agents
+
+apparatus
+community.
+system
+resembles
+
+experiments
+For normal
+
+is the most widely
+used test for suppressant
+An agent is generally
+introduced
+into the coto determine
+a fire,
+
+great
+
+the
+faith
+
+critical
+has
+
+in the cup burner
+
+experiment,
+
+values
+
+been
+
+a cup burner,
+
+[8]. Using
+
+will be measured
+
+418
+
+for selected
+
+agent
+placed
+
+and many
+fuels
+
+the critical
+with
+
+mole
+
+fraction
+
+at
+
+in suppressant
+
+codes
+
+and
+
+design
+
+extinction
+
+mole
+
+variable
+
+gravity
+
+and
+
+oxygen
+
+concentration
+
+gravity
+
+to the vast
+
+chemical
+
+effects
+
+variable
+
+gravity
+
+in the oxidizer.
+existing
+
+of agents
+and
+
+dispersion,
+
+and
+
+structure.
+
+Chemical
+
+aspects
+
+suppression
+
+(radical
+
+1 shows
+
+structure
+
+recombination
+
+in the
+
+as well
+
+include
+
+obtained
+
+and suppression
+
+concentration
+
+entrainment
+
+tests will connect
+
+extinction
+
+impacts
+
+as the
+
+Then,
+
+in reduced
+physical
+
+and
+
+will be determined
+
+Physical
+
+thermal
+
+on agent
+
+and entrapping),
+
+processes
+
+oxidizer.
+
+the remits
+
+in 1 g.
+
+aspects
+
+effects
+
+of the
+
+effectiveness,
+
+agent
+
+mechanistic
+
+and the effect of flame
+
+with
+
+include
+
+agent
+
+on
+
+flame
+
+processes
+
+structure
+
+of
+
+on a shift in
+
+reactions.
+
+Figure
+
+cup-burner
+
+on flame
+
+on flame
+
+oxygen
+
+injection,
+
+important
+
+Such
+
+database
+
+conceptual
+
+burner
+
+is the standard
+
+agents
+
+and fuels
+
+schematics
+
+burner
+
+used
+
+for the critical
+
+gravity.
+
+in normal
+
+The standard
+
+30 mm and 80 mm, respectively.
+sheet
+
+and uniform
+
+properties
+
+In addition,
+
+an agent
+
+flow-flame
+
+interaction
+
+interferometry,
+color
+
+of the burner
+
+the path,
+
+can be injected
+
+toward
+
+studies.
+image
+
+have
+
+a longer
+
+optical
+
+are advantageous
+formed
+
+techniques
+standard
+
+to
+
+color
+
+axisymmetric
+
+measurements
+
+has the cup and
+
+the flat flame
+
+velocimetry,
+
+fraction
+
+The
+
+for various
+
+chimney
+
+diameters
+
+path along
+for optical
+
+used
+
+include
+
+videography
+
+and
+
+of
+
+the flat flame
+measurements.
+
+on the step burner
+
+be
+
+cup
+
+for the agent
+Mach-Zehnder
+
+high-speed
+
+digital
+
+in the
+
+oxidizer,
+
+imaging.
+
+Major
+
+parameters
+
+oxidizer
+
+to be varied
+
+velocity,
+
+CI-I4/N2/O2,
+
+and
+
+liquids:
+
+types
+
+n-CTHI6,
+
+are
+
+the gravity
+
+of agent,
+
+fuel,
+
+and solids:
+
+compounds
+chemical
+
+provide
+effect.
+
+to determine
+that
+
+a homologous
+
+The
+
+the
+
+iron
+
+limit
+
+Fe(CO)s
+
+up
+
+series
+
+compound
+
+of what
+
+reactions
+
+proceeding
+
+as a diagnostic
+
+tool to determine
+
+and diluents
+
+behaves
+
+include
+
+physical
+
+chemical
+
+as a nearly
+gas-kinetic
+
+from gas-phase
+
+fraction
+
+include
+
+gases:
+
+ideal
+
+as a potential
+
+In
+
+but increasing
+agent,
+
+Recent
+
+catalytic
+
+agent,
+
+[10, 11].
+
+Hence,
+
+radical
+
+CH4/N2,
+
+increasing
+chemical
+These
+halogenated
+
+contributions
+
+inhibition.
+
+rates
+
+CH4,
+
+N2, CO2, He, and Ar.
+
+which have an
+(or ferrocene).
+
+not to so much
+
+through
+
+at nearly
+
+mole
+
+Fuels
+
+with very similar
+
+is included,
+
+the effect
+
+oxygen
+
+diluent.
+
+study agents
+and Fe(CO)5
+
+is possible
+
+to 100 ppm
+
+recombination
+
+level,
+
+and
+
+3[CH20];
+
+addition
+to 1'42, CO2, H20, we will also
+contribution;
+namely
+CF4, CF3H, CF3Br,
+
+shown
+
+mole
+
+burner
+
+which
+
+Diagnostic
+
+particle
+
+agent
+
+The 2D burners
+along
+
+configurations.
+
+recombination
+
+but rather
+
+research
+
+with
+
+has
+
+the radical
+
+it can be added
+alone.
+
+J
+j,J
+
+!
+
+(a)
+Fig.
+
+I Burner
+
+(d) step burner
+NASA/CP--2001-210826
+
+configurations.
+with agent
+
+(b)
+
+(c)
+cup burner,
+
+(a) Axisymmetric
+injection.
+
+F: fuel, O:
+419
+
+(d)
+
+(b) 2D cup burner,
+
+oxidizer,
+
+and S: suppressant.
+
+(c) step burner,
+
+Computations
+combustion
+various
+
+and
+
+two-dimensional
+CKMech).
+
+different
+
+(known
+
+to explore
+
+play
+
+including
+
+fire
+
+and
+[12]),
+
+role
+levels
+
+which
+
+processes
+
+using
+
+includes
+
+(GRI Mech)
+
+comprehensive
+
+jet diffusion
+
+resulting
+
+from
+
+in
+
+an existing
+
+and halogenated
+
+pure-methane-air
+
+inhibition
+
+in understanding
+
+suppression
+
+oxygen
+
+diluents
+
+oscillating,
+
+the chemical
+
+an important
+
+unsteady
+
+gravity
+
+as UNICORN
+
+combustion
+A periodically
+
+[13] studied
+
+flames
+
+In this study,
+
+under
+
+code
+
+for the CH4-O2
+
+(NIST
+
+recently
+
+diffusion
+
+phenomena.
+
+will be simulated
+
+models
+
+chemistry
+been
+
+unsteady
+
+suppression
+
+flames
+
+transient
+kinetic
+
+of laminar,
+
+CHF3.
+
+agent
+
+flame
+
+has
+
+Furthermore,
+
+additional
+goals of the project include extension
+of the code to higher hydrocarbon
+fuels such as
+C3H8 and n-C7HI6,
+incorporation
+of a radiation
+model
+and the detailed
+kinetics
+models
+for
+various
+fire suppressants,
+comparison
+with benchmark
+
+and evaluation
+experiments.
+
+of various
+
+models
+
+developed
+
+in this
+
+study
+
+by
+
+a
+
+ACKNOWLEDGMENTS
+This work
+was supported
+by the
+Aeronautics
+and Space Administration,
+
+Office
+of
+Washington,
+
+Biological
+DC.
+
+and
+
+Physical
+
+Research,
+
+National
+
+REFERENCES
+1.
+2.
+
+Friedman,
+
+R., Fire safety
+
+Sacksteder,
+
+K.
+
+extinction
+1685-1692
+
+R.,
+
+in extraterrestrial
+
+and
+
+T'ien,
+
+in partial-gravity
+(1994).
+
+3.
+
+Friedman,
+R.,
+209285,
+1999.
+
+4.
+
+_on.,
+
+Fire
+
+Technology,
+
+on
+
+in the
+
+research
+
+NASA/CP-
+
+"Buoyant
+
+for
+
+space
+
+Takahashi,
+Stabilized
+
+F., Schmoll,
+Nonpremixed
+
+6.
+
+Takahashi,
+
+F., Schmoll,
+
+7.
+
+Obstruction-Stabilized
+Takahashi,
+F., and
+
+NASA/TM-
+
+downward
+
+Proceedings
+
+low-gravity
+
+1998-207431,
+
+5.
+
+Proceedings
+
+S.,
+
+accelerations,"
+
+safety
+
+Workshop
+
+J.
+
+environments,
+
+spacecraft
+
+W. J., Strader,
+
+E., and
+
+Belovich,
+
+Institute,
+
+Vol. 26, 1151-1160
+NFPA
+
+9.
+
+United
+Agents
+
+Nations
+Environment
+Programme
+(UNEP),
+Technical
+Options Committee,
+1994.
+
+Report
+
+11. Linteris,
+
+W.,
+
+Linteris,
+
+andFlame,
+
+G. T., Rumminger,
+
+G.
+
+13. Katta,
+Premixed
+
+V.
+
+R.,
+
+and
+
+Journal
+
+of Visualization,
+
+and
+
+Flames,"
+
+No. AIAA-2001-1075,
+
+NASA/CP--2001-210826
+
+T.,
+
+and
+
+M. D., Babushok,
+
+W. M.,
+
+UNICORN,"
+
+Katta,
+
+Roquemore,
+39th AIAA
+January
+
+and
+
+Process
+of
+
+Step-
+
+Behavior
+
+of
+
+(1996).
+2001,
+
+1999.
+
+of the
+
+Reinelt,
+
+D.,
+
+Halon
+
+Fire
+
+"Chemical
+
+Extinguishing
+
+limits
+
+to flame
+
+115, 551 (1998).
+
+ferrocene,
+and blends of inert and catalytic
+Vol. 28 (2000) (in press).
+12. Roquemore,
+
+25,
+
+and Technology
+(2000) (in press).
+mechanisms
+of diffusion
+flames,"
+
+Systems,"
+
+Tsang,
+
+Fire Extinguishing
+
+Combustion
+
+Sciences
+
+V. M., "Suppression
+
+"Clean
+
+V.,
+
+and
+
+Vol.
+
+NASA/TM-1999-
+
+and Belovich,
+V. M., "Suppression
+and Flame,
+122, 105-116 (2000).
+
+NFPA,
+
+inhibition,"
+
+spread
+
+Institute,
+
+1998.
+
+8.
+
+10. Babushok,
+
+1998.
+
+flame
+
+environment,
+:Piiysical
+
+Pool Flames,"
+Combustion
+Science
+Katta, V. R., "Unsteady
+extinction
+
+Agents
+
+diffusion
+
+of The Combustion
+
+exploration:
+
+W. J., Strader,
+E.,
+Flames,"
+Combustion
+
+of The Combustion
+
+1998-207417,
+
+agents,"
+
+V. R., "Role
+W.
+
+V. I., and Tsang,
+Proceedings
+
+of flow
+
+M.,
+
+"Role
+
+of CHF3
+
+Sciences
+
+2001.
+
+420
+
+Meeting
+
+"Flame
+
+inhibition
+
+of The Combustion
+
+visualization
+
+Vol. 2, No. 3/4, 257-272
+
+Aerospace
+
+W.,
+
+in the
+
+by
+
+Institute,
+
+development
+
+of
+
+(2000).
+
+in Extinguishing
+and Exhibit,
+
+Diffusion
+Reno,
+
+NV,
+
+and
+Paper
+

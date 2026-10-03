@@ -1,0 +1,920 @@
+REFLIGHT
+
+OF THE SOLID
+
+OPPOSED-FLOW
+
+FLAME
+
+SURFACE.COMBUSTION
+SPREAD
+
+OVER
+
+SUBRATA
+
+BHATTACHAR.IEE
+San Diego State University
+San Diego, California
+
+EXPERIMENT:
+
+CYLINDRICAL
+
+FUELS 1
+
+_
+C39: -
+
+f
+__
+
+._.
+"7
+
+J,"7 ':'
+_
+
+-
+
+and
+Robert A. Altenkirch ]/Regis Worley 2/Lin Tang 1, Matt Bundy I/Kurt Sacksteder _/Michael A. Delichatsios
+IWashington State University, Pullman, Washington/2San
+Diego State University, San Diego, California/
+3NASA Lewis Research Center, Cleveland, Ohio/4Factory
+Mutual Research, Norwood, Massachusetts
+
+4
+
+,
+
+Introduction
+Although much has been learned about flame spreading at low gravity from recent experimental
+and theoretical efforts (see, e.g.,
+refs. 1-3) understanding
+of the role of radiation heat transfer is limited. The difficulty lies in the fact that the modelling that must
+be done in concert with a limited number of low-gravity experiments to assist in interpretation
+of experimental
+results is
+complicated by several factors when radiation is involved. Although the process of radiative heat transfer is well described by the
+radiative transfer equation (RTE), the solution of the RTE itself is cumbersome,
+and almost always approximate
+due to, among
+other things, the three-dimensional
+nature of the radiative field, spectral and temperature dependence
+of properties,
+soot
+formation, turbulence-radiation
+interaction, and inhomogeneity
+of the medium.
+The effort described here is a reflight of the Solid Surface Combustion Experiment (SSCE) (ref. 4), with extension of the flight
+matrix first and then experiment
+modification.
+The objectives of the reflight are to extend the understanding
+of the interplay of the
+radiative processes that affect the flame spread mechanisms.
+Two experiments are scheduled for flight aboard the Space Shuttle using the existing SSCE chamber and electronics. In each
+experiment,
+thick PMMA is the fuel, the thick fuel being used for reflight because most "real fuels" are thick. One experiment
+is
+an extension of the SSCE PMMA experiment using exactly the same fiat surface configuration
+used in previous SSCE flights but
+exchanging
+the dual sample configuration
+of the earlier experiments for a single long sample. The "long sample" configuration
+is
+chosen to allow observation of the predicted phenomena following ignition and flame spread, which for flat, thick fuel surfaces
+appears to be unsteady, leading eventually to flame extinction because of the influence of radiative processes (ref. 3).
+The second experiment,
+and the one on which we cbncentrate here, is to utilize a cylindrical geometry, which provides a unique
+environment
+whereby the effects of finite flame width inherent in the flat surface experiments on the radiative field is eliminated.
+The problem is inherently two dimensional, not only from a hydrodynamic
+point of view but also the radiative field, and so
+approximations
+of dimensionality
+in applying radiation models are not needed.
+Considerable
+Although the
+relatively few
+geometry, an
+
+work has been done over the past three decades on flame spread over a flat fuel bed placed in an opposing flow.
+influence of parameters such as ambient oxygen level, pressure, fuel thickness, etc. are well understood, there are
+studies on the effects of fuel geometry, e.g., the cylindrical geometry considered here compared to the flat-surface
+important parameter for practical applications.
+
+Kosdon et al. (ref. 5) developed a similarity solution
+experiments performed on cellulosic and birchwood
+propagation over PMMA cylinders with an emphasis
+that the dominant mode of heat transfer is a function
+for thicker fuels. Tewarson and Khan (ref. 7) studied
+flow configuration.
+
+for flames over cylindrical fuels and compared the mass burning rate with
+samples. Fernandez-Pello
+and Santoro (ref. 6) studied downward flame
+on the determination
+of the mechanism of flame spread. They concluded
+of the fuel thickness, with the solid conduction playing a more dominant role
+the effects of flame spread rates for electrical cables, but in a concurrent
+
+] Work funded under NASA Grant NCC3-354.
+
+387
+
+Here we discuss the experiments
+to be conducted with cylindrical fuel samples in a quiescent,
+Space Shuttle flights, and the supporting modelling effort, which includes scaling, analytical,
+modelling results are compared among themselves and to available experimental
+results.
+Reflight
+
+microgravity
+and numerical
+
+environment
+on future
+work. Some of the
+
+Experiments
+
+The reflight experiments,
+as mentioned above,
+electronics.
+In each experiment,
+PMMA is the
+earlier experiments
+for the single long sample,
+of 50% O2/50% N2 at 1 atm. The sample will
+surfaces will be insulated from the surroundings.
+
+consist of two experiments using the existing SSCE chamber (ref. 4) and
+fuel. The first experiment
+is to exchange the dual sample configuration
+of the
+6.2 mm wide, 2.9 mm thick, and 59.9 mm long, to be burned in a test atmosphere
+be exposed to the atmosphere
+on one 6.2 mmx 59.9 mm surface; the other
+Because the sample is expected to extinguish during the test (ref. 3), there are
+
+no provisions for quenching the sample. The sample will be ignited using the same resistively heated Kanthol wire energized for
+5 seconds at 3.75 amps. Six thermocouples
+will be suspended above the sample at a height of 10 mm from the sample surface,
+spaced along the sample centerline.
+These thermocouples
+will provide a redundant measure of the flame spread progress and the
+change in the temperature field away from the flame leading edge, while avoiding the possible interference with the quenching
+process. The flame will be imaged using a video camera from one perspective and a cine camera from an orthogonal perspective.
+The second experiment
+takes advantage of the reduction in dimensionality
+of the radiation environment
+provided by a cylindrical
+sample. Two samples will be burned in this test, both in 50% 02/50% N2 (see Figure 1). The first sample will be 44 mm long
+and 6.4 mm in diameter.
+The first half of the sample length will be hollow with a 1.0 mm wall thickness, the other half length
+solid. This single sample provides examples of both a "large diameter," thin fuel and a large diameter, thick fuel. The second
+sample is 40 mm long and 2.0 mm in diameter, and solid, to provide a "small diameter," thin fuel. Both samples will be ignited
+using the same Kanthol wire ignitor. The thin wail, large diameter sample section is expected to burn at a steady rate in the 50%
+O2 test atmosphere,
+while the thick sample section is expected to spread to extinction.
+The small diameter sample is also
+expected to burn at a steady rate.
+
+Figure 1 Cylindrical
+PMMA samples. Upper sample is 2.0
+mm in diameter. Lower sample is 6.4 mm in diameter; right
+side is hollow, left side solid.
+
+Modefiing
+
+Formulation
+
+The mathematical
+formulation is patterned after the flat
+surface formulation
+(refs. 2,3) except for the global-balance
+radiation model, which is reformulated
+for the cylindrical
+geometry. The numerical solution employs the finitevolume formulation
+of Patankar (ref. 8) for the
+hydrodynamic
+calculations and the _
+formulation
+of
+Grosshandler
+(ref. 9) for line-of-sight
+radiation calculations
+with the species, CO2, H20, and MMA vapor. The
+computational
+code has been validated by comparing the
+numerical result with analytical solutions available for
+simpler models.
+Scaling
+Consider the control volume near the leading edge of the
+flame shown in Figure 2 in flame-fixed coordinates
+with the
+oxidizer approaching the flame at a velocity
+V r =Vg+Vf
+known opposing
+
+andthefuelat
+flow velocity,
+
+spread rate. Assuming
+
+388
+
+negligible
+
+Vf,where
+
+Vg
+
+isa
+
+and Vf is the desired
+blowing
+
+in the preheat
+
+region,
+
+V r is the only velocity
+
+Lgx
+
+scale leading
+
+to the following
+
+Jt:t
+Lgy = vg
+
+Lgx
+ag
+Vr - Vr '
+
+ocg
+- Vr '
+
+gas-phase
+
+diffusion/conduction
+
+length scales.
+
+ag
+Thus: Lgx -- Lgy = Lg = V-'-_"
+
+(1)
+
+For flat surfaces in the thermal regime the solid is preheated primarily through gas phase conduction (refs. 10,11). Assuming the
+same mechanism for the cylindrical geometry, the solid-phase length scales can be expressed as follows, where R is the solid
+cylinder radius.
+
+L,x = L_ = V---]
+Taking into account
+can be scaled as:
+
+Lsr =" min
+
+the radial variation
+
+R,
+
+T_
+
+to Tv as it approaches
+R,c,
+
+heat flux from the gas to the solid phase at the fuel surface
+
+_l"can = A,g --, -- Tv
+TI
+
+The total heat flow from the gas phase to the preheating
+
+I
+
+VI(T,-T-)"
+
+1_R2-;¢
+
+Y --
+
+Lg/R
+
+zone of the solid phase is expended,
+
+the flame with a velocity
+
+(2)
+
+t, Vu vr)
+
+of surface area, the conduction
+
+q"gsc = )" _l"gsc,can , where,
+
+from
+
+= min|R,.I--:"--_!
+
+V I in the flame-fixed
+
+(
+
+(3)
+
+in the sensible
+
+heating
+
+of the solid
+
+coordinates.
+
+;1 "
+
+R-Lsy
+
+-'21-t_qvc
+
+(4)
+
+r
+Vf=(l_
+
+Therefore,
+The thermally
+
+Vf,,h,,, = 2Y
+
+p'c'z'r (rv- r')
+
+thin and thick limits are obtained
+
+by combining
+
+x, (r,-rv)
+
+Eqs. (5) and (2).
+
+r2
+
+P,c,R(Tv-T.)'
+
+V'"h'c_--"
+
+(5)
+v z,p,c,(r,_rv3
+
+(1--_---Rl_ °_¢OCgv,,rh,.cl,
+V,.)2 &.¢p_c¢
+
+2
+
+_,'_-'_- _-.-)/
+/
+
+(6)
+
+Note that while the thick formula is a transcendental
+equation, the thin formula, when compared to the corresponding
+flat surface
+formula (ref. 12), indicates that the spread rate is at least twice as fast for thin cylindrical fuels compared to flat surface fuels in
+the thermal regime.
+Results and Discussion
+Spread rates, computed for cylindrical fuels of different radii in a downward spread configuration
+under atmospheric
+conditions,
+are compared with experimental
+results (ref. 6,13) and prediction from Eq. (5) in Figure 3. The computational
+predictions agree
+reasonably well with the experimental
+spread rates. Finite-rate kinetics are known (ref. 14) to have a significant effect at 21% O2.
+The scaling formula, built with the assumption of infinite-rate kinetics, understandably
+overpredicts
+the spread rate. However, it
+captures
+expression
+
+the nature
+
+of the variation
+
+for an equivalent
+
+Computational
+
+spread
+
+of VI
+
+opposing
+
+rates in a thermal
+
+with the fuel radius.
+
+flow velocity
+
+In calculating
+
+Vf
+
+from Eq. (5), a recently
+
+developed
+
+(ref. 14)
+
+has been used for V r .
+
+regime configuration,
+
+Vg =40 cm/s,
+
+0 2
+
+level 50%, for both fiat and cylindrical
+
+fuels are
+
+presented in Figure 4. Corresponding
+predictions from Eq. (5) are plotted in Figure 5. The radius of the cylindrical fuel and the
+half-thickness
+of the fiat fuel are both referred to as _'. The cylindrical spread rate in the thin regime is at least twice as fast as
+the corresponding
+flat case as anticipated.
+For the cylindrical thin fuel, however, the computational
+results to date are not gridindependent.
+Computational
+results for which the radiation computation
+was frozen at one particular condition are presented for a quiescent
+microgravity
+environment
+in Figure 6. Because the radiative field in Figure 6 was not computed for each configuration
+
+389
+
+separately, the results are qualitative.
+Results for hollow cylinders are included.
+The thickness of the cylindrical shell and the
+half-thickness
+of the flat fuel are both referred to as 7. For a given radius, spread rate over a hollow cylinder (with the interior
+cavity filled with insulation) decreases with increasing thickness and merges with the results from "t" R for cylinders, i.e., solid
+=
+cylinders with no cavity. For both fiat surfaces and solid cylindrical surfaces the spread rate continues to decrease as the fuel
+thickness increases until no steady-state
+solution can be found indicating the possibility of extinction after a critical fuel thickness.
+This is understandable
+in that in the absence of any imposed flow, the thickness of the heated layer in the solid is approximately,
+
+from Eq. (2),
+
+• L_y
+
+VI
+
+. As the spread rate decreases,
+
+a progressively
+
+thicker layer of fuel is heated by the flame, which
+
+in turn reduces the spread rate further as evident from Eq. (5). As this layer is developing, the mass diffusional scale in the gas
+grows while radiation losses keep the flame from growing in size such that eventually, oxygen diffusion into the flame is
+insufficient to sustain it and extinction occurs (ref. 3). Unsteady numerical computation
+for spread over a PMMA cylinder of 5
+cm radius and 2 mm wall thickness in a quiescent microgravity environment
+is shown in Figure 7 in which flame position as a
+function of time is presented. The spread rate continually decreases until the flame reaches a location at which it continues to
+burn for a substantial amount of time without forward progress while radiation losses depress the flame temperature over time.
+Eventually,
+the flame leading edge, actually the peak heat flux from the gas to the solid, retreats, and the flame extinguishes.
+Summary
+The cylindrical geometry provides an attractive geometry for investigating the influence of radiation on flame spread in a
+quiescent microgravity
+environment
+because it elimihates the three dimensional effects inherent in the fiat surface geometry of
+finite width. Simple analyses based on energy balances along with numerical modelling of the spread process indicate that spread
+rates over the cylindrical surface are faster than for the fiat surface for the same sample thickness, i.e., radius. The unsteady
+behavior observed for thick, fiat surface fuels is anticipated in the cylindrical geometry as well. Space Shuttle experiments are
+planned
+
+to delineate
+
+the unsteady
+
+effects observed
+
+in earlier SSCE experiments
+
+for both flat and cylindrical
+
+surfaces.
+
+References
+1.
+
+McGrattan,
+
+2.
+
+Bhattacharjee,
+S. and Altenkirch, R.A. (1991). Twenty-Third
+Symposium (International)
+on Combustion,
+The Combustion
+Institute, Pittsburgh, pp. 1627-1633.
+West, J., Tang, L., Altenkirch, R.A., Bhattacharjee,
+S., Sacksteder, K., and Delichatsios,
+M.A. (1997). Quiescent Flame
+Spread Over Thick Fuels in Microgravity,
+Twenty-Sixth
+Symposium (International)
+on Combustion, The Combustion
+
+3.
+
+K.B., Kashiwagi,
+
+T., Baum, H.R., and Olson, S.L. (1996).
+
+Combustion
+
+and Flame
+
+106, 377-391.
+
+4.
+
+Institute, in press.
+Vento, D., Zavesky,
+
+5.
+
+Experiment
+Hardware Description
+and Ground-Based
+Test Results, NASA TM 101963.
+Kosdon, F.J., Williams, F.A., and Buman, C. (1969). Twelfth Symposium (International)
+
+on Combustion,
+
+The Combustion
+
+6.
+
+Institute, Pittsburgh,
+p. 1151.
+Fernandez-Pello,
+A.C., and Santoro,
+
+on Combustion,
+
+The Combustion
+
+7.
+
+Institute, Pittsburgh, p. 1201.
+Tewarson, A., and Khan, M.M. (1988). Twenty-Second
+
+8.
+9.
+
+Institute, Pittsburgh, p. 1231.
+Patankar, S.V. (1980). Numerical Heat Transfe r and Fluid Flow, McGraw Hill, New York.
+Grosshandler,
+W.L. (1980). International
+Journal of Heat and Mass Transfer 23, 1447-1459.
+
+R., Sacksteder,
+
+K., and Altenkirch,
+
+R.A. (1989).
+
+R.J. (1978). Seventeenth
+
+The Solid Surface
+
+Symposium
+
+Symposium
+
+(International)
+
+(International)
+
+Combustion
+
+on Combustion,
+
+Space Shuttle
+
+The Combustion
+
+10. West, J., King, M., Bhattacharjee,
+S., and Altenkirch, R.A. (1997)• "Comprehensive
+Determination
+of Forward Heat Transfer
+in Flame Spread Over Thermally Thick Solid Fuels in an Opposing Flow in the Thermal, Microgravity,
+and Kinetic
+Regimes," Combustion
+Science and Technology,
+submitted.
+11. Ito, A. and Kashiwagi, T. (1986). Twenty-First
+Symposium (International)
+on Combustion,
+The Combustion Institute,
+Pittsburgh,
+pp. 65-74.
+12. de Ris, J. N. (1969). Twelfth Symposium (International)
+on Combustion,
+13. Bundy, M. (1995). Experimental
+Investigation
+of Downward Spreading
+14.
+
+Diego State University.
+King, M. (1996). Numerical
+
+Investigation
+
+of Downward
+
+Spreading
+
+State University.
+
+390
+
+The Combustion Institute, Pittsburgh, pp. 241-252.
+Flame over Thick and Thin Fuel, MS Thesis, San
+
+Flame over Thick and Thin Fuel, MS Thesis,
+
+San Diego
+
+i"
+
+o
+
+m
+04
+
+.,I o
+
+eJ
+
+E-o
+
+D
+OD
+
+u
+
+•._. -r',
+
+°-_
+
+/
+"_
+
+¢q
+
+_L_
+
+°°**
+
+0
+
+°.
+oO
+L
+
+..°
+
+.°°.
+
+t_
+C_
+
+..°-'°'°_°'°°'"
+
+I ........
+
+I ........
+
+,/
+
+I ........
+
+a_/tmu 'alZ'tllm_ds
+(zas/mm)
+
+'aluH pzazds
+
+II i
+m
+
++
+
+I
+•
+
+II t
+
+n.
+
+a
+
+-o
+e.
+
+I
+
+•
+
+D
+
+e
+
+G
+s_
+
+C,
+
+I
+
+m
+
+e_
+t_.
+
+a
+•
+
+0
+
+m
+
+II
+0
+
+•
+
+•
+
+•
+
+0
+
+D
+
+,= ....
+:.............._-.,. :...
+:
+:
+:
+....
+Q
+
+3as/ram 'orsH pz_d S
+
+391
+
+10
+
+Vg = 0 am/s, 02 ievd--50%, Pressm'_i 2 atm
+t
+
+_A_
+
+i
+
+---e---c_marlmJ
+_Rmt
+W ,"_
+• _
+
+- -A- - R=s.=rm
+--O--R=_mm
+
+\,=-_,-=
+
+4g
+
+_,
+
+-'e'.
+
+.......
+
+,,x.
+
+,
+
+N
+0.!
+
+o.o_
+
+......
+
+o.oi
+
+_
+o.1
+
+........
+
+,
+
+Tau (Radius), mm
+
+........
+
+1o
+
+loo
+
+Figure 6 Computed spread rtes over cylindrical and flat surfaces in a quiescent
+microgravity environment. For "large" thickness no steady-state solutions are
+found. Radiation is not computed for each configuration but is frozen for one and
+impressed on the others.
+Flame
+
+4
+
+Position vs. Time,
+I
+
+Cylinder
+
+i
+
+I
+
+I
+
+R= 5 cm, "c= 2 ram, 50% O2, 1 atm
+3.5
+o
+
+3
+E
+0
+
+2.5
+
+C
+
+.o
+0
+n
+
+E
+
+<>
+
+2
+1.5
+
+LL
+
+0.5
+
+01
+0
+
+I
+200
+
+I
+400
+
+I
+
+600
+Time (seconds)
+
+I
+
+800
+
+I
+
+1000
+
+Figure 7 Computed flame position as a function of time for a "thick" cylinder with
+radiation computed as part of the solution as opposed to being impressed on the
+conditions as are the frozen radiation computations of Figure 6.
+
+392
+
+1200
+

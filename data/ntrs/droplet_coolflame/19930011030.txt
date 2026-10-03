@@ -1,0 +1,942 @@
+CHARACTERIZING
+
+DROPLET
+
+MULTI-COMPONENT
+
+COMBUSTION
+LIQUID
+
+FUELS
+
+OF PURE
+
+AND
+
+IN A
+
+N93"20219
+MICROGRAVITY
+
+ENVIRONMENT
+
+Gregory S. Jackson and C. Thomas Avedisian
+Sibley School of Mechanical and Aerospace Engineering
+Cornell University
+Ithica, New York 14853
+Introduction
+The importance of understanding the effects of fuel composition, length scales, and other parameters on the
+combustion of liquid fuels has motivated the examination of simple flames which have easily characterized flow
+fields and hence, the potential of being modeled accurately. One such flame for liquid fuel combustion is the
+spherically symmetric droplet flame which can be achieved in an environment with sufficiently low gravity (i.e., low
+buoyancy).
+To examine fundamental characteristics of spherically symmetric droplet combustion, a drop tower
+facility has been employed to provide a microgravity environment to study droplet combustion. This paper gives a
+brief review of results obtained over the past three years under NASA sponsorship (grant NAG3 -987).
+Important aspects which were studied to characterize the burning of liquid droplets included: 1) droplet burning rate
+constants (K) which assess the rate of heat transfer to the liquid fuel from the exothermic gas-phase reactions, 2)
+extinction of the droplet flame before complete vaporization which indicates the possibility of incomplete
+combustion,
+3) soot formation inside the spherical droplet flame, and 4) microexplosions
+and preferential
+vaporization exhibited by multi-stage combustion for droplets of miscible mixtures. The spherically symmetric
+configuration of microgravity droplet combustion allows for parameters such as average burning rates, flame standoff ratios, and location of soot agglomerates in the flame to be defined without the effects of natural convective
+flows, and effects of droplet size in microgravity combustion are not masked by the length scale dependence of
+natural convective flows.
+A wide range of pure and blended fuels were studied in air at standard room temperature and pressure in a low
+gravity environment on board the drop tower. Results from some of these fuels are briefly reviewed here: pure nheptane, pure l-chloro-octane, heptane/monochloro-octane
+mixtures, pure methanol, methanol/toluene mixtures, and
+methanoi/dodecanol
+mixtures. The bulk of experimental results reported here were obtained by studying free
+unsupported droplets with initial diameters (Do) ranging from 0.4 to 0.7 mm. A more limited series of experiments
+were carried out on fiber-suspended droplets, with D o up to 1.1 mm, to examine the effect of initial diameter on the
+burning of sooting fuels. Different mixture compositions were burned to assess the affects of additives on soot
+emissions, extinction, and microexplosions.
+Exoerimental
+
+Set-up and Data Extraction
+
+The original drop tower facility as well as the technique for creating free-floating stationary droplets has been
+described in detail previously [ref. 1, 2]. Many modifications were implemented over the past three years to
+improve the quality of data obtained from the experiments [refs. 3, 4, 7]. The experimental package contains a
+combustion chamber with the droplet generator, ignition circuitry, a high-speed movie camera, and a low-lux CCD
+camera for visualization of the flame boundary.
+The drop package experiences free fall for about 1.2 s. Some
+previous experiments showed that the increase in gravity levels in the latter haft of free fall due to air drag around
+the package increased buoyant flows around larger droplets with Do > 0.80 mm [ref. 3]. Thus, in order to observe
+spherically symmetric combustion for the longer-burning larger droplets, a drag shield was built in which the
+experimental package can fall freely with minimal air drag for the entire period of free fall.
+Two types of burning droplet experiments were performed in the drop tower: free unsupported droplets and fibersuspended droplets. To effectively levitate unsupported droplets in microgravity, a droplet deployment technique
+based on the "ink jet" method was employed [refs 1, 7]. For the suspended droplets, a 30 to 50 lain diameter quartz
+
+331
+
+fiber was used. The fiber diameter was kept very small in order to minimize its influence on the burning process.
+Unsupported
+droplet experiments reported here included the following fuels: n-heptane, methanol,
+methanol/toluene
+mixtures, and methanol/dodecanol
+mixtures.
+Suspended
+droplet experiments reviewed here include pure heptane,
+pure monochloro-octane,
+and monochloro-octane/heptane
+mixtures.
+Because suspended
+n-heptane
+droplets
+had
+burning
+rates anM flame stand-off
+ratios which agreed well
+with burning rates and flame stand-off
+ratios of
+similarly-sized
+unsupported
+droplets, the fiber was assumed to have a negligible impact on the combustion
+process.
+Droplets were ignited about 15 ms after the package was released into free fall by two spark discharges
+on opposite
+sides of the droplet.
+Considerable
+efforts were spent to develop a multiple spark circuit with the capability
+of
+adjusting the spark energy, which was controlled by varying the spark duration, the voltage of the energy-storing
+capacitors,
+and/or the current through the electrodes.
+The electrodes
+for the spark were retracted
+away from the
+flame after ignition.
+Retraction was initially performed by a solenoid-activated
+spring mechanism
+which retracted
+the endre electrode mount upwardly [ref. 3, 5, 7], but more recent experiments have used a mechanism
+where only
+the electrodes
+are retracted in a radially outward direction [ref. 4].
+Droplet diameter measurements
+were obtained from the high-speed movie records with framing rates ranging from
+100 to 250 frames per second.
+Measurements
+were taken with a computer-based
+image analysis system (Image
+Analyst TM, Automatix Inc., Billerica, MA). For suspended droplets, measurements
+were not taken when the average
+droplet diameter became less than 8 times the nominal fiber diameter because of concerns about the influence of the
+fiber on the burning process when the fiber diameter becomes a significant fraction of the droplet diameter.
+The
+region for calculating
+the average droplet radius for the suspended
+droplets was defined as lying between the
+locations where the liquid surface changed concavity near the fiber, both at the top and at the bottom of the droplet.
+Results
+
+and Discussion
+
+Heptane. Monochloro-octane.
+and Heptane/Monochloro-octane
+Mixtures
+Burning rate constants were found for unsupported
+and suspended n-heptane droplets with Do ranging from 0.40 to
+1.05 mm and for suspended
+l-chloro-octane
+droplets with Do from 0.45 to 1.10 mm [ref. 3 - 5]. N-heptane droplets
+larger than 0.9 mm and l-chloro-octane
+droplets larger than 0.8 mm had burning times longer than the duration of
+free-fall.
+However.
+enough of the burning history was recorded
+for these larger droplets
+to get a reasonable
+assessment
+of K during the period of so-called
+steady burning after the initial heat-up
+period.
+Representative
+examples of droplet diameter-squared
+profiles for unsupported
+n-heptane droplets are shown in fig. 1. Burning rate
+constants
+were found with a least-squared
+linear regression
+of the droplet diameter-squared
+data vs. time.
+Data
+from the initial period of droplet heat-up and gas-phase
+vapor accumulation
+were excluded
+from the linear
+regression.
+The differences
+in the slopes of the two profiles in fig. 1 reflect a decreased burning rate for the larger
+n-heptane droplets. For both n-heptane and monochloro-octane
+droplets with Do around 0.60 mm, K consistently
+had
+values which were more than 20% higher than those for droplets with Do around 1.00 mm.
+Both heptane and monochloro-octaue
+droplets exhibited common trends in the development
+of the flame and a shelllike structure of soot (i.e., soot shell) between the droplet and the flame. Soot particles form rapidly enough for all
+but the smaller-sized
+heptane droplets, such that thermophoretic
+forces overtake outward inertia created from the
+Stefan flow and the particles are pushed inward to a region where the themrophoretic
+forces balance the outwardly
+directed
+drag forces.
+The soot shell begins to take shape as new particles collect in this region.
+As burning
+progresses,
+the particles begin to agglomerate
+and the large soot agglomerates
+are eventually
+pushed away from the
+droplet and into the flame zone because the outward drag force increases more rapidly with particle size than does
+the thermophoretic
+force [ref. 3]. The soot agglomerates
+generally escape the flame without complete
+oxidation
+implying a loss in heat generation due to unoxidized carbon.
+As vaporization
+is completed,
+the contracting
+flame
+passes through and disrupts the remaining soot.
+Fig. 2 shows two representative
+photographic
+sequences
+of n-heptane
+droplets
+burning
+at low gravity:
+an
+unsupported
+droplet with Do = 0.69 mm and a suspended droplet with Do = 0.75 ram. The two sequences
+have
+approximately
+the same t/Do 2 values to provide some basis for comparison and to show the similarities
+between the
+unsupported
+droplet flames and the suspended
+droplet flames.
+The bright particles in fig. 2 are radiating
+soot
+particles emitted from the flame without undergoing
+complete oxidation.
+The fiber-supported
+droplet sequence
+shows some soot agglomerates
+collecting on the fiber, perhaps due to thermophoresis.
+However, because burning
+rates and dimensionless
+soot shell diameters for fiber-supported
+droplets agreed well with those of unsupported
+droplets of similar initial size, the effect on burning of the soot/fiber interactions was assumed to be negligible.
+
+332
+
+The smaller heptane droplets did not show any soot shell formation until near the end of burning, perhaps due to
+their higher vaporization
+rates and the lower residence times for fuel particles inside the flame. On the other hand,
+the larger heptane droplets (Do > 0.6 mm) formed soot shells early in the combustion
+process and emitted soot
+agglomerates
+as combustion
+proceeded until the end of burning.
+The smaller monochloro-octane
+droplets exhibited
+soot shell development,
+but their soot structures
+were much less dense and their emissions
+greatly reduced in
+comparison
+to the larger monochloro-octane
+droplets.
+The flame luminosity,
+soot emissions, and burning rates of 25%, 50%, and 75% v/v heptane in monochloro-octane
+suspended droplets fell between those of the two pure components
+[ref. 3]. The photographic
+records suggest that
+more than 25% v/v heptane must be added to monochloro-octane
+before soot emissions are noticeably reduced as the
+25% heptane mixture droplets appeared to soot almost as heavily as pure monochloro-octane
+droplets of similar size.
+No multi-stage
+combustion
+process was observed for these mixtures.
+Photographic
+records of the pure heptane and monochloro-octane
+droplets suggest that the amount of soot collected
+in the shell and unoxidized
+by the flame may be a more sensitive function of the droplet diameter
+than a D2
+dependence.
+Longer residence time for fuel molecules inside the droplet flame should promote fuel pyrolysis and
+soot production.
+An approximate
+estimate for the residence time of fuel molecules inside the flame is obtained by
+integrating with respect to radial position the inverse of the average velocity of fuel molecules inside the flame. This
+residence time can be shown to scale with D 2 [ref. 3]. Therefore,
+larger droplets have more time for fuel pyrolysis
+and soot formation.
+A large amount of soot formation early in the combustion
+process of large droplets
+may
+encourage
+further soot formation by surface reactions on newly-formed
+soot particles.
+If the amount of soot formed
+is more sensitive to droplet diameter than D2, proportionately
+more carbon atoms from the vaporized fuel goes into
+forming soot for larger droplets than for smaller droplets.
+This lowers the proportionate
+amount of heat released for
+droplet vaporization
+and the corresponding
+burning rate constant.
+Methanol and Methanol/Toluene
+Mixlur¢_
+Experimental
+results of pure methanol droplets showed that methanol droplets produce virtually non-luminous
+flames in microgravity
+at atmospheric
+pressure [ref. 6]. Pure toluene droplets, however,
+have been shown to
+produce highly sooting flames with the formation of dense soot shells between the droplet and the flame [ref. 1, 5].
+Furthermore,
+pure methanol droplets exhibit flame extinction,
+attributed to water vapor absorption
+into the liquid
+phase, and pure toluene droplets have been shown to emit large quantities of soot due to the break-up of the soot
+shell near the end of burning.
+These differences
+in the behavior of methanol and toluene motivated
+the study of
+mixture droplets of these two fuels [ref. 7] in order to ascertain whether some of the less favorable characteristics
+of
+the spherically
+symmetric
+combustion of the pure components
+could be eliminated.
+Pure methanol
+droplets were
+burned in the microgravity
+environment
+in order to provide a basis for comparison
+with the mixtures which included
+5%, 25%, and 50% v/v toluene in methanol.
+Pure methanol
+droplets
+with Do from 0.40 to 0.45 mm burned with a faint non-luminous
+flame and exhibited
+extinction at droplet diameters ranging from 160 to 190 t.tm. 5% v/v toluene in methanol droplets, with Do ranging
+from 0.5 to 0.6 mm, burned without any observable difference from the pure methanol droplets.
+The flame did not
+appear luminous or exhibit soot formation.
+Average K values of the 5% toluene droplets before extinction
+matched
+those for pure methanol
+droplets,
+and extinction
+of the 5% toluene droplets consistently
+occurred
+at droplet
+diameters
+similar to those of pure methanol droplets.
+In fact, all toluene]methanol
+droplets had similar droplet
+diameter-squared
+profiles as shown by the sample in fig. 3 in spite of tremendous
+differences
+in flame luminosity
+and soot production,
+demonstrated
+partly by the photographic
+sample of the 50% toluene mixture droplet in fig. 4.
+Marked increases in the flame luminosity indicating oxidation of soot precursors resulted from the burning of 25%
+v/v toluene droplets,
+with Do between 0.45 and 0.60 mm. The visibility of the flame increased as combustion
+proceeded
+as demonstrated
+by the two sequences shown in fig. 5. This increase with time may be explained by the
+fact that the fractional vaporization
+of toluene increased as combustion proceeded.
+Furthermore,
+the intensity of the
+flame luminosity
+appeared
+to be sensitive to droplet size as shown in comparing
+the two sequences
+in fig. 5.
+Nonetheless,
+the flames for all 25% toluene droplets studied (Do between 0.45 and 0.60 mm) did not produce soot
+agglomerates,
+which suggests that this mixture might be useful in promoting flame luminosity for methanol-based
+fuels without soot emissions.
+However, flame extinction
+was still observed
+for this mixture as shown in the
+characteristic
+diameter squared profile of fig. 3. Extinction diameters and burning rate constants before extinction
+were again similar to those for pure methanol droplets (~ 160 - 180 I.tm).
+
+333
+
+The 50% v/v toluene mixtures burned with a dramatic increase in soot production to the extent that a dense soot
+shell eventually formed around the droplet and large agglomerates of soot were emitted through the flame near the
+end of burning, as in the combustion of pure toluene droplets. However, unlike the combustion of pure toluene
+droplets, the mixture droplets (ranging in Do from 0.45 to 0.55 mm) burned with an initial stage of low luminosity,
+which suggests an initial period where the fractional vaporization of toluene is low. As methanol is preferentially
+removed from the droplet surface in the early period of combustion, the fractional vaporization of toluene increases
+to eventually cause the rapid production of soot particles in the gas phase, demonstrated in the photographs of fig. 4.
+The soot particles rapidly agglomerate and form a soot shell around the droplet much like the heptane and
+monochloro-octane droplets mentioned above. The collapse of the flame near the end of burning results in the
+disruption of the soot shell. The flame extinguishes before the droplet is completely vaporized. The size of the
+remaining droplets after the collapse of the flame is clearly smaller (< 140 l.tm) than the extinction diameter of the
+other two methanol/toluene mixtures studied. The differences in the behaviors of the 50% toluene droplets can in
+part be explained by vapor/liquid equilibrium data for methanol and toluene which shows that the 50% toluene
+mixture lies on the toluene rich side of a negative azeotrope for methanol/toluene mixtures [ref. 7].
+Methanol/Dodecanol Mixtures
+Adding dodecanol to methanol resulted in different droplet combustion behavior than with adding toluene to
+methanol.
+25% v/v and 50% v/v dodecanol in methanol mixture droplets were burned in the low-gravity
+environment.
+The following burning characteristics of the methanol/dodecanol mixture droplets, with Do ranging
+from 0.50 to 0.60 mm, were observed [ref. 6]: 1) droplet burning appeared to be a multi-stage process for both
+mixture compositions studied, 2) microexplosions were observed for some of the 25% dodecanol droplets, and 3)
+extinction did not occur for the mixtures.
+Multi-stage combustion in mixture droplets is characterized by a period midway through combustion when the
+droplet diameter remains relatively constant as its temperature rises and the liquid density correspondingly decreases
+due to the fractional vaporization of the less volatile component. Such a period is clearly evident in the D2 profiles
+for both the 50% v/v and a 25% v/v dodecanol in methanol mixture droplets in fig. 6. The multi-stage combustion
+for the methanol/dodecanol droplets is caused by diffusion-controlled vaporization where the more volatile methanol
+gradually is depleted at the droplet surface and cannot be replenished fast enough at the surface due to slow liquidphase diffusion. The droplet volume reduction before the intermittent period of heating (e.g., -25% for the 50%
+methanol mixture) leaves some methanol in the droplet interior, and thus in the final stage of combustion both
+dodecanol and methanol are being vaporized.
+Microexplosions did not occur for the 50% dodecanol droplets burning in microgravity, while microexplosions were
+observed for over two thirds of the 25% dodecanol droplets. Microexplosions were characterized by the rapid
+formation and expansion of a bubble within the droplet, which eventually bursts as shown in fig. 7. The initiation of
+microexplosion is caused by the droplet temperature reaching the superheat limit as discussed in ref. 6.
+Methanol/dodecanol mixtures cannot attain temperatures higher than the boiling point of dodecanol during burning.
+Therefore, any methanol/dodecanol mixture composition with a superheat limit above the dodecanol boiling point
+will not undergo microexplosion.
+Calculation of methanol/dodecanol mixture superheat limits at one atmosphere
+showed that the 50% dodecanol mixture had a superheat limit that was too high for microexpiosion while the 25%
+dodecanol mixture superheat limit was slightly lower than the dodecanol boiling point [ref. 7]. This sheds light on
+the experimental results which showed microexplosion for only two thirds of the 25% dodecanol mixture droplets.
+Because the 25% dodecanol mixture has a superheat limit near the boiling point of dodecanol, it is not surprising
+that some 25% dodecanol droplets did not exhibit microexptosion.
+The addition of dodecanol to methanol was found to suppress extinction exhibited as all the 50% dodecanol and
+non-exploding 25% dodecanol mixture droplets appeared to burn to completion.
+Water absorption within the
+droplet may be insignificant during combustion of these mixture droplets because of the higher droplet surface
+temperatures and the lower solubility of water in dodecanol.
+t_onclusions
+The microgravity environment has proven a very useful tool in examining different aspects of droplet combustion.
+The spherically symmetric droplet flames simplified the interpretation of all of these phenomena because the
+interactions between the liquid and the gas-phase were more clearly defined. These aspects included: 1) an
+influence of droplet size on soot formation in heptane and monochloro-octane
+d,-oplets, 2) the possibility that
+334
+
+increased formationndemissions larger ropletsncourage
+soot
+a
+of
+d
+e
+a decrease theburning
+in
+rateconstant
+with
+initialdroplet forsootinguels, )theusefulness
+size
+f
+3
+ofmixing
+methanol toluene
+and
+toachieveluminous
+a
+droplet
+flamewithout oot missions, microexplosions
+s e
+4)
+of methanol/dodecanol droplets,
+mixture
+and5) thepotential
+of
+mixing
+aheavier
+alcohol asdodecanol)
+(such
+withmethanol
+tosuppress extinctionxhibited
+flame
+e
+bypure
+methanol
+droplet.Future
+workwill seek
+tofurther uantifyheinfluence soot ntheburning
+q
+t
+of
+o
+process
+andtoexamine
+a
+wide
+rangef fuelmixtures.
+o
+References
+1. Avedisian, C.T., Yang, J.C., and Wang, C.H., "On low gravity droplet combustion", Proc. R. Soc. Lond. A420.
+1988, pp. 183-200.
+2. Yang, J.C., An experimental method for studying combustion of an unsupported fuel droplet at reduced gravity,
+Ph.D. thesis, Cornell University, Ithaca, New York, 1990.
+3. Jackson, G.S., Avedisian, C.T., and Yang, J.C., "Observations of Soot during Droplet Combustion at Low
+Gravity: Heptane and Heptane/Monochloro-alkane
+Mixtures", Int. J. Heat Mass Trans. 35 (8), 1992, pp.
+2017-2033.
+4. Jackson, G.S. and Avedisian, C.T., "Experiments on the Effect of Initial Diameter in Spherically Symmetric
+Droplet Combustion of Sooting Fuels", Paper no. 93-0130, AIAA 3 Ist Aerospace Sciences Meeting, Rent,
+Nevada. 1993.
+5. Jackson. G.S. and Avedisian, C.T., "Possible Effect of Initial Diameter in Spherically Symmetric Combustion of
+Sooting Fuels", Paper no. 110, Eastern States Section Meeting of the Combustion Institute, Ithaca, NY,
+October. 1991.
+6. Yang, J.C.. Jackson, G.S. Avedisian, C.T., Combustion of unsupported methanol/dodecanol mixture droplets at
+low gravity. Twenty-Third Symp. (Int.) on Comb.. The Combustion Institute, Pittsburgh, 1990, pp. 16191625.
+7. Jackson. G.S.. Avedisian, C.T.. and Yang, J.C., "Soot Formation During Combustion of Unsupported
+Methanol/Toluene Mixture Droplets in Microgravity", Proc. R. Soc. Lond. A435, 1991, pp. 359-369.
+
+....
+
+I ....
+
+I ....
+
+t ....
+
+I '''
+
+'1 '''
+
+'t''
+
+_-_T _r_-_
+
+1.00
+" Do=0.66mm
+
+O.80 -
+
+_
+
+"_-.'_**_
+
+-
+
+• Do= 0.48 mm
+
+_T_.. •
+-
+
+-
+
+0.60
+
+0.40 -
+
+0.20 "
+
+"_._
+
+-
+
+000.
+
+im
+
+....
+
+0.0
+
+I ....
+
+0.2
+
+1 ....
+
+0.4
+
+I ....
+
+I ....
+
+0.6
+
+0.8
+t_
+
+1 ....
+
+1.0
+
+..
+
+.....
+1,
+
+1.2
+
+,I
+
+....
+
+1.4
+
+1.6
+
+(s/mm 2)
+
+Figure 1. -- Two examples of dimensionless diameter-squared profiles for unsupported heptane droplets
+binning in microgravity [ref. 4].
+
+335
+
+Do= 0.69 ram, unsupported
+
+t = 0.28 s
+
+t = 0.42 s
+
+t = 0.56 s
+
+t=0.32s
+
+t=0.14s
+
+t=0.48
+
+t =0.64
+
+Do= 0.75 mm, supported
+
+t=0.16s
+Figure
+
+2. -- Comparison
+
+of unsupported
+
+and suspended
+
+heptane
+
+s
+
+droplets
+
+burning
+
+in microgravify
+
+s
+
+[ref. 4].
+
+_ .... I....i ....t.... _ ...._ ...._ .... _.... _ ....
+1.00 _'_,_,__
+
+* 5% v/v Toluene;
+• 25% v/v Toluene;
+
+1_= 0.57 mm
+1_= 0.55 mm
+
+0.80
+
+¢'t--.
+
+0.60
+
+0.40
+
+0.20
+
+000'.0.0 0.2' 0,4'"'
+.... ....
+'0_.6
+"''O_.8
+" "lJ.O
+'''I12 " '1.4 1.6' 1.8''
+"
+.... ....
+"_½.0
+t/I)_ (s/mm 2)
+Figure
+
+3. -- Dimensionless
+
+t = 0.140 s
+Figure
+
+4. --50%
+
+diameter-squared
+
+profiles
+
+t = 0.145 s
+v/v toluene
+
+in methanol
+
+for two methanol/toluene
+
+t = 0.150 s
+droplet burning
+
+at low gravity,
+
+336
+
+mixture
+
+droplets
+
+burning
+
+t = 0.155 s
+exhibiting
+
+rapid formation
+
+in microgravity
+
+[ref. 7].
+
+t = 0.160
+of soot [ref. 7].
+
+s
+
+DO = 0.48 mm
+
+t =0.04
+_=
+
+s
+
+t = 0.08 s
+
+1=0.16s
+
+t=0,24
+
+t=0.16s
+
+s
+
+1=0.32s
+
+t=0.24s
+
+0.55 mm
+
+iO
+::°_g,
+
+_
+
+: ::....
+
+I
+
+t=0.04
+
+s
+
+t=0.08
+
+s
+
+Figure 5. -- Comparison
+of flame luminosity of two 25% v/v toluene
+diameters burning in microgravity
+[ref. 7].
+
+_' '"1
+1.00
+
+....
+
+I ....
+
+I ....
+
+_
+
+I ....
+
+I ....
+
+I ....
+
+I ....
+
+droplets
+
+I"
+
+* 25% v/v Dodecanol;
+
+with different
+
+initial
+
+"-I
+
+DO= 0.57 mm
+
+• 50% v/v Dodecanol;
+
+.-_
+0.80
+
+Do= 0.51 mm
+
+,,"""".
+-
+
+"_
+
+I ....
+
+in methanol
+
+t=0.32s
+
+"_
+
+°"%%e
+
+0.6_
+
+_
+
+"""
+
+0.40
+
+"-
+
+_
+
+o°
+o
+_
+
+0.20
+
+• •o
+
+_
+,•
+
+_
+
+".,
+~
+
+-
+
+%
+
+0.00 a_a.a_t_l_LJ_
+Lalm_a_t_k_Lla , I .... I ....
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+
+_%.
+
+I ,a.a__t_.La__.a
+_1 t._._.a.L_u_t_
+1.2
+1.4
+1.6
+1.8
+2.0
+
+t/D_ (s/mm 2)
+Figure 6. -- Dimensionless
+illustrating
+multi-s_ged
+
+diameter-squared
+combustion.
+
+profiles
+
+for two methanol/dodecanol
+
+droplets
+
+burning
+
+in microgravity
+
+I
+
+!
+
+O
+
+O
+
+O
+!
+
+t = 0.2550
+Figure
+
+s
+
+t = 0.2575
+
+7. -- 75% v/v methanol
+
+s
+
+in dodecanol
+
+H
+
+t = 0,2600
+droplet
+
+burning
+
+337
+
+s
+
+in microgravity
+
+t = 0.2625
+
+s
+
+which illustrates
+
+t = 0.2650
+microexplosion
+
+s
+
+[ref. 6].
+

@@ -1,0 +1,635 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="pdf:PDFVersion" content="1.5">
+<meta name="pdf:docinfo:title" content="untitled">
+<meta name="pdf:hasXFA" content="false">
+<meta name="access_permission:modify_annotations" content="true">
+<meta name="access_permission:can_print_degraded" content="true">
+<meta name="dcterms:created" content="2024-06-11T14:53:05Z">
+<meta name="dcterms:modified" content="2024-06-11T14:53:05Z">
+<meta name="dc:format" content="application/pdf; version=1.5">
+<meta name="xmpMM:DocumentID" content="uuid:788bae92-ab6e-49bc-a0ab-0b9eeee23ed5">
+<meta name="access_permission:fill_in_form" content="true">
+<meta name="pdf:docinfo:modified" content="2024-06-11T14:53:05Z">
+<meta name="pdf:hasCollection" content="false">
+<meta name="pdf:encrypted" content="false">
+<meta name="dc:title" content="untitled">
+<meta name="xmp:CreateDate" content="2024-06-11T10:53:05Z">
+<meta name="pdf:hasMarkedContent" content="false">
+<meta name="Content-Type-Override" content="application/pdf">
+<meta name="Content-Type" content="application/pdf">
+<meta name="xmp:ModifyDate" content="2024-06-11T10:53:05Z">
+<meta name="pdf:producer" content="Acrobat Distiller 20.0 (Windows)">
+<meta name="access_permission:extract_for_accessibility" content="true">
+<meta name="access_permission:assemble_document" content="true">
+<meta name="xmpTPg:NPages" content="22">
+<meta name="pdf:hasXMP" content="true">
+<meta name="access_permission:extract_content" content="true">
+<meta name="access_permission:can_print" content="true">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.DefaultParser">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.pdf.PDFParser">
+<meta name="access_permission:can_modify" content="true">
+<meta name="pdf:docinfo:producer" content="Acrobat Distiller 20.0 (Windows)">
+<meta name="pdf:docinfo:created" content="2024-06-11T14:53:05Z">
+<title>untitled</title>
+</head>
+<body><div class="page"><p></p>
+<p>Preliminary Results from the Saffire VI Experiment
+2024 53rd International Conference on Environmental Systems 
+</p>
+<p>July 21‐25, 2024, Louisville, KY</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Authors
+• David L. Urban, Gary A. Ruff, Paul Ferkul, John Easton, Michael Johnston, Jay Owens, Sandra Olson, 
+</p>
+<p>Claire Fortenberry NASA Glenn Research Center, Cleveland, OH, USA
+</p>
+<p>• John Graf, Oageng George, NASA Johnson Space Center, Houston, TX, USA 
+</p>
+<p>• Balazs Toth, ESTEC, Noordwijk, Netherlands
+</p>
+<p>• Florian Meyer, Christian Eigenbrod, University of Bremen (ZARM), Bremen, Germany
+</p>
+<p>• James S. T’ien, Ya-Ting T. Liao, Case Western Reserve University, Cleveland, OH, USA
+</p>
+<p>• A. Carlos Fernandez-Pello, UC Berkeley, Berkeley, CA, USA  
+</p>
+<p>• Guillaume Legros, CNRS-ICARE, Univ. Orléans, Orléans, France
+</p>
+<p>• Augustin Guibaud, University College, London, UK
+</p>
+<p>• Nickolay Smirnov, Moscow State University, Russian Federation 
+</p>
+<p>• Osamu Fujita, Hokkaido University, Sapporo, Japan 
+</p>
+<p>• Ulises Rojas Alva, Grunde Jomaas, Slovenian National Building and Civil Engineering Institute, Ljublijana
+Acknowledgements: NASA Mars Campaign Office
+</p>
+<p>Space and Research agencies that have supported this work including but not limited to JAXA, ESA, RSA, 
+CNES, DLR, the Russian Academy of Sciences and NASA. ]The excellent support by the engineering team 
+(NASA and Zin Technologies), Northrup Grumman and the on-orbit crew are gratefully acknowledged. 2</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>How rapidly can a fire spread in low-g?
+</p>
+<p>• This question lies at the heart of the development of a 
+spacecraft fire safety strategy
+</p>
+<p>– Similar to any terrestrial fire safety application
+• Rate of fire growth impacts:
+</p>
+<p>– Time to detect
+• Early detection reduces impact of fire, response strategy
+</p>
+<p>– Size of fire
+• Amount of fire suppression agent required
+</p>
+<p>– Heat release rate, fire spread to surrounding materials
+• Collateral damage
+</p>
+<p>– Emission of combustion products
+• Post-fire cleanup strategy and consumables
+</p>
+<p>NIST Full Scale Fire test
+</p>
+<p>FAA full scale aircraft test
+</p>
+<p>ALL terrestrial occupied structure types have been the subject of full scale fire tests
+(planes, ships, cars, trains, buildings, mines etc.)
+</p>
+<p>3</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Background
+</p>
+<p>4
+</p>
+<p>Background
+– First conceived in 2003 for a different spacecraft
+– First funded in 2011
+– Saffire I-III flew in 2016 &amp; 2017
+– Examined fire growth on thin fuels and flammability 
+</p>
+<p>limits
+• Saffire IV-VI objectives
+</p>
+<p>– Consider thick fuels, longer burn times &amp; exploration 
+atmospheres,
+</p>
+<p>– Examine impact on the vehicle and post fire recovery
+– Saffire IV and V flew in 2020 and 2021 and Saffire VI 
+</p>
+<p>flew in December 2023
+</p>
+<p>Far Field Diagnostics (in Mid Deck Locker)
+Avionics, CO2 scrubber, Smoke Eater, Combustion Products Monitor, particulate monitors 
+(DustTrack &amp; Ion Chamber)
+</p>
+<p>Remote Sensors (6)
+Measure temp &amp; CO2 in standoffs,
+hatch and end cone
+</p>
+<p>Saffire Flow Unit
+Approx. 53x90x133cm. New features 
+include 2 side view cameras, acid gas, O2, 
+heat and byproduct release to cabin </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Cygnus Spacecraft
+</p>
+<p>5
+</p>
+<p>Pressurized 
+volume 19 m3
+</p>
+<p>Typically, on‐orbit 
+for  several 
+months
+</p>
+<p>19 successful 
+flights since 2013</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Saffire InstallaTION
+</p>
+<p>6</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>As installed
+</p>
+<p>7</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Spacecraft Interior before return
+</p>
+<p>8</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Configuration in spacecraft
+</p>
+<p>Dots are remote sensors, RED in standoffs, GREEN in end cone or hatch.
+A: Saffire Flow Unit
+B: Far Field Diagnostics
+</p>
+<p>9</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Overview of Flow System</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Test Matrix (as executed)
+</p>
+<p>11
+</p>
+<p>Flight/Sample IV‐1 V‐2 VI‐2 VI‐3 VI‐4
+</p>
+<p>Material/configuration SIBAL 
+Cloth
+</p>
+<p>Cotton 
+Jersey
+</p>
+<p>SIBAL Cloth Two‐Sided 
+PMMA
+</p>
+<p>One‐Sided 
+PMMA
+</p>
+<p>Length (cm) 50  50 50 18 18
+</p>
+<p>Air Flow Rate (cm/s) 20 20 20 20 20
+</p>
+<p>Flow Direction Concurrent Concurrent Concurrent Concurrent Concurrent
+</p>
+<p>Ambient Pressure (kPa) 100.0 70.7 54.1 54.6 55.2
+</p>
+<p>Oxygen Concentration
+(mol %)
+</p>
+<p>22.0 26.2 31.0 30.3 28.8
+</p>
+<p>Free volume (m3) 17.9 19.0 16.7 16.7 16.7</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Sample configuration
+</p>
+<p>Saffire IV &amp; VI
+</p>
+<p>12
+</p>
+<p>SIBAL Fabric
+</p>
+<p>Test 2
+</p>
+<p>Air and Normoxic O2
+with forced flow
+</p>
+<p>Test 1
+</p>
+<p>Test 4
+</p>
+<p>2‐sided PMMA (1 cm thick.)
+</p>
+<p>1‐sided PMMA (0.5 cm thick.)
+</p>
+<p>Nomex Fabric
+Test 3
+</p>
+<p>Saffire V
+</p>
+<p>Duct width 45 cm
+</p>
+<p>Duct Length 109 cm
+</p>
+<p>Duct Half Height 15 cm
+</p>
+<p>Samples 41 cm wide</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Saffire VI samples 
+</p>
+<p>13
+Oxidizer flow is from the left at 20 cm/s in all cases.
+</p>
+<p>SIBAL fabric (test 2) 2‐sided
+PMMA
+(test 3)
+</p>
+<p>1‐sided
+PMMA
+(test 4)</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>SIBAL Sample
+</p>
+<p>14</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>2-Sided PMMA Sample
+</p>
+<p>15</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Temperature results for Saffire VI-3 (two-sided PMMA). 
+</p>
+<p>16
+</p>
+<p>‐0.1
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+</p>
+<p>0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+</p>
+<p>0 1000 2000 3000
+</p>
+<p>Ig
+ni
+te
+r C
+</p>
+<p>ur
+re
+nt
+ (A
+</p>
+<p>)
+</p>
+<p>Te
+m
+pe
+</p>
+<p>ra
+tu
+re
+ (d
+</p>
+<p>eg
+C)
+</p>
+<p>Time (s)
+SFU Outlet FFD Inlet Forward‐Port Igniter Current
+</p>
+<p>Ignition at 637 s
+</p>
+<p>Flow reduced at 1120 s
+</p>
+<p>Duct flow terminated at
+1420 seconds
+</p>
+<p>The forward port sensor
+is the nearest to the
+Saffire flow duct outlet.</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Heat Release for Saffire VI-3 (two-sided PMMA)
+</p>
+<p>17
+</p>
+<p>0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+</p>
+<p>0
+1
+2
+3
+4
+5
+6
+7
+8
+</p>
+<p>500 1000 1500
+</p>
+<p>Fl
+am
+</p>
+<p>e 
+Po
+</p>
+<p>w
+er
+ (W
+</p>
+<p>) a
+nd
+</p>
+<p> 
+Ra
+</p>
+<p>di
+om
+</p>
+<p>et
+er
+ (x
+10
+</p>
+<p>)
+</p>
+<p>O
+xy
+ge
+n 
+m
+as
+s 
+flo
+</p>
+<p>w
+ ra
+</p>
+<p>te
+ (m
+</p>
+<p>g/
+s)
+</p>
+<p>Time (s)
+</p>
+<p>Inlet O2 Outlet O2 Flame power
+Radiometer #4 (x10) 10 per mov. avg.
+</p>
+<p>Ignition at 637 s
+</p>
+<p>Flow was changed 
+from 20 cm/s to 5 
+cm/s at 1120 
+seconds 
+</p>
+<p>Flow terminated at 
+1420 s.</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>CO and CO2 concentrations for Saffire VI-3 (two-sided PMMA) 
+</p>
+<p>18
+</p>
+<p>0
+</p>
+<p>500
+</p>
+<p>1000
+</p>
+<p>1500
+</p>
+<p>2000
+</p>
+<p>2500
+</p>
+<p>0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+</p>
+<p>0 500 1000 1500 2000 2500
+</p>
+<p>CO
+ C
+on
+</p>
+<p>ce
+nt
+ra
+tio
+</p>
+<p>n 
+(p
+pm
+</p>
+<p>)
+</p>
+<p>CO
+2 
+Co
+</p>
+<p>nc
+en
+</p>
+<p>tr
+at
+io
+n 
+(p
+pm
+</p>
+<p>)
+</p>
+<p>Time (s)
+</p>
+<p>SFU Outlet CO2 FFD CO2 SFU Outlet CO FFD CO
+</p>
+<p>Ignition at 637 s
+</p>
+<p>Flow reduced from
+20 cm/s to 5 cm/s
+at 1120 seconds.
+</p>
+<p>Flow terminated at
+1420 seconds</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Far field ionization smoke detector and particulate matter measurements 
+for Saffire VI-3 (two-sided PMMA). 
+</p>
+<p>19</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Heat Release Results
+</p>
+<p>Oxygen
+Consumption
+Calorimetry
+</p>
+<p>Fuel Consumption
+Calorimetry
+</p>
+<p>Saffire
+Flight/
+Sample
+</p>
+<p>Material Burn 
+duration 
+</p>
+<p>(s)
+</p>
+<p>Peak 
+Heat 
+</p>
+<p>Release 
+(W)
+</p>
+<p>Total 
+Heat 
+</p>
+<p>Release 
+(kJ)
+</p>
+<p>Average 
+Heat 
+</p>
+<p>Release 
+(W)
+</p>
+<p>Total 
+Heat 
+</p>
+<p>Release 
+(kJ)
+</p>
+<p>Max 
+Temp 
+at SFU 
+outlet
+</p>
+<p>Max 
+Temp at 
+FFD or 
+nearest 
+location
+</p>
+<p>FFD inlet 
+CO2
+</p>
+<p>increase 
+(ppm)
+</p>
+<p>CO2
+partial 
+pressure 
+increase 
+(mmHg)
+</p>
+<p>FFD inlet CO 
+increase 
+(ppm)
+</p>
+<p>IV‐1 SIBAL 130 3,150 409 45 25 1390 1.03 80
+V‐2 Cotton 
+</p>
+<p>Jersey
+200 2,800 560 46 23 2360 1.26 83
+</p>
+<p>VI‐2 SIBAL 112 3217 580 3,650 409 48 20 2800 1.15 120
+VI‐3 2‐sided 
+</p>
+<p>PMMA
+780 3080 1280 77 21 8539 3.51 308
+</p>
+<p>VI‐4 1‐sided 
+PMMA
+</p>
+<p>1200 1507 830 57 21 8117 3.37 320
+</p>
+<p>20
+</p>
+<p>1-hour limit for CO2 is 3 mmHg, 1 hour limit for CO is 425 ppm, 24 hours is 100 ppm</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>Conclusions
+</p>
+<p>21
+</p>
+<p>• Practical scale fires ranging from 1.5 to 3.2 kW were tested in unmanned spacecraft
+with free air volumes of 17 to 19 cubic meters.
+• The temperature only increased significantly very near to the fire itself.
+• Ambient concentrations of carbon monoxide exceeded the the 24‐hour carbon
+monoxide limit. (for PMMA tests)
+• Ambient concentrations of carbon dioxide exceeded the 1‐hour carbon dioxide limit
+(for PMMA tests)
+• The smoke was readily detected at 981 seconds (after most of the hazardous gas
+release had occurred)
+• The human hazard from a fire in a spacecraft is very similar to terrestrial fires where
+the heat from the fire is not the principal hazard and rathe the smoke and gaseous
+products are a much greater concern.</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+</div>
+</body></html>

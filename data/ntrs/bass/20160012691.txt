@@ -1,0 +1,359 @@
+2016 Spring Technical Meeting
+Central States Section of the Combustion Institute
+May 15-17, 2016
+Knoxville, Tennessee
+
+Correlation of normal gravity mixed convection blowoff limits
+with microgravity forced flow blowoff limits
+Jeremy W. Marcum1, Sandra L. Olson2*, Paul V. Ferkul3
+1
+2
+
+University of Akron;
+
+NASA Glenn Research Center;
+3
+
+USRA
+
+*Corresponding Author Email: Sandra.olson@nasa.gov
+Abstract: The axisymmetric rod geometry in upward axial stagnation flow provides a simple way to measure
+normal gravity blowoff limits to compare with microgravity Burning and Suppression of Solids – II (BASS-II)
+results recently obtained aboard the International Space Station. This testing utilized the same BASS-II concurrent
+rod geometry, but with the addition of normal gravity buoyant flow. Cast polymethylmethacrylate (PMMA) rods of
+diameters ranging from 0.635 cm to 3.81 cm were burned at oxygen concentrations ranging from 14 to 18% by
+volume. The forced flow velocity where blowoff occurred was determined for each rod size and oxygen
+concentration. These blowoff limits compare favorably with the BASS-II results when the buoyant stretch is
+included and the flow is corrected by considering the blockage factor of the fuel. From these results, the normal
+gravity blowoff boundary for this axisymmetric rod geometry is determined to be linear, with oxygen concentration
+directly proportional to flow speed. We describe a new normal gravity ‘upward flame spread test’ method which
+extrapolates the linear blowoff boundary to the zero stretch limit in order to resolve microgravity flammability
+limits—something current methods cannot do. This new test method can improve spacecraft fire safety for future
+exploration missions by providing a tractable way to obtain good estimates of material flammability in low gravity.
+Keywords: Blowoff, Axisymmetric, Stagnation, PMMA rod
+
+1. Introduction
+Early work [1] on flammability limits has demonstrated that a hemispherical stagnation flow
+geometry is a good way to obtain the flammability limits of various fuels as a function of upward
+flowing oxidizer gas. Many heavier hydrocarbons were found to have similar limiting oxygen
+concentrations (13%-14%) and flame temperatures (1450-1500oC). The stagnation flow
+geometry is amenable to asymptotic analyses [2, 3], numerical modeling [4-6], and experimental
+extinction work for both axisymmetric and 2D geometries [7-11].
+Recent testing completed on the International Space Station investigated the oxygen-flow
+flammability boundary for three different cast PMMA rod sizes [12]. This paper describes
+normal gravity tests conducted to complement the flight results.
+
+1
+
+2016 Spring Technical Meeting of the Central States Section of the Combustion Institute
+
+2. Experimental
+The test setup depicted in Figure 1 was used to determine the blowoff limit for cast PMMA
+rods having different radii. The apparatus consists of a flow system with two sources of gas;
+shop air and calibrated premixed bottles of 14% to 18% oxygen by volume in balance nitrogen.
+A manual valve selects the gas source. The gas flows through a 200 SLPM MKS mass flow
+controller and into a flow straightener, which provides a uniform flow profile, verified by hot
+wire anemometer profiling. The flow then enters the quartz tube, which has a 7.6 cm inside
+diameter and is 25.4 cm long. Matte black foil eliminates reflections from the back of the tube. A
+color video camera records each experiment through the clear tube. An exhaust snorkel above
+the tube removes combustion products from the lab.
+
+Figure 1: Test apparatus schematic. On/off valves,
+pressure regulators, and relief valves are not shown.
+Each experiment begins by imaging a scale inside the tube next to the rod along with a card
+noting the test conditions. Dry shop air (dried using an O’Keefe air dryer) is set to the desired
+test flow rate on the mass flow controller. Each of the cast PMMA rods, hanging from a metal
+crossbar, were ignited manually outside of the apparatus and then suspended in the otherwise
+empty flow tube. Once the flame stabilized inside the tube, the gas source was switched from
+dry shop air to the premixed bottle test gas at the same flow rate to determine if the flame would
+blow off at that flow and oxygen combination. The lowest flow rate where blowoff occurs was
+determined iteratively for each oxygen concentration.
+Due to limitations in system pressures, the maximum flow rate was 165 SLPM (60.3 cm/s
+average tube speed). This limited the range of oxygen concentrations where blowoff could be
+obtained.
+Five radii of cast clear PMMA rods were tested; 0.318 cm, 0.476 cm, 0.635 cm, 1.270 cm,
+and 1.905 cm, spanning a factor of six in radius. Before determining the lowest blowoff limit at
+2
+
+2016 Spring Technical Meeting of the Central States Section of the Combustion Institute
+
+each oxygen concentration, each initially flat-ended rod was allowed to burn to a rounded tip
+which is more representative of the steady-state shape of a burning sample.
+3. Results
+Over 280 experiments were conducted to determine the blowoff limits for each oxygen
+concentration and rod radius, and the bracketing flow conditions were repeated at least once.
+Figure 2 shows the flames just as blowoff begins at each limiting flow condition. Note that at
+18% oxygen, blowoff limits are found at only three radii due to flow rate limitations.
+From these images, some general trends are noted. Flame blowoff always occurs at the
+stagnation region. The triggering event appears to be the development of a flame hole [13] at the
+stagnation region of sufficient size to destabilize the flame base. Due to the destabilization, the
+flame blows downstream. The larger the radius, the larger the flame hole needs to be to
+destabilize the flame, which is consistent with reference 13 for flame holes in the presence of a
+heat sink. Small flame holes might disappear or be “healed,” but a subsequent larger hole can
+destabilize the flame and lead to blowoff. In some cases at higher oxygen and smaller radii, this
+downstream flame would briefly anchor to the sides of the rod, but then the anchor ring would
+begin to oscillate up and down with increasing amplitude until the flame invariably blew off.
+Figure 3 presents the blowoff boundaries found for each rod radius in terms of oxygen
+concentration versus forced flow velocity. Each boundary is approximately linear with flow,
+with the exception of the 14% oxygen data, where all the data collapses at forced flow velocities
+less than 5 cm/s. This result is anomalous and explained as follows. At a sufficiently low forced
+flow rate, entrainment of air into the quartz tube from the top might be mixing with the supplied
+gas, increasing the ambient oxygen concentration so that the rod remained flammable.
+To investigate this behavior, tests were repeated in the ZGRF wind tunnel rig [14] at the same
+normal gravity conditions of 14% O2 and 2 cm/s flow. The wind tunnel rig provides a 20 cm
+diameter flow system with much less chance of entraining air from the top. Unlike in the 1g
+setup in the lab, the rod blew off in repeated tests at 14% oxygen in the larger wind tunnel as
+shown in Figure 4. A test was then repeated at 15% O2 in the ZGRF wind tunnel to determine
+whether there was still an entrainment effect in the quartz tube data at the higher flow speeds.
+However, this flame did not blow off. Given these results, the 14% O2 data are discarded from
+further analysis.
+Figure 5 plots the blowoff forced stretch rate as a function of rod radius r for each oxygen
+concentration. The forced stretch rate is defined as a=3/2 U/r, where U is the average flow speed
+entering the tube and r is the rod radius. The data at each oxygen concentration is fitted with a
+power law having a square root exponent, which is attributed to the flame stretch at the flame
+standoff distance rather than the rod surface. The flame standoff distance is estimated using the
+gas phase thermal length scale, defined as δ = (α/a)1/2, where α is the gas phase thermal
+diffusivity and a is the stretch rate defined above. This length scale δ is thus proportional to r1/2
+for a given velocity U. In the inset, the coefficient C for each power law fit is plotted versus
+oxygen, revealing that the forced stretch rate at blowoff varies linearly with oxygen in addition to
+varying as the square root of the rod radius. These relationships guided the subsequent
+correlation of the data.
+3
+
+2016 Spring Technical Meeting of the Central States Section of the Combustion Institute
+
+18%
+
+O2 % by volume
+
+17%
+
+16%
+
+15%
+
+0.318
+
+0.476
+
+0.635
+1.270
+Radius r, cm
+
+1.905
+
+Figure 2: Flame images just before blowoff for each oxygen
+concentration and rod radius.
+
+4
+
+2016 Spring Technical Meeting of the Central States Section of the Combustion Institute
+
+Figure 3: Blowoff boundaries for each rod radius as a function of oxygen concentration and
+forced flow velocity.
+
+Figure 4: Non-symmetric flame in quartz tube at 14% oxygen, left, does not blowoff due to
+ambient flow entrainment back into the tube. Flame does blow off in larger wind tunnel, right, at
+14% oxygen and 2 cm/s forced flow. Note: camera systems are not the same, although images
+are approximately to scale.
+
+5
+
+2016 Spring Technical Meeting of the Central States Section of the Combustion Institute
+
+Figure 5: Forced stretch rate at blowoff plotted against rod radius at each oxygen concentration.
+The inset shows the constant of each power law curve fit, which varies linearly with oxygen.
+To collapse the data at different radii into a single blowoff boundary, the flame curvature
+needs to be accounted for, so for a given flow speed we introduce the normalized thermal length
+ratio δ/δo = (r /ro)1/2 discussed above where ro is the smallest rod radius = 0.318 cm. In addition,
+the flow acceleration in the quartz tube due to the presence of the rod becomes significant for the
+larger rod sizes, as noted by [15]. To account for this flow acceleration, a blockage factor was
+defined as B=Atube/(Atube-Ar) as follows:
+𝑈 𝑡𝑢𝑏𝑒 𝐴 𝑡𝑢𝑏𝑒 = 𝑈 𝑎𝑐𝑐𝑒𝑙 (𝐴 𝑡𝑢𝑏𝑒 − 𝐴 𝑟 )
+𝑈 𝑎𝑐𝑐𝑒𝑙 =
+
+𝑈 𝑡𝑢𝑏𝑒 𝐴 𝑡𝑢𝑏𝑒
+= 𝐵𝑈 𝑡𝑢𝑏𝑒
+(𝐴 𝑡𝑢𝑏𝑒 − 𝐴 𝑟 )
+
+Where Utube = U in the stretch rate definition, and Atube and Ar are the cross-sectional areas of
+the tube and rod, respectively. Table 1 shows the B values for each r.
+
+6
+
+2016 Spring Technical Meeting of the Central States Section of the Combustion Institute
+
+Table 1: Blockage factor B for each rod radii
+r, cm
+0.318
+0.476
+0.635
+1.270
+1.905
+
+2
+
+Ar, cm
+0.318
+0.712
+1.267
+5.067
+11.401
+
+Atube, cm
+45.604
+45.604
+45.604
+45.604
+45.604
+
+2
+
+B
+1.007
+1.016
+1.029
+1.125
+1.333
+
+Using these corrections, an adjusted forced stretch rate ao is defined as
+𝑎𝑜 =[
+
+3 𝑈
+𝐴 𝑡𝑢𝑏𝑒
+𝑟
+]∗[
+]∗[ ]
+(𝐴 𝑡𝑢𝑏𝑒 − 𝐴 𝑟 )
+2 𝑟
+𝑟𝑜
+
+1⁄
+2
+
+The blowoff data from Figures 3 and 5 is replotted using the adjusted forced stretch rate as
+the x-axis in Figure 6. The data collapses into a single blowoff boundary for all the normal
+gravity data. The BASS-II flammability boundary [12] is also plotted in Figure 6. There is a
+clear offset between the normal gravity data and the microgravity data. An empirical linear
+superposition of the buoyant stretch rate of ab=78 s-1 is used to align the data with the BASS-II
+boundary (atotal = ao + ab). For the smallest rod size, this is an effective forced flow of 16.5 cm/s,
+in good agreement with normal gravity buoyant flow velocities (~ 20 cm/s) [16]. The linear fit
+to the shifted data is given by the blue-shaded band. This blowoff region is inherently wide due
+to the stochastic nature [18] of the blowoff limit.
+
+Figure 6: Blowoff boundary correlation that accounts for the flow acceleration due to rod
+blockage in the quartz tube, and normalizes all the radii to the smallest radius ro using the gas
+phase length scale δ. To account for buoyant stretch, a shift of 78 s-1 aligns the normal gravity
+data with BASS-II data [12]
+7
+
+2016 Spring Technical Meeting of the Central States Section of the Combustion Institute
+
+The linear trend in blowoff data with oxygen is noteworthy and potentially useful for
+developing an improved test method that can be performed in normal gravity to determine
+flammability in microgravity. The idea is that the actual flammability boundary as given by the
+BASS-II data can be approximated simply by the extrapolating the linear blowoff boundary to
+zero stretch, which estimates that 13.4% O2 is the limiting oxygen concentration below which the
+fuel cannot burn at any stretch rate. From a fire safety aspect, it is a conservative estimate but
+still quite close to the observed 13.6% O2 minimum concentration needed to get stable flames in
+BASS-II [12]. The estimate is good because the microgravity quenching bounary turns upward
+away from the blowoff line only for low-speed flows, a very narrow region (compared to the
+overall boundary).
+The use of an empirical shift to determine the buoyant stretch predicates knowledge of the
+microgravity boundary, which is not generally the case. Using another way to account for the
+shift, consider the formulation from [17] where the buoyant stretch takes the form
+𝑎 𝑏 = 𝐾√
+
+𝑔
+𝑟
+
+Using values ab = 78 s-1, g=981 cm/s2, and ro = 0.318 cm, the constant K is estimated to be
+1.4. Further research is needed to determine the applicability of the buoyant stretch constant K
+for different materials. Since K is a density ratio [17], and gas-phase chemistry at the blowoff
+limit may have the same limiting reaction rate for a given flow rate (critical Damkohler number),
+the critical temperatures may be similar for different materials with the same basic gas phase
+chemistry [1] at each oxygen concentration. Thus for common C-H-O fuels one would expect
+the density ratio to also be similar at blowoff. On the other hand, fuels with other chemical
+additives (N, Br, Cl, P, etc.) may not follow the same trends.
+4. Conclusions
+Normal gravity blowoff limits were measured for the axisymmetric cast PMMA rod
+geometry in upward axial stagnation flow. Five radii (0.318 cm to 1.905 cm) at five oxygen
+concentrations (14 to 18% by volume) were tested. The blowoff velocities were converted to
+forced stretch rates. By using a normalized thermal length ratio δ/δo = (r /ro)1/2 to account for the
+stretch rate at the flame standoff distance and normalizing the results to the base rod size as well
+as adjusting the flow due to rod blockage in the tube, all the data was correlated onto a single
+curve.
+The blowoff boundary in normal gravity was compared to the complete microgravity
+extinction boundary from the Burning and Suppression of Solids – II (BASS-II) experiments
+performed aboard the International Space Station. The normal gravity blowoff boundary was
+parallel to the BASS-II boundary, but shifted to lower stretch rates. In order to account for the
+additional inherent buoyant stretch, the normal gravity boundary was empirically shifted to the
+right by a value ab =78 s-1, which for the base rod size corresponds to a forced flow velocity of
+16.5 cm/s, in good agreement with buoyant flow velocity estimates.
+We suggest an improved normal gravity ‘upward flame spread test’ method to estimate
+material flammability in microgravity. The first step is to determine the normal gravity blowoff
+boundary for an axisymmetric rod geometry burning in a forced flow tube. Then, the buoyant
+stretch contribution is added to predict the microgravity blowoff boundary. Further research is
+8
+
+2016 Spring Technical Meeting of the Central States Section of the Combustion Institute
+
+needed to determine the applicability of the buoyant stretch constant K for different materials. If
+proven for various materials, this linear boundary, extrapolated to zero stretch, could provide a
+conservative estimate of flammability limits in microgravity. The technique may work for a
+wide range of materials as long as the extinction boundaries have a similar shape. This test
+method may improve spacecraft fire safety for future exploration missions.
+5. Acknowledgements
+The ISS Research Project Office funded this work. The authors want to acknowledge the
+personnel from the NASA Glenn Zero Gravity Research Facility, led by Professional Engineer
+Eric Neumann, for their assistance in preparation of the rod samples, design and fabrication of
+the flow straightener and flow system, and support of supplemental wind tunnel normal gravity
+testing at 14% oxygen. The authors would also like to thank Jay Owens for his help in setting
+up the camera control system for normal gravity testing.
+6. References
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+12
+
+13
+
+14
+15
+16
+17
+18
+
+R.F. Simmons, H. G. Wolfhard, Combust. Flame 1 (2) (1957) 155-161.
+A. Linan, Acta Astronautica 1 (1974) 1007-1039.
+S.H. Sohrab, A. Linan, F.A. Williams, Combust. Sci. Tech. 27 (1982) 143-154.
+J.S. T’ien, H. Bedir, Proc. Of 1st Asia-Pacific Conference on Combust. (1997) 12-15.
+J.S. T'ien, Combust. Flame, Vol. 65 (1986) 31-34.
+J.S. T’ien, Progress in Scale Modeling (2008) 281-292.
+L. Krishnamurthy, Combust. Sci.Tech. 10.1-2 (1975): 21-25.
+H. Tsuji, Progress in Energy and Combustion Science, 8(2) (1982) 93-119.
+Y. Halli, J. S. T’ien, NBS-GCR-86-507 (1986).
+S. L. Olson, Case Western Reserve University Dissertation, May, 1997.
+C. Sanchez-Tarifa, B. Lazaro, Microgravity Research and Applications in Physical
+Sciences and Biotechnology, 454 (2001), 267-274.
+S.L. Olson, P.V. Ferkul, 9th U. S. National Combustion Meeting, The Combustion
+Institute, May 17-20, 2015, Cincinnati, Ohio.
+V. Nayagam, R. Balasubramanian, P.D. Ronney, Combust. Theory Modelling 3 (1999)
+727-742.
+S.L. Olson, F.J. Miller, Proc. Combust. Inst. 32 (2009) 2445-2452.
+H. Tsuji, I. Yamaoka, Proc. Combust. Inst. 11 (1967) 979-984.
+H.D. Ross, ed. Microgravity Combustion, Academic Press (2001) 313-329.
+S.L. Olson, J.S. T’ien, Combust. Flame 121 (2000) 439-452.
+J. S. T’ien, Combust. Sci. Tech. 7 (1973) 185-188.
+
+9
+

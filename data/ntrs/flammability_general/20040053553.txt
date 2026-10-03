@@ -1,0 +1,239 @@
+EFFECT OF LOW EXTERNAL FLOW ON FLAME SPREADING
+OVER ETFE INSULATED WIRE UNDER MICROGRAVITY
+Katsuhiro Nishizawa, Osamu Fujita, Kenichi Ito
+Dept. of Mechanical Science, Hokkaido University, Kita-13 Nishi-8, kita-ku, Sapporo, 060-8628,
+Japan
+Masao Kikuchi
+National Space Development Agency of Japan, 2-1-1, Sengen, Tsukuba, Ibaraki, 305-8505,
+Japan
+Sandra L. Olson
+NASA Glenn Research Center, Cleveland, OH, 44135, USA
+Takashi Kashiwagi
+National Institute of Standards and Technology, Gaithersburg, MD, 20899, USA
+1. INTRODUCTION
+Fire safety is one of the most important issues for manned space missions. A likely cause of
+fires in spacecraft is wire insulation combustion in electrical system. Regarding the wire
+insulation combustion it important to know the effect of low external flow on the combustion
+because of the presence of ventilation flow in spacecraft. Although, there are many researches on
+flame spreading over solid material at low external flows under microgravity [1,2], research
+dealing with wire insulation is very limited. An example of wire insulation combustion in
+microgravity is the Space Shuttle experiments carried out by Greenberg et al [3]. However, the
+number of experiments was very limited. Therefore, the effect of low flow velocity is still not
+clear. The authors have reported results on flame spreading over ETFE (ethylenetetrafluoroetylene) insulated wire in a quiescent atmosphere in microgravity by 10 seconds drop
+tower [4]. The authors also performed experiments of polyethylene insulated nichrom wire
+combustion in low flow velocity under microgravity [5]. The results suggested that flame spread
+rate had maximum value in low flow velocity condition. Another interesting issue is the effect of
+dilution gas, especially CO2, which is used for fire extinguisher in ISS. There are some
+researches working on dilution gas effect on flame spreading over solid material in quiescent
+atmosphere in microgravity [4,6]. However the research with low external flow is limited and, of
+course, the research discussing a relation of the appearance of maximum wire flammability in
+low flow velocity region with different dilution gas cannot be found yet. The present paper,
+therefore, investigates the effect of opposed flow with different dilution gas on flame spreading
+over ETFE insulated wire and change in the presence of the maximum flammability depending
+on the dilution gas type is discussed within the limit of microgravity time given by ground-based
+facility.
+Generally, solid combustion has longer time scale than other phase fuel, especially with thick
+sample and/or low oxygen concentration and it is difficult to obtain reliable data in short time
+microgravity test. Therefore, the present work is limited to high oxygen concentration cases with
+thin fuel. To attain general understanding of wire insulation combustion, the test with long-term
+microgravity is essential. This subject is selected as a candidate of ISS flight test at IAO2000
+NASA/CP—2003-212376/REV1
+
+177
+
+(Effect of Material Properties on Wire Flammability in Weak Ventilation of Spacecraft
+(FireWIRE)) and the research is now under definition stage.
+2. EXPERIMENTAL
+The experiments were performed at the Japan
+Microgravity Center (JAMIC) 10s dropshaft and NASA’s
+KC-135 aircraft. The detail of the setup for KC-135 test
+is described in Ref. [7].
+Figure 1 shows the combustion chamber with flow
+duct used for JAMIC test. The combustion chamber is a
+rectangular airtight vessel, and a flow duct is installed in
+the chamber. The chamber has an air suction fan at the
+left end of the duct. The flow velocity in the duct is
+controlled in the range 0 to 30cm/s.
+Fig.1 Out line of combustion
+A sample wire, which is fixed to the sample holder
+chamber
+with igniter, is installed in the center of the flow duct
+parallel to the external flow. Flame spreads opposed to the external flow (from left to right in
+Fig.1). ETFE (ethylene- tetrafluoroethylene copolymer) insulated copper wire was used as a test
+sample. The sample use in the experiments is 0.32mm inner core and 0.15mm insulation
+thickness (AWG28). Experiments were performed with different O2 concentrations, external
+flow velocities and dilution gas, N2 and CO2.
+3. EXPERIMENTAL RESULTS AND DISCUSSION
+3.1 OBSERVATION OF FLAME
+Figure 2 shows photographs of
+spreading flame at different flow velocity
+in 35% O2 with CO2 dilution. It shows
+that the flame is luminous with blue
+flame region at the front of the flame in
+all external flow velocity. At 0cm/s, the
+trailing edge of flame becomes wide in
+comparison with the leading edge. When
+external flow is given, flame shape as
+(a) 0cm/s
+(b) 2cm/s
+seen in Fig.2 (b), (c) and (d), is
+cylindrical with almost same diameter
+along the wire.
+Another interesting phenomenon is
+unsteady flame spreading with CO2
+dilution at low flow velocity, 0 and
+2cm/s. Figure 3 shows the typical
+sequential photos of spreading flame at
+(c) 5cm/s
+(d) 10cm/s
+2cm/s with CO2 dilution. The time
+Fig.2 Photographs of spreading flames over ETFE
+interval of each photo is approximately
+insulated wire under different external air flow with
+0.2s. A most ordinal flame shape is the
+CO2 dilution (O2=35%)
+one as shown in Fig. 3 (a). Then, at the
+
+NASA/CP—2003-212376/REV1
+
+178
+
+flame
+front
+blue
+flame
+propagates fast as shown in
+Fig.3(b), (c). After that, another
+luminous flame grows at the
+front of spreading blue flame
+front as see in Fig.3 (d). This
+secondary luminous flame is
+(a)
+(b)
+small at first but increases in size
+with time as shown in Fig. 3(e),
+(f). Then, the primary luminous
+flame quenches and secondary
+flame spreads. This unsteady
+phenomenon
+is
+unique
+(c)
+(d)
+phenomena observed in low
+external flow condition with
+CO2 dilution. One of the
+possibility reasons of the
+unsteady
+phenomenon
+is
+reabsorption effect of CO2 gas.
+(e)
+(f)
+In low flow velocity, preheat
+Fig.3 Sequential photographs of spreading flames in low
+length is strongly affected by
+velocity flow with CO2 dilution (Ve=2.1cm/s)
+reabsorption [8]. The preheat
+length becomes longer with time by CO2 reabsorption when flow velocity is low. Then, heat
+transfer to unburned fuel at the preheat zone increases. When total heat supply to the unburned
+region reaches critical amount, suddenly flame spreads fast and the preheat length decrease again.
+
+Flame Spread Rate(mm/s)
+
+Flame Spread Rate(mm/s)
+
+3.2 FLAME SPREAD RATE
+Flame spread rate is determined based on the motion picture taken by digital video camera.
+Fig.4 shows plots of flame spread rate as a function of flow velocity for different oxygen
+concentrations with N2 dilution. The flame spread rate generally increases with increase in
+ambient oxygen concentration, irrespective of flow velocity. Another interesting feature with N2
+dilution is the trend to show a maximum flame spread rate at a certain flow velocity, around
+
+6
+
+6
+
+4
+
+4
+
+2
+
+0
+
+2
+
+35%
+40%
+10
+20
+Air Flow Velocity(cm/s)
+
+0
+
+Fig.4 Flame spread rate as a function of
+external air flow velocity (N2 dilution)
+
+NASA/CP—2003-212376/REV1
+
+N2
+CO2
+5
+10
+15
+Air Flow Velocity(cm/s)
+
+Fig.5 Flame spread rate with different
+dilution gas (O2=35%)
+
+179
+
+5cm/s, in low flow velocity region. This trend qualitatively agrees with the case of polyethylene
+insulated wire [5]. This is one of the feature of wire insulation combustion, which is explained as
+an geometrical effect in Ref.[5].
+Figure 5 shows the flame spread rate change as a function of external flow velocity with
+different dilution gas. The flame spread rate with N2 is faster than that with CO2 at 35% O2,
+irrespective of flow velocity. The trend of flame spread rate is different between N2 and CO2.
+With N2, flame spread rate tends to have maximum value as mentioned baove. On the other hand,
+CO2 dilution case resulted in the highest flame spread rate at Ve=0cm/s and decrease
+monotonically with increase in flow velocity. Then, it reaches almost constant spread rate over a
+certain flow velocity. Therefore, the flame spread rate has no maximum value in low flow
+velocity region with CO2 case. One of the reasons of the difference is reabsorption effect of CO2
+gas. With CO2, radiation heat from the flame is reabsorbed in preheat region [8] and flame
+temperature decrese is not large, while N2 dilution leads to large temperature decrease causing
+decrease in flame spread rate. In high flow velocity region the reabsorption effect is not important
+and the trend becomes similar to N2 dilution case.
+4. SUMMARY
+(1) The dependence of flame spread rate on flow velocity was examined with drop tower and
+aircraft. Specially, flame spread rate with N2 and CO2 was compared. Flame spread rate
+was 2-6mm/s even if oxygen concentration was 35% or higher. Therefore, it is difficult to
+obtain data with low O2 concentration or thick sample in ground-based facility. Long term
+microgravity test such as ISS is expected.
+(2) Flame spread rate with N2 has maximum value in low flow velocity region, while with CO2
+flame spread rate increases monotonically with decrease in flow velocity. One of the
+explanations of the difference is effects of sample geometry and reabsorption of CO2 gas.
+(3) Unsteady flame spread phenomenon was observed with CO2 dilution. This phenomenon is
+explained by CO2 reabsorption effect, which is to be investigated in the next step.
+ACKNOWLEDGEMENT
+This research is supported by NASDA (National Space Development Agency of Japan) and JSF
+(Japan Space Forum) as a selected subject of microgravity science research IAO2000. The early
+part of this research was supported by the NEDO (New Energy and Industrial Technology
+Development Organization of Japan) through the JSUP (Japan Space Utilization Promotion
+Center) as a part of R&D project of multi fuel combustion technology utilizing microgravity.
+REFERENCES
+[1] S. L. Olson, Combust. Sci. Technol, 76, 233, (1991)
+[2] T. Kashiwagi et al., Proc. Combust. Inst., 26, 1345, (1996)
+[3] P. S. Greenberg et al., 3rd International Microgravity Combustion Workshop, 25, (1995) /
+K.R Sacksteder, P.S.Greenberg, and J.S.T’ien, Proc. of the 3rd Joint Metting of U.S.Sections
+of the Combustion Institute.
+[4] M. Kikuchi et al., Proc. Combust. Inst., 27, 2507, (1998)
+[5] O. Fujita et al., Combust. Inst., 29, (2002) (in print)
+[6] L. K. Honda et al., Combust. Sci. Technol., 133, 267, (1998)
+[7] O. Fujita et al., 6th International Microgravity Combustion Workshop, (2001)
+[8] O. Fujita et al., Proc. Combust. Inst., 28, 2905, (2000)
+
+NASA/CP—2003-212376/REV1
+
+180
+

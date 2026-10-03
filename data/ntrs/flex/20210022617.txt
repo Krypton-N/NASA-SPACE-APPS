@@ -1,0 +1,584 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PowerPoint Presentation
+
+
+Isolated Single Droplet Combustion:
+FLEX Experiments onboard the International Space Station
+
+Vedha Nayagam
+Case Western Reserve University/NASA GRC
+
+Daniel L. Dietrich
+NASA Glenn Research Center
+
+Forman A. Williams 
+University of California San Diego
+
+October 15, 2021
+
+
+
+History Leading to ISS FLEX Experiments
+
+o NASA drop-tower experiments: 1974-present
+2.2 second tower, Zero gravity facility (5 seconds)
+Lear Jet, KC-135, DC-9 parabolic flights 
+
+o Fiber-supported droplet combustion (FSDC): 
+STS73-USML-2,1995
+
+o Droplet combustion experiment (DCE):
+STS94-MSL-1,1997
+
+FSDC-2 during the 2nd flight
+
+o Flame Extinguishment experiments (FLEX): ISS 2008-2016
+• FLEX
+• FLEX-2
+• FLEX-ICEGA
+• FLEXJ
+
+o Cool Flame Investigation (CFI): ISS 2017
+2
+
+JASMAC-33
+10/15/2021
+
+o The first publication in the field:
+S. Kumagai, “Combustion of fuel droplets in falling 
+chambers with special reference to the effect of natural 
+convection”,  Jet Propulsion, Vol. 26, 1956, p. 786.
+
+
+
+3
+
+JASMAC-33
+10/15/2021
+
+FLEX Hardware: CIR & MDCA Diluent Manifold
+
+Oxygen 
+Manifold
+
+N2/Diluent Manifold
+
+Gaseous Fuel 
+Manifold
+
+Adsorber 
+Cartridge
+
+Chamber
+
+Combustion Integrated Rack (CIR)
+
+o Chamber
+• 100 Liters capacity
+• Operating pressure: 0.02 to 5 atmospheres and 
+
+contains pressures up to 9 atmospheres
+• 8 Sapphire windows
+
+o Supplies gaseous fuel, oxidizers and diluents 
+to the combustion chamber
+
+o Multi-user Droplet Combustion Apparatus(MDCA)
+o Diagnostics 
+
+• Backlit, black and white high speed 
+camera (droplet view)
+
+• LLUV flame view camera (OH*,CH*)
+• Color camera (downlinked, operations)
+• Radiometers (Wide band 0.6 – 10.0 µm,
+
+and narrow band 5.0 – 6.5 µm )
+
+
+
+Methanol Droplet Combustion
+
+4
+
+JASMAC-33
+10/15/2021
+
+no burn
+
+diffusive extinction
+
+o A wide range of conditions were investigated:
+13% < O2 < 30%
+5% < CO2 < 75%
+5% < He < 45%
+1 < D0 < 4.5 mm
+
+o Diffusive extinction due to water absorption, and 
+radiative extinction were observed. The limiting oxygen 
+index (LOI) ~ 12-13% oxygen at atmospheric pressure.
+
+o Simplified theoretical models (Nayagam, 2013), and 
+numerical simulations (Farouk & Dryer,2012) explain 
+experimental observations reasonably well.
+
+Bubble size proportional to oxygen concentration
+
+water vapor
+
+
+
+5
+
+JASMAC-33
+10/15/2021
+
+o Large droplets => Radiative 
+extinction
+
+o Second-stage cool-flame combustion
+o Cool flame extinction
+o Vapor cloud formation
+
+o Similar observations for other 
+n-alkanes:
+
+n-octane 
+n-decane 
+n-dodecane fuels
+
+n-heptane
+
+Quasi-steady Cool Flames
+• One of the major findings during FLEX experiments is the observation of low-temperature chemistry 
+
+controlled, quasi-steady burning and extinction of n-alkane fuel droplets.
+
+air
+
+18%O2
+82%N2
+
+18%O2
+15%CO2
+
+
+
+6
+
+JASMAC-33
+10/15/2021
+
+Quasi-steady Cool Flames
+
+N-decane - ½ atm pressure - 21% O2 and 79% N2
+
+
+
+7
+
+JASMAC-33
+10/15/2021
+
+o FLEX-377
+• N-decane
+• ½ atm 
+• air
+• D0 =4.0 mm
+
+Quasi-steady Cool Flames (with cool flame imaging)
+
+Hot flame Cool flame
+
+o Cool flames are very weak (frame averaged here)
+o They are broad (unlike hot flames)
+o They are located closer to the droplet surface 
+
+compared to the hot flames
+
+
+
+8
+
+JASMAC-33
+10/15/2021
+
+• Fuel is oxidized using chemical kinetic pathways
+• The chemical kinetic pathways change from LTC chemistry to HTC chemistry in the NTC zone
+• Cool flames arise in the Negative Temperature Coefficient (NTC) region 
+• Cool flames are fundamentally different compared to hot-flames (chemical kinetics controlled)!
+
+RH (fuel)
+
+R
+
+RO2
+
+QOOH
+
+O2QOOH
+
+KET
+
++ O2
+
++ O2
+
+Low-T branching
+
+alkenes + R’
+
+Intermediate-T
+
+Quasi-steady Cool Flames
+
+
+
+9
+
+JASMAC-33
+10/15/2021
+
+Simplified Theoretical Model: Cool Flames
+
+6-step simplified chemical kinetics (based on San Diego Mechanism)*
+
+A – (cm3/mol.s) (for bimolecular reactions) & 1/s (for unimolecular reactions)
+Ta – (K )
+
+Heat release can be associated with this step 4
+
+*Williams and Nayagam (Combustion Theory and Modelling (2019)
+
+*Williams and Nayagam (Combustion and Flame (2020)
+
+rr ~ A Exp[-Ta/T]
+
+Step 1: H-atom abstraction 
+RH + OH → R + H2O
+
+Step 2: First oxygen addition
+R + O2 → ROO
+
+Step 2a: Internal Isomerization
+ROO → QOOH
+
+Step 3: 2nd oxygen addition
+QOOH + O2 → KET + OH 
+
+Step 4: KET decomposition
+KET → P’s + OH 
+
+Step 5: Intermediate – T path
+QOOH  → S’s
+
+Step 6: High-T path
+R → S’s
+
+
+
+10
+
+JASMAC-33
+10/15/2021
+
+Simplified Theoretical Model
+
+o Simplified theory provides useful insights
+o KET is produced over a large region
+o Fuel and Oxygen leaks through the flame
+o Flame temperatures are low ~ 800K
+o Leaked fuel can condense forming vapor cloud
+
+6-step simplified chemical kinetics – cool diffusion flame structure – Activation Energy Asymptotic 
+Theory*
+
+*Williams and Nayagam (Combustion Theory and Modelling (2019)
+
+*Williams and Nayagam (Combustion and Flame (2020)
+
+F – fuel
+R – alkyl radical
+I  – intermediate
+K – ketohydroperoxide
+P, Q, S – products
+
+
+
+11
+
+JASMAC-33
+10/15/2021
+
+Simplified Theoretical Model: Cool flame burning rate
+(a)
+
+(b)
+
+(c)
+
+(a) 21% O2 – He varies –displaces N2
+
+(b) O2 varies –rest N2
+
+(c) Xe or He displaces air
+
+For case (c) with He, the burning 
+becomes highly transient – QS not 
+valid
+
+Nayagam, V., Dietrich, D. L., and Williams, F. A., Combustion and Flame (2021). 
+
+
+
+12
+
+JASMAC-33
+10/15/2021
+
+Simplified Theoretical Model: Cool flame extinction
+
+Agreements for heptane and octane seem 
+reasonable, but dodecane extinction 
+diameters are over predicted appreciably.
+
+(a) 21% O2 – He varies –displaces N2
+(b) O2 varies –rest N2
+(c) Xe or He displaces air
+
+(a)
+
+(b)
+
+(c)
+
+Nayagam, V., Dietrich, D. L., and Williams, F. A., Combustion and Flame (2021). 
+
+
+
+Warm Flames at Elevated Pressures (CFI)
+
+13
+
+FLEX-1250:
+N-dodecane – Air -1 atm - D0 = 4 mm
+KHF = 0.383 mm2/s
+De,HF = 3.55 mm
+KCF = 0.387 mm2/s
+De,CF = 0.40 mm
+
+FLEX-1256:
+N-dodecane – Air -3 atm - D0 = 4.2 mm
+KHF = 0.350 mm2/s
+De,HF = 3.73 mm
+KwF = 0.491 mm2/s
+De,wF = 0 mm
+
+JASMAC-33
+10/15/2021
+
+FSR
+FSR
+
+o Behavior changes when ambient pressure is increased.
+o Cool flame reignition
+o Warm flames 
+
+o Warm flames are still not visible
+o Flame temperature is higher than cool flame (radiation)
+o Flame standoff ratio is higher (close to that of HF) 
+o Oscillatory extinction observed for the first time
+
+Farouk, T. I., Dietrich, D., & Dryer, F. L. (2019). 
+Proceedings of the Combustion Institute.
+
+
+
+14
+
+JASMAC-33
+10/15/2021
+
+o A new phenomenon where a hot flame extinction leads 
+to a low-temperature, “cool-flame” burning in 
+microgravity has been observed for the first time 
+
+o These cool flames produce partially oxidized fuel and 
+potentially re-ignite to hot flames posing fire safety 
+concerns in spacecraft environments
+
+o Existing, widely-used detailed chemical kinetic models 
+do not accurately predict the 2nd stage cool flame 
+extinction (and warm flame) and need further 
+improvement
+
+o Improved low temperature chemistry will have wide 
+ranging applications including advanced internal 
+combustion engine design and development
+
+o The new phenomena may lead to new innovative 
+burner designs and fuel reforming technologies
+
+o A wealth of experimental data with a variety of fuels, 
+fuel mixtures, and ambient conditions (over 1500 tests)
+
+Conclusions
+
+
+
+15
+
+JASMAC-33
+10/15/2021
+
+Principal Investigator
+Prof. Forman A. Williams, UCSD
+
+Co- Investigators
+Prof. C. Thomas Avedisian, Cornell
+
+Prof. Mun Y. Choi, U Conn
+Prof. Frederick L. Dryer, Princeton
+
+Prof. Tanvir Farouk, U South Carolina 
+Dr. Michael C. Hicks, NASA GRC
+Dr. Vedha Nayagam, CWRU/GRC
+
+Prof. Benjamin D. Shaw, UC Davis
+
+Project Scientist
+Dr. Daniel L. Dietrich, NASA GRC
+
+Dr. Paul V. Ferkul, USRA/GRC
+
+Project Manager
+Mr. J. Mark Hickman, NASA GRC
+
+Flame Extinguishment Experiment (FLEX) Science Team
+
+
+
+16
+
+JASMAC-33
+10/15/2021
+
+Questions?
+
+
+
+17
+
+JASMAC-33
+10/15/2021
+
+o FLEX-377
+• N-decane
+• ½ atm 
+• air
+• D0 =4.0 mm
+• Dhfe=3.3 mm
+• Dcfe=2.7 mm
+
+Quasi-steady Cool Flames (with radiometers)
+
+hot flame
+
+cool flame
+
+ev
+ap
+
+or
+at
+
+io
+n
+
+hot flame
+
+cool flame
+
+ev
+ap
+
+or
+at
+
+io
+n
+
+narrow-band
+radiation
+
+wide-band
+radiation
+
+n-decane
+
+
+	Slide Number 1
+	Slide Number 2
+	Slide Number 3
+	Slide Number 4
+	Slide Number 5
+	Slide Number 6
+	Slide Number 7
+	Slide Number 8
+	Slide Number 9
+	Slide Number 10
+	Slide Number 11
+	Slide Number 12
+	Slide Number 13
+	Slide Number 14
+	Slide Number 15
+	Slide Number 16
+	Slide Number 17
+

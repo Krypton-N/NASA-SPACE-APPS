@@ -1,0 +1,1447 @@
+FIRE
+
+SAFETY
+
+PRACTICES
+
+IN THE
+
+STATION
+
+SHUTTLE
+
+AND THE
+
+SPACE
+
+FREEDOM
+
+Robert Friedman
+NASA Lewis Research Center
+Cleveland, Ohio 44135
+ABS'W_C_
+The Shuttle reinforces its policy of fire-preventive measures with onboard smoke detectors and
+Ha]on 1301 fire extinguishers.
+The forthcoming Space Station Freedom will have expanded fire protection with photoelectric smoke detectors, radiation flame detectors, and both fixed and portable carbon dioxide fire extinguishers.
+Many design and operational issues remain to be resolved for Freedom.
+In particular, the fire-suppression
+designs must consider the problems ofgns leakage in toxic concentrations, alternative systems for single-failure redundancy, and commonality with the corresponding
+systems of the Freedom international
+partners. While physical and engineering requirements
+remain
+the primary driving forces for spacecra]_ fire-safety technology, there are, nevertheless,
+needs and
+opportunities for the application of microgravity combustion knowledge to improve and optimize the
+fire-protective
+systems.
+
+INTRODUCTION
+Fire safety in spacecrat_ has been cited as one practical motivation
+for advancing microgravity
+combustion research (ref. 1). Current spacecrm°c fire protection, however, is based largely on established fire-safety practices used in enclosed compartments, such as aircraft (ref. 2). The application
+of fundamental, quantitative information from microgravity combustion research could promote greater
+efficiency in the design and operation of protective systems, lessen restrictions on the use of materials
+and operations in space-based hardware, and reduce excessive safety factors and false alarms. Certainly, the advent of the complex, permanently orbiting Space Station Freedom offers an opportunity
+for novel and improved spacecrat% fire-safety techniques derived from a thorough understanding
+of fire
+behavior in low gravity (ref. 3).
+This paper isthus a review to acquaintthe microgravity ombustion researchcommunity with
+c
+currentand proposedfire-safety
+practices nd critical
+a
+issues
+forU.S. human-crew spacecraf_
+and to
+suggestrelevant
+fieldshere microgravity
+w
+combustion research
+may promote spacecraRfiresafety.
+
+HAZARD
+
+ANALYSES
+
+FOR SPACECRAFP
+
+General Strategies
+The major emphasis in spacecraf_ fire safety is on fire prevention through control, if not elimination, of one of the three elements necessary for fire, L e., fuel, ignition, and oxygen (ref. 4). For the
+first element, the control is based on a policy of qualifying acceptable materials for spacecrai_ use
+through tests of the resistance to upward (in normal-gravity)
+flame spread following exposure to
+promoted ignition. Of course, many necessary spacecra]_ items fail this test (including articles made
+from paper and fabrics). Usage of these materials is permitted in limited quantities under prescribed
+conditions of fire-safe storage. For the second element, control of ignition is through standard practices of electrical grounding, circuit breakers, pressure containment, and the like. There is no control
+of the third element, oxygen. The Shuttle atmosphere is sea-level air, which is enriched to 30% oxygen
+at a reduced total pressure of 72 kPa for prebreathing prior to an extravehicular activity. The use of
+fire-resistant,
+reduced-oxygen atmospheres
+for human support in submarines
+and other enclosed
+213
+PREC-ED_,NG PAGE
+
+BLANK
+
+NOT
+
+FILMED
+
+habitatshas been investigated rof. ). For the Shuttleand the initial
+(
+5
+phases of the Space Station
+Freedom, however, design and operational
+considerationsliminatethe consideration other than
+e
+of
+conventionalatmospheres (ref.).
+4
+FireScenarios
+Absolutefire
+prevention
+isimpossible
+and perhaps noteven desirable fpossible.
+i
+Spacecrai_
+fire
+safetymust address thetradeoff
+ofminimum riskagainstoperationalracticality,
+p
+where a minimum,
+residualrisklevei
+c_ be definedas the consequences a worst-case
+-of
+fire
+that causing possible
+component damage that_ suspend some ope_tions temporarily
+but no human injuriesref.
+(
+6). For the
+Shuttle,
+plausible
+fire-initiating
+scenarios
+areelectrical
+breakdowns (shorts,verloads,
+o
+and arc tracking)or electrom_hanica]
+overlaea_gV(motorS,
+ro_g
+eq_pment,
+heate_)'
+For Freedom, Potential
+fire-causing
+scenarios are more numerous.
+W. Fuller and M. Halverson (cited in ref. 7) condu_d
+a
+qu_'tative
+risk assessment
+for the's_tion
+with im'tiatingfire
+_scenarios cove_g_electrical
+shorts,
+faults in electrolysis units, oxygen le_,
+.....
+ground actions ...
+.
+
+chemical
+
+reactions, faulty
+
+experiments,
+
+or improper
+
+crew or
+
+A comple_strat_
+offire
+protection spacecrai_
+in
+thus proceeds
+from theassumption that fires
+or theirprecursorswillhave a finite
+probability occurrence.Onboard firesafetyin current and
+of
+proposed spacecrai_
+must then concentrate firedetection, uppression, nd post-fire estoration.
+on
+s
+a
+r
+The descriptionnd evaluation
+a
+ofthesefire-responsive
+techniques
+aretheprimary scopeofthisreview.
+
+BRIEF HISTORY
+
+OF U.S. SPACECRAFt
+
+FIRE SAFETY
+
+The atmosphere in the early spacecrai_,
+Mercury, Gemini, and Apollo,was 100% oxyge-n,
+an
+atmosphere inwhich no common orgv_ic
+materialcan truly
+resistire
+f
+spread.This failing as emphaw
+sized by the disastrous
+Apollo204 firein 1967, occurringduring ground testingat_sea-leveI_
+total
+pressure. The_investigationf the Apollo fireledto the development of new plastic
+o
+materials,
+the
+adaptation ofthe presentflammability-assessmentethods, and the use ofa dilutedoxygen atmosm
+phere forground operations.
+The development offire-responsive
+techniquesin spacecrai_
+has been slower than that of firepreventionmeasures (ref.). In the simple configurations Mercury, Gemini, and Apollo,the crew
+2
+of
+members could observethe completeinterior the pressurized
+of
+modules. Hence, the senses of the
+humancrew were adequatetodetecttheinitiation fire.
+ofa
+The water gun for
+food reconstitu_on-was
+designatedforuse as an emergency fire
+extinguisher.
+The Apollospacecrai_
+system added dedicated
+foam-agent fire
+extinguishers.twas not until
+I
+the introductionfthefirst .S. space station,
+o
+U
+Skylab
+in 1973 to 1974,however, that instrumented firedetectionwas incorporated a spacecral_.The
+in
+Skylab system used 30 line-of-sight
+u|travioletflmneetectors,lacedthroughout the station.
+d
+p
+The Skylab space station
+alsoprovided the environment fora pioneeringtestof low-gravity
+flammability,
+until
+recently
+theonlyquantitative tudy offire
+s
+behaviorunder low gra_ty. The Skylab
+_y
+was an obse1"va_o-n
+oftlae-time-_endent_flame_ont in the combustion ofpractlca]
+materials,
+including
+aluminizedMylar,Nylon,neoprene-coated
+Nylon,polyurethanefoam,and paper.The materi-a|s
+_r_ _gni_t_[n the Skylab atmosphere of65% oxyg_e_innitrogen _6 l_Pa total-pressure.he
+i
+_t
+T
+flame-spreadratewas Caiculatedfromcomparisonsof the flame-front
+portion on successive
+motionpicture
+frames. Kimzey (ref. and Appendix C ofref.10)discussedthe Skylab low-gravity
+9
+and corresponc_Ig normal-gravity
+results
+and made the following
+key observations."
+•
+•
+
+Flame-spread ratesare always lower in microgravity,ith comparativeratesranging from .15
+w
+to .60those in normal gravity.
+The visibility flame issignificantly
+ofa
+reduced in microgravity.
+214
+
+•
+•
+
+Extinguishment
+by vacuum is effective, and the
+decreases sufficiently.
+A significant side effect
+the initial phase of venting.
+Extinguishment
+by water is possible provided
+insufficient
+water strikes a burning material, it
+material.
+
+flame is extinguished when the available oxygen
+is the flame intensification
+that develops during
+the application is controlled and adequate.
+If
+always causes a flareup that can scatter burning
+
+The Skylab conclusionsestablished
+the safetyfactorunderlying the use of NASA normal-gravity
+flammabilitytestassessments. That is,the material-acceptance riterionssumes that any item
+c
+a
+passing an upward-spreading normal-gravity estwould be no more "flammable"in low gravity.
+t
+Recently,
+Pogue, one of the Skylab crew members, summarized his conclusions based on firsthand observations
+of the flammability
+study (ref. 11). Pogue also noted that flame-spread
+rates always
+are lower in low gravity than under corresponding
+normal gravity.
+However, he warned
+of some
+qualifications
+to be considered in interpreting
+the low-gravity
+flame-spread
+data for fire-prevention,
+detection,
+and extinguishment
+applications:
+•
+•
+•
+•
+
+Porous materials may capture oxygen within items to enhance microgravity flammability.
+Local agitation or displacement of air may occur from the thermomechanical
+response of burning
+materials.
+Local airflow may be inducedby the usual cabin ventilationnd aircirculationystems.
+a
+s
+Local airflow may be inducedby fire
+extinguishing.
+
+FIRE PROTECTION
+
+FOR THE
+
+SHUTTLE
+
+The early U.S. human-crew
+spacecraft were designed to meet specific mission objectives.
+The
+Shuttle, on the other hand, is a component of a complete Space Transportation
+System (STS).
+As
+originally conceived, the STS was to become the sole system for launching, maintaining,
+and retrieving
+orbiting satellites
+and space probes. For practical and economic reasons, the inclusion
+of all space
+activities
+into the human-crew
+STS has not occurred.
+Currently,
+world-wide launch operations
+use
+non-crewed
+expendable
+launch vehicles (ELV), and the U.S. retains a mix of the STS and ELV space
+transportation.
+Fire Detection
+
+and Suppression
+
+Subsystem
+
+The Shuttle normally has a pressurized
+atmosphere
+only in the front cabin, and the fuselage
+payload bay is exposed to the vacuum of space. For the increasing
+number of Shuttle missions dedicated to microgravity research, such as USML-1, the "payload" is the laboratory connected to the cabin
+by an air lock and tunnel. The pressurized laboratory shares its life-support system with the Shuttle
+cabin.
+Fireprotection
+forthe Shuttlecabinand any pressurized
+laboratory
+isprovidedthrough a Fire
+Detectionand Suppression Subsystem, which isa component ofthe ShuttleEnvironmental Control
+and LifeSupport System (ECLSS). The Shuttlecabin and its
+pressurized
+laboratories ionizationuse
+type smoke detectors. wo unitsarelocated each ofthree electronics
+T
+in
+bays forredundancy (a singlefaulttolerant
+system).The smoke detectors re identical n principle o ionization etectors coma
+i
+t
+d
+in
+mon use in buildingsand aircraft,
+although they have particular
+adaptationsfor spacecraftuse
+(ref.
+12). An integral
+fan createsa flow acrossentranceport to the ionization hamber to bypass
+c
+larger, igh-momentum particles,
+h
+assumed to be dust,not smoke. The fan flow alsoinsuresadequate
+sampling in the absence of naturalconvection.
+Unfortunately,
+the bypass system may reject
+larger
+smoke agglomerates,possibly
+characteristic a microgravity
+of
+fire,
+reducingthe detector
+sensitivity.
+The setpoints,
+determined by normal-gravitymoke-chamber calibrations,
+s
+areestablished
+atvery sensitive
+levels, owever, wellbelow those associated
+h
+with visible
+smoke.
+215
+
+Fig. i shows the flight deck fire-protection panel, which has indicators for smoke-detector
+alarm
+status and actuators for the fixed fire extinguishers
+installed in the Shuttle cabin and in its payloadbay laboratory.
+These extinguishers,
+as well as additional portable extinguishers,
+are charged with
+Halon 1301 (bromotrifluoromethane).
+The manufacture
+and commercial use of Halon 1301, which is
+recognized as having a potential to deplete ozone in the stratosphere,
+is to be eliminated by international protocol in the next decade. There are no immediate plans for replacement of the Halon 1301
+agent on the Shuttle. While Halon 1301 is a very effective agent for many fires, it can generate halogen acid gases, w_ch are toxic and corrosive. Shuttle mission rules call for an immediate termination
+of the mission and return to Earth following discharge
+of a fire extinguisher.
+Shuttle
+
+Mission
+
+Experience
+
+Several minor incidents _th fire-causing potenti_ have occurred on Shuttle missions (ref. 13).
+On two reported occasions, the crew detected a smoke odor, and subsequent
+examination
+showed
+overheated components.
+In the first incident, on STS-6, April 1983, an odor was caused by the fusing
+of overheated wires near a space-processing
+unit. No degradation products were found in an atmospheric sampling;, presumably, the carbon filter in the Shuttle ECLSS was effective in removing the
+trace compounds contributing to the odor. In the second incident, on STS-35, December 1990, the crew
+reporteda smoke odor and a one:ampere currentsurge,beforethe failure an overheated resistor
+of
+in an elapsed-time
+circuit fa digital isplay
+o
+d
+unit shut off
+power to theunit.No atmosphericchanges
+were otherwise noted. Recently,
+the STS-50 crew (July 1992) reportedan odor and the failureof a
+medical apparatus,which was later
+tracedto a blown electrical
+capacitor.
+An incidentofpotentially
+greaterconsequence occurredon STS-28, August 1989, when a cable
+strainand insulation
+failure aused an electrical
+c
+shortcircuitt a teleprinter
+a
+unit.The crew observed
+sparks and 4 or 5 glowing embers during a periodOf _0Ut one to two seconds at the vicinity the
+of
+cable.One of the smoke detectors
+showed an increasedparticle-concentration
+levelof 158 pg/m sfor
+about 60 sec,with a momentary peak at 180 pg/m q,levelswell below the alarm set point of 2000
+l_/m s. Based on the observed mass ofpyrolyzedmaterialreleasedfrom the b_ed
+wire insulation,
+calcu]ati0nS howedthat the air-borne articleoncentration
+s
+p
+c
+couldhave exceededtheset-point oncenc
+_tion
+(C. -Asun'6i0n andB.H_hless,_ckwell
+International,
+internal letter, October 1990). Several
+: reasons
+•
+•
+•
+
+for the]ow_oSse_eld
+
+Smoke-concentrationievel-reading
+
+were suggested:
+
+Some pyrolyzed mass was in particles larger than 50 txm (as observed
+the detector chamber:
+Some mass was in pa_cles
+adsorbed on surfaces.
+Some mass was produced as gasesrather
+than as aerosols.
+
+by the crew) that bypassed
+
+The Shuttle mission experience confirms that breakdowns
+threatening
+incipient fires have finite
+probabilities.
+At the same time, the fire-protective
+systems and the alertness
+of the crew have been
+shown to be effective in recognizing
+and responding
+to these minor incidents.
+
+FIRE PROTECTION
+
+FOR THE
+
+SPACE
+
+STATION
+
+FREEDOM
+
+The proposed :SpaCestation
+Freedom _li not be the first perm_ently
+inhabited
+satellite system
+of this kind. Freedom,-_oW_er,
+repre§ents the first completely Original approach to this spacecommunity, rather than a derivative assemblage
+with adapted components from earlier missions. Freedom
+will provide greatly expanded accommodations
+fdrT_ science studiesl microgravity science and technology, earth observations, space probe launching, and satellite servicing.
+Obviously, potential hazard
+situations
+and consequent fire-protection demands will increase
+considerably over the proposed 30
+),ears ofc0ntinuous:opera_0ns,
+compared to those for the short-duration
+missions of the Shuttle.
+
+216
+
+|
+
+E
+
+Preliminary
+
+Assembly
+
+and Atmospheres
+
+Eventually,
+the Space Station Freedom assembly will evolve into a complex truss, module, and
+attachment
+assembly,
+the configuration
+usually publicized.
+The immediate
+concern of fire safety,
+however, is in the protection
+of the Man-Tended
+Configuration
+(MTC). The MTC is the minimum
+assembly of components
+necessary to sustain human activities within the station, a state anticipated
+to be completed in about six Shuttle-tended
+assembly operations,
+perhaps a year or so at_r the date
+of the first element launch (fig. 2). The working volume of the MTC consists of three pressurized
+modules: a laboratory,
+resource node, and docking adapter (ref. 14). The module atmosphere
+will have
+a composition of 30% oxygen in nitrogen at a total pressure of 72 kPa to permit ready egress for spacesuited extravehicular
+activities,
+without the need for prebreathing
+to avoid decompression
+sickness
+(ref. 15). Clearly, this enriched-oxygen
+atmosphere
+increases
+the potential
+fire hazard over that of
+standard
+air. Freedom will be occupied by the crew only during the Shuttle-tended
+periods from the
+MTC until the final configuration
+of the Permanently
+Manned Capability.
+The pressurized
+atmosphere
+will be retained in the modules during the untended
+periods between assembly
+phases.
+Fire-Protection
+
+Principles
+
+The designs for the Space Station Freedom fire protection
+follow the principles
+established
+for
+the Shuttle.
+Again, flammability
+testing will screen out many materials
+and components
+from use.
+The Fire Detection
+and Suppression
+subsystem (FDS) is a component
+of the Environmental
+Control
+and Life Support System (ECLSS). The key requirements
+for fire detection and suppression
+(H. Kolnsberg, Boeing, unpublished
+presentation,
+Nov. 1991) are summarized
+as
+•
+•
+•
+•
+•
+•
+
+independent FDS in each module or element,
+fire protection of untended locations without need for monitoring by onboard or ground personnel,
+data management
+system to provide a remote signal indicating
+a fire and fire location,
+automatic
+and manual
+means of fire suppression,
+nontoxic extinguishing
+agents compatible with the ECLSS, and
+single-failure-tolerant
+designs for the FDS.
+
+These common-sense
+requirements
+have proven to be very difficult to meet, however, because of the
+severe limitations
+on mass, volume, and power in the station.
+The ability of current designs in achieving the desired goal of efficient FDS operation in the confined quarters
+of Freedom remains
+to be
+demonstrated.
+Freedom
+
+Fire-Detection
+
+Designs
+
+The interior of the cylindrical
+Space Station Freedom modules has a central core surrounded
+by
+banks of racks along the walls, ceiling, and floor for installation
+of equipment
+for experiments,
+flight
+monitoring,
+life support, and housekeeping
+(fig. 3). The basic configuration
+of a standard
+rack, constructed
+of graphite-epoxy
+composite materials,
+is illustrated
+in fig. 4. Powered racks, those with
+utilities and electricity, are to be protected with a smoke detector in the internal ventilating-air
+return
+collector and a solenoid-activated
+signal-flag alarm indicator.
+In the proposed Freedom smoke-detector,
+shown in concept in fig. 5, smoke particles in the air stream attenuate
+and scatter a laser beam.
+Radiation
+sensors in the detector provide an analog signal proportional
+to the smoke-particle concentration.
+Prototype
+smoke detectors
+are now being evaluated
+in normal-gravity
+tests for smoke response, mechanical
+characteristics,
+and electrical performance.
+The single-point-failure
+tolerance
+specification
+statedin theprecedingsection
+impliestheredundancy that,
+upon the failure
+ofa primary system,protection
+willbe retainedthrough an equallyreliablesecondarysystem. Initial
+Freedom designsoffered edundancy by duplicate
+r
+photoelectric
+smoke
+and thermal detectors each powered rack and additional
+in
+smoke detectors the common module
+in
+air-supply
+ducting. Design simplifications,
+however, eliminatedthe thermal detectors
+(which are
+217
+
+probablyineffective
+forearlywarning,anyhow) to save mass and eliminatedthe common ducting in
+favorofindividual
+fans fordistributedentilation
+v
+systems in each powered rack. New approaches to
+guarantee single-failure
+tolerancein the currentECLSS designsare stillnder consideration.
+u
+Firedetection the central
+in
+module core, contrastto that in the powered racks,isprovided
+in
+by flame detectors,ensingradiation
+s
+from overheating
+components or incipientlames. The proposed
+f
+Space StationFreedom flame detectors
+incorporate
+three sensors in each unit,
+tuned to ultraviolet,
+visible, infraredwavelength bands. Built-inestequipment in the form ofinternal
+and
+t
+light
+sources
+offer
+periodic
+operational
+checks.While thisdetector
+concepthas the advantage ofmultiple-response
+logic
+from three signalsto distinguish potential irefrom stray radiation,
+a
+f
+appropriatealarm set
+pointsare not yetestablished.
+These definitions
+requireinformationon microgravity
+flame temperatures,
+spectral
+qualities, theirtime variations.
+and
+Fig.6 isa sketchof the end cone ofthelaboratory
+module, identifyingeveralofthemany coms
+ponents mounted on, or passing through,the end cone. The proposed flame detectoris shown,
+installed
+fora lineofsight
+intothe central
+model core.Sincea corresponding
+detector
+will mounted
+be
+on the oppositeend cone,the two detectors,bservingin effect
+o
+the same volume, satisfy
+the singlefailure-tolerant
+designrequirement.
+While the smoke and flame detectors discussed are the fire-detection
+systems
+currently specified
+for the Freedom MTC configuration,
+alternative
+concepts are under study.
+An obvious method of
+promise is the use of atmospheric
+gas sampling,
+already considered for ECLSS quality monitoring
+(ref. 16). The most sensitive indication of pyrolysis and combustion of almost all organic materials
+is
+carbon monoxide evolution, although effective sampling systems must be devised for improved response times if gas-sampling
+applications to fire detection are considered (ref. 13).
+Freedom Fire-Suppressionesigns
+D
+For the Space Station Freedom, the designated
+fire-suppression
+agent is carbon dioxide, which
+offers environmental
+and logistic advantages
+over the current Shuttle agent, Halon 1301. The selection of carbon dioxide is justified by the results of several system trade-off studies (summarized
+in
+ref. 8) and normal-gravity
+evaluations
+(ref. 17). The removal of excess carbon dioxide, at least in
+modest quantities,
+is within the capabiii-_es of the Space Station Freedom ECLSS.
+The Freedom
+shall, unpublished
+
+fire-suppression
+designs must meet specified requirements
+presentation,
+March 1992). Foremost among these are
+
+(M. Gard, NASA Mar-
+
+•
+•
+
+=
+
+i
+
+confirmation
+of a fire prior to automatic
+suppressant
+release,
+allowableCO 2 leakage to the generaImodule to be no greaterthan a maximum concentration,
+tobe specified,............ :-= ....
+• CO2 Sup_ Tn _tnymodule sufficient
+forat leasttwo releasesintothe largestenclosedvolume
+(powered rack), • • _:_
+=
+___
+- - . .• two portable
+fireextinguishers
+located separateareas in each module,
+in
+• ___ach_portab!e extingui's_hercapable
+e
+fire
+ofextinguishing fire thelargest
+a
+in
+enclosed
+volume, and
+• inadvertentCO_ release
+preventedby two-failure
+tolerant
+designs.
+
+_i
+_
+
+_ne proposed fire-suppression
+system,which is a derivative the currentShuttletechnology,
+of
+consists
+ofa combinationoffixed
+and portable
+extinguishers.n brief,he logic,
+I
+t
+shown in a simplified
+representation n fig. offers
+i
+7,
+choices
+ofno action,
+manual suppression, automatic suppressionin
+or
+response to an apparent firealarm. The automatic system is a centralized
+deliverysystem with
+remotelyopera_re!_ease valvesat each powered rack. A conceptualsketchofthe proposed system
+is shown in fig. The portablefireextinguishersillbe accessible each end-cone location, s
+8.
+w
+at
+a
+shown in fig. 6.
+218
+
+The Freedom fire-suppression
+system is sized to deliver suppressant to achieve a 50%-voi. concentration in the largest powered rack (with excess pressure venting as necessary)
+within one minute of
+agent release.
+The designers prefer to avoid two-phase flow in the delivery system; hence, the system
+is limited in capacity, because the carbon dioxide storage must be at less than the saturation
+pressure
+at ambient temperatures,
+i.e., as a superheated
+gas (ref. 18).
+Freedom
+
+Fire-Suppression
+
+Problems
+
+It is evident that there are serious problems to be resolved in the design
+Freedom fire-suppression
+system. The most important
+issues are
+*
+.
+
+and operation
+
+of the
+
+non-conformity
+to the general requirements
+for the FDS,
+lack of commonality
+among international
+program partners,
+and
+prescribed
+agent that is unacceptable
+for use in the Hyperbaric
+Air Lock.
+
+Despite the requirement
+limiting the maximum atmospheric
+leakage concentration
+of carbon
+dioxide, the designation
+of this agent as meeting the "nontoxic" requirement may be questioned.
+In
+addition, the redundancy for the single-failure-tolerance
+has not been achieved.
+Original design proposals called for backup suppression
+by venting the atmosphere to the vacuum of space. At present,
+the objections to venting are that the venting flow temporarily enhances the burning rate in microgravity (ref. 9), the final total pressure for guaranteed fire suppression
+is unknown, and the stores of
+makeup atmospheres
+for reconstitution
+after venting are limited.
+The Space Station Freedom is an international
+program, with Japan and the European
+Space
+Agency (ESA) each contributing
+pressurized
+laboratory
+modules in the final space-station
+configuration. The international
+laboratories
+will be assembled after the MTC, but their development
+is now
+underway.
+The FDS designs for the international
+modules are derived independently
+of the corresponding U.S. subsystems,
+but the subsystems interconnect
+through common data-management
+systems
+and intermodule
+ventilation
+flows. All three international
+partners
+now agree on a carbon dioxide
+system for fire suppression, with many details equivalent
+in principle to those established
+for the U.S.
+modules.
+There are, however, some primary design and operational
+differences.
+Most of these variations do not affect safety, but one discrepancy
+is of concern.
+Because of possible system icing and
+limited pressure-relief
+capacity, the suppressant-flow
+system cannot deliver the required quantity of
+carbon dioxide in one minute in the ESA module. A maximum release-time
+specification
+of 30 minutes
+was requested,
+an unreasonable
+delay time for fire suppression
+in a closed environment.
+A compromise goal of 10-rain delivery time is now under consideration,
+a delay that still is regarded as unsatisfactory by safety specialists.
+The Hyperbaric Air Lock (HAL) isa chamber withinone of the modules, sizedtoaccommodate
+a patientand a medical attendantfortreatment of decompression sicknessand forother medical
+activities.
+While the HAL is not a component of the MTC assembly,itsfireprotection actively
+is
+under development. The HAL willhave an atmosphere of 21% 03 in nitrogenat a maximum total
+pressureof340 kPa. Ifcarbendioxide
+isreleased extinguish fire the HAL, the medicalspecialto
+a
+in
+ists
+fearthat the resulting
+partial
+pressureof carbondioxideat the proposed suppressionconcentrationin the HAL willbe highly toxic.
+A recentcommunication (S.Pool,NASA Johnson, unpublished letter,pril 1992) discussed
+A
+alternative
+fire-prevention suppression
+and
+approachesforthe HAL, althoughnone oftheseareready
+fordevelopment. The HAL proposalisto retain
+thecommon fire-detection
+system oftheU.S. laboratorymodule, but to install separate,
+a
+dedicated
+fire-suppression
+system. The proposedfire-suppressionconceptincludesnitrogenpurging of electrical instrument racks within the HAL forfirstand
+orderfire
+prevention.Primary fire
+suppression
+will furnishedby a portable
+be
+nitrogen
+extinguisher,
+which is a method that has no designcounterpart conventionalfire-extinguisher
+in
+technology.In
+219
+
+addition, fixednitrogen-suppression
+a
+system willrelease
+nitrogen dilute
+to
+the HAL atmosphere after
+extinguishment to preventreignition.
+
+CONCLUDING
+
+REMARKS
+
+This paper discussedthe features
+offire
+protection
+incorporated
+intocurrentand proposed U.S.
+human-crew spacecra/t. general,
+In
+thereisa strongreliance preventive
+on
+measures along with use
+of proven detectionand suppressiontechniques.The experiencewith minor "near-fires" Shuttle
+on
+missions has shown that the crew responseis the major factor alleviating
+in
+danger, but designed
+safetyprovisions
+offer adequatebackup.
+an
+For the futureSpace Station
+Freedom, dependence on human responsewillnot be sufficient,
+and
+reliable
+automated fire
+protection sessential.he difficulties
+i
+T
+facing
+theFreedom environmental-and
+safety-design
+specialists
+must be appreciated.The principal
+driversforthe designsand operations
+are the stringentand sometimes conflicting
+(and o/tenchanging)specifications, met within the
+to be
+severerestrictions materialand component mass, volume, power,quality
+on
+control,nd cost.Certain
+a
+alternatives,
+such as thoseformultiple-failure-tolerant
+features, waitnew inventions
+a
+wellbeyond the
+presentstate-of-the-art.addition,
+In
+thefire-safety
+provisions
+must advance thegoaloffull
+utilization
+ofFreedom, must allowforthe long-durationonduct ofa variedcrew,and must satisfy
+c
+the individual
+safetyapproaches ofinternationalartnerstiedintothe common safety
+p
+network.
+While it
+would appear thatmicrogravity ombustion research
+c
+playsa secondaryrolein spacecraft
+fire-protection
+strategies,
+effectivend trustworthyfireprotection
+a
+can benefitgreatlyfrom fundamental scientific
+knowledge. The microgravity
+combustion researchcommunity has much to offer
+advanced spacecraft
+firesafety.
+Already spacecraft
+firesafety guidedby preliminaryinformation
+is
+on microgravityventilationffects
+e
+and radiantflame (non-flickering)
+characteristics.
+Examples of
+otherimportant needs thatmay be addressedby microgravity
+combustionresearcharethe assessment
+and prediction
+ofmaterialflammability,he physical
+t
+and radiantcharacteristics
+offires,aseous and
+g
+aerosolemissionsfrom fires,hephysical
+t
+and chemicalactions extinguishment,
+of
+and the long-durationtoxicand corrosive
+effects fcombustion and extinguishmentproducts.
+o
+
+REFERENCES
+1. Law, C., Combustion
+in Microgravity:
+Opportunity,
+Challenges,
+and Progress.
+IAA
+Paper
+90-0120, Jan. 1990.
+2. Friedman,
+R., and Olson, S., Fire Safety Applications
+for Spacecrai_, in "Aircraft Fire Safety",
+AGARD Conf. Publ. No. 467, Oct. 1989, pp. 15-1 to 15-15.
+3. Rodney, G., Critical Safety Assurance Factors for Manned Spacecraft-A Fire Safety Perspective. IAF Paper 90-555, Oct. i990.: ..........
+4. :_edman,
+R., and Sacksteder,
+I_, Fire Behavior
+and Risk Analysis in Spacecraft.
+NASA
+TM 100944, Nov. 1989.
+5. Knight D., Medical Guidelines for Protecting
+Crews with Flame-Suppressant
+Atmospheres.
+SAE Tech. Paper 891596, July 1989.
+6. Peercy, R., and Ra_asch, R., T!)__r_eat-strate
+_
+Technique:
+A System Safety Tool for Advanced
+Design.
+Jour. Spacecraft,
+vol. 23, no. 2, 1986, pp. 200-206.
+7. Kaplan, S., Safety Risk Assessment
+in the Space Station Freedom.
+AIAA Paper 90-3771,
+Sept. 1990.
+8. Friedman, R.,Sacksteder,
+I_,and Urban, D.,Risks,Designs,and Research forFire Safetyin
+Spacecraft.
+_i_/,
+No_/: 19cJ_.== _ -_'_::
+_:=_:_=_:: :_
+= _......
+_
+:
+9. Kimzey, J., Skylab Experiment
+M479 Zero Gravity
+Flammability,
+in
+Proc. Third Space Processing Syrup., NASA MSFC M-74-5 (NASA TM X-70252),
+pp. 115-130.
+220
+
+"Skylab
+Results",
+vol. 1, Jan. 1974,
+
+I0. Youngblood,W.,and Vedha-Nayagam, M.,Advanced Spacecraft
+FireSafety:
+Proposed Projects
+and Program Plan, NASA CR 185147,Oct. 1989.
+11. Pogue, B.,Skylab Mission, Baugher, C.,ed.,"Space StationFreedom Toxic and Reactive
+in
+Materials Handling",NASA CP 3085, July 1990,pp. 5-1 to 5-7.
+12. Thomas, E.,Microgravity
+FireDetectionProblems-- FactorFiction,AE Tech. Paper 901215,
+S
+July 1990.
+13. Limero, T.,James, J.,Cromer, R.,and Beck, S.,A Combustion Products Analyzer forContingencyUse During Thermodegradation Events in Spacecrait.SAE Tech. Paper 911479, July 1991.
+14. Sendral,E.,Overview and Status of Space StationFreedom Modules. AIAA Paper 92-1307,
+March 1992.
+15. McCarthy, IC,and Green, J.,The Effectof Reduced Cabin Pressure on the Crew and Life
+Support System. SAE Tech. Paper 911331, July 1991.
+16. Sonnenschein,R.,
+and Hienerwadel,lL,EvaluationoftheSuitability
+ofCO Measurements for
+Fire Detectionin Space. SAE Tech. Paper 901285,July 1990.
+17. Sircar,
+S.,and Dees, J.,Evaluation of the Fire ExtinguishantsforSpace StationFreedom.
+NASA JSC White Sands Test Facilityoc. TR-650-001,Mar. 1992.
+D
+18. Gedke, J.,
+Mohamadinejad, H.,and Gard, M., Preliminary
+Analyses ofthe CO_ Fire Suppressant Distribution
+System forSpace StationFreedom. SAE Tech. Paper 911473, July 1991.
+
+221
+
+EXTINGUISHER
+ACTUATORS
+
+DETECTION
+INDICATORS
+
+Figure. 1. - Shuttle
+
+l_ire Detection.
+
+and %.ppression
+
+Panel
+
+-+
+Figure
+
+2. - Sketch
+
+of tile Man-Tended
+
+222
+
+Configuration
+
+of Space
+
+Station
+
+Freedon,
+
+Figure
+
+3. - Phantom
+
+view of the U.S. Laboratory
+rack arrangement
+
+Module for Freedom,
+(Boeing design).
+
+showing
+
+I
+
+I
+cm (_)
+
+in.}
+
+J S.,,.z j,))
+
+J
+
+Figure 4. - Typical rack design for the Space Station
+
+223
+
+Freedom.
+
+central
+
+core and
+
+-_
+
+10.8 cm-_J
+
+ow
+
+LIGHT PATTIJ
+
+8.9 cm
+
+_
+
+l
+
+CHXMeER
+REFLECTING__..//
+MIRRORS
+
+Figure 5. - Concept of photoelectric
+
+HATCH _
+
+smoke
+
+detector
+design).
+
+F
+
+HATCH
+I
+
+proposed
+
+for Freedom
+
+racks (Allied Signsl
+
+:LAMEDETECTOR
+
+VACUUM
+SYSTEM
+
+I,
+
+---
+
+EXTERNAL
+VENTS
+
+PORTABLE
+"IREEXTINGUISHER
+
+Figure 6. - End-cone
+
+arrangement
+
+of Freedom
+
+Laboratory
+
+Module
+
+224
+
+j
+
+I_°-.°.-IIc-I[
+°''°'_..,.oo_
+I
+
+PesG! aria repair
+
+Yes
+
+so,.m
+........
+
+Fal
+
+........
+No
+
+lRack
+
+m wdmum
+
+co
+O_t_
+
+CO 2 lar, k vaives
+__
+verified open
+"_
+
+alr
+
+f esDonlal
+1
+
+Ma'nualCO2rele_e_'-_l¢
+
+_gure
+
+7. - Firo detection
+
+=E DETECTtON
+
+S._PPRESStON
+
+•
+
+Figure 8. - Proposed
+
+and suppression
+
+AND
+
+POWERED
+
+.......
+
+response
+
+logic for Freedom.
+
+RACK
+
+PANEL
+
+.-.,o.'- J_
+-
+
+Space Station
+
+Freedom
+
+225
+
+IL_-"7)
+
+carbon dioxide
+
+_=_
+
+suppression
+
+system.
+
+SESSION
+
+F - IGNITION,
+
+SMOLDER,
+
+CONDENSED
+
+AND
+
+PHASE
+
+FLAME
+
+SPREAD
+
+OF
+
+FUELS
+
+(Chair, Raymond Friedman)
+
+PREOEO_,NG PPlGE BLANK
+
+NOT
+
+FTLMED
+

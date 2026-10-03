@@ -1,0 +1,19 @@
+Test Type,Test Day*,Year,Month,Date,Atmosphere*,Fuel Bottle,Flames Ignited*,Notes
+First round of tests with nitrogen-diluted fuel and oxygen,19254,2019,Sept.,11,~21% O2 with N2,50% C2H4 with N2,13,*Test Day is formatted YYDDD where YY identfies year and DDD identifies day of year (GMT). 
+First round of tests with nitrogen-diluted fuel and oxygen,19256,2019,Sept.,13,~21% O2 with N3,50% C2H4 with N3,16,*Atmosphere is ~1 atm but pressure increases and O2% drops with vitiation.
+First round of tests with nitrogen-diluted fuel and oxygen,19304,2019,Oct.,31,~21% O2 with N4,45% CH4 with N2,9,*Flames Ignited is the number ignited on that day (neglecting the day change on ISS).
+First round of tests with nitrogen-diluted fuel and oxygen,19308,2019,Nov.,4,~30% O2 with N2,45% CH4 with N3,21,
+First round of tests with nitrogen-diluted fuel and oxygen,19352,2019,Dec.,18,~21% O2 with N2,100% H2,10,
+First round of tests with nitrogen-diluted fuel and oxygen,20006,2020,Jan.,6,~21% O2 with N3,44.4% H2 with CH4,17,
+First round of tests with nitrogen-diluted fuel and oxygen,20013,2020,Jan.,13,~21% O2 with N4,66.7% H2 with CH4,22,
+First round of tests with nitrogen-diluted fuel and oxygen,20024,2020,Jan.,24,~21% O2 with N5,100% H2,16,
+First round of tests with nitrogen-diluted fuel and oxygen,20029,2020,Jan.,29,~21% O2 with N6,50% C2H4 with N2,21,
+First round of tests with nitrogen-diluted fuel and oxygen,20132,2020,May,11,~21% O2 with He,"25% H2, 20% CH4, with He",7,
+Second round of tests with helium-diluted fuel and oxygen,20136,2020,May,15,~21% O2 with He,"20% H2, 25% CH4, with He",11,
+Second round of tests with helium-diluted fuel and oxygen,20142,2020,May,21,~30% O2 with He,"30% H2, 15% CH4, with He",17,
+Second round of tests with helium-diluted fuel and oxygen,20155,2020,June,3,~30% and ~21% O2 with He,45% H2 with He,9,
+Second round of tests with helium-diluted fuel and oxygen,20160,2020,June,8,~30% and ~21% O2 with He,45% CH4 with He,12,
+Second round of tests with helium-diluted fuel and oxygen,20164,2020,June,12,~30% O2 with He,20% C2H4 with He,11,
+Second round of tests with helium-diluted fuel and oxygen,20170,2020,June,18,~30% and ~21% O2 with He,25% C2H4 with He,20,
+Second round of tests with helium-diluted fuel and oxygen,20176,2020,June,24,~30% and ~21% O2 with He,30% C2H4 with He,23,
+Second round of tests with helium-diluted fuel and oxygen,20190,2020,July,8,~30% and ~21% O2 with He,35% H2 with He,21,

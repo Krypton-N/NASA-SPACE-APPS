@@ -1,0 +1,6229 @@
+NASA
+
+Technical
+
+Fire
+
+Memorandum
+
+Behavior
+
+Analysis
+
+(_SA-TMA_A_¥_IS
+
+100944
+
+and Risk
+
+in Spacecraft
+
+_EIi._VICB
+
+100944)
+_I_
+IN _&AC_EBAF_
+
+N89-ICIII
+
+AND
+RISK
+14 pCSCL
+
+(I_ASA)
+
+22B
+
+G3/16
+
+Robert
+
+Friedman
+
+Lewis
+
+Research
+
+Cleveland,
+
+Prepared
+1988
+
+Kurt
+
+R. Sacksteder
+
+Meeting
+
+of the
+
+Center
+
+Ohio
+
+for the
+
+Winter
+
+American
+Chicago,
+
+and
+
+Annual
+Society
+
+Illinois,
+
+IW A
+
+of Mechanical
+November
+
+Engineers
+28--December
+
+3,
+
+1988
+
+Unclas
+01693£3
+
+FIRE
+
+BEHAVIOR
+
+AND
+
+Robert
+Friedman
+National
+Aeronautics
+Lewis
+
+RISK
+
+ANALYSIS
+
+Ohio
+
+spacecraft,
+optimization
+
+c-J
+
+44135
+
+Present
+
+ABSTRACT
+Practica]
+
+risk
+
+management
+
+including
+of
+residua]
+
+operational,
+Spacecraft
+strategies,
+
+fire-causing
+
+materials
+for
+example,
+through
+detection
+and
+mal
+conditions
+through
+Present
+understanding
+that,
+compared
+to
+ards
+may be reduced
+
+present
+
+space
+stations,
+risks
+ba]anced
+
+technological,
+fire
+safety
+in order
+of
+
+elements,
+
+for
+
+through
+
+is
+risk:
+
+and
+
+involves
+by the
+
+future
+
+adequate,
+to
+fire
+behavior
+
+the
+space-
+
+sion
+craft
+fire
+the
+
+(2)
+response
+alarm,
+and (3)
+extinguishment
+
+of
+
+safety.
+U.S.
+Space
+
+flammable
+
+to incipient
+recovery
+of
+and cleanup.
+
+fires
+nor-
+
+of combustion
+in
+low
+gravity
+is
+normal-gravity
+behavior,
+fire
+hazby the
+absence
+of
+buoyant
+gas
+
+flows
+yet
+at
+the
+same
+flows
+and hot
+particle
+cusses
+the
+application
+knowledge
+and appropriate
+
+time
+increased
+expulsion.
+of low-gravity
+aircraft
+
+spacecraft
+
+schedules
+concepts,
+
+and economic
+]imitaapproached
+through
+(l)
+control
+of
+
+exclusion
+
+SPACECRAFT
+
+and Kurt
+R. Sacksteder
+and Space
+Administration
+Research
+Center
+
+Cleveland,
+
+craft
+tions.
+three
+
+IN
+
+by ventilation
+This
+paper
+discombustion
+analogies
+to fire
+
+the
+in
+
+fire-safety
+
+extent
+of
+the
+milieu
+
+and unique
+however,
+
+procedures
+
+the
+of
+
+limited
+space.
+
+features
+will
+make
+
+are
+
+knowledge
+Extended
+
+of
+mis-
+
+of future
+spacemore
+demands
+on
+
+The primary
+emphasis
+of
+Station
+Freedom,
+which
+
+the
+paper
+is
+is a permanent
+
+on
+
+orbiting
+habitat,
+laboratory,
+and workshop
+that
+is
+expected
+to operate
+within
+a decade.
+Freedom
+incorporates
+varied
+and complex
+structures,
+carries
+a crew
+of
+differing
+ing,
+and
+
+skills,
+accommodates
+housekeeping
+activities,
+
+self-contained
+(DeMeis,
+1986).
+
+community
+
+with
+
+scientific,
+and
+rescue
+
+serves
+many
+
+manufacturas a
+days
+
+away
+
+Peercy
+et al.
+(1985a)
+undertook
+a study
+of risk
+management
+and safety
+trade-offs
+for
+the
+baseline
+designs
+of a U.S.
+space
+station.
+Many potential
+threats
+to crew
+safety
+were
+considered
+in
+the
+study,
+although
+fire
+was of particular
+concern.
+The output
+
+INTROOUCTION
+
+of
+this
+study
+included
+a list
+of
+literature
+references
+on spacecraft
+crew
+safety
+up to 1984
+(Peercy
+eta].
+1985b).
+A subsequent,
+independent
+review
+of the
+needs
+of
+fire
+safety
+in advanced
+spacecraft
+led
+to a
+meeting
+held
+at
+the
+NASA Lewis
+Research
+Center
+in
+
+Fire
+is one of
+the
+most
+feared
+hazards
+in spacecraft,
+just
+as it
+is
+in aircraft
+and boats.
+Not only
+does
+fire
+threaten
+the
+occupants
+with
+the
+obvious
+dangers
+of heat,
+toxic
+gases,
+and structural
+failure,
+
+August
+1986,
+which
+provided
+recommendations
+to define
+safety,
+some of
+which
+are
+man and Sacksteder,
+1987,
+1988).
+
+detection,
+fire
+fighting
+for
+eventual
+fire-risk
+the
+spacecraft.
+
+but
+it
+also
+can affect
+rity
+and effectiveness
+as well
+as combustion
+spacecraft
+sensitive
+materials,
+procedures
+missions.
+
+and fire-safety
+management
+and
+
+the
+crew
+in subt]e
+by-products
+
+decisions
+optimization
+
+and the
+mission
+integways.
+Extinguishment
+can
+contaminate
+the
+
+breathing
+atmosphere.
+False
+alarms
+from
+sensors,
+strict
+limitations
+on acceptable
+and stringent
+high-safety-factor
+operating
+all
+can
+restrain
+useful
+activities
+in space
+
+Risk
+management
+encompasses
+the
+identification,
+elimination,
+and control
+of hazards.
+In space
+sions,
+just
+as in other
+human endeavors,
+total
+nation
+
+in
+
+of
+
+hazards
+
+is
+
+impossible.
+
+strategies
+hazards
+tional,
+
+aim
+to optimize
+to a minimum
+while
+technological,
+and
+
+spacecraft
+Rodney,
+
+fire
+1987).
+
+safety
+
+Thus,
+
+miselimi-
+
+fire-safety
+
+risk
+levels
+by reducing
+recognizing
+the
+operaeconomic
+restraints
+on
+
+(Peercy
+
+and
+
+Raasch,
+
+1986,
+
+The
+
+purpose
+
+of
+
+this
+
+research
+and technology
+studies
+in
+spacecraft
+fire
+currently
+underway
+(FriedYoungblood
+and Seiser,
+paper
+
+assumptions
+and knowledge
+safety
+and its
+management,
+present
+studies
+and designs.
+craft
+fire-risk
+themes:
+(1)
+knowledge
+to
+
+analysis
+the
+acquisition
+reduce
+gaps
+
+is
+
+to
+
+review
+
+the
+
+influencing
+spacecraft
+fire
+drawing
+on past
+results
+and
+An approach
+to spaceencompasses
+three
+study
+of fundamental
+science
+in
+required
+information,
+
+(2)
+
+the
+adaptation
+of this
+knowledge
+into
+practice
+for
+spacecraft
+safety,
+and
+(3)
+the
+formulation
+of
+risk
+acceptance
+and mitigation
+decisions
+(Rodney,
+]987,
+Raasch
+et al.
+1985).
+This
+paper
+covers
+the
+theme
+of
+fundamental
+science
+in the
+reduced-gravity
+The reduction
+profound
+effect
+
+of
+
+knowledge
+by
+environment
+
+gravity-induced
+on flammability
+
+discussing
+combustion
+of
+spaceflight.
+buoyant
+and flame
+
+flows
+has
+spread;
+
+a
+
+indeed fires
+may be inhibited
+or enhanced
+in microgravity,
+depending
+on particular
+conditions
+(Friedman
+and Sacksteder,
+1987, Friedman,
+1987).
+The paper then
+reviews
+the adaptation
+of spacecraft
+and analogous
+fire-safety
+knowledge
+by describing
+the techniques
+for
+spacecraft
+fire
+detection
+and fire
+control.
+Finally,
+the paper covers
+the theme of risk
+decisions
+by expanding the review
+of techniques
+to include
+those
+potential
+problems
+in future
+spacecraft
+that
+can influence
+fire-safety
+strategies.
+A concluding
+section
+of the
+paper surveys
+specific
+needs and relevant
+research
+underway
+for
+an important
+future
+mission,
+the Space
+Station
+Freedom.
+SPACECRAFT FIRE-SAFETY
+
+STRATEGIES
+
+The confined quarters, limited atmospheric and
+fire-fighting resources, lack of external rescue capability, and the poorly understood effects of the
+microgravity environment make the hazard of fire
+extremely dangerous in spacecraft.
+Risk management
+must combat this threat by optimizing risk levels
+within
+the constraints
+of practicality,
+technology,
+and costs.
+A spacecraft
+safety
+policy
+must proceed
+through
+steps of identification
+of hazards,
+analysis
+of their
+significance,
+and decisions
+to alleviate
+their
+impact
+(Rodney,
+1987).
+The necessary
+elements
+for
+fire
+are the presence
+of fuel,
+ignition,
+and oxygen.
+These ingredients
+are
+illustrated
+in Fig.
+I, which presents
+the elements
+in
+the form of the familiar
+fire
+"triangle"
+and shows
+some examples
+of hazards
+encountered
+in spacecraft
+and
+their
+controls.
+Obviously,
+safety
+can be guaranteed
+by the absolute
+exclusion
+of one of the three
+elements.
+In spacecraft,
+exclusion
+is approached
+through
+elimination
+of potential
+ignition
+sources
+by design
+and
+safety
+procedures
+and through
+elimination
+of potential
+fuels
+by material
+screening.
+The NASA Handbook
+NHB 8060.IB
+(Flammability,
+Odor, etc.,
+1981) states
+that,
+for unrestricted
+use in spacecraft,
+materials
+must burn for
+less
+than 15 cm (6 in.)
+upward with
+a
+burning
+time not to exceed I0 min, when exposed
+at
+the bottom
+edge to an ignition
+source
+in the most hazardous
+atmosphere
+anticipated
+in service.
+Materials
+failing
+this
+test
+may be used only
+after
+further
+screening
+in downward burning
+tests
+and then used only
+in configurations
+where,
+by analysis
+and testing,
+flame-propagation
+paths
+and ignltion
+sources
+are eliminated.
+In practice,
+this
+exclusion
+of fire-causlng
+elements cannot
+be assured
+for
+several
+reasons.
+First,
+knowledge
+and experience
+concerning
+fire
+behavlor
+in
+the low-gravity
+space environment
+is very
+limited.
+(This,
+of course,
+is a major
+subject
+of review
+in this
+paper.)
+Even the rigorous
+material
+acceptance
+standards of NHB 8060.IB
+are based on tests
+necessarily
+conducted
+under ordinary
+Earth-gravity
+conditions,
+and
+the fire
+resistance
+of approved
+materials
+under space
+conditions
+is not generally
+predictable.
+Second,
+a
+realistic
+safety
+program
+must recognize
+the possibility
+of "breakdowns,"
+that
+is,
+the waivers
+of nonapproved
+materials,
+unexpected
+ignition
+sources,
+and
+leakage
+of oxidant
+into
+inerted
+volumes.
+Last,
+some
+fire
+elements
+may need to be accepted
+onboard
+spacecraft
+in order
+to allow
+certain
+necessary
+and useful
+activities.
+Fire-safety
+strategies
+for
+spacecraft
+are illustrated
+by the relationship
+of concepts
+shown In
+Fig.
+2.
+The three
+concepts
+of control,
+response,
+and
+recovery
+each represent
+an increasing
+level
+of risk
+acceptance,
+in the order
+named.
+The lowest-risk
+tactic
+of control
+incorporates
+the design
+strategies
+proposed by Peercy
+and Raasch (1986)
+as "design
+to
+
+preclude" and "design to control."
+This is a first
+line of defense, involving the exclusion or at least
+the minimization
+of fire-causing elements.
+Practical
+approaches in this strategy can include spacing and
+storage requirements
+for necessary flammables, safety
+factors to reduce ignition-causing
+energy releases,
+and atmospheric
+inertlng procedures for noninhabited
+compartments.
+The higher-risk tactic of response
+recognizes a low probability of the initiation of a
+fire.
+The general NASA fire-prevention
+principle
+applicable in this instance is to assume ignitfon but
+require that the resulting fire be self-extinguishing
+within a short distance (LeDoux, 1987).
+Thus the
+response strategy involves overheat and fire detection,
+alarm
+systems,
+automated
+fire
+suppression,
+and firebarrier
+designs,
+as examples.
+The highest-risk
+tactic
+of recovery
+recognizes
+the lower but finite
+probability of an established
+fire
+during
+long-duration
+space
+missions.
+The recovery
+strategy
+involves
+crew training for
+fire
+fighting,
+extinguishment
+procedures
+for
+entrenched
+fires,
+fire-damage
+control,
+and atmospheric
+cleanup,
+as examples.
+A complete
+program
+of spacecraft
+fire
+safety
+must encompass all
+three
+strategies
+illustrated
+in Fig.
+2, providing
+for
+recovery
+procedures even if adequate
+fire-control
+and response
+procedures
+are established.
+Inherent
+in the fire-safety
+strategies,
+as proposed,
+is the question
+of the desirable
+degree of
+safety.
+The spacecraft
+safety
+philosophy
+of Peercy
+and Raasch (1986)
+offers
+a baseline
+option
+for
+safety,
+where the planned
+worst-case
+occurrence
+would
+cause
+no human injury
+but may damage an orbiting
+spacecraft
+to the extent
+that
+some operations
+are temporarily
+suspended.
+The application
+of philosophy
+to the Freedom space station
+is hardly
+straightforward;
+however,
+the safety
+review
+of Rodney (1987)
+implies
+that
+this
+degree of risk
+acceptance
+underlies
+the program
+p/anning
+logic.
+It
+is interesting
+to note the other
+possibilities
+for
+safety
+directions
+proposed
+by Peercy
+and Raasch.
+The most risk-free
+option
+is the complete
+avoidance
+of physical
+damage.
+The greatest-risk
+option
+is the anticipation
+of a serious
+fire,
+requiring crew evacuation
+and abandonment
+of an orbiting
+spacecraft.
+It is not yet possible
+to identify
+all
+the quantitative
+factors
+that
+enter
+into
+the philosophy
+of
+risk
+strategies
+for orbiting
+spacecraft
+such as Freedom.
+Instead,
+this
+paper presents
+information
+that
+may contribute
+eventually
+to these
+risk-management
+decisions.
+The key determinations
+must account
+for
+the balance
+between
+the needs for
+useful
+and practical functions
+in space and the productivity
+restrictions
+imposed
+by safety
+procedures
+to lower
+the risk
+of fire.
+COMBUSTION AND FIRE
+
+IN
+
+SPACE
+
+The Space Environment
+On Earth it has long been understood that gravitationally induced buoyancy dominates the spread of
+fires.
+The placement of fire detectors in ceiling
+locations, for example, anticipates the predictable
+upward bulk motion of combustion products in normal
+gravity.
+Now, as a practical matter, the testing of
+spacecraft fire-safety technology,
+including fire
+detection and intervention equipment as well as
+material-flammability
+screening, must generally be
+performed in ground-based facilities where, in contrast to the use environment,
+buoyant motion dominates.
+Thus the planning for adequate levels of
+safety in spacecraft requires not only an understanding of the low-gravity, fire-related
+behavior of
+
+I CONTROLS]
+FLAMMABLE SEALS
+FOAMS
+
+ACEE
+CE ESTS
+PRO_ECIED STORAGE
+
+/
+
+_,
+_
+
+/
+
+ELECIRIEAL SPARKS
+PARTICLE ]MPACIS
+
+OVERIEMPERATURE
+SHUJDOWN
+
+PAPER
+
+INSULATION
+
+TESI MATERIALS
+
+GROUNDING
+PRESSURE RELIEF
+
+PERSONAL ITEMS
+
+IC°NTR°LS
+I
+BREAHIING
+
+SUIISI ITUrE
+
+AIMOSPIIERES
+OXYGEN-ENRI CIIED
+AIMOSPIIERES
+
+"FIRE-
+
+SAFE" AIMOSPIIERES
+I NERI ING OF CAB I N( I S
+VENIING
+
+I0 VACUUM
+
+TEST AFMOSPHERES
+FIGURE 1. -
+
+EXAMPI_ESOF COMMONFIRE CAUSES IN SPACL-CRAET.
+
+DEGREE OF RISK
+
+/_
+_
+
+/_
+
+"
+_
+
+<
+
+CONTROL
+
+"
+
+_
+
+_
+
+YES
+
+_
+
+-
+
+FIRE CONDITIONS
+
+Ix. EXCLUSION OF
+>FIRE-CAUSING
+
+"
+
+FIGURE 2.
+
+REPAIRS
+
+_.. DEIECTION OF
+
+"
+YES
+
+"_
+
+"
+
+REPRESENTATION OF SPACECRAFT FIRE SAFETY SIRATEGIES.
+
+ELEMENTS
+
+materials
+and fire-safety
+oevlces
+but also
+the relationship
+between
+normal-gravity
+behavior
+and lowgravity
+behavior
+(Sacksteder,
+1987).
+The Earth-gravitational
+force
+acting
+on a mass
+is Proportional
+to the amount of mass and is experienced only
+to the extent
+that
+the mass is prevented
+from falling
+(accelerating)
+freely
+towards
+the Earth.
+Orbiting
+vehicles
+are in a state
+of near-equilibrium
+between
+centrifugal
+and gravitational
+forces,
+and any
+departure
+from equilibrium
+or zero gravity
+results
+from the nonuniform
+imposition
+of gravity
+gradients,
+residual
+atmospheric
+drag,
+solar
+wind and other
+forces.
+Thus sma11, unattached
+objects
+within
+the spacecraft
+can experience
+accelerations
+ranging
+from about
+10-7
+to 10-4 times normal
+Earth gravity
+levels
+(I g, or
+9.8 m/s2).
+Gravitational-induced
+buoyancy
+is the result
+of
+gravitational
+body forces
+acting
+on a density
+gradient
+within
+a fluid
+medium, caused by temperature
+(primarily)
+and molecular-weight
+differences.
+Temperature
+gradients
+in typical
+flames
+can be quite
+large
+(1000 K/mm)
+and often
+result
+in the dominance
+of buoyant
+forces
+in
+normal-gravity
+flames.
+Nhere the gravitation
+levels
+are slight,
+I0 -6 g for
+example,
+temperature
+gradients
+of this
+magnitude
+result
+in greatly
+reduced
+buoyancy
+forces,
+although
+buoyant
+motion
+may not be entirely
+negligible.
+Under these circumstances,
+other
+flowfield
+components
+emerge to influence
+flame
+spreading
+and flammability,
+namely a Stefan
+flow
+associated
+with
+the gasification
+of the fuel
+surface
+and any forced
+flow
+such as cabin ventilation
+or flow
+induced
+by firefighting
+methods.
+In a low-gravity
+spacecraft
+environment,
+low-level
+forced
+flows
+can inadvertently
+sustain
+the spread
+of flames.
+Unfortunately,
+the use of spacecraft
+as a ]aboratory or demonstration
+facility
+for
+the study of reducedgravity
+combustion
+has been limited.
+In fact,
+nearly
+all
+available
+flight
+data are derived
+from a series
+of
+tests
+conducted
+about
+15 years
+ago by Kimzey (1974)
+in
+the Sky]ab
+orbiting
+laboratory.
+Most reduced-gravity
+testing
+to date has taken
+advantage
+of ground-based
+facilities
+that
+provide
+a few seconds
+of near freefall
+conditions
+(Sacksteder,
+1987).
+These facilities
+include
+drop towers,
+providing
+2 to 5 sec of 10-6 g,
+and aircraft
+flying
+appropriate
+maneuvers,
+providing
+about 20 sec of 10-2 g (Rosenthal
+et al.
+1987).
+Flammability
+and Flame Spreadinq
+in Low Gravity
+The flow
+field
+in the vicinity
+of a flame
+spreading over a solid
+fuel
+has a profound
+influence
+over
+the existence
+of the flame
+(flammability)
+or the rate
+at which the flame
+spreads.
+Because the driving
+forces
+of the flow
+field
+change dramatically
+from buoyancydominated
+in normal
+gravity
+to a shared
+influence
+between
+up to three
+components
+in low gravity,
+fireprotection
+practices
+developed
+for
+Earth use must be
+reconsidered
+for
+use in spacecraft.
+Few reduced-gravity
+flame-spread
+or flammability
+data are available.
+The comparative
+flame-spreading
+tests
+of Andracchio
+and Aydelott
+(1970),
+confirmed
+in
+a different
+geometric
+configuration
+by Olson
+(1987),
+were performed
+under quiescent
+(no forced
+flow)
+conditions.
+These tests
+showed that,
+in 02/N 2 atmospheres
+with
+up to 40 percent
+02, flame-spread
+rates
+are consistently
+lower
+in low gravity
+than in normal
+gravity.
+These authors,
+as well
+as Kimzey
+(1974)
+in his Skylab
+experiments_
+also agreed
+in noting
+that,
+for
+a variety
+of fuel
+types and configurations,
+the flammability
+limits
+occur
+at higher
+atmospheric
+oxygen contents
+in low gravity
+than under normal-gravity
+conditions.
+These tests
+also
+showed that,
+in quiescent
+environments,
+low-gravity
+flames
+approached
+spherical
+shapes and were less
+luminous
+than their
+normal-gravity
+
+EARTH GRAVITY
+
+ZERO GRAVITY
+C-73-4272
+
+FIGURE 3. - COMPARISONOF FLAMES WITH O.03-MMTHICK PAPER SPECIMENS,
+FROM DROP TOWER TESTS.
+
+counterparts
+(Fig.
+3).
+Provisional
+conclusions
+from
+these data suggest
+that
+low heat and mass transfer
+rates
+result
+in less
+efficient,
+lower
+temperature,
+and
+reduced
+flame-speed
+combustion
+under space conditions,
+which leads
+to the characterization
+of the reducedgravity
+safer
+
+environment
+as intrinsically
+less flammable
+or
+than normal
+gravity.
+A normal-gravity
+flame
+environment
+is never truly
+quiescent,
+since
+the flame
+generates
+an upward buoyant
+flow
+due to the mass-density
+difference
+between
+the
+hot combustion
+gases and the surrounding
+atmosphere.
+It
+is interesting
+to note that
+the addition
+of lowvelocity
+ventilating
+flows
+to low-gravity
+flames,
+at
+velocities
+considerably
+less
+than those
+associated
+with
+the corresponding
+norma]-gravity
+buoyancy,
+greatly
+enhances
+flammability.
+Preliminary
+confirmation
+of
+this
+influence
+was obtained
+in drop-tower
+tests
+reported
+by Foutch
+(1987)
+and Foutch,
+et al.
+(1987),
+who showed increased
+low-gravity
+flame
+spread
+with
+low-velocity
+superimposed
+air
+flows.
+Support
+for
+the
+existence
+of enhanced
+low-gravity
+flammability
+has
+appeared in the discussion of O/son (;987)
+and the
+computational modeling of Chen (1986).
+The recent
+experimental
+efforts of Ferkul (1988) provide a quantitative demonstration of increased lower f]ammabiiity
+limits
+for
+thin
+samples
+in an opposed-flow
+configuration
+at low gravity.
+Comparison
+of flow
+fields
+and
+temperature
+fields
+between
+normal
+and low-gravity
+flame-spreading
+environments
+is essential
+to establishing
+the desired
+phenomenological
+linkage.
+Near the lower flammability
+limit,
+flames
+spreading in low gravity
+are often
+characterized
+by dim or
+nonluminous
+reaction
+zones that
+are often
+recognized
+as flames
+only
+through
+temperature
+measurements.
+In
+low-gravity
+tests
+conducted
+in drop-tower
+or airplane
+simulators,
+specimens
+usually
+burst
+into
+luminous
+flaming
+combustion
+upon the resumption
+of gravitational
+influence
+at the conclusion
+of the test
+time.
+Thus it may be essential
+to provide
+for
+incipient
+fire
+detection
+with
+attributes
+of flames
+other
+than visible
+luminosity
+and to provide
+for
+fire-extinguishant
+delivery
+systems
+that
+avoid ]ow-velocity
+flame
+enhancement.
+Fire-spread
+mechanisms
+not associated
+with
+the
+surrounding
+flow
+field
+arise
+uniquely
+in low gravity.
+In the burning
+of plastic
+materials,
+heat transfer
+to
+the surface
+induces
+bubble
+formation
+within
+the molten materials.
+Bursting
+of these
+bubbles
+releases
+jets
+of vaporized
+fuel
+into
+the surrounding
+air
+and
+may also result
+in the ejection
+of flaming
+particles.
+Trajectories
+of the flaming
+particles
+are not dominated by gravity
+(i.e.,
+the particles
+do not fall
+to
+the floor),
+and this
+can result
+in the deposition
+of
+C_. ..,,
+_. .._-_,._
+,f__
+
+_. q .--_
+_....
+
+ignition sources at remote locations (Olson and
+Sotos, 1987).
+Thus, present understanding recognizes that lowgravity combustion and the potential for fire may be
+augmented by ventilation, particle expulsion, flame
+radiation, and perhaps other factors discussed elsewhere (Friedman and Sacksteder,
+1987).
+In addition,
+even where flame spread is reduced in low gravity,
+the unusual characteristics
+of incipient and established fires in this environment call for pertinent
+knowledge and adaptive approaches in the detection
+and control of fires in space.
+SPACECRAFT APPLICATIONS
+Unsafe
+
+Conditions
+The definition
+
+FOR FIRE
+
+F'AMEEC OR
+DE
+
+DETECTION
+
+and Fire
+Signatures
+of a "fire"
+is more
+
+complex
+
+than
+
+generally
+assumed.
+Moreover,
+in spacecraft
+the presence of two fire-related
+conditions
+must be recognized,
+overheating
+and fire
+itself.
+Not only
+do overheating
+materials
+act as ignition
+sources
+for
+incipient
+fires,
+but overheating
+also
+promotes
+material
+decomposition
+and the off-gassing
+of toxic
+or flammable
+gases.
+Fires
+may initiate
+and propagate
+as luminous
+flames
+but also as nonluminous
+smoldering,
+a low-temperature
+combustion
+process.
+Smoldering
+is prone to occur
+in
+heterogeneous
+zones of solids
+and gas,
+such as in
+foams and other
+permeable
+materials
+found in spacecraft.
+Furthermore,
+it
+is possible
+that
+smoldering
+may be more common in low gravity,
+due to reduced
+fuel-air
+mixing
+in the absence
+of adequate
+buoyant
+or
+forced
+flows.
+The sensing
+of an overheating
+or fire
+situation
+requires
+the recognition
+of the departure
+from normal
+conditions.
+These "signatures"
+may be in the form of
+radiant
+energy,
+temperature
+levels,
+gaseous
+species
+production,
+or solid
+aerosols
+(smoke).
+Fire
+signatures
+in low gravity
+may differ
+from the familiar
+signatures
+in normal-gravity
+fires.
+Less efficient
+flames
+may generate
+larger
+smoke particles
+and more
+carbon
+monoxide,
+and cooler
+flames
+may be less
+radiant.
+Thus the practical
+sensing
+of signatures
+in
+spacecraft
+requires
+at least
+some modification
+of systems established
+for ground
+and aircraft
+fire
+sensing.
+Fire Detectors
+Detectors respond to overheat or fire signatures
+through
+temperature
+level
+or rise,
+radiation,
+gaseous
+products,
+or aerosols
+(Bukowski,
+1987).
+One class
+of
+flame
+detectors
+responds
+to the radiant
+energy
+emitted
+by f]ames
+in the infrared
+(IR),
+visible,
+or ultraviolet
+(UV) wavelength
+bands.
+The IR detector
+responds
+to
+the thermal
+emissions
+associated
+with
+the fire
+or heat
+source.
+The detector
+is slmple
+and dependable
+and can
+have special
+circuitry
+to respond
+to flame
+flicker
+rather
+than continuous
+light
+from extraneous
+sources.
+The UV detector,
+however,
+responds
+to chemical-specie
+emissions
+(chemiluminescence)
+in the flame and is less
+likely
+to respond
+to extraneous
+radiation
+in its
+wavelength
+bands.
+Radiant-energy
+flame
+detectors
+are
+line-of-sight
+devices,
+but their
+viewing
+angles
+can be
+increased
+by several
+means.
+Figure
+4 illustrates
+these
+principles
+with
+a schematic
+representation
+of a
+flame
+radiating
+directly
+to a flame-detector
+monitor
+(center),
+transmitting
+to a detector
+through
+one of
+several
+fiber-optic
+light
+tubes
+(left),
+and reflecting
+into
+a detector
+according
+to the time-dependent
+position
+of a rotating
+mirror
+(right).
+Smoke detectors
+respond
+to the aerosol
+particles
+generated
+by overheating,
+smoldering,
+and flaming
+materials.
+These detectors
+are bas'ed on operating
+principles
+of photoelectric
+light
+ob.scuration
+or scattering,
+ionization-chamber
+conductance
+changes,
+or
+
+FIGURE 4. - ALIERNATIVEMONITORING CONFIGURATIONSFOR FLAME
+DETECTION IN SPACECRAFT.
+
+less commonly,
+resistance
+change of a catalytic
+element.
+An ionization-chamber
+smoke detector
+
+bridge
+
+responds
+linearly
+in proportion
+to the number of particles
+and the particle
+average
+diameter.
+This type
+of detector
+retains
+its
+sensitivity
+over a wide range
+of particle
+sizes, and it is particularly effective
+for small particles, below about 0.4 pm in equivalent
+diameter.
+The photoelectric Oetector is more sensitive to particle size and has little response to particles with diameters less than ha]f the wavelength of
+the reference beam.
+For the example of near-infrared
+beams, the minimum detectible particle size is about
+the order of 0.5 pm.
+High-sensitivity
+photoelectric
+detectors can, however, respond to the sma]l statistical distribution of larger particles even in smoke
+dispersions of low average-particle
+diameters.
+Typica]ly, smo]dering and incipient fires generate larger
+particles, but estab]ished fires tend to generate
+sma]ler particles whose average diameter decreases
+with time, perhaps as the transport of oxygen improves
+(Bukowski and Mu]hoIland, 1978).
+Overtemperature
+and combustion-product
+detectors
+respond to the convective transport of energy and
+molecular species.
+In space, the response of these
+detectors is slow un]ess they are fortuitously
+positioned at the site of the incipient fire, since the
+most dependable mode of signature transport by buoyant free convection is negligible in low gravity.
+Nevertheless,
+these detectors may be valuable supplements in a complete spacecraft fire-protection
+system,
+and the sensors can be designed to respond to rate of
+change as well
+as to the absolute
+level
+of their
+signature.
+Practical
+Spacecraft
+Applications
+Previous
+experience.
+In the first
+U.S. manned
+spacecraft
+programs,
+the crew functioned
+as fire
+detectors.
+Nhile
+advanced
+spacecraft
+are too complex
+to relay
+solely
+on human observations,
+without
+a
+doubt,
+the alertness
+and discrimination
+of the crew
+will
+continue
+as an important
+complement
+to automated
+fire-detection
+systems.
+The 1973-74
+Skylab
+space station
+was equipped
+with
+22 radiation
+flame
+detectors,
+tuned to UV at
+wavelengths
+below 270 nm, whose response
+was originally
+demonstrated
+in aircraft-based
+low-gravity
+tests
+(Linford,
+Ig72a and 1972b).
+For the Shuttle,
+several
+fire
+detector
+concepts
+were proposed
+and rejected
+for
+reasons
+of slow response,
+uncertain
+performance
+in
+microgravity,
+and poor reliability,
+including
+a
+chemical-species
+detector
+(Krupnick,
+1971),
+a smoke
+detector
+using
+a water-condensation
+nuclei
+cloud-
+
+--I_
+
+LARGE PARTICLES
+
+----C>
+
+SMALL PARTICLES
+
+SENSING
+
+/
+
+F- SENSING
+CHAMBER
+
+/
+
+/-FIRE SUPPRESSION
+/ CONTROL PANEL
+/
+/
+
+FLOW -x
+
+.,- BYPASS /
+\\\
+
+,- REFERENCE
+
+/I FLOW //
+
+// CHAMBER
+
+//-VANE PUMP
+
+Sw"K)KE
+DETECTORS
+(TYPICAL OF 9),-/x-\.
+ii
+
+\
+
+I
+
+N
+}
+I
+,tTF///2
+
+FLOW I!
+
+&
+
+FIGURI_ G. - CROSS-SLCIION
+L PORTABLE
+
+(TYPICAL
+FIGURE
+
+H
+
+Ol SIIUIILL
+
+SIGNAL PROCESSOR
+
+IONI/AIION-CIIAMBER
+
+SMOKE DEIECIOR.
+
+FIRE
+
+EXTINGUISHER
+I
+L FIXED FIRE EXTINGUISHER
+
+MICROELECIRONIC
+
+FIOW
+OUILEI
+
+_
+
+(TYPICAL)
+
+OF 3)
+
+5. - SHUTTLE ORBITER FIRE-PROTECTION
+
+reversibly
+tions
+after
+
+SYSTEM.
+
+to reset
+actuation.
+
+upon
+
+resumption
+
+of
+
+normal
+
+condi-
+
+For
+specific
+fire
+nary
+criteria
+established
+Center
+call
+for
+detection
+chamber
+
+principle
+
+(Bricker,
+
+tor
+using
+ple
+(Gibbet
+ionization
+
+a quartz-crystal
+al.
+1985).
+smoke
+detectors
+
+equipment
+detector,
+
+bays,
+made
+
+1985),
+
+and
+
+a
+
+smoke
+
+smoke
+particle
+obscuration.
+
+detec-
+
+5.
+Corp.
+
+teria
+ence
+
+space
+place
+for
+
+concentrations
+3, and the
+
+Tentative
+may incorporate
+state-of-the-art
+and thermal
+
+from
+ambient
+dust
+are
+minimized
+by an
+bypass
+to exclude
+larger
+particles
+and
+of
+small
+aerosol
+particles
+characteristic
+the
+ionization
+chamber.
+
+Proposals
+for
+have
+been
+in
+the
+definitions
+
+density
+Bukowski
+NASA
+
+1.5
+percent/m
+Mulho]land
+
+to range
+guideline
+
+from
+is
+
+optical
+(1978)
+estimate
+
+IO IO to 1016
+an approximation
+
+their
+ventilation
+paths.
+General
+habitation
+areas,
+including
+airlocks,
+may be protected
+with
+fan-equipped
+smoke
+detectors
+using
+the
+Shuttle
+techno]ogy,
+flame
+detectors,
+and chemical-specie
+sensors
+for
+air
+quality.
+
+stations.
+System-safety
+crifor
+over
+a decade
+to influspace
+stations
+(Canetti,
+
+Response
+and Sensitivity
+Assessment
+of overheat
+
+or
+
+fire-detector
+
+response
+
+(time)
+and sensitivity
+(threshold
+signature)
+qualitative.
+In low
+gravity,
+it
+is
+likely
+to slow
+transport
+rates
+of
+signatures
+other
+
+is to
+issue
+a warning
+throughout
+the
+space
+station,
+locating
+the
+fire.
+DeMeis
+(1986),
+quoting
+consultants,
+speculated
+that
+the
+most
+promising
+detector
+concepts
+for
+the
+proposed
+U.S.
+Space
+Station
+Freedom
+are
+flame
+detectors
+(IR)
+and smoke
+detectors,
+with
+coaxial-wire
+thermal
+detectors
+in confined
+areas.
+The
+
+tromagnetic
+detectors
+
+ture
+(Naldman,
+1980).
+principles
+of
+thermistor
+changes
+of resistivity
+pressure
+changes
+with
+
+are
+lines,
+protection,
+and average
+
+parti-
+
+fire-detection
+proposals
+for
+Freedom
+multiple
+detection,
+for
+example,
+smoke
+detectors,
+UV flame
+detectors,
+sensors
+within
+the
+instrument
+bays
+and
+
+]97]).
+The formalized
+candidate
+guidelines
+(DG-C&N-]99
+in Peercy
+et a1.,
+1985b)
+state
+that
+the
+fire-warning
+system
+is
+to be activated
+by smoke,
+fumes
+or
+heat
+and
+
+thermal-detection
+wires
+aircraft
+engine
+nacelle
+discrete
+overtemperature
+
+prelimiSpace
+3
+
+of the
+very
+light
+smoke
+from
+an established
+fire.
+From
+the
+same
+source,
+the
+obscuration
+guideline
+may
+be estimated
+to correspond
+to a minimum
+smoke
+density
+of about
+I0 mg/m 3 for
+standard
+lamp-wick
+smoke.
+
+The present
+smoke
+(Report
+0855-251,
+
+May ]985),
+is used
+for
+protection
+both
+in the
+Shuttle
+Orbiter
+and in
+the
+Spacelab
+module
+carried
+in
+the
+Shuttle
+pay]pad
+bay.
+The Shuttle
+detector,
+sketched
+in
+Fig.
+6, has
+an integral
+fan
+to ensure
+adequate
+sampling
+in
+the
+absence
+of
+buoyant
+flows
+(Kubicki,
+1981).
+False
+alarms
+internal
+flow
+permit
+entry
+of
+smoke
+into
+
+and
+and
+
+smoke
+cles/m
+
+microba]ance
+bridge
+princiThe Shuttle
+now employs
+nine
+in the
+crew
+cabin
+and
+
+as shown
+in
+Fig.
+by the
+Brunswick
+
+protection
+in
+Freedom,
+by the
+NASA Johnson
+of a minimum
+5xlOIOlm
+
+will
+
+Location
+of
+the
+constraints
+feasible
+to
+space
+tance,
+
+used
+currently
+in
+that
+sense
+both
+zone
+overtempera-
+
+sensors
+is an important
+of mass,
+power,
+and
+mount
+individual
+sensors
+
+station.
+multiple-tube
+
+rotating
+sensors,
+ment
+can
+
+These
+detectors
+operate
+on
+or eutectic-salt-me]ting
+with
+temperature
+or gas-law
+temperature,
+and they
+operate
+
+radiation,
+the
+response
+time
+be slower
+than
+in
+normal
+
+Techniques
+such
+as
+scanning,
+fiber
+
+mirrors
+can maximize
+although
+extensive
+make
+the
+identification
+
+use
+
+is
+that,
+than
+
+of many
+gravity.
+
+concern.
+cost,
+it
+throughout
+forced-air
+optics,
+
+coverage
+with
+of
+coverage
+of
+the
+fire
+
+only
+due
+elecfire
+
+Nithin
+is
+not
+a
+assisand
+fewer
+enhancesite
+
+difficult.
+in
+
+6
+
+the
+
+Sensitivity
+fact
+that
+
+of detectors
+oversensitive
+
+also
+involves
+trade-offs
+sensors
+respond
+fre-
+
+quently
+to other
+than fire
+signals
+(false
+alarms).
+Smoke detectors,
+for example,
+are actuated
+by controlled
+fires
+(cooking,
+smoking),
+dirt,
+construction
+dust,
+and fail-safe
+open circuitry.
+In spacecraft,
+false
+alarms
+are particularly
+undesirable
+since
+the
+crew must regard
+all
+detector
+alarms
+as serious
+indications
+for
+immediate
+investigation
+and action.
+There are several
+approaches
+to augment detector
+sensitivity,
+while
+minimizing
+false
+alarms.
+Aircraft
+experience
+promotes
+the use of cross-zoned
+systems,
+where detectors,
+preferably
+of differing
+generic
+configurations,
+monitor
+overlapping
+zones (Mniszewski
+et al.
+1983).
+Logic
+circuitry
+requires
+multiple
+actuation
+("AND"
+logic)
+before
+an alarm
+is activated.
+Another
+approach
+is to set sensing
+elements
+at two
+levels
+of response,
+"NARNING" and "DANGER", for example.
+In some battle
+tanks,
+a two-sensor
+cross-zone
+logic
+uses manual
+selectors
+for
+normal
+and combat situations.
+The normal
+condition
+requires
+the actuation
+of both sensors
+for activation
+("AND"
+logic);
+the combat condition
+responds
+to a single
+actuation
+("OR"
+logic).
+This
+technique
+may be used in spacecraft
+modules attended
+only during
+working
+(day)
+hours,
+with
+"AND" logic
+in the day, "OR" logic
+in the night.
+Crew
+
+Decisions
+
+The preferred
+reaction
+to an overheat
+or fire
+alarm
+should
+be simple,
+manual,
+and rehearsed.
+On the
+other
+hand, in unattended
+or inaccessible
+spacecraft
+locations,
+automated
+fire
+protection
+incorporating
+alarms,
+equipment
+shut off,
+and extinguishant
+discharge
+is essential.
+An incipient
+fire
+may require
+nothing
+more than localized
+isolation
+and cooling,
+but
+a continuing
+fire
+would require
+use of more active
+fire-extinguishing
+procedures.
+A catastrophic
+fire
+may require
+partial
+or complete
+crew escape,
+Isolation
+of an entire
+zone, and complex
+fire-fighting
+methods.
+The safety
+design
+guldelines
+for
+space stations
+(Peercy
+et al.
+1985b) propose
+common-sense
+preparations
+for
+the crew,
+where overall
+health
+and safety
+responsibilities
+are assigned
+to a specific
+crew member, with
+alternates
+(the
+fire
+marshals).
+For long-duration,
+permanent
+space operations,
+perlodic
+testing
+and calibration
+of detectors
+should
+be scheduled,
+beyond the conventional
+continulty
+checks of circuitry.
+Bukowski
+and Mulholland
+(1978)
+discuss
+aerosol
+generators
+to calibrate
+smoke detectors,
+but the low-gravity
+calibration
+systems for
+radiant,
+heat,
+or smoke signatures
+have yet
+to be
+invented.
+FIRE
+
+FIGHTING
+
+IN
+
+SPACECRAFT
+
+Inertinq
+and "Fire-Safe"
+Atmospheres
+Exclusion
+of oxygen removes one element
+of the
+"fire
+triangle"
+(Fig.
+I).
+The exclusion
+can be continuous,
+such as in the maintenance
+of inert
+atmospheres
+in uninhabited
+compartments,
+or it can be
+temporary,
+such as in fire
+extinguishment
+by inert-gas
+flooding.
+Nitrogen
+inert_ng
+for
+protectlon
+of fuel
+tanks
+in military
+aircraft
+has been studled
+during
+the past decade
+(Naldman,
+1980, Mnlszewski
+et a1.
+1983).
+A promising
+technique
+investigated
+by
+Desmarais
+and Tolle
+(1983),
+Desmarais
+et al.
+(1983)
+generates
+the inert
+gas through
+oxygen removal
+from
+atmospheric
+air by methods called
+onboard
+inert-gas
+generating
+systems
+(OBIGGS),
+using either
+a molecularsieve
+adsorbent
+or a permeable
+membrane.
+This
+inerting atmosphere
+need not be composed entirely
+of nitrogen.
+The OBIGGS separation
+process
+is simplified
+by retaining as much as 6 percent
+or,
+for
+some applications,
+even 9-percent
+residual
+oxygen
+in the fire-safe
+atmosphere.
+The separated
+oxygen component,
+vented
+overboard in aircraft,
+would
+be recycled
+in spacecraft
+
+counterparts.
+Other
+inerting
+agents
+have chemicalextinguishing
+properties.
+Halon 1301, an extinguishant
+discussed
+later
+in this
+section,
+effectively
+prevents
+flammability
+in concentrations
+typically
+no greater
+than 6 percent.
+Inerting
+need not be confined
+to uninhabited
+spacecraft
+compartments.
+For example,
+Carhart
+(1987)
+has urged
+the investigation
+of reduced-oxygen
+atmospheres
+for
+spacecraft
+habitation
+zones,
+based on
+favorable
+submarine
+test
+experience.
+It is well
+established
+that atmospheric
+compositions with' an
+oxygen partial
+pressure
+adequate
+for
+1!fe
+support
+may
+have an oxygen fraction
+(because
+of the inert
+diluent)
+insufficient
+to support
+combustion
+(McAlevey
+and
+Magee,
+1967).
+Lowering
+the oxygen concentration
+at a
+fixed
+partial
+pressure
+of oxygen by nitrogen
+flooding
+is the proposed
+technique
+for
+emergency
+fire
+suppression in submarines.
+Gannet
+al.
+(1978)
+reported
+on
+the fire-control
+effectiveness
+of this
+method,
+and
+Dressler
+et al.
+(1977)
+reported
+on the respiratory
+safety,
+based on animal
+tests.
+A permanent,
+fire-safe
+atmosphere
+in a spacecraft
+more likely
+would have a
+standard
+(101.3
+kPa) total
+pressure
+but a reduced
+oxygen content.
+The review
+of Horrigan
+(1979)
+noted that
+oxygen partial
+pressures
+as low as 16.5 kPa, equivalent
+to those of 1800 m (6000 ft)
+altitudes,
+may be
+acceptable
+for
+long-term
+human activities.
+More
+unconventional
+is the recommendation
+of Huggett
+(1973)
+on the use of a breathable
+atmosphere
+in which at
+least
+part of the nitrogen
+is replaced
+by a high
+molar-heat-capacity
+diluent
+gas (sulfur
+hexafluoride,
+for example).
+Despite
+the scientific
+backing
+for
+fire-safe
+breathing
+atmospheres,
+their
+adoption
+in
+the next
+generation
+of spacecraft
+is doubtful.
+Human
+tests
+must be performed
+to assure
+that
+the substitute
+diluents
+or the reduced
+oxygen contents
+would not have
+long-term
+effects
+on human efficiency
+and performance,
+at the very
+least.
+Some of the proposed
+options
+involve
+considerable
+spacecraft
+structural,
+gas handling,
+and metering
+changes.
+Most important,
+many
+material,
+fluid,
+and biological
+projects
+planned
+for
+advanced
+spacecraft
+assume the presence
+of "air,"
+and
+adaptations
+to the unconventional
+atmospheres
+may be
+impractical.
+Fire
+
+Extinquishment
+in Space
+Previous
+experience.
+In space,
+an ideal
+extinguishant
+should
+be effective
+(minimum quantity
+necessary
+to extinguish
+fires),
+nontoxic
+in its
+original
+state
+and by-products,
+noncorrosive,
+and readily
+removable
+by the spacecraft
+cleanup
+or environmental-control
+systems.
+All
+types of extinguishants,
+including
+powders,
+liquids,
+foams,
+and gases,
+may merit
+some
+consideration
+for
+space,
+but no one type of extinguishant can meet all
+of the desirable
+criteria.
+In the early
+human space missions,
+the metering
+water
+dispenser
+was designed
+as an alternative
+fire
+extinguisher
+(McAllister,
+1972) although
+Skylab
+had
+extinguishers
+that
+discharged
+foam produced
+by an
+aqueous gel.
+At present,
+the Shuttle
+is equipped
+with
+three
+fixed
+and four
+portable
+fire
+extinguishers,
+discharging
+Halon
+1301 (trifluorobromomethane),
+sized
+to produce
+an extinguishant
+concentration
+of 6 to
+7 percent
+(Figs.
+5 and 7).
+These extinguishment
+techniques
+Owe much to methods
+evolved
+for aircraft
+flight
+and ground
+protection
+(Desmarais
+and Tolle,
+1983b,
+Kuchta
+and Clodfelter,
+1985),
+where effective
+systems
+use Halon and aqueous film-forming
+foam (AFFF) extinguishants,
+among other
+agents.
+Halon 1301 is a chemical
+extinguishant,
+inhibiting the combustion
+reactions;
+and it
+is very effective
+on surface
+fires
+and, as noted previously,
+in atmospheric
+inerting.
+Tests
+by Haggard (unpublished
+NASA
+
+HALON1301 CHARGE
+1.7 KG:
+DISCHARGE
+TIME I SEC7
+/
+/
+/
+/
+/
+/
+SWITCH
+/
+/
+/_ PRESSURE
+
+INITIATOR
+
+/
+
+KNIFE-//
+I
+
+DIAPHRAGMJ
+L FILL PORT
+FIGURE 1. - SKETCH OF SHUTTLE FIXED-POSITIONHALON 1301 FIRE
+EXTINGUISHER.
+
+Lewis data)
+and Ronney (]985)
+have shown a corresponding effectiveness
+in low gravity.
+In deep-seated
+fires,
+and possibly
+in smoldering
+fires,
+where extinguishment
+proceeds
+best
+through
+cooling
+and oxygen
+exclusion,
+Halon
+1301 is less effective.
+(In fact,
+the National
+Fire Code, NFPA Standard
+12A, paragraph
+A-2-4,
+defines
+a deep-seated
+fire
+as one that
+cannot
+be extinguished
+by 5 percent
+Halon 1301 within
+10 min
+of application.)
+Ground usage of Halon 130] is an
+environmental
+problem,
+because
+the escaped
+fluorocarbon is known to affect
+the stratospheric
+ozone layer.
+There are also drawbacks
+to Halon 130] usage in spacecraft
+(deRis,
+1987).
+Animal
+tests
+have demonstrated
+that
+leakage
+of the unreacted
+extinguishant
+is harmless for
+short
+exposures,
+but the reacted
+extinguishant
+generates
+hydrogen
+halides,
+HBr and Hr.
+The
+question
+of the toxic
+and corrosive
+harm from the
+Halon 1301 products following a fire and how the products can be removed from the spacecraft atmosphere
+remains to be solved.
+In the Shuttle, Halon ]301 use
+is justified by the requirement that a mission is
+return to Earth as quickly as possible after extinguishant discharge (Kubicki, 1981).
+Proposals for space stations. Carbon dioxide is
+a leading candidate for the primary extinguishant in
+the proposed U.S. Space Station Freedom.
+Carbon dioxide systems are simple, reliable, and cost effective,
+and excess extinguishant is removable through the
+spacecraft environmental controls.
+The disadvantage
+of carbon dioxide is that, for established fires, concentrations of this agent are required that pose toxic
+and asphyxiant hazards for humans.
+Other extinguishants have been proposed, other than the state-ofthe-art Halon 1301, whose deficiencies
+have just been
+discussed.
+DeMeis (1986) calls attention to deionized
+water, obviously an effective extinguishant,
+removable
+by the spacecraft environmental controls.
+The unknown
+factor for water is in the proper management of a
+spray-delivery
+system that
+will
+work in space.
+Another
+suggestion
+is AFFF.
+Foams depend on their
+ability
+to
+float
+and blanket
+the burning
+surface.
+In ]o_gEavity,
+there
+is negligible
+buoyancy,
+and demonstration
+tests
+will
+be required
+to show adherence
+of the foam to the
+burning
+surface.
+Venting.
+A space-station
+candidate
+safety
+guideline
+(DG-ECS-O08,
+in Peercy and Raasch,
+1985b) provides
+for
+automatic
+venting
+of habitable
+volumes
+in
+the event of a fire
+or overpressure,
+to reduce
+the
+total
+pressure.
+Continued
+venting
+to the vacuum of
+
+space offers
+an option
+for ultimate
+control
+of difficult
+fires
+by removal
+of oxygen.
+This technique
+of
+vacuum venting
+was investigated
+on a small
+scale
+by
+Kimzey
+(1974)
+in the Skylab
+flammability
+tests.
+The
+interesting
+observation
+was that
+the venting
+at first
+intensified
+the flame
+through
+forced
+convection
+before
+extinguishing
+the fire.
+Thus,
+large-scale
+venting
+must be carefully
+planned.
+Rapid venting
+can cause
+structural
+damage, but slow venting
+may temporarily
+prolong
+and increase
+the burning
+intensity.
+Nevertheless,
+venting
+is a plausible
+last
+resort
+for
+fires
+uncontrollable
+by primary
+extinguishment
+techniques.
+In Freedom,
+a decision
+would
+be made
+quickly
+to evacuate
+the fire-fighting
+crew to a haven
+(a designated
+module or node) and actuate
+the venting.
+After the fire is apparently extinguished, the crew
+would appraise the conditions in the affected volume
+from the remote location.
+Rehabilitation and atmospheric reconstitution
+of the affected zone are aided
+by the fact that complete venting is not necessary to
+control
+fires,
+and the module may retain
+a substantial
+fraction
+of its
+original
+atmosphere
+at all
+times.
+Automation
+and special
+problems.
+The Shuttle
+extinguishing
+system
+is entirely
+manual.
+Discharge
+of
+the fixed
+extinguishers
+is a two-step
+process,
+where
+the crew first
+actuate
+an "armed"
+switch
+then the
+"discharge"
+pushbutton.
+For more complex
+spacecraft,
+some automatic
+systems must be included.
+For active,
+automatic
+fire
+extinguishing
+systems,
+selection
+of a
+detector
+and recognition
+system with
+the proper
+level
+of sensitivity
+and discrimination
+is critical.
+The
+discharge
+of extinguishant
+upon a false
+alarm in an
+unattended
+compartment
+could
+destroy
+valuable
+projects.
+Two unusual situations in space may further tax
+the fire-extinguishing
+systems.
+First, smoldering
+may be the most probable fire-related
+event, and these
+nonluminous
+fires may be as difficult to extinguish
+effectively and quickly as they are to detect.
+Second, particle clouds or aerosols, resulting from
+spills or other incidents, are persistent and nondispersing
+in space.
+Fires
+in these
+heterogeneous
+systems are dangerous
+in that
+they are well
+supplied
+with
+oxygen,
+propagate
+quickly,
+and are difficult
+to
+extinguish.
+Atmospheric
+Contamination
+and Equipment
+Damage
+In spacecraft,
+a considerable
+portion
+of the
+effort
+in combating
+fires
+may take place after
+the
+fire
+is extinguished.
+Cleanup,
+repairs,
+and medical
+attention,
+as necessary,
+while
+patterned
+after
+corresponding
+normal-gravity
+procedures,
+may involve
+unique
+activities
+in space.
+Of these post-fire
+activities,
+only
+the subject
+of atmospheric
+contamination
+lies
+within the scope of this report.
+Toxic combustion-product
+gases, rather than
+burns, are responsible for most human casualties from
+fires.
+Carbon monoxide is the principal lethal agent
+in fire products, but plastics may also generate cyanides, chlorides, fluorides, and other toxic gases.
+The human response to contaminants depends on both
+the concentration and the duration of exposure
+(Kaplan,
+IgTg).
+Acceptable
+limits
+derived
+from
+normal-gravity
+tests
+may not apply
+to space.
+Reduced
+convective
+transport
+of oxygen affects
+the temperature
+and completeness
+of combustion,
+altering
+the
+nature
+and concentration
+of combustion
+products.
+A
+space-station
+candidate
+guideline
+(DG-HMS-I03,
+in
+Peercy
+and Raasch,
+1985b) urges the establishment
+of
+contaminant
+threshold
+limit
+values
+for
+space,
+presumably including
+those
+generated
+by fires.
+Effects
+of contamination
+may also be cumulative
+or
+synergistic.
+For example,
+a few percent
+of low-
+
+ORI_NAL
+OF POOR
+
+toxicity COgreatly increaseshe lethality of car2
+t
+bonmonoxide
+(Babrauskas,
+eta]. 1986). In space,
+the life-supportatmosphere becontaminated
+may
+not
+onlyby fire by-productsut alsoby thosefromthe
+b
+e×tinguishant, example, hydrogen
+for
+the
+halidesgeneratedfromHalon
+1301. In fact, the choice
+of
+advanced
+spacecraft xtinguishing
+e
+systems ay
+m bedictated asmuch the ease cleanup s by the effiby
+of
+a
+ciencyof extinguishment.
+In additionto the immediate
+effects requiring
+post-fire attentions,therearedelayed
+effects, primarilycorrosion
+fromexposure combustion
+to
+and
+extinguishant
+products. Some
+attentionhasbeen
+given
+to the particular problems
+fromthe halideproducts f
+o
+Halon
+1301
+extinguishment. review Youngblood
+A
+of
+(1988),citing the Air Force
+tests by Reicheltet al.
+(1982)
+andother unpublished
+works,notedthat exposureto Halon
+1301
+fire-extinguishment
+products adno
+h
+immediate
+adverse ffects on the performance elece
+of
+tronic components
+otherwise
+protected
+fromthe heatof
+a fire. Smoke
+fromburning
+polyvinylchloridecable
+insulation,however,
+resultedin severe
+corrosion.
+Sincetheseobservationsrebased limited, normala
+on
+gravity tests, there is a strongneed further
+for
+studyof potential corrosion
+underlong-duration,owl
+gravity conditions.
+SPACE
+STATION
+FIRE-SAFETY
+ISSUES
+The
+Space tationFreedom planned s a multiS
+is
+a
+component
+community
+assembled
+and maintained
+in a low
+Earth
+orbit.
+The purposes
+of Freedom include
+tending
+independent
+unmanned orbiters,
+launching
+unmanned and
+(eventually)
+manned space probes,
+and maintaining
+and
+recovering
+other
+Earth
+satellites.
+Above all,
+Freedom
+space station
+will
+be a laboratory
+and workshop
+for
+scientific
+and industrial
+operations
+that
+exploit
+the
+advantages
+of the extraterrestrial
+location,
+including
+the microgravity
+environment
+and the access
+to nearperfect
+vacuum.
+The scientific
+and operating
+crew
+will
+reach and return
+from Freedom by Shuttle
+flights,
+and the crew will
+remain
+for
+long-duration
+assignments.
+Thus, the plans
+for Freedom and its
+risk
+management must recognize
+that
+there
+will
+be a range of
+housekeeping and recreational
+activities onboard, as
+well as scientific and technological activities.
+Responses to fire control must assume that detection,
+extinguishment,
+atmospheric decontamination,
+and a
+moderate portion of repair and medical treatment capabilities are all provided by supplies and systems
+within the space station.
+The present concept of the Space Station Freedom
+laboratory, supply, and habitation zones is that of a
+"ladder" arrangement of modules and nodes (Fig. 8).
+This configuration assures the evacuation from a damaged or fire-stricken module and its isolation.
+The
+crew may retreat to any portion of the space station
+without traversing through the affected volume
+(DeMeis, 1986).
+This safety concept of a "haven" and
+the role of the crew in remote management of resources
+in an emergency is an essential factor in the present
+operational
+planning for Freedom.
+Needs and concerns for space-station fire safety
+can be approached by a division Into categories of
+those of near-term and of far-term significance.
+The
+near-term issues are those whose resolution is influential in the designs for Freedom and Its family of
+advanced spacecraft.
+Far-term issues, in contrast,
+are those whose resolution may be beyond present capabilities, perhaps requiring testing onboard the operational Freedom space station itself.
+The near-term issues encompass many of the spacecraft fire-safety
+unknowns and problems already dis-
+
+PAGE
+
+IS
+
+QUALITY
+
+FIGURE 8. - ARTIST'S SKETCH OF SPACE STATION, SHOWINGMODULES AND
+NODE CONSTRUCTION.
+
+cussed
+in this
+paper.
+A summary of the important
+issues,
+based upon the greatly
+appreciated
+reviews
+and
+suggestions
+of M. Cole of NASA Johnson
+Space Center
+and F. Clarke
+of Benjamin/Clarke
+Associates,
+follows:
+(l)
+Understanding
+combustion
+in low gravity,
+including
+energy release
+and product
+evolution,
+for
+eventual
+prediction
+of fire
+signatures
+and combustionproduct
+composition.
+(2) Measurement
+of ignition
+and flame
+spread
+for
+so]id
+materials
+in low gravity,
+for
+development
+of
+material
+acceptance
+standards
+applicable
+to the space
+environment.
+(3) Investigation
+of aerosol
+characteristics
+in
+low gravity,
+to contribute
+to the understanding
+of
+flammability
+from spills,
+line
+breaks,
+and other
+dispersions
+in space.
+(4) Development
+of fire-detection
+techniques
+and
+systems,
+suitable
+for
+long-term
+operation
+in spacecraft,
+with
+desirable
+sensitivity,
+response,
+and calibration
+attributes.
+(5) Development
+of a set of fire-extinguishment
+techniques
+that
+are effective
+under all
+expected
+spacecraft
+operational
+scenarios.
+(6) Application
+of artificial
+intelligence
+and
+communication
+codes to establish
+response
+guidelines
+for
+spacecraft
+fire
+detection.
+(7) Development
+of environmental
+controls
+for
+postfire
+cleanup
+of combustion
+and extinguishment
+products
+to protect
+the spacecraft
+crew and sensitive
+equipment.
+Certain
+far-term
+studies
+that
+are valuable
+in the
+utilization
+and experimental-facility
+planning
+for
+Freedom are also worth
+noting.
+The Freedom space station
+will
+offer
+an extremely
+attractive
+environment
+for
+low-gravity
+fire-safety
+testing,
+since
+its
+laboratories
+promise
+exposure
+to microgravity
+without
+time
+restrictions
+and generous
+power,
+mass, volume,
+and
+diagnostic
+accommodations.
+One proposed
+microgravitycombustion
+facility
+for
+Freedom that
+is readily
+adaptable for
+fire-safety
+investigations
+is illustrated
+in
+Fig.
+9 (Youngblood
+and Seiser,
+1988, Youngblood,
+1988).
+The facility
+is a flow
+loop,
+designed
+to fit
+into
+multiple
+standard-rack
+locations
+in a spacestation
+laboratory
+module.
+The primary
+function
+of
+this
+facility
+is the investigation
+of material
+flammability
+under low-gravity,
+variable
+forced-flow
+condi-
+
+CONTROL,
+
+DISPLAY, AND
+
+_VIDEO CAMERA AND
+/
+/ OPTICAL BENCH
+I
+
+DATA SYSTEMS 7_x
+/ I\\
+I
+/
+
+t
+
+\
+
+_.
+
+/
+[
+/
+
+[
+I
+
+/
+
+I
+
+',.,
+x,
+
+I
+
+X
+
+\
+
+I
+I
+I
+
+\
+
+I
+]
+..- _ ...-,.
+[-_
+_JL -.-_ ,, •X_._
+
+II
+
+I
+
+7
+
+1
+
+_000
+MM
+
+/-PURGE
+STORAGE
+
+1_5oo_
+
+EXCHANGER -
+
+AND PUMP
+
+I MM
+HEAT
+
+VACUUM
+TEST
+REMOVABLE
+SECTION _I
+
+i
+
+,_LL
+,
+/
+
+\
+2100
+
+--
+
+/
+
+MM
+
+i I
+
+X
+
+,
+
+160
+
+MM_
+
+\\V_/SPACE STATION
+DOUBLE RACKS
+FIGURE 9. - FLOW-LOOP
+
+tions,
+a realistic
+representative
+environment.
+Eventually,
+such
+a
+tain
+installations
+for
+standardized
+tions,
+routine
+
+detector
+calibrations,
+and research.
+The
+
+and
+facility
+
+FACILITY
+
+PROPOSED
+
+testing,
+operate
+
+198l,
+ments
+
+CONCLUDING
+This
+
+the
+
+self-contained
+
+and
+
+automated
+
+has
+
+that Support
+NHB-8060.IB).
+
+Andracchio,
+
+C.R.
+
+fea-
+
+8abrauskas,
+presented
+
+a review
+
+of
+
+is a complex,
+permanent
+space
+structure.
+of fire
+risks
+may impose
+excessive
+demands
+tures
+and operations,
+increasing
+complexity
+and above
+all,
+limiting
+the
+usefulness
+tion.
+Thus
+the
+objective
+of
+spacecraft
+management
+is a risk
+optimization
+based
+off
+of
+practical
+fire-safety
+approaches
+
+No.
+of the
+for
+which
+
+and
+
+9,
+
+pp.
+
+Bukowski,
+
+of a space
+stafire-safety
+on a tradeagainst
+small
+
+Bukowski,
+
+R.N.,
+
+B.C.,
+
+Flat
+in an
+
+and
+
+1985,
+"Test
+a Condensation
+
+1987,
+
+1970,
+
+"Comparison
+
+Surfaces
+in Normal
+Oxygen
+Environment,"
+
+Gann,
+
+Data
+
+R.G.,
+
+1986,
+
+Hazard
+Vo].
+
+for
+News,
+
+R.N.
+Design
+
+Canetti,
+Operations
+71-826.
+
+G.S.,
+in
+
+and
+and
+
+Results
+Nuclei
+
+"Techniques
+
+Spacecraft
+ed., pp.
+
+Detector
+
+damage
+as necessary.
+The critical
+needs
+to promote
+this
+fire-safety
+program
+to meet
+the
+needs
+of
+space
+stations,
+such
+as Freedom,
+can
+be met
+through
+a combination
+of
+fundamental
+research,
+practical
+application,
+
+Levin,
+
+TM-84066.
+
+J.C.,
+
+Thin
+
+Requirein Environ-
+
+]4,
+
+28-33.
+
+Detection,"
+J.M. Margle,
+
+but
+tolerable
+risks.
+The application
+of this
+philosophy
+to orbiting
+spacecraft
+involves
+the
+interaction
+of
+strategies
+of
+control
+of
+fire-causing
+elements,
+response
+to
+incipient
+fires,
+and recovery
+from
+fire
+
+NASA
+
+Aydelott,
+
+to Fire
+Toxicity
+ASTM Standardization
+
+8ticker,
+R.N.,
+Evaluation
+of
+NASA CR-3874.
+
+Minimization
+on strucand costs,
+
+skillful
+adaptation
+of
+established
+techniques
+aircraft
+and submarines,
+and necessary
+testing
+demonstrations
+in low
+gravity.
+
+V.,
+
+New Approach
+Evaluation,"
+
+present
+
+knowledge
+and applications
+underlying
+fire-safety
+planning
+for
+advanced
+spacecraft.
+The purpose
+review
+is to establish
+a risk-management
+basis
+future
+spacecraft,
+particularly
+a space
+station
+
+Combustion,"
+
+of
+Flame
+Spreading
+Over
+Gravity
+and Neightlessness
+NASA TM X-1992.
+
+REMARKS
+paper
+
+"Flammability,
+Odor,
+and Offgassing
+and Test
+Procedures
+for Materials
+
+ments
+(NASA
+
+both
+con-
+
+tinuously
+as a flow
+loop,
+except
+for
+minor
+oxygen
+makeup
+and venting
+as combustion
+products
+accumulate.
+Freedom
+would
+provide
+certain
+common
+utilities
+and
+instrumentation
+and some degree
+of crew
+involvement
+to supplement
+tures
+shown•
+
+STUDIES.
+
+REFERENCES
+
+of
+the
+spacecraft
+faciTity
+could
+conmaterial
+evaluaother
+may
+
+FOR SPACE STATION FIRE-SAFETY
+
+Fire
+9-29.
+
+Mulholland,
+Smoke
+
+from
+Fire
+
+for
+
+Safety,
+
+G.N.,
+
+Fire
+
+NASA
+
+1978,
+
+Properties,"
+
+]97],
+"Systems
+Safety
+Earth-Orbital
+Missions,"
+
+a Comparative
+Detector,"
+
+CP-2476,
+
+"Smoke
+
+NBS TN-973.
+for
+
+Manned
+AIAA
+Paper
+
+Carhart,
+H.N.,
+1987,
+"Inerting
+and Atmospheres,"
+Spacecraft
+Fire Safety,
+NASA CP-2476,
+J.M. Margle,
+ed., pp. 51-57.
+
+from
+and
+
+10
+
+"A
+
+Chen, C.-H.,
+1986, "Diffusion
+Slow Convective
+Flow Under
+ment,"
+NASA TM-88799.
+DeMeis,
+R., ]986,
+Aerospace
+America,
+
+"Safety
+Voi.24,
+
+Flame Extinction
+in
+Microgravity
+Environ-
+
+in
+
+the Space
+No. 5, pp.
+
+Kimzey,
+J.H.,
+1974, "Skylab
+Experiment
+Gravity
+Flammability,"
+Proceedings
+of
+Processing
+Symposium on Skylab
+Results,
+TM X-70252,
+pp. ll5-130.
+
+Station,"
+26-29.
+
+Krupnick,
+A.C.,
+1971, 'IA Proposed
+Incipient
+Fire
+and
+Toxic Gas Caution
+and Warning
+System for Space
+Shuttles,"
+Space Shuttle
+Technology
+Conference,
+Vol.
+I - Operations,
+Maintenance,
+and Safety,
+NASA TM
+X-67264,
+pp. 261-276.
+
+de Ris,
+J.,
+1987, "Fire
+Extinguishment
+and Inhibition
+in Spacecraft
+Environments,"
+Spacecraft
+Fire Safety,
+NASA CP-2476,
+J.M. Margle,
+ed.,
+pp. 43-49.
+Desmarais,
+L.A.
+and Tolle,
+F.F.,
+1983, "Integrated
+Aircraft
+Fuel Tank ,herring
+and Compartment
+Fire
+Suppression
+System,
+Vol.
+II - Evaluation
+of NitrogenEnriched
+Air as a Fire
+Suppressant,"
+AFNAL-TR-832021-VOL-II,
+Air Force Nright
+Aeronautical
+Laboratories.
+Desmarais,
+"Evaluation
+AIAA Paper
+
+L.A.,
+To]le,
+of Advanced
+83-I141
+
+Ferkul,
+P.V.,
+Flow Diffusion
+Microgravity,"
+
+Kubicki,
+Planning
+Vol.
+75,
+
+1988, "An Experimental
+Flame Extinction
+Over
+
+of
+
+Linford,
+R.M.F.,
+1972a,
+"Experiments
+with
+the Skylab
+Fire
+Detectors
+in Zero Gravity,"
+Space Simulation,
+NASA SP-298,
+pp. 41-55.
+
+Study of Opposed
+a Thin Fuel in
+
+Linford,
+R.M.F.,
+1972b,
+"Integration
+of
+Detector
+into
+a Spacecraft,"
+Journal
+of
+and Rockets,
+Vol.
+9, No. 9, pp. 697-701.
+
+"Size
+and Shape of Solid
+Fue
+Very Low Speed Flows,"
+NASA
+
+McAlevey,
+R.F.
+III,
+Criterion
+for
+Space
+Journal
+of Spacecraft
+p. 1390.
+
+Foutch,
+D.N.,
+Chen, C.-H.,
+and T'ien,
+J.S.,
+1987
+"Size
+and Shape of Solid
+Fuel Diffusion
+Flames in
+Very Low Speed Flows,"
+AIAA Paper 87-2030.
+Friedman,
+Operations,"
+
+R.,
+
+1987, "Fire
+Safety
+NASA TM-89848.
+
+Concerns
+
+in
+
+McAllister,
+F.,
+Crew Provisions
+TN-D-6737.
+
+Space
+
+Gann, R.G.,
+Stone,
+J.P.,
+Tatem,
+P.A.,
+Williams,
+F.N.,
+and Carhart,
+H.N.,
+1978, "Suppression
+of Fire
+in
+Confined
+Spaces by Nitrogen
+Pressurization:
+Ill
+Extinction
+Limits
+for Liquid
+Pool Fires,"
+Combustion
+Science
+and Technology,
+Vol.
+18, NOS. 5-6,
+pp. 155-163.
+
+Olson,
+Flame
+Olson,
+Velcro
+
+Kaplan,
+H.L.,
+1979, "Contaminants,"
+Basis
+for
+Spacecraft
+Environment
+RP-I045,
+J.M. Naligora,
+ed.,
+pp.
+
+and Magee, R. S., 1967, "A
+Capsule
+Fire
+Hazard Minimization,"
+and Rockets,
+Vol.
+4, No. lO,
+
+1972, "Apollo
+and Equipment
+
+Experience
+Subsystem,"
+
+Report
+NASA
+
+S.L.,
+Spread
+
+1987, "The Effect
+Over a Thin Fuel,"
+
+S.L.
+and Sotos,
+in Low Gravity,"
+
+of Microgravity
+NASA TM-100195.
+
+R.G.,
+1987, "Combustion
+NASA TM-88970.
+
+and
+
+on
+
+of
+
+Peercy,
+R.L. Jr. and Raasch,
+R. F.,
+1986, "ThreatStrategy
+Technique:
+A System Safety
+Tool for
+Advanced
+Design,"
+Journal
+of Spacecraft
+and Rockets,
+Vol.
+23, NO. 2, pp. 200-206.
+
+I,
+
+Horrigan,
+D.J.,
+1979, "Atmosphere,"
+The Physiological
+Basis
+for Spacecraft
+Environmental
+Limits,
+NASA
+RP-I045,
+J.M. Waligora,
+ed.,
+pp. 1-15.
+Huggett,
+C.,
+1973, "Habitable
+Atmospheres
+Nhich
+Not Support
+Combustion,"
+Combustion
+and Flame,
+Vol.
+20, No. I, pp. 140-142.
+
+a Fire
+Spacecraft
+
+Mniszewski,
+K.R.,
+Naterman,
+T.E.,
+Campbell,
+J.A ,
+Salzberg,
+F.,
+1983, "Fire
+Management/Suppression
+System/Concepts
+Relating
+to Aircraft
+Cabin
+Fire
+Safety,"
+FAA-CT-82-134,
+Federal
+Aviation
+Administration.
+(Avail.
+NTIS, AD-A137155).
+
+Friedman,
+R. and Sacksteder,
+K.R.,
+1987, "Science
+and
+Technology
+Issues
+in Spacecraft
+Fire
+Safety,"
+AIAA
+Paper 87-0467.
+(NASA TM-88933).
+
+Gibb,
+J.W.,
+et al.,
+1985, "Other
+Challenges
+in the
+Development
+of the Orbiter
+Environmental
+Control
+Hardware,"
+Space Shuttle
+Technical
+Conference
+Part
+NASA CP-2342-PT-I,
+N. Chaffee,
+ed.,
+pp. 465-479.
+
+and Rescue
+Fire
+Journal,
+
+Ledoux,
+P.N.,
+1987, "Spacecraft
+Material
+Flammability
+Testing
+and Configurations,"
+Spacecraft
+Fire
+Safety,
+NASA CP-2476,
+J.M. Margle,
+ed.,
+pp. 95-98.
+
+NASA CR-182185.
+
+Foutch,
+D.N.,
+1987,
+Diffusion
+Flames in
+CR-179576.
+
+D J.,
+198],
+"Fire
+Protection
+for
+the NASA Space Shuttle,"
+No. 4, pp. 34-40,
+127-128.
+
+Kuchta,
+J.M. and Clodfelter,
+R.G.,
+1985, "Aircraft
+Mishap Fire
+Pattern
+Investigations,"
+AFNAL-TR85-2057,
+Air Force Nright
+Aeronautical
+Laboratories.
+(Avail.
+NTIS, AD-A161094).
+
+F.F.,
+and Allen,
+T.D.,
+1983,
+Airplane
+Fire
+Extinguishants,"
+
+Dressler,
+D.P.,
+et al.,
+1977, "Biological
+Effect
+Fire. Suppression
+by Nitrogen
+Pressurization
+in
+Enclosed
+Environments,"
+Journal
+of Combustion
+Toxicoloqy,
+Vol.
+4, pp. 314-324.
+
+M479 Zero
+the Third
+Space
+Vol.
+l,
+NASA
+
+Peercy,
+R.L.,
+Jr.,
+Raasch,
+1985a,
+"Space Station
+Crew
+Vol.
+],"
+NASA CR-3854.
+
+11
+
+L.A.,
+Study,
+
+L.A.,
+Study,
+
+Raasch,
+R.F.,
+Peercy,
+R.L.,
+Jr.,
+and Rockoff,
+1985, "Space Station
+Crew Safety
+Alternatives
+Vol.
+2 - Threat
+Development,"
+NASA CR-3855.
+
+The Physiological
+Limits
+NASA
+17-56.
+
+and Rockoff,
+Alternatives
+
+Peercy,
+R.L.,
+Jr.,
+Raasch,
+R.F.,
+and Rockoff,
+1985b,
+"Space Station
+Crew Safety
+Alternatives
+Vol.
+4 - Appendices,"
+NASA CR-3857.
+
+Do
+
+R.F.,
+Safety
+
+L.A.,
+Study,
+
+Reichelt,E.F., Nalker,J.L., Vickers,R.N.,and
+Kwan,
+A.J., 1982, Report f TestResults: Halon
+"
+o
+1301 NaterSprinklerFire Protection Essential
+vs.
+for
+ElectronicEquipment,"
+AFESC/ESL-TR-82-28,
+Air Force
+Engineering
+andServices
+Laboratory.(Avail. NTIS,
+AD-AI22602).
+
+Sacksteder,
+Fundamentals,"
+J.M. Margle,
+Naldman,
+
+12,
+
+No.
+
+II,
+
+pp.
+
+"Aircraft
+
+Extinguishment,"
+
+Fire
+
+and Overheat
+
+N.W.,
+1988, "Spacecraft
+Fire Safety
+for Space Station:
+Technology
+Development
+NASA CR-182114.
+
+Youngblood,
+N.N. and Seiser,
+to Ensure
+Space Station
+Fire
+AIAA Paper 88-0540.
+
+915-921.
+
+Rosenthal,
+B.N.,
+Glasgow,
+T.K.,
+Black,
+R.E.,
+Elleman,
+D.D.,
+1987, "Research
+Opportunities
+Microgravity
+Science
+and Applications
+During
+Hiatus,"
+NASA TM-88964.
+
+1980,
+
+and
+
+Youngblood,
+Experiments
+Mission,"
+
+Ronney,
+P.D., 1985, Effectof GravityonHalo"
+carbon
+Flame etardant
+R
+Effectiveness," cta
+A
+Vol.
+
+J.J.,
+
+Combustion
+NASA CP-2476,
+
+Detection
+
+Rodney,
+G.A., 1987,"SafetyConsiderations the
+in
+Design Manned
+of
+Spaceflight ardware,"
+H
+IAFPaper
+87-569, nternationalAstronautical
+I
+Federation.
+
+Astronautica,
+
+K.R.,
+1987, "Microgravity
+Spacecraft
+Fire
+Safety,
+ed.,
+pp. 89-94.
+
+and
+in
+Shuttle
+
+12
+
+SAE Paper
+
+K.M.,
+Safety
+
+800622.
+
+]988,
+"Experiments
+- A Challenge,"
+
+National Aeronautics
+Space Administration
+1.
+
+Report
+
+No.
+
+NASA
+4.
+
+Report
+
+and
+
+Title
+
+and
+
+Fire
+
+2.
+
+TM-
+
+Documentation
+
+Government
+
+Accession
+
+Page
+
+No.
+
+3.
+
+Recipient's
+
+5.
+
+Report
+
+Subtitle
+
+Behavior
+
+and
+
+Risk
+
+Analysis
+
+Author(s)
+
+8.
+
+Robert
+
+No.
+
+Friedman
+
+and
+
+Kurt
+
+Date
+
+in Spacecraft
+.6.
+
+7.
+
+Catalog
+
+100944
+
+Performing
+
+Organization
+
+Code
+
+Performing
+
+Organization
+
+Report
+
+No.
+
+E-4232
+
+R. Sacksteder
+10.
+
+Work
+
+Unit
+
+No.
+
+323-53-6X
+9.
+
+Performing
+
+Organization
+
+Name
+
+and
+
+Address
+11.
+
+National
+Aeronautics
+and
+Li_wis Research
+Center
+Cleveland,
+12.
+
+Ohio
+
+Sponsoring
+
+National
+
+Name
+
+D.C.
+
+Supplementary
+
+for the
+
+Illinois,
+
+of Report
+
+Space
+
+Administration
+
+14.
+
+and
+
+Period
+
+Covered
+
+Memorandum
+
+Sponsoring
+
+Agency
+
+Code
+
+20546-0001
+
+November
+
+1988
+
+Winter
+
+Annual
+
+28--December
+
+Meeting
+
+3,
+
+of the
+
+American
+
+Society
+
+of Mechanical
+
+Engineers,
+
+Chicago,
+
+1988.
+
+Abstract
+
+Practical
+
+risk
+
+residual
+safety
+
+management
+
+risks
+
+balanced
+
+low
+
+gravity
+
+gas
+
+flows
+
+of
+yet
+
+application
+
+Key
+
+Words
+
+Fire
+
+Spacecraft
+
+at the
+
+same
+
+decisions
+
+(Suggested
+
+detection;
+
+gravity
+
+compared
+time
+
+Fire
+
+by
+
+future
+
+strategies,
+
+(2)
+
+increased
+
+for eventual
+
+by
+
+behavior,
+ventilation
+
+knowledge
+fire-risk
+
+and
+
+management
+
+and
+
+18.
+
+Flammability;
+
+Risk
+
+Safety
+
+analysis;
+
+hazards
+
+appropriate
+
+Reduced
+
+management;
+
+hot
+
+of
+
+optimization
+
+alarm,
+
+and
+
+combustion
+
+the absence
+
+This
+
+to fire
+
+through
+
+and
+of
+
+of
+
+fire
+
+paper
+
+detection,
+
+in
+
+of buoyant
+discusses
+fire
+
+the
+
+fighting
+
+spacecraft.
+
+Statement
+
+Unclassified
+Subject
+
+by
+
+expulsion.
+
+in the
+
+optimization
+
+elements,
+detection
+
+be reduced
+
+analogies
+
+the
+
+Spacecraft
+
+understanding
+
+particle
+
+aircraft
+
+Distribution
+
+through
+
+Present
+may
+
+involves
+
+limitations.
+
+fire-causing
+
+fires
+
+cleanup.
+
+fire
+
+stations,
+
+economic
+
+(1) control
+
+to incipient
+
+flows
+
+and
+
+space
+and
+
+and
+
+Author(s))
+
+- Unlimited
+
+Category
+
+16
+
+safety
+
+19. Security Classif. (of this report)
+
+20. Security Classif. (of this page)
+
+Unclassified
+NASAFORM1626OCT
+86
+
+of risk:
+
+response
+
+extinguishment
+
+to normal-gravity
+
+including
+
+technological,
+
+in order
+
+through
+
+combustion
+
+spacecraft,
+
+operational,
+
+extinguishers;
+
+combustion;
+fire
+
+and
+
+for example,
+
+conditions
+
+of low-gravity
+
+fire-safety
+
+three
+
+materials
+
+normal
+
+is that,
+
+present
+spacecraft
+
+through
+
+of flammable
+
+(3) recovery
+
+and
+
+for
+the
+
+by
+
+is approached
+
+exclusion
+
+17.
+
+No.
+
+Notes
+
+Prepared
+
+16.
+
+Grant
+
+Technical
+
+Address
+
+and
+
+Aeronautics
+
+Washington,
+
+15.
+
+and
+
+Type
+
+or
+
+Administration
+
+44135-3191
+
+Agency
+
+Contract
+
+13.
+
+Space
+
+*For sale by the National
+
+21. No of pages
+
+Unclassified
+Technical
+
+Information
+
+14
+Service, Springfield,
+
+Virginia
+
+22161
+
+22. Price*
+A02
+
+National
+
+Aeronautics
+
+Space
+Lewis
+
+Research
+
+and
+
+FOURTH CLASS MAIL
+
+Administration
+
+Cleveland,
+
+Ohio
+
+Official
+
+for Private
+
+ADDRESS
+
+CORRECTION
+
+REQUESTED
+
+44135
+
+Business
+
+Penalty
+
+Center
+
+IIIII
+I
+
+Use $300
+
+Postage
+Nallonat
+
+and Fees Pa_d
+AeronaGics
+and
+
+Space
+NASA
+
+NASA
+
+Admln_strahon
+451
+

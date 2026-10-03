@@ -1,0 +1,1102 @@
+CECE: Expanding the Envelope of Deep Throttling
+Technology in Liquid Oxygen/Liquid Hydrogen Rocket
+Engines for NASA Exploration Missions
+Victor J. Giuliano1, Timothy G. Leonard2, and Randy T. Lyda3
+Pratt & Whitney Rocketdyne, West Palm Beach, FL 33410
+and
+Tony S. Kim4
+NASA Marshall Space Flight Center, Huntsville, AL 35812
+
+As one of the first technology development programs awarded by NASA under the Vision
+for Space Exploration, the Pratt & Whitney Rocketdyne (PWR) Deep Throttling, Common
+Extensible Cryogenic Engine (CECE) program was selected by NASA in November 2004 to
+begin technology development and demonstration toward a deep throttling, cryogenic engine
+supporting ongoing trade studies for NASA’s Lunar Lander descent stage. The CECE
+program leverages the maturity and previous investment of a flight-proven hydrogen/oxygen
+expander cycle engine, the PWR RL10, to develop and demonstrate an unprecedented
+combination of reliability, safety, durability, throttlability, and restart capabilities in highenergy, cryogenic, in-space propulsion. The testbed selected for the deep throttling
+demonstration phases of this program was a minimally modified RL10 engine, allowing for
+maximum current production engine commonality and extensibility with minimum program
+cost. Four series of demonstrator engine tests have been successfully completed between
+April 2006 and April 2010, accumulating 7,436 seconds of hot fire time over 47 separate
+tests. While the first two test series explored low power combustion (chug) and system
+instabilities, the third test series investigated and was ultimately successful in demonstrating
+several mitigating technologies for these instabilities and achieved a stable throttling ratio of
+13:1. The fourth test series significantly expanded the engine’s operability envelope by
+successfully demonstrating a closed-loop control system and extensive transient modeling to
+enable lower power engine starting, faster throttle ramp rates, and mission-specific ignition
+testing. The final hot fire test demonstrated a chug-free, minimum power level of 5.9%,
+corresponding to an overall 17.6:1 throttling ratio achieved. In total, these tests have
+provided an early technology demonstration of an enabling cryogenic propulsion concept
+with invaluable system-level technology data acquisition toward design and development
+risk mitigation for future lander descent main engines.
+
+1
+
+CECE Program Manager, P.O. Box 109600, M/S 710-99, Senior Member
+CECE Deputy Program Manager, P.O. Box 109600, M/S 710-99
+3
+CECE Chief Engineer, P.O. Box 109600, M/S 710-99
+4
+Lox Hydrogen Deep Throttling Engine (DTE) Advanced Capability Development Project Manager, Science &
+Mission Systems Office, Exploration Advanced Capabilities Development Office, NASA/MSFC/VP33, Member
+2
+
+1
+American Institute of Aeronautics and Astronautics
+
+Nomenclature
+CECE
+CH4
+CLC
+CO
+DDSI
+DEREC
+EOI
+GRC
+HR
+Isp
+LH2
+LOI
+LOX
+MR
+MSFC
+OCV
+OLC
+Pc
+PWR
+TBV
+TCV
+TEI
+TLI
+VACV
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+Common Extensible Cryogenic Engine
+Methane
+Closed-Loop Control
+Carbon Monoxide
+Dual Direct Spark Ignition
+Digital Electronic Rocket Engine Controller
+Earth Orbit Insertion
+Glenn Research Center
+Hot Run
+Specific Impulse, seconds
+Liquid Hydrogen
+Lunar Orbit Insertion
+Liquid Oxygen
+Mixture Ratio
+Marshall Space Flight Center
+Oxidizer Control Valve
+Open-Loop Control
+Chamber Pressure, psia
+Pratt & Whitney Rocketdyne
+Turbine Bypass Valve
+Thrust Control Valve
+Trans-Earth Insertion
+Trans-Lunar Insertion
+Variable Area Cavitating Venturi
+
+I. Introduction
+The main goal of the CECE program is to leverage the maturity and previous investment of a flight-proven
+expander cycle engine to develop and demonstrate technology advancement toward an unprecedented combination
+of extended reliability, safety, throttlability, and restart capabilities in a high-energy, cryogenic engine. The resulting
+technologies database and demonstrated risk reduction could enable design and development of a deep throttling,
+highly reliable engine for use across many human and robotic exploration mission phases, including: earth-to-orbit,
+trans-lunar insertion (TLI), lunar orbit insertion (LOI), planetary descent/ascent, trans-Earth insertion (TEI), and
+Earth orbit insertion (EOI). In
+formulating
+the
+program,
+consideration was also given to
+the requirements and program
+impacts of potential alternate
+in-situ generated propellants
+such as methane (CH4) and
+carbon monoxide (CO). This
+vision of a common, extensible
+cryogenic engine, as shown in
+Figure 1, seeks to enhance
+Exploration affordability and
+sustainability
+objectives
+through
+commonality and
+modularity across lunar mission
+segments and Mars architecture
+extensibility by potentially
+Figure 1. CECE Roadmap for Common, Extensible Exploration Propulsion
+eliminating the need for several
+Technology Advancement
+“point design” engines.
+The CECE Phase I Program, conducted from June 2005 to July 2006, was designed to provide an early
+demonstration of the CECE’s throttling capability and to provide enabling component- and system-level data
+2
+American Institute of Aeronautics and Astronautics
+
+acquisition for the enhanced capability design that would be developed and demonstrated in Phase II. Phase I was
+composed of three primary technical tasks: 1) mission requirements and technical performance measures (TPMs)
+definition consistent with evolving lunar lander propulsion system requirements; 2) full-engine system 10:1 deep
+throttling demonstration and acquisition of risk reduction-enabling performance data through a Demonstrator No. 1
+engine test; and 3) conceptual design of a CECE Demonstrator No. 2 configuration toward further risk reduction
+design and demonstration efforts under Phase II, including preliminary evaluation of methane and carbon-monoxide
+as alternate propellants.
+Under Phase II, Option 1 of the program, conducted from July 2006 to December 2007, the focus was placed on
+detailed analysis of the results from Demo 1 and a continuation of the deep throttling test demonstration program,
+using the same minimally modified RL10 engine run as Demo 1. The subsequent Demo 1.5 engine test series had
+the objective to further investigate low power operation and evaluate throttle response rates. Detailed data mining
+analysis of the data acquired over 2,098 seconds of hot fire time under the Demo 1 and Demo 1.5 engine tests and a
+comprehensive summary of the results were submitted in final reports and papers.1-3
+Lessons learned from the Demo 1 and Demo 1.5 engine tests were subsequently applied in a Phase II, Option 1
+Extension program conducted from October 2007 to March 2009. The main task within this option designed and
+manufactured new injector and engine system components, incorporated into a Demo 1.6 engine configuration and
+tested over November-December 2008. The primary goal of Demo 1.6 was to demonstrate that stable LOX/LH2
+deep throttling could be achieved within the high performance, pump-fed engine system and to capture the critical
+data for use in future designs. Demo 1.6 was a very successful technology advancement engine test, accumulating an
+additional 2,935 seconds of system-level data over 12 hot fire tests and expanded the range of cryogenic deep
+throttling success to a 13:1 (105% to 8% power) throttling ratio. A subsequent Phase II, Option 3 program was
+developed and is underway, having begun in April 2009 and continuing through July 2010. Option 3 included a final
+Demo 1.7 engine test that was completed on 21 April, 2010. Demo 1.7 was also a very successful technology
+advancement engine test, accumulating an additional 2,403 seconds of system-level data over 20 hot fire tests and
+further expanded the range of cryogenic deep throttling success to a 17.6:1 throttling ratio (105% in Demo 1.6, 5.9%
+power in Demo 1.7). The focus of this paper is to present the objectives and a summary of these final two
+demonstrator engine tests (Demo 1.6 and 1.7) and their respective technology advancements, including challenges
+encountered along the way.
+
+II. CECE Demo Engine Configurations
+At the conception of the CECE program, PWR elected to leverage the versatile, high-performance expander
+cycle engine for Exploration technology insertion because of the cycle-unique benefits it offers. The basic expander
+cycle derives its energy for driving the turbine from expansion of liquid cryogenic fuel as it is routed through the
+wall of the engine’s thrust chamber. This same flow provides the cooling needed to maintain chamber thermal
+margin during operation. The result is a cycle that produces no combustion products upstream of the main injector to
+freeze and potentially affect restart, making it ideal for deep-space, multi-start applications. Additionally, since all
+power is produced from gas expansion, the cycle naturally eliminates engine run-away, results in very moderate
+turbine temperatures, and enables a precise and repeatable shutdown by simply closing the injector inlet valves.
+Altogether, the cycle provides high Isp performance with relatively low system pressures and pump speeds, benign
+failure modes, robust restart capability, benign operating conditions, and safe shutdown from all operating points. To
+demonstrate the benefits of the expander cycle for Exploration applications, the flight-proven RL10 was selected as
+a starting point due to the many desirable engine-specific characteristics that were already present in the current
+design.
+Exploration propulsion technology development has benefited from the operational performance and
+understanding that comes from such an adaptable engine system and from directly applicable technologies
+accumulated during the engine’s development that would require significant cost and effort to replicate. Past RL10
+development efforts specifically oriented toward in-space lunar exploration missions have included long mission
+durability, combustion stability, contamination resistance, high vacuum operation, micro-meteoroid damage
+tolerance, multiple start capability, propellant system conditioning, mixture ratio adjustment, throttling, hypergolic
+and redundant ignition, low idle thrust, and engine system operability using methane and propane as alternate
+propellants.4-7 In all, the benefits of the RL10-proven expander cycle, coupled with the inherent design features and
+throttling potential of the RL10 engine, has served as an excellent technology test bed in support of Exploration
+propulsion objectives.
+
+3
+American Institute of Aeronautics and Astronautics
+
+Since the CECE Demonstrator Engine 1.6 and 1.7 test configurations were essentially built upon the Demo 1
+and Demo 1.5 engine configuration reported in previous publications, a cursory summary of the basic CECE engine
+configuration follows.
+The CECE Demonstrator Engine was assembled from a mix of heritage RL10 development hardware, valves
+from different programs, and CECE program-unique parts needed to meet configuration and performance needs.
+These changes were essentially the control suite required to enable throttling of the CECE engine and a fixedgeometry, high delta-pressure injector to enable 10:1 throttling across the engine operating range. The expander
+cycle configuration and controls suite changes, depicted in Figure 2, entailed replacement of the existing hydromechanical valves used on the production RL10 engine at the turbine bypass (TCV) and oxidizer control valve
+(OCV) locations. To increase turbine bypass flow, a second, larger turbine bypass valve (TBV) was added that was
+a heritage RL60 electromechanically actuated valve. To isolate the fuel pump from downstream pressure
+fluctuations, a variable area cavitating venturi (VACV) was used along with an additional overboard cool down
+valve (SDVV). By modulation of the four main control valves (TBV, TCV, OCV, and VACV), engine chamber
+pressure (Pc), mixture ratio (MR), and turbopump speed were controlled by the use of a digital electronic rocket
+engine controller (DEREC).
+Current RL10
+
+CECE Demo Engines
+VACV
+
+OCV
+
+High p
+Injector
+
+TCV
+
+TBV
+
+Figure 2. Comparison of RL10 and CECE Configurations Showing CECE-Unique Components.
+The RL10 injector was redesigned for CECE while maintaining as much commonality with the current RL10
+basic injector assembly as possible. Modifications included reduction of the LOX flow area of the injector to
+maintain adequate delta pressure at the minimum throttle condition of 10% power. The turbopump, all pneumatic
+valves, most external plumbing, and the thrust chamber were all heritage RL10 components that were minimally
+modified to meet CECE engine requirements.
+A. CECE Demo 1.6 Engine Configuration
+The Demo 1.6 engine configuration was changed in two main respects from the prior Demo 1 and 1.5
+configurations – a new injector design and the replacement of the baseline gas venturi with a reduced area gas
+venturi. To address the low-power chamber pressure (chug) instability observed during Demos 1 and 1.5 testing, the
+CECE engine was rebuilt around a new injector design and propellant feed system to better manage the pressure,
+temperature and flow of propellants throughout its range of throttled operation.
+The CECE Demo 1 and 1.5 engine configurations used an RL10A4-2 Bill-of-Material (BOM) fuel venturi tube.
+Testing showed the 1.05 sq in. area of the BOM venturi tube was too large to maintain supercritical conditions in the
+chamber coolant jacket at lower power levels. As a result, testing also showed a 1 Hz chamber pressure oscillation
+occurred as the jacket transitioned below supercritical conditions. A smaller area (0.65 sq in.) fuel venturi tube was
+designed and fabricated to expand the region of supercritical operation down to lower power levels. The tube was
+designed to be interchangeable with the BOM tube on the test stand to increase test options.
+B. CECE Demo 1.7 Engine Configuration
+The Demo 1.7 engine demonstration program was evolved to explore the operability technology envelope of the
+existing CECE demonstrator engine. Primary objectives selected for Demo 1.7 testing focused on development and
+implementation of a closed-loop control (CLC) system for engine Pc and MR, increasing throttle transient rates, and
+advancing minimum power starts down to a target of 10% power. Secondary objectives included demonstration of
+high power, high MR operation, extremely cold (pump and chamber pre-chill to simulate extreme in-space starts)
+
+4
+American Institute of Aeronautics and Astronautics
+
+ignition testing, demonstration of multiple engine relights, and advancing low power operation below the Demo 1.6
+minimum of 8% power.
+The Demo 1.6 injector was slightly modified to adapt it for use with the current RL10A-4 production Dual
+Direct Spark Ignition (DDSI) system for the planned ignition tests, and a new gas venturi was sized to serve as a
+real-time fuel flow meter during test, a key element of the CLC system. In order to fulfill this function, it was
+desired that the venturi operate in the choked flow regime for all power levels in which CLC would be exercised. A
+throat effective area of 0.80 sq in. was selected because it remains choked, with ample margin, at all operating
+conditions while also permitting the widest mixture ratio range to be achieved at 100% thrust. The 0.80 sq in. size
+results in roughly double the low power pump stall margin relative to the 0.65 sq in. venturi used in Demo 1.6,
+making this an optimal selection for the Demo 1.7 test objectives. Studies conducted for the venturi design
+concluded that downstream fluid temperature measurements would be acceptable for flow determination from the
+venturi. This location eliminates the potential of flow disruptions from intrusive temperature measurement probes
+upstream of the venturi throat. The design also incorporated four upstream static pressure measurement locations
+(two more than previous CECE designs), thus allowing for better determination of the pressure distribution upstream
+of the venturi throat as well as reducing the uncertainty of the calculated flow from the venturi data. Due to the
+5,033 seconds accumulated on the fuel and oxidizer turbopumps over the course of the Demo 1 through Demo 1.6
+test series, both turbopumps were zero-timed for the Demo 1.7 engine build and the configuration brought up to the
+most current RL10 production standard. In addition to these changes, the zero-time activity inherently replaced all
+used carbon seals, bearings, gears, shaft assemblies and expendables.
+
+III. Demo 1.6 Engine Test and Results Summary
+The primary objectives of Demo 1.6 engine testing were to determine the new injector’s effectiveness to
+mitigate low-power chug instability and the effectiveness of the reduced area gas venturi to mitigate the 1 Hz
+chamber pressure oscillations when the jacket is below supercritical conditions.
+The test program for the Demo 1.6 engine, designated as Demonstrator Engine XR800-2 (a continuation of the
+Demo 1.5 XR800-2 designation), was conducted in Pratt & Whitney Rocketdyne’s (PWR’s) E-6 Test Facility in
+November and December of 2008. The Demo 1.6 test series added twelve starts and 2,935 seconds of hot-fire time
+for a total CECE demonstrator program accumulated run time of 27 starts and 5,033 seconds. A brief synopsis of
+each run and its results is presented in the following paragraphs.
+The first hot fire (HR 16.01), conducted on 7 November 2008, was a repeat of Demo 1.5 low-power points to
+investigate chugging performance of the new injector and to characterize any potential differences in the engine’s
+baseline performance. The engine was throttled between 60% and 9% power during this run, primarily using manual
+control. Post-run data analysis indicated that the injector design moved the nominal chug boundary from
+approximately 17% power observed during Demo 1.5 testing to approximately 13%.
+HR 17.01, conducted on 13 November, was a sequencer controlled (automated) run to further explore lowpower stability. During the low-power sweep, the engine stabilized at 30 psia chamber pressure (8% rated power)
+which became a new minimum power demonstrated for the CECE engine. After HR 17.01, the original 1.05 sq in.,
+fixed area fuel venturi tube was replaced with the new 0.65 sq in. venturi.
+HR 18.01 was subsequently attempted on 17 November, but the run was aborted after 1.571 seconds due to a
+fuel venturi/chamber pressure interlock safety abort, a parameter that checks to see that the LOX and fuel delivery to
+the engine are synchronized, thereby maintaining a proper engine mixture ratio. Post abort data analysis showed that
+the OCV start was delayed beyond the limit setting, causing the interlock abort. An adjustment was made to the
+OCV start schedule and the test was attempted again the following day as HR 19.01. The engine started acceptably,
+and a full duration 311 second run was completed. Data from HR 19.01 indicated that the engine control schedules
+were acceptable with the new venturi to proceed to sequencer control on the next test.
+HR 20.01 was conducted on 21 November and consisted of a final manual checkout of the control schedules at
+low power followed by a pair of automated sweeps. This again was a full-duration run of 302 seconds.
+HR 21.01 was successfully conducted on 25 November entirely on sequencer with no issues and included an
+excursion to 100% power, a series of mid-power dwells, and additional low-power testing. During the high-power
+point, the engine achieved 400 psia chamber pressure (105% rated power), which became a new maximum power
+level delivered by the CECE engine. Images of Demo 1.6 running at maximum demonstrated power (105%) and at
+10% power are presented in Figure 3.
+HR 22.01, conducted on 4 December, completed a simulated lunar descent mission profile to perform specific
+MR and Pc combinations and demonstrate engine transient ramp rates. It was a fully sequencer controlled
+
+5
+American Institute of Aeronautics and Astronautics
+
+(automated) run with power levels between 10 and 100% scheduled, and the test was completed to full planned
+duration without issues.
+HR 23.01 was a lowpower combustion stability
+test with warm LOX inlet
+(174 deg R) conditions. The
+8 December test was
+designed to repeat previous
+chugging points to determine
+the effect of LOX inlet
+temperature on combustion
+stability. Low-power throttle
+rate expansion ramps were
+also completed at the end of
+the test. This was a full
+sequencer run with power
+levels between 10 and 50%
+targeted.
+The HR 24.01 test was
+completed on 11 December
+to the full planned duration,
+including a reduced power
+start to 40% power followed
+by a set of low-power
+Figure 3. Demo 1.6 Engine at 105% and 10% Power.
+performance
+dwells
+at
+various MRs. The test
+concluded with a pair of throttle rate expansion ramps.
+After minimum engine inspections post-test, HR 25.01 was performed the following day. This test was a
+scheduled 20-second attempt to start the engine to a new low power level of 30%. The engine started successfully
+and although it did overshoot to 39%, it had settled back to 33% power by T+3 seconds. Quick look data following
+HR 25.01 found that the engine exhibited below minimum fuel-pump stall margin during the start. Although the fuel
+pump did not stall, further reduced power start testing to target below the 33% demonstrated was judged unwise.
+The objectives for the final test of Demo 1.6 included a maximum-power demonstration, chugging boundary
+exploration, and an attempt at a lower min-power point. HR 26.01 was attempted on 17 December but was
+terminated 25.905 seconds into the run because of a false abort due to data dropout. The data system issue was
+corrected and the engine was placed on quick turnaround status to prepare for a repeat run attempt (same planned
+objectives and profile) the following day. HR 27.01 was successfully completed on 18 December as a full-duration
+run lasting 362.3 seconds. An added
+objective of this final test was to maximize
+engine runtime, so the run was allowed to
+105%
+104% Power
+continue until the engine was shut down
+by a facility low steam pressure advance.
+During the run, the diffuser visually
+unstarted at the planned min power (7.5%)
+point. Although capsule pressure and
+turbine temperature increased during the
+unstart, test termination levels were not
+reached. The run continued, and as the
+engine accelerated through 10% power,
+the diffuser restarted and performed
+8% Power
+normally for the rest of the test. Total time
+of the unstart event was approximately 15
+seconds. A summary plot of Demo 1.6
+Figure 4. Summary Plot of Demo 1.6 Power Level vs. Run Time.
+power levels achieved versus run time is
+presented in Figure 4.
+
+6
+American Institute of Aeronautics and Astronautics
+
+A detailed final report of the Demo 1.6 test accomplishments and the subsequent data mining analyses was
+published in a comprehensive final report.8
+
+IV. Demo 1.7 Engine Test and Results Summary
+The test program for the Demo 1.7 engine, designated as Demonstrator Engine XR800-3, was conducted in
+PWR’s E-6 Test Facility in March and April of 2010. The Demo 1.7 test series added twenty starts and 2,403
+seconds of hot-fire time for a total CECE demonstrator program accumulated run time of 47 starts and 7,436
+seconds. A brief synopsis of each run and its results is presented in the following paragraphs.
+For the first two tests addressing ignition objectives, the Demo 1.7 engine was configured with the original 1.05
+sq in. fuel gas venturi (to baseline control schedules within the new engine build) and the DDSI ignition system. The
+first hot fire (Hot Run 28.01) was conducted on 19 March, successfully completing an as-planned 331.3-second
+duration run. Beginning with a start to 60% power with max fuel/min LOX conditions (fast start), the first half of
+ignition objectives were achieved, including start from a supercold (down to nearly 50 deg R) pre-chilled chamber
+and turbopump. The engine was throttled over power levels ranging from 40% to 100%. This first test confirmed asplanned engine operability and evaluation of control system schedules for sequenced operation in subsequent test
+runs.
+Hot Runs 29.01 through 31.01 were subsequently conducted on 20 March to complete the second half of the
+ignition objectives. HR 29.01 was the primary run, with the engine again pre-conditioned to a supercold chamber
+and turbopump and started with min fuel/max LOX conditions (slow start). The remainder of 29.01 involved
+throttling the engine over power levels ranging
+from 60% to 80% investigating open-loop control
+(OLC) stability. Approximately 30 seconds after
+Relights
+shutdown, the engine performed two separate rapid
+relight cycles (Hot Runs 30.01 and 31.01)
+consisting of a start to 60% power, 30-second run
+time and shutdown from 60% power. Figure 5
+presents this rapid relight run profile, which was
+typical for the way rapid relights were conducted
+for the rest of the test program. A brief review of
+the data confirmed that ignition test objectives had
+been met, clearing the way to proceed with
+changeover to the second Demo 1.7 test
+configuration by replacing the DDSI ignition
+system with the original DSI ignition system and
+Figure 5. Typical Rapid Relight Test.
+replacing the 1.05 sq in. fuel gas venturi with the
+new 0.80 sq in. venturi for the remainder of the test program.
+HR 32.01 was conducted on 25 March, completing a full duration, 286.7-second test to gather OLC data with
+the new fuel venturi and execute a CLC checkout. Closed-loop trim appeared to work well with adequate chamber
+pressure and mixture ratio authority. Following start to 60% power, throttle ratio was varied over power levels
+ranging from 100% to 25%. Approximately 30 seconds after shutdown, the engine again performed two separate
+rapid relight cycles (Hot Runs 33.01 and 34.01) consisting of starts to 50% and 40% power, respectively, 30-second
+run time and shutdown from those respective power levels.
+HR 35.01 was a 356.9-second test conducted on 29 March to begin investigation of CLC in throttling and
+mixture ratio variations. Closed-loop trim appeared to work very well with available chamber pressure and mixture
+ratio authority. Following start to 60% power, throttle ratio was varied over power levels ranging from 75% to 40%.
+HR 36.01 was a rapid relight to 30% power with a 30 second duration, during which the engine was accelerated to
+100% power to check fuel pump thrust balance and shut down from 100% power.
+HR 37.01 was conducted on 31 March, completing a 206.2-second test to checkout open-loop schedules down
+to 10% power. Following start to 60% power, the engine was manually controlled down to 10% power without need
+for adjustment to the open-loop valve schedules. Throttle ratio was varied over power levels ranging from 80% to
+20%. Several open-loop steady state points at 5.8 MR were also performed. HR 38.01 was a 90-second duration run,
+beginning with a rapid relight to 25% power followed by two sets of fast throttling transients (up to 300%/sec
+requested) under OLC and over 80-30% power. The 25% min power start was the first improvement over the 33%
+level achieved in Demo 1.6. However, the 60%/sec throttling rate achieved in acceleration did not exceed the
+82%/sec achieved in Demo 1.6, both under OLC. This remains a technology development area worthy of further
+
+7
+American Institute of Aeronautics and Astronautics
+
+investigation. HR 39.01 was a 10-second duration run, successfully performing a second rapid relight to 20% power
+and again advancing the min power start technology objective to a new level.
+HR 40.01 was conducted on 8 April and completed a 303.6-second test profile to expand the CLC envelope,
+including chamber pressure-based closed-loop fast accel and decel transients. Following start to 60% power, throttle
+ratio was varied over power levels ranging from 90% to 25%. HR 41.01 was a 30-second duration run, beginning
+with a successful rapid relight to 15% power followed by two sets of fast throttling transients (up to 150%/sec
+requested) under CLC over 80-30% power, and shutting down from 30% power. An 81%/sec throttle transient rate
+under CLC was successfully established in this CLC run. HR 42.01 was a 10-second duration run, successfully
+performing a second rapid relight to 10% power, meeting the min power start technology objective for the test
+program. Upon relight, the test facility diffuser was very slow to start and the plume never appeared stable before
+shutdown - not an unexpected limitation of the altitude chamber. However, initial data review showed the engine did
+successfully start to 10% with the desired little to no overshoot.
+HR 43.01 was conducted on 13 April. The first 246.5 seconds of the planned 370-second HR 43.01 test plan,
+including simultaneous thrust (100-30%) and mixture ratio (6.0-3.0) variations under CLC, was completed before
+the engine run aborted during a rapid transient on a DEREC (digital electronic rocket engine controller)
+communications fault flag. Initial quick inspection following the test found that the power supply was no longer
+providing power to the DEREC. Troubleshooting of the power supply and DEREC/EMA over the next few days
+successfully recreated the power supply anomaly that caused the HR 43.01 abort. The selected path forward
+included increasing the overvoltage protection of the power supply while maintaining safe equipment operation.
+HR 44.01 was subsequently conducted on 17 April. The first 138.9 seconds of the planned 335-second test
+matrix was accomplished, including start to 60% power, CLC of simultaneous 100-20% throttling and wide mixture
+ratio variations with a high power/high mixture ratio dwell, and shutdown from 60% power. Upon the first relight
+(HR 45.01) to 15% power, the engine failed to achieve steady-state before a corresponding abort tripped 5.5 seconds
+after ignition. Following a brief review of the run data, an adjustment of the affected abort parameter was made and
+the engine/facility was cycled for another run later in the evening to attempt to capture the rest of this final test
+matrix.
+HR 46.01 was a short, 36.5-second duration start to 60% power and shutdown to advance to the 15% relight.
+HR 47.01 was subsequently conducted with a resulting run duration of 69.3 seconds. Following a start to 15%
+power, power was advanced to 25% and began a slow decel down to the target of 5% minimum power. At
+approximately 67.9 seconds with power level at 5.9% and still decelerating, the fuel pump stalled, ending the run. Of
+great significance is that the
+chugging instability, underway
+since power dropped below
+approximately 18%, appeared to
+cease once power dropped
+below approximately 7.9%.
+104%
+Although data analysis is
+preliminary at this time, it
+appears the test may have
+acquired
+very
+important
+technology data in having
+measured the lower bound of
+chugging operation.
+A summary plot of Demo
+1.7 power levels achieved
+versus run time is presented in
+5.9% was achieved right before fuel pump stall
+Figure 6. A final report of the
+Demo 1.7 test accomplishments
+and the subsequent data mining
+Figure 6. Summary Plot of Demo 1.7 Power Level vs. Run Time.
+analyses will be published in
+late July 2010.
+Two aspects of the Demo 1.7 accomplishments are “firsts” for a derivative RL10 engine. These are significant
+considering that the long, 50+ year heritage of this engine family has included much throttling and low thrust
+testing, mainly in the 1960’s but extending through to the 1980’s. First, the Demo 1.7 control sophistication that
+allowed concurrent CLC of Pc and MR has never been successfully demonstrated in an RL10. Although concurrent
+CLC was attempted some decades ago, it was subsequently abandoned after poor results were obtained. The fact that
+8
+American Institute of Aeronautics and Astronautics
+
+the Demo 1.7 CLC provided accurate and responsive control over a very wide operational range (about 2.5 to 6+
+mixture ratio and 20% to 100% thrust) is a significant achievement of control capability. Second, the ability to
+selectively start to any power level down to 10% has never before been achieved. The fact that overshoots can be
+avoided at all power levels makes this an even more significant accomplishment. In all previous derivative
+configurations, the engine was confined to a given start power level and then could perhaps transition to other levels,
+but operational flexibility was very limited. For example, some engines could start to high power and then throttle
+down and others could start to low power (tank head idle for example) and then transition to high power, but the
+control capability to manage the start process to any power level in the operational range has not been previously
+achieved.
+
+V. Conclusion
+Over the past four years, CECE Demo testing has provided critical, early empirical confirmation of detailed
+component- and engine system-level internal environments and subsystem interactions needed to confirm that 10:1
+throttling (with margin) in a LOX/LH2 cryogenic engine is viable for Exploration mission segments. The acquired
+data has and will continue to serve as a critical database to establish design and analysis confidence for deep
+throttling in future and evolving Exploration vehicles’ risk reduction development. A high level summary of the
+Demo 1.6 and Demo 1.7 test program accomplishments include:
+ Successfully modified a current production cryogenic engine to serve as a deep throttling testbed engine to
+explore technologies required for lander descent main engine risk reduction activities
+ Acquired critical deep throttling operability data at the system and subsystem levels, with over 2 hours of
+hot fire time accumulated over 47 extensive test program hot runs
+ Acquired extensive performance data to understand the deep throttling engine operating environment for
+subsequent design applications, including critically important detailed data of chug instability below 20%
+power and successful methods to eliminate it in subsequent design activity
+ Achieved highly successful chamber pressure and mixture ratio authority CLC over a wide range of
+throttled power
+ Successfully demonstrated fast throttle ramp rates (up to 82%/sec achieved) and gained data and insight
+into future design requirements
+ Investigated performance and operability effects of (simulated mission) warm LOX inlet conditions
+ Achieved minimum power starts successively down to a smooth start to 10% power
+ Acquired high power, high mixture ratio operation data
+ Demonstrated successful ignition testing for extremely cold start environments with min LOX/max fuel and
+max LOX/min fuel start conditions
+ Demonstrated 11 rapid relights, many achieved as 2 relights within the same test matrix run
+ Demonstrated low power stability, including chug-free operation below ~7% power
+ Demonstrated an overall LOX/LH2 cryogenic deep throttling ratio of 17.6:1 in a complete expander cycle
+engine system in a space-relevant environment, with all system-level interactions greatly enhancing the
+value of the technology database acquired.
+
+Future Work
+As the technology development needs for the evolving NASA Exploration program adjusts to different
+destinations, Exploration propulsion technology will continue to need to work cryogenic throttling towards future
+Exploration missions. An evolved version of the PWR CECE test bed could again serve to address the next round of
+required technology advancements, including investigation of deep throttling with a different fuel such as methane.
+
+Acknowledgments
+The authors would like to thank the entire PWR and NASA team for the dedication and effort demonstrated
+throughout the five years of the CECE program.
+
+References
+1
+
+Giuliano, Victor J., Leonard, Timothy G., and Adamski, Walter M., “CECE: A Deep Throttling Demonstrator
+Cryogenic Engine for NASA’s Lunar Lander”, AIAA 2007-5480, 43rd AIAA/ASME/SAE/ASEE Joint Propulsion
+Conference, 8-11 July 2007.
+
+9
+American Institute of Aeronautics and Astronautics
+
+2
+
+Leonard, T. and Giuliano, V., “Deep Throttling Common Extensible Cryogenic Engine (CECE), CECE
+Demonstrator 1 Data Mining Task”, NASA/CR-2008-215409, May 2008.
+3
+Leonard, T. and Giuliano, V., “Deep Throttling Common Extensible Cryogenic Engine (CECE), CECE
+Demonstrator 1.5 Data Mining Task”, NASA/CR-2008-215251, March 2008.
+4
+Ruby, L., “Advanced RL10 Engine for Manned Lunar Missions”, PWR Internal Report PWA FR-388, 18 April
+1962.
+5
+“Discussion of the RL10 Engine Applied to Apollo Propulsion”, PWR Internal Report PWA FR-918, 12
+March 1964.
+6
+Colbert, J. E., Mosier, S. A., and Bailey, T. E., “FLOX/Methane Pump-Fed Engine Study Final Report”,
+NASA CR-72485, 10 May 1969.
+7
+Pugh, Richard L., “The Many Facets of the RL10 Liquid Rocket Engine…A Continuing Success Story”,
+AIAA-98-3680, 34th AIAA/ASME/SAE/ASEE Joint Propulsion Conference, 13-15 July 1998.
+8
+Lyda, R. and Giuliano, V., ‘Deep Throttling Common Extensible Cryogenic Engine (CECE), CECE
+Demonstrator 1.6 Data Mining Task’, NASA/CR-2009-215958, September 2009.
+
+10
+American Institute of Aeronautics and Astronautics
+
+CECE: Expanding the Envelope of Deep Throttling
+Technology in Liquid Oxygen/Liquid Hydrogen
+Rocket Engines for NASA Exploration Missions
+Victor J. Giuliano, Timothy G. Leonard, and Randy T. Lyda
+Pratt & Whitney Rocketdyne, West Palm Beach, FL
+
+Tony S. Kim
+NASA Marshall Space Flight Center, Huntsville, AL
+
+46th AIAA/ASME/SAE/ASEE
+Joint Propulsion Conference & Exhibit
+Nashville, TN
+25-28 July 2010
+
+RL10 Extensible Upper Stage and InSpace Exploration Propulsion Roadmap
+
+CECE advances technology & design data readiness toward
+cryogenic propulsion solutions for Exploration
+Page 2 of 17
+
+Limited RL10 Modifications Needed to
+Meet CECE Objectives
+Current RL10
+
+CECE Demo Engines
+VACV
+
+OCV
+
+High p
+Injector
+
+TCV
+
+TBV
+
+Page 3 of 17
+
+CECE Demonstrator Test Bed Engine
+Benefited from RL10 Commonality
+• Gray represents common RL10 hardware
+• Blue represents CECE-unique hardware
+• Green represents other demonstrator hardware
+
+Page 4 of 17
+
+Demo 1.6 Test Program Objectives &
+Accomplishments
+• Primary Objectives
+
+
+
+
+
+– Verification of Chug instability mechanism
+• Mitigated chug onset from 19% to 13% power
+
+– 1 HZ Chamber Boiling Signature Investigation and Mitigation
+– Reduced Area Gas Venturi Tube Testing (to 100% thrust)
+• 8% RPL to 104 % RPL
+
+• Secondary Objectives
+
+
+
+
+
+
+
+
+– Further Map Engine Performance Envelope
+– Throttle Response Rate Expansion
+• 82%/sec achieved above 25%
+
+– Mission Predicted Lox Temperature Test
+– Start to lower power levels
+• 33% min achieved
+
+– Simulated Lunar Descent Mission Profile
+
+Page 5 of 17
+
+CECE Demo 1.6 Hot Runs Summary –
+13:1 Throttle Ratio Achieved
+
+105% Power
+104%
+
+8% Power
+
+Page 6 of 17
+
+Demo 1.6 Test Program Summary – 12
+Starts, 2934.7 seconds*
+* Brought CECE total hot fire time to 5,032.8 seconds (84 minutes)
+
+Hot
+Run
+
+Date
+
+Duration
+(sec)
+
+16.01
+
+11/7/08
+
+308.1
+
+New Injector Baseline
+
+17.01
+
+11/13/08
+
+319.8
+
+Low Power Stability
+
+18.01
+
+11/17/08
+
+1.6
+
+Re-baseline with Mid Size Venturi
+
+19.01
+
+11/18/08
+
+310.9
+
+Re-baseline with Mid Size Venturi
+
+20.01
+
+11/21/08
+
+301.9
+
+Isp Sweeps
+
+21.01
+
+11/25/08
+
+329.8
+
+Stability bounds investigation
+
+100-10% power range, chug free
+
+22.01
+
+12/4/08
+
+304.8
+
+Preliminary Altair PDI Mission Set Points
+
+100-10% power range, chug free
+
+23.01
+
+12/8/08
+
+319.8
+
+Mission (warm) LOX
+
+50-10% power range
+
+24.01
+
+12/11/08
+
+329.8
+
+Mission LOX & low power performance
+
+40-10% power range
+
+25.01
+
+12/12/08
+
+20
+
+Low Power Start to 30%
+
+Start to 33% min power
+
+26.01
+
+12/17/08
+
+25.9
+
+Max power to 8% min power with Mission LOX
+
+FPDP11 off scale
+
+27.01
+
+12/18/08
+
+362.3
+
+Max power to 8% min power with Mission LOX
+
+104%-8% power range
+
+Objectives
+
+Results
+60-9.5% power range
+
+Fuel venturi/chamber Pc abort
+
+Page 7 of 17
+
+Demo 1.7 Test Program Objectives
+
+• Closed Loop Control
+Sine wave/Engine response and stability testing
+• Faster Throttle Ramp Rates (transient valve scheduling)
+• Min Power Starts (down to 10% PL)
+• High Power, High MR Operation
+• Ignition Testing
+DDSI and modified injector
+Evacuated cooldown
+Pump and chamber pre-chill
+• Multiple engine re-lights (up to 4 total burns)
+• Low Power Operation
+
+Page 8 of 17
+
+CECE Demo 1.7 Hot Runs Summary –
+17.6:1 Throttle Ratio Demonstrated
+Demo 1.6 (Ref)
+
+105% Power
+104%
+
+5.9% was achieved right before fuel pump stall
+
+Page 9 of 17
+
+CECE Demo 1.7 Rapid Relights Maximized
+Balance of Data Acquisition & Risk
+Relights
+
+Relights
+
+Relights
+
+Page 10 of 17
+
+CECE Demo 1.7 CLC Planned vs.
+Demonstrated Points Matrix
+
+Page 11 of 17
+
+Demo 1.7 Test Program Summary
+Hot
+Run
+
+Date
+
+Duration
+(sec)
+
+28.01
+
+3/19/10
+
+331.3
+
+Ignition Test (Fast Start) & Re-baseline with ZT TPA
+
+29.01
+
+3/20/10
+
+131.4
+
+Ignition Test (Slow Start) & Open Loop Frequency
+
+30.01
+
+3/20/10
+
+30.0
+
+1st Rapid Relight to 60% power; start triggers
+assessment
+
+31.01
+
+3/20/10
+
+30.0
+
+2nd Rapid Relight to 60% power; start triggers
+assessment
+
+32.01
+
+3/25/10
+
+308.1
+
+Re-baseline with 0.80 sqin venturi; CLC functional
+checkout test
+
+33.01
+
+3/25/10
+
+30.0
+
+3rd Rapid Relight – min power start to 50%
+
+34.01
+
+3/25/10
+
+8.7
+
+4th Rapid Relight – min power start to 40%
+
+35.01
+
+3/29/10
+
+356.9
+
+Expand CLC operation @ SS points
+
+36.01
+
+3/29/10
+
+30.0
+
+5th Rapid Relight – min power start to 30%
+
+37.01
+
+3/31/10
+
+206.3
+
+Manual decel to 10% power
+
+38.01
+
+3/31/10
+
+90.0
+
+6th Rapid Relight – min power start to 25%; high speed
+OLC transients
+
+39.01
+
+3/31/10
+
+10.0
+
+7th Rapid Relight – min power start to 20%
+
+Objectives
+
+Comments
+
+Advance due to low steam
+(1.3 sec short)
+
+100%-30% throttle ramp
+
+Page 12 of 17
+
+Demo 1.7 Test Program Summary
+(cont’d) – 20 Starts, 2403.0 seconds
+Hot
+Run
+
+Date
+
+Duration
+(sec)
+
+40.01
+
+4/8/10
+
+303.6
+
+Expand SS & transient CLC operation
+
+41.01
+
+4/8/10
+
+30.0
+
+8th Rapid Relight – min power start to 15%; expand
+transient CLC operation
+
+42.01
+
+4/8/10
+
+10.0
+
+9th Rapid Relight – min power start to 10%
+
+43.01
+
+4/13/10
+
+246.5
+
+Expand SS CLC operation; low power chug boundary
+evaluation
+
+44.01
+
+4/17/10
+
+138.9
+
+Expand SS CLC operation; high power/high MR
+operation
+
+45.01
+
+4/17/10
+
+5.5
+
+10th Rapid Relight – min power start to 15%
+
+46.01
+
+4/17/10
+
+36.5
+
+Start to 60% power & shutdown to advance to relight
+
+47.01
+
+4/17/10
+
+69.3
+
+11th Rapid Relight – min power start to 15%; decel to min
+power
+
+Objectives
+
+Comments
+
+IMODE start abort
+
+5.9% power demonstrated
+
+Total CECE Demonstrator Engine Hot Run Time Concludes
+With 7,435.8 Seconds (124 minutes)
+
+Page 13 of 17
+
+CECE Demo 1.7 Test Highlights
+(Composite Hot Runs Video)
+
+100%
+
+10%
+
+6%
+Page 14 of 17
+
+Summary
+
+CECE testing has provided critical,
+early empirical confirmation of
+detailed component and engine
+system-level internal environments
+and subsystem interactions needed
+to confirm that 10:1 throttling (with
+margin) in a cryogenic engine is
+viable for future exploration missions
+
+Page 15 of 17
+

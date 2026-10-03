@@ -1,0 +1,582 @@
+Proceedings of the Combustion Institute, Volume 28, 2000/pp. 2843–2849
+
+FLAME SPREAD ALONG FREE EDGES OF THERMALLY THIN
+SAMPLES IN MICROGRAVITY
+W. E. MELL,1 S. L. OLSON2 and T. KASHIWAGI3
+1
+
+Chemical and Fuels Engineering Department
+University of Utah
+Salt Lake City, UT 84112, USA
+2
+Microgravity Combustion Science Branch
+NASA Glenn Research Center
+Cleveland, OH 44135, USA
+3
+Building and Fire Research Laboratory
+National Institute of Standards and Technology
+Gaithersburg, MD 20899, USA
+
+The effects of imposed ﬂow velocity on ﬂame spread along open edges of a thermally thin cellulosic
+sample in microgravity were studied experimentally and theoretically. In this study, the sample was ignited
+locally at the middle of the 4 cm wide sample, and subsequent ﬂame spread reached both open edges of
+the sample along the direction of the ﬂow. The following ﬂame behaviors were observed in the experiments
+and predicted by the numerical calculation, in order of increased imposed ﬂow velocity: (1) ignition but
+subsequent ﬂame spread was not attained, (2) ﬂame spread upstream (opposed mode) without any downstream ﬂame, and (3) the upstream ﬂame and two separate downstream ﬂames traveled along the two
+open edges (concurrent mode). Generally, the upstream and downstream edge ﬂame spread rates were
+faster than the central ﬂame spread rate for an imposed ﬂow velocity of up to 5 cm/s. This was due to
+greater oxygen supply from the outer free stream to the edge ﬂames and more efﬁcient heat transfer from
+the edge ﬂames to the sample surface than the central ﬂames. For the upstream edge ﬂame, ﬂame spread
+rate was nearly independent of, or decreased gradually with, the imposed ﬂow velocity. The spread rate
+of the downstream edge, however, increased signiﬁcantly with the imposed ﬂow velocity.
+
+Introduction
+Fire safety precautions will be especially vital for
+the longer duration and increasingly complex space
+missions in the future International Space Station
+and the planned manned ﬂight mission to Mars
+(three years). For this reason, many ﬂame spread
+experiments over combustible solid surfaces have
+been conducted in microgravity environments: for
+example, over a thermally thin cellulosic sample with
+external ﬂows [1,2]; at various ambient pressures in
+a quiescent environment [3,4]; in a three-dimensional spread pattern from a localized spot ignition
+[5]; and over a thermally thick polymethylmethacrylate (PMMA) sample in quiescent, high oxygen
+concentration environments [6,7]. All these experiments were conducted over the center part of the
+sample to avoid the effects of the sample edges as
+much as possible. However, limited published studies on ﬂame spread along thin sample edges in normal gravity have shown that ﬂame spread rate along
+free edges tends to be faster than that along the center of the sample [8,9]. Since faster ﬂame spread rate
+means more rapid ﬁre growth, measurements of
+spread rates along free edges in microgravity are
+
+needed. A slow external ﬂow, which simulates ventilation ﬂow in a spacecraft and the Space Station,
+has signiﬁcant effects on ﬂame spread in microgravity [1,2,10]. Thus, the focus of this paper is to determine the effects of a slow imposed ﬂow on both
+ﬂame spread behavior and spread rate along free
+edges in microgravity and to understand their controlling mechanisms.
+
+Flight Hardware
+Flame spread experiments were performed in the
+Space Shuttle during the STS-75 USMP-3 mission.
+The Radiative Ignition and Transition to Spread Investigation (RITSI) ﬂight hardware was used within
+the Shuttle middeck Glovebox facility and consisted
+of a small duct test section (8.5 cm wide ‫ 5.9 ן‬cm
+high ‫ 1.71 ן‬cm long) through which fan-drawn air
+ﬂow passed smoothly at speeds from 0 to 6.5 cm/s
+in the lengthwise direction. The estimate of uncertainty of the ﬂow velocity was ‫ 5.0ע‬cm/s based on
+the calibration data and the accuracy of a low-velocity hot wire. Samples were 4 cm wide by 10 cm long
+sheets of ashless ﬁlter paper (area density of 0.0077
+
+2843
+
+Form Approved
+OMB No. 0704-0188
+
+Report Documentation Page
+
+Public reporting burden for the collection of information is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources, gathering and
+maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information,
+including suggestions for reducing this burden, to Washington Headquarters Services, Directorate for Information Operations and Reports, 1215 Jefferson Davis Highway, Suite 1204, Arlington
+VA 22202-4302. Respondents should be aware that notwithstanding any other provision of law, no person shall be subject to a penalty for failing to comply with a collection of information if it
+does not display a currently valid OMB control number.
+
+1. REPORT DATE
+
+2. REPORT TYPE
+
+04 AUG 2000
+
+3. DATES COVERED
+
+N/A
+
+-
+
+4. TITLE AND SUBTITLE
+
+5a. CONTRACT NUMBER
+
+Flame Spread Along Free Edges of Thermally Thin Samples in
+Microgravity.
+
+5b. GRANT NUMBER
+5c. PROGRAM ELEMENT NUMBER
+
+6. AUTHOR(S)
+
+5d. PROJECT NUMBER
+5e. TASK NUMBER
+5f. WORK UNIT NUMBER
+
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)
+
+Chemical and Fuels Engineering Department University of Utah Salt
+Lake City, UT 84112, USA
+9. SPONSORING/MONITORING AGENCY NAME(S) AND ADDRESS(ES)
+
+8. PERFORMING ORGANIZATION
+REPORT NUMBER
+
+10. SPONSOR/MONITOR’S ACRONYM(S)
+11. SPONSOR/MONITOR’S REPORT
+NUMBER(S)
+
+12. DISTRIBUTION/AVAILABILITY STATEMENT
+
+Approved for public release, distribution unlimited
+13. SUPPLEMENTARY NOTES
+
+See also ADM001790, Proceedings of the Combustion Institute, Volume 28. Held in Edinburgh, Scotland
+on 30 July-4 August 2000., The original document contains color images.
+14. ABSTRACT
+15. SUBJECT TERMS
+16. SECURITY CLASSIFICATION OF:
+
+17. LIMITATION OF
+ABSTRACT
+
+a. REPORT
+
+b. ABSTRACT
+
+c. THIS PAGE
+
+unclassified
+
+unclassified
+
+unclassified
+
+18. NUMBER
+OF PAGES
+
+UU
+
+19a. NAME OF
+RESPONSIBLE PERSON
+
+7
+
+Standard Form 298 (Rev. 8-98)
+Prescribed by ANSI Std Z39-18
+
+2844
+
+FIRE—Ignition and Flame Spread
+
+Fig. 1. Time sequence of images from two experiments
+(not constant time intervals): on the left is a 2 cm/s air ﬂow
+test, and on the right is a 3.5 cm/s air ﬂow test. Flow is
+from right to left. Sample width is 4 cm. Grid on sample
+surface is 1 cm square.
+
+g/cm2). The sample was installed in the center of
+the duct. The long edges of the sample were exposed
+to air. Ignition was initiated at the center of the sample instead of the edges, as shown in Fig. 1a, by
+radiation from a near-infrared tungsten/halogen
+lamp recessed in the duct wall. About a 1 cm circular
+area of the center part of the sample was blackened
+to enhance absorption of the incident radiation from
+the lamp. The radiant ﬂux distribution was Gaussian
+with a peak ﬂux of 10 kW/m2 and a 1/e2 (half width)
+radius of about 0.5 cm. Red light-emitting diodes
+were used to illuminate the sample surface so the
+dim blue ﬂame could still be visible.
+Experimental Results
+As a part of the series of space experiments, four
+tests were conducted to examine the ﬂame spread
+along free edges with slow external ﬂows. Fig. 1
+shows a sequence of video images from two of the
+tests. Ignition was initiated at the circular, blackened
+center, and transition to ﬂame spread occurred in all
+directions except downstream. At the external ﬂow
+velocities tested in this study, oxygen supply to the
+
+ﬂame front was the rate controlling process, and
+downstream ﬂame spread did not occur due to a lack
+of oxygen by virtue of its consumption by the upstream ﬂame (oxygen shadow effect) [5]. In Fig. 1b,
+blue ﬂame fronts reached both free edges of the
+sample. There were slight differences in the ﬂame
+size between the upper and lower sample halves in
+the images because the time for the ﬂame front to
+reach each free edge was slightly different. At 2 cm/
+s ﬂow velocity, the ﬂame did not spread appreciably
+downstream either along the free edges (edge ﬂame
+spread) or the center part of the sample (central
+ﬂame spread). The upstream ﬂame fronts along the
+free edges were well ahead of that in the center part
+of the sample as seen from the concave char pattern
+shown in the left side of Fig. 1c–e. At 3.5 cm/s, however, ﬂames did spread downstream along the free
+edges. Eventually, the upstream ﬂame reached the
+end of the sample and became smaller (Fig. 1e–f).
+As the upstream ﬂame shrank, decreasing its oxygen
+consumption, its oxygen shadow effect was reduced.
+This allowed the downstream edge ﬂames to spread
+toward the center where they eventually met to form
+a continuous downstream spreading ﬂame. This is
+consistent with the previously observed behavior of
+no downstream ﬂame spread in the presence of upstream ﬂame spread on samples without free edges
+in air velocities up to 6.5 cm/s [10].
+The edge ﬂame front positions in both upstream
+and downstream directions were tracked from the
+video images. When the ﬂame front reached the free
+edges, a sudden, rapid ﬂame spread occurred. However, the edge ﬂame spread rates were reasonably
+steady after the initial acceleration in both upstream
+and downstream directions. The edge ﬂame spread
+rates, determined from the slopes of the nearly
+straight-line part of the plots, are shown in Fig. 2 as
+a function of external air ﬂow velocity. The upstream
+edge ﬂame spread rate decreases slightly with an increase in external ﬂow velocity. This trend is signiﬁcantly different from that of the upstream central
+ﬂame spread rate, which signiﬁcantly increases with
+external ﬂow velocity in this range of velocities.
+However, these edge ﬂames are propagating much
+faster than a normal-gravity, downward, free-edge
+ﬂame over the same sample, which propagates at
+approximately 0.13 cm/s against buoyancy-induced
+air ﬂow. This suggests that edge ﬂame spread rate
+would continue to decrease gradually with external
+ﬂow velocity above 5 cm/s. However, downstream
+edge ﬂame spread rate increases rapidly with an increase in external ﬂow velocity.
+To provide a perspective on edge ﬂame spreading
+relative to central ﬂame spreading, the edge ﬂame
+spread rates were normalized by the central ﬂame
+spread rates obtained from the samples without the
+free edges. The upstream and downstream central
+ﬂame spread rates at each ﬂow were used to normalize the upstream and downstream edge ﬂame
+
+EDGE FLAME SPREAD IN MICROGRAVITY
+
+Fig. 2. The experimentally obtained relationship between edge ﬂame spread rate and imposed ﬂow velocity.
+Positive imposed ﬂow velocity indicates the opposed ﬂow
+condition and, therefore, an upstream ﬂame spread conﬁguration; negative imposed ﬂow velocity indicates the downstream ﬂame spread (concurrent ﬂow condition). Solid circles are in a 1g environment. The symbol X means no
+spread. The insert is normalized edge ﬂame spread rate by
+central ﬂame spread rate for downstream and upstream
+directions, respectively.
+
+2845
+
+Arrhenius rate was used. The same values for the
+kinetic constants of the gas phase and the condensed
+phase have been used in our previous theoretical
+studies [5,10,12]. Ignition was initiated by an external radiant ﬂux on the sample surface. The sample
+was assumed to be thermally thin, and radiative heat
+losses from the surface were included. However, radiative heat transfer from ﬂame to the sample was
+not signiﬁcant for thermally thin samples [7], and
+also, the color of edge ﬂames shown in Fig. 1 was
+blue. Therefore, radiative transfer from ﬂame was
+not included.
+There were two assumed symmetry planes. One
+was parallel to the plane of the sample passing
+through its center; the other was perpendicular to
+the plane of the sample, passing through the sample
+centerline parallel to its long axis. Thus, the threedimensional simulation code [5,12] solved the conservation equations for ﬂame spread along half a 4
+cm by 10 cm sample enclosed in a 13 cm long ‫4 ן‬
+cm wide ‫ 5 ן‬cm tall rectangular computational volume. About 400,000 grid points (192 ‫)23 ן 46 ן‬
+were used in the calculation. Cell sizes were 0.66
+mm parallel to the sample and were increased from
+0.25 mm at the sample surface to 2 mm at the top
+of the computational domain.
+
+Theoretical Results
+spread rates at the corresponding ﬂow velocity, respectively. The normal gravity downward edge ﬂame
+spread rate was also normalized by the normal gravity downward central ﬂame spread rate. As seen in
+the insert of Fig. 2, at low velocities the upstream
+edge ﬂames spread faster than the upstream central
+ﬂame. However, as imposed ﬂow velocity increases,
+the oxygen supply to the central ﬂame becomes sufﬁcient and the upstream central ﬂame spreads at the
+same rate as the upstream edge ﬂame. This would
+be a minimum normalized upstream edge ﬂame
+spread rate, because at normal gravity the normalized downward spreading edge ﬂames are again faster than the central downward propagating ﬂame.
+The downstream normalized edge ﬂame spread rate
+increases rapidly with imposed ﬂow, due to enhancements in both oxygen supply and convective heating.
+
+Theoretical Model
+Since a more detailed description of the mathematical model has been given in Refs. [10,11], only
+a brief summary is given here. The gas phase was
+formulated with the conservation equations of mass,
+full Navier-Stokes form of the momentum (without
+gravity), energy, and species (fuel and oxygen) under
+the low Mach number limit. A global one-step reaction (fuel gas) ‫ ם‬vO2 (oxygen) → product with an
+
+The calculation indicated that ignition was observed with air, but subsequent ﬂame spread from
+the localized ignition was not attained with the kinetic constants and the material properties described above. However, the objective of the study
+was not necessarily to duplicate experimental results
+exactly by manipulating the model parameters, but
+rather to deduce trends of the phenomena. Therefore, calculations were made at higher oxygen concentrations of 29% and 33%. The calculated sequences of the ﬂame images, similar to the
+experimental one shown in Fig. 1, are shown in Fig.
+3. The bottom half of each sequence is a plot of the
+isosurface of the gas-phase reaction rate (5 ‫5מ01 ן‬
+g/cm3s), which is chosen to represent a ﬂame shape.
+The upper half of each sequence is fuel concentration at one grid cell above the sample surface (at 0.28
+mm); the arrows in the bottom half are oxygen mass
+ﬂux vectors. Here, discussion focuses on the ﬂame
+shape; fuel and oxygen ﬁelds are discussed later.
+Shortly after ignition, the ﬂame is more or less circular and is slightly extended upstream (Fig. 3a) as
+in the experimental case of Fig. 1a. Later, the ﬂame
+spreads to both open edges (Fig. 3b) and starts to
+spread both upstream and downstream, but still as
+one continuous ﬂame. For the case of 29% oxygen,
+the size of the downstream ﬂame along the open
+edge is relatively small due to less oxygen supply
+(note length of oxygen mass ﬂux vectors). At later
+
+2846
+
+FIRE—Ignition and Flame Spread
+
+Fig. 3. Two calculated sequence
+images of fuel mass fraction (upper
+half of each sequence) and isosurface
+of gas-phase reaction rate (5 ‫5מ01 ן‬
+g/cm3s) with net oxygen mass ﬂux
+vectors (lower half of each sequence)
+at an imposed ﬂow velocity of 2 cm/
+s. Fig. 3c includes the calculated
+char fraction contours of the sample
+in the lower half of both sequences.
+The sequence of 29% oxygen concentration is calculated with a 2 cm
+wide sample compared to a 4 cm
+wide sample in 33% oxygen concentration. The time sequence is at
+(a) 2.5 s, (b) 6 s, and (c) 10 s for the
+29% oxygen and is at 5 s, 8 s, and 11
+s for 33% oxygen. Flow is from right
+to left. Grid lines are 1 cm spaced.
+
+Fig. 4. The calculated relation between downstream and
+upstream edge ﬂamefront locations in 33% oxygen concentration at various imposed velocities. Localized ignition is
+initiated at 0 cm.
+
+times (Fig. 3c), in 33% oxygen concentration, the
+ﬂame separates into three different zones; one
+spreads upstream and two separate ﬂames spread
+downstream along open edges. The upstream ﬂame
+spreads faster along open edges than over the center
+part. However, in 29% oxygen concentration, the
+downstream ﬂame does not propagate either along
+the open edges or the center part. Overall trends
+shown in Fig. 3 are very similar to those shown in
+Fig. 1d.
+
+The calculated results of the edge ﬂamefront location with respect to time from the beginning of
+external radiation in 33% oxygen concentration are
+shown in Fig. 4. The plots are qualitatively very similar to the experimental data. The edge ﬂame spread
+starts earlier as the imposed ﬂow velocity increases
+due to faster lateral ﬂame spread to the edges. Also,
+the starting locations of the edge ﬂames shift upstream with decreasing imposed ﬂow velocity. An
+initial acceleration in the edge ﬂame spread occurs,
+followed by a nearly steady (linear) spread for 2 cm/
+s and 3 cm/s imposed ﬂows. For 1 cm/s imposed
+ﬂow, the downstream edge ﬂame spread rate did not
+reach a steady state with the sample size used in this
+study. For longer samples, it is possible that this
+ﬂame might extinguish. The steady edge ﬂame
+spread rate is determined by the slope of the nearly
+linear part of the curves in Fig. 4, and also from a
+similar plot for 29% oxygen concentration (not
+shown). The results are plotted with respect to the
+imposed ﬂow velocity in Fig. 5. This ﬁgure shows
+the same trends as observed in the experiments in
+Fig. 2; downstream edge ﬂame spread rate increases
+rapidly with an increase in the imposed ﬂow velocity,
+but the upstream edge ﬂame spread rate is nearly
+independent or decreases slightly with the imposed
+ﬂow velocity in the range used in this study.
+Discussion
+The spread rate of the upstream edge ﬂame was
+greater than the upstream center ﬂame due to improved oxygen supply along edges and also heat
+transfer from ﬂame to the virgin sample surface. This
+
+EDGE FLAME SPREAD IN MICROGRAVITY
+
+2847
+
+Fig. 7. The calculated distribution of heat feedback rate
+to the sample in 33% oxygen. The upper half is the imposed
+ﬂow velocity of 3 cm/s and the lower half is 1 cm/s. The
+ﬂow is from right to left. Ignition is initiated at x ‫ 0 ס‬cm.
+Fig. 5. The calculated spread rate with respect to imposed ﬂow velocity in 29% (X on the symbol) and 33%
+oxygen concentrations. Open symbol is along an open edge,
+and solid symbol is over the center part of the sample.
+
+Fig. 6. On the bottom half are color contours of net
+oxygen mass ﬂux normal to the 5 ‫( 5מ01 ן‬g/cm3s) reaction
+rate isosurface. On the top half is the same reaction rate
+isosurface colored by temperature (K). Char fraction contours of the sample are plotted in both halves. Conditions
+are in 33% oxygen concentration with 2 cm/s imposed ﬂow
+at 11 s from irradiation. Flow is from right to left. Grid
+lines are 1 cm spaced.
+
+was particularly so at low imposed ﬂow velocities because the diffusion process dominated over convection and the diffusion process was most enhanced at
+the open edges. The oxygen mass ﬂux vectors clearly
+show this in Fig. 3. Also, the lower half of Fig. 6
+shows that the amount of oxygen mass ﬂux to the
+upstream edge ﬂames is roughly two times higher
+than that to the central ﬂame. Furthermore, heat
+transfer from ﬂame to the sample surface is more
+efﬁcient for edge ﬂames than center ﬂame due to
+geometrical edge ﬂame shape with respect to the
+sample edge (roughly factor of 3 at 1 cm/s imposed
+ﬂow) as shown in Fig. 7. (This enhancement in ﬂux
+includes two effects; one is higher edge ﬂame temperature due to larger oxygen supply to the ﬂame
+and also increased heat transfer rate.) Note that the
+upstream edge ﬂame spread rate is nearly independent of, or decreases slightly with, imposed ﬂow velocity, compared with rapid increase for center
+ﬂame. The calculated gas-phase temperature of the
+upstream edge ﬂame, as shown in Fig. 6, does not
+increase with the ﬂow velocity. This indicates that
+there is a sufﬁcient oxygen supply to the edge ﬂame,
+and further increase in the velocity will gradually
+cool the ﬂame. Consequently, the heat ﬂux from
+edge ﬂame to the sample surface is nearly the same
+for two different imposed velocities as seen in Fig.
+7. However, higher imposed ﬂow velocity increases
+center ﬂame temperature due to increased oxygen
+supply, and the heat ﬂux from the center ﬂame to
+the sample surface increases signiﬁcantly as seen in
+Fig. 7. Oxygen supply to the downstream edge
+ﬂames greatly exceeds that to the center part of the
+downstream ﬂame spread, as shown in Figs. 3 and
+6. Because the supply continues to increase with the
+imposed ﬂow velocity, the downstream edge ﬂame
+spread rate increases signiﬁcantly with the imposed
+ﬂow velocity.
+
+2848
+
+FIRE—Ignition and Flame Spread
+
+oxygen case); otherwise, it extinguishes (29% oxygen
+case).
+
+Conclusion
+
+Fig. 8. The calculated gas-phase reaction rate distribution and gas-phase temperature distribution in a vertical
+plane along the open edge of the sample (the sample plane
+is at z ‫ 0 ס‬cm). Conditions are 33% oxygen, time is 11 s,
+and 2 cm/s imposed ﬂow velocity. Upper half of ﬁgure has
+color contours of gas-phase reaction rate and net oxygen
+mass ﬂux vectors (convection ‫ ם‬diffusion), and lower half
+has temperature color contours and convective oxygen
+mass ﬂux vectors. Flow is from right to left. Ignition is
+initiated at x ‫ 0 ס‬cm.
+
+The next question is why the ﬂame separated into
+upstream ﬂame and downstream ﬂame/ﬂames as observed in the experiment and also in the calculation.
+When an upstream ﬂame is present, the downstream
+ﬂame can fail to spread because the upstream ﬂame
+consumes too much oxygen, although heat feedback
+rate to the sample surface is sufﬁcient [5,10,12]. This
+can be seen in Figs. 3, 6, and 7. When the imposed
+ﬂow velocity is reduced, oxygen supply to the downstream ﬂame becomes less, but still a sufﬁcient
+amount of oxygen can be supplied to the downstream edge ﬂames from the outer free stream
+mainly by diffusion. This is seen in Figs. 6 and 8. In
+Fig. 8, the difference between the total oxygen mass
+ﬂux vector (upper plot) and convective oxygen mass
+ﬂux vector (lower plot) is the oxygen supply ﬂux vector to the ﬂames by diffusion. The convective oxygen
+mass ﬂux to the downstream edge ﬂame is very
+small, as shown in the ﬁgure. Although the oxygen
+supply by diffusion to the ﬂame continues along the
+downstream open edges, the fuel supply from the
+thermally thin sample (Fig. 3b) eventually becomes
+depleted. This causes the middle part of the edge
+ﬂame to extinguish. The ﬂame then separates into
+an upwind spreading ﬂame across the entire sample
+and two downwind edge ﬂames. If sufﬁcient oxygen
+is present, the downwind edge ﬂame survives (33%
+
+The edge ﬂame gets a greater oxygen supply from
+the outer free stream by convection and diffusion
+and has a more efﬁcient heat transfer rate to the
+sample, due to the unique geometrical ﬂame shape.
+Thus, ﬂame spread along the open edges of a thermally thin cellulosic sample is faster than over its
+center part with an imposed ﬂow velocity up to about
+5 cm/s in microgravity. However, the upstream edge
+ﬂame spread rate is nearly independent of or decreases gradually with the imposed ﬂow velocity.
+When the imposed ﬂow velocity is as low as 2 cm/s
+or less in air, downstream edge ﬂame spread does
+not occur in the presence of the upstream ﬂame, due
+to a lack of oxygen supply to the ﬂame. However,
+downstream edge ﬂame spread increases signiﬁcantly with an increase in the imposed ﬂow velocity.
+The transition from localized ignition to subsequent
+ﬂame spread tends to occur along open edges at an
+imposed ﬂow velocity which is lower than that required in the center area. Also, the edge ﬂame tends
+to spread faster than the central ﬂame. Therefore,
+ﬂame spread along an open edge presented a greater
+ﬁre hazard in microgravity in the range of the imposed ﬂow velocity used in this study, and threedimensional modeling is critically needed to describe realistic ﬁre phenomena.
+Acknowledgments
+This work is funded by the NASA Microgravity Science
+Program under the Inter-Agency Agreement No. C-32001R under technical monitoring of Dr. Sandra Olson.
+
+REFERENCES
+1. Olson, S. L., Combust. Sci. Technol. 76:233–249
+(1991).
+2. Grayson, G. D., Sacksteder, K., Ferkul, P. V. and T’ien,
+J. S., Micrograv. Sci. Technol. 99:345–370 (1994).
+3. Bhattacharjee, S., Altenkirch, R. A., and Sacksteder,
+K., J. Heat Transfer 118:181–190 (1996).
+4. Bhattacharjee, S., Altenkirch, R. A., and Sacksteder,
+K., Combust. Sci. Technol. 91:225–242 (1993).
+5. Kashiwagi, T., McGrattan, K. B., Olson, S. L., Fujita,
+O., Kikuchi, M., and Ito, K., Proc. Combust. Inst.
+26:1345–1352 (1996).
+6. West, J., Tang, L., Altenkirch, R. A., Bhattacharjee, S.,
+Sacksteder, K., and Delichatsios, M. A., Proc. Combust. Inst. 26:1335–1343 (1996).
+
+EDGE FLAME SPREAD IN MICROGRAVITY
+7. Altenkirch, R. A., Tang, L., Sacksteder, K., Bhattacharjee, S., and Delichatsios, M. A., Proc. Combust.
+Inst. 27:2515–2524 (1998).
+8. Emmons, H. W., and Shen, T., Proc. Combust. Inst.
+13:917–926 (1971).
+9. Markstein, G. H., and de Ris, J., J. Fire Flamm. 6:140–
+154 (1975).
+
+2849
+
+10. McGrattan, K. B., Kashiwagi, T., Baum, H. R., and
+Olson, S. L., Combust. Flame 106:377–391 (1996).
+11. Nakabe, K., McGrattan, K. B., Kashiwagi, T., Baum,
+H. R., Yamashita, H., and Kushida, G., Combust.
+Flame 98:361–374 (1994).
+12. Mell, W. E., and Kashiwagi, T., Proc. Combust. Inst.
+27:2635–2641 (1998).
+
+COMMENTS
+Carlos Fernadez-Pello, University of California Berkeley, USA. That the ﬂame spread faster on the edges is also
+observed with thick fuels in normal quantity. Do you think
+in that case oxygen supply is the reason for the faster spread
+rate or is it also enhancement of heat transfer to the solid?
+Author’s Reply. In normal gravity, buoyancy-induced
+ﬂow velocity is much higher than the velocity range used
+in this study, the supply of oxygen to ﬂame front is sufﬁcient, and heat transfer from ﬂame to the sample surface
+ahead of the ﬂame is the rate-controlling step. Therefore,
+enhancement of heat transfer is the reason for faster ﬂame
+spread rate over free edges or open corners.
+●
+John L. de Ris, Factory Mutual Research, USA. A very
+interesting paper. It appears from your photographs that
+the ﬂame stand-off distance from the edge is considerably
+greater in the experiment than predicted from the model.
+If this is the case, could you please comment on the reason?
+Author’s Reply. The ﬂame picture you are referring to,
+which I showed in the early part of the presentation, was
+not for the case of ﬂame spread along open edges but was
+
+for ﬂame spread along the center of the sample. This picture was used to show that ﬂame spread occurs only in the
+upstream direction when the sample is ignited locally (spot
+ignition) in the center of the sample. The model predictions you refer to were in vertical planes along the open
+edge of the sample. However, it is nearly impossible to
+experimentally observe the ﬂame stand-off distance for
+spread along open edges because the ﬂame entirely surrounds the open edge. We therefore used side-view ﬂame
+pictures taken in the two-dimensional conﬁguration (nearly
+line-shape ﬂame across the sample) to estimate the ﬂame
+stand-off. The experiment was conducted in a 10 s drop
+tower in 35% oxygen concentration under 2 cm/s wind using a 10 cm wide sample. The experimentally determined
+cross section of the ﬂame is compared with that calculated
+by our two-dimensional code with the same wind and oxygen conditions. The simulated ﬂame shape is determined
+by the gas-phase reaction rate distribution; note that the
+shape will depend on the selection of the gas-phase reaction rate. The simulation ﬂame stand-off distance at the
+ﬂame tip (about 3.5 mm at highest reaction rate) is very
+close to the measured values based the tip of the yellowish
+ﬂame (about 3.7 mm). However, the blue color part of the
+ﬂame is ahead of the yellowish ﬂame front and is very close
+to the sample surface (it is difﬁcult to determine but appears to be roughly 1 mm) and the calculated gas-phase
+reaction rate extends close to the sample surface.
+

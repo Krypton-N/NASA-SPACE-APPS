@@ -1,0 +1,1022 @@
+Particle and Smoke Detection on ISS for Next Generation Smoke Detectors
+David L. Urban, Gary Ruff: NASA Glenn Research Center
+Zeng-guang Yuan: National Center for Space Exploration Research
+Thomas Cleary, Jiann Yang and George Mulholland National Institute of Standards and Technology
+
+Rapid fire detection requires the ability to differentiate fire signatures from background conditions and
+nuisance sources. Proper design of a fire detector requires detailed knowledge of all of these signal
+sources so that a discriminating detector can be designed. Owing to the absence of microgravity smoke
+data, all current spacecraft smoke detectors were designed based upon normal-g conditions. The
+removal of buoyancy reduces the velocities in the high temperature zones in flames, increasing the
+residence time of smoke particles and consequently allowing longer growth time for the particles.
+Recent space shuttle experiments confirmed that, in some cases, increased particles sizes are seen in
+low-gravity and that the relative performance of the ISS (International Space Station) and space-shuttle
+smoke-detectors changes in low-gravity; however, sufficient particle size information to design new
+detectors was not obtained. To address this issue, the SAME (Smoke Aerosol Measurement
+Experiment) experiment is manifested to fly on the ISS in 2007. The SAME experiment will make
+measurements of the particle size distribution of the smoke particulate from several typical spacecraft
+materials providing quantitative design data for spacecraft smoke detectors. A precursor experiment
+(DAFT: Dust Aerosol measurement Feasibility Test) flew recently on the ISS and provided the first
+measurement of the background smoke particulate levels on the ISS. These background levels are
+critical to the design of future smoke detectors. The ISS cabin was found to be a very clean
+environment with particulate levels substantially below the space shuttle and typical ground-based
+environments.
+
+Particle and Smoke Detection
+on ISS for Next Generation
+Smoke Detectors
+David Urban, Gary Ruff, William Sheredy
+NASA Glenn Research Center
+Greg Funk
+Zin Technologies
+International Space Development Conference 2007
+Dallas, TX
+
+May 25, 2007
+www.nasa.gov
+
+Background: Spacecraft Fire
+Detection
+• Fire detection strategies for spacecraft have largely
+been based upon 1-g understanding.
+• Soot particle size distributions are larger in μ-g flames.
+(work of Ku, Faeth and Choi)
+
+• Results from a limited data set of μ-g smoke
+particulate suggest that smoke particle sizes are
+substantially larger for both solid and liquid smoke
+aerosols (McKinnon and Apostalakis)
+• Proper design of spacecraft fire detection systems will
+require measurements of the particle size distributions
+of typical μ-g smoke sources.
+
+2/30
+
+www.nasa.gov
+
+Background: Spacecraft Fire Detection
+STS Detector: sensitive < 1 micron
+•dual-chamber ionization detector
+•vane pump provides inertial separation system
+•designed to make the detector insensitive to
+particulate larger than 1 to 2μm
+•fairly large power consumption (9 Watts)
+•fan noise and limited life due to the moving parts
+•Installed in avionics air returns (possible reason for
+fan)
+
+• Developed in the late 70’s when Ionization detectors were
+prevalent
+•Limited 1-g testing supported small particle size distribution for
+incipient fires
+•Detector was designed to reject particles with aerodynamic
+diameters greater than 1-2 microns.
+• Decades of service with very few false alarms and no alarms.
+3/30
+
+www.nasa.gov
+
+Background: Spacecraft Fire
+Detection
+ISS detector: most sensitive to
+particles larger than 1 micron
+•2-pass IR laser diode forward scattered light (30 degrees).
+•minimum reported sensitivity is 0.3 μm
+•Low power (1.5 W)
+•Silent
+•Installed in air ducts and in cabin area (with light shroud)
+
+Developed in the 90’s and took advantage of the availability of
+stable diode light sources.
+Years of continuous ISS service with some false alarms and no
+alarms.
+
+4/30
+
+www.nasa.gov
+
+Background: Spacecraft
+Atmosphere
+•Both the ISS and the Shuttle have air filtration systems to
+remove dust and other suspended particulate.
+•Airborne particulate has previously only been measured once
+(STS 32 in 1990) by Liu et al.
+Two cascade impactors
+Light scattering device.
+Impactors reported a bimodal particle size distribution with ~
+40% of the particles in each of the 2.5 to10 μm and >100 μm
+ranges.
+Light Scattering device showed higher particulate
+concentrations than typical 1-g environment.
+
+5/30
+
+www.nasa.gov
+
+Background: Spacecraft Atmosphere
+Comparison of STS-32 to Indoor Environments
+Sample
+Location
+
+Particle Size Range
+<2.5µm
+
+2.5-10µm
+
+10-100µm
+
+>100µm
+
+Total
+
+Mass Concentration, µg/m3
+Shuttle
+
+2.3
+
+24.1
+
+4.8
+
+28.1
+
+59.3
+
+Shuttle
+
+2.1
+
+13.4
+
+6.2
+
+31.8
+
+53.5
+
+Home
+
+3.0
+
+3.0
+
+1.0
+
+1.5
+
+8.5
+
+Office
+
+3.4
+
+3.2
+
+2.7
+
+1.9
+
+11.2
+
+Laboratory
+
+2.9
+
+4.8
+
+2.0
+
+2.4
+
+12.1
+
+Average Mass Concentration µg/m3
+Ave. Shuttle
+
+2.2
+
+18.7
+
+5.5
+
+30.0
+
+56.4
+
+Ave. Indoor
+Environment
+
+3.1
+
+3.7
+
+1.9
+
+1.9
+
+10.6
+
+Ratio of Mass Concentration
+Shuttle/Indoor
+6/30
+
+0.71
+
+5.1
+
+2.9
+
+15.8
+
+5.3
+www.nasa.gov
+
+Residential (1-g) background
+Well ventilated flames and established fires emit smaller
+particulate with sizes readily detected by ionization
+detectors
+•
+•
+
+Ionization detectors were favored in the 1970’s though the
+mid 1990’s due to the difficulty of producing light sources
+that would remain stable for several years.
+
+•
+
+7/30
+
+Smoldering fires and over-heated (pyrolyzing) materials
+produce larger particulate favoring scattering detectors.
+
+The advent of improvements in light emitting diode and
+diode laser technology has reduced the cost and increased
+the stability of photoelectric fire detectors.
+
+www.nasa.gov
+
+Detector sensitivity
+Ionization and scattering
+detector response
+((detector output –background)/
+particle concentration)
+versus diameter
+for light scattering (S-2) and
+ionization (R-2) detectors
+(Mulholland and Liu, 1980).
+Effect is amplified by decrease in
+number concentration as particle
+size increases
+
+8/30
+
+www.nasa.gov
+
+CSD Experiment (STS-75)
+• Mid-deck Glovebox experiment on STS-75
+• Low cost comparison of existing detector
+performance for several smoke types
+• Limited diagnostics:
+– Smoke detectors
+– Thermophoretic particle capture
+– Light extinction
+
+9/30
+
+www.nasa.gov
+
+CSD Experiment Hardware
+
+10/30
+
+www.nasa.gov
+
+CSD results
+
+0-g results for Kapton.
+
+11/30
+
+0-g results for silicone rubber.
+
+www.nasa.gov
+
+CSD results
+
+0-g results for Kapton.
+
+12/30
+
+0-g results for silicone rubber.
+
+www.nasa.gov
+
+CSD results: detector signals:
+Kapton
+8
+
+8
+
+7
+
+7
+
+6
+
+6
+
+STS
+
+ISS
+
+4
+3
+
+STS
+
+2
+
+Ignitor
+
+1
+
+Ignitor
+
+5
+Signal
+
+Signal
+
+5
+
+4
+
+3
+
+2
+
+0
+-1 0
+
+ISS
+
+1
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+Time (s)
+
+80
+
+90
+
+100 110 120
+0
+0
+
+6
+
+12
+
+18
+
+24
+
+30
+
+36
+
+42
+
+Time (s)
+
+0-g
+
+13/30
+
+1-g
+
+www.nasa.gov
+
+CSD results: detector signals:
+Silicone Rubber
+
+8
+7
+
+7
+
+6
+
+6
+
+5
+
+Signal
+
+8
+
+5
+
+4
+
+ISS
+
+3
+
+STS
+
+3
+
+2
+
+Signal
+
+4
+
+Ignitor
+
+2
+
+0
+
+Ignitor
+
+0
+10
+
+20
+
+30
+
+40
+
+Time (s)
+
+0-g
+
+14/30
+
+STS
+
+1
+
+1
+-1 0
+
+ISS
+
+50
+
+60
+
+70
+
+80
+
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+28
+
+Time (s)
+
+1-g
+
+www.nasa.gov
+
+CSD results:
+smoke particle dimensions
+
+From left to right images of microgravity particulate from overheated Teflon and Kapton
+and candle soot. Images are at the same magnification. Average particle dimensions are
+shown below.
+Material
+
+1-g Primary
+Diameter (nm)
+
+Low-g Aggregate
+Length (nm)
+
+1-g Aggregate
+Length (nm)
+
+Kapton
+
+76
+
+35
+
+223
+
+N/A
+
+Candle
+
+34
+
+17
+
+976
+
+265
+
+Teflon
+
+15/30
+
+Low-g Primary
+Diameter (nm)
+
+136
+
+75
+
+662
+
+277
+www.nasa.gov
+
+CSD results:
+smoke detector performance
+Test Runs
+Material
+
+Total
+
+Detected
+by Detected
+by
+ISS
+STS
+detector
+detector
+
+Paper
+
+2
+
+1
+
+Candle
+
+4
+
+3
+
+2
+
+Silicone
+Rubber
+
+5
+
+5
+
+0
+
+Teflon
+
+6
+
+3
+
+2
+
+Kapton
+16/30
+
+5
+
+5
+
+4
+
+4
+www.nasa.gov
+
+SAME Experiment
+• CSD demonstrated
+– Smoke detector design must be based on low-g data
+– Liquid smoke aerosols require on-orbit measurement of
+smoke particulate size distribution
+
+• Power and mass limitations prevent direct
+measurement of the smoke particle size
+distribution
+• Integral measures (moments) of the particle size
+distribution were chosen as the best approach
+• SAME (Smoke Aerosol Measurement Experiment)
+Shipped and ready for launch this summer
+
+17/30
+
+www.nasa.gov
+
+SAME
+Smoke Aerosol Measurement Experiment
+
+Motivation
+•
+
+Droplet size for liquid-smoke aerosols are essentially
+unknown.
+
+•
+
+Particulate dimensions for solid-particulate smoke have
+
+been measured for a small number of particles.
+Despite its demonstrated effectiveness, smoke detection has
+remaining challenges for spacecraft:
+– Increased importance on longer missions
+– The current state of knowledge is insufficient to truly
+assure system effectiveness.
+– Rational design and implementation require better smoke
+particulate size distribution information.
+This research will directly improve crew safety and mission
+assurance by providing data necessary to ensure reliable
+detection of incipient spacecraft fires, ensuring the safety of
+future crews and missions.
+18/30
+
+www.nasa.gov
+
+Moment Analysis
+For a particle size distribution
+
+The moments are:
+
+dN
+fN (D ) =
+dD
+
+M i = ∫ D i fN (D )dD
+
+Where
+i =0 : Number Concentration Moment
+i = 1 : Diameter Concentration Moment, Proportional to the ionization
+detector moment
+i = 3 : Mass Concentration Moment
+
+19/30
+
+www.nasa.gov
+
+Moment Analysis (Cont’d)
+From these measurements, it is possible to calculate:
+Arithmetic mean diameter, ( D10 ):
+Diameter of average mass, (D30) :
+
+M1/M0
+(M3/M0)1/3.
+
+Assuming a log-normal distribution:
+the geometric mean number diameter Dg can be found by:
+
+D qp = D g exp(( q + p / 2 ) ln σ g )
+2
+
+and the geometric standard deviation σg is:
+
+σ
+20/30
+
+g
+
+= exp
+
+(ln(
+
+D
+
+/ D 10 ) )
+
+1/2
+
+30
+
+www.nasa.gov
+
+SAME: Moment Instruments:
+
+First Moment:
+First Alert™
+Smoke Detector
+
+Zeroth Moment:
+TSI PTrak™
+21/30
+
+Third Moment:
+TSI Dust Trak™
+www.nasa.gov
+
+Experimental Layout
+
+Conceptual Layout
+
+22/30
+
+www.nasa.gov
+
+SAME in MSG (mockup)
+Data
+Acquisition and
+Control Unit
+
+Aging
+Chamber
+
+Fluids
+Control
+Unit
+
+Sample
+Diluter
+Commercial
+Diagnostics
+Hose
+Bundle
+
+Experiment
+Support
+Plate
+23/30
+
+Sample
+Carousel
+
+Thermal
+Precipitator
+
+P-Trak
+Enclosure
+www.nasa.gov
+
+DAFT Motivation:
+low-g operation of the PTrak
+
+Control of the condensate in the
+condenser was not assured in lowgravity so a rapid turn around
+experiment was proposed
+DAFT:
+Dust Aerosol Measurement
+Feasibility Test
+
+24/30
+
+www.nasa.gov
+
+DAFT:
+Dust Aerosol Measurement Feasibility Test
+
+• Flew a P-Trak and Dust Trak on Expedition 10
+• And then a reference source on Expedition 13
+
+25/30
+
+www.nasa.gov
+
+DAFT 1-2: Results
+•
+•
+•
+
+Sampled undisturbed air at 2
+locations in the lab and in the node
+One test deliberately generated
+aerosol by separating Velcro
+Average values of cabin air less than
+– 0.005 mg/m3 (Dust Trak)
+– 15 particles /cm3 (P-Trak)
+
+• Substantially cleaner than the
+shuttle or typical office
+environment
+
+26/30
+
+www.nasa.gov
+
+DAFT: Results
+Velcro separation
+50000
+45000
+40000
+
+pt/cc
+
+35000
+30000
+25000
+20000
+15000
+10000
+5000
+0
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+Time (sec)
+
+27/30
+
+www.nasa.gov
+
+DAFT: Results
+Measurements in the Lab
+0.6
+0.5
+
+mg/m3
+
+0.4
+0.3
+0.2
+0.1
+12
+0
+10
+
+0
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+Time (sec)
+
+8
+pt/cc
+
+100
+
+6
+4
+2
+0
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+Time (sec)
+
+28/30
+
+www.nasa.gov
+
+DAFT 3-4: Results
+Comparison with reference dust
+DAFT-3 P-Trak Vs. DustTrak
+100
+
+90
+
+DustTrak Reading (mg/m3)
+
+80
+
+70
+
+Sample Bag 1
+
+60
+
+Sample Bag 2
+50
+
+Sample Bag 3
+
+40
+
+30
+
+20
+
+10
+
+0
+0
+
+5000
+
+10000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+40000
+
+45000
+
+50000
+
+P-Trak Reading (particles/cm3)
+
+•
+
+Sampled reference dust source for
+3 runs. Data compared well for first
+run before effects of low alcohol
+became significant.
+
+•
+
+Demonstrated the functionality of
+the modified P-Trak in low-g
+
+29/30
+
+www.nasa.gov
+
+SAME Points of Contact
+David Urban, Principal Investigator
+Phone: 216-433-2835
+Email: David.L.Urban@grc.nasa.gov
+Gary Ruff, Project Scientist
+Phone: 216-433-5697
+Email: Gary.A.Ruff@grc.nasa.gov
+Bill Sheredy, Project Manager
+Phone: 216-433-3685
+Email: William.A.Sheredy@nasa.gov
+Greg Funk, Project Lead
+Phone: 216-925-1100
+Cell Phone: 216-956-2337
+Email: funkg@zin-tech.com
+Website:
+http://microgravity.grc.nasa.gov/combustion/daft/daft_index.htm.
+30/30
+
+www.nasa.gov
+

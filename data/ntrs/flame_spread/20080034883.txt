@@ -1,0 +1,1026 @@
+NASA/TM—2008-215260
+
+2008–01–2055
+
+Microgravity Flame Spread in Exploration
+Atmospheres: Pressure, Oxygen, and Velocity
+Effects on Opposed and Concurrent Flame Spread
+
+Sandra L. Olson and Gary A. Ruff
+Glenn Research Center, Cleveland, Ohio
+Fletcher J. Miller
+San Diego State University, San Diego, California
+
+August 2008
+
+NASA STI Program . . . in Proﬁle
+
+Since its founding, NASA has been dedicated to the
+advancement of aeronautics and space science. The
+NASA Scientiﬁc and Technical Information (STI)
+program plays a key part in helping NASA maintain
+this important role.
+The NASA STI Program operates under the auspices
+of the Agency Chief Information Ofﬁcer. It collects,
+organizes, provides for archiving, and disseminates
+NASA’s STI. The NASA STI program provides access
+to the NASA Aeronautics and Space Database and
+its public interface, the NASA Technical Reports
+Server, thus providing one of the largest collections
+of aeronautical and space science STI in the world.
+Results are published in both non-NASA channels
+and by NASA in the NASA STI Report Series, which
+includes the following report types:
+•
+
+•
+
+papers from scientiﬁc and technical
+conferences, symposia, seminars, or other
+meetings sponsored or cosponsored by NASA.
+•
+
+SPECIAL PUBLICATION. Scientiﬁc,
+technical, or historical information from
+NASA programs, projects, and missions, often
+concerned with subjects having substantial
+public interest.
+
+•
+
+TECHNICAL TRANSLATION. Englishlanguage translations of foreign scientiﬁc and
+technical material pertinent to NASA’s mission.
+
+Specialized services also include creating custom
+thesauri, building customized databases, organizing
+and publishing research results.
+
+TECHNICAL PUBLICATION. Reports of
+completed research or a major signiﬁcant phase
+of research that present the results of NASA
+programs and include extensive data or theoretical
+analysis. Includes compilations of signiﬁcant
+scientiﬁc and technical data and information
+deemed to be of continuing reference value.
+NASA counterpart of peer-reviewed formal
+professional papers but has less stringent
+limitations on manuscript length and extent of
+graphic presentations.
+
+For more information about the NASA STI
+program, see the following:
+
+TECHNICAL MEMORANDUM. Scientiﬁc
+and technical ﬁndings that are preliminary or
+of specialized interest, e.g., quick release
+reports, working papers, and bibliographies that
+contain minimal annotation. Does not contain
+extensive analysis.
+
+•
+
+CONTRACTOR REPORT. Scientiﬁc and
+technical ﬁndings by NASA-sponsored
+contractors and grantees.
+
+•
+
+CONFERENCE PUBLICATION. Collected
+
+•
+
+Access the NASA STI program home page at
+http://www.sti.nasa.gov
+
+•
+
+E-mail your question via the Internet to help@
+sti.nasa.gov
+
+•
+
+Fax your question to the NASA STI Help Desk
+at 301–621–0134
+
+•
+
+Telephone the NASA STI Help Desk at
+301–621–0390
+
+•
+
+Write to:
+NASA Center for AeroSpace Information (CASI)
+7115 Standard Drive
+Hanover, MD 21076–1320
+
+NASA/TM—2008-215260
+
+2008–01–2055
+
+Microgravity Flame Spread in Exploration
+Atmospheres: Pressure, Oxygen, and Velocity
+Effects on Opposed and Concurrent Flame Spread
+
+Sandra L. Olson and Gary A. Ruff
+Glenn Research Center, Cleveland, Ohio
+Fletcher J. Miller
+San Diego State University, San Diego, California
+
+Prepared for the
+38th International Conference on Environmental Systems
+sponsored by the Society of Automotive Engineers International
+San Francisco, California, June 28–July 2, 2008
+
+National Aeronautics and
+Space Administration
+Glenn Research Center
+Cleveland, Ohio 44135
+
+August 2008
+
+Acknowledgments
+
+The research at NASA Glenn’s Zero Gravity Research Facility was supported by NASA’s Fire Prevention, Detection,
+and Suppression Program. We thank the personnel of the NASA Glenn Zero Gravity Research
+Facility for upgrading the experiment apparatus and conducting the drop testing.
+We thank Glenn’s Spacecraft Fire Prevention team for reviewing this work.
+
+Trade names and trademarks are used in this report for identiﬁcation
+only. Their usage does not constitute an ofﬁcial endorsement,
+either expressed or implied, by the National Aeronautics and
+Space Administration.
+
+Level of Review: This material has been technically reviewed by technical management.
+
+Available from
+NASA Center for Aerospace Information
+7115 Standard Drive
+Hanover, MD 21076–1320
+
+National Technical Information Service
+5285 Port Royal Road
+Springﬁeld, VA 22161
+
+Available electronically at http://gltrs.grc.nasa.gov
+
+Microgravity Flame Spread in Exploration Atmospheres: Pressure, Oxygen,
+and Velocity Effects on Opposed and Concurrent Flame Spread
+Sandra L. Olson and Gary A. Ruff
+National Aeronautics and Space Administration
+Glenn Research Center
+Cleveland, Ohio 44135
+Fletcher J. Miller
+San Diego State University
+San Diego, California 92182
+One of the major lessons learned from the Apollo 1 fire is
+that it is impossible to eliminate all ignition sources (ref. 2), so
+fire prevention is achieved in spacecraft through material
+control and the use of fire resistant materials. Since Skylab,
+the Space Shuttle and the International Space Station (ISS)
+have operated at normal sea-level conditions (air, 21% oxygen/79% nitrogen by volume at 14.7 psia total pressure)
+except for brief pre-EVA activities when oxygen levels are
+increased for a short period of time to 30% oxygen while the
+total pressure is lowered to 10.2 psia. Many of the materials
+now used in the Shuttle or on ISS are therefore only tested and
+rated to 30% oxygen at 10.2 psia.
+The Crew Exploration Vehicle (CEV), Orion, and the lunar
+lander, Altair, are designed to operate from 8.0 to 14.9 psia
+and at a maximum of 30 and 34% oxygen concentration
+respectively. The transition from higher pressure, lower
+oxygen concentrations to lower pressure, higher oxygen
+concentrations will occur as exploration needs change from
+ISS crew exchange to lunar missions. As the oxygen concentration increases, the cabin pressure decreases to follow the
+normoxic curve which keeps the partial pressure of oxygen
+constant at the normal atmospheric air equivalent of 0.21 atm,
+or 3.09 psia. The partial pressure of oxygen in the spacecraft
+will be controlled to 2.6 to 3.1 psia, which creates a band of
+operating conditions on the hypoxic side of the normoxic
+curve.
+NASA tests materials for flammability using NASA STD6001 Test 1 (ref. 3), which is an upward burning test at the
+worst-case atmospheric conditions in which the material will
+be used. Materials that do not self-extinguish after 6 in. of
+burning must undergo other special considerations and/or tests
+if they are to be used on spacecraft. During the early stages of
+the Constellation Program (CxP), NASA Materials and
+Processes (M&P) personnel realized that changes to the
+baseline oxygen concentration during vehicle development or
+from vehicle to vehicle during the implementation of the CxP
+would require repeated testing of many materials to document
+their flammability at the new baseline.
+Anticipating these changes in the baseline oxygen concentration, NASA set out to determine the maximum oxygen
+concentration (MOC) for a set of spacecraft materials identified by NASA M&P personnel. (The MOC was defined as the
+
+Abstract
+Microgravity tests of flammability and flame spread were
+performed in a low-speed flow tunnel to simulate spacecraft
+ventilation flows. Three thin fuels were tested for flammability
+(Ultem 1000 (General Electric Company), 10 mil film, Nomex
+(Dupont) HT90-40, and Mylar G (Dupont) and one fuel for
+flame spread testing (Kimwipes (Kimberly-Clark Worldwide,
+Inc.). The 1g Upward Limiting Oxygen Index (ULOI) and 1g
+Maximum Oxygen Concentration (MOC) are found to be
+greater than those in 0g, by up to 4% oxygen mole fraction,
+meaning that the fuels burned in 0g at lower oxygen concentrations than they did using the NASA Standard 6001 Test 1
+protocol.
+Flame spread tests with Kimwipes were used to develop
+correlations that capture the effects of flow velocity, oxygen
+concentration, and pressure on flame spread rate. These
+correlations were used to determine that over virtually the
+entire range of spacecraft atmospheres and flow conditions,
+the opposed spread is faster, especially for normoxic atmospheres. The correlations were also compared with 1g MOC for
+various materials as a function of pressure and oxygen. The
+lines of constant opposed flow agreed best with the 1g MOC
+trends, which indicates that Test 1 limits are essentially
+dictated by the critical heat flux for ignition. Further evaluation of these and other materials is continuing to better understand the 0g flammability of materials and its effect on the
+oxygen margin of safety.
+
+Introduction
+For future space missions, NASA is planning to increase
+the oxygen concentration and reduce the total pressure of the
+atmosphere in the Orion crew exploration vehicle, the Altair
+lander, and future lunar habitats (ref. 1). This atmosphere has
+the advantages of requiring a lower mass of inert gas (N2),
+lowering vehicle internal pressures, and shortening or eliminating the pre-breathing time required to purge nitrogen from
+the bloodstream before Extra Vehicular Activity (EVA).
+However, an enriched oxygen atmosphere also has a significant disadvantage—increased flammability of materials.
+
+NASA/TM—2008-215260
+
+1
+
+~5 sec in which to respond to the new atmosphere by either
+extinguishing (0g MOC) or shrinking to a reduced burning
+state at the lower oxygen concentration. The lowest oxygen
+concentration where the flame survived to the end of the drop
+is considered the 0g ULOI. While some of these flames may
+extinguish given longer time, the limits provided by the Zero
+Gravity Research Facility tests are a conservative measure of
+the limits in 0g. Note these limits are not identical to the 1g
+limits due to the intrinsic limitations of the drop time, but they
+are a reasonable comparison.
+Tests were performed using a fuel sample taped to a sheet
+metal sample holder with an igniter wire on either the upstream or downstream end of the 5-cm wide by 10-cm long
+sample (fig. 2). The flow was started before the drop to
+establish a steady flow speed and pressure in the tunnel prior
+to the drop rig release. The hot wire igniter was energized
+either in 1g or at release, depending on the objective of the test
+(flammability limit tests used 1g ignition; flame spread tests
+used 0g ignition). The microgravity period lasted 5.18 sec—
+the first 2 sec of which are typically used for 0g ignition and
+flame spread away from the igniter. When the drop rig reaches
+the bottom of the evacuated drop shaft and stops in the deceleration cart, the test section is vented to vacuum to extinguish
+the flame.
+
+maximum oxygen concentration at which a material passed
+the standard 1-g flammability test, NASA-STD-6001 Test 1.
+The measurement of the MOC using the standard Test 1
+protocol has been evaluated (refs. 4 to 7) to provide additional
+information about the flammability limits of the material and
+not just a pass/fail statement regarding its use in the worstcase atmosphere. This approach allows a better understanding
+of the margin of safety for the material in the real-use atmosphere, but has not been formally approved as a standard test.
+In this approach (ref. 5), the oxygen concentration in Test 1
+is successively reduced to identify the Upward Limiting
+Oxygen Index (1g ULOI) and the Maximum Oxygen Concentration (1g MOC) that consistently results in selfextinguishment of the material. The 1g ULOI is defined as the
+oxygen concentration at which a material passes the NASA
+STD 6001 Test 1 burn length criterion approximately half the
+time. The 1g MOC is defined as the oxygen concentration
+where at least five samples passed the burning criterion (ref. 3)
+and where at least one sample failed in the environment that
+contained 1 percent more oxygen by volume.
+The objective of this work is to begin to assess the relative
+flammability limits between Test 1 and concurrent flammability limits in microgravity, to better understand how the 1g
+margins of fire safety in spacecraft environments are modified
+in actual microgravity. Based on microgravity tests conducted
+at various oxygen levels with three fuels tested previously by
+WSTF (ref. 8), we define an oxygen margin of safety parameter that can be used to assess material safety in the intended
+use atmosphere. In addition, the effects of oxygen concentration, pressure, and forced flow velocity are studied to understand how changing the atmosphere along the normoxic curve
+affects the robustness of the flame as measured by flame
+spread rate.
+
+Experimental Apparatus
+The microgravity tests are performed in a low-speed flow
+tunnel that provides 0 to 30 cm/s forced flow of gas (0 to
+100% O2 in diluent) through a 20 cm ID duct at 0 to 14.7 psia
+pressure. The flow tunnel is mounted on a NASA Zero Gravity Research Facility drop rig bus (ref. 9), but with modifications to the flow system and software control. The flow system
+of the rig is shown schematically in figure 1. The flow modifications include a second gas reservoir such that oxygen
+concentrations (or another parameter such as diluent or extinguishing agent) can be changed during a test and a new back
+pressure control valve for greater flow capacity of up to
+30 cm/s at pressures up to 14.7 psia. Higher permeability
+porous plates and honeycomb were installed to improve the
+flow distribution and laminarity at these higher flow rates. For
+the material flammability tests, the switching of the flow
+between source bottles was timed so that the sample was
+ignited in an enriched oxygen concentration greater than the
+1g ULOI, and the test oxygen level reached the sample shortly
+after release into zero gravity. The established flame then had
+
+NASA/TM—2008-215260
+
+Figure 1.—Schematic of the flow system on the Drop Bus. Two
+separate bottles can contain two gas mixtures so that conditions
+(oxygen concentration, diluent, pressure) can be switched during the experiment if needed. A critical flow orifice controls the
+flow through the test chamber, while a back pressure valve
+controls the pressure in the chamber. The sample and orange
+igniter are shown within the chamber.
+
+2
+
+N
+
+Nomex HT90-40
+
+Mylar G
+
+Ultem 1000
+(10 mil)
+
+Figure 3.—Front view pictures of microgravity flames on three
+different fuels samples at the ULOI. The concurrent forced flow
+velocity was 30 cm/s. The red LED in lower left is the same
+true brightness, giving an indication of the relative brightness
+between the flames. The green LED was not used for the Mylar
+as it caused too much specular reflection.
+
+Material Flammability Results
+(a)
+(b)
+Figure 2.—(a) Front view of a Kimwipes fuel sample in the 0.5 mm
+thick stainless steel holder, showing a concurrent flame test at
+24% oxygen, 30 cm/s, 6.4 psia (not near limit). The cutout in the
+holder is 5- by 10-cm for the sample, but the holder itself is
+20-cm wide and over 35-cm long, extending 12.7 cm upstream
+of the sample. The Kimwipes sample appears green due to the
+LED illumination. The igniter can be positioned at either end of
+the sample, so both opposed or concurrent (shown) tests can be
+done in the same holder. (b) Side view of same flame. The constant intensity red LEDs in both views was used to judge the
+actual flame brightness, since the camera was on auto-gain.
+
+Materials flammability tests were conducted for three materials and the 1g ULOI and 1g MOC were compared with 0g
+values obtained at a concurrent flow of 30 cm/s, which is a
+reasonable maximum local spacecraft ventilation velocity
+(ref. 11). The limiting oxygen values for each fuel are found in
+table 1, and flame images for near limit 0g flames are shown
+in figure 3. The near-limit flames are generally small and
+localized to the upstream edge of the material. We noticed that
+any distortion of the burned edge of the material, such as
+curling, swelling, or contracting, weakens the flame apparently by influencing the flow around the burned edge. Since
+oxygen transport is critical to microgravity flames, anything
+that reduces the free flow of oxygen past the sample will
+reduce the material’s flammability.
+
+The fuels used in this study include Kimwipes, Ultem 1000,
+Nomex HT90-40, and Mylar G. Kimwipes are tested to
+expand the database for thin cellulose fuel that chars as it
+burns but is not treated for fire resistance. Front and side view
+images of a Kimwipes burn are shown in figure 2. With this
+fuel we can obtain flame spread and extinction data in the
+limited microgravity test time. Ultem 1000 (fire retarded
+polyetherimide (PEI)) in 10 mil thick film is inherently flameretarding, with self-charring characteristics, a very low smoke
+signature, very low smoke toxicity, and a low heat-release
+rate. Nomex HT90-40 is a 12 mil thick fire retarded aromatic
+nylon fabric which does not melt or drip as it burns. When
+exposed to a heat source, the Nomex fibers swell and seal the
+spaces between the fibers, stopping air movement through the
+fabric and thus inhibiting heat transfer through the fabric.
+Mylar G is a 5 mil thick plastic film made from polyethylene
+terephthalate. It is not fire-retarded, melts as it burns, and was
+selected primarily for its non-charring character.
+Ignition and flame spread were recorded by two orthogonal
+color video cameras with automatic gain control; sample
+images are shown in figure 2. Flame shape, size, and spread
+rate were measured using Spotlight software (ref. 10). Relative
+luminosity is compared between video frames using a constant
+brightness red LED in the corner of the images which also
+flashes at release marking the drop in the video.
+
+NASA/TM—2008-215260
+
+TABLE 1.—COMPARISON OF 1G AND 0G
+FLAMMABILITY LIMITS FOR THREE FUELS
+Fuel
+
+Nomex HT90-40
+fabric
+Ultem 1000,
+10 mil
+Mylar G
+
+1g
+ULOI
+
+1g
+MOC
+
+25.4% O2
+(±0.6),
+14.7 psia*
+26.5% O2,
+10.2 psia*
+
+22% O2,
+14.7 psia*
+
+20.8% O2,
+10.2 psia*
+
+20% O2,
+10.2 psia*
+
+24% O2,
+10.2 psia*
+
+0g
+0g
+ULOI
+MOC
+(burns) (extinguishes)
+23% O2,
+22% O2,
+14.7 psia,
+14.7 psia,
+30 cm/s
+30 cm/s
+24% O2,
+23% O2,
+10.2 psia,
+10.2 psia,
+30 cm/s
+30 cm/s
+17% O2,
+16% O2,
+10.2 psia,
+10.2 psia,
+30 cm/s
+30 cm/s
+
+*WSTF data (ref. 8)
+
+An example flammability map is shown in figure 4 for
+Ultem 1000, where the 1g limits are compared to 0g test
+results over a range of flow and oxygen concentrations. The
+observed minimum in the flammability curve is for concurrent
+flow at the highest velocities achievable in the drop rig
+(30 cm/s), so the remaining fuels were tested at 30 cm/s
+concurrent flow.
+
+3
+
+the test was taken as the 0g MOC. A positive ΔO2%0g–1g
+means that the flame will propagate in 1g at lower oxygen
+concentrations than in 0g. Conversely, a negative ΔO2%0g–1g
+means that the flame will propagate in 0g at a lower oxygen
+concentration than in 1g and would result in a reduced margin
+of safety.
+For example, Ultem film is used aboard the Space Shuttle
+and the International Space Station, both of which have a
+nominal atmosphere of 21% oxygen ± 2% oxygen. In 1g, the
+mean flammability limit for Ultem is 25.25%, which is at least
+2.25% above the nominal range for the atmosphere. However,
+in 0g the mean flammability limit is 22.5%, which falls within
+the nominal range for the atmosphere, indicating the material
+could burn if ignited. The ΔO2%0g–1g = –2.75% is a significant
+negative margin of safety that needs to be considered when
+deciding if a material is safe for use in spacecraft.
+As shown in figure 5, the 1g flammability limits are generally not conservative for these materials as evidenced by the
+negative ΔO2%0g–1g, by up to –4% oxygen. For concurrent
+(upward) flow conditions, it is reasonable for materials to be
+flammable at lower oxygen concentration in low-g than in 1-g
+because in the absence of buoyancy, the heat loss due to convective flow is greatly reduced. As such, the flame doesn’t have
+to release as much heat as in 1g to provide the same amount of
+heat flux to the unburned fuel. Thus, it is not surprising that the
+0g flammability limits are lower than the 1g flammability limits,
+which is the general trend noted in table 1. The evaluation of the
+magnitude of this ΔO2%0g-1g for other materials is continuing for
+concurrent flammability limits, to be followed by evaluation of
+the limits for opposed flow.
+
+Figure 4.—Ultem 1000, 10 mil film, flammability map as a function of flow and oxygen%, with the pressure held constant at
+10.2 psia. Most of the tests were conducted with concurrent
+forced flow velocity, but two were with opposed flow. The thick
+curved line indicates the approximate division between flammable and non-flammable conditions. Near the boundary the same
+conditions can yield different results due to the randomness of
+the flames and the samples curling which affects the airflow.
+
+Flame Spread Results
+The 0g ULOI and 0g MOC measurements discussed in the
+previous section allow the difference between 1g and 0g
+oxygen flammability limits (or thresholds) to be quantified.
+However, this data does not quantify the difference in flammability at oxygen concentrations above the 0g MOC. As
+previously stated, atmospheres used in exploration vehicles
+will generally lie along the normoxic curve, i.e., the locus of
+ambient pressure/oxygen concentration combinations having
+the same oxygen partial pressure as standard sea level conditions. It would be useful to quantify material flammability
+along this curve so that trades between oxygen concentration
+and ambient pressure can be performed.
+One way to determine relative flammability along the normoxic curve is to use flame spread as a measure of flammability. In this section, we describe the flame spread tests, develop
+correlations between forced flow velocity, oxygen concentration, and pressures to collapse the data onto a single curve, and
+finally extrapolate them to the normoxic condition.
+Thirty concurrent and ten opposed flow flame spread tests
+were conducted with Kimwipes to evaluate the effects of flow,
+pressure, and oxygen on the robustness of the flame. The flow
+velocity varied between 0 and 30 cm/s, the pressure varied
+between 3.6 and 14.7 psia, and the oxygen percentage ranged
+
+Figure 5.—1g and 0g flammability limits for three fuels, and the
+ΔO2% on the Test 1 margin of safety identified for each fuel,
+with error bars based on the differences between the ULOI and
+MOC.
+
+Figure 5 compares the flammability limits from table 1
+graphically, and evaluates the oxygen margin of safety for the
+1g Test 1 data. The ΔO2 %0g–1g is defined here as the mean 0g
+limit minus the mean 1g limit as follows:
+⎛ (0gULO + 0gMOC⎞ ⎛ (1gULO + 1gMOC⎞
+ΔO 2 %0g−1g = ⎜
+⎟ −⎜
+⎟
+2
+2
+⎝
+⎠ ⎝
+⎠
+
+(1)
+
+In this equation, the lowest percent O2 at which the material
+burned in 0g for the full test was taken as the 0g ULOI; the
+maximum percent O2 where the material extinguished during
+
+NASA/TM—2008-215260
+
+4
+
+from 24 to 85%. Spread rates were measured from the video
+for each test condition. Flame tracking was generally done
+with the edge view either manually or using an appropriate
+threshold value for the target. A more detailed report of these
+results can be found in (ref. 12).
+Correlations were developed to capture the effect of all
+three of the variables (flow, pressure, oxygen) on the measured flame spread rate.
+For normal gravity, downward (opposed flow) flame spread
+over thin fuels, previous investigators found the flame spread
+rate correlated with (O2)0.9(P)0.05, with oxygen in mole-fraction
+and pressure in atm. (ref. 13). There was only a sight pressure
+dependence noted, so the primary influence on spread rate was
+from the oxygen concentration in this buoyantly controlled
+situation.
+We found that our new data, as well as previous data from
+both normal and microgravity (refs. 14 to 16), were wellcorrelated by this relationship except near the quench limit
+where flow effects play a role. The results are shown figure 6,
+where new data as well as those from (refs. 14 and 15) are
+shown. The spread rate increases nearly linearly with oxygen
+percentage, while the pressure effect is quite weak in this
+range. This is in contrast with Bhattacharjee et al. (ref. 17),
+who showed a much stronger dependence on pressure for fourfold thicker fuel in a quiescent environment. Those tests were
+shown to be near-limit, where heat losses such as radiation
+become important. Indeed, even the near-limit data from
+(refs. 14 and 15) show a fall off from the correlation. Thus, the
+correlation can be viewed as a worst-case (i.e., highest)
+prediction of spread rate for a given oxygen and pressure
+condition.
+For concurrent spread, there was no such correlation of
+experimental data in the literature that we could find, perhaps
+because in normal gravity the flame spread rate is often
+acceleratory. Ferkul (ref. 18) did correlate his numerical
+predictions of spread rate as a function of oxygen and forced
+flow velocity in a polynomial expression, and noted the spread
+rate increases approximately linearly with either flow velocity
+or oxygen percentage.
+The best fit of the available experimental data was obtained
+by using the correlation parameter shown in figure 7, which
+captures the linear dependencies we observed for flow and
+oxygen, and a square root variation with pressure. Here, all
+our data are shown, along with some earlier near-limit data
+from Grayson (ref. 19) and Pettegrew (ref. 20). The normoxic
+data ranged from 24% oxygen at 12.8 psia to 85% oxygen at
+3.6 psia, all at 30 cm/s flow. The oxygen varies from 24 to
+50% oxygen at 10.2 psia and 30 cm/s. Velocity varies from
+1 to 30 cm/s at 34% oxygen and 10.2 psia. Pressure varies
+from 5 to 14.7 psia at 40% oxygen and 30 cm/s. For most of
+the range, the spread rate depends linearly on the correlation
+parameter, but at very low near-limit values the data show a
+fall off from the linear fit, as predicted (ref. 21). A power law
+fit is shown for comparison in figure 7.
+
+NASA/TM—2008-215260
+
+Figure 6.—Flame spread data for Kimwipes, fit to an oxygenpressure correlation based on Magee and McAlevy (ref. 13) for
+opposed flow under a variety of atmospheric and gravitational
+conditions. Flow velocity is not captured in this correlation due to
+the non-monotonic dependence of flame spread at low oxygen
+concentrations (<40%); below an optimum velocity the flame
+spread rate increases, and above that it decreases. Above 40%
+oxygen, the flame spread rate is independent of forced velocity.
+
+Figure 7.—Concurrent flame spread correlation for Kimwipes
+combining the effects of forced flow velocity, oxygen concentration, and ambient pressure. The symbols are sized to reflect the
+estimated error bars based on comparing top and bottom base
+spread rates. Data from references 18 and 19 are also shown
+for comparison. A linear fit to all the data is y=0.2498x+0.4038,
+with R2=0.97. A power law fit to the data is y=0.6763x0.6187 with
+R2=0.93.
+
+Figure 8 applies both flame correlations developed above to
+determine the boundary where concurrent spread is faster than
+opposed flame spread. To create this figure, we equate the
+opposed and concurrent flame spread rates and then solve for
+the forced flow velocity that makes them equal as a function
+of oxygen concentration. This was done for two pressures: the
+normoxic equivalent pressure and 14.7 psia. It is seen that
+over virtually the entire range of spacecraft atmospheres and
+flow conditions (5 to 20 cm/s nominal range (ref. 11) the
+
+5
+
+Figure 9.—Opposed and concurrent flame spread for Kimwipes
+plotted as a function of oxygen concentration in the normoxic
+atmosphere. The correlations are used for the predictions.
+
+Figure 8.—Oxygen and velocity map showing the region where
+concurrent flame spread for Kimwipes is faster than opposed flow
+flame spread in microgravity. The curves were obtained from the
+linear correlation equations based on the experimental data. The
+results are shown for two total pressures, the pressure corresponding to normoxic conditions at the particular oxygen mole
+fraction, and 1 atm. Opposed spread is faster below the lines.
+Also shown is the nominal space craft ventilation range, demonstrating that in virtually all situations the opposed spread is more
+rapid.
+
+plausible that the flammability limits in 0g may also be
+different, especially for materials whose limits lie at higher
+oxygen concentrations along the normoxic curve, and should
+be investigated in future work.
+
+Discussion
+opposed spread is faster, especially for the normoxic case.
+However, in the range of 20 to 25% oxygen, the flame spread
+rate for opposed and concurrent flow are similar, consistent
+with the data shown in figure 4. Furthermore, for the realistic
+scenario of a sample ignited in a central region rather than at
+an edge the flame will spread upstream. Any downstream
+flame would be even further inhibited by the vitiated atmosphere generated by the upstream flame.
+The different response of opposed and concurrent flame
+spread to the normoxic atmosphere is shown in figure 9. For
+opposed flow, the flame spread increases rapidly with increasing oxygen concentration in the normoxic atmosphere. In
+contrast, the concurrent flame spread more slowly increases
+with increasing oxygen concentration as the falling pressure
+counteracts the increasing oxygen concentration. While this
+figure shows that the flame spread rate increases as the percent
+O2 increases along the normoxic curve, the magnitude of the
+change depends on the direction of the spread. Opposed (or
+upwind) spread increases from about 1 to 5 cm/s as percent O2
+goes from 21 to 80%. Concurrent (or downwind) flame spread
+increases only from about 3 to 4 cm/s over this same range of
+percent O2 for 30 cm/s forced flow. The difference between
+the opposed and concurrent 15 cm/s forced flow results is
+even larger. This trend should be investigated using other
+types of materials.
+Also, recall that the 0g OC data in the previous section were
+obtained mostly in a concurrent flow configuration. Since the
+data in figure 9 shows that the flame spread rates between
+concurrent and opposed flow are significantly different, it is
+
+NASA/TM—2008-215260
+
+The Test 1 materials flammability data published by WSTF
+(ref. 7) demonstrate that the 1g MOCs are not generally a
+strong function of pressure but instead vary primarily with
+oxygen concentration. This is somewhat surprising given that
+Test 1 is an upward flame spread test and the current results
+showed a square root dependence on pressure shown above for
+forced flow concurrent flame spread. Also, the partial gravity
+correlations for upward flame spread developed by Kleinhenz
+et al., showed a P2-g dependence (refs. 22 and 23). In spite of
+this data, the 1g MOC is not a strong function of pressure and
+we examine this trend here.
+We plot the flammability data from (ref. 7) in figure 10
+along with the normoxic curve and lines of constant flame
+spread rate from the above flame spread correlations for both
+opposed flow and concurrent flow. Notice that the 1g MOC
+data obtained from Test 1 results in nearly vertical lines for the
+different fuels: to the right of the line the materials are flammable, but to the left of the line they are not. There are a few
+exceptions to the near-vertical flammability lines, and those
+fuels appear to have halogen species in common (fuels indicated with an asterisk). Halogens are known to scavenge free
+radicals in the gas-phase, which inhibits the gas-phase reaction
+and thus the heat release from the flame. So these fuels have a
+stronger dependence on pressure, where at low pressure the
+increased diffusive mixing results in increased scavenging.
+The reduced heat release results in a higher oxygen limit at
+low pressure.
+The lack of pressure dependence of the flammability data
+agrees better with the lines of constant flame spread rate for
+
+6
+
+Figure 10.—MOC material flammability limits (ref. 7) compared to lines of constant spread rate
+from the opposed and concurrent flame spread correlations. The normoxic curve is shown as
+an indication of potential spacecraft atmospheres. The boxes shows the range of conditions
+expected in the CEV and lunar lander. The experimental data agree better with the opposed
+flow correlation, even though they were obtained in a concurrent configuration. The vertical
+lines correspond to critical heat flux for ignition boundaries and the near limit upward spreading
+flame is viable only for sufficient heat flux.
+
+G). Kimwipes fuel supported a flame that spread rapidly
+enough that flame spread rates could be obtained in the short
+microgravity time. This was the first time that two of the fuels,
+Ultem 1000 and Mylar G), were tested in a microgravity
+environment. The 1g ULOI and 1g MOC flammability limits
+obtained from NASA Test 1 are compared to 0g limits for the
+same fuel width. The 1g ULOI and 1g MOC are found to be
+greater than those in 0g, by up to 4% oxygen mole fraction,
+meaning that the fuels burned in 0g at lower oxygen concentrations than they did using the Test 1 protocol. While test
+times in 0g are limited to 5.18 sec, these test data provide a
+conservative estimate of the material’s flammability in 0g.
+The flame spread tests were used to develop correlations
+that capture the effects of flow velocity, oxygen concentration,
+and pressures on flame spread rate. For the case of opposed
+flow data, a previously determined correlation was found to be
+valid away from the quench limit. No correlation with these
+three variables for concurrent data existed, so our flame spread
+correlation is the first to combine the effects of oxygen,
+pressure, and forced flow velocity.
+These correlations were used to determine the oxygen versus forced flow boundary where concurrent spread is faster
+than opposed flame spread. This boundary revealed that over
+virtually the entire range of spacecraft atmospheres and flow
+conditions, the opposed spread is faster in microgravity,
+especially for the normoxic case. The correlations were further
+used to compare with 1g MOC limit trends of materials as a
+
+the opposed flow correlation rather than the concurrent flow
+correlation, as shown in figure 10. This is surprising as well,
+since the flammability data is in an upward flame spread
+configuration and one might expect the concurrent correlation
+trend to agree better.
+We propose that the upward flammability limit (1g MOC)
+derived from Test 1 is essentially a limit dictated by the
+critical heat flux for ignition, where the heat flux from the
+flame is insufficient to sustain the burning. The similarity
+between the upward flammability limit and the lines of constant opposed flow flame spread rate can then be directly
+related. As was shown in (ref. 24), the limiting opposed flow
+flame spread velocity is directly related to the critical heat flux
+for ignition. Therefore, one of the lines of constant opposed
+flow flame spread rate will be the limiting spread rate, which
+is also the line of constant critical heat flux for ignition. This
+line would then correspond to the upward flammability limit
+of Test 1. If this hypothesis is verified by further experiments
+and analysis, it could help to understand the flammability
+limits derived from Test 1.
+
+Conclusions
+Microgravity tests of flammability and flame spread were
+performed in a low-speed flow tunnel mounted on a 5.18 sec
+NASA drop vehicle. Three thin fuels were tested for flammability (Ultem 1000, 10 mil film, Nomex HT90-40, and Mylar
+
+NASA/TM—2008-215260
+
+7
+
+14. Olson, S.L., Ferkul, P.V., and T'ien, J.S., “Near-Limit Flame
+Spread Over a Thin Solid Fuel in Microgravity,” 22nd Symposium (International) on Combustion,” The Combustion Institute,
+pp. 1213–1222, 1988.
+15. Olson, S.L., “The Effect of Microgravity on Flame Spread Over
+a Thin Fuel,” NASA TM–100195, 1987.
+16. Ferkul, P.F., “An Experimental Study of Opposed Flow Diffusion Flame Extinction Over a Thin Fuel in Microgravity,”
+NASA CR–182185, Feb. 1989.
+17. Bhattacharjee, S., Altenkirch, R.A., Sacksteder, K., J. Heat
+Transfer, 118, pp. 181–190, (1996).
+18. Ferkul, P.V., “A Model of Concurrent Flow Flame Spread Over
+a Thin Solid Fuel,” NASA CR–191111, 1993.
+19. Grayson, G., Sacksteder, K.R., Ferkul, P.V., T'ien, J.S., Microgravity Science and Technology, vol. 11, no. 2, pp. 187–195,
+1994.
+20. Pettegrew, R.D., “An Experimental Study of Ignition Effects
+and Flame Growth over a Thin Solid Fuel in Low-Speed Concurrent Flow Using Drop-Tower Facilities,” NASA CR–198537,
+Oct. 1996.
+21. Di Blasi, C., Fire Mater. vol. 22, pp. 95–101, 1998.
+22. Kleinhenz, J.E., “Flammability and Flame Spread of Nomex and
+Cellulose in Space Habitat Environments,” Ph.D. Dissertation,
+CWRU, May 2006.
+23. Feier, I.I., Kleinhenz, J., T’ien, J.S., Ferkul, P.V., and
+Sacksteder, K. “Pressure Modeling of Upward Flame Spread
+Rates in Partial Gravity,” 43rd AIAA Aerospace Sciences Meeting and Exhibit, Reno, NV, Jan. 2005.
+24. Olson, S.L., Miller, F.J., and Wichman, I.S., “Characterizing
+Fingering Flamelets Using the Logistic Model,” Combustion
+Theory and Modelling, vol. 10, no.2, pp. 323–347, 2006.
+
+function of pressure and oxygen. The lines of constant opposed flow agreed best with the 1g MOC trends, which can be
+explained if the upward flammability limit derived from Test 1
+is essentially a limit dictated by the critical heat flux for
+ignition, where the heat flux from the flame is insufficient to
+sustain the burning. Further evaluation of these and other
+materials is continuing to better understand the 0g flammability of materials and its effect on the oxygen margin of safety.
+
+References
+1.
+
+2.
+
+3.
+
+4.
+5.
+6.
+
+7.
+
+8.
+9.
+10.
+11.
+12.
+
+13.
+
+Campbell, P.D., “Recommendations for Exploration spacecraft
+Internal Atmospheres: The Final Report of the NASA Exploration Atmospheres Working Group,” JSC–63309, (January
+2006).
+Lewis, J.F, Barido, R.A, and Tuan, G. “Crew Exploration
+Vehicle Environmental Control and Life Support Fire Protection
+Approach,” International Conference on Environmental Systems, SAE 2007–01–3255, July 2007.
+“Flammability, Odor, Offgassing, and Compatibility Requirements and Test Procedures for Materials in Environments that
+Support Combustion,” NASA STD 6001, Test 1, Upward Flame
+Propagation, (formerly NHB 8060.1C), February 9, 1998.
+Hirsch, D.B, and Beeson, H.D., “Improved Test method to
+Determine Flammability of Aerospace Materials,” Halon Options Technical Working Conference, April 2001.
+Hirsch, D.B., and Beeson, H.D. “Test Method to Determine
+Flammability of Aerospace Materials,” Journal of Testing and
+Evaluation, vol. 30, issue 2, (4 pages), March 2002.
+Hirsch, D.B, Williams, J.H, Harper, S.A., Beeson, H., and
+Pedley, M.D.; “Oxygen Concentration Flammability Thresholds
+of Selected Aerospace Materials considered for the Constellation Program,” Second IAASS Conference: Space Safety in a
+Global World, Chicago, IL, May 2007.
+Hirsch, D.B, Williams, J., and Beeson, H.; “Pressure Effects on
+Oxygen Concentration Flammability Thresholds of Polymeric
+Materials for Aerospace Applications,” Journal of Testing and
+Evaluation, vol. 36, issue 1, pp. 69–72. NASA Document ID
+20070018178, 2008.
+Hirsch, D.B., NASA-WSTF, personal communication.
+Olson, S.L., Combustion Science and Technology, vol. 76 nos.
+4-6, pp. 233–249, 1991.
+Klimek, R. and Wright, T., Spotlight image analysis software,
+http://microgravity.grc.nasa.gov/spotlight/, 2005.
+Sauers, D.G.; “The Effects of Forced Air Flow and Oxygen
+Concentration on Flammability, Smoke Density, and Pyrolytic
+Toxicity,” J. Fire Flammability, vol. 7, pp. 181–199, 1976.
+Olson, S.L, and Miller, F.J. “Experimental Comparison of
+Opposed and Concurrent Flame Spread in a Forced Convective
+Microgravity Environment,” submitted to the Proc. Comb. Inst
+32, 2008.
+Magee, R.S. and McAlevy III, R.F., J. Fire & Flammability, vol.
+2, pp. 271–297, 1971.
+
+NASA/TM—2008-215260
+
+Nomenclature
+1g
+0g
+CEV
+CxP
+EVA
+ISS
+LOI
+M&P
+MOC
+NASA
+PEI
+ULOI
+WSTF
+ΔO2%0g–1g
+
+8
+
+normal gravity
+microgravity
+Crew Exploration Vehicle
+Constellation Program
+Extra Vehicular Activity
+International Space Station
+limiting oxygen index (downward or opposed)
+NASA Materials and Processes
+maximum oxygen concentration at extinction
+National Aeronautics and Space Administration
+polyetherimide
+upward limiting oxygen index (burning)
+White Sands Test Facility
+the difference between the 0g mean flammability limit and the 1g mean flammability limit,
+see eq. (1).
+
+Form Approved
+OMB No. 0704-0188
+
+REPORT DOCUMENTATION PAGE
+
+The public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the
+data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this
+burden, to Department of Defense, Washington Headquarters Services, Directorate for Information Operations and Reports (0704-0188), 1215 Jefferson Davis Highway, Suite 1204, Arlington, VA 22202-4302.
+Respondents should be aware that notwithstanding any other provision of law, no person shall be subject to any penalty for failing to comply with a collection of information if it does not display a currently valid OMB
+control number.
+PLEASE DO NOT RETURN YOUR FORM TO THE ABOVE ADDRESS.
+
+1. REPORT DATE (DD-MM-YYYY)
+
+2. REPORT TYPE
+
+01-08-2008
+
+Technical Memorandum
+
+3. DATES COVERED (From - To)
+5a. CONTRACT NUMBER
+
+4. TITLE AND SUBTITLE
+
+Microgravity Flame Spread in Exploration Atmospheres: Pressure, Oxygen, and Velocity
+Effects on Opposed and Concurrent Flame Spread
+
+5b. GRANT NUMBER
+5c. PROGRAM ELEMENT NUMBER
+5d. PROJECT NUMBER
+
+6. AUTHOR(S)
+
+Olson, Sandra, L.; Ruff, Gary, A.; Miller, Fletcher, J.
+5e. TASK NUMBER
+5f. WORK UNIT NUMBER
+
+WBS 344397.04.01.03
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)
+
+8. PERFORMING ORGANIZATION
+REPORT NUMBER
+
+National Aeronautics and Space Administration
+John H. Glenn Research Center at Lewis Field
+Cleveland, Ohio 44135-3191
+
+E-16527
+
+9. SPONSORING/MONITORING AGENCY NAME(S) AND ADDRESS(ES)
+
+10. SPONSORING/MONITORS
+ACRONYM(S)
+
+National Aeronautics and Space Administration
+Washington, DC 20546-0001
+
+NASA
+11. SPONSORING/MONITORING
+REPORT NUMBER
+
+NASA/TM-2008-215260; 2008-01-2005
+12. DISTRIBUTION/AVAILABILITY STATEMENT
+
+Unclassified-Unlimited
+Subject Categories: 27, 54, 16 and 34
+Available electronically at http://gltrs.grc.nasa.gov
+This publication is available from the NASA Center for AeroSpace Information, 301-621-0390
+13. SUPPLEMENTARY NOTES
+
+14. ABSTRACT
+
+Microgravity tests of flammability and flame spread were performed in a low-speed flow tunnel to simulate spacecraft ventilation flows.
+Three thin fuels were tested for flammability (Ultem 1000 (General Electric Company), 10 mil film, Nomex (Dupont) HT90-40, and Mylar
+G (Dupont) and one fuel for flame spread testing (Kimwipes (Kimberly-Clark Worldwide, Inc.). The 1g Upward Limiting Oxygen Index
+(ULOI) and 1g Maximum Oxygen Concentration (MOC) are found to be greater than those in 0g, by up to 4% oxygen mole fraction,
+meaning that the fuels burned in 0g at lower oxygen concentrations than they did using the NASA Standard 6001 Test 1 protocol. Flame
+spread tests with Kimwipes were used to develop correlations that capture the effects of flow velocity, oxygen concentration, and pressure
+on flame spread rate. These correlations were used to determine that over virtually the entire range of spacecraft atmospheres and flow
+conditions, the opposed spread is faster, especially for normoxic atmospheres. The correlations were also compared with 1g MOC for
+various materials as a function of pressure and oxygen. The lines of constant opposed flow agreed best with the 1g MOC trends, which
+indicates that Test 1 limits are essentially dictated by the critical heat flux for ignition. Further evaluation of these and other materials is
+continuing to better understand the 0g flammability of materials and its effect on the oxygen margin of safety.
+15. SUBJECT TERMS
+
+Flame; Oxygen; Pressure; Microgravity
+16. SECURITY CLASSIFICATION OF:
+a. REPORT
+
+b. ABSTRACT
+
+U
+
+U
+
+17. LIMITATION OF
+ABSTRACT
+c. THIS
+PAGE
+
+U
+
+UU
+
+18. NUMBER
+OF
+PAGES
+
+14
+
+19a. NAME OF RESPONSIBLE PERSON
+
+STI Help Desk (email:help@sti.nasa.gov)
+19b. TELEPHONE NUMBER (include area code)
+
+301-621-0390
+Standard Form 298 (Rev. 8-98)
+Prescribed by ANSI Std. Z39-18
+

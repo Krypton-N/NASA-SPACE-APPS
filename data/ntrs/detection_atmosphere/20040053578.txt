@@ -1,0 +1,323 @@
+“SMOKE:” CHARACTERIZATION OF SMOKE PARTICULATE FOR
+SPACECRAFT FIRE DETECTION
+David L. Urban
+NASA Glenn Research Center, Cleveland OH
+George W. Mulholland, Jiann Yang, Thomas G. Cleary
+National Institute for Standards and Technology, Gaithersburg, MD
+Zeng-guang Yuan
+National Center for Microgravity Research in Fluids and Combustion, Cleveland, OH
+
+INTRODUCTION
+The “Smoke” experiment is a flight definition investigation that seeks to increase our
+understanding of spacecraft fire detection through measurements of particulate size distributions
+of preignition smokes from typical spacecraft materials. Owing to the catastrophic risk posed by
+even a very small fire in a spacecraft, the design goal for spacecraft fire detection is to detect the
+fire as quickly as possible, preferably in the preignition phase before a real flaming fire has
+developed. Consequently the target smoke for detection is typically not soot (typical of
+established hydrocarbon fires) but instead, pyrolysis products, and recondensed polymer particles.
+At the same time, false alarms are extremely costly as the crew and the ground team must respond
+quickly to every alarm. The U.S. Space Shuttle (STS: Space Transportation System) and the
+International Space Station (ISS) both use smoke detection as the primary means of fire detection.
+These two systems were designed in the absence of any data concerning low-gravity smoke
+particle (and background dust) size distributions. The STS system uses an ionization detector
+coupled with a sampling pump and the ISS system is a forward light scattering detector operating
+in the near IR. These two systems have significantly different sensitivities with the ionization
+detector being most sensitive (on a mass concentration basis) to smaller particulate and the light
+scattering detector being most sensitive to particulate that is larger than 1 micron. Since any
+smoke detection system has inherent size sensitivity characteristics, proper design of future smoke
+detection systems will require an understanding of the background and alarm particle size
+distributions that can be expected in a space environment.
+Prior studies of spacecraft aerosol particulate include (Urban et al. 1997 and Liu et al. 1991).
+Urban et al. (1997) measured the STS and ISS detector response to various smoke particulate
+sources. In general the size of the smoke particulate was found to be larger in low gravity and the
+apparent size of the particles in smokes where the particulate was primarily liquid drops was
+found to increase to the point that the STS detector was essentially unable to detect the smoke.
+Liu et al. (1991) measured the mass concentration and particle size distribution of the cabin air on
+one shuttle flight. Two particle size distributions were measured and were found to have the mass
+median particle size greater than 100 microns. This is to be compared with their values of about 1
+µm to 3 µm for ambient aerosols. The large difference results from the larger particles rapidly
+settling out at 1 g. The mass concentration of the particulate was found to be approximately 55
+µg/m3 in the shuttle, versus 11 µg/m3 for 1-g ambient conditions.
+The ideal approach would be to obtain complete particle size distributions for all of the
+smokes of interest. Unfortunately, the instruments that provide data of this type (classifiers or
+
+NASA/CP—2003-212376/REV1
+
+269
+
+impactors) are unsuited for spaceflight experiments either because they are too large or cannot
+provide real time measurements. The Smoke experiment seeks to work around this problem by
+measuring three moments of the particle size distribution using instruments that are adaptable to
+space experimentation. This paper discusses progress toward development of the flight
+experiment. Progress in the moment method is described below in the first section of this paper.
+This is followed by the results of detailed characterization of the ISS and STS smoke detectors.
+Design of the space experiment and generalization of the results requires understanding of the
+smoke growth process. To develop a predictive understanding of the aerosol growth process, a
+model is being developed by extending the NIST FDS (Fire Dynamics Simulator) program to
+model the smoke particle growth process. This work is discussed in the final section below.
+MOMENT METHOD DEVELOPMENT
+As discussed in more detail by Cleary et al (2001), 5 test smokes were studied using
+instruments capable of measuring the zeroth, first and third moments. Specifically, the zeroth
+moment was measured using a condensation particle counter (CPC), the first moment by a
+measuring ionization counter (MIC) and the third moment by a taper element oscillating
+microbalance (TEOM). Similar instruments are planned for the smoke experiment for the zeroth
+and third moments and the third moment will be measured using a light scattering measurement.
+Figure 1 presents the size distributions for these smokes (determined using a cascade impactor).
+The slope of the points on the plot increase with the geometric standard deviation. The slopes are
+very similar with the toast having the lowest slope and therefore the narrowest size distribution.
+Assuming a log-normal size distribution, the three moments can be used to calculate the
+geometric standard deviation and the diameter of average mass (Hinds 1999). Assuming unit
+density spherical particles, the Hatch-Choate relationships can be used to estimate the Mass
+Median Aerodynamic Diameter (MMAD) which can be compared to the MMAD determined from
+the impactor data. The results of this comparison can be seen in Table 1. The comparison is very
+good for the Cotton Wick, Wood and Corn Oil and reasonably close for the polyurethane smoke.
+In the case of the toast, there was no solution because the count mean diameter was larger than
+the diameter of average mass which suggests a problem with the measurement system since the
+moment average should increase with the moment (for the same distribution). In general these
+results suggest that the moment method can be used to develop a summary description of the
+particle size distribution.
+SMOKE DETECTOR CHARACTERIZATION
+To characterize the comparative performance of the STS and ISS detectors, the detectors
+were exposed to Monodisperse dioctyl phthalate (DOP) aerosols generated using the procedure
+discussed by Mulholland and Liu (1980). The system is able to develop mono-disperse aerosols
+with sizes ranging from 0.056 to 1.34 µm although the number concentration decreases strongly
+with particle size. The results are presented in figures 2-4. The response of the two detector
+types is consistent with their design. The STS ionization detector is most affected by changes in
+the number concentration but also shows increasing sensitivity as the particle size increases. The
+ISS light scattering device, which basically responds to mass concentration, is very strongly
+affected by the particle size for particle sizes less than 1 µm. Thus, it is able to detect the largest
+particles even though the number concentration is low.
+
+NASA/CP—2003-212376/REV1
+
+270
+
+AEROSOL DYNAMICS MODELING
+The modeling effort is based on the NIST Fire Dynamics Simulator (FDS, version 2), which is
+a CFD code with LES (large eddy simulation) and DNS (direct numerical simulation) options.
+The code was modified to include homogeneous nucleation and growth to model aerosol
+dynamics that includes two-phase, momentum, heat and mass transfer. The computational
+procedure can be briefly summarized as follows. The velocity, temperature, and concentration
+fields are first determined using DNS mode of the modified code. The saturation ratio field is
+then computed. Homogeneous nucleation (in this case, condensation) occurs when a critical
+saturation ratio is reached. Nucleation is modeled using classical homogeneous nucleation theory.
+The aerosol diameter at nucleation is then calculated, and condensation growth follows and is
+assumed to be diffusion-limited. Coagulation and agglomeration are not considered in the model.
+The flow fields are then corrected for interfacial momentum, heat and mass transfer. Droplet
+number density, size distribution, and the moments are then computed in each grid cell.
+Figures 5 and 6 show graphical representations of the results from a simulation. The
+computational domain, which simulates a flow duct, is 0.2 m in length with a cross section of
+0.028 m by 0.028 m. The solid block in the figures simulates an aerosol generator with dibutyl
+phthalate (DBT) vapor being ejected from four sides (except the two ends). The generator is
+located 0.05 m downstream from the inlet. A vapor mass flux of 8.55 × 10-4 kg/s m2 at 200 °C
+was used in the simulation. The inlet air velocity was set at 0.05 m/s and 25 °C. The calculations
+were performed using zero gravity and an ambient temperature of 25 °C. In this particular case,
+31 x 31 x 700 grids were used in the simulation to ensure convergence. These results are very
+promising and our current main effort focuses on the validation and improvement of the aerosol
+dynamics model.
+REFERENCES
+Cleary, T.G., Weinert, D.W. and Mulholland, G.W. 2003. “Moment Method for Obtaining
+Particle Size Measures of Test Smokes,” NISTIR, in press.
+Hinds, W.C., 1999. Particle Technology, Wiley-Interscience, New York.
+Liu, B.Y.H., Rubow, K.L., McMurray, P.H., Kotz, T.J., and Russo, D. 1991. “Airborne
+Particulate Matter and Spacecraft Internal Environments”, SAE paper 911476, 21st Conference
+on Environmental Systems, San Francisco, CA, July 15-18.
+Mulholland, G.W. and Liu, B.Y.H, 1980. “Response of Smoke Detectors to Monodisperse
+Aerosols, Journal of Research of the National Bureau of Standards, V 85, p 223- 238.
+Urban, D. L., D. W. Griffin and M.Y. Gard, 1997, Proceedings of the USML-2 and USMP-3
+Joint Launch plus 1 Year Conference, National Academy of Science, Washington D.C. February.
+Table 1. Comparison of Mass Median Aerodynamic
+from impactor data
+Smoke
+Mean D30
+Mean σg
+(µm)
+Cotton Wick
+0.24
+1.4
+PU foam
+1.0
+1.6
+Wood
+0.53
+2.25
+Corn Oil
+0.50
+2.5
+Toast
+0.32
+invalid
+
+NASA/CP—2003-212376/REV1
+
+Diameter predicted from moment measurements with that
+Predicted MMAD
+(µm)
+0.28
+1.4
+1.4
+1.8
+invalid
+
+271
+
+Impactor MMAD
+(µm)
+0.31
+2.0
+1.5
+1.6
+0.43
+
+σg
+1.7
+1.6
+1.9
+2.2
+1.6
+
+Shuttle Smoke Detector
+
+Detector Output (volts)
+
+5.16
+
+Mass Mean Diameter
+0.056 µm
+0.17 µm
+0.26 µm
+0.41 µm
+0.53 µm
+
+5.18
+5.2
+5.22
+5.24
+5.26
+5.28
+5.3
+5.32 0
+0 10
+
+2 10
+
+5
+
+4 10
+
+5
+
+6 10
+
+5
+
+5
+
+8 10
+
+1 10
+
+6
+
+3
+
+Number Concentration (particles/cm )
+
+Figure 1. Temperature profile at the mid-plane at 2
+s.
+
+Figure 2. STS detector output versus number
+concentration.
+
+ISS Smoke Detector
+
+ISS Smoke Detector
+-6
+
+Mass Mean Diameter
+
+-5
+
+Detector Output (volts)
+
+Detector Output (volts)
+
+-6
+
+0.056 µm
+0.17 µm
+0.41µm
+0.53 µm
+
+-4
+-3
+-2
+-1
+0
+
+-5
+-4
+-3
+Mass Mean Diameter
+0.88 µm
+1.16 µm
+1.19 µm
+1.34 µm
+
+-2
+-1
+0
+
+5
+
+5
+
+5
+
+5
+
+4 10
+6 10
+8 10
+1 10
+2 10
+3
+Number Concentration (particles/cm )
+
+6
+
+3
+
+Figure 3.
+ISS detector output versus number
+concentration for droplets from 0.056 to 0.53 µm.
+
+4
+
+4
+
+4
+
+Figure 4.
+ISS detector output versus number
+concentration for droplets from 0.88 to 1.34 µm.
+
+Figure 5. Temperature profile at the mid-plane at 2
+s.
+
+NASA/CP—2003-212376/REV1
+
+3
+
+8 10
+1.2 10 1.6 10
+2 10
+4 10
+3
+Number Concentration (particles/cm )
+
+Figure 6. Mass fraction profile of DBT vapor at the
+mid-plane at 2 s
+
+272
+

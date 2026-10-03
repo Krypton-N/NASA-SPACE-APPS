@@ -1,0 +1,939 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="pdf:PDFVersion" content="1.6">
+<meta name="xmp:CreatorTool" content="Acrobat PDFMaker 24 for Word">
+<meta name="Company" content="NASA OCIO">
+<meta name="pdf:hasXFA" content="false">
+<meta name="access_permission:modify_annotations" content="true">
+<meta name="access_permission:can_print_degraded" content="true">
+<meta name="dc:creator" content="Abney, Morgan B. (MSFC-C104)">
+<meta name="ContentTypeId" content="0x0101000A1FC524DE626945983D967909CCFE08">
+<meta name="dcterms:created" content="2026-04-30T16:58:07Z">
+<meta name="dcterms:modified" content="2026-04-30T16:58:12Z">
+<meta name="dc:format" content="application/pdf; version=1.6">
+<meta name="xmpMM:DocumentID" content="uuid:b1e2dacf-8464-4124-bbbd-cd0322d52d07">
+<meta name="pdf:docinfo:creator_tool" content="Acrobat PDFMaker 24 for Word">
+<meta name="access_permission:fill_in_form" content="true">
+<meta name="pdf:docinfo:modified" content="2026-04-30T16:58:12Z">
+<meta name="pdf:hasCollection" content="false">
+<meta name="pdf:encrypted" content="false">
+<meta name="xmp:CreateDate" content="2026-04-30T11:58:07Z">
+<meta name="pdf:docinfo:custom:SourceModified" content="D:20260430163552">
+<meta name="pdf:hasMarkedContent" content="true">
+<meta name="Content-Type-Override" content="application/pdf">
+<meta name="Content-Type" content="application/pdf">
+<meta name="xmp:ModifyDate" content="2026-04-30T11:58:12Z">
+<meta name="pdf:docinfo:creator" content="Abney, Morgan B. (MSFC-C104)">
+<meta name="xmp:MetadataDate" content="2026-04-30T11:58:12Z">
+<meta name="dc:language" content="EN-US">
+<meta name="pdf:producer" content="Adobe PDF Library 24.1.157">
+<meta name="access_permission:extract_for_accessibility" content="true">
+<meta name="access_permission:assemble_document" content="true">
+<meta name="xmpTPg:NPages" content="12">
+<meta name="pdf:hasXMP" content="true">
+<meta name="access_permission:extract_content" content="true">
+<meta name="pdf:docinfo:custom:Company" content="NASA OCIO">
+<meta name="access_permission:can_print" content="true">
+<meta name="pdf:docinfo:custom:ContentTypeId" content="0x0101000A1FC524DE626945983D967909CCFE08">
+<meta name="SourceModified" content="D:20260430163552">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.DefaultParser">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.pdf.PDFParser">
+<meta name="access_permission:can_modify" content="true">
+<meta name="pdf:docinfo:producer" content="Adobe PDF Library 24.1.157">
+<meta name="pdf:docinfo:created" content="2026-04-30T16:58:07Z">
+<title></title>
+</head>
+<body><div class="page"><p></p>
+<p>55th International Conference on Environmental Systems ICES-2026-18 
+12-16 July 2026, Rio Grande, Puerto Rico 
+ 
+</p>
+<p> 
+</p>
+<p>Risks of Depress as a Fire Suppression Technique in 
+Spacecraft 
+</p>
+<p>Toni Griego1 
+Amentum, Houston, TX 77058 
+</p>
+<p>Alfredo Juarez2 and Brent Woods3 
+Sierra Lobo, Las Cruces, NM 88012 
+</p>
+<p>Ilse Reyes4 and Susana Harper5 
+NASA White Sands Test Facility, Las Cruces, NM 88012 
+</p>
+<p>Alma Stephanie Tapia6 
+NASA Johnson Space Center, Houston, TX 77058 
+</p>
+<p>Morgan B. Abney7 
+NASA Engineering and Safety Center, Hampton, VA 23666 
+</p>
+<p>and 
+</p>
+<p>David Urban8 
+NASA Glenn Research Center, Cleveland, OH 44135 
+</p>
+<p>Spacecraft are designed to prevent fires through careful material selection and 
+configuration control combined with electrical design controls and isolation of ignition 
+sources. Despite these best efforts, fire risk still exists due to the potential for configuration 
+changes with the introduction of crew and the potential for a ‘failure of imagination’ by 
+designers in anticipating all fuel and ignition sources. Therefore, fire suppression is a critical 
+capability for any crewed spacecraft as a last resort for crew survival. Many spacecraft 
+suppression methods have relied on fire suppressants such as compressed carbon dioxide, 
+nitrogen, and water. A proposed alternative is depressurization of the cabin as a method to 
+extinguish a fire. Limited testing was conducted during Skylab and showed that depress could 
+result in stirring the air flow and aggravating a fire before extinguishing. However, limited 
+information was available on how the test was conducted. To better characterize the approach, 
+testing was conducted at NASA’s White Sands Test Facility to evaluate the effect of 
+depressurization on material extinguishment. The results showed that depressurization does 
+not provide a safe and effective fire suppression capability. The testing approach, results, and 
+conclusions are described and discussed.   
+</p>
+<p>Acronyms and Nomenclature 
+A = Chimney Cross Sectional Area 
+ABS = Acrylonitrile Butadiene Styrene 
+Atm = Pressure in Atmosphere 
+</p>
+<p> 
+1Materials and Processes Engineer, Amentum, JE25, NASA JETS2 Contract, 2224 Bay Area Blvd, Houston, TX. 
+2 Flight Acceptance Standard Test and Oxygen Hazards Branch Manager, WSTF MT2, Mail Stop: Bldg 800, Las Cruces, NM. 
+3 Test Coordinator, Flight Acceptance Standard Testing, WSTF, Bldg 120, 12600 NASA Rd., Las Cruces, NM. 
+4 Project Manager, Materials and Components Laboratories Department, Mail Stop: RF, 12600 NASA Rd., Las Cruces, NM. 
+5 Flammability and Toxicity Test Manager, Mail Stop: RF, 12600 NASA Rd., Las Cruces, NM. 
+6 Acting Cis-Lunar Cross Program M&amp;P System Manager, Mail Stop ES4, 2101 NASA Pkwy, Houston, TX. 
+7 NASA ECLSS Technical Fellow, MSFC Bldg 4203, Room 5407B, Mail Stop: C104, Huntsville, AL. 
+8 Branch Chief, Low gravity Exploration Technology (LXT), MS 77-5, 21000 Brookpark Rd. Cleveland, OH. </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>2 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>CFD = Computational Fluid Dynamics 
+ECLSS = Environmental Control and Life Support Systems 
+kPa = Pressure in Kilopascals 
+M&amp;P = Materials and Processes 
+P = Chamber Pressure 
+PMMA = Poly (methyl methacrylate) 
+psia = Pressure in Pounds per Square Inch Absolute 
+PTFE = Polytetrafluoroethylene 
+scfm = Standard Cubic Feet per Minute 
+v1 = Velocity through Chimney 
+V2 = Flow Rate to Vacuum Chamber 
+</p>
+<p> 
+</p>
+<p>I. Introduction 
+PACE vehicle designs typically prevent fires through careful material selection, ignition source isolation, and 
+providing effective fire detection and suppression. Designing for fire control in addition to designing for 
+</p>
+<p>prevention is considered a baseline in human-rated spacecraft because there is always residual risk of a fire. Gateway 
+requirements, as documented in GP10004 Gateway Program Subsystem Specification for the Environmental Control 
+and Life Support System (ECLSS) allow taking exception to fixed fire suppression and detection if an alternate 
+depressurization approach is implemented as outlined in GP 10004 ECLSS-BP-0002 Fire Suppression. This approach 
+describes a venting implementation in which the cabin is backfilled with nitrogen to lower oxygen concentration below 
+flammability levels. This approach involves venting as a means of fire suppression, therefore not requiring a fixed fire 
+suppression system.  
+ Current ECLSS-BP-0002 requirements specify that fire mitigation response should extinguish a fire within 
+minutes by depressurizing the vehicle to 4 psia (27.6 kPa) to reduce the oxygen partial pressure prior to backfilling 
+with nitrogen gas. Venting performance reported by module designers shows it would take an order of magnitude 
+more time to vent the cabin to 4 psia. This is more representative of a fire response using depressurization only, rather 
+than the recommended depressurization along with nitrogen backfill. Due to limited historical test data on the 
+effectiveness of depressurization as a mitigation strategy for fire suppression evaluated during the Skylab program, a 
+need was seen by NASA Johnson Space Center Gateway Materials &amp; Processes (M&amp;P) to test material flammability 
+response to fire suppression by depressurization in the Gateway 30% maximum expected oxygen environment. 
+</p>
+<p>II. Background 
+Despite being commonly listed as the last resort fire suppression approach, fire extinguishment by cabin venting 
+</p>
+<p>has received very little study. This is partly because the process takes longer than any ground-based or suborbital 
+facility can offer due to the real challenges raised by any system to provide rapid venting. Challenges  posed by venting 
+include: air movement induced by the venting process can increase fire damage until fire extinguishment is achieved; 
+hardware and systems need to be certified to survive vacuum; crew evacuation is required; potential exterior damage 
+to the spacecraft from evacuated particulate; risk of foreign object damage from the venting process to the vent valve 
+(critical to spacecraft integrity); weight and volume penalty of  the large valve needed to vent quickly; and in vacuum, 
+materials will cool slowly so reentry may be delayed.  
+</p>
+<p>The early work of Kimzey on Skylab [1] and [2],  included testing venting as a means of extinguishment of several 
+materials. Six different materials (aluminized mylar, nylon, neoprene coated nylon fabric, polyurethane foam, paper 
+and Polytetrafluoroethylene (PTFE)) were tested in multiple configurations. For each material, one test attempted to 
+extinguish the sample by venting the chamber. The documented results identify that paper, neoprene-coated nylon 
+fabric, and polyurethane foam samples all flared up significantly. Other tests performed were considered invalid as 
+the PTFE and nylon samples had ignition difficulties and the mylar sample may not have been vented. The tests were 
+conducted in a 41 liter chamber in the Skylab atmosphere of 65% oxygen and 5.2 psia (35.9 kPa). There is no record 
+of the venting rate used in the evaluation or the pressure where extinguishment was achieved, however it was observed 
+that there was a substantial difference between the slow flame spread under quiescent conditions and the rapid flame 
+spread that was observed during depressurization venting.  
+</p>
+<p>S </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>3 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>Goldmeer [3] and Goldmeer et al. [4] 
+conducted a numerical assessment combined 
+with testing in 1-g and in a parabolic aircraft. 
+The overall literature on the impact of pressure 
+on flame spread and growth is also covered in 
+this assessment. The test materials were 
+Poly(methyl methacrylate) (PMMA) cylinders 
+2.54 cm long and most were 1.9 cm in diameter. 
+The extinguishment pressure in low gravity was 
+found to be strongly influenced by the amount 
+of preheating (represented by the centerline 
+temperature) the sample had received. Cold 
+samples extinguished more easily at pressures 
+near 0.25 Atmospheres (Atm) (3.675 psia, 25.3 
+kPa) but samples with more residual heat from 
+a longer burn duration survived to less than 0.1 
+Atm (1.47 psia, 10.03 kPa), as shown in Figure 
+1. These results indicate that rapid venting is 
+necessary to assure extinction. If venting is conducted more slowly, the venting process supports enhanced flame 
+growth which heats the solid further, thereby lowering the extinction pressure. Goldmeer [3] also estimated the venting 
+induced velocities, and for a given vehicle volume and vent design, a wide range of velocities were predicted based 
+on the distance from the vent. Additional variations would also be expected due to varied cabin internal layouts and 
+hardware. Programs such as Gateway have considered partial venting followed by backfill with nitrogen to produce a 
+hypoxic environment (O2 concentration less than 14%) which was believed not to sustain a fire [GP 10004]. However, 
+the potential advantage with this approach may not outweigh the risk since although the venting time is shortened, it 
+is still significant when combined with the time it takes to backfill with nitrogen to ensure extinguishment. 
+Additionally, the proposed backfill of nitrogen in [GP 10004] occurs after depressurization to 4.0 psia (27.6 kPa). 
+Based on an initial atmosphere of 30% oxygen, repressurization to 10.2 psia (70.3 kPa) with nitrogen would yield 
+</p>
+<p>approximately 11.7% oxygen. Previously unpublished  testing 
+(Table 1 was performed at White Sands Test Facility (WSTF) 
+to determine how low oxygen concentrations would need to be 
+to extinguish certain materials. The testing was performed 
+with Beefy T cotton t-shirt material and nylon lacing tape in a 
+ISO 4589-4 Test apparatus modified to operate in sub ambient 
+pressures. A flame was established on the material with an 
+environmental condition of 14.7 psia, 24% O2 and balance of 
+nitrogen. Nitrogen was then introduced until the targeted lower 
+oxygen concentration was achieved. The test was repeated 
+with new samples for each target oxygen concentration until 
+extinguishment was observed. Oxygen was reintroduced after 
+a predetermined dwell time to understand reigntion. The test 
+</p>
+<p>showed that common cabin materials continue to burn down to 11% oxygen with a balance of nitrogen, meaning that 
+achieving 11.7% O2  for Gateway would be at risk of not being an effective method of fire suppression even if 
+implemented per the guidance provided. Other programs may propose similar mitigation strategies that involve 
+depressurization, possibly combined with a nitrogen backfill, to achieve extinguishment. This study sought to expand 
+on previous WSTF testing by characterizing the effects of depressurization as a fire suppression method.  
+</p>
+<p>III. Materials and Methods 
+To better understand the behavior of a fire during depressurization, a series of tests were performed using the 
+</p>
+<p>NASA-STD-6001 [5] Test 1 upward propagation test configuration. Two primary test configurations were used to 
+explore the differences between maximum velocity gas flow and variable cabin flow on the test sample within the 
+chamber. Varying flow rates were used to understand fire behavior based on test equipment capability. The same 
+material was placed at three different locations within the test chamber to demonstrate how flow rate can vary with 
+distance from the depressurization valve. To standardize the test approach, the test environment was maintained at 
+30% oxygen and 14.7 psia (101.35 kPa) for all tests. 
+</p>
+<p>Table 1. Fire Suppression System 
+Extinguishment Limits 
+</p>
+<p> 
+</p>
+<p> 
+Figure 1. Predicted Extinction and Experimental 
+</p>
+<p>Extinction at 10 cm/s Constant Forced Air Flow Goldmeer 4 </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>4 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>A. Preliminary Studies 
+It is well understood that fires 
+</p>
+<p>extinguish via two different 
+phenomena: either due to high flow 
+velocity (e.g. blowing out a birthday 
+candle), shown in the orange blow off 
+region; or due to radiative heat loss, 
+shown in the blue quench region of 
+Figure 2. Because the intent of this 
+depressurization evaluation was to 
+determine if materials would extinguish 
+due to lack of oxygen availability, it was 
+important to first select materials that 
+had high blow off velocities for this 
+evaluation. Materials with high blow off 
+velocities will continue to burn despite 
+turbulent flows during depressurization 
+until sufficient oxygen is removed to 
+induce extinguishment.    
+</p>
+<p>Preliminary tests were performed on 
+different materials to aid in the selection 
+of best test materials by characterizing blowoff velocities required for each material.  
+</p>
+<p>Figure 3 shows different materials evaluated during the initial test series. Linear behavior was assumed at higher 
+velocities and utilized a modified ISO 4589-4 (High Velocity Oxygen Index) test apparatus. Modifications allowed 
+for concurrent, automated ignition of samples within a closed chamber in order to control pressure. These preliminary 
+tests showed that extinguishment as a result of high flow blowoff was not expected to occur in 30% oxygen until flows 
+</p>
+<p> 
+Figure 3. Blowoff Velocity as a Function of Oxygen Concentration for Different Materials Dash lines are 
+</p>
+<p>fitted to data (shown as dots) and extrapolated. 
+ 
+</p>
+<p> 
+Figure 2. Bass-II Experimentally Measured Flammability 
+</p>
+<p>Boundary for PMMA Rods, Forced Flow. [6] </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>5 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>exceeding 4 m/s were achieved for cotton t-shirt materials (Hanes Beefy T). As expected, lower flows in the range of 
+1.5 m/s could be effective for materials like Kevlar. 
+</p>
+<p>Other “middle ground” materials evaluated (polycarbonate, PMMA and Acrylonitrile Butadiene Styrene (ABS)) 
+required flows between 3 m/s and 3.75 m/s in order to achieve blow off extinguishment. These preliminary tests show 
+velocities required to extinguish a fire for each material based on velocities measured between the test chamber and 
+the vacuum reservoir chamber. The test setup is similar to that used in this test series as outlined in Section C. 
+Preliminary tests indicated PMMA continues to propagate despite flows in excess of 3.5 m/s in 30% oxygen. Using 
+materials with high blow off velocities provide a challenge to rapid depressurization as an extinguishment method 
+</p>
+<p>B. Materials 
+To develop a standard 
+</p>
+<p>approach of testing the 
+effects of depressurization 
+on a fire, three materials 
+were selected as outlined in 
+Table 2. The first, cotton t-
+shirt (Beefy-T), is a 
+commonly used material that does not pass NASA-STD-6001 Test 1 requirements at 24% oxygen. Nomex was 
+selected as a high performing self-extinguishing material with respect to flammability, meeting NASA-STD-6001 
+Test 1 requirements at 30% in the “J” configuration. The “J” configuration is a surface ignition test where the sample 
+is placed in a “J” position with the ignitor at the bottom of the curve as compared to the standard edge ignition 
+configuration used for NASA-STD-6001 Test 1. This configuration is a modification conducted on the material 
+surface rather than using edge ignition. For the purpose of this test, both configurations were used to ensure stable 
+ignition so that the depressurization method could be assessed ABS was selected due to its strong flame characteristics 
+and high blow off velocities. This material was most representative of a stable fire that would not be blown off due to 
+turbulence which would allow a best assessment of the reaction time required to reach extinguishment due to oxygen 
+starvation during chamber depressurization.  
+</p>
+<p>All three materials were first tested with no depressurization to establish the baseline behavior of each material in 
+a NASA-STD-6001 test 1 configuration at 30% oxygen and 14.7 psia (101.35 kPa) so that the flammability properties 
+of the material due to depressurization of the test chamber could be compared to standard flammability properties.  
+</p>
+<p>C. Test Methodology  
+Testing for each of the configurations commenced with the evacuation of both chambers through the larger vacuum 
+</p>
+<p>reservoir chamber via vacuum roughing pump to approximately 0.08 psia (0.5 kPa). The vacuum pump tank isolation 
+valves were then closed, and a premixed nitrox mixture of 30% oxygen was back filled into the test chamber to a 
+pressure of 14.7 psia (101.35 kPa). Ignition of the test samples was initiated by applying 15 Amps to NASA-STD-
+6001 ignitors, helically wrapped within 20-gauge nichrome wire. Samples were allowed to burn long enough to ensure 
+full ignition of the bottom edge or across the full sample width prior to initiation of test chamber depressurization to 
+maintain consistency with NASA-STD-6001 Test 1. Full ignition was achieved at different rates for each material, 
+therefore all tests for a single material were given the same amount of time to minimize the variation in thermal affects 
+observed by Goldmeer. Pressure within the test chamber was captured during the test via a pressure readout on the 
+test video. Samples were allowed to burn until either the sample was fully consumed or extinguished. Pressure of both 
+chambers and velocity measurements within the  2-inch (5 cm) vent line were collected throughout the duration of the 
+test.  
+</p>
+<p>Two pressurized chambers were used to demonstrate the effects of depressurization on an open flame. A test 
+chamber, 1.13 m3, housed test samples at an initial pressure of 14.7 psia (101.35 kPa). A larger chamber, 8.13 m3, was 
+used as the vacuum reservoir for this demonstration as depicted in Figure 4. The larger chamber is the largest 
+flammability chamber at WSTF and was used as a source to ensure rapid, repeatable depressurization as opposed to 
+relying solely on a vacuum pump.  
+</p>
+<p>Table 2. Materials Used in Depressurization Extinguishment Testing  
+Material Source Thickness 
+</p>
+<p>(in/cm) 
+Nomex IIIA, Orange  Manufactured by Dupont 0.02/0.05 
+Cotton t-shirt (Beefy-T) Manufactured by Hanes 0.02/0.05 
+Acrylonitrile Butadiene Styrene 
+(ABS) 
+</p>
+<p>Procured from McMaster-Carr 0.065/0.165 
+</p>
+<p> </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>6 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>Two valves were placed between the two chambers to control gas flow and initiate depressurization of the test 
+chamber separately. A 2-inch (5 cm) gate valve, 
+or metering valve, was manually opened at 
+different levels to vary the gas flow velocity from 
+the test chamber to the vacuum chamber. This 
+valve was pre-set prior to all tests to maintain 
+consistency in the flow velocity across test 
+samples. A 3-inch (7.6 cm) ball valve was placed 
+between the test chamber and metering valve to 
+control initiation of test chamber 
+depressurization. To have the best representation 
+of the reaction involved with using 
+depressurization as a fire extinguish method, the 
+fire was allowed to stabilize prior to opening the 
+depressurization valve. The time to establish a 
+stable flame varied from material to material, 
+therefore the depressurization valve was 
+manually opened for each test. The 
+depressurization initiation time was standardized 
+for each material. 
+</p>
+<p>A Sierra Instruments Model 620S flow meter was placed between the two chambers to determine the flow velocity 
+as the test chamber was depressurized. The initial flow velocity was determined by the position of the metering valve 
+to maintain consistency amongst test coupons. Three initial flow velocities were used to characterize the effects of 
+different flow rates on the test sample.  
+</p>
+<p>D. Test Configurations 
+This test incorporated two test configurations to account for different types of gas flow during vehicle 
+</p>
+<p>depressurization. These tests were intended to understand different responses to depressurization based on the location 
+of a fire in relation to the depressurization valve.  
+</p>
+<p>A three-sample configuration was used to account for open gas flow within the chamber as a result of 
+depressurizing the chamber volume through a single outlet. This configuration was to better understand material 
+behavior in an open cabin with varying distances from the depressurization valve. 
+</p>
+<p>A single-sample configuration was used to isolate the test coupon and calculate the gas-flow velocity that the 
+sample experienced as compared to the velocity at the depressurization valve. This was so that individual test coupon 
+data could be compared to a vehicle-level Computational Fluid Dynamic (CFD) model to demonstrate the effects of 
+fire extinguishment by different velocities throughout a vehicle.  
+</p>
+<p>1. Open Cabin Flow using Three-Sample Configuration 
+To understand material behavior in an open cabin, three samples 
+</p>
+<p>were ignited in the same chamber at the same time to account for 
+multiple locations from the outlet as the test chamber was 
+depressurized. Three samples were placed in standard NASA-STD-
+6001 Test 1 mounts all in the same plane as each other as well as the 
+same plane as the outlet of the test chamber. The height of each 
+sample was varied, as shown in Figure 5, to account for different 
+positions within the chamber. The center sample was tested with the 
+standard edge ignition approach whereas the two samples to the left 
+and right were in the J-configuration for the cotton t-shirt and orange 
+Nomex. ABS is a stiff material that cannot be formed in the J-
+configuration, therefore all ABS tests were performed with edge 
+ignition only. 
+</p>
+<p> 
+Figure 4. Depressurization Test System Schematic 
+</p>
+<p> 
+</p>
+<p> 
+Figure 5. Open Cabin Configuration 
+</p>
+<p> </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>7 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>2. Chimney Flow using a Single-Sample Configuration 
+Assessing depressurization flow velocity on individual samples 
+</p>
+<p>required a single-sample configuration where the sample was 
+placed near the outlet of the test chamber. All of these tests were 
+performed using edge ignition only. A polycarbonate cylinder, 
+labeled chimney in Figure 6,  with a diameter of 5.4 inches (13.7 
+cm) was placed around the sample to calculate the flow velocity as 
+compared to the measured flow velocity in the piping between the 
+two pressure chambers. This allowed for the determination of the 
+initial flow velocity experienced by the sample to later compare to 
+a CFD model. The intent was to demonstrate the effects of different 
+velocities throughout a vehicle when depressurization is used to 
+extinguish a fire. 
+</p>
+<p>E. Velocity 
+Test velocities were limited by the ability of gas flow from the test chamber to the vacuum chamber with both 
+</p>
+<p>valves completely open. The outlet velocity of the vehicle depressurization valve was not achievable with the test 
+equipment, but a range was tested with the intent to understand how a fire would respond to different flow velocities 
+based on the position with respect to the depressurization valve. Sample velocities were calculated based on the 
+configuration outlined in Figure 6. The maximum chimney velocity was calculated comparing the diameters of the 
+chimney and pipe containing the flow meter to demonstrate the measured gas flow as the two chamber pressures were 
+allowed to equilibrate. 
+</p>
+<p>Test velocities were determined by how open the metering valve was, characterized by the number of turns of the 
+valve wheel handle.  A simplified test matrix is shown in Table 3, demonstrating the varying test velocities based on 
+the position of the metering valve. With the metering valve completely open, the fastest velocity resulted in the test 
+chamber reaching approximately 1 psia (6.9 kPa) within 15 seconds. A moderate velocity was determined with eight 
+turns of the valve wheel from the shut position, resulting in the test chamber depressurizing in approximately 26 
+seconds. A representative slow velocity was tested with 4 turns of the wheel from the closed position resulting in 
+depressurization within approximately 2 minutes. Slower depressurization rates were explored but not used as they 
+resulted in fire extinguish properties similar to baseline tests with no depressurization of the chamber. 
+</p>
+<p>Table 3. Simplified Test Matrix 
+</p>
+<p>Test Material Configuration 
+Depressurization 
+</p>
+<p>Time 
+Maximum Chimney 
+</p>
+<p>Velocity (ft/s) 
+8 Orange Nomex Open Cabin 15 Seconds 48.4 (14.8 m/s) 
+</p>
+<p>(Full Open) 12 Orange Nomex Chimney 
+10 Orange Nomex Open Cabin 26 Seconds 30.8 (9.4 m/s) 
+</p>
+<p>(8 Turns) 15 Orange Nomex Chimney 
+9 Orange Nomex Open Cabin 2 Minutes 7.15 (2.18 m/s) 
+</p>
+<p>(4 Turns) 14 Orange Nomex Chimney 
+16 Cotton T-Shirt Chimney 15 Seconds 40.7 (12.4 m/s) 
+</p>
+<p>(Full Open) 21 Cotton T-Shirt Open Cabin 
+18 Cotton T-Shirt Chimney 26 Seconds 26.3 (8.0 m/s) 
+</p>
+<p>(8 Turns) 23 Cotton T-Shirt Open Cabin 
+28 ABS Chimney 15 Seconds 49.1 (15.0 m/s) 
+</p>
+<p>(Full Open) 32 ABS Open Cabin 
+</p>
+<p> 
+Figure 6. Chimney Flow Configuration 
+</p>
+<p> </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>8 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>IV. Analysis 
+The maximum velocity measured from the flow meter placed between the two test chambers was used to 
+</p>
+<p>characterize the velocities associated with depressurization time. 
+The maximum chimney velocity was then calculated by 
+comparing the diameter of the chimney around the test coupon, 
+for single tests only, and the diameter of the pipe where the flow 
+meter was placed. This number was then normalized based on the 
+pressure difference between the two chambers as outlined in 
+Equation 1. The Sierra 620S mass flow meter is based on a 
+standard reference pressure of 14.7 psia (101.35 kPa) measured 
+in standard cubic feet per minute (scfm). 
+</p>
+<p>The depressurization rate decreased with time as shown in Figure 7, with a steep initial pressure drop that gradually 
+decreased as the test chamber pressure dropped to approximately 1 psia (6.9 kPa). Depressurization time was 
+determined by the approximate time it took the test and vacuum chambers to reach equilibrium. 
+</p>
+<p> 
+Figure 7. Test Chamber Pressure Decrease for Varying Depressurization Times 
+</p>
+<p>V. Results and Discussion 
+Conceptually, depressurizing a spacecraft during a fire event would be expected to extinguish the fire by either 
+</p>
+<p>providing a high rate of flow to ‘blow off’ the fire or by achieving sufficiently low enough pressure such that there 
+would be insufficient oxygen to maintain the flame. This study evaluated the effect of depressurization on three 
+materials. The effectiveness of high velocity flow was evaluated by looking at various flow rates achieved through 
+varying depressurization rate, location in the test chamber, and presence or absence of a ‘chimney’ to maximize local 
+gas flow. The effectiveness of minimizing pressure was assessed at various depressurization rates.   
+</p>
+<p>A. Effect of High Velocity Flow 
+No flowrates could be achieved that were sufficiently high to extinguish the cotton t-shirt or ABS. This was true 
+</p>
+<p>for all depressurization rates and both the open cabin configuration and chimney configuration. Nomex, however, was 
+extinguished in two of the four tests. For the 15 second (s) and 26s depress rates, the Nomex extinguished in 
+</p>
+<p>0
+</p>
+<p>2
+</p>
+<p>4
+</p>
+<p>6
+</p>
+<p>8
+</p>
+<p>10
+</p>
+<p>12
+</p>
+<p>14
+</p>
+<p>16
+</p>
+<p>0 10 20 30 40 50 60
+</p>
+<p>Pr
+es
+</p>
+<p>su
+re
+</p>
+<p> (p
+sia
+</p>
+<p>)
+</p>
+<p>Time (s)
+</p>
+<p>2 min Depress
+</p>
+<p>26 sec Depress
+</p>
+<p>15 sec Depress
+</p>
+<p>Vacuum Chamber
+</p>
+<p>Equation 1. Sample Velocity 
+</p>
+<p>𝑣𝑣1 =
+14.7
+𝑃𝑃
+</p>
+<p>∙
+𝑉𝑉2
+𝐴𝐴
+∙
+</p>
+<p>1
+60
+</p>
+<p> 
+Where, v1 = velocity through Chimney (ft/s) 
+   V2 = measured flow rate (scfm) 
+</p>
+<p>   P = Chamber Pressure (psia) 
+    A = cross section of Chimney (ft2) </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>9 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>approximately 4s and 6s, respectively. Flow velocity 
+across the surface was estimated to be 
+approximately 14,752 mm/s, and 9,388 mm/s, 
+respectively. Notably, the flame characteristics 
+changed significantly at the onset of 
+depressurization as can be seen in the center images 
+of Figure 8. When compared with the leftmost 
+images (pre-depress), it can be seen that the flames 
+transition from smooth upward flow to a highly 
+erratic unpredictable flow. While this may be 
+intuitive (sudden high velocity flow across the 
+surface), it shows that the flow increases the area of 
+impact for the flame to the surrounding volumes. In 
+operation, this risks exposing the flame to local 
+areas that otherwise may not have been impacted by 
+the burning material. 
+</p>
+<p>For moderate (2-minute) and slow (15-minute) 
+depress rates, the Nomex burned to completion. 
+Figure 9 shows a comparison of the control test 
+where no depressurization occurred and the 2-
+minute depress. The slowest depress rate resulted in 
+a total burn time of 40s, which was identical to the 
+control burn (no depress). Interestingly, the 
+moderate depress resulted in complete burn of the 
+Nomex in 26s. This shows that for areas that do not 
+receive sufficient flow for blow off, the increased flow to the Nomex fire increases the burn rate of the material. This 
+was observed for both the cotton t-shirt and ABS as well. For cotton t-shirt and ABS, the baseline tests showed that it 
+required 30s and 270s, respectively, to completely consume the test samples. By comparison, the air flow from the 
+</p>
+<p>rapid depress (15s) reduced the time it took to 
+consume the sample materials to 20s and 207s, 
+for cotton and ABS, respectively. For seven 
+distinct tests, Table 4 shows the material burn 
+rates and flame heights prior to depress and 
+during depress. The significant increase in 
+burn rate on all materials demonstrates the risk 
+of the increased air flow caused by 
+depressurization when the rates are insufficient 
+to achieve blow off.   
+</p>
+<p>It is worth noting that the Nomex material 
+was chosen as a candidate material that self-
+extinguished at 30% oxygen and 14.7 psia in 
+the J-configuration. Through this test series, it 
+was noted that the material burned through 
+when ignited with edge ignition. This 
+highlights the difference in the surface ignition 
+when applying the J-configuration and the 
+standard edge ignition test configuration. This 
+was noted as a “borderline” material that only 
+passes in particular configurations at 30% 
+oxygen, to represent more common flight 
+hardware (neither worst nor best case). 
+</p>
+<p> 
+Figure 8. Nomex Blow off at Highest Depress Rate 
+Numbers in white and yellow indicate time from ignition 
+and depress, respectively. 
+ 
+</p>
+<p> 
+Figure 9. Nomex Full Burn with Moderate Depress Compared 
+to No Depress (Baseline) Numbers in white and yellow indicate 
+time from ignition and depress, respectively. 
+ 
+ </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>10 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>  
+ During testing 
+of the ABS with 
+the highest depress 
+rate, the flame 
+initially appeared 
+to go out when 
+depressurization 
+was stopped at 
+approximately 
+4psia. However, 
+within a few 
+seconds of depress 
+ending, the 
+material appeared 
+to reignite, as shown in Figure 10, despite the fact that no gas was introduced into the chamber. This was due to 
+residual heat in the material. As the pressure in the 
+chamber (or cabin of a spacecraft) decreases, 
+conductive cooling also decreases. If the initial 
+depress does not remove sufficient heat from the 
+material, reignition is possible. In the case of the 
+ABS and the highest depressurization rate, the 
+material was ultimately completely consumed. 
+</p>
+<p>B. Effect of Low Pressure  
+The effect of low pressure on Nomex 
+</p>
+<p>flammability was inconclusive in this testing 
+because either the flow was sufficiently high to 
+blow off the flame (while pressure was still greater 
+than 8 psia (55 kPa)) or the material was consumed. 
+However, key observations were made with both the 
+cotton t-shirt and ABS.  
+</p>
+<p>An example of the cotton t-shirt is shown in 
+Figure 11 where the fastest depress (15s) was 
+applied to the cotton t-shirt after ignition and burn 
+for approximately 4s. The chamber achieves 
+pressure below 3 psia (20.7 kPa) in about 10s, after 
+which the pressure continues to gradually decrease. 
+At 20s after depressurization, the material appears 
+to be smoldering only, but removal of chamber 
+lighting shows that the material is still in a full burn 
+despite a chamber pressure of less than 1.5 psia 
+</p>
+<p> 
+Figure 11. ABS with 15s Depress Showing Reignition After Apparent Extinguishment 
+Numbers in white and yellow indicate time from ignition and depress, respectively. 
+ 
+</p>
+<p> 
+Figure 10. Cotton T-Shirt with 15s Depress Flame 
+continued for 64s despite pressure near 1 psia. Hot embers 
+observed until 88s after start of depress. Numbers in white 
+and yellow indicate time from ignition and depress, 
+respectively. 
+</p>
+<p>Table 4. Burn Rates and Flame Height Comparison Prior to and During Depressurization 
+ Bulk Burn Rate (in/s) Flame Height (in) 
+</p>
+<p>Test 
+Number 
+</p>
+<p> 
+Material 
+</p>
+<p> 
+Configuration 
+</p>
+<p>Valve 
+Position 
+</p>
+<p>Pre- 
+Depress 
+</p>
+<p>During 
+Depress 
+</p>
+<p>Pre- 
+Depress 
+</p>
+<p>During 
+Depress 
+</p>
+<p>        
+</p>
+<p>8 Orange Nomex Open Cabin Full Open 0.1 0.6 5.5 No data 
+10 Orange Nomex Open Cabin 8 Turns 0.12 0.8 5.6 1.3 
+16 Cotton T-Shirt Chimney Full Open 0.1 0.83 4.9 5.3 
+18 Cotton T-Shirt Chimney 8 Turns 0.23 1.28 5.5 7.1 
+19 Cotton T-Shirt Chimney Full Open 0.1 0.88 5.9 2.5 
+28 ABS Chimney Full Open 0.1 0.5 0.5 0.7 
+30 ABS Chimney 4 Turns 0.1 0.8 8.5 No data 
+</p>
+<p> </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>11 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>(10.3 kPa). Flames continue for 64s after start of depressurization. The material continues to be depleted with the final 
+hot embers extinguishing at 88s following initial depress.  
+</p>
+<p>A similar phenomenon is observed with ABS as shown in Figure 12. In a moderate depressurization test (2 minute) 
+the material continues to burn despite pressure down to 0.76 psia (5.27 kPa). In fact, the fire continues to burn for a 
+full 67 seconds after the chamber reached below 1.0 psia (6.9 kPa). At the point of extinguishment, it is not clear 
+whether the fire extinguished due to low pressure or the consumption of oxygen in the chamber, but based on the 
+duration of the test, it was likely the lack of oxygen rather than the absolute pressure that resulted in extinguishment. 
+</p>
+<p>C. Time to Depressurize 
+The ‘best practice’ documented in 
+</p>
+<p>GP10004 ECLSS-BP-0002 was to 
+depressurize the cabin to 4 psia to reduce the 
+oxygen partial pressure. Accordingly, several 
+tests were paused when the test chamber 
+reached 4 psia (27.6 kPa) to better understand 
+the capability of lowered oxygen partial 
+pressure to extinguish the flame. Several test 
+samples maintained a flame down to 4 psia 
+and when the vent valve was opened to 
+continue depressurization of the test chamber, 
+the fire was re-ignited. As discussed in 
+Section B, materials continued to burn near 
+and below 1 psia (6.9 kPa) for both the cotton 
+t-shirt and ABS test samples. This 
+demonstrated that the combination of 
+depressurization blow-off and reduction of oxygen partial pressure were both insufficient to extinguish the fire. 
+</p>
+<p>In the time required to depressurize the test chamber volume (1.13 m3) to 4 psia (27.6 kPa) with a moderate 
+depressurization rate of approximately 2 minutes, a fire was active during the entire depressurization event for most 
+samples. When extrapolated to larger vehicle volumes, the time to depressurize the volume increases, resulting in the 
+potential for a fire to spread when relying on depressurization as a fire extinguish method alone. Reported module 
+depressurization rates based on vent valve capability show that the length of time a larger vehicle would take to 
+depressurize to 4 psia is an order of magnitude greater than the pressure chamber used for these tests. For a vehicle up 
+to 30 cubic meters in size it would take up to 25 minutes to depressurize to 4 psia where it was previously believed 
+the oxygen partial pressure was low enough to extinguish a fire. As these tests have shown, this assumption is 
+insufficient to extinguish a fire. Solely dropping the pressure cannot be expected to extinguish a fire. Even if 
+backfilling with nitrogen, the vehicle would need to be depressurized to an intermediate pressure followed by 
+backfilling with nitrogen to achieve an oxygen concentration below 11%. A fire would be sustained for the duration 
+it would take to depressurize the vehicle and repressurize with nitrogen. Additionally, each cycle would exacerbate 
+the flames as noted in this test with changes in gas flow rates. 
+</p>
+<p> 
+Figure 12. ABS 2-Minute Depress Material (0.65” thickness) burned for 170s after start of depress, including 
+67s after pressure was less than 1 psia. Numbers in white and yellow indicate time from ignition and depress, 
+</p>
+<p> 
+ 
+ 
+</p>
+<p> 
+Figure 13. Depressurization vs Extinguishment </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>12 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>VI. Conclusion and Future Work 
+Testing of Nomex showed that sufficiently high velocity can blow off flames. However, any real spacecraft will 
+</p>
+<p>contain a complex arrangement of objects, all of which can create wake zones and induce eddies with the result that 
+the potential velocity ranges from the peak at the outlet to the valve to any value down to zero. As a result, it is not 
+reasonable to assume that it will be possible to induce flame blow off by the vent flow. Not only will areas with 
+insufficient velocity flow not extinguish the flame, but the data shows that flames will be exacerbated, risking spread 
+to a greater volume. Additionally, for materials that do achieve blow off during depress, residual heat remaining in 
+the material can cause the material to reignite. Testing of cotton t-shirt and 0.065” ABS showed that achieving low 
+pressure is not an effective way to extinguish a fire. Material can continue to burn at less than 1 psia for extended 
+durations (on the order of minutes based on cotton and ABS). Based on this data, depressurization as a method of fire 
+suppression in spacecraft is highly discouraged.  
+</p>
+<p>Future work will involve CFD development to assess local and bulk flow velocity in a representative spacecraft. 
+</p>
+<p>VII. Acknowledgments 
+The authors would like to acknowledge Mike Pedley for his support on material selection and test planning, the 
+</p>
+<p>technicians who performed the testing at WSTF, and the Gateway Program for funding this testing.  
+ 
+</p>
+<p>VIII. References 
+ 
+[1]  J. H. Kimzey, "Skylab Experiment M479 Zero Gravity Flammability, NTIS N74-29890," Skylab Results, Proceedings of the 
+</p>
+<p>Third Space Processing Symposium, NASA Marshall Space Flight Center M-74-5, Vol. 1., pp. 115-130, June 1974.  
+[2]  J. H. Kimzey, "Final Report, Skylab Experiment M479 Zero Gravity Flammability," JSC Internal Report, Houston, TX, 1974. 
+[3]  J. S. Goldmeer, "Extinguishment of a Diffusion Flame Over a PMMA Cylinder by Depressurization in Reduced-Gravity, 
+</p>
+<p>NASA CR-198550," NASA, December 1996. 
+[4]  J. S. Goldmeer, J. S. T'ien and D. L. Urban, "Combustion and Extinction of PMMA Cylinders During Depressurization in 
+</p>
+<p>Low-Gravity," Fire Safety Journal, vol. 32, pp. 61-88, February 1999.  
+[5]  w. C. 2. NASA-STD-6001B, "Flammability, Offgassing, and Compatibility Requirements and Test Procedures," National 
+</p>
+<p>Aeronautics and Space Administration, 2011-08-26. 
+[6]  Gateway SubSystem Specification for the Environmental Control and Life Support Systems GP1004, Revision C with Change 
+</p>
+<p>1, National Aeronatics and Space Administration, January 26, 2023.  
+[7]  S. L. Olson and P. V. Ferkul, "Microgravity flammability boundary for PMMA rods in axial stagnation flow: experimental 
+</p>
+<p>results and energy balance analyses," Combustion and Flame, vol. 180, pp. 217-229, 2017.  
+ 
+ </p>
+<p></p>
+</div>
+<ul>	<li>Risks of Depress as a Fire Suppression Technique in Spacecraft</li>
+	<li>Acronyms and Nomenclature</li>
+	<li>I. Introduction</li>
+	<li>II. Background</li>
+	<li>III. Materials and Methods</li>
+<ul>	<li>A. Preliminary Studies</li>
+	<li>B. Materials</li>
+	<li>C. Test Methodology</li>
+	<li>D. Test Configurations</li>
+<ul>	<li>1. Open Cabin Flow using Three-Sample Configuration</li>
+	<li>2. Chimney Flow using a Single-Sample Configuration</li>
+</ul>
+	<li>E. Velocity</li>
+</ul>
+	<li>IV. Analysis</li>
+	<li>V. Results and Discussion</li>
+<ul>	<li>A. Effect of High Velocity Flow</li>
+	<li>B. Effect of Low Pressure</li>
+	<li>C. Time to Depressurize</li>
+</ul>
+	<li>VI. Conclusion and Future Work</li>
+	<li>VII. Acknowledgments</li>
+	<li>VIII. References</li>
+</ul>
+</body></html>

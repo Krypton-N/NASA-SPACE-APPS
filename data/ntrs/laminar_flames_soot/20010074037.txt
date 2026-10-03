@@ -1,0 +1,744 @@
+SUPPRESSION
+OF SOOT FORMATION
+OF LAMINAR
+JET DIFFUSION
+
+AND SHAPES
+FLAMES
+
+F. Xu, Z. Dai and G. M. Faeth
+Department
+of Aerospace
+Engineering
+The University
+of Michigan
+Ann Arbor, Michigan
+INTRODUCTION
+Laminar
+nonpremixed
+(diffusion)
+flames are of interest because
+they provide model flame
+systems that are far more tractable
+for analysis and experiments
+than practical
+turbulent
+flames.
+In addition,
+many properties
+of laminar
+diffusion
+flames
+are directly
+relevant
+to turbulent
+diffusion
+flames using laminar flamelet
+concepts.
+Finally, laminar
+diffusion
+flame shapes have
+been of interest since the classical
+study of Burke and Schumann
+(ref. 1) because
+they involve a
+simple nonintrusive
+measurement
+that is convenient
+for evaluating
+flame shape
+predictions.
+Motivated
+by these observations,
+the shapes of round hydrocarbon-fueled
+laminar jet diffusion
+flames were considered,
+emphasizing
+conditions
+where effects of buoyancy
+are small because
+most practical
+flames are not buoyant.
+Earlier studies of shapes of hydrocarbon-fueled
+nonbuoyant
+laminar
+jet diffusion
+flames
+considered
+combustion
+in still air and have shown that flames at the laminar
+smoke point are
+roughly twice as long as corresponding
+soot-free
+(blue) flames and have developed
+simple ways
+to estimate their shapes (refs. 2-5). Corresponding
+studies of hydrocarbon-fueled
+weakly-buoyant
+laminar
+jet diffusion
+flames in coflowing
+air have also been reported,
+see refs. 6 and 7 and
+references
+cited therein.
+These studies were limited to soot-containing
+flames at laminar
+smoke
+point conditions
+and also developed
+simple ways to estimate
+their shapes but the behavior
+of
+corresponding
+soot-free
+flames has not been addressed.
+This is unfortunate
+because
+ways of
+selecting flame flow properties
+to reduce soot concentrations
+are of great interest (refs. 8 and 9);
+in addition,
+soot-free
+flames
+are fundamentally
+important
+because
+they
+are much
+more
+computationally
+tractable
+than corresponding
+soot-containing
+flames. Thus, the objectives
+of the
+present investigation
+were to observe the shapes of weakly-buoyant
+laminar jet diffusion
+flames
+at both soot-free
+and smoke point conditions
+and to use the results to evaluate
+simplified
+flame
+shape models. The present discussion
+is brief, see refs. 9 and 10 for complete
+details.
+SOOT
+
+FORMATION
+
+IN COFLOWING
+
+JET DIFFUSION
+
+FLAMES
+
+Soot-free
+diffusion
+flames can be achieved
+by subjecting
+fuel jets to strong air coflow
+similar to air atomization
+processes
+(refs. 9 and 10). This can be seen from the sketch of a
+nonbuoyant
+coflowing
+laminar jet diffusion
+flame appearing
+in Fig. 1. The figure shows the
+flame sheet, the soot formation
+region at fuel-rich conditions,
+the soot oxidation
+region at fuellean conditions
+and flow streamlines.
+Later results will show that the length of the flame sheet is
+set by the fuel flow rate independent
+of coflow velocity
+at large coflows
+which implies
+that
+residence
+times for soot formation
+are inversely
+proportional
+to the air coflow
+velocity.
+Thus,
+increasing
+the coflow
+velocity
+inhibits
+soot formation
+and eventually
+leads to the soot-free
+flames that were sought during the present study.
+EXPERIMENTAL
+
+METHODS
+
+Measurements
+effects of buoyancy.
+along the axis.
+
+were carried out in a windowed
+chamber
+at low pressures
+to minimize
+A coaxial tube burner was used, directed vertically
+upward,
+with fuel flow
+
+NASA/CP--2001-210826
+
+173
+
+THEORETICAL
+
+METItODS
+
+Simplified
+analysis of flame shapes for flames in still gases (ref. 4) was extended
+to treat
+coflow (ref. 7) assuming
+steady axisymmetric
+nonbuoyant
+flow, negligible
+radiation,
+thin flame
+sheet, equal mass diffusivities
+and specific heats of all species, boundary
+layer flow and constant
+properties.
+This yields the following
+expression
+for flame length, Lf, relative to a virtual origin,
+Lo (ref. 7):
+(Lf-
+
+Lo)/d
+
+= CfC_Re
+
+Sc]Zst
+
+(1)
+
+where d = burner diameter,
+Re = burner Reynolds
+number, Z_t = stoichiometdc
+mixture fraction
+and Cn = 3/32 and 2/32 for weak and Strong coflow and Cf = i/2 and 1 for soot-free
+and laminar
+smoke
+point flames.
+See
+computing
+flame properties:
+RESULTS
+
+AND
+
+ref.
+
+7 for
+_ _i_
+....
+
+the
+
+formulation
+_....
+
+for
+
+flame
+==:
+
+shape
+
+and
+
+the
+
+algorithm
+=
+
+for
+
+DISCUSSION
+
+Laminar
+Soot Points. The variation of the I_nar
+soot-point
+and lift-off conditions,
+as a
+function of fuel and air flow rates and pressure, are illustrated in Fig. 2 for ethylene/air
+flamesi
+results for other fuels were similar. The results show that increasing
+the air coflow
+velocity
+progressively
+increases
+the laminar soot-point
+fuel flow rate until the lift-off limit is reached.
+Increasing pressure, however,
+reduces the effect of C0flow-x_eiocity
+because
+effects of buoyancy
+intrude and modifies
+the flow to enhance
+soot formation.
+Increasing
+pressure also increases
+the
+coflow velocity
+at lift off. Taken together, it is clear that coflow extends the r_ge
+of soot-free
+operation, particularly when effects of buoyancy
+are small.
+Luminous
+for weakly-buoyant
+in Fig. 3. Results
+provides excellent
+
+ame Lengths
+::
+:
+FI
+. Measurements
+and predictions
+of luminous flame lengths
+flames in strong coflow and for nonbuoyant
+flames in still air are illustrated
+are shown for both soot-free
+and smoke-point
+flames. It is clear that Eq. (1)
+correlations
+of flame lengths conditions
+that are considered.
+
+Shapes of Soot-Free
+Flames.
+Some measured
+and predicted
+luminous flame shapes in
+strong coflow
+are illustrated
+in Fig. 4. Two sets of measurements
+are shown:
+(1) colored
+photographs
+of the outer boundary
+of the strong blue reaction zone (involving
+CO2 and OH
+emissions
+at fuel-lean condition),
+and (2) colored photographs
+taken with a filter for the CH line
+whose outer boundary
+should be close to the flame sheet. Both measurements
+yield similar
+results which are in remarkably
+good agreement with predictions.
+Similar results were obtained
+at other flame conditions,
+see ref. 10.
+ACKNOWLEDGMENTS
+
+:
+
+-
+
+This research
+was sponsored
+by NASA
+Grant No. NCC3-661
+under the technical
+management
+of Z.-G. Yuan of the National Center for Microgravity
+Research,
+NASA
+Glenn
+Research Center, Cleveland, Ohio.
+REFERENCES
+1.
+2.
+3.
+4.
+5.
+6.
+
+Burke, S.P., and Schumann,
+T.E.W., Ind. Engr. Chem. 20:998 (1928).
+__
+Spalding,
+D.E., Combustion
+andMass
+Transfer,
+Pergamon
+Press, NewYork,
+Sunderland,
+P.B. et al., Combust.
+Flame 116:376 (1999).
+Lin, K.-C. et al., Combust.
+Flame 116:415 (1999).
+Urban, D.L. et aI.,A/AA J. 36:1346 (1998).
+Malingham,
+S. et al., Combust.
+Flame 82:231 (1994).
+
+NASA/CP--2001-210826
+
+174
+
+w-
+
+1979, p. 185.
+
+7.
+8.
+9.
+10.
+
+Lin,
+Lin,
+Dai,
+Xu,
+
+K.-C. and Faeth, G.M., A/AA J. 37:759 (1999).
+K.-C. and Faeth, G.M., J. Prop. Power 12:691 (1996).
+Z. and Faeth, G.M., Proc. Combust.
+Inst., in press.
+F., Dai, Z. and Faeth, G.M., A/AA J., submitted.
+STREAM-
+
+um (TV_----_\
+
+\
+
+! 1
+
+N'
+
+LAYER rryp) _
+
+\
+
+t
+
+!
+
+AIR
+
+FUEL.
+
+llIll!t,,,,,,
+umtuf
+
+> 1
+
+Fig.
+1.
+Effect
+of reactant
+stream
+velocities
+on soot
+properties
+in laminar coflowing
+jet diffusion
+flames having
+uniform initial air and fuel velocities.
+3.0
+
+n
+
+i
+
+_
+
+.... I
+
+PRESSURE(kPa):
+
+•
+
+"
+
+I
+
+SYM.
+0 •
+
+6.8
+
+d(mm)
+1.6
+
+z_ A
+2.0
+
+n"
+
+ETHYLENE
+
+4.8
+
+/
+REVERSE
+SYMBOL
+_ III
+
+10,2
+
+t_t
+
+.E-
+
+_
+
+SHADED
+DENOTES
+3.2
+
+IJafv f zl
+
+13,5
+
+1.0
+• _
+
+16.y
+
+LIFT-OFF LIMIT
+
+V
+0.0
+0.0
+
+,
+
+n
+1.0
+
+_.......
+
+1.
+2.0
+
+,
+
+I
+3.0
+
+=,
+4.0
+
+u. (m/s)
+
+Fig. 2. Fuel flow rates =at laminar
+soot-point
+and
+conditions
+for ethylene-fueled
+laminar
+jet diffusion
+in coflowing
+air.
+
+NASA/CP--2001-210826
+
+175
+
+lift-off
+flames
+
+100
+
+80
+
+2
+
+i
+
+(.j_>l
+
+"J
+
+AND
+
+Fr*
+
+>0.1)
+
+(LIN
+
+AND
+
+FAETH
+
+20
+
+T %
+=m
+
+m m"*_.GAS
+(u=/u_O-2ANO
+
+_
+
+IN
+
+0
+
+OOFLOW
+
+AND
+
+0
+
+400
+
+Fra>l
+
+800
+
+(U=/U r >0.5
+
+-
+
+CH 4 , P=35.2kP_
+
+u,t
+
+i600
+
+2000
+
+lengths
+(the
+jet diffusion
+
+40
+
+[
+
+_ = 0.64
+
+J
+
+)
+
+1200
+
+40
+
+_%_
+
+I
+Frf_5)
+
+'4
+
+Fig. 3.
+Flame-sheet
+and luminous
+flame
+latter at the laminar
+smoke point) of laminar
+flames in still air and in coflowing
+air.
+40
+
+J
+
+-I
+
+q_r_
+
+k
+
+I1
+1999)
+
+CI.._
+
+r
+
+u,/u
+
+, P=35.2
+
+kF_a
+
+GH4
+
+r = 0.86
+
+,P=36.2kPa
+
+u=/ur=
+
+1.22
+
+/
+
+1%¢_b
+
+_°
+
+FLAdME
+
+S HAPE
+
+0"YP')
+
+_°[-_./_ ._o.E0
+L°.,.o<i
+
+g
+
+i
+
+"
+
+,.\
+
+x/ _As_ _'_M_SHEET
+,,,,<_o-,,,.>
+
+[.,/,
+10 r(mm)
+
+lo r(mm)
+NOZZLE (n'P)
+
+-qO
+
+-10
+
+-1
+
+Fig. 4. Measured
+flame±sheet
+and luminous
+flame shapes and predicted
+flame-sheet
+shapes for
+soot-free
+methane-fueled
+laminar jet diffusion
+flames having a burner diameter
+of 4.3 mm for
+various air coflow velocity ratios.
+
+NASAJCP--2001-210826
+
+176
+
+E_
+E
+

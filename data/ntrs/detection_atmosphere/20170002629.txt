@@ -1,0 +1,1135 @@
+Advanced Exploration Systems Program
+
+Fire Detection Tradeoffs as a Function of Vehicle
+Parameters
+46th International Conference on Environmental Systems
+
+David L. Urban, Daniel L. Dietrich, John E. Brooker, Marit E. Meyer
+and Gary A. Ruff
+NASA John H. Glenn Research Center
+Cleveland, OH
+July 13, 2016
+
+Background
+♦ Since Skylab, NASA and other countries have included fire
+
+detection in all inhabited vehicles.
+♦ The predominant technique has been smoke aerosol detectors
+
+• This is based on the understanding that aerosol production is a prompt,
+distinct, and rapid product of overheat and fire of virtually all materials
+• Species production has been seen to be less universal, and less distinct
+♦ There is an increasing trend toward higher levels of air filtration.
+
+• Increases crew comfort
+• Also filters the smoke potentially delaying the alarm
+♦ This work examines the interaction between the smoke detector
+
+and the air filtration system
+
+2
+
+Detector Performance Requirements
+System
+
+Detector Performance Basis
+
+Technology
+
+Residential
+
+Minimum Sensitivity 1.6 to 13.2 %
+obscuration/m plus required response to
+reference test fires
+
+Light Scattering or Ionization
+
+FAA Cargo
+Bay
+
+Emphasis on sampling the cargo area and
+false alarm avoidance, typical range is up
+to 13.2 % obscuration/m
+
+Predominantly Light Scattering
+
+Space
+Shuttle
+ISS
+
+2 mg/m3
+
+Ionization
+
+3.3 % obscuration/m
+
+Light Scattering
+
+Orion
+
+Current concept is rate of rise detection
+(light scattering)
+
+Light Scattering
+
+♦ No clear precedent from ground-based or space systems.
+
+Each have been defined empirically with limited traceability
+to definable.
+
+3
+
+Smoke Detection Background: Destiny Smoke Detection
+Simulation-25% Soot: effect of gravity
+
+Low-gravity
+
+Normal-gravity
+4
+
+Destiny Simulation: 5%soot
+
+Using NIST Fire Dynamics Simulator
+Detection times 118 and 206 s
+
+Log-Normal Distribution
+ (ln D − ln Dg )2 
+Nt
+
+f N ( D) =
+exp −
+1/ 2
+2
+
+
+2 ln σ g
+(2π ) D ln σ g
+
+
+Number is dominated by the smaller particles
+Mass is dominated by the larger particles (tail)
+
+6
+
+Detector Design - Issues
+Normalized number count
+
+1000.00
+
+Particle Counter device
+First moment device
+
+100.00
+
+Normalized Number
+Concentration to alarm for
+each device type
+
+Third moment device
+10.00
+
+Scattering device
+
+1.00
+0
+
+500
+
+1000
+
+1500
+
+0.10
+
+Alarm level: 2 mg/m3
+(500 nm CMD and a σg of 1.3)
+
+0.01
+
+Normailized Mass Concentration
+
+Count Median Diameter (nm)
+
+22 x 106 particles/cc
+
+Particle Counter device
+
+1000.00
+
+First moment device
+
+100.00
+
+Third moment device
+Scattering device
+
+10.00
+1.00
+0
+
+500
+
+1000
+
+1500
+
+Normalized Mass
+Concentration at alarm
+for each device type
+
+0.10
+0.01
+0.00
+Count Median Diameter
+
+7
+
+Spacecraft Smoke Particulate
+
+Smoke Source
+
+Kapton
+Lampwick
+Silicone
+Teflon
+Pyrell
+
+Geometric
+Mean
+Diameter
+(Dg)
+(µm)
+
+Count Mean
+Diameter
+(M1/M0)
+(µm)
+
+Diameter of
+Average
+Mass
+(M3/M0)
+(µm)
+
+σg
+
+Unaged
+
+0.042
+
+0.056
+
+0.101
+
+2.154
+
+Aged 720 s
+
+0.089
+
+0.109
+
+0.161
+
+1.872
+
+Unaged
+
+0.090
+
+0.128
+
+0.258
+
+2.312
+
+Aged 720 s
+
+0.229
+
+0.276
+
+0.398
+
+1.834
+
+Unaged
+
+0.128
+
+0.196
+
+0.465
+
+2.530
+
+Aged 720 s
+
+0.269
+
+0.355
+
+0.619
+
+2.108
+
+Unaged
+
+0.081
+
+0.101
+
+0.170
+
+2.198
+
+Aged 720 s
+
+0.070
+
+0.105
+
+0.232
+
+2.442
+
+Unaged
+
+0.149
+
+0.204
+
+0.384
+
+2.211
+
+Aged 720 s
+
+0.293
+
+0.359
+
+0.539
+
+1.892
+8
+
+Species Production From Pyrolysis of
+Spacecraft Materials
+
+Material
+
+Mass of pyrolyzed
+material required to
+reach alarm level
+smoke
+concentrations (g)
+
+Species Concentration increase due to overheat event in a
+10 m3 vehicle (ppm)
+CO
+
+HF
+
+HCN
+
+HCl
+
+CO2
+
+Kapton snips
+
+6.7
+
+256
+
+0.4
+
+5.7
+
+0.4
+
+263
+
+Bulk Teflon
+
+53.7
+
+104.
+
+382
+
+3.5
+
+66.
+
+2090
+
+Orange PVC
+wire
+
+0.89
+
+2.2
+
+0.1
+
+0.1
+
+12.8
+
+42.1
+
+Printed Circuit
+Board
+
+2.25
+
+9.0
+
+0.1
+
+0.0
+
+0.6
+
+44.6
+
+Components
+
+0.65
+
+3.4
+
+0.0
+
+0.0
+
+0.0
+
+10.6
+
+Lamp wick
+
+1.34
+
+24.3
+
+0.1
+
+0.1
+
+0.1
+
+26.3
+
+Nomex
+
+1.32
+
+47.8
+
+0.2
+
+0.5
+
+0.2
+
+170.0
+
+Pyrell
+
+0.40
+
+4.3
+
+0.0
+
+0.2
+
+0.0
+
+15.6
+
+Bulk Kapton
+
+16.81
+
+931
+
+1.1
+
+13.1
+
+1.1
+
+1420
+
+55
+
+2.5
+
+8
+
+5
+
+13,000
+
+20
+
+1
+
+4
+
+2
+
+13,000
+
+1 Hr SMAC
+(ppm)
+24 Hr SMAC
+(ppm)
+
+9
+
+Detection concepts
+♦ Flow through system
+
+• Air continually enters the system at one end and then is transported to the
+smoke detector at the other end e.g.
+
+
+Space Shuttle avionics bays
+
+
+
+Capsule with bulk air flow from one end to the other
+
+♦ Simple mixed volume
+
+• System is largely closed with air being well circulated and the smoke
+detector at an arbitrary location (usually at an air intake)
+
+
+Closest example is the shuttle mid-deck
+
+♦ Mixed system with filtration
+
+• System is largely closed with air being well circulated with particulate
+filtration on the air recirculation system.
+
+
+Smoke detector is usually located at the intake to the air filtration system
+
+
+
+ISS modules
+
+
+
+Orion and other new vehicles
+
+10
+
+Flow-through Systems (ducts)
+Air Flow
+(lpm)
+
+Smoke
+Source
+
+Smoke
+Detector
+
+Analysis is simply based on the smoke production
+rate diluted in the forced air flow. Since there is no
+storage, detection depends on the smoke pulse
+being long and strong enough to trigger the detector
+
+11
+
+Flow-through Systems (ducts)
+
+CO (Bulk Kapton)
+
+1.0
+
+3.2
+
+0.1
+
+0.1
+
+186
+
+77
+
+3
+
+3
+
+417
+
+Avionics
+Cooling
+duct ISS
+Alarm level
+
+9000
+
+10
+
+65.0
+
+0.4
+
+5.0
+
+15.9
+
+0.3
+
+0.4
+
+931
+
+383
+
+13
+
+13
+
+2087
+
+CO2 (Bulk Teflon)
+
+Nomex
+
+0.1
+
+HCl (PVC)
+
+Polyvinyl Chloride
+(PVC)
+
+65.0
+
+HCN (Bulk Kapton)
+
+Bulk Teflon
+
+2
+
+HF (Bulk Teflon)
+
+Bulk Kapton (g)
+
+9000
+
+Alarm level (mg/m3)
+
+Avionics
+Cooling
+duct STS
+Alarm level
+
+Flow rate
+lpm
+
+Lamp wick (g)
+
+PPM increase due to fire at
+Alarm
+
+Vehicle volume (m3)
+
+Mass of pyrolyzed material
+to trigger alarm
+
+12
+
+Flow-through systems
+♦ Due to the high flow rate, a significant amount of overheated
+
+material is required to trigger the alarm
+♦ Despite the resulting high concentrations of hazardous species at
+
+alarm, the net concentraion in the spacecraft will not necessarily
+that large
+
+13
+
+Volume II
+(mixed)
+
+Variable
+Filtration
+
+Volume III
+(mixed)
+
+ECLSS Flow
+
+Return Flow
+(same as
+ECLSS Flow)
+𝒅𝒅
+𝒅𝒅𝒅𝒅
+
+𝑿𝑿 𝒊𝒊, 𝑰𝑰𝑰𝑰𝑰𝑰 = 𝒏𝒏̇ 𝒊𝒊, 𝑰𝑰𝑰𝑰𝑰𝑰 + (𝟏𝟏 −
+
+𝑽𝑽̇ 𝑬𝑬𝑬𝑬𝑬𝑬𝑬𝑬𝑬𝑬
+𝜶𝜶 𝒊𝒊 )
+𝑽𝑽 𝑰𝑰𝑰𝑰𝑰𝑰
+
+Smoke Detector
+
+Mixed (Stirred) Systems
+
+Volume I: Fire
+Volume
+𝑿𝑿 𝒊𝒊, 𝑰𝑰𝑰𝑰 −
+
+𝑽𝑽̇ 𝑬𝑬𝑬𝑬𝑬𝑬𝑬𝑬𝑬𝑬
+𝑽𝑽 𝑰𝑰𝑰𝑰𝑰𝑰
+
+𝑿𝑿 𝒊𝒊, 𝑰𝑰𝑰𝑰𝑰𝑰
+
+Net Change of Species in Volume 3 as a
+result of the fire
+
+14
+
+Mixed Systems
+♦ Since the system is well mixed, the entire volume needs to be
+
+raised to the detection threshold
+♦ This is facilitated by the fact that the smoke can accumulate in the
+
+volume
+♦ However the air filtration system also removes smoke particulate
+
+from the system delaying the triggering of the alarm
+♦ This delay enables hazardous species to accumulate if they are
+
+not also filtered
+
+15
+
+Space Shuttle Flight Deck
+
+Assumes Shuttle Flight Deck
+well mixed before intake into the
+avionics
+The detection threshold is ~
+2mg/m3
+Absence of filtration allows
+accumulation
+
+16
+
+%
+
+Destiny
+53
+1100
+100
+
+Space
+Shuttle
+37
+521
+
+CEV /
+Commercia
+l Crew
+Capsules
+6
+500
+mg/s
+g
+g
+g
+g
+
+10
+140.
+5
+7.9
+98.4
+314.
+0
+
+0
+2
+NA
+1.0
+12.4
+
+100
+10
+28.1
+0.9
+11.8
+
+mg/m
+
+3
+
+CO2 (Bulk Teflon)
+
+HCl (Polyvinyl Chloride)
+
+HCN (Bulk Kapton)
+
+Mass of material
+pyrolyzed
+
+HF (Bulk Teflon)
+
+CO (Bulk Kapton)
+
+Total Mass Cellulose
+Pyrolyzed to alarm
+
+Pyrolysis Rate
+
+Smoke Alarm setting
+
+Mass Polyvinyl Chloride
+pyrolyzed to alarm
+
+m3/h
+Mass Teflon pyrolyzed to
+alarm
+
+m3
+Mass Kapton pyrolyzed to
+alarm
+
+HEPA Filtration
+
+Air Flow Rate
+
+Vehicle Habitable Volume
+
+Mixed Systems
+PPM increase due to fire at
+alarm
+
+ppm ppm ppm ppm
+ppm
+
+5.2
+102
+7
+422
+14
+14
+2304
+
+39.7
+0.7
+186
+76
+3
+3
+417
+
+37.7
+0.6
+108
+9
+448
+15
+15
+2442
+
+17
+
+ISS Destiny Module
+
+ISS detection threshold ~ (10
+mg/m3).
+Total mass of smoke
+particulate at the alarm
+threshold for detection is 565
+mg at 281mg/s and 586 mg
+at 140.5 mg/s.
+Smoke production rate must
+exceed the filtration rate.
+
+18
+
+%
+
+Destiny
+53
+1100
+100
+
+Space
+Shuttle
+37
+521
+
+CEV /
+Commercial
+Crew
+Capsules
+6
+500
+mg/s
+g
+g
+g
+g
+
+10
+140.
+5
+7.9
+98.4
+314.
+0
+
+0
+2
+NA
+1.0
+12.4
+
+100
+10
+28.1
+0.9
+11.8
+
+mg/m
+
+3
+
+CO2 (Bulk Teflon)
+
+HCl (Polyvinyl Chloride)
+
+HCN (Bulk Kapton)
+
+Mass of material
+pyrolyzed
+
+HF (Bulk Teflon)
+
+CO (Bulk Kapton)
+
+Total Mass Cellulose
+Pyrolyzed to alarm
+
+Pyrolysis Rate
+
+Smoke Alarm setting
+
+Mass Polyvinyl Chloride
+pyrolyzed to alarm
+
+m3/h
+Mass Teflon pyrolyzed to
+alarm
+
+m3
+Mass Kapton pyrolyzed to
+alarm
+
+HEPA Filtration
+
+Air Flow Rate
+
+Vehicle Habitable Volume
+
+Mixed Systems
+PPM increase due to fire at
+alarm
+
+ppm ppm ppm ppm
+ppm
+
+5.2
+102
+7
+422
+14
+14
+2304
+
+39.7
+0.7
+186
+76
+3
+3
+417
+
+37.7
+0.6
+108
+9
+448
+15
+15
+2442
+
+19
+
+CEV
+
+CEV detection
+threshold ~(10 mg/m3).
+The total mass of
+smoke particulate at
+the alarm threshold for
+detection is 55 mg at
+140.5 mg/s and 70.3 mg
+at 28.1 mg
+Smaller volume
+facilitates detection.
+
+20
+
+53
+1100
+100
+
+Space
+Shuttle
+37
+521
+
+CEV /
+Commercia
+l Crew
+Capsules
+6
+500
+mg/s
+g
+g
+g
+g
+ppm
+ppm ppm
+pp
+m
+ppm
+
+10
+140.
+5
+7.9
+98.4
+314.
+0
+5.2
+1027
+422
+14
+14
+2304
+
+0
+2
+NA
+1.0
+12.4
+39.7
+0.7
+186
+76
+3
+3
+417
+
+100
+10
+28.1
+0.9
+11.8
+37.7
+0.6
+1089
+448
+15
+15
+2442
+
+mg/m
+
+3
+
+CO2 (Bulk Teflon)
+
+HCl (Polyvinyl Chloride)
+
+Mass of material
+pyrolyzed
+
+HCN (Bulk Kapton)
+
+Total Mass Cellulose
+Pyrolyzed to alarm
+
+Pyrolysis Rate
+
+Smoke Alarm setting
+
+HF (Bulk Teflon)
+
+Destiny
+CO (Bulk Kapton)
+
+%
+
+Mass Polyvinyl Chloride
+pyrolyzed to alarm
+
+m3/h
+Mass Teflon pyrolyzed to
+alarm
+
+m3
+Mass Kapton pyrolyzed to
+alarm
+
+HEPA Filtration
+
+Air Flow Rate
+
+Vehicle Habitable Volume
+
+Mixed Systems
+PPM increase due to fire at
+alarm
+
+21
+
+Conclusions
+♦ Effectiveness of smoke detection is strongly affected by the
+
+vehicle ventilation system
+♦ High flow rates can lead to large dilution rates in flow-through
+
+systems
+♦ Air filtration competes with smoke production in mixed systems
+♦ This can lead to:
+
+• Non-detection
+• Buildup of undesirable components that are not filtered.
+♦ It may be possible to filter at a lower rate which enables crew
+
+comfort while still fostering rapid detection
+♦ Spacecraft fire detection systems (measured parameter,
+
+locations, thresholds) should be designed in tandem with the air
+filtration system
+
+22
+

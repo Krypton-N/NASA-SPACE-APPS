@@ -1,0 +1,776 @@
+SHAPES
+METHANE
+
+OF BUOYANT
+AND NONBUOYANT
+LAMINAR
+JET DIFFUSION
+FLAMES"
+
+PETER B. SUND_',
+NASA
+
+Zeng-guang
+Yuan* and David
+Lewis Research Center
+Cleveland,
+
+C;
+
+--;-3 o
+;i
+
+L. Urban
+
+Ohio
+
+Introduction
+Laminar gas jet diffusion flames represent a fundamental combustion configuration. Their study has contributed to numerous
+advances in combustion, including the development of analytical and computational combustion tools. Laminar jet flames are
+pertinent also to turbulent flames by use of the laminar flamelet concept.
+Investigations into the shapes of noncoflowing microgravity laminar jet diffusion flames have primarily been pursued in the
+NASA Lewis 2.2-second drop tower, by Cochran and coworkers [1, 2] and by Bahadori and coworkers [3-6]. These studies
+were generally conducted at atmospheric pressure; they involved soot-containing flames and reported luminosity lengths and
+widths instead of the flame-sheet dimensions which are of greater value to theory evaluation and development.
+The seminal model of laminar diffusion flames is that of Burke and Schumann [7], who solved the conservation of momentum
+equation for a jet flame in a coflowing ambient by assuming the velocity of fuel, oxidizer and products to be constant
+throughout. Roper and coworkers [8, 9] improved upon this model by allowing for axial variations of velocity and found
+flame shape to be independent of coflow velocity. Roper's suggestion that flame height should be independent of gravity level
+is not supported by past or present observations. Other models have been presented by Klajn and Oppenheim [10], Markstein
+and De Ris [11], Villermaux and Durox [12] and Li et al. [13]. The common result of all these models (except [12] in the
+buoyant regime) is that flame height is proportional to fuel mass flowrate, with flame width proving much more difficult to
+predict. Most existing flame models [7, 9, 10, 12, 13] have been compared with shapes of flames containing soot, which is
+known to obscure the weak blue emission of flame sheets.
+The present work involves measurements of laminar gas jet diffusion flame shapes. Flame images
+buoyant and nonbuoyant methane flames burning in quiescent air at various fuel flowrates, burner
+pressures. Soot concentrations were minimized by selecting conditions at low flowrates and low
+allows identification of actual flame sheets associated with blue emissions of CH and CO2. The
+follows that of Roper [8] and is useful in explaining many of the trends observed.
+
+Experimental
+
+have been obtained for
+diameters and ambient
+ambient pressures; this
+present modeling effort
+
+Methods
+
+The experiments were conducted in a general-purpose combustion rig, consisting of a windowed pressure vessel, a fuel
+delivery system, an ignitor, a color CCD camera, a microprocessor controller and lead-acid batteries. The fuel jet issued
+vertically upward on the axis of the cylindrical chamber, whose diameter, length and volume were 25 cm, 53 cm and 27 1,
+respectively. The burners were straight stainless steel tubes with beveled outside edges and inside diameters of 0.42, 0.85,
+1.70, 3.25 and 5.54 mm. The burners had length-to-diameter ratios of at least 40, which ensured fully-developed laminar
+discharge. The flames were ignited using spring-loaded retracting hot wires (Kanthal A, 0.36 mm) mounted in tension 3 mm
+above the burners. These wires were 12 mm long and were energized with 28 VDC, causing them to glow and rupture within
+30 ms. Following ignition, the ruptured wires retracted symmetrically with minimal flow disturbance.
+On-board methane (purity 99.99%) was st0r6d in a 75 ml bottle and delivered to the burner via, in order, a pressure regulator,
+a solenoid valve, an orifice, a mass-flow meter, and a second solenoid valve. Orifice diameters were varied from 0.030.07 mm to ensure choked fow. Fuel flowrates were determined using the in-line mass flow meter (Omega FMA-5606-ST),
+which was calibrated for each fuel using a bubble meter. The pair of solenoid valves minimized diffusion of air into the fuel
+delivery plumbing prior to release into microgravity and allowed for optimization of the timing and volume of the initial fuel
+• Presentedat the ThirdInternational icrogravityCombustion Conference, May 19-21, 1997.
+M
+*National ResearchCouncil
+*NYMAInc.
+
+129
+
+fow.
+Room air was used as the ambient
+2 aim flames.
+The flames were imaged
+chamber axis. Fixed-iris
+
+for conditions
+
+at or below
+
+1 aim; a mixture of 21.1% O:, balance
+
+N2 was used for the
+
+using a color CCD camera (Panasonic WV-CL352)
+mounted 27 mm from and perpendicular to the
+lenses were used, with focal lengths (16-50 mm) chosen according to flame size, and f-numbers
+
+(1.4-6) chosen according to illumination
+levels.
+For flames containing soot, an additional camera was utilized
+CH-line filter. Signals from the cameras were carded via fiber-optic cable to a stationary SVHS video recorder.
+The conditions
+for the present flames are summarized in Table 1. Nomenclature
+burner diameter, L is the distance from the burner lip to the flame sheet intersection
+width. Reynolds number is defined as
+_h is fuel mass flowrate and subscript
+state, nonflickering
+conditions.
+The
+Uncertainties in the measurements are
+flames and 20% for the dimensions of
+
+behind
+
+a
+
+is as follows:
+p is ambient pressure, d is
+with the axis and w is the maximum flame
+
+Reffipov0d/po=41h/lied,
+where p is density, v is aven_e velocity, it is dynamic viscosity,
+0 refers to fuel-inlet conditions.
+The normal-gravity
+flames were restricted
+to steadymicrogravity
+flames were ignited immediately
+following
+release into microgravity.
+estimated to be 5% for fuel flow rate and for dimensions of the small or low-pressure
+the other flames, which contained soot and required judicious estimation
+of flame sheet
+
+locations.
+
+Analytical
+
+Model
+
+The Roper model [8] was selected here because of its unique attributes, specifically
+its pertinence to noncoflowing
+conditions,
+its lack of assumptions regarding
+buoyancy levels and its ability (demonstrated
+here for the first time) to predict full shapes.
+Seeking generality, Roper used Cartesian coordinates.
+We briefly present the derivation in cylindrical coordinates since the
+present flames are axisymmetric.
+Roper [8] invokes several assumptions,
+including:
+axial diffusion may be neglected,
+temperature,
+velocity and mass diffusivity
+(T, v and D) may vary with height but are uniform at any given height, and
+combustion causes no change in number of molecules.
+Conservation
+of species then yields:
+Vrtr'z)
+where
+
+_
+
++ Vz(Z)
+
+r, z, v, and v, are the radial and axial coordinates
+
+r _r
+
+r
+
+and velocities,
+
+= 0
+
+D is mass
+
+(1)
+
+diffusivity,
+
+C=(f-f,)/(fo-f,),
+
+f=nX,-X_,
+
+subscripts a and 0 indicate ambient and initial fuel conditions, X is mole fraction, and n moles of 02 react stoichiometrically
+with one mole of fuel (F). The boundary conditions
+on Eq. 1 are C(r,0)=l for r<d/2, where d is the burner diameter, C(r,0)--0
+for r>d/2, and C---_0 in the far field. The following transformation is now introduced
+to convert r and z to the new coordinates
+and O:
+
+t(z)=fz Vz
+:
+30
+Variables
+
+t and re are the elapsed residence
+
+_(r'z)
+
+-
+
+conditions
+
+C(_,0)=I
+
+0(t) = D
+
+time on the flame axis and the characteristic
+_C(TI,0)
+
+subject to boundary
+
+dinrD
+Vr
+d-t" - r '
+
+rv_z ) '
+
+1 _ (
+
+l'1 _X_
+,e
+
+40
+
+Jo
+
+scale of diffusion.
+
+Eq. 1 becomes:
+
+_C_
+
+for 11<1 and C--K) in the far field.
+_2
+
+c01,o):
+
+(2)
+
+io_
+
+O)
+The solution
+
+to Eq. (3) is:
+
+/
+
+(4)
+
+t, -,, )
+
+where I, is the modified Bessel function of first kind of order 0. This equation is called the P-function [13, 14]. Note that
+buoyancy, fuel flowrate, pressure and burner diameter do not appear in Eq. 4, thus permitting integration
+prior to specification
+of these quantities.
+We have solved Eq. 4 numerically
+using Romberg integration
+and Newton-Raphson
+root-finding,
+and
+contours for C=0.095, 0.056 and 0.040 (corresponding
+to CH,, _I-I_ and C,I-I, stoichiometric
+locations) are shown in Fig. 1.
+Although
+
+these
+
+converting
+
+_ and 0 to real-world
+
+curves
+
+bear resemblance
+coordinates
+
+ro-where Tf is the temperature
+and axial velocity profiles.
+
+to laminar
+
+jet
+
+diffusion
+
+using the relations
+dfv0T f _1/2=
+
+(
+
+flame
+
+shapes,
+
+determination
+
+of true shapes
+
+requires
+
+[8]:
+lhTf
+
+_1/2
+
+C oo ,--ToJ O=
+;
+
+at which diffusion is assumed to occur.
+The above relations for rDlend valuable
+
+130
+
+4DT0
+d2v0----_fz
+
+(5)
+
+This conversion requires knowledge of flame temperatures
+insight into flame width behavior, as discussed below.
+
+Results
+
+and Discussion
+
+Figs. 2a and 2c show one buoyant and one nonbuoyant methane flame at otherwise identical conditions. The normal-gravity
+flame is a nonflickering flame shown in steady state; the microgravity flame, typical of those in this study, is nearly steady at
+the end of its 2.2-second duration. The color video from which these images was produced reveals a familiar appearance in the
+buoyant flame; it has a bright blue flame sheet, a dim blue interior and a small yellow tongue of soot just inside the flame tip.
+The nonbuoyant flame in Fig. 2c is longer, broader and dimmer than its buoyant counterpart. A faint blue flame sheet is barely
+visible on its periphery, but the flame is generally violet. This violet coloration is attributed to combined blue emissions from
+CH and CO2 and dim orange emissions from low concentrations of soot at low temperatures.
+Lengths of the present buoyant and nonbuoyant flames are normalized by burner diameter and plotted versus Re in Fig. 3. The
+buoyant and present nonbuoyant flames exhibit best-fit slopes of 1.06 and 0.86, respectively, but are fit here with unit-siope
+lines in accordance with theory [8, 10, 11, 13]. This unit slope reflects the observation that for both buoyant and nonbuoyant
+flames, It-rn with a negligible dependence upon pressure and diameter. The nonbuoyant flames are generally longer than
+correslxmding buoyant flames, but the two regimes converge at the large Re because nonbuoyant flame development time
+increases with Re and thus the present high-Re microgravity flames are smaller than their steady-st_e shapes.
+The shown fit of present nonbuoyant flames is 64% higher than the normal-gravity fit, and the Roper model is useful in
+explaining this. Although the model predicts length to be independent of axial velocity for fixed lh (leading Roper to question
+the model's ability to explain the observed difference in lengths) it also predicts that lengths scale with T_ "_. Thus the
+considerably lower temperatures of nonbuoyant flames [6] reduce diffusion rates and are responsible for the increased lengths.
+The fits shown in Fig. 3 correspond to the Roper prediction using "Ifvalues for the buoyant and nonbuoyant flames of 2690 K
+and 1370 K (in contrast to the 1500 K initially used in Ref. 9). Here we have invoked the relation D-T_'ST/p, where
+D=20 mm2/s at 1 atm and 300 K [9]. Although
+these derived temperatures
+are a crude representation of actual flame
+temperatures, they are reasonable in fight of the assumptions in the model.
+Also shown in Fig. 3 are previous measurements [2, 4, 5] of microgravity methane flames. Reynolds numbers for these data
+have been corrected to the d length scale considered here. Note that these flames are at relatively high pressure and Re and
+thus contain significant amounts of soot: this, and the fact that only luminosity lengths were reported, explains why the unitslope fit through these data lies 25% above the fit of present nonbuoyant lengths.
+Widths of the present flames are shown in Hg. 4, including least-squares fits (with slopes of 0.52 and 0.22) of the present
+buoyant and nonbuoyant flames. The previous data shown [2, 5] agrees with present nonbuoyant observations because even in
+sooty flames, maximum luminous widths nearly coincide with maximum flame-sheet widths. Widths of both buoyant and
+nonbuoyant flames increase with Re, in contrast to past predictions of constant widths [10] and of widths that decrease with
+Re [3]. The fit of the buoyant flames yields L/w~Re °-5,which is Blasius boundary-layer behavior. The slope of the nonbuoyantflame fit is lower, possibly another indication of underdeveloped shapes at the highest Re. The relation in Fig. 4 of w/d-Re n,
+where n is between 0 and 1, captures the increase in w with _h and d that is observed for both buoyant and nonbuoyant flames.
+However, additional correlations are being sought because this relation fails to reflect the decrease of widths with pressure in
+buoyant flames that has been observed here and elsewhere [15].
+The major phenomenological findings of present flame widths are:
+nonbuoyant flames are wider than their buoyant
+counterparts; widths increase with rh and d: and buoyant flame widths decrease with pressure whereas nonbuoyant flame widths
+show no statistically significant variation with pressure. The analysis of Roper [8] is of assistance in interpreting many of these
+observations, referring to Eq. 5. Note that width is proportional to rDand that these quantities are referred to interchangeably
+in this discussion. For changes in buoyancy, r2-Tlvz; the reduced velocities in microgravity flames more than compensate for
+the reduced temperatures to yield flames which are wider than in normal gravity. For pressure variations, rD2-Vo/V,,which
+explains observed width behavior; for buoyant flames this ratio increases as pressure decreases, and it is feasible that for
+nonbuoyant flames vo/v= is nearly independent of pressure. For changes in burner diameter, rD2~I/v_; increasing burner size
+increases width via an decrease in vz for both buoyant and nonbuoyant flames. An explanation for the increase of width with
+fuel flowrate is not as readily provided by Eq. 5. This issue, and quantitative explanation of the other width observations, may
+be possible following implementation of ax/al velocity In'of'desinto the Roper model.
+As mentioned earlier, we have used the Roper model to predict entire flame shapes, and predictions corresponding to the
+buoyant and nonbuoyant flames of Figs. 2a and 2c are shown in Fig. 2b. These contours were obtained using the same D as
+
+131
+
+before and T_ of 2690 K and 1370 K
+discussion of Fig. 3 and ensured that
+For the normal-gravity
+prediction, it
+axial velocities in low-pressure
+flames
+it was assumed that v_=vo/8 since this
+but no measurements are available to
+
+for the buoyant and nonbuoyant flames. These temperatures were obtained in the above
+the predicted buoyant and nonbuoyant heights would roughly agree with _ons.
+was assumed vffi=v0 at all lcx_ttions in the flame. This is a reasonable approximation
+of
+that first decrease and later increase via buoyancy [16]. For the microgravity prediction,
+best matched the observed flame width. It is expected that v_<vo in microgravity flames
+validate the ad hoc divisor of 8 adopted here. Unrestrained variation of T_ and vz allows
+
+the Roper model to match any observed flame shape; although
+determination of values for these parameters is being sought.
+
+the
+
+choices
+
+made
+
+here
+
+are reasonable,
+
+an
+
+improved
+
+Acknowledgments
+This work was aided by helpful discussions
+with G. M. Faeth, H. R. Ross, V. Nayagam
+supported under a NASA/NRC postdoctoral fellowship and was performed at NASA Lewis.
+B. M. Mendelson.
+
+and I. Wichman. This work was
+The drop tests were conducted by
+
+References
+1.
+2.
+
+Haggard, J. B. and Cochran, T. H., Combust.
+Cochran, T. I-L, "Experimental
+Investigation
+
+3.
+4.
+
+(1972).
+Edelman, R. B. and Bahadori, M. Y., Acta Astronautica
+13:681, (1986).
+Bahadori, M. Y. and Stocker, D. P., "Oxygen-Concentration
+Effects on Microgravity
+Diffusion Flames," Combustion Institute Eastern States Meeting, 1989.
+
+5.
+6.
+
+Sci. Technol. 5:291 (1972).
+of Laminar Gas Jet Diffusion
+
+Flames
+
+in Zero Gravity,"
+
+Laminar
+
+NASA
+
+Methane
+
+TN D-6523,
+
+and Propane
+
+11.
+
+Bahadori, M. Y., Edelman, R. B., Stocker, D. P. and Olson, S. L., A/AA J. 28:236 (1990).
+Bahadori,
+M. Y., Stocker, D. P., Vanghan,
+D. F., Zhon, L. and Edelman, R. B., in Modern Developments
+in Energy,
+Combustion
+andSpectroscoFy,
+(F. A. Williams et al., eds.), Pergamon Press, 1993, p. 49.
+Burke, S. P. and Schumann, T. E. W., Ind. Eng. Chem. 20:998 (1928).
+Roper, F. G., Combust. Flame 29:219 (1977).
+Roper, F. G., Smith, C. and Cunningham,
+A. C., Combust. Flame 29:227 (1977).
+Klajn, NL and Oppenheim,
+A. K., Nineteenth
+Symposium
+(International)
+on Combustion,
+The Combustion
+institute,
+Pittsburgh,
+1982, p. 223.
+Markstein,
+G. tL and De Ris, J., Twentieth
+Symposium
+(International)
+on Combustion,
+The Combustion
+Institute,
+
+12.
+
+Pittsburgh,
+Villennaux,
+
+13.
+14.
+15.
+16.
+
+Li, S. C., Gordon, A. S. and Williams, F. A., Combust. Sci. Technol. 104:75 (1995).
+Masters, J. I.,J. Chem. Phys. 23:1865 (1955).
+Yuan, T., Durox, D. and Villermanx,
+E., Combust. Sci. Technol. 92:69, (1993).
+Sunderland,
+P. B. and Faeth, G. M., Combust. Flame 105:132 (1996).
+
+7.
+8.
+9.
+10.
+
+1984, p. 1637.
+E. and Durox, D., Combust.
+
+Sci. Technol.
+
+84:279,
+
+TABLE
+
+(1992).
+
+1
+
+Summary of Test Flames
+Buoyancy
+Nonbuoyant
+
+Buoyant
+
+p, bar
+0.25
+
+d, mm
+1.7
+
+Re
+28-116
+
+L, mm
+9-45
+
+w, mm
+14-25
+
+# Flames
+3
+
+0.49
+0.98
+
+0.85-1.7
+0.42-3.3
+
+28-123
+15-(301
+
+11-53
+9-51
+
+10-23
+5-20
+
+5
+18
+
+0.25
+0.49
+0.98
+1.97
+
+1.7-5.5
+0.85-5.5
+0.42-5.5
+0.42-5.5
+
+8-233
+5-152
+3-358
+2-472
+
+6-60
+3-27
+1-36
+1-30
+
+7-15
+4-12
+2-8
+1-5
+
+11
+19
+24
+19
+
+132
+
+01"
+
+,
+
+r--"_'_,
+
+i
+
+1
+
+0
+
+2
+
+,
+
+i
+3
+
+1"I
+Fig. 1. C contours from Eq. 4.
+
+2O
+
+16
+
+10
+
+10
+
+S
+
+i
+
+I
+
+S
+
+10
+
+rt mm
+
+(a) buoyant
+
+(b) model
+
+(c) nonbuoyant
+
+Fig. 2. Images of buoyant and nonbuoyant flames and model results. All images are at the same scale, with burner locations
+shown. Conditions are methane fuel, rh ---0.83 rag/s, d=1.7 nun, p=0.25 arm and R_56.
+
+133
+
+108
+Preunt
+;
+•
+
+C)a_
+
+_
+
+"
+
+;'_
+0.Saba
+
+PrtvioueData
+
+;
+4
+
+•
+
+1 atrn
+
+_-'-'-_---_n
+Bahadorl
+
+(1972)
+
+andStooker(1N9)
+
+_ Bahadori
+
+et al. AIAAJ.(1990)
+
+102
+
+"_
+
+101
+
+10 o
+
+I
+
+I
+
+100
+
+10 t
+
+102
+
+10 8
+
+Re
+Fig. 3. Methane
+
+flame lengths.
+
+102
+Pre=ent
+
+Data
+
+• 0.26 arm
+•
+0.5 aim
+•
+labn
+
+_.
+
+_ 1_.._
+
+101
+
+•
+
+'I=
+
+++
+
+-.,..
+
+÷+_.
+
+_._.'#+
+÷++
+
+_
+
++
+
+÷÷
+
+10 0
+
+Prtvious
+¢
+p Bahadorl
+i
+
+104
+10 o
+
+I
+
+101
+
+10 2
+
+Re
+Fig. 4.
+
+Dabn
+
+Co©hra n (1972)
+etal. AIAA J. (19_)0)
+
+Methane flame widths.
+
+134
+
+10 s
+

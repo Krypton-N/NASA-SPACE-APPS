@@ -1,0 +1,766 @@
+43rd International Conference on Environmental Systems
+July 14-18, 2013, Vail, CO
+
+AIAA 2013-3410
+
+Development of Large-Scale
+Spacecraft Fire Safety Experiments
+Gary A. Ruff 1 and David L. Urban2
+NASA Glenn Research Center, Cleveland, OH, USA
+A. Carlos Fernandez-Pello3
+UC Berkeley, Berkeley, CA, USA
+James S. T’ien 4
+Case Western Reserve University, Cleveland, OH, USA
+
+Downloaded by David Urban on July 18, 2013 | http://arc.aiaa.org | DOI: 10.2514/6.2013-3410
+
+Jose L. Torero5
+University of Queensland, Brisbane, Australia
+Guillaume Legros6
+Université Pierre et Marie Curie, Paris, France
+Christian Eigenbrod7
+University of Bremen (ZARM), Bremen, Germany
+Nickolay Smirnov8
+Moscow Lomonosov State University, Moscow, Russia
+Osamu Fujita9
+Hokkaido University, Sapporo, Japan
+Adam J. Cowlard10
+University of Edinburgh, Edinburgh, UK
+Sebastien Rouvreau11
+Belisama R&D, Toulouse, France
+Olivier Minster12 and Balazs Toth13
+ESA ESTEC, Noordwijk, Netherlands
+Grunde Jomaas14
+Technical University of Denmark, Kgs. Lyngby, Denmark
+1
+
+Physical Scientist, Space Technology Office, 21000 Brookpark Road, MS 77-7, Associate Fellow
+Branch Chief, Combustion and Reacting Systems Branch, 21000 Brookpark Road, MS 77-5, Associate Fellow.
+3
+Professor, Department of Mechanical Engineering, Etcheverry Hall, UC Berkeley, Berkeley, CA.
+4
+Professor, Department of Mechanical Engineering, Glennan Bldg, Cleveland, OH
+5
+University of Queensland, Brisbane, Australia
+6
+Université Pierre et Marie Curie, Paris, France
+7
+University of Bremen (ZARM), Bremen, Germany
+8
+Moscow Lomonosov State University, Moscow, Russia
+9
+Hokkaido University, Sapporo, Japan
+10
+University of Edinburgh, Edinburgh, UK
+11
+Belisama R&D, Toulouse, France
+12
+ESA ESTEC, Noordwijk, Netherlands
+13
+ESA ESTEC, Noordwijk, Netherlands
+14
+Technical University of Denmark, Kgs. Lyngby, Denmark
+1
+American Institute of Aeronautics and Astronautics
+2
+
+This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+
+Downloaded by David Urban on July 18, 2013 | http://arc.aiaa.org | DOI: 10.2514/6.2013-3410
+
+The status is presented of a spacecraft fire safety research project that is being developed
+to reduce the uncertainty and risk in the design of spacecraft fire safety systems by testing at
+nearly full scale in low-gravity. Future crewed missions are expected to be longer in duration
+than previous exploration missions outside of low-earth orbit and accordingly, more
+complex in terms of operations, logistics, and safety. This will increase the challenge of
+ensuring a fire-safe environment for the crew throughout the mission. Based on our
+fundamental uncertainty of the behavior of fires in low-gravity, the need for realistic scale
+testing at reduced gravity has been demonstrated. To address this knowledge gap, the
+NASA Advanced Exploration Systems Program Office in the Human Exploration and
+Operations Mission Directorate has established a project with the goal of substantially
+advancing our understanding of the spacecraft fire safety risk. The activity of this project is
+supported by an international topical team of fire experts from other space agencies who
+conduct research that is integrated into the overall experiment design.
+The large-scale space flight experiment will be conducted in an Orbital Sciences
+Corporation Cygnus vehicle after it has deberthed from the ISS. Although the experiment
+will need to meet rigorous safety requirements to ensure the carrier vehicle does not sustain
+damage, the absence of a crew removes the need for strict containment of combustion
+products. The tests will be fully automated with the data downlinked at the conclusion of the
+test before the Cygnus vehicle reenters the atmosphere. Several computer modeling and
+ground-based experiment efforts will complement the flight experiment effort. The
+international topical team is collaborating with the NASA team in the definition of the
+experiment requirements and performing supporting analysis, experimentation and
+technology development. The status of the overall experiment and the associated
+international technology development efforts are summarized.
+
+Nomenclature
+AES
+ATV
+ESA
+GRC
+HTV
+ISS
+JAXA
+OSC
+UPMC
+
+D
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+Advanced Exploration Systems
+Automated Transfer Vehicle
+European Space Agency
+John. H. Glenn Research Center
+H-II Transfer Vehicle
+International Space Station
+Japan Aerospace Exploration Agency
+Orbital Sciences Corporation
+Université Pierre et Marie Curie
+
+I. Introduction
+
+espite decades of research into combustion and fire processes in reduced gravity, there have been very few
+experiments directly studying spacecraft fire safety under low-gravity conditions. Furthermore, none of these
+experiments have studied sample and environment sizes typical of those expected in a spacecraft fire.1 Prior
+experiments have been limited to samples no larger than 10 cm in length and width. This stands in stark contrast to
+the full-scale fire safety testing that has been conducted in habitable structures on earth including mines, buildings,
+airplanes, ships, etc. The large differences between fire behavior in normal and reduced gravity results in a lack of
+experimental datathat forces spacecraft designers to base their designs on terrestrial fires and fire standards. While
+this approach has been successful thus far, there is inherent risk due to the level of uncertainty. Despite their obvious
+importance, full scale spacecraft fire experiments have not been possible because of the inherent hazards involved in
+conducting a large fire test in a manned spacecraft. To address this knowledge gap, an experiment was proposed that
+will be conducted in an expendable spacecraft, enabling such an experiment to be conducted without risk to crew or
+crewed spacecraft.
+In October 2011 the NASA Advanced Exploration Systems program funded a project to develop and
+demonstrate spacecraft fire safety technologies in relevant environments. The keystone of these demonstrations is a
+2
+American Institute of Aeronautics and Astronautics
+
+This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+
+Downloaded by David Urban on July 18, 2013 | http://arc.aiaa.org | DOI: 10.2514/6.2013-3410
+
+large-scale fire safety experiment conducted on an International Space Station (ISS) re-supply vehicle after it has
+undocked from the ISS and before it enters the atmosphere. The project team from NASA John H. Glenn Research
+Center (GRC) is augmented by an international topical team assembled by the European Space Agency (ESA). Each
+member of this team (the authors of this article) brings expertise and funding from their respective space and
+research agencies for their activities. This participation of members from other countries and space agencies not only
+brings additional skills to the science team but also facilitates international cooperation in the development of an
+approach to spacecraft fire prevention and response for future exploration vehicles. No single experiment can
+address the range of issues that need to be resolved to fully understand the spacecraft fire risk and to ensure the
+safety of future flights. The goal of the topical team is to leverage the international capabilities of the team to
+develop a suite of ground-based and space flight spacecraft fire safety experiments to expand the impact of the flight
+experiments. The current experiment has been designed to address two objectives. The first objective is to
+understand the flame spread and growth of a fire over an amount of flammable material consistent with what is
+likely to be in a spacecraft cabin through the development of an experiment for a sample material approximately 1
+meter long. This will be at least an order of magnitude larger than any prior low-g flame spread experiment. The
+second objective is to examine the flammability limits of materials in low gravity to determine if NASA’s material
+selection methods are a reasonable predictor of low-gravity flammability. Supported by the ground-based research
+by the topical team, the experiment will address both of these objectives. Their individual contributions will be
+discussed in subsequent sections.
+
+II. Background and Early Formulation
+The unique objectives of this experiment necessitated the use of an ISS expendable resupply vehicle such as
+ESA’s ATV, JAXA’s HTV, or Orbital Sciences Corporation’s (Orbital’s) Cygnus vehicles. Early in the development
+of the project, the European Space Agency (ESA) became interested in this experiment. As a result, the ATV was
+the initial vehicle for which an experiment concept was developed. Dr. Olivier Minster, Senior Physical Scientist in
+the Directorate of Human Spaceflight for the European Space Agency formed an international topical team chaired
+by Professor Grunde Jomaas (Technical University of Denmark) and Professor Jose L. Torero (BRE Trust/RAEng
+Chair in Fire Safety Engineering in the School of Engineering at the University of Edinburgh)¥. This Fire Safety in
+Space International Topical Team consists of 14 researchers from the European, Japanese, Russian, and U.S.
+spacecraft fire safety communities and is tasked to define research that would be possible from such a low-gravity
+fire safety experiment. The group has developed the initial science and technology requirements for this experiment
+as well as ground-based experiments and modeling efforts that support this experimental campaign.
+While many factors could go into the selection of a vehicle such as available volume, power availability,
+communication, etc., the schedule and resources were eventually the most significant. With the planned ATV flights
+ending with ATV-5 in March 2014, it became unlikely that an experiment could be developed and integrated with
+the vehicle within that schedule. Since Orbital’s eight Cygnus flights were planned to begin in 2013 and extend
+through 2016, Cygnus was a more promising vehicle for the successful completion of this experiment.
+Programmatic requirements later drove the project to plan for three experiments to be performed on three
+consecutive flights of Cygnus. The first experiment would take place on the 5th Cygnus flight currently planned for
+February 2015.
+
+III. Experiment Concept
+The concept for this experiment focuses on conducting two types of material combustion tests that will be
+performed on different flights using the flow duct design. The experiment package consists of a flow duct and an
+adjacent avionics bay. A schematic of the flow duct is shown in Fig. 1. The avionics bay is connected to the side of
+the flow duct as shown in the figure. The top and bottom structures on the experiment module are the fan unit on the
+top and the flow straightener unit on the bottom. The airflow is from the bottom to the top of the experiment module.
+The flow duct/avionics bay assembly is a rigid structure and will be secured with the standard stowage straps. This
+duct will enable a more uniform flow across the samples, maintain a clear flow path within the experiment module,
+and prevent burning debris from interacting with the rest of the cargo. The experiment package is shown installed in
+the Cygnus vehicle in Fig. 2.
+
+¥
+
+Professor Torero is now at the University of Queensland, Brisbane, Australia.
+3
+American Institute of Aeronautics and Astronautics
+
+This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+
+Fans
+
+Power
+Management
+
+Sample card
+(flame spread
+sample shown)
+
+Cameras
+
+Downloaded by David Urban on July 18, 2013 | http://arc.aiaa.org | DOI: 10.2514/6.2013-3410
+
+Flow Duct
+
+Avionics Bay
+USB Hub
+
+Flow
+straightener
+
+Signal
+conditioning card
+
+Air flow
+
+Figure 1: Schematic of the Spacecraft Fire Safety Demonstration Experiment.
+The experiment module consists of a flow duct containing the sample card and an
+avionics bay. All power, computer, and data acquisition modules are contained in
+the bay. The experiment module is approximately 53- by 90- by 133-cm.
+
+Figure 2: Experiment Module for the Spacecraft Fire Safety Demonstration
+shown installed in the Cygnus vehicle. The other objects are standard cargo
+bags.
+
+4
+American Institute of Aeronautics and Astronautics
+
+This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+
+Downloaded by David Urban on July 18, 2013 | http://arc.aiaa.org | DOI: 10.2514/6.2013-3410
+
+The experiment package will have a range of diagnostics to monitor the test conditions. The ambient temperature
+and the oxygen and CO2 concentrations will be measured at the intake of the flow duct with temperature
+measurements also made just upstream of the fans. A pressure transducer will also deliver the pressure time-history.
+Flow anemometers will be placed at selected locations in the inlet flow and thereby quantify the oxidizer flux in the
+duct. Two video cameras will provide top views of the entire sample. The sample will also be periodically
+illuminated by a LED source to allow the measurement of the pyrolysis length.
+For the flame spread sample, the flame stand-off distance will be measured using several thermocouples placed
+at varying heights above the sample surface. These will be woven into the sample and then bent so they are
+perpendicular to the surface. Finally, a calibrated radiometer will measure the broadband radiative emission from the
+sample to provide an estimate of the radiative flux from the burning zone towards the surroundings.
+The first test will investigate flame spread and growth in low-gravity to determine if there is a limiting flame size
+and to quantify the size and growth rate of flames over large surfaces. The flame will propagate over a panel of thin
+material approximately 0.4 m wide by 1.0 m long, shown in Fig. 1. The ignition method will be a hot wire along the
+upstream edge. This material will be expected to burn at the anticipated cabin atmosphere. The objective of this test
+is to quantify the flame development over a large sample in low-gravity. The objective of the second set of tests is to
+investigate the low-gravity Maximum Oxygen Concentration (MOC) flammability limits in long-term low gravity.2
+The configuration for these experiments consists of nine samples of varying materials (denoted flammability
+samples) each having dimensions of approximately 5 cm wide by 30 cm long installed on the same panel in place of
+the single sample in Fig. 1. These samples emulate the configuration used in NASA-STD-6001 Test 1.3 Each sample
+is ignited at the bottom using a hot wire. The oxygen concentration in the vehicle will be nearly 21% by volume—
+the same as in the ISS when the hatch was closed. The materials would be selected to be near their normal-gravity or
+hypothesized low-gravity maximum oxygen concentration in 21% O2. This complicates the selection of sample
+materials because most materials relevant for spacecraft do not have normal-gravity flammability limits near 21%
+oxygen by volume.4-6 Camera images would be the primary diagnostics for these tests as the intended result is
+primarily to determine whether the flame propagates or self-extinguishes.
+A. Sample Selection and Pressure Control
+Identifying samples that have flammability limits in the
+vicinity of 21% oxygen by volume is not trivial, making
+the selection of the sample materials a major project
+activity. An additional consideration is that re-entry
+vehicles, in general, are designed to operate within a rather
+narrow pressure range. Increasing the internal pressure due
+to the heat release from a combustion event could trigger
+the opening of a pressure relief valve. Depending on the
+vehicle design, this may not be acceptable as a planned
+experiment operation. Therefore, this experiment is
+potentially constrained both by the required flammability
+limit of the fuel as well as the rate of heat release. Current
+plans are to constrain the experiment to thin materials that
+burn in air and will cross over to being non-flammable
+with limited increase in the sample thickness.
+Given the volume of a closed chamber, the heat release
+created by the combustion of a known mass of fuel is a
+simple calculation. The complication in determining the
+pressure rise is that its time history depends on the balance
+between the heat release rate from the combustion process
+and the rate of heat transfer to the cargo and vehicle
+structure. A transient analysis of this phenomenon can be
+developed but a detailed verification of this model is
+required. Experiments have been conducted in a large
+Figure 3: VF-13 test chamber used for pressure
+chamber at NASA GRC in which full-scale samples for the
+rise experiments.
+SFS Demonstration experiment can be burned and the rise
+in gas temperature and pressure rise measured. The
+chamber, Vacuum Faculty (VF)-13, (Fig. 3) has a 149.9 cm inner diameter, and a height of 360 cm, yielding a total
+5
+American Institute of Aeronautics and Astronautics
+
+This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+
+Downloaded by David Urban on July 18, 2013 | http://arc.aiaa.org | DOI: 10.2514/6.2013-3410
+
+volume of 6.35 m3. It has a removable steel cap that is
+252.1 cm tall. An experimental rack was fabricated to fit
+into the chamber to support the sample frames (Fig. 4).
+These sample frames were designed to hold different
+size samples to facilitate variation of the heat release
+rate. The frame shown in Fig. 4 could either have the
+four sample sections ignited simultaneously or
+sequentially.
+Data from these tests are being used to develop and
+validate models to identify the relevant heat transfer
+mechanisms and verify code predictions. Fig. 5 contains
+a typical pressure rise curve obtained from these tests.
+After the models are validated against the VF-13 data,
+they will then be applied to the experiment in the reentry vehicle to predict the transient pressure rise and
+plan the sequence of the experiment. Two models are
+being developed, a stirred reactor model and a three
+dimensional numerical model using FluentTM. The
+stirred reactor model7 accounts for the energy gain and
+loss mechanisms that occur during the combustion
+process. A transient energy balance includes the energy
+gain due to the burning rate and the associated energy
+release rate for a typical fuel material . The energy
+losses are due to heat transfer by radiation from the
+flame to the vehicle walls, by convection from the
+Figure 4: Experimental Rack in VF-13.
+heated gases (which expand as well as are convected) to
+the vehicle walls, and by conduction from the flame to
+the fuel-sample holder. The model has successfully predicted results with a smaller sample in a smaller chamber6
+and is being transitioned to reproduce the results in VF-13.
+The Fluent model is being developed with the following assumptions: Ke-RNG turbulence model, ideal gas for
+density calculation, Sutherland model for viscosity, closed volume, constant heat release rate for duration needed to
+achieve the total heat release, 2.2 million cells. The model has been developed and tested for an adiabatic case (Fig.
+6). In the next phases radiative and convective heat losses to the vehicle boundaries will be considered.
+
+IV. Ground-based supporting research
+A. Theoretical underpinnings
+1. Scenario for a fire inside a spacecraft
+Figure 7 is a schematic of a flame established over a
+flat fuel plate and propagating in the same direction as
+that of the oxidizer flow (concurrent flame spread). In
+the absence of gravity, the hot reacting gases and the
+gaesous and particulate combustion products produced
+inside the flame are transported downstream towards the
+pyrolysis front by forced convection. As they are
+convected downstream, they enhance the heat transfer to
+the unburned material and consequently the flame
+spread. The resulting concurrent flame spread process
+can be very rapid and hazardous, and consequently is
+considered as a possible worst-case scenario for flame
+Figure 5: VF13 Experimental pressure curve
+spread.8
+for a single 12.5- by 100-cm sample ignited at
+While the entire flame influences the rate of the
+the top. The fuel is 90 grade cotton cheese-cloth
+concurrent flame spread, the spread of an opposed flame
+with a 4.92 mg/cm2 density.
+is mainly controlled by the flame stabilization process.
+Therefore, for a given geometrical configuration, a longer time is needed to reach steady state for concurrent flame
+6
+American Institute of Aeronautics and Astronautics
+
+This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+
+Downloaded by David Urban on July 18, 2013 | http://arc.aiaa.org | DOI: 10.2514/6.2013-3410
+
+spread, as compared with opposed flame spread.9
+Moreover, due to the longer flame lengths in
+concurrent spread, reduced scale experiments
+always require a longer flow tunnel. Given these
+limitations, it is impractical to routinely test all
+spacecraft materials in orbiting conditions and
+ground-based low gravity testing is too brief to test
+all but the thinnest materials. Therefore, material
+testing can be conducted in microgravity only for a
+very limited number of materials. By comparing the
+low-gravity data with those obtained in groundbased tests using similar materials, it is possible to
+interpret the relevance of the normal-gravity data to
+low-gravity behavior for most materials.
+Specifically, the configuration of NASA-STD-6001
+Fig. 6: Fluent model calculation of velocity magnitude
+Test 13 allows translation of the data obtained in
+in ATV configuration after 1 minute of heat release.
+normal gravity to microgravity. As an illustration,
+the adiabatic B number extracted from the upward
+spread taking place along a NASA Test 1 sample at normal gravity is shown to govern the worst-case scenario of a
+concurrent flame spread in microgravity.10 For these reasons, it is expected that experiments investigating
+concurrent flame spread in microgravity and conducted at real time and length scales will lead to significant insights
+into the understanding and modeling of fire spread in a manned spacecraft.
+2. Governing parameters of the concurrent flame spread over thermally thin materials
+Both streamwise and perpendicular conduction and diffusion are important to concurrent flame spread.9 Flame
+spread over thermally thick materials in microgravity is documented in the literature.11 However, numerical
+simulations require some experimental simplifications, such as a thermally thin configuration, to make the
+simulations tractable. The large-scale experiment being developed only increases the need for simplifications
+because the large computational volume requires many computational nodes for adequate resolution.
+Application of these models to the evaluation of spacecraft fires requires that the detailed physical phenomena be
+well-understood. For example, three length scales characterize the concurrent flame spread over a thermally thin
+material:9 as illustrated in Fig. 7, these are the characteristic dimension (ls) of the stabilization zone (located in the
+upstream region of the flame), the preheat characteristic length (lh) (spreading over the downstream region of the
+flame), and the characteristic length (lP) of the pyrolysis area (in-between the former two). The characteristic
+dimension ls is of the order of magnitude of α/UR, where α is the average thermal diffusivity of the gas and UR the
+relative velocity between the incoming flow and the flame base. The other two characteristic length scales lP and lh
+are of the same order of magnitude and are
+approximately proportional to UR. According to
+these dependencies, the latter two length scales
+decrease in the low speed flows encountered in
+microgravity while ls increases. As a result, the
+stabilization zone can become a significant portion of
+the overall flame length, affecting its shape and
+structure, and therefore its spread rate. A competing
+mechanism, however, is that at a given fuel flow rate
+through a given pyrolysis area, decreasing UR lowers
+soot production into the flame.12 This in turn can
+decrease the optical thickness and thus reduce the
+radiative heat feedback from the flame to the sample.
+Depending on the length of the sample, this trend
+may induce an increase in lh, and is may therefore
+accelerate the flame spread. These opposite, though
+Figure 7: Schematic for a concurrent spread over the
+expected, trends underline the need for the large
+flat surface of a solid combustible (extracted from Ref.
+scale low-gravity experiment being developed. The
+8).
+parameters to be evaluated in these experiments
+7
+American Institute of Aeronautics and Astronautics
+
+This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+
+should be carefully selected based on the above considerations.
+
+Downloaded by David Urban on July 18, 2013 | http://arc.aiaa.org | DOI: 10.2514/6.2013-3410
+
+B. Sample Selection
+As previously stated, the long-term relevance of this experiment to spacecraft fire safety applications depends on
+the careful and well-informed selection of the sample materials to be burned. The Fire Safety in Space international
+topical team is involved in many aspects of this effort. The following sections outline their involvement in the
+sample selection.
+1. University of California - Berkeley
+Current studies led by UC Berkeley focus on the changes in the flame spread behavior of two different fabrics in
+environments subject to different oxygen concentrations, external radiant fluxes, oxidizer flow velocity, and fabric
+density. All these factors play an important role in the selection of samples for the large-scale experiment described
+in this paper. Furthermore, in realistic spacecraft fire scenarios, an external heat flux could be present. The addition
+of an external radiant flux is able to extend the limits where flame spread may be observed effectively, resulting in
+an increase of the flammability of the fabrics.
+The experimental apparatus used in this investigation consists of a small-scale, horizontally mounted combustion
+wind tunnel that is 560mm long with a rectangular cross-section 127mm by 100mm.The floor of the tunnel consists
+of a 3.2mm aluminum plate covered by a
+1.6mm ceramic insulation sheet. The bottom
+surface of the tunnel has a 50.8mm by
+152.4mm rectangular cut-out located
+158.8mm from the inlet section of the
+tunnel. The sidewalls of the tunnel are made
+of 6mm quartz windows for optical access,
+and the top surface of the tunnel is fitted
+with two parabolic radiant heaters. Test
+samples are pinched to the rectangular cutout section and there is a 6mm gap between
+the back surface of the fabric and an
+insulating panel that prevents air entrainment
+from underneath.
+Two cotton based fabrics labeled Fabric
+1 and Fabric 2 with densities of 3 mg/cm2
+O concentration (volume %)
+and 5 mg/cm2, respectively, were used to
+Figure 8: Minimum external radiative heat flux qmin
+investigate the density influence on flame
+enabling the flame spread over fabrics of different
+spread behavior of a thermally thin material.
+density as a function of O2 content in the oxidizer flow
+2
+Experimental results for the 6 mg/cm fabric
+(oxidizer flow velocity: 0.1 m/s).
+is presented in Figure 8 where it is seen that
+at oxygen concentrations at or above 17% there is no need for an external radiant flux for concurrent flame spread to
+take place. When the oxygen concentration is further reduced, an external radiant flux is required to observe flame
+propagation. A pyrolysis front was consistently observed, even after the flame was extinguished in the flame
+propagation experiments. The value of the minimum external radiant flux (q′′MIN), for the cotton based fabrics was
+calculated using the distance at which the pyrolysis front stopped propagating. From the observed results, fabric
+density plays a minor role in the value of q′′MIN with greater densities corresponding to larger values of external
+radiant flux for concurrent flame spread. Further experiments with different fabric densities are needed to verify the
+observed results.
+This experiment will help quantify the impacts of oxygen concentration and ambient pressure on the material
+flammability limits as well as help to interpret those limits for practical spacecraft applications where an external
+heat flux is likely to be present.
+2. UPMC
+Figure 9(a) shows an experimental setup located at UPMC. Following the above considerations, the dimensions
+of the sample to be ignited are 1 m x 0.5 m and correspond to the order of magnitude of the inner dimensions of a
+manned spacecraft, and therefore to a real scale fire in such a vehicle. The sample holder is made of aluminum
+panels, enabling the adjustment of both width and height of the sample.
+8
+American Institute of Aeronautics and Astronautics
+
+This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+
+Downloaded by David Urban on July 18, 2013 | http://arc.aiaa.org | DOI: 10.2514/6.2013-3410
+
+Figure 9(b) is a frame extracted from a
+recording of the early flame growth over a
+thermally thin sample. The glowing tungsten
+wire that induces the sample ignition can be
+seen. A power supply allows the control of the
+electrical power dissipated into the wire, and
+therefore of the heat flux imposed at the bottom
+of the sample. The rig developed at UPMC in
+collaboration with all the authors of the present
+paper will be used to assess the flammability of
+materials at normal gravity from tests performed
+on samples with the actual dimensions of the
+samples selected to be integrated into the
+validation experiments in microgravity.
+3. Hokkaido University
+Current work is led by Prof Fujita at
+Figure 9: (a) Sample holder for normal gravity
+Hokkaido University and investigates flame
+experiments of upward flame spread on a vertical
+spread on overloaded electrical wires.13 As an
+sample. (b) Flame growth on a thermally thin sample.
+illustration, polyethylene insulated wires were
+selected as test samples to evaluate their
+flammability. Figure 10 shows a conceptual description of the flammability domains -as defined by the shaded areas
+-of these wire in terms of O2 concentration and electric current. Thus, the “material flammability map” is clearly
+modified by the microgravity facility used. The ignition limit is known to be extended in microgravity but
+determining the actual lowest limit by the ground-based microgravity facility is not straight forward and also
+requires a database delivered by long term
+experiments, such as the ones scheduled inside the
+KIBO facility onboard the ISS.
+4. Bremen
+Further efforts led by the University of Bremen
+focus on the effect a surface structure other than the
+G
+G
+G
+standardized flat surface might have on flame
+Region
+Region
+Region
+propagation or flammability limits. As materials
+2
+3
+1
+relevant to spacecraft often appear in structured
+constructions rather than an idealized flat surface,
+the results from these tests will help to interpret the
+results of the flight experiment to a broader range
+of material configurations. Furthermore, the results
+can be compared to those from flat sample tests and
+thereby assess the capability of the numerical
+simulations. Figure 11 shows a set of PMMAsamples of different thickness and with
+implemented grooves that are either parallel to the
+flame propagation direction (left) or perpendicular
+Figure 10: Ignition map of overloaded wire.
+to this direction (right). For the parallel case, the
+Region 1: Ignition limit in 1-g.
+hypothesis is that burning surfaces facing each
+Region 2: Ignition limit in short-term µg tests.
+other might promote flame propagation as
+Region 3: Ignition limit in long-term µg tests.
+compared to flat samples through its additional
+Region 4: Ignition but no sustained flame.
+heating contribution through radiation. For the
+perpendicular case, grooves split the propagation
+length into shorter sections and the flame partially propagating into the groove might be better stabilized than on a
+flat surface. This might lead to a slower propagation, but, on the other hand, it might lead to more complete
+consumption of the combustible material. All of these effects are important considerations in using the data from the
+space flight experiment to develop a spacecraft fire safety strategy.
+9
+American Institute of Aeronautics and Astronautics
+
+This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+
+Downloaded by David Urban on July 18, 2013 | http://arc.aiaa.org | DOI: 10.2514/6.2013-3410
+
+C. Modeling
+Because both streamwise and perpendicular
+conduction/diffusion are important in the flame
+stabilization zone, the partial differential equations
+governing concurrent flame spread are elliptical in
+nature. As a result, the full Navier-Stokes system is
+usually required and the high non-linearity of the
+system of equations then requires numerical solution.9
+Past modeling efforts at Case Western Reserve
+University (CWRU) on concurrent flame spreading
+have been mostly on steady spread over thin solids. A
+schematic of the flame configuration studied is shown
+in Fig. 12. Steady flame spread takes place when the
+flame has reached a limiting length and the spread rate
+Figure 11. PMMA-samples shaped at University of
+becomes constant. This type of model bypasses the
+Bremen with grooves parallel or perpendicular to
+initial flame growth period and is capable of studying
+the flame propagation direction.
+the extinction limits.11 However, these models do not
+reveal the ignition transient and the flame growth details, which may be affected by the characteristic length of the
+test specimen. For wide (or thick) solid samples, the flame growth period can be long in concurrent flow, which
+means that a transient model will be necessary.
+Tseng has recently conducted a transient three-dimensional direct numerical simulation of ignition leading to
+flame growth in normal gravity.14 The major difficulty in such a direct numerical simulation consists in resolving the
+flame stabilization zone that controls flame extinction. Consequently, the number of spatial grids is increased and
+the computation becomes expensive. Currently, researchers at CWRU are focusing on flame growth in purely forced
+flow in microgravity using direct numerical simulation. The objectives are to determine the entire flame growth
+history, the effect of sample width, flow velocity, pressure and oxygen percentage. Data acquired from the largescale experiment will be especially crucial to confront the numerical trends induced by the sample's characteristic
+length.
+To forecast results of fire spread in an actual
+spacecraft environment, it is essential to extend the
+capability of the numerical flame-spread models. The
+models should be able to predict ignition, growth and
+spread in a strongly encumbered space containing
+composite materials that have combustible and heat
+conducting components. The mathematical model for
+such a fire scenario has to take into account the presence
+of at least three different phases, which cannot be merged
+by averaging. More specifically, the gaseous phase is
+needed for providing convective supply of an oxidant, the
+solid phase is needed for providing the supply rate of
+fuel, and the inert solid phase is needed as a sink, or
+source, or transmitter of thermal energy. The complex
+environment incorporating multiplicity of different
+objects can preclude precise tracing of boundaries and,
+instead, requires the use of more recent concepts, such as
+the concept of quasi-permeable bodies developed at
+Moscow Lomonosov State University.15 Within the frame
+of this concept, all the phases are present in the
+computational domain, but in different volume
+concentrations, and coupled systems of conservation
+Figure 12. The configuration of flame spread over
+equations are derived for every phase. The results from
+thin solids. (a) Upward spread in buoyant flows in a
+the first numerical simulations using simplified models
+large chamber. (The cutaway flame isotherms on
+demonstrated that accounting for the independent heat
+the symmetry plane (Z=0cm) are shown.) (From
+fluxes in each phase and thermal exchange between
+Ref. 7)
+phases could create vastly different scenarios for ignition
+10
+American Institute of Aeronautics and Astronautics
+
+This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+
+and combustion. Validating such a sophisticated numerical tool against practical configurations requires fine grid
+resolution due to the presence of multiple scales. The development of a code based on new parallel program
+architecture will therefore be undertaken and designed to run on exascale computers.
+
+Downloaded by David Urban on July 18, 2013 | http://arc.aiaa.org | DOI: 10.2514/6.2013-3410
+
+D. Diagnostics
+5. Fuel characteristics
+Knowledge of the Heat Release Rate (HRR) per unit fuel mass is a crucial input to the aforementioned
+simulations. This quantity can be determined through experimentation in the Flame Propagation Apparatus (FPA) at
+University of Edinburgh. The FPA is a bench scale fire calorimeter which uses high power halogen lamps to expose
+material samples to incident heat fluxes. A horizontally mounted candidate material sample of 100mm x 100mm is
+positioned on a load cell in a quartz tube which allows the airflow around the sample to be accurately controlled.
+Outflow from the tube is collected in an exhaust hood and is drawn through a duct containing various sensors, of
+which specifically the gas analyzers and thermocouples are worth mentioning. A sample of the material relevant for
+the project was exposed to a heat flux of 50kW/m2 in the presence of a pilot flame. Once the sample was ignited, it
+was allowed to burn until all available fuel was consumed. The Heat Release Rate (HRR) was then determined using
+the principles of oxygen consumption calorimetry.
+6. Soot Volume Fraction
+A laser beam extinction technique similar to the one used for earlier quantification of soot production into a flat
+plate diffusion flame established in microgravity16 is currently developed at UPMC. The backlighting source will be
+located along one a side of the sample and the light attenuation through the flame will be measured by a set of
+cameras settled on the other side of the sample. This diagnostic technique provides an approximate absorption
+coefficient field, and therefore a map of the soot volume fraction. This field enables the evaluation of the optical
+thickness of the flame, which is a crucial parameter in the estimation of the radiative heat feedback from the flame to
+the fuel plate. As modeling soot production inside flames still remains a very interesting topic, the measured
+absorption field inside the flame could be used as an inner condition imposed into the computational domain, and
+thus enhance the accuracy of the numerical simulations. Moreover, the development of the technique requires prior
+settings along experiments performed with the actual conditions (especially selected fuel and oxygen content) in
+parabolic flights. The set of ground-based experimental data collected in this way will also allow comparison
+between different qualities of microgravity in terms of soot production.
+
+V. Conclusion
+Predicting the end state of an unconstrained fire in a spacecraft and validating NASA’s flammability test
+methods are probably the areas of greatest uncertainty in our effort to ensure the fire safety of future spacecraft.
+These questions are being addressed by a material flammability experiment that can be conducted on an ISS
+resupply vehicle after it has undocked from the ISS and before it reenters the atmosphere. This provides a habitable
+pressurized environment of considerable size without the hazards associated with a crewed vehicle. Exploitation of
+this opportunity would enable study of practical low-g material flammability phenomena that are important for
+spacecraft design yet cannot be studied in ISS facilities or other orbital platforms. This experiment has been shown
+to be feasible on both ESA’s ATV and Orbital’s Cygnus vehicles with the Cygnus as the current baseline carrier.
+Because of the early interaction with ESA, an international topical team has been formed to develop concepts for
+that experiment and work towards its implementation. An experimental concept is being developed that will
+investigate oxygen flammability limits and flame spread over a large fuel sample in a long-term low gravity
+environment. Additional tasks in the Spacecraft Fire Safety Demonstration Project are being conducted to identify
+sample materials and verify the predictions of pressure rise in the re-entry vehicle during the experiment. This
+experiment will be a landmark for spacecraft fire safety with the data and subsequent analysis providing much
+needed verifications of spacecraft fire safety protocol for the crews of future exploration vehicles and habitats.,
+
+Acknowledgments
+The authors acknowledge the support of the various space and research agencies that have supported this work
+including but not limited to: JAXA, ESA, RSA, the Centre National d'Etudes Spatiales, and the Spacecraft Fire
+Safety Demonstration Project of the NASA Advanced Exploration Systems Program.
+
+11
+American Institute of Aeronautics and Astronautics
+
+This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+
+Downloaded by David Urban on July 18, 2013 | http://arc.aiaa.org | DOI: 10.2514/6.2013-3410
+
+REFERENCES
+1.
+Ruff, G.A., Urban, D.L., Pedley, M.D., Johnson, P.T., Safety Design for Space Systems edited by Gary Musgrave et al.
+Chapter 27 “Fire Safety,” Elsevier, 2009.
+2.
+Hirsch, D.B., Williams, J.H., Haas, J.P., Beeson, H.D., and Pedley, M.D., “Oxygen Concentration Flammability
+Thresholds of Selected Aerospace Materials Considered for the Constellation Program,” Proceedings of the 2nd IAASS
+Conference, Chicago, May 14-16, 2007; (also ESA SP-645, July 2007).
+3.
+National Aeronautics and Space Administration Technical Standard 6001.A, “Flammability, Odor, Offgassing, and
+Compatibility Requirements and Test Procedures for Materials in Environments That Support Combustion,” 2008.
+4.
+Hirsch, D.B., Williams, J.H., Harper, S.A., Beeson, H.D., Ruff, G.A., and Pedley, M.D., “Pressure Effects on the SelfExtinguishment Limits of Aerospace Materials,” Paper No. 2009-01-2490, 39th International Conference on Environmental
+Systems, Savannah, GA, July 12-16, 2009.
+5.
+Olson, S.L., Ruff, G.A., Miller, F.J., Microgravity Flame Spread in Exploration Atmospheres: Pressure, Oxygen, and
+Velocity Effects on Opposed and Concurrent Flame Spread,” Paper No. 2008-01-2005, 38th International Conference on
+Environmental Systems, San Francisco, CA, June 29-July 2, 2008.
+6.
+Olson, S.L., Hirsch, D.B., and Ferkul, P.V., “Improving Materials Flammability Screening For Spacecraft Fire Safety,”
+Proceedings of the 2010 Technical Meeting of the Central States Section of the Combustion Institute, Champaign, Illinois, March
+2010.
+7.
+Gokoglu, S.A., Niehaus, J.E., Olson, S.L., Dietrich, D.L., Ruff, G.A., Ferkul, P.V., Johnston, M.C. “Prevention of
+Over-Pressurization During Combustion in a Sealed Chamber,” 42nd International Conference on Environmental Systems
+(ICES), San Diego, CA, July 16-19, 2012.
+8.
+A.C. Fernandez-Pello, "Flame Spread Modeling," Comb. Sci. Technol. 39, 119–134, 1984.
+9.
+J.S. T'ien, H. Shih, C. Jiang, H.D. Ross, F.J. Miller, A.C. Fernandez-Pello, J.L. Torero, D.C. Walther, "Mechanisms of
+Flame Spread and Smolder Wave Propagation," Microgravity Combustion: Fire in Free Fall, H.D. Ross (Editor), Academic
+Press, 299-417, 2001.
+10. J.L. Torero, T. Vietoris, G. Legros, P. Joulain, "Estimation of a Total Mass Transfer Number from the Stand-Off
+Distance of a Spreading Flame," Combust. Sci. Technol. 174, 187–203, 2002.
+11. S.-Y. Hsu and J.S. T’ien,: Flame spread over solids in buoyant and forced concurrent flows: model computation and
+comparison with experiments, Proc. Comb. Inst. 33, 2433-2440, 2011.
+12. G. Legros, A. Fuentes, S. Rouvreau, P. Joulain, B. Porterie, J.L. Torero, "Transport mechanisms controlling soot
+production inside a non-buoyant laminar diffusion flame," Proc. Comb. Inst. 32, 2009 2461-2470, 2009.
+13. Y. Takano, O. Fujita, N. Shigeta, Y. Nakamura, H. Ito, "Ignition limits of short-term overloaded electric wires in
+microgravity," to appear (available online) in Proc. Comb. Inst. 34, 2013.
+14. Y.-T. Tseng, "Three-dimensional model of solid ignition and ignition limit by a non-uniformly distributed radiant heat
+source," PhD dissertation, Case Western Reserve University, August 2011.
+15. N.N. Smirnov, O.E. Ivashnyov, V.A. Nerchenko, A.E. Kazakova, "Spacecraft Foton-M in-flight thermal conditions,"
+Acta Astronautica 68, 52–62, 2011.
+16. G. Legros, P. Joulain, J.P. Vantelon, D. Bertheau, A. Fuentes, J.L. Torero, "Soot volume fraction measurements in a
+three-dimensional laminar diffusion flame established in microgravity," Combust. Sci. Technol. 178, 2006 813–835, 2006.
+
+12
+American Institute of Aeronautics and Astronautics
+
+This material is declared a work of the U.S. Government and is not subject to copyright protection in the United States.
+

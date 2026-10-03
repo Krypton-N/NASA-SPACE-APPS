@@ -1,0 +1,762 @@
+Paper # 000
+
+Topic: Fire
+
+8th U. S. National Combustion Meeting
+Organized by the Western States Section of the Combustion Institute
+and hosted by the University of Utah
+May 19-22, 2013
+Quantitative Infrared Image Analysis
+Of Simultaneous Upstream and Downstream Microgravity Flame Spread over Thermally-Thin
+Cellulose in Low Speed Forced Flow
+S.L. Olson1, J. R. Lee2, O. Fujita3, M. Kikuchi4, and T. Kashiwagi5
+1
+
+NASA Glenn Research Center, Cleveland, OH
+2
+QinetiQ North America, Cleveland, OH
+3
+Hokkaido University, Sapporo, Japan
+4
+JAXA, Tsukuba, Japan
+5
+National Institute of Standards and Technology, Gaithersburg, MD
+The effect of low velocity forced flow on microgravity flame spread is examined using
+quantitative analysis of infrared video imaging. The objective of the quantitative analysis is
+to provide insight into the mechanisms of flame spread in microgravity where the flame is
+able to spread from a central location on the fuel surface, rather than from an edge. Surface
+view calibrated infrared images of ignition and flame spread over a thin cellulose fuel were
+obtained along with a color video of the surface view and color images of the edge view
+using 35 mm color film at 2 Hz. The cellulose fuel samples were mounted in the center of a
+12 cm wide by 16 cm tall flow duct and were ignited in microgravity using a straight hot
+wire across the center of the 7.5 cm wide by 14 cm long samples. Four cases, at 1 atm.
+35%O2 in N2, at forced flows from 2 cm/s to 20 cm/s are presented here. This flow range
+captures flame spread from strictly upstream spread at low flows, to predominantly
+downstream spread at high flow. Surface temperature profiles are evaluated as a function
+of time, and temperature gradients for upstream and downstream flame spread are
+measured. Flame spread rates from IR image data are compared to visible image spread
+rate data. IR blackbody temperatures are compared to surface thermocouple readings to
+evaluate the effective emissivity of the pyrolyzing surface. Preheat lengths and pyrolysis
+lengths are evaluated both upstream and downstream of the central ignition point. A
+surface energy balance estimates the net heat flux from the flame to the fuel surface along
+the length of the fuel. Surface radiative loss and gas-phase radiation from soot are
+measured relative to the net heat feedback from the flame. At high surface heat loss
+relative to heat feedback, the downstream flame spread does not occur.
+
+1
+
+Corresponding Author: Sandra L. Olson, NASA Glenn Research Center, 21000 Brookpark Rd. m.s. 77-5, Cleveland,
+OH 44135. Phone (216) 433-2859, Fax (216) 433-8050, email Sandra.L.Olson@NASA.gov
+
+1. Introduction
+Microgravity flame spread over thin solid fuels has been a subject of considerable research over
+the past 30 years, and there have been significant advances in our understanding of the mechanisms
+of flame spread in microgravity [Ross (2001), Fernandez-Pello]. Notably, the roles of solid-phase
+radiative loss [T’ien] and oxygen transport [Olson (1991)] on the microgravity extinction limits of
+solid fuels have been well established. Quantitative analysis of surface temperature profiles and net
+heat flux from the flame to the fuel has been challenging even in normal gravity experiments
+[Hirano& Sato, Quintiere]. Researchers have used thermocouples [Hirano et al., Cordova et al.] or
+holographic interferometry [Ito& Kashiwagi] in normal gravity, but only a few microgravity tests
+have attempted to measure surface temperatures or heat flux [Bhattacharjee et al., Olson et al.
+(2001), Olson et al (2004)]. Numerical models have been used to predict the net heat flux from the
+flame to the solid fuel [Ferkul & T’ien, Di Blasi, Prasad et al., Nakamura et al., Kumar et al.].
+There have been limited studies using infrared cameras in microgravity [Sanchez-Tarifa &
+Lazaro, Ross & Miller, Feier et al., Kleinhenz et al.], most of which were of limited quantitative
+utility because of the early IR camera’s 8 bit dynamic range. However, more advanced cameras
+have increased the bit depth, which improves the dynamic range enough to make the cameras useful
+for imaging surface heat up and pyrolysis during combustion experiments. In this work we present
+surface IR image results from microgravity combustion of cellulose fuels in different oxygen and
+flow environments. A previous paper [Prasad et al.] reported on visible flame spread results and
+compared the results to model predictions. The infrared surface temperature data reported here can
+provide added depth to the model comparisons.
+
+2. Experimental Method
+The experimental hardware, shown conceptually
+in Figure 1, is described in [Prasad et al.], and
+consisted of a flow duct inside a sealed chamber
+which was filled with 21%, 35%, or 50% oxygen
+in nitrogen at 1 atmosphere pressure. The flow
+duct provided a uniform flow of 2-20 cm/s past
+the fuel sample. The fuel samples were 60
+mg/cm2 cellulose 7.5 cm wide and 14 cm long.
+Figure 1: Conceptual schematic of experiment.
+They were ignited with a straight hot wire across
+Edge view image of the sample and flame in the
+the center of the sample (7 cm of fuel upstream
+and downstream of the igniter) starting at time=0s flow duct. The central igniter is represented by the
+yellow dot. Two surface view cameras are shown.
+(represented by the yellow dot in Figure 1). The
+flame was established by 2 seconds, so the data
+analysis begins at 2 seconds. At the end of the
+microgravity time, a solenoid valve opens and CO2is blown into the duct to extinguish the flame.
+The infrared camera used in the tests was a 12 bit FLIR Systems, Inc. Prism DS™ with a 50 mm
+lens. A 200 nm bandwidth ‘flame filter’ centered at 3.8 μm was used to remove most of the gasphase radiation from CO2 and H2O. The surface temperature calibration was performed with a
+
+2
+
+calibrated Micron™ black body over the
+camera’s operating range of 150oC to
+770oC including the optical path elements
+(lens, calcium fluoride window, zinc sulfide
+window, 2 mirrors). A 10 pixel diameter
+area of the image was averaged to obtain
+the black body temperature to pixel level
+calibration. The accuracy of the black body
+surface temperatures is ±20oC, and the
+spatial resolution was 0.3 mm per pixel.
+The IR camera image was 244 x 320 pixels,
+and the field of view was 7.5 cm wide by
+10 cm long. The infrared images were
+analyzed using Tracer™ and Thermacam
+Researcher™ software. 2
+
+2 cm/s
+
+5 cm/s
+
+A 35 mm color film camera was used to
+image the edge view of the flame during
+the test at ~ 2 frames per second, and a
+front view standard color video camera was
+used to image the surface view of the flame
+and fuel burning during the test. Type K
+thermocouples (0.005 cm diameter bare
+wire) were sewn into each sample to record
+the surface temperatures. The surface
+temperatures are used to compare to the
+black body temperature readings in order to
+get information on the fuel emissivity as it
+heats up and begins to pyrolyze. The
+surface thermocouple beads were located
+along the sample centerline at upstream
+locations +4 cm, +2 cm, 0 cm, and
+downstream -2 cm, all relative to the igniter
+location.
+
+10 cm/s
+
+20 cm/s
+
+3. Results
+3.1 Flame Images
+Four tests at 35% oxygen molar percent at
+2, 5, 10, and 20 cm/s forced flow velocities
+are shown in Figure 2. The edge view and
+surface view visible color images are
+
+Figure 2: Visible edge view and front view images and IR
+front view images of the flame at the end of the drop. Times
+are not exact due to different framing rates. Flow velocities
+are as indicated. Flow is from bottom to top. IR view is
+mirror image of visible camera view.
+
+2
+
+™ Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or
+otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States
+Government or any agency thereof or its contractors or subcontractors.
+
+3
+
+shown along with the surface infrared image, which has a smaller field of view than the color image.
+These images are all from the end of the drop test, although the timing is not exact due to different
+framing rates of the cameras. The printed grid on the sample is 1 cm square. It appears lighter in
+the infrared because its emissivity is higher than the pristine cellulose fuel. There is a horizontal
+igniter wire in the front view images. Red LEDs used to illuminate the sample are visible in the
+edge views. Very thin thermocouple wires are also present, and visible in some IR images. The
+flame spread is reasonably two dimensional since the sample is wide enough and the ignition is
+uniform across the fuel width. The IR color temperature legend is also shown.
+The side view color images show the flame transitioning from a strictly upstream flame spread (2
+cm/s) to two completely separate flames (20 cm/s). The sooting increases as the flow increases, and
+the flame standoff decreases with increasing flow. At 10 cm/s, a luminous upstream flame is visible
+in the edge view. This luminous flame fades as it extends downstream, and a kink in the flame
+shape is observed in the edge view near the location of the downstream fuel burnout edge. The outer
+blue halo flame fades before the kink, but there is a very faint blue inner flame visible in the left
+edge view flame that appears to be the beginning of a flame base attaching to the upstream edge of
+the downstream flame. The rest of the flame above the downstream side of the fuel has a large
+standoff distance and appears to still be an extension of the upstream flame. This is in contrast to
+the downstream flame fully separated from an upstream flame observed at 20 cm/s flow.
+The surface color view images show that while the upstream leading edge of the flame is 2D, there
+are 3D soot structures occurring in the flame. At 2 cm/s, the sooting along the edges of the fuel is
+most pronounced. The downstream pyrolysis front is very flat. At 5 cm/s the sooting extends
+downstream over the downstream fuel, but in a pinched off funnel shape. The downstream burnout
+is fairly flat, and the pyrolysis front is also flat. This funnel is still present at 10 cm/s but appears to
+be longer. The downstream burnout is farther from the igniter wire. At 20 cm/s, the upstream flame
+has 3 soot lobes at the leading edge, with a large gap between the upstream burnout and downstream
+burnout. The downstream flame begins to show some independent sooting.
+The IR images show the fairly 2D thermal structure of the pyrolizing fuel surface even up to 10
+cm/s. Exothermic char oxidation that is a clear indication of a downstream flame base is clearly
+present in the 20 cm/s image, and is beginning to show at 10 cm/s with a slight saturated glow at the
+burnout. At 2 cm/s and 5 cm/s the only downstream exothermic char oxidation is at the fuel edges.
+It may be that the flame there would continue to spread given longer times and larger separation
+from the upstream flame. The fuel cracking late in the test does disrupt the symmetry of the fuel,
+and fuel distortion disturbs the flow somewhat. The gas-phase sooting increases in intensity in the
+burnout gap as flow increases. It is very strong in the upstream 20 cm/s flame.
+Figure 3 shows the surface view of the initial sample (Fig. 3a), and the burned samples after the
+flame is extinguished (Figs.3b-3e) for each flow case. The infrared camera field of view is less than
+the total sample length, as shown in Figure 3a. Some of the pyrolyzed fuel has been blown away
+during the CO2 suppression at the end of the microgravity time. As can be seen the upstream flames
+(bottom of the images) have propagated nearly to the edge of the fuel by the 20 cm/s case. The
+downstream fuel is also fully charred for 20 cm/s. However, at 2, 5, and even 10 cm/s much of the
+downstream fuel remains.
+
+4
+
+IR Field of
+View
+
+a) Unburned
+b) 2 cm/s
+c) 5 cm/s
+d) 10 cm/s
+e) 20 cm/s
+Figure 3: a) Initial sample size showing IR field of view and b)-e) Post-test sample images showing char
+patterns. The samples were extinguished on impact using a CO2 jet into the chamber, so these char patterns
+reflect the 0g burn extent. Flow is from bottom to top in these images. As flow increases, the extent of char
+increases in both directions, but it increases more so for the downstream flame.
+
+3.2 Blackbody Temperature Profiles
+Blackbody surface temperature line profiles near the centerline down the length of the sample were
+taken every 0.5 second to study the transient surface temperature data. Figure 4 shows these line
+profiles from each case. The igniter location is at 0 cm. Upstream of the igniter (opposed flow
+flame region) is positive x, and downstream of the igniter (concurrent flow flame region) is negative
+x. The shaded box from 500K to 600K indicates where the temperature gradient (dT/dx) data was
+evaluated. This temperature range was selected to capture the preheating below the pyrolysis
+temperature. For example, notice in Figure 3c, the fuel pyrolysis extends downstream to about -3
+cm. In Figure 4b, the temperature at -30 mm just reached 600K. The visible image in Fig. 3c
+reveals that the sample is darkened downstream of 30 mm, but not to the point where the printed grid
+is no longer visible. Temperatures at the 5th grid line (-50 mm) did not exceed 500K even though the
+sample continued to -70 mm (out of the IR field of view).
+As seen in all four of the plots in Figure 4, there is a spike at x=0 corresponding to ignition.
+The upstream flame becomes very steady as shown by the similarity in the temperature profiles at
+different times. The surface temperature plateaus during pyrolysis at 650-700K. At 2 cm/s and 5
+cm/s there is no peak for oxidative pyrolysis. Once burnout occurs, the surface temperatures drop,
+but not back to the baseline reading due to gas- phase radiation. There is a general increase in the
+gas-phase radiation with flow, due to increasing temperatures and soot (Figure 2).
+Downstream profiles do not show the same steadiness. In Figure 4a and 4b, the profiles become
+more closely spaced as time increases. In Figure 4c, the profiles begin to show a uniform shifting
+later in the drop. Figure 4d shows a large fairly uniform spacing early, with the preheat region
+quickly moving out of the field of view of the IR camera (by 5 sec). There are large spikes in
+temperature at the flame base of the downstream flame in both Figure 4c for later profiles and more
+extensively in Figure 4d, indicating exothermic char oxidation is occurring there.
+
+5
+
+3.3 Temperature Gradients
+The surface temperature gradients (dT/dx) as a function of time extracted from this data is shown in
+Figure 5. Error bars on the temperature gradient are estimated to be ±10% of the gradient, based
+upon the 20oC accuracy of the camera and the 100oC range for the gradient evaluation. The
+upstream temperature gradient reaches an approximately constant value after the ignition transient (~
+4 s). At low flows, the value of the temperature gradient does not change, indicating that conduction
+and diffusion are dominating the heat transfer and flame standoff distance. At higher flows, the
+temperature gradient increases, indicating that convection dominates the heat transfer from the
+flame.
+The downstream temperature gradients are much lower, and only reach steady state levels of less
+than 6 K/mm for the higher flows. The average post-ignition temperature gradients are plotted in
+Figure 6. There is almost an order of magnitude difference between the upstream flame and the
+downstream flame. The fuel beneath the upstream flame heats up quickly due to the intense heat
+flux from the leading edge of the flame in contrast to the fuel beneath the downstream flame, which
+has a much larger standoff distance.
+a)
+
+Downstream
+
+Upstream
+
+b) Downstream
+
+c)
+
+Downstream
+
+Upstream
+
+d) Downstream
+
+Upstream
+
+Upstream
+
+Figure 4: Blackbody surface temperature line profiles as a function of time for 35% O2, 1
+atmosphere tests: a) 2 cm/s, b) 5 cm/s, c)10 cm/s, d) 20 cm/s. Yellow shaded box gives temperature
+range over which the temperature gradient was obtained.
+
+6
+
+Figure 5: Temperature gradients for both upstream and downstream directions as a function of
+time during each microgravity drop with flow as indicated. a) upstream gradients, b) downstream
+gradients.
+
+3.4 Flame Spread
+The surface temperature can also be used to
+track the flame spread rate. To do this, we
+chose a surface temperature of 600K as a
+reasonable pyrolysis temperature. This
+worked well for the upstream flame spread
+and downstream flame pyrolysis tip spread,
+but the downstream flame base spread
+required a higher temperature (700K) to detect
+the base (burnout) of the flame. Figure 7
+shows the pyrolysis position versus time data
+for each flow case for both the upstream and
+downstream data.
+Figure 6: Average post-ignition transient temperature
+gradients for each flow condition. Downstream gradients
+
+The upstream flame spread is steady for each are an order-of magnitude lower than upstream gradients,
+due to the different flame structure for the two flames.
+case, and linear fits to each position versus
+time curve are shown. The downstream flames take longer to stabilize than the upstream flames,
+and the downstream pyrolysis fronts (600K) spread rapidly as the flame grows from ignition.
+The downstream flame base (700K isotherm) moves more slowly but steadily downstream for the
+higher flow rates. At 2 cm/s the pyrolysis front (600K isotherm) spread stops and the sample
+actually begins to cool as the upstream flame moves away. At 5 cm/s the pyrolysis front stops, but
+just starts to cool at the end of the drop. At 10 cm/s, the pyrolysis front slows but does continue to
+spread at approximately the same rate as the flame base (700K). The 20 cm/s case pyrolysis front
+begins to slow down, but does not reach a steady state pyrolysis front before the 600K isotherm
+moves outside of the IR camera field of view.
+Flame spread rates derived from the slopes of the curve fits in Figure 7 are shown in Figure 8 as a
+function of flow. The upstream or opposed flow flame spread rate, increases at low flow, but
+
+7
+
+Figure 7: Position of the upstream 600K and downstream 600K and 700K thermal waves as a
+function of time. Downstream flames do not reach a steady length for the 20 cm/s flow case.
+Linear fits (shown) provide the flame or pyrolysis front spread rates.
+plateaus at higher flow as conditions
+enter the thermal regime of flame
+spread [Olson (1991)]. This is
+consistent with previous research using
+visible imaging at this elevated 35%
+oxygen concentration [Prasad et al.].
+
+The downstream spread of the flame
+base is also shown in Figure 8. The
+flame base spread rate increases
+linearly with flow, which is also
+consistent with prior research [Ferkul
+& T’ien]. At low flow rates, the
+downstream flame is not
+simultaneously viable with the
+upstream flame, due to oxygen
+vitiation from the upstream flame,
+despite significant heating and fuel
+surface pyrolysis in over the first few
+cm of the downstream sample.
+
+Figure 8: Flame spread rates for simultaneous opposed
+and concurrent spread as a function of the ambient flow.
+The upstream spread is the leading edge spread rate, and
+the downstream spread is the flame base spread rate. The
+downstream flame is not simultaneously viable for the
+the 2 cm/s and 5 cm/s flows.
+8
+
+3.5 Flame Preheat and Pyrolysis Lengths
+The preheat lengths for the flames can be estimated by evaluating the length from ΔT=600K-300K
+(ambient to pyrolysis temperatures), based upon the measured linear temperature gradients shown in
+Figure 4 (i.e. 300K/(dT/dx)). For those downstream cases where flame base burnout was observed,
+pyrolysis lengths can be measured directly by locating the x locations for isotherms for 700K and
+600K and taking the Δx between them. For upstream pyrolysis lengths, the Δx between the rising
+600 K isotherm (leading edge) and the decaying 600K isotherm (burnout) can be used, as shown in
+Figure 4.The direct measurements are needed since the temperature gradients are not relevant in this
+temperature range. The calculated preheat and pyrolysis lengths are shown in Figure 9 for each case.
+In each case, the upstream flames have a very small but steady preheat on the order of 5 mm. The
+upstream pyrolysis length grows with time for each case, never reaching steady state. However, the
+
+a)
+
+2 cm/s
+
+b) 5 cm/s
+
+c) 10 cm/s
+
+d) 20 cm/s
+
+Figure 9: Preheat and Pyrolysis Lengths for each test. The preheat lengths are taken from 300K-600K, and
+pyrolysis lengths from 600K-700K. a) 2 cm/s; b) 5 cm/s; c) 10 cm/s; d)20 cm/s.
+9
+
+pyrolysis lengths are shorter at higher flow, as the fuel burns out sooner with the increased heat flux.
+The downstream flame preheat length
+rapidly grows early in the test as the flame
+expands downstream. For the 2 cm/s and
+5 cm/s cases, no steady preheat length is
+seen since the flame base does not
+propagate downstream in these cases and as
+the temperature gradient decays, the
+calculated preheat length continues to
+increase.
+For the 10 cm/s case, the downstream
+flame does grow and reaches a steady
+preheat length of ~46.5 mm until late in the
+test when the 600K line approaches the
+edge of the IR field of view. The
+downstream burnout front (flame base) is
+represented by a much higher temperature
+(700K), so we also directly measure the
+distance between 600K and 700K, which is Figure 10: Preheat and Pyrolysis Lengths as a function of
+also shown in Figure 5, and reaches a
+flow for both upstream and downstream flames, based on
+steady length of ~35.5 mm later in the test. values from Figure 9.
+To estimate the total preheat length from
+ambient to burnout, we add the two pseudo-steady values to estimate a pseudo-steady preheat length
+of ~84 mm for the downstream flame, which is longer than the actual downstream sample (70 mm),
+so an actual steady-state concurrent flame size was not obtained for this test. This is not surprising,
+since the downstream flame never full separated from the upstream flame.
+For the 20 cm/s case, the downstream flame rapidly grows out of the IR field of view, so
+measurements are not complete. The measured preheat length was 59.5 mm, and the measured
+pyrolysis length was 38.3 mm, for a total length of 97.8 mm, much longer than the available sample.
+Figure 10 has a summary of the measured flame lengths for the four cases. The upstream preheat
+lengths shown a decrease with increasing flow as would be expected from α/U scaling. The upstream
+pyrolysis lengths at the end of the test also exhibit a linear decrease with increasing flow. The end
+of test downstream preheat lengths at the lower flows are ~ 5 cm and do not vary with flow within
+the estimated error, but do show an increase for the 20 cm/s case. The downstream pyrolysis lengths
+can only be measured for the highest two cases since only for those cases did the temperatures reach
+700 K after the ignition transient. The pyrolysis length is shorter than the preheat length for the
+downstream flame, in contrast with the upstream flame. The total downstream estimated flame
+lengths (preheat + pyrolysis) are also shown, but are longer than the actual sample so direct
+measures were not possible.
+
+10
+
+3.6 Thermocouple Readings
+The thermocouple data for the surface thermocouples can be compared with the IR image results.
+The thermocouple data for the four cases is shown in Figure 11. In Figures 11a and 11b the
+upstream surface thermocouples at +2 cm and +4 cm are plotted for the four cases. In each test, the
+thermocouple heats up sharply in a convex shape from ambient as the flame approaches. The shape
+of the curve has an inflection point at the peak heat flux beneath the flame leading edge, and then the
+curve plateaus at the fuel pyrolysis temperature. These plateau pyrolysis temperatures are plotted in
+the inset as a function of flow. At the +2 cm location, the flame arrival time is nearly constant due to
+the proximity of the igniter. Interestingly, the slowest flows respond first to the approach despite the
+slower spread rate. This is attributed to the ~ 1.5x larger preheat distance at the slow flow compared
+to the fastest flow. The pyrolysis temperatures increase linearly with flow. At the +4 cm location,
+the difference in spread rates has allowed the faster flames to arrive earlier so the profiles stack with
+the flow. The pyrolysis temperatures are nearly identical to the +2 cm temperatures, indicating the
+upstream flame is steady.
+
+Figure 11c shows the surface thermocouple data for -2cm for each of the four cases. The heat up
+occurs almost from ignition as the heated gas flows downstream past the thermocouple. The shape
+of the curve is nearly linear early on, and then plateaus out to pyrolysis temperatures. These are
+again plotted in the inset. The downstream pyrolysis temperatures are non-linear with flow, and
+lower than the upstream temperatures for the same flows.
+
+a)
+
+b)
+
+c)
+
+d)
+
+Figure 11: Surface thermocouple data for the 4 cases at 3 axial locations: a) +2 cm, b) +4 cm, and c) -2 cm.
+Insets in each figure show the trend in pyrolysis temperatures with flow. d) steady plateau pyrolysis
+temperatures for all cases as a function of flow, and compares these values to the IR plateau values. The
+inset shows the emissivity calculated from this comparison using Eqn. 1.
+11
+
+3.7 Surface Emissivity
+Figure 11d plots the pyrolysis temperature data for the 3 locations and compares it with the IR
+blackbody pyrolysis temperatures at the same X locations. The trends with flow are the same, but the
+blackbody temperatures are always lower. A comparison can be made to determine the emissivity of
+the pyrolyzing surface for the wavelength range of the flame filter. By definition, comparing
+thermocouple measurements with blackbody IR temperatures (ε=1) readings the surface emissivity
+is:
+
+H
+
+4
+TIR  300 4
+4
+TTC  300 4
+
+(1)
+
+The estimated average emissivities are shown as dashed lines: 0.76 for the upstream pyrolyzing fuel
+and 0.87 for the downstream pyrolyzing fuel. The variation with flow is within the error estimate
+(±10%, based on IR temperature error estimates), but the differences between upstream and
+downstream emissivities is slightly larger than this error, and the downstream emissivity is
+consistently higher. This may be due to the prolonged preheating of the downstream fuel over the
+large preheat length that allows a more thorough pyrolysis of the fuel.
+3.8 Energy Balance
+An energy balance can be used to evaluate the net heat flux from the flame (which includes
+convection and radiation) to the fuel surface, neglecting the heat of pyrolysis. The energy balance
+for the fuel is
+x
+
+q"net flame heat flux U sWCs
+
+wTs
+4
+ HV (T 4  T f)
+s
+wt
+
+(2)
+
+Where ρsτ is the cellulose fuel half-area density of 0.003 g/cm2, Cs is the fuel heat capacity, 1.26 J/g
+K, ε is the emissivity, which is unity for these black body temperature measurements, and σ is the
+Stefan-Boltzmann constant (5.729x10-12 W/cm2 K4). Ts is the blackbody surface temperature in K,
+and ambient temperature T∞ is 300K. The time derivative in surface temperature is evaluated by
+simple difference over a 0.5 second interval at each pixel location along the line profile.
+Figure 12 shows the resulting heat flux profiles for the four flow cases at 35% O2. The profiles stop
+at ~0.2 W/cm2 at the low end of the IR operating temperature range of ~450K. Figure 13 plots
+representative profiles relative to the peak heat flux for each flow. The upstream flame transitions
+from the ignition to a steady-state leading edge peak heat flux followed by a plateau at about 1
+W/cm2 for pyrolysis.
+The downstream flame has a peak at burnout, and a long low level preheat beneath the flame. The
+low level of downstream heat flux is due to the large flame standoff distance. The burnout peak
+heat flux is only an estimate, since the pyrolysis term was neglected in the estimate and there is
+clearly exothermic oxidative pyrolysis occurring at burnout at the 20 cm/s flow. Also, a significant
+portion of the fuel surface above the pyrolysis temperature (~600K), as shown in Figure 4, especially
+at the higher flows. At these low levels of heat flux beneath the downstream flame, and the
+
+12
+
+extensive length of elevated temperature surface, radiative loss is a much more significant term than
+for the upstream flame.
+
+Figure 12: Flame net heat feedback to the fuel surface based on the energy balance, Eq. (2). a)
+2 cm/s, b) 5 cm/s, c)10 cm/s, d) 20 cm/s.
+
+Figure 13: Representative heat flux profiles plotted relative to the peak location for a) downstream
+flame and b) upstream flame.
+13
+
+The peak heat flux was extracted from the data and is plotted in Figure 14. Figure 14a shows the
+steadiness of the upstream peak heat flux as a function of time. In Figure 14b the downstream flame
+peaks at 20 cm/s vary considerably with time, which is attributed to the very sharp peak in the very
+small burnout zone. Figure 14c takes the average values of the heat flux and plots them as a function
+of the flow. The upstream heat flux increases linearly with flow, whereas the downstream heat flux
+increases gradually at low flow, and is actually lower than for the upstream flame. At 10 cm/s when
+the downstream flame begins to spread, the heat flux increases more rapidly. The error bars
+represent the standard error of the data sets.
+
+a)
+
+b)
+
+c)
+
+Figure 14: Peak heat flux levels a) upstream flame as a function of time; b) downstream flame as a
+function of time; c) average peak heat flux versus flow for both upstream and downstream flames.
+14
+
+3.9 Radiative heat transfer
+3.9.1 Surface Radiative Heat Loss
+The fraction of heat lost via surface radiative loss can be estimated using an average blackbody
+pyrolysis temperature of Ts=650K:
+
+loss fraction
+
+x
+
+4
+V (T 4  T f)
+s
+
+(3)
+
+q"net flame heat flux
+The radiative heat loss for this
+temperature is 0.98 W/cm2. The
+average peak heat flux levels from
+Figure 14c are used for the net flame
+heat flux values. The loss fraction is
+plotted in Figure 15. The loss
+fraction drops with increasing flow as
+one would expect. The upstream loss
+fraction changes only slightly, but the
+downstream losses increase
+significantly at low flow. For the two
+non-propagating downstream flames,
+the losses exceed 70%, consistent with
+[Olson et al. (2001)].
+Figure 15: Estimated radiative loss fraction for the upstream and
+downstream flames. For losses greater than 70%, no downstream
+flame propagation is observed.
+
+3.9.2 Gas-Phase Radiation
+
+The gas phase radiation can also be estimated from the IR images in the gap where the fuel has
+burned away. The emissions are primarily from soot at 3.8 microns, and we can directly calculate
+the gas-phase radiation from the blackbody temperatures and the floor temperature of the IR camera
+of 450K:
+x
+
+q"gas phase V (T 4  T 4 ) (4)
+g
+IRfloor
+The temperatures were taken at +3 mm once the fuel burned away. The radiant flux is plotted in
+Figure 16 as a function of time. For 2 cm/s and 5 cm/s the radiation does not change significantly
+with time, and just exhibits a gradual decline as the flame moves upstream. At 10 cm/s and more so
+at 20 cm/s there is an increase in gas-phase radiation as the leading edge of the flame moves away,
+and then a decline after a peak in radiation as the peak sooting zone moves upstream as well. Figure
+2 visible front views show that at 20 cm/s the soot zone is mostly upstream of the igniter location.
+The inset to Figure 16 plots the peak values and average values as a function of flow. Both show a
+linear increase with flow.
+
+15
+
+The gas-phase radiation can
+be a heat loss mechanism
+(especially for opposed flow
+where the view-factors are
+poor for preheating the
+unburned fuel) or a heat
+feedback to the fuel, which
+is significant for the
+downstream flame
+preheating. To estimate
+the relative importance of
+the flame feedback on the
+flame spread, we take the
+ratio of average gas-phase
+Figure 15: Estimated radiative loss fraction for the upstream and
+radiation to the net flame
+downstream flames. For losses greater than 70%, no downstream
+heat flux. For the upstream
+flame propagation is observed.
+flame, the peak heat flux at
+the leading edge is used, but
+Figure 16: Gas-phase radiation estimates in the burnout gap as a
+for the downstream flame,
+function of time and (inset) average values as a function of flow.
+the pre-peak heat flux was
+used because we want to assess the importance of gas-phase radiation for preheating and pyrolysis
+rather than burnout, where the peak flux occurs. The gas-phase fraction data are plotted in Figure 17
+for upstream and downstream flames. For the upstream flame, gas-phase radiative feedback at the
+leading edge is at most 20% of the net flux, but for downstream flame it exceeds 30% of the
+feedback for those cases where the downstream flame was viable. It is thus a significant factor in
+the viability of the downstream flame.
+The relative magnitude of the surface loss
+(~ 1 W/cm2) and the gas-phase radiation
+feedback is interesting for the downstream
+flame. Comparing this loss to the values in
+the inset to Figure 16 show that at low flow
+rates, where convective heat transfer is weak,
+the gas-phase radiation is only ~ 15-30% of
+the surface loss, so the losses dominate and
+the downstream flame is not viable. At
+higher flow rates the gas-phase feedback
+approaches the level of the surface loss, thus
+counteracting this loss to a large degree (up to
+80%), and the flames are viable.
+Figure 17: Fraction of the net flame heat flux that is attributed
+to gas-phase radiation to the upstream leading edge of the flame
+or the downstream preheating / pyrolysis.
+
+16
+
+The 10 cm/s flow case is a borderline case for
+downstream spread. The peak heat flux is 1.8
+
+W/cm2, and of that, the gas-phase feedback is an average of 0.4 W/cm2. Therefore, the convective
+heat flux is approximately 1.4 W/cm2. The peak heat flux is still slightly less than the 2 cm/s
+upstream flame which had a peak heat flux of 1.9 W/cm2. By 20 cm/s the downstream peak heat
+flux is 5.2 W/cm2 and gas radiation feedback is a peak of 0.8 W/cm2, so the convective component is
+4.4 W/cm2. At 5 cm/s, in contrast, the peak flux is only 1.2 W/cm2, and the radiative feedback is 0.2
+W/cm2 of that. Convective flux is thus on the same order as the surface radiative loss, and the
+downstream flame is not viable.
+4. Discussion
+Infrared imaging has been shown in the preceding sections to be a very useful quantitative diagnostic
+to measure many aspects of flame spread and heat transfer in the flame zone. The shorter
+wavelength IR camera is particularly well suited to measure the range of burning surface
+temperatures. The flame filter at 3.8 microns eliminates most of the gas-phase radiation except soot.
+Preheat and pyrolysis lengths are determined directly from the IR images in section 3.5. These
+lengths can be very hard to determine from visible imaging, and usually at least 2 orthogonal views
+are required.
+The upstream spread rates in section 3.4 agree well with the visible spread rate measurements [Olson
+et al. (2001), Prasad et al.], and the infrared measurement are expected to be more reliable since the
+visible flame is very luminous and increases in brightness as the test progresses and the burnout gap
+grows in time. Comparison with the model predictions for this same experimental configuration
+and test conditions [Prasad et al.], shows that the model predicts a weaker flame than is
+experimentally observed. At 1.5 cm/s, the model predicts a flamelet (3D), whereas at 2 cm/s the
+experiment exhibits a steady planar upstream flame spread across the full sample. At 10 cm/s the
+model predicts that the downstream spread will occur along the edges. A similar type of spread was
+in fact observed at 5 cm/s in air [Olson et al. (2001)] where an upstream flame spread away from a
+central ignition spot and, after spreading to the upstream edge of the sample, wrapped back around
+along the edges to form a downstream flame spread. In this paper, at 10 cm/s, 35% O2, the
+downstream flame is spreading along the entire sample width. At 20 cm/s, both model and
+experiment observe flame separation and subsequent two simultaneously propagating flames.
+The heat flux estimates from the infrared measurements in section 3.8 are better than those based on
+the thermocouple data, which needed to be smoothed and differentiated [Olson et al. (2001)]. In
+contrast, simple finite differencing is used here. Comparison with these previous estimates for 35%
+O2 tests shows that the linear increase with flow trend is the same, but the magnitude of the
+upstream heat flux is lower via the infrared measurements.
+Quantitative heat flux estimates for upward and downward spread over thick cast PMMA using
+holographic interferometry [Ito and Kashiwagi (1988)] agree in general trends presented here, but
+the magnitude of the heat flux is different for this thick material. For downward spread, they found
+the peak heat flux increased rapidly to 7 W/cm2 within a short 3.4 mm of preheating, and for upward
+spread they found a much lower gradually increasing heat flux over approximately 5 cm of sample
+that reaches 2.8 W/cm2 at the vaporization front (burnout is not reported for this thick material).
+These length scales and relative peak values (factor of ~2.5 for upstream to downstream) agree with
+those seen in Figure 13, except the for the burnout peak flux for the downstream flame.
+
+17
+
+5. Conclusions
+The infrared surface temperature image data obtained during microgravity testing of cellulose
+ignition and flame spread have been analyzed to provide quantitative temperature gradients, preheat
+lengths, flame spread rates, and net flame heat flux to the fuel sample for simultaneous upstream and
+downstream flame spread. Four cases have been examined that range from upstream only spread to
+a clearly simultaneous upstream and downstream flame spread. The results highlight the differences
+in the structure of the two halves of the flame as they spread apart. Upstream flame spread is
+controlled by the leading edge of the flame. Net heat flux increases with increasing flow, as does the
+flame spread rate. Downstream flames have very long preheat lengths with a very low heat flux, and
+are at higher flow rates are anchored to the fuel at the flame base which provides a sharp spike in the
+heat flux to consume the fuel. At low flow rates the downstream flame is not viable due to the low
+heating rate and the significant radiative losses. The infrared surface temperature data reported here
+can provide added depth to the model comparisons.
+
+6.
+
+Acknowledgements
+
+This work was jointly supported by a NASA/ NEDO international agreement. The microgravity
+experiments of this work were performed at JAMIC (Japan Microgravity Center) during March,
+1999 under the management of JSUP (Japan Space Utilization Promotion Center) as a part of an
+R&D project of advanced combustion science utilizing microgravity by NEDO (New Energy and
+Industrial Technology Development Organization of Japan). The authors would like to thank NASA
+electrical engineer Mike Capelety and the NASA TIGER engineering team for supporting the rig
+buildup and testing. The authors would also like to thank Kenichi Ito, Katsuhiro Nishizawa and
+JAMIC facility personnel in performing the microgravity experiments.
+
+18
+
+7. References
+Bhattacharjee, S., Altenkirch, R.A., Olson, S.L., and Sotos, R.G.; J. Heat Transfer 113 (3), 670-676,
+1991.
+Cordova, J.L., Walther, D.C., Torero, J.L., and Fernandez-Pello, A.C., Combust. Sci. and Tech. 164
+(1) 253-278, 2001.
+Di Blasi, Combust. Flame 100, 332-340, 1995.
+Feier, I. I., Shih, H.-Y., Sacksteder, K.R., and T’ien, J.S.; Proc. Comb. Inst. 29 (2002), 2569-2577.
+Ferkul, P.V., and T’ien, J.S.; Combust. Sci and Tech. 99 345-370, 1994.
+Fernandez-Pello, A.C., Combustion Fundamentals of Fire, Chapter 2 “The Solid Phase”, Academic
+Press Limited, 1995.
+Hirano, T., and Saito, K.; Prog. Energy Combust. Sci. 20, 461-485, 1994.
+Hirano, T., Noreikis, S.E., and Waterman, T.E.; Combust. Flame 23, 83-96, 1974.
+Ito, A., and Kashiwagi, T.; Combust. Flame 71, 189-204, 1988.
+Kleinhenz, J., Ferkul, P., Pettegrew, R., Sacksteder, K.R., and T’ien, J.S.; Fire & Materials 29
+(2005), 27-37.
+Kumar, A., Shih, H.-Y., and T’ien, J.S.; Combust. Flame 132, 667-677, 2003.
+Olson, S.L., Combustion Science and Technology, 76,4-6, pp. 233-249, 1991.
+Olson, S.L., Kashiwagi, T., Fujita, O., Kikuchi, M., and Ito, K.; Combust. Flame 125, 852-864,
+2001.
+Olson, S.L., Hegde, U., Bhattacharjee, S., Deering, J.L. Tang, L., and Altenkirch, R.A.; Combust.
+Sci. and Tech. 176, 557-584, 2004.
+Nakamura, Y., Kashiwagi, T., McGrattan, K.B., and Baum, H.R.; Combust. Flame 130, 307-321,
+2002.
+Prasad, K., Nakamura, Y., Olson, S.L., Fujita, O., Nishizawa, K., Ito, K., and Kashiwagi, T., Proc.
+Comb. Inst. 29 (2002) 2553-2560.
+Quintiere, J.G.; Fundamentals of Fire Phenomena, John Wiley and Sons Ltd., 2006.
+Ross, H.D., ed. Microgravity Combustion: Fire in Free Fall, Academic Press, 2001.
+Ross, H. D. and. Miller, F. J. Twenty-sixth International Symposium on Combustion, 1327–1334.
+Combustion Institute, 1996.
+Sanchez-Tarifa, C. and Lazaro, B., First International Symposium on Microgravity Research and
+Applications on Physical Sciences and Biotechnology, 2000.
+T’ien, J. S., Combust. Flame 65:31–34 (1986).
+
+19
+

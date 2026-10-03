@@ -1,0 +1,1020 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50th International Conference on Environmental Systems ICES-2021-15 
+12-15 July 2021 
+
+The effect of reduced pressure on the characteristics of 
+
+spreading flames 
+
+Luca Carmignani1, Michael J. Gollner2 and Carlos Fernandez-Pello32 
+
+University of California, Berkeley, Berkeley, 94720, USA 
+
+Maria Thomsen4 
+
+Universidad Adolfo Ibáñez, Santiago, Chile 
+
+Sonia Fereres 53 
+
+Abengoa Innovación, Sevilla, 41014, Spain 
+
+and 
+
+David Urban6 and Gary A. Ruff74 
+
+NASA Glenn Research Center, Cleveland, OH, 44135, USA 
+
+Flame spread over solid fuels is a canonical problem in fire science, due to its direct 
+
+implications on material flammability and importance in fire development. In a microgravity 
+
+environment, such as onboard a spacecraft, flames can behave very differently than on Earth. 
+
+This is concerning for spaceflight life safety, especially in higher-oxygen environments. Due to 
+
+the difficulties associated with microgravity testing, low-pressure environments have been 
+
+proposed as an alternative to approximately replicate the burning behavior of solid fuels 
+
+observed in reduced gravity conditions because of similar diffusion and heat transfer 
+
+mechanisms. However, the roles played by gravity and pressure on flame length, standoff 
+
+distance, and flame spread rate vary with the burning configuration. In concurrent flame 
+
+spread, the buoyant flow enhances the spread rate by bringing the flame closer to the fuel 
+
+surface and increasing the heating of the solid fuel. In opposed flame spread, the sample is 
+
+preheated by the flame ahead of the flame leading edge, which is strongly affected by the 
+
+surrounding flow field. In this work, we consider flames spreading over thin cotton samples 
+
+in both downward (opposed) and upward (concurrent) configurations to investigate the effect 
+
+of pressure (30-100 kPa) on flame characteristics, such as spread rate and standoff distance. 
+
+A small forced flow is induced upward so that the flames are exposed to a mixed (forced and 
+
+free) flow. By reducing pressure, flames become less bright, their standoff distance increases, 
+
+and their spread rates decrease similar to what is observed in low-gravity environments. These 
+
+results could in help understanding the differences between flames spreading at low pressure 
+
+and low gravity environments for these similar, yet very different, spreading configurations. 
+
+They could also provide more information about potential Earth-based flammability testing 
+
+of materials for spacecraft applications. 
+
+ 
+1 Postdoctoral researcher, Mechanical Engineering Dept., 60 Hesse Hall, Berkeley, CA, 94720. 
+2 Assistant Professor and Deb Faculty Fellow, Mechanical Engineering, 6105A Etcheverry Hall, Berkeley, CA, 94720. 
+3 Professor of the Graduate School, Mechanical Engineering, Berkeley, CA, 94720. 
+4 Faculty of Engineering and Science, Diagonal Las Torres 2640, Peñalolén, Santiago, Chile. 
+5 Engineer, Aerospace & Defense Division, Energía Solar 1, 41014 Sevilla, Spain 
+6 Branch Chief, Low-Gravity Exploration Technology Branch, MS 77-5, 21000 Brookpark Road, Cleveland, OH 
+
+44135. 
+7Spacecraft Fire Safety Demonstration Project Manager, Exploration Systems Office, MS 162-7, 21000 Brookpark 
+
+Road, Cleveland, OH 44135. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+2 
+
+I. Introduction 
+
+LAME spread over solid fuels has been studied for decades because of its importance in fire safety. The nature of 
+
+a fuel, the conditions under which it ignites and burns, and its interactions with the surroundings determine the 
+
+rate of growth and heat released by the fire. In confined habitats, especially when escape routes are not available and 
+
+ventilation is limited, such as onboard a spacecraft, a fire or even a small flame could have catastrophic consequences. 
+
+This is increasingly relevant as we look towards long duration space flight and the potential of reduced pressure, 
+
+increased oxygen concentrations atmospheres (Space Exploration Atmospheres, SEA)1. Therefore, understanding the 
+
+physics behind spreading flames is important for life and habitat safety aboard spacecraft.  
+
+On Earth gravity, flames naturally generate their own flow fields as buoyancy induces upward currents 
+
+proportional to the density difference between hot post-combustion gaseous products and the ambient air. In 
+
+microgravity this buoyant flow field is extremely weak and comparable to diffusive flows, and flames may not spread 
+
+without externally generated flows, such as the low velocity flows generated in spacecraft by heating, ventilation, and 
+
+cooling systems (HVAC). Spreading flames are generally divided into two main categories: concurrent flame spread, 
+
+where the direction of propagation is the same as that of an oncoming flow field, including upward-spreading flames 
+
+on Earth, and counter-current or opposed-flow flame spread, where the flame moves against an incoming flow. 
+
+Concurrent-flow flame spread is known to be more hazardous than opposed-flow flame spread in a terrestrial 
+
+environment. Concurrent spread is characterized by an acceleratory portion in which the flame grows over the 
+
+flammable material due to the increased buoyancy induced flows caused by the larger surface burning. However, it 
+
+has been shown that in a low-gravity environment opposed-flow flames can grow more easily than concurrent 
+
+spreading flames because of a fresh supply of oxidizer2, and sometimes burn under conditions where extinguishment 
+
+would occur on Earth3-5. 
+
+The challenges associated with microgravity experiments (cost, duration, safety regulations, among others) make 
+
+testing in space or other microgravity facilities difficult, so researchers have to look at alternative methods to test the 
+
+flammability of materials to be used in spacecraft environments. A possible approach is to use reduced ambient 
+
+pressure, and consequently reduced density, to reproduce the burning characteristics observed in microgravity 
+conditions. As the pressure is reduced, flames tend to move away from the fuel surface, and the boundary layer along 
+
+the solid fuel becomes thicker6. Furthermore, this behavior causes a reduced heating of the fuel surface by the flame, 
+
+that results in lower spread rate and flame length. Thus, the effect of reducing the ambient pressure has similar 
+
+consequences as reducing the buoyant flow velocity in low gravity. Previous experiments suggest that reduced 
+
+pressures ranging between 20-40 kPa may be able to simulate concurrent flames in microgravity in terms of flame 
+
+spread rate and flame length7-9, at least for thin combustible materials. Furthermore, models involving a constant 
+
+Grashof number have been successful in correlating partial gravity results10. However, there are some limitations to 
+
+the comparison between low gravity and low pressure. Numerical studies and scaling analyses highlighted the 
+
+importance of radiation losses in reduced pressure environments11-13. At the same time, diffusion processes become 
+
+more important because of the lower molecular density. This, in combination with different heating mechanisms and 
+
+pressure effects on chemical kinetics, can change the flame structure14-18. 
+
+The comparison between concurrent flame spread rates over fabric and acrylic fuels at reduced pressure on Earth 
+
+and in microgravity has given promising results when a mixed flow field is considered (given by a buoyant component 
+
+depending on pressure and gravity and a forced component)7,8,10. However, similar models have not been effective in 
+
+comparing the terrestrial and microgravity results for opposed flame spread over acrylic rods19, suggesting that the 
+
+heat transfer from the flame to the solid fuel is affected differently in this flame spread configuration. The different 
+
+behavior of opposed and concurrent flames could be due to the different role played by the problem geometry; in 
+
+concurrent flame spread, the flame develops from the upstream sample edge, and covers a large portion of the fuel 
+
+(generally increasing in time). On the other hand, opposed-spreading flames develops from the downstream edge of 
+
+the sample, preheating only the fuel ahead of the flame leading edge. This makes the opposed flames much slower, 
+
+and usually steady, but also more susceptible to the ambient conditions such as flow velocity. 
+
+The comparison between low gravity and low pressure flame spread needs to account for differences related to the 
+
+heat transfer mechanisms (i.e. heating of fuel surface, and importance of radiation), flow field (importance of 
+
+buoyancy), and chemical kinetics, and these factors can play different roles based on the flame spread configuration. 
+
+In this work, we compare the effect of reduced pressure on opposed and concurrent flames spreading over thin cotton 
+
+samples. Specifically, we present flame spread rate, standoff distance and flame length variations with pressure. A 
+
+previously developed theoretical analysis is expanded to study the correlation between predicted and measured 
+
+standoff distance; opposed and concurrent spreading flames show a similar trend when reasonable length scales are 
+
+F 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+3 
+
+used for the prediction. These results should 
+
+help further the understanding the effect of 
+
+pressure on the heating of the fuel surface. 
+
+II. Experimental setup 
+
+The normal gravity experiments were 
+
+conducted in an apparatus previously 
+
+developed to study the flammability of solid 
+
+combustible materials under varied ambient 
+
+conditions7,8. The apparatus consists of a 
+
+laboratory scale combustion tunnel that is 
+
+inserted in a pressure chamber (Figure 1). 
+
+The tunnel has a 125 mm square cross 
+
+section and a 600 mm total length. The first 
+
+350 mm section of the duct serves as a flow 
+
+straightener, the other 250 mm segment of 
+
+the duct is used as the test section. The 
+
+chamber is provided with a flow system that provides constant supply and exhaust of gases to avoid vitiation problems. 
+
+Compressed house air was supplied through critical nozzles (O’Keefe Controls) to the bottom of the duct while 
+
+constantly evacuating to maintain constant pressure inside the chamber. The chamber pressure was controlled by a 
+
+high-capacity vacuum generator (Vaccon JS-300) and a mechanical vacuum regulator. The chamber pressure was 
+
+monitored constantly with an electronic pressure transducer (Omega Engineering, Inc. PX303-015A5V). The tests 
+
+were conducted in air under pressures ranging between 30 and 100 ± 2 kPa. The forced flow was adjusted to provide 
+
+20 cm/s at the respective chamber pressure for all tests, this velocity was selected to match the flow of air induced by 
+
+the HVAC system inside of a spacecraft. In addition to the forced flow, because the experiments were performed 
+
+under Earth’s gravity, the flame is also exposed to a self-induced buoyant flow. Thus, during the experiments the 
+flame is exposed to a mixed (free and forced) flow condition. 
+
+The direction of the flow was upward, with the flames spreading downward (in opposed flow configuration) by 
+
+igniting the sample at the top, and upward (in concurrent flow configuration) by igniting the sample at the bottom. 
+
+The samples consisted of thin cotton fabric made out of pure cotton and had an overall area density of 21.8 mg/cm2. 
+
+The rectangular samples were held in between two identical stainless-steel frames 0.6 mm thick, with a rectangular 
+
+opening of 150 mm long by 50 mm wide that served as the test area. Each sample was placed vertically at the midplane 
+
+of the test section. Ignition of the material was induced with a 29-gage Kanthal 45 mm length wire. The igniter is 
+
+energized using a controlled current power supply (BK Precision 1785) set to deliver 40 W for about 10 s. The igniter 
+
+was braided along the upstream edge of the sample (bottom of the sample) for the concurrent flames experiments, 
+
+whereas for the opposed ones it was braided along the downstream edge of the sample (top of the sample). The 
+
+concurrent spread experiments were repeated five times for each test condition to address the experimental uncertainty, 
+
+whereas three repetitions were sufficient for downward spreading flames because of their steadiness and higher 
+
+repeatability. 
+
+The ignition and subsequent flame spread were video recorded with a resolution of 1920 by 1080 at 30 frames per 
+
+second using a Sony RX10-III camera for the front view, and a second camera (Nikon D3200) was used to record 
+
+videos of the flame side view with a resolution of 1920 by 1080 at 30 frames per second. The camera settings were 
+
+kept constant among the experiments, although they slightly differ between front view and side view. The experiments 
+
+videos were processed using a Python-based program, called Flame Tracker, internally developed and now publicly 
+
+available20. The color tracking method, based on intensity thresholds for each pixel in the RGB channels, was used to 
+
+isolate the flame region from the background on a frame-by-frame basis, and the minimum and maximum coordinates 
+
+were identified as flame base and tip locations. The flame length is directly calculated as the difference between these 
+
+two locations. The Flame Tracker also calculated the spread rates between all the frames considered (both for flame 
+
+base and flame tip); these values were smoothed with a moving average, with a number of frames between 10 and 30, 
+
+corresponding to a time average of 0.3 and 1 s. In this work we report the spread rate values of the flame base for the 
+
+opposed flow configuration, and the ones of the flame tip for the concurrent flow configuration. 
+
+ 
+Figure 1. (a) Schematic of experimental apparatus and (b) picture 
+
+of the exterior of the vacuum chamber. 
+
+ 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+4 
+
+III. Experimental Results 
+
+A. Concurrent flames 
+Figure 2 shows the frontal (on the left) and side (on the right) views of concurrent spreading flames a few seconds 
+
+after ignition, at the tested pressure levels. Camera settings are maintained constant with variating pressure to 
+
+qualitatively show the visual differences of the observed flames. From the side flames we can notice that by reducing 
+
+pressure the flames become dimmer, and the turbulence and flickering at the tip of the flames gradually disappear. 
+
+From these images we can also notice that the flame region becomes thicker (along the direction perpendicular to the 
+
+fuel surface) despite the lower luminosity, suggesting that diffusion processes get increasingly important. An 
+
+interesting feature shown by the photographs of the flames starting at pressures below 60 kPa is the location of the 
+
+blue portion of the flame. Diffusion flames are controlled by the transport of the fuel and oxidizer toward the reaction 
+
+zone. Naturally we would expect a larger supply of fresh oxidizer on the outer side of the flame zone (oxidizer side), 
+
+while we expect a larger fuel concentration in the inner side (fuel side). Consequently, the sooty region of the flame, 
+
+characterized by the yellow-orange color, develops on the fuel side, while the flame leading edge and the outer layer 
+
+have a blue color characteristic of CH radicals’ emissions in contact with the oxidizer, although usually this layer is 
+
+not visible because of the much lower luminosity with respect of the sooty region. However, as shown in Figure 2, the 
+
+blue region of the flame moves towards the fuel side at low pressure. From these images it is not clear if the internal 
+
+blue layer is not visible at higher pressures or if it is not present at all. A similar effect is visible in the side flames at 
+
+reduced pressure in Ref. 10. An inner blue region with 
+
+an outer red halo was observed also in microgravity 
+
+flames (drop tower tests) at very low pressures (~5 kPa) 
+
+by Marcum et al.21; the red region was associated to a 
+
+two-stage reaction zone following the leak of reactants 
+
+such as CO and H2 slowly reacting to CO2 and H2O. 
+
+However, the pressure levels considered in this work 
+
+are much higher, and by a visual comparison with Ref. 
+
+21, the flame inversion might have a different nature, 
+
+especially since the red region in the flame pictures of 
+
+Figure 2 seems generated by soot radiation emission. 
+
+The blue region could indicate that the oxidizer can 
+
+better penetrate to the fuel side because of the enhanced 
+
+diffusion at low pressure, or that it could enter from the 
+
+quenching zone by the flame leading edge; despite the 
+
+reason, this behavior has not been observed in 
+
+microgravity. 
+
+Upward spreading flames grow over time, and so do 
+
+their spread rates. Given the total length of the samples 
+
+ 
+Figure 2. Frontal (left frame) and lateral (right frame) view of concurrent spreading flames over thin cotton 
+
+samples for the tested pressure levels. 
+
+ 
+
+ 
+Figure 3. Variation of the spread rate (left axis), and 
+
+time needed by the flame to cover the entire sample 
+
+length (right axis) with pressure for upward spreading 
+
+flames over cotton samples. 
+
+
+
+International Conference on Environmental Systems 
+
+5 
+
+considered in this work (about 150 
+
+mm), the tip of the flame reached the 
+
+end of the sample before substantial 
+
+movements of the flame base. 
+
+Instantaneous values of the spread 
+
+rate for the flame tip were obtained 
+
+from the front videos on a frame by 
+
+frame basis (starting when the igniter 
+
+was turned off), and then smoothed 
+
+by using a moving average of 10 
+
+frames (0.3 s) for pressures above 60 
+
+kPa, and 30 frames (1 s) for the lower 
+
+pressure levels. These spread rate 
+
+values, which increased over time, 
+
+were then averaged over the time 
+
+needed by the flame to cover the 
+
+entire sample, for all the repetitions 
+
+of the experiments. Figure 3 shows 
+
+these average spread rate values as 
+
+function of ambient pressure, as well 
+
+as the spreading time of the flame tip. The standard deviation reflects the variation of the spread rate values during the 
+
+experiments, and not among the repetitions; this explains the large error bars. Overall, we can see that the spread rate 
+
+substantially decreases with pressure, with the only exception being the flames at 40 kPa; these flames tended to shrink 
+
+after the igniter was turned off, followed by a few seconds of very slow growth before quickly gaining intensity and 
+
+covering the entire sample. This could be seen as an intermediate behavior between the flames at 60 kPa that grew 
+
+relatively quickly, and the flames at 30 kPa, which had a much more gradual growth. However, the initial behavior 
+
+could also be related to a slower ignition process due to the reduced pressure. This transition of flame behavior can 
+
+also be observed by the spreading times reported in Fig. 3; from 100 kPa to 60 kPa, the flames reached the end of the 
+
+samples in less than 5 seconds in all cases, with small dependence on pressure. On the other hand, the spreading time 
+
+starts increasing at 40 kPa, and at 30 kPa it becomes more than four times larger than at 100 kPa. 
+
+B. Opposed flames
+
+Figure 4 shows the front and lateral views of opposed spreading flames over the cotton samples about 20 s after
+
+ignition at the tested pressure levels. At 40 kPa the flame could not propagate along the sample after ignition, thus in
+
+the opposed spread configuration we reached a non-propagation (extinction) limit, while concurrent flames were able
+
+to spread at much lower pressures.
+
+As in the concurrent case, by reducing pressure the flames get dimmer, their reaction zone becomes thicker (visible 
+
+from the side view), and the blue region develops along 
+
+the internal layer of the flame between 50-60 kPa. The 
+
+flame length does not seem to be strongly impacted by 
+
+pressure reductions. 
+
+The opposed spread videos were processed to 
+
+measure the variation of flame position, length and 
+
+spread rate in time, which reached steady state soon after 
+
+ignition, unlike the case of concurrent spreading flames 
+
+that grew over time. Figure 5 shows the variation of 
+
+flame spread rate and flame length with pressure, 
+
+averaged among the experiment repetitions. While the 
+
+spread rate decreases of about 20 % from 1.20 mm/s at 
+
+100 kPa to 0.95 mm/s at 50 kPa, the flame length does 
+
+not show a clear trend. These results are consistent with 
+
+the thermal theory of opposed flame spread, which 
+
+predicts small variations of spread rate with pressure22. 
+
+From the comparison of the flame pictures in Figure 
+
+2 and Figure 4 (not in the same scale), it is also seen that 
+
+Figure 5. Variation of the measured spread rates (left
+
+axis), and flame length (right axis) with pressure for
+
+opposed spreading flames.
+
+Figure 4. Frontal and lateral views of opposed spreading flames. The 
+
+spread rate and length of these flames reach steady state soon after 
+
+ignition. 
+
+Figure 5. Variation of the measured spread rates (left 
+axis), and flame length (right axis) with pressure for 
+
+opposed spreading flames. 
+
+
+
+International Conference on Environmental Systems 
+
+6 
+
+the flame lengths are much larger for concurrent spreading flames than for opposed spreading flames. This is due to 
+
+the difference geometrical configuration of the burning surface; in concurrent flame spread a flame spreads on each 
+
+side of the cotton sheet, the pyrolysis region is determined by the rate of spread of the burning front and the pyrolysis 
+
+front, and it is followed by a relatively long preheating region downstream of the pyrolysis front23, where the flames 
+
+on each side are guided by the momentum boundary layer. In opposed flow flame spread, the solid fuel ends at the 
+
+burn out edge, and the flames from both sides of the cotton sheet converge into a single flame, burning in a wake type 
+
+diffusion flame. 
+
+C. Standoff distance
+
+The flame standoff distance is an important parameter in flame spread modeling because of its relation to the heat
+
+transfer between fuel surface and flame region, and dependence on ambient conditions. A common assumption for 
+
+flames burning in atmospheric conditions is the flame-sheet approximation (infinitely thin flame), resulting from 
+
+infinitely fast kinetics and no products dissociation24. In reality, finite-rate chemistry and diffusion cause the flame to 
+
+have a finite thickness, especially at low pressures. The importance of the standoff distance can vary with the flame 
+
+spreading configuration; since the concurrent flames 
+
+developed over flat fuels cover a much larger fuel area 
+
+than opposed spreading flames, variations of standoff 
+
+distance could play a bigger role in the first case. 
+
+To quantify the effect of pressure on the standoff 
+
+distance, the side videos of concurrent flames spreading 
+
+over the cotton surface were processed to measure the 
+
+maximum distance from the fuel surface to the outer 
+
+flame region. Because of the thickness of the flame, we 
+
+refer to this measured length as maximum flame 
+
+standoff distance. The measured values for concurrent 
+
+flames are reported in Figure 6, and error bars are 
+
+presented showing the variability between repetitions at 
+
+similar conditions. As mentioned before, the tip of 
+
+concurrent flames oscillates for pressures between 60-
+
+100 kPa, thus only the laminar portion of the flame was 
+
+considered for the tracking, as shown in the inset of the 
+
+figure (the shaded upper region was neglected for these 
+
+measurements). From the graph of Figure 6, we can see 
+
+that the maximum distance increases of about 50% 
+
+going from 100 to 30 kPa for concurrent flames.  
+
+Figure 6 also presents the results for the flames 
+
+spreading downward in the opposed flow configuration. 
+
+It can be seen that a similar increase in the maximum standoff distance occurs for opposed spreading flames as for 
+
+concurrent spreading flames in the smaller range 100-50 kPa. Furthermore, from the measurements it was observed 
+
+that the standoff distance was not function of time, and small oscillations decreased at lower pressures, as indicated 
+
+by the lower standard deviation in Figure 6 for the values below 50 kPa.  
+
+IV. Simplified Analysis and Discussion
+
+In both concurrent and opposed flame spread, the flow velocity approaching the flame region is an important 
+
+parameter of the problem since it controls the residence time of the oxidizer. The flames tested in this work were 
+
+exposed to a forced flow velocity of 20 cm/s, and the buoyant flow generated by these flames is of the same order of 
+
+magnitude (10-50 cm/s). Thus, the flow velocity affecting the boundary layer along the sample and the flame itself 
+
+are exposed to a mixed (forced and free) flow. This type of situation has been previously studied theoretically25-27. 
+
+Specifically, a relation for the flame standoff distance 𝑦𝑓 was derived in terms of non-dimensional parameters
+27:
+
+𝑦𝑓 = (Re
+4 + Gr 2)−1/8𝑥 ∫ [1 + θ (
+
+𝑇𝑤
+
+𝑇∞
+− 1)] 𝑑
+
+η𝑓
+0
+
+η (1) 
+
+Figure 6. Variation of the measured standoff distance 
+with pressure for concurrent and opposed spreading 
+
+flames. The green dashed lines represent pressure 
+
+dependencies of 𝒑−𝟎.𝟓. The inset shows how the laminar 
+region was considered to measure the maximum 
+
+distance between fuel surface and flame. 
+
+
+
+International Conference on Environmental Systems 
+
+7 
+
+With Re = 𝑉𝑔 𝑥/ν being the Reynolds number, Gr = 𝑔𝛽Δ𝑇𝑥
+3 /ν2 the Grashof number, θ a non dimensional
+
+temperature parameter, and x the local coordinate along the fuel; the other parameters are kinematic viscosity (ν), flow 
+velocity (𝑉𝑔 ), gravity (g), thermal expansion coefficient (β), the integration variable for the coordinate y (),  the wall 
+
+and ambient temperatures (𝑇𝑤 and 𝑇∞), and temperature difference between flame and surroundings (Δ𝑇). The standoff 
+distance increases with the coordinate along the sample x, but this is not the case for opposed spreading flames, where 
+
+the flames on each side of the sample reattach after the pyrolysis region, as discussed in Sec. III.B (see Figure 4). 
+
+However, since we are interested in the flame leading edge region, which is the one determining the spread along the 
+
+sample, we can ignore the wake region of opposed spreading flames for this analysis. 
+
+For simplicity, we can assume a constant value of the coordinate 𝑥 in Eq. (1), equal to a length scale of the problem 
+𝐿. Reynolds and Grashof numbers in Eq. (1) may be described by different characteristic lengths; the development 
+length of the boundary layer in front of the flame determines Re, while the Gr number measures the buoyant flow 
+generated by the flame, with length scales of the order of pyrolysis or flame lengths. However, in first approximation 
+
+we can assume a single characteristic length. Moreover, the integral term in Eq. (1) is of order 1 and does not dependent 
+
+on pressure, thus we can rewrite Eq. (1) as: 
+
+𝑦𝑓 ∼ (Re
+4 + Gr 2)−1/8𝐿 (2) 
+
+This equation is valid for a mixed flow, and in the cases where Re ≫ Gr, or Gr ≫ Re, we would obtain respectively 
+the standoff variation in a flow dominated by the forced or buoyant components. 
+
+The buoyant flow induced by a flame is given by the density difference between the flame region and the 
+
+surroundings. Therefore, we can rewrite the Grashof number in terms of the density difference between the flame 
+
+region and the surrounding environment. The pressure dependencies of Gr and Re become: 
+
+Gr = 𝑔ρΔρ𝐿3/μ2   →   ρΔρ = ρ∞(ρ∞ − ρ𝑓 ) ∼ 𝑝∞
+2 (3) 
+
+Re = ρ𝑉𝑔 𝐿/μ ∼ 𝑝∞  (4) 
+
+The density of the flame region ρ𝑓  is much lower than the ambient density because of the high temperature, 
+
+therefore we expect a low dependence of 𝜌𝑓 on the ambient pressure, therefore ρ∞ − ρ𝑓 ∝ 𝑝∞ . By substituting the 
+
+pressure dependencies from Eq. (3) and (4) in Eq. (2), we can estimate the variation of the standoff distance with 
+
+pressure to be 𝑦𝑓 ∼ 𝑝
+−0.5. By applying a power law fitting to the measured values of the maximum standoff distance
+
+in Figure 6, we obtain a pressure exponent of -0.33 in the case of opposed spreading flames, and -0.37 in the case of 
+
+concurrent spreading flames. The green dashed lines in Figure 6 correspond to a 𝑝−0.5 dependence, and they fit within
+the error bars of the experimental results. Given the limitations in measuring the standoff distance, e.g. the change of 
+
+flame luminosity with pressure, and the thickening flame region in contrast with an infinitely thin flame sheet 
+
+approximation (infinitely fast kinetics), the predicted and measured exponents are reasonably close. Furthermore, the 
+
+length scale of the problem in Eq. (2) could vary with pressure as well and could be responsible of the difference in 
+
+the pressure exponent. 
+
+The importance of the length scales of the problem depends on the spreading configuration. The flame length of 
+
+opposed spreading flames does not significantly affect the fuel ahead of the flame, whereas in concurrent spreading 
+
+flames a longer flame preheats more fuel to the vaporization temperature. The pyrolysis length, on the other hand, is 
+
+proportional to the spread rate for both opposed and concurrent spreading flames; this length is also an appropriate 
+
+scale to estimate the buoyant flow induced by the flames. By using the definitions of Reynolds and Grashof numbers 
+
+in Eq. (3) and (4), and the pyrolysis length 𝐿𝑝 as the characteristic length of the problem, Eq. (2) becomes:  
+
+𝑦𝑓 ∼ (
+𝐿𝑝μ∞
+
+ρ∞
+)
+
+1/2
+(𝑉𝑔
+
+4 + 𝑔2𝐿𝑝
+2 Δρ
+
+2
+
+ρ∞
+2 )
+
+−1/8
+
+(5) 
+
+We can estimate the variation of the standoff distance with the experimental conditions of 𝑉𝑔  = 20 cm/s, g =
+
+9.81m/s2, density and viscosity calculated at the ambient temperature (𝑇∞ = 300 K), respectively 1.16 kg/m
+3 and
+
+1.8510-5 kg/(ms), and by assuming a constant density in the flame region of 0.17 kg/m3 obtained at a flame 
+
+temperature of 2100 K. The value of the pyrolysis length 𝐿𝑝  changes between the spreading configurations. 
+
+Furthermore, previous experiments for concurrent spread have shown that 𝐿𝑝 is function of pressure
+7, but since in this
+
+
+
+International Conference on Environmental Systems 
+
+8 
+
+work we consider the standoff distance for the 
+
+developed flame, it is reasonable to assume that the 
+
+flame already spread through the entire sample, and 
+
+therefore 𝐿𝑝 = 150mm. The pyrolysis length is 
+
+function of pressure also for opposed spreading flames, 
+
+but its variation is negligible for the thin samples 
+
+presented in this work. Thus, for simplicity we can select 
+
+a constant value of 10 mm (same order of magnitude of 
+
+the experimental values). 
+
+Figure 7 shows the comparison between the 
+
+experimental values from Figure 6, and the values 
+
+estimated from Eq. (5) with a multiplication factor of 5. 
+
+It is interesting to notice that the standoff distance for 
+
+opposed flames follows the same trend of the values for 
+
+concurrent flame spread, despite the fundamental 
+
+differences between these two configurations. 
+
+V. Conclusion 
+
+Experiments of opposed and concurrent flame 
+
+spread configurations were carried on over thin cotton 
+
+samples at ambient pressure between 30-100 kPa. Overall, a pressure reduction slows down the flame spread, makes 
+
+the flames dimmer, and causes a thickening of the reaction zone and an increase of flame standoff distance. It was 
+
+found that opposed flames were not able to spread after ignition at 40 kPa, even though the spread rate at 50 kPa is 
+
+still close to the one at 100 kPa; this suggests that low pressure extinction is not a gradual behavior, but rather a sudden 
+
+mechanism that could be due to the effect of pressure on the flame structure and the fuel surface preheating.  
+
+Interestingly, at 60 kPa a thin blue region appears near the middle of the diffusion flame, and as the pressure is 
+
+reduced this blue region moves towards the fuel surface. This is in contrast with common diffusion flames at 
+
+atmospheric pressure where the blue region is on the oxidizer side of the flame. 
+
+The standoff distance, measured as the maximum distance of the flame region from the fuel surface, increases in 
+
+both opposed and concurrent spread at lower pressures. A simplified analysis is used to study the pressure dependence 
+
+of the standoff distance for a mixed (forced and free) flow, and the result of 𝑝−0.5 is close to the experimental values
+for opposed spread (𝑝−0.33 ), and concurrent spread (𝑝−0.37). The difference could be attributed to the characteristic
+length of the problem, that could vary with pressure as well. 
+
+By assuming a constant length equal to the pyrolysis length based on the spread configuration, the flame standoff 
+
+distance was estimated for the tested conditions. The measured values show good agreement with the estimated values; 
+
+moreover, opposed and concurrent spreading flames showed a common trend, despite the different order of magnitude 
+
+of the pyrolysis length. 
+
+The results of the standoff distance, and the comparison between opposed and concurrent spreading flames, could 
+
+be used in future models to estimate the variation of heat flux between fuel and surface at low pressure. Numerical 
+
+results could clarify the buoyant flow field generated by these flames. 
+
+Acknowledgments 
+
+This research was supported by NASA Grant NNX12AN67A. The authors would like to thank Prof. Yuji 
+
+Nakamura for the interesting discussions on the flame structure at low pressure. 
+
+References 
+
+1NASA, “Recommendations for Exploration Spacecraft Internal Atmospheres: The Final Report of the NASA Exploration 
+
+Atmospheres Working Group,” NASA/TP-2010-216134, 2010. 
+2Olson, S. L., Kashiwagi, T. , Fujita, O., Kikuchi, M., Ito, K., “Experimental observations of spot radiative ignition and 
+
+subsequent three-dimensional flame spread over thin cellulose fuels,” Combust. Flame, Vol. 125, No. 1-2, 2001, pp. 852–864. 
+3Olson, S. L., “Mechanisms of Microgravity Flame Spread Over a Thin Solid Fuel: Oxygen and Opposed Flow Effects,” 
+
+Combust. Sci. Technol., Vol. 76, No. 4-6, 1991, pp. 233–249. 
+
+Figure 7. Correlation between Eq. (5), multiplied by a 
+factor of 5, and the measured values of the maximum 
+
+standoff distance, for both opposed and concurrent 
+
+spreading flames. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+9 
+
+4Olson, S. L., Ferkul, P. V., “Microgravity flammability boundary for PMMA rods in axial stagnation flow: Experimental 
+
+results and energy balance analyses,” Combust. Flame, Vol. 180, June 2017, pp. 217–229. 
+5Olson, S. L., Ferkul, P. V., T’ien, J. S., “Near-limit flame spread over a thin solid fuel in microgravity,” Symp. (Int.) Combust. 
+
+22, No. 1, 1989, pp. 1213–1222. 
+6 Fereres, S., Lautenberger, C., Fernandez-Pello, C., Urban, D. L., Ruff, G. A., “Understanding ambient pressure effects on 
+
+piloted ignition through numerical modeling,” Combust. Flame, Vol. 159, No. 12, 2012, pp. 3544-3553. 
+7Thomsen, M., Fernandez-Pello, C., Urban, D. L., Ruff, G. A., Olson, S. L., “On simulating concurrent flame spread in reduced 
+
+gravity by reducing ambient pressure,” Proc. Combust. Inst., Vol. 37, No. 3, 2019, pp. 3793-3800. 
+8Thomsen, M., Fernandez-Pello, C., Ruff, G. A., Urban, D. L., “Buoyancy effects on concurrent flame spread over thick 
+
+PMMA,” Combust. Flame, Vol. 199, Jan. 2019, pp. 279-291. 
+9Nakamura, Y., Yoshimura, N., Ito, H., Azumaya, K., Fujita, O., “Flame spread over electric wire in sub-atmospheric pressure,” 
+
+Proc. Combust. Inst., Vol. 32, No. 2, 2009, pp. 2559-2566. 
+10Kleinhenz, J., Feier, I. I., Hsu, S.-Y., T’ien, J. S., Ferkul, P. V., Sacksteder, K. R., “Pressure modeling of upward flame spread 
+
+and burning rates over solids in partial gravity,” Combust. Flame, Vol. 154, No. 4, 2008, pp. 637-643. 
+11Ferkul, P. V., T’ien, J. S., “A model of low-speed concurrent flow flame spread over a thin fuel,” Combust. Sci. Technol., 
+
+Vol. 99, No. 4-6, 1994, pp. 345–370. 
+12Hsua, S.-Y., T'ien, J. S., “Pressure extinction limits of non-premixed flames,” Combust. Th. Model., Vol. 13, No. 5, 2009, pp. 
+
+885-900 
+13Bhattacharjee, S., Carmignani, L., “Radiation-kinetics interactions: A comparison of opposed-flow flame spread in a low-
+
+velocity microgravity and low-pressure downward environments,” Proc. Combust. Inst., (In press), 2020. 
+14Altenkirch, R. A., Eichhorn, R., Shang, P. C., “Buoyancy Effects on Flames Spreading Down Thermally Thin Fuels,” 
+
+Combust. Flame, Vol. 37, 1980, pp. 71-83. 
+15Mao, C.-P., Kodama, H., Fernandez-Pello, A. C., “Convective Structure of a Diffusion Flame over a Flat Combustible 
+
+Surface,” Combust. Flame, Vol. 57, 1984, pp. 209-236. 
+16Zhang, Y., Ronney, P. D., Roegner, E. V., Greenberg, J. B., “Lewis Number Effects on Flame Spreading Over Thin Solid 
+
+Fuels,” Combust. Flame, Vol. 90, 1992, pp. 71-83. 
+17Zarzecki, M., Quintiere, J. G., Lyon, R. E., Rossmann, T., Diez, F. J., “The effect of pressure and oxygen concentration on 
+
+the combustion of PMMA,” Comb. Flame, Vol. 160, 2013, pp. 1519-1530. 
+18Zhao, K., Zhou, X., Liu, X., Tang, W., Gollner, M., Peng, F., Yang, L., “Experimental and theoretical study on downward 
+
+flame spread over uninhibited PMMA slabs under different pressure environments,” App. Therm. Engin., Vol. 136, 2018, pp. 1-8. 
+19Thomsen, M., Fernandez-Pello, C., Huang, X., Olson, S., Ferkul, P., “Buoyancy Effect on Downward Flame Spread Over 
+
+PMMA Cylinders,” Fire Technol., Vol. 56, Jan. 2020, pp. 247-269. 
+20Carmignani, L., “Flame Tracker: an image analysis program to measure flame characteristics,” SoftwareX, April 2021 
+
+(submitted), https://github.com/combustionTools/flameTracker. 
+21Marcum, J. W., Rachow, P., Ferkul, P. V., Olson, S. L., “Low pressure flame blowoff of the stagnation region of cast PMMA 
+
+cylinders in axial mixed convective flow,” Combust. Flame, Vol. 216, June 2020, pp. 385-397. 
+22 Wichman, I.S., “Theory of opposed-flow flame spread,” Prog. En. Combust. Sci., Vol. 18, pp.553-593. 
+23Markstein, G. H., de Ris, J., “Upward fire spread over textiles,” Symp. (Int.) Combust., Vol. 14, No. 1, 1973, pp. 1085-1097. 
+24Williams, F. A., “Theory of combustion in laminar flows,” Annual Review Fluid Mech., Vol. 3, Jan. 1971, pp. 171-188. 
+25Fernandez-Pello, A. C., “A Theoretical Model for the Upward Laminar Spread of Flames Over Vertical Fuel Surfaces," 
+
+Combust. Flame, Vol. 31, 1978, pp. 135-148. 
+26Fernandez-Pello, A. C., "Flame Spread in a Forward Forced Flow," Combust. Flame, Vol. 36, 1979, pp. 63-78. 
+27Mao, C. P., Fernandez-Pello, A. C., Pagni, P. J., "Mixed Convective Burning of a Fuel Surface with Arbitrary Inclination," 
+
+J. Heat Transf., Vol. 106, No. 2, 1984, pp. 304-309. 
+
+https://github.com/combustionTools/flameTracker
+
+	The effect of reduced pressure on the characteristics of spreading flames
+	I. Introduction
+	II. Experimental setup
+	III. Experimental Results
+	A. Concurrent flames
+	B. Opposed flames
+	C. Standoff distance
+
+	IV. Simplified Analysis and Discussion
+	V. Conclusion
+	Acknowledgments
+	References
+

@@ -1,0 +1,1410 @@
+STUDY
+
+OF BUOYANCY
+
+EFFECTS
+SCHLIEREN
+
+IN DIFFUSION
+FLAMES
+DEFLECTOMETRY*
+
+USING
+
+RAINBOW
+
+AJAY K. AGRAWAL
+and Subramanyam
+R. Gollahalli
+School of Aerospace
+and Mechanical Engineering
+University of Oklahoma, Norman, OK 73019
+
+and
+
+NASA
+
+DeVon Griffin
+Lewis Research
+
+Cleveland,
+
+Center
+
+OH 44135
+
+Introduction
+Diffusion
+
+flames
+
+are extensively
+
+encountered
+
+in many
+
+domestic
+
+and industrial
+
+processes.
+
+Even after many
+
+decades of research,
+
+a complete understanding
+of the diffusion
+flame structure is not available.
+The structure
+and properties
+of the flames are
+governed by the mixing (laminar or turbulent),
+chemical kinetics, radiation and soot processes. Another important phenomenon
+that affects flame structure
+in normal gravity is buoyancy.
+The presence
+of buoyancy
+has long hindered
+the rational
+understanding
+of many combustion processes. In gas jet diffusion flames, buoyancy affects the structure of the shear layer, the
+development
+of fluid instabilities,
+and formation
+of the coherent
+structures in the near nozzle region of the gas jets. The
+buoyancy driven
+instabilities
+generate
+vorticial structures
+outside the flame resulting
+in flame flicker. The vortices also
+strongly interact with the small-scale
+structures in the jet shear layer. This affects the transitional
+and turbulence characteristics
+of the flame. For a fundamental
+understanding
+of diffusion flames it is essential to isolate the effects of buoyancy. This is the
+primary goal of the experiments
+conducted in microgravity.
+Previous investigations,
+have shown dramatic differences
+between
+the jet flames in microgravity
+and normal gravity[l].
+It has been observed that flames in microgravity
+are taller and more sooty
+than in normal gravity. The fuels used in these experiments
+were primarily hydrocarbons.
+In the absence of buoyancy the soot
+resides near the flame region, which adversely
+affects the entrainment
+of reactants.
+It is very important
+to eliminate
+the
+interference
+of soot on flame characteristics
+in microgravity.
+The present work, therefore, focuses on the changes in the flame
+structure due to buoyancy without the added complexities
+of heterogeneous
+reactions.
+Clean burning hydrogen is used as the
+fuel to avoid soot formation and minimize radiative losses. Because of the low luminosity of hydrogen flames, we use rainbow
+schlieren deflectometry
+for visualization.
+The visualized images are digitized for quantification.
+The work reported here is divided into three sections; rainbow
+schlieren
+deflectometry
+(RSD), microgravity
+experiments
+and
+sub-atmospheric
+pressure experiments.
+The first section demonstrates
+the application
+of RSD for quantitative
+measurements
+in
+non-reacting
+and reacting flow systems. A computational
+effort to complement
+the experimental
+work is also included. In the
+second section, the experiments
+conducted
+at the 2.2s NASA Lewis Drop tower facility are described. The experiments
+were
+conducted
+to study the behavior of laminar, transitional
+and turbulent
+hydrogen flames in microgravity.
+The ability of RSD
+technique
+to provide quantitative
+data is highlighted.
+The final section deals with the sub-atmospheric
+pressure tests, which
+demonstrate
+that buoyancy in hydrogen diffusion flames can be scaled with pressure at normal gravity.
+Rainbow
+
+Schlieren
+
+Deflectometry
+
+The schlieren technique has been extensively used for qualitative
+the RSD technique for quantitative
+measurements.
+In the RSD
+
+flow visualization.
+Recently, Greenberg
+et. al. [2] developed
+technique, the knife edge used in the conventional
+schlieren
+
+apparatus
+computer
+
+is replaced by a continuously
+graded color filter. Quantitative
+measurements
+are made by the RSD technique utilizing
+imaging approach
+to create the color filter and to acquire/analyze
+color schlieren
+images. The color filters are
+
+calibrated
+according
+
+to obtain the hue variation along
+to the hue-saturation-intensity(HSI)
+
+"Work
+
+funded
+
+under NASA
+
+Contract
+
+(Grant)
+
+the filter. The rainbow filter transmits
+a color uniquely
+represented
+by hue,
+model, from a given position on the filter plane. Thus, a color image of the test
+NAG 3-1594
+
+117
+
+section revealing the ray displacements
+caused by refractive index gradients in the medium is formed on the CCD array. The
+camera output in the RGB format is digitized by a personal computer with 24-bit color frame grabber. The digitized schlieren
+image together with filter calibration
+curve, is used to obtain the angular deflections
+of the light rays by the medium. The
+refractive index distribution
+is obtained from the angular deflections
+using Abel inversion. The refractive index is then related
+to density
+
+and/or
+
+other scalar
+
+properties
+
+of the medium.
+
+Three test cases were chosen to demonstrate
+the RSD technique, namely, temperature
+measurement
+in a heated air jet, oxygen
+concentration
+in an isothermal jet of helium, and temperature
+and oxygen concentration
+measurements
+in a hydrogen diffusion
+flame. In all the above cases the flow was laminar and axisymmetric
+and the jet issued into quiescent air. The heated jet issued
+from
+
+a 7.1mm
+
+nozzle
+
+with
+
+an exit Reynolds
+
+number
+
+of 400.
+
+In a heated
+
+jet, the refractive
+
+index
+
+is a function
+
+of only the
+
+temperature.
+The refractive index from RSD can be used to obtain the temperature
+distribution.
+The temperature
+measurements
+obtained
+from schlieren
+method were compared
+with thermocouple
+measurements
+(Fig. 1). The results agree well. In the
+second test case, oxygen concentration
+measurements
+were made in a helium jet issuing
+number of 125. It was assumed that helium and air together behave as a binary mixture,
+
+from a 7.1mm nozzle at a Reynolds
+with a fixed air composition.
+Hence,
+
+the gas properties
+are unique functions of the helium mass fraction. Thus the refractive index obtained by RSD could be directly
+related to oxygen concentration.
+The oxygen concentration
+was also measured
+using a diffusion based oxygen analyzer. The
+results (Fig. 2) indicate that the schlieren measurements
+show excellent agreement with the probe data. In the third test case
+measurements
+of temperature
+and oxygen concentration
+were made in a hydrogen flame. Laminar hydrogen flames have a
+large Damkohler
+number;
+hence it was assumed that the reactions
+reach chemical
+equilibrium
+instantly.
+This equilibrium
+chemistry model with unity Lewis number assumption
+was used to obtain the relation between refractive index and the scalar
+variables.
+The temperature
+and oxygen
+concentration
+were also independently
+obtained
+by probe measurement.
+The
+thermocouple
+measurements
+were not corrected for radiation losses. The temperature
+and oxygen concentration
+are compared
+in Figs. 3 and 4. The results in fuel rich region are not shown due to large uncertainties
+in that region, primarily attributed to
+instrument sensitivity,
+validity of the chemistry model, and unity Lewis number assumption.
+The schlieren measurements
+in the
+fuel lean region show good agreement with probe measurements.
+RSD was used as a tool to evaluate
+
+CFD results.-Numerical
+
+simulations
+
+of the hydrogen
+
+flames
+
+were performed
+
+with a mixture
+
+fraction approach and assuming
+equilibrium
+chemistry.
+Two diffusion
+models were used for the mixture fraction equation.
+The first model (Model 1) uses the thermal diffusivity and the second model (Model 2) uses the mass diffusivity in the mixture
+fraction equation. In Model 2, a two zone diffusion model [3] was used to account
+computed results of temperature
+and species concentration
+were used to generate a
+compared
+with the experimental
+image (Fig. 5). The computed
+images agree well
+nozzle. The computed
+image indicates higher upstream diffusion.
+The comparison
+with schlieren measurements
+is shown in Fig. 6. The figure shows that computations
+the experiments
+in the fuel lean region. The discrepancy
+in the fuel rich region is due
+Microgravity
+
+Experiments
+
+Experiments
+
+were conducted
+
+for non-unity Lewis number effects. The
+rainbow
+schlieren image which was then
+with the experimental
+images near the
+of the computed temperature
+distribution
+obtained from Model 2 agree well with
+to reasons explained above.
+
+in microgravity
+
+to study the behavior
+
+of hydrogen
+
+flames
+
+without
+
+buoyancy.
+
+The drop rig used
+
+was provided by NASA LeRC diagnostics group. While easily reconfigurable,
+this hardware was designed for use with rainbow
+schlieren optical systems. The flame data were collected during the 2.2 second drop using a Super-VHS
+tape recorder. The
+images from the video were digitized using a frame grabber. The study involved the visualization
+of laminar, flickering
+and
+transitional
+laminar flames. The schlieren image of a laminar flame obtained in microgravity
+is compared with that in normal
+gravity (Fig. 7). The jet issued from a tube of 0.3mm ID at an exit Reynolds number of 582. The figure indicates flame in
+microgravity
+with higher upstream diffusion. The images were used to obtain the refractive index distribution
+and temperature
+profiles at two axial locations,
+namely at 3.8D and 7.8D from the tube exit. The temperature
+distribution
+is shown in Fig. 8.
+The results in the fuel rich region are omitted, due to inaccuracies
+in recording and filter calibration.
+Reasonable
+values of the
+flame boundary location and the data in the fuel lean region were obtained. From the figure we observe that there is an increase
+in the flame width. Sharper
+temperature
+gradients
+near the flame at normal gravity were observed. This is caused by the
+convective motion of the heated gases from the flame surface. In normal gravity flickering of the flames is observed, which is
+induced by the outer vortices caused by buoyancy.
+The flames were observed
+in normal
+gravity (Figs. 9a-e); flickering
+frequency
+was -13 Hz. In microgravity,
+the flickering disappears
+(Figs. 9f-j) as the flame grows. The flame was nearly at steady
+state, undergoing
+minor changes at the end of the drop. The transitional
+flames were studied to observe the effect of buoyancy
+on the structure of turbulence
+and mode of transition. The test were done using hydrogen jet issuing from a tube of 0.3mm ID
+and an exit Reynolds number of 1078. The images obtained in microgravity
+were compared with that in normal gravity (Fig.
+10). The flames show a break point at both normal and microgravity.
+This indicates that microgravity
+and normal gravity
+
+118
+
+flames, have similar transition behavior, unlike the observation
+becomes turbulent in microgravity
+without a break point.
+Sub-atmospheric
+
+Pressure
+
+by Hegde
+
+et. al [4], whose results
+
+indicate
+
+that the entire flame
+
+Experiments
+
+Experiments
+were conducted
+in a subatmospheric
+pressure
+combustion
+chamber,
+to simulate low buoyancy conditions.
+By
+reducing the pressure in the combustion
+chamber the effect of buoyancy can be reduced. The primary aim was to verify that
+buoyancy can be scaled with pressure[5].
+Previous experiments
+with hydrocarbon
+fuels faced problems at low pressure due to
+chemical kinetics and heterogeneous
+reactions in sooting flame. The present system with non-sooting,
+fast reacting hydrogen
+fuel significantly
+relaxes the scaling requirements.
+It was observed that by using hydrogen, the buoyancy effects may be scaled
+at sub-atmospheric
+pressures.
+The combustion
+chamber is shown in Fig. 11. The combustion
+chamber was constructed
+to
+provide sub-atmospheric
+pressure and to obtain continuous combustion
+with the chamber oriented at any desired inclination
+to
+the gravitational
+field. The images of hydrogen
+the flame were obtained
+using the rainbow schlieren
+technique.
+The
+experiments
+were pertbrmed
+with laminar and flickering laminar flames in a Reynolds number range of 100-500. The images
+of the hydrogen flame (D = 0.58mm, Re= 300) obtained at different pressure levels for zero inclination
+of the chamber are
+shown in Fig. 12. The images were compared with those obtained in microgravity.
+The characteristic
+schlieren width, defined
+as the peak-to-peak
+hue width divided by the jet diameter,
+for different pressures
+in normal gravity and at one atmosphere
+in
+microgravity
+is plotted versus the Froude number (The ratio of the Froude number to the Froude number at normal gravity and
+one atmosphere
+pressure)
+(Fig. 13). The figure indicates that the low atmospheric
+results tend asymptotically
+towards the
+microgravity
+results. The images of the flame were obtained with the chamber inclined at 600 (D = 0.84mm,
+Re= 100) for
+different pressures (Fig. 14). It can be observed that the flame becomes straighter with reduced pressure; further indicating that
+the buoyancy effects diminish with pressure. The amplitude of the flickering flames is affected by the buoyancy levels (Fig. 15).
+With reduced pressure the amplitude
+of the oscillations
+progressively
+diminishes,
+as seen in microgravity.
+From the above
+study, it was concluded
+that the buoyancy can be scaled with pressure.
+Future
+
+Work
+
+Currently, work is progressing
+on the development
+of a new drop tower rig with on board digital data acquisition,
+modified fuel
+and calibration
+system and precise imaging. The optimization
+of the schlieren setup is in progress for improved sensitivity.
+A
+parallel effort is in progress for the numerical
+simulation
+of hydrogen flames with non-unity Lewis number assumption
+and
+multi-component
+diffusion model.
+Acknowledgment
+Special
+project.
+
+thanks
+
+are due to Messers
+
+A. K. Shenoy,.
+
+K. N. AI-Ammar,
+
+and S. Cherry
+
+for their
+
+meticulous
+
+and hard
+
+work in the
+
+References
+Bahadori, M. Y., Stocker, D. P., Vaughan, D. F., Zhou,
+Laminar, Transitional
+and Turbulent Gas Jet Diffusion
+Workshop, pp.
+91-106, NASA CP-10113.
+
+L., and Edelman, R. B., 1992, " Effects of Buoyancy on
+Flames, " Proc. of the 2nd Int. Microgravity
+Combustion
+
+,
+
+.
+
+Katta, V. R., Goss, L. P., and Roquemore,
+W. M., 1994, " Numerical
+Flames," AIAA Journal,
+vol. 32, pp. 84-94.
+
+.
+
+.
+
+Greenberg,
+P. S., Klimek, R. B., and Buchele,
+Optics, Vol. 34, no. 19, pp. 3810-3822.
+
+D. R. 1995,
+
+"Quantitative
+
+Hegde, U., Zhou, L., Bahadori, M. Y., 1994,"The Transition
+Combustion
+Science and Technology,.
+102, pp. 95-113.
+
+Rainbow
+
+Investigation
+
+to Turbulence
+
+Schlieren
+
+Deflectometry,"
+
+of Transitional
+
+of Microgravity
+
+H2/N2
+
+Applied
+
+Jet Diffusion
+
+Gas Jet Diffusion
+
+Flames,"
+
+Mortazavi, S. M., Sunderland,
+P. B., Jung, J., Faeth, G. M., 1992 ," Structure and Soot Properties of Buoyant and NonBuoyant Laminar Round Jet-Diffusion
+Flames," Proc. of the 2nd Int. Microgravi_
+Combustion
+Workshop, pp. 101114, NASA CP-10113.
+
+119
+
+0-_
+
+4OO
+
+•
+
+•
+
+f
+
+....
+
+I
+
+....
+
+I
+
+....
+
+I
+
+....
+
+I
+
+'
+
+r
+
+'
+
+....
+
+I
+
+....
+
+I
+
+....
+
+i
+
+....
+
+I
+
+....
+
+I
+
+....
+
+38O
+O
+0+15
+
+v.
+
+36O
+0.10
+
+3,0
+
+0
+
+p-
+
+0+05
+
+320
+0.00
+-15
+
+-10
+
+-5
+
+0
+
+-10
+
+-5
+
+0
+
+Distance
+
+5
+
+IS
+
+10
+
+5
+
+Radial Di_nce.
+
+300
+
+mm
+
+10
+
+from the center of the let tube, mm
+
+Figure
+
+2.- Oxygen
+
+concentration
+
+in a helium jet
+
+Figure !.* Temperature in a heated air .jet
+21
+
+'
+
+'
+
+_
+
+'
+
+'
+
+18
+
+o
+
+"o
+
+o
+
+i
+
+-
+
+¢_-
+
+4
+
+00
+
+2000
+2400
+
+,__
+
+I
+o
+
+rhcnnocoupl¢
+
+,,<11100
+
+u
+
+Probe
+Schtieren
+
+--
+
+=_'_
+
+1215
+
+O
+
+o
+
+o
+
+o
+
+o
+
+o
+
+e
+
+BOO
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o--o
+
+_chlier,:n
+
+3
+o o
+
+o
+
+o
+
+°
+
+400
+
+0 !
+$
+
+10
+R,Klial
+
+Figure
+
+3.- Temperature
+
+Distance,
+
+5
+
+15
+
+in a hydrogen
+
+10
+
+15
+
+Radial Distance. mm
+
+him
+
+Figure
+
+flame
+
+4.- Oxygen
+
+27OO
+
+•
+
+I
+
+concentration
+.
+
+..
+
+I
+
+_
+
+in a hydrogen
+•
+
+,,L
+
+_1.
+
+i
+
+'
+
+flame
+
+- .....
+
+2400
+
+0.0
+
+•
+
+2100
+
+_a
+
+"o
+
+i
+
+-12
+
+o
+
+,
+
+-0.4
+
+41.8
+
+t
+
+,/
+
+_
+
+-1.6
+
+_
+
+,p
+
+1800
+
+!
+i'; o
+
+' _
+
+i, o
+i'
+,'o
+
+'
+
+/']
+
+i
+/ !
+' &
+=r
+, _ /:/
+
+i;"
+
+o
+
+',_-'
+
+--
+
+;::::
+
+_
+
+I'
+
+_1'
+'_°_' ........
+
+Modd
+
+Rcfntctiv¢
+
+........
+
+ExpcrimcnU
+
+Tcmpccatur¢
+
+"
+
+'_+
+0/._
+
+Temperature
+.
+Refract,velndeJc
+
+Mockdl
+
+Index
+
+Exp_menlAl"
+l
+
+M+,,
+
+Temperature
+
+Model 2
+
+t
+-2.0
+
+1
+Z
+
+-2.4
+300
+
++
+
+I
+6
+
++
+3
+
+"_"--
+
+'
+9
+
+I
+12
+
+I
+15
+
+Radi=d Disumce. rnm
+
+Figure 5.- Computed
+of hydrogen
+
+and experimental
+
+schlieren
+
+image
+
+Figure 6.- Computed
+
+flame
+
+of hydrogen
+
+120
+
+and RSD temperature
+flame
+
+distribution
+
+2500
+
+,oo.
+
+i
+
+1fioo
+
+",
+
+1ooo
+
+soo
+
+¸
+l
+
+Figure
+
+7.- Schlieren
+
+image of laminar
+
+hydrogen
+
+i
+
+Figure
+
+10 -.gchlieren
+
+image of transitional
+
+i
+s
+
+flame
+
+of schlieren
+
+hydrogen
+
+Io
+Radial
+
+F'tgurc It.-RSD
+
+Figure 9.-Sequence
+
+i
+
+images
+
+of flickering
+
+Figure
+
+tlamc
+
+121
+
+temperature
+
+hydrogen
+
+Dislance,
+
+distribution
+
+_5
+
+mm
+
+of hydrogen
+
+flames
+
+1 I.-Sub-atmospheric
+
+pressure
+
+setup
+
+flame
+
+b: p = 0.8 atm.
+
+a: p = 1 atm.
+
+Figure
+
+2.4
+
+....
+
+i
+
+....
+
+i
+
+12.-Schliren
+
+....
+
+T
+
+images
+
+....
+
+1
+
+of hydrogen
+
+c: p = 0.6 atm.
+
+d: p = 0.2 atm.
+
+flames at zero inclination
+
+•
+
+....
+
+'
+
+to gravity
+
+i
+
+vector
+
+i
+
+"
+
+'
+
+i
+
+Q
+a
+a
+14.2D
+43.3D
+
+o
+
+Downstream
+
+2.O
+
+._
+
+t,n
+,_
+
+Fr = 0.36
+
+1.00
+
+Downstream
+
+a
+
+Fr =0.64
+
+_'
+
+a
+
+Fr =
+
+_5
+.8
+
+1.8
+
+,it
+
+A
+
+1.8
+
+<
+A
+L2
+
+a
+1
+
+a
+
+v
+
+1.0
+A
+v
+0.8
+
+....
+1.0
+
+i
+
+i
+
+i
+
+i
+
+J
+
+0.8
+Froude
+
+Figure
+
+13.-Scaling
+
+i
+
+,
+
+,
+
+0.6
+
+,
+
+,
+
+[
+0.4
+
+Number
+
+of schlieren
+
+....
+
+_
+
+,
+
+i
+
+i
+
+0
+
+i
+0
+
+0.0
+
+t
+
+number
+
+ratio
+
+b: p = 0.8 atrn.
+
+images
+
+of hydrogen
+
+Figure
+
+i
+
+I
+
+Distance
+
+(Tube
+
+i
+
+i
+
+i
+
+i
+
+1
+
+,
+
+,
+
+30
+Diameters)
+
+15.-Flicker amplitude
+variation
+with froude number
+
+c: p = 0.6 atm.
+
+flames at 600 inclination
+
+122
+
+i
+
+20
+Axial
+
+width with froude
+
+14.-Schliren
+
+i
+
+10
+
+Ratio
+
+a: p = 1 atm.
+
+Figure
+
+_
+
+0,2
+
+v
+v
+
+to gravity
+
+vector
+
+,
+,IO
+

@@ -1,0 +1,345 @@
+FIRE SUPPRESSION IN LOW GRAVITY USING A CUP BURNER
+Fumiaki Takahashi
+National Center for Microgravity Research on Fluids and Combustion
+NASA Glenn Research Center
+Cleveland, OH 44135
+E-mail: Fumiaki.Takahashi@grc.nasa.gov, Fax: (216) 977-7065, Phone: (216) 433-3778
+Gregory T. Linteris
+Fire Research Division
+National Institute of Standards and Technology
+Gaithersburg, MD 20899
+Viswanath R. Katta
+Innovative Scientific Solutions Inc.
+Dayton, OH 45440
+Longer duration missions to the moon, to Mars, and on the International Space Station increase the
+likelihood of accidental fires. The goal of the present investigation is to: (1) understand the physical and
+chemical processes of fire suppression in various gravity and O2 levels simulating spacecraft, Mars, and
+moon missions; (2) provide rigorous testing of numerical models, which include detailed combustionsuppression chemistry and radiation sub-models; and (3) provide basic research results useful for
+advances in space fire safety technology, including new fire-extinguishing agents and approaches.
+The structure and extinguishment of enclosed, laminar, methane-air co-flow diffusion flames formed on a
+cup burner have been studied experimentally and numerically using various fire-extinguishing agents
+(CO2, N2, He, Ar, CF3H, and Fe(CO)5). The experiments involve both 1g laboratory testing and low-g
+testing (in drop towers and the KC-135 aircraft). The computation uses a direct numerical simulation
+with detailed chemistry and radiative heat-loss models. An agent was introduced into a low-speed
+coflowing oxidizing stream until extinguishment occurred under a fixed minimal fuel velocity, and thus,
+the extinguishing agent concentrations were determined. The extinguishment of cup-burner flames,
+which resemble real fires, occurred via a blowoff process (in which the flame base drifted downstream)
+rather than the global extinction phenomenon typical of counterflow diffusion flames. The computation
+revealed that the peak reactivity spot (the reaction kernel) formed in the flame base was responsible for
+attachment and blowoff of the trailing diffusion flame. Furthermore, the buoyancy-induced flame
+flickering in 1g and thermal and transport properties of the agents affected the flame extinguishment
+limits.
+This research was
+Washington, D.C.
+
+supported
+
+NASA/CP—2004-213205/VOL2
+
+by
+
+NASA’s
+
+Office
+
+448
+
+of
+
+Biological
+
+and
+
+Physical
+
+Research,
+
+NASA/CP—2004-213205/VOL2
+
+Conference-Workshop on Strategic Research to Enable NASA's Exploration Missions Cleveland, Ohio, June 22, 2004
+
+Fire Suppression in Low Gravity Using a Cup Burner
+Fumiaki Takahashi
+National Center for Microgravity Research, Cleveland, Ohio
+Background
+Longer duration missions to Mars, the moon,
+or aboard the International Space Station increases
+the likelihood of fire events
+
+Gregory T. Linteris
+National Institute of Standards and Technology, Washington, D.C.
+
+Viswanath R. Katta
+Innovative Scientific Solutions, Inc., Dayton, Ohio
+
+Cup Burner Flames (1g)
+Simulations with full chemistry predict the experiment in Minimum
+Extinguishing Concentration, flame shape, flickering frequency (~11 Hz)
+Experiment
+Simulation
+
+Numerical Simulations (1g)
+Suppression of cup-burner flames occurs via blowoff rather than global
+extinction typical of counterflow diffusion flames
+
+NASA’s fire safety program of manned space flights
+is based largely upon controlling the materials
+flammability and eliminating ignition sources
+This project investigates fire suppression in the
+reduced-gravity environment
+
+Objectives
+
+449
+
+Understand physical/chemical processes of fire
+suppression in various gravity and O2 levels
+simulating spacecraft, Mars, and moon missions
+
+F
+O
+S
+
+O
+S
+
+d =2.8 cm, UCH4= 0.92 cm/s, Uair= 10.7 cm/s
+
+Drop/KC-135 Rig
+5.0% CO2 in Air
+
+Provide rigorous testing of analytical models, which
+include comprehensive combustion and suppression
+chemistry
+
+14.5% CO2 in Air
+
+Numerical Simulations (low-g)
+
+0.5g
+
+Approach
+Using a cup burner, which resembles real fires,
+measure the critical extinction mole fraction of fire
+suppression agents for selected fuels
+Determine physical/chemical effects of agents on
+flame structure/suppression processes
+Computation:
+Simulate unsteady fire suppression phenomena in
+various flames using a 2D code with detailed
+chemical reaction and radiation models
+
+10.1% CF3H in Air
+
+Flame flicker (~11 Hz) ceases at < 0.5 g
+Heat-release rate decreases with reducing g, while radiative heat loss
+remained const
+
+Provide basic research results useful for advances in
+space fire safety technology, including new fireextinguishing agents and approaches
+
+Experiment:
+
+10.05% CF3H in Air
+
+Diagnostics:
+Particle image velocimeter (PIV)
+Mach-Zehnder interferometer (MZI)
+Parameters:
+1g
+Gas: CH4, C2H6, C3H8
+Fuel:
+Liquid: n-C7H16, CH3OH
+Solid: trioxane (3[CH2O]), PMMA
+Oxidizer: O2-N2 mixture
+Oxygen mole fraction: 0.21 – 0.3
+Velocity: 3 – 20 cm/s
+µg
+CO2, N2, He, Ar
+Agent:
+CF3H(HFC-23), C3F7H (HFC-227ea), CF3Br
+Water Mist, Inert/Water Mist, Microencapsulated Water
+Gravity: µg, lunar (1/6 g), Martian (1/3 g), 1g
+Pressure: 0.7 – 1 atm
+
+Phosphorus is:
+3 x better than CF3Br in
+17 x “
+“
+“ “
+“ “
+but ½ as good as
+* Macdonald et al. Combust Flame 116:166 (1999)
+
+Flame flicker affects suppression processes and the flickering
+frequency varies with CO2 content and co-flow velocity
+
+XCO2 = 0
+
+counterflow* flames
+premixed**
+“
+cup burner
+”
+
+XCO2 = 0.191
+
+** Korobeinichev et al. HOTWC 2000 p. 164.
+
+Performance advantage of chemically active agents over CO2:
+variation with flame type.
+Flame Metric
+1000
+
+0g
+
+Pre10
+Pre30
+Cup10 calc Pre45
+CF10 calc
+CF20 calc
+CF30 calc
+CF10
+
+2
+
+Cup,pure
+
+100
+
+calc
+
+CF20
+
+CF30
+
+Cup, 10% < CO
+
+10
+
+2000
+2
+
+0.4
+
+T
+
+without radiation
+
+f
+
+T (K)
+
+450
+
+Cup, pure
+
+U (m/s)
+
+Performance Relative to CO
+
+Numerical Simulations (low-g)
+Flame tip opens at low g due to radiative heat loss
+Critical CO2 concentration at 0g is ~32% higher than in 1g
+
+0g
+
+1600
+0.2
+
+U
+
+with radiation
+
+1
+CO2
+
+CF3H
+
+CF3Br
+
+TMT
+
+MMT
+
+(a)
+
+Fe(CO)5
+
+1200
+
+0
+2
+
+Agent
+2000
+
+Catalytic inhibitors are better than CF3Br at low concentrations,
+but lose their effectiveness at higher conc.
+
+without radiation
+
+1
+
+f
+
+1g
+
+T (K)
+
+T
+
+1600
+
+with radiation
+
+U (m/s)
+
+NASA/CP—2004-213205/VOL2
+
+Flame Flicker in 1g
+
+Agent Effectiveness
+The effectiveness of a fire-extinguishing agent depends upon the
+flame characteristics.
+
+U
+
+Conclusions
+Suppression of cup-burner flames occurs via blowoff rather than
+global extinction typical of counterflow diffusion flames.
+Performance of agents is highly dependent upon the flame
+characteristics.
+Chemical agents reduce concentration (and amount) of inert
+agent required for suppression.
+Flame flicker (~11 Hz) affects suppression processes and ceases
+at < 0.5 g.
+Flame tip opens in low g due to radiative heat loss.
+Critical CO2 concentration in 0g is ~32% higher than in 1g.
+
+(b)
+1200
+0
+
+0
+10
+
+20
+
+30
+z (mm)
+
+40
+
+50
+
+60
+
+Key findings from numerical work
+Form vorticies in 1g
+Extinguish due to flame base de-stabilization
+Have tips that open in 0-g (due to radiation losses)
+Flicker at ~11 Hz. in 1-g, but as g decreased, flicker decreased (below
+0.5 g, don’t flicker).
+Require 32% more CO2 to extinguish in 0g than in 1g.
+

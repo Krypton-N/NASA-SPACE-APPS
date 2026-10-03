@@ -1,0 +1,828 @@
+N96-15559
+THE EFFECTS
+
+OF SOOTING
+
+Kyeong-Ook
+
+IN DROPLET
+
+Lee, Kirk Jensen and Mun Young
+
+Department
+
+of Mechanical
+
+University
+
+Choi
+
+Engineering
+
+of Illinois at Chicago
+
+Chicago,
+1.0
+
+COMBUSTION
+
+IL 60607
+
+INTRODUCTION
+
+The study of the burning of a single droplet is an ideal problem from which to gain fundamental understanding of diffusion
+flame characteristics Droplet combustion is a complex physico-chemical process that involves a chemically-reacting two-phase flow
+with phase changes and yet simple experiments and analysis can be used to attain important insights into the burning rate, flame
+dynamics, kinetic extinction and disruption processes.
+It is a subject that has been actively studied for the past 40 years with most
+of the fundamental
+experiments
+being
+performed
+under reduoed-gravity
+conditions
+for direct comparisons
+with
+theoretical/computational
+analyses that invoke spherical symmetry assumptions.
+In the earlier studies, the effects of sooting on the overall burning characteristics were not considered [Kumagai and Okajima,
+1957; Kumagai, Sakai and Okajima, 1971 ]. However, recent microgravity investigations performed at the NASA-LeRC
+droptowers
+(Droplet Combustion Experiment ofProfessor
+F.A. Williams and Professor F.L Dryer) and others indicate that effects of soot
+and sootcloud ormation
+f
+may be significant
+during
+thelifetime
+ofthedroplet
+and therefore
+must be included
+intheanalysis Y_ght
+[
+and Williams,
+1980; Shaw ctal., 988; Choi etal., 990;Jacksonetal., 991;Avedisian,
+1
+1
+1
+1994].
+1.1
+
+Droplet Burning Rate
+Sooting mechanisms can have profound effects on the overall droplet burning rate. In an earlier study on microgravity nheptane droplet combustion experiments, vaporization rates that were as much as 30% to 40% lower than the classically-accepted
+results were reported [Choi et al., 1990]. The main conclusion drawn from that investigation was that the effects of formation and
+accumulation of the sootshell and its asymmetric configuration caused by snail degrees of relative droplet/gas convection were
+responsible
+fortheobserveddiscrepancies.here areseveralechanisms throughwhich soot/sootshell
+T
+m
+formation
+can affect
+the
+burningrate.Soot formation
+isan endothermic
+process
+and will
+actas a heatsinkfortheenergythatwould otherwise used to
+be
+vaporizethefuel.
+Although,exactfiguresortheconversion osootisnotpresentlynown formicrogravityroplet
+f
+t
+k
+d
+combustion,
+results
+from normal gravityyrolysis xperiments
+p
+e
+suggest
+relatively conversion
+large
+rates 30% [Vranos and Liscinsky,984].
+~
+1
+Furthermore,
+heatloss theflamedue tosootradiation
+at
+canreducetheeffective
+transfer
+number by decreasing heamount ofenergy
+t
+available
+tovaporize hefuel. elated
+t
+R
+tothese
+phenomcm is
+theaccumulationftheformed sootintheregion
+o
+bounded by thedroplet
+and theflame. This representsnrealized hemicalenergyresulting
+u
+c
+inthereduction ftheheatofcombustion available
+o
+from the
+vaporizedfuel.
+1.2
+
+Extinction
+
+Analysis of the extinction mechanism during droplet combustion is important for extracting overall chemical kinetic rates
+for large hydrocsdxaxs for which detailed information does not exist [Chung and Law, 1986; Williams and Dryer, 1994]. Extinction
+occurs when the flow time of the reactants becomes smaller than the time needed for the reactants to be consumed (when the
+Dakmkohler number is reduced below a critical value). The critical Dabmkolaler number is given by where d m is the extinction
+diameter, D_ isthe ditRusivity and t=is the characteristic chemical reaction time.
+
+Da
+
+=
+
+(z)
+
+t
+¢
+
+However, extinction can oeem- prematurely if radiative losses from the flame decreases the flame temperature and therefore effeot the
+chemical reaction time. Chao and coworkers [Chao et al., 1990] suggest that radiative losses from the flame can promote the onset
+ofldnetic extinction. For droplet flames that produce sooL it is likely that soot radiation will dominate and therefore affect the kinetic
+extraction process [Grosshandler,
+1992]. Thus far, only a limited number of extinction measurements
+have been reported for nheptane droplets burning in air [Yang and Avedisian, 1988; Hara and Kumagal, 1990]. However, the extinction diameter is usually
+very small and not always reproducible under mildly sooting conditions. Without accurate determination of the soot concentration
+near the flame, it is not known to what degree soot formation may eventually affect droplet extinction.
+
+PAGE
+
+NOT FILMED
+
+1.3
+
+Disruptive Burning
+In a previous work by Knight and Williams [1980], disruption was observed during the combustion of alkane droplets in
+a rm'crogravity environment_ I)im_tion is a process by which the original droplet is violently shattered and bums as smaller satellite
+droplets. In subsequent experiments in the NASA-Lewis droptower [Shaw et al., 1988], it was found that the likelihood of observing
+the disruption behavior was higher for fuels (and or conditions such as higher oxygen concentrations)
+that produc_
+high soot loading.
+Shaw and Williams [1990] presented results that suggest that the absorption of heavy soot precursors on the droplet surface
+can create conditions in which an outer layer (of soot precursors) can reach temperatures exceeding the superheat temperature of the
+original
+heating.
+
+fuel. Another possible mechanism suggests that the soot particles can come in contact with the droplet and cause rapid
+Although a definitive explanation does not exist, it is clear that the sooting mechanism is very important m the disruptive
+
+burning process.
+1.4
+
+Thermophoresis
+For droplet combustion, soot particles form in the fuel-rich region of the diffusion flame through pyrolysis reactions.
+These
+reactions are high-activation energy processes and thus maximum soot production will likely occur near the flame [Shaw et al. 1988].
+Once soot is formed in the fuel-rich region, they are acted upon by viscous drag (caused by Stefan flow) and Thermophoresis.
+Thermophoresis
+is a mechanism through which particle transport is caused by a temperature gradient in the surrounding
+gas-phase
+[Friedlander, 1977]. Waldmann and Schmitt [1966] analyzed the viscous drag and thermophoretic
+force acting on a small spherical
+particle by calculating the momentum transferred per unit time to the particle by the impinging and rebounding gas molecules.
+At
+equilibrium
+[_,F is equal to 0], these two forces are balanced. The resulting equation can then be solved for the flux, pVe
+
+- 3_dT/dr
+p
+
+Vt -
+
+(2)
+-g(r)
+
+4(1 +x a/g)T
+The term, pVo is defined as the thermophorefic flux. The thermophoretic flux is the convective flux necessary for the above-mentioned
+force equilibrium on the particle to be maintained.
+Opposing the thermophoretic
+forces is the viscous drag caused by the Stefan flux, where (din/dr) is the droplet mass
+gasification rate.
+
+pr =
+
+dm/dt
+
+(3)
+
+4_r 2
+
+Eqn. 3 is valid under conditions ofneghgible surface regression rate compared to the gas velocity at the surface which is satisfied when
+the ratio of the liquid to gas densities is large. The sootshell will form at the radial position where the viscous drag and thermophoretic
+forcos are in balance.
+The above formulation is valid for soot particles that are much smaller than the mean flee path. Jackson and coworkers
+[1991 ] implcmmted the thermophoretic model of Talbot and coworkers [ 1980]. In this model, the sootsheU location can be calculated
+by assuming the soot particle dimension. Therefore, the measurement of the characteristic dimensions of the soot particles (including
+the radius of gyration and primary particle size using thermophoretic
+sampling and TEM) will be important in comparing the
+experimental
+l.S
+
+and theoretical
+
+sootshell
+
+locations.
+
+Droplet Flame Dynamics
+The flame diameter is also affected by the soot formation through reductions
+
+in the specific
+
+volume [Choi et al., 1993 ]. After
+
+the initial period of fuel vap_ accumulation (during which fuel vapor flUs the increasing volume between the droplet surface and the
+flame front), quasi-steady conditions should exist under which the gasified mass win equal the mass consumed at the flame front
+However, under sooting conditions, portions of the gasified fuel are converted to soot (which possess negligible specific volume when
+compared to that of the gaseous species). Therefore, soot accumulates in the sootsheU and never reaches the flame front.
+2.0
+
+The Need for Accurate Measurement
+of Soot Volume Fraction and Temperature
+Since the pioneering microgravity droplet combustion _ents
+of Kumagai and coworkers back in 1957, there have been
+numerous theoretical, computational
+and experimental studies analyzing the burning characterstics of isolated droplets.
+In all
+subsequent microgravity droplet combustion studies, the degree of sooting was estimated by visual observations of the sootshell. This
+practice could not provide detailed information regarding the transient distribution of the soot and temperature in the region bounded
+by the flame and the droplet. For all of the important parameters of interest in droplet combustion including the variations in the
+54
+
+buraing rate, promotion of extinction, reduction in flame size, onset of disruptive burning and soot dynamics, it is clear that accurate
+measurements ofthe degree of sooting and the temperature field within the region bounded by the droplet and the flame is needed to
+further advance our undcrstaading.
+In the present study, the sooting behavior will be studied using light extinction measurements and Abel deconvolution to
+determine the radial distribution of soot volume fi'action; two-wavelength optical pyrometry to determine the soot temperature within
+the region between the flame and the droplet; and thermophoretic sampling/transmission
+electron microscopy to determine the soot
+morphology (radius of gyration and primary particle size). In addition, computational modeling [using the Chemically-Reacting-FlowModel of Princeton] of the soot particle dynamics involving the balance between thcrmophoresis
+and Stefan drag will be compared
+with the experimental measurements.
+The modeling efforts will be advanced interactively with the experimental measurements
+of
+the soot volume fractions and the soot particle dimensions.
+These experiments will be performed for a wide range of conditions to vary the sooting propensity of the droplet using
+various fuels (including decane, hoptane, toluene/methanol
+mixtures, benzene/methanol
+mixtures and ethanol etc.), pressure (0.1 to
+1.0 arm), oxygen indices (0.15 to 0.50), initial droplet diameters (1.0 to 5.0 mm) and inerts (N:, He, CO:, etc.) as parameters.
+3.0
+3.1
+
+EXPERIMENTAL
+APPROACH
+Soot Volume Fraction Measurements
+
+Kadota and Hiroyasu [1984] first me,asatd scot conomtration in droplet flames using optical techniques.
+In their study, light
+extinction measurements were perfom_
+at a fixed location below the droplet and the radial variation was deduced by assuming that
+the regressing flame maintained constant spherical structure.
+This procedure may produce realistic information since the flame
+geometry
+isnearly
+spherical
+intheregion
+belowthedroplet,
+However,thesame approachwillproduceunrealistic
+results
+intheregion
+above theflamewhere it
+displays othaxial
+b
+and radial
+variations.
+In thepresent
+experim_t, thesootvolume frastion bc measured usinga full-field extinction
+will
+light
+technique
+thatwas
+developedatNASA-Lewis Research Center by Greenberg, Grilrm and Ku [Gr/i_ and C-rcenberg,
+1992; Greenberg and Ku,
+1995]for
+eventual seinmeasuringthesootvolume fractionor
+u
+f microgravity
+droplet
+combustion.Feasibility
+ofthis
+technique
+was
+investigated performingsootvolume fraction
+by
+measurementsforsuspendeddroplets urningundernormal-gravityonditions.
+b
+c
+Fig.I displays
+theschematic
+oftheexperimental
+apparatus
+similarothesystemofGreenbergand Ku [I
+t
+995]. Lightfrom
+theHeNe laser
+isfirst
+passedthrougha variable etm, ldensityalter expanded througha spatial
+n
+a
+f
+and
+filter/collimator
+toproduce a
+50ram diameter eam. The beam is
+b
+directed
+th'ough
+opposingoptical
+ports
+(eachfitted
+with5 Imm diameterquartz
+windows) ofthe
+stainless
+steel
+droplet
+combustionchamber. The transmitted
+beam isimaged usinga high-resolution
+CCD camera (withattached
+interference neutral
+and
+density
+filters). entireurninghistory
+The
+b
+isrecorded
+ontoa S-VHS recorder
+and subsequently
+theimage
+is digitized
+frame-by-frameusing a high-resolution
+(512x480 pixels)
+dataacquisition
+board. Measurements indiuat¢ hatthe
+t
+laser/detection
+system isvery stable
+withtemporalfluctuations thelight ntensity than0.5% ofthetotal agnitude ofthe
+of
+i
+less
+m
+
+intensity.
+For thenormal-gravityroplet
+d
+combustionexperiment, single
+a
+droplet
+of2ram diameter
+isdeposited a bead that
+on
+is
+formed atthe end of thesuspendingquartz
+fiber
+(diameter sapproximately
+i
+150 miorometers)
+usinga hypodermic needle.The
+orientation
+ofthefiber
+asshown ininset infig. was designed
+A
+I
+tominimizeinteractions
+withtheburningby reducingits
+contact
+withtheflame(Fortl_proposedmicrogravity
+¢xpcrinamt,
+droplets
+willbe suspendedby usingcross-hairs
+of50 micron silica
+carbide
+fibers). he droplets
+T
+arcignited
+usingan inductionoil
+c
+discharge gniter.
+i
+For each horizontal
+plane,
+theline
+ofsight
+projection
+data, _(x),
+P
+isgivenby:
+
+(4)
+-m
+
+The Abel transform allowsthecalculation
+ofthefield istributionfv(r)
+d
+corresponding
+totheprojectionatawiththeunderlying
+d
+assumption thatitisradiallyymme_c [Santoro al., 983;Dasch, 1992, Sunderlandetal., 995]. The sootvolume fraction
+s
+et
+1
+1
+distribution
+(basedon extinction)
+isfound fromthemeasured transmission
+ofeachprojection:
+
+• Cx)
+=
+
+cxp[- -.
+
+2 + ybdy]
+
+(s)
+
+where K, is the dimensienless extinction constant of soot. In this study, Ko value of 8.8 which was measured for soot in the post-flame
+region of a rich acetylene flame was used [Choi et al., 1995]. Equation 5 can be rearranged into the form of the projection value as:
+
+55
+
+(6)
+•
+
+_Lo
+
+-'_
+
+For a typical experiment, nearly 200 images are produced, therefore, full-field determination
+of the soot volume fraction measurements
+requires the analysis ofmore than 30,000 projection data files. To increase the efficiency, a fifll-field algorithm was written to analyze
+the entire experiment [Greenbcrg and Ku, 1995 have also wriRen a similar algorithm].
+In the present study, the soot volume fraction is measured as a function of radial position for hydrocarbon mixture flames
+at various heights above the droplet. Figure 2 displays the resulting G/Go (where G corresponds to graylevel) profiles for t = 2 sec
+ignition. The entire image is filtered using a 3x3 low-pass filter and the individual vertical position data is 5-pt averaged. The
+horizontal axis corresponds to the column position and the vertical axis corresponds to row positions. The maximum attenuation is
+approximately equal to 0.4. From this profile, the soot volume fraction is determined using the full-field Abel-deconvolution
+algorithm
+[See fig. 3]. A curve-fitting algorithm is used to define the center of the sooting region for each vertical position and the soot volume
+fraction on either side of the center is averaged to obtain the final output. The soot volume fraction increases from as a function of
+height and radial position from the center. The soot volume fraction
+consistent with the s_cture of diffusion flames.
+
+is maximum
+
+near the flame at all vertical
+
+locations
+
+which is
+
+3.2
+
+Soot Temperature
+Measurement
+Technique
+The temperattre of the soot particles within the region between the droplet surface and the flame front will be measured using
+a two-wavelength
+pyrometry and Abel deconvolution [Faeth, 1994]. The emission from the flame will be simultaneously directed
+to two separate CCD cameras (with a narrow bandpass filters at 800 nm and 900 nm) using a beamsplitter. Due to the small size of
+soot particles, the discrepancy with the local gas temperatures is expected to be small [KOylo and F aeth, 1993]. The emission mtonsity
+at each central wavelength measured for a vertical plane corresponds to the projection value of the integrated emission.
+
+PI(x)
+
+(7)
+
+= "fKxI_,xdy
+
+36xn/r
+
+fv
+
+:
+
+(s)
+(n 2 _
+
+where
+
+Iba is Planck's
+
+function.
+
+The projections
+
+k 2 + 2) 2 + 4n2k 2 JL
+
+values for 800 nm and 900 rim can be deconvoluted
+
+separately
+
+using the Abel
+
+technique to determine the corresponding
+product of (Kalba) as a function of radial position. The ratio of the emission at 800 nm
+and 900 nm can then be used to determine the temperatme using the two-wavelength
+pyrometry formula [Sivathanu and F aeth, 1990 ].
+3.3
+
+Soot Morphology Measurement
+Technique
+The morphology of soot aggregates will be determined by performing thermophoretic sampling experiments
+[lVlegaridis and
+Dobbins, 1988]. Thin ribbons of copper mesh grids will be rapidly inserted into the flame to obtain instantaneous
+distribution of soot
+morphology. Temporal variation of the soot will be determined by inserting different ribbons at pre-determmed
+times. Subsequent
+analyses will involve obtaining transmission electron micrographs
+and analyzing the radius of gyration using a non-subjective
+digital
+image processing technique that was developed as part of this project [Choi and Zhou, 1995].
+4.0
+
+PROGRESS
+
+a)
+
+A droplet combustion chamber which utilizes several features of the DCE droptower hardware is being fabricated at NASALeRC to take advantage of the design solutions. The UIC team will incorporate all of the optical diagnostic equipment
+to the experimental package. It is anticipated that an operational soot volume fraction/temperature
+rig to be used in the DC-9
+and in the 2.2 see droptower will be ready by mid-summer
+of 1995.
+A full-field normal-gravity droplet combustion apparatus to perform soot volume fraction measurements
+was implemented
+at UIC.
+Performed experiments using various hydrocarbon mixture droplets.
+(results will be presented at the Central States Sectional Meeting of the Combustion Institute, 1995).
+Developed an interactive Abel-deeonvolution
+algorithm to determine soot volume fraction for full-field light extinction data.
+This program manipulates the full-field digitized image data and produces the I/Io information at every single pixel location.
+The information is then used to determine the soot volume fraction information for each horizontal plane.
+
+b)
+c)
+
+TO DATE
+
+56
+
+d)
+e)
+0
+
+Similar program was also written for two-wavelength pyrometry.
+Developed a digital image processing program to determine the radius of gyration from l_ansmission electron micrographs.
+The students are fully trained in TEM and Selected Area Eleclxon Diffraction Techniques.
+Submitted a proposal (with P. Ferkul and D. Schultz of NASA-LeRC) to perform soot volume fraction measurements
+for
+droplets using the Glovebox facility.
+The PI was at Lewis during the summer of 1994 working with Dr. Randy Vander Wal using laserInduced Incandescense
+for performing soot volume fraction measurements
+m droplet combustion.
+(results were presented by RVW at the Eastern States Sectional Meeting of the Combustion Institute, 1994).
+
+5.0
+
+FUTURE
+
+a)
+
+Perform sootvolume fraction/temperature
+measurements
+under normal-gravity
+fortest
+conditions utlined nsection
+o
+i
+2.
+Incorporate
+opticaliagnostic
+d
+apparatus thedropletombustionapparatus
+on
+c
+(that sbeingbuilt
+i
+atNASA-LcRC) foruse
+in2.2seedroptowcr
+andaboardtheDC-9. Reduced-gravity
+droplet
+combustionexperiments
+forsootvolume fractionnd
+a
+temperature
+measurements arescheduled
+formid-summer, 1995.
+
+b)
+
+WORK
+
+c)
+d)
+
+Collaborate
+withPrinceton
+researchers
+inincorporating
+revised
+thcrmophoreticodels tocalculateootshell
+m
+s
+location.
+Determine sootextinction
+constants orvarious
+f
+fuels
+tobe usedin sootvolume fractionxperiments.
+e
+
+6.0
+
+ACKNOWLEDGEMENTS
+
+The authorsgratefixUy
+acknowledgehelpful
+advice
+regarding heimplementation f a full-field extinction
+t
+o
+light
+technique
+providedby Mr. P. Greenberg,Dr.D. Cn'tffin, B. Whiteside
+Mr.
+and Dr. D. Urban ofNASA-LcRC.
+We would alsolike
+tothank
+Professor DryerofPrinceton,rofessor ./LWilliamsofUCSD, Dr.R. Vandcr Wal,Dr. P. Ferkul,
+F.L.
+P
+F
+Mr. D. Schultz
+and Dr.M.
+Vedha-Nayagem of NASA-LeRC
+and Drs.A. Hamins, T.Kashiwagiand C. ShaddixofNIST forhelpful
+discussions
+regarding
+the
+work Thiswork was supported y NASA-LeRC through
+b
+grant
+#NAG3-163 I. KirkJensenwould like acknowledge supportfrom
+to
+theAMOCO
+FoundationFellowship.
+7.0
+1.
+2.
+3.
+4.
+5.
+.
+
+7.
+
+.
+
+9.
+I0.
+II.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+
+REFERENCES
+Kumagai, S. and Isoda, H., Sixth Symposium (int'l) on Combustion, p. 139. (1957).
+Kumagai, S., Sakai, T. and Okajima, S., Thirteenth Symposium (Int'l) on Combustion, p. 779 (1971).
+Knight, B. and Williams, F.A., Combustion and Flame, 38:111 (1980).
+Shaw, B .D., Dryer, F.L., Williams, F.A. and Haggard, J.B., Jr., Aeta Astronautica,
+17:1195 (1988).
+Choi, M.Y., Dryer, F.L., and Haggard, J.B., Twenty-Third Symposium 0nt'l) on Combustion, The Combustion
+Institute, Pittsburgh, PA., p. 1597 (1990).
+Jackson, G.S., Avedisian, C.T. and Yang, J.C., Proc. R. Soc. Lond A, 435:359 (1991).
+Avedisian, C.T., "Droplet Combustion and Soot Formation in Mierogravity", Eastern States Section of the
+Combustion Institute, Clearwater Beach, FL (1994).
+Vranos, A. and Liscinsky, D.S., Combustion Sei. Tech., 38:145 (1984).
+Chung, S.H. and Law, C.K., Combustion and Flame, 64:237 (1986).
+Williams, F.A. and Dryer, F.L., Science Requirements Document for Droplet Combustion Experiment,
+1994.
+Chao, B.H., Law, C.K. and T'ien, J.S., Twenty-Third Symposium 0mtq) on Combustion, The Combustion
+Institute, Pittsburgh, PA., p.523 (1990).
+Crrosshandler, W.L., RADCAL: A Narrow Band Model for Radiation Calculation in a Combustion Environment,
+NIST
+Technical Note 1402 (1992).
+Yang, J.C. and Avedisian, C.T., Twenty-Second
+Sumposium (Int'l) on Combustion, The Combustion Institute,
+p. 2037 (1988).
+Hara, H. and Kumagai, S., Twenty-Third Symposium (Int'l) on Combustion, The Combustion Institute, p. 1605 (1990).
+Shaw, B.D. and Williams, F.A., Int. J. of Heat and Mass Transfer, 33:301 (1990).
+Friedlander,
+S.K., Smoke, Dust and Haze, Wiley and Sons, N.Y., (1977).
+Waldmann, L. and Schmitt, ICH., Thermophoresisn
+and Diffusiophoresis
+of Aerosols, Chap VI in Aerosol Science (C.N.
+Davies, ed.), Academic, N.Y., (1966)
+Talbot. L. and Cheng, R.K., Schefer, R.W. and Willis, D.R., J. Fluid Mech. 101:737 (1980).
+Choi, M.Y., Dryer, F.L., Green, G.J. and Sangiovanni, J.J., AIAA Paper 93-0823 (1993).
+Kadota, T. and Hiroyasu, H., Comb. Flame, 55:195 (1984).
+Griffin,
+D.W. and Grcenberg,P.S.,
+"Selected icrogravity Combustion Diagnostics
+M
+Techniques",
+2nd Int'l
+Microgravity
+Combustion Workshop Proceedings,ept.1992.
+S
+Greenberg, P.S. and Ku, J.C., "Soot Volume Fraction Imaging", Applied Optics, submitted, 1995.
+Santoro, R.J., Semerjian, H.G., and Dobbins, R.A., Combust. Flame 51:203 (1983).
+57
+
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+
+Dasch, C.J., Applied Optics, 31:146 (1992).
+Sunderland,P.B.,Koylu, U.O. and Faeth, G.M., Combust and flame, 1 10:310 (1995).
+Z h q 2. and Choi, MY., "Meamrematof Dimensionless Extinction Constant of Soot Generated Usng Various Fuels", To
+be presented at the CatrWestern/Mexican Sections of the Combustion Institute, San Antonio, TX,April, 1995.
+Faeth, G.M.,
+Science Requirements Document for Laminar Soot Processes Experiment,1994.
+Kaylu, 0.0. Faeth, G.M.. Heat Transfer, 1 15:409(1 993).
+and
+J.
+Sivathanu, Y .Rand Faeth, G.M., Combstion and Flame, 81 :150 (1 990).
+Megaridis, C.M. and Dobbins, R.A, Twentysecond Symposium (znt'l) on Combustioq p. 353,1988.
+Choi, MY. andZhou, Z., Digital Image procesSing Algorithm for the Measurement of Soot Radius of Gyration, in progress,
+1995.
+HeNe Laser
+Beam
+
+Attenuator
+
+Beam -der
+
+High Resolution
+CCD Camera
+
+Lens
+
+Droplet
+
+Neutral Density
+Filter
+HeNe interference
+
+\
+
+Flame
+
+Top view
+
+\
+
+Data Translation
+
+DETAIL A
+
+SVHS VCR
+
+Figure 1
+
+A
+
+e
+
+P
+a
+Y
+
+Figure 3
+
+Figure 2
+58
+

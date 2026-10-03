@@ -1,0 +1,1030 @@
+NASA/TM—2003-212216
+
+Radiative Heat Loss Measurements During
+Microgravity Droplet Combustion in a
+Slow Convective Flow
+
+Michael C. Hicks
+Glenn Research Center, Cleveland, Ohio
+Nathan Kaib, John Easton, and Vedha Nayagam
+National Center for Microgravity Research, Cleveland, Ohio
+Forman A. Williams
+University of California, San Diego, La Jolla, California
+
+March 2003
+
+The NASA STI Program Office . . . in Profile
+Since its founding, NASA has been dedicated to
+the advancement of aeronautics and space
+science. The NASA Scientific and Technical
+Information (STI) Program Office plays a key part
+in helping NASA maintain this important role.
+
+•
+
+CONFERENCE PUBLICATION. Collected
+papers from scientific and technical
+conferences, symposia, seminars, or other
+meetings sponsored or cosponsored by
+NASA.
+
+The NASA STI Program Office is operated by
+Langley Research Center, the Lead Center for
+NASA’s scientific and technical information. The
+NASA STI Program Office provides access to the
+NASA STI Database, the largest collection of
+aeronautical and space science STI in the world.
+The Program Office is also NASA’s institutional
+mechanism for disseminating the results of its
+research and development activities. These results
+are published by NASA in the NASA STI Report
+Series, which includes the following report types:
+
+•
+
+SPECIAL PUBLICATION. Scientific,
+technical, or historical information from
+NASA programs, projects, and missions,
+often concerned with subjects having
+substantial public interest.
+
+•
+
+TECHNICAL TRANSLATION. Englishlanguage translations of foreign scientific
+and technical material pertinent to NASA’s
+mission.
+
+•
+
+•
+
+•
+
+TECHNICAL PUBLICATION. Reports of
+completed research or a major significant
+phase of research that present the results of
+NASA programs and include extensive data
+or theoretical analysis. Includes compilations
+of significant scientific and technical data and
+information deemed to be of continuing
+reference value. NASA’s counterpart of peerreviewed formal professional papers but
+has less stringent limitations on manuscript
+length and extent of graphic presentations.
+TECHNICAL MEMORANDUM. Scientific
+and technical findings that are preliminary or
+of specialized interest, e.g., quick release
+reports, working papers, and bibliographies
+that contain minimal annotation. Does not
+contain extensive analysis.
+CONTRACTOR REPORT. Scientific and
+technical findings by NASA-sponsored
+contractors and grantees.
+
+Specialized services that complement the STI
+Program Office’s diverse offerings include
+creating custom thesauri, building customized
+databases, organizing and publishing research
+results . . . even providing videos.
+For more information about the NASA STI
+Program Office, see the following:
+•
+
+Access the NASA STI Program Home Page
+at http://www.sti.nasa.gov
+
+•
+
+E-mail your question via the Internet to
+help@sti.nasa.gov
+
+•
+
+Fax your question to the NASA Access
+Help Desk at 301–621–0134
+
+•
+
+Telephone the NASA Access Help Desk at
+301–621–0390
+
+•
+
+Write to:
+NASA Access Help Desk
+NASA Center for AeroSpace Information
+7121 Standard Drive
+Hanover, MD 21076
+
+NASA/TM—2003-212216
+
+Radiative Heat Loss Measurements During
+Microgravity Droplet Combustion in a
+Slow Convective Flow
+
+Michael C. Hicks
+Glenn Research Center, Cleveland, Ohio
+Nathan Kaib, John Easton, and Vedha Nayagam
+National Center for Microgravity Research, Cleveland, Ohio
+Forman A. Williams
+University of California, San Diego, La Jolla, California
+
+Prepared for the
+Third Joint Meeting of the U.S. Sections of the Combustion Institute
+sponsored by The Combustion Institute
+Chicago, Illinois, March 16–19, 2003
+
+National Aeronautics and
+Space Administration
+Glenn Research Center
+
+March 2003
+
+Acknowledgments
+
+This research is sponsored by the NASA Microgravity Combustion Science Program. Particular appreciation is
+extended to Ms. Jennifer Neale for conducting the ZGF experiments and the data reduction and to Rodger Slutz,
+Mike Brace, Hank Kacher, and Dale Robinson for the design and buildup of the experimental test rigs
+used in the drop towers.
+
+This report contains preliminary
+findings, subject to revision as
+analysis proceeds.
+
+Available from
+NASA Center for Aerospace Information
+7121 Standard Drive
+Hanover, MD 21076
+
+National Technical Information Service
+5285 Port Royal Road
+Springfield, VA 22100
+
+Available electronically at http://gltrs.grc.nasa.gov
+
+Radiative Heat Loss Measurements during Microgravity Droplet
+Combustion in a Slow Convective Flow
+M. C. Hicks*
+National Aeronautics and Space Administration
+Glenn Research Center
+Cleveland, Ohio 44135
+N. Kaib, J. Easton, V. Nayagam
+National Center of Microgravity Research
+Cleveland, Ohio 44135
+F. A. Williams
+University of California, San Diego
+La Jolla, California 92093
+Abstract
+Radiative heat loss from burning droplets in a slow convective flow under microgravity conditions is measured using a
+broad-band (0.6 to 40 mm) radiometer. In addition, backlit images of the droplet as well as color images of the flame
+were obtained using CCD cameras to estimate the burning rates and the flame dimensions, respectively. Tests were
+carried out in air at atmospheric pressure using n-heptane and methanol fuels with imposed forced flow velocities varied
+from 0 cm/sec to 10 cm/s and initial droplet diameters varied from 1 mm to 3 mm. Slow convective flows were
+generated using three different experimental configurations in three different facilities in preparation for the proposed
+International Space Station droplet experiments. In the 2.2 Second Drop-Tower Facility a droplet supported on the
+leading edge of a quartz fiber is placed within a flow tunnel supplied by compressed air. In the Zero-Gravity Facility
+(five-second drop tower) a tethered droplet is translated in a quiescent ambient atmosphere to establish a uniform flow
+field around the droplet. In the KC-135 aircraft an electric fan was used to draw a uniform flow past a tethered droplet.
+Experimental results show that the burn rate increases and the overall flame size decreases with increases in forced-flow
+velocities over the range of flow velocities and droplet sizes tested. The total radiative heat loss rate, Qr, decreases as the
+imposed flow velocity increases with the spherically symmetric combustion having the highest values. These
+observations are in contrast to the trends observed for gas-jet flames in microgravity, but consistent with the observations
+during flame spread over solid fuels where the burning rate is coupled to the forced flow as here.
+It has been shown that the ratio of the radiative heat
+loss to the total heat release from spherically symmetric
+droplet combustion can vary from 10% to 70% with
+initial droplet diameters ranging from 1 mm to 5 mm [1].
+It was also shown in an earlier study that the transfer of
+radiant energy into the droplet was not as significant as
+the radiative heat loss to the surroundings [2]. This effect
+has been indirectly observed in previous experiments
+where it was noted that droplet burn rates decrease with
+increasing initial droplet diameters [3, 4] due to gas-phase
+radiative heat losses. This is a direct consequence of the
+relationship, just derived, between fractional radiative
+heat loss and droplet diameter.
+It still remains to be determined that gas phase
+radiative losses have a significant impact when a large
+droplet is exposed to a convective flow field in
+
+Introduction
+The classical theory of droplet combustion predicts
+that the chemical heat release rate, Qrel is proportional to
+the instantaneous droplet diameter dl(t). Furthermore, the
+quasi-steady model predicts that the ratio of the flame
+diameter to droplet diameter is a constant. It then follows
+that the radiative heat loss rate, Qrad, which is proportional
+to the emitting-gas volume, varies as the cube of droplet
+diameter. Combining these results, the radiative heat loss,
+as a fraction of the total heat release, becomes
+proportional to the droplet diameter squared
+(i.e., Qrad / Qrel ∂ dl(t)2 ) [1]. Consequently, as the droplet
+diameter increases the radiative heat losses from the gas
+phase become increasingly important as a heat-loss
+mechanism.
+
+*
+
+Corresponding author: Michael.C.Hicks@nasa.gov
+
+NASA/TM—2003-212216
+
+1
+
+concept similar to the 2.2 Sec DTF. However, rather than
+using pressurized bottles of gas with a sonic orifice, a fan
+was used to generate the required flows. In this test
+configuration only two flow velocities were used (i.e.,
+5 cm/s and 10 cm/s), and the initial droplet diameters
+were considerably larger at approximately 3 mm. Each
+of these test configurations are discussed in greater detail
+in the subsections that follow.
+
+microgravity. There has been little work showing the
+effects that a slow convective flow field will have on the
+radiative heat loss from a large droplet burning in
+microgravity.
+Specific Objectives
+The previous studies all pertained to droplet
+combustion employing a spherically symmetric flame
+configuration. Except for a study reporting flame
+radiation measurements from a 2-dimensional gas-jet
+diffusion flame [6] there is little in current literature
+which one could extrapolate to droplet combustion in
+slow convective flows. It would be expected, as was
+found in the gas-jet diffusion-flame study, that a change
+in the dominant mode of heat transfer would occur as a
+convective flow field is established (either by buoyant
+forces or with a forced-convective flow). The effects of
+gas-phase radiative losses on large droplet flame shapes
+and burn rates in a very slow convective flow field remain
+to be fully quantified. The specific objective of this work
+is to report gas-phase radiation measurements for an
+axisymmetric flame configuration established by large
+droplets burning in microgravity under the influence of a
+slow convective flow. The range of initial droplet
+diameters was from 0.8 mm to 3.4 mm, and the velocity
+range of the flow field was from 0 cm/s to 10 cm/s.
+Results from this work will support on-going
+development of analytical and numerical models and
+increase the general understanding of the role that
+gas-phase radiation plays in droplet combustion,
+particularly as it occurs in slow convective flows.
+Additionally, this work was part of a developmental effort
+for a future investigation scheduled to fly on the
+International Space Station. As such, in order to address
+the full range of droplet diameters and flow conditions
+that are to be studied in that flight program, it was
+necessary to use three different experimental platforms.
+
+2.2-Second Drop-Tower Test Configuration:
+The
+flow tunnel is capable of producing uniform forced flow
+velocities ranging from 0 cm/s to 20 cm/s within a
+cylindrical combustion chamber of cross-sectional area
+314 cm2 and height 100 cm. Gas flow through the
+chamber is established by actuating a solenoid valve to
+open the gas line from a pressurized gas bottle to the
+chamber. A pressure regulator, located upstream of a
+sonic orifice, is used to control flow velocities inside the
+chamber. A specially designed insert was built to be
+accommodated within the combustion chamber. The
+insert consisted of a 100 mm quartz fiber with a 200 mm
+bead at its tip, a fuel syringe equipped with a hypodermic
+needle to deposit the fuel droplet on the bead, a stepper
+motor used to discharge the fuel from the syringe, and a
+hot-wire igniter which is removed from the field of view
+by activating a solenoid. The time-synchronized
+operations of the flow tunnel, the fuel syringe motor, and
+the igniter are controlled by a programmable on-board
+microprocessor. The flow uniformity was checked with
+the insert in place using a hot-wire anemometer and was
+found to vary no more than ± 0.5 cm/s at a flow rate of
+10 cm/s. Prior to each test the flow field was allowed to
+reach steady conditions (a period of about 10 s), followed
+by the formation of a droplet of desired size on the
+support-fiber bead, and then the experimental package
+was dropped. During the drop a backlit image of the
+droplet was obtained using a color CCD camera at 30
+frames per second. The back-lighting intensity was
+adjusted such that the formation of the soot shell was
+visible in the droplet image. A second color CCD
+camera, with a larger field of view, was used to record the
+flame images. Also, two wide-band (0.6 to 40 mm)
+radiometers recorded the radiant emission from the
+burning droplet flame. Both of these radiometers were
+situated so that the fuel droplet was centered in the view
+cone (which had a solid angle of 64±) and so that the
+flame would be viewed at an angle roughly perpendicular
+to the axis of symmetry. The first radiometer was a
+thin-film thermopile detector (Dexter model 2M) with an
+85 ms time constant, and the second radiometer was a
+silicon-based thermopile detector (Dexter model S60)
+with a 12 ms time constant. The distance from the
+radiometers to the droplet center was nominally 9.0 cm.
+
+Experiments
+As mentioned, three separate test configurations were
+used in obtaining the radiometric measurements reported
+in this paper. The first test configuration, which was used
+in the 2.2 Second Drop-Tower Facility ( “2.2 Sec DTF ” ),
+employed a “flow tunnel”, powered by a pressurized gas
+bottle, to establish a uniform flow field around a burning
+droplet with an initial diameter of approximately 1.2 mm.
+The second test configuration, designed for use in the
+Zero-Gravity Facility ( “ZGF”, i.e., the larger drop tower
+providing up to 5 seconds of microgravity), utilized a
+translating mechanism to move the droplet at very precise
+velocities through a quiescent medium to generate a
+uniform flow field. The velocities for this system ranged
+from 0 cm/s to 3 cm/s, and initial droplet diameters were
+nominally 2.3 mm. The third test configuration was
+designed to fly on the KC-135, which affords over 20
+seconds of microgravity, and it employed a flow-tunnel
+
+NASA/TM—2003-212216
+
+Zero-Gravity Facility Test Configuration:
+In the
+second test configuration, a tethered droplet was moved
+
+2
+
+with a translating device through a quiescent atmosphere
+in order to obtain the desired flows.
+As with the
+2.2-Sec DTF experiments, these tests took place in an
+enclosed cylindrical combustion chamber pressurized to
+1.0 atmosphere. The droplet was supported by a 125 mm
+quartz fiber which in this case was supported at both ends
+in a specially designed fiber-support fixture. A 200 mm
+diameter bead was placed at the fiber’s midpoint to pin
+the droplet in the center of the cameras’ field of view, and
+the fiber was translated such that it was perpendicular to
+the droplet motion.
+The test sequence began by dispensing the droplet
+onto the bead. Once the droplet was formed the test rig
+was released, the igniter was energized and the droplet
+was ignited. Ignition typically occurred approximately a
+second after free-fall was initiated.
+The same
+radiometers, as discussed in the preceding section, were
+used, and their placements, relative to the droplet
+location, were essentially the same as in the 2.2 Sec DTF.
+Once the droplet was ignited, the fiber mount was
+accelerated at a rate of 10 cm/s2 until the desired carriage
+velocity was achieved. The velocities of the translating
+device were calibrated several times and were found to
+have uncertainties of less than 1%.
+Again, the
+synchronization of the droplet dispensing, ignition, and
+translation was controlled by an onboard microprocessor.
+Remote camera heads along with the radiometers were
+mounted onto the same translating stage on which the
+droplet fiber support was mounted so that there was no
+relative motion between the droplet, cameras, and
+radiometer.
+
+Figure 1 Flow orientation relative to the axis of the
+droplet support fiber for each test configuration and
+definition of flame dimensions.
+
+in the first two test configurations and for only n-heptane
+in the KC-135 experiments. All radiometers used in the
+testing were calibrated with a blackbody source at the
+same distances from the droplet support fiber employed in
+the experimental rig.
+Results and Discussion
+The instantaneous radiated heat loss, Qrad, is calculated
+by multiplying the radiative flux obtained from the
+calibrated radiometer, qr , by an effective spherical surface
+determined by the distance, L , that the radiometers are
+located from the droplet center. In the presence of a
+convective flow field flame shapes will actually be
+ellipsoidal with the degree of ellipticity dependent, among
+other things, on the strength of the flow field. The
+approach used to calculate radiative losses simply
+assumes a spherically symmetric flame shape. For
+qualitative purposes, where trends are being identified,
+this simplification should not significantly alter the
+conclusions.
+Figure 2 shows the instantaneous radiative heat loss,
+Qrad, as a fraction of the maximum radiative heat loss,
+Qmax, as measured over the duration of the droplet’s burn
+time for n-heptane (Figure 2a) and methanol (Figure 2b)
+at two different flow velocities; 0 cm/s and 5 cm/s for the
+n-heptane test and 0 cm/s and 4 cm/s for the methanol
+test. Initial droplet diameters for the two n-heptane tests
+were the same and for the two methanol tests were within
+20%. These two tests are typical of other similar tests
+performed and have been highlighted here to illustrate the
+effect that a small flow velocity has on radiative heat
+losses. In both cases, as would be expected, the burn rates
+(as seen by the slope of the droplet regression) increase
+with flow velocity.
+Of particular interest is the
+observation that, for each fuel type, the maximum
+radiative heat loss occurring during the experimental time
+
+KC-135 Test Configuration: The third test
+configuration used existing hardware originally designed
+to support the earlier Fiber-Supported Droplet
+Combustion experiments [7]. This test configuration was
+used on the NASA KC-135 Reduced-Gravity Research
+Aircraft which provides reduced gravity levels up to 10-3
+g’s for periods of 20 to 30 seconds. Tests were run with
+n-heptane droplets approximately 2.5 mm to 3 mm in
+initial diameter, with cabin pressures at a nominal
+0.7 atmospheres and with two flow velocities, 5 cm/s and
+10 cm/s. The uniform flow field was generated by a fan
+and a series of flow straighteners located at one end of the
+enclosure. A droplet support fiber, similar to the ones
+described in the other test configurations, was aligned so
+that it’s axis was parallel with the flow direction. Two
+radiometers were used; however, in this test configuration
+one of the radiometers (Dexter model 2M) was filtered to
+pass only the water line emissions at 6.3 mm (with a band
+pass of 5.1 mm to 7.5 mm).
+Comparisons of Test Configurations: The orientation
+of the support fiber relative to the flow was different for
+each test configuration, and these are presented in
+Figure 1. Tests were run for both n-heptane and methanol
+
+NASA/TM—2003-212216
+
+3
+
+n-heptane ; dl(0) = 2.3 mm
+
+is reached at a faster rate as the flow velocity is increased.
+In fact, for the n-heptane test a peak in the radiative heat
+loss is never reached when there is no flow, while for the
+case with flow (U∞ = 5 cm/s) a peak in the radiative heat
+loss is quickly reached. This trend is also observed with
+the methanol tests where the radiative loss reaches a peak
+sooner in the case with flow (4 cm/s) as compared with
+the no-flow case. In comparing the methanol tests with
+the n-heptane tests the peak radiative losses are reached in
+approximately half the time. This is a result of the
+inherent difference between the fuels where methanol,
+having a lower carbon content, reaches a stoichiometric
+balance with O2 much faster. Consequently flames are
+located closer to the droplet surface and flame transients
+dissipate at faster rates. Convective flow effects on
+radiative losses are observed for both fuels. Two flame
+dimensions (as defined in Figure 1), the standoff distance,
+S, and the flame width, W, as ratios to the instantaneous
+droplet diameter, dl(t), are also plotted.
+It is apparent from these plots that when forced
+convection is present the outer transient-diffusive region
+is reduced in size and the flame reaches its quasi-steady
+behavior sooner, leading to an earlier peak in radiative
+heat loss. Moreover, the radiative heat loss decays from
+its peak value quicker due to the increased burning rate
+with convective flow.
+A unique feature of the test rig used in the ZGF is that,
+because the droplet is translated in a quiescent
+environment, it can be programmed to accelerate (or
+decelerate) the translational velocity in order to change
+the flow around the droplet in a prescribed manner. A test
+was performed, taking advantage of this feature, to
+investigate unsteady-flow effects on radiative heat losses
+from the gas phase. Since most practical situations
+involving droplet combustion include flow transients in
+the form of droplet acceleration/deceleration, these
+comparative tests have particular merit. In these tests
+radiative losses were measured from two n-heptane
+droplets (approximately the same size) with the same
+starting flow velocities. In each case the droplets reached
+their maximum velocities, at 3 cm/s, within
+approximately 0.3 seconds into the drop. Immediately
+after attaining maximum velocity one of the droplets was
+slowly decelerated at an average rate of 0.4 cm/s2 while
+the other droplet was held at a constant velocity of
+3.0 cm/s.
+Figure 3a shows a plot of the instantaneous radiative
+heat loss, Qrad, and the instantaneous Reynolds number,
+Re, (using the droplet translation velocity, U∞(t), the
+instantaneous droplet diameter, dl(t) and the kinematic
+viscosity evaluated at 850°C ). Figure 3b shows the
+transient behavior of the flame dimensions, S and W,
+normalized by the droplet diameter, the droplet diameter
+squared, dl(t)2, and the deceleration profile that was
+programmed into the stepper motor controlling the
+translation velocity. In both the steady and decelerating
+
+U = 5 cm/s
+
+1.0
+
+10
+
+Qrad/Qmax ; (dl(t)/dl(0))2
+
+Qrad /Qmax
+8
+0.9
+
+(dl(t)/dl(0))
+
+2
+6
+
+W/dl(t)
+0.8
+
+4
+
+S/dl(t)
+
+0.7
+
+W/dl(t) ; S/dl(t)
+
+2
+
+0.6
+
+0
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+t (s)
+(a)
+methanol
+U = 0 cm/s
+dl(0) = 1.5 mm
+
+U = 4 cm/s
+dl(0) = 1.2 mm
+
+Qrad/Qmax ; (dl(t)/dl(0))2
+
+1.0
+
+10
+
+Qrad /Qmax
+
+8
+
+(dl(t)/do)2
+
+0.8
+
+6
+0.6
+
+W/dl(t)
+
+4
+
+0.4
+
+W/dl(t) ; S/dl(t)
+
+NASA/TM—2003-212216
+
+U = 0 cm/s
+
+2
+
+S/dl(t)
+
+0
+
+0.2
+0.0
+
+0.5
+
+secs
+
+1.0
+
+1.5
+
+2.0
+
+t (s)
+(b)
+
+Figure 2 Radiative heat loss as a fraction of maximum radiative
+heat loss, Qrad/Qmax; droplet diameter over initial droplet diameter
+squared, (dl(t)/dl(0))2; ratio of flame width to droplet diameter,
+W/dl(t), and ratio of flame stand-off distance to droplet diameter,
+S/dl(t), for (a) n-heptane droplet at 0 cm/s and 5 cm/s and (b) for
+methanol droplet at 0 cm/s and 4 cm/s ambient flow velocities.
+
+cases (as observed in Figure 3b) the flame continues to
+move away gradually from the droplet with the
+decelerating droplet showing a slightly faster rate of
+non-dimensional flame expansion. Interestingly, during
+this same period the decelerating droplet has a slightly
+
+4
+
+n-heptane
+
+lower radiative heat loss. Since a large portion of the
+measured radiation is from soot it is possible this is a
+soot-induced effect. This may reflect the relatively long
+time delays in re-establishing the soot field following a
+disturbance to the flow field which alters the rate at which
+fuel can be supplied to form soot. As this droplet’s
+deceleration rate approaches zero, at the end of the
+experiment, a velocity of 2 cm/s is reached. During this
+near-steady velocity phase at the end of the test it appears
+that the instantaneous radiative loss begins to increase,
+almost overtaking the droplet having a steady velocity at
+3 cm/s. The decelerated flow field allows the flame to
+temporarily expand. Since it takes a finite amount of time
+to re-establish an equilibrium flame position after a flow
+field is altered, the flame’s intensity is momentarily
+weakened. Additional work in this area is necessary in
+order to understand better the effects unsteady flow fields
+have on axisymmetric droplet combustion.
+Results of a number of tests, with ambient flow
+velocities ranging from 0 cm/s to 10 cm/s, are presented
+in Figure 4. The instantaneous radiative heat loss, Qrad, is
+plotted against instantaneous droplet diameter. Average
+initial droplet diameters were 1.25 mm for the 2 Sec DTF,
+2.31 mm for the ZGF, and 3.3 mm for the KC-135. The
+aggregate plot, showing all results on the same droplet
+scale, indicate that once the flame transient passes there is
+an expected convergence in radiative heat loss. It is
+apparent that tests performed in the ZGF never extended
+beyond the flame transient where flame expansion
+relative to the droplet diameter reached a maximum. This
+is due to the relatively large initial droplet diameters used
+in these tests and the commensurately short burn time
+allowed in this facility (i.e., data begins approximately 3
+seconds after 0-g ignition and steady velocity was
+reached). The considerably smaller droplets used in the 2
+Sec DTF, coupled with the fact that the drop occurred
+after ignition, allowed these tests to proceed beyond the
+flame-expansion period. When results from these tests
+are plotted separately on a larger scale (i.e., shown in
+lower plot of Figure 4) an interesting observation can be
+made concerning the relationship between radiative heat
+losses and flow velocity. Results indicate that radiative
+losses tend to decrease as the flow velocity is increased.
+Additionally, although less accurate due to disturbances in
+the micro-gravity levels (i.e., “g-jitter” effects), the
+KC-135 results (shown in upper plot of Figure 4) suggest
+this same trend. One possible explanation is that the
+flame shape becomes increasingly distorted into an
+ellipsoidal shape with increased flow. The distorted
+flame shape results in a smaller radiating volume and this,
+coupled with an increase in convective losses as hot gases
+are swept downstream, causes a decrease in radiative
+output from the gas phase. In addition, decreases in soot
+radiation resulting from shorter soot residence times due
+to increased convective effects, also contribute to the
+observed decrease in radiative output.
+
+U = 3 cm/s
+
+Dl(0) = 2.3 mm
+
+Dl(0) = 2.4 mm
+
+2.0
+
+13
+1.5
+
+Qrad (watts)
+
+12
+11
+
+1.0
+
+Re
+
+10
+9
+
+0.5
+
+8
+0.0
+3.0
+
+7
+0.0
+
+0.8 cm/s 2
+
+6
+
+W/dl(t) , S/dl(t) ; - dU∞ / dt (cm/s2)
+
+1.0
+
+2.0
+
+t (s)
+(a)
+
+0.15 cm/s 2
+
+0.3 cm/s 2
+
+10
+
+8
+
+S/dl(t)
+4
+
+6
+
+4
+
+W/dl(t)
+
+2
+
+(dl(t))2
+
+NASA/TM—2003-212216
+
+U = 3 cm/s ==> 2 cm/s
+14
+
+2
+
+- dU∞ / dt
+0
+0.0
+
+1.0
+
+t (s)
+(b)
+
+2.0
+
+0
+3.0
+
+Figure 3 Comparison of (a) radiative heat loss, Qrad, and Reynolds
+number, Re, and (b) ratios of flame width, W, and flame standoff,
+S, over droplet diameter, dl(t), and droplet diameter squared, dl(t)2,
+for a steady flow at 3 cm/s and a decelerating flow from 3 cm/s to
+2 cm/s (average deceleration rate, -dU∞/dt, at - 0.4 cm/s2 ).
+
+Conclusions
+Gas phase radiation measurements of axisymmetric
+flame configurations resulting from large n-heptane and
+methanol droplets (0.8 mm to 3.4 mm diameters) burning
+in a slow convective flow field were obtained from
+experiments performed in three different microgravity
+facilities; the 2 Second Drop Tower Facility, the Zero
+Gravity Facility (“ZGF”, providing up to 5 seconds of
+microgravity) and the KC-135 (providing up to 20
+seconds of microgravity). Imposed uniform flow
+
+5
+
+n-heptane
+40
+
+U = 0 - 2 cm/s
+
+U = 3 - 7 cm/s
+
+Qrad (Watts)
+
+30
+
+the flow field was decelerated during the droplet’s burn.
+Results from this comparison test show that a decelerating
+flow field initially causes reduction in the radiative loss
+from the gas phase. Additional tests with this feature are
+warranted in order to obtain a clearer understanding of
+this phenomenon.
+
+U = 8 - 10 cm/s
+
+KC-135
+ZGF
+
+2 Sec DTF
+
+20
+
+References
+1. Marchese, A. J., and Dryer, F. L., Combust. Sci.
+Tech. 124:371-402 (1997)
+2. Saitoh, T., Yamakzaki, K., and Viskanta, R., Journal
+of Thermophysics and Heat Transfer, 7:1, (1993).
+3. Colantonio, R. O., Nayagam, V., Technical Meeting
+of the Central States Section of the Combustion
+Institute, 1997.
+4. Aharon, I. and Shaw, B.D., Microgravity Science
+Tecnhology, X/2, (1997).
+5. Atreya, A. and Agrawal, S., Combustion and Flame,
+The Combustion Institute, 115:372-382 (1998).
+6. Bahadori, M.Y., Stocker, D.P., Zhou, L., and Hegde,
+U., Combustion Science Technology, 2001, Vol 167,
+pp 169-186.
+7. Dietrich, D.L.,
+Haggard, J.B.,
+Dryer, F.L.,
+Nayagam, V., Shaw, B.D., Williams, F.A., TwentySixth Symposium (International) on Combustion/ The
+Combustion Institute, 1996, pp. 1201-1207.
+
+10
+
+0
+0
+
+1
+
+dl(t) mm
+
+2
+
+3
+
+9
+
+Qrad (Watts)
+
+7
+
+2 Sec DTF
+
+5
+
+3
+
+1
+0.25
+
+0.5
+
+0.75
+
+1
+
+1.25
+
+1.5
+
+dl(t) mm
+Figure 4 Summary of tests with n-heptane droplets from three
+test configurations (i) the 2 Sec DTF (dl (0) = 0.8 mm - 1.5 mm),
+(ii) the ZGF dl (0) = 2.0 mm - 2.5 mm), and (iii) the KC-135
+(dl (0) = 3.1mm - 3.4 mm).
+
+velocities ranging from 0 cm/sec to 10 cm/sec were
+established in different manners in each of the test
+configurations. A unique feature of the experimental
+hardware used in the ZGF allows for experiments to be
+conducted in precisely controlled accelerating and
+decelerating flow fields.
+Results from each of the test configurations show that
+radiative heat losses from the gas phase contribute to a
+substantial portion of the overall heat loss mechanism.
+Preliminary results suggest that gas phase radiative heat
+losses reach their maximum values at a faster rate and
+approach a lower quasi-steady asymptotic value as flow
+velocities are increased. It is believed that this is a result
+of the combined effects of increased droplet vaporization
+rates coupled with flame distortions and alterations in the
+soot distribution (in the case of n-heptane) resulting from
+the imposed flow fields. An interesting comparison of
+similar-sized droplets with the same initial conditions was
+made using the unique feature of the ZGF test rig where
+
+NASA/TM—2003-212216
+
+6
+
+Form Approved
+OMB No. 0704-0188
+
+REPORT DOCUMENTATION PAGE
+
+Public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources,
+gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this
+collection of information, including suggestions for reducing this burden, to Washington Headquarters Services, Directorate for Information Operations and Reports, 1215 Jefferson
+Davis Highway, Suite 1204, Arlington, VA 22202-4302, and to the Office of Management and Budget, Paperwork Reduction Project (0704-0188), Washington, DC 20503.
+
+1. AGENCY USE ONLY (Leave blank)
+
+2. REPORT DATE
+
+3. REPORT TYPE AND DATES COVERED
+
+Technical Memorandum
+
+March 2003
+4. TITLE AND SUBTITLE
+
+5. FUNDING NUMBERS
+
+Radiative Heat Loss Measurements During Microgravity Droplet Combustion in a
+Slow Convective Flow
+
+WBS–22–101–32–09
+
+6. AUTHOR(S)
+
+Michael C. Hicks, Nathan Kaib, John Easton, Vedha Nayagam,
+and Forman A. Williams
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)
+
+8. PERFORMING ORGANIZATION
+REPORT NUMBER
+
+National Aeronautics and Space Administration
+John H. Glenn Research Center at Lewis Field
+Cleveland, Ohio 44135 – 3191
+
+E–13837
+
+9. SPONSORING/MONITORING AGENCY NAME(S) AND ADDRESS(ES)
+
+10. SPONSORING/MONITORING
+AGENCY REPORT NUMBER
+
+National Aeronautics and Space Administration
+Washington, DC 20546– 0001
+
+NASA TM—2003-212216
+
+11. SUPPLEMENTARY NOTES
+
+Prepared for the Third Joint Meeting of the U.S. Sections of the Combustion Institute sponsored by The Combustion
+Institute, March 16–19, 2003. Michael C. Hicks, NASA Glenn Research Center; Nathan Kaib, John Easton, and
+Vedha Nayagam, National Center for Microgravity Research, Cleveland, Ohio 44135; Forman A. Williams, University
+of California, San Diego, La Jolla, California 92093. Responsible person, Michael C. Hicks, organization code 6711,
+216–433–6576.
+12a. DISTRIBUTION/AVAILABILITY STATEMENT
+
+Unclassified - Unlimited
+Subject Category: 88
+
+12b. DISTRIBUTION CODE
+
+Distribution: Nonstandard
+
+Available electronically at http://gltrs.grc.nasa.gov
+This publication is available from the NASA Center for AeroSpace Information, 301–621–0390.
+13. ABSTRACT (Maximum 200 words)
+
+Radiative heat loss from burning droplets in a slow convective flow under microgravity conditions is measured using a broad-band
+(0.6 to 40 µm) radiometer. In addition, backlit images of the droplet as well as color images of the flame were obtained using CCD
+cameras to estimate the burning rates and the flame dimensions, respectively. Tests were carried out in air at atmospheric pressure using
+n-heptane and methanol fuels with imposed forced flow velocities varied from 0 to 10 cm/s and initial droplet diameters varied from
+1 to 3 mm. Slow convective flows were generated using three different experimental configurations in three different facilities in
+preparation for the proposed International Space Station droplet experiments. In the 2.2 Second Drop-Tower Facility a droplet supported on the leading edge of a quartz fiber is placed within a flow tunnel supplied by compressed air. In the Zero-Gravity Facility
+(five-second drop tower) a tethered droplet is translated in a quiescent ambient atmosphere to establish a uniform flow field around the
+droplet. In the KC–135 aircraft an electric fan was used to draw a uniform flow past a tethered droplet. Experimental results show that
+the burn rate increases and the overall flame size decreases with increases in forced-flow velocities over the range of flow velocities and
+droplet sizes tested. The total radiative heat loss rate, Qr, decreases as the imposed flow velocity increases with the spherically symmetric combustion having the highest values. These observations are in contrast to the trends observed for gas-jet flames in microgravity,
+but consistent with the observations during flame spread over solid fuels where the burning rate is coupled to the forced flow as here.
+14. SUBJECT TERMS
+
+15. NUMBER OF PAGES
+
+Burning rate; Combustion; Thermal radiation; Fuel combustion; Microgravity; Drop
+towers; Droplet combustion
+17. SECURITY CLASSIFICATION
+OF REPORT
+
+Unclassified
+NSN 7540-01-280-5500
+
+18. SECURITY CLASSIFICATION
+OF THIS PAGE
+
+Unclassified
+
+19. SECURITY CLASSIFICATION
+OF ABSTRACT
+
+12
+16. PRICE CODE
+20. LIMITATION OF ABSTRACT
+
+Unclassified
+Standard Form 298 (Rev. 2-89)
+Prescribed by ANSI Std. Z39-18
+298-102
+

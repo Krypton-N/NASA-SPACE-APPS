@@ -1,0 +1,691 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Li, et al 2020
+
+
+ ICES-2020-407 
+ 
+
+Effects of Confinement on Flame Spread in Microgravity 
+
+Yanjun Li1 and Ya-Ting T. Liao2 
+Case Western Reserve University, Cleveland, OH, 44106, USA 
+
+Paul V. Ferkul 3 and Michael C. Johnston3 
+Universities Space Research Association, NASA Glenn Research Center, Cleveland, OH, 44135, USA 
+
+and  
+
+Charles Bunnell 4 
+ZIN Technologies, Middleburg Heights, OH, 44130, USA 
+
+Solid fuel combustion experiments aboard the ISS examine the effects of confinement on a 
+concurrent, purely-forced-flow flame spread in microgravity environment. The results for a 
+thin, cotton-fiberglass-blended textile fabric fuel are presented. Flat baffles of differing 
+materials are used to alter the radiative boundary conditions with transparent polycarbonate, 
+black anodized aluminum (reflectance ~ 0), and highly polished aluminum (reflectance ~ 1). 
+The baffles are parallel to the fuel sheet and placed symmetrically on each side. The inter-
+baffle distance is varied to change the boundary conditions for the flow. In all tests, samples 
+are ignited at the upstream leading edge and allowed to burn to completion. Results show that 
+the flame reaches a steady length and spread rate at low flow speeds (< 15 cm/s) for all tested 
+inter-baffle distances. As the distance decreases, the flame length and spread rate first increase 
+then decrease showing an optimal inter-baffle distance. For all baffle types, the flame either 
+fails to ignite or extinguishes before reaching the end of the sample when the inter-baffle 
+distance is too small (~ 1 cm). This is attributed to the reduction of oxygen supply to the flame 
+zone and heat loss to the baffles. The results also show at the same inter-baffle distance, flame 
+length and spread rate are highest for polished aluminum baffles, and lowest for transparent 
+polycarbonate baffles. The differences are most prominent at intermediate tested baffle 
+distances. While the radiative heat feedback from the baffles is expected to increase when the 
+baffle distance decreases, the combustion is limited by the reduced oxygen supply. Near this 
+limit, flame lengths and spread rates are similar for all baffle types. 
+
+I. Introduction 
+IRE safety is of critical importance in aircraft and space vehicles due to limited options to suppress fires and the 
+difficulty to evacuate. To address this, numerous experiments have been carried out to study how flames spread 
+
+over solid materials in microgravity. These experiments used drop towers [1, 2], parabolic flights [3], sounding rockets 
+[4], facilities aboard the International Space Station (ISS) [5, 6], and other space vehicles [7, 8]. The previous 
+experiments focused on the effects of environmental conditions (e.g., oxygen percentages, pressure levels, flow 
+velocities) and flow configurations (concurrent or opposed). They provided abundant data regarding the flame 
+structure, flame spread rate, mechanisms for flame spread, and mechanisms for extinctions. For example, a previous 
+NASA project, Burning and Suppression of Solids (BASS) examined the burning processes of various materials (e.g., 
+thin cotton-fiberglass based fabrics, Nomex, Ultem, PMMA slabs,  rods, and spheres) in concurrent and opposed flows 
+using a small flow duct (height: 7.8 cm) operated in the Microgravity Science Glovebox (MSG) aboard the ISS [5, 6]. 
+For the tested cotton-fiberglass fabric samples (referred to as SIBAL), steady flame spread was observed in low-speed 
+concurrent flows (~20 cm/s). The flame length and spread rate increased with flow velocity and ambient oxygen 
+
+                                                           
+1 PhD Candidate, Department of Mechanical and Aerospace Engineering, 10900 Euclid Avenue. 
+2 Assistant Professor, Department of Mechanical and Aerospace Engineering, 10900 Euclid Avenue. 
+3 Staff Scientist, Low Gravity Exploration Technology, NASA Glenn Research Center, MS 110-3. 
+4 Payload Developer, Space Experiments Department, ZIN Technologies, Inc. 
+
+F 
+
+
+
+ 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+2 
+
+percentage up to the hardware limitation of 22% volume fraction oxygen. A low-speed quenching velocity was also 
+identified and shown to decrease when the oxygen percentage increased. In another NASA-led project Saffire, large 
+samples of the same cotton-fiberglass fabric were burned in a large flow duct (height: 41 cm) inside the pressurized 
+cabin of the unmanned Cygnus ISS resupply vehicle [7]. While steady flame spread was also observed, the flame 
+spread rates at the steady state in Saffire were significantly lower than those obtained in BASS even at the same 
+oxygen percentage and flow rate. The different spread rates were suspected to be due to the different confined 
+conditions introduced by the large and small flow ducts used in these two experiments.  
+
+Similar phenomenon was reported in numerical studies [9, 10, 11]. Shih and T’ien used a two-dimensional steady 
+Computational Fluid Dynamics (CFD) combustion model to study concurrent-flow flame spread over thin solid 
+samples in a flow duct in microgravity. [10, 11]. Their results show that, when the flow duct height decreases, the 
+flame length and flame spread rate first increased and then decreased. Flow chimney effect, restriction of oxygen 
+supply, and heat loss to the duct walls were identified as competing factors that resulted in the observed non-monotonic 
+trend of the flame spread rate. Furthermore, when the radiation reflection from the duct walls was considered in the 
+model, converged solutions were not achieved for some simulated duct heights. It is suspected that the flame may be 
+continually growing in these confined conditions and this transient process cannot be captured by a pseudo steady 
+time independent model. Li et al [9, 11] conducted three-dimensional transient numerical study and considered the 
+geometry of the BASS experiments. In their work, the duct height was varied between 1 cm and 9 cm to investigate 
+the effects of the flow confinement on flame spread. The results predicted that the optimal duct height for fastest flame 
+spread in a 10 cm/s air flow was 4.0 cm. Above this optimal duct height, the flow confinement affects the flame spread 
+process mainly through the chimney effect as the heated gases expand. The flame spread rate has an approximately 
+linear dependency on the inverse of the duct height [11] in this regime. Below the optimal duct height, the flame 
+spread rate is proportional to the oxygen supply to the combustion zone and the spread rate is approximately linearly 
+proportional to the duct height [11]. 
+
+In normal gravity, previous experiments also showed that fires in confined spaces (e.g., parallel panels, channels) 
+can be longer and spread faster compared to fires in open spaces [12, 13]. Shih and Wu [12] performed upward flame 
+spread experiments over parallel thin paper sheets. When the distance between the paper sheets is larger than 10 cm, 
+fire behavior is similar to that of one single sheet. As the separation distance between the paper sheets decreases, the 
+adjacent flames begin to interact with each other and flame spread rate increases. It was concluded that both the 
+chimney effect and the radiation interactions between the adjacent flames and samples intensify the fires. However, 
+when the separation distance is further reduced, flames between parallel samples suffer from oxygen depletion and 
+the flame spread rate decreases.  
+
+In microgravity, to the authors’ best knowledge, there were no experiments that specifically investigate the effects 
+of confinement on fire behavior. In this new ISS project (referred to as Confined Combustion), the BASS hardware is 
+refurbished and modified to allow different levels of flow confinement and different radiative wall reflection. The 
+aerodynamic and radiative interactions between a flame and its surrounding walls and the fate of the flame (no ignition, 
+growing flame, steady flame, or extinction) are explored systematically for various confined conditions. The ultimate 
+goal is to provide guidance for future structural designs and improve fire safety codes for both space and Earth 
+applications. This paper presents the concept and some initial data from the microgravity experiments.  
+
+II. Experimental Setup 
+The experimental setup is shown in Fig. 1. The experiment is based on the existing flow duct hardware from BASS 
+
+[5, 6]. The flow duct is 20 cm long and has a square cross-section 7.6 cm × 7.6 cm. It is capable of providing flow up 
+to 55 cm/s. The duct operates in the Microgravity Science Glovebox (MSG) used for work volume isolation aboard 
+ISS. Along with ISS environmental sensor data, an O2 sensor (Quantek model 201 accuracy +/-2% of reading) is 
+installed in the MSG to monitor the oxygen consumption during each test. A high-resolution video camera is used to 
+record the burning events from the top window of the flow duct. The spatial resolution and the frame rate of the video 
+recordings are 12.5 pixels/mm (or 0.08 mm/ pixel) and 24 frames per second (or ~ 42 ms/frame) respectively. The 
+camera is set to auto adjust for white balance, exposure, and digital gain. An ISS laboratory camera downlink was 
+occasionally used for a secondary view through the MSG front window. 
+
+
+
+ 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+3 
+
+ 
+ 
+
+Figure 1. Experimental setup in the Microgravity Science Gloves aboard the International Space Station. 
+ 
+ 
+
+In this work, a new baffle/sample system is developed (Fig. 2). Similar to BASS, each sample is held in position 
+sandwiched between two stainless steel sample frames with black oxide surface treatment (Fig. 2a). The sample frame 
+is 13.8 cm long and 6.1 cm wide and the exposed sample surface is 10 cm long and 2.2 cm wide. A 29-AWG Kanthal 
+hotwire with resistance ~ 1 Ω is located at the leading edge of the sample to serve as the igniter. The sample frame is 
+then placed at the center position of a mounting system, together with two parallel flat baffles (Fig. 2b), one on each 
+side of the sample. The dimensions of the baffles are the same as the sample frame (13.8 cm by 6.1 cm). The mounting 
+system consists of a series of 5mm spacers. By controlling the number of spacers between the baffles and the sample, 
+different levels of flame confinement are achieved. The variation of the inter-baffle distance in the flow direction is 
+measured to be within 3% in all cases. A transparent top window is custom-designed to be retrofitted to the BASS 
+flow duct and the baffle/sample assembly is magnetically attached to a mount integrated with the top window. This 
+new system was designed in a way that the sample is positioned exactly in the middle of the flow duct when the 
+baffle/sample assembly is mounted on the top window.  
+
+ 
+ 
+
+ 
+Figure 2. a) Sample frame with fuel and igniter. b) Assembly of the sample/baffle carrier, sample frame, and 
+two parallel transparent baffles.  The distance of the fuel to either baffle is D/2. 
+ 
+ 
+
+In Confined Combustion, tested sample materials include the SIBAL fabric (75% cotton, 25% fiberglass, see Fig. 
+2a) previously tested in BASS [5] and 1mm-thick cast PMMA slabs. In this paper, only selected data from the SIBAL 
+fuel tests are presented.  
+
+Three types of baffles are used: transparent polycarbonate, black anodized aluminum, and reflective, highly-
+polished aluminum (Fig. 3). The surface properties of each baffle are characterized on the ground prior to the 
+experiments. For the black and reflective baffles, the specular reflection gloss levels are tested using Konica Minolta 
+Multi Gloss 268A glossmeter at three measurement angles, 20°/60°/85°. The values for the reflective baffles are 1300, 
+
+O2 Sensor 
+
+Video Camera 
+
+Flow Duct 
+
+a) b) 
+
+Sample Fuel 
+(SIBAL) 
+
+5 mm Spacer blocks 
+
+Inter-baffle 
+Distance (D) 
+
+Integrated 
+Igniter 
+
+Transparent Baffle 
+
+
+
+ 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+4 
+
+670, and 130 GU (gloss units) at the three tested angles respectively, and the values for the black baffles are 0, 0.3, 
+and 1.3 GU respectively. Note that these reflectance measurements only characterize visible light reflectance.  
+
+The visibly transparent baffles are made from 1.6-mm-thick general purpose clear polycarbonate. The transparency 
+is tested using a 5,500K color temperature white light LED and a UV-enhanced silicon photodiode. The baffle is 
+inserted between the light source and the broadband photodetector. Baseline tests are also performed without any 
+baffles. The differences between the measurements with and without baffles are used to determine the transmittance 
+of the baffles. This measurement is repeated three times and the average transmittance is 92.5% for the polycarbonate 
+baffles. It should be noted that the tested spectrum range is mainly in the visible light wavelengths. The flame radiation 
+in the infrared range (e.g., at wavelength 2,500~3,000 nm from H2O and CO2, and at ~4,400 nm from CO2 [14]) may 
+transmit the baffles at lower rates. Based on the manufacture’s data [15], the transmittance for a 1 mm-thick 
+polycarbonate remains fairly constant at ~90% for wavelength 400~1,600 nm, drops to ~ 40% at 1,650nm, and 
+increases back to 80% at 1,750~ 1,950nm. Further testing is warrant to obtain information of the transmittance at 
+higher wavelengths.    
+
+ 
+
+ 
+ 
+Figure 3. Three types of baffles. a) Transparent polycarbonate. b) Anodized black aluminum. c) 
+Polished aluminum. 
+ 
+
+During the experiment operations, real time space to ground communication and live video downlink is established 
+between ISS crew and the science team in the Tele-Science Communications Center at NASA Glenn Research Center. 
+In all tests, the pressure and oxygen percentage in the MSG remain constant at ISS ambient values of 1.0 atm and 
+~22% respectively. The daily variation of oxygen concentration in MSG is between 21.3% and 22.9%. Imposed flow 
+velocities range from 5 – 28 cm/s. Preflight flow calibration was performed at various inter-baffle distances (30, 40, 
+50 mm) and at three different streamwise locations (near the entry, at the center, and near the exit of the duct). The 
+results indicated that the flow rate between the baffles decreases slightly when the baffle distance decreases. For 7 
+cm/s imposed flow, the flow rate decreases by ~28% when the inter-baffle distance decreases from 50 mm to 30mm. 
+The flow is fairly uniform in the streamwise direction with variation less than 10 % from the mean value.  
+ Note that the width of the baffle/sample assembly (6.1 cm) is narrower than the width of the flow duct (7.8 cm). 
+Small gaps (~ 0.8 cm) are present between the edge of the sample frame/baffles and the duct wall (or the duct window). 
+Previous numerical study predicted that the flow can be diverted away from the inter-baffle space (where friction 
+occurs on baffles and sample surfaces) to the side gaps [11], especially when the baffle distance is small (e.g., D = 1 
+cm). This effect contributes to the lower measured flow in the inter-baffle space when the baffle distance is reduced. 
+Also note that, as shown in Fig. 2a, the sample frame on the spacer side (top side in the figure) is slightly narrower 
+(by ~ 0.3 cm) than the sample frame on the other side. This results in a slightly larger side gap on the top edge of the 
+sample/baffle assembly, compared with the bottom edge. However, this slightly unsymmetrical geometry of the 
+sample/baffle assembly is expected to have minimal effects (if any) on the flame as the flame was observed to reside 
+at the center of the sample frame and away from both side gaps in all tests. 
+ The spacer blocks may also disturb the flow. Each of the blocks is around 0.7 cm tall. The Reynold’s number 
+based on this block height for the tested imposed flow speeds range from 24 – 132. While flow recirculation might 
+occur in the region immediately downstream to the blocks, the flow disturbance does not seem to have a significant 
+effect on the flame. In all tests, both the top view and the secondary front-view images (if available) did not show 
+flame oscillations or consistent non-symmetries during the entire burning event. 
+
+a) b) c) 
+
+
+
+ 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+5 
+
+After the flow is established, ignition current is powered on and lasts until the sample ignites and an established 
+flame is observed. The ignition and flame development processes are monitored in real time and recorded using a 
+video camera through the flow duct top window (Fig. 1). Post-burn sample images are also obtained.  
+When the imposed flow velocity is less than 15 cm/s, steady state flame spread is observed for most of the tests. When 
+the flow velocity is higher than 15cm/s, the flame continually grows and does not reach a steady state except when 
+the inter-baffle distance is small (< 3 cm). Note that this observation might be specific to the tested sample length. It 
+is possible that the flame will eventually reach a steady state at these conditions if given a longer sample length. This 
+paper focuses on the cases where steady state is reached and discusses how the confinement affects the steady state 
+flame attributes.   
+
+ 
+
+III. Results 
+
+A. Flame Development Process 
+When the imposed flow is less than 15 cm/s, the flame reaches a steady length and spread rate in most cases. The 
+
+typical process of the transient flame development leading to the steady state is shown in Fig. 4 using a 
+representative case. In this case, the sample is placed between two black baffles with 5.0 cm inter-baffle distance 
+(outside of the cropped frame). The imposed flow velocity is 5 cm/s. Note that these images showing the edge view 
+of the fuel (the camera line-of-sight is parallel to the sample surface) are taken through the top window of the flow 
+duct (see Fig. 1).  
+
+The igniter is bright in initial frames illuminating the interior of the flow duct.  After the igniter is de-energized 
+and after a short growth period, the flame reaches a limiting length and steady spread rate. The flame exhibits clearly 
+two layers of different colors: a thinner yellow layer of soot nearer to the sample surface and a thicker blue layer 
+nearer to the two baffles. At the end of the test, the flame fronts reach the downstream open end of the sample and 
+merge into a single flame front. Shortly after that, the sample is fully consumed and the flame quenches.  
+
+ 
+
+ 
+ 
+Figure 4. Transient flame growth process. Imposed flow is upward at 5 cm/s. Confined conditions: black 
+anodized aluminum baffles with 5.0 cm inter-baffle distance. Ignition is at upper left and images are 2.4 s apart.  
+
+ 
+To quantify the flame development process, a video analysis computer code was developed to track the 
+
+downstream flame tip and the upstream flame base positions (see Fig. 4). The result is shown in Fig. 5. Flame spread 
+rate is taken as the slope of the linear least-squares curve fit through the flame tip and flame base data in the center 
+region of the sample (between 4-7 cm) to avoid flame growth period and end effects. Flame length is taken as the 
+average of the flame tip minus base positions in the same time duration. 
+
+ 
+
+
+
+ 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+6 
+
+ 
+Figure 5. Flame positions versus time (time = 0 is defined when the ignitor is off). Imposed flow velocity: 5 cm/s. 
+Confined conditions: black baffles with 5.0 cm inter-baffle distance. The dashed lines show the linear curve fits 
+at the steady state condition. 
+ 
+
+Figures 4 and 5 show that near the end of the test, when the flame tip reaches the downstream open end of the 
+sample, the flame tip accelerates, flame suddenly lengthens, and the left and right flames merge at the downstream 
+end. Several factors may contribute to this. When the flame spreads along the fuel surface, the gaseous fuel 
+pyrolysate needs to diffuse across the flow viscous boundary layer to meet with the oxygen in the flow stream. Thus 
+the flame profile resembles the shape of the flow boundary layer [1]. At the downstream edge of sample, the 
+boundary layer breaks due to absence of the solid fuel. Consequently, the gaseous fuel and hence the reaction zone 
+from each side of the sample can join up. The sudden removal of the no-slip boundary condition also leads to 
+increased flow speed near the center plane downstream to the sample fuel. Furthermore, the baffles ends near this 
+location (see Fig. 2b). The downstream portion of the flame is no longer subjected to the confinement (no oxygen 
+limitation and conductive heat loss to the baffles). The higher flow speed, additional oxygen supply, and reduced 
+heat loss are suspected to contribute to the acceleration of the flame tip near the end of the test. 
+
+B. Effects of Flow Confinement 
+The flame profiles at different inter-baffle distances (and with no baffles) are compared in Fig. 6 at the same 
+
+imposed flow speed of 7 cm/s. When the confinement varies from no baffles (the full duct width, equivalent to D = 
+7.6 cm) to the most confined case (D = 2.0 cm), flame length first increases and then decreases. The maximum flame 
+length occurs at around D = 4.0 cm. When the inter-baffle distance further decreases to D = 1.0 cm, the flame quenches 
+immediately after ignition energy is removed. Post-burn sample indicated that the flame never spread past the ignition 
+wire (the sample burn length is less than 0.8 cm).  
+      Note that in the case with no baffles, the sample was installed on the sample carrier (Fig. 2b) alone. The two sides 
+of the sample were exposed directly to the interior of the flow duct (right side in Fig. 6) and to the front window (left 
+side) respectively. The interior of the flow duct is painted black and its radiation property, although not measured, is 
+expected to be close to a black surface. The front window was made of visibly transparent polycarbonate.   
+
+Also note that when the flame is small and weak at very small inter-baffle distances (e.g., D = 2.0 cm), the camera 
+is struggling with white balance and the videos show unrealistic colors of the flames (see Fig. 6). The apparent colors 
+would change between one video frame and the next. However, the ISS crew reported true flame color during the 
+burns to confirm/correct the video displayed.  
+
+ 
+ 
+
+End of the sample 
+
+
+
+ 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+7 
+
+  
+ Figure 6. [Left] Comparisons of steady flame profiles for different flow confined conditions. Baffle types 
+(if used): black anodized aluminum baffles. Imposed flow velocity: 7 cm/s. [Right] Overlay of tracked flame 
+
+outer edge for all five tests. In the case with no baffles, the flame is between a black duct wall (right side in the 
+figure) and a transparent polycarbonate window (left side in the figure). 
+
+ 
+The flame spread rates and flame lengths at different inter-baffle distances are compared in Fig. 7. The error bars 
+
+denote the 95% confidence intervals of the measurements. Both flame characteristics exhibit non-monotonic trends 
+when the inter-baffle distance decreases. When the confinement increases from D = 7.6 cm (no baffle case) to D = 5.0 
+cm, the flame spread rate increases by a factor of ~1.5 for the black anodized aluminum baffles. This increase is 
+inversely proportional to the reduction of the cross-section area available for the thermal expansion (Vf ~ 1/D), 
+consistent with the prediction of Li et al. [9]. This implies that the flow acceleration during combustion thermal 
+expansion is responsible for the increased flame spread rate in this confined condition regime. For the reflective highly 
+polished aluminum baffles, the increases in spread rate and flame length are even higher due to the additional radiative 
+heat feedback reflected from the baffles. As predicted by Li et al. [9], the optimal inter-baffle distance for the flame 
+spread occurs at D = 4.0 cm. The spread rate and flame length reach the maximum values for all baffle types. Below 
+this inter-baffle distance, the flame spread rate decreases with the inter-baffle distance due to oxygen starvation and 
+conductive heat loss to the baffles [9]. Compared to the linear dependency on the duct height as predicted by Li et al, 
+the spread rate decreases faster when the inter-baffle distance decreases. In the experiments, it is possible that some 
+flow is diverted to the extra-baffle regions (i.e., outside the baffles) due to the pressure buildup between the two baffles 
+near the flame, an unintended limitation of the retrofit to the BASS duct. As a result, the flow that enters the inter-
+baffle region may be lower than the imposed flow velocity especially when the baffles are close. At D = 1.0 cm, 
+ignition was not achieved for any baffle types.  
+
+In the previous BASS experiment, flame spread rate was measured for the same sample material at similar 
+environmental conditions (1atm, 21% O2) and with a slightly lower concurrent flow rate (5 cm/s). Compared with the 
+case with no baffles in this work, the spread rate in previous BASS is ~ 42% higher. This difference in flame spread 
+rates might be due to a combination of various reasons, one being the different sample card widths used in previous 
+and current tests (3.6 cm vs 6.1cm respectively). While a wider sample card may introduce a faster flow that the 
+sample encounters [11], this effect is only prominent when the duct height is small (close to the flow boundary layer 
+thickness). The wider sample card used in this work is likely to introduce more heat loss and to reduce side oxygen 
+transport to the combustion zone, both of which weaken the flame. In addition, there were other hardware differences 
+between the previous BASS and current work: the sample orientation was rotated 90-degrees in the duct and the 
+sample holder mechanism was changed. 
+
+ 
+
+D = 3 cm 
+
+D = 4 cm 
+
+D = 5 cm 
+
+No Baffles 
+
+Flame Overlay D = 2 cm No Baffles D= 5.0 cm D= 4.0 cm D= 3.0 cm D= 2.0 cm 
+
+1.0 cm 
+
+
+
+ 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+8 
+
+  
+Figure 7. Flame spread rates and flame length at different inter-baffle distances. Imposed flow velocity: 7 
+
+cm/s. 
+ 
+
+C. Effects of Radiation Feedback  
+The flame profiles for different baffles are compared in Fig. 8. In these cases, the inter-baffle distances are 4.0 cm 
+
+and the imposed flow velocity is 7 cm/s. Among the three cases, flame is significantly longer when the reflective 
+baffles are used, as expected. During the burning process, a portion of the combustion heat is lost to the environment 
+through radiation. The reflective baffles help to re-direct radiation back to the sample and the gaseous flame. On the 
+other hand, a significantly higher portion of radiation penetrates or is absorbed by the transparent polycarbonate and 
+black anodized aluminum baffles. Compared with the transparent baffles, the flame is slightly longer for the black 
+baffles. During the burning process, temperature of the baffles increases thus more energy is emitted through surface 
+radiation. The longer flame observed for the black baffles is likely due to the combination of a slightly higher radiation 
+reflection and emission than transparent baffles.  
+
+ 
+ 
+
+  
+ 
+
+Figure 8: [Left] Comparisons of steady flame profiles between different baffle types. Baffle distance D = 4.0 
+cm. Imposed flow velocity: 7 cm/s. [Right] Overlay of tracked flame outer edge for all three tests. 
+ 
+
+The flame lengths and spread rates for different baffle types are compared in Fig. 7. It is noticed that at small inter-
+baffle distances (e.g., D < 3.0 cm), the flame spread rates for black and reflective baffles are similar but are different 
+from those for transparent baffles. To further compare the differences caused by the baffle types, the ratios of the 
+spread rates of the reflective and black baffles to the spread rate of the transparent baffles are shown in Fig. 9.  
+
+In general, the additional radiation feedback from the reflective baffle results in a higher flame spread rate 
+compared with the black and transparent baffles. This effect is most prominent near the optimal inter-baffle distance, 
+
+b) a) 
+
+Reflective  
+
+Black  
+
+Transparent  
+
+Transparent Black Reflective Flame Overlay 
+
+1.0 cm 
+
+
+
+ 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+9 
+
+D = 4.0 cm. At small baffle distances (e.g., D = 3.0 cm), the flame spread rates for different baffles are almost identical. 
+This further suggests that at these confined conditions, the combustion is limited by the oxygen supplied to the inter-
+baffle region.  
+
+Note that at the minimum inter-baffle distance for which a flame spreads, D = 2.0 cm, the flame spread rate for 
+the transparent baffles is slightly higher than other baffle types. This indicates that at this inter-baffle distance, the 
+flame is close enough to the baffles such that conductive heat loss contributes to the decrease of the flame spread rate 
+[9, 10]. Compared with the polycarbonate, the polished and anodized aluminum baffles have significantly larger 
+thermal conductivity (200 vs. 0.2 W/m/K) and larger volumetric heat capacity (ρ·Cp ~ 2.46 vs. 1.44 J/cm3/K), and are 
+therefore expected to introduce more heat loss from the flame zone.   
+
+ 
+
+ 
+ 
+
+Figure 9. Comparisons of flame spread rate between different baffle types. The spread rate of transparent 
+baffles is used as reference and its value in this plot is unity at all inter-baffle distances. 
+
+ 
+
+IV. Conclusion 
+A series of concurrent-flow flame spread experiments were performed in purely-forced concurrent flow in 
+
+microgravity to study the effects of confinement on the burning characteristics of solid materials. Thin cotton-
+fiberglass blend fabrics were burned in a small flow duct in the Microgravity Science Glovebox (MSG) aboard the 
+ISS. The imposed flow velocities ranged from 5 to 25 cm/s. Confinement is introduced using two baffles with 
+adjustable distance between 1 and 5 cm installed parallel to the sample, one on each side. Three types of baffles: black 
+anodized aluminum, reflective highly-polished aluminum, and transparent polycarbonate were used to simulate 
+different radiative boundary conditions from the surrounding walls. The main findings are as follows:  
+
+1. For all tested flow velocities and baffle types, there exists a quenching inter-baffle distance below which the 
+flame failed to spread.  
+
+2. When the imposed flow velocity is larger than 15 cm/s, the flame continually grows throughout the test (in 
+the limited sample size available) except when the baffle distance is near the quenching distance.  
+
+3. For cases where steady flame spread was observed, the flow confinement has non-monotonic effects on the 
+burning characteristics and there exists an optimal inter-baffle distance for flame length and spread rate (4.0 
+cm in this work). Above this optimal distance, the confinement affects the burning through the thermal 
+expansion during combustion, which accelerates the flow and enhances the conductive heat feedback to the 
+sample. This results in a higher flame spread rate. When the inter-baffle distance is smaller than the optimal 
+distance, the flame suffers from the oxygen starvation and additional heat loss to the adjacent baffles. These 
+weaken the flame and decrease the flame spread rate.  
+
+4. The reflective highly-polished aluminum baffles in general have the strongest flame (highest spread rate and 
+longest length) and the transparent polycarbonate baffles have the weakest flames. This effect is most 
+
+
+
+ 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+10 
+
+prominent near the optimal inter-baffle distance. The trend reverses at quenching for small inter-baffle 
+distances as the transparent baffles conduct the least heat away from the flame among the three baffle types.  
+
+Acknowledgments 
+This research is co-sponsored by the National Science Foundation and Center for the Advancement of Science in 
+
+Space (CASIS) under grant number CBET-1740478. Hardware modifications for Confined Combustion and the 
+original BASS hardware were performed by ZIN Technologies. The science team received tremendous support during  
+operations from NASA Glenn Research Center, Marshall Spaceflight Center, and ZIN Technologies, and especially  
+Emily Griffin, Steve Lawn, Russell Valentine, Beth Curtis, Chris Rogers, Wendell Booth, Michael Hall, and the 
+Microgravity Science Glovebox team. We would also like to express our immense appreciation to our lab partners in 
+space, ISS crew members Christina Koch, Jessica Meir, Andrew Morgan, and Luca Parmitano for supporting and 
+conducting the microgravity experiments aboard the ISS.  
+
+References 
+ 
+[1]  A. Vetturini, W. Cui, Y.-T. T. Liao, S. Olson and P. Ferkul, "Flame Spread Over Ultra-thin Solids: Effect of 
+
+Area Density and Concurrent-Opposed Spread Reversal Phenomenon," Fire Technology, vol. 56, p. 91–111, 
+2020.  
+
+[2]  S. L. Olson, P. V. Ferkul and J. S. T'ien, "Near-limit flame spread over a thin solid fuel in microgravity," 
+Symposium (International) on Combustion, vol. 22, no. 1, pp. 1213-1222, 1989.  
+
+[3]  A. F. Osorio, K. Mizutani, C. Fernandez-Pello and O. Fujita, "Microgravity flammability limits of ETFE 
+insulated wires exposed to external radiation," Proceedings of the Combustion Institute, vol. 35, no. 3, pp. 2683-
+2689, 2015.  
+
+[4]  H. D. Ross, "Basics of Microgravity Combustion," in Microgravity Combustion: Fire in Free Fall, London, 
+UK, Academic press, 2011, pp. 22-23. 
+
+[5]  X. Zhao, Y.-T. T. Liao, M. C. Johnston, J. S. T'ien, P. V. Ferkul and S. L. Olson, "Concurrent flame growth, 
+spread, and quenching over composite fabric samples in low speed purely forced flow in microgravity," 
+Proceedings of the Combustion Institute, vol. 36, pp. 2971-2978, 2017.  
+
+[6]  P. V. Ferkul, S. L. Olson, F. Takahashi, M. Endo, M. C. Johnston and J. S. T'ien, Thickness and Fuel Preheating 
+Effects on Material Flammability in Microgravity from the BASS Experiment, Orlando, USA: 29th Annual 
+Meeting of the American Society for Gravitational and Space Research, 2013.  
+
+[7]  D. L. Urban, P. Ferkul, S. Olson, G. Ruff, J. Easton, J. S. T'ien, Y.-T. T. Liao, C. Li, C. Fernandez-Pello, J. 
+Torero, G. Legros, C. Eigenbrod, N. Smirnov, O. Fujita, S. Rouvreau, B. Toth and G. Jomaas, "Flame spread: 
+Effects of microgravity and scale," Combustion and Flame, vol. 199, pp. 168-182, 2019.  
+
+[8]  C. Li, Y.-T. T. Liao, J. S. T'ien, D. L. Urban, P. Ferkul, S. Olson, G. A. Ruff and J. Easton, "Transient flame 
+growth and spread processes over a large solid fabric in concurrent low-speed flows in microgravity – Model 
+versus experiment," Proceedings of the Combustion Institute, pp. 4163-4171, 2018.  
+
+[9]  Y. Li, Y. Liao and P. Ferkul, "Concurrent-Flow Flame Spread Over a Thin Solid in a Narrow Confined Space 
+in Microgravity," in International Mechanical Engineering Congress & Exposition, Salt Lake City, USA, 2019.  
+
+[10]  H.-Y. Shih and J. S. T'ien, "Modeling Wall Influence on Solid-Fuel Flame Spread in a Flow Tunnel," in 35th 
+Aerospace Science Meeting & Exhibit , Reno, NV, 1997.  
+
+[11]  Y. Li, Y.-T. T. Liao and P. Ferkul, "Numerical study of the effects of confinement on concurrent-flow flame 
+spread in microgravity," Journal of Heat Transfer, p. Under review, 2020.  
+
+[12]  H.-Y. Shih and H.-C. Wu, "An Experimental Study of Upward Flame Spread and Interactions Over Multiple 
+Solid Fuels," Journal of Fire Science, vol. 26, no. 5, pp. 435-453, 2008.  
+
+[13]  B. Comas, A. Carmona and T. Pujol, "Experimental study of the channel effect on the flame spread over thin 
+solid fuels," Fire Safety Journal, vol. 71, pp. 162-173, 2015.  
+
+[14]  E. K. Plyler and C. J. Humphreys, "Infrared Emission Spectra of Flames," Journal of Research of the National 
+Bure au of Standards, vol. 40, pp. 449-456, 1948.  
+
+[15]  Covestro, "Optical properties of Makrolon and Apec," Covestro Deutschland AG, 2017. 
+
+https://www.nasa.gov/astronauts/biographies/christina-h-koch
+https://www.nasa.gov/astronauts/biographies/meir-u-jessica
+https://www.nasa.gov/astronauts/biographies/andrew-r-morgan
+http://www.esa.int/Our_Activities/Human_and_Robotic_Exploration/Astronauts/Luca_Parmitano
+
+	Effects of Confinement on Flame Spread in Microgravity
+	I. Introduction
+	II. Experimental Setup
+	III. Results
+	A. Flame Development Process
+	B. Effects of Flow Confinement
+	C. Effects of Radiation Feedback
+
+	IV. Conclusion
+	Acknowledgments
+	References
+

@@ -1,0 +1,1834 @@
+General Disclaimer
+One or more of the Following Statements may affect this Document
+
+This document has been reproduced from the best copy furnished by the
+organizational source. It is being released in the interest of making available as
+much information as possible.
+
+This document may contain data, which exceeds the sheet parameters. It was
+furnished in this condition by the organizational source and is the best copy
+available.
+
+This document may contain tone-on-tone or color graphs, charts and/or pictures,
+which have been reproduced in black and white.
+
+This document is paginated as submitted by the original source.
+
+Portions of this document are not fully legible due to the historical nature of some
+of the material. However, it is the best reproduction available from the original
+submission.
+
+Produced by the NASA Center for Aerospace Information (CASI)
+
+	
+AMRL-'TR-68-146
+
+T'
+
+FIRE PROTECTION AND RECOMPRESSION
+SYSTEMS FOR A HYPOBARIC
+RESEAR(.;H CHAMBER
+WILLIAM BROWN
+Fa i rchild Hiller Corporation
+EDWARD LEDOUX
+WILLIAM MAILLOUX
+Fenwell Incorporated
+JOHN A. BROWN
+
+311 2 3 9s
+^1
+
+w
+
+-0	
+
+EARL L. SAYRE
+
+COURTNEY A. METZGER
+Aerospace Medical Research Laboratory
+
+3,
+glZ^g
+
+FEBRUARY 1969
+
+W	
+7	
+_	
+
+0
+Q
+
+^	
+
+W
+
+u
+
+C ? r
+1
+
+It
+Or a
+W
+^
+1
+
+_+
+'
+
+4
+^ o
+
+u
+"
+
+^Q
+U
+a
+
+f ^^
+
+zoo WNOI A11113VA
+
+N
+
+t
+
+This document has been approved for public
+release and sale; its distribution is unlimited,
+
+AEROSPACE MEDICAL RESEARCH LABORATORY
+AEROSPACE MEDICAL DIVISION
+AIR FORCE SYSTEMS COMMAND
+WRIGHT-PATTERSON AIR FORCE BASE, OHIO
+
+f^
+
+4
+
+'4' ,
+
+..W,
+
+NOTICES
+
+When US Government drawings, specifications, or other data are used for any purpose other than
+a definitely related Goverpment procurement operation, the Government thereby incurs no responsibility nor any obligation whatsoever, and the fact that the Government may have formulated, furnished, or ir. any way supplied the said drawings, specifications, or other data, is not to be regarded
+by implication or otherwise, as in any manner licensing the holder or any other person or corporation, or conveying any rights or permission to manufacture, use, or sell any patented invention
+that may in airy way be related thereto.
+
+Federal Government agenci,^s and their contractors registered with Defense Documentation Center
+(DDC) should direct requests for copies of this report to:
+
+DDC
+Cameron Station
+Alexandria, Virginia 22314
+Non-DDC users may purchase copies of this report from:
+Chief, Storage and Dissemination Section
+Clearinghouse for Federal Scientific & Technical Information (CFSTI)
+Sills Building
+5285 Port Royal Road
+Springfield, Virginia 22151
+
+Organizations and individuals receiving reports via the Aerospace Medical Research Laboratories'
+automatic iiiailing lists should submit the addressograph plate stamp on the report envelope or refer
+to the code number when corresponding about change of address or cancellation.
+Do not return this copy. Retain or destroy.
+
+700 - July 1969 - C0455 - 82-1812
+
+6
+
+AMRL-TR-68-146
+
+FIRE PROTECTION AND RECOMPRESSION
+SYSTEMS FOR A HYPOBARIC
+RESEARCH CHAMBER
+WILLIAM BROWN
+EDWARD LEDOUX
+WILLIAM MAIL"OUX
+JOHN A. BROWN
+EARL L. SAYRE
+COURTNEY A. METZGER
+
+This document has been approved for public
+release and sale; its distribution is unlimited.
+
+FOREWORD
+
+This work was initiated by the Biomedical Laboratory,
+Aerospace Medical Research Laboratories*, in support of Project 6373 1 "Equipment for Life Support in Aerospace," and
+Tasks 63 -7 305, "Analysis and Integration of Life Support Systems," and 637306, "Aerospace Sanitation and Personal Hygie-ne," Work Unit number 013, "Life Support in Simulated Aerospace System Environments." Dr. Alton E. Prince, Biotechnology Branch, Life Support Division, was the contract monitor
+for the Aerospace Medical Research Laboratory for Contract
+F33615-67-C-1833 with the Republic Aviation Division (RAD)
+of the Fairchild Hiller Corporation, Farmingdale, New York
+11735. Dr. Hugo Freudenthal was the principal investigator
+for RAD. Mr. William Brown was prcject engineer and Mr.
+Philip Cooper was site manager for RAD. Mr. John A. Brown
+was the project engineer for the Air Force; Mr. Earl L.
+Sayre, facilities engineering technician; and Mr. Courtney
+A. Metzger, task supervisor. This phase of the effort was
+started in July 1967 and was completed in December 1967.
+Fenwal Incorporated designed and installed the flame
+and smoke detection reaction systems and supervisory systems.
+Mr. George Grabowski of Fenwal Incorporated was manager;
+Mr. Parker Peterson, assistant manager; Mr. Edward Ledoux,
+advanced systems; Mr. William Mailloux, field engineer; and
+Mr. John Olszewski, engineer. The Viking Sprinkler Company
+designed and installed the water distribution_ and control
+systems from tank exit through spray nozzles. Viking
+Sprinkler design was by Mr. H. W. Maxwell; Mr. George Wirsch,
+sales-design; and Mr. Allen Robertson, installation foreman.
+The authors acknowledge the invaluable assistance of the
+following Air Force personnel. Lt. Col. Paul E. Hoffman,
+USAF, MC, Chief, Life Support Division. Also Mr. Harry
+Ficht.horn, electronic technician; Mr. Ohmer Schurr, sheet
+meta technician; and Mr. Homer Tompkins, electrical technician; all of the Division of Flight Test for their continuing service in sustaining the capabilities of this facility; Master Sergeant E. D. Berry and Master Sergeant R. J.
+Ford for their services as both engineering technicians and
+physiological chamber operators to this facility.
+This technical reF,-)rt ,.as been reviewed and is approved.
+C. 71', KRATOCHVIL, COLONEL, USAF, MC
+Commander
+Aerospace Medical Research Laboratory
+*The name of our organization was changed ir. December 1968.
+ii
+
+R
+
+ABSTRACT
+A fire detection-extinguishment system and an automatic rapid recompression system for a hypobaric man-rated research
+chamber are described. Both systems are the result of recent Air
+Force directives to enhance the safety of human subjects confined to aerospace simulators under conditions of altered gaseous atmosphe. -es. Installation, operation, and maintenance instructions are included. Ultraviolet detectors are used for
+detection of flame or arcing; reaction systems are triggered
+either automatically by the ultraviolet detectors, manual electric or manual hydraulic switching. Should the manual modes be
+used to monitor the chamber interior, the ultraviolet detectors
+merely set off audio and visual alarms. Smoke detectors merely
+set of- audio and visual alarms. Water supply for 60 seconds
+.delivery capacity is maintained at 100 psi gage. The engineering approach used for the installation design of the water
+sprinkler system into the chamber is unique in configuration
+while meeti:lg Air Force requirements for both water pattern and
+flow rate of 7.5 gallons per minute per square foot of floor area.
+Response time between automatic detector sensing and water delivery at a transient pressure of 35 psi gage at the sprinkler has
+been measured as 110 milliseconds. An on-off-reset-repeat detection-control system iG used. The automated recompression system
+parallels a previously installed recompression system judged inadequate. All systems use 24 vdc power; conventional and emergency power sources are discussed. An array of installed alarms
+is described.
+
+iii
+
+f
+
+TABLE OF CONTENTS
+SECTION
+I	
+
+II	
+
+III	
+
+IV	
+
+	
+
+Page
+INTRODUCTION	 .	
+Objective	
+Background	
+Approach	 .	
+
+.	
+.	
+.	
+.	
+
+.	
+.	
+.	
+.	
+
+.	
+.	
+.	
+.	
+
+.	
+.	
+.	
+.	
+
+.	
+.	
+.	
+.	
+
+.	
+.	
+.	
+.	
+
+.	 .	 .	 .	
+.	 .	 .	 .	
+.	 .	 .	 .	
+.	 .	 .	 .	
+
+.	
+.	
+.	
+.	
+
+.	
+.	
+.	
+.	
+
+.	
+.	
+.	
+.	
+
+.
+.
+.
+.
+
+.	 .	
+.	 .	
+.	 .	
+.	 .	
+
+.	
+.	
+.	
+.	
+
+1
+1
+1
+3
+
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+
+4
+4
+4
+4
+
+.	 .	
+.	 .	
+.	 .	
+.	 .	
+.	 .	
+.	 .	
+.	 .	
+.	 .	
+
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+.	
+
+23
+23
+25
+25
+26
+28
+28
+
+.	 . .	 .	
+.	 . .	 .	
+.	 . .	 .	
+
+.	
+.	
+.	
+
+30
+30
+
+DESIGN	 METHOD	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .. .	
+Fire Protection and Recompression System
+Automatic Fire Detection and Actuation .	
+Ultraviolet Radiation Detection	 . .	
+Actuation	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 . .	
+Smoke	 Detection	 .	 .	 .	 .	 .	 .	 .	 .	 . .	
+Rapid Recompression System .	 .	 .	 .	 .	 . .	
+Rapid Recompression	 .	 .	 .	 .	 .	 .	 . .	
+Exhaust Manifold Valve 	 .	 .	 .	 .	 .	 . .	
+Manual Actuation	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 . .	
+Extinguishment	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 . .	
+Spray Nozzles and Piping	 .	 .	 .	 .	 . .	
+Nozzle Control Valves 	 .	 .	 .	 .	 .	 . .	
+Water System Features	 .	 .	 .	 .	 .	 . .	
+Emergency Control Console 	 .	 .	 .	 .	 .	 . .	
+Control	 Panel	 .	 .	 .	 .	 .	 .	 .	 .	 .	 . .	
+Aft Crew Cabin Supervisory Panel . .	
+Forward Crew Cabin Supervisory Panel
+Detector Supervisory Panel	 .	 .	 .	 . .	
+Reaction Time	 .	 .	 .	 .	 .	 .	 .	 .	 .	 . .	
+Pressurized Water System	 .	 .	 .	 .	 .	 .	 . .	
+Water Level	 Indicator	 .	 .	 .	 .	 .	 . .	
+Power	 Supplies	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 . .	
+Primary Rectifier Unit 	 .	 .	 .	 .	 .	 . .	
+Emergency Battery Unit 	 .	 .	 .	 .	 .	 . .	
+Alarm	 System	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 . .	
+OPERATION AND MAINTENANCE	 .	 .	 .	 .	
+Safety	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	 .	
+Electrical	 Elements	
+.	 .	 .	 .	 .	
+Water	 Control	 .	 .	 .	 .	 .	 .	 .	 .	
+Arming the Sprinkler System	 .	
+Preventative Maintenance 	 .	 .	 .	
+Periodic	 Check	 .	 .	 .	 .	 .	 .	
+Cleaning	 .	 .	 .	 .	 .	 .	 .	 .	 .	
+
+.	 .	 .	 .
+.	 .	 .	 .
+.	 .	 .	 .
+.	 .	 .	 .
+.	 .	 .	 .
+.	 .	 .	 .
+.	 .	 .	 .
+.	 .	 .	 .
+
+SPARE PARTS AND DRAWINGS	 .	
+Spare	 Parts	 List	 .	 .	 .	
+Drawing	 List	 .	 .	 .	 .	 .	
+
+.	
+.	
+.	
+
+1v
+
+.	 .	
+.	 .	
+.	 .	
+
+.	 .	
+.	 .	
+.	 .	
+
+.	
+.	
+.	
+
+.	
+
+5
+6
+7
+10
+10
+11
+
+12
+12
+12
+13
+14
+14
+17
+
+18
+19
+
+20
+20
+20
+21
+21
+21
+21
+
+29
+
+31
+
+R
+
+LIST OF ILLUSTRATION:
+FI3URE
+
+	
+
+Page
+
+1	
+
+Life Support Systems Evaluator
+IIypobaric Research Chamber . . . . . . . Frontispiece
+
+2	
+
+Water. Distribution System for
+Fire Extinguishment	
+. . . . . . . . . . . . . .	
+
+2
+
+Control Room and Life Support
+SyEtems Evaluator	
+. . . . . . . . . . . . . . .	
+
+9
+
+Control Elements for Water
+Distribution System	
+. . . . . . . . . . . . . .	
+
+27
+
+3	
+
+4	
+
+V
+
+t^^-o:,
+
+WATER SPRAY NOZZLE	
+
+AFT CABIN	
+INSIDE DIAMETER	
+INSIDE LENGTH	
+
+7.5 FEET	
+19.1 FEET	
+
+SMOKE DETECTOR
+U V FLAME DETECTOR
+
+FORWARD CABIN
+INSIDE DIAMETER TAPERS 7.5 to 3 FEET
+INSIDE LENGTH	
+8.5 FEET
+
+Figure 1
+Fife Support Systems Evaluator Hypobaric Research Chamber
+
+6
+
+SEC PION I
+INTRODUCTION
+OBJECTIVE
+Systems and equipment described 'herein are to serve to enNance the safety of human subjects confined to the Life Support
+Systems Evaluator (LSSE) (Figure 1) for continuing periods of up
+to 6 months. The LSSE is a man-rated aerospace research altitude
+chamber facility available at the Aerospace Medical Research
+Laboratory.
+BACKGROUND
+
+The occurrences in the last week of January 1967 within the
+nation's aerospace program caused extensive reevaluation of all
+aspects pertaining to the safety of human personnel. Aerospace
+simulators capable of altered gaseous composition of atmosphere
+and/or of reduced atmospheric pressure were subjected to inte:isive study. A paramount. United States Air Force directive required that aerospace simulators using oxygen Enriched atmospheres must be equipped with a fire suppression system; furthermore, this suppression system must be capable of being operated
+automatically when the simulator is occupied by human subjects.
+A rapid recompression system was standard for each simulator;
+however, when the recompression system was judged inadequate,
+the new recompression system configuration was dictated by the
+study team.
+The Life Support Systems Evaluator is capable of altered
+gaseous composition of the crew cabin atmosphere, operational
+with total pressure ranging from 3 to 15 psi absolute with subjects in the "shirt-sleeve" mode, to 100,000 feet altitude with
+subjects in full pressure suits and operational with cabin atmospheres of 100% oxygen pressures from 3 to 7 psi absolute, or
+comparable oxygen partial pressures. It is also operational over
+crew cabin temperatures frcm 55 to 95 Farenheit. This facility
+serves as a research tool for determining the technical feasibility of techniques and principles involved in the operation
+and design of life support equi pment through integrated evaluation studies. These studies are planned to develop optimal
+life support systems, including respiratory equipment, nutritional support, personal hygiene, and waste management. The
+broad spectrum of work involved in biologistics and bioastronautics can also be studied.
+
+1
+
+Figure 2
+Water Distribution System For Fire Extinguishment
+
+2
+
+APFROACH
+Extensive engineering testing at the School of Aerospace
+Medicine under Aerospace Medical Division supervisicn during
+March-May 1967 verified that water was a suitable extinguishing
+agent at a water spray flow of 7.5 gallons (U.S.) deluge per
+minute per square foot of floor area. Interpretation of "square
+footage of floor area" was conservatively calculated for the
+LSSE by using cabin diameter and omitting the effects of tapered
+contour.
+Forward cabin - 7.5 ft diameter x 10 ft length = 75 square
+feet. Flow rate of 7.5 x 75 = 562.5 gallons per minute =
+187.5 gallons per 20 seconds.
+Aft cabin - 7.5 ft diameter x 20 ft length = 150 square
+feet. Flow rate of 7.5 x 150 = 1125 gallons per minute =
+375 gallons per 20 seconds.
+Base hydrant flows approximating 1700 gallons per minute
+revealed insufficient line pressure to develop the desired nozzle spray patterns essential to effective extinguishment. A
+pressurized water_' tank was therefore installed (Figure 0.).
+Ultraviolet sensors were selected for the automatic detection of flame or arcing coupled with automatic actuation of extinguishment elements. Increasing the percentage of oxygen in
+the cabin atmosphere also increases the size of any generated
+flame front and its quantity of ultraviolet light. Therefore,
+as the fire hazard is increased by increased oxygen percentages,
+the ultraviolet sensors can be expected to have shorter response
+times to any flame or arc.
+The ultraviolet and smoke detectors selected were designed
+to operate on a continuous 24 - 28 vdc power supply. All other
+components were selected for like characteristics. This therefore assured continuous monitoring-reaction capability by the
+incorporation of a battery set to provide power in the event of
+a Base power failure.
+The rate of recompression desired was one-half pound per
+second or 20 seconds maximum; with the expected cabin pressure
+of 5 psia, the rates are synonymocs. The desired recompression
+time of 20 seconds was obtained with a 3 inch gate valve to the
+outer aft chamber (204 cu ft) having a pressure of one-half
+pound absolute and a 4 inch orifice on a 6 inch gate valve to
+the combined crew cabins (1131 cu ft total) at 5 psi absolute.
+
+3
+
+R
+
+SECTION II
+DESIGN METHOD
+FIRE PROTECTION AND RECOMPRESSION SYSTEM
+
+A fire detection, suppression, and hypobaric recompression
+system, with automatic sensing, controller, and reaction devices,
+was developed for the Life Support Systems Evaluator located in
+Building 824, Wright-Patterson Air Force Base, Ohio. This system provides recompression, smoke detection, and flame detectionextinguishment for the LSSE. The system operates at maximum performance and re1;.ability in pressures up to and including 100%
+oxygen atmospheres using water as the extinguishing agent.
+The performance of this protection system is measured by its
+ability to detect and respond promptly to the parameters being
+monitored. The varied conditions occurring in the Life Support
+Systems Evaluator required two modes of automatic detection to
+insure reliable and effective p rotection; ultraviolet (U/V)
+radiation detection and smoke detection. Current circuitry provides for automatic U/V (flame or arcing) detection and automatic actuation of extinguishment, whereas automatic smoke detection actuates audio and visual alarms only. In addition to
+automatic fire detection and extinguishment, there are two methods of manual control incorporated in the system; electrical and
+hydraulic.
+The rapid recompression system will return the inner and
+outer forward and the inner and outer aft crew cabins to exterior ambient pressure in less that 20 seconds from an altitude of
+100,000 feet (8.3 mm Hg absolute). In addition to selective
+automatic operation as a supplementary fire detection function,
+the recompression system can be activated either electrically or
+pneumatically.
+
+AUTOMATIC FIRE DETECTION AND ACTUATION
+Ultraviolet Radiation Detection
+The forward crew cabin and aft crew cabin of the Life Support Systems Evaluator are continuously monitored for ultraviolet radiation. P/N 90016-2, Ultraviolet Detectors are the U/V
+sensors used in this system.
+
+4
+
+The detectors operate on 24 +4 vdc. Optimum response is
+obtained when operated between 24 to 28 vdc. Associated relays
+are rated 24 +3.6(+15%) vdc. In the event of an external power failure, automatic switching provides power from a 24 vdc
+emergency battery unit.
+The detectors ha% ,^ a spectral response from 1900 to 2900
+angstrom units, a cone of vision greater than 120 degrees, are
+unaffected by water spray and are operable to altitudes of
+100,000 feet. Within the detector, the 24 vdc is changed to a
+chopped 800-volt, 400-cps power supply. However, since this is
+encapsulated, the resultant high voltage is not exposed to the
+oxygen rich atmosphere of the crew cabin. Additional specifications are included in the system drawings.
+Eight U/V detectors are strategically mounted to provide
+complete surveillance of the respective crew cabin interiors.
+Detectors U/V-1, U/V-2, U/V-3 and U/V-4 are located in the aft
+crew cabin and detectors U/V-5, U/V-6, U/V-7, and U/V-8 are
+located in the forward crew cabin. U/V-6 is under the forward
+cabin floor to provide surveillance in an otherwise blind area.
+When any one of these detectors is actuated, the system
+will cycle 20 seconds on and 5 seconds off. Once initiated
+by a detector, the system cannot be shut off until the 20 second cycle has been completed. (Water flows from nozzles for
+20 seconds and is then shut off for 5 seconds.) If at the
+end of the first cycle, any detector, other than the smoke
+detectors, continues to alarm, the .system will again cycle in
+the same manner. This cycling will continue until flames or
+electrical arcing are no longer present or until the total
+water capacity of 1800 gallons is exhausted.
+Actuation
+When the control panel power in ON and the key switch is
+in the AUTOMATIC position, a signal from a U /V detector will
+initiate in less than 200 milliseconds the following corrective actions:
+o Command release of water through spray nozzles.
+o Start timer for the 20 seconds on, then 5 seconds off
+cycle.
+
+5
+
+1
+
+o Shut off Life Support Systems Evaluator power.
+o Turn on emergency cabin lighting.
+o Isolate smoke detectors.
+o Close three separate gas manifold gas shut-off valves
+supplying oxygen and other gases to the LSSE crew
+cabins.
+o Sound Wright-Patterson Base fire alarm. This ADT alarm
+control must also be set by a separate key switch.
+o Light the chamber or forward cabin fire lights on the
+control panel.
+o Give intermittent visual indication on detector supervisory panel.
+o Operate building audio alarms.
+o Operate building visual alarm.
+o Operate audio alarm in emergency control console.
+o Activate rapid recompression system when system is set
+for automatic recompression. Manual pneumatic valve
+switches must have been preset in the OFF (neutral)
+position.
+The aft crew cabin and the forward crew cabin fire detection system function independently. A fire in the aft crew
+cabin will not trigger the forward crew cabin extinguishing
+system (vice-versa) unless the connecting door between them is
+open and a forward crew cabin detector sees the flame or arcing.
+Smoke Detection
+Both sections of the Life Support Systems Fvaluator are
+continuously monitored for the presence of smoke. P/N 90017-3
+are the smoke detectors used in this system.
+The detectors operate on 24 vdc. In the event of external
+power failure, automatic switching provides power from a 24-vdc
+emergency battery unit. The detector senses the presence of
+
+6
+
+I
+
+smoke by means of a photocell. The presence of smoke in the
+detector's monitoring chamber causes light to reflect to the
+photocell thereby triggering the transistorized circuit that
+in turn initiates corrective action through the emergency control console. This unit can be damaged by water spray, therefore, it is electrically removed from the detection circuit
+during the first system actuation.
+The smoke sensors are of the spot type and will respond
+within 5.0 seconds after 2 to 4% smoke enters their monitoring
+chambers.
+Two smoke detector sensors are used in this application,
+one is located in the approximate center of each crew cabin
+near the ceiling. A signal from either detector will initiate
+the same, actions as for the U/V detectors except when jumpers
+on terminals 64 and 65 (for aft crew cabin) and on terminals
+62 and 63 (for forward crew cabin) are removed. When these
+jumpers are removed from the terminals on the rear of the control panel, the audio and visual alarms are the only items
+actuated. These jumpers and appropriate instructions regarding their use are located on control panel 91012-0.
+NOTE
+IT IS RECOMMENDED THAT THE PRESENT SYSTEM OF
+OPERATION WITH THE JUMPERS REMOVED BE CONTINUED SO THAT SMOKE DETECTORS SOUND AUDIO
+AND LIGHT VISUAL ALARMS ONLY.
+When a smoke detector has initiated an alarm and actuaticn of extinguishment, the system will continue to cycle.
+After the detector's monitoring chamber is cleared of smoke
+or water vapor or both, the detectors are reset by depressing RESET button on control panel 91012-0.
+RAPID RECOMPRESSION SYSTEM
+The rapid recompression system will recompress both the
+respective crew cabin, for which the switching device has
+been actuated, and the companion outer chamber. Should the
+two interconnecting doors between the forward and aft crew
+cabins be opened or unsealed, both crew cabins will recompress simultaneously. Should the forward cabin recompres-
+
+7
+
+6
+
+sion system be activated, the outer aft chamber vacuum remains, sealing the rear-most (main entrance-egress) doors of
+the Life Support Systems Evaluator. To open these rear-most
+doors, the aft emergency recompression valves must be actuated by the operator.
+The rapid recompression system will function in any of
+the following four modes of operation:
+1) When the control panel POWER is ON and the key
+switch is in the AUTOMATIC position, a signal from a U /V
+detector will initiate automatic recompression for the
+crew cabin and companion outer chamber corresponding to
+the location of the U/V detector actuated.
+2) When the electrical recompression switches located
+in the forward and aft crew cabin emergency recompression panels are actuated. Again the cabin and outer
+chamber recompressed is selective.
+3) When the electrical recompression switches located
+on the monitor's cabin emergency recompression panel,
+located in the bottom section of the emergency control
+console, are actuated. Again the cabin and outer
+chamber recompressed is selective.
+4) When the pneumatic emergency recompression valves
+are switched OPEN (up). These valves are located under
+a cover guard on the emergency pneumatic recompression
+control panel mounted on the south wall of the control
+room (Figure 3). Again the cabin and outer chamber
+recompressed is selective.
+Selective recompression of any singular crew cabin or
+outer chamber, with a controlled rate-of-descent, may be
+accomplished by an existing chain and sprocket hand operated
+system of valves mounted on the south wall of the control
+room.
+Rapid recompression of either the forwar'a or aft crew
+cabin may be accomplished as described above, provided that:
+1) The chain and sprocket hand operated valves are
+closed prior to using either the pneumatic or electrical
+methods of activation.
+
+8
+
+Figure 3
+Control Room And Life Support Systems Evaluator
+
+9
+
+i
+
+2) The two interconnecting doors between the forward
+and aft crew cabins are closed, secured, and sealed by
+inflation.
+3) The pneumatic emergency recompression valves have
+been set in the OFF (neutral) position.
+4) The main pneumatic gas Lottle supply is on-stream
+and the bottle pressure maintained at, or above, 500
+psig. This is to be reduced to a nominal pressure of
+90 psig for system operation; a monitor gage is installed on the emergency pneumatic recompression control panel.
+Rapid Recompression
+When switched electrically, a 0-5 second delay timer
+relay provides delay in actuation of the pneumatic operated
+valves of up to 5 seconds. However, all audio and visual
+alarms are immedia}e; this was done to notify the crew members and chamber operators of impending automatic recompression.
+When switched either pneumatically or electrically,
+the system will also close three separate gas manifold gas
+shut-off valves as described earlier under , Actuation.
+Audio and visual alarms at respective crew cabin manual electrical switch stations are activated regardless of
+how, or from where, the rapid recompression system is activated. Other alarms are located as subsequently described
+under ALARM SYSTEM.
+In the event of a total power failure, recompression
+may be accomplished by actuation of either the pneumatic
+emergency recompression valves or the chain and sprocket
+hand valves.
+Exhaust Manifold valve
+A valve has been installed in the exhaust manifold
+which can be closed to prevent blow-back of vacuum pump oil
+contaminated air into the oxygen enriched atmosphere of the
+
+10
+
+forward and aft crew cabins. The valve is pneumatically
+operated and electrically controlled from the monitor's
+cabin emergency recompression panel in the emergency control
+console. Visual signals consist of a green light indicating
+that the valve is in the normally open position and a red
+light indicating the valve is closed during recompression.
+
+MA14UAL ACTUATION
+Manual actuation of the fii suppression system may be
+initiated from inside or outside the Life Su p port Systems
+Evaluator either electrically or hydraul-ically.
+Manual electric control is provided by six switches.
+A switch for each section of the evaluator is located on
+control panel 91012-0, two switches are located in the forward crew cabin, easily accessible to the pilot and copilot, and the two switches are located at either end of the
+aft crew cabin. These switches are provided with safety
+guards and are sealed with frangible wire to prevent accidental actuation.
+When the extinguishing system is actuated by operation
+of the MANUAL ELECTRIC switches, it will cycle 20 seconds on
+and 5 seconds off until:
+
+o ELECTRIC POWER IS DISCONNECTED AT THE CONTROL PANEL.
+It will complete the 20 second cycle, if in operation
+at ;he time of power interruption.
+
+o THE ACTIVATED SWITCH TS R."TURNED TO ITS NORMAL
+POSITION.
+o THE SYSTEM WATER SUPPLY IS EXHAUSTED.
+Manual hydraulic control is provided by six hand operated valves conveniently located within the system. Their
+function is to provide protection in the event of complete
+electrical power loss. Two of these valves, enclosed in
+protective boxes and appropriately labeled, are located on
+the south wall of the control room. The two valves in the
+forward crew cabin are located just above the pilot and copilot positions. The two valves in the aft crew cabin are
+located near the doors at either end.
+The hand operated valves are lever action type for fast
+actuation and located in positions where they will not be
+
+11
+
+accidently operated. To further guard against inadvertent
+operation they are safety sealed with frangible wire.
+When a hand operated valve actuates the system, no
+cycling takes place and water will continue to flow until:
+o THE ACTUATED VALVE IS RETURNED TO ITS ORIGINAL
+POSITION.
+o THE MAIN SYSTEM VALVE IS CLOSED.
+o THE WATER SUPPLY :S EXHAUSTED.
+EXTINGUISHMENT
+Spray Nozzles and Piping
+The spray nozzles in this system provide a density of
+7.5 gallons per minute per square foot of floor space. The
+floor space is defined as the greatest cross sectional area
+of the Life Support Systems Evaluator.
+The nozzles are located to provide complete coverage
+and correct distribution of water spray throughout the Life
+Support Systems Evaluator. The aft crew cabin is approximately 20 feet long by 7.5 f eet diameter, requiring a total
+flow of 1125 gallons per minute, provided by 38 spray nozzles.
+The forward crew cabin is approximately 10 feet long taper-ing irregularly from 7.5 feet diameter to 3 feet diameter,
+requiring a total flow of 563 gallons per minute provided by
+19 spray nozzles, including 2 nozzles located beneath the
+existing floor.
+The piping is sufficiently large to give water flows
+that meet or exceed the specifications and at the same time
+occupy a minimum amount of space.
+Nozzle Control Valves
+The nozzle control valve provided for this system operates when a difference in water pressure occurs across the
+valve. When the water supply pressure is equal to the control line pressure, the valve is held closed. Release of
+control line pressure causes the valve to open, thereby
+directing the supply line water to the close-coupled nozzles.
+
+12
+
+The type of water control used in this system provides
+the following benefits:
+o The system is wet to within inches of the spray
+nozzle.
+o 'ihe pressure release for the control side of the
+system is immediate.
+• The release valves for control water pressure can
+be placed at remote locations of the control pressure
+line, outside as well as inside the Life Support
+Systems Evaluator.
+• Electric wiring for the extinguishing portion of the
+system is not required inside the Life Support Systems
+Evaluator since the release is hydraulic.
+Water System Features
+Automatic cycling is accomplished when two external,
+parallel mounted "auto dump" solenoid valves are triggered to
+open, thus releasing control line pressure. Main water pressure then opens the hydraulic control valves and discharge
+occurs. To stop discharge from the spray nozzles the "auto
+dump" solenoid valves are closed and an "auto fill" solenoid
+valve opened. This builds up control line pressure to the point
+where the nozzle control valve is closed. The "auto fill"
+solenoid valves are normally maintained in the open (deenergized) position and are closed (energized when the "auto dump"
+valves are powered to open. Response time is approximately
+100 milliseconds to open and 700 to 900 milliseconds to close.
+Respective control line pressure and companion main
+water line pressure are monitored by a pressure differential
+switch calibrated to indicate via a control system pressure
+warning light on the respective crew cabin water system supervisory panel, when the pressure in the control line drops
+4 psi below the supply line pressure.
+A second pair of pressure switches on
+are set to :lose at pressures above 85 psi
+sures below 85 psi. One switch is used on
+to the forward crew cabin and the other on
+to the aft crew cabin. They are connected
+series pair is aiso connected in series wi
+push butto;, on the chamber operator's main
+
+13
+
+the cont--1 line
+and open at presthe control line
+the control line
+in series.
+This
+th the emerg ency
+console and the
+
+I
+
+automatic, controls of the emergency control console. In
+the event that the control line pressure of either section
+of the Life Support Systems Evaluator drops below 85 psi
+all electrical power will he disconnected from the Evaluator
+and the emergency lights will be switched on. This action
+will occur even though there is no power available at the
+emergency control console. These pressure switches do not
+have panel warning lights.
+Control system piping is one-half inch galvanized
+steel pipe. An air_ bleed valve is located at the highestpoint of the control line piping in order that all air may
+be bled from these lines. It is essential that water and
+not air be in contact with each nozzle control valve.
+EMERGENCY CONTROL CONSOLE
+
+A central emergency control console is located i:n the
+control room. Included on this console are three supervisory
+panels and one control panel, for monitoring and controlling
+the fire and smoke detection and extinguishing system. All
+wiring between these control and supervisory panels and the
+interior of the Life Support Systems Evaluator carries no
+more than 28 vdc and is teflon insulated and enclosed in tefIon sleeving 0.01 inch thick.
+Control Panel
+The control panel, P/N 91012-0 operates on 24 vdc. In
+the event of an external power failure, automatic switchin;
+provides power from a 24 vdc emergency battery unit. Table I
+lists the controls and indicators located on the control
+p anel and describes their functions.
+TABLE I
+CONTROL PANEL SWITCHES AND INDICATORS
+
+Function
+
+Nomenclature	
+POWER Switch	
+
+An on-off switch that applies 24-28
+vdc tc the panel.
+
+LINE Fuse	
+
+10 amp. Overvoltage protection for
+the ac portion or the circuit and by
+an integral light indicates that power
+is on.
+
+14
+
+TABLE I. CONTROL PANEL SWITCHES
+AND INDICATORS (Cont'd)
+Nomenclature
+
+	
+
+BATTERY Fuse	
+
+Function
+10 amp. Overvoltage protection for
+circuit and by az integral light
+
+indicates that ;?-c; power is available to the emergency control console.
+SYSTEM OPERA-	
+A key-type selector switch by which
+TIONAL MODE Switch one of three modes of operation are
+selected and locked in.
+SEQUENCE TEST	
+Switch	
+
+A momentary 2-position switch used
+to check operation of timer cycle.
+
+MANUAL ELECTRIC	
+Switch	
+
+Two guarded switches used in the event
+of fire. Permits manual-electric
+actuation of the excinguishing system
+in the Life Support Systems Evaluator
+cabin indicated by their labels.
+
+SILENCE HORN	
+Button	
+
+A push button switch that silences
+building alarm and control panel audio
+alarm.
+
+RESET Button	
+
+A push button for resetting smoke detectors after system }ias been actuated.
+
+SYSTEM INOPERATIVE Indicates when pressure is incorrect,
+*Indicator Light	
+a valve is in wrong position, etc.
+System inoperative audio alarm wi?.1
+sound at same time light goes on.
+SEQUENCE TEST	
+*Indicator Light	
+
+Indicates that timer is operating when
+SEQUENCE TEST switch is activated.
+Stays on for 20 seconds and off for 5
+seconds as long as switch is held in
+position.
+
+FIRE CHAMBER	
+*Indicator Light	
+
+Indicates that aft crew cabin system
+is ac^ivated or is tieing tested when
+SEQUENCE TEST switch is ..n CHAMFER
+
+position.
+
+15
+
+TABLE I. CONTROL PANEL SWITCHES
+AND TNnTr AMnnr (^Gli ' u;
+Ncmenclature	
+
+Function
+
+FIRE FORWARD CABIN Indicates that forward crew cabin
+*Indicator Light	
+system is activated or is being tested when SEQUENCE TEST switch is in
+FORWARD CABIN position.
+WATER VALVE	
+*Indicator Light	
+
+Indicates when any valve in system is
+not in an operative position. Buzzer
+will sound simultaneously when light
+is switched on.
+
+WATER PRESSURE	
+
+Indicates when water pressure in either control or supply lines is below
+preset values. Buzzer will sound simultaneously when light is switched on.
+
+*Indicator lights are the push-to-test type.
+The three modes of fire detection operation selected by
+the SYSTEM OPERATIONAL MODE selector switch are AUTOMA'T`IC,
+MANUAL HYDRAULIC AND MANUAL ELECTRIC. In. the AUTOMATIC mode
+the system s activated ,open receipt of a signal from the U/V
+Detector. While in this mode it may be actuated by either the
+MANUAL ELECTRIC or MANUAL HYDRAULIC methods. When the selector
+switch is in the MANUAL ELECTRIC position the detectors will
+actuate the alarms but not the extinguishing system. The
+extinguishing system must be activated either by the two
+switches or the control pane' or by the four switches inside
+the Life Support Systems Evaluator. When in this mode of
+operation, the extinguishing system may also be activated by
+operation of the manual hydraulic valves. When tcie selector
+switch is in the MANUAL HYDRAULIC position the extinguishing
+system alone, may he actuated by the two manual ball valves
+located on the control room south wall or by the four ball
+valves located within the Life Support Systems Evaluator.
+Automatic pne v atic recompression of the respective crew cabin
+and associated outer chamber occurs if in the automatic or
+manual electric mode, but not when the manual h,, drau.i is mode
+is activated.
+
+16
+
+Aft Crew Cabin Supervisory Panel
+The aft crew cabin supervisory panel, P/N 910:1.3-0 opert co	 c
+In the event of an external power failure,
+2 1-.-dc	
+automatic switching provides power from a 24 vdc emergency
+battery unit. In addition to monitoring the water system of
+the aft crew cabin, this panel also monitors the water supply
+tank air pressure and tank water level. Table II lists the
+indicators on this panel and describes their functijn. These
+indicators are all dual light type and display a green light
+when the system is normal and a red light when trouble occurs.
+a
+
+U
+
+^•	
+
+v
+
+TABLE II
+AFT CREW CABIN SUPERVISORY PANEL INDICATORS
+Nomenclature	
+
+Function
+
+AIR PRESSURE	
+
+Indicates the air pressure in water supply tank. If the pressure falls below
+110 psi, the red light will be on.
+
+TANK FULL	
+WATER LEVEL	
+
+Indicates water level in supply tank. If
+supply falls below 1750 gailons, the red
+light will be on.
+
+SUPPLY VALVE	
+
+Indicates position of main water supply
+valve, V 1. Green light will be on when
+valve is full open.
+
+MAIN CHAMBER	
+VALVE	
+
+Indicates position of main chamber water
+shut-off valve, V 2. Green light will be
+on when valve is full open.
+
+WATER SUPPLY	
+PRESSURE	
+
+Indicates pressure in main supply lines,
+PS 1. Turns reel when pressure drops
+below 100 psig.
+
+CONTROL SYSTEM	
+PRESSURE	
+
+Indicates pressure differential between
+control system line and main water supply
+line, PS 2. Indicator light turns red
+when control system line pressure drops
+4.5 psi below main supply line pressure.
+
+17
+
+6
+
+TABLE II. AFT CREW CABIN SUPERVISORY
+PANEL INDICATORS (Cont'd)
+Nomenclature
+
+	
+
+Fnnct-i nn
+
+MANUAL INTERNAL Indicates position of manual internal
+DUMP VALVES	
+dump valves, the microswitches of
+which are wired in series. Green light
+indicates both valves are closed.
+AUTOMATIC FILL	
+VALVE	
+
+Indicates position of automatic fill
+valve, SV3. Green light indicates
+valve is open.
+
+MANUAL EXTERNAL Indicates position of manual external
+DUMP VALVE	
+dump valve, located similar to V5.
+Green light indicates valve is closed.
+AUTOMATIC DUMP	
+VALVE	
+
+Indicates position of parallel automatic dump valves, SV1 and SV2. Green
+light indicates valves are closed.
+NOTES:
+
+Valve and switch designations and location discussed in
+Section III - Arming the Sprinkler Water System.
+If there is no light in a particular indicator when the
+system power is on, cha.ige the bulbs in the affected
+indicator to check for a burned out bulb.
+Forward Crew Cabin Supervisory Panel
+The forward crew cabin supervisory panel, P/N 91013-1,
+operates on 24 vdc. In the event of an external power failure,
+automatic switching provides power from a 24 vdc emergency
+battery unit. This panel has the same indicators performing
+the same functions as the aft crew cabin, panel, except that
+there is no provision for monitoring the water supply tank.
+See table II for the functions of the indicators which are the
+same as those in aft crew cabin.
+
+18
+
+Detector Supervisory Panel
+The detector supervisory panel, P/N 91014-0, operates on
+24 vdc. In the event of external power failure, automatic
+switching provides power from a 24 vdc emergency baLtery
+unit. This panel shows the approximate locations of the
+individual detectors and indicates by means of red lights
+which detector(s) have been activated or are in a trouble
+condition. When the detectors are activated, the indicator
+lights cycle rapidly from red to green, thereby preventing
+an operator from determining which U/V sensor has fired. He
+may, however, determine which crew cabin has been activated
+by the "FIRE CHAMBER" or "FIRE FORWARD CABIN" indicator light
+indicating red on the control panel.
+The U/V sensors for each crew cabin are wired in series,
+on bot:i the +24 vdc and neutral 24 vdc sides of the power
+circuits. In the event of a loss of the positive power leg
+on, for example, U/V sensor 3, the detector supervisory panel
+indicators for U/V sensor 1,2 and 3 will indicate red, the
+automatic dump valve indicator on the aft cabin water system
+supervisory panel will switch to red and thereby actuate the
+panel buzzer horn, and light the system inoperative and water
+valve indicators on the control panel. In the event of a
+loss of the neutral leg on U/V sensor 3, the indicators for
+all U/V sensors will remain green; however, the aft cabin
+automatic dump valve indicator will switch to red with resultant reactions by the horn and indicators. Similar reactions
+are initiated by the failure of a forward cabin U/V sensor
+power leg via the forward cabin automatic dump valve indicator.
+Neither failure mode will actually cause the automatic dump
+valves to actuate. Circuit continuity may be checked by removing the system from service and checking continuity on
+terminal boards D for the forward cabin sensors, on DD for the
+aft cabin sensors, located behind the detector supervisory
+panel. Should it be imperative to return, or retain, the system in service, power may be restored to the unaffected sensors (U/V 1 and 2 in our earlier example) by temporarily wiring
+both sides of the sensors power circuits in parallel at D or
+DD terminal boards.
+
+19
+
+Reaction Time
+This system will confe-m to the requirements of the specification.:- in that initial water discharge shall commence in
+less than 200 milliseconds for the U/V detector sequence and
+less than 5.0 seconds after sufficient smoke enters the monitoring chamber for the smoke detector sequence, providing
+that: system power is ON; the control panel operational mode
+switch is in the AUTOMATIC position; and jumpers 62-63 and
+64-65 are in.
+PRESSURIZED WATER SYSTEM
+The requirement of 7.5 gpm per square foot of arbitrary
+floor area in both the forward and aft crew cabins of the Life
+Support Systems Evaluator could not be achieved by an existing water service. A pressurized water system was designed
+to provide a flow of 565 gallons, assuming simultaneous flow
+of water in both crew cabins, for each of the three (3) 20
+second extinguishing cycles. This :system will provide a water
+flow at a spray nozzle pressure no :Less than 45 psi thus providing effective spray area coverage and penetration in both
+crew cabins simultaneously.
+The system consists of a 2000 gallon ASME approved
+pressurized tank, fabricated by Massachusetts Engineering Co.,
+Inc., of North Quincy, Mass., in accordance with FH/RAD drawing F5392-1/WPiJLi"5, sheet ME4. This tank was built to NFPA
+requirements and certified for 145 psi working pressure. The
+pressurizing system consists of a 2100 psi manifold and provisions for fourteen 2100 psi compressed air bottles. The
+2100 psi manifold pressure is reduced to 100 psi by two (2)
+dome regulators. These Grove Valve & Regulator Corp. dome
+regulators are operated in parallel to provide an additional
+safety factor. Should one fail, the other regulator can carry
+the full load. The pressurized tank is prevented from over
+pressure by a safety valve set at 135 psi. This Grove Valve
+& Regulator Corp safety valve has Deen sizE, d to vent the full
+output of the manifold without damage to the tank. The tank
+will be filled from a 2 inch domestic water fill line. Foreign
+material w.i' be strained out by a 2 inch strain-r in this line.
+Watef Level Indicator
+The correct level of water in the tank i:3 indicated by a
+Contrclotron Corporation liquid level sensor Model 210L. With
+
+20
+
+6
+
+the proper level of water in the tank, this device illuminates a green light on a panel at the base of the tank. Should
+the water drop below the required level due to leakage or useage, the green light will go out. This water level signal is
+also repeated on the aft crew cabin supervisory panel as the
+TANK FULL WATER LEVEL indicator and attendant alarm. There is
+also a Controlotron liquid level sensor mounted in the base of
+the tank to indicate when the water supply is exhausted. Thus,
+with water in the tank, a green light on this liquid level sensor will be illuminated. If for any reason all the water in
+the tank is drawn off, a red light will appear on this sensor.
+POWER SUPPLIES
+Primary Rectifier Unit
+The primary electrical supply for all systems is 24 vdc.
+For normal operations, 15 amp, 24 vdc is supplied by
+Lightalarm Corporation rectifier unit, Model 4027-J, operating
+from the 110 vac building service.
+Emergency Battery Unit
+In the event of failure of the 110 vac supply, the
+load will be automatically transferred to a 24-vdc emergency
+battery unit. This "Lightalarm" battery unit, which utilizes
+Cadmium cells, Catalogue.number H1P6-NIFE, will supply 18 amps
+for a period of 60 minutes. The bat­ t.ery system has its own
+solid-state, dual rate 110 vac input charger, all mounted
+in a wall cabinet. This charger will put the batteries on high
+charge in event of a power interruption and automatically switch
+to trickle charge when the batteries reach full charge. The
+high charge mode is also used, if the battery charge cannot he
+sufficiently maintained by the trickle charge and voltage has
+dropped below 18 vdc.
+ALARM SYSTEM
+The remote Building Alarm system will be actuated by the
+alarm circuit in the emergency control console. This system
+will sound audio alarms in the following locations:
+
+7y
+
+6
+
+o In the corridor adjacent to Room 109.
+o In '_he High Bay Area adjacent to the Life Support
+Systems Evaluator
+
+o In the forward and aft crew cabins.
+o In the Vibration and Impact Branch High Bay Area.
+In addition, a red visual signal in the Vibration
+and Impact Area will supplement the audio alarm.
+o On the emergency pneumatic recompression control
+panel.
+The activated alarm system will indicate one of the following conditions:
+Fire detection and extinguishing system
+o UV detectors operating in forward or aft crew
+cabins.
+o Smoke detector operating in either forward or
+aft crew cabin.
+o MANUAL ELECTRIC actuation in the forward or aft
+
+crew cabin and/or the emergency control console.
+Rapid recompression system
+o Automatic recom p ression as initiated at the
+emergency control console.
+o Electrical recompression initiated at the
+switches located in the forward and aft crew
+cabins.
+o Pneumatic recompression initiated at the emergency pneumatic recompression control panel.
+
+22
+
+SECTION III
+OPERATION AND MAINTENANCE
+SAFETY
+The sole function of the fire detection-extinguishment
+and recompression systems is to provide positive protection
+for personnel in the Life Support Systems Evaluator. Extreme
+care and consideration has been taken to preclude the possibility of inadvertant actuation. The system has been carefully e,igineered to provide reliability and minimum probability of inadvertent recompression and/or water spray actuation.
+They are constructe,'. to provide a minimum source of ignition
+within the Life Support Systems Evaluator.
+The following precautions are recommended to be followed
+during operation. The doors between the sections of the Life
+Support Systems Evaluator should be closed even though the
+two sections are at the same simulated altitude. This would
+prevent the actuation of an ultraviolet detector in one section from flame or arcing occurring in the other section, as
+well as provide better recompression control. Provision
+should be made to equalize internal and external pressures as
+quic;^ly as possible consistent with human tolerances. Normal
+electric power to the Life Support Systems Evaluator is disrupted should the system be actuated while the fire detection
+system key switch is in th; MANUAL HYDRAULIC position. During Life Support Systems Evaluator down time, the fire detection SYSTEM OPERATIONAL MODE switch should be locked in the
+MANUAL ELECTRIC MODE to prevent actuation due to welding or
+smoking.
+Possible causes of inadvertent water spray actuation
+have been foreseen and the following actions taken to forestall them:
+Moisture in the air sample being monitored by th,^ smc::e
+detector is prevented from triggering the system by removing
+the smoke detectors from the circuit after the first actuation.
+In the event of the loss of supply water pressur^ during
+a test program, a trouble alarm will be sounded. The control
+personnel may then make the necessary decisions relative to
+the continuation of the test in progress.
+
+23
+
+0
+
+Every effort has been made to make the control pressure
+piping as leak tight and damage proof as possible. Galvanized steel piping has been used instead of copper tubing to
+prevent damage to the control lines from causing actuation.
+A small orifice in the control line feeds directly from the
+supply line, thus preventing actuation from small pressure
+drops.
+In the event of building power loss, uninterrupted detection and extinguishment has been provided? for through the
+use of a 24 vdc emergency hattery unit. Further provision
+for system integrity is made by having no electrical equipment located inside the Life Support Systems Evaluator for
+the wet portion of the protection system.
+Because of the possibility of fire during periods of
+Life Support Systems Evaluator shutdown, provision has been
+made so 'Chat the detectors may be left on. With the SYSTEM
+OPERATIONAL MODE switch in the MANUAL ELECTRIC mode, the detectors will sound the alarm but will not activate the extinguishing system.
+The ultraviolet sensors are designed to be solar blind
+and are not susceptible to operation under most conditions
+of ambient light. This would include flashlights, flashbulbs,
+etc. They will, however, react to quartz iodide lamps, since
+these devices einit radiation within 1900 to 2900 angstrom
+level. S i.nce all ultraviolet sensors are treated with antistat film over the quartz bulb, the units will not operate
+accidentally due to the influence of static electricity.
+The protectior systems have been designed from a "human
+factors" standpoint. The follow'ng precautions have been
+taken:
+A key switch has been provided in the fire detection
+
+system so that automatic detection equipment may be locked
+out when not in operation.
+switch guards are used with level toggle switches to
+preclude accidental tripping of release mechanisms.
+Manua switches and valves have been located to provide
+for prompt actuation without being exposed to inadvertent
+operation or damage.
+
+24
+
+All sensors and valves are monitored for their integrity and ability to deal with an emergency condition.
+The use of dual lights has been incorporated in the
+system design and they are color coded to indicate a "safe"
+or "trouble" condition.
+ELECTRICAL ELEMENTS
+
+The probability of short circuits has been minimised
+through the us% of teflon insulated wire within the Life
+Support Systems Evaluator. All wiring used has been "derated" a minimum of 50 percent of the normal insulation
+resistance and current carrying characteristics.
+Provision has been made, within the control panel, to
+effectively suppress transient voltage fiuctuatinns within
+the control circuits of the system.
+WATER CONTROL
+It is possible that the cycling of one system could
+provide significant water pressure changes in the main water
+supply piping. To prevent such a surge from one system tripping another, check valves have been installed below each
+system main control valve and the control piping connection.
+To guard against failure of the critical solenoids in
+the hydraulic control circuit, the "dump solenoids" have
+been duplicated.
+To guard against possible malfunction of the pneumatic
+dome regulators supplying reduced air pressure to the water
+system, two of these regulators have been installed in parallel. Should one malfunction the other is adequate to
+maintain system flow during actuation of the extinguishment
+components.
+NOTE
+During shutdown, the water supply valve, V1,
+should be opened about two turns and the control line charging valve, V3, should be opened.
+However, when the system is operational, the
+control line charging valve, V3; MUST BE CLOSED.
+
+25
+
+0
+
+ARMING TIIE SPRINKLER WATER SYSTEM (Figure 4)
+As the water to tle forward and aft crew cabin nozzles
+is hydraulically released due to a differential pressure
+occurring across tho sprinkler valve, it is of the utmost
+importance that the following sequence of operations be
+strictly follcwed to prevent floodin g of the Life Support
+_
+Systems Evaluator.
+1)
+
+Close valves V1 through V9 and apply 10 psi
+gage to the water tank.
+
+2)
+
+All manual hydraulic valves must be closed.
+
+3 1 Open V1, V7, and V9.
+4)
+
+Slowly open V3 unties all the entrapped air is
+bled from the system and only water flows from
+V9. Close V9.
+
+5)
+
+Slowly open V5 until all the entrapped air is
+bled from the system and only water flows from
+V5. Close V5.
+
+6)
+
+Open V2 and V6.
+Slowly open V8 until all the entrapped air is
+bled from the system and only water flows from
+V8. Close V8.
+
+8)
+
+Increase tank pressure slowly until the entire
+system is at 100 psig as indicated on gages
+G1 and G2. Pressure on G1 should never exceed
+the pressure on G2 or the system will actuate.
+
+9)
+
+Close V3. The water system is now "armed" and
+ready to deal with a fire.
+
+Whenever the control line pressure indicated by G2 falls
+25 percent below the supply line pressure as indicated on Gl,
+the system will hydraulically "dump."
+Pressure switch PSI will sound a low pressure alarm whenever the system water supply pressure falls below 100 psiq.
+
+26
+
+TO GARIN N0771 F s
+
+N IUD cni G*NOIDS
+
+TO GA61N
+MANUAL
+
+NYDRAULIG
+SV3
+RIFIGE
+
+TO OVATE R
+)UPPL TANS(
+
+V4^^
+V1 Supply Valve
+V2 Shut Offf Valve
+V3 Control Line Charging Valve
+V4 Drain Valve
+VS Air Vent Valve
+V6 Pressure Switch Isolation Valve
+V7 Pressure Switch Isolation Valve
+
+PSI Supply Line Low Pressure Switch
+PS2 Control System Differential Pressure Switch
+PS4 Pressure Switch for LS SE Elect-ical Power
+Shut Off
+CV1 Check Valve
+CV2 Check Valve
+
+V8 Drain Valve
+V9 Drain Valve
+
+SVl Automatic Dump Valve
+SV2 Automatic Dump Valve
+SV3 Automatic Fill Valve
+Fig> > re 4
+
+Control Elements For Water Distribution System
+
+27
+
+PS2 is a differential pressure switch which will sound an
+alarm in the control console whenever the pressure, as read
+on G1, exceeds the pressure, as read on G2, by 4.5 psig.
+The water pressurizing system on the main manifold should
+be kept above or at 1800 psi. Whenever the pressure falls below this point, the fourteen 2000 psi bottles on the manifold
+should be replaced.
+The pressure flask on the safety relief valve should be
+periodically checked and recharged when necessary.
+PREVENTATIVE MAINTENANCE
+The various components of the Fire Detection and Extinguishment System are constantly monitored by the ccntrol
+and supervisory panels. Therefore, maintenance is kept to
+a minimum. Only those com p onents that indicate trouble
+through the control panel will require attention.
+Periodic Check
+The flare and smoke detectors should be checked for operation periodically. Between 6 to 9 months is the suggested
+period; however, this can be adjusted in the light of experi_encc with the system. The system integrity should be checked
+prior to the start of a prolonged research program.
+Check the ultraviolet
+:" p ERATIONAL MGDE switch in
+will prevent the detectors
+system, but will allow them
+
+detectors by placing the SYSTEM
+the MANUAL ELECTRIC position. This
+from actuating the extinguishing
+to sig-zal an alarm.
+NOS"E
+
+NO`T'IFY ALL PERSONNEL CONCERNED
+THAT A TEST IS BEING CONDUCTED.
+Check operation rf each flame detector in turn, masking
+t'.:, others. Use a match, candle, or pocket lighten as a flame
+source and hold it appr_oxima`.ely one foot from the detector
+under test. As soon as the alarm triggers, silence it by depressing the SILENCE HORN button on the control panel.
+
+28
+
+0
+
+Check each smoke detector by placing the SYSTEM OPERATIONAL MODE switch in the MANUAL ELECTRIC position as before. Use a piece of punk cr the smoke from a cigarette
+and allow it to enter the monitoring chamber of the smoke
+detector under test. The detector must trigger an alarm
+within 5.0 seconds. Silence the horn as above.
+If either type of detector fails to trigger an alarm
+or the smoke detector takes over 5 seconds to alarm after
+
+smoke enters the monitoring chamber, remove and replace the
+detector.
+
+NOTE
+WHEN TESTS HAVE BEEN CONCLUDED,
+NOTIFY ALL PERSONNEL CONCERNED.
+Cleaning
+Clean the U/V detector using a clean dry cloth and
+wiping l ightly. Make certain that the control panel POWER
+switch is in OFF position before cleaning. A special antistat^c spray has been applied to the U/V detector globes.
+No additional spray should be used without prior approval.
+The smoke detectors require no cleaning. However, after an
+extinguishing system actuation, they must be thoroughly
+dried. Refer to drawing 32-90017--3.
+After actuation of tha extinguishers, dry the smoke
+detectors as follows: Remove the detector from its installed position; remove protective shroud and dry it using
+a soft absorbent cloth: blow out the detector sensing chamber using dry, clean, filtered air at low pressure, 15-25
+psig; and place unit in oven controlled at 90 to 95 F for
+2 hours.
+
+29
+
+6
+
+SECTION IV
+SPARE PARTS AND DRAWINGS
+SPARE PARTS LIST
+It is recommended that the following spare parts be kept
+on hanC in the quantities indicated.
+RAPT TTn
+
+9001A-2
+06-115002-001
+06-114983-001
+06-139316-001
+06-139243-001
+06-139244-001
+06-115028-000
+90017-3
+06-139283-000
+06 114977-005
+114121-4
+114121-3
+06-115016-001
+06-114976-001
+06-114976-002
+114280
+06-114994-001
+9705
+
+NOMENCLATURE	
+Ultraviolet Detector
+Globe for U/V Detector
+U/V Tube
+U/V Tube Gasket
+Lower Gasket
+Upper Gasket
+PC Board	 (Smoke Detector)
+Smoke Detector
+Cover	 (Smoke Detector)
+Fuse, Control Panel
+Line Fuseholder & Lamp
+Battery Fuseholder & Lamp
+Lamp,	 Incandescent	 (Push to test)
+Lamp,	 Incandescent,	 2 -pin Red
+Lamp, Incandescent, 2 -pin Green
+Relay-,	 4 pole,	 24 vdc
+Relay,	 6 pole,	 24 vdc
+Switch, Pressure	 (PS1),	 Type J7
+
+QUANTITY
+1
+
+2
+2
+2
+2
+2
+2
+2
+2
+6
+
+2
+2
+6
+12
+
+12
+4
+1
+1
+
+(United Electric)
+
+9544
+(United Electric)
+8210C3 (ASCO)
+
+82101312 (ASCO)
+
+Switch, Pressure (PS2), Type J21K	
+
+1
+
+Valve, Solenoid, 24 vdc (SV1 	 & SV2) 1
+Valve, Solenoid, 24 vdc (SV3)
+1
+
+30
+
+R
+
+DRAWING LIST
+The drawings listed below cover the installation,at
+Wright-Patterson AFB, Ohio.
+DRAWING NUMBER
+F5392, Sh. #1
+F5392, Sh. Ll
+F5392, Sh. L2
+F5392, Sh. M1
+F5392, Sh. M2
+F5392, Sh. M3
+F5392, Sh. ME1
+F5392, Sh. ME2
+F5392, Sh. ME3
+F5392, Sh. ME4
+F5392, Sh. ME5
+F5392, Sh. P1
+90017-3
+06-139291 -OUX
+9001.6-2
+32-002
+32-003
+32-004
+32-005
+32-006
+32-007
+32-009
+57
+57,	 Sh.
+57,	 Sh.
+57,	 Sh.
+
+#1
+#2
+#3
+
+TITLE
+Life Support Systems Evaluator Chamber
+--List of Drawings
+Layout - Life Support Systems Evaluator
+& Ndjacent Area
+Layout - Life Support Systems Evaluator
+Modification of Existing 3" Air-Vacuum Lines
+Addition of 3" & 6" Pneumatic Air-Vacuum Valves
+Pneumatic Recompression Control Panel Piping
+Mechanical & Electrical Misc. Diagrams
+Panel Arrangements & Name Plates
+Panel Arrangements & Name Plates
+Fog System Pressurized Tank
+Fog System Pressure Tank-Level Indication
+Recompression System
+Smoke Detector
+Circuit Board Smoke Detector
+iI/V Detector
+Schematic of Control Panel-Fire Detection
+Schematic Forward Crew Cabin Water
+System Supervisory Panel
+Schematic, Detector Supervisory Panel
+Interconnection Wiring Diagram for Life
+Support Systems Evaluator
+Schematic - U/V Detector
+Schematic - Aft Crew Cabin Water
+System Supervisory Panel
+Schematic - Audib._e "Inoperative" Alarm
+Water Supply System - Valve Location Legend
+Sprinkler Piping
+Sprinkler Piping
+Sprinkler Piping
+
+31
+

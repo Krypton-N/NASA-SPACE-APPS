@@ -1,0 +1,1882 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICES_2021-218 Eigenbrod final
+
+
+50th International Conference on Environmental Systems ICES-2021-218 
+12-15 July 2021 
+
+Copyright © 2021 Christian Eigenbrod, ZARM, University of Bremen, D-28359 Bremen 
+
+Opposed flame spreading along a structured PMMA sample 
+
+in exploration atmosphere under microgravity 
+
+Christian Eigenbrod
+1
+ and Florian Meyer.
+
+2
+ 
+
+ZARM, University of Bremen, 28359 Bremen, Germany 
+
+Grunde Jomaas
+3
+ 
+
+School of Engineering, University of Edinburgh, UK 
+
+David L. Urban
+4
+, Gary A. Ruff
+
+5
+ and Sandra L. Olson
+
+6
+ 
+
+NASA Glenn Research Center, Cleveland, OH, USA 
+
+Paul V. Ferkul
+7
+ 
+
+USRA, Cleveland, OH, USA 
+
+Balazs Toth
+8
+ 
+
+ESA-ESTEC, Noordwijk, The Netherlands 
+
+As part of SAFFIRE V experiments on the ISS supply spacecraft CYGNUS, flame 
+
+propagation along different surface structures on a PMMA sample was investigated in 
+
+opposed flow. The sample was 200 x 400 mm (length x width) with a thickness of 10 mm and 
+
+contained ribs of different widths (1-10 mm), each 3 mm high, on both sides, arranged in the 
+
+flow direction. The total thickness of the specimen was thus 16 mm for the ribs. For the first 
+360 s after ignition with a Kanthal wire, the flow velocity was 20 cm/s in the opposed 
+
+direction. Then the flow velocity was reduced to 5 cm/s for a duration of 300 s before it was 
+
+switched off to terminate the experiment. The experimental pressure was 761 hPa and the 
+
+oxygen concentration was 26.9 vol %. These conditions correspond to atmospheric 
+
+conditions envisioned for future exploration missions. It was found that the flames ignited 
+downstream propagated forward along the rib edges surprisingly fast with up to 0.88 mm/s 
+
+(1 mm rib width). Also, it was observed that the wider the rib, the slower the propagation. 
+
+The widest rib (10 mm) already showed two largely independent edge flames. 
+
+Unintentionally, the experiment showed how sensitive the flames are to small perturbations 
+
+of the flow field, as remnants of a preceding and upstream experiment disturbed the 
+
+incoming flow stratification partially. 
+
+I. Introduction 
+
+ur expectations of the combustion of solid materials under 1g conditions are accustomed to their complexity 
+
+even if we do not always understand the details underlying this process. In this respect, the combustion process 
+
+under microgravity conditions may hold surprises, although the same laws apply there as on the ground. The results 
+
+                                                           
+1
+ Director of Combustion Eng. Working Group, ZARM University of Bremen, Am Fallturm, 28359 Bremen. 
+
+2
+ Dep. Dir. of Combustion Eng. Working Group, ZARM University of Bremen, Am Fallturm, 28359 Bremen. 
+
+3 Professor and BRE Chair of Fire Safety Engineering, University of Edinburgh, EH9 3FB, UK. 
+4 Branch Chief, Combustion and Reacting Systems Branch, 21000 Brookpark Road, MS 77-5, Cleveland, OH 
+44135. 
+5 Physical Scientist, Space Technology Office, 21000 Brookpark Road, OH 44135, MS 77-7, Cleveland, OH OH 
+44135. 
+6 Spacecraft Fire Safety Researcher, 21000 Brookpark Road, OH 44135, MS 77-5, Cleveland, OH 44135. 
+7 Staff Scientist, USRA, 21000 Brookpark Road, MS 110-3 Cleveland, OH 44135. 
+8 ESA/ESTEC, Keplerlaan, 2201 Noordwijk, The Netherlands. 
+
+O
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+2
+
+of a combustion test on the CYGNUS re-supply spacecraft in the context of the SAFFIRE V experiment discussed 
+
+here show this impressively. While under 1g conditions a fire spreads preferentially upward with the convective 
+
+flow and hardly against it downward, it is exactly the opposite in microgravity and forced flow even if the velocities 
+
+of the spread differ. But the lower propagation velocities and burn rates in microgravity do not equate to reduced 
+
+hazards, since much larger amounts of flammable flue gases are produced than on the ground. In matters of fire 
+
+safety of an orbital habitat, it is therefore particularly important to understand the basic processes and their effects, 
+
+and to derive standards from them that will, on the one hand, largely reduce the risk of fire occurrence and, on the 
+
+other hand, allow reasonable strategies to minimize the spread of fire and its consequences. Current standards for 
+
+material selection provide for 1g fire tests on upright flat specimens
+1-3
+
+. Of course, these conditions are different in a 
+
+spacecraft - both in terms of gravitational conditions and material shape. 
+
+If a sample of PMMA is ignited under 1g conditions, then large temperature gradients in conjunction with 
+
+buoyancy convection ensure the emergence of strong velocity gradients in both upward and downward combustion. 
+
+This leads to a local stretching of the flow field and consequently to the formation of vortices due to shear 
+
+instabilities. This results in the well-known flickering of a flame, which is caused by the ingression of air with 
+
+directional components normal to the direction of the buoyant flow. Figure 1 schematically shows the scenario of an 
+
+upwardly directed combustion. 
+
+Due to this mixing of air not only 
+
+from below (in Figure 1 from left), there 
+
+is always sufficient oxidant available for 
+
+the pyrolysis gas. This leads to a blazing 
+
+flame and to the fact that flame length 
+
+and pyrolysis area grow steadily and the 
+
+pyrolysis area spreads rapidly upwards 
+
+over the surface of the sample. The air 
+
+mixing also means that the combustion 
+
+of the excess pyrolyzate can take place 
+
+almost completely, at least in the case of 
+
+the PMMA investigated here, so that 
+
+hardly any soot or unburned MMA are 
+
+produced. The main gases leaving the 
+
+reaction zone at the top (to right in Figure 1) are CO2 and water. 
+
+This is probably the most important difference in its effect to a corresponding fire scenario under microgravity 
+
+and forced flow. In microgravity, however, the flow field remains stratified through the reaction zone in laminar 
+
+flow despite thermal expansion and local density gradients due to the lack of weight differences. As a result, 
+
+atmospheric oxygen can only reach the flame from upstream. This case, which is simpler in principle, has 
+
+surprisingly far-reaching consequences. Figure 2 shows schematically the phenomena of µ g combustion under 
+
+forced concurrent flow conditions. 
+
+By maintaining the stratification, only 
+
+the flame base is sufficiently supplied 
+
+with oxygen. The stationary flame length 
+
+is as limited as its burning rate
+4
+. Under 
+
+the flame, the material is heated up to the 
+
+pyrolysis temperature, but pyrolyzate is 
+
+protected by the flame against the entry 
+
+of atmospheric oxygen and carried away 
+
+with the flow. In addition to the exhaust 
+
+gas, a considerable amount of potentially 
+
+combustible flue gas is thus also 
+
+produced. Since only the flame base is 
+
+well oxygenated, there is no possibility for the burning zone to propagate across the material surface. Instead, the 
+
+pyrolysis front propagates to a length where the radiant power of the flame is insufficient to reach the pyrolysis 
+
+temperature. The flame base propagates at the rate at which the material is completely consumed at the leading edge. 
+
+For given atmospheric conditions, the propagation speed of the flame base therefore depends mainly on the 
+
+thickness of the material. The propagation of the burning zone with the flow, which is self-evident on Earth, is 
+
+therefore rather unlikely in microgravity. If one increases the inflow velocity, from a certain flow velocity on, the 
+
+ 
+Figure 1. Terminology and basic phenomena in upward 
+
+combustion under 1g conditions. 
+
+Flame base Flame length
+
+Pyrolysis front
+
+Pyrolysis area
+
+PMMA
+
+Exhaust gas
+
+1g- upward burning
+
+Buoyant flow
+
+ 
+Figure 2. Terminology and basic phenomena in concurrent 
+
+combustion under microgravity. 
+
+Flame base
+Flame length
+
+Pyrolysis front
+Pyrolysis area
+
+PMMA
+
+Flue gas
+
+Exhaust gas
+
+µg-concurrent burning
+
+Forced flow
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+3
+
+flame lifts off, jumps repeatedly back to its base before it extincts. So there might be a very small and sensitive 
+
+velocity range in which a lifted flame is very slowly driven over the preheated surface, but not yet blown out. But 
+
+this has not been observed during blowoff-tests on burning rod tips in microgravity
+4
+ where this burning regime was 
+
+unstable marking the transition to blow-off. 
+
+Flame propagation against the incident flow occurs on Earth very slowly compared to its spread rate in 
+
+concurrent flow. As this propagation happens in the flow boundary layer with decreasing velocity towards the wall it 
+
+is the faster, the lower the pressure and the thicker the related boundary layer is
+5
+. Any additional forced flow leads to 
+
+an increase of the local burning rate, but also reduces the velocity of the flame base against the incident flow. This is 
+
+different in microgravity: even at low flow velocities, the flame base propagates rapidly against the flow. The faster 
+
+the incoming flow becomes, the more oxygen reaches the base and the faster the flame propagates against it. Figure 
+
+3 schematically shows the corresponding scenario.  
+
+The most active combustion zone is the 
+
+flame base that is best supplied with 
+
+oxygen. Consequently, it propagates 
+
+preferentially in the direction of fresh air. 
+
+As with concurrent combustion, the flame 
+
+length is finite and it produces a lot of 
+
+unburned flue gas underneath. 
+
+Downstream of the zone with sufficient 
+
+pyrolysis temperature, the flame leaves a 
+
+zone with burnt surface. Analogous to 
+
+concurrent combustion, there must be an 
+
+upper limit to the inflow velocity at which 
+
+flow velocity and flame propagation velocity reach equilibrium and where the flame base becomes stationary and 
+
+works its way into the depth of the material. This marks the limit towards blowoff. 
+
+ 
+
+What has been described applies to thick materials, as studied in SAFFIRE V, which cannot be assumed to be 
+
+isothermal to depth. If the materials are very thin, flame base and burnout end coincide. Then the phenomena of 
+
+concurrent and opposed combustion are comparable
+6
+. However, spread rate and its dependence on flow and pressure 
+
+remain different. What actually propagates is the material edge and with it inevitably the flame base. 
+
+The case studied in SAFFIRE V 
+
+includes another important aspect caused 
+
+by the material shape. Figure 4 shows the 
+
+situation initially for a flat specimen not in 
+
+a lateral but in a frontal section. The 
+
+shown stable stratified situation changes 
+
+towards the not shown edges. In this 
+
+respect, this is the situation in the center of 
+
+the burning specimen. In the current qualification standards, however, the edges should also be protected against 
+
+burning. As is typical for a diffusion flame, the combustible exhaust gases are produced on the fuel-rich side of the 
+
+reaction zone. It becomes clear that, with a flow into the image plane, after a certain run length diffusion of oxidant 
+
+perpendicular to the flow can no longer play a significant role in mass transport. 
+
+This changes if, as in SAFFIRE V, the specimen is equipped with ribs of different widths arranged in the 
+
+direction of flow. Figure 5 schematically 
+
+shows this situation. The edges of the ribs 
+
+are thermally irradiated by the surrounding 
+
+flame both from above and from the side. 
+
+This is offset by the lower heat capacity of 
+
+the edges, which together leads to a 
+
+substantially increased heating rate of the 
+
+edges. As a result, the edges burn 
+
+preferentially, and the flame base advances 
+
+along the edges. The qualitatively depicted 
+
+shape of the pyrolyzing layer in the 
+
+material thus also corresponds to the shape of a thermal isoline. If the rib is narrow, the edges interfere and a largely 
+
+ 
+Figure 3. Terminology and basic phenomena in opposed flow
+
+combustion under microgravity. 
+
+Flame base
+Flame length
+
+Pyrolysis front
+Pyrolysis area
+
+PMMA
+
+Preheat zone
+Exhaust gas
+
+µg-opposed burning
+
+Forced flow
+
+Flue gas
+
+Burnt area
+
+ 
+Figure 4. Schematic section through the layers above a 
+
+burning flat sample under microgravity. 
+
+PMMA
+
+Reaction zone
+
+Pyrolysing layer
+Sample blowing
+Radiative heating
+
+Exhaust gas
+
+Flue gas
+
+ 
+Figure 5. Schematic representation of flames over ribs 
+
+arranged in the direction of flow under microgravity. 
+
+PMMA
+
+Reaction zone
+Radiative heating
+Sample blowingPyrolysing layer
+
+Air diffusion
+
+Exhaust gas
+
+Flue gas
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+4
+
+closed flame forms around both edges, reinforcing each other. If the rib is wide, the interaction between the edges 
+
+decreases and two edge flames are observed. Again, as long as the two edges are not far enough apart to be two 
+
+single step flames, the base of the flame will propagate faster than with a single step. If adjacent ribs are not far 
+
+enough apart, then they too accelerate propagation via radiative exchange. In this case, the propagation of the flame 
+
+base is so fast that, if the ribs are not far enough apart, there is insufficient heating between them and the valleys 
+
+consequently do not burn. This probably leads to a further effect accelerating the propagation speed, which consists 
+
+in the fact that at the flame base oxygen can also reach the reaction zone from the valleys and over a short diffusion 
+
+length, i.e. with a component normal to the flow direction. Since the thickness of the laminar flow boundary layer is 
+
+pressure-dependent, this effect should also be pressure-dependent if the geometry is constant. 
+
+II. Experimental Setup 
+
+The SAFFIRE V experiment consists in its 
+
+core of a rectangular wind tunnel with a height of 
+
+305 mm, a width of 460 mm and a length of 
+
+1100 mm. This has remained basically the same 
+
+through all SAFFIRE campaigns
+7, 8
+
+. The apparatus 
+
+has been improved in many details and equipped 
+
+with additional sensors, which also investigate the 
+
+effect of the large-scale combustion experiments 
+
+on the atmosphere of the spacecraft. The apparatus 
+
+inhales the surrounding atmosphere of the 
+
+spacecraft, accelerates and laminarizes it to the 
+
+desired flow velocity, and returns it to the 
+
+atmosphere of the spacecraft at the exit of the 
+
+wind tunnel. For the experiment described here, 
+
+the atmospheric pressure inside CYGNUS was 
+
+lowered to 761 hPa and the oxygen content was 
+
+increased to 26.9 vol% by enrichment. Figure 6 
+
+shows that these conditions on the HYPOXIC 
+
+curve are close to the point of future planned 
+
+exploration missions (700 hPa/ 26.5 vol% O2). 
+
+The specimen studied is shown in Figure 7. It 
+
+consists of cast PMMA of 10 mm thickness, on 
+
+which ribs of widths 1–10 mm are attached on 
+
+both sides in the direction of flow. The distance 
+
+between the ribs is 
+
+20 mm. The 
+
+determination of these 
+
+distances as largely 
+
+interaction-free was 
+
+based on the results of 
+
+SAFFIRE II test
+9
+, in 
+
+which a specimen 
+
+with a central groove 
+
+was examined. Next to 
+
+this, horizontal ribs, 
+
+each 1.5 mm wide and 
+
+with rib spacing 
+
+increasing in the 
+
+direction of flow, are 
+
+placed transversely to 
+
+the direction of flow. 
+
+All ribs are 3 mm 
+
+high. The distance 
+
+ 
+Figure 6. Atmospheric condition at the start of the 
+
+experiment (red dot) relative to the NORMOXIC and 
+
+HYPOXIC curves and the conditions currently 
+
+envisioned for future exploration missions (blue dot). 
+
+0.0
+
+10.0
+
+20.0
+
+30.0
+
+40.0
+
+50.0
+
+60.0
+
+70.0
+
+80.0
+
+90.0
+
+100.0
+
+0 100 200 300 400 500 600 700 800 900 1000
+
+vol % O2
+
+hPa
+
+NORMOXIC-Curve
+
+vol % O2 at const. O2 part. press. of 209 hPa
+
+HYPOXIC-Curve
+
+vol% O2 at const. O2 part. press. of 185.5 hPa
+
+Normoxic
+
+Hypoxic
+
+ 
+Figure 7. Geometry of the both-sides burning specimen made of PMMA cast and 
+
+provided with surface structures. The red dots indicate the position of two 
+
+thermocouplesTC4 and TC7. All dimensions in mm. 
+ 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+5
+
+between the structures and the edge of the specimen is 30 mm on both sides. The specimen is provided with a 
+
+resistance heating wire at both ends for ignition. To facilitate ignition, the specimen is tapered towards the ignition 
+
+ends over a length of 4 mm to a thickness of 5 mm. This is followed by a ramp which reaches the height of the upper 
+
+edge of the structures after a length of 13.53 mm. It was planned to ignite the Figure 7 sample first at the upstream 
+
+end (concurrent) and to ignite it again at the downstream end (opposed) in a later experiment. The ignition of the 
+
+first experiment failed because the igniter had apparently lost its electrical contact. In this respect, the experiment 
+
+was limited to the trial in opposed flow configuration. In this respect, the horizontal ribs, on which it was to be 
+
+tested in concurrent configuration whether and how the flame jumps from rib to rib, play no role here. As will be 
+
+shown later, however, it turned out to be an advantage that the sample had not yet been burned by the upstream end. 
+
+The experimental module was equipped with three samples, mounted in one plane at half channel height, which 
+
+were processed one after the other. The sample treated here was sandwiched between an upstream cotton sample 
+
+400 mm wide and 500 mm long and a flat PMMA sample 5 mm thick, 400 mm wide and 200 mm long. The other 
+
+two samples were processed prior to the experiment described here. 
+
+Figure 8 shows the conditions at the beginning of the test. It can be clearly seen that the cotton sample did not 
+
+burn without residues, and that the residues therefore represented an obstacle which influenced the flow of the 
+
+structured PMMA sample, as shown later. 
+
+The experiment first 
+
+starts with a 10 min phase 
+
+during which the resistance 
+
+heating wire is energized 
+
+with a power of 2.5 W for 
+
+10 min. This heats the 
+
+ignition region of the 
+
+sample, and facilitates the 
+
+subsequent ignition with 
+
+30 W for one minute. This 
+
+takes into account the 
+
+experience with previous 
+
+experiments with thick 
+
+PMMA samples that this 
+
+minimizes the risk of 
+
+burning through the heating 
+
+wire during the otherwise 
+
+longer ignition phase and 
+
+also makes it easier to 
+
+pyrolyze the ignition area, 
+
+reducing the risk of 
+
+extinction after the ignition 
+
+power is switched off. The flow is ramped up to 20 cm/s and once stationary, the preheating and subsequent ignition 
+
+sequence is started. After the heating power is increased to the ignition power the flow condition of 20 cm/s is 
+
+maintained for 360 s before the velocity is reduced to 5 cm/s for another 300 s. This second firing period at reduced 
+
+flow is also inserted for safety reasons to cool the sample down at reduced power before the flow is shut off. This is 
+
+to prevent hot pyrolysis gas from accumulating and possibly igniting. However, this long burn time at reduced speed 
+
+incidentally provides a second experimental condition. 
+
+During the experiment, the progress of combustion is recorded frontally (as in Figure 8) at a frequency of 30 fps 
+
+and from the side at the same frequency in the visible spectral range. A green LED light is used to expose the sample 
+
+with a frequency of 0.5 Hz for three frames (0.1 s). 
+
+III. Results and Discussion 
+
+Before the evaluation, all images were first distortion corrected and the images taken with automatic camera gain 
+
+were normalized to the brightness value of the darkest images during 5 cm/s. 
+
+ 
+Figure 8. Left: Remains of the cotton sample, Middle: Sample before ignition 
+
+started, Right: Remains of the 5 mm PMMA sample. Incident flow from left. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+6
+
+The first indication that the incident flow is not perfectly stratified everywhere is provided by the moment of 
+
+ignition. This occurs in a deflagration, which is typical for the ignition of a premixture gradually developing during 
+
+the warm-up period and which was also observed during earlier experiments, but here it is much more violent than 
+
+normal. The Figure 9 shows successive images of the moment of ignition. The ignition point from which the flame 
+
+spreads across the entire width of the sample can also be seen. The rather strong deflagration is probably due to the 
+
+fact that the slightly disturbed inflow led to a partial mixing and dilution of the pyrolysis gases. This leads to delayed 
+
+ignition until a sufficient concentration of OH radicals has accumulated with subsequent thermal runaway, and a 
+
+larger quantity of premixed combustible fuel-air mixture has accumulated. 
+
+Figure 10 shows two snapshots during the steady flow of 20 cm/s (after 260 s) and during the steady flow of 
+
+5 cm/s (after 600 s). It can be clearly seen how the flame base propagates along the ribs. The propagation speed is 
+
+impressive, as is the precision with which propagation speed and rib width are correlated. In the following, the ribs 
+
+are labeled 1 to 10 according to their width in mm from top to bottom in Figure 10. At first glance, it can be seen 
+
+that either rib 7 lags a little, or ribs 8-10 lead a little. This will become clearer in the following quantitative 
+
+evaluation. The cause for this is also suspected to be an inflow that does not remain perfectly stratified and fires up 
+
+the flames due to the associated mixing in of additional oxidizer. It can also be seen immediately that already the 
+
+flame front of rib 2 shows a rectangular profile, corresponding to two closely spaced propagation fronts along the 
+
+two edges. As the rib width increases, the two fronts become more distinct and different velocities become visible. 
+
+Nevertheless, the two edge flames influence each other because the difference in front positions along a rib remains 
+
+limited. These differences balance out with decreasing firing rate at 5 cm/s. Here, obviously, the individual edge 
+
+flame loses strength and the range of interaction increases accordingly. Both during 20 cm/s and during 5 cm/s, two 
+
+flame fronts can be recognized in the case of ribs 8-10. During the progressive combustion, a total of 4 flames 
+
+become visible on these ribs. It is assumed that the trailing flame front is the shining through of the rear-side flame, 
+
+which progresses at slightly different velocities. Front and rear side can be distinguished by intensity and sharpness. 
+
+In this case, the flame bases most ahead are located on the front side of the specimen. The fact that the difference is 
+
+only visible at ribs 8-10 also speaks for slightly different flow conditions on the front and back side here. 
+
+ 
+Figure 9. Deflagration type of ignition. Recording interval 33 ms. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+7
+
+One can notice that the flames, after they have detached from the trailing edge, have a limited length. This means 
+
+that the shadowing effect
+10
+
+ through the flame prevents oxygen from reaching downstream regions. As described in 
+
+the introduction, this results in a finite flame length in contrast to 1g conditions. The fact that the areas behind the 
+
+flame are extinguished, although there must still be fuel raised above the base surface, means conversely that a 
+
+flame cannot move in the opposite direction downstream as the flame isolates the fuel downstream against oxygen 
+
+as long as the flame base has not consumed the fuel totally at the leading edge and moves downstream with the 
+
+burnout end. This shadowing effect is also evident in rib 2. After 290 s, during the 20 cm/s burning period, the flame 
+
+of rib 1 reaches the leading edge of the specimen. Once there, it gradually spread out in width along the leading 
+
+edge. After 567 s, i.e. already during the 5 cm/s burning period, it has spread in front of flame 2. At this point, flame 
+
+2 is still 28 mm apart from the leading edge and extinguishes in the shadow of the flame in front of it. In Figure 10 
+
+on the right, the flame of rib 2 has already gone out. 
+
+Not only does rib 7 lag behind, it also shows the edge flames with the lowest luminosity throughout the 
+
+experiment. During the flow is ramping down to 5 cm/s, the flames of rib 7 extinguish after 10 s. This is associated 
+
+with an unfavorable incident flow, as will be shown later. 
+
+Figure 11shows the results of CFD simulations on the influence of the structures of the specimen on the flow 
+
+field in a non-reacting situation. At the test pressure of 761 hPa, the laminar flow boundary layer reaches a thickness 
+
+of almost 50 mm. As a result, in the top picture, one can see an influence of the flow by the specimen as a whole, but 
+
+ 
+Figure 10. Steady-state firing progress: left after 260 s (20 cm/s), right after 600 s (5 cm/s). Incoming 
+
+flow from the left. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+8
+
+hardly any influence of the structures, which protrude only 3 mm above the specimen. If one zooms in a little closer 
+
+to the horizontal ribs, one sees local disturbances, but their values are very small and have very little influence on 
+
+the flow field shown in color. It can be seen, however, that the flame in the shallow area, downstream of the 
+
+horizontal ribs, can have a problem when it approaches the deadwater area behind the last rib. This location was 
+
+reached by the end of the test. Not shown, however, is the effect of the flame. The thermal expansion associated 
+
+with it forms a much larger object that affects the flow field more than the ribs. 
+
+In this respect, the effect of the 
+
+cotton residues upstream of the 
+
+structured sample which were not 
+
+simulated as its geometry is not 
+
+known enough must be taken into 
+
+account. Figure 12 shows a 
+
+visualization of the flow field by 
+
+smoke filaments generated at a 
+
+height of approx. 50 mm above the 
+
+sample, before and after the tests. 
+
+First, on the left, one can see 
+
+the uniformity of the flow field 
+
+and the good agreement with the 
+
+simulation in Figure 11, and on the 
+
+right, one can see the disturbances 
+
+caused by the cotton residues. In 
+
+particular, the region around ribs 
+
+6-8 is bypassed by the streamlines, 
+
+while the streamlines in the region 
+
+of ribs 9 and 10 are compressed 
+
+and swirled. In particular, the 
+
+streamline in the region of rib 9 is 
+
+pressed downward, tightly over the 
+
+specimen, during the entire 
+
+recording time. While it remains 
+
+stretched in the side view, it is swirled horizontally in the top view. The flow is relatively little disturbed in the area 
+
+of ribs 1-4 and above the horizontal ribs. This should be taken into account in the quantitative evaluation. The 
+
+ 
+Figure 11. CFD simulations of how the cold flow field is influenced 
+
+by the sample structure. Cross-section at the center of the horizontal 
+
+ribs. 
+
+ 
+Figure 12. Flow visualization before (left) and after (right) the experiments. The flow disturbing 
+
+residues of the cotton sample are as well visible as it´s effect on the total propagation at the trailing edge. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+9
+
+position of the pyrolysis front along the various structures is also very well discernible, showing that only in the 
+
+interstices of ribs 8-10 and towards the edges of the sample has there been any appreciable propagation. This can be 
+
+easily explained by the downwardly pressed and horizontally swirled incident flow and, towards the edges, by the 
+
+denser adjacent flow as well as the protruding outer specimen edges. The fact that there was no even stronger 
+
+propagation along the edges is again due to heat losses in the aluminum mask holding the specimen, which engages 
+
+in a groove on the outside and has a distance of only 4 mm from the specimen edge. This effect was already 
+
+observed with the similarly held samples of the SAFFIRE II experiment
+9
+. 
+
+ 
+
+For the quantita-
+
+tive evaluation, 
+
+Figure 13 first shows 
+
+the lines and their 
+
+names along which 
+
+an automatic evalua-
+
+tion was performed. 
+
+Figure 14 shows the 
+
+propagation fronts 
+
+over time. For this 
+
+purpose, the first 
+
+time a brightness 
+
+threshold was 
+
+exceeded was 
+
+defined as the flame 
+
+base along the 
+
+evaluation lines, 
+
+looking from bottom 
+
+to top. It can be seen 
+
+how amazingly 
+
+constant the propagation velocities at 20 cm/s and 5 cm/s become after a start-up and transition time, respectively. 
+
+Only the flames 2ab deviate from this during 5 cm/s, since they are gradually shadowed by the flame of rib 1 until 
+
+they are extinguished after 567 s, and the flames 9ab also deviate during 5 cm/s. The reason for this must be a 
+
+change in the incident flow with the velocity change, since flames 9ab were still in front of ribs 8 and 10 during 
+
+20 cm/s, but fall 
+
+behind them with the 
+
+slower incident flow 
+
+(Figure 10). The 
+
+velocities averaged 
+
+over the fronts a and 
+
+b are shown in 
+
+Figure 15. 
+
+ 
+
+As can be seen in 
+
+Figure 15, the 
+
+propagation velocit-
+
+ies follow an inverse 
+
+potential relationship 
+
+(blue). Rib 7 is 
+
+behind the trend 
+
+while ribs 8-10 are 
+
+ahead of the trend. 
+
+Therefore (in red) 
+
+the trend line is 
+
+determined only with 
+
+ribs 1-6 and extrapolated to rib 10. It can be seen that the correlation improves and that the deviations are more 
+
+evident with ribs 8-10. The high propagation speed along the edge is determined by the higher heating rate there. 
+
+ 
+Figure 13. Lines and their designation along which the evaluation was 
+
+performed. 
+
+ 
+Figure 14. Propagation of the flame base along all evaluation lines. Time from 
+
+start of ignition. 
+
+0
+
+50
+
+100
+
+150
+
+200
+
+60 160 260 360 460 560 660 760
+
+F
+la
+
+m
+e
+
+ B
+a
+s
+e
+
+ P
+ro
+
+p
+a
+g
+
+a
+ti
+o
+
+n
+ [
+
+m
+m
+
+]
+
+Time [s]
+
+rib 1
+
+rib 2ab extinction
+
+rib 3ab
+
+flat ab
+
+rib 4ab
+
+rib 5ab
+
+rib 6 and 8ab
+
+rib 9 and 10ab
+
+20 cm/s
+5 cm/s
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+10 
+
+Here, the surface over which radiation is absorbed plays a role, as well as the heated volume into which the heat is 
+
+conducted. According to Delzeit et al.
+11
+
+, the internal edge angle determines the propagation velocity. However, since 
+
+this is the same for all ribs, the mutual amplification of the two edge flames, which decreases with increasing rib 
+
+width, must cause the different propagation rate. Thus, the heating rate is initially determined by the surface/volume 
+
+ratio. In the 2-D representation, the radiation absorbing surface area becomes the contour length via the cross-
+
+section, and the rib volume becomes the cross-sectional area of the rib. If one divides the contour length (2 x rib 
+
+height + rib width) by the rib cross-sectional area and applies this over the ribs, one obtains a potential curve, which 
+
+is additionally entered in Figure 15 as a dashed green line and makes the relationship seem obvious. In fact, the 
+
+wider ribs should not follow this curve exactly, because here there are no longer completely closed edge flames, but 
+
+two edge flames and a flat-area flame in between, whose effects overlap. Thus, the wider the rib becomes, the more 
+
+should the propagation velocity be below this trend. There is another interaction which determines the heating rate, 
+
+and which is not taken into account in the heating rate defined above: if the rib´s elevation above the base plate is 
+
+low, then the angle between the base plate and the rib (to be referred to as the exterior angle according to Delzeit et 
+
+al.
+11
+
+) must have a cooling effect via the heat receiving surface area which is increased here compared to the heat 
+
+emitting flame. In this respect, the height of the ribs, and not only their widths, also plays an influencing role. Since 
+
+the heights were not varied here, its quantities remain open. Regardless of whether the wider ribs are two 
+
+independent edge flames or two mutually amplifying edge flames, they must in any case always propagate faster 
+
+than the flames of the flat area, and extrapolation of the trend lines into the flat area is not permissible. This becomes 
+
+particularly clear when the inflow velocity is reduced by 75%. For all flames, the propagation velocity is reduced by 
+
+a comparable percentage of about 75%, consistent with the thermal theory of de Ris
+12
+
+ for thick fuels that predicts 
+
+flame spread rate varies linearly with the flow velocity. This can vice versa be taken as an indication that reducing or 
+
+switching off the air circulation, if operationally possible, can be a very suitable fire-fighting measure. 
+
+ 
+
+The determination of the flame lengths is shown in Figure 16. The evaluation was carried out by the additional 
+
+determination of a point along the lines at which a brightness threshold value was undershot. The flame length here 
+
+ 
+Figure 15. Propagation speed of the flame base at 20 cm/s and 5 cm/s. Blue: experiments and it´s trend, 
+
+red: trendline calculated with ribs 1 through 6 only, green: rib´s surface/volume ratio. 
+
+y = 0.783x-0.646
+
+R² = 0.9616
+
+y = 0.8376x-0.726
+
+R² = 0.9912
+
+y = 2.1258x-0.632
+
+R² = 0.9859
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1 2 3 4 5 6 7 8 9 10 Flat
+
+S
+u
+
+rf
+a
+
+c
+e
+
+/
+V
+
+o
+lu
+
+m
+e
+
+ [
+1
+
+/
+m
+
+m
+]
+
+P
+ro
+
+p
+a
+
+g
+a
+
+ti
+o
+
+n
+ v
+
+e
+lo
+
+c
+it
+
+y
+ [
+
+m
+m
+
+/
+s]
+
+Rib width [mm]
+
+Flame propagation velocity
+
+opposed flow, 20 cm/s, 761 hPa, 26.9 vol% O2
+
+y = 0.1722x-0.356
+
+R² = 0.447
+
+y = 0.2625x-0.72
+
+R² = 0.9223
+
+y = 2.1258x-0.632
+
+R² = 0.9859
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+0.00
+
+0.05
+
+0.10
+
+0.15
+
+0.20
+
+0.25
+
+0.30
+
+1 2 3 4 5 6 7 8 9 10 Flat
+
+S
+u
+
+rf
+a
+
+ce
+/
+V
+
+o
+lu
+
+m
+e
+
+ [
+1
+
+/
+m
+
+m
+]
+
+P
+ro
+
+p
+a
+
+g
+a
+
+ti
+o
+
+n
+ v
+
+e
+lo
+
+ci
+ty
+
+ [
+m
+
+m
+/
+s]
+
+Rib width [mm]
+
+Flame propagation velocity
+
+opposed flow, 5 cm/s, 761 hPa; 26.9 vol% O2
+
+ 
+Figure 16. Flame lengths at 20 cm/s and 5 cm/s. 
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+1 2 3 4 5 6 7 8 9 10 Flat
+
+F
+la
+
+m
+e
+
+ l
+e
+
+n
+g
+
+th
+ [
+
+m
+m
+
+]
+
+Rib width [mm]
+
+Flame Length
+
+opposed flow, 20 cm/s, 761 hPa, 26.9 vol% O2
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+1 2 3 4 5 6 7 8 9 10 Flat
+
+F
+la
+
+m
+e
+
+ l
+e
+
+n
+g
+
+th
+ [
+
+m
+m
+
+]
+
+Rib width [mm]
+
+Flame Length
+
+opposed flow, 5 cm/s, 761 hPa; 26.9 vol% O2
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+11 
+
+refers to the brightness of the normalized image values and is used for comparison. It is therefore not to be equated 
+
+with the chemical length of the reaction zone, e.g. by measuring the OH concentration, due to the lack of 
+
+diagnostics.  
+
+If one also assumes here an influence by different inflow conditions in the area of ribs 7-10, then the values of 
+
+the remaining ribs speak for a comparable finite flame length. Thus, although one rib region is preheated by the 
+
+flame passing over it, this region does not continue to burn and does not result in a flame that increases in length 
+
+with time. Again, this is a clear indication that propagation may preferably, if not exclusively, be opposed. The 
+
+flame lengths of ribs 7-10 are overestimated because for all rib flames a reliable measurement of length is possible 
+
+only after the flames have separated from the trailing edge, i.e., after there is a non-burning sample region behind the 
+
+flame. This condition was not reached for ribs 7-10 because of too short test time and/or because of swirled inflow. 
+
+In this respect, the end of the flame remained "pinned" to the trailing edge of the specimen. For ribs 7-10 the length 
+
+of this pinned flame at the end of each flow condition is displayed in Figure 16. Therefore no error bar is given. This 
+
+pinned flame situation changed after the transition to 5 cm/s. During the transition, flames 8-10 began to extinguish 
+
+for 40 s and were repeatedly reignited from the trailing edge. In particular, rib 9 exhibited this striking behavior 
+
+which is indicated the large error bars in right part of Figure 16. After 40 s, this behavior came to rest and the flames 
+
+of ribs 8-10 were now off the sample trailing edge. It is remarkable that all ribs now show a single closed blue 
+
+flame, so that no individual edge flames can be detected. With a weak inflow and thus reduced flame power, the 
+
+difference between edge behavior and surface behavior seems to balance out. 
+
+ 
+
+In order to get a better picture of the possible effect of the inflow perturbations, intensity fluctuations of the 
+
+flames are evaluated. The assumption is that the more turbulent and thus the more unsteady the incident flow, the 
+
+stronger the intensity fluctuations of the flames should be. For this purpose, an evaluation range is first defined for 
+
+each rib, which spans the length of the flame vertically and is defined horizontally for each rib in such a way that the 
+
+luminous region is completely contained. Figure 17 shows the standard deviation of the brightness of this area from 
+
+the mean value over the entire test period. The unit is the brightness value as deviation from the mean value and can 
+
+take values between 0 and 255. 
+
+Here, large deviations become apparent, especially at 20 cm/s. The deviations from the mean brightness value 
+
+reflect the displacement and vorticity of the incident flow from Figure 12 on the right very well. Only rib 1 shows 
+
+intensity fluctuations, which were not to be expected from Figure 12. However, the snapshot of Figure 10 already 
+
+shows that rib 1 carries a conspicuous flame. It can be assumed that Figure 17 represents a very good image of the 
+
+inflow conditions and that, on the basis of this, a good classification of the quantitative values can be made. The 
+
+flames calm down at 5 cm/s and their intensity variations become very similar. Here, the flat area stands out, which 
+
+is due to the strongly flickering flame of the back side, which shines through to the result of the front side. However, 
+
+when looking at all the images of the recorded video, it can be assumed as certain that the position of the TC 4 
+
+thermocouple, which lies on the evaluation line of the flat area b, shows idiosyncratic combustion processes, which 
+
+are to be associated with the installation and bonding of the thermocouple. 
+
+ 
+Figure 17. Standard deviation from mean flame brightness for 20 cm/s and 5 cm/s. 
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+1 2 3 4 5 6 7 8 9 10 FlatS
+td
+
+. 
+d
+
+e
+v
+
+. 
+fr
+
+o
+m
+
+ m
+e
+
+a
+n
+
+ b
+ri
+
+g
+h
+
+tn
+e
+
+ss
+
+Rib width [mm]
+
+Flame Flickering
+
+opposed flow, 20 cm/s, 761 hPa, 26.9 vol% O2
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+1 2 3 4 5 6 7 8 9 10 Flat
+
+S
+td
+
+. 
+d
+
+e
+v
+
+. 
+fr
+
+o
+m
+
+ m
+e
+
+a
+n
+
+ b
+ri
+
+g
+h
+
+tn
+e
+
+s
+s
+
+Rib width [mm]
+
+Flame Flickering
+
+opposed flow, 5 cm/s, 761 hPa; 26.9 vol% O2
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+12 
+
+IV. Conclusion 
+
+To investigate the effect of structures on opposed flame propagation, a PMMA specimen of 10 mm basic 
+
+thickness with vertical ribs of identical height above the basis (3 mm) and different widths (1 -10 mm) was ignited at 
+
+the downstream end during SAFFIRE V. 
+
+It could be shown that flames propagate very fast along exposed edges in opposed flow. This propagation 
+
+depends on the heating rate and is therefore faster the closer the edges are to each other. The propagation velocity 
+
+follows an inverse power relationship, which is based on the heating rate determined by the surface/volume ratio. 
+
+In comparison to SAFFIRE II, where two edges of a wide groove were investigated in concurrent flow, it could 
+
+be shown that flames propagate with the flow along edges or over a surface only in exceptional cases. This is 
+
+particularly evident from the fact that the flames in this opposed flow experiments assume a finite and largely 
+
+stationary length and do not span a burning surface during propagation. 
+
+In both opposed and concurrent flow, the amount of potentially combustible flue gas formed under the flame 
+
+increases with time which correlates with the increasing heated and pyrolyzing area underneath the flame. 
+
+The velocity of propagation is largely proportional to the inflow velocity, consistent with thermal theory of de 
+
+Ris
+12
+
+. 
+
+Even very small disturbances of the stratification can clearly demonstrably favor combustion. Since any active 
+
+firefighting measure also forces a disturbance of the stable stratification, it is obvious to alternatively consider a 
+
+shutdown of the air circulation as the primary control measure. This conclusion is strengthened primarily by the fact 
+
+that the experimental conditions studied here are idealized conditions of inflow with as little vorticity as possible. In 
+
+the real scenario, where the flow is affected by corners, edges, and cross-section changes, as well as by human 
+
+activity, flow calming must be particularly effective. One lesson to be learned from the previous SAFFIRE IV 
+
+experiment, where a deflagration destroyed the apparatus after the cutoff flow was restarted after a short period, is 
+
+that actively cooling the still burning material by reducing the flow rather than completely shutting it down may be a 
+
+better way to avoid flashover effects. 
+
+Acknowlegements 
+
+Financial support through the German Space Administration, DLR, for enabling the evaluation and 
+
+accompanying ground investigations within the "TOPOFLAME II" project under grant number 50WM2064 is 
+
+gratefully acknowledged. Special thanks to NASA´s Human Exploration and Operations Directorate, for the 
+
+opportunity to conduct this exciting experiment within their program. 
+
+References 
+1
+ECSS, 5. February 2010, “ECSS-Q-ST-70-21-C”, ESA Requirements and Standards Division, 2010. 
+
+2
+ISO, ISO/TS 16697, “ISO/TS 16697 Space systems - Safety and compatibility of materials - Methods to determine the 
+
+flammability threshold of materials”, ISO, 2012. 
+3
+NASA, “NASA-STD-6001B, Flammability, Offgassing and Compatibility Requirements and Test Procedures”, NASA, 2016. 
+
+4
+Olson, S. L. and Ferkul, P. V., “Microgravity flammability boundary for PMMA rods in axial stagnation flow: Experimental 
+
+results and energy balance analyses”, Combustion and Flame, 2017-180, 2017, 12. 
+5
+Thomsen, M., Fernandez-Pello, A. C., Huang, X., Olson, S. L. and Ferkul, P. V., “Opposed flow burning of PMMA cylinders in 
+
+normoxic atmospheres”, Fire Safety Journal, 110-2019, 2019, 102903. 
+6
+Olson, S. L. and Miller, F. J., “Experimental comparison of opposed and concurrent flame spread in a forced convective 
+
+microgravity environment”, Proc. Combust. Inst., 32-2009, 2009, 8. 
+7
+Ruff, G. A. and Urban, D. L., “Large-Scale Spacecraft Fire Safety Experiments in ISS Resupply Vehicles”, 29th  American 
+
+Society for Gravitational and Space Research, Orlando, FL, 2013, . 
+8
+Joomas, G., et al., “Fire safety in space – beyond flammability testing of small samples”, Acta Astronautica, 109-2015, 2015, 8. 
+
+9
+Eigenbrod, C., et al., “Experimental Results on the Effect of Surface Structures on the Flame Propagation Velocity of PMMA in 
+
+Microgravity”, 47th International Conference on Environmental Systems, ICES 2017-67, Charleston, SC, 2017, 1-10. 
+10
+
+McGrattan, K. B., Kashiwagi, T., Baum, H. R. and Olson, S. L., “Effects of ignition and wind on the transition to flame spread 
+
+in a microgravity environment”, Combustion and Flame, 106-4, 1996, 377-391. 
+11
+
+Delzeit, T., Carmignani, L., Matsuoka, T. and Bhattacharjee, S., “Influence of edge propagation on downward flame spread 
+
+over three-dimensional PMMA samples”, Proc. Combust. Inst., 37-2019, 2019, 7. 
+12
+
+De Ris, J. N., “Spread of a laminar diffusion flame”, Symposium (International) on Combustion, 12-1, 1969, 241-252. 
+
+ 
+
+

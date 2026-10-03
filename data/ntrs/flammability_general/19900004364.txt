@@ -1,0 +1,4174 @@
+NASA
+
+Technical
+
+Memorandum
+
+102425
+
+_ _
+
+n-
+
+_
+
+An Investigation
+of Flame Spread Over
+Shallow Liquid Pools in Microgravity
+and Nonair Environments
+
+(NASA-TH-I02425)
+SPREAD
+riVER
+MICROGkAVITY
+19
+
+AN
+INVE!STIGATION
+_F
+SHALLnW
+LIQUID
+POnLS
+IN
+AND
+NONAIR
+ENVIRONMENTS
+
+p
+
+N90-13o80
+
+FLAME
+(NASA)
+
+CSCL
+
+21B
+
+_3/z9
+
+Howard D. Ross and Raymond
+Lewis Research
+Center
+Cleveland,
+
+Ohio
+
+Prepared for the
+23rd International
+unlver_sit_;
+
+fil/ A
+
+G. Sotos
+
+Symposium
+
+on Combustion
+
+of Orl_ans-,Tr-diace,_July
+
+22--27,- 1990 .........
+
+Unclas
+0252613
+
+_f
+
+AN INVESTIGATION
+
+OF FLAME SPREAD OVER SHALLOW LIQUID
+
+POOLS IN
+
+MICROGRAVITY AND NONAIR ENVIRONMENTS
+Howard D. Ross and Raymond G. Sotos
+National
+Aeronautics
+and Space Adminlstratlon
+Lewls Research
+Center
+Cleveland,
+Ohlo 44135
+
+ABSTRACT
+
+0
+L_
+I
+L_J
+
+Experlments
+of interest
+to combustion
+fundamentals
+and spacecraft
+fire
+safety
+Investlgated
+flame
+spread of alcohol
+fuels
+over shallow,
+15-cm diameter
+pools
+In a 5.2 sec free-fall,
+mlcrogravlty
+facility.
+Results
+showed that,
+independent
+of 02 concentratlon,
+alcohol
+fuel
+and diluent
+types,
+microgravity
+flame
+spread rates
+were nearly
+identlcal
+to those corresponding
+normal-gravity
+flames
+for condltlons
+where the normal-gravlty
+flames
+spread
+unlformly.
+Thls
+slmllarity
+indicates
+buoyancy-related
+convection
+in elther
+phase does not
+affect
+flame
+spread,
+at least
+for
+the physical
+scale of the experiments.
+However,
+mlcrogravity
+extinction
+coincided
+with
+the onset
+conditions
+for
+pulsating
+spread
+in normal
+gravity,
+Implicatlng
+gas phase,
+buoyant
+flow
+as a
+requirement
+for pulsating
+spread.
+When the atmospheric
+nitrogen
+was replaced
+wlth
+argon,
+the conditions
+for the onset of normal-gravity
+pulsating
+flame
+spread and mlcrogravlty
+flame
+extinction
+were changed,
+In agreement
+with
+the
+expected
+lowerlng
+of the flash
+point
+through
+the thermal
+propertles
+of the
+diluent.
+Helium-diluted
+flames,
+however,
+showed unexpected
+results
+with
+a
+shift
+to apparently
+higher
+flash-polnt
+temperatures
+and high normal-gravity
+puIsatlon
+amplitudes.
+I.
+Flame
+
+spread
+
+relatlonshlp
+
+of
+
+temperature.
+flash
+
+over
+the
+
+Over
+
+temperature,
+
+observed.
+("unlform"l);
+spread
+
+Is
+
+at
+agaln
+
+Widely
+controlling
+
+fuel
+
+Inltial
+a range
+Tcc,
+
+At p(x)]
+
+liquid
+
+pool
+of
+
+conflicting
+spread
+
+Is unlform
+
+been
+
+attributed
+
+to
+
+(I)
+
+to
+
+the
+
+flame
+above
+
+below
+
+spread
+this
+
+fuel's
+below
+
+across
+
+the
+
+flame
+
+Induclng
+
+by the
+
+flash
+
+well
+
+range,
+
+those
+
+characterlzed
+
+the
+pool
+
+closed-cup
+surface
+
+spread
+
+pulsatlng
+
+polnt
+
+is
+
+Is
+
+steady
+
+spread,
+
+the
+
+flame
+
+("pseudounlform").
+
+mechanism
+
+spread
+
+commonly
+
+temperatures
+
+explanations
+
+flame
+
+is
+
+temperature
+
+pulsating
+
+temperatures
+
+pools
+
+pool
+
+temperatures
+
+steady
+
+INTRODUCTION
+
+and
+gas
+
+are
+the
+phase
+
+of
+found
+
+pool
+
+the
+In
+
+detailed
+
+the
+
+temperature
+
+conduction
+
+phenomenology
+
+and
+
+literature.
+
+For
+
+example,
+
+is
+
+Tcc,
+
+control
+
+below
+
+and radiatlon,
+
+1 (2)
+
+gas
+
+when
+has
+
+phase
+
+conduction only,2, 3 (3) gas phase convection and liquld
+recently (4) liquid
+
+convection ahead of the flames. 5 The latter,
+
+holographic Interferometry
+filled
+
+conduction, 4 and most
+
+narrow trays,
+
+and convection barriers
+
+observed by
+
+in 1 cm deep, propanoI-
+
+Is explained as conslstlng of roughly equal proportions
+
+of buoyant and thermocapl]lary
+
+forces.
+
+Several explanations have also been offered for the pulsating reglme,l,5, 6
+but the most widely accepted is that control varies perlodlcally
+gas, layered combustion to dlffuslve
+coupled gas/llquid
+
+from premlxed
+
+burning across the pulsating front,
+
+motion.2, 3 Buoyancy is believed to contribute
+
+to the experlmentally-observed,
+
+due to
+
+slgniflcantly
+
+complicated motion In both the liquid
+
+and gas
+
+phases.
+All of the cited experiments were done at normal gravity
+alr atmosphere, wlth varlatlons
+The abillty
+
+of fuel type and inltia]
+
+in a standard
+
+temperature only.
+
+to predict sub-Tcc flame spread behavior in nonalr environments,
+
+and especially
+
+In microgravity,
+
+Is hindered by the various Interpretatlons
+
+of
+
+experlmental results and by current models which cannot predlct the uniform or
+pulsating flame spread rate, Vf, under any sub-Tcc condition.
+
+Most models
+
+assume Vf, decouple gas phase processes by assuming Interfaclal
+conditions,
+llquld
+
+and then calculate
+
+phase;7, 8 unfortunately
+
+the veloclty
+
+boundary
+
+and temperature fields
+
+the calculated subsurface fields
+
+In the
+
+disagree wlth
+
+the complicated measuredmotions, and dlscrepancles are usually attributed
+buoyancy effects.
+
+to
+
+One model does couple both phases, but it assumesunlty
+9
+
+Lewis number, fast kinetlcs,
+
+and constant 02 concentration outside the flame
+
+sheet, and Is therefore inaccurate near the leading edge of the flame.
+Nonetheless It predicts that the flame posltion
+
+is strongly affected by gas
+
+phase buoyancy.
+The present experlments on flame spread In mlcrogravity
+
+and In nonalr
+
+environments seek to provlde Information for both a better understandlng of
+2
+
+the mechanisms
+Improved
+
+of uniform
+
+fire safety
+
+and pulsating
+
+in spacecraft
+
+not clear under what conditions,
+could occur
+absence
+
+in microgravlty,
+
+flame
+
+environments.
+
+and for applications
+
+Prior
+
+if any, ignition
+
+and whether
+
+of buoyancy-drlven
+
+spread
+
+to this study,
+
+and sub-Tcc
+
+pulsating
+
+spread would
+
+it was
+
+spread
+
+occur
+
+In the
+
+flows.
+2. EXPERIMENT
+
+DESCRIPTION
+
+A series of normal and mlcrogravity
+
+experiments
+
+NASA Lewis Research
+tower, lO
+
+Center
+
+Zero Gravity
+
+Facility,
+
+were
+
+1.6 mm deep,
+
+ceramlc-based
+
+Inside a If3 liter pressure
+
+vessel whlch
+
+permitted
+
+atmospheres.
+
+Ignition was via a hot wire centrally
+
+the tray; ignition was delayed
+
+ensure
+
+that ignition occurred
+
+damped.
+gravity
+
+To mlnlmlze
+just before
+
+a spring-loaded
+simple
+
+the drop.
+
+Multiple
+
+Following
+
+the vlslble
+
+flame diameter
+
+the test,
+
+as a function
+
+located on a cantilever
+the start of free fall to
+disturbances
+
+systems
+
+were employed
+
+and nitrogen
+
+were
+
+automatically
+
+to determlne
+
+The
+
+testing,
+
+the initial
+
+spread rate was determlned
+
+of time through
+
+by
+
+including
+
+pressurization.
+
+the rigors of free-fall
+
+the flame
+
+was not varied
+
+fuels were simple alcohols
+
+wlth flash
+
+of tests were conducted
+
+From ambient
+
+was
+
+system
+from
+
+the use of a
+
+water for comparison
+
+with n-propanol
+
+in normal alr.
+
+Identlcal
+
+ethanol
+
+of Ref. 4, and with
+
+normal-gravity
+3
+
+tests
+
+the selected
+
+temperature.
+
+and n-butanol,
+
+in a standard
+
+with 55 percent
+
+to the results
+
+conditions,
+
+points near ambient
+
+25 and 38 °C, respectively,
+
+Some tests were also conducted
+
+ethanol
+
+to meet
+
+ambient
+
+analyzer.
+
+temperature
+
+Is approximately
+
+venting,
+
+drop
+
+the use of selected
+
+the pool was filled
+safety
+
+in the
+
+tray was mounted
+
+Iiquld-motlon
+
+and a thermocouple
+
+temperature.
+
+majority
+
+vacuum
+
+necessary
+
+top and slde view cameras
+
+Because
+
+Inltlal
+
+evaporation,
+
+pool cover,
+
+motlon
+
+for 3 sec after
+
+predrop
+
+instrumentation,
+
+dlgltized
+
+after
+
+performed
+
+a 5.18 sec free-fall
+
+A 15 cm diameter,
+
+over
+
+flame
+
+to
+
+The
+
+for which
+
+Tcc
+
+air atmosphere.
+
+and 45 percent
+super-Tcc
+
+distilled
+
+methanol
+
+and
+
+were run for comparison
+
+to microgravlty
+
+tests.
+
+In several cases, the normal-gravity
+
+test was permitted
+
+to continue for several seconds after flame spread in order to observe the
+postspread, oscillating
+
+flame.
+
+A challenging problem with mlcrogravity
+the control of the interracial
+balance of gravltational
+
+liquid-gas
+
+experiments Involves
+
+surface, whose shape is determined by a
+
+and surface tension forces, |.e.,
+
+Bo : pgl2/o, where p Is the liquid
+
+density,
+
+acceleratlon,
+
+I
+
+vessel dimension, the pool radius in this
+
+case, and a
+
+is the surface tension.
+
+is a characteristic
+
+g
+
+the Bond number,
+
+is the gravitational
+
+For propanol, Bo, based on radlus,
+
+about 1800 in normal gravity and 0.0018 in m|crogravity.
+can therefore transition
+
+from a flat
+
+forces, in normal gravity
+
+A flat
+
+however, by f|lling
+
+dominated by gravitational
+
+configuration
+
+was successfully
+
+channel around the pool permitted safe, complete filllng.
+
+gravity
+
+tests,
+
+that the transition
+
+induced undeslrable liquid
+
+apparatus.
+
+The short microgravlty
+
+maintained
+
+the liquid fuel to the rim of the knlfe-
+
+sharp edge of the tray, where the contact angle is undefined.
+
+observed in preliminary
+
+surface
+
+to one of constant curvature, dominated by surface
+
+tension, in mlcrogravlty. II
+in mIcrogravlty,
+
+conflguration,
+
+The liquid
+
+is
+
+An overflow
+
+Nonetheless, it was
+
+from normal to reduced
+
+motion due possibly to a flexure of the
+test tlme therefore required the use of
+
+small dlmensloned pools and the more viscous alcohols to reduce the damping
+time.
+
+The shallow pools we subsequently employed had the additional
+
+of minlmlzlng the Ignition
+unlgnitable,
+
+delay time at a pool depth just beyond the
+
+thin film regime12 and reducing, in normal gravity,
+
+buoyancywithout affectlng
+
+benefits
+
+gas phase buoyancy. Though the overall
+
+liquid
+
+diameter Is
+
+less than ideal, 6 we note, as others have,1,5 that the spread character
+appears relatively
+
+unaffected by pool length and width.
+
+4
+
+phase
+
+3. RESULTS
+3.1 Normal-Gravlty Oxygen-Nitrogen Atmosphere Tests
+The solid lines in Fig. I shows the flame diameter as a function of time
+for normal-gravlty,
+
+propanol-O2-N baseline tests.
+2,
+
+At 30 percent 02 or higher
+
+(curve a), the flame shape and spread were immediately well-deflned
+with the leading edge of the flame stabilized
+the pool surface.
+
+not develop until
+
+immeasurably close (<0.5 mm)to
+
+The flame was bright yellow, indicating
+
+temperature and soot production.
+
+and steady,
+
+a higher flame
+
+Flame spread was so rapid that a plume did
+
+the postspread, pool flre
+
+was established.
+
+For the tests
+
+with 02 concentration of normal air (curve b), the flame becameblue, the
+flame spread rate reduced, and the vertical
+oscillated
+
+axlsymmetrIcally
+
+flame plume developed and
+
+during spread; however, the flame spread rate
+
+remained uniform, unaffected by the plume's oscillations.
+the 02 concentration at 18 percent, the transition
+
+For the tests with
+
+to pulsating
+
+spread began.
+
+At 02 concentrations below 18 percent (curve d), the flame spread became
+slightly
+
+asymmetric and clearly
+
+pulsating in nature.
+
+In each case after
+
+spreading, the normal-gravlty flames developed the classical,
+behavior with an oscillating
+dlscernably affect
+Since the fire
+
+vertical
+
+pool.burning
+
+plume. The 02 concentration did not
+
+the 3 to 4 Hz oscillation
+
+frequency of the plume.
+
+point (and presumably flash point) temperature is affected
+
+by 02 concentratlon, 13 the observed behavior is conslstent with expectation,
+i.e.,
+
+both temperature and 02 levels affect
+
+the character of flame spread,
+
+though certain 02-related features - asymmetric propagation and enhanced
+sooting - augmentthe characterlstic
+
+spread reglmes on Akita's
+
+well-known,
+
+temperature-based spread map.l
+The samebehavior was observed for N2-diluted,
+ethanol/water flames, but the transitlon
+
+n-butanol (see Flg. 2) and
+
+between pulsating-uniform
+
+spread
+
+regimes occurred at higher 02 concentration (25 percent 02, curve b).
+5
+
+This
+
+observed behavior was as expected because n-butanol has a higher flash polnt
+than n-propanol.
+3.2 Normal-Gravity Oxygen-Diluent Tests
+The solid lines of Figs. 3 and 4 display flame spread results for
+n-butanol flames diluted
+transition
+
+by argon and helium, respectively.
+
+to the pulsating flame spread regime occurs at the lower oxygen
+
+concentration of 21 percent of 02 (Flg.
+for nitrogen (Fig. 2, curve b).
+
+curves for the two diluents.
+
+3, curve b) comparedto 25 percent 02
+
+The flame-spread rates and pulsation behavior
+
+for the two corresponding transltlon
+
+conditlons appear slmilar
+
+Since heat transfer
+
+heat had more effect
+
+to nitrogen.
+
+These results
+
+are consistent with previous results
+
+anticipated
+
+but higher thermal conductivity
+yleld
+
+becamemore severely pulsating,
+
+of each pulsating
+centimeter;
+
+distance
+
+showing
+
+that, owing to its equally low specific
+comparedto argon, helium substitutlon
+
+heat
+
+would
+
+Instead, at comparable conditions,
+
+the flame
+
+with an increased frequency and instantaneous
+
+Comparethe results for 25 percent 02 In Fig. 4, curve b, with the
+
+corresponding argon conditions
+
+full
+
+compared
+
+for premIxed gas14 and solid fuels. 15
+
+unlform, more rapid spread.
+
+velocity.
+
+from argon's lower
+
+than the dimlnlshed thermal conductivity
+
+enhanced spread with argon dilution
+It was Inltially
+
+In the plotted
+
+ahead of the flame must have
+
+increased, the increased flame temperature resultlng
+speclflc
+
+With argon, the
+
+cycle,
+during
+
+the flames
+
+developed
+
+Flame
+
+retreated.
+
+they generally
+
+thickness
+
+burned
+
+conventlonally.
+
+frequency
+6
+
+nearly
+
+a
+
+In contrast
+
+the pool surface
+
+of the flame
+
+had difficulty
+
+phase
+
+to a standoff
+
+as well.
+
+around
+
+At times, portions
+
+The flames
+
+type on the oscillatlon
+
+the retreat
+
+returned
+
+was increased
+
+and some blowing
+
+at larger flame diameters.
+
+tray rim, but, after anchoring,
+of diluent
+
+phase
+
+gross asymmetrles
+
+while other portions
+
+Durlng
+
+lifted away from the pool surface
+
+the advance
+
+less than 0.5 mm.
+
+to other flames,
+
+In Fig. 3, curve a.
+
+anchorlng
+
+No discernable
+
+of the postspread
+
+advanced
+to the
+effect
+
+pool fire was
+
+observed,
+seen
+
+although
+
+for
+
+the
+
+some Intermlttent
+
+hellum-dlluted
+
+flashes
+
+unlform
+leading
+
+edges
+
+observatlons
+
+spread
+
+the
+
+regime,
+were
+
+mlcrogravity
+
+suppression
+surface
+about
+
+of
+
+were
+
+deformation
+reached
+multiple
+
+mIcrogravity,
+conditions
+
+the
+
+plume,
+
+camera,
+the
+
+ahead
+tray
+
+Fig.
+
+could
+
+the
+
+it
+
+that,
+
+be
+
+trailing
+
+the
+
+shape
+
+the
+
+Although
+
+pool
+
+surface,
+
+more
+
+details
+
+the
+of
+
+indicating
+on the
+
+suggestlng
+
+flame.
+
+When the
+
+the
+
+pool
+
+a reflection
+
+front,
+
+broke
+
+In
+
+5.
+
+and revealed
+
+flame
+
+of
+
+rim,
+
+line
+
+surface
+reflection
+
+up and propagated
+
+spread
+
+type,
+
+to
+
+17.5
+
+unlform,
+
+line
+
+Inward
+
+as
+
+butano1-O2-N
+
+2 (Fig.
+where
+
+initially
+
+coincided
+
+2),
+
+or
+
+pulsating
+
+did
+
+not
+
+both
+
+spread
+that
+
+propagate,
+
+liquid
+
+those
+
+causlng
+
+for
+
+was first
+observed
+llftlng
+7
+
+of
+
+example,
+
+rise
+
+in normal
+slowly
+
+the
+
+flame
+
+normal-
+
+behavior
+
+to
+
+pulsating
+
+when the
+I),
+
+in
+
+are
+
+02 concentratlon,
+
+fuel
+
+flame
+In a
+
+02 concentration
+
+below
+
+butanol-O2-argon
+clearly
+
+to
+
+extingulshment
+
+2 (Fig.
+
+For
+
+was uniform,
+
+and gas phases
+
+gave
+
+propanol-O2-N
+
+spread
+
+pulsatlng
+
+which
+
+For
+
+19 percent
+
+to
+
+the
+
+data.
+
+comparable
+
+independent
+
+with
+
+environment.
+
+identlcal
+flame
+
+in
+
+Instead,
+
+with
+
+rates
+
+same figures,
+
+comparable
+
+normal-gravlty
+flame
+
+at
+
+conditions
+
+percent
+
+the
+
+normal-gravlty
+
+flows
+
+Initial
+
+gravity
+
+was reduced
+
+the
+
+on the
+
+observed.
+
+mlcrogravlty
+
+conditions
+
+superposed
+
+was also
+
+buoyant
+
+the
+
+In normal
+
+quiescent,
+
+4 display
+
+As shown on these
+
+was never
+
+d|luent
+
+1 through
+
+corresponding
+
+where
+
+negligible,
+
+data
+
+spread
+
+flames.
+
+mlcrogravity,
+
+However
+
+the
+
+the
+
+showed
+
+in
+
+appearance,
+to
+
+wlth,
+
+on Figs.
+
+flame-spread
+
+mlcrogravlty
+
+flame
+
+from
+
+as sketched
+
+in
+
+view
+
+convection
+
+data
+
+where
+
+gravlty
+
+or
+
+rlm
+
+rings.
+
+The discrete
+
+the
+
+were
+
+a bright
+
+top
+
+and moving
+
+and rebounded
+
+tray
+
+flames
+
+parallel
+
+Without
+
+on the
+
+and liquid
+
+the
+
+Tests
+
+mlcrogravity
+
+identlcal
+
+was nearly
+
+apparent
+of,
+
+the
+
+shapes
+
+virtually
+
+buoyancy.
+
+1 cm ahead
+
+M1crogravity
+of
+
+flame
+
+flame
+
+near
+
+flames.
+3.3
+
+Photographic
+
+very
+
+25 percent
+
+(Fig.
+
+observed
+gravlty
+away from
+
+In
+
+3),
+
+the
+
+normal
+
+gravity,
+
+was observed.
+the
+
+for
+
+surface
+
+until
+
+it extingulshed,
+
+indicating
+
+range between pulsating-uniform
+
+an extinctlon
+spread (e.g.,
+
+llmlt.
+
+In the transltion
+
+propanol - 18 percent 02,
+
+82 percent N2; butanol - 25 percent 02, 75 percent N2; butanol - 21 percent 02 ,
+79 percent At), the mlcrograv|ty
+
+flame sometimes spread steadlly,
+
+extlngulshed, owlng probably to s11ght differences
+
+in initial
+
+and sometlmes
+
+condltions or
+
+the usual Impreclslon of lean flammability-extinction
+
+conditions.
+
+extinctlon
+
+even though the normal-
+
+gravity
+
+behavior was noted for the hellum diluent,
+
+The same
+
+tests showedexaggerated pulsations.
+
+In those cases where the flame spread to the edge of the tray,
+mlcrogravlty
+
+flame subsequently collapsed bottom-up, i.e.,
+
+region farthest
+
+from the pool, until
+
+the
+
+toward the luminous
+
+the remaining flame was very thin and blue
+
+at a distance of I0 to 15 mmfrom the pool surface (see Flg. 5(b) to (e)).
+After this collapse,
+lumlnosity steadily
+
+the flame lifted
+
+very slightly
+
+away from the pool, and its
+
+diminished, disappearlng at low 02 concentrations before
+
+the end of the test.
+A few tests were run with super-Tcc ethanol and methanol In alr.
+flame spread for ethanol-alr
+
+Slnce
+
+and methanol-alr at room temperature is controlled
+
+by the premixed, combustible layers, 2 and not by any buoyancy-related effects,
+no difference
+
+was found between normal and mlcrogravity
+
+were very rapid (>I m/sec) and similar
+
+flame spread.
+
+Both
+
+In shape and color.
+
+4. DISCUSSION
+Previous experlmental observations 2,3 suggested that the pulsating flame
+spread arlses in part from a compllcated, subsurface llquid
+
+flow structure
+
+with
+
+clrculatlon
+
+around several centers, caused a temperature valley just ahead of
+
+the flame.
+
+The position of the pulsatlng flame front is such that it
+
+advances
+
+only to that locatlon where the surface temperature corresponded to the flash
+polnt.
+
+The front can not propagate steadily
+
+vapor ahead of the flame was _nsufflclent.
+8
+
+because the amountof combustible
+A mlnlmumcombustion layer
+
+thickness
+
+was postulated
+
+ahead of the flame,
+
+such that while
+
+the amount
+
+surface was insufficient
+thickness
+
+The very
+subsurface
+
+further
+
+could flame
+
+shallow pools
+
+flowfield;
+
+of energy available
+
+to sustain
+
+was exceeded,
+
+in our study
+
+to be in the vlscous-domlnated
+
+mixture
+
+for transfer
+
+vaporization.
+
+spread
+
+for pool depths
+
+to thermocapIllarlty,
+
+a barely combustible
+
+to the liquid
+
+Only
+
+when this
+
+be sustained.
+
+should have prevented
+
+the complicated,
+
+less than 0.4 cm, the flow
+
+regime. 8
+
+may occur
+
+A ratio of liquid
+
+Vo, to that due to buoyancy,
+
+is predicted
+
+surface
+
+velocity
+
+V B, can be estimated
+
+due
+
+by
+
+scale analysls 16 as:
+V
+
+h (BTIBx)
+(_
+
+where
+
+o'
+
+gravlty
+
+Is
+
+the
+
+level,
+
+and
+
+p'
+
+pools,
+
+is
+
+h
+the
+
+hpool
+
+liquid
+
+Therefore
+
+gravlty,
+
+phase
+
+flow
+
+rate
+
+in
+
+surface
+
+depth
+
+of
+
+the
+
+of
+
+liquid
+
+measurements
+at
+
+normal
+-
+
+of
+
+heated
+
+with
+
+layer,
+
+density
+
+_
+with
+
+gravity.
+
+normal
+
+spread
+
+with
+
+structure,
+
+small
+
+to
+
+Is
+
+the
+
+viscosity
+For
+
+shallow
+
+B, ylelding
+
+buoyancy
+
+was still
+
+g
+
+11quid
+
+_ 5(@T/Bx)
+
+some earlier
+
+attributed
+
+the
+
+temperature.
+
+Having
+
+pulsating
+
+temperature,
+is
+
+(ST/ax)o
+
+disagreement
+
+flow
+
+tension
+
+5 suggest
+
+gravlty,
+In
+
+o'Ip
+(7
+
+change
+
+of
+
+subsurface
+
+effects
+
+in
+
+observed.
+
+work2,
+
+buoyancy,
+
+3 Is
+
+that
+not
+
+this
+required
+
+spread.
+buoyancy
+
+Induced
+
+development
+
+the
+
+we conclude
+
+pulsating
+Slnce
+
+Is
+
+change
+
+n-propanol
+
+even
+
+complicated,
+for
+
+of
+
+= h o = hB;
+
+VJV B _ 20 for
+the
+
+rate
+
+(7
+
+of
+in
+
+fresh oxidizer
+
+gas
+
+in
+
+the
+
+phase
+
+pulsating
+normal
+
+is
+
+convection
+
+spread
+
+gravity
+
+(in
+
+negllgible
+must
+
+for
+
+be a key
+
+agreement
+
+simultaneously
+
+to the flame front.
+
+the feed rate of oxidizer
+extingulshment
+
+liquid
+
+wlth
+
+to the flame front
+
+at a hlgher 0 2 concentration
+
+pools
+
+in
+
+contributor
+Refs.
+
+opposes
+
+If this flow
+
+our
+
+flame
+
+to
+
+2 and 3).
+spread
+
+is absent,
+
+is greatly
+
+normal
+
+The gas
+and provides
+
+as in microgravity,
+
+reduced
+
+in microgravity.
+
+the
+
+and may cause
+
+Also,
+
+in the
+
+normal-gravity
+
+pulsatlng flame, products may accumulate near the flame front
+
+whenever the amountof combustlble fuel vapor is less than the mlnlmum
+combustlble thickness and are swept away by the Induced buoyant flow,
+permitting
+
+flame spread.
+
+In microgravlty,
+
+via this mechanismis greatly dimlnished.
+
+the ability
+
+to clear away products
+
+The process may be further
+
+diminished by products carried ahead of the flame by thermocapillary-driven
+liquid
+
+motion and the gas-liquld,
+
+no-slip
+
+condition.
+
+The combinedeffects
+
+may
+
+lead to extinctlon.
+Although gas phase buoyancy appears necessary for pulsating
+is a clear phenomenologlcal distinction
+familiar,
+
+between pulsating spread and the
+
+hydrodynamlcally-induced oscillations
+
+plume oscillated
+
+spread, there
+
+of pool fires.
+
+during spread at low 02 concentration,
+
+Although the
+
+the observed flame
+
+spread rate was uniform.
+
+Further evidence is provided by the fact that 02
+
+concentration and diluent
+
+type greatly affected the characteristic
+
+behavior, but had no discernable effect on the plume's osclllation
+of the pool fire
+
+flames are beyondour current understanding.
+temperature for hellum-diluted
+
+Clearly,
+
+hellum-diluted
+
+the flash point
+
+environments Is higher than that for the other
+
+This is evident not only from the observed spread behavlor, but
+
+also from methanol droplet behavior In helium-diluted
+Ignition
+
+frequency
+
+after spreadlng In normal gravity.
+
+The detailed mechanismsof the asymmetrically pulsating,
+
+diluents.
+
+spread
+
+envlronments. 17
+
+of the droplet was predicted and observed to be far more difficult
+
+heIium-dlluted,
+
+as comparedto nitrogen-diluted
+
+in
+
+environments, due to more
+
+rapid thermal losses to the background. Similar to Ref. 17's observations,
+the helium-diluted
+
+flames were thick,
+
+indicating
+
+time comparedwith the chemical residence time.
+
+a smaller diffusion
+
+These effects yield a lower-
+
+than-expected flame temperature, maklng sustained spread more difficult.
+
+10
+
+residence
+
+The
+
+simllarity
+
+indicates
+
+that
+
+uniform
+
+of
+(I)
+
+flame
+
+normal
+
+buoyancy-driven
+
+spread,
+
+this
+
+scale
+
+and
+
+therefore
+
+(3)
+
+radiation
+
+(the
+
+large
+
+liquid
+
+liquid
+
+The relative
+
+magnitude
+
+conduction
+
+is
+
+smal]
+
+by a comparison
+
+lengths,
+
+of
+
+as done for
+
+where
+
+_ .
+
+thermal
+
+earlier
+region
+
+was based
+
+spreading
+there
+should
+
+be valld
+
+correspond
+
+stratified,
+
+premixed
+
+(2)
+
+increases
+
+to
+
+of
+
+for
+lean
+
+in
+
+is
+
+of
+
+of
+
+sub-Tcc
+limlt,
+
+rate
+
+pool
+
+constant
+
+(Tcc
+
+-
+
+Tpool),
+
+alcohols
+
+with
+
+sufflclently
+
+depth,
+
+flame
+
+spread
+
+slmilar
+
+flame
+
+spread rate apparently
+
+rate for methanol
+
+is roughly
+
+subcoollng, 1,5 despite
+thermal
+
+transport
+
+gas
+
+spread
+
+this
+
+work
+
+spread
+
+only
+
+solid
+
+phase
+
+the
+
+limiting
+
+should
+
+should
+
+the
+
+the
+
+unlformly
+
+oxygen
+
+be comparable
+
+spread
+
+those
+
+spread
+
+of
+
+equations
+
+Index;
+
+and
+
+(3)
+
+for
+
+for
+
+different
+Instead,
+
+by an order of magnitude
+
+in this work and In Refs.
+
+If
+
+spread
+
+the
+
+and not
+
+dlmlnlsh;
+
+5.
+
+phase
+
+where
+
+flame
+
+uniform
+
+and Ref.
+
+solid
+
+rates
+
+>> 1
+
+The
+In
+
+of
+
+to
+
+spread
+
++ VF)]
+
+velocity.
+
+ahead
+
+conduc-
+
+preheat
+
+llquid and gas phase propertles.
+
+the
+
+I and 5; (2) uniform
+
+increases with
+
+pool depth; 19 and (3) the spread
+
+2 to 2.5 times
+
+that of n-propanoI
+
+the similarity
+
+properties.
+
+gas
+
+analogles
+
+(1) solld phase spread equations 18 underpredict
+flame spread rates observed
+
+to
+
+conduction
+
+flow
+wlth
+
+spread
+rates
+
+individually.
+
+relative
+
+controlled
+
+away from
+
+flame
+
+can be examined
+
+induced
+
+(I)
+
+for
+
+parameters.
+
+uniform
+
+implylng
+
+spread
+
+controlling
+
+(_gas/_liq)[VF/(Ug
+
+premixed
+
+systems),
+
+small
+
+and possibly
+
+liquid
+
+flame,
+
+on
+
+made no difference),
+
+q :
+
+the
+
+regime
+
+probably
+
+and
+
+confllct
+
+the
+
+uniform
+
+had no influence
+
+were
+
+height
+
+no llquld
+
+in
+
+phase
+
+spread,
+
+gas
+
+the
+
+conduction
+
+the
+
+conduction
+
+of
+
+be predictive
+
+for
+
+ahead
+
+phase
+
+control
+
+Ug
+
+observation
+
+(we stress,
+
+velocities
+
+should
+
+and
+
+flow
+
+flame
+
+Lgas/Lll
+
+an observatlon
+
+no llquld
+
+In
+
+mechanlsms
+
+burning:
+
+gas phase
+
+on the
+I-3
+
+these
+
+elther
+
+In
+
+on spread
+
+were
+
+magnitude
+
+solid
+
+that
+
+flame,
+
+were
+
+the
+
+In
+
+gas
+
+and cannot
+
+dlffusity
+
+conclusion
+
+change
+
+motion
+of
+
+spread
+
+effects
+
+conduction,
+
+thermocapillary-lnduced
+
+tion
+
+motion
+
+(2)
+
+experiment
+
+Liquid
+
+and mlcrogravity
+
+of their relevant
+
+If some 11quid convectlon
+11
+
+at 5 °C
+
+thermodynamic
+precedes
+
+and
+
+the flame,
+
+then
+
+this spread rate difference
+
+liquid,
+o'
+
+convectlon-related
+
+and
+
+p'
+
+reduced,
+
+are similar
+
+for methanol),
+
+for the difference
+wlth Ref.
+regime,
+
+5, that
+
+properties
+(slightly
+
+but
+
+Pprop
+
+in flame
+
+spread rates.
+
+liquid convection
+
+microgravity
+
+which does not admit a solution
+diffusive
+
+environment
+
+theory does not account
+
+small diameter
+An alternate
+
+explanation
+
+The experiments
+
+and corresponding
+
+spread
+
+envlronments,
+important
+
+spread
+
+in the uniform
+
+if this liquid convection
+
+determ|ne
+
+Future
+
+behavior
+
+is consistent
+
+for planar flames
+
+in a nearly convectlon-free,
+
+due to a lack of divergence
+for second order
+
+region,
+
+reported
+
+effects,
+
+appear
+
+normal-gravlty
+
+(unlike
+
+droplets).
+
+such as heat
+
+to be small
+
+Independent
+
+loss to a
+
+in our studies.
+
+due to heat loss and a
+
+of geometrical
+
+concerns.
+
+CONCLUSIONS
+
+In this paper
+
+pools
+
+with theory 20
+
+investigated
+
+in a free-fall
+conditions.
+
+from photographic
+
+facility
+Results
+
+burning
+under
+
+of alcohol
+
+both mlcrogravity
+
+are reported
+
+observations
+
+as flame
+
+of the flame
+
+diameter
+
+of time.
+
+Microgravlty
+
+the uniform
+
+controls
+
+in agreement
+
+importance.
+
+flame
+
+to the flame
+
+rates, determined
+
+pulsating
+
+and accounts
+
+we suggest,
+
+is that the flames extinguished
+
+15-cm dlameter
+
+as a functlon
+
+Pmeth
+
+could
+
+5.
+
+spread
+
+3 times
+
+should be
+
+is of secondary
+
+pool tray, but these effects
+
+lack of 02 transport
+
+fuels over
+
+For these fuels,
+
+spread actually
+
+Therefore
+
+apparently
+
+p.
+
+in
+
+in part to buoyancy.
+
+The postspread,
+
+Such
+
+to differences
+
+a', p', or
+
+is roughly
+
+tests with deep pools
+
+is attributable
+
+such as
+
+less, so flame
+
+while gas phase conduction
+
+mlcrogravlty
+
+purely
+
+should be accountable
+
+flame spread was always uniform.
+in normal gravity,
+
+spread regime,
+indlcatlng
+
+for the shallow
+
+flame
+
+the mlcrogravity
+
+spread
+
+At conditions
+flame
+
+rates were similar
+
+the buoyancy-drlven
+pools which were
+
+12
+
+motlon
+
+caused
+
+extinguished.
+
+In
+
+In both gravity
+
+in either
+
+Investigated.
+
+whlch
+
+phase
+
+Because
+
+is not
+
+pulsating
+
+spread was only observed in normal gravity,
+
+gas phase convection must be a key
+
+contributor
+
+spread.
+
+to the development of pulsatlng
+
+Replacementof N dlluent with argon shlfts
+2
+
+the pulsating flame spread
+
+onset to lower 02 concentratlons (and presumably lower pool temperatures), as
+expected from dlmlnlshed heat losses to the argon atmosphere. Helium dilution,
+on the other had, shifts
+intenslfles
+
+the pulsating spread to higher 02 concentrations and
+
+the amplltude of the pulsatlons.
+
+For potentlal
+
+appllcatlon
+
+to spacecraft Fire safety,
+
+determination of the conditions yleldlng
+can be used to predict mlcrogravlty
+gravity
+
+it
+
+appears that the
+
+pulsating spread in normal gravity
+
+pool flre
+
+extinction
+
+limlts,
+
+provided that
+
+level is the only parameter that is changed.
+ACKNOHLEDGMENT
+
+The authors wish to express their gratitude
+numerousdiscussions regarding the earlier
+
+to Professor F. Dryer for
+
+Princeton research program and For
+
+advice regarding our present study.
+REFERENCES
+I. AKita, K.:
+Combustion
+2. G1assman,
+3. Dryer,
+
+14th Symposium
+Institute,
+
+of Flame Pulsatlon.
+The Combustion
+4. Hlrano,
+Techno1.
+
+F.:
+
+_.:
+
+p. I075, The
+
+Fire Saf. J. 3, 123 (1980/81).
+Flame Spread over
+
+Paper No. WSCI 76-48,
+
+Institute,
+
+T., Suzuki,
+
+on Combustlon,
+
+1973.
+
+I. and Dryer,
+
+F. and Newman,
+
+(International)
+
+La Jolla,
+
+T., Mashlko,
+
+Llquid
+
+Fuels - The Mechanism
+
+Fall Mtg. of Western
+
+States
+
+of
+
+CA, 1976.
+
+I., and Tanabe,
+
+N.:
+
+Combust.
+
+Sci.
+
+22, 83 (1980).
+
+5. Ito, A., Masuda,
+Using Holographic
+
+D., and Salto,
+Interferometry.
+
+K.:
+
+A Study of Flame Spread
+Accepted
+
+(1989).
+
+13
+
+for publication
+
+Over Alcohol
+Combust.
+
+Flame
+
+6. MacKlnven, R., Hansel, J.G., and G1assman,I.:
+
+Combust. Scl. Technol. l,
+
+293 (1970).
+7. Torrance, K.:
+
+Combust. Sci. Techno]. 3, 133 (197]).
+
+8. Torrance, K.E. and Mahajan, R. L.:
+
+Combust. Sci. Technol. 10, ]25 (1975).
+
+9. Furuta, M., Humphrey,J.A.C,, and Fernandez-Pello, A.C.:
+
+Phys. Chem.
+
+Hydrodyn. 6, 347 (1985).
+]0. Lekan, J.:
+
+M|crogravity
+
+NASA TM-lO1397,
+11. Concus,
+
+P.:
+
+12. Burgoyne,
+
+Research
+
+In NASA Ground-Based
+
+Faclllties,
+
+1989.
+
+J. Fluid Mech. 34, 481 (1968).
+
+J.H.,
+
+Roberts, A.F., and Qu|nton,
+
+P.G.:
+
+Proc.
+
+Roy. Soc. A308,
+
+39 (1968).
+13. Roberts,
+
+A.F.:
+
+Combustion
+14. Coward,
+
+15th Symposium
+
+Institute,
+
+(Internatlonal)
+
+503, U.S.
+
+15. McA1evy,
+
+16. Willlams,
+
+p. 215,
+F.A.:
+
+Limits of Flammabillty
+
+Bureau of Mines,
+
+R.F. and Magee,
+
+Combustion,
+
+p. 305, The
+
+1975.
+
+H.F., and Jones, G.N.:
+
+Bulletln
+
+on Combustion,
+
+R.S.:
+
+of Gases
+
+and Vapors
+
+1952.
+
+12th Symposium
+
+(International)
+
+on
+
+1968.
+
+Combustion
+
+Theory,
+
+2nd ed., Chap.
+
+12, Benjamin/Cummlngs,
+
+1985.
+17. Choi, M.Y., Cho, S.Y., Dryer,
+on the Burning
+Gases.
+
+of Methanol
+
+Fall Technical
+
+Combustion
+
+Institute,
+
+Droplets
+
+Meeting
+Albany,
+
+18. De Ris, J.N.:
+
+12th Symposium
+
+19.
+
+Feaslbl]Ity
+
+Kanury,
+Gravity,
+
+20.
+
+Glassman,
+
+A.M.:
+
+NASA CR-159642,
+I.:
+
+F.L., and Haggard,
+
+Combustlon,
+
+J.B.:
+
+in MIcroqravlty
+
+of the Eastern
+
+Some Observatlon_
+
+Using
+
+Varlous
+
+States Section
+
+of The
+
+on Combustion,
+
+p. 241, 1968.
+
+NY, 1989.
+(Internatlonal)
+
+Stud_
+
+of
+
+Liquid
+
+Pool
+
+Burning
+
+in
+
+Reduced
+
+1979.
+2nd.
+
+Inert
+
+ed.,
+
+14
+
+Chap.
+
+6,
+
+Academic
+
+Press,
+
+1987.
+
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+
+40Z 02 21t 02 18% 02 17,5g 02
+40t 02 50g 02 21g 02 18t 02 17.5g 02
+
+22,6 °C 22.1 °C 22.2 °C - 21.6 °C
+21.'_ °C 21-22 °C 22.2 °C 21-22 °C - 22.1 °C
+
+lg
+lg
+lg
+- lg
+Og
+Og
+Og
+Og
+- Og
+
+16-( b._K"_n-t_
+h-(o)
+
+I
+o
+_o00 (f)
+
+l(e)
+
+12 _---
+
+° 0
+
+/-
+
+/_
+5
+
+101__
+
+O
+
+_ G_- o
+
+2
+
+O'X
+
+/
+
+o
+
+o°
+° o°
+
+/ooO
+_/o _
+
+j
+
+J
+
+/
+
+vvVV
+
+I
+0
+
+o °
+(h)
+
+° o°°
+
+/
+
+ljo
+
+"
+
+.I
+
+.2
+
+.3
+
+.4
+
+I
+
+.5
+TIME, SEC
+
+I
+
+I
+
+I
+
+]
+
+.6
+
+.7
+
+.8
+
+.9
+
+1.0
+
+FIGURE I. - FLAME SPREAD OVER PROPANOL-O2-N2, POOLS IN NORMAL AND MICROGRAVITY
+AS A FUNCTION OF 02 CONCENTRATION.
+
+(b)
+(c)
+(d)
+(e)
+(a)
+(f)
+(g)
+
+I
+16
+
+25%
+21%
+19%
+30%
+30%
+25%
+21%
+
+02
+02
+02
+02
+02
+02
+
+-
+
+23.1
+20.9
+23.5
+22.7
+22.8
+22.9
+20.5
+
+°C
+°C
+°C
+°C
+°C
+°C
+
+-
+
+Ig
+Ig
+Ig
+Og
+Ig
+Og
+Og
+
+F' /
+i
+
+10
+8
+
+(c)
+
+2[_,-
+
+I
+
+[
+
+I
+
+I
+
+0
+
+.2
+
+.4
+
+.6
+
+.8
+
+1
+
+]
+
+[
+
+I
+
+[
+
+I
+
+1.0
+
+1.2
+
+1.4
+
+1.6
+
+1.8
+
+2.0
+
+TIME, SEC
+FIGURE 2, - FLAME SPREAD OVER BUTANOL-O2-N2 POOLS IN NORMAL AND MICROGRAVITY AS
+A FUNCTION OF 02 COHCENTRATION.
+
+I$
+
+12
+k
+I
+
+oo
+_
+
+f,
+
+_'
+
+/<_oO / _
+_
+_hoO°/_'>_ /
+
+f<b_
+
+/
+
+t
+
+_
+
+/
+
+<<,
+
+"
+
+_) 2szo_-23.2 og
+_c(e)
+
+2r
+I
+
+I
+
+.2
+
+0
+
+21Z 02 - 2[i.[i
+
+°C - og
+
+_, _9_ _-22.,o<_
+o
+og
+I
+I
+I
+
+.4
+
+.6
+TIRE,
+
+.8
+
+1.0
+
+SEE
+
+FIGURE 3. - FLAME SPREAD OVER BUTANOL-O2-Ar POOLS IN NORMAL AND MICROGRAVITY
+AS A FUNCTION OF 02 CONCENTRATION (NOTE SCALE CHANGE FROM OTHER FIGURES).
+
+16 iI
+(b)
+a)
+
+14
+
+12
+
+10
+
+8
+
+6
+
+/
+
+__]_
+
+_a, 0, 2- o__
+_ 0 2_._ ,_
+(b)
+(c)
+(d)
+(e)
+
+4
+
+2
+
+I
+
+02
+02
+02
+02
+
+-
+
+22.6
+25.0
+2q.9
+21.9
+
+°C
+°C
+°C
+°C
+
+-
+
+Ig
+Ig
+lg
+Og
+
+(f) 21% 02 - 23.9 °C - Og
+
+( f)
+
+.2
+
+25%
+21%
+19%
+25%
+
+£
+
+I
+
+I
+
+.4
+
+,6
+
+.8
+
+I
+1.0
+
+I
+1,2
+
+I
+1.4
+
+I
+1,6
+
+I
+1.8
+
+I
+2.0
+
+TIME, SEC
+FIGURE 4. - FLAME SPREAD OVER BUTANOL-O2-He POOLS IN NORMAL AND MICROGRAVITY AS
+A FUNCTION OF 0 2 CONCENTRATION.
+
+16
+
+(b) PROPANOL-30%O2-70%N2, JUST AFTER SPREADING IN
+MICROGRAVITY.
+
+(c) PROPANOL-3OgO2-70N2, 0,I
+MICROORAVITY.
+
+SEC AFTER SPREADING IN
+
+(d) PROPANOL-30%O2-7OgN2, 0.3 SEC AFTER SPREADING
+IN MICROGRAVITY.
+
+I-
+
+7.5 CM
+
+(e) PROPANOL-3OXO2-7OIN2, 0.5 SEC AFTER SPREADING
+IN RICROGRAVITY.
+YELLOW
+
+•
+
+RED-BLUE
+
+''
+
+I CM
+
+MICRO GRAVITY
+NORMAL GRAVITY
+(a) PROPANOL-21%O2-79%N2, DURING SPREAD IN NORMAL
+AND MICROGRAVITY.
+
+FIGURE 5. - FLARE APPEARANCE.
+
+17
+
+BLUE
+
+Report
+
+National Aeronautics and
+Space Adminislration
+1. Report
+
+NO.
+
+NASA
+
+Documentation
+
+2. Government
+
+Accession
+
+Page
+
+No.
+
+3.
+
+Recipient's
+
+Catalog
+
+No.
+
+TM- 102425
+
+4. Title and Subtitle
+
+5. Report
+
+An Investigation
+in Microgravity
+
+of Flame Spread Over Shallow
+and Nonair Environments
+
+Liquid
+
+Date
+
+Pools
+6. Performing
+
+Howard
+
+D. Ross and Raymond
+
+Code
+
+8. Performing
+
+7. Author(s)
+
+Organization
+
+Organization
+
+Report
+
+No.
+
+E-5190
+
+G. Sotos
+10.
+
+Work
+
+Unit No.
+
+6"/4-22-05
+9. Performing
+
+Organization
+
+Name and Address
+11. Contract
+
+or Grant
+
+No.
+
+National Aeronautics
+and Space Administration
+Lewis Research Center
+Cleveland,
+
+Ohio
+
+12. Sponsoring
+
+National
+
+Agency
+
+44135-3191
+
+13. Type of Report
+
+Technical
+
+Name and Address
+
+Aeronautics
+
+Washington,
+
+D.C.
+
+15. Supplementary
+
+and Space Administration
+
+14. Sponsoring
+
+and Period
+
+Covered
+
+Memorandum
+Agency
+
+Code
+
+20546-0001
+
+Notes
+
+Prepared for the 23rd International Symposium on Combustion
+University of Orleans, France, July 22-27, 1990.
+
+sponsored by The Combustion
+
+Institute,
+
+16. Abstract
+
+Experiments
+of interest to combustion
+fundamentals
+and spacecraft fire safety investigated
+flame spread of alcohol
+fuels over shallow,
+15-cm diameter pools in a 5.2 sec free-fall, microgravity
+facility. Results showed that, independent 02 concentration,
+alcohol fuel and diluent types, microgravity
+flame spread rates were nearly identical to
+those corresponding
+normal-gravity
+flames for conditions where the normal gravity flames spread uniformly.
+This
+similarity indicates buoyancy-related
+convection in either phase does not affect flame spread, at least for the
+physical scale of the experiments.
+However, microgravity
+extinction coincided with the onset conditions for
+pulsating spread in normal gravity, implicating gas phase, buoyant flow as a requirement
+for pulsating spread.
+When the atmospheric
+nitrogen was replaced with argon, the conditions for the onset of normal-gravity
+pulsating
+flame spread and microgravity
+flame extinction were changed, in agreement
+with the expected lowering of the
+flash point through the thermal properties of the diluent. Helium-diluted
+flames, however,
+showed unexpected
+results with a shift to apparently
+higher flash-point temperatures
+and high normal-gravity
+pulsation amplitudes.
+
+17. Key Words
+
+(Suggested
+
+18. Distribution
+
+by Author(s))
+
+Flame spread
+Flame propagation
+Microgravity
+science
+Pool fires
+19. Security
+
+Classif.
+
+Statement
+
+Unclassified
+Subject
+
+(of this report)
+
+20.
+
+Security
+
+Unclassified
+
+Classif.
+
+"For
+
+Category
+
+(of this page)
+
+21.
+
+29
+
+No of oages
+
+Unclassified
+sale by the
+
+National
+
+Technical
+
+Information
+
+Service,
+
+I[11
+
+]1
+
+Springfield,
+
+Virginia
+
+22. Price*
+
+A03
+
+18
+II
+
+NASA FORM 16;Z6OCT 86
+
+- Unlimited
+
+22161
+

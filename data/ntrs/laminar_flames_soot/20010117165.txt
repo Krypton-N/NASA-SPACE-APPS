@@ -1,0 +1,1357 @@
+Appendix
+
+Urban,
+Point
+
+D.L.,
+
+Yuan,
+
+Properties
+
+Z.-G.,
+
+Sunderland,
+
+of Nonbuoyant
+
+Round
+
+J:
+
+P.B., Lin, K.-C.,
+Laminar
+
+Dai, Z. and Faeth,
+
+Jet Diffusion
+
+1965-1972.
+
+243
+
+Flames,"
+
+G.M.
+
+Proc.
+
+(2000)
+
+Combust.
+
+"SmokeInst.
+
+28,
+
+244
+
+Proceedings of the Combus_on Institute, Vohme 28, 2_O0/pp. 1965-1972
+
+SMOKE-POINT
+
+PROPERTIES
+
+OF NON-BUOYANT
+DIFFUSION
+FLAMES
+
+D. L. URBAN, 1Z.-C. YUAN, l P. B. SUNDERLAND,
+
+1K-C.
+
+ROUND
+
+LAMINAR
+
+JET
+
+LIN, 2 Z. DAI _ AND G. M. FAETH 2
+
+1NASA Glenn Research Center
+Cleveland,
+
+OH 44135, USA
+
+_University of Michigan
+Ann Arbor, 1t4148109, USA
+
+The laminar smoke-point properties of non-buoyant round laminar jet diffiusion flames were studied
+emphasizing results from long-duration (100-230 s) experiments at mierogravity carried out in orbit aboard
+the space shuttle Columbia. Experimental conditions included ethylene- and propane-fueled flames burning in still air at an ambient temperature
+of 300 K, pressures of 35-130 kPa, jet exit diameters of 1.6 and
+2.7 ram, jet exit velocities of 170--690 rams, jet exit Reynolds numbers of 46-172, characteristic flame
+residence times of 40--302 ms, and luminous flame lengths of 15--63 ram. Contrary to the normal-gravity
+laminar smoke point, in miemgravity, the onset of laminar smoke-point conditions involved two flame
+configurations: closed-tip flames with soot emissions along the flame axis and open-tip flames with soot
+emissions from an annular ring about the flame axis. Open-tip flames were observed at large characteristic
+flame residence IL,nes with the onset of soot emissions associated with radiative quenching near the flame
+tip: nevertheless, unified correlations of laminar smoke-point properties were obtained that included both
+flame configurations. Flame lengths at laminar smoke-point conditions were well correlated in terms of a
+corrected fuel flow rate suggested by a simplified analysis of flame shape. The present steady and nonbuoyant flames emitted soot more readily than non-buoyant flames in earlier tests using ground-based
+mierogravity facilities and than buoyant flames at normal gravity, as a result of reduced effects of unsteadiness, flame disturbances, and buoyant motion. For example, present measurements of laminar smokepoint flame lengths at comparable condilSons were up to 2.3 times shorter than ground-based mierogravity
+measurements and up to 6.4 times shorter than buoyant flame measurements.
+Finally, present laminar
+smoke-point flame lengths were roughly inversely proportional to pressure to a degree that is a somewhat
+smaller than observed during earlier tests both at mierogravity (using ground-based facilities) and at normal
+gravity.
+
+Introduclion
+
+velocities,
+
+of soot emissions)
+are useful observable
+soot properlJes of non-premixed
+flames. For example,
+these
+measures
+provide a means to rate several aspects of
+flame sooting properties:
+the relative propensity
+of
+various fuels to produce
+soot in flames [1--4]; the
+relative effects of fuel structure,
+fuel dilution, flame
+temperature,
+and
+emission
+properties
+levels of continuum
+
+tends
+
+to enhance
+
+their
+
+value
+
+as
+
+investigation
+was to measure
+the laminar
+smokepoint properties
+of non-buoyant
+flames, because of
+the relevance
+of non-buoyant
+flames to most practical industrial
+processes
+where effects of buoyancy
+are small.
+
+ambient
+pressure
+on the soot
+of flames [5-14];
+the relative
+radiation
+from soot in flames
+
+[15-17]; and effects of the intrusion of gravity (buoyancy) on emissions
+of soot from flames [18-26].
+Laminar smoke-point
+properties
+generally are measured
+using buoyant
+round
+laminar
+jet diffusion
+flames, surrounded
+by co-flowing air in order to prevent pulsations
+characteristic
+of buoyant jet diffusion
+flames in still environments.
+Laminar smoke-point
+properties
+found using this configuration
+are relatively independent
+of burner
+diameter
+and co-flow
+
+which
+
+global measures
+of soot properties
+[9,10]. Recent
+studies,
+however,
+suggest that the laminar smokepoint properties
+of buoyant and non-buoyant
+laminar jet diffusion
+flames are fundamentally
+different
+[19--26]. Thus, the overall objective
+of the present
+
+The laminar smoke-pointproperties
+of jet diffus'ion flames (the luminous
+flame length, fuel flow
+rate, characteristic
+residence
+l_ae, etc., at the onset
+
+The potential
+differences
+between
+the laminar
+smoke
+properties
+of buoyant
+and
+non-buoyant
+flames can be attributed
+mainly to the different hydrodynamic
+properties
+of these flames [24-27].
+In
+particular,
+soot particles are too large to diffuse like
+aS molecules
+so that they are convected
+at gas reties, aside from minor effects of Browni,_
+motion
+and thermophoresis
+[24].
+In non-buoyant
+flames, the streamlines
+diverge from the nozzle aaSs,
+whereas
+in buoyant flames the streamlines
+(and the
+entrained
+flow) converge toward the nozzle axis. As
+1965
+
+245
+
+1966
+
+LAMINAR DIFFUSION FLAMES--Buoyancy
+andNon-Buoyancy
+Effects
+
+a result, flow acceleration due to gravitational forces
+in buoyant round laminar jet diffusion flames implies
+that soot mainly nucleates near the flame sheet and
+then is drawn toward fuel-rich conditions nearer to
+the flame axis, promoting soot growth for an extended residence time before the soot finally crosses
+the flame sheet within an annular soot layer near the
+flame tip to reach soot oxidation conditions. This
+type of soot path, termed soot-formationflame
+conditions by Kang et al. [27], tends to promote soot
+growth and inhibit soot oxidation, enhancing the tendency of the flame to emit soot. On the other hand,
+flow deceleration in non-buoyant round laminar jet
+diffusion flames implies that soot mainly nucleates
+in the cool core of the flame at fuel-rich_conditions
+and then is drawaa directly toward and through the
+flame sheet, so that soot tends to leave the flame over
+a relatively extended region. This type of soot path,
+termed soot-formation-oxidation
+conditions by Kang
+et al. [27], tends to inhibit soot growth and enhance
+soot oxidation compared to buoyant flames that have
+similar characteristic residence times, reducing the
+tendency of the flame to emit soot. Thus, the soot
+nucleation, growth, and oxidation environments of
+buoyant and non-buoyant laminar jet diffusion
+flames are quite different, providing significant potential for different laminar smoke-point properties
+as
+
+Well.
+
+Several studies of the laminar smoke-point propertSes of non-buoyant laminar jet diffusion flames
+have been reported, motivated by the potential effects of buoyancy on soot processes in flames (see
+l_efs. [18--25] and references cited therein). Most of
+these studies used ground-based microgravity facilities to observe non-buoyant flames and showed that
+laminar smoke-point flame lengths were significantly
+smaller and laminar smoke-point characteristic residence times were significantly larger for non-buoyant than buoyant flames. These differences generally
+have been attributed to the different soot paths in
+buoyant and non-buoyant flames that were just discussed, as well as increased effects of radiative
+quenching .in non-buoyant flames due to their increased characteristic residence times compared to
+buoyant flames. A concern about these results, however, is that limited testing using space-based microgravity facilities yielded significandy different results
+than those observed using ground-based microgravity facilities [25]. Thus, the objective of the present
+study was to more completely assess these differences by measuring laminar smoke-point prope_es
+during long-term experiments (1(K1-230 s) at microgravity carried out on orbit in the space shuttle Columbia (flights STS-83 and STS-94 in 1997). The
+scope of the study was limited to round ethyleneand propane-fueled
+laminar jet diffusion flames
+bumtng in still and slightly vitiated air at pressures
+of 35-130 kPa.
+
+Experimental
+
+Methods
+
+Experimental methods are described only briefly,
+see Urban et al. [25] for details about the apparatus
+and instrumentation and l.,m et al. [28] for a tabulation of test conditions. The laminar jet diffusion
+flames were stabilized at the exit of round fuel noz'
+zles located along the axis of a windowed chamber
+having a diameter and length of 400 mm and 740
+ram, respectively The chamber was filled with oxygen/nitrogen mixtures to provide the nominal composition of dry air (21 +__ oxygen byvolume). The
+1%
+properties of the gas surrounding the flames varied
+slightly over the present relatively long test times
+because the test chamber was closed. The greatest
+change involved the gas composition, but even this
+change was modest, with maximum oxygen consumptions never exceeding 0.02 tool fraction during
+any test. These conditions were maintained by periodically venting the chamber to space and adding
+fresh dry air in the period between tests. Present
+flames typically required 10 s times to approach
+steady behavior as exemplified by constant flame
+lengths after a disturbance [25]. _ --i:_ _Stainless steel fuel nozzles having inside diameters
+of 1.6 mm and 2.7 ram, lengths of 148 mm, and inlet
+flow straighteners yielded n0n_irling
+fully developed laminar flow at the jet exit. The test__els were
+stored in cyhnders and delivered tO the nozzles
+through solenoid._vaIves an__da mass flow rate controller and sensor. The flames were ignited with a
+hot wire coil that was retracted from the nozzle exit
+once the flame was stabilized.
+_ _
+Monitoring measurements included the fuel flow
+rate, the fuel inlet temperature, the chamber pressure, and the chamber gas temperature [25,28]. The
+flames were observed using a color CCD video camera (Hitachi, Model KP-C5,_3-) with a lg,5 x 164
+mm h'_YdoCview and a 25 mmdepth
+offleld centered on the flame axis. Flame images were recorded
+at a rate of 30 images/s and could be measured with
+a spatial resolution better than 0.3 mm. Initial fuel
+flow rates were set in excess of laminar smoke-point
+flow rates and could be adjusted up to - 30% in 5%
+steps to achieve the desired final conditions near
+(within 5%), but generally smaller than, laminar
+smoke-point fuel flow rates. Three tests were exceptions in which initial excessively Largefuel flow rates
+Phrevented final flame lengths from being shorter
+an laminar smoke-point conditions, as noted by
+Lin et al. [28].
+A total of 21 flames were observed, yielding the
+following ranges of test properties: ethylene- and
+propane-fueled flames, ambient air temperatures
+and pressures of 300 K and 3,5-130 kPa, respectively,
+jet exit velocities and Reynolds numbers of 170-1690 mm/s and 46-172, respectively, characteristic
+residence times of 40--302 ms, and luminous flame
+lengths of 15--63 mm. Characteristic residence times
+
+246
+
+SMOKE-POINT
+
+PROPERTIES
+
+OF NON-BUOYANT
+
+FLAMES
+
+1967
+
+FIG. 1. Photographs of round nonbuoyant laminar jet diffusion flames
+in still air as the fuel flow rate is increased in the transition
+region
+where the laminar smoke-point is approached and exceeded for ethylenefueled flames with a 1.6 mm jet exit
+diameter.
+Upper series of photographs shows open-tip smoke-point
+behavior at 100 kPa, with the third
+flame from the left just beyond the
+smoke-point condition; lower series
+of photographs
+shows closed-tip
+smoke-point behavior at 50 kPa, with
+the fifth flame from the left just beyond the smoke-point condition.
+
+are reported
+2L/uo.
+
+elsewhere
+
+Results
+
+[29]
+
+and are
+
+taken
+
+to be
+
+flames, however, eventually
+exhibited
+open-tip
+behavior as fuel flow rates increased
+beyond the laminar smoke-point
+condition
+(see the last image of the
+lower series of photographs
+in Fig. 1). Thus, tip
+opening generally
+is closely associated
+with laminar
+
+and Discussion
+
+Flow Visualization
+Typical of many past observations
+of non-buoyant
+round laminar jet diffusion flames [18--22,24,25,28],
+the present flames could be grouped into closed-tip
+and open-tip configurations.
+The difference between
+these two configurations
+was particularly
+noticeable
+in the vicinity of the laminar
+smoke-point,
+as illustrated by the images in Fig. 1. These photographs
+show the flame appearance
+as the fuel flow rate is
+increased
+in the transition
+region where the laminar
+smoke-point
+is approached
+and exceeded
+for ethylene-fueled
+flames having 1.6 mm jet eat diameters.
+The upper series of photographs
+shows the behavior
+of large characteri_c
+residence
+time flames (larger
+than 80 ms) where the flame tips were blunt (opentip) throughout
+the transition
+to soot emitting conditions, and the first emission of soot was associated
+
+smoke-point
+conditions
+for
+which has also been observed
+vestigators
+(see Refs. [18-22]
+therein).
+
+non-buoyant
+flames,
+by several other inand references
+cited
+
+Measurements
+of soot concentrations
+in the present flames using deconvoluted
+laser extinction
+show
+that soot is contained
+within a narrow annular ring
+and that no soot is present
+at the flame axis for
+open-tip
+conditions
+[25]. Corresponding
+soot temperatures
+using deconvoluted
+multiline
+emission
+measurements
+show that soot temperatures
+progressively decrease
+with increasing
+streamwise
+distances in open-tip
+flames and reach values of roughly
+1000 K near the flame tip [25]. Low reaction rates
+at such conditions
+are consistent
+with quenching
+of
+soot oxidation,
+allowing
+soot to escape
+from the
+flame. The main mechanism
+causing this progressive
+reduction
+of temperature
+is continuum
+radiation
+from soot. This radiative
+heat loss becomes
+more
+
+with an annular
+region surrounding
+the flame axis
+and having a diameter
+comparable
+to the maximum
+
+significant with increas_g
+streamwise
+distance
+due
+to the progressive
+reduction
+of flow velocities, which
+
+flame diameter.
+The lower series of photographs
+shows the behavior
+of small characteristic
+residence
+
+involves a corresponding
+reduction
+of transport
+and
+thus reaction rates at the flame sheet. The corre-
+
+time
+
+sponding
+reduced
+chemical
+combined
+with progressively
+heat losses due to increasing
+
+flames
+
+(smaller
+
+tips were rounded
+otsoot
+was along
+
+than
+
+80 ms) where
+
+the flame
+
+(closed-tip)
+and the first emission
+the flame axis. Even these latter
+
+energy
+release
+rates,
+increasing
+radiative
+soot concentrations,
+
+247
+
+1968
+
+LAMINAR
+
+80
+
+DIFFUSION
+
+i
+
+FUEL
+
+t
+
+•
+
+C3H $
+
+•
+
+47.5
+
+mg
+
+Non-Buoyancy
+
+conditions
+
+Effects
+
+were
+
+measured;
+
+neverthe-
+
+less, these measurements
+are very similar to the remaining results which are from flames at the laminar
+
+,Z_
+
+1 (m S)
+
+A
+
+smoke point but which were not emitting
+soot. The
+one data point remote
+from the rest resulted
+at at
+the lowest pressure
+tested, 35 kPa, at which lumi-
+
+/_
+
+d = 1.6 &2Xrnm
+
+6o
+
+and
+
+smoke-point
+
+SYMBOL
+
+C;H 4
+
+_=
+
+i
+
+FLAMES--Buoyancy
+
+/"
+
+Sc = 0.76
+
+nous flame lengths
+and the onset of soot-emitting
+conditions
+were more difficult to observe
+due to
+
+z
+.d
+
+relatively-Small maximum
+
+soot concentrations
+(less
+than 1 ppm based on multiline
+emission
+rrreasurements). Except
+for the one outlier, the correlation
+between luminoffs_V_e
+_n_s
+an_d:corrected
+fuel
+mass flow rates at laminar smoke-point
+conditions
+is
+seen to be quite good; therefore,
+I_inar
+smoke-
+
+40
+CORRELATIONA__AZ_
+
+r2
+0
+z
+
+_ 20
+
+OPEN
+0
+
+SYMBOLS
+,,
+
+,, J
+
+0
+
+DENOTE
+=
+
+200
+
+CORRECTED
+
+SMOKE-EMITTING
+I
+
+,
+
+=
+
+400
+
+MASS
+
+FLOW,
+
+FLAMES
+-
+
+600
+
+4 •
+
+Sc
+
+/ {Z=t
+
+800
+
+_J- _
+
+(ram}
+
+F]c. 2. Luminous flame lengths as a function of corrected fuel flow rate for round non-buoyant laminar jet
+diffusion flames in still air at the laminar smoke point. Correlation based on simplified analysis of Lin et al. [28].
+
+provide ample potential
+for quenching,
+and thus tipopening,
+and corresponding
+emissions
+of soot. In
+contrast, buoyant diffusion flames have progressively
+increasing
+velocities
+and thus increasing
+transport
+rates with increasing
+streamwise
+distance, due to effects of buoyant;
+so that soot emissions occur because of rapid mixing and residence
+times that are
+insufficient
+to complete
+soot oxidation,
+rather than
+because of radiative quenching
+[25]. Finally, this latter condition
+is approached
+by non-buoyant
+flames
+at short residence
+times where effects of radiative
+quenching
+are reduced, which tends to produce the
+closed-tip laminar smoke-point
+behavior
+illustrated
+in the lower series of photographs
+of Fig. 1.
+
+Luminous
+Similar
+
+Flame
+to
+
+the
+
+An explanation
+of the luminous
+flame length behavior observed
+in Fig. 2 can be obtained
+from the
+flame shape correlations
+of Lin et al. [28] fornonbuoyant round laminar jet di_ff_sion flames in s_ air.
+These results
+are based on a simplified
+analysis
+(Spalding [29]) for this flame configuration.
+Ignoring
+small effects of the virtual origin, this correlation
+can
+be written to yield the luminous
+flame length as a
+function
+of the corrected
+fuel flow rate parameter
+used in Fig. 2, as follows:
+L
+
+--- (3Cf/32)(4riz
+
+Sc/(Z,t/.trc))
+
+(1)
+
+where the empirical
+parameter
+Cfis used to account
+for the presence
+or absence of soot within the flame.
+Following Ref. [28], a simple correlation
+of equation
+1 was fitted to the measurements
+of flames in air
+environments
+using values of Sc and p for air at
+roughly the average of the adiabatic
+flame temperature and the ambient temperature
+(the values used
+are summarized
+on the plot). The correIati0n
+shown
+in the figure is for Cf = I for flames at the laminar
+smoke point from Lin et al. [28], in_eontrastto
+Cf
+= 0.5 for soot-free
+blue flames fromSunderIand
+et
+al. [30]. The longer soot_n_ning
+flames are consistent with luminosity
+due to the presence
+of soot
+at fuel-lean conditions
+for flames at the transition
+to
+
+Lengths
+observations
+
+point properties
+will be represented
+by luminous
+flame lengths
+alone to simplify the comparison
+be'
+tween present
+measurements
+and the earlier findings in Refs. [5,1_
+
+of luminous
+
+flame
+
+lengths at the smoke-points
+of buoyant round laminar jet diffusion flames as described
+by Sehug et al.
+[5], the present luminous flame lengths at the smoke
+points of non-buoyant
+round laminar jet diffusion
+flames were closely associated
+with the fuel flow
+rate, as suggested by the simplified analysis of l_,in et
+al. [28]. This behavior is illustrated
+in Fig. 2, where
+present
+measurements
+of laminar
+smoke-point
+luminous flame lengths are plotted as a function of the
+corrected
+fuel flow rate based on the results of the
+simplified flame shape theory for non-buoyant
+laminar jet diffusion flames of Ref. [28]. The open symbols on this plot denote the three test conditions
+in
+which soot-emitting
+flames just beyond the laminar
+
+soot emissions
+[28]. Finally, it is evident that equation 1 provides
+a surprisingly
+good correlation
+between luminous
+flame lengths
+and the corrected
+mass flow rate for present observations
+of non-buoyant round laminar jet diffusion flames in spite of the
+approximate
+nature of the Spalding
+[29] analysis.
+Laminar
+
+Smoke
+
+Points
+
+In view of the different
+mechanisms
+leading to the
+onset of soot emissions for buoyant and non-buoyant
+laminar jet diffusion
+flames, it is not surprising that
+they have substantially
+different
+laminar
+smokePoint properties.
+This behavior
+is illustrated
+in Figs.
+3 and 4 by plots of laminar
+smoke-point
+flame
+
+248
+
+SMOKE-POINT PROPERTIES OF NON-BUOYANT FLAMES
+
+1969
+
+round-based mierogravity facilities, and results for
+uoyant flames having jet exit diameters of 10.0 mm
+AIR @ 300
+K
+BUOYANT
+from Schug etal. [5] and 14.3 mm from Sivathanu
+d=10
+& 14.3
+mm
+and Faeth [16].
+There are several interesting features about the
+100
+measurements illustrated in Figs. 3 and 4. First of
+O
+NON-BUOYANT
+all, an obvious feature of these results is that the
+/-- (K0._35)
+present laminar smoke-point flame lengths of the
+non-buoyant flames are significantly smaller than
+those of the buoyant flames. For example, the laminar smoke-point
+flame lengths of the buoyant
+flames are up to 6.4 times larger than the present
+NON-BUOYAN
+non-buoyant flames at comparable conditions. This
+(STS-83
+& 94)
+--.J
+-\
+behavior comes about because the present nond=1.6
+& 2.7 mm
+_=
+buoyant flames have much larger characteristic resX,
+10
+......
+'
+idence times (up to 300 ms [28]) than the buoyant
+10
+100
+flames (only up to 50 ms [24]), which is due to buoyPRESSURE
+(kPa)
+ancy-induced motion, in spite of the greater length
+of the buoyant flames. This provides greater potenFIG. 3. Laminarsmoke-point flame lengths of ethylenefueled round non-buoyant and buoyant laminarjet dLffu- tial for radiative heat losses for the non-buoyant
+flames, leading to the radiative quenching mechasion flamesburning in air as a function of pressure. Nonnism of soot emissions discussed in connection with
+buoyant KC-135 results from Sunderland et a]. [24],
+tip openings (Fig. 1).
+buoyant results from Sehug et al. [5] and Sivathanu and
+Another important feature of the laminar smokeFaeth [16].
+oint flame lengths illustrated in Figs. 3 and 4 is that
+e present non-buoyant flames are significantly
+.....
+!
+smaller than those of nonbuoyant flames in groundPROPANE/AIR
+FLAMES
+BUOYANT
+based microgravity facilities (which typically have
+ROUND
+BURNERS
+d=10&
+14.3 mm
+AIR @ 300 K
+gravity of 10 -2 g) up to a factor of 2.3 at comparable
+conditions. This behavior is caused by the closer apg
+proach to steady, non-buoyant flame properties by
+100
+/,--- _qKOCN;I_U? YANT
+z
+the long-term space-based experiments compared to
+==.
+the relatively unsteady and disturbed microgravity
+environment of ground-based microgravity facilities.
+O
+1.6-5.9
+rnm
+Flow velocities are very small near the flame tip of
+non-buoyant laminar jet diffusion flames [24] and
+NON-BUOYANT__
+can be disturbed by small levels of g-jitter resulting
+enhanced mixing, which defers radiative quenching .
+5
+(srs.6s &941
+--_
+\ \
+This behavior is exacerbated by the relatively slow
+d=1.6
+mm
+\_
+development of non-buoyant flames for the relatively large jet exit diameters considered during the
+10
+,
+,
+,
+, • • ,,I
+I
+ground-based microgravity tests, so flame response
+10
+"t00
+times were general]?" longer than periods when the
+PRESSURE
+(kPa)
+test apparatus was free of disturbances [25]. Further
+evidence of enhanced mixing in the ground-based
+FIG.4. Laminar smoke-point i_ame lengths of propanefueled round non-buoyant and buoyant laminar jet diffu- microgravity tests compared to the space-based tests
+is provided by the observations of generally shorter
+sion flames burning in air as a function of pressure. Nonbuoyant KC-135 results from Sunderland et al. [24], luminous flame lengths at comparable conditions for
+the ground-based results (e.g., 30% shorter as disbuoyant results from Schug et al. [5] and Sivathanu and
+cussed by Lin etal. [28]).
+Faeth
+[16],
+Another difference between the laminar smokepoint properties
+of non-buoyant
+flames from
+lengths as a function of pressure for ethylene- and
+ground- and space-based mierogravity facilities intPhropane-fueled flames. Measurements illustrated in
+volves the pressure dependence. In particular, the
+e figures include results for non-buoyant flames
+present long-term microgravity experiments yield
+having jet exit diameters of 1.6 and 2.7 mm from the
+laminar smoke-point flame lengths that are roughly
+inversely proportional to pressure. This effect of
+resent space-based experiments, results for nonpressure comes about because increased pressures
+uoyant flames having jet exit diameters of 1.6, 2.7
+tend to increase rates of soot formation [11-14], and
+and 5.6 mm from Sunderland et al. [24] using
+ETHYLENE/AIR
+FLAMES
+ROUND
+BURNERS
+
+I_-/
+
+249
+
+1970
+
+LAMINAR DIFFUSION FLAMES---Buoyancy and Non-Buoyancy Effects
+
+because of residence times available for soot gro_Ja
+of 35--130 kPa, jet exit diameters of 1.6 and 2.7 mm,
+for given burner conditions and flame lengths: both
+jet exit velocities of 170-1690 mm/s, jet exit Reythese effects imply smaller flame lengths for onset
+nolds numbers of 46-172, characteristic flame resiof soot emissions as pressures increase. In contrast,
+denee times of 40-302 ms, and luminous flame
+the more disturbed microgravity environment of the
+lengths of 15--63 ram. The major conclusions of the
+_round-based facilities yields laminar smoke-point
+study are as follows:
+:=
+=:
+name len t_Jas that are inversely P ro P ortional .to P res: ........ The onset of laminar smoke-pomt conditions •
+•
+_ .
+1.
+m
+sure to the 1.4 power. Thls latter behavmr is a
+microgravity involved either a closed-tip configstronger pressure variation than that observed for
+uration with first soot emissions along the flame
+buoyant flames. Flower and Bowman [11-14] report
+axis, or an open-tip configuration with first soot
+laminar smoke-point flame lengths inversely proporemissions from an annular ring about the flame
+tional to pressure to the 1.3 power. These variations
+axis and having a diameter comparable to the
+of the pressure dependence of laminar smoke-point
+maximum flame diameter. Closed- and open-tip
+flame Ieng_Jas due to the intrusion of disturbances
+flames were observed at small and large characand gravitational forces are not surprising, however,
+teristic flame residence times, respectively, supbecause flame response to these effects varies with
+porlSng earlier observations that open-tip behavpressure. Differences of these magnitudes are of inior is caused by radiative quenching of soot
+terest for gaining a better understanding of soot foroxidation near the flame tip.
+marion in diffusion flames (see Glassman [10]),
+2. Luminous flame lengths at laminar smoke-point
+which highlights the importance o£ achievingtruly
+conditions were equally well correlated for beth
+steady and non-buoyant diffusion flame conditions
+closed- and open-tipped flame configurations in
+for reliable experimental results.
+terms of a corrected fuel flow rate, independent
+Other properties of the laminar smoke-point flame
+of the jet exit diameter, as suggested by the simlength s plotted in Figs. 3 and 4 are qualitatively simiplified flame shape analysis of Lin et al. [28].
+lar for non-buoyant space-based flames, non-buoyThese laminar smoke-point flame lengths were
+ant ground-based flames, and buoyant flames. For
+roughly 30% longer than those measured using
+example, effects of jet exit diameter on laminar
+ground-based microgravity facilities because of
+smoke-point flame lengths are small in all three
+decreased effects of unsteadiness and g-jltter.
+cases, which agrees with the well-known behavior of
+3. The present steady and non-buoyant flames emitbuoyant flames (see Glassman [9,10]). This behavior
+ted soot more readily than other non-buoyant
+is expected for buoyant flames because their flame
+flames at microgravity in ground-based facilities
+heights and characteristic residence times are both
+and than buoyant flames at normal gravi W. For
+independent of jet exit diameter, with the latter beexample, the laminar smoke-point flame lengths
+ing largely a function o£ flame height [16]. This beof non-buoyant flames from groundrbased microhavior is not expected for non-buoyant flames, howgravity facilities were up to 2.3 times longer than
+ever, because
+while their flame lengths are
+the present measurements at comparable condiindependent of jet exit diameter, as discussed in contions because of effects of unsteadiness _d g-jitnection with Fig. 2, their characteristic residence
+ter; similarly, the laminar smoke-point flame
+times decrease with decreasing jet exit diameter
+lengths of buoyant flames were up to 6.4 times
+[24], which should contribute to corresponding inlonger than the present measurements
+at comcreases of laminar smoke-point flame lengths. Such
+parable conditions because of effects of buoyincreases are not observed, and this behavior merits
+aney-induced motion.
+further study. Finally, the laminar smoke-point flame
+4. Laminar smoke-point flame lengths as a function
+lengths of ethylene-fueled
+flames are smaIler than
+of pressure were identical for both closed- and
+those of propane-fueled
+flames for all three flame
+open-tipped flames and were roughly inversely
+conditions considered in Figs. 3 and 4. This behavior
+proportional to pressure and relatively indepenagrees with past observations of the greater propendent of jet exit diameter for the present nonsity to soot of ethylene-fueled compared to propanebuoyant flames. In contrast, the laminar smokefueled laminar jet diffusion flames [5,15,16].
+point flame lengths of non-buoyant flames in
+_round-based microgravity facilities and buoyant
+names at normal gravity were inversely proportional to pressure to the 1.4 and 1.3 IX)WetS, reConclusions
+spectively, because of effects of unsteadiness,
+The smoke-point properties of nonbuoyant round
+gj-'itter, and buoyancy-induced motion . All flame
+laminar jet diffusion flames were observed during
+conditions considered, however, indicated that
+long-term (100-230 s) experiments at microgravity
+laminar smoke-point flame lengths are generally
+smaller for ethylene than for propane, reflecting
+using space-based facilities. Measurements included
+ethylene- and propane-fueled flames burning in s1511
+the greater propensity to soot of ethytene comair at an ambient temperature of 300 K, pressures
+pared to propane.
+
+250
+
+SMOKE-POINT
+
+PROPERTIES
+
+Nomenclature
+Cf
+d
+D
+
+flame length parameter
+fuel port diameter
+mass diffusivity
+
+L
+m
+
+laminar smoke-point
+fuel mass flow rate
+
+p
+Re
+Reo
+Sc
+u
+Za
+
+pressure
+flame Reynolds
+number, 4 m/(rrd/z)
+jet exit Reynolds
+number, 4 m/(nd_to)
+Schmidt number,
+v/D
+streamwise
+velocity
+stoichiometric
+mixture fraction
+
+/x
+v
+p
+
+dynamic viscosity
+kinematic viscosity
+density
+
+flame
+
+length
+
+burner
+
+exit condition
+
+7. Classman, I., and Yaccarino, P., Combust. Sc/. Technot
+24:107-114 (1980).
+8. Gomez, A., Sidebotham, G., and Glassman, I., Cornbust. Flame 58:45--57 (1984).
+9. Glassman, I., Proc. Combust. Inst. 22:295--311 (1988).
+10. Glassman, I., Proc. Combust. Inst. 27:1589-1596
+(1998).
+11. Flower, W. L, and Bowrnan, C.T., Combust. Sci. Techno/. 37:93--97 (1984).
+12. Flower, W. L., and Bowman, C.T., Proc. Combust. Inst.
+20:10,%5-1044 (1984).
+13. Flower, W. L., and Bowman, C. T., Proc. Combttst.
+Inst. 21:1115-1129 (1986).
+14. Flower, W. L., and Bowman, C. T., Combust. Sci. Techno/. 53:217-224 (1987).
+15. Markstein, G. H., Proc. Combust. Inst. 22:36,3-370
+
+17. K6ylii, IJ. O., and Faeth,
+87:61-76 (1991).
+
+Acknowledgments
+
+Center for development
+
+and operation of the test
+
+REFERENCES
+1. Clarke, A. E., Hunter, T C., and Garner, R H.,]. Inst.
+Petrol. 32:627-642 (1946).
+2. Schalla, R. L., Clark, T. P., and McDonald, C. E.,
+
+4. Sehalla, R. L., and Hubbard,
+1959.
+
+Combust.
+
+Flame
+Flame
+F/ame
+
+19. Ku, J. C., Griffin, D. W., Greenberg, P. S., and Roma,
+J., Combust. F/ame 102:216-218 (1995).
+20. Megaridis, C. M., Griffin, D. W., and Konsur, K., Proc.
+Combust. Inst. 26:1291-1299 (1996).
+21. Konsur, B., Megaridis, C. M., and Griffin, D. W., Cornbust. Flame 116:334--347 (1998).
+22. Konsur, B., Megaridis, C. M., and Griffin, D. W., Combus't. Flame 118:509---520 (1999).
+23. Atreya, A., and Agrawal, S., Combu,rt. Flame 115:372-382 (1998).
+24. Sunderland, P. B., Mortazavi, S., Faeth, G. M., and
+Urban, D. L., Combust. F/ame 96:97-103 (1994).
+
+apparatus.
+
+NACA report 1186, 1954.
+3. Schalla, R. L., and McDonald,
+Inst. 5:316-324 (1954).
+
+C. M., Combust.
+
+18. Ito, H., Fujita, A., and Ito, K.,
+99:363--370 (1994).
+
+This research was supported by NASA Grants NCC3661, NAG3-1878, and NAG3-2048 of the Office of Life
+and Microgravity Sciences under the overall technical
+management of H. D. Ross of the Glenn Research Center.
+The authors acknowledge the efforts R. Crouch, C. 1".l_,interis, and J. E. Voss, who actually carried out the experiments in orbit, and A. Over and her associates at the Glenn
+Research
+
+1971
+
+FLAMES
+
+(1988).
+16. Sivathanu, Y. R., and Faeth, G. M., Comb_.
+81:133-149 (1990).
+
+Subscript
+o
+
+OF NON-BUOYANT
+
+G. E., Proc. Combust.
+
+R. R., NACA report 1300,
+
+5. Schug, K. P., Manbeimer-Ttmnat,
+Y.,Yaccarino, P., and
+Glassman, l., Combust.
+Sci. Technol. 22:23,5-250
+(1980).
+6. Glassman, I., and Yacearino, P., Proc. Combust. Inst.
+18:1175-1183 (1980).
+
+25. Urban, D. L., Yuan, Z.-G., Sunderland, P. B., Linteris,
+G. T., Voss, J. E., Lin, K.-C., Dai, Z., Sun, K., and
+Faeth, C. M., ALGA]. 36:1346--1360 (1998).
+26. Law, C. K., and Faeth, G. M., Prog. Energy Combttst.
+Sci. 20:65-113 (1994).
+27. Kang, K. T., I-Iwang, J. Y., Chung, S. M., and Lee, W.,
+Combust. Flame 109:266-281 (1997).
+28. Lin, K.-C., Faeth, G. M., Sunderland, P. B., Urban, D.
+L., and Yuan, Z.-C., Combust. F/ame 116:415--431
+(1998).
+29. Spalding,. B.,
+D
+Combustionand Mass Tran,_ Pergamon Press,
+New York,
+1979,pp. 185-195.
+30. Sunderland,.B.,Mendelson,B. J.,
+P
+Yuan,Z.-G.,
+and
+Urban,D. L.,
+Combust.F/ame 116:376-386(1999).
+
+251
+
+1972
+
+LAMINAR
+
+DIFFUSION
+
+FLAMES--Buoyancy
+
+and Non-Buoyancy
+
+Effects
+
+COMMENTS
+
+John L. de Ris, Factory Mutual Research, USA Your
+instrumentation
+includes a radiometer,
+One wonders
+whether the total radiative fraction from the flame at its
+smoke point at zero-gravity takes on the same value of 30%
+as is found for normal buoyant flames at their smoke-point.
+For normal buoyant flames, this radiant fraction is independent of fuel type. You also measured the flame tip temperature of flames at their smoke-point condition. How
+does this temperature compare to the 1400 K value found
+for smoke-point flames for normal gravity?
+
+Author's Reply. The total radiative fraction from the
+flames we studied was between 40% and 60%. Since most
+of our flames were very near the smoke height, the limited
+data set studied here did not show evidence of a correlation
+between radiative emission and smoke height as reported
+for normal-gravity flames.
+As reported (Bef. [25] in paper), the extrapolated temperatures (from the muhiline emission measurements)
+at
+the flame tip (at the smoke point) were approximately 1000
+K This is substantially lower than the 1400 K value reported by other workers for normal-gravity
+
+flames.
+
+Fletcher J. M_
+National Center for Micrograotty Research, USA. Since the laminar smoke points are so dependent on residence time, how might the presence of a
+co-flow in the lg experiments vers_ the absence of a coflow in the/zg experiments affect the comparison between
+the two gravitational levels? Would #g experiments with a
+co-flow be valuable to provide an independent
+way to alter
+residence times?
+" -
+
+Author's
+
+Reply. Co-flow flames are used in lg smoke-
+
+point studies to eliminate buoyancy induced flicker. In lg,
+the co-flow has a very limited effect on the flame residence
+time (and likewise on the smoke point) which are dominated by the buoyant acceleration, tn low gravity, the situation is quite different: the flow diverges from the nozzle,
+consequently, the velocity at the flame tip can be quite
+small and is therefore easily influenced (increased) by the
+co-flow. We agree with the suggestion that tesl_g with coflow in low gravity should provide interesting results, and
+this is part of a planned future experiment.
+
+|
+
+i
+!
+
+|
+i
+

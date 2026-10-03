@@ -1,0 +1,768 @@
+70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.
+This article is a U.S. government work, and is not subject to copyright in the United States.
+
+Characterization and Measurement of Spacecraft Airborne Particulate Matter
+Marit E. Meyera*
+a
+
+NASA Glenn Research Center, 21000 Brookpark Road, Cleveland, Ohio USA 44135, marit.meyer@nasa.gov
+* Corresponding Author
+Abstract
+The International Space Station (ISS) gives a 6-member astronaut crew the ability to live and work in low Earth
+orbit. It is a unique indoor environment, which has served as both home and workplace to over 230 people since the
+year 2000. In this low gravity environment, smoke does not rise and cookie crumbs do not settle the way they do on
+Earth, causing airborne particulate matter, or aerosols, to behave differently and pose unique hazards for crew
+members. In its existence, virtually the same volume of ISS air has been continuously conditioned and ‘revitalized,’
+including the removal of particles by filtration. While gaseous constituents of ISS air are monitored meticulously,
+sparse data exists on the indoor aerosols. The quantity and types of ISS airborne debris have been investigated in
+NASA’s Aerosol Sampling Experiment. Both active and passive samplers successfully collected airborne particulate
+matter in U.S. segments of the ISS, which were returned to Earth for characterization by microscopy and other
+techniques. The resulting data has informed the design of candidate particle instruments for spacecraft. In 2020, a
+reference-quality aerosol instrument will be flown to ISS, and will provide real-time data of particle concentrations
+in various modules. Smaller, more compact instruments will be necessary in future space missions, for example, in
+smaller vehicles, in habitats on lunar and planetary surfaces with ubiquitous dust, and also for use as wearable
+technology throughout missions. Miniaturized aerosol sensors, though lower fidelity than reference-quality
+instruments, can monitor the environment well when calibrated appropriately. Indoor air quality in spacecraft is
+fundamentally important to human health and comfort, and several particulate monitoring technologies will be at
+sufficient technology readiness levels for operational use within the next two years. Results of the Aerosol Sampling
+Experiment will be presented, along with the status of NASA’s aerosol instrument technology demonstrations on
+ISS.
+Keywords: aerosol, particle, spacecraft cabin, air quality
+Acronyms/Abbreviations
+ADI – Aerosol Dynamics, Inc.
+APT – Applied Particle Technology
+AST – Access Sensor Technologies
+COTS – commercial off-the-shelf
+CSU – Colorado State University
+CTB - Cargo Transfer Bag
+EDS – Energy Dispersive X-ray Spectroscopy
+ESAP – Earth and Space Air Prize
+FOD - Foreign object debris
+HEPA - High efficiency particulate air
+ISS - International Space Station
+MAGIC - moderated aerosol growth with internal
+water cycling
+MARS - Mobile Aerosol Reference Sensor
+NOAA - National Oceanic and Atmospheric
+Administration
+PM2.5 – Particle mass concentration for all particles
+2.5 micrometres and smaller
+PM10 – Particle mass concentration for all particles
+10 micrometres and smaller
+PMM - Permanent Multipurpose Module
+POPS – Portable Optical Particle Spectrometer
+SBIR – Small business innovative research
+SD – Secure digital
+
+SEM – Scanning Electron Microscope
+TEM – Transmission Electron Microscope
+
+1. Introduction
+The quality of the air on a spacecraft has direct
+consequences for the health and well-being of the crew.
+The current mitigation technique for airborne particulate
+matter, or aerosols, in the air of the International Space
+Station (ISS) is high efficiency particulate air (HEPA)
+filtration. This is generally successful, but since
+humans and equipment are sources of aerosols, there
+can be localized higher concentrations. On Earth,
+gravity causes larger particles to settle, so under normal
+circumstances, humans do not have to contend with
+particles on the order of 100 µm in the breathing zone.
+In low gravity, however, particles of this size will
+remain airborne and follow the air flow patterns of the
+air handling system until they are deposited on surfaces
+and air intake vents.
+At the outset of ISS filtration system design,
+potential aerosols were inventoried [1] and then updated
+for additional known particle sources with rates taken
+conservatively from the indoor air and building science
+literature, which are based on data from Earth research
+
+Page 1 of 9
+
+70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.
+This article is a U.S. government work, and is not subject to copyright in the United States.
+
+studies [2]. Vacuum bag debris provided additional
+information on ISS aerosols [3], and returned hook and
+loop fasteners were tested for aerosol emissions [4].
+These fasteners had resided on ISS and collected
+airborne material which was embedded in the hooks,
+thus allowing ISS particles (from the fasteners
+themselves, as well as other debris) to be generated and
+measured in ground experiments. More complete
+characterization of ISS cabin particulate matter was
+necessary, so the Aerosol Sampling Experiment was
+designed and took place in Increment 50/51 on the ISS
+in December 2016. A repeat of the experiment has been
+completed on ISS in Increment 56, in 2018 and the
+analysis of the second set of samples is complete.
+
+designed large-scale mixing pattern required to
+eliminate CO2 pockets. However, exceptions were
+granted for this experiment in order to obtain valuable
+information on the state of the air quality on ISS.
+Passive samplers were deployed in the U.S. Lab (2
+locations), Node 1, Node 2, Node 3 (2 locations), and
+the Permanent Multipurpose Module (PMM).
+Locations were chosen to capture particles during crew
+exercise, in the hygiene area, near a hatch opening from
+a visiting vehicle, and in a storage area (to compare
+particle numbers with locations with regular human
+traffic).
+
+2.
+
+Experimental
+The Aerosol Sampling Experiment has provided the
+bulk of the current information on airborne particulate
+matter in the spacecraft cabin. Two types of samplers
+were deployed in multiple locations to collect particles
+in two different size ranges.
+2.1 Passive Aerosol Sampling
+The Passive Aerosol Sampler design was created for
+this experiment by RJ Lee Group * with the goal of
+intercepting the flow path of dirty air flowing into the
+ISS vents, and collecting particles for up to five
+different sampling durations in the same location.
+Particles landed on five removable 2.5 cm × 1.5 cm
+aluminium substrates covered with double coated black
+carbon conductive tape (Ted Pella, Inc., P/N 16084-8).
+The passive sampler is shown in Fig. 1, in the US Lab,
+where it is mounted on the edge of the HEPA filter
+intake. Further details on passive sampling hardware
+can be found in reference [5].
+The optimal sampling duration to get particle
+coverage appropriate for microscopic analysis varies by
+ISS location, so multiple substrates in one sampler
+provided different particle loadings to choose from as
+well as redundancy to reduce risk. Operations in
+Increment 50/51 collected particles for 2, 4, 8, 16 and
+32 days with the ideal samples in the 8, 16 and 32-day
+durations. The operations in Increment 56 were
+simplified, with all substrates exposed for 26 days in
+order to collect larger amounts of particles for better
+statistics.
+The passive aerosol samplers (each identified by a
+letter) were on vents and filters which are normally
+keep-out zones for equipment, in order to maintain the
+*
+
+Certain commercial software, equipment, instruments, or materials
+are identified in this paper to foster understanding. Such identification
+does not imply recommendation or endorsement by the National
+Aeronautics and Space Administration (NASA), nor does it imply that
+the materials or equipment identified are necessarily the best available
+for the purpose.
+
+Fig. 1. Passive Sampler J is mounted on the edge of the
+HEPA filter in the US Lab in ISS during the Aerosol
+Sampling Experiment in Increment 50/51
+
+2.2 Active Aerosol Sampling
+The Active Aerosol Sampler is a commercial offthe-shelf (COTS) instrument created by RJ Lee Group,
+which uses thermophoresis to capture particles down to
+the nanometre range, directly on Transmission Electron
+Microscope (TEM) grids. The compact size (122 mm ×
+63 mm × 38 mm) and low-gravity compatible operation
+were distinguishing features for selection of this
+instrument over other aerosol samplers.
+
+Fig. 2. The Active Aerosol Sampler is the modified
+COTS TPS100™ Personal Nanoparticle Sampler
+Some modifications were necessary to adapt the
+sampler for space flight (Fig. 2), including addition of a
+
+Page 2 of 9
+
+70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.
+This article is a U.S. government work, and is not subject to copyright in the United States.
+
+heat sink and fan, and custom firmware for ISS
+operation. Further details on the instrument can be
+found in reference [6]. Active samplers were deployed
+near most passive samplers for six to eight hours to
+sample the same air at one point during the passive
+sampling.
+3. Results
+The final analyses of the second round of the
+Aerosol Sampling Experiment was completed by RJ
+Lee Group. This included a complete microscopic
+survey of the seven passive samplers and active sampler
+TEM grids deployed in 2018. Details of the computercontrolled microscopy analysis is given in references
+[6,7]. Select individual particles were imaged using
+backscattered-electron SEM and the elemental
+compositions were determined using Energy Dispersive
+X-ray Spectroscopy (EDS).
+
+particle morphology is indicative of mechanical
+abrasion, as striations are visible. This particle is on the
+order of 80 µm by 50 µm (about the diameter of a
+human hair), and while it is not respirable, as foreign
+object debris (FOD) it would be an eye hazard.
+The salt particles in Figure 4 were sampled in Node
+1 where crewmembers eat meals. The salt that is
+provided as a condiment on orbit is in liquid form,
+because granulated salt cannot be applied to food in a
+low gravity environment. The liquid salt application
+produces micro-droplet ejections [8] which float into the
+cabin and evaporate, producing cubic salt crystals.
+
+3.1 Typical Particles Sampled on ISS
+Typical ISS particle types sampled in both
+increments include metal wear particles (Fig. 3),
+fiberglass fibres (Fig. 6), cubic salt particles (Fig. 4),
+and silver dendrites (Fig. 5).
+
+Fig. 3. Stainless steel particle (containing elements
+iron, nickel and chromium) collected in Node 3 during
+Increment 56
+The stainless steel particle in Fig. 3 was sampled in
+Node 3, where there are two different exercise devices.
+Metal-on-metal contact between moving parts causes
+mechanical abrasion and produces particles. These
+emissions are ongoing during waking hours, as
+crewmembers must exercise two hours per day. The
+
+Fig. 4. Cubic salt particles (containing sodium and
+chlorine) collected in Node 1 during Increment 56
+The silver particle in Figure 5 has unique
+morphology compared to other metal particles sampled.
+Multiple silver dendrite particles were sampled in both
+increments of the Aerosol Sampling Experiment. All
+silver particles sampled have sulphur present in the EDS
+spectra, as silver has a high affinity for sulphur.
+These particle types were known to be in the Space
+Shuttle, as well [9]. Debris obtained from both ground
+
+Page 3 of 9
+
+70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.
+This article is a U.S. government work, and is not subject to copyright in the United States.
+
+samples and tape samples collected during flight had
+fiberglass and metal particles, which led to remedial
+actions, such as redesign, materials controls and process
+changes. The ground support equipment and processes
+that took place in the vehicle before launch were easily
+overhauled in the Shuttle program, however, on ISS, the
+ongoing ambient sources of particles in the cabin far
+outweigh the quantities that may be contributed from
+ground operations with respect to visiting vehicles.
+
+Fig. 6. Human skin flake collected in Node 3 during
+Increment 56, with signature elements carbon, sulphur,
+chlorine and potassium. The straight white rod in the
+lower left is a fiberglass fibre, recognizable by the
+signature elements aluminium, silicon and calcium.
+Fig. 5. Silver dendrite with trace sulphur, collected
+in Node 1 during Increment 56
+
+3.2 Human-emitted Particle Types Sampled on ISS
+Particle emissions from humans themselves
+comprised the largest fraction of collected particles,
+including skin flakes (Fig. 6), antiperspirant particles
+(Fig. 7) and clothing lint fibres (Figs. 8 and 9).
+Figure 6 is a typical human skin flake, collected in
+Node 3 where crew exercise and hygiene take place. It
+has a thin wrinkled morphology, and the EDS spectrum
+shows carbon, sulphur, chlorine and potassium, which
+are indicative of human biology.
+The particle in Fig. 7 has an EDS spectrum with
+elements aluminium, chlorine, and zirconium. This is
+the compound aluminium zirconium tetrachlorohydrex,
+which is the active ingredient in antiperspirant products.
+The particle was collected in Node 3, where
+antiperspirant is logically abundant in exercise and
+hygiene activities. Antiperspirant particles may be
+emitted during exercise, or while using wipes after
+exercising, in addition to the original application of the
+product. In the absence of laundry on ISS, the crew
+members wear clothing repeatedly, including exercise
+wear, before disposing of them in the trash. Thus,
+deodorant particles embedded in the fabric can be
+liberated and re-entrained into the cabin air when
+donning and doffing clothing. Antiperspirant particles
+are abundant in sampling results from all ISS locations.
+
+Fig. 7. Antiperspirant particle containing elements
+aluminium, chlorine and zirconium, sampled in Node 1
+during Increment 56
+Clothing lint fibres are the most ubiquitous and
+abundant airborne particulate matter category on ISS.
+Figure 8 shows a portion of a passive sampling substrate
+which was exposed for 32 days in Node 3 during
+Increment 51/52. The large quantity of lint fibres
+
+Page 4 of 9
+
+70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.
+This article is a U.S. government work, and is not subject to copyright in the United States.
+
+creates difficulties for microscopic analysis and image
+analysis of the samples, as the fibres overlap other
+particles and cross over each other. The choice of
+which passive sampling substrate to use for various
+microscopic analyses was heavily dependent on the
+quantity of fibres collected.
+
+Fig. 8. Passive sampling substrate exposed for 32 days
+in Node 3 has multiple types of lint fibres, sampled in
+during Increment 51/52
+The fibre examples in Fig. 9 include both cotton lint
+(the narrow grey fibre in the upper portion of the image)
+and a synthetic fibre. Cotton fibres are flat, having a
+twisted shape, with diameters between 10 to 20
+micrometres. The U.S. crewmembers are supplied with,
+and generally prefer cotton clothing which is COTS.
+Some synthetic fibre clothing is used, particularly for
+exercise, and also Nomex cloth is used for many
+applications, such as acoustic insulation (on walls of
+modules) and Cargo Transfer Bags (CTB).
+The larger diameter fibre in Fig. 8 has a silver
+coating, and is from a specialty sock, trade name XStatic®, which contains silver-coated nylon fibres. The
+silver coating gives the fibres antimicrobial properties
+and therefore may control odours. Figure 9 shows a
+close-up of the coating in the lower image, and it is
+evident that the silver has worn off in some locations,
+no doubt generating silver aerosols on ISS at some time
+in the past. X- Static® socks are not commonly used on
+ISS at this time, and the sampled fibre may be an
+artefact from prior increments.
+Reference [9] includes results from the Space
+Shuttle fibre analysis which found cotton, wool and
+polyester (from garments) as well as fiberglass and
+Nomex fibres (from equipment). The number of cotton
+fibres that were counted (from crew clothing) typically
+exceeded other sources by a factor of 100 or more.
+Obtaining laundry capabilities for future missions may
+help reduce lint emissions in the spacecraft cabin, as
+well as choosing high quality fabrics and pre-washing
+garments.
+
+Fig. 9. Clothing lint fibres sampled in the Node 1 during
+Increment 51/52
+
+3.3 Particles Collected with the Active Sampler on ISS
+Active sampling did not collect large quantities of
+particles, and generally, the TEM grids had less than 1%
+particle coverage from a total of approximately 3.5 litres
+of sampled air. The smallest particles collected by the
+active samplers include titanium dioxide agglomerates
+(Fig. 10) and metal fume-like agglomerates (Fig. 11).
+An example of a titanium dioxide particle is shown
+in Figure 10. These were found in all sampling
+locations of ISS. Most were agglomerated with primary
+particle sizes ranging from 60 to 100 nm in diameter
+and total diameters ranging from approximately 150 nm
+to 600 nm. Titanium dioxide is used in many consumer
+products including food, personal care products,
+clothing, paper, plastics, and paints. Many of the
+particles were collected in Node 3, which is adjacent to
+the Cupola windows. Crewmembers are advised to
+wear sunscreen (a known source of titanium dioxide)
+when near windows.
+
+Page 5 of 9
+
+70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.
+This article is a U.S. government work, and is not subject to copyright in the United States.
+
+4. Aerosol Instruments for Spacecraft Cabin Particle
+Measurements
+The characterization of ISS aerosols through active
+and passive particle collection with sample return has
+shed light on the types of airborne particles in the
+spacecraft cabin. The morphology and composition of
+many particles has allowed the identification of
+emission
+sources,
+however,
+defining
+actual
+concentrations from the results is not possible.
+Therefore, the next step and ultimate goal of NASA is
+to measure particles in real-time with instruments
+suitable for the low gravity environment.
+
+Fig. 10. Titanium dioxide agglomerate with primary
+particle sizes from 100 nm to 210 nm sampled in the US
+Lab during Increment 51/52
+Figure 11 is an iron fume-like particles with zinc.
+Other sampled particles of this type were iron/copper,
+iron/chromium or iron/copper/chromium. Unlike the
+mechanically generated metal particles on the passive
+samplers (such as Fig. 3), the morphology of fume-like
+particles consists of spherical primary particles that
+have been generated by the heating of material. When a
+metal is subjected to high enough temperatures it
+vaporizes.
+When the vapor cools, spherical
+nanoparticles are formed by nucleation processes (due
+to surface tension) and subsequently grow larger by
+condensation.
+When present in localized high
+concentrations, the individual particles agglomerate,
+which reduces the number concentration and increases
+the average particle diameter significantly. The fumelike agglomerate particles sampled had primary particle
+sizes ranging from 3 to 20 nm in diameter and
+agglomerate diameters ranging from approximately 50
+nm to 200 nm. The sources of these particles have not
+been identified.
+
+Fig. 11. Iron and zinc-rich agglomerate with primary
+particle size from 5 nm to 40 nm sampled in Node 3
+during Increment 56
+
+4.1 Real-time particle measurements
+Developing the optimal aerosol instrument depends
+on knowing the types and sizes of aerosols to be
+measured. Aerosol instruments often rely on light
+scattering or other indirect measurement techniques
+which may have limitations such as dependence on a
+certain morphology or material. For example, particles
+that are flakes or fibres scatter light differently than
+spheres. Refractive index is a factor for darker
+materials whereby a portion of incident light is
+absorbed, reducing the quantity of light scattered vs. a
+lighter particle material. Furthermore, different
+measurement techniques are required for different size
+ranges of aerosols, which is particularly important in the
+spacecraft cabin environment which includes a large
+fraction of particles on the order of tens to hundreds of
+micrometres.
+The Aerosol Sampling Experiment
+provided information on particle sizes, shapes and
+materials, which has been taken into account during the
+instrument selection and development process.
+The NASA Life Support Systems project has sought
+instruments that measure indoor aerosols in spacecraft
+cabins to monitor air quality and for characterizing the
+background particle environment and major particle
+sources.
+This effort was accomplished through
+competitive means, such as the Small Business
+Innovation Research (SBIR) program. Businesses with
+500 or fewer employees in the United States can
+propose to win government funding to perform research
+and development on technologies which are stated
+agency needs, particularly if the products have potential
+for future commercialization.
+Currently, three different aerosol instruments are
+under development for space flight demonstrations on
+ISS.
+
+4.2 Reference-quality Instrument for Mapping ISS
+Particle Concentrations
+The Airborne Particulate Monitor (APM) will be the
+first real-time reference-quality particle measuring
+instrument on the ISS. It is funded by an SBIR Phase
+IIX grant, which covers all costs for flight hardware to
+
+Page 6 of 9
+
+70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.
+This article is a U.S. government work, and is not subject to copyright in the United States.
+
+be built by the company Aerosol Dynamics, Inc. (ADI).
+It also covers their subcontract with the hardware
+integrating company, ZIN Technologies for associated
+safety and flight documentation. The APM combines
+two instruments which enables it to measure both
+ultrafine and coarse particles. The smallest particles
+will be measured by the ADI instrument, MAGIC
+[10,11], which stands for “moderated aerosol growth
+with internal water cycling,” which has become a
+commercialized product since the NASA SBIR
+investment. The space-friendly MAGIC prototype
+resulting from the SBIR phase I and II grants is a
+condensation particle counter with no liquid reservoir.
+It can be used in any orientation. This instrument will
+be combined with a COTS optical particle counter (the
+Portable Optical Particle Counter [POPS], by Handix
+Scientific) [12,13]. The POPS (originally funded by
+United States federal agency NOAA and NASA Upper
+Atmosphere Research Program) has been used on
+unmanned aerial vehicles and weather balloons to
+provide aerosol particle number density and size
+distribution measurements in atmospheric aerosol
+research campaigns.
+The APM measures 13 cm × 28 cm × 35.5 cm and is
+shown in Fig. 12. It has a specially designed virtual
+impactor inlet to separate the particles by size for each
+instrument. First, a screen stops the largest particles and
+debris. This screen can be cleaned if necessary, and is
+not likely to be obstructed, as the area is a 5 cm
+diameter circle. After the screen, the flow is split into a
+large stream with 90% of the inlet air, and a minor flow
+stream with 10% of the air flow. The major flow takes
+the smallest particles to MAGIC, while the minor flow
+concentrates the larger particles for the POPS.
+The output data from the APM is merged from the
+two instrument data streams and then is written to an SD
+card, while the APM display shows the crew only a
+particle number concentration for the entire size range
+of particles measured. The data will be transferred from
+the SD card and downlinked regularly during the ISS
+deployments, which will provide a rich data set
+including temperature, relative humidity, particle
+concentration for sizes from 5 nm to 2 micrometres, and
+a particle size distribution for particles from 1 to 20
+micrometres. The size distribution is particularly
+important and will allow for the comparison of data
+from the Aerosol Sampling Experiment.
+Twenty-four hour deployments are planned for ten
+ISS locations, including the areas where particles were
+previously sampled, and will give information on
+typical diurnal cycles of particle concentrations in the
+cabin. It is expected that the particle concentrations
+during crew working hours will be significantly higher
+than during crew sleep. The difference between these
+particle levels will quantify the particle emissions from
+operational equipment in the module.
+
+Fig. 12. The Airborne Particulate Monitor (APM)
+which measures particles from 5 nm to 20 micrometres
+and is scheduled for a technology demonstration
+experiment on ISS in 2020
+Multiple deployments in the same location will
+provide better statistics and provide opportunities to
+measure during different activities. For example, when
+visiting vehicles arrive to ISS, hatch opening is a very
+interesting time to measure particles.
+A good
+comparison would be to have one ‘general’ deployment
+in Node 2, and then have one deployment near the
+mobile orange duct (that vents and mixes the air from
+the docked vehicle). This air is notoriously dirty in
+terms of gases, but has never been documented in terms
+of particle concentrations. It will be possible look at the
+daily payload experiment and exercise schedule to
+cross-reference the particle measurements with potential
+emission sources. Another scenario of interest is to look
+at data from co-located gas sensor payloads or systems
+for a complete characterization of air quality (both gases
+and particles).
+
+4.3 Miniaturized Instruments for Spacecraft Cabin
+Monitoring
+The Earth and Space Air Prize (ESAP) was a crowdsourcing challenge launched in November 2017, to
+foster technology development of miniaturized aerosol
+sensors according to spaceflight hardware design
+guidelines. Three finalists were chosen out of 20
+submitted proposals. The final prototype demonstration
+was held at the NASA Glenn Research Center in
+November 2019 where the three finalists technologies
+competed for the $100k grand prize.
+The small business Applied Particle Technology
+(APT, St. Louis, Missouri, USA) won the grand prize
+with their multi-wavelength spectrometer which gives
+particle mass concentrations in terms of PM2.5 (the
+particle mass concentration for all particles 2.5
+micrometres and smaller) and PM10 (particle mass
+concentration for all particles 10 micrometres and
+
+Page 7 of 9
+
+70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.
+This article is a U.S. government work, and is not subject to copyright in the United States.
+
+smaller). The instrument output includes a particle size
+distribution between 0.35 and 20 micrometres, in
+addition to identifying the particle material as either
+light absorbing or light scattering.
+Figures 13 and 14 show data from APT sensor,
+taken from one test run of the final prototype
+demonstration event of the Earth and Space Air Prize
+challenge. Lunar simulant JSC-1A was aerosolized in a
+chamber and the sensor measured PM10 and PM2.5
+particle mass concentrations (Fig. 13), as well as
+measuring a size distribution of the simulant (Fig. 14
+shows a representative size distribution chosen at a
+discrete time during the test).
+
+Fig. 13. Applied Particle Technology ESAP sensor
+measured PM2.5 and PM10 mass concentrations of
+lunar simulant
+
+Fig. 14. Applied Particle Technology ESAP sensor
+measured the particle size distribution of lunar simulant
+from 0.35 to 20 micrometres
+A contract is in work to fund improvements on the
+aerosol sensor for a future flight experiment,
+particularly with a goal of making a hand-held device
+that is compatible with the Astrobee payload interfaces
+[14]. The APT instrument development plan includes
+miniaturizing the design of the optical sensing
+component, sensor inlet improvement to minimize
+particle losses, circuit board re-design with attention to
+EMI best practices, and packaging in a new smaller case
+
+which is compatible with the Astrobee payload
+envelope. A test chamber will be built for calibration
+with generated test aerosols including metal aerosols
+(stainless steel), metal oxide aerosols (such as TiO2),
+reference aerosols (Arizona road dust), Lunar simulant,
+and combustion aerosols (Smoke, black carbon and
+pyrolyzed plastics) covering size ranges from 300nm up
+to 10 microns. These test aerosols match aerosols which
+are expected to be encountered in a space application,
+with insight from the Aerosol Sampling Experiment
+results. Smart calibration factors will enable the
+machine learning algorithms to distinguish the material
+of the particles, including the discrimination between
+smoke and dust. This is a highly sought capability, as
+the current practice on ISS is to disable the smoke
+detectors during vacuuming, in order to prevent false
+fire alarms from cabin dust. The goal is for future
+particulate monitors to have ‘smart’ capabilities for
+vehicle autonomy and less operational complexity.
+The runner-up team from Colorado State University
+(Fort Collins, Colorado, USA) designed the Mobile
+Aerosol Reference Sensor (MARS), which measures
+total particulate mass below 2.5 micrometres (PM2.5),
+as well as ambient temperature, pressure and relative
+humidity [15]. The follow-on work is contracted with
+team members working at Access Sensor Technologies
+(AST), a university-related company. Both ESAP
+instruments rely on light scattering measurements which
+must be correlated to actual particle concentrations
+through material-specific calibrations.
+Without
+calibration factors, the output may not reflect actual
+particle concentrations. It is advantageous to pursue
+flight experiments with both instruments, since the APT
+instrument has more sensitivity and capability, while the
+CSU/AST instrument has an internal filter which can be
+returned to Earth for gravimetric analysis, thus
+providing a calibration factor for typical ISS aerosols.
+Having this calibration would increase the accuracy of
+aerosol mass concentration measurements of both
+instruments, and both would be candidates for future
+space exploration vehicles and habitats.
+The AST MARS instrument development includes
+updating the instrument enclosure for reduced weight
+and to accommodate a higher air sample flow rate of 2
+litres per min through the sensor and filter train. The
+flow path will be widened to minimize losses of 10 um
+particles in the optical bench. Additional size-selective
+inlets will be designed and tested for sampling of PM10
+(particulate matter 10 micrometres and below) and PMrespirable (particulate matter 4 micrometres and below)
+at 2 litres per minute airflow. A display panel will be
+added to the instrument to replace the cell phone
+interface and app, which is not compatible with ISS
+operation.
+
+Page 8 of 9
+
+70th International Astronautical Congress (IAC), Washington D.C., United States, 21-25 October 2019.
+This article is a U.S. government work, and is not subject to copyright in the United States.
+
+5. Conclusions
+Prior to 2014, the airborne particulate matter in the
+International Space Station cabin was not addressed as
+part of the Life Support Systems Project. The rationale
+was that gaseous pollutants were a much greater threat
+to crew health, however, funds were prioritized for dust
+mitigation efforts. Since that time, a subset of ISS cabin
+aerosols have been collected, returned to Earth and
+characterized with multiple analysis techniques. The
+resulting data set of particle morphology, elemental
+composition, size and abundance of particles has led to
+knowledge of common particle types and many
+emission sources. While the sampling results are only a
+snapshot of the aerosols in two increments (end of 2016
+and summer 2018), the real-time aerosol instrument
+development activities will provide a much larger data
+set, and allow the mapping of particle concentrations in
+various ISS locations. Technology demonstrations of
+the reference-quality Airborne Particulate Monitor and
+the miniaturized instruments from the Earth and Space
+Air Prize competition will increase the technology
+readiness levels of these sensors and are expected to
+make particulate monitoring on ISS operational in the
+near future.
+Acknowledgements
+Funding for these projects is provided by the NASA
+Advanced Exploration Systems Life Support Systems
+Project. Aerosol Sampler analyses were performed by
+RJ Lee group (Traci Lersch, Kristin Bunker, and Gary
+Casuccio).
+References
+[1] J.L. Perry, Elements of Spacecraft Cabin Air Quality
+Control Design, NASA Technical Publication TP1998-207978, 1998.
+[2] M. E. Meyer, ISS Ambient Air Quality: Updated
+Inventory of Known Aerosol Sources, ICES-2014199,
+44th
+International
+Conference
+on
+Environmental Systems, AIAA, Tucson, Arizona,
+2014, 13 – 17 July.
+[3] J. L. Perry, Analysis of Particulate and Fiber Debris
+Samples Returned from the International Space
+Station, NASA Engineering Analysis Report, Rev.
+A. NASA Marshall Space Flight Center, Alabama,
+January 2013.
+[4] B. Boyajian, M. E. Meyer, Characterization and
+Analysis of Aerosol Particle Retention and Reaerosolization from Hook and Loop Fasteners on the
+International Space Station, NASA Technical
+Memorandum TM-2018-219925.
+[5] M. E. Meyer, Aerosol Sampling Experiment on the
+International Space Station, ICES-2017-74, 47th
+
+International Conference on Environmental Systems,
+AIAA, Charleston, South Carolina, 2017, 16 – 20
+July.
+[6] M. E. Meyer, Results of the Aerosol Sampling
+Experiment on the International Space Station,
+ICES-2018-100, 48th International Conference on
+Environmental Systems, AIAA, Albuquerque, New
+Mexico, 2018, 8 – 12 July.
+[7] M. E. Meyer, Further Characterization of Aerosols
+Sampled on the International Space Station, ICES2018-100, 49th International Conference on
+Environmental
+Systems,
+AIAA,
+Boston,
+Massachusetts, 2019, 7 – 11 July.
+[8] C. Turner, J. Goodman, S. Mohler, R. Mungin, M.
+Weislogel, E. K. Ungar, J. C. Buchli, Mitigation of
+Micro-Droplet Ejections During Open Cabin Unit
+Operations Aboard ISS, ICES-2018-201, 49th
+International Conference on Environmental Systems,
+AIAA, Boston, Massachusetts, 2019, 7 – 11 July.
+[9] J. Goodman, L. Villarreal, Space Shuttle Crew
+Compartment Debris/Contamination, SAE Technical
+Paper 921345, 1992.
+[10] S. V. Hering, G. S. Lewis, S. R. Spielman, and A.
+Eiguren-Fernandez, A MAGIC concept for selfsustained, water-based, ultrafine particle counting,
+Aerosol Science and Technology 53, no. 1 (2019):
+63-72.
+[11] S. V. Hering, S. R. Spielman, G. S. Lewis,
+Moderated, water-based, condensational particle
+growth in a laminar flow, Aerosol Science and
+Technology 48, no. 4 (2014): 401-408.
+[12] R.S. Gao, H. Telg, R. J. McLaughlin, S. J. Ciciora,
+L. A. Watts, M. S. Richardson, J. P. Schwarz et al.,
+A light-weight, high-sensitivity particle spectrometer
+for PM2.5 aerosol measurements, Aerosol Science
+and Technology 50, no. 1 (2016): 88-99.
+[13] P. Yu, K. H. Rosenlof, S. Liu, H. Telg, T. D.
+Thornberry, A. W. Rollins, R. W. Portmann et al.,
+Efficient transport of tropospheric aerosol into the
+stratosphere via the Asian summer monsoon
+anticyclone, Proceedings of the National Academy
+of Sciences 114, no. 27 (2017): 6972-6977.
+[14] M. G. Bualat, T. Smith, E.E. Smith, T. Fong, D. W.
+Wheeler, Astrobee: A New Tool for ISS Operations,
+2018 SpaceOps Conference (p. 2517).
+[15] J. Tryner, C. Quinn, B.C. Windom, J. Volckens,
+Design and evaluation of a portable PM 2.5 monitor
+featuring a low-cost sensor in line with an active
+filter sampler, Environmental Science: Processes &
+Impacts 21 no. 8 (2019): 1403-1415.
+
+Page 9 of 9
+

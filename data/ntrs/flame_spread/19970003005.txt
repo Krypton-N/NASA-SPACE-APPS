@@ -1,0 +1,24486 @@
+/'/, j'
+
+7
+NASA
+
+Contractor
+
+Report
+
+198537
+
+An Experimental
+Study of Ignition Effects
+Flame Growth Over a Thin Solid Fuel in
+Low-Speed
+Drop-Tower
+
+Concurrent
+Facilities
+
+Richard Dale Pettegrew
+Case Western Reserve University
+Cleveland,
+
+October
+
+Ohio
+
+1996
+
+Prepared for
+Lewis Research Center
+Under Grant NAG3-1046
+
+National
+
+Aeronautics and
+
+Space Administration
+
+Flow Using
+
+and
+
+Trade names
+
+or manure'
+
+only. This usage
+or implied,
+
+names
+
+does not constitute
+
+by the National
+
+are used in tt_.is report for identification
+
+an official
+
+Aeronautics
+
+endorsement,
+
+and Space
+
+either
+
+Administration.
+
+expressed
+
+AN EXPERIMENTAL
+STUDY
+OF IGNITION
+EFFECTS
+GROWTH
+OVER A THIN SOLID FUEL
+IN LOW-SPEED
+CONCURRENT
+FLOW
+USING DROP-TOWER
+FACILITIES
+
+by
+
+RICHARD
+
+Submitted
+
+DALE
+
+in partial fulfillment
+
+for the degree
+
+Thesis
+
+Department
+
+Case
+
+PETTEGREW
+
+of the requirements
+
+of Master
+
+Advisor:
+
+of Science
+
+Dr. James
+
+of Mechanical
+
+and
+
+Western
+
+Reserve
+May,
+
+T'ien
+
+1995
+
+Aerospace
+
+Engineering
+
+University
+
+AND
+
+FLAME
+
+AN
+
+EXPERIMENTAL
+
+STUDY
+
+GROWTH
+
+OVER
+
+CONCURRENT
+
+OF
+
+A THIN
+
+FLOW
+
+IGNITION
+SOLID
+
+USING
+
+EFFECTS
+
+FUEL
+
+IN
+
+AND
+
+FLAME
+
+LOW-SPEED
+
+DROP-TOWER
+
+FACILITIES
+
+Abstract
+by
+Richard
+
+An experimental
+in oxidizer
+
+flow
+
+(woven
+
+heated
+
+of the fuel.
+
+ignition
+
+bursts,
+
+pattern
+
+wire
+
+ignition.
+
+At speeds
+
+pyrolysis
+
+fronts,
+
+At speeds
+
+of 5 cm/sec
+
+ignited
+
+flames,
+
+ignition
+
+the
+
+that
+
+flames
+
+only
+
+a resistively
+
+of the fuel),
+
+ignitor
+
+doped
+
+system
+
+yielded
+
+the chemical
+
+system
+
+gave
+
+more
+
+uniform
+
+gave uniform
+
+element
+
+developed
+
+velocities
+
+more
+
+using
+
+thermocouples
+
+non-uniform
+
+pyrolysis
+
+pyrolysis
+
+to be shorter
+
+Temperature
+
+at the fuel
+
+ii
+
+uniform
+
+fronts.
+
+fronts.
+
+The
+
+too dim to see faster than the hotwire-
+
+were observed
+
+were measured.
+
+leading
+
+non-uniform
+
+yielded
+
+system
+
+wire
+
+a straight,
+
+onto the
+
+gave
+
+This
+
+heated
+and
+
+hotwire
+
+both systems
+
+lengths
+
+a thin solid fuel
+
+the
+
+tended to become
+
+and the flame
+
+edge
+
+over
+
+flow was performed.
+
+using
+
+the chemical
+
+using
+
+hotwire
+
+or greater,
+
+ignition
+
+the leading
+
+system
+
+the
+
+concurrent
+
+by a chemical
+
+showed
+
+growth
+
+(after
+
+burst subsided) for the chemical system for all speeds.
+
+pyrolysis
+were
+
+over
+
+up to 2.5 cm/sec,
+
+while
+
+chemically-ignited
+
+between
+
+augmented
+
+Results
+while
+
+and flame
+
+from 0 to I0 cm/sec
+
+the differences
+
+in a sawtooth
+
+resistively
+edge
+
+study of ignition
+
+speeds
+
+study examined
+
+Dale Pettegrew
+
+surface
+
+profiles
+and
+
+the initial
+Flame
+
+for several
+in the gas
+
+and
+tests
+
+phase.
+
+Comparisons
+recorded
+
+between
+
+in these
+
+element
+
+tests with calculated
+
+steady-state
+
+model
+
+most
+
+elements
+
+flame
+
+the tiame
+
+are presented.
+for nominal
+
+velocities
+spread
+
+Agreement
+velocities
+
+iii
+
+rates
+
+and peak
+
+temperatures
+
+and peak
+
+temperatures
+
+was found
+of 5 cm/sec
+
+to be within
+
+from
+
+20 % for
+
+and 7.5 cm/sec.
+
+a
+
+Acknowledgements
+
+The author
+guidance
+Dennis
+facility,
+
+wishes
+
+to thank thesis
+
+and help with this project.
+Thompson,
+without
+
+Paul Ferkul
+whom
+
+this work
+
+advisor
+
+Also thanks
+
+and the support
+would
+
+Professor
+
+T'ien
+
+to Kurt Sacksteder,
+staff at the NASA
+
+not have been
+
+iv
+
+James
+
+possible.
+
+for his
+
+Ray Sotos,
+
+Lewis
+
+Zero-G
+
+Table
+
+of Contents
+
+Section
+
+Va e
+ii
+
+Abstract
+
+iv
+
+Acknowledgements
+
+.°°
+
+VUl
+
+List of Figures
+List of Tables
+
+xi
+
+I.
+
+Introduction
+
+1
+
+II.
+
+Hardware
+Fuel
+
+9
+
+Ignition
+Fuel
+
+Assembly
+
+Translation
+
+Imaging
+
+11
+
+Device
+
+13
+
+Equipment
+
+14
+
+Thermocouples
+
+16
+
+Test Chamber
+Test Facilities
+Image
+HI.
+
+Analysis
+
+Equipment/Software
+
+17
+19
+
+Procedures
+Sample/Test
+
+Preparation
+
+Thermocouple
+
+20
+
+Installation
+
+Test Atmosphere
+Test Procedure
+
+21
+
+Data
+
+22
+
+Reduction
+
+V
+
+IV.
+
+Results
+
+30
+32
+
+Results by Velocity
+Quiescent Flow
+1
+
+cm/sec Flow
+
+37
+
+2.5 cm/sec Flow
+
+42
+
+5
+
+cm/sec Flow
+
+49
+
+7.5 cm/sec Flow
+
+53
+
+10 cm/se¢ Flow
+
+55
+
+Ashless Filter Paper
+
+61
+
+Thenn_ouple
+V.
+
+34
+
+64
+
+Data
+
+Discussion
+
+76
+
+Hotwire Ignition vs. Chemical Ignition
+80
+
+Temperature Prof'des
+VI.
+
+Comparison with Steady-State
+Flame Spread Rates
+Flame
+
+Model
+
+84
+
+86
+
+Length
+
+88
+
+Peak Temperature
+VII.
+
+Conclusions
+
+89
+
+VIII.
+
+Recommendations
+
+91
+
+IX.
+
+References
+
+92
+
+Appendix I
+
+Error Analysis
+Experimental Errors
+Test Environment
+
+vi
+
+94
+
+95
+
+Ignition
+System
+Thermocouples
+Flow
+
+Velocity
+
+Data Acquisition
+Flame Element Data
+Pyrolysis
+
+100
+
+Data
+
+101
+
+Data Analysis
+Data Plotting
+Flame
+Appendix
+
+II
+
+Buoyant
+
+Flow
+
+Appendix
+
+Ill
+
+Thermocouple
+Thermal
+
+& Pyrolysis
+
+97
+
+Velocities
+
+102
+
+Approximation
+
+106
+
+Heat Loss
+Inertia
+
+109
+
+Approximation
+
+Conduction
+
+110
+
+Radiation
+Heat Release
+
+111
+
+Appendix
+
+IV
+
+Effect
+
+of Threshold
+
+Appendix
+
+V
+
+Calibration
+
+Rate
+113
+
+Value
+
+of Fuel Translation
+
+vii
+
+Device
+
+115
+
+List of Figures
+Figure
+
+Description
+
+1
+
+Opposed
+
+2
+
+Sawtooth
+
+Hotwire
+
+Ignitor
+
+3
+
+Chemical
+
+Ignitor
+
+Assembly
+
+4
+
+Fuel
+
+5
+
+Front
+
+6
+
+Thermocouple
+
+Placement
+
+7
+
+Visible
+
+& Pyrolysis
+
+8
+
+Tracking
+
+9
+
+Non-uniform
+
+1O
+
+Area
+
+11
+
+Flame/Pyrolysis
+
+Elements
+
+(G-2-12)
+
+35
+
+12
+
+Flame/Pyrolysis
+
+Elements
+
+(G-2-13)
+
+36
+
+13
+
+Flame/Pyrolysis
+
+Elements
+
+(G-2-14)
+
+36
+
+14
+
+Flame/Pyrolysis
+
+Elements
+
+(G-2-20)
+
+38
+
+15
+
+Flame/Pyrolysis
+
+Elements
+
+(G-2-11)
+
+39
+
+16
+
+Partially
+
+17
+
+Flame
+
+18
+
+Flame/Pyrolysis
+
+19
+20
+
+& Concurrent
+
+Translation
+
+1
+
+Flow
+Assembly
+
+11
+
+Device
+
+and Edge
+
+Flame
+
+View
+
+Image
+
+Measurement
+
+Burned
+
+12
+
+of Flame
+
+(Test G-2-31)
+
+14
+15
+
+Elements
+
+27
+
+Zone
+
+(Pyrolysis
+
+18
+23
+
+(With Closeup)
+
+Pyrolysis
+
+10
+
+Zone)
+
+28
+
+40
+
+Sample
+tests)
+
+41
+
+Elements
+
+((3-2-15)
+
+43
+
+Flame/Pyrolysis
+
+Elements
+
+(G-2-16)
+
+43
+
+Flame/Pyrolysis
+
+Elements
+
+(G-2-17)
+
+44
+
+Elements
+
+(1 cm/sec
+
+°°°
+
+VIII
+
+21
+
+Pyrolysis
+
+22
+
+Partially
+
+23
+
+Flame/Pyrolysis
+
+Elements
+
+24
+
+Flame
+
+(2.5 era/see
+
+25
+
+Flame/Pyrolysis
+
+26
+
+Lengths
+Burned
+
+Elements
+
+(2.5 cm/sec
+
+HW tests)
+
+46
+
+Sample
+
+47
+(G-2-8)
+
+48
+
+tests)
+
+49
+
+Elements
+
+(G-2-7)
+
+50
+
+Flame/Pyrolysis
+
+Elements
+
+(G-2-23)
+
+51
+
+27
+
+Flame
+
+(5 era/see
+
+28
+
+Pyrolysis
+
+29
+
+Flame/Pyrolysis
+
+30
+
+Elements
+Lengths
+
+tests)
+tests)
+
+53
+
+Elements
+
+(G-2-18)
+
+54
+
+Flame/Pyrolysis
+
+Elements
+
+(G-2-31)
+
+56
+
+31
+
+Flame/Pyrolysis
+
+Elements
+
+(G-2-19)
+
+57
+
+32
+
+Flame
+
+(10 era/see
+
+tests)
+
+58
+
+33
+
+Partially
+
+34
+
+Pyrolysis
+
+35
+
+Flame/Pyrolysis
+
+Elements
+
+(G-2-21)
+
+61
+
+36
+
+Flame/Pyrolysis
+
+Elements
+
+(G-2-22)
+
+63
+
+37
+
+Partially
+
+38
+
+Temperature
+
+Trace
+
+(G-2-26)
+
+66
+
+39
+
+Temperature
+
+Trace
+
+(G-2-27)
+
+68
+
+40
+
+Flame/Pyrolysis
+
+41
+
+Temperature
+
+42
+
+Flame
+
+Elements
+Burned
+
+(5 era/see
+
+52
+
+Sample
+
+Lengths
+
+Burned
+
+59
+
+(10 cm/sec
+
+60
+
+Sample
+
+64
+
+Elements
+Trace
+
+Propagation
+
+tests)
+
+(G-2-27)
+
+69
+
+(G-2-28)
+Past Thermocouple
+
+ix
+
+70
+Junctions
+
+71
+
+43
+
+Flame/Pyrolysis
+Elements
+
+44
+
+Partially
+
+45
+
+Ignition
+
+Burst from
+
+Hotwire
+
+46
+
+Ignition
+
+Burst from
+
+Chemical
+
+47
+
+Flame
+
+48
+
+Experimental
+
+49
+
+Fuel
+
+Consumption
+
+Rate Contours:
+
+S.- S. Model
+
+87
+
+50
+
+Fuel
+
+Consumption
+
+Rate
+
+S.- S. Model
+
+88
+
+51
+
+Pyrolysis
+
+52
+
+Effect
+
+53
+
+Calibration
+
+Plot:
+
+10
+
+cm/sec
+
+119
+
+54
+
+Calibration
+
+Plot:
+
+5
+
+cm/sec
+
+120
+
+55
+
+Calibration
+
+Plot:
+
+2
+
+cm/sec
+
+121
+
+56
+
+Calibration
+
+Plot:
+
+1
+
+cm/sec
+
+122
+
+57
+
+Calibration
+
+Plot:
+
+0.5 cm/sec
+
+123
+
+Burned
+
+Images
+
+73
+
+Sample
+
+from
+
+Flame
+
+77
+
+System
+
+82
+Element
+
+Contours:
+
+Velocity
+
+of Threshold
+
+76
+
+System
+
+Test G-2-28
+
+& Model
+
+Front
+
+72
+
+(G-2-28)
+
+Velocity
+
+102
+
+Error
+
+Value on Flame
+
+X
+
+Data
+
+Length
+
+114
+
+84
+
+List of Tables
+Table
+
+Description
+
+Pagge.
+
+1
+
+Test
+
+2
+
+Results
+
+3
+
+Element
+
+4
+
+Mean-Element
+
+5
+
+Buoyant
+
+Matrix
+
+30
+
+by Velocity
+Error
+
+32
+
+& Correlation
+Spread
+
+Velocity
+
+Coefficient
+
+& Growth
+
+Estimate
+
+Rate
+
+104
+Error
+
+(%)
+
+105
+107
+
+xi
+
+L
+
+Introduction
+The study of combustion
+
+manned
+
+space
+
+Knowledge
+
+exploration
+
+Sacksteder,
+
+under
+
+spreading
+
+with regard
+which
+
+of safer spacecraft
+
+is of vital interest
+
+to the issue
+
+of fLrC safety.
+
+a fire will initiate
+
+for future
+
+missions
+
+to the
+
+and propagate
+
+(Friedman
+
+will
+
+and
+
+1988).
+
+Most
+which
+
+program
+
+of the conditions
+
+aid in the design
+
+and flame
+
+fire
+
+the fuel
+
+safety
+
+issues
+
+involve
+
+and the oxidizer
+
+diffusion
+
+are initially
+
+flames.
+
+unmixed;
+
+These
+
+are flames
+
+the combustion
+
+reaction
+
+Visible
+
+Flame
+
+N_
+
+_
+
+L
+
+/( 3_
+,,.
+
+Flo_w
+
+_
+
+k3(J
+
+_uo,/_
+OPPOSED
+
+OPPOSED
+
+Fuel
+
+o. /
+
+o,,,o,o.,
+11
+
+II '
+!_.,.
+
+_
+
+FLO W
+
+& CONCURRENT
+
+Figure
+
+1 Opposed
+
+FLOW
+
+FLAME
+
+& Concurrent
+
+SPREADING
+
+Flow
+
+in
+
+2
+occurs in the region where they meet.
+
+When a solid fuel burns, heat is
+
+transferred in the direction of flame propagation to a
+This heat gassifies
+into the reaction
+
+the fuel in a process known as pyrolysis; it then diffuses
+region
+
+where it is mixed with the incoming
+
+arrangement where the incoming
+flame propagation is referred
+in the opposite
+
+region of unburned fuel.
+
+oxidizer.
+
+The
+
+oxidizer flow is in the same direction as the
+
+to as concurrent flow; when the o"xadizerflow is
+
+direction, it is known as opposed flow.
+
+This is illustrated
+
+in
+
+Figure 1.
+Concurrent flow provides greater heat transfer
+typically leads to faster flame propagation,
+
+of a gravitational
+
+this
+
+which is the most dangerous
+
+situation from a f'ne safety standpoint (DeRis,
+These oxidizer
+
+through convection;
+
+flows can be generated
+
+1969).
+in several ways.
+
+In the presence
+
+field, hot gases rise, causing natural buoyant flows.
+
+In
+
+normal earth gravity, these flows are on the order of 20 cm/sec or greater.
+Flows may also be induced
+spacecraft.
+
+artificially,
+
+such as in the ventilation
+
+These flows can have velocities
+
+system on a
+
+as low as several cm/sec.
+
+While buoyancy is always present in normal gravity applications,
+may also be a forced component
+(relative)
+
+of the flow.
+
+However,
+
+in conditions
+
+there
+
+of zero
+
+gravity, all flows must be of the forced type.
+
+The problem
+
+of studying
+
+low speed forced oxidizer flows then requires
+
+that the effects of gravity be suppressed.
+ground based facilities
+
+such as NASA's
+
+This can be accomplished
+
+using
+
+2.2 Second Drop Tower or 5.18
+
+3
+Second
+
+Zcro-C_n'avity
+
+reduced
+
+gravity
+
+Shuttle
+
+missions
+
+time,
+
+For experiments
+
+flight
+
+facilities
+
+are needed
+
+(I._kan
+
+In addition
+parameters
+
+facility.
+
+to the flow
+
+such as NASA's
+
+KimWipes
+
+of commonly
+
+or filter
+
+paper,
+
+a greater
+
+KC-135
+
+duration
+
+aircraft
+
+of
+
+or
+
+et al, 1992).
+
+direction
+
+and velocity,
+
+in the study of combustion
+
+Two examples
+
+requiring
+
+include
+
+studied
+
+other important
+
+the fuel type and thickness.
+
+solid fuel are cellulosic
+
+and polymethyl
+
+methacrylate
+
+fuels
+
+such
+
+(PMMA)
+
+as
+
+(Olson
+
+et al,
+
+1988).
+The
+If a given
+the fuel
+
+fuel
+fuel
+
+ie., uniform
+
+to be thermally
+
+primary
+
+mode
+
+temperature
+
+plays
+
+a role
+
+studied
+
+flames
+
+using
+
+(0.076
+
+ram) cellulosic
+
+flames
+
+spreading
+
+by resistively
+pattern
+
+to the fuel
+
+tower
+
+paper
+
+heating
+over
+
+a Nichrome
+the edge
+
+the fuel thickness,
+
+of the fuel,
+process,
+
+(Olson,
+
+conduction
+
+then
+
+then
+
+of
+it is
+
+is the
+
+If a non-zero
+
+solid
+
+phase
+
+and this condition
+
+fashion.
+
+wire
+
+which
+
+of the fuel. The
+
+atmosphere
+1987).
+
+was ignited
+
+flow
+
+in the depth
+
+of the flame.
+
+in a quiescent
+
+sample
+
+profile
+
+thickness".
+
+is
+
+1994).
+
+facilities
+
+in an opposed
+
+of "thermal
+
+gas phase
+
+ahead
+
+transfer
+
+(DiBlasi,
+
+spreading
+
+drop
+
+across
+
+In this case,
+
+into the depth
+
+thick
+
+in terms
+
+that the temperature
+
+in the heat
+
+to as thermally
+Diffusion
+
+shaped
+
+thin.
+
+exists
+
+considered
+
+temperature
+
+of heat transfer
+gradient
+
+conduction
+
+were
+
+is usually
+
+slab is thin enough
+
+is uniform,
+
+considered
+
+referred
+
+thickness
+
+fuel
+
+had been
+oxygen
+
+a thin fuel
+
+In this work,
+
+at an edge,
+The
+
+over
+
+a thin
+
+with the resulting
+
+samples
+woven
+
+were
+
+ignited
+
+in a sawtooth
+
+concentrations
+
+of the test
+
+4
+atmosphere
+
+were varied,
+
+N 2) was found.
+cm/sec,
+
+was
+
+studied
+
+carried
+fuel
+
+The opposed
+
+which
+Later,
+
+cm/sec.
+
+flow
+
+was the flame
+opposed
+
+at higher
+
+out using
+
+sample
+
+and a flammability
+
+flow
+
+increased
+
+work.
+
+(Ferkul,
+
+facilities.
+
+a quiescent
+
+using
+
+flow
+
+1989).
+
+A device
+
+atmosphere
+
+The results
+
+with increasing
+
+was found
+
+spread in micro-gravity
+
+velocities
+
+The fuel was ignited
+
+the previous
+
+for this result
+
+a diluent
+
+of
+
+to be 0.54
+
+spread rate.
+
+drop tower
+
+through
+
+velocity
+
+flame
+
+flow
+
+limit of 21% O 2 (with
+
+These
+
+the same
+
+tests were
+
+was constructed
+
+at speeds
+
+a resistively
+
+as well
+
+fuel
+also
+
+to carry the
+
+up m approximately
+
+heated
+
+of this work showed
+velocity,
+
+over
+
+Nichrome
+
+wire, as in
+
+that the flame
+
+as increasing
+
+7
+
+spread rate
+
+oxygen
+
+concentration.
+Recently,
+micro-gravity
+1995)
+
+was studied
+
+and experimentally
+
+(which
+flame
+
+concurrent
+
+examines
+
+one step Arrhenius
+Jiang's
+
+model
+
+radiation
+properties.
+
+spread over
+_erkul,
+
+by Grayson
+
+(Grayson,
+
+1991).
+
+elliptically
+
+time.
+
+flame
+
+by Ferkul
+
+The downstream
+
+computational
+
+diffusion
+
+numerically
+
+the steady-state
+
+is modeled
+
+kinetics.
+
+flow
+
+region
+
+was modeled
+
+fuel was modeled
+
+term and improvements
+
+of this work,
+
+model
+
+near the base of the
+
+gas phase chemical
+
+to pyrolyze
+loss term
+
+with the addition
+
+in the calculation
+
+in
+
+Jiang (Jiang,
+
+In Ferkul's
+
+parabolically
+
+a solid phase radiation
+
+was an extension
+
+1993),
+
+the region
+
+with one step f'mite rate
+
+The solid
+law, and
+
+propagation),
+
+the same fuel
+
+of certain
+
+to save
+according
+
+to a
+
+was included.
+of a gas phase
+material
+
+5
+The results
+spread
+the
+
+of Ferkul's
+
+rate, and pyrolysis
+
+flow
+
+model
+
+velocity
+
+gives
+
+velocities,
+
+length
+
+radiative
+
+heat
+and
+
+a narrower
+
+flammable
+
+feedback
+
+rate, depending
+rate on flow
+
+and
+
+distribution,
+
+linearly
+
+when
+
+either
+
+Additionally,
+
+and shows
+
+that gas phase
+
+lead to lower
+
+flame
+
+that
+
+the
+
+at low
+
+produce
+
+additional
+
+temperatures,
+
+enhance
+
+conditions.
+
+is greater
+
+radiation
+
+(in the low velocity
+
+to the solid can either
+
+velocity
+
+flame
+
+to quenching.
+
+region
+
+on the flow
+
+length,
+
+is increased.
+
+show
+
+loss from the system
+
+radiative
+
+concentration
+
+lead
+
+calculations
+
+that flame
+
+approximately
+
+temperature
+
+losses
+
+show
+
+all increase
+
+or the oxygen
+
+the flame
+
+Jiang's
+
+calculations
+
+shorter
+
+regime).
+
+or reduce
+
+Furthermore,
+
+However,
+
+the flame
+
+when
+
+gas
+
+spread
+
+the dependence
+
+than linear dependence
+
+flames
+
+of spread
+
+radiative
+
+feedback
+
+is important.
+In Grayson's
+flows
+
+work,
+
+up to approximately
+
+Ferkul
+
+in his opposed
+
+were
+
+similar
+
+mm motion
+flame,
+
+flow work.
+
+to that
+picture
+
+position
+
+used
+
+Grayson's
+longer,
+
+wider,
+
+transfer.
+
+was
+
+work
+and
+
+spread
+
+However,
+
+were
+
+view
+
+drop
+
+the device
+
+and
+
+Data
+
+both the front
+
+The edge
+
+second
+
+with
+
+samples
+
+and Ferkul.
+
+to image
+
+5.18
+
+induced
+
+The fuel
+
+by Olson
+
+camera
+
+data
+
+at NASA's
+
+5 cm/sec
+
+with the aid of a mirror.
+
+element
+
+heat
+
+conducted
+
+ignition
+
+was
+
+was then
+
+used
+
+by
+
+technique
+
+acquired
+
+and edge
+
+tower,
+
+using
+
+views
+
+analyzed,
+
+a 16
+
+of the
+and flame
+
+generated.
+
+shows
+faster
+
+that flames
+than
+
+the constraint
+
+those
+
+spreading
+in opposed
+
+of the available
+
+in concurrent
+flow,
+
+due
+
+reduced
+
+flow
+
+are
+
+to convective
+gravity
+
+time
+
+6
+prevented
+
+steady-state
+
+the flames
+
+appeared
+
+Several
+significant
+
+propagation
+
+hindered
+
+was the control
+The speed
+
+means
+
+of an analog
+
+Grayson's
+
+of the carriage
+
+of the DC motor
+potentiometer.
+
+the temperature
+
+of the device
+
+Other
+to acquire
+keep
+
+the entire
+
+necessary
+
+leading
+
+used only
+dimensional.
+view
+
+the flames.
+
+which
+
+was used
+
+to determine
+Because
+
+When
+
+using
+
+whether
+
+element
+the data
+
+data
+
+was
+
+the carriage
+
+velocity.
+
+at the highest
+
+selected
+
+distance
+only
+
+the front
+
+movie
+
+from
+
+a small
+
+used
+
+camera,
+of view,
+
+so to
+it was
+
+the carriage.
+
+portion
+
+This
+
+of the field of
+
+data.
+of the test sample.
+
+burnout
+
+for this test was
+
+This
+
+was approximately
+
+conditions
+
+was reduced,
+
+arrangements
+
+in the field
+
+or not the flame
+
+and
+
+by
+
+Additionally,
+
+a stationary
+
+position
+
+of the low light
+
+the pyrolysis
+
+speed
+
+setting.
+
+the optical
+
+traveled
+
+used
+
+in tame
+
+to image
+
+was controlled
+
+of the flow
+
+to affect
+
+involved
+
+a significant
+
+typically
+
+errors
+
+this device
+
+speeds.
+
+that the carriage
+
+to larger
+
+of the flames,
+
+cases
+
+of the fuel translation
+
+fi'om 7 percent
+
+imaged
+
+the camera
+
+images
+
+All flame
+
+at lower
+
+were
+
+distance
+
+A mirror
+
+ranging
+
+with this work
+
+Flames
+
+to mount
+
+led to flame
+view,
+
+problems
+
+data.
+
+in some
+
+One of the most
+
+of the potentiometer
+
+was also found
+
+variations
+
+up to 35 percent
+
+velocity
+
+used to drive
+
+by the repeatability
+
+This led m velocity
+
+work.
+
+The repeatability
+
+then influenced
+
+velocities
+
+though
+
+to be near steady-state.
+
+limitations
+
+device.
+
+fi'om being reached,
+
+used
+
+fronts
+
+were
+
+acquired
+
+the edge
+
+to optimize
+
+view
+
+was
+
+two
+the edge
+
+not visible.
+using
+
+of the flame
+
+the edge
+
+view
+
+element
+
+was
+
+of
+
+7
+determined
+
+by placing
+
+the screen
+
+coordinates.
+
+determination
+
+a cursor over
+
+The boundaries
+
+of that edge
+
+The
+
+objective
+
+subsequent
+
+propagation.
+
+period
+
+of minimizing
+
+Improved
+camera
+
+imaging
+
+the fuel
+
+to increase
+
+the size
+
+Additional
+which
+
+sample
+
+the transient
+
+over the previous
+
+were
+
+making
+
+including
+
+images
+
+was gathered
+
+by using
+system.
+
+a video
+
+the data
+
+reduction
+
+It also served
+
+to the field of view.
+
+from these
+
+the pyrolysis
+
+of the flow
+
+in the images.
+
+relative
+
+flame
+
+were made
+
+mounting
+
+and
+
+techniques,
+
+steady-state
+
+This simplified
+
+coordinates
+
+effects
+
+ignition
+
+work
+
+the repeatability
+
+also used,
+
+in fixed
+
+of the flame
+
+illuminated
+
+and recording
+
+were indistinct,
+
+to reach
+
+with the fuel sample.
+
+information
+
+flames
+
+by two different
+
+to improve
+
+techniques
+
+by putting
+
+light,
+
+produced
+
+the time required
+
+device
+
+on the carriage
+
+of some
+
+of the flame
+
+is to characterize
+
+Other improvements
+
+a new fuel translation
+
+edge
+
+a matter of operator judgement.
+
+of this project
+
+flame-growth
+
+with the intent
+
+the visible
+
+tests by the use of a flashing
+
+and burnout
+
+front images
+
+in the front
+
+view.
+The
+computerized
+boundaries
+
+atmosphere
+N 2. The
+
+of data reduction
+
+digital
+
+processing
+
+of the flame
+
+The
+Grayson,
+
+process
+
+majority
+
+Ferkul,
+was
+induced
+
+technique
+
+and Olson.
+
+flow
+
+by the use of a
+
+to aid in the determination
+
+of the
+
+elements.
+
+of the tests
+
+held
+
+was improved
+
+in this work
+
+For these
+
+constant
+velocities
+
+tests,
+
+used
+
+the oxidizer
+
+at 18% 0 2 (by mole
+were
+
+varied
+
+the same
+
+from
+
+fuel
+
+content
+
+employed
+
+by
+
+of the
+
+fraction),
+
+with
+
+a diluent
+
+1 crn/sec
+
+to 10 cm/sec.
+
+of
+
+8
+Two different ignition techniques
+wereusedandcompared. Flameand
+pyrolysis elementspreadrateswere determined. Thcrmocouples
+employed
+
+in different
+
+temperature
+
+l_ffle
+
+the numerical
+Two
+these
+
+tests
+
+while
+
+the oxidizer
+
+for several
+
+of the combustion
+
+results
+tests
+
+locations
+
+obtained
+
+the same ignition
+content
+
+trials with this fuel to develop
+
+process.
+
+This data was then
+
+a
+
+compared
+
+by Jiang.
+
+were also conducted
+
+employed
+
+were also
+
+using
+
+a thicker
+
+fuel
+
+specimen.
+
+technique
+
+and induced
+
+of the test atmosphere
+
+was varied.
+
+flow
+
+Both of
+velocity,
+
+to
+
+IL
+
+Hardware
+Fue_.__!
+Two fuels were used in this study.
+
+paper known as KimWipes.
+Company,
+
+This paper, manufactured
+
+consists of 99% cellulose,
+
+area _nsity
+al., 1994).
+
+1% polyamide
+
+because
+
+flame propagation in a short time.
+in previous
+
+resin.
+
+results (Ferkul,
+
+1989, Grayson,
+
+This fuel has an
+
+of the fuel (Grayson
+
+et
+
+it is thin enough to allow significant
+
+Additionally,
+
+micro-gravity
+
+tissue
+
+by the Kimberly-Clark
+
+of 1.00 mg/cm 2, based on half-thickness
+This fuel was selected
+
+extensively
+
+The fast was a thin cellulosic
+
+this fuel has been used
+
+studies, allowing direct comparison
+
+1991, Olson,
+
+1991, Sacksteder & T'ien,
+
+of
+1987).
+
+The second fuel used was grade 1 ashless filter paper, made by
+Whatman.
+
+This paper consists
+
+of 100% cellulose,
+
+and has an area density
+
+of
+
+4.35 mg/cm 2, also based on the half-thickness.
+All fuel samples
+
+used were 5 cm wide, and 10 cm long.
+
+Samples
+
+were
+
+f'Lxed tO the metal sample holder by means of adhesive tape; the metal of the
+sample holder was a sufficient
+between
+
+heat sink to quench the flame at the interface
+
+the sample and the holder, thereby
+
+preventing
+
+the tape f_om interfering
+
+with the combustion.
+Ignition
+
+Assembly
+
+Two methods
+
+of ignition
+
+to that used by Grayson,
+a sawtooth
+
+were used and compared.
+
+was a 0.0254
+
+cm diameter
+
+Kanthal
+
+One method,
+
+similar
+
+wire, configured
+
+shape which was woven over the leading edge of the fuel sample.
+
+9
+
+in
+
+10
+
+Figure
+
+Each
+
+of the 13 teeth
+
+pattern
+
+spanned
+
+system
+
+potential
+
+of 28 volts
+
+the wire
+
+to heat
+
+touching
+edge.
+applied
+
+was applied
+
+ignition
+
+the paper,
+This wire
+across
+
+installed.
+
+the
+
+parallel
+
+Ignitor
+
+was approximately
+Figure
+
+2 shows
+
+in turn ignites
+
+used
+
+of 1.99 ohms.
+
+wire for 0.1 seconds,
+
+releasing
+
+The
+
+a KimWipe
+
+sample
+
+of 3.57
+
+the surrounding
+
+ohms.
+
+A
+
+This causes
+paper.
+
+The
+
+44 Joules.
+
+a straight
+
+to and approximately
+
+has a resistance
+
+0.4 cm wide.
+
+the wire for 0.2 seconds.
+
+is approximately
+
+technique
+
+Assembly
+
+The wire has a resistance
+across
+
+which
+
+by this system
+
+other
+
+Horwire
+
+of the paper.
+
+up quickly,
+
+released
+The
+
+in the pattern
+
+the width
+
+with this ignition
+
+energy
+
+2 Sawtooth
+
+Kanthal
+
+wire placed
+
+0.25 cm from the leading
+A potential
+
+of 24 volts
+
+about 29 Joules.
+
+was
+
+This in turn
+
+11
+
+Figure
+
+ignited
+This
+
+a chemical
+snip
+
+was
+
+Figure
+
+25 Joules
+
+The
+
+in the region
+released
+
+Fuel Translation
+The new
+2.54
+
+thermocouple
+acquire
+
+images
+
+fuel
+
+Ignitor
+
+Assembly
+
+of a 10 milligram
+
+0.4 cm wide,
+
+this configuration.
+
+total energy
+
+measuring
+
+consisting
+
+approximately
+
+3 shows
+
+about
+
+ignitor
+
+3 Chemical
+
+The
+
+and
+
+ignition
+
+of the sample's
+
+by this system
+
+spanned
+
+the width
+
+snip.
+of the paper.
+
+of this snip quickly
+
+leading
+
+was
+
+nitrocellulose
+
+edge
+
+released
+
+(Sacksteder,
+
+approximately
+
+1993).
+
+54 Joules.
+
+Device
+translation
+
+cm x 5.08
+leads.
+of both
+
+The
+
+device
+
+cm x 13.41
+carriage
+
+the front
+
+used
+
+a rectangular
+
+cm to carry
+
+also carries
+and edge
+
+views
+
+aluminum
+
+the fuel
+
+a video
+
+sample,
+
+camera
+
+of the flame
+
+carriage
+ignition
+
+and mirror
+(Figure
+
+4).
+
+and
+to
+
+12
+
+Figure
+
+The
+cm bearing
+aluminum
+These
+
+shafts.
+
+shaft
+
+used Thomson
+These
+
+base plate
+
+constrained
+
+holders
+
+shafts
+
+by means
+are then
+
+at the other
+
+perpendicular
+carriage
+
+carriage
+
+4 Fuel Translation
+
+linear
+are 55.25
+
+of a press
+
+bolted
+
+cm long
+
+end by an aluminum
+
+the yoke
+
+and the shaft
+
+to ride
+
+on two parallel
+
+and are secured
+
+fit into custom
+
+directly
+
+to the axis of the shafts.
+
+between
+
+bearings
+
+Device
+
+made
+
+to the base plate.
+yoke,
+
+which
+
+The maximum
+holders
+
+to an
+
+shaft holders.
+The
+
+shafts
+
+are
+
+is attached
+
+travel
+
+is 42 cm.
+
+1.41
+
+distance
+
+for the
+
+13
+The
+
+carriage
+
+with
+
+and between
+
+with
+
+a threaded
+
+is moved
+
+using
+
+the two bearing
+The
+
+roller
+
+shafts.
+
+motion
+
+the use of tapered
+
+through
+
+nut.
+
+a precision
+
+ball screw
+
+The
+
+of the screw
+bearings,
+
+screw
+
+mounted
+
+is coupled
+
+is constrained
+
+eliminating
+
+parallel
+
+to the carriage
+
+on both
+
+the need
+
+ends
+
+for thrust
+
+bearings.
+The
+The
+
+bail screw
+
+motor
+
+coupled
+
+is mounted
+
+to it through
+
+activated
+
+The
+video
+
+video
+head,
+
+used.
+
+recorded
+
+The
+
+degree
+
+view
+
+to be imaged
+chance
+
+camera
+
+camera
+
+angle
+
+controller
+
+used
+
+measuring
+
+on an 8mm
+
+edge
+
+a Kollmorgen
+
+(Pettegrew,
+
+camera
+
+Initially,
+
+The
+
+The
+
+The
+
+gears
+
+HB
+
+type stepper
+
+to the bail screw,
+
+at a ratio
+
+of 8:1.
+
+SMC-500
+
+motor.
+
+and is
+
+The
+
+motor
+
+is
+
+external,
+
+is programmed
+
+through
+
+an interface
+
+1993).
+
+Equipment
+
+on the carriage.
+was
+
+axis parallel
+
+aluminum
+
+through
+
+computer
+
+Imaging
+
+The
+
+two cast
+
+controller.
+
+an external
+
+by a 4.6 volt Cygnus
+
+with the shaft
+
+and controlled
+
+programmable
+with
+
+is driven
+
+in this work
+
+approximately
+a 5ram
+
+body
+"Super
+
+of the mirror
+
+interfering
+
+Model
+
+later
+
+tests,
+
+6810.
+mounted
+
+a 6.5mm
+
+and the signal
+
+lens
+
+was
+
+recorder.
+
+a front
+
+holder.
+
+(Figure
+
+For
+
+separately,
+
+to view
+
+using
+
+next to the sample
+by one camera
+
+used.
+
+was mounted
+8" video
+
+camera,
+
+6 cm x 4.5 cm x 4 cm, was
+
+lens was
+
+was positioned
+
+was obtained
+
+was a Cohu
+
+the front
+surface
+
+mirror
+
+This allowed
+
+5, Test
+
+G-2-31),
+
+with the flame.
+
+surface
+
+of the sample.
+
+mounted
+
+both
+
+views
+
+and minimized
+
+at a 45
+of the flame
+the
+
+14
+
+Figure
+
+Initially,
+pyrolysis
+light
+
+light
+
+with
+
+the images
+
+on the relatively
+data
+
+employed
+
+on the carriage.
+
+to be imaged
+of the flame
+
+in the front
+in the edge
+
+at a rate of 2 Hz.
+
+slow moving
+
+acquisition
+two
+
+View of Flame (Test G-2-31)
+Velocity
+= 10.07 cm/sec
+
+was mounted
+
+front
+
+on for 0.1 seconds
+
+continuous
+runs
+
+a 4.8 watt
+and burnout
+
+interferes
+
+flashed
+points
+
+front
+
+5 Front and Edge
+18% 02, Freestream
+
+pyrolysis/burnout
+
+on the faster
+
+1.1 watt
+
+lights,
+
+responding
+
+in an effort
+
+view.
+
+view,
+
+This allows
+
+to improve
+
+Because
+
+the light
+
+of the later
+
+runs
+
+in the test matrix
+
+included
+
+the
+the
+
+was
+data
+
+and more
+
+element
+
+data.
+
+the imaging.
+
+Thermocouples
+Three
+
+allowed
+
+for discrete
+
+fronts,
+flame
+
+This
+
+the use of
+
+Later
+
+15
+thermocouples.
+
+The thermocouples
+
+in diameter.
+
+These
+
+and
+
+at one corner.
+
+the bead
+
+flame
+
+at the bead,
+
+the difficulty
+spliced
+diamond
+
+configured
+
+while
+
+to 0.0254
+
+in a diamond
+
+This was
+
+done
+
+also minimizing
+
+in handling
+
+wires
+
+cm diameter
+
+K, and were 0.00762
+shape with
+
+to minimize
+
+the heat
+
+approximately
+
+1 cm long,
+
+the disturbance
+
+conduction
+
+of this size, the 0.00762
+wire
+
+sides
+
+path.
+
+cm diameter
+
+1 era down
+
+from
+
+cm
+
+to the
+
+Because
+wire
+
+of
+was
+
+the
+
+shape.
+For each
+
+and
+
+were
+
+used were Type
+
+another
+
+of these
+
+runs,
+
+was suspended
+
+one thermocouple
+
+in the gas phase
+
+:-
+
+c,,,_,,,,_
+
+was placed
+
+(Figure
+
+I
+
+Surface
+
+6).
+
+The
+
+exact
+
+surface
+
+placement
+
+O./_ /
+
+I
+
+o .oc.
+
+Streamwise
+(varied)
+
+I
+
+I-I
+
+EDGE
+
+on the fuel
+
+VIEW
+
+. ._
+
+l,
+[
+' i_-" _.c.m -"_I
+)
+'
+FRONT
+
+THERMOCOUPLE
+
+Figure
+
+PLACEMENT
+
+6
+
+_"
+_
+_
+VIEW
+
+Ceadi'_ Eol_e
+of C,_mn]'e
+
+16
+of the thermocouples
+section.
+
+varied
+
+The output
+
+signal
+
+with each run, and will be discussed
+from
+
+the thcrmocouples
+
+in the results
+
+was recorded
+
+by an onboard
+
+computer.
+Test Chamber/Vehicle
+The
+internal
+
+volume
+
+depletion
+size
+
+translation
+
+of 0.087
+
+(Grayson,
+
+m 3.
+
+Previous
+factor
+
+in a combustion
+
+studies
+
+for similar
+
+have
+
+chamber
+
+shown
+
+conditions
+
+with an
+
+that oxygen
+
+in a chamber
+
+of this
+
+1991).
+
+in the field of view
+was mounted
+
+reflections
+was covered
+
+factor
+
+The
+
+chamber
+
+Zero Gravity
+
+is mounted
+
+also
+
+speed
+
+the portion
+
+An anodized
+
+to measure
+
+aluminum
+
+run.
+
+drop vehicle
+
+equipment
+
+of the wall
+
+both the image
+
+for each
+
+on a standard
+
+All on board
+mounted
+
+wall,
+
+with black paper.
+
+and the carriage
+
+facility.
+
+computer,
+
+from the chamber
+
+in the field of view
+
+magnification
+
+PLC
+
+was mounted
+
+is not a significant
+
+To minimize
+
+scale
+
+device
+
+is operated
+
+used by NASA's
+by a Toshiba
+
+EX-40
+
+on the test vehicle.
+
+Test Facilities
+The Zero Gravity
+containing
+
+a 145 meter
+
+evacuated
+
+to a pressure
+
+less than
+
+lffSg.
+
+a cylindrical
+deceleration
+
+long,
+
+consists
+
+6.1 meter
+
+of 10 .2 tort,
+
+After a free-fall
+
+container
+rate
+
+facility
+
+filled
+
+is 35 g's,
+
+of a 155 meter
+diameter
+
+which
+
+of 5.18
+
+with peak
+
+reduces
+
+seconds,
+
+with expanded
+
+steel
+
+vertical
+
+vacuum
+
+shaft,
+
+chamber.
+
+the aerodynamic
+the package
+
+polystyrene
+
+loads reaching
+
+pellets.
+
+Air is
+
+drag to
+
+is decelerated
+The average
+
+65 g's for several
+
+in
+
+17
+milliseconds
+
+(Lekan
+
+Image
+
+Analysis
+
+Analysis
+images
+
+onto
+
+developed
+
+et al.,
+
+1992).
+
+Equipment/Software
+
+of the video
+
+a laser
+
+disc,
+
+by NASA
+
+images
+
+then
+
+using
+
+(Klimek
+
+was aided
+a digital
+
+& Paulik,
+
+such
+
+as a flame
+
+element
+
+from
+
+target
+
+area
+
+in the field
+
+of view,
+
+and turning
+
+based
+
+on whether
+
+the light
+
+a user designated
+and burnout
+cases,
+
+value.
+
+or color
+The
+
+frame
+
+elements
+
+Due
+
+to the non-uniformity
+
+this element
+
+was
+
+found
+
+zone,
+
+and dividing
+
+the flame
+
+and pyrolysis
+
+(in all cases)
+that
+
+elements.
+
+This
+
+the pixels
+
+software
+
+system
+
+falls
+
+were the flame
+of the pyrolysis
+
+area by the sample
+
+width.
+
+an
+
+a designated
+
+in this area
+
+by determining
+
+package
+
+can track
+
+by digitizing
+
+of each pixel
+
+tracked
+
+the video
+
+lracking
+
+to frame
+
+intensity
+
+front.
+
+pyrolysis
+
+object
+
+1992).
+
+object
+
+by transferring
+
+on or off
+
+above
+
+or below
+
+tip, flame
+front
+
+the area
+Figure
+
+base
+
+in some
+of the
+7 illustrates
+
+18
+
+Flow
+
+Direction
+t
+
+_.,_
+
+Flame
+Spread
+
+P_rolysis
+Flame
+Front
+
+Tip
+
+/
+Burnout Front
+
+/
+
+Flame Base
+
+FRONT
+VISIBLE
+
+VIEW
+FLAME
+
+EDGE
+& PYROLYSIS
+Figure
+
+The pyrolysis
+commercial
+of an object,
+
+image
+
+zone
+analysis
+
+then counts
+
+the number
+
+which
+
+ELEMENTS
+
+7
+
+area was determined
+package
+
+VIEW
+
+using
+
+allows
+
+of pixels
+
+Sigma
+
+Scan,
+
+the user to trace
+
+enclosed
+
+a
+the outline
+
+in the shape.
+
+HI.
+
+Procedures
+This chapter
+
+well
+
+describes
+
+as a description
+
+and results
+Appendix
+
+of the data reduction
+
+of the calibration
+
+eliminate
+
+any
+
+creases.
+
+variation
+
+Similarly,
+sheet,
+
+the sample
+
+into the proper
+appropriate
+the paper,
+alternating
+
+of sheets
+
+the ashless
+
+was installed.
+
+as
+
+The description
+can be found
+
+in
+
+bends
+
+the width
+
+was
+
+was placed
+on each
+
+of the fuel
+
+the wire
+strip,
+
+from one box,
+
+boxes.
+
+no visible
+
+to
+
+All samples
+
+defects,
+
+folds
+
+or
+
+were both taken from
+
+a
+
+to the metal
+
+shaped
+
+hotwire,
+
+of nails
+
+good
+
+sample
+
+driven
+
+thermal
+
+the wire
+
+contact
+
+on the leading
+
+edge
+
+holder,
+
+was first bent
+
+into a piece
+between
+
+of the fuel
+
+the
+
+of wood
+
+the wire
+sample
+
+at
+
+and
+
+with
+
+side of the paper.
+chemical
+
+ignition,
+
+sample,
+
+and were
+
+Installation
+
+and the paper.
+
+dissolving
+
+show
+
+cut and taped
+
+To insure
+
++/- 2% of 10 milligrams.
+
+different
+
+falter paper samples
+
+on jig consisting
+
+intervals.
+the wire
+
+which
+
+For the sawtooth
+
+shape
+
+between
+
+taken
+
+for defects.
+
+For the tests using
+
+chemical
+
+device
+
+in this study were
+
+that may occur
+
+and screened
+
+After
+
+between
+
+used.
+
+for the fuel translation
+
+fuel samples
+
+were taken from portions
+
+span
+
+techniques
+
+used in this study,
+
+Preparation
+
+All KimWipe
+
+ignitor
+
+procedures
+
+V.
+
+Sample/Test
+
+single
+
+the experimental
+
+Drops
+
+strips
+
+weighed
+
+consisted
+
+19
+
+The
+
+and
+
+of placing
+
+of acetone
+
+it into the paper.
+
+of nitrocellulose
+
+were
+acetone
+
+were
+
+trimmed
+
+to be within
+
+the chemical
+then placed
+would
+
+cut to
+
+strip
+
+on the
+
+then evaporate,
+
+22
+At themoment of release,
+thedigital
+time stamp (imprintedn each frame of
+o
+thevideotape)was started.
+Movement of thefueltranslation
+devicebegan 0.1
+seconds
+
+after release.
+The ignitorircuit
+c
+was energized
+0.2secondsintothedrop. For the
+
+caseof thesawtoothshapedhotwirc,
+thecircuit
+remainedon for0.2 seconds.
+For thechemicalignitionase,
+c
+thecircuit
+was on for0.1 seconds.
+The flashing
+light
+was turnedon for0.1 secondsata rateof 2 Hz. This
+was startedtthepackage release, continued
+a
+and
+until
+approximately seconds
+2
+after thedrop.
+Data Reduction
+After the drop package
+video tape were recovered.
+downloaded
+package.
+
+and plotted
+The samples
+
+was retrieved, the paniaUy
+
+The thermocouplc
+
+using AXUM,
+were preserved
+
+burned
+
+data (when applicable)
+
+a commercial
+
+data plotting
+
+for later examination.
+
+the 8mm video tape were recorded onto a laser disc, allowing
+without
+
+the signal degradation
+
+video tape.
+
+sample and
+
+software
+
+The imagos on
+repeated
+
+to frame by digitizing
+
+viewing
+
+that would occur through many viewings
+
+This also facilitated the use of the digital object tracking
+
+This software
+
+was
+
+can track an object such as a flame element
+a designated
+
+of
+
+software.
+
+from frame
+
+target area in the field of view, and turning
+
+the pixels in this area on or off based on whether the light or color intensity
+each pixel falls above or below a user designated
+inputs aUow enhancement
+
+value (Figure 8).
+
+of
+
+Other user
+
+of the image through different electronic filters, as
+
+23
+
+Figure
+
+well
+
+as designation
+
+proper
+
+light
+
+which
+
+shows
+
+moved
+allowed
+view.
+
+to any portion
+
+for each
+
+test,
+
+average
+
+of the values
+To maintain
+
+one
+
+the results
+
+obtained
+
+could
+
+the mouse.
+
+always
+
+(for each
+
+a supporting
+a line
+
+of the
+program
+
+which
+
+can be
+
+An additional
+
+program
+
+in the field
+
+was known,
+
+be calculated.
+
+an image
+
+The
+
+factor
+
+of
+
+analyzed
+using
+
+to be within
+
+scale
+
+in the comparison
+using
+
+using
+
+a constant
+a different
+
+the constant
+
+level.
+
++/- 0.6%
+
+was
+
+view).
+
+tracked
+
+found
+
+Selection
+
+of an object
+
+of the object
+
+then
+
+and was
+
+using
+along
+
+of the length
+
+length
+
+consistency
+
+were
+
+test was also
+
+factor
+
+profile
+
+using
+
+Closeup)
+
+of the object.
+
+is determined
+
+intensity
+
+that the actual
+or scale
+
+elements
+
+level
+
+in pixels
+
+(With
+
+of motion
+
+of the screen
+
+the measurement
+
+verified
+
+flame
+
+intensity
+
+the light or color
+
+Provided
+
+Image
+
+of the direction
+
+or color
+
+magnification
+
+8 Tracking
+
+of the
+
+of one test to another,
+
+color
+
+intensity
+
+intensity
+
+level,
+
+For the details
+
+level.
+
+However,
+
+and compared
+of this
+
+all
+
+to
+
+24
+comparison,
+
+see Appendix
+
+The interface
+
+IV.
+
+of the regions
+
+where the pixels have been turned on or off
+
+can then be tracked from frame to frame, either automatically
+the automatic
+designated
+
+mode, the co-ordinates
+
+In
+
+of the farthest illuminated pixel in the
+
+direction is recorded and used as the center of the target area for the
+
+next frame.
+
+In the manual
+
+using a mouse-driven
+selected
+
+or manually.
+
+mode, selection
+
+cursor.
+
+of this point is left to the operator,
+
+In either mode, the screen co-ordinates
+
+of the
+
+point were written to an ASCII file, and could then be downloaded
+
+a commercial
+
+plotting
+
+All tracking
+
+package.
+
+with this software
+
+mode.
+
+The dramatically
+
+caused
+
+several problems.
+
+track the progress
+
+package
+
+was done using the manual
+
+varying light levels inherent with the flashing light
+The f'wst problem
+
+of the pyrolysis
+
+was that the light was ne_ed
+
+to
+
+and burnout fronts, but it overwhelmed
+
+the
+
+intensity values needed to track the flame elements.
+
+This caused the software
+
+to illuminate all of the pixels in the target box when the light flashed.
+the automatic
+illuminated
+
+tracking
+
+to
+
+mode was used, the program
+
+pixel in the designated
+
+direction
+
+When
+
+then looked for the farthest
+
+of propagation.
+
+The target box
+
+then moved past the area where the flame actually was, and was unable to reacquire
+
+it even after the light flashed
+
+off.
+
+By using the manual mode, the
+
+operator was able to, when the light was on, place the cursor in an obviously
+incorrect coordinate
+
+such as a corner of the screen.
+
+off, the cursor was returned
+
+When the light would turn
+
+to the general area of the flame element.
+
+The
+
+25
+proper
+
+coordinates
+
+output file
+
+were
+
+then re-acquired
+
+was examined,
+
+field of view
+
+within
+
+and data points
+
+one frame.
+
+corresponding
+
+After
+
+tracking,
+
+the
+
+to the comer
+
+of the
+
+the response
+
+time
+
+were discarded.
+
+The second
+
+problem
+
+caused
+
+by the light
+
+involved
+
+of
+
+the Automatic Gain Control of the video camera. The Automatic Gain Control
+(AGC)
+
+selects
+the optimal lightsensitivity the camera. When
+of
+
+conditionschange, the AGC
+
+the lighting
+
+responds by appropriately
+resettingthe sensitivity
+
+of the camera. The response time of the AGC
+
+was quoted by the
+
+manufacturers to be approximately 0.25 seconds. Since the camera was
+imaging at 30 Hz., approximately 7-8 flames would have incorrectgain settings
+afterthe lightturned off. This was evidentin the images by the apparent
+shorteningof the flame immediately afterthe lightwent out,followed by its
+apparent growth back to itsprevious length. This problem was resolved by
+discarding7-8 data points immediately afterthe lightwould go out. Although
+the gain setting
+would then alsobe incorrect the moment
+at
+
+the lightflashed
+
+on, thiswas not relevantbecause the flame elements were not tracked during
+those times for the previously mentioned reasons. While the ovcrscnsitivityf
+o
+the camera
+pyrolysis
+tracking.
+using
+
+during
+front,
+
+the period
+
+the problem
+
+This is because
+
+a different
+These
+
+when
+
+the light was on affected
+
+was not as severe
+the pyrolysis
+
+the images
+
+as it was for the flame
+
+and burnout
+
+front data
+
+were
+
+of the
+element
+
+acquired
+
+technique.
+
+elements
+
+were tracked
+
+by manually
+
+scanning
+
+the frames
+
+until
+
+a
+
+26
+frame was found which clearly showedboth the
+time,
+
+as recorded
+
+the pixel
+
+by the digital
+
+coordinate
+
+program.
+
+line, and
+
+place
+
+the
+
+coordinate
+
+of the initial
+
+each time
+
+the fight would
+
+Because
+both
+
+calculating
+
+was found
+
+by dividing
+
+of the pyrolysis
+to the position
+
+package
+the image
+
+(around
+10).
+
+the shape,
+
+the pixel
+
+and
+
+factor
+and
+
+coordinates
+
+was to draw a horizontal
+front.
+
+The
+
+y-coordinate
+recorded
+
+sample.
+
+of the pyrolysis
+
+front and the pyrolysis
+
+zone
+
+area.
+
+of
+
+y-
+
+This was repeated
+
+this area by the
+
+zone
+
+as Sigma
+
+and multiplication
+
+9 shows
+
+The
+
+sample
+by adding
+
+for some
+
+found
+
+The
+
+of such a
+
+pyrolysis
+
+length
+
+mean-area
+
+the mean-area
+
+of the
+
+(for all tests)
+
+an example
+
+"mean-area"
+width.
+
+position
+
+pyrolysis
+
+length
+
+front.
+
+area was calculated
+Scan.
+
+the visible
+
+The software
+
+found
+
+zones
+
+length were
+
+Figure
+
+(Test G-2-14).
+
+of the burnout
+
+known
+
+gives
+
+to the previously
+
+of the fuel
+
+noted
+
+flash on.
+
+f_ont was then
+
+pyrolysis
+
+then
+
+of the burnout
+
+edge
+
+the scale
+
+The
+
+a line with the cursor,
+
+The technique
+
+and compared
+
+the pyrolysis
+
+pyrolysis
+
+The
+
+The program
+
+of the non-uniformities
+
+the pyrolysis
+
+non-uniform
+
+(Figure
+
+the user to draw
+
+leading
+
+was then
+
+front was found using
+
+line at the edge
+recorded,
+
+and burnout.
+
+stamp on each flame,
+
+and end of the fine.
+
+the line was then
+
+by first
+
+allows
+
+this line on the screen.
+
+of the beginning
+
+tests,
+
+of the burnout
+
+This program
+
+position
+
+time
+
+pyrolysis
+
+This program
+
+pyrolysis
+
+would
+
+using
+
+then
+
+allowed
+
+zone),
+count
+
+by the scale
+
+a commercial
+
+using
+
+factor
+
+a shape to be drawn
+
+a mouse-driven
+
+the number
+would
+
+software
+
+of pixels
+give
+
+on
+
+cursor
+enclosed
+
+the surface
+
+area
+
+by
+
+27
+
+Figure
+
+represented
+
+flow
+
+that used to fred
+
+velocity
+
+of the drop
+
+horizontal
+
+line drawn.
+
+aluminum
+
+scale.
+
+coordinate
+
+and the value
+
+advanced
+was
+
+for each
+
+the burnout
+
+beginning
+
+program
+
+Pyrolysis
+
+Zone
+
+by the shape.
+
+The
+
+then
+
+9 Non-uniform
+
+The
+
+would
+
+as in the previous
+
+front
+
+was verified
+
+position.
+
+be selected.
+
+time of this frame
+on the scale
+
+again.
+
+measurement,
+
+frame
+The
+
+The
+
+scale
+
+placed
+
+where
+near
+
+the new
+
+a technique
+
+with the light
+program
+
+to intersect
+
+was noted,
+
+the end
+
+similar
+on near
+
+was run,
+
+to
+the
+
+and a
+
+the visible
+
+as well as the pixel
+
+the line crossed.
+
+line was placed
+and
+
+using
+
+A frame
+
+This line was then
+
+to an illuminated
+then run
+
+run
+
+The
+
+of the run, and
+at the same
+
+time value
+
+pixel
+
+and scale
+
+video
+
+was
+
+the scale
+coordinates
+measurement
+
+28
+
+Figure
+
+were noted.
+calculated
+period.
+
+The change
+for these
+
+translation
+
+check
+
+device
+
+unsteady
+
+in distance
+
+and change
+
+giving
+
+on the selected
+examines
+
+in time could
+
+an average
+
+does not account
+
+the transient
+
+velocity
+
+for transient
+
+velocity.
+
+Pyrolysis
+
+behavior,
+
+then be
+
+for the given
+
+effects,
+
+A previous
+
+Zone,
+
+time
+
+but merely
+
+calibration
+
+serves
+
+of the
+
+and can be found
+
+in
+
+V.
+Spread
+
+element
+
+Measurement
+of Non-uniform
+using Sigma Scan
+
+two points,
+
+This technique
+
+as an overall
+
+Appendix
+
+10 Area
+
+rates were calculated
+
+and applying
+nature
+
+a linear
+
+of the flame
+
+by designating
+
+regression
+and pyrolysis
+
+a section
+
+to this section.
+elements
+
+of the desired
+
+Because
+
+for these
+
+tests,
+
+of the
+the section
+
+29
+the flame and pyrolysis elements for these tests, the socdon was chosen to b¢
+near the end of each run, to minimize the disturbancein the plot from ignition.
+
+Although selectionof the durationof the designated sectionvaried for each
+run, the selectionprocess was driven by the desireto find a portion of the plot
+which was representative f the trendsoccurring at the end of the drop. When
+o
+the slopes of the paired elements (base and tipfor the flames, burnout front and
+pyrolysisfront for the pyrolysiszone) wcrc not the same within the
+experimental error,the ovcraU spread ratcwas defined to bc the average of the
+spread ratefor the given elements. The uncertaintyof thcsc sprcad ratesis
+inverselyproportionalto the durationof data used for the curve-fit.This
+unccrtaintyis discussed in the Error Analysis (Appendix I). The uncertainty
+was determined to bc approximately 76%
+
+in the cases of quiescent and l
+
+cm/scc flow, duc to the shortdurationof dam availablefor the regression. Thc
+uncertaintyfor subsequent testswas 1.53% or less.
+
+IV.
+
+Results
+Most
+
+tests were conducted
+
+atmosphere
+
+of 18% 02,
+
+atmosphere.
+
+Table
+
+82% N 2.
+
+1 shows
+
+Ignition
+Method
+
+All tests
+
+as the fuel,
+
+were conducted
+for these
+
+1
+cm/s
+
+5
+ctrds
+
+-
+
+Chem.
+
+KimWipes
+
+the test matrix
+
+0
+cm/$
+
+Hotwire
+
+using
+
+2.5
+cm/s
+
+Id
+
+3u
+
+2rld
+
+at a pressure
+
+of one
+
+tests:
+
+7g
+crtO$
+
+10
+cm/s
+
+10
+cm/s
+with
+TC
+
+la
+
+ld
+
+Id
+
+lu
+
+lu
+
+lu
+
+with an
+
+-
+
+3d
+
+Id
+
+Table 1 Test Matrix
+Note
+velocity
+point
+
+that the velocities
+
+for each
+
+test.
+
+wiU be reported
+
+to the free sueam
+The
+
+The
+case
+
+velocity
+
+Listed are the values
+
+actual free stream
+by case.
+minus
+
+The relative
+
+indicate
+
+based
+
+some
+
+relative
+
+direction
+
+experienced
+
+of the imposed
+or reduced
+
+by the experiment
+
+quantify
+
+this buoyant
+
+assumed
+
+g-levels
+
+velocity.
+
+can be found
+
+for each
+
+test
+
+for each test is equal
+
+mauix
+
+ground
+
+induced
+
+free stream
+
+rate.
+
+device.
+
+enhanced
+
+velocity
+
+spread
+
+of the fuel translation
+
+either
+
+realized
+
+the flame
+
+motion
+
+then
+
+velocity
+
+in the above
+
+u and d subscripts
+
+facility
+
+of the desired
+
+The
+
+residual
+
+element
+
+flow
+
+of buoyant
+
+could
+
+then
+
+by the buoyant
+in each
+
+test was
+
+Estimates
+in Appendix
+
+3O
+
+g-levels
+
+inherent
+
+flow
+
+in each
+
+be significant,
+flow.
+
+Because
+
+not recorded,
+
+for these
+II.
+
+the direction
+
+buoyant
+
+of
+
+in a
+test.
+
+because
+
+The
+it is
+
+the g-level
+it is impossible
+
+velocities
+
+based
+
+to
+on
+
+31
+Additionally, two tests
+fuel.
+
+The flow
+
+velocity
+
+were
+
+conducted
+
+using Ashless
+
+for both of these tests was
+
+was nm with an 02 concentration
+
+Filter Paper
+
+10 _/s.
+
+as the
+
+One of these
+
+of 18%, the other with 21%.
+
+tests
+
+The diluent
+
+for
+
+both tests was N 2.
+The results
+
+of this study will first be presented
+
+comparison
+
+being
+
+techniques.
+
+Error bars are displayed
+
+each test.
+each
+
+These
+
+component
+
+between
+
+the flames
+
+are reported
+
+spread rates
+
+The mean-element
+of the velocities
+
+for each pyrolysis
+rates
+
+The comparison
+
+(Jiang,
+
+1995)
+
+will also be presented
+
+Ashless
+
+Filter
+The
+
+final
+
+employed
+
+thermocouples.
+
+predicted
+
+by Jiang's
+
+to covered
+
+themselves
+
+steady-state
+
+similar
+
+for
+
+errors
+
+from
+
+as well
+lengths.
+
+as the average
+
+front/burnout
+
+f_ont,
+
+model
+
+The results
+
+of the
+
+be presented.
+will be the results
+
+model.
+
+conditions
+
+element,
+
+mathematical
+
+for each velocity.
+
+which
+
+of the tests
+
+wiU be made
+The
+
+on the tests will also be addressed
+
+tests of otherwise
+
+lengths
+
+and pyrolysis
+
+and the pyrolysis
+
+A comparison
+
+steady-state
+
+and flame
+
+of the flame
+
+to Jiang's
+
+tests will then
+
+topic
+
+and pyrolysis
+
+spread rates are defined
+
+tip/base,
+
+respectively.
+
+Paper
+
+the two ignition
+
+the sum of the measurement
+
+and pyrolysis
+
+of the flame
+
+from
+
+with
+
+lengths.
+
+and growth
+
+flame
+
+resulting
+
+for the flame
+
+error bars represent
+of the respective
+
+Velocities
+the mean-
+
+made
+
+by velocity,
+
+effect
+
+which
+
+with the temperatures
+
+of the thermocouples
+
+by comparing
+
+these
+
+did not use thermocouples.
+
+runs
+
+with
+
+as
+
+32
+Results
+
+by Velocity
+
+S_d
+a_
+
+0_"
+
+a_s
+
+c_s
+
+-ILLS
+
+4.1J0
+
+_3-1
+
+_
+
+a_s
+
+a_
+
+a_
+
+c_
+
+-3._0
+
+4,0.08
+
+.*0.04
+
+_04
+
+_06
+
+40.03
+
+_
+
+EW
+
+18
+
+Cbsm
+
+KW
+
+18
+
+Chem
+
+No
+
+-239
+
+4.1.19
+
+-3.59
+
+_A0
+
+G0_
+
+KW
+
+18
+
+Ch_
+
+No
+
+-256
+
+.058
+
+-_14
+
+-039
+
+1_0 •
+
+KW
+
+18
+
+Chwm
+
+No
+
+-I J2
+
+_
+
+-2_
+
+.G22
+
+_0.12
+
+*0.20
+
+IAO_
+
+KW
+
+18
+
+HW
+
+No
+
+-0,01
+
+_0_47
+
+_
+
+_
+
+_
+
+KW
+
+18
+
+_
+
+No
+
+4.059
+
+-ZI2
+
+,.OAT
+
+._15
+
+KW
+
+18
+
+HW
+
+No
+
+• 0.26
+
+_LI2
+
+_0.32
+
+KW
+
+18
+
+HW
+
+No
+
+4.0.25
+
+-0_
+
+*0.23
+
+2.52
+
+k'W
+
+18
+
+HW
+
+No
+
+5.12
+
+KW
+
+m
+
+Ch_
+
+No
+
+*GAS
+
+_7
+
+-O_
+
+5,09
+
+KW
+
+|$
+
+flW
+
+No
+
+_A7
+
+*0.70
+
+-0.23
+
+?.47
+
+KW
+
+18
+
+HW
+
+No
+
+10.07
+
+KW
+
+18
+
+Cma
+
+No
+
+_0.78
+
+4.136
+
+9J2
+
+KW
+
+18
+
+HW
+
+No
+
+4.1._
+
+9A9
+
+A]PP
+
+18
+
+I_W
+
+No
+
+9.8.5
+
+APP
+
+2]
+
+HW
+
+KW
+
+18
+
+KW
+
+lg
+
+10._
+
+9.88
+
+CW0
+
+G00
+
+G00
+
+GC0
+
+-0.08
+
+0C0
+
+,035
+
+GO0
+
+_034
+
+40.26
+
+..0.11
+
+4021
+
+*0_2
+
+_0.22
+
+*OAO
+
+_.27
+
+40_2
+
+4032
+
+4.0.10
+
+._O.T7
+
+4,0.71
+
+4.0.71
+
+0_00
+
+4,0.71
+
+',o,OJO
+
+_
+
+*0.67
+
+4_01
+
+_g
+
+4.030
+
+4-1.,_
+
+44_q8
+
+_
+
+4"111
+
+-058
+
+4.1.07
+
+4.1 'm
+
+4"1.01)
+
+_J!
+
+4.1.15
+
+4,0_9
+
+_
+
+4.1,0_
+
+4.1..50
+
+4.1A2
+
+4.0.._
+
+4..131
+
+_
+
+_
+
+4,0_1
+
+*0._6
+
+_OJ3
+
+_
+
+4,0.06
+
+.,_.10
+
+No
+
+4.148
+
+4006
+
+4.1J2
+
+40.67.
+
+4,0.30
+
+.¢4_17
+
+4.0J3
+
+._._1,
+
+iiW
+
+Yes
+
+4.1JgJ
+
+4,0.89
+
+4,0.99
+
+4.1.39
+
+÷1.0_
+
+..4_J7
+
+4.0.05
+
+4.1.00
+
+HW
+
+Yes
+
+4.1.15
+
+4.I.G_
+
+_10
+
+4.1.10
+
+_
+
+.*0.93
+
+4_,_6
+
+4,0.qM
+
+-153
+
+2) Flow stops at abma 3.7 s_ for (sominai) devi_e wlocity of 10 cmlzec
+3) ^ : Flaraz too dim to track at so_ t_,
+but pyrolysis don_
+co_tbuted to spread
+4) * : Flame extis_tioa: so mow._at
+of p3rolysi_ _leme._
+
+Table
+Table
+
+2 summarizes
+
+test time,
+
+steady-state
+
+2 Results
+
+the test results.
+propagation
+
+by Velocity
+
+Due to the short duration
+was not achieved
+
+in any test,
+
+of the available
+though
+
+several
+
+33
+cases may have been near steady-state.
+
+The flame/pyrolysis
+
+data was taken by applying a linear regression
+end of the test for each element.
+
+section near the end of the visible data.
+
+amount
+
+selected for the curve-fit
+The duration
+
+velocity
+
+of the data near the
+
+In cases where the flame became
+
+see before the end of the test, the portion
+
+curve-fit
+
+to a portion
+
+element
+
+too dim to
+was a
+
+of the data used for this
+
+varied for each test, but an attempt was made to use the greatest
+of data for each regression
+
+the element
+
+at the end of the test.
+
+approximately
+
+tests, the mean element
+
+pyrolysis
+
+The duration
+
+of the curve-fit
+
+velocities.
+
+Similarly,
+
+cases, to about 2 seconds
+
+due to the transient
+
+spread rates were defined
+
+front for the pyrolysis
+
+zone.
+
+A measure
+
+nature of these
+
+as the arithmetic average of
+
+of the steadiness
+
+for either
+
+zone is the growth rate of their length, which is the
+
+in the velocity of the component
+
+of
+
+ranged from
+
+of the base and tip for the flames, and the burnout front and
+
+the flame or pyrolysis
+difference
+
+that would capture the behavior
+
+0.5 seconds of data for the quiescent
+
+of data for the highest
+
+the velocities
+
+possible
+
+elements.
+
+34
+Quiescent
+
+Flow
+
+The quiescent
+the flow
+
+device
+
+flow
+
+cases
+
+occurred.
+using
+
+occurred
+
+Three
+
+technique,
+
+none
+
+performed
+
+with the translation
+
+direction.
+
+This
+
+cases
+
+the hotwire
+
+means
+
+that
+
+device
+
+of energy
+
+for the chemical
+
+system.
+
+configured
+flow
+
+malfunctions
+
+All three
+to operate
+
+caused
+
+with
+
+ignition
+
+tests were
+in the
+
+"up"
+
+by the residual
+
+g-levels
+
+direction.
+
+The
+
+mechanical
+
+occurred
+
+ignition
+
+any buoyant
+
+was in the opposed
+
+when
+
+uniform
+shape
+
+release
+
+flameball
+
+the chemical
+
+enveloped
+
+which
+
+from
+
+the leading
+
+of this non-uniform
+
+ignition
+
+ignition
+
+created
+
+a non-
+
+of the fuel
+
+edge
+
+system
+
+sample.
+
+The
+
+burst was significantly
+
+different
+
+for each
+
+of
+
+fronts
+
+were
+
+the three cases.
+Following
+observed.
+
+This was readily
+
+remained
+
+in the quenched
+
+These
+into the test.
+The burnout
+combustion
+show
+
+flame
+
+images
+
+The pyrolysis
+
+reaction
+
+the data plots
+
+visible
+
+retrieved
+
+become
+fronts
+
+and the non-uniformity
+
+at the end of the tests.
+
+never propagated
+
+after the ignition
+
+after 1.5 seconds.
+to have
+
+stopped.
+
+1.3 seconds
+
+At this point,
+Figures
+
+burst.
+the
+
+11, 12, and 13
+
+tests.
+
+of the three cases
+
+was different
+
+images
+
+pyrolysis
+
+too dim to see approximately
+
+was considered
+from these
+
+non-uniform
+
+in the video
+
+samples
+
+for each test was between
+
+flameball
+
+flameballs
+
+fronts did not propagate
+
+Comparison
+length
+
+the non-uniform
+
+shows
+
+that the mean-area
+
+1.3 cm and 1.5 cm.
+
+in each of the three cases.
+
+The
+
+pyrolysis
+
+shape of the ignition
+
+35
+Velocity datawas recordedfor
+Howcvcr,
+
+the crror associated
+
+amount
+
+of time
+
+element
+
+available
+
+velocity
+
+data
+
+the flame
+
+with these
+
+velocities
+
+for tho curve-fit
+
+for these
+
+tests
+
+Quiesscent
+
+£
+O
+
+2
+
+Quantitative
+
+flame
+
+Atmosphere,
+
+1 87. 02
+
+ol Ignition
+Flame
+
+0-2-12
+
+is too
+
+opprox.
+
+1.4
+
+dim
+
+to see
+
+ofter
+
+seconds
+
++
+
+b
+J
+i
+
+•
+
+1).
+
+duc to the small
+
+was disrcga_rd_
+
+Tip
+Bose
+Florae Length
+Pyrolysis Front
+Burnout Front
+Pyrolysis Length
+
+v
+
+in thcsc tests.
+
+was large,
+
+(Appendix
+
+Chemic
+4
+
+elements
+
+C
+O
+
+o
+"_
+
+o
+
+o
+
+o
+
+o
+
+o
+
+o
+o
+
+MMM
+
+-1
+0
+
+M
+
+2
+Time
+
+Figure
+
+3
+(seconds)
+
+11
+
+4
+
+36
+
+Ouiesscent
+
+Atmosphere,
+Chemicol
+
+TIP
+
+Ignition
+
+G-2-1
+
+,.3
+
+Flame is too dim to see after
+
+Bose
+Rome Length
+Pyrolysis Front
+Burnout Front
+Pyrolysis Length
+
+0
+
+1 87. 02
+
+approx.
+
+1.5
+
+seconds
+
+E
+¢J
+
+',F
+
+c
+o
+
+.
+
+=
+
+=
+
+O
+
+.=-
+
+O
+
+!
+
+o3
+o
+n
+O
+
+O
+
+0
+0
+
+0
+
+i
+•
+
+i
+
+I
+
+I
+
+I
+
+-1
+
+0
+
+i
+
+I
+
+1
+
+i
+
+I
+
+2
+
+i
+
+I
+
+3
+
+4
+
+Time (seconds)
+Fim.u-e
+
+Quiesscent
+
+12
+
+Atmosphere,
+
+1 87. 02
+
+Chemic ol Ignition
+Tip
+Bose
+Rome Length
+Pyrolysis Front
+Burnout Front
+Pyrolysis Length
+
+..6-°.
+
+o
+
+Flame
+
+G-2-1
+
+is too
+
+approx.
+
+dim
+
+1.5
+
+to see
+
+4
+
+after
+
+seconds
+
+.X
+
+E
+
+ZL
+
+c)
+
+,_
+
+_
+
++
+
++
+
++
+
+0
+
+0
+
+0
+
+"_
+
+0
+
++
+
+-_
+
+0
+
++
+
+0
+
+0
+
+U
+
+cO
+
+o_
+
+o
+O_
+0
+
+I_
+
+0
+
+-1
+
+I
+
+!
+
+0
+
+I
+
+IIII
+
+i
+
+I
+
+,
+
+2
+
+I
+
+3
+
+Time (seconds)
+Figure
+
+13
+
+i
+
+I
+
+I
+
+4
+
+5
+
+37
+1 cm/sec Flow
+The carriage
+
+velocities
+
+for these two points were measured
+
+to be 1.16
+
+cm/sec forthehotwim ignitionechnique,nd 1.00cm/sec forthechemical
+t
+a
+ignition technique.
+was attributed
+
+The large error in the flow velocity
+
+to a faulty command
+
+other errors of this magnitude
+operation.
+
+direction.
+
+test.
+
+flameball
+
+flows induced
+
+the relative
+
+ignition
+
+Figure
+
+burnout
+
+while the chemical
+
+The buoyant
+
+further increase
+
+ignited
+
+because
+
+in either the calibration
+
+no
+
+or testing
+
+a small, relatively
+
+by a uniform pyrolysis
+
+fronts propagated
+
+cm, and progressed
+
+g-levels
+
+then tended
+
+to
+
+for the hotwire-
+
+uniform
+
+ignition
+
+Both the pyrolysis
+
+until the end of the drop.
+
+and
+
+The mean-area
+
+the limits of the error analysis)
+
+pyrolysis
+
+at approximately
+
+too dim to see at approximately
+
+the pyrolysis
+
+reaction
+
+front.
+
+elements
+
+0.45
+
+at a speed of 0.24 cm/sec.
+
+The flame became
+
+Figure
+
+by the residual
+
+velocity of the hotwire case, and reduce that of the
+
+This system produced
+
+followed
+
+combustion
+
+test was carried out in the "up"
+
+14 is a plot of the flame and pyrolysis
+
+However,
+
+in
+
+case.
+
+length was steady (within
+
+drop.
+
+were observed
+
+controller,
+
+Note that the hotwire test was done with the fuel device moving
+
+the "down" dh'ection,
+
+chemical
+
+to the computer
+
+for the hotwire case
+
+zone continued
+
+was still occurring,
+
+to propagate,
+
+although
+
+indicating
+
+into the
+that the
+
+very weakly.
+
+15 shows the results of the chemically-ignited
+
+showed a large non-uniform
+
+2 seconds
+
+ignition burst, and subsequently
+
+test.
+
+This test
+
+a non-uniform
+
+38
+
+1 c m/sec
+
+Conc urrent
+Hotwire
+
+4
+
+Tip
+Base
+Flame Length
+Pyrolysis Front
+Burnout Front
+Pyrolysis Length
+
+_-.Ao.÷
+
+3
+
+o
+
+Flow, 1 87. 02
+
+Ignition
+
+G-2-20
+
+Florae
+
+is
+
+dim
+
+too
+
+to
+
+see
+
+ofter
+
+approx. 2 seconds
+
+E
+(3
+÷
+tO
+
+÷
+
+4.
+
+o
+o
+o
+
+(/}
+0
+(3-
+
+o
+
+T
+
+"T
+
+Iiiii
+
+0
+
+mill
+
+_I
+
+i
+
+0
+
+I
+
+,
+
+l
+
+1
+
+Time
+
+Figure
+
+pyrolysis front.
+
+This initial pyrolysis
+
+than that produced
+
+by the hotwirc
+
+was approximately
+
+1.0 era.
+
+seen in Figure
+
+,
+
+t
+
+2
+
+,
+
+l
+
+3
+
+I
+
+5
+
+(sac ands)
+
+14
+
+zone was approximately
+
+system.
+
+,
+
+4
+
+four times larger
+
+The final average pyrolysis
+
+The partially-burned
+
+length
+
+sample from this test can be
+
+16.
+
+The initial flame length produced by the chemical
+cm, where that produced by the hotwire system
+the flame from the chemical
+
+system was about 2
+
+was close to 1 cm.
+
+However,
+
+system quickly shrank to a length of about 0.75
+
+cm, and became too dim to see at 1.5 seconds into the drop. This can be seen
+in Figure 17, which shows the flame elements from both tests together.
+The error associated
+
+with the base velocity
+
+measurements
+
+for this flow
+
+39
+
+cm/sec
+
+Concurrent
+Chemical
+
+Tip
+Bose
+Flame Length
+Pyrolysis Front
+Burnout Front
+Pyrolysis Length
+
+4
+--°A--÷
+0
+
+E
+
+1 87. 02
+
+Ignition
+
+Flame
+
+G-2-1
+
+is too dim
+
+1
+
+to see after
+
+approx. 1.4 seconds
+
+x,
+
+2
+
+¢)
+
+Flow,
+
+÷
+÷
+
+co
+
+1
+
+o
+12-
+
+o
+A_
+
+0
+
+0
+
+0
+
+.o
+o
+
+0
+#
+wl
+
+--I
+
+"
+
+0
+
+ml
+
+I
+
+i
+
+I
+
+i
+
+element
+
+velocities
+The flame
+
+would
+seen
+
+have
+
+large
+
+(122%),
+
+images
+
+sustained
+
+with the imaging
+
+pyrolysis
+ended.
+
+zones
+The
+
+dimness
+
+that the reactions
+Jiang's
+velocity.
+
+model
+
+were
+
+(Jiang,
+
+test.
+
+techniques
+
+indicate
+
+tmasur¢ments
+
+Although
+
+employed
+
+that the reactions
+
+of the flame
+getting
+1995),
+
+very
+found
+
+J
+
+b
+
+of the flame
+
+disregarded.
+
+from both tests do not indicate
+
+in a longer
+
+,
+
+15
+
+so quantitadve
+
+for these tests were
+
+I
+
+4
+
+(seconds)
+
+Figure
+
+were quite
+
+i
+
+3
+
+Time
+
+speed
+
+I
+
+2
+
+1
+
+the flames
+
+here,
+were
+
+still taking
+
+and may
+
+no steady
+
+were
+
+the propagation
+
+and the decrease
+weak,
+
+whether
+
+state
+
+place
+
+in the flame
+have stopped
+solution
+
+the flames
+too dim to be
+of the
+when
+
+the tests
+
+length
+
+suggest
+
+at some
+
+at this flow
+
+point.
+
+40
+
+G-2-11
+1.00 cm/sec, 18% 02
+KimWipes,
+Chem Ignition
+
+Figure
+
+An interesting
+
+comparison
+
+tests for the Quiescent
+which
+Also,
+
+in both cases
+the visible
+
+both cases.
+from
+
+seconds,
+
+never
+
+flames
+
+before
+
+value
+
+propagate
+
+become
+the flame
+
+Burned
+
+can be made
+
+and 1 cm/sec
+
+However,
+
+an initial
+
+16 Partially
+
+flow
+
+cases.
+
+between
+
+shrinking
+
+the chemical
+
+The average
+
+after the ignition
+
+pyrolysis
+
+burst, are very
+
+ignition
+lengths,
+similar.
+
+too dim to see by no later than 1.5 seconds
+length
+
+in the Quiescent
+
+of about 2.1 cm at 0.8 seconds
+
+quickly
+
+Sample
+
+and dimming
+
+case
+
+to a value
+
+at 1.3 seconds.
+
+actually
+
+for
+
+grows
+
+of 2.5 cm at 1.2
+The flame
+
+41
+length
+
+in the 1 cm/sec
+
+0.8 seconds
+
+until
+
+case
+
+declines
+
+steadily
+
+it is too dim to see at about 1.3 seconds.
+
+for this may be that the free-stream
+transport
+
+sufficient
+
+would
+
+cause
+
+case.
+
+This could
+
+from a value of about 2.1 cm at
+
+oxygen
+
+convective
+
+to sustain
+
+cooling
+
+account
+
+velocity
+
+of 1 cm/sec
+
+is too slow
+
+the flame.
+
+However,
+
+would
+
+not be present
+
+which
+
+for the decreased
+
+Flame
+
+A possible
+
+Elements
+
+flame
+
+to
+speed
+
+in the quiescent
+
+length.
+
+vs. Time:
+
+Chemicol
+
+this low
+
+reason
+
+Flow
+
+& Hotwire
+
+= 1 cm/sec
+
+Ignition
+
+4
+Bose
+
+E
+u
+
+(Hotwire)
+
+"iip (Chemicol)
+Tip(Hot.i,e)
+Bose (Chemic
+
+I::_::
+
+]
+
+ol)
+
+2
+
+C
+0
+
+0
+a_
+
+@.._3eeP
+
+0
+
+,
+
+-1
+
+lli_
+
+f
+
+I
+
+,
+
+t
+
+,
+
+I
+
+2
+Time
+
+3
+(seconds)
+
+Figure
+
+17
+
+i
+
+I
+
+I
+
+4
+
+5
+
+flow
+
+42
+2.5 cmlsec
+
+Flow
+
+Four experiments
+2.5 cm/sec,
+system.
+
+three
+
+device
+
+The respective
+"up"
+
+cases
+
+the "down"
+in Figures
+
+with the hotwire
+
+For the three
+
+translation
+
+were performed
+
+hotwire
+
+moving
+
+carriage
+
+(test numbers
+case
+
+with a nominal
+
+ignition
+
+ignition
+
+tests,
+
+system
+
+velocities
+G-2-15
+
+(test number
+
+were
+
+2.50
+
+and G-2-16,
+
+G-2-17).
+
+18, 19 and 20, respectively.
+
+velocity
+
+conducted
+
+with the fuel
+
+one in the "down"
+
+cm/sec
+
+and 2.55
+
+respectively),
+
+The results
+
+of
+
+and one with the chemical
+
+two were
+
+in the "up" direction,
+
+carriage
+
+of these
+
+direction.
+
+cm/sec
+
+for the
+
+and 2.52
+
+cm/sec
+
+tests can be seen
+
+for
+
+43
+
+2.5
+
+c m/sec
+
+Concurrent
+Hotwire
+
+•
+-°-A---
+
+G-2-1
+
+5
+
+Video signol very noisy
+between t=3-4
+seconds
+
+Bose
+Florae
+
+Length
+Florae
+
+÷
+
+Pyrolysis
+
+o
+
+3
+
+1 87, 02
+
+Ignition
+
+Tip
+
+•
+
+4
+
+Flow,
+
+Burnout Front
+Pyrolysis Length
+
+Front
+
+is too
+
+dim
+
+to see
+
+ofter
+
+opprox. 4.3 seconds
+&&
+•
+
+•
+
+÷
+÷
+
+E
+
+2
+
+(3
+
+•
+
+÷
+
+cO
+
+1
+
+o
+
+-1
+
+2
+Time
+
+(seconds)
+
+Figure
+
+2.5
+
+c m/sec
+
+•
+•
+---A--÷
+o
+----e----
+
+4
+
+E
+o
+
+18
+
+Concurrent
+Hotwire
+
+5
+
+4
+
+3
+
+Flow,
+
+1 87, 02
+
+Ignition
+
+G-2-1
+
+6
+
+Florae is too dim to see ofter
+
+Tip
+Bose
+Florae Length
+Pyrolysis Front
+Burnout Front
+Pyrolysis Length
+
+opprox. 3.7 seconds
+
+2
+
+÷
+4-
+
+co
+
+°_
+
+o
+
+x& ....
+
+1
+
+.ffi
+llll•
+
+0
+
+IIIll
+
+_
+
+-1
+0
+
+1
+
+I
+
+a
+
+2
+Time
+
+Figure
+
+1
+
+3
+(seconds)
+
+19
+
+I
+
+4
+
+_E
+
+44
+
+2.5
+
+c m/sec
+
+Conc
+
+urrent
+
+Hotwire
+
+Flow,
+
+1 87. 02
+
+Ignition
+G-2-17
+
+•
+Tip
+•
+Bose
+__.A_-- Rome Length
++
+Pyrolysis Front
+o
+Burnout Front
+Pyrolysis Length
+-I
+
+E
+v
+
+÷
+
+¢o
+
+÷
+c
+÷
+d.
+
+cO
+
+o
+
+÷
+
+0
+•&
+
+°w
+
+o
+
+03
+O
+O-
+
+÷
+
+••A
+•
+
+0
+
+•
+
+i•
+
+•
+
+•mR
+
+m •
+U •
+
+-1
+
+,
+
+i
+
+0
+
+=
+
+I
+
+1
+
+=
+
+of all three
+analysis.
+
+to be comparable
+The
+
+flame
+having
+
+both
+
+though,
+
+that the flames
+
+approximately
+stays
+
+for test G-2-17
+not observed
+
+was
+
+while
+
+upstream
+
+for either
+
+It is difficult
+
+of both
+
+to track
+
+21 show
+
+the pyrolysis
+
+lengths
+
+the limits
+
+of the error
+
+different,
+
+flames
+
+than
+
+though,
+G-2-17.
+
+and G-2-16
+
+the flame
+
+for the entire
+
+1
+
+5
+
+on, within
+
+2.5 seconds
+
+G-2-15
+
+become
+
+in G-2-17,
+drop.
+
+of the burnout
+
+test G-2-15,
+
+to make
+
+in Figure
+
+longer
+
+a
+
+20
+
+are somewhat
+
+somewhat
+
+4 seconds,
+
+bright enough
+
+from
+
+lengths
+
+G-2-16
+
+cases
+
+I
+
+4
+
+(seconds)
+
+Figure
+
+of the three
+
+n
+
+3
+
+Time
+
+Comparison
+
+i
+
+2
+
+front
+
+though
+
+Also
+
+with
+
+G-2-15
+
+It should
+
+and
+
+be noted,
+
+too dim at
+somewhat
+
+shorter,
+
+note that the flame
+
+for the entire
+
+test.
+
+This
+
+tip
+was
+
+or G-2-16.
+
+comparisons
+
+between
+
+the flame
+
+lengths
+
+of these
+
+45
+three tests, due
+2-16),
+
+which
+
+these
+
+to variations
+
+were thought
+
+tests had
+
+longer
+
+direction.
+
+g-levels
+
+explain
+
+could
+II.
+
+flames
+
+this.
+
+quantifiable
+flame
+
+The average
+cm/sec.
+
+The
+
+carriage
+
+the chemical
+
+uniform
+
+approximately
+
+arc shown
+
+expected
+
+in
+
+the tests
+
+to have
+
+shorter
+
+by buoyancy.
+
+a conclusion
+
+on this matter.
+
+were observed
+
+with no other
+
+the mean-element
+
+for subsequent
+
+spread rates
+
+comparisons
+
+will be
+
+all three tests.
+for the hotwire
+
+in the chemical
+
+of the 1 cm/sec
+
+yielded
+
+velocity
+
+was enhanced
+
+effects,
+
+reported
+
+velocity
+
+velocity
+
+front.
+
+The pyrolysis
+
+ignition
+
+chemical
+
+ignition
+
+larger than
+
+a non-uniform
+
+ignition
+
+those
+
+flamebaU,
+
+case
+
+cases
+
+was 2.52
+
+was 2.58
+
+cm/sec.
+
+case, the ignition
+of the hotwire
+which
+
+front did not propagate
+
+burst
+
+ignitor.
+
+produced
+
+a non-
+
+after
+
+2 seconds.
+
+The hotwire
+which
+
+these
+
+ignitor was much
+
+ignitor
+
+pyrolysis
+
+from
+
+carriage
+
+As in the case
+
+The chemical
+
+to explain
+
+of the results
+
+the flow
+
+in
+
+by the residual
+
+observations,
+
+were
+
+that
+
+was conducted
+
+caused
+
+of this buoyant
+
+of all three cases
+
+measurements
+
+which
+
+to the experimental
+
+and G-
+
+The trend appears
+
+flows
+
+of the data prevents
+
+the results
+
+element
+
+test G-2-17,
+
+(due to buoyancy)
+
+the variation
+
+differences
+
+the average
+
+from
+
+contrary
+
+velocities
+
+Because
+
+than
+
+Estimations
+
+than that of the test where
+
+Unfortunately,
+
+and
+
+lengths
+
+tests (G-2-15
+
+identically.
+
+It may be that buoyant
+
+However,
+
+with the reduced
+
+the upward-moving
+
+to be conducted
+
+flame
+
+the downward
+
+Appendix
+
+between
+
+gave uniform
+
+ignitor
+
+produced
+
+pyrolysis
+
+fronts.
+
+small,
+Figure
+
+fairly
+
+uniform
+
+22 shows
+
+ignition
+
+the partially
+
+flame-balls
+burned
+
+46
+
+Pyrolysis
+
+Length
+
+vs. Time:
+Hotwire
+
+Flow = 2.5 c m/sec
+
+Ignition
+
+1.5
+
+I
+
+--l----e-"-_--
+
+G-2-16
+G-2-15
+G-2-17
+
+E
+1.0
+¢Gn
+¢(D
+._J
+._
+
+_>,
+
+o
+
+0.5
+
+Q_
+
+f
+
+,
+
+0.0
+
+_
+
+I
+
+0
+
+,
+
+I
+
+1
+
+,
+
+I
+
+2
+
+±
+
+,
+
+3
+
+1
+
+I
+
+I
+
+i
+
+4
+
+I
+
+,
+
+5
+
+Time (seconds)
+
+Figure 21
+
+sample from test G-2-17.
+was typical of the pyrolysis
+cases, the pyrolysis
+
+The uniform pyrolysis
+
+front shown in this sample
+
+fronts for the hotwLm-ignited
+
+fronts propagated
+
+throughout
+
+average of the mean-area pyrolysis lengths
+
+tests.
+
+In all three
+
+the entire drop time.
+
+The
+
+for the three tests at the end of the
+
+drops was 0.62 cm, and within the limits of the errors, appeared steady after
+about 3 seconds.
+
+The pyrolysis zone(s) advanced
+
+at an average velocity
+
+of
+
+0.33 cm/sec.
+The data from the chemical ignition
+
+test is shown in Figure 23.
+
+This
+
+test produced a flame length of about 2.5 cm at 1.1 seconds, which then shrunk
+at a rate of 2.12 cm/sec to 0.5 cm at 2 seconds.
+
+At that time, the flame
+
+47
+became
+
+too dim to see.
+
+full drop
+
+time,
+
+still taking
+this run
+
+was
+
+The
+
+at a velocity
+
+place,
+
+although
+
+burnout
+of 0.21
+
+0.85
+
+continued
+
+cnffsec,
+
+weakly.
+
+approximately
+
+front
+
+to progress
+
+indicating
+
+that the reaction
+
+The final
+
+mean-area
+
+era, and was
+
+pyrolysis
+
+the
+
+was
+
+shrinking.
+
+G-2-17
+2.52
+
+throughout
+
+cm/sec,
+
+KimWipes,
+
+length
+
+for
+
+_
+18%
+
+O:
+
+[
+
+HW _
+
+Io°, ,I
+
+Figure
+
+The
+those
+G-2-15
+
+hotwire-ignited
+
+of the chemically-ignited
+and
+
+G-2-16
+
+showing
+
+22 Partially
+
+tests gave
+
+flame
+
+Burned
+
+Sample
+
+lengths
+
+which
+
+test near the beginning
+an average
+
+flame
+
+length
+
+were shorter
+
+of the drop,
+
+with
+
+than
+tests
+
+of 1.4 cm at 1.1 seconds
+
+48
+
+2.5 c m/sec
+
+Conc urrent
+Chemicol
+
+Flow, 1 87. 02
+
+Ignition
+G-2-8
+
+Tip
+Bose
+Florae
+Length
+Pyrolysis
+Front
+Burnout
+Front
+
+4O
+
+Florae
+approx.
+
+Pyrolysis
+
+is too
+
+dim
+
+to see ofter
+
+2 seconds
+
+Length
+44-
+
+E
+
+4-
+
+4-
+
+4.
+
+4.
+
+t3
+o
+tO
+on
+.,.o
+
+o
+
+¢q
+O
+13..
+o
+
+0
+
+n
+gill
+
+-I
+
+,
+
+I
+
+0
+
+u
+
+i
+
+1
+
+I
+
+,
+
+I
+
+2
+
+n
+
+I
+
+3
+
+Time
+
+n
+
+I
+
+4
+
+5
+
+(seconds)
+
+Figure 23
+
+(due to imaging problems,
+time t=1.8 seconds).
+ignited
+16).
+
+Figure 24 shows the flame elements of the chemically-
+
+test (G-2-8) together
+
+The flames
+
+though,
+
+flame data for test G-2-17 was not available until
+
+with those of one of the hotwire-ignited
+
+from the hotwire-ignited
+
+with an average
+
+the three cases became
+
+velocity
+pyrolysis
+
+tests stayed visible much longer,
+
+flame length at 3.7 seconds
+too dim) of 0.8 cm.
+
+tests grew by an average of 0.12 cm/sec,
+
+Similar
+
+to propagate
+
+(the time at which one of
+
+The flame lengths from the three
+
+and these flames spread at an average
+
+(for the three tests) of 0.29 cm/sec.
+zones continued
+
+tests (G-2-
+
+As previously
+
+mentioned,
+
+the
+
+through the entire drop.
+
+to the 1 cm/sec case, the results of the chemical
+
+ignition test
+
+49
+
+Flame
+
+Elements
+
+vs. Time:
+
+Chemical
+
+Flow
+
+& Hotwire
+
+= 2.5
+
+cm/sec
+
+Ignition
+
+Base (Hotwire)
+
+-Z_-: Tip (Chemical)
+_p (.atwire).
+---i-Bose (Chemical)
+
+1
+
+2
+
+E
+tO
+v
+E
+
+o
+
+..d_l
+
+o
+12_
+
+0
+
+ul
+
+i
+
+I
+
+0
+
+w
+
+I
+
+1
+
+J
+
+|
+
+2
+
+I
+
+f
+
+3
+
+i
+
+|
+
+4
+
+5
+
+Time (seconds)
+
+Figure
+
+suggest
+
+that oxygen
+
+flames
+
+to be weaker
+
+velocity
+region
+state
+rate
+
+starvation
+than those
+
+was not large
+for a strong,
+
+solution
+of 0.20
+
+(downward)
+
+enough
+
+visible
+
+at the free
+
+by the large ignition
+
+produced
+to bring
+
+flame.
+
+stream
+
+by the hotwirc
+sufficient
+
+Jiang's
+velocity
+
+burst caused
+system.
+
+oxidizer
+
+model
+
+(Jiang,
+
+of 2.52
+
+cm/sec,
+
+The
+
+these
+flow
+
+into the reaction
+1995)
+with
+
+found
+a flame
+
+a steadyspread
+
+cm/sec.
+
+5 cmlsec
+The
+
+caused
+
+24
+
+actual
+
+Flow
+carriage
+
+for the hotwire
+
+velocities
+test,
+
+for this case
+
+and 5.12
+
+crn/scc
+
+were
+
+5.09
+
+(upward)
+
+cm/scc
+for the chemical
+
+5O
+test.
+The chemical
+at this flow
+
+velocity,
+
+shows
+
+the flame
+
+length
+
+stayed
+
+of the test.
+seconds
+
+yielded
+
+the resulting
+
+and pyrolysis
+
+constant
+
+within
+
+The pyrolysis
+
+a large,
+pyrolysis
+
+elements
+
+non-uniform
+
+flameball.
+
+front was uniform.
+
+for this test.
+
+at about
+
+Figure
+
+The mean-area
+
+the error at approximately
+
+zone advanced
+
+However,
+25
+pyrolysis
+
+1 cm for the duration
+
+0.71
+
+cm/sec
+
+over
+
+the f'mal 2
+
+of the test.
+
+The
+uniform
+
+ignitor
+
+hotwire
+
+pyrolysis
+
+system
+zone.
+
+produced
+
+a uniform
+
+The results
+
+5 cm/sec
+
+ignition
+
+of this test (Figure
+
+Concurrent
+
+Flow,
+
+Chemical
+
+burst which
+26) show
+
+gave
+
+a
+
+the mean-
+
+1 87. 02
+
+Ignition
+G-2-7
+
+4
+•
+•
+--_--*
+=
+
+3
+
+Tip
+Bose
+Rome Length
+Pyrolysis Front
+Burnout Front
+Pyrolysis Length
+
+A&
+
+¢
+• &&
+
+÷
+
+E
+
+&A
+
+2
+
+•
+
+÷
+
+C
+
+•
+
+0
+
+÷
+
+4b j
+
+A&&
+
+/,iA4k&_
+
+•
+
+A&&&
+
+•
+
+&&&
+
+o
+
+mlo|
+
+A
+
+oo
+
+.
+
+o
+
+0
+
+•
+
+mID
+
+•
+
+°_
+
+o
+n
+
+0
+
+•
+
+0
+Bill
+
+0
+
+lille
+
+-1
+
+I
+
+0
+
+1
+
+II
+
+gB
+
+I
+
+I
+
+i
+
+2
+
+I
+
+3
+
+Time (seconds)
+
+Figure
+
+25
+
+,
+
+I
+
+4
+
+i
+
+!
+
+5
+
+51
+area pyrolysis
+pyrolysis
+
+length
+
+was constant
+
+zone for this case
+
+at about
+
+spread
+
+1 cm after 2 seconds.
+
+at about 0.68
+
+cm/sec
+
+The
+
+for the last 2 seconds
+
+of the test.
+Similar
+length
+
+which
+
+to the 2.5 cm/sec
+was initially
+
+cases,
+
+longer
+
+5 cm/sec
+
+the chemical
+
+system
+
+than that produced
+
+Concurrent
+Hotwire
+
+gave
+
+a flame
+
+by the hotwire
+
+Flow,
+
+system
+
+1 87, 02
+
+Ignition
+
+G-2-23
+
+4
+•
+•
+--_--+
+"
+----e--
+
+3
+
+Tip
+Bose
+Florae Length
+Pyrolysis Front
+Burnout Front
+Pyrolysis Length
+
+@
+
+4
+
+&AA
+o
+
+4
+
+•&A
+
+•
+÷
+
+E
+
+A&
+
+O
+
+•&
+
+&
+
+o
+ii II II
+
+2
+
+.':L..-"
+
+c
+o
+
+o_
+.m
+
+"-.
+
+"
+
+1
+
+o
+
+im II III
+ie IID
+
+l
+
+lib I If
+
+0
+
+--1
+
+I
+
+I
+
+0
+
+,
+
+I
+
+1
+
+i
+
+Time
+
+27).
+
+2 cm and
+chemical
+unchanged
+
+At 1 second
+
+into the drops,
+
+1.4 cm, respectively.
+case
+
+had receded
+
+(within
+
+the experimental
+
+I
+
+_
+
+f
+
+4
+
+5
+
+(seconds)
+
+26
+
+the flame
+
+However,
+
+to about
+
+i
+
+3
+
+Figure
+
+(Figure
+
+I
+
+2
+
+by 2 seconds,
+
+1.3 era, while
+error).
+
+lengths
+
+The
+
+were
+
+the flames
+
+the hotwire
+flame
+
+approximately
+
+from
+
+flames
+
+for the
+were
+
+the chemical
+
+52
+systemcontinuedto declineto a value of about 1 cm by 2.5 seconds.This
+flame length remainedsomewhatsteadyfor the remainderof the drop, and
+spreadat a rate of 0.46 cm/sec. The flame from
+remained
+when
+
+fairly
+
+steady
+
+it declined
+
+at a speed
+suggests
+
+of 0.58
+
+system
+
+likewise
+
+at a length of about 1.5 cm until about 3.8 seconds,
+
+slighdy
+
+to about
+
+cm/sec.
+
+that the ignition
+
+test time, though
+
+the hotwire
+
+1.2 cm for the rest of the drop.
+
+The difference
+effects
+
+the effect
+
+in the flame
+
+are still affecting
+
+was less
+
+lengths
+
+the flames
+
+than that experienced
+
+It progressed
+
+for the two tests
+at the end of the
+
+at lower
+
+free-stream
+
+velocities.
+
+Flame
+
+Elements
+Chemic
+
+vs. Time:
+
+Flow
+
+ol & Hotwire
+
+= 5 cm/sec
+
+Ignition
+
+4
+
+[ -i_--
+
+3
+
+--,,-
+
+-1
+
+,
+
+0
+
+Bose (Hotwire)
+Tip (Chemical)
+Tip (Hot*ire)
+
+I
+I
+
+. ..-A
+.
+
+eo.,e(ChemicoO
+
+1
+
+1
+
+,
+
+_"
+
+I
+
+,
+
+3
+
+and hotwix¢
+
+,
+
+-...,._
+
+I
+
+,
+
+4
+
+I
+
+5
+
+(sec ands)
+
+Figure
+
+In both the chemical
+
+1
+
+2
+Time
+
+..._
+
+27
+
+cases, it appears as though
+
+the mean-
+
+53
+area pyrolysis
+which
+
+gives
+
+time,
+
+shows
+
+lengths
+
+converged
+
+the mean-area
+that
+
+these
+
+to a similar
+
+pyrolysis
+
+values
+
+lengths
+
+were
+
+steady
+
+length
+
+of about
+
+1 cm.
+
+for the two tests
+and similar
+
+within
+
+Figure
+
+as a function
+the limits
+
+28,
+of
+
+of the
+
+elTOT.
+
+Pyrolysis
+
+Length
+vs. Time: Flow = 5 c m/sec
+Chemicel & Hotwire Ignition
+
+2.0
+-l--41---
+
+Hotwire Ignition
+Chemicollgnition
+
+[
+
+1.5
+
+E
+v
+
+u
+t-
+
+O
+
+.._1
+
+1.0
+/
+
+(/)
+
+o
+>,
+
+a.
+
+0.5
+
+0.0
+
+I
+
+I
+
+0
+
+i
+
+i
+
+1
+
+i
+
+l
+
+2
+
+'
+
+I
+
+3
+
+'
+
+I
+
+4
+
+5
+
+Time (seconds)
+
+Figure
+
+Jiang's
+0.56
+
+cm/sec
+
+steady-state
+
+for the free stream
+
+7.5 cmlsec
+Only
+
+model
+
+(Jiang,
+velocity
+
+1995)
+
+predicted
+
+of 5.12
+
+a flame
+
+spread rate of
+
+cm/sec.
+
+Flow
+
+one test was available
+
+This was conducted
+
+28
+
+with a hotwire
+
+for the carriage
+ignition
+
+system,
+
+velocity
+
+of 7.5 cm/sec.
+
+with the carriage
+
+moving
+
+in
+
+54
+the "down"
+required
+
+direction.
+
+Note
+
+that for this carriage
+
+to stop at approximately
+
+available
+
+for the carriage.
+
+4.7 seconds,
+
+The actual
+
+velocity,
+
+the carriage
+
+due to the length
+
+carriage
+
+velocity
+
+was
+
+of travel
+
+was verified
+
+to be 7.47
+
+cm/sec.
+The ignition
+previous
+
+hotwire
+
+burst and pyrolysis
+
+tests.
+
+shows
+
+a mean-area
+
+which
+
+grew
+
+the test.
+element
+
+The data for this test is displayed
+
+pyrolysis
+
+length of approximately
+
+at a rate of about 0.26
+
+The final mean-area
+spread rote
+
+zone for this case
+
+cm/sec
+
+pyrolysis
+
+for the pyrolysis
+
+7.5 cm/sec
+
+zone
+
+as in
+
+29, and
+
+1.2 cm at 1.5 seconds,
+
+was about
+
+until the end of
+
+1.8 cm.
+
+was approximately
+
+Concurrent
+
+uniform,
+
+in Figure
+
+from 2.5 seconds
+
+length
+
+Hotwire
+
+were
+
+Flow,
+
+The
+
+mean-
+
+1.11 cm/sec.
+
+18Z
+
+02
+
+Ignition
+0-2-18
+
+6
+
+•
+•
+--A--÷
+o
+
+5
+
+Flow stops at
+opprox.
+4.7 seconds
+
+Tip
+Bose
+Florae Length
+Pyrolysis Front
+Burnout
+Front
+Pyrolysis
+Length
+
+4
+
+÷
+
+o
+
+AA&
+÷
+•
+
+E
+
+AA
+
+0
+
+3
+
+(3
+
+o
+
+cO
+
+666.4-
+
+.
+
+, _,,.__.._...._:r,_.
+
+-
+
+2
+
+CO
+
+O
+13.
+
+°-
+
+.gs:_. °
+
+8J m
+
+•
+
+o
+
+•
+
+iiII _
+
+1
+
+81 II
+0
+•
+
+0
+
+sm
+
+II
+
+8••
+
+-1
+0
+
+2
+Time
+
+3
+(seconds)
+
+Figure
+
+29
+
+:_..__
+
+4
+
+55
+The flame
+
+length
+
+at 1.3 seconds
+
+test exhibited
+
+considerable
+
+length
+
+around
+
+stayed
+
+was about
+
+unsteadiness,
+
+2.1 cm.
+
+This
+
+2 cm.
+
+but the average
+
+mean-element
+
+The
+value
+
+flame
+
+spread
+
+flame
+
+for this
+
+of the flame
+rate
+
+was 0.90
+
+o]cl/sec.
+
+The changing
+reach
+
+steady
+
+pyrolysis
+
+state.
+
+length
+
+neither
+
+and pyrolysis
+
+lengths
+
+By the end of the flow
+
+is approaching
+
+had reached
+Jiang's
+
+0.96
+
+flame
+
+a constant
+
+steady-state
+
+value
+value
+
+model
+
+indicate
+
+time,
+
+the value
+
+of the flame
+
+1995)
+
+of the mean-area
+
+length,
+
+in the available
+
+(Jiang,
+
+that this test did not
+
+but it is clear
+
+that
+
+time.
+
+gave
+
+a flame
+
+spread
+
+rate of
+
+cm/sec.
+
+I0 cmlsec
+The
+hotwire
+
+Flow
+
+actual
+
+carriage
+
+test and 10.07
+
+the maximum
+
+flow
+
+both ignition
+
+systems
+
+velocities
+
+cm/sec
+
+time
+
+for these
+
+tests
+
+for the chemical
+
+were 9.92
+
+test.
+
+available
+
+for the
+
+At this carriage
+
+was approximately
+
+were tested
+
+cm/sec
+
+with the carriage
+
+velocity,
+
+3.7 seconds.
+moving
+
+In this case,
+
+in the "down"
+
+direction.
+As in the other
+system
+
+was
+
+the results
+chemical
+length
+
+longer
+
+cases,
+
+the flame
+
+than that produced
+
+of the chemical-ignition
+system
+
+had receded
+
+as the hotwire-ignited
+
+initially
+
+by the hotwire
+test.
+
+to a length
+flames
+
+produced
+
+By
+
+by the chemical
+
+system.
+
+1.5 seconds,
+
+the flames
+
+of 2.9 era, which
+
+at that time.
+
+From
+
+Figure
+
+from
+
+was about
+
+that point
+
+30 shows
+the
+
+the same
+
+until
+
+the time
+
+56
+
+1 0 c m/sec
+
+Concurrent
+Chemical
+
+Flow,
+Ignition
+
+Flow stops
+
+8
+7
+
+Flame
+Base
+4-
+
+G-2-31
+3.7 seconds
+
+ct opprox
+"_
+
+Length
+
+Pyrolysis Front
+Burnout Front
+Pyrolysis Length
+
+o
+
+6
+
+1 87. 02
+
+----0----
+
+•
+
+• A•
+
+•
+
+• •
++
+
+&&A
+
+E
+v
+
+•
+
+o
+
+•
+
+•
+
+5
+
+÷
+
+4-
+
+4
+
+°'"
+
+¢Z
+
+o
+
+°_
+.1..*
+
+i:
+
+3
+
+O3
+
+O
+Q_
+
+2
+i
+Ba•ll
+
+1
+
+I
+
+I•l
+
+_
+
+o
+iI
+
+0
+-1
+
+I
+
+,
+
+0
+
+i
+
+I
+
+1
+
+I
+
+i
+
+2
+
+,
+
+I
+
+i
+
+I
+
+4
+
+3
+
+5
+
+Time (seconds)
+
+Figure
+
+the flow
+
+stopped,
+
+approximate
+
+the flames
+
+length
+
+from
+
+of 3.2 cm.
+
+30
+
+the chemical
+
+The
+
+ignitor
+
+mean-element
+
+averaged
+
+flame
+
+an
+
+spread rate
+
+was
+
+1.06
+
+Gm/SCC.
+The
+
+flames
+
+from
+
+the hotwire
+
+a length
+
+of 3.9 cm at 2.5 seconds
+
+constant
+
+for the remainder
+
+ignited
+ignition
+
+test exhibited
+burst
+
+velocities.
+this velocity
+
+subsided),
+
+The
+was
+
+system
+(Figure
+
+of the flow
+
+a longer
+which
+
+mean-element
+1.02 cm/sec.
+
+flame
+
+31).
+
+time.
+
+from
+
+2.9 cm at 1.5 seconds
+
+This length
+Figure
+
+then
+
+32 shows
+
+than the chemically-ignited
+
+is consistent
+flame
+
+grew
+
+spread
+
+stayed
+
+that
+
+rate for the hotwire
+
+fairly
+
+the hotwire-
+
+test (after
+
+with the tests at other
+
+to
+
+the
+
+flow
+
+ignition
+
+test at
+
+57
+
+1 0 cm/sec
+
+Concurrent
+Hotwire
+
+8
+
+•
+•
+--_-+
+o
+
+7
+6
+
+Flow,
+
+Ignition
+
+G-2-1
+
+Tip
+Base
+Flame Length
+Pyrolysis Front
+Burnout Front
+Pyrolysis Length
+
+•
+
+•
+
+&
+
+•
+
+••&
+
+,+
+
+•
+/
+
+"_
+
+•
+
+4
+
+cO
+._
+
+•
+
+4
+&AA•
+
+o
+
+9
+
+Flow stops at
+approx.
+3.7 seconds
+
+5
+
+E
+
+1 87. 02
+
+o
+
+,
+
+3
+
+o
+O_
+
+o
+
+2
+
++
+
+_ •
+
+I•
+iI
+
+•
+
+_
+
+-_
+
+•••I
+
+1
+0
+i
+
+-1
+
+I
+
+0
+
+i
+
+I
+
+1
+
+i
+
+I
+
+2
+
+i
+
+|
+
+3
+
+i
+
+J
+
+4
+
+5
+
+Time (seconds)
+
+Figure
+
+As in the case
+both
+
+of the 5 cm/sec
+
+tests,
+
+ignition
+
+systems
+
+were
+
+uniform,
+
+despite
+
+the chemical
+
+ignition
+
+case.
+
+Figure
+
+31
+
+the pyrolysis
+
+33 shows
+
+31.
+
+Like
+
+all previous
+
+is significantly
+hotwire
+
+system.
+
+in the error
+different
+this,
+
+longer
+
+the pyrolysis
+
+for the chemical
+
+This is clearly
+
+bars
+
+for these
+
+optical
+
+two
+
+Analysis
+
+1.5 seconds
+
+the non-uniform
+the burned
+
+length
+system
+
+produced
+
+in Figure
+
+tests was
+
+because
+
+which
+
+were
+
+34.
+
+I).
+
+ignition
+
+sample
+
+The
+
+burst in
+
+from
+
+test G-2-
+
+by the ignition
+
+(Note
+
+by
+
+burst
+
+by the
+
+that the difference
+
+the tests were conducted
+
+lead to different
+
+in Appendix
+
+produced
+
+than that produced
+
+shown
+
+arrangements,
+
+see the Error
+
+approximately
+
+tests,
+
+zones
+
+errors.
+
+average
+
+For details
+
+pyrolysis
+
+2.0 cm for the chemically-ignited
+
+with
+on
+
+lengths
+
+at
+
+test and
+
+1.0
+
+58
+
+Flame
+
+Elements
+
+vs. Time:
+
+Chemical
+
+8
+
+-i__-i
+
+7
+
+_
+
+"Hp (Hotw|re)
+Bose (Hotwire_
+Tip (Chem;col)
+
++
+
+Flow = 1 0 c m/sec
+
+& Hotwire
+
+Ignition
+
+Bose (Chem,co,)
+
+Flow Stops
+
+at approx.
+
+_
+
+3.7 seconds
+
+,
+. ._.¢_
+
+6
+
+..___.
+=
+
+--
+
+_"
+
+'
+
+4
+
+g
+._
+
+3
+
+_
+
+2
+]
+0
+-1
+
+,
+
+=
+1
+
+0
+
+2
+Time
+
+3
+
+4
+
+5
+
+(seconds)
+
+Figure 32
+
+cm for the hotwirc-ignited
+
+test.
+
+The pyrolysis
+
+zone for the chemical system
+
+maintained a fairly constant length (within the limits of the experimental error)
+throughout
+
+the test.
+
+The pyrolysis zone for the hotwim test grow steadily
+
+during the entire flow time, with the mean-area pyrolysis length increasing
+the rate of 0.41 cm/sec.
+
+at
+
+The final length of the pyrolysis zone for this test was
+
+about 2 cm at the end of the flow time.
+rate for the chemical-ignited
+
+The mean-eloment
+
+pyrolysis
+
+spread
+
+system was 1.15 cnYscc, while that of the hotwir¢
+
+system was 1.33 cm/scc.
+An interesting similarity between
+flames after the carriage
+
+stopped.
+
+the two tests was the behavior of the
+
+(Because of the space limitations of the
+
+59
+
+10.07 cm/sec,
+18% O 2
+i KimWipes, G-2-31
+"
+Chem Ignition
+
+Figure 33 Partially
+
+chamber, the maximum
+device was operated
+the cessation
+
+(briefly)
+
+to propagate
+
+momentarily
+
+reversed
+
+37 cm.
+
+If the
+
+at 10 cm/sec, this left about 1.5 seconds of drop time after
+
+the gas being "dragged"
+its momentum
+
+Sample
+
+travel of the carriage was approximately
+
+of the flow.)
+
+retained
+
+Burned
+
+I
+
+When the carriage was brought to a sudden stop,
+
+along in the boundary
+
+layer near the fuel sample still
+
+from the steady state carriage
+
+velocity,
+
+toward the bottom of the chamber.
+(opposed)
+
+flow in the flame region.
+
+and continued
+
+This created
+
+a
+
+6O
+
+Pyrolysis
+
+Length
+
+vs. Time:
+
+Flow
+
+Chemical
+
+& Hotwire
+
+Ignition
+
+= 1 0 c m//sec
+Flow stops
+
+3.0
+
+approx.
+
+at
+
+3.7 seconds
+
+J -'M-_- Chemicallgnition I
+HotwlreIgnition
+
+2.5
+E
+.3.
+°
+
+2.0
+
+c"
+
+i
+
+c"
+
+1.5
+
+_J
+
+>,
+
+1.0
+
+£
+>,
+
+(3_
+
+0.5
+
+0.0
+
+I
+
+,
+
+I
+
+2
+
+i
+
+I
+
+3
+
+i
+
+!
+
+4
+
+5
+
+Time (seconds)
+Figure
+
+At the time that the carriage
+about 3.2 cm long,
+Both
+
+showed
+
+seconds,
+cm.
+
+at which
+
+However,
+
+vehicle
+of -4.43
+
+cm/sec,
+
+In both
+
+cases,
+
+extinguish
+
+the flames
+
+while
+this
+
+flames
+
+(within
+
+began
+
+from
+
+error limits)
+
+a steady
+
+both cases
+
+that more
+
+by stopping
+
+of Jiang's
+
+system
+
+declined
+
+than
+
+were
+
+for the next 0.4
+to a length
+
+were still visible
+
+flames
+
+flames
+
+were about 3.8 cm long.
+
+of the chemicaUy-ignited
+
+the hotwire-ignited
+
+indicates
+
+the chemical
+
+ignited
+
+length
+
+The length
+
+the flames
+
+Results
+
+steady
+
+both flames
+
+impacted.
+
+stopped,
+
+and the botwire
+
+a fairly
+
+34
+
+of about 0.5
+
+until the drop
+
+flames
+
+receded
+
+shrunk at about -3.57
+
+1.5 seconds
+
+would
+
+at a rate
+cm/sec.
+
+be required
+
+the flow.
+
+steady-state
+
+model
+
+Oiang,
+
+1995)
+
+at a free stream
+
+to
+
+61
+velocity
+
+of 9.93
+
+era/see
+
+Ashless
+Two
+
+Filter
+
+cm/sec,
+these
+
+spread rate
+
+tests was one
+
+carriage
+
+velocities
+
+respectively.
+
+of 1.38 cm/sec.
+
+Paper
+using
+
+Ashless
+
+Filter
+
+of 18%,
+
+with an 0 2 concentration
+
+for both
+
+N 2. The
+
+a flame
+
+tests were conducted
+
+test was done
+pressure
+
+show
+
+the other with 21%
+
+atmosphere,
+
+and the diluent
+
+for the two cases
+
+The hotwire
+
+Paper
+
+ignition
+
+were
+
+9.89
+
+system
+
+was
+
+as the fuel.
+0 2.
+
+for both
+
+era/see
+
+One
+
+cases
+
+The
+was
+
+and 9.85
+
+employed
+
+in both
+
+of
+
+tests.
+
+10 c m/sec
+
+Concurrent
+
+Flow,
+
+1 87. 02
+
+Ashless Filter Paper, Hotwire Ignition
+=
+•
+--_--*
+o
+-me--
+
+3
+
+E
+o
+
+G-2-21
+
+Flow stops at
+approx. 3.7 seconds
+
+1ip
+Base
+Flame Length
+Pyrolysis Front
+Burnout
+Front
+Pyrolysis Length
+
+2
+
+v
+C
+
+o
+
+°_
+°_
+
+•
+
+i
+
+o
+O_
+
+x
+I•ll
+
+0
+
+-1
+
+•
+
+n
+
+0
+
+I
+
+1
+
+•
+
+•
+
+•
+
+a
+
+•
+
+•
+
+•
+
+•
+
+I
+
+l
+
+Hi
+
+II
+
+I
+
+n
+
+3
+
+Hi
+
+4
+
+•i
+
+=
+
+2
+
+Time (seconds)
+
+Figure
+
+35
+
+U•
+
+li
+
+•1
+
+!
+
+5
+
+62
+In both cases,
+uniform,
+
+and produced
+
+for both tests were
+KimWipes
+density
+flame
+
+the ignition
+
+as the
+which
+
+much
+fuel.
+
+pyrolysis
+
+shorter
+
+than
+
+than
+
+zones.
+
+zone
+
+steady-state
+
+system
+
+However,
+
+that produced
+
+four times
+
+and pyrolysis
+
+and reach
+
+by the Hotwire
+
+This was because
+
+is more
+
+structure
+
+to develop
+
+uniform
+
+provided
+
+the pyrolysis
+
+zones
+
+in any of the tests
+
+the Ashless
+
+using
+
+Filter Paper has an area
+
+that of the KimWipe
+
+are expected
+
+was fairly
+
+samples.
+
+The
+
+to take about four times
+
+for the Ashless
+
+Filter Paper
+
+longer
+
+than they
+
+would
+
+for the KimWipes.
+The final
+the
+
+mean-area
+
+pyrolysis
+
+18% O 2 was about 0.70
+
+cm.
+
+mean-element
+
+pyrolysis
+
+zone
+
+the mean-area
+
+pyrolysis
+
+length
+
+The data
+showed
+0.90
+
+_om
+
+a mean-area
+
+cm.
+
+0.24 cm/sec,
+cm/sec.
+
+Because
+also
+
+much
+
+expectecL
+flames
+
+these
+the
+from
+
+than
+
+flames
+
+35 shows
+
+was 0.06
+
+(also
+
+were
+
+the 21%
+
+0 2 test grew
+
+of 21%
+
+zone
+
+for
+
+(Figure
+
+grew
+
+the flames
+
+at the end
+
+36)
+
+time)
+
+of about
+
+spread at a rate of
+
+at the rate of 0.24
+from this test.
+for these
+
+for the KimWipe-fueled
+
+stiU growing
+
+18% 02 test growing
+
+length
+
+burned sample
+
+of this fuel,
+
+that observed
+
+The
+
+and the rate of growth
+
+at the end of the flow
+pyrolysis
+
+pyrolysis
+
+the partially
+
+for
+
+the data from this test.
+
+an 02 concentration
+
+length
+
+time)
+
+cm/sec.
+
+the mean-element
+
+of the density
+
+shorter
+
+from
+
+the flames
+
+pyrolysis
+
+37 shows
+
+(at the end of the flow
+
+spread at 0.10 cm/sec,
+
+and the mean-area
+
+Figure
+
+Figure
+
+the test using
+
+For this case,
+
+length
+
+two tests
+flames.
+
+of the flow
+
+in length
+
+at a rate
+
+in length
+
+at a rate
+
+of 0.41
+
+time,
+
+were
+
+As
+with the
+
+cm/sec,
+
+of 1.12 cm/sec.
+
+while
+
+63
+
+1 0 cm/sec
+
+Concurrent
+
+Flow, 21 7, 02
+
+Ashless F]lter Paper, Hotwire Ignition
+6
+
+•
+•
+--_--+
+o
+
+5
+4
+E
+
+Flome become too dim
+to see at approx. 4.2 seconds
+
+2
+
+o
+
+"lip
+Bose
+Flonne Length
+Pyrolysis Front
+Burnout Front
+Pyrolysis Length
+
+3
+
+c
+o
+
+C-2-22
+
+Flow stops at
+approx. 3.7 seconds
+
+1
+
+O_
+
+0
+
+II illl
+ilnl
+nmm
+
+-1
+-2
+
+ilii
+
+|
+
+IIII
+
+0
+
+1
+
+2
+
+3
+
+Time (seconds)
+
+Figure 36
+
+ill ill
+
+64
+
+G-2-22
+9.85 cm/sec,
+AFP,_
+
+Figure
+
+Thermocouple
+Three
+temperature
+placed
+phase
+fuel,
+
+touching
+above
+with
+
+were conducted
+in two
+
+the surface
+
+the fuel.
+
+37 Partially
+
+Burned
+
+Sample
+
+Data
+
+experiments
+information
+
+21% 02
+Ignition
+
+locations.
+
+using
+
+thermocouples
+
+For each test, one thennocouple
+
+of the fuel, and one was suspended
+
+All three tests were conducted
+
+18% 0 2 (82% N2), pressure
+
+to obtain
+
+using
+
+of one atmosphere,
+
+was
+
+in the gas
+
+KimWipes
+
+as the
+
+and a carriage
+
+65
+velocity
+
+of approximately
+
+All three tests were ignited using the
+
+10 cm/sec.
+
+hotwire system.
+The first test using thermocouples
+positioned
+
+(test number G-2-26) had them
+
+with the solid phase thermocouple
+
+placed 3 cm behind the initial
+
+leading edge of the fuel, and 2 cm from the side.
+was placed
+
+1 era downstream
+
+the surface.
+
+It was desired
+
+the fuel to minimize
+position
+
+The gas phase thermocouple
+
+from the solid phase thermocouple,
+
+0.2 cm off
+
+to be as far away from the (initial) leading
+
+the effects (on the temperature
+
+of the thermocouples
+
+(in the streamwise
+
+edge of
+
+maces) of the ignition.
+
+direction)
+
+was chosen
+
+The
+
+based
+
+on the results of test G-2-19, which was the hotwire ignition test with carriage
+velocity
+
+of (approximately)
+
+with this positioning,
+
+10 cm/sec.
+
+the flame should propagate
+
+before the end of the flow time.
+assumption
+
+this run.
+
+It was therefore
+
+However,
+
+was based on the
+
+were a small enough
+
+heat sink to
+
+effect on the flame spread rate.
+
+Video failure prevented
+for this run.
+
+themselves
+
+from this test that
+
+past both thermocouples
+
+This determination
+
+that the thermocouples
+
+have a negligible
+
+It was determined
+
+the acquisition
+also impossible
+
+the thermocouple
+
+of flame/pyrolysis
+
+element data
+
+to verify the carriage
+
+velocity for
+
+data for this run was successfully
+
+acquired.
+The temperature
+
+traces for this run (Figure 38) clearly show the preheat
+
+of the fuel surface as the flame approached the thermocouples.
+temperature
+
+was fairly constant
+
+This preheat
+
+at a value of about 725 K between
+
+t=2.4
+
+66
+seconds
+
+and t=3.4
+
+a fairly
+
+steady
+
+seconds.
+
+increase,
+
+During
+
+reaching
+
+Temperature
+
+this same period,
+
+a value
+
+Profiles,
+
+of about
+
+the gas phase
+
+875 K by t=3.4
+
+1 0 cm/sec
+
+Flow,
+
+trace
+
+shows
+
+seconds.
+
+1 87, 02
+
+Video foilure on this run
+G-2-26
+1 600
+
+Flow stops at approx. 3.7 seconds
+
+1 400
+
+Solid
+
+1200
+
+I O mm
+
+T.C.
+
+GosT.C
+o_
+
+>
+
+was
+
+30ram
+
+was 2ram
+behind
+
+behind
+off
+
+solid
+
+leading
+
+edge
+
+surface,
+
+T.C.
+
+Su
+
+r'foc
+
+•
+
+e
+
+*=
+
+\
+
+,,¢,
+v
+
+1 000
+O
+
+800
+
+t,.
+
+ID
+O.
+
+E
+(D
+I---
+
+600
+400
+i
+
+I
+
+o
+
+,
+
+I
+
+I
+
+3
+
+t
+
+1
+
+4
+
+,
+
+2
+
+,
+
+I
+
+5
+
+Time (seconds)
+
+Figure
+
+At about
+temperature
+the flow
+K.
+
+which
+stopped.
+
+The
+
+peak
+
+apparent
+
+from
+
+3.4 seconds,
+continues
+The
+
+the solid phase
+past the time
+
+gas phase
+
+for both traces
+
+peak
+
+trace
+
+shows
+
+(approximately
+
+mace grew
+
+occurred
+
+this that the flame
+
+fact the temperature
+
+38
+
+gradually
+
+3.7 seconds)
+to a value
+
+at approximately
+
+did not propagate
+
+a sharp increase
+
+in
+where
+
+of about 900
+
+t---4.0 seconds.
+
+as far as expected,
+
+It is
+and
+
+did not progress past the thermocouples
+
+during
+
+of this drop,
+
+that
+
+in
+the
+
+test time.
+At the conclusion
+
+it was
+
+immediately
+
+obvious
+
+video
+
+67
+failure
+
+occurred.
+
+The drop package
+
+day, with the modification
+cm above
+
+were available
+
+reach
+
+the thermocouples
+
+conducted
+
+in the previous
+The
+
+then rose
+time.
+
+The
+
+maximum
+
+time available.
+
+G-2-27
+
+did not
+
+was then
+
+position,
+
+but with
+
+show
+
+a peak
+
+the carriage
+traces
+
+of about
+
+(Figure
+
+715
+
+velocity
+
+K during
+
+to
+
+39) show
+the time that
+
+it did not reach that peak temperature
+
+temperature
+
+off somewhat
+
+of 1425
+
+as quickly
+
+trace
+between
+of about
+
+climbed
+
+slightly
+
+showed
+
+a quick
+
+time t=l
+1375
+
+second
+
+climb
+
+to about
+
+as
+
+690 K,
+
+and t=2 seconds.
+
+K at the very
+
+after the cessation
+
+It
+
+end of the flow
+of flow,
+
+to a
+
+K at t= 4.2 seconds.
+
+It can be seen
+
+from
+
+this that the flame
+
+the peak temperature
+
+to be recorded
+
+available
+
+The fact that the surface
+
+suggests
+
+that the flame
+
+test.
+
+temperature
+
+a quasi-steady
+
+1
+
+of the thermocouple
+
+Test
+
+of the thermocouple
+
+to a peak temperature
+
+flow
+
+results
+
+it was not realized
+
+from test G-2-27
+
+reached
+
+However,
+
+gas phase
+
+it leveled
+
+was now placed
+
+1 cm off the fuel surface.
+
+temperature
+
+was on.
+
+for a drop the following
+
+in the same streamwise
+
+Examination
+
+that the surface
+
+where
+
+and
+
+in the flow
+
+of the images
+
+cm/sec.
+
+the flow
+
+for analysis,
+
+thennocouple
+
+Analysis
+be 10.05
+
+This was done before
+
+with the thermocouples
+
+the gas phase
+
+prepared
+
+that the gas phase thennocouple
+
+the fuel surface.
+
+traces
+
+was then
+
+time.
+preheat
+
+temperature
+
+that the placement
+
+didn't
+
+by the surface
+
+far enough
+
+thermocouple
+
+during
+
+temperature
+
+in this test than
+
+of the gas phase
+
+propagate
+
+took longer
+
+it did in the previous
+
+thennocouple,
+
+which
+
+for
+the
+
+to reach
+test
+
+was raised
+
+68
+
+Temperature
+
+Profiles,
+
+1 0 c m/sec
+
+Flow,
+
+1 87. 02
+G-2-27
+
+Solid T.C. wos 50rnm
+
+1 600
+
+behind leodln9 edge
+
+Cos T.C was 10 mm off surfoce.
+1 0 mm behind sofid T.C.
+
+1 400
+c
+
+'l
+
+1 200
+
+o--
+
+_D
+",z"
+V
+
+1 000
+
+Gas _
+
+..
+:
+
+o
+
+800
+
+&)
+o_
+
+E
+600
+
+t--
+
+Surfoce
+
+.-"
+_
+
+_..,.,_,,.._,4_.
+i
+
+I
+
+400
+
+0
+
+Flow st_ps ot approx.
+I
+i
+
+,
+
+1
+
+2
+
+Figure
+
+for this test from 0.2 cm off the surface
+
+to 1 cm, may have
+
+to the upstream
+element
+
+data from
+
+is fairly
+
+steady
+
+length
+
+t=2 seconds.
+
+which
+
+The flame
+
+of about 3.2 cm at time
+the flow
+
+stops,
+The
+
+seconds,
+element
+
+and
+
+length
+
+t=3 seconds.
+
+the mean-clement
+
+mean-area
+
+pyrolysis
+
+stayed
+
+approximately
+
+pyrolysis
+
+zone
+
+then grows
+
+affected
+
+length
+
+the rate at
+
+surface.
+test G-2-27,
+
+given
+
+in Figure
+
+40,
+
+at about 1.5 cm between
+
+t=-I and
+
+at a rate
+
+to a length
+
+of 0.99
+
+From approximately
+
+flame
+
+I
+
+5
+
+39
+
+heat was transferr_
+
+a flame
+
+,
+
+(seconds)
+
+The flame/pyrolysis
+show
+
+l
+
+4
+
+3
+
+Time
+
+which
+
+3.7 seconds
+f
+i
+
+cm/sec
+
+t-- 1.5 seconds
+
+until
+
+spread rate was 1.39 cm/sec.
+was approximately
+
+this length
+
+1.75 cm at _
+
+for the entire
+
+spread at a rate of 1.00 cm/sec.
+
+The
+
+test.
+
+1.4
+
+The mean-
+
+leading
+
+edge
+
+of
+
+69
+
+1 0 c m/sec
+
+Concurrent
+Hotwire
+
+8
+
+•
+
+7
+6
+
+1 87. 02
+
+Ignition
+
+G-2-27
+
+Flow stops
+
+Tip
+
+•
+--_--+
+o
+
+Flow,
+
+Bose
+Florae Length
+Pyrolysis Front
+Burnout Front
+Pyrolysis
+Length
+
+Surfoce
+
+ot opprox
+
+3.7 seconds
+
+TC: 30ram
+
+behind
+
+Gos TC: 10ram off
+I Omm downstreom
+•
+
+5
+
+leoding
+
+surfoce,
+of surfoce
+
+&_
+
+edge
+
+TC
+
+&÷
+
+÷
+
+E
+•
+
+-4,
+
+4
+cO
+
++
+
+3
+
+O
+EL
+
+•
+
+. _1¢.ql¢. q¢,"
+
+o •
+
+o
+
+2
+_Ip-_
+
+•
+
+•
+
+1
+o
+
+0
+
+•
+,
+
+-1
+
+I
+
+I
+
+l
+
+1
+
+l
+I
+
+I
+
+2
+
+a heat
+
+as a quenched
+sink,
+
+thereby
+
+of the thermocouple
+area,
+
+suggesting
+
+locally
+
+the thermocouples
+
+in a place
+
+of them during
+
+the flow
+
+from the initial
+
+leading
+
+again
+
+placed
+
+off the surface.
+edge.
+
+time.
+edge
+
+1 cm downstream
+Both
+
+test (number
+
+The
+
+(and
+
+surface
+
+of the solid
+were
+
+it was
+would
+
+thermocouple
+The
+
+gas phase
+
+thermocouple,
+placed
+
+leads were
+
+fuel surface)
+
+G-2-28),
+
+that the flame
+
+of the fuel.
+
+thermocouples
+
+I
+
+5
+
+leads can be seen in the final pyrolysis
+
+the flame
+
+to insure
+
+,
+
+40
+
+that the thermocouple
+
+lowering
+
+For the last thermocouple
+
+I
+
+4
+
+(seconds)
+
+Figure
+
+zone
+
+i
+
+3
+
+Time
+
+the diamond-shape
+
+_'==
+
+desired
+
+placed
+
+thermocouple
+
+to mount
+past both
+1.5 cm
+was
+
+and elevated
+
+2 cm from
+
+as
+
+temperatures.
+
+propagate
+
+was
+
+acting
+
+the samples'
+
+1 cm
+side
+
+70
+The temperature
+thermocouples
+
+show
+
+traces
+
+from this test arc shown
+
+a steady
+
+rise in temperature
+
+Temperature
+Solid
+
+Profiles,
+
+T.C.
+
+was
+
+Gas T.C was
+
+1 600
+
+10 mm
+
+15
+
+10
+
+behind
+
+mm
+
+leading
+
+mm
+
+Flow,
+
+Both
+
+t--0.4
+
+1 87. 02
+G-2-28
+
+edge
+
+off surface.
+
+solid
+
+41.
+
+from about time
+
+1 0 cm//sec
+
+behind
+
+in Figure
+
+T.C.
+
+1 400
+c"
+
+1 200
+
+°_
+i
+
+>
+
+Gas -----______.f
+
+..:
+j
+
+v
+
+..
+
+•
+
+,"
+
+1 000
+:.
+
+O
+
+80O
+
+kiD
+
+%%%%
+
+f-.._
+: ._'_,.,
+
+•
+
+.,,
+,o.
+.°,
+
+"s
+
+:
+
+.
+
+CL
+
+E
+600
+
+I---
+
+o.__ 3,.toad,
+.,oo.o,o,o,o.
+
+40O
+i
+
+I
+
+0
+
+I
+
+i
+
+2
+Time
+
+until t=l.2
+
+seconds.
+
+that of the gas phase.
+seconds,
+
+at which
+
+temperature.
+K,
+
+while
+
+waccs
+
+The
+
+During
+
+Both
+
+traces
+
+temperaUL_
+
+the gas temperature
+
+then climb
+
+this time, the surface
+
+then
+
+at fairly
+
+show
+
+and the gas trace peaks
+
+briefly
+
+at that moment
+
+steady
+
+at 1426
+
+These
+
+I
+
+5
+
+temperature
+
+a steep increase
+climbs
+
+plateaus
+
+peaks
+
+occur
+
+until
+
+exceeds
+
+about t=l.8
+
+past the surface
+
+at approximately
+
+is approximately
+
+rates, until the surface
+K.
+
+,
+
+41
+
+time the gas phase temperature
+surface
+
+I
+
+4
+
+(seconds)
+
+Figure
+
+seconds
+
+I
+
+3
+
+I
+
+1
+
+1150
+
+trace peaks
+at the times
+
+1000
+K.
+
+Both
+
+at 1503
+t=2.7
+
+K
+
+71
+seconds
+andt=2.9 seconds,espectively.
+r
+the position
+second,
+
+of the flame
+
+relative
+
+Figure
+
+42 shows
+
+to the thermocouples
+
+a representation
+
+at the times
+
+of
+
+t = 1
+
+and t = 2.7 seconds.
+
+t
+Flow
+Direction
+
+Time
+
+FLAME
+(Time
+
+Time
+
+= 1 Second
+
+PROPAGATION
+and
+
+relative
+
+PAST
+
+flame
+
+steadily
+(after
+
+through
+the flow
+
+temperatures
+traces
+
+reaching
+
+then
+
+position
+
+peak
+
+the remainder
+stopped)
+
+reflect
+
+at that point
+
+were
+
+of the flow
+
+climb
+
+that point
+
+rapidly,
+
+surface
+until
+
+peak
+
+reaching
+of about
+
+700
+
+a second
+
+results
+
+of test G-2-28)
+
+both traces
+time,
+
+4.2 seconds.
+about
+
+JUNCTIONS
+
+42
+
+temperatures,
+
+at about
+
+and a second
+from
+
+their
+
+Seconds
+
+THERMOCOUPLE
+
+Figure
+
+After
+
+= 2.7
+
+reaching
+
+decrease
+
+an inflection
+
+The gas and
+
+gas phase
+
+peak
+
+This
+
+second
+
+peak
+
+point
+
+surface
+
+K and 650 K, respectively.
+
+970 K at 4.7 seconds.
+
+the end of the drop.
+
+fairly
+
+of about
+Both
+
+traces
+
+occurred
+
+Both
+1040 K
+decrease
+after the
+
+72
+carriage
+
+stopped,
+
+during
+
+the period
+
+of what was the boundary
+Analysis
+been
+
+9.88
+
+layer when
+
+of the video
+
+cm/sec.
+
+of reversed
+
+Figure
+
+the device
+
+images
+
+show
+
+43 shows
+
+1 0 cm/sec
+
+flow
+
+caused
+
+was moving.
+
+the actual carriage
+
+the flame
+
+Concurrent
+
+length
+
+•
+•
+--_--+
+=
++
+
+7
+6
+E
+v
+
+(.)
+
+m
+o
+Q=
+
+to have
+
+1.2 cm at t=l
+
+Flow, 1 87. 02
+G-2-28
+
+Flow stops at opprox 3.7 seconds
+
+Tip
+Bose
+Flame Length
+Pyrolysis Front
+Burnout Front
+Pyrolysis
+Length
+
+Surfoce
+
+TC: 1 5mm behind leoding edge
+
+Gos TC: 10mm off surfoce,
+10mm downstreom of surfoce TC
+
+5
+,i,
+4
+
+•
+
+c
+o
+°_
+
+velocity
+
+to be about
+
+Hotwire Ignition
+8
+
+by the momentum
+
++
+
++
+
+4.
+
+o
+
+3
+
+0
+
+•
+
+2
+
+I
+
+1
+
+o
+o
+
+•
+
+•
+
+0
+-1
+
+I
+
+I
+
+I
+
+1
+
+0
+
+i
+
+2
+
+I
+
+I
+
+I
+
+3
+
+I
+
+4
+
+I
+
+5
+
+Time (seconds)
+
+Figure 43
+
+second,
+
+and rose
+
+slowly
+
+about 3 cm by t=2.7
+of the flow
+
+rime.
+
+and at 4.1 seconds
+
+to about
+
+seconds,
+
+The flame
+decreased
+
+(near the end of the flow
+
+1.5 cm by t=2 seconds.
+
+where
+length
+rapidly.
+
+time)
+
+was
+
+it remained
+then dipped
+
+fairly
+
+steady
+
+to
+
+for the remainder
+
+to about 2.5 cm at 3.7 seconds,
+
+The mean-element
+1.10 cm/sec.
+
+It then increased
+
+flame
+
+spread rate
+
+73
+The
+error)
+
+mean-area
+
+at about
+
+mean-element
+test,
+
+1.3 cm from
+pyrolysis
+
+the pyrolysis
+
+pattern
+
+pyrolysis
+
+zone
+
+of the surface
+
+length
+
+for this test was steady
+
+1.9 seconds
+
+zone spread
+
+until
+
+the end of the flow
+
+rate was
+
+of the remaining
+thermocouple
+
+0.96
+
+sample
+
+leads
+
+(within
+
+cm/sec.
+
+shows
+
+the
+
+time.
+
+The
+
+As in the previous
+
+the diamond
+
+as a non-pyrolized
+
+area
+
+shape
+(Figure
+
+44).
+
+G-2-28
+9.88 cm/sec,
+18% 02
+KimWipes,
+HW Ignition
+Gas & Surface
+Thermocouples
+
+Figure
+
+Comparison
+G-2-28
+
+(Figure
+
+43)
+
+of the flame
+show
+
+44 Partially
+
+elcraent
+
+the initially
+
+Burned
+
+plots
+
+measured
+
+Sample
+
+of tests G-2-27
+flame
+
+lengths
+
+(Figure
+
+40) and
+
+to be fairly
+
+74
+similar,
+
+approximately
+
+lengths
+
+stay similar
+However,
+
+approximately
+
+1 cm (at time t=l
+
+the mean-element
+2 seconds
+
+G-2-28
+
+had the thermocouples
+
+leading
+
+edge
+
+of I. I0 cm/sec,
+
+thermoeouples.
+reached
+
+losses
+
+the flames
+
+was
+
+a greater
+
+for G-2-27.
+
+amount
+
+may
+
+from
+
+with G-2-28
+
+to the initial
+
+where
+
+the flow
+about
+
+Since
+
+time to propagate
+
+in G-2-27,
+
+which
+
+the flame
+
+stopped.
+
+1420
+
+This
+
+to the flames
+
+account
+
+can
+
+K in G-2-28,
+
+fact that the thermocouples
+
+of time closer
+
+the thermoeouples
+
+distance
+
+when
+
+The
+
+differ,
+
+had sufficient
+
+not the case
+
+gas temperatures,
+
+the flow)
+
+through
+
+flame
+
+a rate of 1.39 cm/sec.
+
+half the (streamwisc)
+
+This
+
+by the peak
+
+spent
+
+These
+
+(as measured
+
+time)
+
+having
+
+the gas phase thermoeouple
+
+K (during
+
+G-2-28
+
+spread rates
+
+and G-2-27
+
+of the fuel as G-2-27,
+
+also be seen
+1380
+
+flame
+
+until the end of the flow
+
+a rate
+
+had just
+
+for both tests.
+
+for most of the test.
+
+having
+
+past both
+
+second)
+
+suggests
+
+for the difference
+
+and
+
+for test
+that heat
+
+in the
+
+spread
+
+rates.
+Comparison
+results
+
+of the hotwire-ignited
+
+(test G-2-19,
+took
+
+of the flame
+
+longer
+
+without
+
+Figure
+to reach
+
+length
+
+The implication
+
+plots from
+
+test at a similar
+that the flames
+
+their maximum
+
+thermocouples.
+
+the thermoeouples
+maximum
+
+31) show
+
+element
+
+observed
+
+The maximum
+
+seen
+
+in the test without
+
+of this is that
+
+velocity
+
+the addition
+
+two tests with
+
+without
+
+in the test with
+length
+
+observed
+
+with the thermoeouples
+
+these
+
+than
+
+flame
+
+was about 3.10
+thermoeouples
+
+thermoeouples
+the thermocouples
+
+did those
+
+length
+
+in the test
+
+for the tests
+
+era, whereas
+
+was
+
+of the thermocouples
+
+the
+
+the
+
+about 3.95
+may
+
+era.
+
+account
+
+with
+
+75
+for the significantly shorterflamesof testsG-2-27 andG-2-28.
+Jiang'ssteady-state
+model calculateda gasphasepeak(measured1 cm
+off the surface)of 1442K, and a peaktemperature
+from the surfaceof 1597 K.
+The peaktemperatures
+recordedin testG-2-28 were 1426K and 1503 K for
+the gasphaseand surface,respectively.
+
+V.
+
+Discussion
+Hotwire
+Several
+
+One
+
+Ignition
+trends
+
+of the obvious
+
+was released.
+
+The
+
+vs. Chemical
+became
+
+Figure
+
+ignition
+45).
+
+ignition
+burst
+
+was
+
+system
+
+was
+
+system
+
+non-repeatable
+
+the manner
+
+around
+
+the leading
+
+46).
+with
+
+larger,
+
+a fairly
+
+Hotwire
+
+edge
+
+burst
+
+the non-uniformity
+techniques
+
+energy
+
+small,
+
+uniform
+
+System
+
+of the fuel
+
+non-uniform
+
+the application
+
+systems.
+
+the ignition
+
+from
+
+Additionally,
+
+76
+
+in which
+produced
+
+consistently
+
+Burst
+
+with the much
+
+(Figure
+
+in the tests of the two ignition
+
+45 Ignition
+
+burst, concentrated
+
+This contrasts
+
+evident
+
+differences
+hotwire
+
+Ignition
+
+used
+
+sample
+
+(Figure
+
+of the chemical
+of the chemical
+in these
+
+tests.
+
+77
+
+Figure
+
+At low
+pyrolysis
+
+initial
+
+speeds,
+zones
+
+expected
+time
+
+the pyrolysis
+(compared
+lower
+
+which
+state
+
+for these
+region
+
+duration
+
+flame
+
+tests,
+
+to that produced
+
+itself
+
+on fuel
+
+of the tests,
+
+the initial
+
+from
+
+much
+
+larger
+
+at that speed.
+
+the flame
+
+didn't
+
+by the burst.
+by the hotwire
+
+attributable
+that was
+
+zone,
+
+Chemical
+
+the chemical
+
+system
+
+than that which
+This means
+progress
+
+The
+
+System
+
+system)
+
+partially
+whether
+
+and achieved
+
+pyrolyzed.
+
+steady
+
+be
+
+to escape
+
+of the flames
+
+at speeds
+
+the flame
+
+would
+
+far enough
+
+weakness
+
+produced
+
+that in the limited
+
+to the fact that the flame
+
+already
+
+it is uncertain
+
+pyrolysis
+
+Burst from
+
+flameball
+
+were
+
+created
+
+may be partially
+
+sustain
+
+past
+
+the large
+
+for a steady
+
+available
+
+46 Ignition
+
+of 2.5 cm/sec
+was
+
+Due
+
+would
+
+state.
+
+The
+
+attempting
+to the short
+
+have
+
+propagated
+
+fact that these
+
+or
+to
+
+78
+flames
+
+were getting
+
+suggests
+
+that the reaction
+Another
+
+being
+
+weaker
+
+burst
+
+effect
+than
+
+grow
+
+differences
+between
+smaller
+
+the hotwire
+velocities
+shorter
+flow
+
+cases,
+
+flame
+velocities
+
+reaction
+
+zone
+Clearly,
+
+system
+additional
+expected
+inability
+
+systems.
+
+were
+
+were
+
+probably
+to the point
+
+potential
+
+from
+energy
+
+was non-uniformity
+to reliably
+
+repeat
+
+flame
+
+to
+The
+
+pyrolyzed
+
+fuel,
+
+the
+
+that were observed
+were observed
+
+to be
+
+tests compared
+
+to
+
+at the free stream
+velocities,
+
+for the chemical
+
+somewhat
+
+cases,
+
+but the higher
+
+of fresh oxidizer
+
+into the
+
+was less apparent.
+
+of the ignition
+system.
+
+burst was
+This
+strip.
+
+of the ignition
+
+burst from
+
+of this flameball.
+
+greater
+
+for the chemical
+
+was expected,
+
+of the nitrocellulose
+
+the shape
+
+attempting
+
+to explain
+
+lengths
+
+obvious
+
+near
+
+concentration.
+
+for all the chemical
+
+the transport
+
+the hotwire
+
+length
+
+flame
+
+was
+
+partially
+serve
+
+ignition
+
+in the region
+
+oxygen
+
+At the higher
+
+that the effect
+
+the magnitude
+
+could
+
+flames
+
+that the large
+
+of the oxygen
+
+previously
+
+the most
+
+still observed
+
+enhanced
+
+been
+
+that the flame
+
+Though
+
+and 2.5 cm/sec.
+
+lengths
+
+than realized
+
+and
+
+burst dissipated)
+
+the effects
+
+of 1 cm/sec
+
+much
+
+over
+
+too dim to see)
+
+to the chemical
+
+have
+
+concentration
+
+intensity
+
+the two ignition
+
+may
+
+became
+
+ceased.
+
+with reduced
+
+advancing
+
+in both visible
+
+cases
+
+contributed
+
+flames
+
+a region
+
+oxygen
+
+(after the initial
+
+have
+
+It is possible
+
+through
+
+reduced
+
+eventually
+
+consumed
+
+flame.
+
+of the flame
+
+a locally
+
+may
+
+ignitor
+
+and propagate
+
+(and in some
+
+may have
+
+the hotw_
+
+established
+
+combination
+
+dimmer
+
+which
+
+of the chemical
+
+the newly
+
+and
+
+visibly
+
+due
+
+to the
+
+What was not entirely
+this system,
+Typically,
+
+and
+the
+
+the
+
+79
+nitrocellulose
+inward.
+
+ignited first at one or both edges of the sample,
+
+Sometimes,
+
+and propagated
+
+the ignition burst propagated inward from both sides at
+
+about the same time; other times, one side would propagate
+
+toward the center
+
+faster than the other.
+A likely explanation
+is small differences
+used involves
+followed
+
+for the variability
+
+in the application
+
+the placement
+
+by placement
+
+of the shape of the ignition burst
+
+of the nitrocellulose
+
+of the strip at the leading
+
+strip.
+
+The technique
+
+edge of the fuel sample,
+
+of the ignitor wire flat against the length of the strip.
+
+The strip was then dissolved
+
+into the paper using drops of acetone
+
+an eyedropper.
+
+This served to bond the chemical
+
+straight
+
+applied from
+
+wire.
+
+ignitor
+
+The problem
+
+with this is that there was no way to reliably
+
+same amount of acetone to the ignitor
+sample.
+
+The acetone dissolved
+
+out over an area of the sample.
+
+amount)
+
+of dissolved
+The hotwire
+
+problem
+
+strip in exactly
+
+the strip instantly,
+
+mixture
+
+nitrocellulose
+
+and then tended to spread
+
+was determined
+
+by the amount
+
+(though not the total
+
+system did not suffer from this problem.
+to guarantee
+
+the entire ignitor wire and the paper sample.
+
+account for small differences
+
+(briefly)
+
+in a given area of the fuel sample.
+
+with this system was that it is difficult
+
+contact between
+
+the same place for each
+
+This then affected the concentration
+
+ignition
+
+deposit the
+
+The area which was subsequently
+
+soaked with the acetone/nitrocenulose
+of acetone applied.
+
+strip to the paper and to the
+
+perfect
+
+The main
+thermal
+
+This could
+
+in the shape of the ignition bursts of the Hotwire
+
+8O
+tests.
+
+However,
+
+this problem
+
+ignition
+
+probably
+
+Temperana¢
+The
+
+region.
+
+Because
+
+gradually
+
+traces
+
+slightly
+
+earlier
+
+streamwise
+probe
+
+leading
+
+zone
+
+28, probably
+
+was
+
+distance
+
+the final pyrolysis
+
+preheat
+
+zone,
+
+2.7 seconds)
+
+(which
+
+time)
+
+within
+
+(which
+
+so
+
+tests.
+
+was
+
+the probes
+
+from
+
+measured
+
+had the chance
+it clearly
+
+a peak
+
+the gas phase
+
+through
+
+flame
+
+trace
+
+of the
+
+This
+
+The
+
+3 em
+
+behavior
+
+although
+trace
+
+test G-2-
+
+the
+
+that the surface
+
+approximately
+Therefore,
+
+the normal
+
+equal
+
+this probe
+
+development
+
+of the flame
+
+to
+
+of the
+
+(at about
+
+temperature.
+
+for the first
+
+1.8 seconds
+
+of
+
+at a
+
+from
+
+at half
+
+means
+
+of the test.
+
+the base
+
+mounted
+
+720 K.
+
+mounted
+
+that was
+
+to experience
+
+to the ignition
+
+temperature
+
+in the surface
+
+at the end
+
+passed
+
+probe
+
+in test G-2-26,
+
+the ignitor
+
+in
+
+to be useful.
+
+of about
+
+edge.
+
+probes
+
+positions
+
+the surface
+
+for that test were
+leading
+
+close
+
+streamwise
+
+show
+
+of the
+
+past both
+
+relatively
+
+the surface
+
+apparent
+
+a distance
+
+and recorded
+
+had
+
+also observed
+
+the initial
+
+though
+
+them
+
+temperature
+
+is not readily
+
+length
+
+propagate
+
+can prove
+
+of the fuel)
+
+from
+
+never
+
+Similarly,
+
+and G-2-28
+
+G-2-27
+edge
+
+the flame
+
+the different
+
+to a preheat
+
+because
+
+(for G-2-28)
+
+G-2-27
+
+from
+
+increasing
+
+this preheat
+
+quit_ uniform,
+
+the interpretation
+
+to mount
+
+of this problem,
+
+the initial
+
+were generally
+
+on these
+
+of test time limits
+
+it is necessary
+
+in runs
+
+The
+
+effect
+
+In order to have
+
+time,
+
+thermoeouples
+
+from
+
+amount
+
+data.
+
+the available
+
+had a minimal
+
+tests
+
+Profiles
+
+small
+
+thermocouple
+
+bursts for these
+
+of test G-2-28
+
+81
+showsa much quicker rise in temperature
+thanthe sametime for testG-2-27.
+This is to be expected,dueto the closerproximity to the ignition region. The
+slope of the gasphasetracefor G-2-28 from time 2.2 seconds
+until it reached
+its peakat about2.9 seconds 318 K/sec.
+is
+between
+cases
+
+2.7 seconds
+
+and
+
+to the approach
+
+subsequently
+
+of the flame
+
+reached
+
+The
+
+peaks
+
+significant
+
+for G-2-27,
+
+3.5 seconds
+
+difference
+
+the end of its' flow
+
+time,
+
+left.
+
+sufficient
+
+allowed
+
+the surface
+
+phase
+
+When
+form
+
+taken
+
+a somewhat
+
+behavior,
+
+probe,
+
+as well
+
+2-19
+
+(without
+
+themselves
+Figure
+
+as the peak
+
+shortened
+
+sample
+
+shows,
+
+test G-2-28,
+
+to propagate
+
+and G-2-28
+
+44) clearly
+
+the intrusion
+
+(left
+showed
+
+showing
+
+of flow
+
+at
+time
+
+past
+
+in G-2-27.
+
+of these
+
+and may have
+
+was nearly
+
+0.8 seconds
+
+temperature
+
+plots
+
+probes
+
+at 3.5 seconds
+
+that G-2-27
+
+about
+
+G-2-27
+
+cooldown)
+
+as the thermocouples
+(Figure
+
+from
+
+element
+
+the flames
+from
+
+was reached
+
+of both the preheat/pyrolysis
+
+(and
+
+of the flame
+
+47 is an image
+
+thermocouples.
+
+picture
+
+the thermocouples)
+
+side of the fuel
+burned
+
+the traces
+
+Both
+
+in both
+
+K.
+
+of the flame
+
+that did not occur
+
+of G-2-27
+
+This corresponds
+
+This means
+still had
+
+slope
+
+to the probe.
+
+1400
+
+time for the base
+
+together,
+
+as the comparison
+
+zone
+
+is that this peak
+
+G-2-28
+
+while
+
+clearer
+
+reaction
+
+for G-2-28.
+
+while
+
+gas phase
+
+246 K/see.
+
+of approximately
+
+and 2.9 seconds
+
+This
+
+was
+
+The
+
+lowered
+
+a quenched
+
+to
+
+temperature
+profiles.
+
+tests
+
+However,
+
+with that of test G-
+
+of the thermocouples
+the flame
+
+the shorter
+
+side of edge
+
+can be seen
+
+view).
+region
+
+temperatures.
+
+flame
+
+on the same
+
+The
+
+partially
+
+around
+
+the
+
+82
+
+Figure 47 FlameImagesfrom testG-2-28
+(Freestream
+Velocity=9.88cm/sec, 18% 02)
+To further
+losses
+
+this observation,
+
+due to the thermocouples,
+
+released
+
+by the combustion
+
+calculations
+
+associated
+
+This estimation
+and Fourier's
+
+Law
+
+and the un-insulated
+
+of the fuel.
+
+losses
+
+were accounted
+portion
+
+due to the thermal
+
+inertia
+
+was made
+
+to an estimation
+
+Details
+
+estimations
+
+the one-dimensional,
+
+to estimate
+
+an estimation
+
+and compared
+
+with these
+
+used
+
+the thermocouples
+
+rate
+
+support
+
+steady-state
+
+heat
+
+due to conduction.
+
+for by modeling
+
+of the leads
+
+of the energy
+
+of all assumptions
+can be found
+
+and
+
+in Appendix
+conduction
+
+Radiation
+
+emitters.
+
+junction
+
+III.
+equation
+
+losses
+
+the thermocouple
+
+as black-body
+
+of the thermocouple
+
+of the heat
+
+from
+
+junction
+
+The
+
+heat
+
+loss
+
+and leads
+
+was
+
+also
+
+83
+calculated.
+The rate of energy
+estimated
+
+to be about
+
+under
+
+thermocouples,
+
+released
+
+of the heat
+
+junction
+
+and
+
+heat
+
+loss rate
+
+from
+
+between
+
+thermocouples
+
+Test
+
+G-2-28,
+
+except
+
+of approximately
+
+with raising
+
+measured
+
+The
+
+but still supports
+to affect
+
+difference
+
+the flame.
+
+of the
+
+and radiation
+
+loss rate of almost
+
+the hypothesis
+
+The
+
+of the
+
+was about 2.7 Watts.
+
+due to conduction
+
+the calculated
+
+was
+
+the temperature
+
+temperature
+
+combined
+
+which
+
+156 Watts.
+
+for the addition
+
+the thermocouples
+
+are sufficient
+
+was the hotwire-ignited
+
+at the rate
+
+energy
+
+than
+
+of the fuel was
+
+which
+
+10 era/see.
+
+loss rate associated
+
+smaller
+
+the tests,
+
+for test G-2-19,
+
+conditions
+
+7.3 Watts.
+
+of three
+
+the combustion
+
+of about
+
+leads to the final
+
+approximately
+a factor
+
+velocity
+
+similar
+
+estimate
+
+from
+
+188 Watts
+
+test with a freestream
+conducted
+
+release
+
+10 Watts
+
+of about
+
+that heat
+
+The
+
+was
+is about
+
+32 Watts
+
+losses
+
+through
+
+the
+
+Comparison
+
+Via
+
+with
+
+Flame
+
+Spread
+
+Figure
+
+Model
+
+the steady-state
+
+48 shows
+
+Steady-State
+
+flame
+
+Rates
+
+Experimental
+
+spread results
+
+from
+
+Jiang's
+
+& Model Flame Element
+Velocity
+Hotwire Ignition, KimWipes, 1 87. 02
+
+Data
+
+1.5
+•
+•
+•
+40
+
+t_
+eD
+Cf_
+
+E
+o
+V
+
+Model Spread Rote
+Tip Veloc it),
+Base Velocity
+Py. Front Velocity
+B.O. Front Velocity
+
+4""
+
+O
+
+..'•
+
+•
+
+1.0
+
+°--
+
+¢J
+o
+
+Steody-Stote
+
+..••t
+
+Model by C.B. Jiong
+
+"•
+
+•
+
+>
+
+E
+_v
+
+0.5
+
+•
+
+w
+cD
+
+..."
+.
+
+E
+(3
+t.t-
+
+•
+
+...
+
+.'•
+
+0
+
+!
+
+0
+
+I
+
+I
+
+1
+
+|
+
+t
+
+I
+
+2
+
+3
+
+.
+
+!
+
+•
+
+!
+
+4
+
+Freestreom
+
+plotted
+
+with the velocities
+
+experimentally
+
+for the hotwire
+
+for the theoretical
+reached
+
+steady-state,
+However,
+
+observed
+
+data.
+
+data
+
+Due
+
+ignidon
+
+is to make
+
+,
+
+!
+
+,
+
+7
+
+I
+
+.
+
+8
+
+I
+
+9
+
+I
+
+10
+
+48
+
+of the flame
+system.
+
+and pyrolysis
+The dotted
+
+elements
+
+measured
+
+line is the curve-fit
+
+to the fact that none of the tests def'mitively
+
+direct comparisons
+
+one approach
+
+I
+
+6
+
+Veloc [ty (c m/see)
+
+Figure
+
+model
+
+,
+
+5
+
+with the model
+
+to comparing
+
+no assumptions
+
+are difficult.
+
+the steady-state
+
+about the validity
+
+84
+
+model
+
+with the
+
+of the mathematical
+
+85
+model,
+been
+The
+
+but to look for points
+at or close
+
+cases
+
+to steady-stow,
+
+which
+
+With
+
+about
+
+less than
+
+than
+
+burnout
+
+fronts
+
+cm/sec,
+
+respectively,
+
+25, shows
+length
+
+with (nominal)
+
+was
+
+pyrolysis
+
+had experimentally
+
+The experimental
+
+decreasing
+
+of 0.86
+
+the theoretical
+
+spread
+
+cm/sec
+
+pyrolysis
+
+was close
+
+velocity
+cm/sec
+
+cm/sec.
+
+cm/sec,
+
+The
+
+to steadyand 7.5
+
+which
+
+and
+
+is
+20%
+
+pyrolysis
+
+of 0.68
+
+and
+
+cm/sec
+
+and 0.67
+
+than the theoretical
+
+was
+
+much,
+
+was approaching
+
+shown
+
+in Figure
+
+but the flame
+
+the length
+
+and pyrolysis
+
+time ended
+
+of about 7.5 cm/scc,
+
+and 0.93
+
+rate of 0.96
+
+cm/sec.
+
+to the theoretical
+
+front was advancing
+
+than the theory
+
+the flame
+flow
+
+these.
+
+of the
+
+zone near the end of the test time.
+
+base velocities
+
+faster
+
+of 0.47
+
+was not changing
+
+and
+
+predicts
+
+of 5 cm/scc
+
+are about 17% greater
+
+length
+
+to have
+
+rate of 0.56 cm/sec
+
+velocities
+
+data for this case,
+
+with time,
+
+For the freestrcam
+
+0.98
+
+of 0.70
+
+measured
+
+both of which
+
+spread
+
+tip velocity
+
+velocity
+
+appear
+
+to be the closest
+
+velocities
+
+the theoretical
+
+base
+
+that the pyrolysis
+
+which
+accurately
+
+appeared
+
+free-stream
+
+the experimental
+
+the expedtncntal
+
+spread rate.
+
+discussed)
+
+that assumption,
+
+19% more
+
+data
+
+and see if the model
+
+(as previously
+
+state were the cases
+cm/sec.
+
+in the experimental
+
+predicts.
+lengths
+
+cra/sec
+The
+
+were
+
+both within
+
+observed
+
+spread rate,
+
+were
+
+burnout
+
+which
+
+data (Figure
+
+also approaching
+
+tip and
+
+about
+
+10%
+
+of
+
+front speed
+
+of
+
+but the experimental
+
+at the rate of 1.24 cm/sec,
+The experimental
+
+the observed
+
+similar
+
+is about 29%
+29) shows
+values
+
+when
+
+that
+the
+
+86
+Flame Len_h
+Flame
+consumption
+
+lengths are determined from Jiang's model by using fuel
+rate contours.
+
+By designating
+
+a specific reactivity contour to be
+
+the border of the visible flame, a flame length is defined.
+verified experimentally
+from a test conducted
+
+by selecting
+
+This can then be
+
+a contour to match the visible flame length
+
+at the same free-stream velocity.
+
+This contour
+
+can then
+
+be compared to the visible flame lengths at other free-stream velocities,
+conf'mn the accuracy
+
+of the model's
+
+to
+
+predictions.
+
+The problem with this technique is that it assumes that steady-state
+experimental
+
+flame length data is available for at least two points, one to
+
+choose the contour and one to verify the model.
+
+As previously
+
+difficult to determine whether any of the tests reached
+a "loose" comparison
+stream velocities
+
+steady-state.
+
+will be made, using the hotwire-ignition
+
+of (approximately)
+
+discussed,
+
+it is
+
+However,
+
+tests at free-
+
+5 cm/sec and 7.5 cn_sec.
+
+Examination of the data from test G-2-23 (Figme 26) shows a final
+flame length of about 1.3 cm for the free-stream velocity
+Similarly,
+
+test G-2-18
+
+of 5.12 cm/sec.
+
+(Figure 29) shows a final flame length of about 2.2 cm
+
+for the free-stream velocity of 7.47 cm/sec.
+Figure 49 shows the fuel consumption
+a free-stream velocity
+3_g/cm3/sec
+
+of 5.12 cm/sec.
+
+would yield a visible
+
+rate contours for Jiang's model at
+
+A contour of approximately
+
+10
+
+flame length of about 1.3 cm.
+
+This contour value can then be applied to the plot in Figure 50, which
+
+87
+
+Fuel
+
+Consumption
+Rote Contours
+Steady-StoLe
+Model
+Freestreom Velocity = 5.1 2 cm/sec
+
+4
+
+Inner contour is E-3 g/cm3/sec
+Contour intervols
+
+ore E-0.5
+
+g/c m3/sec
+
+3
+
+E
+0
+v
+
+>-
+
+E-3.5_
+
+0
+
+I
+
+,
+
+0
+
+1
+
+I
+
+I
+
+3
+
+2
+
+I
+
+I
+
+4
+
+5
+
+x (c
+Figure
+
+49 Fuel Consumption
+Free-Stream
+
+shows
+
+the theoretical
+
+steady-sham
+
+stream
+
+velocity
+
+length
+
+of about 2.3 cm, which
+
+length
+
+of 2.2 cm for test G-2-18.
+
+of 7.47
+
+cm/sec.
+
+Rate
+
+Contours:
+
+Velocity
+
+of 5.12
+
+fuel consumption
+This then
+
+yields
+
+is approximately
+
+Stcady-Shat¢
+
+Model
+
+cm/sec
+
+rote contours
+a the,orctical
+
+equal
+
+for the free
+
+visible
+
+to the observed
+
+flame
+flame
+
+88
+
+Fuel Consumption
+
+Rate
+
+Steady-State
+Freestream
+Velocity
+4
+
+Contours
+
+Model
+= 7.47 c m/sec
+
+Inner contour
+Contour
+
+is E-3
+
+intervals
+
+g/cm3/sec
+
+are E-0.5
+
+g/cm3/sec
+
+3
+E-3.5
+
+E
+
+g/cm3/sec
+
+2
+
+0
+v
+
+>.-
+
+!
+
+0
+0
+
+1
+
+2
+
+3
+
+5
+
+4
+
+x (cm)
+Figure
+
+Peak
+
+50 Fuel Consumption
+Rate
+Free-Stream
+Velocity
+
+phase
+Jiang's
+
+of 9.88
+
+surface
+
+cm/sec
+
+temperature
+steady-state
+
+is less than
+
+were
+(Test
+
+of 1426
+model
+
+1.2% above
+
+temperature
+
+temperature.
+
+Model
+
+Temperature
+
+Peak temperatures
+velocity
+
+Contours:
+Steady-State
+of 7.47 cm/scc
+
+acquired
+G-2-28,
+
+experimentally
+
+Figure
+
+41).
+
+K, and a peak surface
+
+only for the free-stream
+
+These
+
+show
+
+temperature
+
+predicts
+
+a gas phase
+
+temperature
+
+the empirical
+
+value.
+
+model
+
+of 1597
+
+K, which
+
+The
+
+is 6.25%
+
+above
+
+a peak gas
+of 1503
+
+of 1442
+
+also predicts
+
+the experimental
+
+K.
+
+K, which
+a peak
+
+VII.
+
+Conclusions
+The results
+
+of the comparison
+
+between
+
+the hotwire
+
+and chemical
+
+ignitionsystems show that the hotwire system gives a more reproducible
+ignition
+
+than that of the chemical
+
+the ignition
+speeds
+
+burst from
+
+which
+
+chemical
+
+Additionally,
+
+system
+
+propagation
+and flame
+
+Steady-state
+the limits
+flow
+
+size limitations
+the two cases
+(nominal)
+cases,
+
+The
+
+were
+
+rates
+
+had reached
+
+system
+
+to achieve
+
+for the
+
+translation
+
+calculations
+
+were closest
+
+it was
+
+tests,
+
+(Jiang,
+not clear
+
+due
+
+to
+
+for the highest
+reduced
+
+The results
+
+advancing
+
+of Jiang
+
+because
+
+true
+
+were
+
+initial
+
+values.
+
+due to
+show
+
+that
+
+the tests with
+
+and 7.5 era/see.
+
+were
+
+which
+
+to give
+
+further
+
+device.
+
+to steady-state
+
+elements
+
+to achieve
+
+in these
+
+especially
+
+test time was
+
+of 5 cna/sec
+
+was difficult,
+
+technique
+
+to the steady-state
+
+This was
+
+the two tests
+
+to the steady-state
+
+of
+
+at the lower
+
+the time required
+
+was difficult
+
+the closest
+
+velocities
+
+from
+
+are close
+
+sample
+
+significant
+
+in the application
+
+the ignition
+
+the available
+
+not all measured
+
+results
+
+of the spread
+data
+
+which
+
+of the fuels
+
+freestream
+
+is more
+
+to minimize
+
+test time.
+
+where
+
+which
+
+though,
+
+compared
+
+lengths
+
+of the non-uniformity
+
+some of this non-uniformity.
+
+by free-tuning
+
+propagation
+
+tested,
+
+system
+
+may eliminate
+
+of the available
+
+speeds
+
+The effect
+
+Improvements
+
+it may be possible
+
+steady-state
+pyrolysis
+
+the chemical
+
+were tested.
+
+ignition
+
+system.
+
+Even
+
+in these
+
+at the same
+to steady-state
+1995).
+
+rate.
+were
+
+Comparison
+
+that the experimental
+
+steady-state.
+
+Thermocouple
+
+data
+
+was
+
+gathered
+
+for several
+
+89
+
+tests with
+
+thermocouples
+
+in
+
+90
+different
+
+positions
+
+restriction
+
+Although
+
+to place
+
+the effects
+
+values
+
+calculated
+
+compare
+
+thermocouples
+
+seen
+
+well
+
+the flame
+of the flame
+
+the combustion
+es6mations
+
+heat losses
+
+from
+
+of the fuel samples
+
+these
+
+in cases
+
+the flame
+elements.
+sample,
+
+were made
+
+for one test.
+temperatures
+
+of the
+
+length,
+
+and
+
+This was
+
+corresponding
+
+also
+to the
+
+of the rate of heat
+
+to the rate of heat release
+with and without
+
+for all of the losses,
+
+thermocouples
+
+source.
+
+in the te_
+
+that the presence
+
+burned
+
+and compared
+
+it
+
+locations.
+
+and pyrolysis
+
+Estimations
+
+do not account
+
+to the ignition
+
+were recorded
+
+by decreasing
+
+area in the partially
+
+of the thermocouples.
+
+test time,
+
+about 6%) of the steady-state
+
+data shows
+
+loss due to the thermocouples,
+
+These
+
+temperatmes
+
+the experimental
+
+by the quenched
+
+close
+
+can be seen
+
+for the same
+
+influenced
+
+Due m the
+
+in the available
+
+fairly
+
+process
+
+(within
+
+I0 cm/sec.
+
+propagate
+
+1995)
+
+the propagation
+
+placement
+
+of about
+
+thermocouples
+
+and surface
+
+by Jiang (Jiang,
+
+However,
+
+slowing
+
+these
+
+could
+
+of the ignition
+
+peak gas phase
+
+These
+
+velocity
+
+of how far the flame
+
+was necessary
+
+traces,
+
+for the flow
+
+from
+
+thermocouples.
+
+but they demonstrate
+
+were not negligible.
+
+that
+
+VIII.
+
+Recommendations
+Due to the relatively
+small number of drops availablefor thisstudy,it
+
+was not possibleto repeat a significantumber of tests
+n
+under identical
+condition. As the three hotwirc-ignitcd
+tests
+for the free-streamvelocityof 2.5
+cm/scc
+
+indicate,
+
+particularly
+perhaps
+effect
+
+significant
+
+truc for weak
+uncontroUablc
+
+on the results.
+
+may be necessary
+Should
+repeatable
+
+distribution
+
+flames
+
+Thcrvforc,
+
+ignition
+
+of the acetone
+
+of the nitrocellulose
+
+Further
+
+characterization
+
+time nee, deal to reach
+
+rcpctitions
+
+limits),
+
+indication
+systcm
+
+using
+
+This is
+where
+
+can have
+
+of the very
+
+small,
+
+a large
+
+low speed
+
+tests
+
+of the results.
+
+be selected
+
+it to the fuel sample
+an eyedropper
+
+for further use,
+needs
+
+does
+
+onto the fuel
+of the ignition
+
+system
+
+a more
+
+to be developed.
+
+not guarantee
+
+an cvcn
+
+sample.
+
+steady-state.
+
+the steady-state
+
+flame
+
+and pyrolysis
+
+ignition
+
+could
+
+then potentially
+
+system
+
+the flammability
+
+multiple
+
+for bonding
+
+from test to test.
+
+in the test conditions
+
+an accurate
+
+the chemical
+
+can occur
+
+(near
+
+perturbations
+
+to give
+
+technique
+
+The application
+
+variation
+
+To do this, it would
+lcngths
+
+may help minimize
+be necessary
+
+for each test condition.
+
+be tailored
+
+to deliver
+
+initial
+
+the
+
+to know
+The
+flame
+
+and
+
+pyrolysislengths which wcrc close to the requiredlengths.
+Finally,itwould be usefulto have an accclcromctcrmounted on the test
+vehicle. This would allow a quantitative
+characterization the buoyant
+of
+
+velocityinduced by any residualg-levels.
+
+91
+
+IX.
+
+References
+
+DeRis,
+
+J.N.,
+
+"Spread
+
+of a Laminar
+
+(International)
+241-252
+DiBlasi,
+
+C., "Process
+
+P.,"An
+
+of Flames
+
+Over
+
+of Mechanical
+
+Ferkul,
+
+Over
+
+G. D.,
+
+Combustion
+
+Over
+
+NASA
+
+Klimek,
+
+Lekan,
+
+Flame
+
+Master's
+
+Thesis,
+
+Case Western
+
+International
+Publication
+Mendenhall,
+
+W.,
+
+Publishing
+
+Flow
+
+Flame
+
+and Technology,
+
+of Flame
+
+and Risk Analysis
+
+P. V., and T'ien,
+
+Fuel in Low
+
+99, 4-
+
+Spread
+
+Speed
+
+Over
+
+Ph.D.
+
+Thesis,
+
+Engineering,
+
+Case
+
+Concurrent
+
+a Thin
+
+Western
+
+E. S., Sotos,
+
+Ground-Based
+
+Sincich,
+Co.,
+
+R.G.,
+
+Dept.
+
+Gravity
+
+Combustion
+
+pp.45-53
+T., Statistics
+
+J. S., 'Tlame
+Flow:
+
+Solid
+
+Reserve
+
+Univ.,
+
+May,
+
+1995.
+Tracking
+
+and Consu'aints
+
+Workshop,
+
+Flow
+
+and
+
+and Object
+
+Facilities,"
+
+Micro-
+
+in Concurrent
+
+of Mechanical
+
+"Capabilities
+
+Reduced
+
+Microgravity
+10113,
+
+in
+
+and Comparison
+with Theory,"
+VH/2, pp.187-195,
+(1994).
+
+Radiation,"
+
+J., Neumann,
+
+Reserve
+
+Concurrent
+
+R. B., Paulik, M. J., "Color Image Processing
+Workstation,"
+(1992) NASA TM- 105561
+
+NASA's
+
+Dept.
+
+TM-100944
+
+IC R., Ferkul,
+
+a Thin
+
+"A Model
+
+Aerospace
+
+Diffusion
+
+Science
+
+K. R., 'Tire Behavior
+
+(1988)
+
+Flame
+
+Flow
+
+of Low-Speed
+
+Droptower
+Experimental
+Results
+gravity Science
+and Technology,
+
+with
+
+Fuels:
+
+97, pp.225-
+
+(1994).
+
+Sacksteder,
+
+Spreading
+
+C.-B.,
+
+of Charring
+
+1989
+
+J. S., "A Model
+
+R., Saeksteder,
+
+Spacecraft,"
+
+Jiang,
+
+pp.
+
+and Flame,
+
+Engineering,
+May,
+
+a Thin Fuel,"
+
+6, pp.345-370,
+
+Grayson,
+
+Symposium
+Httsburgh,
+
+over the Surface
+
+Fuel in Microgravity",
+
+CR-182185,
+
+P. V. and T'ien,
+
+Friedman,
+
+Twelfth
+
+Institute,
+
+Combustion
+
+Study of Opposed
+
+a Thin
+
+and Aerospace
+
+NASA
+
+Spread
+
+Spreading
+
+Thickness,"
+
+Experimental
+
+Extinction
+Univ.,
+
+Flame,"
+
+Combustion
+
+(1969).
+
+Effects of the Solid
+239(1994)
+Fexkul,
+
+Diffusion
+
+on Combustion,
+
+of
+
+Second
+NASA
+
+Conference
+
+(1992)
+for Engineering
+
+1992
+
+92
+
+and
+
+the Sciences,
+
+Dellen
+
+93
+Ol$on,
+
+S. O., "The
+Fuel,"
+
+Effect
+
+Master's
+
+of Microgravity
+
+Thesis,
+
+Dept.
+
+Engineering,
+1987
+
+Case
+
+Western
+
+S.O.,
+
+Ferkul,
+
+P.V.,
+
+and T'ien,
+
+Thin
+
+Olson,
+
+Solid
+
+1213-1222,
+
+Case
+
+Western
+
+a Thin
+
+TM-100195,
+
+Flame
+
+Solid
+
+May,
+
+Spread
+
+over
+
+a
+
+Symposium
+
+Institute,
+
+J.S.,
+
+F. M., Heat
+1988
+
+Downward
+
+on Combustion,
+
+"A Theory
+
+of Flame
+
+Chemical
+
+Kinetics,"
+
+Finite-Rate
+
+pp. 236-289,
+
+University,
+
+in Partial Gravity
+
+(International)
+
+and T'ien,
+
+Reserve
+
+J. S., "Buoyant
+
+and Extinction
+
+Symposium
+
+White,
+
+NASA
+
+Twenty-Second
+Combustion
+
+Over
+
+Pittsburgh,
+
+"Construction
+and Calibration of a Flammable
+Device,"
+Senior Project, Dept. of Mechanical
+
+K. R., and T'ien,
+
+Including
+
+Univ.,
+
+J.S., "Near-Limit
+
+on Combustion,
+
+Engineering,
+
+Frey, A.E.,
+
+Spread
+
+and Aerospace
+
+pp.
+
+1988).
+
+Pettegrew,
+R. D.,
+Translation
+
+Spread
+
+Reserve
+
+Fuel in Microgravity,"
+
+(International)
+
+Sackstcder,
+
+on Flame
+
+of Mechanical
+
+May,
+
+1993
+
+Diffusion
+
+Accelerations,"
+to appear
+Spread
+
+Sample
+and Aerospace
+
+over
+
+Combustion
+
+Flame
+
+Twenty-Fifth
+(1995).
+a Solid
+
+Fuel
+
+and Flame,
+
+36,
+
+(1979).
+and Mass
+
+Transfer,
+
+Addison
+
+Wesley
+
+Publishing
+
+Co. Inc.,
+
+Appendix I
+Error Analysis
+This appendix
+uncertainties
+made
+
+which
+
+between
+
+will characterize
+may have
+
+experimental
+
+error, and the uncertainty
+
+1.)
+
+and, where
+
+affected
+error,
+
+the results
+
+quantify
+
+of this work.
+
+data acquisition/reduction
+
+of the physical
+
+Experimental
+
+appropriate,
+
+phenomena
+
+the
+
+Distinction
+
+is
+
+error, analysis
+
+under study.
+
+Errors
+
+Test Environment
+Prior to filling
+chamber
+
+was evacuated
+
+measurement
+
+50%
+
+82% N 2.
+N 2.
+
+precision
+of these
+
+with the desired
+
+than 0.001
+
+All tests were
+
+tests were conducted
+
+gas mixun'es
+mixun'es,
+
+as reported
+
+equal to the resolution
+to be 0.001
+
+arm, which
+conducted
+
+each
+
+at 21%
+
+errors
+
+partial pressure
+
+mixing,
+
+of the measurement
+
+concentrations
+
+arm.
+
+Because
+
+pressure,
+of 18%
+
+02, 79% N 2, and 50% 02,
+premixed
+mixing.
+
+was +[o 0.002
+
+the error
+
+device,
+
+of the
+
+at one atmosphere
+
+in partial pressure
+
+by the manufacturer,
+
+the
+
+was the resolution
+
+the 50% 02, 50% N 2 test employed
+
+to minimize
+
+required
+
+test atmosphere,
+
+with atmosphere
+
+One test was conducted
+
+All tests except
+
+one test which
+
+reported
+
+to less
+
+equipment.
+
+and all but two
+02,
+
+the chamber
+
+which
+
+for each
+
+The error
+
+%. For the
+component
+
+was previously
+
+this test was unsuccessful,
+
+this error is
+
+insignificant.
+The
+
+chamber
+
+was filled
+
+slowly,
+
+to approximate
+
+94
+
+an isothermal
+
+procedure.
+
+95
+After one atmosphere
+wasreached,the chamberwas allowed to equilibrate
+several
+
+minutes,
+
+and the pressure
+
+was re-checked
+
+for
+
+to insure it was at one
+
+atmosphere.
+Ignition
+
+System
+
+For the chemical
+using
+rag,
+
+the same
++/- 2%.
+
+would
+
+scale
+
+The length
+
+the nitrocellulose
+
+All strips were
+
+cut to be 10
+
+to be 5 cm,
+
+so that the strip
+
+of the strips was chosen
+
+sample.
+
+When
+
+strips were weighed
+
+necessary
+
+to trim the strips, material
+
+was
+
+its width.
+
+Timing
+circuit
+
+system,
+
+used on the fuel samples.
+
+span the entire
+
+taken from
+
+ignition
+
+with
+
+of the ignition
+
+an oscilloscope,
+
+system
+and
+
+energized.
+
+It was found
+
+attributable
+
+to the mechanical
+
+was verified
+
+measuring
+
+by connecting
+
+duration
+
+that the system
+
+that an error of +/- 20 nfilliseconds
+relays
+
+the ignition
+was
+
+occurre_
+
+which
+
+is
+
+in the system.
+
+Thcrmocouples
+Temperature
+
+data in this study was obtained
+
+K thermocouples.
+
+Theses
+
+system,
+
+of a signal
+
+consisting
+
+sampling
+listed
+
+rate of this system
+
+by the manufacturer
+How
+The
+
+calibration
+
+amplifier
+
+3 mil diameter,
+
+to an integrated
+
+were connected
+
+using
+
+data-acquisition
+
+and a 12-bit
+
+was 33.33
+
+Hz.
+
+A/D converter
+
+The accuracy
+
+Type
+
+card.
+
+The
+
+of this system
+
+was
+
+to be +/- 1.0 degrees.
+
+Velocity
+carriage
+
+velocity
+
+of the flow
+
+in these
+
+translation
+
+tests was verified
+
+device
+
+two ways.
+
+A
+
+was done prior to its installation
+
+in
+
+96
+the combustion
+calibration
+seconds.
+
+chamber;,
+
+showed
+
+for details
+
+that the device
+
+At steady
+
+on this caUbradon,
+reached
+
+state, the velocities
+
+steady
+
+measured
+
+see Appendix
+
+II.
+
+This
+
+state speeds
+
+within
+
+0.1
+
+were within
+
+2% of the set
+
+velocities,n the calibrated
+i
+range of 0.5 cm/sec to I0 cm/sec.
+Additionally,
+the average carriagevelocitywas verified
+on each run
+through analysisof the video images. This was done by measuring the travel
+of the carriage
+
+against
+
+an illuminated
+
+flame
+
+placed
+
+on the scale,
+
+spot, and
+
+a fixed
+
+scale
+
+mounted
+
+near the beginning
+and the pixel
+
+time (as measured
+
+of the run was
+
+coordinate
+
+by a digital
+
+in the field
+
+of view.
+
+To do this,
+
+selected.
+
+on the screen,
+
+timer superimposed
+
+A cursor
+
+scale
+
+value
+
+was
+
+at this
+
+on each frame
+
+of
+
+the video) were reconied. The video was then advanced to an illuminated
+frame
+
+near the end of the run, and the cursor
+
+coordinate.
+then
+
+give
+
+measmed
+
+The
+
+new value
+
+sufficient
+
+on the scale
+
+information
+
+was placed
+
+at this point
+
+to calculate
+
+at the same
+
+and the time
+
+an average
+
+velocity
+
+pixel
+
+on this frame
+
+over
+
+the
+
+interval.Analysis of each run showed thatthe carriagevelocitywas
+
+always within 2%
+
+of the setvelocity,
+except for testG-2-20, which had a
+
+verified
+carriagevelocityof 1.16 cm/sec. The deviationof 16% fi'om the
+prescribed velocityof I cm/sec was the only instanceof a carriagevelocity
+having a differenceof greaterthan 2%
+
+fi'omthe set velocity.A possible
+
+explanationfor thiscould be input error in the programming
+
+of the stepper
+
+motor controller.
+
+For the cases where the carriagevelocitywas selectedto be 7.5 cm/sec
+
+97
+or I0 cm/scc,the limitof the amount
+
+of available
+flow time was imposed due
+
+to the limitedlength of travelof the fueltranslation
+device. The maximum
+length of travelfor thisdevice was 40.9 cm. However, thismaximum
+
+length
+
+was never reached because the carriagehad a tendency to "settle"
+down
+
+the
+
+shaftsapproximately 2-3 cm when the carriagewas returnedto the top position.
+This could have been avoided by kceping the steppermotor energized and in
+
+"holding" mode
+
+from the time the sample was loaded untilthe beginning of the
+
+test. However, thismay have caused overheatingproblems with the stepper
+motor, and itwas decided to accept the loss of 2-3 cm of travelto prevent
+possibledamage
+
+to the motor. Because of variations the amount of
+in
+
+"settling" xperienced by the carriagefor each test,
+e
+itwas impossible to
+determine the exact distancetraveledfor a given test.This only affectedthe
+high speed testsbecause for the carriagevelocities f 5 cm/scc and slower, the
+o
+carriagedid not travelthrough more than at most approximately 26 cm in the
+availablemicro-gravitytime.
+
+2.) Data Acquisition
+Flame Element Data
+Flame element data was acquired by recordingthe video images onto a
+laserdisc,and digitizing
+them frame by frame. A magnification,or scale
+factorwas then found, using the Scale program, by counting the number of
+
+pixclsbetween the farthest
+visiblemarks on a scalewhich was mounted in the
+
+98
+field
+
+of view.
+
+Because
+edge
+
+view,
+
+through
+
+of the difference
+
+it was necessary
+
+the test series,
+
+by moving
+
+that the
+
+accuracy
+
+closer
+
+scale
+
+of the scale
+
+The front and edge
+
+to measure
+
+an attempt
+
+the camera
+
+also meant
+
+in focal
+
+length
+
+a scale
+
+was made
+
+factor
+
+factors
+view
+
+scale factors
+
+The flame
+
+element's
+
+position
+
+intensity.
+
+Because
+
+for each view.
+
+as well.
+
+these
+
+were
+
+and
+
+Mid-way
+
+the imaging
+
+and using
+
+were changed
+
+themselves,
+
+the front view
+
+to optimize
+
+to the test sample
+
+factors
+
+between
+
+procedure
+
+a different
+
+lens.
+
+As a check
+
+This
+
+on the
+
+for all tests.
+
+to be consistent
+
+were found
+
+recalculated
+
+to within
+
+0.6% each time.
+
+or color
+flames
+
+under different
+
+selected
+
+ignition,
+
+in intensity.
+analyzed
+flame
+
+lengths
+
+This value
+a color
+
+level
+
+Another
+
+flames.
+
+Due
+
+speed flows
+
+two color
+between
+
+tests,
+
+was then
+
+a single
+
+color
+
+in the intensity
+
+source
+
+levels.
+
+from
+
+value
+
+a single
+
+examined
+
+test were
+
+that were just slightly
+
+eye.
+
+effect
+
+with data
+
+images,
+
+of using
+
+from
+
+of
+
+was used on all tests.
+
+to flames
+
+by comparison
+
+faded
+
+comparison
+
+corresponded
+
+The
+
+at
+
+quickly
+
+some
+
+to the author's
+
+of the weaker
+
+release
+
+but
+
+To allow
+
+intensity
+
+of the
+
+arose in the variation
+
+bright initially,
+images
+
+light
+
+of error was the
+
+difficulty
+
+the flame
+tlu'eshold
+
+a preset
+
+by examining
+
+which
+
+was visible
+
+intensity
+
+by tracking
+
+to the large energy
+
+appeared
+
+this issue,
+
+was chosen
+
+intensity
+
+than what
+
+level.
+
+of weak
+
+in low
+
+a potential
+
+To exan_e
+using
+
+differences
+
+intensity
+
+intensity
+
+flames
+
+of significant
+
+test conditions,
+
+fight or color
+
+of the image
+
+data was found
+
+and
+
+choosing
+dimmer
+
+this threshold
+
+the same
+
+test,
+
+using
+
+an
+
+99
+optimal
+
+color
+
+difference
+
+intensity
+
+of approximately
+
+For details
+
+pixels,
+
+placing
+some
+
+measure
+
+original
+
+lens, this amounted
+
+tests using
+
+flame
+
+base,
+
+the tip and the base.
+plots
+
+light
+
+the two methods.
+
+the automatic
+consisted
+
+tracking
+
+the dark and the illuminated
+
+cm.
+
+of the flame
+
+could
+
+be
+
+out with the
+
+error of 0.034
+
+error was 0.027
+
+length
+
+to
+
+that the same point
+
+possible
+
+the position
+
+of the
+
+by attempting
+
+For the tests carried
+
+cm.
+
+Because
+
+For the
+the flame
+
+tip from that of the
+
+was the sum of the errors for both
+
+The error in the flame
+
+length
+
+was displayed
+
+in the data
+
+in the form of error bars.
+Many
+
+flames
+
+a
+
+between
+
+to a maximum
+
+the error for this flame
+
+show
+
+mode
+
+It was found
+
+each time.
+
+by subtracting
+
+light,
+
+This error was found
+
+the new lens, the maximum
+
+was found
+
+between
+
+levels
+
+tracking
+
+on the interface
+
++/- 1 pixel
+
+threshold
+
+IV.
+
+of the flashing
+
+the manual
+
+error was incurred.
+
+within
+
+length
+
+see Appendix
+
+the same point 30 times.
+
+measured
+
+length
+
+Since
+
+a cursor
+
+of these
+
+16% in flame
+
+of the presence
+
+was impractical.
+
+operator
+
+Comparison
+
+on this comparison,
+
+Because
+mode
+
+value.
+
+of the tests
+
+which
+
+became
+
+level
+
+of these
+
+could no longer
+occurring,
+
+albeit
+
+with carriage
+
+too dim to see at some
+
+flames
+
+be tracked.
+
+fell below
+
+A better
+
+can be found
+
+below
+
+5 cm/sec
+
+produced
+
+point during the test.
+
+the selected
+
+A combustion
+
+too dim m see.
+
+was still taking place
+
+velocities
+
+threshold
+
+reaction
+
+level,
+
+may have
+
+When
+the image
+
+still been
+
+indication
+
+of whether
+
+the reaction
+
+in the pyrolysis
+
+and burnout
+
+front data.
+
+the
+
+100
+Pyrolysis
+Because
+tracking
+
+of the nature of the pyrolysis
+
+software
+
+advancing
+
+then
+
+front.
+
+was not applicable.
+
+to an illuminated
+
+then drawing
+was
+
+Data
+
+a horizontal
+
+placed
+
+and
+
+front
+
+then
+
+calculated
+
+using
+
+The
+
+area was found
+
+using
+
+a mouse-driven
+
+count
+
+the number
+
+of pixels
+
+of the pyrolysis
+to the burnout
+
+found
+
+by attempting
+front could
+
+When
+
+to measure
+be measured
+
++/- 0.0485
+
+cm for the second
+
+was found
+
+to be +/- 0.088
+
+second
+
+lens.
+
+The greater
+
+an average
+
+edge
+
+of the burnout
+The pixel
+zone
+
+measurement
+
+to +/-
+
+30 times.
+
+0.0615
+
+pyrolysis
+
+average
+
+test was displayed
+
+length
+
+that the
+
+lens, and
+
+pyrolysis
+
+lens, and +/- 0.183
+
+area.
+
+was
+
+It was found
+
+cm for the original
+
+pyrolysis
+
+to an
+
+measurements
+
+The error in the average
+
+error in the average
+
+would
+
+The average
+
+the average
+
+The error in these
+
+zone
+
+the software
+
+width.
+
+was
+
+package.
+
+This area was then converted
+it by the sample
+
+visible,
+This line
+
+was used.
+
+the trace was closed,
+
+cm for the original
+
+for each
+
+program.
+
+area of the pyrolysis
+
+of the pyrolysis
+
+length
+
+value
+
+image
+
+lens was due to poor illumination
+pyrolysis
+
+by
+
+The area of the pyrolysis
+
+the same point
+
+lens.
+
+used
+
+front was clearly
+
+to the visible
+
+front was found by adding
+
+front position.
+
+acquired
+
+the Scale
+
+the visible
+
+enclosed.
+
+length by dividing
+
+length
+
+using
+
+a commercial
+
+around
+
+cursor.
+
+position
+
+burnout
+
+Scan,
+
+by tracing
+
+pyrolysis
+
+the pyrolysis
+
+corresponding
+
+then recorded.
+
+Sigma
+
+average
+
+where
+
+was uneven,
+
+time were
+
+the previously
+
+The data was then
+
+Line on the screen
+
+in the position
+
+If the burnout
+
+co-ordinate
+
+frame
+
+images,
+
+length
+
+cm for the
+
+for the second
+
+The error in the mean-
+
+in the form of error
+
+bars.
+
+101
+Because averagepyrolysis position wasfound by addingthe
+the
+measurement
+errors
+
+from
+
+of the burnout frontpositionand the average pyrolysislength,the
+these
+
+sources
+
+must be added.
+
+position
+
+then
+
+had the greatest
+
+original
+
+lens,
+
+and +/- 0.232
+
+3.)
+
+Data
+
+This calculated
+
+inaccuracy,
+
+with an error
+
+cm for the second
+
+average
+
+pyrolysis
+
+of +/- 0.150
+
+cm for the
+
+lens.
+
+Analysis
+
+Data Plotting
+When
+of the flame
+
+the flame
+appeared
+
+coinciding
+
+with
+
+automatic
+
+element
+
+dim (ie.,
+
+the frequency
+
+when
+
+setting
+
+to accept
+
+down
+
+to a lower
+
+light
+during
+
+went
+
+momentarily
+normal
+
+be approximately
+cycle
+
+was
+
+fight.
+
+When
+
+more
+setting
+
+had
+
+of gain
+
+response
+Once
+
+of the flashing
+
+seconds.
+light
+
+were
+
+light.
+
+This
+
+camera.
+
+the visible
+
+the AGC
+
+adjusted
+
+for the bright
+again
+
+time that
+
+to original
+
+time was
+
+reported
+
+Therefore,
+disregarded.
+
+by the
+
+the image
+itself
+
+was
+
+to a higher
+adjusted
+
+light.
+
+when
+
+Now,
+light
+
+the "apparent"
+
+responded,
+
+length,
+
+on, the AGC
+
+to the lower
+
+the AGC
+
+length
+
+was caused
+
+When
+
+the light flashed
+
+to respond
+
+This response
+0.25
+
+off),
+
+to compensate
+
+shortened.
+
+length.
+
+on the video
+
+the light
+
+plotted,
+
+shrink and then return
+
+of the flashing
+
+(AGC)
+
+off, the AGC
+
+this period
+
+was originally
+
+to periodically
+
+gain control
+
+fairly
+
+data
+
+flame
+
+the flame
+
+length
+
+"returned"
+
+by the camera
+
+the 7-8 affected
+
+level.
+
+the
+It was
+was
+to
+
+manufacturer
+
+frames
+
+after
+
+each
+
+to
+
+102
+Flame
+
+& Pyrolysis
+
+Because
+was
+
+position
+represent
+
+Velocities
+
+of the limit of the available
+
+not achieved.
+
+pyrolysis
+
+Element
+
+To characterize
+
+elements,
+
+a linear
+
+the velocitivs
+
+regression
+
+data near the end of each
+the behavior
+
+was
+
+test.
+
+of the element
+
+duration
+
+of the data used for these
+
+typically
+
+covered
+
+analysis
+
+was
+
+Estimote:
+
+flame
+
+of the elemvnt
+
+of the test.
+
+with
+
+and
+
+each
+
+test,
+
+to
+The
+but
+
+of test time.
+
+Pyrolysis
+
+Upper
+
+varied
+
+propagation
+
+wore chosen
+
+near the conclusion
+
+performed
+
+2.52
+
+to sections
+
+sections
+
+regressions
+
+HW Igntion,
+
+smady-state
+
+of the different
+
+applied
+
+These
+
+the final 1-2 seconds
+
+A statistical
+
+test time,
+
+on the linear regrvssions
+
+Front
+
+cm/sec
+
+Velocity
+
+Freestreom
+
+from
+
+four
+
+Error
+Velocity
+
+(G-2-1
+
+7)
+
+2.5
+Limit
+
+0.403
+
+cm/sec
+
+y
+
+2.0
+
+E
+O
+v
+
+C
+O
+
+O
+0_
+
+ec
+
+1.5
+
+Colc uloted
+
+Pyrolysis
+
+Front
+
+Velocity:
+
+0.348
+
+c m/sec
+!
+
+2.5
+
+3.0
+
+3.5
+Time
+
+Figure
+
+(sec)
+
+51
+
+4.0
+
+4.5
+
+5.0
+
+103
+tests using
+were
+
+the Axum
+
+tests G-2-20,
+
+of 1.16 era/see,
+statistical
+
+G-2-17,
+
+yielded
+
+in Table
+
+The
+
+error
+
+made
+
+through
+
+fit.
+
+bars.
+position
+
+a percentage
+
+which
+9.92
+
+for this analysis
+
+had freestream
+era/see,
+
+coefficient
+
+velocities
+
+respectively.
+
+This
+
+for the regressions,
+
+Figure
+data
+
+and pyrolysis
+
+and maximum
+
+which
+
+from
+
+and
+
+which
+
+the lines
+
+was
+
+that could
+
+this by showing
+
+test G-2-17
+
+bars
+
+elements
+
+curve-fits
+
+51 illustrates
+
+value
+
+coefficient
+
+of the variation
+
+0.75,
+
+implies
+
+to the independent
+
+is an indication
+
+of this coefficient
+
+of one variable
+
+the dependent
+
+selected
+
+was
+
+which
+
+be
+
+the portion
+
+used
+
+for the
+
+represent
+
+the two
+
+for the curve-fit.
+
+dependence
+which
+
+and
+
+of the flame
+
+as the error
+
+R 2 correlation
+The
+
+cm/sec,
+
+R 2 correlation
+
+as well
+
+extremes
+The
+
+curve
+
+front
+
+regression,
+
+tests
+
+and G-2-19,
+
+the minimum
+
+the error
+
+of the pyrolysis
+
+The
+
+3.
+
+by determining
+
+possible
+
+5.12
+
+in the velocities
+
+found
+
+linear
+
+package.
+
+G-2-7,
+
+2.52 cm/sec,
+
+analysis
+
+are reported
+
+software
+
+of the data
+on the other.
+
+that the straight
+variable
+
+variable
+
+is always
+
+accounts
+
+(Mendenhall
+
+which
+
+of the accuracy
+
+between
+
+can be attributed
+
+An example
+
+line model
+for 75%
+
+0 and
+
+relating
+
+1992).
+
+1, and implies
+to the
+
+of this is an R 2 value
+the dependent
+
+of the variation
+
+and Sincich,
+
+of the
+
+of
+
+variable
+
+in the values
+
+of
+
+104
+
+From
+
+F_4_or
+
+Cur_-Fk
+Time
+
+velocity
+_aJ
+I J6
+
+0.756
+
+0367
+
+122.1
+
+0.004
+
+0367
+
++0.24
+
+17.8
+
+0.943
+
+3__00
+
++0.24
+
+73
+
+0.994
+
+3.500
+
++0.48
+
+5.4
+
+O.923
+
+1300
+
+Ba_
+
++020
+
+13D
+
+0.886
+
+1300
+
+Froea
+
++035
+
+14#
+
+0..098
+
+2.867
+
+Fro_
+
++037
+
+5.7
+
+0.909
+
+2.867
+
+Tip
+
++0.45
+
+2#
+
+0#73
+
+2_00
+
+Ba_e
+
++0.47
+
+2.7
+
+0.093
+
+2/JO0
+
+Flame
+
+I J6
+
+Tip
+Bale
+
+-Onl
+
+Fro_a
+Front
+
+Flame
+
+I J6
+
+Pyoly_
+
+1J6
+
+Bwwma
+
+252
+
+Flamr
+
+2.52
+
+T_p
+
+Flame
+
+252
+
+P_ol_b
+
+2.52
+
+Burm_
+
+$J2
+
+Flamt
+
+5.12
+
+20 D
+
++0.46
+
+Fiae_
+
+5J2
+
+P)ra_b
+
+Front
+
++0.71
+
+99
+
+0#85
+
+2333
+
+5J2
+
+B_ao_
+
+Frma
+
++0.71
+
+3.7
+
+0#87
+
+2333
+
++1.05
+
+l_q
+
+0_77
+
+1.700
+
+Ba_
+
++0.99
+
+2_
+
+0.09"2
+
+1.700
+
+Front
+
++1.50
+
+5,4
+
+0.098
+
+1_3 3
+
++1.12
+
+3_
+
+0_099
+
+12i33
+
+9.92
+
+Flame
+
+9#2
+
+Flame
+
+9#2
+
+Pyroi_is
+
+9.92
+
+T_p
+
+B wwout Frma
+
+Table
+
+3 Element
+
+Error
+
+Table
+
+3 displays
+
+the results
+
+linear regressions,
+shows
+
+as the duration
+
+that the errors in the element
+
+regression
+
+decrease
+
+The flame
+velocities
+growth
+
+as well
+
+as the duration
+and pyrolysis
+
+of the respective
+rates
+
+respective
+
+were defined
+
+elements.
+
+& Correlation
+
+of the statistical
+
+velocity
+
+associated
+
+of the data
+
+while
+
+as the difference
+
+analysis
+
+of the
+
+of data used for the curve-fit.
+with
+
+the flame
+between
+
+This
+
+the linear
+
+used in the curve-fit
+
+spread rates were defined
+
+elements,
+
+Because
+
+Coefficient
+
+increases.
+
+as the average
+
+and pyrolysis
+the velocities
+
+of this, the errors for each of these
+
+of the
+
+length
+of the
+rates is the
+
+105
+sum of
+
+the errors in the velocities
+
+the spread and growth
+
+rates for the previously
+
+F_
+
+5prmd
+Error
+
+M I*.
+
+Vdoc_
+
+Flame
+Growth
+Rate
+
+M:E.
+Flame
+
+Spread
+Rate
+
+Free.m'e_m
+
+of the elements.
+
+Flame
+Gro_
+Error
+
+Table
+
+4 gives
+
+mentioned
+
+the errors of
+
+tests.
+
+_.
+
+_.
+
+eyot
+
+e_rot
+
+P_voi
+Sprmd
+Rate
+
+Pyrol
+Sprmd
+Error
+
+Growth
+Rate
+
+Grov_
+Error
+
+(%)
+
+(_,,_,7 (%7
+
+(c_s)
+
+(%)
+
+(o,_,)
+
+(%)
+
+1.16
+
++0.23
+
+142.1
+
++0.47
+
+142.1
+
++024
+
+25./
+
++0_0
+
+25.1
+
+2.52
+
++034
+
+18.4
+
++0.28
+
+18.4
+
++036
+
+20.6
+
+.OD2
+
+20.6
+
+532
+
++0.46
+
+5.6
+
+-0.02
+
+5.6
+
++0.71
+
+12.7
+
+ODO
+
+12.7
+
+9.92
+
++1.02
+
+3.9
+
++0.06
+
+3.9
+
++1.50
+
+8.4
+
++038
+
+8.4
+
+Table
+The results
+time
+cm/sec
+
+available
+
+4 Mean-Element
+summarized
+
+to curve-fit
+
+and quiescent
+
+cases
+
+Spread
+
+& Growth
+
+Rate
+
+in Table 4 demonstrate
+
+the data, the quantitative
+should
+
+be disregarded.
+
+Error
+
+(%)
+
+that, due to the
+
+measurements
+
+small
+
+of the
+
+1
+
+Appendix H
+Buoyant
+
+Flow
+
+Because
+
+of the residual
+
+some
+
+component
+
+of buoyant
+
+made
+
+of this buoyant
+
+level
+
+of 10"Sg.
+
+flow
+
+velocity
+
+Approximation
+
+flow
+
+flow
+
+White
+
+g-level
+
+existed
+
+velocity,
+
+(White,
+
+present
+
+in any ground-based
+
+in each
+
+test.
+
+An estimation
+
+based on an assumed
+
+1988)
+
+facility,
+
+constant
+
+gave an approximation
+
+was
+residual
+
+g-
+
+of the buoyant
+
+to be:
+
+--/pgt(AT)
+
+This expression
+hydrostatic
+than
+
+pressure,
+
+the viscous
+Using
+
+(nominal)
+
+carriage
+each
+
+layer
+
+this expression,
+velocity
+
+velocity)
+
+The
+
+flame
+
+(Prandtl
+
+tested.
+
+number
+
+flame
+
+temperatures
+by Jiang's
+
+for the case
+
+of the l0 cm/sec
+
+carriage
+
+temperature
+
+was
+
+These
+
+was estimated
+length used
+
+were
+
+steady-state
+velocity,
+
+106
+
+is
+
+is larger
+
+for each
+
+in these
+
+for the hotwire-ignition
+used
+
+results
+
+present
+
+layer thickness
+
+velocity
+
+length
+
+gradient
+
+less than one).
+
+The reference
+
+as calculated
+
+available.
+
+pressure
+
+boundary
+
+the buoyant
+
+was the measured
+velocity.
+
+that the only
+
+and that the thermal
+
+boundary
+
+carriage
+
+calculations
+
+assumes
+
+model
+
+where
+
+are shown
+
+the peak
+
+test at each
+
+temperatures
+
+(Jiang,
+
+1995),
+
+an experimental
+in Table
+
+5.
+
+(for
+
+except
+flame
+
+107
+
+Carriage
+
+Estimated
+
+Velocity
+
+Buoyant
+
+Difference
+in Opposite
+Directions
+
+Velocity
+
+(%)
+
+(cmlsec)
+
+(cmlsec)
+1.0
+
+0.086
+
+18.7
+
+2.5
+
+0.095
+
+7.9
+
+5.0
+
+0.108
+
+4.4
+
+7_5
+
+0.132
+
+3.6
+
+10.0
+
+0.174
+
+3.5
+
+Table
+
+The
+cmlsec
+
+tests where
+
+tests,
+
+another
+
+because
+
+performed
+
+5
+
+Buoyant
+
+this effect
+several
+
+buoyant
+
+velocity
+
+for this case
+
+between
+
+Estimates
+
+was particularly
+
+significant
+
+were performed
+
+tests
+
+in the down
+
+Velocity
+
+in the up direction,
+
+orientation.
+
+buoyant
+flow
+
+flow,
+
+flame
+
+and longer
+
+lengths
+
+the two cases
+
+moving
+
+up, it is difficult
+where
+
+were
+
+would
+
+in an enhanced
+
+between
+
+the case
+
+velocity
+
+flow
+
+about
+
+be that
+
+the upward
+
+flames
+
+than
+
+flow
+
+cases,
+
+where
+
+the downward
+
+case.
+
+changed
+
+(Ferkul,
+nominal
+
+to distinguish
+was
+
+cm/sec(a
+
+be expected
+
+(at the same
+
+the carriage
+
+0.10
+
+estimate
+
+the 2.5
+with
+
+of the induced
+
+the two directions).
+If the relative
+
+was
+
+The
+
+were
+
+velocity)
+
+where
+
+8%
+
+way by the
+in a slower
+
+Because
+
+of the variation
+the carriage
+
+between
+
+However,
+
+is reduced
+
+reason
+
+of about
+
+to be shortened
+1994).
+
+down.
+
+the flow
+The
+
+in a simple
+
+the difference
+
+moving
+
+difference
+
+these
+
+the trend
+
+by buoyancy
+
+for this discrepancy
+
+was
+
+tests and
+seemed
+
+have
+
+longer
+
+is not clear
+
+to
+
+108
+from the available data.
+
+Appendix
+
+HI
+
+Thermocouple
+To estimate
+thermocouples
+
+the total
+
+used
+
+conduction,
+
+Heat Loss
+
+compared
+
+The
+
+junction
+
+was
+
+The
+
+including
+
+of the junction
+
+assumed
+
+diameter
+
+of the leads),
+
+densities
+
+of the leads
+
+grams/cm
+
+total
+
+inertia,
+
+estimated
+
+in the heat release
+
+loss rate due to thermal
+
+the mass
+
+bead
+
+rates,
+
+due to thermal
+
+The
+
+without.
+
+of the two
+
+following
+
+ram
+
+rate
+
+of heat
+
+from
+
+a test
+
+is a synopsis
+
+of the
+
+all assumptions.
+
+Inertia
+
+heat
+
+determining
+
+considered.
+
+and one
+
+of each of these
+
+Thermal
+
+8.73
+
+were
+
+to the presence
+
+the loss rates
+
+to the difference
+
+with the thermocouples,
+estimation
+
+heat loss rate due
+
+in this study,
+
+and radiation
+
+loss was then
+
+Approximation
+
+of the leads
+
+be 0.0112
+
+as well
+
+a density
+
+grams/era3).
+
+the density
+
+was calculated
+
+a diameter
+
+and to have
+
+3, while
+
+total mass
+
+bead,
+
+to have
+
+(8.665
+
+inertia
+
+lead
+
+lead.
+
+cm (three
+
+to the average
+
+The density
+
+of the alumel
+
+times
+
+0.4479
+These
+
+specific
+
+heat for each element
+
+Joules/(gram*C)
+values
+
+temperatures
+
+were
+
+(for both thermocouples)
+
+the
+
+of the
+
+of the chromel
+was 8.60
+
+The
+
+lead
+
+grams/cm
+
+was
+
+3.
+
+The
+
+was calculated
+
+to
+
+grams.
+
+The
+
+and junction
+
+as that of each
+
+of 0.02286
+equal
+
+by first
+
+for chromel,
+
+specified
+
+experienced
+
+and
+
+was given
+0.5233
+
+for a temperature
+in the tests.
+
+However,
+
+109
+
+by the manufacturer
+
+Joules/(gram*C)
+
+of 20 C, which
+
+to be
+
+for alumel.
+is well
+
+no other information
+
+below
+was
+
+the
+
+II0
+available on these alloys at the time of these calculations.
+The total heat re_luir_
+
+to raise both thermw.ouple junctions and their
+
+leadsto 1500 K was estimated
+tobe 6.53Joules.For test
+G-2-28,both
+thermocouplesshowed a rise temperature
+in
+from 0.4 secondsuntil
+reachinga
+peak temperature
+atapproximately
+2.8 seconds(2.7secondsforthesurface,
+2.9
+secondsforthegas phase).The lengthof timerequired
+toreachthefinal
+temperam_ was thenabout2.4seconds,
+and thetotal
+energyrequired 6.53
+of
+Jouleswas dividedby this
+time togivea heatlossrateof 2.72Watts.
+
+Conduction
+To estimate the heat loss rate due to conduction,
+were modeled using the one-dimensional,
+Dirichlet
+
+boundary
+
+temperature
+
+conditions.
+
+distribution,
+
+steady-state
+
+the thermocouple
+heat equation
+
+The solution to this problem
+
+leads
+
+with
+
+is a linear
+
+which when differentiated once gives the temperature
+
+gradient.
+The size of this temperature
+difference
+
+and on the length through which the gradient acts.
+
+of this calculation,
+was at the flame
+(downstream
+
+gradient depends both on the temperature
+
+it was assumed
+temperature
+
+that the entire diamond-shape
+
+configuration
+
+of 1500 IL and that 1 cm into the wire insulation
+
+of the diamond-shaped
+
+ambient temperature
+
+For the purposes
+
+leads) the temperature
+
+was equal to the
+
+of 300 K. This yielded a gradient of -1200 K/cm.
+
+Fourier's Law was then applied, using the calculated
+
+gradient.
+
+The
+
+III
+values used for the thermal conductiviticsere 0.922 Watts/cm*K
+w
+and 1.64 Watts/cm*K
+
+for chromel,
+
+for alumel. Similarto the values of the specificheat
+
+used in the thermal inertia
+calculations,hese values wer_ specifiedat 20 C, but
+t
+were considered usable for the purpose of thisestimate. Using these
+assumptions, the total
+heat lossrate through conduction for both thermocouplcs
+was estimated
+
+to b¢ 3.2 Watts.
+
+Radiation
+To estimatethe lossratedue to radiation,
+the thcrmocouplc junction and
+leads were modeled as black-body emitter,
+with a surfacearea of the spherical
+junction and the exposed leads of 0.1445 cm 2. The temperature used was 1500
+K.
+
+The heat lossram due to radiation
+was estimated to bc 4.15 Watts.
+
+Heat Release Rate
+To estimatethe rateof heat releasedfrom the combustion process,the
+
+speed of the burnout frontwas multipliedby the sample width and the area
+density (full
+thickness)to give a mass burning rate. This was multipliedby the
+heat of combustion for KimWipcs,
+
+which is 16740 Joules/gram (Frcy & T'ien,
+
+1979) to give the heat l"eleaseate. The heat releaseratefor testG-2-19, which
+r
+did not have thermocouples, was found to be about 188 Watts, while the heat
+releaseratefrom testG-2-28 (thetestwith therrnocouples)
+was found to bc
+about 156 Watts. The difference these ratesis then about 32 Watts.
+in
+
+112
+The estimatecl
+of the difforcnca_
+the thermocouples
+this experiment.
+
+heat loss rate of about
+
+in the two tests.
+were
+
+However,
+
+not negligible,
+
+10 Watts
+
+does not account
+
+it does show
+
+and did have
+
+that heat losses
+
+an effect
+
+for all
+fi'om
+
+on the flames
+
+in
+
+Appendix
+
+IV
+
+Effect
+
+of Threshold
+
+The intensity
+elements
+
+resolution
+
+in this study was
+
+2s=256
+
+levels
+
+zero light,
+different
+
+tests,
+
+dimmest
+value,
+
+of light
+
+cm/sec)
+
+8 bits, meaning
+
+To evaluate
+(18%
+
+was evaluated
+Selection
+
+using
+
+called
+
+cursor,
+
+program
+
+then
+
+gave a profile
+
+selected
+
+line.
+
+The
+
+sections
+
+of the flame
+
+intensity
+
+level.
+
+threshold
+
+threshold
+value
+
+which
+
+the flame
+
+of 40 was selected
+52 shows
+
+values.
+
+of 40 was
+
+shorter
+
+test G-2-7
+
+the edge
+
+fairly
+
+was made
+a line using
+
+on the screen.
+intensity
+
+a
+
+The
+
+along
+
+the
+
+of the base and tip
+
+aided in the selection
+
+of the proper
+
+bright
+
+for this test,
+
+a
+
+to use for this comparison.
+
+a plot of the flame
+
+As expected,
+
+of 5.12
+
+levels.
+
+or total light
+
+were
+
+of the
+
+intensity
+
+velocity
+
+this line at any position
+
+images
+
+distinction
+
+the user to draw
+
+across
+
+to
+
+between
+
+the threshold
+
+to evaluate
+
+of either the color
+
+images,
+
+the flame
+
+distinguish
+
+comparison
+
+fi'eestream
+
+allowed
+
+line was then placed
+
+Because
+
+value
+Figure
+
+and to place
+
+could
+
+to allow
+
+threshold
+
+level
+
+which
+
+used to wack
+
+of 15 was used to analyze
+
+of changing
+
+two different
+
+Profiles,
+
+mouse-driven
+
+intensity
+
+ignition,
+
+of the new threshold
+
+a program
+
+To allow
+
+was chosen
+
+the effect
+
+O 2, chemical
+
+program
+
+with a value of 0 corresponding
+
+threshold
+
+This value
+
+Data
+
+that the program
+
+intensity,
+
+color
+
+all the tests.
+
+test G-2-7
+
+Element
+
+full scale intensity.
+
+a constant
+
+flames.
+
+on Flame
+
+of the Tracking
+
+or color
+
+and 255 being
+
+the data from
+
+using
+
+Value
+
+the flame
+
+than the length
+
+lengths
+length
+
+found
+
+113
+
+for test G-2-7
+
+using
+
+using
+
+the brighter
+
+the dimmer
+
+using
+
+both
+
+threshold
+threshold
+
+value
+
+114
+
+Threshold
+Flame
+
+3
+
+Flame
+Flame
+
+Intensity
+
+Length
+
+Length
+
+Comparison
+
+Date
+
+from
+
+Test G-2-7
+
+(Threshold
+
+40
+= 1 5/
+
+I
+
+E
+0
+v
+
+t¢J
+G)
+
+E
+
+"
+
+""il_"Ow°an'-
+
+•
+
+O
+
+a,.
+
+--o
+
+_"t
+'..go
+
+0
+
+_
+
+D
+
+"''''Q
+
+ol
+
+1,
+
+0
+
+_
+
+i
+
+0
+
+u
+
+t
+
+1
+
+n
+
+I
+
+2
+
+n
+
+I
+
+3
+Time
+
+_
+
+I
+
+4
+
+5
+
+(sec)
+
+Figure 52
+of 15. From
+
+the time t = 2.3 seconds untilthe end of the test,
+the plot of the
+
+flame length using the thresholdof 15 had a mean value of 1.04 cm, while the
+flame length measured with a thresholdvalue of 40 had a mean
+cm.
+flame
+
+This means
+length
+
+that increasing
+
+by 14.2%.
+
+the flame
+
+elements
+
+threshold
+
+level.
+
+flame
+
+elements
+
+the intensity
+
+This shows
+
+(and therefore,
+Comparison
+
+were
+
+uackcd
+
+by 9.7% increased
+
+that the measurement
+the flame
+
+between
+using
+
+value
+
+flames
+
+the same
+
+value of 0.89
+
+length)
+
+of the position
+
+is sensitive
+
+can then only
+threshold
+
+the
+
+levels.
+
+of
+
+to the selected
+
+be done
+
+if the
+
+Appendix V
+Calibration
+
+of the Fuel
+
+The fuel translation
+carriage
+stepper
+
+speeds
+motor
+
+of 0.5,
+
+Translation
+
+device
+
+used
+
+Device
+in this study was calibrated
+
+1, 2, 5, and 10 cm/sec.
+
+controller
+
+could only
+
+However,
+
+be programmed
+
+for nominal
+
+the signal
+
+in multiples
+
+ram
+
+of the
+
+of 50 Hz.
+
+Due to thislimitation,he best availablestep inputs yield theoretical
+t
+velocities
+of 0.51, 1.00,2.00, 5.02, and 10.03 cm/scc. For simplicity,
+the velocities
+shall
+herein be referredto as 10,5, 2, 1, and 0.5 cm/scc, respectively.
+Final calibration
+was performed using a high-speed video system to
+image the device while operating at the previously mentioned speeds. This
+gave a visualrecord of the positionof the carriagewith respectto time. The
+images were processed using the Tracking computer software to track the
+positionof a marker placed on the carriage.
+The
+
+video
+
+camera
+
+of sight perpendicular
+length
+
+(limited
+
+established
+entire
+
+travel
+
+was located
+
+to the direction
+
+by the laboratory
+
+to minimize
+distance
+
+3 meters
+
+parallax
+
+from
+
+of the carriage
+
+the device,
+motion.
+
+where
+
+the calibration
+
+error.
+
+A 50 mm lens was
+
+of the carriage
+
+would
+
+fill the field
+
+was
+
+with
+
+the line
+
+A large
+
+focal
+
+performed)
+used
+
+was
+
+so that the
+
+of view.
+
+The device was calibrated
+with the traversedirectionin the horizontal
+
+position. At the beginning of the data tape,a levelis shown againstone of the
+beating shaftsto verifythe orientation the device. To establisha length
+of
+scale,a large ruler(with arrows marking 40 cm) is then shown. A mechanical,
+
+115
+
+116
+digital
+
+timer
+
+(capable
+
+of resolving
+
+increments
+
+of 0.01
+
+seconds)
+
+was also imaged
+
+to verify the framing rate.
+The device
+was
+
+achieved
+
+system
+black
+
+was imaged
+
+using
+
+a good
+
+Because
+while
+
+was 0.16406
+
+to track, a marker
+
+was mounted
+this system
+
+covering
+
+a travel
+cm/pixel.
+
+rates
+
+of the spatial
+
+were
+
+122,
+
+produced
+
+It was
+would
+
+be recorded
+
+was
+
+and 5 cm/sec
+speed
+
+the fact that the video
+
+runs were imaged
+
+of 50 frames/second.
+
+of the calibrated
+To study
+
+corresponding
+
+could
+
+wide,
+
+of the system
+
+discemable
+
+trial to
+within
+
+to the carriage
+
+However,
+
+an additional
+
+only be set to record
+
+125, and 50 frames/second.
+at 125 fi'ames/sec,
+
+pixels
+
+that the ideal framing
+
+respectively.
+
+system
+
+on a
+
+rate for each
+
+at each position
+
+It was calculated
+
+analysis
+
+the camera.
+
+to set the flaming
+
+constraint
+
+250,
+
+facing
+
+triangle
+
+resolution
+
+resolution.
+
+500,
+
+of a white
+
+of 42 cm, the spatial
+decided
+
+lighting
+
+To give the video
+
+was 256
+
+61, 24, 12, and 6 frames/sec,
+
+of 1000,
+
+Adequate
+
+which
+
+of 10, 5, 2, 1, and 0.5 cm/sec,
+
+rates
+
+consisting
+
+an image
+
+velocities
+
+preset
+
+lighL
+
+on the carriage,
+
+distance
+
+be such that two frames
+the limits
+
+a black backdrop.
+
+a 100 watt incandescent
+
+target
+
+background
+
+against
+
+Therefore,
+
+at
+the
+
+10
+
+and the rest at the slowest
+
+Five trials in both di1_tions
+
+were
+
+imaged
+
+for each
+
+velocities.
+the repeatability
+
+of the device,
+
+a pair of limit switches
+
+were
+
+mounted at both ends of the device. These were connected in series with a 30
+Volt power
+normally
+
+supply
+
+closed
+
+and the mechanical
+
+configuration,
+
+meaning
+
+timer.
+
+The switches
+
+that the timer would
+
+were wired
+
+in the
+
+run unless
+
+one of
+
+117
+the switches
+
+were
+
+compressing
+
+one of the switches,
+
+zeroed,
+
+activated.
+
+and the motor
+
+timer
+
+would
+
+start.
+
+trip the limit
+25 times
+
+yet been
+calibration
+
+a the other
+
+was
+
+greater
+
+travel
+
+The
+
+results
+
+programmed
+
+end,
+
+that,
+
+that which
+
+carriage
+
+from
+
+0.5 seconds
+
+verified
+
+(using
+
+the exception
+
+mounted
+
+of the
+
+1.16 era/see
+all average
+
+of the selected
+The
+
+each
+
+to 4.0 seconds.
+a scale
+
+carriage
+
+results
+
+the switch,
+the carriage
+
+This
+
+was
+
+40.9
+
+always
+
+of the first 0.5 seconds
+
+(which
+
+can'iage
+
+usage.
+
+of each
+
+carriage
+
+velocity
+
+calibrated
+
+test,
+
+test (to
+lasting
+
+was also
+
+for each experiment.
+
+attributed
+
+velocities
+
+operated
+
+of each
+
+portion
+
+was
+
+The
+
+57 (displayed
+
+of one trial for each
+
+average
+
+had not
+
+for the
+
+53 through
+
+in the field of view)
+ease
+
+would
+
+era.
+
+Figures
+
+the results
+
+holder
+
+for actual
+
+that the device
+
+velocity.
+
+The
+
+the
+
+test was repeatext
+
+available
+
+be available
+
+and the steady-state
+
+command),
+
+controller
+2%
+
+effects),
+
+of travel
+
+showed
+
+into plots
+
+the transient
+
+the timer.
+
+was
+
+of the carriage
+
+velocity.
+show
+
+released
+
+was then
+
+velocity.
+
+the length
+
+show
+
+are broken
+
+timer
+
+due to the fact that the sample
+
+at the end of this appendix)
+These
+
+The
+
+to run until
+
+stopping
+
+of the calibration
+
+6% of the selected
+
+the circuit.
+
+for each calibrated
+
+than
+
+distance
+
+was to start with the carriage
+
+As the carriage
+
+was
+
+on the device,
+
+total
+
+within
+
+system
+
+be noted
+
+installed
+
+opening
+
+activated.
+
+in each direction
+
+It should
+
+actual
+
+was
+
+The
+
+switch
+
+The procedure
+
+were
+
+With
+
+to a faulty
+found
+
+to be within
+
+values.
+of the repeatability
+
+velocity
+
+is on the order
+
+tests
+
+show
+
+that the standard
+
+of 10 -2 seconds
+
+or less.
+
+The
+
+deviation
+
+for
+
+fact that the
+
+118
+standard
+
+deviations
+
+these
+
+deviations
+
+fixed
+
+error became
+
+repeatability
+
+were all comparable
+
+were
+
+less and less
+
+of the carriage
+
+decreased.
+
+Since
+
+uncertainty
+
+in the mean
+
+decreased.
+
+time invariant.
+
+travel
+
+the distance
+velocity
+
+implied
+
+that the errors
+
+As the length
+
+significant.
+
+travels
+
+transient
+
+was
+effects)
+
+fixed,
+
+caused
+
+increased,
+
+the uncertainty
+
+as the carriage
+
+that the carriage
+(neglecting
+
+of run time
+
+Therefore,
+
+time _sed
+
+which
+
+the
+in the
+
+speed
+the
+
+correspondingly
+
+119
+
+FLAMMABLE
+
+SAMPLE
+
+10 cm/sec
+
+TRANSLATION
+
+DEVICE
+
+Steody Store Colibrotion
+
+1
+
+50
+
+4O
+
+20
+
+10
+
+I
+
+0
+0.500
+
+r
+
+I
+
+1.375
+
+i
+
+I
+
+2,250
+
+n
+
+3.1 25
+
+I
+
+4.000
+
+Time (seconds)
+
+FLAMMABLE
+SAMPLE TRANSLATIQN
+DEVICE
+10 cm/sec Transient Collbratlon 1
+48
+
+47
+
+"
+°°•
+,°'°,
+°•°,°o°
+
+46
+
+°°
+
+E
+
+°•
+°°
+°
+
+45
+
+°
+°°
+
+.=_
+_q
+0
+Q.
+
+°o°
+°
+°°
+
+44
+
+°°
+
+°
+,°
+
+oo
+°
+
+43
+
+°
+,,
+°,
+
+42
+
+'
+0.0
+
+I
+
+0.1
+
+,
+
+I
+
+0.2
+
+m
+
+I
+
+0.3
+
+i
+
+I
+
+0,4
+
+I
+
+,
+
+0.5
+
+0,6
+
+Time (seconds)
+
+Figure
+
+53 Steady-State
+
+and Transient
+
+Calibration,
+
+10 cm/scc
+
+120
+
+FLAMMABLE
+SAMPLE
+TRANSLATION
+DEVICE
+.5cm/sec Steady State Collbrot{on
+I
+46
+44
+42
+40
+
+3s
+._
+
+36
+
+Q.
+
+32
+30
+
+-4.94
+
+28
+26
+0.500
+
+,
+
+I
+
+*x
+
+,
+
+I
+
+1.375
+
+__
+
+,
+
+I
+
+2.250
+
+,
+
+I
+
+3.1 25
+
+4.000
+
+Time (seconds)
+
+FLAMMABLE
+SAMPLE TRANSLATION
+DEVICE
+5 cm/sec
+Transient Calibrat:ion I
+8.0
+
+°..
+
+7.5
+•°
+...°
+
+7.0
+E
+•
+
+6.5
+
+°.°•
+
+"__-
+
+.°.
+°
+
+°.
+
+°°..
+...°
+
+O
+CL
+
+..
+
+6.0
+.°
+..
+
+5.5
+
+5.0
+
+I
+
+0.0
+
+.
+
+i
+
+...
+
+I
+
+0.1
+
+,
+
+I
+
+0.2
+
+,
+
+I
+
+0.3
+
+,
+
+I
+
+0.4
+
+i
+
+I
+
+0.5
+
+"13me(seconds)
+
+Figure 54 Stcady-Stataand Transient Calibration, cm/scc
+5
+
+121
+
+FLAMMABLE SAMPLETRANSLATION DEVICE
+2 cm/sec
+
+Steady
+
+State
+
+Calibration
+
+I
+
+46
+45
+
+-,%£...
+"%'_k--.
+-_"-;_._.o
+
+44
+E
+
+43
+42
+
+;.'°,
+
+°
+• ;,b....
+
+41
+n
+g
+
+4O
+
+- 2.03
+
+39
+38
+,
+
+i
+
+I
+
+I
+
+":.'..
+
+I
+
+I
+
+2.250
+
+1.375
+
+0.500
+
+..o°
+
+*x
+
+i
+
+I
+
+3.1 25
+
+4.000
+
+Time (seconds)
+
+FLAMMABLE
+
+SAMPLE
+
+2 cm/sec
+
+TRANSLATION
+
+Translent
+
+DEVICE
+
+Calibration
+
+1
+
+46.5
+46.4
+46.5
+46.2
+46.1
+v
+
+46.0
+45.9
+
+•
+
+o
+
+°
+
+r_
+
+45.8
+45.7
+45.6
+45.5
+
+•
+I
+
+0.0
+
+i
+
+I
+
+0.1
+
+i
+
+I
+
+0.2
+Time
+
+Figure
+
+55 Steady-State
+
+i
+
+I
+
+i
+
+0.5
+
+I
+
+0.4
+
+i
+
+°
+I
+
+0.5
+
+(seconds)
+
+and Transient
+
+Calibration,
+
+2 cm/sec
+
+122
+
+FLAMMABLE SAMPLE TRANSLATIONDEVICE
+I cm/_ec
+
+Steady State Calibration
+
+I
+
+,¢6
+
+45
+•
+
+°
+_°
+._..
+
+C
+
+.o_
+
+43
+
+;o.p
+
+t_
+
+#°*t;
+_,
+
+4.2
+
+- 1.00
+
+°_
+
+-x
+
+,°,
+
+°,°
+°
+
+4.1
+0.500
+
+I
+
+J
+
+!
+
+1.375
+
+J
+
+I
+
+3.1 25
+
+2.250
+
+,
+
+I
+
+¢.000
+
+_me (s_onUs)
+
+FLAMMABLE
+SAMPLE TRANSLATION DEVICE
+I cm/sec Tronsient Colibrotion I
+4.5.7
+J-5.6
+°
+
+°
+
+°
+
+.
+
+45.5
+°
+
+°
+
+°
+
+65.4
+¢5.3
+4.5.2
+4.5.1
+4.5.0
+
+o'.o &
+'
+
+' 0'.2 o'.3 oi,
+'
+'
+
+o15
+
+T:_e (scoot, c=)
+
+Figure
+
+56 Steady-State
+
+and Transient
+
+Calibration,
+
+1 cm/sec
+
+123
+
+FLAMMABLE
+SAMPLE TRANSLATION
+DEVICE
+0.5 cm/sec Steady State Calibration 1
+
+46.0
+bd,_m
+
+45.8
+45.6
+45.4
+E
+
+-:--r...'.:.,
+
+45.2
+4.5.0
+
+"*.'.
+
+""': i...
+
+44.8
+rt
+
+44.6
+
+"'. ",....
+
+44.4
+
+- 0.50
+
+*x
+
+"'-,o..
+
+44.2
+
+• 'a. ,_ .o
+
+44.0
+0.500
+
+I
+
+i
+
+|
+
+1.375
+
+I
+
+i
+
+I
+
+3.125
+
+2.250
+_me
+
+i
+
+4.000
+
+(seconds)
+
+FLAMMABLE
+SAMPLE TRANSLATION
+0.5 cm/se¢ Transient Calibration
+
+DEVICE
+2
+
+46.3
+
+46.2
+E
+46.1
+E
+O
+.--
+
+_
+
+46.0
+
+45.9
+
+45.8
+
+0I 0
+
+i
+
+1
+0.1
+
+,
+
+I
+0.2
+
+a
+
+I
+0.3
+
+I
+0.4
+
+i
+
+I
+0.5
+
+Time (seconds)
+
+Figure
+
+57 Steady-State
+
+and Transient
+
+Calibration,
+
+0.5 era/see
+
+REPORT
+
+DOCUMENTATION
+
+PAGE
+
+OMBNo.0704-0188
+Form Approved
+
+I
+
+Public
+reporting urden
+b
+forINKcollectionf infommlion e_timatod average hour
+o
+is
+to
+1
+petresponse,
+including
+thetimeforreviewing'sltuoions,
+k
+searching
+existing
+datasource,
+galhedng
+andmaJrda_gthedataneeded, ndcompledng
+a
+andrev_wing
+thecollectionfinformation.
+o
+Sired
+commentsegarding
+r
+thisburden
+eslimale
+orany o(her
+aspectot this
+of information,
+includinguggesllons
+s
+forreducing
+thisburden, Washington
+to
+I-lea(:lquartms
+Servlcm.Dinx:torato
+fo¢Inform=nicn
+Operations
+andReports, 215Jeffemon
+1
+Dav=s
+Highw;ty.
+Suite1204,Adln_, VA 22202-4302, ndto theOffi_ of Management
+a
+andBudget. aperwork
+P
+Reducllon ro/je¢l
+P
+(0704-0188).
+Washk_gton, 20503.
+DC
+1. AGENCY USE ONLY (Leave blank)
+
+2. REPORT DATE
+
+3. REPORT TYPE AND DATES COVERED
+
+October 1996
+
+Final Contractor Report
+
+4. TITLE AND SUBTITLE
+
+5. FUNDING NUMBERS
+
+An Experimental Study of Ignition Effects and Flame Growth Over a Thin Sofid
+Fuel in Low-Speed Concurrent Flow Using Drop-Tower Facilities
+
+WU-962-22-05-40
+G-NAG3-1046
+
+e. AUTHOR(S)
+
+Richard Dale Pettegrew
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)
+
+8. PERFORMING ORGANIZATION
+REPORT NUMBER
+
+CaseWesl=rnReserve University
+Cleveland, Ohio 44106
+
+E...-10471
+
+9. SPONSORING/MONITORING
+AGENCY
+NAME(S)
+ANDADDRESS(ES)
+
+10. SPONSORING'MONITORING
+AGENCY REPORT NUMBER
+
+National Aeronautics and Space Administration
+Lewis Research Center
+Cleveland, Ohio 44135-3191
+
+NASA CR-198537
+
+11. SUPPLEMENTARY NOTES
+
+This report was submitted as a thesis in partial fulfillment of the requirements for the degree Master of Science to Case
+Western Reserve University, Cleveland, Ohio, May 1995. Project Manager, Kurt R. Sacksteder, Space Experiments
+Division, NASA Lewis Research Center, organization code 6711, (216) 433-2857.
+12a. DISTRIBUTION/AVAILABILITY
+
+STATEMENT
+
+12b. DISTRIBUTION CODE
+
+Unclassified -Unlimited
+Subject Categories 34 and 31
+This publication
+
+is available from the NASA Center for AeroSpace Informal_on, (301) 621-0390
+
+13. ABSTRACT (Maximum 200 words)
+
+An experimental study of ignition and flame growth over a thin solid fuel in oxidizer flow speeds from 0 to 10 era/see
+concurrent flow was performed. This study examined the differences between ignition using a resistively heated wire
+(woven in a sawtooth pattern over the leading edge of the fuel), and a straight, resistively heated wire augmented by a
+chemical ignitor doped onto the leading edge of the fuel. Results showed that the chemical system yielded non-uniform
+ignition bursts, while the system using only the hotwire gave more uniform ignition. At speeds up to 2.5 cm/sec, the
+chemical system yielded non-uniform pyrolysis fronts, while the hotwire system gave more uniform pyrolysis fronts. At
+speeds of 5 cm/sec or greater, both systems gave uniform pyrolysis fronts. The chemically-ignitod flames tended to become
+too dim to see faster than the hotwirehgnited flames, and the flame lengths were observed to be shorter (after the initial
+ignition burst subsided) for the chemical system for all speeds. Flame and pyrolysis element velocities were measured.
+Temperature profiles for selected tests were measured using thermocouples at the fuel surface and in the gas phase.
+Comparisons between the flame element velocities and peak temperatures recorded in these tests with calculated spread
+rates and peak temperatures from a steady-state model are presented. Agreement was found to be within 20% for most
+flame elements for nominal velocities of 5 cm/sec and 7.5 cm/sec.
+
+14. SUBJECT TERMS
+
+15. NUMBER OF PAGES
+
+Microgravity; Combustion; Flames; Diffusion flames; Flame spreading
+
+137
+16. PRICE CODE
+
+A07
+17. SECURITY CLASSIFICATION
+OF REPORT
+
+Unclassified
+NSN 7540-01-280-5500
+
+18. SECURITY CLASSIFICATION
+OF THIS PAGE
+
+Unclassified
+
+19. SECURITYCLASSIFICATION
+OF ABSTRACT
+
+20. LIMITATION OF ABSTRACT
+
+Unclassified
+Standard Form 298 (Rev. 2-89)
+Presmtbedby ANSI Std. Z39-18
+296-102
+

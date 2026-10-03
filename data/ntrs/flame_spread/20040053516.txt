@@ -1,0 +1,444 @@
+Transport and Chemical Effects on Concurrent and Opposed-Flow Flame
+Spread at Microgravity
+Y. Son, G. Zouein, P. D. Ronney
+University of Southern California, Los Angeles, CA 90089-1453
+S. Gokoglu
+NASA Glenn Research Center, Cleveland OH 44135
+INTRODUCTION
+Flame spread over flat solid fuel beds is a useful means of understanding more complex twophase non-premixed spreading flames, such as those that may occur due to accidents in inhabited
+buildings and orbiting spacecraft. The role of buoyant convection on flame spread is substantial,
+especially for thermally-thick fuels. With suitable assumptions, deRis [1] showed that the spread rate
+(Sf) is proportional to the buoyant or forced convection velocity (U) and thus suggests that Sf is
+indeterminate at µg (since Sf = U) unless a forced flow is applied. (In contrast, for thermally thin
+fuels, the ideal Sf is independent of U [1].) The conventional view [2], as supported by computations
+and space experiments, is that for quiescent µg conditions, Sf must be unsteady and decreasing until
+extinction occurs due to radiative losses. However, this view does not consider that radiative transfer to
+the fuel surface can enhance flame spread. In recent work [3] we have found evidence that radiative
+transfer from the flame itself can lead to steady flame spread at µg over thick fuel beds. Our current
+work focuses on refining these experiments and a companion modeling effort toward the goal of a
+space flight experiment called Radiative Enhancement Effects on Flame Spread (REEFS) planned for
+the International Space Station (ISS) c. 2007.
+OPPOSED FLOW EXPERIMENTS AND MODELING
+Microgravity experiments on flame spread over thermally-thick fuels were conducted using
+foam fuels to obtain low density and thermal conductivity, and thus large spread rate (Sf) over
+thermally-thick fuels compared to dense fuels such as PMMA. This scheme enabled meaningful
+results to be obtained even in 2.2 second drop tower experiments. After evaluating numerous
+candidate materials, we chose open-cell polyphenolic foams primarily because they have lower
+sooting tendency and negligible melting or dripping tendency compared to other foams such as
+polystyrene or polyurethane. Experiments were conducted in an apparatus consisting of a 20 liter
+combustion chamber that was filled with the desired atmosphere by a computer-controlled partial
+pressure gas mixing system. The samples are ignited by an electrically heated wire than in turn
+ignited a sheet of nitrocellulose. The flames were imaged using CCD cameras whose signals were
+connected via fiber-optic cables to ground-based S-VHS video recorders. Both direct video and
+interferometry were employed. The igniter was controlled and the radiometer data were collected
+by a microcomputer data acquisition and control system.
+Figure 1 shows that for CO2-diluted atmospheres the steady values of Sf could be higher at µg
+than 1g, especially at low O2 concentrations, but for N2-diluted atmospheres Sf was always higher at
+1g than µg. At µg, Sf can actually be higher in CO2 than N2 at the same O2 concentration even
+though CO2 has a larger CP and thus yields lower Tf than N2 for the same O2 concentration. Figure 1
+also shows that for CO2 diluent the minimum O2 concentration supporting combustion is
+substantially lower at µg than 1g, whereas for N2 the minimum O2 concentration is higher at µg. All
+of these results show that flames in CO2-diluted atmospheres burn more robustly at µg than 1g
+whereas the opposite trend is found for N2. This is likely due to three factors. First, L is larger for
+O2-CO2 atmospheres (since both the combustion products and ambient atmosphere contain radiant
+species, whereas for O2-N2 only the combustion products radiate) which increases the heat flux to
+the fuel bed and thus Sf. Second, without buoyant convection (U = 0), the flame thickness
+dg=ag/(U+Sf) is much thicker at µg than at 1g, thus µg flames have more volume and can transfer
+more radiation to fuel bed. Interferometer images (not shown) confirm that flames are much thicker
+at µg. This effect is more important for lower O2 concentrations (thus lower Sf) which explains
+why the difference between 1g and µg spread rates in O2-CO2 atmospheres is larger at lower O2
+NASA/CP—2003-212376/REV1
+
+133
+
+concentrations. Third, O2-CO2 atmospheres can reabsorb and re-radiate emitted radiation whereas
+O2-N2 atmospheres cannot, thus substantial radiative heat losses that would otherwise occur at µg
+with thick flames in strongly radiating O2-CO2 atmospheres are at least partially suppressed.
+Figure 2 shows predicted pressure effects on Sf [3] for O2-CO2 atmospheres at µg. Two
+different assumed values of T f are shown. All gas properties are evaluated at the average
+temperature (Tf+T∞)/2. The model provides reasonable Sf estimates except near the low-pressure
+extinction limit, where heat losses may dominate, leading to slower than predicted flame spread, and
+at high pressure where there may be a transition to nearly opaque conditions. The opacity at high
+pressure causes less radiative transfer thus less fuel bed preheating than predicted by our opticallythin model, which leads to lower Sf than the optically-thin predictions. (Neither of these effects can
+be predicted by the simple optically-thin, loss-free model developed in [3].)
+Polyphenolic foam
+
+7
+5
+
+3
+
+0.0267 g/cm
+4 atm total pressure
+
+µg, CO
+
+1g, CO
+
+1
+
+Sf (cm/sec)
+
+Spread rate (cm/s)
+
+10
+
+2
+
+2
+
+µg, N
+
+2
+
+2
+
+25
+
+30
+
+35
+
+40
+
+45
+
+Mole percent O
+
+50
+
+Expt. (µg, CO diluent)
+
+1
+0.8
+0.6
+
+1g, N
+20
+
+3
+
+2
+
+Model (T = 1500K)
+f
+
+Model (T = 1800K)
+f
+
+0.4
+55
+
+0
+
+2
+
+Figure 1. Effect of oxygen concentration on
+spread rates over thick solid fuel beds at
+microgravity and earth gravity, polyphenolic
+foam, density: 0.0267 g/cm3 , 4 atm pressure
+
+1
+
+2
+
+3
+
+4
+
+Pressure (atm)
+
+5
+
+6
+
+7
+
+Figure 2. Effect of pressure on spread rate over
+thick solid fuel beds at microgravity for
+polyphenolic foam, density: 0.0267 g/cm3 ,
+40%O2 -60%CO2 .
+
+Figures 3a and 3b show the radiative characteristics of flame spread in O2-CO2 mixtures at 1g
+and µg, respectively. Narrow-angle thermopile-type radiometers mounted 10 cm from the fuel bed
+were used to determine radiative emissions from the flames. Three radiometers were used: (1) a
+front-side (burning side) radiometer viewing a hole in the fuel bed to measure only the outward gasphase radiative loss, (2) another front-side radiometer viewing the fuel surface to measure both the
+outward gas-phase and surface radiative fluxes, thus total radiative loss, (3) a back-side radiometer
+viewing through the hole to measures the inward gas-phase radiative heat flux, thus the fuel bed
+heating due to gas-phase radiation. The only case where the back-side radiometer (which measures
+the gas-phase radiant heat flux to the fuel bed) shows comparable intensity and timing with two
+front radiometers is for the O2-CO2 atmosphere at µg (Fig. 3b). This is likely because only in this
+case is there substantial emission, absorption and re-emission, which is the only means to obtain
+substantial radiative flux to the rear-side radiometer. O2-N2 atmospheres (not shown) do not show
+this behavior at all, and even for O2-CO2 atmospheres this is seen only at µg (Fig. 3b) where the
+flame thickness is larger and thus the total radiative flux is greater. Note also that the gas-phase
+radiative loss ("Front, gas only" curves) at µg is actually lower for O2-CO2 than O2-N2 atmospheres
+due to reabsorption by the ambient atmosphere for O2-CO2. At 1g, (Fig. 3a) the surface radiation is
+much larger than gas-phase radiation due to the decreased flame thickness thus decreased volume of
+radiating gas at 1g. These results confirm our hypotheses concerning radiative transfer effects on µg
+flame spread, in particular that (1) radiative preheating of the fuel bed by the gas is significant in
+radiatively-active atmospheres at µg, (2) reabsorption effects can prevent massive heat losses (thus
+extinction) in radiatively-active atmospheres at µg and (3) these effects are less important at 1g due
+to substantial U caused by buoyancy which leads to smaller flame thicknesses thus less volume of
+radiating gas.
+
+NASA/CP—2003-212376/REV1
+
+134
+
+0.004
+
+0.006
+
+Front, gas only
+Front, gas+surface
+Back, gas only
+
+2
+
+0.005
+
+Radiative Flux (W/cm )
+
+Radiative Flux (W/cm2)
+
+0.006
+
+0.003
+0.002
+0.001
+
+Front, Gas only
+Front, Gas + Surface
+Rear, Gas only
+
+0.005
+0.004
+
+End of
+Drop
+
+40% O - 60% CO
+2
+
+2
+
+4 atm total pressure
+
+0.003
+
+3
+
+0.027 g/cm
+Polyphenolic foam fuel
+Microgravity
+
+0.002
+0.001
+0
+
+0
+-0.001
+0
+
+0.5
+1
+1.5
+Elapsed Time (sec)
+
+-0.001
+0
+
+2
+
+0.5
+
+1
+1.5
+Elapsed Time (sec)
+
+2
+
+2.5
+
+Figure 3. Radiative flux characteristics of flames Figure 3. Radiative flux characteristics of
+spreading over polyphenolic foam fuel.
+(a) flames spreading over polyphenolic foam fuel.
+40%% O2 - 60% CO2 , earth gravity.
+(b) 40%% O2 - 60% CO2 , microgravity.
+4 atm total pressure
+Polyphenolic foam
+
+1
+
+G = 10
+
+3
+
+0.027 g/cm
+
+rad
+
+G = 100
+
+0.1
+
+G = 1000
+
+f
+
+S /U
+
+Spread rate (cm/s)
+
+10
+
+1
+
+25
+
+µg CO2
+µg He
+1g CO2
+1g He
+
+30
+
+35
+40
+Mole percent O
+
+45
+
+Slope = 1
+( S ~ U)
+
+0.01
+
+0.1
+
+50
+
+f
+
+1
+
+10
+
+U/U
+
+rad
+
+2
+
+Figure 4. Effect of oxygen concentration on Figure 5.
+Predicted combined effects of
+spread rates over thick solid fuel beds at µg and convection and radiation on flame spread
+earth gravity – comparison of CO2 and helium as rates over thick solid fuel beds
+a fire extinguishing agent.
+
+Several tests were conducted using He diluent at 4 atm (Fig. 4). It was found that He- and CO2diluted atmospheres exhibit nearly the same Sf, for a given O2 mole fraction even though CO2 has a
+mole-based CP at 300K that is 1.8 times higher than He, and at 2000K is 3.9 times higher. Also, He
+has a thermal conductivity (lg) 9.4 times higher than CO2. Both of these factors should lead to
+higher Tf and Sf in He than in CO2-diluted atmospheres at the same O2 concentration. Furthermore,
+at 1g the minimum O2 mole fraction supporting combustion was nearly the same (30%) in He and
+CO2-diluted atmospheres whereas at µg the minimum O2 mole fraction was much higher for He
+(35%) than CO2 (27%). There are at least three reasons for the observed behavior. First, the Lewis
+number of O2 in He is much higher than O2 in CO2 (≈1.20 vs. ≈0.84), which leads to lower spread
+rates for He [4]. Second, the higher l g and a g of He leads to thicker flames and thus greater
+radiative loss for the same Sf since the heat loss per unit volume depends only on the radiating
+combustion products whose concentrations are not significantly different (at fixed ambient O2
+concentration) from O2-CO2 atmospheres. Third, unlike CO2, He is radiatively non-participating
+and thus no reabsorption or re-emission occurs. Consequently, we conclude that He may be a
+superior inerting agent at µg on several bases. First, at µg He is more effective than CO2 on a mole
+basis (thus pressure times storage volume basis), meaning that the size and weight of storage bottles
+would be smaller for the same fire-fighting capability. Second, He is much more effective on a mass
+basis (by about 11x) at µg. Third, He has no physiological activity, unlike CO2 which affects human
+respiration. These results are relevant to fire safety in manned spacecraft, particularly the
+International Space Station that uses CO2 fire extinguishers.
+A model was developed that included the combined effects of convection and radiation on flame
+spread rates over thick solid fuel beds. Figure 5 shows model predictions in terms of the thick-fuel
+NASA/CP—2003-212376/REV1
+
+135
+
+flame spread parameter G and the opposed forced flow velocity U referenced to a characteristic
+radiative velocity Urad. It can be seen that there is an intermediate velocity U that minimizes the
+spread rate. At high U the classical thick-fuel behavior predicted by deRis is observed and at
+sufficiently low U, the spread rate becomes independent of U (the radiation-dominated regime).
+Note that in the high-U limit, Sf is proportional to 1/G whereas at low U, the effect of G is much
+weaker.
+CONCURRENT FLOW RESULTS AT EARTH GRAVITY
+Buoyancy-driven upward flame spread over thermally thick fuels is of great practical
+importance because it is a paradigm for the main mechanism of fire spread in most building fires.
+Previously a model for upward flame spread over thermally-thin fuels, including the effects of
+transverse heat and momentum losses to the sides of the fuel samples and surface radiative losses
+was developed. Such losses were necessary to yield steady flame lengths and spread rates and with
+such losses, model predictions were found to agree well with experiments [5]. Recently we
+conducted analogous experiments using low-density but thermally-thick foam fuels, but instead of
+steady spread, these tests yielded, for reasons still not clear to us, unsteady behavior due to a
+“jumping” mode of flame spread. These behaviors were found to occur for a wide range of fuel
+types, pressures, oxygen mole fractions and sample widths and were found not only near extinction
+limit but also far from the limit conditions. The spatial and temporal intervals of hopping were very
+regular for moderately narrow samples, whereas wider samples exhibited an unsteady “walking” or
+“ratcheting” mode and flames ignited on narrower samples extinguished. For thermally-thin fuels
+similar behavior was found but only near extinction limits. Figure 6 shows a sequence of images
+illustrating the “jumping” behavior for a narrow sample. Fig. 7 shows the corresponding temporal
+history of the leading and trailing edges of the flame. It can be seen that the leading edge progresses
+at a relatively constant rate as if a “source” of flame length, with the trailing edge pausing then
+“jumping” to catch up. Current work is focused on determine the mechanism(s) responsible for this
+unusual behavior.
+Flame positon (cm)
+
+35
+Top of flame
+Bottom of flame
+
+30
+25
+20
+15
+10
+5
+0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+Elapsed time after ignition (sec)
+
+Figure 6. “Jumping” Flame spread, at 45%O2 - Figure 7. Flame Top and Bottom position as
+CO2 , 1atm, width=10mm, thickness=12mm
+Elapsed time a t 45%O2 -CO2 ,
+1atm,
+width=10mm, thickness=12mm
+
+REFERENCES
+1.
+2.
+
+3.
+4.
+5.
+
+deRis, J. N., Twelfth Symposium (International) on Combustion, Combustion Institute,
+Pittsburgh, 1969, p.241.
+Bhattacharjee, S., West, J., Altenkirch, R. A. Twenty-Sixth Symposium (International) on
+Combustion, Combustion Institute, Pittsburgh, 1996, p. 1477; Altenkirch, R.A., Tang, L.,
+Sacksteder, K., Bhattacharjee, S., Delichatsios, M. A., Twenty-Seventh Symposium
+(International) on Combustion, Combustion Institute, Pittsburgh, 1998, p. 2515.
+Son, Y., Ronney, P. D., to appear in Proc. Combust. Inst., Vol. 29 (2003).
+Zhang, Y., Ronney, P. D., Roegner, E., Greenberg, J.B., Combust. Flame 90:71 (1992).
+Honda, L. K., Ronney, P. D., Proc. Combust. Inst. 28:2793-2801 (2000).
+
+NASA/CP—2003-212376/REV1
+
+136
+

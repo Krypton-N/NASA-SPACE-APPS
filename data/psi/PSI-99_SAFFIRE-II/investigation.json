@@ -1,0 +1,269 @@
+{
+ "accession": "PSI-99",
+ "acknowledgments": "",
+ "added": [],
+ "approach": "The Saffire-II experiment was performed on the Orbital Science’s Cygnus resupply vehicle after it deberthed from the ISS. As a follow on to the Saffire-I investigation, the Saffire-II investigation added more samples including SIBAL, silicone, structure PMMA, flat PMMA, and PMMA with Nomex. The Saffire-1I flight unit had a sample card installed in the middle of a large flow duct. Air is drawn through the flow duct by fans located at the top of the duct with flow straighteners at the bottom of the experiment module. Saffire-II has a sample card that contains 9 samples, each 5 cm x 29 cm. Depending on the sample material, the Saffire-II was conducted at an air flow velocity of either 20 or 30 cm/s, the flow being either concurrent or opposed.  Once the sample was ignited flame images were captured using two cameras. In addition, thermocouples provided flow, flame, and plume temperatures, two radiometers recorded flame radiation, solid state sensors were used to measure pressure, CO2 and O2 mole faction, and two anemometer tracked flow velocity. All data was compressed, and subsequently downlinked. Details related to samples and experimental parameters are provided in the Experimental Details file in the Science document folder.",
+ "assays": [],
+ "contacts": [
+  {
+   "@id": "",
+   "address": "",
+   "affiliation": "NASA GRC",
+   "comments": [
+    {
+     "name": "orcidIdentifier",
+     "value": ""
+    }
+   ],
+   "email": "david.l.urban@nasa.gov",
+   "fax": "",
+   "firstName": "David",
+   "lastName": "Urban",
+   "midInitials": "L.",
+   "phone": "",
+   "roles": [
+    {
+     "@id": "dEBvA2jSs25xM9IfCv5ploF8MUDFt0ACKekf97KJ",
+     "annotationValue": "Principal Investigator (PI)",
+     "comments": [],
+     "termAccession": "Principal Investigator (PI)",
+     "termSource": ""
+    }
+   ]
+  },
+  {
+   "@id": "",
+   "address": "",
+   "affiliation": "NASA GRC",
+   "comments": [
+    {
+     "name": "orcidIdentifier",
+     "value": "0000-0002-7397-2033"
+    }
+   ],
+   "email": "gary.a.ruff@nasa.gov",
+   "fax": "",
+   "firstName": "Gary",
+   "lastName": "Ruff",
+   "midInitials": "",
+   "phone": "",
+   "roles": [
+    {
+     "@id": "mQ2Zwo4QmXiua4VJGTSqGtFJkYfvPdgsmdPtlsF8",
+     "annotationValue": "Investigator",
+     "comments": [],
+     "termAccession": "http://purl.obolibrary.org/obo/NCIT_C51826",
+     "termSource": "EFO"
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "dirty": false,
+ "doi": "10.60555/2chp-m469",
+ "experimentHardware": "Cygnus Pressurized Cargo Module, SAFFIRE",
+ "experimentHardwareLink": "https://cdn.northropgrumman.com/-/media/wp-content/uploads/Cygnus-Fact-Sheet-1.pdf, https://ntrs.nasa.gov/api/citations/20170000230/downloads/20170000230.pdf",
+ "experimentalTable": [
+  {
+   "_id": {
+    "$oid": "6792d000b7b6ff8e650380fc"
+   },
+   "date_created": {
+    "$date": 1737674752026
+   },
+   "date_modified": {
+    "$date": 1737674752026
+   },
+   "file_name": "PSI-99_Experimental table_SAFFIRE-2.csv",
+   "file_size": 1973,
+   "remote_path": "/Home/psi-data/PSI-99/Experimental table/PSI-99_Experimental table_SAFFIRE-2.csv",
+   "remote_url": "/datamanager/file/Home/psi-data/PSI-99/Experimental table/PSI-99_Experimental table_SAFFIRE-2.csv",
+   "resource_id": {
+    "$oid": "66cf53d46f1142c964b2e0a8"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-99/Experimental table/PSI-99_Experimental table_SAFFIRE-2.csv",
+   "s3_version_id": "Kudy6.is5OaNybLt0PRcLA6qMj57Pcxl",
+   "study_id": {
+    "$oid": "6840d3366daf91e274cebc7f"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  }
+ ],
+ "experiments": [],
+ "factors": [],
+ "filesDisabled": null,
+ "flightProgram": "Cygnus Spacecraft",
+ "funding": "NASA",
+ "hypothesis": "This investigation hypothesizes that due to large differences between fire behavior in normal and reduced gravity, the use of terrestrial fires and fire standards to design spacecraft fire safety systems presents an inherent risk to the vehicle because of the significant level of uncertainty. While this approach has been successful thus far, the uncertainty and risk will increase as exploration missions venture further from earth with considerably longer transit times for a safe return. There is a significant lack of microgravity data available for spacecraft designers on which to base their fire safety designs and procedures. To address this knowledge gap, this investigation proposed to conduct large-scale fire safety experiments in an expendable spacecraft without risk to a crew.",
+ "identifiers": [],
+ "images": [],
+ "investigationAcronym": "SAFFIRE-II",
+ "investigationEndDate": "04-01-2017",
+ "investigationStartDate": "09-30-2016",
+ "licenseIdentifier": "CC0-1.0",
+ "licenseLink": "https://spdx.org/licenses/CC0-1.0.html",
+ "licenseName": "Creative Commons Zero v1.0 Universal",
+ "managingNasaCenter": "Glenn Research Center (GRC)",
+ "missionEnd": "",
+ "missionLink": "",
+ "missionName": "",
+ "missionStart": "",
+ "modified": [
+  {
+   "bucket": "psi-repo-prod",
+   "date_created": {
+    "$date": 1749077445013
+   },
+   "date_modified": {
+    "$date": 1749077445013
+   },
+   "file_name": "PSI-99_metadata_PSI-167_SAFFIRE-II.zip",
+   "file_size": 10539,
+   "organization": "OSD",
+   "remote_path": "/Home/psi-data/PSI-99/metadata/PSI-99_metadata_PSI-167_SAFFIRE-II.zip",
+   "remote_url": "/datamanager/file/Home/psi-data/PSI-99/metadata/PSI-99_metadata_PSI-167_SAFFIRE-II.zip",
+   "resource_id": {
+    "$oid": "65e0a4d4931988043eebcd6e"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-99/metadata/PSI-99_metadata_PSI-167_SAFFIRE-II.zip",
+   "s3_version_id": "Wo3KwQYMn8W8QeZHwBiujvfflrIxgCyf",
+   "study_id": {
+    "$oid": "6840cdd94a0e24d624cebe73"
+   },
+   "version": 4,
+   "visible": true
+  }
+ ],
+ "modifiedDate": "04-Jun-2025",
+ "objective": "The objectives of SAFFIRE-II are to determine how rapidly a large scale fire grows in low-gravity and to investigate the low-g flammability limits compared to those obtained in NASA’s normal gravity material flammability screening test.",
+ "organizations": [],
+ "payloads": [],
+ "projectIdentifier": "",
+ "projectLink": "",
+ "projectTitle": "",
+ "projectType": "Microgravity Investigation",
+ "proposalTitle": "",
+ "public": true,
+ "publications": [
+  {
+   "authorList": "JE Niehaus, PV Ferkul, SA Gokoglu, GA Ruff",
+   "comments": [],
+   "doi": "",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire), Conference: 45th International Conference on Environmental Systems ICES-2015-[293] 12-16 July 2015, Bellevue, Washington"
+  },
+  {
+   "authorList": "W Schoren, GA Ruff, DL Urban",
+   "comments": [],
+   "doi": "",
+   "pubMedID": "",
+   "status": {
+    "@id": "l87xqHQEQuC4rNfO31zRSVlRomoXfQjaWFyzxZZZ",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": ""
+   },
+   "title": "The Spacecraft Fire Experiment (Saffire) - Objectives, Development and Status"
+  },
+  {
+   "authorList": "Urban David L., Ferkul Paul, Olson Sandra, Ruff Gary A., Easton John, T'ien James S., Liao Ya-Ting T., Li Chengyao, Fernandez-Pello Carlos, Torero Jose L., Legros Guillaume, Eigenbrod Christian, Smirnov Nickolay, Fujita Osamu, Rouvreau Sébastien, Toth Balazs, Jomaas Grunde",
+   "comments": [],
+   "doi": "10.1016/j.combustflame.2018.10.012",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Flame spread: Effects of microgravity and scale"
+  },
+  {
+   "authorList": "Thomsen Maria, Fernandez-Pello Carlos, Ruff Gary A., Urban David L.",
+   "comments": [],
+   "doi": "10.1016/j.combustflame.2018.10.016",
+   "pubMedID": "35197652",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Buoyancy effects on concurrent flame spread over thick PMMA"
+  },
+  {
+   "authorList": "Olson Sandra L., Urban David L., Ruff Gary A., Ferkul Paul V., Toth Balazs, Eigenbrod Christian, Meyer Florian, Jomaas Grunde",
+   "comments": [],
+   "doi": "10.1007/s10694-019-00863-3",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Concurrent Flame Spread Over Two-Sided Thick PMMA Slabs in Microgravity"
+  },
+  {
+   "authorList": "Li Chengyao, Liao Ya-Ting T., T'ien James S., Urban David L., Ferkul Paul, Olson Sandra, Ruff Gary A., Easton John",
+   "comments": [],
+   "doi": "10.1016/j.proci.2018.05.168",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Transient flame growth and spread processes over a large solid fabric in concurrent low-speed flows in microgravity – Model versus experiment"
+  },
+  {
+   "authorList": "Wang Xiaoliang, Zhou Hao, Arnott W. Patrick, Meyer Marit E., Taylor Samuel, Firouzkouhi Hatef, Moosmüller Hans, Chow Judith C., Watson John G.",
+   "comments": [],
+   "doi": "10.1016/j.firesaf.2020.102977",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Evaluation of gas and particle sensors for detecting spacecraft-relevant fire emissions"
+  }
+ ],
+ "related_glds": "",
+ "releaseDate": "18-Sep-2024",
+ "removed": [],
+ "researchArea": "Combustion Science",
+ "researchImpacts": "The Saffire-II experiment provides a new way to study a realistic fire on an exploration vehicle, which has not been possible in the past because the risks are too high. Instruments on an unmanned cargo vessel measure oxygen, carbon dioxide, heat, pressure and flame growth, and two video cameras provide views of the flame. Results determine microgravity flammability limits for several spacecraft materials, help to validate NASA’s material selection criteria, and how microgravity and limited oxygen affect flame size. The investigation is crucial for the safety of current and future space missions. Studying fire in small, sealed environments such as the Cygnus cargo supply vehicle benefits fire safety and prevention efforts on Earth, including inside mines, airplanes, or submarines.",
+ "restricted": false,
+ "sourceAccession": "",
+ "sourceLink": "",
+ "spaceProgram": "National Aeronautics and Space Administration (NASA)",
+ "subResearchArea": "Surface Combustion",
+ "submissionDate": "18-Sep-2024",
+ "title": "Spacecraft Fire Experiment-II",
+ "totalFileSize": 16931016137.0,
+ "version": 5,
+ "versionMessage": "",
+ "versionMessageLevel": "",
+ "versionMessageLocations": [],
+ "versionReason": "Metadata update"
+}

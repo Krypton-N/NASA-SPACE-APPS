@@ -1,0 +1,245 @@
+LAMINAR SOOT PROCESSES (LSP) EXPERIMENT:
+FINDINGS FROM SPACE FLIGHT MEASUREMENTS
+P.B. Sunderland, D.L. Urban and Z.G. Yuan
+NASA Glenn Research Center, Cleveland, Ohio
+C. Aalburg, F.J. Diez and G. M. Faeth
+The University of Michigan, Ann Arbor, Michigan
+INTRODUCTION
+The present experimental study of soot processes in hydrocarbon-fueled laminar
+nonbuoyant and nonpremixed (diffusion) flames at microgravity within a spacecraft was
+motivated by the relevance of soot to the performance of power and propulsion systems, to the
+hazards of unwanted fires, and to the emission of combustion-generated pollutants. Soot
+processes in turbulent flames are of greatest practical interest, however, direct study of turbulent
+flames is not tractable because the unsteadiness and distortion of turbulent flames limit available
+residence times and spatial resolution within regions where soot processes are important. Thus,
+laminar diffusion flames are generally used to provide more tractable model flame systems to
+study processes relevant to turbulent diffusion flames, justified by the known similarities of gasphase processes in laminar and turbulent diffusion flames, based on the widely-accepted laminar
+flamelet concept of turbulent flames [1-4]. Unfortunately, laminar diffusion flames at normal
+gravity are affected by buoyancy due to their relatively small flow velocities and, as discussed
+next, they do not have the same utility for simulating the soot processes as they do for simulating
+the gas phase processes of turbulent flames.
+Local effects of buoyancy are small in the soot reaction region of practical turbulent
+flames; therefore, buoyant laminar diffusion flames can only provide a proper model flame
+system for turbulent flames to the extent that buoyancy does not affect soot processes.
+Unfortunately, soot particles are too large to diffuse like gas molecules and are primarily
+convected by local flow velocities; as a result, their behavior in buoyant and nonbuoyant
+diffusion flames is quite different [4-6]. This can be explained based on both measurements [712] and predictions [13,14]. In a buoyant flame, soot nucleation first occurs near the flame sheet,
+after which the soot convects inward to more fuel-rich regions before finally being swept out of
+the flame (passing from fuel-rich to fuel-lean conditions) near the flame tip. In contrast, in
+nonbuoyant flame, soot nucleation first occurs near the cool core of the flame, after which the
+soot particles are swept directly through the flame (passing from fuel-rich to fuel-lean
+conditions) at all points along the flame surface within the dividing streamlines. Thus, soot
+processes within buoyant and nonbuoyant laminar diffusion flames are very different, with
+results for nonbuoyant laminar diffusion flames representing soot processes of interest for
+practical turbulent flames (that generally are nonbuoyant due to their large flow velocities).
+These differences between soot processes in buoyant and nonbuoyant laminar diffusion
+flames motivated the first phase of the present experiments which involved measuring soot
+properties within nonbuoyant laminar jet diffusion flames. These results were somewhat
+compromised, however, because the test flames had rather large residence times, and
+corresponding large radiative heat losses; this resulted in radiative quenching near the flame tip
+which caused tip opening phenomena and associated emissions of unburned fuel and soot along
+the axes of the flames. Such excessive radiative heat losses are not typical of practical turbulent
+diffusion flames; therefore, the present experiments emphasized conditions where the flames
+were nearly adiabatic. Similar to the original experiments of Refs. 15-20, the present
+measurements sought the shapes, the laminar smoke point properties and the soot properties of
+round nonbuoyant laminar jet diffusion flames.
+
+NASA/CP—2003-212376/REV1
+
+33
+
+EXPERIMENTAL METHODS
+Apparatus. A sketch of the test apparatus appears in Fig. 1. The arrangement consisted
+of a laminar jet diffusion flame stabilized at the exit of a round fuel nozzle extending along the
+axis of a windowed cylindrical chamber. The chamber had a diameter of 400 mm, a maximum
+length of 740 mm and was capable of operating at pressures of 30-130 kPa. The chamber was
+filled with an O2/N2 mixture to provide the nominal composition of dry air (21 ± 1% O2 by
+volume) with total O2 consumption during a flame test less than 10%. The flames were ignited
+using a retractable hot wire. Two fuel nozzles were considered, having inside diameters of 0.8
+and 0.4 mm. The larger jet exit velocities, uo, for a given fuel flow rate, yielded characteristic
+flame residence times,
+tch = 2Lf/uo
+
+(1)
+
+where Lf is the luminous flame length, that were 4-16 times smaller than the conditions of Refs.
+15-20. The reduced radiative heat losses yielded nearly-adiabatic flames.
+Instrumentation. Laminar flame shapes were measured using a CCD video camera.
+Soot volume fractions and temperature distributions were measured using imaging techniques,
+deconvoluting laser extinction measurements for soot volume fractions, and deconvoluting twoline emission measurements to find soot temperatures and mixture fractions.
+Other
+measurements are described in Urban et al. [15].
+RESULTS AND DISCUSSION
+Flame Shapes. Flame shape predictions adopted the simplified approach of Lin et al.
+[17] yielding the following expression for the flame length:
+&
+Lf – Lo = (3CfSc/(8πµ)) m /Zst
+
+(2)
+
+where Lo is the virtual origin, Cf is an empirical coefficient to match measurements and
+predictions (Cf=1 (basic theory), =1.13 (soot-containing flame at the laminar smoke point, and
+&
+=0.56 (soot-free flame)), Sc=0.76 is the Schmidt number, µ is the flame viscosity, m is the
+burner flow rate and Zst is the mass fraction of the fuel in a stoichiometric mixture of the burner
+exit and ambient fluids (ambient fluid = air in the following). See Ref. 17 for the formulas for
+other flame properties.
+A typical video flame image appears in Fig. 2; these conditions correspond to an
+ethylene/air flame for the 0.8 mm diameter burner at a pressure of 1/2 atm. This flame has a
+length of 109 mm and is very near the laminar smoke point but with no evidence of tip opening.
+A preliminary evaluation of the flame length prediction of Eq. (2) is illustrated in Fig. 3.
+Predictions on this figure are for smoke-point and soot-free flames, setting Lo=0, taking a mean
+value of µ for air at 1100 K for all the flames and using Zst=0.0636 and 0.0602 for ethylene- and
+propane-fueled flames, respectively. The test conditions included two soot-emitting flames,
+several flames near the laminar smoke point, several soot-containing flames at flow rates smaller
+than laminar smoke point conditions, and one soot-free (blue flame). The comparison between
+measurements and the simplified flame length expression of Eq. (2) is remarkably good for soot
+emitting and laminar smoke point flames and for the soot-free flame. The other soot-containing
+flames fall between these limits, as expected.
+Laminar Flamelet Concept. The laminar flamelet concept implies that laminar
+diffusion flames should have scalar gas properties that are only functions of the degree of mixing
+of the flow, typically represented by the local mixture fraction, for given burner exit and ambient
+conditions. These functions, called state relationships, are applied to turbulent diffusion flames,
+assuming that turbulent diffusion flames involve a collection of strained laminar flamelets. The
+NASA/CP—2003-212376/REV1
+
+34
+
+use of the laminar flamelet approximation is effective for buoyant and nonbuoyant soot-free
+flames, vastly simplifying predictions because only mixture fraction predictions are needed to
+find all scalar properties [1-4]. As noted earlier, however, similar state relationships are not
+found for soot properties in buoyant laminar diffusion flames due to soot path effects. The
+success of the simplified flame shape analysis discussed in connection with Figs. 2 and 3,
+suggests that the laminar flamelet concept might be valid for soot properties within nonbuoyant
+laminar diffusion flames. In particular, the simplified analysis shows that the variation of
+mixture fraction (and thus all scalar properties) as a function of time is identical for all soot paths
+from the burner exit to the surroundings. This also implies identical soot properties along all
+soot paths through the present nonbuoyant laminar diffusion flames, even when the burner flow
+is varied.
+The potential for soot property state relationships was tested by considering maximum
+soot concentrations along various soot paths for experiments carried out on STS-83 and –94.
+These results are illustrated in Fig. 6 as ratios of maximum soot volume fractions for each path
+considered through a given flame to the average of all the paths through the same flame, for the
+four flames for these experiments where characteristic flame residence times were small enough
+to make radiative heat losses small. As anticipated from the simplified theory, maximum soot
+concentrations for all the paths through the flames, for given burner exit and ambient conditions,
+are essentially the same within experimental uncertainties. Given successful subsequent
+evaluation of the soot property state relationship concept from the STS-107 results, an important
+simplification for understanding, and modeling, practical soot-containing turbulent diffusion
+flames will be obtained.
+ACKNOWLEDGMENTS
+This research was supported by NASA Grant Nos. NAG3-2048 and NAG3-2404.
+REFERENCES
+1. Bilger, R.W., Combust. Flame 30:277 (1977).
+2. Faeth, G.M. and Samuelson, G.S., Prog. Energy Combust. Sci. 12:305 (1986).
+3. Sivathanu, Y.R. and Faeth, G.M., Combust. Flame 82:211 (1990).
+4. Gore, J.P. and Faeth, G.M., J. Heat Trans. 110:173 (1988).
+5. Sunderland, P.B. et al., Combust. Flame 96:97 (1994).
+6. Law, C.K. and Faeth, G.M., Prog. Energy Combust. Sci. 20:65 (1994).
+7. Sunderland, P.B. et al., Combust. Flame 100:310 (1995).
+8. Lin, K.-C. et al., Combust. Flame 104:369 (1996).
+9. Santoro et al., Combust. Flame 51:203 (1983).
+10. Santoro et al., Combust. Sci. Tech. 53:89 (1987).
+11. Puri, R. et al., Combust. Flame 92:320 (1993).
+12. Puri, R. et al., Combust. Flame 97:125 (1994).
+13. Spalding, D.B., Combustion and Mass Transfer, Pergamon, New York, Chapt. 10, 1979.
+14. Mortazavi et al., AIAA Paper No. 93-0708, 1993.
+15. Urban, D.L. et al., AIAA J. 36:1346 (1998).
+16. Faeth, G.M., Microgravity Combustion Science (H.D. Ross, ed.), Academic Press, New
+York, p. 83, 2001.
+17. Lin, K.-C. et al., Combust. Flame 116:415 (1999).
+18. Lin, K.-C. and Faeth, G.M., AIAA J. 37:759 (1999).
+19. Dai, Z. and Faeth, G.M., Proc. Combust. Inst. 28:2085 (2000).
+20. Urban, D.L. et al., Proc. Combust. Inst. 28:1965 (2000).
+
+NASA/CP—2003-212376/REV1
+
+35
+
+160
+
+Luminous Flame Length, mm
+
+Flame type
+Soot emitting
+Smoke point
+Intermediate
+Blue flame
+Zs t
+
+120
+
+C2H4
+
+C3 H6
+
+,
+,
+m
++
+
+2
+2
+T
+.
+
+0.0636
+
+0.0602
+
+Theory,
+smoke point
+
+d = 0.8 - 2.7 mm
+p = 35 - 100 kPa
+80
+
+Theory,
+blue flame
+
+40
+
+0
+
+0
+
+20
+
+40
+m / Zst
+
+60
+
+80
+
+, µg/s
+
+Fig. 1.
+Sketch of the Laminar Soot
+Processes (LSP) test apparatus for
+observations of nonbuoyant round laminar
+jet diffusion flames in still air at
+microgravity.
+
+Fig. 3. Luminous flame lengths of round
+nonbuoyant and buoyant ethylene/air
+laminar jet diffusion flames as a function of
+fuel flow rate, burner diameter and pressure.
+
+Fig. 2. Video image of a nonbuoyant round
+laminar jet diffusion flame in still air at
+microgravity (ethylene fuel jet from a 0.8
+mm diameter burner port, pressure = 0.5
+atm, maximum luminous flame length and
+diameter of 109 and 10 mm, respectively).
+
+Fig. 4. Normalized maximum soot volume
+fractions as a function of normalized
+distance from the burner exit for round
+nonbuoyant ethylene/air laminar jet
+diffusion flames at microgravity.
+
+NASA/CP—2003-212376/REV1
+
+36
+

@@ -1,0 +1,261 @@
+UPWARD AND DOWNWARD FLAME SPREADING AND EXTINCTION
+IN PARTIAL GRAVITY ENVIRONMENTS
+Kurt R. Sacksteder
+NASA Glenn Research Center,
+Paul V. Ferkul
+National Center for Microgravity Research, and
+Ioan I. Feier, Amit Kumar and James S. T’ien
+Case Western Reserve University
+INTRODUCTION
+The premise of this research effort has been to begin exploring the gap in the literature
+between studies of material flammability and flame spread phenomena in normal-gravity and
+those conducted in the microgravity environment, with or without forced flows. From a
+fundamental point of view, flame spreading in upward (concurrent) buoyant flow is considerably
+different from concurrent forced flow. The flow accelerates throughout the length of the buoyant
+flame bringing the streamlines and the flame closer to the fuel surface and strengthening the
+interaction between the flame and fuel. Forced flows are diverted around the flame and away
+from the fuel surface, except where the flow might be constrained by a finite duct. The
+differences may be most clearly felt as the atmospheric conditions, viz. pressure or oxygen
+content, approach the flammability limit. From a more practical point of view, flame spreading
+and material flammability behavior have not been studied under the partial gravity conditions
+that are the natural state in space exploration destinations such as the Moon and Mars. This
+effort constitutes the beginning of the research needed to engineer fire safety provisions for such
+future missions.
+In this program we have performed partial-gravity experiments (from 0.1 to 1 g/gEarth)
+considering both upward and downward flame spread over thin solid fuels aboard the NASA KC135 aircraft. In those tests, the atmospheric pressure and the fuel sample width were varied.
+Steady flame spread rates and approximate extinction boundaries were determined. Flame images
+were recorded using video cameras and two-dimensional fuel surface temperature distributions
+were determined using an IR camera. These results are available in [1 – 3], and complement our
+earlier work in downward spread in partial gravity varying oxygen content [4].
+In conjunction with the experiment, three-dimensional models of flame spreading in buoyant
+flow have been developed. Some of the computed results on upward spreading have been
+presented in [3]. A derivative three-dimensional model of downward spreading has been
+developed [5]. It is currently being used to evaluate the standard limiting oxygen index (LOI)
+measuring device and its potential performance in different gravity levels.
+Since radiation plays an important role in flames at low gravity, considerable effort has been
+spent on flame and surface radiation on spreading flames. A theoretical study using a twodimensional model with gas-phase radiation compared flame spread in concurrent and opposed
+flows and clarified a number of questions in low-speed flows. In forced flow, concurrent flame
+spread rate is approximately proportional to upstream velocity (similar to the gravity dependence
+
+NASA/CP—2003-212376/REV1
+
+141
+
+in buoyant case) but opposed flame spread rate is non-monotonic. While at most forced flow
+velocities, spread rates are generally higher in concurrent flow than in opposed flow, the curves
+can cross at very low forced velocity. However, the lowest flammable oxygen percentage is
+always in the concurrent flow case. [6]
+In this paper we wish to show a comparison of upward and downward flame spread in partial
+gravity tests, show some numerical simulation results from opposed flow spreading in mixed
+convection flow and indicate some conclusions with respect to flame spread behavior in the
+partial gravity environment.
+EXPERIMENTS
+Upward and downward flame spreading was observed in reduced-pressure air environments
+in normal-gravity and in partial-gravity environments using the GIFFTS test apparatus [1-4] with
+slight modifications. Fuel samples were a thin cellulosic tissue, trade name “Kimwipes.” A
+repeatable pre-test sample-drying procedure was developed using a hot-air gun. Test pressures
+between 0.2-0.4 atmospheres were established using primary standard, precision mixtures of
+21% O2, balance N2. Flight tests were performed onboard the NASA KC-135 aircraft providing
+partial-gravity environments of 0.1, 0.16, and 0.38 g/gEarth. Limited tests were conducted at
+greater than 1.0 g/gEarth. Chamber pressure and 3-axis accelerations were recorded by the
+GIFFTS computer. Conventional video and a FSI Inc. Prism DS infra-red camera with a flame
+filter at 3.8µm (to reject emissions from excited H2O, CO2) were used to image the solid surface.
+The IR camera signal is calibrated to a black body emission; quantitative temperature
+measurements require the surface emissivity properties within the filter pass band. We have
+been developing methods for determining
+surface emittance from a burning surface [7, 8].
+Figure 1 shows an example of flame spread
+rates versus the local gravity level for 2 cm
+wide Kimwipes burning in air at a reduced
+pressure of 27.6 kPa. The upward burning
+spread rate varied linearly with gravity level for
+all pressure environments and sample widths
+tested (the inset shows data or 1 cm sample
+width), which has been predicted in scaling
+analysis [9]. The primary heat transfer
+mechanism for upward spread is buoyant
+convection, which increases with gravity. The
+measured pyrolysis lengths also increase
+proportionally with gravity. The three
+dimensional model predicts nearly linear
+spread rate dependence on gravity, as shown,
+for example, by the open symbols in the figure. Figure 1. Upward and downward flame spread rates for
+The downward spread rate is non- 2 cm wide samples burned in 27.6 kPa (4.0 psia) air at
+monotonic and peaks near the Martian gravity various gravity levels. Upward pointing symbols
+levels of 0.38 g/gEarth. The reductions from the indicate upward spread; downward pointing symbols,
+downward spread. Open symbols indicate results of
+peak are attributed to finite kinetic effects: a numerical simulations of flame spread. The inset shows
+short residence time at high gravity, and results for 1 cm wide samples.
+
+NASA/CP—2003-212376/REV1
+
+142
+
+radiative loss at low gravity. This spread rate
+behavior is qualitatively similar to composite
+observations of forced flow spreading. Here a
+single fuel, test apparatus and testing
+environment
+provide
+an
+unambiguous
+demonstration of the behavior.
+Within the gravity levels tested, the upward
+spread rates are everywhere larger than the
+downward rates. If the upward and downward
+spread rates were extrapolated to lower gravity
+levels, a merging or crossover would occur.
+While this possibility has not been confirmed
+by experiment, the forced flow analog has been
+predicted [6].
+Figure 2 shows flammability boundaries for
+flame spreading upward or downward over 2
+cm wide Kimwipes burning in air. Elevated
+Figure 2. Flammability boundaries for upward and
+gravity levels (>1g/gEarth) were obtained by downward spreading flames over 2 cm wide samples.
+testing during the aircraft pull-up maneuver. Open and closed symbols indicate flammable and nonThe downward spreading boundary is U-shaped flammable conditions respectively. Crosses indicate
+showing the dual extinction limits (insufficient observed extinctions occurring well after ignition.
+residence time in high g, radiative loss in low Downward pointing symbols indicate downward spread,
+upward pointing indicates upward spread.
+g) now predicted by several diffusion flame
+models.
+The upward spreading case has a wider flammable domain that the downward case. In the
+upward case, tests at elevated gravity were not feasible in the current apparatus because of size
+limitations. The flammable domain shrinks as the sample width is reduced from 2 cm to 1 cm as
+expected. For both the concurrent flow (upward spread) and opposed flow (downward spread)
+cases, the stabilization of the flame, and therefore the flammability of the material, is established
+at the base of the flame where it first encounters the fresh oxidizer flow. In the upward case the
+flame is stabilized where the fuel burnout occurs while in the downward case the flame is
+stabilized where the fuel is preheated to the pyrolysis temperature. Differing thermal demands on
+the flame stabilization zone lead to different limiting conditions.
+THREE-DIMENSIONAL MODELING OF DOWNWARD SPREADING FLAMES
+In additional to the 3-D model of steady upward spreading flames, 3-D downward spread in a
+mixed forced and buoyant flow was recently simulated numerically for a flow in a duct that
+resembles the standard limiting oxygen index (LOI) apparatus [5]. In this study, the limiting
+oxygen mole fractions were determined as functions of sample width, tunnel width, sample
+holder configuration, forced velocity and gravity level. A cotton fiberglass composite fuel was
+simulated. The detailed flame structure and the flow field in the duct were resolved. Fig. 3
+shows a computed LOI as a function of forced flow velocity at normal and zero gravity. The
+normal gravity boundary is monotonic with respect to the forced velocity while the LOI at zero
+gravity is non-monotonic and has a minimum around 5 cm/s. The LOI at normal gravity are
+higher than those at zero gravity for the range of forced velocity computed.
+
+NASA/CP—2003-212376/REV1
+
+143
+
+26
+
+X
+
+25
+24
+
+X
+
+23
+
+1g
+
+LOI (XO2 %)
+
+22
+
+X
+
+21
+
+X
+
+20
+
+X
+
+19
+18
+17
+16
+
+0g
+
+15
+
+X
+
+14
+13
+
+0
+
+1
+
+X
+
+2
+
+3
+
+X
+
+X
+4
+
+5
+
+6
+
+7
+
+8
+
+9 10 11 12 13 14 15
+
+U∞ (cm/s)
+
+Figure 3. Limiting Oxygen Index (LOI) prediction for
+cotton/ fiberglass fuel in a mixed-convection environment, computed using a three dimensional model with asyet uncalibrated kinetic constants. Fuel samples are 5 cm
+wide by 15 cm long burning in a vertical flow tunnel with
+a 10cm by 10cm cross section and 50 cm length. The
+flame location is fixed at the middle of the tunnel. A
+uniform forced flow is introduced from the tunnel
+bottom. The upper end of the tunnel is open to 21% air.
+The sample has inert side stripes 6 mm wide on each
+side. The symbols are the computed LOI. The last point
+in the 1g data (i.e. at 0.5 cm/s) is affected by the flow
+entrained from the atmosphere at the top of the tunnel.
+The dotted line in the zero-gravity result is what we
+expect from future computations at lower velocities
+(based on 2-D results).
+
+CONCLUSIONS
+This exploratory study of flame spreading and material flammability in partial gravity
+environments provides some practical results that require further study. Upward flame spread
+rates are proportional to gravity level, the downward case is non-monotonic. Over the partial
+gravity range accessible to testing, flames spread more quickly in the upward than the downward
+direction, and the flammable domain of upward spreading is wider than for downward spreading.
+REFERENCES
+1. Feier, I.I., Shih, H.-Y., Sacksteder, K.R. Sacksteder and T’ien, J.S., “Upward Flame Spread
+over Thin Solids in Partial Gravity,” presented to the 39th AIAA Aerospace Sciences Meeting,
+Reno, January 2001, AIAA 2001-0466, (2001).
+2. Feier, I. I., “Experimental Upward Flame Spread over Thin Solids in Partial Gravity,”
+Masters Thesis, Case Western Reserve University, May 2001.
+3. Feier, I.I., Shih, H.-Y., Sacksteder, K.R. Sacksteder and T’ien, J.S., Proc. Combust. Inst. 29,
+in press, (2002).
+4. Sacksteder, K.R., and T’ien, J.S., Proc. Combust. Inst. 25: 1685 (1994).
+5. Kumar, A., “A Numerical Study of Opposed-flow Flame Spread over a Solid Fuel,” Ph.D.
+Thesis, Case Western Reserve University, expected August 2003.
+6. Kumar, A., Shih, H.Y. and T’ien, J.S.: A Comparison of Extinction Limits and Spreading
+Rates in Opposed and Concurrent Spreading Flames Over Thin Solids, Combust. and Flame,
+132: 667-677 (2003).
+7. Kleinhenz, J.E., Feier, I.I., Pettegrew, R.D., Sacksteder, K.R., Ferkul, P.V. and T’ien J.S.,
+“Infrared Imaging Diagnostics for Flame Spread over Solid Surfaces,” presented to the 41st
+AIAA Aerospace Sciences Meeting, Reno, January, 2003, AIAA-2003-0988 (2003).
+8. Pettegrew, R., Street, K., Piltch, N., T’ien, J. and Morrison, P., “Measurement and Evaluation
+of the Radiative Properties of a Thin Solid Fuel,” presented to the 41st AIAA Aerospace
+Sciences Meeting, Reno, January, 2003, AIAA-2003-0511 (2003).
+9. Honda, L.K. and Ronney, P. D., “,”Proc. Combust. Inst. 28: 2793-2801, (2000).
+
+NASA/CP—2003-212376/REV1
+
+144
+

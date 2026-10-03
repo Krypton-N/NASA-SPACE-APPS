@@ -1,0 +1,612 @@
+Results of Large-Scale Spacecraft Flammability Tests
+Paul Ferkul 1, Sandra Olson 1, David L. Urban 1, Gary A. Ruff 1, John Easton 1, James S. T’ien 2,
+Ya-Ting T. Liao 2, A. Carlos Fernandez-Pello 3, Jose L. Torero 4, Christian Eigenbrod 5, Guillaume Legros 6, Nickolay
+Smirnov 7, Osamu Fujita 8, Sebastien Rouvreau 9, Balazs Toth 10, Grunde Jomaas 11
+1NASA
+
+GRC, Cleveland, OH, USA; 2Case Western Reserve University, Cleveland, OH, USA
+3UC Berkeley, Berkeley, CA, USA; 4University of Queensland, Brisbane, Australia
+5University of Bremen (ZARM), Bremen, Germany,
+6 Sorbonne Universités, UPMC Univ Paris 06, CNRS, UMR 7190, Institut Jean Le Rond d'Alembert, Paris, France;
+7Lomonosov Moscow State University, and Federal Science Center, Moscow, Russia
+8Hokkaido University, Sapporo, Japan; 9Belisama R&D, Toulouse, France
+10ESA ESTEC, Noordwijk, Netherlands; 11University of Edinburgh, Edinburgh, UK
+47th International Conference on Environmental Systems
+Charleston, South Carolina July 16-20, 2017
+1
+
+Introduction
+• Understanding ignition and flame growth  fire safety protocols for space
+‒ NASA relies on a test performed on Earth to rate materials for space use [NASA-STD-6001B]
+‒ If a material passes the test then it is assumed to be safe in the microgravity environment of space
+‒ Evidence that some materials which do not burn on Earth will burn in space in similar conditions
+• An upward-spreading (concurrent-flow) flame on Earth is nearly always more hazardous than a
+downward-spreading (opposed-flow) flame.
+‒ Which configuration is more hazardous in reduced gravity?
+‒ Depends on flow speed, so extrapolating Earth-based test results to space is even further
+complicated.
+
+2
+
+Introduction
+• Although large-scale fire tests on Earth are common, they had never been attempted in a space
+experiment for obvious reasons of practicality and safety.
+• Fire remains a catastrophic hazard for spaceflight where the crew has very limited or no escape options.
+• The spread and growth of a fire, combined with its interactions with the vehicle cannot be expected to
+scale linearly based on small-scale test data, and so there remains a substantial gap in our understanding
+of fire behavior in spacecraft.
+
+3
+
+Saffire Objectives
+Needs:
+
+
+Low-g flammability limits for spacecraft materials
+
+
+
+Definition of realistic fires for exploration vehicles
+‒ Fate of a large-scale spacecraft fire
+
+Objectives:
+
+
+Saffire 1:
+
+Assess flame spread of large-scale
+microgravity fire (spread rate, mass
+consumption, heat release)
+
+ Saffire 2:
+
+Verify oxygen flammability limits in low gravity
+
+ Saffire 3:
+
+Same as Saffire 1 but at higher flow speed.
+
+• Data obtained from the experiment will be used to validate
+modeling of spacecraft fire response scenarios
+• Evaluate NASA’s normal-gravity material flammability
+screening test for low-gravity conditions.
+
+Experiment
+• The Saffire experiments investigated intentionally-set, large-scale fires inside a spacecraft. For safety,
+they were conducted in unoccupied resupply vehicles for the International Space Station (ISS).
+• The vehicles launched to the ISS with Saffire stowed onboard. Saffire stayed in the resupply vehicle and
+remained dormant while the vehicle was berthed with the ISS and its supplies were unloaded. After all
+supplies had been transferred, the crew carefully stowed ISS trash in the resupply vehicle, leaving
+adequate room for air circulation.
+• Once the vehicle departed ISS, the Saffire tests were completed and all data was relayed to Earth.
+Finally, the vehicle was guided for destructive re-entry into the Earth’s atmosphere.
+
+5
+
+Air Flow
+
+29 cm
+
+5 cm
+
+The Saffire flow duct (18” x 20”). Two cameras and four
+radiometers are indicated. Camera and radiometer fields of
+view are shown by the cones, shaded blue and red, respectively.
+
+Saffire-II sample card with the
+nine samples, and ignition
+locations are indicated in red.
+
+There were six sample thermocouples per flight.
+7
+
+Configurations
+
+Saffire 1
+
+Saffire 2 (samples 5 cm wide)
+Silicone
+
+Ignition power:
+Saffire 1: 165 W (for 8 s); 4.1 W/cm (per unit fuel width)
+
+Saffire 2, all samples except thick PMMA:
+SIBAL fabric
+80 W (for 9.2 s); 16 W/cm (per unit fuel width)
+Saffire 2, thick PMMA:
+97 W (for 30 s); 19.5 W/cm (per unit fuel width)
+Thin PMMA/Nomex®
+SIBAL fabric
+40.6 cm wide
+
+Thick PMMA
+
+Average flame power:
+Saffire 1: 1200 +/- 300 W
+Saffire 2: (SIBAL fabric) 200 +/- 50 W
+Saffire 2: (Thick PMMA) 600 +/- 100 W
+
+Saffire-2 Description
+2-1
+
+2-2
+
+2-3
+
+2-4
+
+Nine samples; 5 cm wide by 29 cm long
+20 cm/s flow for all tests except for Sample 2-6 (25 cm/s)
+All upward burns except Sample 2-4 was downward
+Initial oxygen concentration 22.1% (ISS reading,
+slightly higher than Saffire-1’s 21.7%)
+
+2-5
+
+2-6
+
+2-7
+
+2-8
+
+2-9
+
+Samples 2-1 to 2-4 were silicone sheets 0.27, 0.61, 1.03, and 0.37 mm thick.
+Samples 2-5 and 2-6 were cotton-fiberglass fabric identical to that used in Saffire-1.
+
+Sample 2-7 had a composite construction, the first 5 cm of which was a thin (0.8 mm)
+sheet of PMMA and the remainder Nomex® fabric (HT 90-40).
+Samples 2-8* and 2-9* were PMMA slabs with a nominal thickness of 1 cm. Sample
+2-8 had some surface features, including a groove down the center (in the flow
+direction) on both sides, while Sample 2-9 was flat.
+* Results from these samples are described in another paper at this conference.
+
+9
+
+Saffire-2 Description (con’t)
+2-1
+
+2-2
+
+2-3
+
+2-4
+
+2-5
+
+2-6
+
+2-7
+
+2-8
+
+2-9
+
+Thick PMMA Sample cross sections:
+
+The middle 1.8-cm-wide portion of Sample 2-8 is
+only 0.4 cm thick.
+
+The ignition energy and time for samples 2-1 through 2-7 were chosen to mimic the
+NASA 6001 Test 1 ignition, 736 J applied uniformly for 9.2 s.
+Samples 2-8 and 2-9 had slightly more powerful igniters (97 W instead of 80 W) and
+were left on longer (30 s instead of 9.2 s) to assure ignition of these thick fuels.
+
+10
+
+Saffire-2; Why Silicone?
+Upward burning silicone samples (2-1 to 2-3) were 0.27, 0.61, and 1.03 mm thick.
+In upward-burning, normal-gravity tests, these three thicknesses spanned the flammability limits from
+significant burn, to partial burn, to no burn.
+‒ The 0.27-mm thick samples were almost always completely consumed
+‒ The 0.61-mm thickness burned on average 7.6 cm of the available 30 cm before extinguishing
+‒ The 1.03-mm thickness would not burn at all.
+Downward burning silicone sample (2-4) was 0.37 mm thick.
+
+In downward burning, normal gravity tests, this thickness was completely consumed. The next higher
+thickness tested (0.61 mm) would not burn.
+
+Microgravity behavior was sought:
+‒ How much of the available fuel would be burned?
+‒ Would microgravity prove more or less favorable to flame spread?
+11
+
+Saffire-2; Silicone Results
+Results were convincing although rather anticlimactic as none of the silicone samples burned.
+When the igniter was powered off, a tiny gas phase flame remained but did not spread and quickly
+extinguished. The igniters all appeared to function normally and the materials were clearly damaged in
+the vicinities of the igniters.
+It was surprising that not even the thin sample could permit any flame spread, given that it was entirely
+consumed in normal gravity. Previous experience with cellulosic fuels (paper and fabric) and even
+PMMA suggested that if a flame could persist in upward 1-g tests then it would also burn in
+microgravity at a moderate flow speed which was less than that typical in buoyant flow.
+
+12
+
+Saffire-2; Silicone Results (con’t)
+The behavior of silicone in microgravity is perplexing perhaps due to its complex burning:
+‒ Silicone produces fine silica powder as it burns, which could be deposited on the fuel and impede pyrolysis.
+‒ The relatively-larger buoyant flow speeds could sweep out the silica at a high enough rate so that it does
+not hamper combustion.
+‒ Silicone fuel becomes quite irregular as it burns, cracking and flaking off in complex ways. The surface
+reaction details and geometrical effects could significantly impact the observed results. Buoyant flow might
+aid the cracking and flaking processes which in turn could promote combustion as fresh fuel is exposed.
+
+More work is needed to understand the differences between the normal and micro-g flammability of silicone.
+
+• It would be interesting to repeat these tests in microgravity but at a much higher flow speed of around 60
+to 80 cm/s, which is more typical of the level in 1-g.
+• Perhaps the nature of the buoyant boundary layer compared to the forced convection boundary layer is
+contributing to the flammability differences.
+
+13
+
+Saffire-I Description
+Large sample (40.6 cm x 94 cm)
+Flow speed of 20 cm/s
+Initial oxygen concentration 21.7% (ISS reading)
+
+• Only concurrent-flow test was planned; opposed-flow test was a contingency.
+• Everything performed nominally for the first test which was allotted 420 s before
+the air flow turned off.
+• About 90% of the fuel burned in the first test leaving 10% unburned, allowing a
+meaningful opposed-flow test to be completed.
+
+14
+
+Fuel characteristics (“SIBAL” fabric)
+75% cotton, 25% fiberglass blend
+Simple weave pattern (60 x 40 threads per inch)
+Cotton and fiberglass fibers intermingled
+Overall area density: 18 mg/cm2
+Fuel sizes (W x L): 40.6 x 94 cm and 5 x 29 cm
+
+SIBAL Fabric Results
+• 40.6-cm-wide concurrent-flow test: flame ignited across the bottom of the fuel
+‒ At ignition, the flame was mostly bright yellow and relatively vigorous but it soon developed a blue base and
+a pattern of orange radiation coming from incandescent soot
+‒ Initially the flame length fluctuated at about 1.4 Hz before finally becoming more stable at about 90 s
+‒ After the flame had passed, exothermic surface smolder spots burning some of the leftover fuel were visible
+‒ The flame burned the entire allotted test time of about 7 min. at which point the air flow was shut off and
+the flame immediately extinguished
+• 40.6-cm-wide opposed-flow test: flame ignited across the top of the fuel
+‒ There was a small but sufficient amount of fuel remaining after the concurrent-flow test of the first
+experiment to permit an opposed-flow test
+‒ Only about 10% of the fuel remained after the concurrent test, but that was enough to make conclusions
+about the opposed-flow flame spread and development
+• 5-cm-wide concurrent-flow tests: flame ignited across the bottom of the fuel
+‒ Two flow speeds tested; 20 and 25 cm/s
+16
+
+Saffire 1 video
+SIBAL fabric (40.6 cm x 94 cm) burning in air at 20 cm/s concurrent flow
+Average flame spread rate is 1.8 mm/s; estimated average flame power is 1200 +/- 300 W
+Total burn time is 420 s
+17
+
+Flame Fluctuations
+Microgravity image sequence (30 Hz) of 40.6-cm-wide fabric burning in air at 20
+cm/s concurrent-flow speed.
+Images start 24 s after the igniter is turned off.
+At first, the flame length and brightness varied significantly at a periodic frequency
+of about 1.4 Hz before finally becoming more stable at about 90 s into the test.
+
+However, subtle fluctuations in flame length and brightness persisted for the
+duration of the test albeit at a slightly slower frequency of around 0.75 Hz.
+The reason for the fluctuation is unclear. It may be due to a flow oscillation which
+is present even in the cold flow, or it may be the result of the flame interacting with
+the flow field in the first part of the flow duct
+18
+
+40.6-cm-wide concurrent-flow flame montage
+(Each image is 40 s apart)
+
+Comparison of concurrent
+and opposed-flow images
+
+19
+
+SIBAL Fabric Results (con’t)
+
+Left: Flame base and pyrolysis position for concurrent and opposed-flow test in Saffire-1. Air flow speed was 20 cm/s.
+
+Right: Spread rate summary for cotton/fiberglass fabric burning in microgravity. Concurrent flames are shown to the
+left of the origin, and opposed to the right.
+20
+
+SIBAL Fabric Results (con’t)
+
+• The flame position curves show that spread rate is steady for most of the tests.
+• 40.6-cm wide sample
+‒ For the concurrent flame, the length reaches a plateau value of around 40 mm, while
+the opposed-flow flame is a bit shorter at 24 mm.
+‒ The average concurrent-flow flame spread rate is 1.8 mm/s. The opposed-flow flame
+average spread rate 1.3 mm/s.
+• The flame spread rate for the 5-cm-wide sample is marginally faster compared to the
+spread rate for the 40.6-cm-wide sample for the same flow speed of 20 cm/s (2.1
+compared to 1.8 mm/s).
+‒ This is partly due to the slightly higher starting oxygen percentage (22.1% vs. 21.7%).
+‒ However, the 5-cm-wide sample might have spread faster because of larger side
+entrainment effects compared to the wide sample.
+
+21
+
+SIBAL Fabric Results (con’t)
+
+Plots of igniter current and thermocouple temperatures. X-distance along the sample for each
+thermocouple is shown on the diagram. Heights above the surface are indicated on the plot.
+
+22
+
+SIBAL Fabric Results (con’t)
+
+23
+
+Composite PMMA-Nomex® Results (Saffire-2, Sample 2-7)
+Purpose: see how a material rated “safe” by the NASA 6001 Test 1 standard test reacted during extended
+exposure to a flame in microgravity.
+The material is a meta-aramid fabric commonly used on the ISS called Nomex® HT90-40. On Earth, it will
+only burn if the oxygen concentration is increased to around 24 to 25%.
+A thin sheet of PMMA (0.8 mm thick) comprised the first 5 cm of the length. Then there was an overlap area
+about 7 mm long where the PMMA and the fabric were in intimate physical contact. The remainder of the
+sample was Nomex fabric.
+
+24
+
+Composite PMMA-Nomex® Results (Saffire-2, Sample 2-7) (con’t)
+
+It took about two minutes for the PMMA to be consumed, all the while the flame plume was extending over
+and heating the base of the Nomex® fabric.
+The average flame power from the PMMA (assuming complete conversion of the fuel) was 460 + 50 W.
+Despite this significant heating load, the fabric was not ignited.
+
+The first 1-cm of the fabric was significantly damaged, the first 5-cm was completely blackened, and the
+remainder had a black streak down its center. However, some of this discoloration may have been caused by
+deposition of soot from the PMMA flame on the fabric, and not necessarily pyrolysis of the fabric itself.
+
+25
+
+Summary and Conclusions
+• For the first time, a large-scale fire was intentionally set inside a spacecraft while in orbit.
+• In addition, smaller samples of various materials were burned in a subsequent spaceflight.
+• Unlike 1-g, the results revealed that a steady flame could be achieved even for a wide sample burning in concurrent-flow.
+• The flames spread more slowly than prior tests in smaller ducts. This behavior of the flame demonstrated the importance of
+confined spaces for potential spacecraft fires.
+• Flammability of silicone in microgravity appears to be reduced compared to normal gravity, at least for the flow speeds tested.
+• Nomex®, a common material used on the ISS and rated “safe,” could not be ignited even when bathed by a pilot flame.
+There are plans for the Saffire project to continue with additional experiments examining the effects of enhanced oxygen at
+reduced pressure.
+Results will increase our knowledge of how a fire spreads in a large enclosure, and what effects the fire has on the spacecraft.
+This understanding will influence vehicle design and materials screening, ultimately increasing the safety of the crew.
+26
+
+27
+
+Backup slides
+
+28
+
+Table I. Summary of Samples, Test Conditions, and Selected Results
+Sample
+Material
+Width
+Thickness
+Length
+1-1
+Cotton-Fiberglass
+40.6 cm
+0.37 mm
+94 cm
+1-2
+Cotton-Fiberglass
+40.6 cm
+0.37 mm
+~ 10 cm
+2-1
+Silicone
+5 cm
+0.27 mm
+29 cm
+2-2
+Silicone
+5 cm
+0.61 mm
+29 cm
+2-3
+Silicone
+5 cm
+1.03 mm
+29 cm
+2-4
+Silicone
+5 cm
+0.37 mm
+29 cm
+2-5
+Cotton-Fiberglass
+5 cm
+0.37 mm
+29 cm
+2-6
+Cotton-Fiberglass
+5 cm
+0.37 mm
+29 cm
+2-7
+PMMA & Nomex
+5 cm
+0.85 & 0.37 mm 5 & 24 cm
+2-8
+PMMA
+5 cm
+See Fig. 5
+29 cm
+2-9
+PMMA
+5 cm
+1 cm
+29 cm
+… Table I (continued)
+Ignition
+µ-g Burn
+Sample Ignition Power
+Burn Duration
+Time
+Length
+1-1
+182 W
+8s
+420 s
+~ 84 cm
+1-2
+182 W
+8s
+70 s
+~ 10 cm
+2-1
+80 W
+9.2 s
+Insignificant
+~0
+2-2
+80 W
+9.2 s
+Insignificant
+~0
+2-3
+80 W
+9.2 s
+Insignificant
+~0
+2-4
+80 W
+9.2 s
+Insignificant
+~0
+2-5
+80 W
+9.2 s
+145 s
+29 cm
+2-6
+80 W
+9.2 s
+115 s
+29 cm
+2-7
+80 W
+9.2 s
+140 s
+5 cm & 0 ii
+2-8
+97 W
+30 s
+600 s
+~ 10 cm iii
+2-9
+97 W
+30 s
+900 s
+~ 10 cm iii
+
+Flow
+20 cm/s
+20 cm/s
+20 cm/s
+20 cm/s
+20 cm/s
+20 cm/s
+20 cm/s
+25 cm/s
+20 cm/s
+20 cm/s
+20 cm/s
+µ-g Spread
+Rate
+1.8 mm/s
+1.3 mm/s
+n/a
+n/a
+n/a
+n/a
+2.1 mm/s
+2.6 mm/s
+n/a (Nomex)
+Note (iv)
+Note (iv)
+
+Direction
+Concurrent
+Opposed
+Concurrent
+Concurrent
+Concurrent
+Opposed
+Concurrent
+Concurrent
+Concurrent
+Concurrent
+Concurrent
+1-g Burn
+Length
+Complete
+~0
+~ Complete
+7.6 cm
+~0
+Complete
+Complete
+Complete
+~ 0 (Nomex)
+Complete
+Complete
+
+Δ %O2 i
+21.7 to 21.5
+~ 21.5
+~ 22.1
+~ 22.1
+~ 22.1
+~ 22.1
+~ 22.1
+~ 22.1
+~ 22.1
+22.1 to 22.0
+22.0 to 21.9
+1-g Spread Rate
+Acceleratory
+n/a
+Acceleratory
+1.2 mm/s
+n/a
+0.6 mm/s
+Acceleratory
+Acceleratory
+n/a (Nomex)
+Acceleratory
+Acceleratory
+
+i
+
+Derived from measured CO2 production and referenced to initial O2 concentration reported by ISS.
+The PMMA portion was completely consumed but the Nomex was not ignited.
+iii This is the length of fuel with significant visible damage.
+iv The flames remain anchored at the base of the sample which has a very slow regression rate (0.01 to 0.04 mm/s).
+ii
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+

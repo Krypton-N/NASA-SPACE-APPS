@@ -1,0 +1,698 @@
+COMPARISON OF CARBON DIOXIDE AND HELIUM AS FIRE
+EXTINGUISHING AGENTS FOR SPACECRAFT
+Youngjin Son and Paul D. Ronney
+University of Southern California, USA
+Suleyman Gokoglu
+NASA Glenn Research Center, USA
+
+The effects of radiation heat transfer in microgravity compared to convection heat transfer in earth
+gravity for opposed-flow (downward) over thermally-thick fuel using low density foam fuel were
+investigated. Microgravity experiments on flame spread over thermally-thick fuels were conducted
+using foam fuels to obtain low density and thermal conductivity, and thus large flame spread rate
+compared to dense fuels such as PMMA. And thereby valid microgravity results were obtained even
+in 2.2 second drop-tower experiments not to mention for the longer duration tests in Zero Gravity
+Facility. Contrast to the conventional understanding, it was found that steady flame spread can occur
+over thick fuels in quiescent microgravity environments, especially when radiatively-active diluent
+gases such as CO2 were employed. This is proposed to result from radiative heat transfer from the
+flame to the fuel surface, which could lead to steady spread even when the amount of the heat transfer
+via conduction from the flame to the fuel bed is negligible. Radiative effects are more significant at
+microgravity conditions because the flame is thicker and thus the volume of radiating combustion
+products is larger as well.
+These results suggested that helium may be a better inert or extinguishment agent on both a mass and
+a mole bases at microgravity even though CO2 is much better on a mole bases at earth gravity, and
+these are relevant to studies of fire safety in manned spacecraft, particularly the International Space
+Station that uses CO2 fire extinguishers. CO2 may not be as effective as an extinguishing agent at µg
+as it is at earth gravity in some conditions because of the differences in spread mechanisms between
+the two cases. In particular, the difference between conduction-dominated heat transport to the fuel
+bed at earth gravity and radiation-dominated heat transport at µg indicates that radiatively-inert
+diluent such as helium could be preferable in µg applications. Helium may be a superior fire
+suppression agent at µg on several bases. First, helium is more effective than CO2 on a mole basis
+(thus pressure times storage volume basis) at µg, meaning that the size and weight of storage bottles
+would be smaller for the same fire-fighting capability. Second; helium is much more effective on a
+mass basis (by about 11 times) at µg. Third; helium has no physiological activity, unlike CO2 that
+affects human respiration. Fourth, as compared to N2 or CO2, is not very soluble in water and thus has
+fewer tendencies to cause bloodstream bubble formation following rapid spacecraft cabin
+depressurization.
+
+Paul D. Ronney
+3650 McClintock Ave. OHE430
+Los Angeles, CA, 90089
+ronney@usc.edu
+TEL: 213-740-0490
+FAX: 213-740-8071
+
+NASA/CP—2004-213205/VOL2
+
+409
+
+Comparison of carbon
+dioxide and helium as fire
+extinguishing agents for
+spacecraft
+
+NASA grant NCC3-1056
+Youngjin Son, Paul D. Ronney
+University of Southern California,
+USA
+Suleyman Gokoglu
+NASA Glenn Research Center, USA
+
+Department of Aerospace & Mechanical Engineering
+
+NASA/CP—2004-213205/VOL2
+
+410
+
+Motivation
+Flame spread over solid fuels; a useful
+means of understanding more complex
+two-phase non-premixed flames
+Radiation is substantial, especially at
+reduced gravity – important in fire
+modeling in manned spacecraft
+Benefits of this research
+Spacecraft fire safety - ISS will use
+CO2 fire extinguishers, but flames
+spread faster at reduced gravity with
+CO2 diluent due to radiative heating
+of fuel!
+He has lots of advantages over CO2
+in ISS, at reduced gravity
+
+Department of Aerospace & Mechanical Engineering
+
+NASA/CP—2004-213205/VOL2
+
+411
+
+Flame spread model for
+opposed flow with radiation
+U + Sf
+
+Ambient
+temperature : T∞
+δ
+
+y
+
+Sf
+
+Flame front
+
+δ=αg/(U+Sf)
+α
+
+x
+δ
+
+q=λg(Tf-Tv)/δg + Λδg
+λ
+δ
+qδW
+δ
+Vaporization temperature : Tv
+
+τs
+
+Sf
+
+τp
+
+Rate of enthalpy
+increase of fuel bed
+=ρsSfWτsCp,s(Tv-T∞)
+τ
+ρ
+
+Conductive heat
+transfer through
+the fuel bed
+λsδW(Tv-T∞)/τp
+τ
+
+Ambient
+temperature : T∞
+
+Department of Aerospace & Mechanical Engineering
+
+NASA/CP—2004-213205/VOL2
+
+412
+
+Theoretical background
+Equating heat generation from fuel with heat
+conduction through the gas q (= heat
+transferred to fuel bed per unit area)
+de Ris (1969): Radiative transfer from external
+source to fuel bed leads to steady spread over
+thick fuel bed even if U = 0
+Estimation of radiative flux from the flame to
+fuel bed leads to combined effects of
+conduction and radiation because hot gases
+such as CO2 and SF6 radiate by themselves:
+q= λg (Tf – Tv)/δg, + Λδg , Λ = radiative emission
+per unit volume
+δg=αg/Sf assume U=0
+
+Sf ~
+
+Substitute into the equation
+
+q2δg
+
+ρsCp,sλs (Tv −T∞)2
+
+2
+1/ 2
+
+Λα g
+
+
+Sf = 
+α g ρ sCP ,sλ s (Tv − T∞ ) − λ g (Tf − Tv )
+
+
+
+Department of Aerospace & Mechanical Engineering
+
+NASA/CP—2004-213205/VOL2
+
+413
+
+Experimental setup
+µg experiments; 2.2 second drop tower facility & Zero
+gravity facility were used
+Fuel
+Problem with conventional thick fuels
+Low Sf (e.g. PMMA ~ 0.006cm/sec in
+air,1atm):
+Time scale ~ α/Sf2 too large for drop towers
+Length scale ~ α/Sf possibly too large even in
+space
+Need very low ρsλsCp,s - use foams
+Also high pressure - ρs higher, Q/V higher
+Polyphenolic foam; used in floral arranging, density :
+0.029 g/cm3
+Polyurethane foam; used in packing, density : 0.03
+g/cm3
+
+Department of Aerospace & Mechanical Engineering
+
+NASA/CP—2004-213205/VOL2
+
+414
+
+Flame spread rate (cm/sec)
+
+Diluent gas effect on Sf
+10
+
+For CO2, Sf at µg is
+higher than at 1g,
+especially with CO2
+diluent & low O2
+concentrations,
+whereas for N2
+diluent, similar Sf
+
+polyphenolic foam
+4 atm total pressure
+0.027g/cm
+
+3
+
+ug CO
+
+2
+
+1
+
+ug N
+
+2
+
+1g CO
+
+2
+
+1g N
+
+2
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+At µg, Sf can be
+higher in CO2 than
+N2 at the same % O2
+
+Flame spread rate (cm/sec)
+
+Oxygen mole concentration (%)
+
+10
+
+He and CO2 diluent
+shows similar Sf for
+fixed O2 mole
+concentration even
+
+polyphenolic foam
+4 atm total pressure
+3
+
+0.027g/cm
+
+though mole based
+Cp(CO2) > Cp(He),
+λg(CO2) < λg(He) - Tf
+thus Sf is higher in He
+than CO2 diluent;
+
+ug-CO
+
+1
+
+2
+
+ug-He
+1g-CO
+
+2
+
+1g-He
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+Oxygen mole concentration (%)
+
+MOF (min. O2 fraction)
+at 1g similar, but He
+has higher MOF at µg
+
+Department of Aerospace & Mechanical Engineering
+
+NASA/CP—2004-213205/VOL2
+
+415
+
+Helium and CO2 comparison, µg
+Flame spread rate (cm/sec)
+
+6
+
+0% dilution: 50% O in N
+2
+
+2
+
+Diluent
+
+Total pressure 0.75 atm
+Microgravity
+Polyurethane foam fuel
+
+5
+
+N2
+CO
+
+4
+
+2
+
+He
+
+3
+2
+1
+0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Mole % dilution
+
+The trend between He
+and CO2 as an
+extinguisher or inert
+agent shows reverse
+as pressure increases;
+CO2 shows higher Sf
+than He at 0.75 atm but
+lower Sf at 2 atm
+
+Flame spread rate (cm/sec)
+
+3
+
+0% dilution: 40% O in N
+2
+
+2.5
+
+Diluent
+
+2
+
+Total pressure 1 atm
+Microgravity
+Polyurethane foam fuel
+
+2
+
+N
+
+2
+
+CO
+
+2
+
+He
+1.5
+1
+0.5
+0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+He shows slower Sf
+than CO2 diluted case
+at 0.75 atm, 50%O2-N2
+of 0%dilution which is
+close to the space
+environment, µg
+
+30
+
+Flame spread rate (cm/sec)
+
+Mole % dilution
+3
+
+Diluent
+
+2.5
+
+N
+
+2
+
+CO
+
+2
+
+2
+
+He
+1.5
+1
+
+0% dilution: 35% O in N
+2
+
+0.5
+0
+
+2
+
+Total pressure 2 atm
+Microgravity
+Polyurethane foam fuel
+0
+
+5
+
+10
+
+15
+
+Mole % dilution
+
+Department of Aerospace & Mechanical Engineering
+
+NASA/CP—2004-213205/VOL2
+
+416
+
+Helium and CO2 comparison, 1g
+Flame spread rate (cm/sec)
+
+5
+0% dilution: 50% O in N
+2
+
+Diluent
+
+2
+
+Total pressure 0.6 atm
+Earth gravity
+Polyurethane foam fuel
+
+4
+
+N
+
+2
+
+CO
+
+At 1g, CO2 shows
+lowest Sf or similar
+
+2
+
+He
+
+3
+
+2
+
+He has more
+effects at µg
+
+1
+
+0
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Flame spread rate (cm/sec)
+
+Mole % dilution
+4
+
+Diluent
+
+3.5
+
+N
+
+2
+
+3
+
+CO
+
+2.5
+
+He
+
+2
+
+2) He; high λg → αg
+→ thicker flame →
+more heat loss
+
+2
+1.5
+
+0% dilution: 50% O in N
+2
+
+1
+
+0
+
+2
+
+Total pressure 0.75 atm
+Microgravity
+Polyurethane foam fuel
+
+0.5
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Mole % dilution
+Flame spread rate (cm/sec)
+
+3) He; radiatively
+non-participating
+No reabsorption
+
+3
+Diluent
+
+2.5
+
+1) Lewis No. effect;
+high Le → lower Tf
+→ lower Sf (Zhang,
+et.al., 1992)
+
+No re-radiation
+
+N
+
+2
+
+CO
+
+2
+
+2
+
+He
+
+1.5
+0% dilution: 40% O in N
+
+1
+
+2
+
+0.5
+0
+
+2
+
+Total pressure 1 atm
+Earth gravity
+Polyurethane foam fuel
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Mole % dilution
+
+Department of Aerospace & Mechanical Engineering
+
+NASA/CP—2004-213205/VOL2
+
+417
+
+Conclusion
+Drop-tower experiments show
+Sf at µg in O2-CO2 sometimes faster than O2-N2 or O2-He with
+same %O2
+At high %O2 & low pressure, the addition of CO2 diluent results in
+faster Sf than He at µg, but not at 1g.
+
+Results due to
+Re-absorption and re-radiation of emitted radiation in O2-CO2 vs. no
+re-absorption and no re-radiation in O2-N2
+Thicker flames (more volume ⇒ more radiation) at µg
+
+Radiative preheating of the fuel bed by the gas is significant and
+re-absorption effects can prevent massive heat losses (thus
+extinction) in radiatively-active atmospheres at µg
+
+He may be better extinguishing agent at µg than CO2
+Same efficiency per mole (advantage for storage bottle mass &
+volume)
+Much better per unit mass
+No physiological impact (CO2 affects human respiration)
+
+Helium is not soluble in water thus less tendency to cause
+bloodstream bubble formation following cabin depressurization
+
+Relevant to fire safety in manned spacecraft, specially ISS which
+uses CO2 fire extinguisher
+Department of Aerospace & Mechanical Engineering
+
+NASA/CP—2004-213205/VOL2
+
+418
+

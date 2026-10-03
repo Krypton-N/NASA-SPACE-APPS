@@ -1,0 +1,92 @@
+Experiments Developed to Study
+Microgravity Smoldering Combustion
+The overall objective of the Microgravity Smoldering Combustion (MSC) research
+program is to understand and predict smoldering combustion under normal and
+microgravity (near-zero-gravity) conditions to help prevent and control smolder-originated
+fires, in both environments. Smoldering is defined as a nonflaming, self-sustaining,
+propagating, exothermic surface reaction. If a material is sufficiently permeable,
+smoldering is not confined to its outer surface, but can propagate as a reaction wave
+through the interior of the material. The MSC program will accomplish its goals by
+conducting smolder experiments on the ground and in a space-based laboratory, and
+developing theoretical models of the process. Space-based experiments are necessary
+because smoldering is a very slow process and, consequently, its study in a microgravity
+environment requires extended periods of time that can only be achieved in space.
+Smoldering can occur in a variety of processes ranging from the smolder of porous
+insulating materials to underground coal combustion. Many materials can sustain
+smoldering, including wood, cloth, foams, tobacco, other dry organic materials, and
+charcoal. The ignition, propagation, transition to flaming, and extinction of the smolder
+reaction are controlled by complex, thermochemical mechanisms that are not well
+understood. As with many forms of combustion, gravity affects the availability of the
+oxidizer and the transport of heat, and therefore, the rate of combustion.
+The smoldering combustion of porous materials has been studied both experimentally and
+theoretically, usually in the context of fire safety. Smoldering encompasses a number of
+fundamental processes, including heat and mass transfer in a porous media; endothermic
+pyrolysis of combustible material; ignition, propagation, and extinction of heterogeneous
+exothermic reactions at the solid-gas pore interface; and the onset of gas phase reactions
+(flaming) from existing surface reactions. Smoldering presents a serious fire risk because
+the combustion can propagate slowly in a material's interior and go undetected for long
+periods of time. It typically yields a substantially higher conversion of fuel to toxic
+compounds than does flaming (though more slowly), and may undergo a sudden transition
+to flaming.
+
+Microgravity smoldering combustion. Left: After modification. Right: Before
+modification.
+Common examples of smoldering hazards are the initiation of forest fires by smoldering
+embers and of building fires from undetected smoldering in packing material insulation and
+furniture cushioning. Various studies since the early 1970's have shown that more than 40
+percent of U.S. fire deaths can be attributed to smoldering household furniture. Smolder
+of cable insulation, another common fire hazard, is of particular concern in the space
+program--to date there have been a few minor incidents of overheated and charred cables
+and electrical components reported on space shuttle flights. Recently, with the
+establishment of the International Space Station and other planned space facilities, there
+has been an increased interest in the study of smoldering in microgravity to prevent or
+minimize the effect of a smolder-initiated fire.
+The complexity of the smolder process requires the use of approximations in theoretical
+models and simplifications in experiments. The removal of gravity substantially simplifies
+smolder investigations because the influence of buoyancy on the heat and mass transport
+processes is removed. Instabilities induced by density stratification and problems related to
+sedimentation and collapse of the porous fuel and char are absent in microgravity.
+Furthermore, such experiments as well as a complementary theoretical foundation are
+necessary to assess the fire risk of a space-based installation.
+The MSC investigation is being led by Professor A.C. Fernandez-Pello, the principal
+investigator, of the University of California at Berkeley. Dr. David L. Urban, of the NASA
+Glenn Research Center, is the project scientist. Two flight units have been built at Glenn
+by a team of civil servants and contractors, and have flown on the space shuttle: one on
+STS-69 and one on STS-77. The smoldering test material on both flights was unretarded
+urethane furniture foam. Each unit contained two test sections. Unit one had one test
+section with opposed (to the direction of burn) flow, and one with quiescent conditions.
+Unit two tested another opposed case (a different flow rate), and another quiescent case,
+the latter at higher oxygen content.
+All tests were with oxygen-nitrogen mixtures. On the basis of these results, the project
+
+improved the smolder tracking system for reflight. The first units employed a video
+system, but the data were not as useful in low gravity as in Earth gravity. However, the
+experiment was able to track the combustion progress because the fuel sample included 10
+thermocouples that provide an axial and radial temperature history of the smolder
+propagation. The modified units use an ultrasonic imaging system (UIS), which was
+developed and tested by the Glenn team. The UIS uses arrays of speakers and receivers on
+opposite sides of the foam test piece test sections to track the progress of the flame front.
+The original hardware design used a clear quartz cylinder to hold the foam fuel test sample
+to permit imaging of the smolder process, but this material is brittle and not amenable to
+the machining necessary to mount the speakers and receivers. After much searching and
+testing, the team located a polyimide resin material that could both withstand the high
+temperatures and had the toughness to be machined to the necessary tolerances. In
+addition to the UIS, the reflight experiment hardware comprises the main structure, two
+aluminum combustion chambers, an igniter power unit, a common igniter, two flow
+systems to deliver the oxidizer gas mixture, a battery, a data acquisition and control
+system, and a power control unit. Other hardware improvements, especially to the oxidizer
+gas delivery system, have been incorporated in the latest MSC reflight design. The first
+unit has been completed, and the second is now in the final testing process. Both are in
+line to fly on the shuttle as "Get-Away-Specials," as did the previous units. The
+experiments are based on what was learned on the previous flights. They are opposed and
+forward flows on the first reflight payload, and forward flows and quiescent conditions on
+the second, with changes in various parameters. It is expected that the results of these
+studies will provide new insights into the mechanisms involved in the smoldering process
+and result in specific recommendations for reducing the risk of fires both on Earth and in
+space.
+Glenn contact: Franklin Vergilii, 216-433-6733, Fax 216-433-8050,
+Franklin.Vergilii@grc.nasa.gov
+Author: Franklin Vergilii
+Headquarters program office: OBPR
+Programs/Projects: Microgravity Science
+

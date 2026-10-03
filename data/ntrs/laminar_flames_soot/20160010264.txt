@@ -1,0 +1,1003 @@
+Quan%ta%ve	  measurements	  of	  CH*	  concentra%on	  
+in	  normal	  gravity	  and	  microgravity	  	  
+coﬂow	  laminar	  diﬀusion	  ﬂames	  
+
+(1) 
+(2) 
+(3) 
+(4) 
+
+D.	  Giassi1,	  S.	  Cao2,	  D.P.	  Stocker3,	  F.	  Takahashi4,	  	  
+B.A.V.	  BenneJ1,	  M.D.	  Smooke1,	  M.B.	  Long1	  
+	  
+	  
+
+Yale	  University	  
+GE	  Global	  Research	  
+NASA	  Glenn	  Research	  Center	  
+Case	  Western	  Reserve	  University	  
+
+31th	  ASGSR	  mee%ng	  
+Alexandria,	  VA,	  November	  12th,	  2015	  
+1	  
+
+Outline	  
+• 
+• 
+• 
+• 
+• 
+
+Introduc%on	  
+SLICE	  
+Spectral	  considera%ons	  
+CH*	  concentra%on	  diagnos%cs	  
+Results	  and	  conclusions	  
+
+2	  
+
+Introduc%on	  
+Advantages	  of	  microgravity	  experiments:	  
+	  
+•  Simpliﬁca%on	   of	   the	   ﬂow	   ﬁeld	   due	   to	   the	   absence	   of	   buoyancy	   eﬀects:	  	  	  	  
+provides	  easier	  test	  cases	  to	  reﬁne	  computa%onal	  models.	  
+•  Crea%on	   of	   ﬂame	   condi%ons	   that	   do	   not	   exist	   in	   1-­‐g	   environment,	   e.g.	  
+increasing	   the	   ﬂame	   stability:	   enables	   experimental/computa%onal	   study	  
+near	  ﬂame	  ex%nc%on.	  
+	  
+Why	  CH*:	  
+	  
+•  Extend	  the	  study	  of	  microgravity	  ﬂames	  from	  sooty[1]	  to	  “blue”	  ﬂames.	  
+	  
+
+•  Chemiluminescent	  emission	  from	  excited	  state	  radicals	  naturally	  present	  in	  
+ﬂames	  and	  easy	  to	  collect.	  
+	  
+
+•  Representa%ve	  of	  ﬂame	  front	  posi%on	  and	  possible	  marker	  for	  heat	  release	  
+rate.	  
+[1]	  B.	  Ma	  et	  al.,	  Proc.	  Comb.	  Inst.	  35,	  839-­‐846	  (2015)	  	  
+
+	  Introduc*on	  	  Spectral	  considera%ons	  	  CH*	  diagnos%cs	  	  Results	  	  	  
+
+3	  
+
+SLICE	  
+Structure	  and	  Li0oﬀ	  In	  Combus7on	  Experiments	  (2012)	  
+
+012(%%(
+
+."+/(
+
+30412(%%(
+5"/$6(
+7'#""+(
+!"#$%&'()*+",'*%-(
+
+8$+(
+SLICE	  hardware	  on	  the	  ISS	  
+
+194:0(%%(
+
+	  Introduc*on	  	  Spectral	  considera%ons	  	  CH*	  diagnos%cs	  	  Results	  	  	  
+
+Nozzles	  ID:	  	  
+	  	  	  	  0.4,	  0.8,	  1.6,	  2.1,	  3.2	  mm	  
+Fuels:	  (N2	  diluted)	  
+	  	  	  	  40%,	  70%,	  100%	  CH4	  
+	  	  	  	  20%,	  100%	  C2H4	  
+Velocity:	  	  
+	  	  	  	  	  Fuel:	  up	  to	  320	  cm/s	  
+	  	  	  	  	  Coﬂow	  air:	  15	  -­‐	  70	  cm/s	  
+Diagnos%c	  tool:	  	  
+	  	  	  	  	  Nikon	  DSLR	  D300s	  with	  
+	  	  	  	  	  BG7	  color	  ﬁlter	  	  	  	  	  
+
+4	  
+
+DSLR	  camera	  characteriza%on	  
+
+35
+
+1
+Blue
+channel
+
+430 nm
+filter
+
+30
+
+20
+
+0.8
+0.7
+0.6
+
+1
+Nikon blue filter
+430 nm filter
+0.5
+
+0
+400
+
+420
+
+440
+
+460
+
+480
+
+500
+
+520
+
+540
+
+560
+
+0.5
+15
+10
+
+0.4
+0.3
+0.2
+
+5
+
+5
+0
+5
+Radial coordinate [mm]
+
+0.1
+0
+
+Normalized emission
+
+HAB [mm]
+
+25
+
+0.9
+
+Normalized transmissivity
+
+•  The	   Nikon	   blue	   channel	   signal	   was	   seen	   to	   be	   representa%ve	   of	   the	   CH*	   emission	   of	  
+the	  A2ΔX2Π	  transi%on	  centered	  around	  431	  nm.	  
+
+1
+Measured flame spectrum
+CH*
+CO2*
+
+0.5
+
+broadband
+
+C2*
+0
+400
+
+420
+
+440
+
+460
+480
+500
+Wavelength [nm]
+
+C2*
+520
+
+540
+
+560
+
+•  The	  blue	  channel	  radial	  proﬁle	  is	  broader	  than	  the	  interference	  ﬁlter	  one.	  
+•  The	  broadband	  blue	  ﬁlter	  will	  collect	  light	  emiJed	  from	  species	  other	  than	  CH*.	  
+	  Introduc%on	  	  Spectral	  considera*ons	  	  CH*	  diagnos%cs	  	  Results	  	  	  
+
+5	  
+
+Spectral	  considera%ons	  
+•  Spectral	  analysis	  of	  a	  target	  nitrogen-­‐diluted	  65%	  methane	  ﬂame	  (7.5	  mm	  above	  
+the	  burner).	  
+1
+510
+
+C2*
+
+Wavelength [nm]
+
+0.8
+
+0.6
+
+480
+C *
+2
+
+0.6
+
+0.5
+0.4
+
+460
+
+CO2*
+(broadband)
+
+440
+430
+
+1
+
+0.7
+
+490
+
+450
+
+0.9
+0.8
+
+500
+
+470
+
+Blue filter
+430 nm filter
+
+0.4
+
+0.3
+0.2
+
+CH*
+
+420
+2
+4
+6
+Radial coordinate [mm]
+
+Normalized integrated intensity
+
+520
+
+0.2
+
+0.1
+0
+
+3
+
+0
+4
+5
+6
+Radial coordinate [mm]
+
+•  The	  integra%on	  over	  the	  en%re	  blue	  spectral	  range	  results	  in	  a	  broader	  radial	  proﬁle.	  
+	  Introduc%on	  	  Spectral	  considera*ons	  	  CH*	  diagnos%cs	  	  Results	  	  	  
+
+6	  
+
+Spectral	  considera%ons	  
+•  The	   addi%onal	   C2*	   and	   CO2*	   chemiluminescence	   will	   contribute	   to	   the	   blue	  
+counts	  recorded	  by	  the	  camera.	  	  	  	  
+1
+Blue
+channel
+
+0.9
+
+430 nm
+filter
+
+Normalized counts
+
+0.8
+0.7
+0.6
+7.5 mm HAB
+12.5 mm HAB
+17.5 mm HAB
+
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+6
+
+4
+
+2
+0
+2
+Radial coordinate [mm]
+
+4
+
+6
+
+•  If	  uncorrected,	  the	  blue	  signal	  would	  overes%mate	  the	  peak	  CH*	  concentra%on	  
+by	  a	  factor	  of	  ~3.3.	  	  	  
+	  Introduc%on	  	  Spectral	  considera*ons	  	  CH*	  diagnos%cs	  	  Results	  	  	  
+
+7	  
+
+Soot	  correc%on	  
+•  If	  not	  accounted	  for,	  soot	  luminosity	  will	  result	  in	  corrup%on	  of	  the	  blue	  channel	  signal.	  	  
+Blue
+
+Blue
+
+50
+
+Green
+
+Green/Blue
+subtraction
+
+Blue
+corrected
+
+45
+
+0.9
+0.8
+
+40
+
+0.7
+
+35
+HAB [mm]
+
+1
+
+0.6
+
+30
+
+0.5
+
+25
+
+0.4
+
+20
+
+0.3
+
+15
+
+0.2
+
+10
+
+0.1
+
+5
+
+0
+5
+
+0
+
+5
+
+5
+
+0
+
+5
+0
+5
+5
+5
+Radial coordinate [mm]
+
+0
+
+5
+
+5
+
+0
+
+5
+
+70	  %	  CH4	  –	  Fuel	  89	  cm/s;	  Coﬂow	  17	  cm/s	  –	  Nozzle	  3.2	  mm	  
+	  Introduc%on	  	  Spectral	  considera*ons	  	  CH*	  diagnos%cs	  	  Results	  	  	  
+
+8	  
+
+CH*	  concentra%on	  diagnos%cs	  
+•  Chemiluminescence	  emission	  Sem	  collected	  by	  a	  detector:	  
+CH*	  mole	  frac%on	  
+35
+
+1
+Sem =
+A21" Vem N * KC# CH
+4!
+
+x 10
+
+Blue
+channel
+
+12
+
+12
+
+Ref [2]
+
+30
+10
+
+A21:	   	  Einstein	  A	  coeﬃcient	  
+τ:	  	  	  	  	   	  exposure	  %me	  
+Vem:	   	  pixel	  volume	  
+N*:	   	  number	  density	  
+K:	   	  intensity	  calibra%on	  constant	  
+C:	   	  contribu%on	  from	  other	  emiqng	  species	  
+γCH:	   	  transmiJed	  energy	  of	  a	  photon	  in	  the	  blue	  channel	  
+
+HAB [mm]
+
+25
+8
+20
+15
+10
+5
+
+5
+0
+5
+Radial coordinate [mm]
+
+6
+4
+2
+0
+
+[2]	  K.	  T.	  Walsh,	  et	  al.,	  Proc.	  Comb.	  Inst.	  30,	  357-­‐365	  (2005)	  	  
+
+	  Introduc%on	  	  Spectral	  considera%ons	  	  CH*	  diagnos*cs	  	  Results	  	  	  
+
+9	  
+
+Results:	  fuel	  ﬂow	  varia%on	  
+CH*	  mole	  frac%on	  
+
+45
+
+0g
+
+1g
+
+F: 25 cm/s
+C: 17 cm/s
+
+0g
+
+1g
+
+F: 50 cm/s
+C: 17 cm/s
+
+0g
+
+1g
+
+F: 89 cm/s
+C: 17 cm/s
+
+0g
+
+1g
+2
+
+40
+35
+HAB [mm]
+
+12
+
+1.5
+
+30
+25
+1
+
+20
+15
+
+0.5
+
+10
+
+CH* peak mole fraction
+
+F: 17 cm/s
+C: 17 cm/s
+
+50
+
+x 10
+
+5
+0
+
+5
+
+5
+
+0
+5
+5
+0
+5
+Radial coordinate [mm]
+
+5
+
+0
+
+5
+
+12
+
+40% CH4
+Coflow: 17 cm/s
+
+2.5
+2
+1.5
+
+0g
+1g
+
+1
+0
+
+0
+
+ak mole fraction
+
+5
+
+3
+
+x 10
+
+12
+10
+
+50
+Fuel velocity [cm/s]
+
+x 10
+
+100
+
+12
+
+70% CH4
+Fuel: 62 cm/s
+
+40	  %	  CH4	  –	  Fuel	  17	  to	  89	  cm/s;	  Coﬂow	  17	  cm/s	  –	  N8
+ozzle	  3.2	  mm	  
+	  Introduc%on	  	  Spectral	  considera%ons	  	  CH*	  diagnos%cs	  	  Results	  	  	  
+
+6
+
+10	  
+
+CH* peak mole f
+
+2.5
+
+2
+Results:	  coﬂow	  varia%on	  
+
+F: 62 cm/s
+C: 14 cm/s
+
+50
+45
+
+0g
+
+1g
+
+F: 62 cm/s
+C: 21 cm/s
+
+0g
+
+1g
+
+F: 62 cm/s
+C: 34 cm/s
+
+0g
+
+1g
+
+x 10
+1
+
+11
+
+0.8
+40
+0.7
+
+HAB [mm]
+
+35
+
+0.6
+
+30
+
+0.5
+
+25
+
+0.4
+
+20
+15
+
+0.3
+
+10
+
+0.2
+
+5
+
+0.1
+5
+
+0
+
+5
+
+5
+0
+5
+Radial coordinate [mm]
+
+5
+
+0
+
+5
+
+0g
+1g
+
+1
+0
+
+0.9
+
+CH* peak mole fraction
+
+CH*	  mole	  frac%on	  
+
+1.5
+
+12
+
+50
+Fuel velocity [cm/s]
+
+x 10
+
+10
+
+100
+
+12
+
+70% CH
+4
+Fuel: 62 cm/s
+
+8
+6
+
+0g
+1g
+
+4
+10
+
+20
+30
+40
+Coflow velocity [cm/s]
+
+0
+
+70	  %	  CH4	  –	  Fuel	  62	  cm/s;	  Coﬂow	  14	  to	  34	  cm/s	  –	  Nozzle	  1.6	  mm	  
+	  Introduc%on	  	  Spectral	  considera%ons	  	  CH*	  diagnos%cs	  	  Results	  	  	  
+
+11	  
+
+Results:	  local	  heat	  release	  rate	  
+•  Flame	  numerical	  simula%ons	  are	  available	  to	  complement	  the	  experimental	  data	  
+0g
+
+1g
+1
+
+20
+
+F: 25 cm/s
+C: 17 cm/s
+CH*
+Heat
+release
+
+F: 25 cm/s
+C: 17 cm/s
+CH*
+Heat
+release
+
+0.9
+0.8
+
+HAB [mm]
+
+0.7
+15
+
+0.6
+0.5
+
+10
+
+0.4
+0.3
+
+5
+
+0.2
+0.1
+
+0
+
+5
+0
+5
+Radial coordinate [mm]
+
+5
+0
+5
+Radial coordinate [mm]
+
+0
+
+40	  %	  CH4	  –	  Fuel	  25	  cm/s;	  Coﬂow	  17	  cm/s	  –	  Nozzle	  3.2	  mm	  
+	  Introduc%on	  	  Spectral	  considera%ons	  	  CH*	  diagnos%cs	  	  Results	  	  	  
+
+12	  
+
+Results:	  total	  heat	  release	  rate	  
+
+0
+0
+
+2
+
+2
+
+70%
+70% CH4 CH4
+Fuel: 62 70%
+Fuel: 62 cm/s3 cm/s CH
+
+1
+
+1.5
+1
+
+Normalized value
+
+2
+
+4
+
+Normalized value
+
+4
+
+40% CH
+1.5
+4
+Coflow: 17 cm/s
+
+40%
+40% CH4 CH4
+Coflow: 17
+Coflow: 17 cm/s cm/s 6
+
+Normalized value
+
+2
+
+2
+
+Normalized value
+
+4
+
+6
+
+Normalized value
+
+Normalized value
+
+6
+
+4
+
+Coflow: 15 cm/s
+
+2
+1
+
+0.5 0.5
+Sequence A
+Sequence B
+0
+0
+0
+0 100
+0
+50 0
+100 200 300 400 500
+0
+100 10
+40
+50 50
+100velocity [cm/s] 10 20 20 30 velocity [cm/s]
+Fuel
+Fuel 30 40
+Fuel velocity [cm/s]
+Coflow velocity [cm/s]
+Fuel velocity [cm/s]
+Coflow velocity [cm/s]
+
+Integrated CH* concentration
+Integrated CH* concentration 0 g 0 g
+Computed heat Integrated 0 g
+release
+Computed heat release 0 gCH* concentration 0 g
+Integrated
+Integrated CH* concentration 1 g
+Integrated CH* concentrationcomputed heat release
+1g
+Integrated CH* concentration 1 g
+Computed heat integrated 1 g
+release
+Computed heat release 1 gcomputed heat release
+
+	  Introduc%on	  	  Spectral	  considera%ons	  	  CH*	  diagnos%cs	  	  Results	  	  	  
+
+0g
+1g
+
+13	  
+
+Conclusions	  
+• 
+	  
+• 
+
+Quan%ta%ve	   measurements	   of	   CH*	   concentra%on	   have	   been	   performed	   on	  
+selected	  microgravity	  and	  normal	  gravity	  SLICE	  ﬂames.	  
+The	  spectral	  characteriza%on	  of	  the	  SLICE	  color	  camera	  allowed	  the	  blue	  channel	  
+to	  be	  considered	  representa%ve	  of	  the	  CH*	  emission	  around	  431	  nm.	  
+
+• 
+
+A	  reference	  diﬀusion	  ﬂame	  was	  analyzed	  to	  inves%gate	  the	  inﬂuence	  of	  emiqng	  
+species	  other	  than	  CH*,	  and	  to	  validate	  the	  proposed	  approach.	  
+
+• 
+
+The	   measured	   peak	   CH*	   concentra%on	   displayed	   higher	   sensi%vity	   to	   coﬂow	  
+rather	  than	  fuel	  varia%ons,	  and	  it	  was	  generally	  higher	  in	  normal	  gravity	  ﬂames.	  
+
+• 
+
+In	   laminar	   diﬀusion	   ﬂames,	   the	   integrated	   radial	   CH*	   concentra%on	   scales	  
+propor%onally	  to	  the	  integrated	  ﬂame	  heat	  release	  rate.	  
+
+• 
+
+The	   two-­‐dimensional	   CH*	   and	   heat	   release	   rate	   distribu%ons	   agree	   reasonably	  
+well,	  but	  the	  varia%ons	  in	  spa%al	  intensi%es	  and	  gradients	  do	  not	  match.	  
+14	  
+
+Acknowledgments	  
+
+Supported	  by	  NASA	  under	  contract	  NNX11AP43A.	  
+	  
+	  
+The	   authors	   would	   like	   to	   thank	   astronaut	   D.	   Peqt	  
+for	   conduc%ng	   SLICE’s	   microgravity	   tests,	   SLICE	  
+Project	  Manager	  R.	  Hawersaat,	  and	  opera%ons	  team	  
+members	   C.	   Bunnell,	   T.	   Lorik,	   J.	   Owens	   and	   C.	  
+Reynolds.	  	  
+
+	  
+15	  
+
+Imaging	  considera%on	  
+Radial	  chemiluminescence	  proﬁles	  obtained	  through	  an	  Abel	  deconvolu%on:	  
+	  
+
+•  Assumes	  the	  collected	  rays	  to	  be	  parallel.	  
+•  If	  rays	  are	  not	  parallel	  the	  reconstructed	  proﬁle	  is	  broadened	  and	  the	  peak	  value	  
+is	  underes%mated.	  
+	  
+1
+
+0.8
+
+HAB [mm]
+
+15
+
+0.6
+10
+0.4
+5
+
+0.2
+f# 16
+
+f# 8
+
+f# 5.6
+
+f# 2.8
+
+2 4 6
+
+2 4 6
+2 4 6
+2 4 6
+Radial coordinate [mm]
+
+f# 1.4
+2 4 6
+
+0
+
+SLICE	  ﬂame	  images	  were	  taken	  with	  f-­‐numbers	  of	  2	  or	  4	  to	  minimize	  exposure	  %me	  
+	  Introduc%on	  	  Spectral	  and	  imaging	  considera*ons	  	  CH*	  diagnos%cs	  	  Results	  	  	  
+
+16	  
+

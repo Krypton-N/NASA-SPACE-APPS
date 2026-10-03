@@ -1,0 +1,255 @@
+CO2 Suppression of PMMA Flames in Low-Gravity
+G. A. Ruff1, M. Hicks1, W. Mell2, R. Pettegrew3, and A. Malcom3
+NASA Glenn Research Center, MS 77-5, 21000 Brookpark Road, Cleveland, OH 44135
+2
+University of Utah, 50 South Campus Drive, Salt Lake City, UT 84112
+3
+National Center for Microgravity Research, 21000 Brookpark Road Cleveland, OH 44135
+1
+
+INTRODUCTION
+Even though much has been learned about the effects of microgravity on material
+flammability, flame spread, and suppressant effectiveness, uncertainties remain regarding some of
+the practical aspects of fire protection in spacecraft. The experiments and simulations underway in
+this project are aimed directly at testing, understanding and improving NASA's existing policies and
+practices toward fire safety in spacecraft and extraterrestrial habitats. Specifically, the objectives of
+this research are:
+1. Determine systematically the conditions that will ignite onboard flammable
+materials upon passage of an initial premixed gas, firebrand, or aerosol flame
+over these materials.
+2. Test the effect of firebrands and configuration spacing.
+3. Determine the effectiveness of the flow of CO2 extinguisher or other
+extinguishing agents.
+Experimental and computational investigations are planned to achieve each of the three objectives
+above. Even though progress has been made in all of the areas, the majority of data has been
+collected for objective (3). Current results from these investigations are discussed below.
+EXPERIMENTAL INVESTIGATION
+Determining the effectiveness of a flow of CO2 to extinguish a fire and whether secondary
+fires can occur when oxygen is re-introduced after initial extinguishment is the objective of the first
+set of experiments conducted in this investigation in the Spacecraft Fire Safety Facility (SFSF), a test
+facility designed for operation on NASA's low gravity aircraft. To examine the effectiveness of CO2
+to extinguish fires, an oxidizer flow is established over a hollow cylinder (tube) of PMMA
+(polymethyl methacrylate) 25 mm long and 19 mm in diameter. The inner diameter of the tube is 9.5
+mm. A cartridge heater in the center of the tube pre-heats the sample to 100 deg C to help ensure a
+uniform and repeatable ignition. Thermocouples are located on the external surface of the inserted
+cartridge heater and on the external surface of the PMMA test sample at the downstream stagnation
+point to monitor these temperatures.
+Flame extinguishment at flow velocities between 0 and 10 cm/s and 1 atm pressure were
+investigated. To begin a test, the oxidizer flow is established at the desired velocity. As the aircraft
+exits a parabola, the igniter is energized until a sustained flame is observed on the PMMA. The
+igniter is then turned off and the flame becomes well-established through the remainder of the 2-g
+pull-up. During the microgravity period, the flame is observed to determine if it extinguishes
+because of the low flow rate. If the flame is sustained through this first microgravity period, it is
+allowed to burn through a second 2-g pull-up, during which it increases in intensity. At the end of
+the pull-up, the flow is quickly switched from oxidizer to a suppressant mixture (either a mixture of
+CO2/air or He/air) so that the suppressant reaches the sample after the first few seconds of low
+gravity. The flame is then observed to determine if it (i) extinguishes during the low-gravity period,
+
+NASA/CP—2003-212376/REV1
+
+301
+
+(ii) continuously decreases in intensity during low gravity but does not extinguish, or (iii) maintains
+a fairly stable intensity and does not extinguish within the low gravity period (approximately 20 sec).
+Tests have been conducted for oxidizer mixtures of 21% O2/79% N2 (standard air) and 25%
+O2/75% N2 (rich air). Suppressant mixtures having 12.5%, 25%, and 50% CO2 with the balance
+being either standard or rich air, depending on the oxidizer, have been evaluated. Data has also been
+obtained with He replacing CO2 in the suppressant at similar concentrations. To date, tests have been
+conducted on 26 flights and a total of 142 data points have been obtained. A series of ground tests
+have also been conducted so that 0-g and 1-g behavior can be compared.
+Experimental Results
+Figure 1 shows the PMMA surface temperature at the rear stagnation point as a function of
+mass flow rate of oxygen (%O2 in flow x ρUA). The open symbols show conditions that selfextinguished. The closed symbols show conditions where the suppressant was applied with the solid
+circles indicating flames that were extinguished. The conditions represented by triangles did not
+extinguish within the 20 seconds of low-gravity. For O2 flow rates below about 0.7 g/s (velocities
+below 5 cm/s for standard air) and surface temperatures below approximately 270 deg C, the flames
+extinguished within 20 sec with no addition of suppressant. Increasing either the flow velocity or the
+surface temperature allowed the flame to be sustained through the low-gravity period. This result is
+similar to that obtained by Goldmeer [1] who showed that increasing the sample temperature made
+the flame more difficult to extinguish. On this plot, there is no discernable boundary between flames
+that were extinguished by suppressant and those that were not. This is likely the result of the
+influence of a number of parameters such a g-jitter, sample pre-heat, flame shape, and duration of
+suppressant flow. The effect of these parameters will be the focus of future work.
+Figure 2 shows the time-to-extinguish as a function of flow velocity for an oxidizer of rich
+air and the suppressant 25% CO2/75% rich air. The time to extinguish plotted in the figure is the
+time from when suppressant reached the sample to extinguishment. The images show end views of
+the PMMA sample in flowing oxidizer after the flames became stable in low-gravity. At 1 cm/s, the
+flame extinguished within 4 sec, primarily because of the weak flame. The time to extinguish
+increased at 2 cm/s but was then observed to decrease with increasing velocity. At the higher
+velocities, the flame did not wrap completely around the cylinder but was open in the wake region.
+The luminosity and thickness of the flame increased with velocity, as did the width of the wake
+region where the flame was absent. These results show the interdependence of the flow velocity and
+subsequent flame intensity and structure on the suppression behavior. Additional tests are being
+conducted using lower CO2 concentrations to elucidate the role of velocity and flame development
+on the time to extinguish.
+THEORETICAL INVESTIGATION
+Due of the limited duration of low gravity on the aircraft and the difficulty in quantifying the
+effect of g-jitter on suppression near the extinction boundary, a modeling effort is supporting the
+experimental program. A modified version of the Fire Dynamics Simulator (FDS) computer code
+[2,3] was used to conduct two-dimensional simulations of ignition and flame spread along
+(perpendicular to the axis) a PMMA cylinder. Prior to beginning calculations, the finite volume
+radiation solver in the FDS code was modified so that gas-phase radiation was properly accounted
+for when the finite rate chemistry model is invoked. This radiation solver determines the radiation
+flux on the surface of the PMMA and the divergence of the radiation flux in the gas. The ideal gases
+were assumed to be gray and non-sooting. Absorption coefficients for H2O and CO2 were
+determined using RadCal [4].
+
+NASA/CP—2003-212376/REV1
+
+302
+
+Following the work of previous researchers, the chemical reaction of MMA vapor generated by
+PMMA pyrolysis was modeled using a one-step overall chemical reaction (F + O2 -> CO2 + H2O)
+and second-order Arrehnius kinetics [5,6]. Kinetic constants were obtained from Seshandri and
+Williams [7]. The specific heats of the gaseous species were assumed constant and equal; molecular
+transport coefficients were temperature-dependent [4]. In-depth heat transfer at each surface point on
+PMMA solid was modeled using a one-dimensional conduction equation. The net heat flux at each
+surface point was comprised of convective flux, incident radiation flux, re-radiation from the hot
+surface, and heat loss due to PMMA vaporization. The degradation of the PMMA solid and resulting
+mass flux of fuel gas was modeled assuming constant density, negligible surface regression, and first
+order kinetics [4].
+The two-dimensional simulations assumed a symmetry plane oriented parallel to the imposed
+flow through the axis of the cylinder. Gas phase ignition occurred by placing a “hot wire” in the
+symmetry plane just upwind of the solid. Experimentally measured values of the incoming flow
+velocities and composition, igniter duration, acceleration disturbance, and the initial temperature of
+the PMMA were used. Most simulations used a uniform grid with 1 mm grid cell dimensions in a 4.5
+cm x 10 cm domain.
+Model Results
+A number of experimental cases have been simulated and, in general, the trends observed in
+the experiments were reproduced. Interestingly, the simulation has also mirrored the sensitivity of
+the environmental conditions on the effect of suppressant just as in the experiment. For example, a
+test condition having an oxidizer of standard air at 8.5 cm/s and suppressant mixture of 12.5% CO2
+at 9.3 cm/s was simulated. A plot of the net surface heat flux from simulations with and without
+incident radiation flux is shown on Fig. 3a while the associated acceleration history is shown in Fig.
+3b. It can be seen that up to the onset of reduced gravity (t < 325 s), the net flux is larger when gasphase radiation incident on the PMMA is included. Although the contribution of incident radiant
+flux does not appear to be significant, relative to the net flux, it raises the PMMA surface
+temperature enough (i.e., preheats the PMMA) to ensure pyrolysis throughout the duration of
+reduced gravity and suppressant. When the gray-gas model was applied, the flame sustained because
+of the higher surface temperatures. It extinguished when the surface temperature was lower.
+SUMMARY AND FUTURE WORK
+A significant amount of data has been obtained and is being analyzed to extract the details
+about the effect of CO2 and He suppressants in low gravity. The simulations have proven useful in
+identifying the effect of various parameters that are difficult to isolate in the experiment. Meanwhile,
+the preparations are underway to conduct the experiments to achieve objectives (1) and (2), as
+previously identified.
+Acknowledgements
+This work is supported by an award under NASA NRA 99-HEDS-04 titled “Secondary Fires:
+Initiation and Extinguishment”.
+References
+1.
+
+Goldmeer, J. S., T’ien, J. S. and Urban, D. L., 1999, “Combustion and extinction of PMMA cylinders during
+depressurization in low-gravity,” Fire Safety Journal, Vol. 32, pp. 61-88.
+
+NASA/CP—2003-212376/REV1
+
+303
+
+2.
+3.
+4.
+5.
+6.
+7.
+
+McGrattan, K.B. and Baum, H.R. and Rehm, R.G. and Hamins, A. and Forney, G.P. and Floyd, J.E. and Hostikka,
+S. and Prasad, K., “Fire Dynamics Simulator, Technical Reference Guide,” National Institute of Standards and
+Technology (NIST), 2002, NISTIR 6782, 2002 Ed., http://fire.nist.gov/bfrlpubs/
+Mell, W.E., McGrattan, K.B., Baum, H.R., “g-jitter Effects on Spherical Diffusion Flames,” to be submitted to
+Microgravity Science and Technology.
+Grosshandler, W. 1993, “A narrow band model for radiation calculations in a combustion environment,” NIST
+Technical Note (TN 1402).
+Altenkirch, R.A., Tang, L., Sacksteder, K., Bhattachrjee, S., and Delichatsios, M.A., 1998, “Inherently unsteady
+flame spread to extinction over thick fuels in microgravity,” Proceedings of the Combustion Institute, Vol. 27, pp.
+2515-2524.
+Yang, C.T. and T’ien, J.S., 1998, “Numerical simulation of combustion and extinction of a solid cylinder in lowCspeed cross flow,” J. Heat Transfer, Vol. 120, pp. 1055-1063.
+Seshandri, K. and Williams, F.A., 1978, “Structure and extinction of counterflow diffusion flames above condensed
+fuels: Comparison between Polymethyl Methacrylate and its liquid monomer, both burning in nitrogen-air
+mixtures,” J. of Polymer Science: Polymer Chemistry Ed., Vol. 16, pp. 1755-1778.
+500
+
+14
+
+Self-Extinguished
+Extinguished with Suppressant
+Did Not Extiguish
+
+450
+
+C
+
+12
+
+Time to Extinguish (sec)
+
+Surface Temperature (C)
+
+400
+350
+300
+250
+200
+
+10
+
+B
+B
+
+8
+
+6
+
+C
+A
+
+4
+
+A
+
+150
+2
+
+100
+
+Self-Extinguished
+
+50
+0
+
+0.5
+1
+Mass Flow Rate of Oxygen (g/sec)
+
+0
+
+1.5
+
+0
+
+2
+
+4
+
+8
+
+10
+
+Figure 2. Time to extinguish for 25% CO2/75%
+rich air mixture
+
+Figure 1. Low-gravity sustained flammability map
+
+a. Net heat flux
+
+b. Acceleration
+
+Figure 3. Effect of gas radiation model on suppression
+
+NASA/CP—2003-212376/REV1
+
+6
+
+Flow Velocity (cm/s)
+
+304
+

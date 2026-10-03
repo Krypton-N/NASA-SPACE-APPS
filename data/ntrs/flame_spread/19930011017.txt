@@ -1,0 +1,1654 @@
+OPPOSED-FLOW
+
+FLAME
+
+SPREADING
+
+IN REDUCED
+
+GRAVITY
+
+N9 3 - 2 0 2 0 6
+
+Department of Mechanical and Nuclear Engineering
+Mississippi State University, Mississippi State, Mississippi 39762
+Subrata Bhattacharjee
+Department of Mechanical Engineering
+San Diego State University, San Diego, California 92182
+Sandra L. Olson and Kurt Sacksteder
+NASA Lewis Research Center
+Cleveland, Ohio 44135
+
+Introduction
+Experimental
+results
+obtained
+in drop
+towers
+and in Space
+Shuttle
+based
+experiments
+coupled
+with modelling
+efforts axe beginning
+to provide information
+that
+is allowing
+an understanding
+to be developed
+of the physics
+of opposed-flow
+flame
+spread at reduced
+gravity
+where the spread rate and flow velocity
+are comparable
+and
+of the role
+played
+by radiative
+and diffusive
+processes
+in flame
+spreading
+in
+microgravity
+[1-6].
+Here we describe
+one Space
+Shuttle
+based experiment
+on flame
+spreading
+in a quiescent
+environment,
+the Solid
+Surface
+Combustion
+Experiment,
+SSCE
+[-7], one
+planned
+microgravity
+experiment
+on
+flame
+spreading
+in
+a
+radiatively-controlled,
+forced opposing
+flow environment,
+the Diffusive
+and Radiative
+Transport
+in Fires
+Experiment,
+DARTFire
+[8], modelling
+efforts
+to support
+these
+experiments,
+and some results obtained to date.
+SSCE
+
+Apparatus
+
+The
+volume,
+
+SSCE
+that
+
+apparatus
+is filled
+
+with
+
+consists
+a mixture
+
+of a sealed
+of specified
+
+container,
+
+approximately
+
+0 2 and N 2 percent
+
+0.039
+by volume
+
+m 3 in
+at a
+
+prescribed
+pressure.
+The test specimens
+are either ashless filter paper (thin fuel), 0.165
+mm thick,
+10 cm long, and 3 cm wide, or polymethylmethacrylate
+(PMMA;
+thick
+fuel), 0.3!8 cm thick, 2 cm long, and 0.635 cm wide.
+One end of the sample is ignited
+using an electrically-heated
+nichrome
+wire.
+For the thin fuel, three 0.127 mm Pt/Pt-Rh
+thermocouples
+are positioned
+along
+the sample
+centerline.
+The first is embedded
+in the sample 5 cm from the ignition
+end
+of the sample,
+the second is located 2.3 mm above the sample but 2.54 cm farther from
+the ignitor,
+and the third is located
+7.0 mm above the sample directly
+over the first.
+For the thick fuel, one one thermocouple
+is positioned
+in the gas, and two in the solid,
+one at the surface and one in depth.
+Two orthogonal
+views of the experiment
+are
+recorded
+using 16 mm cine--cameras
+operating
+at 24 frames/s.
+SSCE
+
+Results
+
+Four
+
+experiments
+
+for the
+
+ashiess
+
+filter
+
+paper
+
+237
+
+samples
+
+have
+
+been
+
+run
+
+to date,
+
+three
+
+at
+
+50%O2/50%N
+
+2
+
+35%O2/65%N
+from
+
+the
+
+volume
+
+at
+
+June
+
+(STS-40/SLS-1,
+
+by
+
+1991),
+
+2.0
+
+2 at 1.5 atm
+
+side-view
+
+film
+
+1.5
+
+atm
+
+atm
+
+(STS--41,
+
+(STS--43,
+
+(STS-50/USML-1,
+
+for 50%
+
+July
+
+0 2 at 1.5 and
+
+August
+1992).
+
+1.0 atm.
+
+heated,
+ignition
+from nitrocellulose
+On the wire
+subsides
+once the flame spreads
+away from the
+from left to fight,
+and the time for each frame
+image appears
+on the film.
+
+October
+
+1990),
+
+1991),
+
+Figure
+Just
+
+and
+
+1 shows
+
+after
+
+the
+
+1.0
+four
+
+ignitor
+
+atm
+
+one
+
+at
+
+frames
+wire
+
+is
+
+results
+in a bright
+orange
+flash that
+ignitor
+wire.
+The flame is spreading
+is the time after
+the first flameqike
+
+As the flame spreads,
+the soot radiation
+level in the tail of the flame decreases
+in
+both flames,
+and the lower
+pressure
+flame
+becomes
+entirely
+blue.
+Additionally,
+the
+flame elongates
+early in the spread
+process
+as the leading
+edge propagates
+faster than
+the trailing
+edge.
+Even
+though
+the soot radiation
+changes
+with time and the flame
+elongates
+just
+following
+ignition,
+the
+leading--edge
+spread
+rate
+is almost
+fixed
+immediately
+after the flame leaves
+the ignitor.
+The spread
+rates
+for the first three
+experiments
+are 0.358,
+0.454, and 0.547 cm/s for 1.0, 1.5, 2.0 atm, respectively,
+at 50%
+O2, and
+
+for the
+
+35%
+
+O 2 experiment
+
+it is 0.092
+
+cm/s
+
+at 1.5 atm.
+
+Thermocouple
+traces,
+as a function
+of location
+in the flame,
+for the surface
+and
+gas temperatures,
+and the net heat flux to the solid [6] are shown
+in Fig. 2. The
+leading
+edge of the flame is at x=0, which is fixed at the location
+of the peak net heat
+flux.
+The surface
+temperature
+increases
+rapidly
+as the flame is approached
+and then
+reaches
+a relatively
+steady
+temperature,
+which indicates
+the region
+of pyrolysis.
+The
+temperature
+then
+rises,
+and as the tail of the flame
+passes
+the thermocouple,
+the
+temperature
+quickly
+decreases
+until the residual
+char increases
+in temperature
+again as
+fresh oxygen,
+which
+diffuses
+to the surface
+while
+products
+diffuse
+away,
+results
+in
+surface oxidation.
+Steady---State
+
+Modelling
+
+Flame
+:spread:
+modelling
+is used
+to support
+the
+experimental
+effort.
+A
+comprehensive,
+steady-state,
+mathematical
+model
+developed
+along
+with
+the
+experimental
+program
+has been presented
+elsewhere
+[3,4].
+The conservation
+equations
+in the gas for mass, fuel, oxygen,
+x and y momentum,
+and energy,
+including
+finite--rate
+chemistry,
+and the energy
+and mass conservation
+equations
+in the solid, including
+finite-rate,
+endothermic
+pyrolysis,
+are solved
+for the steady---state
+spread
+rage and
+distribution
+=:
+
+of field
+
+considered
+
+[4],b--uCti_e
+
+variables.
+
+For
+
+ra-di-K_0n
+
+the
+
+thin
+
+fe_bac_o
+
+fuel,
+
+radiation
+
+_:su_ce
+
+from
+
+CO 2 and
+
+]s-ghner_iyassu_ed
+
+that reradiated
+from the surface
+so that
+a direct
+radiative
+coupling
+and the solid is not presently
+considered
+[5]. : _ ...... _ ...........
+Some
+
+computed
+
+resuits
+
+are
+
+Compared
+
+to experimental
+
+results
+
+H20
+
+is
+
+tO =balance
+between
+
+for the
+
+50%
+
+the
+
+gas
+
+O2,
+
+1.5
+
+atm experiment
+in Fig. 3. The character
+of the gas-phase
+temperature
+at the leading
+edge of the flame is predicted
+well, but the trailing
+edge of the flame is too far from the
+surface,
+with little
+or no curvature
+toward
+the surface,
+to provide
+agreement
+with
+experiment.
+Because
+the leading
+edge of the flame is responsible
+for establishing
+the
+spread
+rate,
+reasonable
+agreement
+between
+measured
+and predicted
+spread
+rate
+is
+obtained,
+0.454,
+0.360,
+
+the
+0.547
+0.417,
+
+measured
+
+values,
+
+given
+
+above,
+
+for the
+
+50%
+
+0 2 experiments
+
+being
+
+0.358,
+
+cm/s for 1.0, 1.5, 2.0 atm, respectively,
+compared
+to predicted
+values of
+0.450 cm/s.
+Both the measured
+and predicted
+spread
+rates increase
+with
+238
+
+pressure;
+without
+gas-phase
+radiation,
+the
+predicted
+spread
+rate,
+approximately
+a factor of two higher
+than experiment
+(0.704
+cm/s)
+at
+almost
+independent
+of pressure,
+although
+it declines
+slightly
+with
+an
+pressure.
+
+which
+1.0 atm,
+increase
+
+is
+is
+in
+
+For thin fuels, radiative
+effects
+are important
+at low opposing
+flow velocities,
+decreases
+in flow velocity
+causing a decrease in spread rate and possible
+extinction
+[9].
+As the flow velocity
+is increased,
+the effects
+of radiation
+become
+unimportant,
+with
+extinction
+at high flow velocities
+occurring
+via blowoff.
+While thick fuel experiments
+have not been completed
+yet, modelling
+of flame spread over thick fuels has progressed,
+although
+the effects of radiation
+have been confined
+to surface reradiation
+[10].
+For
+these fuels, surface radiative
+effects are important
+for all flow velocities
+because
+as the
+flow velocity
+is increased
+from very low values to very high values,
+the radiative
+effects
+compared
+to the conduction
+effects do not decrease as they do for thin fuels.
+DARTFire
+
+Experiment
+
+Experimental
+and modelling
+results, obtained
+in conjunction
+with the SSCE, show
+that radiative
+effects are important
+in low-velocity,
+opposed-flow
+flame
+spreading
+at
+reduced-gravity.
+Although
+in the SSCE the opposing
+flow is not controlled,
+because
+the environment
+is quiescent,
+it is, in flame-fixed
+coordinates,
+the spread
+rate.
+In the
+DARTFire
+experiment,
+which
+is
+described
+in
+a
+recently---developed
+Science
+Requirements
+document
+!_
+the fuel surface
+is subjected
+to various
+levels
+of an
+external
+radiative
+flux,
+_,,_i the flame
+spreads
+into
+a low-velocity,
+forced-flow
+boundary
+layer.
+Such a configuration
+will allow determination
+of those environments
+that lead during flame evolution
+to sustained
+spreading
+or extinction
+and development
+of a clear understanding
+of the interaction
+between
+the flow and radiation
+fields at
+reduced
+gravity.
+Unsteady
+
+Modelling
+
+More
+recently,
+the steady---state
+model
+has been extended
+to include
+unsteady
+effects [11,12] that allows flame
+characteristics
+to be computed
+from ignition
+onward.
+While
+the spread
+rates
+measured
+in the SSCE
+are steady,
+which
+is understandable
+because
+the flow field around
+the leading
+edge of the flame is established
+by the flame
+itself and is relatively
+fixed independent
+of flame
+location,
+the trailing
+edge of the
+flame exhibits
+some unsteady
+behavior.
+For DARTFire,
+the flame spread
+is inherently
+unsteady
+because
+the flame spreads into a thinning
+boundary
+layer in which the flow
+field changes with flame position.
+Conclusions
+Results
+spread
+
+over
+
+of gas
+a thin
+
+and
+
+surface
+
+cellulosic
+
+fuel
+
+temperature
+
+and
+
+in a 50% 02/50%
+
+spread
+
+rate
+
+N 2 quiescent
+
+measurements
+environment
+
+in flame
+obtained
+
+aboard
+recent missions
+of the Space Shuttle
+show steady
+spreading,
+and, when coupled
+with steady-state
+modelling,
+the importance
+of radiation.
+Spread
+rate increases
+with
+pressure
+through
+the effects of pressure
+on gas radiation,
+the optical
+depth
+of the lower
+pressure
+flames
+and the attendant
+heat
+loss being greater
+than
+at higher
+pressure.
+Computed
+results
+agree with experimental
+results
+near the leading
+edge of the flame,
+but additional
+refinement
+of the model
+is needed in order to describe
+accurately
+the
+trailing
+edge of the flame and more accurately
+the coupling
+of gas and surface
+radiative
+processes.
+Development
+of an experiment
+in which the radiative
+and flow environment
+will be carefully
+controlled
+is proceeding
+as well as the development
+of unsteady
+flame
+239
+
+spreadmodels.
+Acknowledgements
+Support
+for the SSCE effort is provided
+through NASA contract
+NAS3"23901
+with
+starting
+date December
+1984, and for DARTFire
+through
+NASA
+contract
+NCC3-221
+with starting
+date June 1991.
+
+1.
+.
+
+.
+
+Olson,
+
+S:L. (199i).:Combusi'
+
+Sci.
+
+TechnoL
+
+Bhattacharjee,
+S., Altenkirch,
+R:A.,
+Transfer
+to a Thin Solid Combustible
+113, 670--676.
+Bhattacharjee,
+
+S. and Altenkirch,
+
+R.A.
+
+76, 233-2491
+
+::
+
+Olson,
+S.L., and
+at Zero-Gravity,
+
+(1991).
+
+:
+
+Sotos,
+R.G.(1991).
+Journal
+of Heat
+
+Combust.
+
+Flame
+
+.
+
+.
+
+.
+
+o
+
+Bhattacharjee,-S.
+(International)
+1627-1633.
+Bhattacharjee,
+Experimental
+Quiescent,
+(International)
+
+=
+
+Twenty--Third
+
+and
+Altenkirch,
+R:A.
+(1991).
+on Combustion,
+The
+Combustion
+
+Institute,
+
+Symposium
+
+Pittsburgh,
+
+pp.
+
+S. and Altenkirch,
+R.A. (1992).
+A Comparison
+of Theoretical
+and
+Results
+in Flame
+Spread
+over
+Thin
+Condensed
+Fuels
+in a
+Microgravity
+Environment,:
+_ Twenty-iFourih
+.... Symposium
+on Combustion,
+The combustion
+Institute,
+Pittsburgh,
+to appear.
+
+Bhattacharjee,
+S., Altenkirch,
+Spread
+Rate and Temperature
+in a Quiescent,
+Microgravity,
+to appear.
+Altenkirch,
+Combustion
+
+Heat
+Transfer
+
+84, 160-169.
+
+::
+
+4.
+
+::
+
+R.A. (1985).
+Experiment,
+
+R.A.
+and Sacksteder,
+K. (1992).
+Implications
+of
+Measurements
+in Flame
+Spread
+OveraThin
+Fuel
+Space-Based
+Environment,
+Combust.
+Sci. Technot,
+
+Science
+Requirements
+Document
+for
+NASA Contract
+NAS3-23901
+Report.
+
+the
+
+Solid
+
+Surface
+
+Altenkirch,
+R.A., Olson, S.L. and Bhattacharjee,
+S. (1992).
+Science Requirements
+for the Diffusive
+and Radiative
+Transport
+in Fires Experiment,
+NASA
+Contract
+NCC3-221
+Report,
+:
+:
+:
+Altenkirch,
+723-740.
+
+R.A.
+
+and
+
+Bhattacharjee,
+
+S. (1990).
+
+10.
+
+West,
+Effects
+ASME/
+
+11.
+
+Bullardl
+D.B:
+(1992)
+Modeling
+Unsteady
+Flame
+Thick
+Solid Fuels in a Microgravity
+Environment,
+University_
+
+12.
+
+Bullard,
+Unsteady
+Research
+
+AIAA
+
+Prog.
+
+Astro.
+
+Aero.
+
+130,
+
+J., Bhattacharjee,
+S. and
+Altenkirch,
+R.A.
+(1992).
+Surface
+Radiation
+on
+Flame
+Spread
+over Thermally
+Thick
+Fuels in an Opposing
+Flow,"
+AICHE
+National
+Heat Transfer
+Conference.
+
+D.B.,
+Flame
+World
+
+Propagation
+MS Thesis,
+
+Over Thermally
+Mississippi
+State
+
+Tang,
+L.,
+Altenkirch,
+R.A.
+and Bhattacharjee,
+S. (1092).
+Spread
+over Solid Fuels in Microgravity,
+Committee
+on Space
+Space Congress,
+also Advances
+in Space Research,
+submitted.
+24O
+
+3.5s
+
+9.1s
+
+4.0s
+
+Fig.
+
+1.
+
+Four
+the
+time
+
+frames
+SSCE
+from
+
+16.5s
+
+8.4s
+
+from
+at
+
+50%
+
+the
+
+first
+
+16 mm
+0 2 at
+
+16.3s
+
+film
+
+of flame
+
+1.5 atm
+
+appearance
+
+21.9s
+
+(top)
+
+25.4s
+
+spread
+and
+
+of a flame-like
+
+over
+1.0 atm
+image
+
+See
+
+241
+
+ashless
+
+filter
+
+(bottom).
+
+paper
+Times
+
+on the film.
+
+Golor
+
+Plate
+
+F-2
+
+in
+are
+
+Origen.
+
+4|
+
+............
+
+$1343
+
+(:I
+
+J
+
+ram)
+
+TIN_:
+
+4.3
+
+I_1
+
+..........
+
+_
+
+_
+
+m
+
+(I
+
+Thin
+
+lurLIlel
+
+am)
+
+:p'- ::+._.?,
+
+/
+
+r
+
+?
+
+!
+
+I
+
+)
+
+2.S
+
+:l
+
+L3
+
+• 20
+
+-LS
+
+AO
+
+-$
+
+0
+
+.2O
+
+-U
+
+-tO
+
+z,r,.m
+
+z.
+
+-$
+
+0
+
+¢1m
+
+t,i
+4
+
+........
+-..........
+
+_1140
+|Y'_4I
+$TI143
+
+(I
+Irlm)
+(1.1
+Itml
+('4 Sire)
+
+3J
+o
+3
+
+2.5
+
+/
+
+l
+
+._
+
+,i i /
+
+m+.
+
+/ i.."
+z
+
+fl"
+
+IJ
+
+i:
+
+I
+.20
+
+-13
+
+-5
+
+-IO
+x," cm
+
+Fig. 2
+
+ol
+-|0
+
+o
+
+.11
+
+...........
+
+4
+
+"4
+
+lemoer_tur_
+
+at
+
+y=2.3
+
+0
+
+2
+
+4
+
+o-
+
+Measured
+temperature and heat flux profiles
+paper in the SSCE at 50% O_
+_
+;_-_ _
+
+G.as-Ptmse
+
+,;
+
+.........
+
+for spread over ashless
+--
+
+filter
+
+mm
+_:
+
+4..I
+
+_r111..0t11,11
+
+IletpltllUrl
+
+I!
+
+y=7.0
+
+mm
+
+/_
+
+iTIil"OIII
+S'FS41-0
+
+Ill II
+
+=
+E
+
+3
+
+E
+o
+
+z
+./f
+
+a
+
+}'
+-I0
+
+]'
+
+\\.
+-$
+
+0
+
+_
+=
+
+z,
+
+¢m
+
+lO
+
+I-1
+
+13
+
++:
+
+7
+
+H
+
+t
+-I0
+--=
+
+G
+-$
+
+_
+
++F
+
+•
+0
+
+E
+
+It.
+
+0
+._
+
+242
+
+II
+to
+
+I._
+
+(:m
+
+Comparison
+between measured and computed
+temperatures
+ashless filter paper in the SSCE at 50% O 2 and 1.5 arm.
+
+: ?
+
+C
+
+for spread
+
+over
+
+COMMENTS
+Question
+(Howard
+R. Baum, NIST): The role of gas phase radiation in thcse problems
+may indeed be
+important.
+However, while the local emission
+can be roughly approximated
+in a 2-dimensional
+simulation,
+feedback
+to the condensed
+phase is inherently
+3-dlmensional.
+This is due to the limited width of the fuel
+samplc and the rapid decay of the tcrnperature
+and combustion
+product species in the lateral direction.
+
+the
+
+Answer:
+Dr. Baum's points are well-taken,
+and, as he indicates, there are two separate
+issues to address
+here.
+In some earlier preliminary
+work (1,2), we found that the Planck mean absorption
+coefficicnt
+as
+dcfincd hcre is not particularly
+sensitive to sample width.
+Valucs from "two-dimensional"
+computations,
+which have a 3-D aspcct to them in that lines of sight throughout
+a 2-pi steradian
+solid angle are considered
+in calculating
+fluxes on the computational
+domain, do not changc much as the sample width is reduced to a
+range in which we are interested,
+as long as some physically reaso,lable
+temperature
+and species profiles are
+used in the lateral direction when radiation
+loss from the sidcs of the flame is considered.
+Consequently,
+the
+"two-dimcnsional"
+radiation model h)r the gas-phase
+emission appears to be a reasonable
+approximation.
+In considering
+radiation
+the fccdback
+to balance
+
+feedback to the surface
+the surface rcradiation,
+
+though, which we have not done here bt, t have rather taken
+3-D effccts are inherent.
+While the 2-D model accounts
+for
+
+reasonable
+ovcrall radiativc
+loss from the gas-phase,
+the fraction of gas radiation
+fed back to the surface
+depends on the dctails of how the radiation
+loss though the sides of thc tlame is treated.
+Wc plan to address
+this inhcrcnt
+3-D effect in an approximate
+way in future 2-D computations.
+REFERENCES:
+Ahcnkirch,
+R.A. ct al. (1991).
+Contract
+NAS3-23901.
+2,
+
+Fcbruary
+
+through
+
+March,
+
+NASA
+
+Technical
+
+Progress
+
+Rcport
+
+on NASA
+
+Bhattacharjcc,
+S. and Ahcnkirch,
+R.A. (1991). Three-Dimensional
+Radiativc
+Effects in OpposedFlow Flamc Spread M_dcling,
+Central States Section Meeting of The Combustion
+Institute meeting.
+
+243
+

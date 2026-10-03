@@ -1,0 +1,257 @@
+DROPLET COMBUSTION IN A SLOW CONVECTIVE FLOW
+V. Nayagam1, M.C.Hicks2, M.Ackerman3, J.B. Haggard, Jr.2, F.A. Williams3
+1
+National Center for Microgravity Research, 2NASA Glenn research Center
+21000 Brookpark Rd., Cleveland OH, 44135
+3
+Center for Energy Research, University of California at San Diego, La Jolla, CA 92093
+INTRODUCTION
+The influences of slow convective flow on droplet combustion, particularly in the low
+Reynolds number regime, have received very little attention in the past. Most studies in the
+literature are semi-empirical in nature and they were motivated by spray combustion applications
+in the moderate to high Reynolds number regime. None of the limited number of fundamental
+theoretical studies applicable to low Reynolds numbers have been verified by rigorous
+experimental data. Moreover, many unsteady phenomena associated with fluid-dynamic
+unsteadiness, such as impulsive starting or stopping of a burning droplet, or flow
+acceleration/deceleration effects, have not been investigated despite their importance in practical
+applications. In this study we investigate the effects of slow convection on droplet burning
+dynamics both experimentally and theoretically. The experimental portion of the study involves
+both ground-based experiments in the drop towers and future flight experiments on board the
+International Space Station. Heptane and methanol are used as test fuels, and this choice
+complements the quiescent-environment studies of the Droplet Combustion Experiment (DCE).
+An analytical model that employs the method of matched asymptotic expansions and uses the
+ratio of the convective velocity far from the droplet to the Stefan velocity at its surface as the
+small parameter for expansion ε has also been developed as a part of this investigation. Results
+from the ground-based experiments and comparison with the analytical model are presented in
+this report.
+EXPERIMENTS
+Three separate experimental configurations were examined to generate slow convective
+flows past a burning droplet in microgravity in preparation for the flight experiment. The first
+configuration, used in the 2.2 Second Drop-Tower Facility employed a “flow tunnel” powered by
+a pressurized gas bottle to establish a uniform flow field around a droplet suspended at the end of
+a fiber. Initial droplet diameters for these tests were approximately 1.0 mm to 1.5 mm. The
+second test configuration, designed for use in the Zero-Gravity Facility ( ZGF, the larger drop
+tower providing up to 5 seconds of microgravity), utilized a translating mechanism to move the
+droplet at very precise velocities through a quiescent medium to generate a uniform flow field.
+The velocities for this system ranged from 0 cm/s to 3 cm/s and initial droplet diameters were
+nominally 2.3 mm. The third test configuration was designed to fly on the KC-135 aircraft,
+which provides around 20 seconds of microgravity, and it employed a flow-tunnel concept
+similar to the 2.2 second tower. However, rather than using pressurized bottles of gas with a
+sonic orifice, a fan was used to generate the required flows. In this test configuration only two
+flow velocities were used (i.e., 5 cm/s and 10 cm/s) and the initial droplet diameters were
+considerably larger at approximately 3 mm.
+
+NASA/CP—2003-212376/REV1
+
+157
+
+Tests were run for both n-heptane and methanol in the first two test configurations and for
+only n-heptane in the KC-135 experiments. Two wide-band radiometers (i.e., 0.6 mm to 40 mm)
+were used in each experimental configuration in the drop towers to obtain measurements of the
+gas phase radiative losses. A single wide-band radiometer was used in the KC-135 experimental
+rig. All radiometers were calibrated against a blackbody source at distances equal to the distance
+from the droplet support fiber employed in the experimental rigs. The backlit images of the
+droplet as well as the color images of the flames were obtained during these experiments.
+Further details of the experiments can be found in [1].
+ANALYSIS
+An idealized model for droplet vaporization or combustion in the Burke-Schumann reactionsheet approximation is analyzed in terms of a Peclet number based on the Stefan velocity, taken
+to be of order unity, for Lewis numbers of unity and for small values of a parameter ε, defined as
+the ratio of the convective velocity far from the droplet to the Stefan velocity at its surface.
+Asymptotic solutions for the velocity, pressure and mixture-fraction fields are obtained through
+second order in ε. All earlier studies (see, e.g., [2-4]) treated the Reynolds number of convection
+as the small parameter. The present analysis is different in principle because a different small
+parameter is selected, namely the ratio, ε, of the convection velocity of the gas at infinity to the
+velocity of the gas at the droplet surface without nonspherical convection. The mathematical
+development therefore is different and precludes addressing the limit of a nonvaporizing droplet.
+This selection was made with a view towards the problem intended to be studied. Despite this
+difference, the resulting expansions contain all the elements in most of the earlier analyses, some
+of which explicitly refer to a “large radial velocity” and become equivalent mathematically to the
+present development with appropriate restrictions. The present expansions thus retain essentially
+the same range of applicability as earlier analyses, and the resulting alternative development
+given here can help to clarify possible differences associated with different expansion
+procedures. The results of this analysis are employed to calculate the effects of convection on the
+burning rate and on the flame shape. Qualitative comparisons with experiment help to identify
+the strengths and limitations of this model. The reader is referred to an earlier paper [5] for a
+more detailed discussion of the formulation used in this analysis.
+RESULTS AND DISCUSSION
+The burning-rate constant, K, the slope of the graph of the square of the droplet diameter as a
+function of time, was determined for each test run for which ε is smaller than one. Figure 1
+shows the comparison between the experimental measurements and the predictions of the current
+asymptotic analysis, where (K/K0 – 1)is plotted against the square root of Reynolds number based
+on droplet radius (Re= U ∞ R / ν ∞ ). Here U∞ is the imposed flow velocity, R is the droplet radius,
+v∞ is the kinematic viscosity, and Ko is the burning rate constant when there is no flow. A K0
+value of 0.75 mm2/s was employed in Fig. 1, although a somewhat higher value (probably 0.8
+mm2/s, within experimental accuracy) would be more appropriate, as suggested theoretically and
+by the data point at Re=0 in the figure. Also, in calculating the Reynolds number the kinematic
+viscosity was taken to be that of air at a mean temperature of 850K, although a somewhat higher
+mean temperature (perhaps as high as 1200K) may be more appropriate, which would move the
+data points in the figure to smaller values of Re. Since the present theory does not account for
+
+NASA/CP—2003-212376/REV1
+
+158
+
+variable properties, it is essential in comparisons to make an adjustment of this type; if the
+theoretical formula is used with ν∞ evaluated at the ambient temperature of about 300K, then the
+slope of the theoretical line is much too steep. In view of the uncertainties in K0 and in the
+manner of evaluating mean properties, it is best to anticipate differences between theory and
+experiment on the order of a factor of two and to consider the agreement that is seen here as
+being only qualitative.
+The flame shape predictions from the analytical results show good agreement with
+experiment. Experimental flame measurements appear to be somewhat narrower and longer than
+predicted, as illustrated in Figure 2 for a particular test. This general trend, observed for most of
+the comparisons with experiment, may be due to the increase in flame length through finite-rate
+chemistry downstream as well as variable properties, which are not addressed in the simplified
+analytical model. The comparisons clearly indicate that, even after optimizing the selection of
+the value of the diffusion coefficient, flame-shape differences between theory and experiment of
+at least 20% should be anticipated.
+Figure 3 shows the instantaneous radiative heat loss, Qrad, plotted against the instantaneous
+droplet diameter for n-heptane droplets burning in air with ambient flow velocities ranging from
+0 cm/s to 10 cm/s. Average initial droplet diameters were 1.25 mm for the 2 second tower,
+2.31 mm for the ZGF, and 3.3 mm for the KC-135. The aggregate plot, showing all results on
+the same droplet scale, indicate that once the flame transient passes there is an expected
+convergence in radiative heat loss. It is apparent that tests performed in the ZGF never extended
+beyond the flame transient where flame expansion relative to the droplet diameter reached a
+maximum. This is due to the relatively large initial droplet diameters used in these tests and the
+commensurately short burn time allowed in this facility (i.e., data begins approximately 3
+seconds after 0-g ignition and steady velocity was reached). The considerably smaller droplets
+used in the 2 second tower, coupled with the fact that the drop occurred after ignition, allowed
+these tests to proceed beyond the flame-expansion period. When results from these tests are
+plotted separately on a larger scale an interesting observation can be made concerning the
+relationship between radiative heat losses and flow velocity. Preliminary results indicate that
+radiative losses tend to decrease as the flow velocity is increased. One possible explanation is
+that the flame shape becomes increasingly distorted into an ellipsoidal shape with increased flow.
+The distorted flame shape results in a smaller radiating volume and this, coupled with an increase
+in convective losses as hot gases are swept downstream, causes a decrease in radiative output
+from the gas phase. Additionally, decreases in soot radiation resulting from shorter soot
+residence times due to increased convective effects, also contribute to the observed decrease in
+radiative output. Recently, we have carried out several experiments with accelerating and
+decelerating droplets and the results will be presented elsewhere. Some preliminary results can
+be found in [1].
+CONCLUDING REMARKS
+Predicted qualitative trends from the asymptotic analysis are supported by experiment. The
+prediction that the burning rate increases linearly with Reynolds number for small Reynolds
+numbers is consistent with experiment. The predicted general elongation of the flame in the
+flow direction and its narrowing transversely are consistent with experiment, but these variations
+appear to be somewhat more pronounced experimentally, likely because of effects of variable
+properties and finite-rate chemistry, especially of soot. It may thus be concluded that qualitative
+
+NASA/CP—2003-212376/REV1
+
+159
+
+trends may be obtained from the theory, but refinements (introducing greater complexity) are
+needed for improved quantitative predictions. Experimental results from each of the test
+configurations show that radiative heat losses from the gas phase contribute to a substantial
+portion of the overall heat loss mechanism. Additional tests are currently underway to
+investigate the unsteady effects during convective droplet burning.
+REFERENCES
+1. Hicks, M.C., Kaib, N., Easton, J., Nayagam, V., Third Joint Meeting of the U.S. Sections of the
+Combustion Institute, The Combustion Institute, Pittsburgh, PA, 2003.
+2. Wichman, I. S., Baum, H. R. in: C.T. Avedisian, V.A. Arpaci (eds), Heat Transfer in
+Microgravity, HTD series 269, ASME, New York, 1993, p 111.
+3. Fendell, F. E., Sprankle, M. L., Dodson, D. S., J. Fluid Mechanics 26 (1966) 267-280.
+4. Gogos, G.., Ayyaswamy, P. S., Combustion and Flame, 74 (2) (1988) 111-129.
+5. Ackerman, M., Nayagam, V., Williams, F.A., Third Joint Meeting of the U.S. Sections of the
+Combustion Institute, The Combustion Institute, Pittsburgh, PA, 2003.
+0.6
+
+6
+
+0.5
+
+4
+
+K/Ko - 1
+
+0.4
+
+2
+
+0.3
+
+-6
+
+0.2
+0.1
+
+-4
+
+-2
+
+-2
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+-4
+-6
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+Re1/2
+
+Figure 2. Flame shape for an initial droplet
+diameter of 1.5 mm, an imposed flow speed of 4
+cm/s. The solid line is calculated using the theory
+while the points represent experimental values.
+
+Figure 1. Burning-rate constant vs Re1/2 number
+according to the present theory (line) compared with
+experimental data (points).
+40
+U = 0 - 2 cm/s
+U = 3 - 7 cm/s
+
+30
+
+Qrad(W)
+
+U = 8 - 10 cm/s
+
+20
+
+Figure 3. Total radiative flame emission as a
+function of droplet diameter for various flow
+velocities during n-heptane burning in air at
+atmospheric pressure.
+
+10
+
+0
+0
+
+1
+
+2
+
+3
+
+D (mm)
+
+NASA/CP—2003-212376/REV1
+
+160
+

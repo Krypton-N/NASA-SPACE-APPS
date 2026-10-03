@@ -1,0 +1,876 @@
+Spring Technical Meeting
+of the Central States Section of the Combustion Institute
+March 16-18, 2014
+
+Cool-ﬂame extinction during n-alkane droplet combustion in microgravity
+V. Nayagam1 , D. Dietrich2 , M. C. Hicks2 and F. A. Williams3
+1 Department
+
+of Mechanical and Aerospace Engineering
+Case western Reserve University, Cleveland, Ohio
+2 NASA Glenn Research Center, Cleveland, Ohio
+3 Department of Mechanical and Aerospace Engineering, UCSD, La Jolla, CA
+Abstract
+Recent droplet combustion experiments onboard the International Space Station (ISS)
+have revealed that large n-alkane droplets can continue to burn quasi-steadily following
+radiative extinction in a low-temperature regime, characterized by negative-temperaturecoefﬁcient (NTC) chemistry. In this study we report experimental observations of n-heptane,
+n-octane, and n-decane droplets of varying initial sizes burning in oxygen/nitrogen/carbon
+dioxide and oxygen/helium/nitrogen environments at 1.0, 0.7, and 0.5 atmospheric pressures. The oxygen concentration in these tests varied in the range of 14% to 25% by volume.
+Large n-alkane droplets exhibited quasi-steady low-temperature burning and extinction following radiative extinction of the visible ﬂame while smaller droplets burned to completion
+or disruptively extinguished. A vapor-cloud formed in most cases slightly prior to or following the “cool ﬂame” extinction. Results for droplet burning rates in both the hot-ﬂame
+and cool-ﬂame regimes as well as droplet extinction diameters at the end of each stage are
+presented. Time histories of radiant emission from the droplet captured using broadband
+radiometers are also presented. Remarkably the “cool ﬂame” extinction diameters for all
+the three n-alkanes follow a trend reminiscent of the ignition delay times observed in previous studies. The similarities and differences among the n-alkanes during “cool ﬂame”
+combustion are discussed using simpliﬁed theoretical models of the phenomenon.
+
+1
+
+Introduction
+
+Understanding the combustion characteristics of liquid hydrocarbon fuels is of practical and
+fundamental importance. The United States alone consumes approximately 19 million barrels
+of liquid fuels per day which averages out to an amazing 2.5 gallons per day per person [1].
+The primary reason for such high reliance on hydrocarbon fuels as the single most important
+energy source, not only in the US but in the rest of the world, is their high energy density,
+ease of handling and portability compared to many other forms of energy sources. With the
+emergence of newer internal combustion engine technologies and renewable bio-fuels, such as
+the Homogeneous Charge Compression Ignition engine (HCCI) and bio-diesel, that promise
+cleaner more efﬁcient and sustainable utilization of hydrocarbon fuels, the need to understand
+the fundamental chemical and physical aspects of liquid fuel combustion is bound to increase.
+Commercially available transportation fuels, such as gasoline, diesel, and jet fuel, are comprised of many hydrocarbon compounds, normal alkanes and branched alkanes being the major
+components. The combustion characteristics of these alkanes are quite complex and follow
+branched chain reaction pathways involving many intermediate radicals. The chemical pathways vary depending on temperature and to a lesser extent on pressure. In general it is possible
+to identify a low temperature reaction mechanism and a high temperature mechanism and the
+1
+
+transition region between them. Many hydrocarbons exhibit a unique feature in the transition
+region where the reaction rate decreases with increasing temperature called the negative temperature coefﬁcient (NTC) region. Cool ﬂames and the associated multi-stage ignition phenomenon
+occur in this NTC-controlled region. Researchers in the past, motivated by the “knock” in spark
+ignition engines associated with cool ﬂames, have used a number of experimental techniques
+to investigate the cool ﬂame phenomenon including stirred reactors, ﬂow reactors, shock tubes,
+and rapid compression machines [2]. All these studies primarily involved premixed gases and
+aimed at understanding the ignition process that transitions from low temperature chemistry to
+high temperature ignition.
+Recent droplet combustion experiments conducted onboard the International Space Station
+(ISS), as part of the Flame Extinguishment Experiments (FLEX), have revealed for the ﬁrst time
+that large n-alkane droplets can continue to burn quasi-steadily in the low-temperature regime,
+characterized by negative-temperature-coefﬁcient (NTC) chemistry [3]. It was observed that the
+“cool ﬂame” combustion of the droplet abruptly ends at a ﬁnite droplet diameter leaving the
+unburned droplet to vaporize in the hot ambient. A vapor cloud was also found to form around
+the droplet as the partially oxidized fuel and other products condensed just prior to or immediately following cool ﬂame extinction. Numerical simulations of spherically symmetric droplet
+combustion with detailed chemistry that included both high temperature and low temperature
+kinetics for n-heptane have shown reasonable agreement with these experimental observations
+[4, 5]. These experimental and numerical studies provide a new tool to further explore the low
+temperature chemistry of liquid fuels in an entirely new way. The measured “cool ﬂame” droplet
+burning rates provide a measure of heat release rate, the ﬂame diameter evolution provides insight into diffusive and convective heat loss effects, and the droplet extinction diameter provides
+a stringent measurement of chemical-kinetic characteristic times. In this study we report further
+experimental observations of n-decane, n-octane, and n-heptane droplets burning in microgravity under varying ambient oxygen and diluent concentrations. It is shown that all three normal
+alkanes exhibit quasi-steady “cool ﬂame” burning mode followed by cool-ﬂame extinction at
+a ﬁnite droplet diameter. The similarities in cool ﬂame extinction diameter between the three
+normal alkanes are also discussed.
+
+2
+
+Experiments
+
+The experiments were conducted using the Multi-User Droplet Combustion Apparatus installed in the Combustion Integrated Rack (CIR) facility in the US Module of the ISS. The
+cylindrical combustion chamber in the CIR has a free-volume of approximately 95 liters with
+the MDCA insert installed. The MDCA used an opposed-needle deployment technique to freely
+deploy droplets of chosen size in microgravity. When needed it was also possible to use 80 μm
+silicon-carbide ﬁber to tether the droplet. Ignition of the free droplet was accomplished using
+two symmetrically positioned hot-wire igniters. The experimental diagnostic system consisted
+of a black-and-white, back-lit droplet image capture camera, a UV-sensitive ﬂame imaging camera ﬁltered to observe OH*-chemiluminescence at 310 nanometer wave length, and a CCD color
+camera with a wider view angle. All the camera images are digitally stored on-board the CIR
+and down-linked at a later time for analysis. The color camera with its real-time down-link capability is also used to conduct experiment operations from the ground at the Telescience Support
+Center located in NASA Glenn Research Center. The radiant emission from the burning droplet
+is captured using a broadband (0.6 to 5.0 μm range) and a narrowband (5.0 to 7.0 μm range)
+radiometers at 100 Hz and down-linked along with the image data. Prior to an experimental
+run, the Fuel and Oxidizer Management Assembly (FOMA) system of the CIR is used to ﬁll
+the combustion chamber with the desired ambient gas mixture consisting of oxygen, nitrogen,
+2
+
+18
+hot flame
+
+cool flame
+
+50
+
+16
+
+20
+
+D2 (mm2)
+
+10
+
+30
+
+10
+
+10
+
+15
+
+20
+
+25
+20
+15
+
+25
+
+10
+
+(b)
+
+5
+
+0
+
+0
+5
+
+30
+
+8
+
+2
+
+2xQr
+
+4
+0
+
+35
+
+10
+
+4
+
+10xQr
+(a)
+
+40
+
+2xQr
+
+6
+
+8
+
+6
+
+45
+
+12
+
+Df (mm), Qr (W)
+
+12
+
+50
+
+14
+
+40
+evaporation
+
+D2 (mm2)
+
+16
+
+R377
+
+14
+
+55
+
+R374
+
+0
+
+0
+
+30
+
+5
+
+10
+
+20
+
+25
+
+30
+
+12
+
+45
+R379
+
+15
+Time (s)
+
+Time (s)
+
+16
+
+Df (mm), Qr (W)
+
+18
+
+35
+R383
+
+40
+
+30
+
+10
+
+14
+35
+
+15
+
+8
+
+5
+
+10
+15
+Time (s)
+
+20
+
+2xQr
+
+(d)
+
+0
+
+4
+0
+
+10
+
+2
+
+5
+
+2xQr
+
+(c)
+
+15
+4
+
+10
+
+10xQr
+
+6
+
+20
+6
+
+5
+
+10xQr
+
+0
+
+0
+
+25
+
+Df (mm), Qr (W)
+
+20
+
+D2 (mm2)
+
+D2 (mm2)
+
+25
+10
+
+25
+
+8
+
+Df (mm), Qr (W)
+
+30
+
+12
+
+0
+
+2
+
+4
+
+6
+
+8
+Time (s)
+
+10
+
+12
+
+14
+
+Figure 1: Droplet diameter squared D2 , and ﬂame diameter Df versus time for n-decane droplets
+burning at 0.5 atm pressure: (a) R377 D0 =4.03 mm, 21%O2 and 79%N2 ; (b) R374 D0 =3.79
+mm, 25%O2 and 75%N2 ; (c) R379 D0 =3.86 mm, 17%O2 and 83%N2 ; (d) R383 D0 =3.14 mm,
+14%O2 and 96%N2 ; Radiative heat loss Qr measured using a broadband (dashed line) and a
+narrowband (dotted line) radiometers are also shown.
+
+and either carbon dioxide or helium at a selected pressure. Typically several droplet burns were
+performed in each environment before venting the combustion chamber to space vacuum and
+reﬁlling. Further details of experiments and operational procedures can be found in Dietrich et
+al.[6].
+
+3
+
+Results and Discussions
+
+Over three hundred droplet combustion tests were completed as part of the FLEX experiments using three different normal alkane fuels and two different alcohol fuels in a variety of
+diluent substituted environments at ambient pressures in the range of 0.5 to 3 atm to date. The
+droplet initial diameters in these tests varied from approximately 1.5 mm to 5 mm depending
+upon the ambient gas mixture composition and pressure, so that both diffusive and radiative
+extinctions can be observed and the ﬂammability boundaries as a function of diluent concentrations can be developed. Here we present selected results for normal alkanes fuel droplets with
+the view toward understanding the cool ﬂame combustion and extinction.
+3.1
+
+N-decane Results
+Figure 1 shows the measured droplet diameter squared D2 , and the ﬂame diameter Df as a
+3
+
+function of time for four different n-decane droplets. Figure 1a (R377) corresponds to a n-decane
+droplet with an initial diameter of 4.03 mm burning in 21% oxygen and 79% nitrogen mixture
+at 0.5 atm pressure. Also shown in Fig. 1a are the radiative power output from the droplet measured using a broadband and a narrowband radiometers. Following ignition, the diameter of the
+diffusion ﬂame Df surrounding the droplet increases with time before extinguishing abruptly at
+around 14.6 seconds. The radiative heat loss from the ﬂame zone initially increases with time and
+then decreases slightly prior to visible ﬂame extinction as seen from the broadband radiometer
+output. The narrowband radiometer saturates during this ﬁrst-stage, hot-ﬂame combustion and
+it is not shown. Even though the maximum heat loss due to radiation occurs around 5 second,
+ﬂame extinction occurs only later on when the droplet diameter has decreased sufﬁciently to reduce the residence time in the ﬂame zone. The hot-ﬂame extinction is clearly demarcated by the
+sudden drop in broadband radiometer output. The second-stage combustion termed “cool ﬂame”
+zone starts immediately following hot-ﬂame extinction. As in the hot-ﬂame region the square of
+the droplet diameter decreases linearly with time in the cool-ﬂame region, but at a slightly slower
+rate. Both the color camera and the UV-camera are not sensitive enough to register any ﬂame
+images during this period. Both the broadband and narrowband radiometers, however, register
+continued radiative heat loss from the droplet indicating active chemical heat release. The end
+of “cool ﬂame” combustion is clearly marked by the rapid drop in the narrowband radiometer
+output. Following cool ﬂame extinction the droplet simply evaporates in the hot environment
+and the radiative loss measurements decay to zero values without any further abrupt changes.
+The burning rate constants K (=dD2 /dt) corresponding to the ﬁrst and second stage combustion
+were found to be 0.41 and 0.33 mm2 /s respectively. The combustion behavior exhibited in Fig 1a
+is typical for most large n-alkane droplets that undergo radiative extinction though some subtle
+differences can be observed when the initial droplet size, the ambient oxygen concentration, or
+the diluent concentrations are altered.
+Figure 1b (R374) shows the combustion characteristics for a 3.79 mm n-decane droplet burning at a slightly increased oxygen concentration of 25% and the rest being nitrogen at 0.5 atm
+pressure. The visible ﬂame diameter initially increases with time and then it decreases until the
+droplet micro-explodes 26 seconds after ignition. Clearly, the increased ambient oxygen concentration moves the ﬂame closer to the droplet surface due to stoichiometric requirements at
+the ﬂame front and thus precludes the radiative extinction observed before. Visible ﬂame extinction in this case occurs at much smaller droplet size with a micro-explosion. The droplet moves
+outside the droplet-view camera ﬁeld of view toward the end of the burn. The calculated burning
+rate constant was 0.52 mm2 /s for the duration the droplet remained in the ﬁeld of view. It is also
+interesting to note that the radiative heat loss from the ﬂame is higher than the previous case due
+to the increased ﬂame temperature resulting from higher oxygen concentration.
+The effects of reducing the oxygen concentration on the burning behavior is displayed in
+Fig. 1c (R379). The initial droplet diameter for this test was 3.86 mm and ambient environment
+was made of 17%O2 and 83%N2 mixture at 0.5 atm. With the reduced oxygen concentration
+the overall radiative heat loss decreases due to reduced ﬂame temperature. However, radiative
+extinction occurs at 7 seconds due to increased ﬂame dimension at this lower ambient oxygen
+level. The burning rate constants for the ﬁrst and second stage combustion were 0.31 and 0.27
+mm2 /s, respectively. A further reduction in O2 concentration to 14% leads to similar behavior
+as shown in Fig. 1d (R383). The reduced oxygen concentration also leads to earlier extinctions
+in both hot and cool ﬂame regime and the K values for these two regimes were 0.29 and 0.25
+mm2 /s, respectively. In general it can be summarized based on the results presented in Fig. 1
+that reducing the ambient oxygen concentration leads to earlier hot and cool ﬂame extinctions.
+4
+
+45
+
+R298
+
+13
+
+40
+
+9
+
+25
+
+7
+
+20
+15
+
+10xQr
+
+5
+
+25
+
+8
+
+0
+
+5
+
+10
+
+15
+20
+Time (s)
+
+25
+
+30
+
+10
+
+2xQr
+
+0
+
+35
+
+16
+
+15
+
+2
+
+0
+
+1
+
+20
+
+10xQr
+6
+
+5
+
+(a)
+
+30
+
+4
+
+10
+
+2xQr
+
+3
+
+35
+
+10
+D2 (mm2)
+
+30
+
+5
+
+(b)
+
+0
+
+0
+
+5
+
+10
+
+15
+Time (s)
+
+20
+
+25
+
+R707
+30
+
+14
+
+10
+15
+8
+
+10
+10xQr
+
+5.5
+10
+5
+5
+
+10xQr
+
+4.5
+(d)
+
+4
+
+0
+0
+
+15
+
+2xQr
+
+5
+
+(c)
+
+20
+
+6
+
+D2 (mm2)
+
+20
+
+Df (mm), Qr (W)
+
+D2 (mm2)
+
+6.5
+
+25
+
+12
+
+6
+
+25
+
+7
+
+35
+R698
+
+2xQr
+
+40
+
+12
+Df (mm), Qr (W)
+
+35
+
+11
+D2 (mm2)
+
+14
+
+45
+
+R694
+
+5
+
+10
+
+0
+
+4
+
+15
+
+0
+
+Time (s)
+
+1
+
+2
+Time (s)
+
+3
+
+4
+
+Figure 2: Droplet diameter squared versus time for an n-octane droplets burning at 1 atm pressure: O2 /He/N2 molar fractions are (a)R298 (0.21/0.0/0.79), (b)R694 (0.21/0.15/0.64), (c)R698
+(0.21/0.50/0.29), and (d) R707 (0.21/0.75/0.04).
+
+When the oxygen concentration is sufﬁciently high radiative extinction is avoided and visible
+ﬂame extinction occurs at a much smaller droplet size either by micro-explosion of the droplet
+or by diffusive extinction.
+3.2
+
+N-octane Results
+
+The burning characteristics of four different n-octane droplets burning in oxygen/helium/nitrogen mixtures at one atmospheric pressure are shown in Fig. 2. In these tests the helium dilution
+is gradually increased at expense of nitrogen while the oxygen mole fraction is held constant at
+0.21. Test R298 results shown in Fig. (2a) corresponds to a droplet with D0 = 3.6 mm burning in
+air (O2 :N2 = 0.21:0.79) with no helium dilution. Both hot-ﬂame and cool-ﬂame burning modes
+were found to exist with the respective burning rates of 0.48 and 0.38 mm2 /s. Prior to extinction
+the visible ﬂame showed an oscillatory instability where the ﬂame develops a hole which opened
+and closed quickly before complete ﬂame extinction. This ﬂame oscillation is clearly captured
+by the broadband radiometer output. The Df values obtained by ﬁtting a circle to the UV-image
+of the droplet and calculating an effective ﬂame diameter from the area of the circle is unable to
+5
+
+Qr (W)
+
+15
+
+16
+
+Df (mm), Qr (W)
+
+50
+
+45
+
+16
+14
+
+40
+
+12
+
+D2 (mm2)
+
+8
+
+30
+
+6
+
+Df (mm)
+
+35
+
+10
+
+25
+
+4
+20
+
+2
+
+15
+
+0
+0
+
+10
+
+20
+Time(s)
+
+30
+
+40
+
+Figure 3: N-heptane droplets burning in oxygen/carbon dioxide/nitrogen environments showing
+cool-ﬂame second stage quasi-steady combustion and extinction.
+
+faithfully capture this oscillation. The second stage extinction was not recorded by the dropletview camera because the droplet drifted out of the ﬁeld of view. However, the radiometers with
+their larger ﬁeld of view were able to capture cool ﬂame extinction occurring at 30.5 seconds.
+In test R694 shown Fig. (2b) 15% helium by volume is added at the expense of nitrogen to the
+ambient gas mixture and D0 was 3.37 mm, slightly smaller than R298. The ﬁrst and second stage
+burning rates are now 0.54 and 0.43 mm2 /s, respectively, which is slightly higher than R298 due
+to increased thermal conductivity of helium compared to nitrogen. The overall radiative heat
+losses from the ﬂames are similar in both cases though helium dilution decreases the ﬂame
+temperature and reduces the peak radiative heat loss rate for test R694. However, the burning
+times in both stages have been considerably shortened by the addition of helium as predicted in
+[4]. Helium dilution level is further increased to 50% by volume in test R698 which had D0 =
+3.6 mm. The ﬁrst and ﬁrst and second stage burning rate constants were 0.63 and 0.53 mm2 /s,
+respectively. When helium dilution was increased to 75% by volume in test R707 for D0 of 2.49
+mm ﬁrst stage burning is almost eliminated (see, Fig. (2d)). The hot ﬂame that formed during the
+ignition dies within a fraction of a second and the cool ﬂame burning commences immediately
+which also ends quickly leaving the droplet to evaporate. The high thermal conductivity of
+helium leads to large heat loss from the ﬂame zone and as a consequence the ﬂame temperature
+rapidly decreases leading to cool ﬂame extinction. The entire process was transient and quasisteady burning was not achieved.
+3.3
+
+N-heptane Results
+
+Detailed results for n-heptane droplets burning in oxygen/carbon dioxide/nitrogen mixtures
+were presented earlier [3]. We summarize those results here for the sake of completeness. Figure
+
+6
+
+3 shows three typical free-ﬂoated cases, corresponding to ambient gas mixtures of 21% oxygen
+79% nitrogen, 18% oxygen 82% nitrogen, and 18% oxygen 67% nitrogen 15% carbon dioxide,
+all by volume, at one atmospheric pressure. The initial diameters for these cases respectively
+were 3.91, 3.48, and 2.49 mm. All three cases exhibit radiative extinction followed by cool
+ﬂame combustion and the second stage extinction leading to pure vaporization. The cool ﬂame
+extinction diameters for all the three alkanes fuels are further discussed in the following section.
+3.4
+
+Cool ﬂame extinction
+
+Even though the cool ﬂame phenomenon has been extensively studied in the past, the primary
+focus has been toward understanding the ignition characteristics of hydrocarbon fuels rather than
+the extinction process encountered during droplet combustion. However, since both ignition and
+extinction of a ﬂame are controlled by the underlying chemical kinetic mechanisms there has
+to be certain similarities between them. It has been shown using computations with detailed
+chemistry [7] that the ignition delay times for stoichiometric n-alkanes burning in air with carbon
+numbers in the range from 7 to 16 remain almost identical, a result that has ample experimental
+support. Therefore, one could expect such similarities in diffusion ﬂame extinction in the low
+temperature regime as well. To test such a hypothesis, guided by a preliminary theoretical study
+that assumes constant thermophysical properties, we plot the cool ﬂame extinction diameter as a
+function of oxygen molar concentration, CO2 , in Fig. 4a. The data points are restricted to O2 /N2
+mixtures only because of the need to keep the gas-phase thermophysical properties as constant
+as possible, to conform with the theory. Figure 4a shows the cool ﬂame extinction diameter
+Dce plotted against oxygen molar concentration along with a line that has a slope of -3/4, as
+suggested by the theory.
+The basis of this choice for plotting the data arises from rough ideas about the NTC chemistry. The heptyl radical R can react in two differen ways. It can be attacked by radicals or
+decompose unimolecularly, in either event with an effective unimolecular rate constant having
+an activation energy around 120 kJ/mol, leading to the high temperature path, or an oxygen
+molecule can be added to R to form the ROO radical, with effectively zero activation energy,
+leading to the low temperature chemistry. The NTC region is centered where these two rates
+are equal, meaning that there is a crossover temperature for NTC that changes with the oxygen
+concentration in such a way that the oxygen concentration at crossover varies with the crossover
+temperature in an Arrhenius manner with an effective activation energy of about 120 kJ/mol.
+The low-temperature path is known to proceed to form ketohydroperoxides, the unimolecular
+decomposition of which, with an activation energy of about 180 kJ/mol, provides the branching
+that carries the low temperature ignition chemistry. The low temperature diffusion ﬂame is stable
+only in the NTC region, and so extinction occurs at a droplet diameter where the low temperature
+branching rate becomes comparable with the consumption rate of R. This means that the characteristic chemical time at extinction corresponds to a reaction rate with an activation energy of
+about 180 kJ/mol, at about the crossover temperature. The corresponding chemical time therefore decreases with increasing oxygen concentration roughly as the oxygen concentration raised
+to the power -180/120=-3/2. In droplet burning, the square of the diameter decrease linearly
+with time, whence the observed extinction diameter should be approximately proportional to the
+oxygen concentration raised to the power -3/4.
+The prediction of this simpliﬁed theory seems to be in reasonable agreement with the experiments, within the scatter of the data, in Fig. 4a. This type of comparison, however, is not
+appropriate when the data with different inert diluents are addressed because they introduce different diffusivities that lead to different burning rate constants. The replacement of nitrogen with
+7
+
+0.100
+
+100
+
+Dce2/Kc
+
+Dce (cm)
+
+10
+
+0.010
+n-heptane
+
+1
+n-heptane
+
+n-octane
+
+n-octane
+
+n-decane
+
+n-decane
+
+0.1
+
+0.001
+2x10
+
+-6
+
+O2 (mol/cm3)
+
+2x10
+
+-5
+
+2x10
+
+-6
+
+O2 (mol/cm3)
+
+2x10
+
+-5
+
+Figure 4: Cool ﬂame extinction diameters as a function of ambient oxygen molar concentration
+for n-alkane droplets: (a) O2 /N2 environments, and (b) diluent substituted environments.
+
+carbon dioxide or helium increases the heat loss from the ﬂame zone, carbon dioxide through its
+radiative participation [4, 8], and helium through its high thermal conduction [4]. Furthermore,
+the heat transfer back to the fuel droplet is also altered by diluent replacement, and consequently
+the droplet burning rates. The increased heat loss from the ﬂame zone leads to a reduction in the
+ﬂame temperature. Since the thermal conductivity of CO2 is close to that of N2 , the reduction
+in ﬂame temperature leads to a reduction in burning rate for CO2 dilution. On the other hand,
+helium thermal conductivity is almost 10 times that of nitrogen and when helium is substituted
+for nitrogen the increased thermal conductivity increases the heat feed back to the droplet and
+increases the burning rate even though the ﬂame temperature is reduced. The interactions of thermally participating diluent gases with the overall process of cool ﬂame extinction is complicated
+and even simpliﬁed theoretical descriptions of this problem are not yet available.
+To account in an approximate way for these effects, It is useful to employ the experimental
+burning rate constants Kc to construct a time scale from the observed extinction diameters. In
+this way, the inﬂuences of the different diffusivities of the different diluents are reduced. Following this concept, we plot the residence time at extinction obtained from the experimental
+measurements, namely D2 /Kc , against a chemical time which is proportional to CO2 in Figure
+ce
+4b. The data points include both carbon dioxide, and helium dilution cases, as well as O2 /N2
+mixture cases at different pressures. Remarkably the data are reasonably well correlated, considering the number of variables involved in the experiments, and, within the appreciable scatter,
+the results are in agreement with the theoretical slope of -3/2. In some sense this is not surprising
+because the cool ﬂame phenomenon takes place in a narrow temperature range, unlike the hot
+ﬂame, and the oxygen molar concentration by itself seems to sufﬁciently represent the variation
+of the chemical time. Ideally Kc should be replaced by an expression based on more detailed
+independent variables. At the present level of treatment, however, the results seem encouraging.
+
+4
+
+Concluding Remarks
+
+Experimental results for n-heptane, n-octane, and n-decane droplets burning in mixtures of
+oxygen/diluent/nitrogen mixtures at three different pressures are presented. It is shown that all
+three normal alkanes exhibit cool-ﬂame burning following radiative extinction of the hot ﬂame.
+8
+
+The cool ﬂame burning rates are slightly lower compared to the hot ﬂame rates. The cool ﬂame
+extinction diameters vary as oxygen molar concentration to the power -3/4 for oxygen/nitrogen
+mixture. When nitrogen is replaced by either helium or carbon dioxide the extinction diameter
+−3/4
+does not follow the CO2 trend. But, it is shown that the measured residence time D2 /Kc can
+ce
+be correlated against the oxygen molar concentration CO2 , which is proportional to the chemical
+time in the NTC region. Further theoretical investigation are needed to better understand the
+cool ﬂame extinction behavior and to quantify the inﬂuences of diluent gases which are currently
+underway.
+
+Acknowledgments
+The authors would like to thank the FLEX team members Profs. T.Avedisian, M.Y.Choi,
+T.Farouk, F.Dryer,and B. Shaw. This work was supported by the NASA Space Life and Physical
+Sciences Research and Applications Program and the International Space Station Program. Mr.
+J. Mark Hickman served as the project manager.
+
+References
+[1] Rolf D. Reitz. Directions in internal combustion engine research. Combustion and Flame,
+160(1):1 – 8, 2013.
+[2] Charles K Westbrook. Chemical kinetics of hydrocarbon ignition in practical combustion
+systems. Proceedings of the Combustion Institute, 28(2):1563–1577, 2000.
+[3] Vedha Nayagam, Daniel L. Dietrich, Paul V. Ferkul, Michael C. Hicks, and Forman A.
+Williams. Can cool ﬂames support quasi-steady alkane droplet burning? Combustion and
+Flame, 159(12):3583 – 3588, 2012.
+[4] Tanvir I. Farouk and Frederick L. Dryer. Isolated n-heptane droplet combustion in microgravity: “cool ﬂames” two-stage combustion. Combustion and Flame, 161(2):565 – 581,
+2014.
+[5] A. Cuoci, A. Frassoldati, T. Faravelli, and E. Ranzi. Cool ﬂames in droplet combustion.
+XXXVI Meeting of the Italian Section of the Combustion Institute, 2013.
+[6] D. L. Dietrich, P.V. Ferkul, V.M. Bryg, V. Nayagam, M.C. Hicks, F.A. Williams, F.L. Dryer,
+B.D. Shaw, M.Y. Choi, and C.T. Avedisian. Detailed results from the ﬂame extinguishment experiment (FLEX). Technical Publication NASA/TP-2013-216046, NASA, Glenn
+Research Center, Cleveland OH 44135, USA, 2013.
+[7] Charles K Westbrook, William J Pitz, Olivier Herbinet, Henry J Curran, and Emma J Silke.
+A comprehensive detailed chemical kinetic reaction mechanism for combustion of n-alkane
+hydrocarbons from n-octane to n-hexadecane. Combustion and Flame, 156(1):181–199,
+2009.
+[8] Justin Dzik, Vedha Nayagam, and Forman A Williams. Ignition and combustion of n-heptane
+droplets in carbon dioxide enriched environments. International Communications in Heat
+and Mass Transfer, 37(3):221–225, 2010.
+
+9
+

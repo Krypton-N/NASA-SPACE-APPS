@@ -1,0 +1,467 @@
+Sub Topic: Fire
+9th U. S. National Combustion Meeting
+Organized by the Central States Section of the Combustion Institute
+May 17-20, 2015
+Cincinnati, Ohio
+
+Concurrent flame growth, spread and extinction over composite
+fabric samples in low speed purely forced flow in microgravity
+Xiaoyang Zhao1,*, James S. T’ien1, Paul V. Ferkul2, Sandra L. Olson3
+1
+
+2
+
+Case Western Reserve University, Cleveland, OH 44106
+Universities Space Research Association, Cleveland, OH 44135
+3
+NASA Glenn Research Center, Cleveland, OH 44135
+*
+Corresponding Author Email: xiaoyang.zhao@case.edu
+
+Abstract: As a part of the NASA BASS and BASS-II experimental projects aboard the International
+Space Station, flame growth, spread and extinction over a composite cotton-fiberglass fabric blend
+(referred to as the SIBAL fabric) were studied in low-speed concurrent forced flows. The tests were
+conducted in a small flow duct within the Microgravity Science Glovebox. The fuel samples
+measured 1.2 and 2.2 cm wide and 10 cm long. Ambient oxygen was varied from 21% down to 16%
+and flow speed from 40 cm/s down to 1 cm/s. A small flame resulted at low flow, enabling us to
+observe the entire history of flame development including ignition, flame growth, steady spread (in
+some cases) and decay at the end of the sample. In addition, by decreasing flow velocity during
+some of the tests, low-speed flame quenching extinction limits were found as a function of oxygen
+percentage. The quenching speeds were found to be between 1 and 5 cm/s with higher speed in
+lower oxygen atmosphere. The shape of the quenching boundary supports the prediction by earlier
+theoretical models. These long duration microgravity experiments provide a rare opportunity for
+solid fuel combustion since microgravity time in ground-based facilities is generally not sufficient.
+This is the first time that a low-speed quenching boundary in concurrent spread is determined in a
+clean and unambiguous manner.
+Keywords: flame spread in forced flow, microgravity combustion, quenching extinction,
+flammability boundary, concurrent flow
+
+1. Introduction
+Flame spread and extinction over condensed fuels in a microgravity environment has been the
+subject of extensive theoretical and experimental studies due to the importance of fire safety in
+human space missions [1-4]. Compared with burning in normal gravity, diffusion flames in
+microgravity are not affected by buoyancy-induced flow, thus providing a chance to study the
+fundamental mechanism(s) of low speed flame quenching [5]. Transition from solid diffusion
+flame spreading to quenching extinction is a slow heat loss process characterized by a relative
+increase in the rates of radiative and conductive heat losses compared to the rate of heat generation
+[3]. Long duration microgravity time is desired for such studies, which in general cannot be
+achieved by ground-based facilities.
+Recently, NASA’s Burning and Suppression of Solids (BASS and BASS-II) project examined
+the burning and extinction characteristics of a variety of solid fuel samples aboard the International
+Space Station. Different thermally thin and thermally thick solid fuels were burned in concurrent,
+1
+
+Sub Topic: Fire
+opposed or stagnation flow configurations in a small flow duct. Each experimental run took tens
+of seconds to minutes, depending on the sample type and flow conditions. The challenge with thin
+solid samples in concurrent flow, compared with other configurations, is that flame spreads much
+faster, and flames can become quite long. Because of size limitations, the fuel sample is relatively
+short and so a concurrent spreading flame may not reach fully steady spread within the sample
+length. The transient ignition and flame growth process, however, provides a flame spread history
+that can be useful for the development of transient flame models [6]. In BASS-II, a nitrogen
+dilution scheme is used whereby the oxygen percentage in the Glovebox can be decreased to a
+preset value so that flame spread can be studied with oxygen percentage as an additional variable
+parameter [7]. This facilitates the determination of the oxygen-flow velocity flammability
+boundary of materials.
+In this paper, BASS and BASS-II results will be discussed in detail. Flame growth, spread and
+quenching extinction will be presented for a thin composite cotton-fiberglass fabric burning in
+various oxygen concentrations and concurrent flow speeds.
+2. Experimental
+All tests were conducted in a small flow duct (shown in Fig. 1) within the Microgravity Science
+Glovebox aboard the International Space Station. The sample used is a composite cotton-fiberglass
+fabric blend (75% cotton, 25% fiberglass). The thickness of the sample is about 0.32 mm with an
+area density 18.2 mg/cm2. The fabric is custom-made for a previous project SIBAL [8], hence it is
+referred to here as the SIBAL fabric. One major advantage of this fuel sample is the retention of
+sample structure integrity after the combustible (i.e. cotton cellulose) is consumed because of the
+fiberglass mesh. It does not crack or produce curly ash typically seen in pure cellulose samples
+such as paper or cloth. In addition to [8], experimental studies using SIBAL fabric can be found in
+[9, 10].
+(a)
+(b)
+
+Figure 1: Experimental setup. (a): small flow duct. (b): fuel sample, sample holder and igniter.
+
+In the experiment, SIBAL fuel samples of two different widths, 1.2 cm and 2.2 cm, were used.
+Both have exposed length of 10 cm. The samples were mounted in stainless steel sample holders.
+
+2
+
+Sub Topic: Fire
+The fuel sample mounted to the holder was placed in the small flow duct of cross-sectional size of
+7.6 cm 7.6 cm. The flow speed could be varied from 1 to 55 cm/s. The tests were conducted in
+ambient oxygen molar fraction of 16% to 21%. Ambient pressure was 1 atm. It should be noted
+that for a given test the oxygen concentration was fixed while the flow speed could be varied.
+A Kanthal™, 1 hot wire was used to ignite the fuel sample leading edge so that the flame can
+spread in a concurrent configuration. The flame growth process was recorded by two cameras. The
+side-view video camera provided edge-on images of the flat samples at standard video framing
+rates (29.97 frames per second). The top-view digital camera looked down on the top fuel surface
+and provided high resolution still images of the flame at a rate of about one image every 1.2
+seconds. When flow speed and oxygen concentration were low, the flame became very dim blue
+and was difficult to see in the side video camera. The top-view camera exposure times were long
+enough (1/8 s-1/4 s) to easily capture high quality flame images even for dim flames right before
+quenching. These still images provide a time history of flame quenching that can be used to
+compare with transient model results.
+3. Results and Discussion
+A total of 27 tests were carried out for the fabric samples in BASS-II, including 6 quenching
+tests, 3 non-ignited tests, and 1 blow-off test. These are listed in the table in the Appendix. In
+addition, four tests from the BASS series were selected as listed at the bottom of the Appendix.
+These four tests are all 21% O2 cases at a fixed flow velocity during each test. For those cases
+with flow velocity variations, the starting and the final velocities are indicated in the velocity
+column. The rate of velocity change varies from case to case depending on the communication
+between the astronauts and the ground crews and the manual adjustment time by the crew. Many
+of these tests were used to determine the low-speed quenching limits as a function of oxygen
+percentage. In some tests, the flame quenched quickly or was not ignited. These samples were
+reused in additional tests as indicated in the Appendix. These partially burned samples were ignited
+with a retractable igniter on one side of the sample at the fuel burnout position. These reused
+samples in general had a short unburned length and provided less quantitative data, thus will not
+be discussed in this paper.
+Figure 2 shows flame development stages of a 2.2 cm sample in 10 cm/s flow, 21% O2. Figure
+2(a) shows side-view flame tracking of flame tip, flame base, and flame length. Figure 2(b) shows
+flame edge view video still images at different stages. Note in the figure, flow is from right to left.
+After the igniter was turned on, a strong flame was initiated on both sides of the solid fuel. The
+flame was stabilized and started to grow and move downstream. At about 19s, the flame reached
+a limiting constant length and a steady spread rate relative to the laboratory [11]. This steady spread
+state lasted for around 9s. The flame images look almost identical during this stage, as can be seen
+at 20.17s and 24.83s in Fig. 2(b). Then the flame tip (or more precisely the flame preheating front)
+moved close to the end of the fuel sample, and the flame decayed in size until complete burnout.
+The whole combustion process took about 40s.
+
+1
+
+Mention of trade names or commercial products is for descriptive purposes only and does not constitute
+endorsement or recommendation for use by the U.S. Government.
+
+3
+
+Sub Topic: Fire
+
+(a)
+
+(b)
+
+Figure 2: Flame development on a 2.2 cm sample in 10 cm/s concurrent flow, 21% O2. (a): Sideview flame tracking. (b): Side-view image sequence. Flow is from right to left.
+Figure 3 shows flame development stages of a 2.2 cm sample in 5 cm/s flow, 21% O2. Unlike
+the flame in 10 cm/s flow in Fig. 2, the flame from the side-view video is very dim in this case.
+Figure 3 thus shows the top-view images and tracking from those images. Because the flow speed
+is lower, it took more than 60s to burn the whole sample. Steady spread time lasts for about 21s,
+much longer than the 10 cm/s flow case. Virtually identical images at 35.59s and 45.59s are shown
+in Fig. 3(b). In the top-view images, we can find bright spots behind the flame base when the flame
+passes. The spots come from the smoldering of a small amount of fuel that is not complete
+consumed by the flaming combustion. Compared with the 10 cm/s case, the 5 cm/s case has a
+shorter flame and spreads more slowly.
+
+(b)
+
+(a)
+
+4
+
+Sub Topic: Fire
+Figure 3: Flame development on 2.2 cm sample in 5 cm/s flow, 21% O2 (a): Top-view flame
+tracking. (b): Top-view image sequence. Flow is from right to left.
+Steady flame spread rates in different flow speeds and oxygen percentages are plotted in Fig. 4
+for both 2.2-cm and 1.2-cm samples. Note in some cases flow speed was varied during the test.
+Steady flame spread here means the flame reached a constant spread rate for more than 20s. Flames
+spread more slowly across the narrower samples, at lower flow velocities and at lower oxygen
+percentages.
+
+21%
+
+21%, 1.2-cm
+
+21%, 1.2-cm
+21%
+17.2%, 1.2-cm
+
+18.8%
+18.8%
+
+17.1%
+
+17.6% 16.9%
+
+Figure 4: Steady flame spread rate for both 2.2-cm and 1.2-cm wide samples.
+Figure 5 shows a typical flame quenching sequence in the BASS-II experiment. A 2.2 cm wide
+sample in 18.7% O2 was first ignited at 10 cm/s flow. Flow speed was decreased to 2.2 cm/s
+incrementally after ignition. Figure 6 shows flame tracking and flow speed vs. time. After ignition,
+the flame started to grow. As the flow speed was reduced both flame length and flame width
+dropped accordingly with flow. After 25s, flow velocity was reduced to 2.2 cm/s and held there
+for the remainder of the test. As shown in Fig. 5, both the flame length and flame width continued
+to decrease approaching a circular-shaped blue flame seen from the top. The size of the flame
+continues to shrink until extinction is reached. This is typical in a quenching extinction sequence.
+As the quenching limit is approached (in this case by turning down the flow velocity), the fuel
+pyrolysis rate and combustion Heat Release Rate (HRR) are reduced, and radiation loss becomes
+a significant fraction of the HRR from the shrinking the flame. When the flame becomes small
+enough, conduction becomes the additional heat loss. The post-burn photo of the sample in Fig. 5
+shows the narrowing of the burnt region as the flame shrinks toward extinction with a substantial
+part of the fuel left unburnt along the two sides of the sample holder. Although this is a
+concurrently spreading flame, the quenching sequence shows similar characteristics in opposed
+
+5
+
+Sub Topic: Fire
+flow [2]; the flame is becomes circular, indicating the importance of three-dimensional heat and
+mass transfer near the limit.
+
+Figure 5: Top-view of a flame quenching sequence. 2.2 cm wide sample in 18.7% O2. Ignited at
+10 cm/s flow, reduced to 2.2 cm/s. Flow is from right to left.
+
+Figure 6: Flame tracking and flow speed vs. time. 2.2 cm wide sample in 18.7% O2. Ignited at 10
+cm/s flow, reduced to 2.2 cm/s.
+
+6
+
+Sub Topic: Fire
+For this thin fabric fuel in concurrent flow, flame spread rate is relatively large and the sample
+is not long enough to fine tune the flow speed during the one to two minutes of experimental run
+time. It is difficult to get to the desired near-quenching-limit state every time. Six quenching
+cases were achieved during BASS-II for the SIBAL sample, four of them were for the 2.2-cm
+width samples. Along with the near-limit stable flame data, we were able to draw part of the
+quenching branch of the flammability boundary as shown in Fig. 7 for 2.2cm wide SIBAL fabric.
+Quenching flow velocities were found to be between 1 and 5 cm/s with higher velocity at lower
+oxygen percentage. This trend of the quenching boundary supports the prediction by earlier
+theoretical models [1, 8]. The bottom part of the flammability boundary that supports
+combustion in the lowest oxygen environment is expected to be flat in this figure and cannot be
+determined accurately by this velocity-varying procedure. Very near the boundary, ignition of
+the sample is sporadic. A procedure with gradually decreasing oxygen is needed. In addition,
+because of the limited number of tests, the quenching limit for the 1.2-cm wide sample was not
+resolved. But it can be seen that the narrow sample has a smaller flammable domain, as
+expected.
+
+Figure 7: Flammability map for SIBAL fabric in concurrent flow in microgravity. The dotted
+line marks the experimental quenching boundary for the 2.2cm wide sample.
+
+7
+
+Sub Topic: Fire
+4. Conclusions
+Concurrent flame growth and extinction over a thin flat cotton-fiberglass composite fabric
+sample was studied as part of the BASS and BASS-II space experiments aboard the International
+Space Station. These long duration microgravity experiments provided rare opportunities for solid
+fuel combustion studies. By reducing the flow velocity during the tests, quenching extinction limits
+were obtained accurately. The quenching velocities are small (between 1 and 5 cm/s), and an
+accurate determination is necessary to resolve the slope of the quenching boundary. The
+experimental data obtained supports earlier theoretical predictions (at least qualitatively) of solid
+flammability limits at low flow velocities due to radiative and conductive losses. The flame image
+sequence at quenching shows the flame shrinks both in length and width and the flame goes out in
+a three-dimensional manner.
+In addition to obtaining quenching limits, the sequence of sample ignition, flame growth, and
+steady spread to final decay across the entire sample in low-speed purely forced flows were
+experimentally recorded. These are precious data to help us to understand the entire process of
+flame development in microgravity. They also provide the basis to check the theoretical model
+development. Recently, a three-dimensional transient numerical model has been published [6] that
+is suitable to simulate the present experiment. The model contains many material properties
+including kinetic rate constants. Currently, we are measuring and deducing the pyrolysis rate
+constants for SIBAL fabric in order to perform quantitative comparisons between the model and
+experiment.
+5. Acknowledgements
+This research was funded by NASA.
+6. References
+[1] P. V. Ferkul; J. S. T'ien, Combust Sci Technol 99 (4-6) (1994) 345-370
+10.1080/00102209408935440.
+[2] S. L. Olson; P. V. Ferkul; J. S. T'ien, Symposium (International) on Combustion 22 (1)
+(1989) 1213-1222 http://dx.doi.org/10.1016/S0082-0784(89)80132-8.
+[3] J. S. T'ien; H.-Y. Shih; C.-B. Jiang; F. J. Miller; A. C. Fernandez-Pello; J. L. Torero; D.
+Walther, in: Microgravity Combustion - Fire in Free Fall, H. D. Ross, (Ed.) Academic Press:
+San Diego, CA, 2001; pp 299-345.
+[4] P. V. Ferkul; S. L. Olson; M. C. Johnston; J. S. T’ien, Flammability Aspects of Fabric in
+Opposed and Concurrent Air Flow in Microgravity, 8th U.S. National Combustion Meeting,
+Utah, 2013.
+[5] J. S. T'ien, Combust Flame 65 (1) (1986) 31-34
+[6] X. Zhao; J. S. T’ien, Combust Flame (in Press) (2015)
+http://dx.doi.org/10.1016/j.combustflame.2014.12.003.
+[7] S. L. Olson; P. V. Ferkul; S. Bhattacharjee; F. J. Miller; A. C. Fernandez-Pello; S. Link,
+Results from on-board CSA-CP and CDM Sensor Readings during the Burning and Suppression
+of Solids – II (BASS-II) Experiment in the Microgravity Science Glovebox (MSG), 45th
+International Conference on Environmental Systems, Bellevue, Washington, 2015.
+
+8
+
+Sub Topic: Fire
+[8] P. Ferkul; J. Kleinhenz; H.-Y. Shih; R. Pettegrew; K. Sacksteder; J. T’ien, MicrogravityScience and Technology 15 (2) (2004) 3-12
+[9] J. Kleinhenz; P. Ferkul; R. Pettegrew; K. R. Sacksteder; J. S. T'ien, Fire and materials 29 (1)
+(2005) 27-37
+[10] M. C. Johnston; J. S. T'ien; D. E. Muff; X. Zhao; S. L. Olson; P. V. Ferkul, Fire Safety
+Journal 71 (2015) 279-286
+[11] Y.-T. Tseng; J. S. T'ien, Journal of Heat Transfer 132 (9) (2010) 091201
+
+Appendix: Test summary of flat SIBAL fabrics in concurrent flow in BASS and BASS II
+Test No.
+
+Sample width
+(cm)
+
+Flow (cm/s)
+
+O2 % by Vol.
+
+GMT45-T1
+GMT45-T2
+GMT45-T4
+GMT45-T15
+GMT100-T5
+GMT100-T6
+GMT100-T13
+GMT100-T16
+GMT175-T9
+GMT175-T10
+GMT175-T18
+GMT178-T11
+GMT178-T12
+GMT178-T14
+GMT178-T17
+GMT190-T19
+GMT190-T20
+GMT190-T21
+GMT190-T22
+
+2.2
+2.2
+2.2
+2.2
+2.2
+2.2
+2.2
+2.2
+2.2
+2.2
+2.2
+2.2
+2.2
+2.2
+2.2
+1.2
+1.2
+1.2
+1.2
+
+10
+10 5
+10 2.2
+10 29
+10 2.4
+4.5 2.6
+4 2.2
+4 3
+10
+5
+5 2.6
+4
+5
+4 2.8
+6 53
+11
+11 3
+11 47
+10.5 5
+
+18.5*
+18.5*
+18.7
+18.7
+18.8
+18.8
+17.5
+17.6
+16.4
+16.4
+17.4
+17.1
+16.8
+16.9
+16.9
+17.2
+17.2
+17.2
+17.1
+
+GMT190-T23
+GMT190-T24
+GMT216-T25
+GMT216-T26
+GMT216-T27
+GMT216-T28a
+GMT216-T28b
+GMT216-T29
+
+2.2
+2.2
+2.2
+2.2
+1.2
+1.2
+1.2
+1.2
+
+10
+10
+5 2.5
+5 2.5
+5 2
+5
+5
+5 2
+
+17.2
+18.2
+20.8
+20.8
+20.7
+20.7
+20.7
+20.7
+
+Reused, did not ignite
+Reused, one sided flame
+Reused, ignited
+Reused, ignited
+Reused, ignited
+Reused, did not ignite
+Reused, did not ignite
+Reused, ignited
+
+GMT96-T8
+GMT96-T7
+GMT131-T10
+GMT222-T11
+
+2.2
+2.2
+1.2
+1.2
+
+5
+10
+11
+19
+
+21
+21
+21
+21
+
+BASS
+BASS
+BASS
+BASS
+
+*O2 reading in these two tests might be inaccurate.
+
+9
+
+Comments
+
+Quenched
+No Blow-off
+
+Quenched
+No ignition
+No ignition
+Quenched
+No ignition
+Quenched
+No Blow-off
+Quenched
+Blow-off
+Quenched
+

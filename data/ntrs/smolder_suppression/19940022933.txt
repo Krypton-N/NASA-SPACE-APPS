@@ -1,0 +1,1127 @@
+NASA
+
+Technical
+
+Risks
+space
+
+Memoran_d_um
+
+andissues
+
+106430
+
+m'-Fire Safety on the
+
+Station
+
+Robert Friedman
+Lewis Research Center
+Cleveland,
+Ohio
+
+Prepared for the
+Probabilistic
+Safety
+
+and Management
+
+Conference
+
+sponsored by the Society for Risk Analysis
+San Diego, California,
+March 21-25, 1994
+
+_=_
+
+(NASA-TM-I06430)
+IN FIRE
+SAFETY
+(NASA)
+
+8
+
+ON
+
+RISKS
+AND
+THE
+SPACE
+
+ISSUES
+STATION
+
+N94-27436
+
+p
+Unclas
+
+G3116
+
+iK
+
+0000332
+
+RISKS AND ISSUES IN FIRE SAFETY ON THE SPACE STATION
+
+Robert
+Space Experiments Division
+NASA Lewis Research Center
+Cleveland, Ohio 44135
+
+INTRODUCTION
+A fire in the inhabited portion of a spacccr_ is a greatty feared hazard, but fire protection in space operations is complicated by two factors. Rrst, the spacecr_ cabin is an
+enclo.sed volume, which limits the resources for fire fighting and the options for crew
+escape. Second, an orbiting spacecraft experiences a balance of forces, creating a near-zerogravity (microgravity) environment that profoundly affects the characteristics of fire initiation, spread, and suppression.
+The current Shuttle Orbiter is protected by a fire-detection and suppression system
+whose requirements are derived of necessity fzom accepted terre.strial nd aircraft standards.
+a
+While experience has shown that Shuttle fire safety is adequate, designers recognize that
+improved systems to respond specifically to microgravity fire characteristics are highly desirable. Innovative technology is parti_larly advisable for the Space Station, a forthcoming
+space community with a complex configuration and long-duration orbital missions, in which
+the effectiveness of current fire-protection systems is unpredictable.
+This paper briefly reviews the development of risk assessments to evaluate the probabi]ides and consequences f fire incidentsin spacecraft. It further discusses h=portant
+o
+the
+unresolvedissuesand needsfor improvedfire safetyin the SpaceStation, includingthose
+of material selection,spacecraftatmospheres, detection,fire suppression, post-fire
+fire
+and
+restoration.
+
+RISK ASSESSMENTS
+
+FOR SPACECRAFT
+
+Historical Development
+Space systems are wadifionatlyassociated
+with the qualifies of high reliabx_ity and
+safety. For misdons prior to the present Shuttle, safety assessments were thorough but qualitative, based on analyses such as failure modes and effects.: Pos._'blereasons for the slowness to adopt quantitative methods include the doubt that the involved calculations are the
+best use of scarce labor and computer resources and the fear that quantitative methods offer
+
+theappearance
+of knowledge knowledge not
+where
+does
+
+exist (F. Fendell, TRW, personal
+communication, Nov. 1991). Recently, however, interest has arisen, counter to the earlier
+skepticism, in the application of limited-scope probabilistic risk assessments (PRA) to spacecraft.3 In the past year, NASA has announced that a PRA will be conducted on the Shuttle
+systems to determine _ priorities and potential safety improvements?
+Fire Hazards and the Space Station
+Previous space-field risk assessments usually had cursory txeaunents of fire hazards
+because of a belief that the probability of an internal fire is slight. Strict acceptance testing
+for onboard material selection ensmed that very few, isolated flammable articles enter the
+spacecraft. In addition, experimental tests conducted under quiescent, low-gravity conditions
+in the Skylab space station indicated that fires spread very slowly in microgravity. 5 These
+assumptions are now shown to be optimistic even for the Shuttle, and they are certainly
+challenged by the increased fire-sdety s_sses anticipated in the operation of the Space
+Station. An initial safety review of the Space Station concept identified fire as a significant
+hazatd among the major threats to the well-being of the station? In the cited, comprehensive study, four approaches to fire-flxreat reduction were proposed: design to preclude (fire
+prevention), design to control (flammable isolation), protective devices (fire detection and
+suppression systems), and i_k definition (minimum acceptance standards). For the risk
+definition, an optimization of risk, cost, and benefits established a realistic safety goal of a
+residual fire hazard that causes no injuries nor damage sufficient to suspend operations.
+The maturity of the designs for the Space Station now warrants additional quantitative
+risk assessments. A study by Fuller and Halverson (cited by Kaplan_), though only partially
+completed, examined the consequences of six fire-initiation scenarios: electrical shorts/overloads, water-electrolysis unit failures, oxygen leaks, chemical reactions, payload-experiment
+failures, and improper crew or ground-control actions. A second independent study, still in
+progress, utilizes a PRA approach to calculate event probabilities andprocess times from initiating scenarios (wire overheating, for example) through threats (heat, smoke, and toxins)
+to alleviating responses (extinguishment). ! The study is the first to include microgravity fire
+experiments to provide information on fire characteristics, emissions, and time constants for
+validation of the resulting risk assessment.
+Operational Experience
+Minor breakdowns in human-crew space missions that could progress into fires are by
+no means rare. In Shuttle missions, documented anomalies include five "incidents", at least
+six smoke detector false alarms, and at least five smoke detector built-in-_st failures? Thus,
+in 7969 hours of elapsed Shuttle mission time (data to October 1992), incidents have occurred on the average of once every 1600 hr of mission time. In the reported incidents, listed
+in Table 1, the crew saw smoke and embers in the STS-28 mission and detected odors in
+the other missions, l°'n All incidents were subsequently identified as thermodegradation
+events caused by failures of wires or electrical componen_ None caused a smoke alarm
+to actuate. On STS-28, instrumentation did indicate a rise in smoke concentration, but the
+maximum concentration was below the pr_c_M
+alarm _point.
+The cited incidents never
+spread beyond the breakdown source, most likely a credit to the Shuttle material conu'ols
+and the prompt circuit-isolating response of the crew.
+One may plausibly predict the same rate of fire-precursor incidents on the Space Station. One may also predict that the crew will be able to isolate the breakdown source initially, with further control through fire-extinguisher use, ff this becomes necessary. Space
+Station fire protection is complicated, however, by the possibility of an incident occurring
+in an untended period, for example, between the assembly missions. The untended station
+
+Table
+
+L
+
+Mission
+
+Shuttle
+
+l_re.Risk
+
+Experience.
+
+Date
+
+Incident
+
+STS-6
+
+Apr. 1983
+
+Wires fused near matedal p,vcessing
+unit; crew detected an odor
+
+No almospherk
+conmmin_on
+measured
+
+No alarm
+
+STS-28
+
+Ang. 1989
+
+Cablcstminatccmneam'toleleprin_
+earned insulation faihee and elecuical
+short ckvui_ crew deaeaed a few
+embers and +smpke
+
+Smoke and particle
+commtration
+reoorded
+
+_
+breaker did
+not open; no alarm
+
+STS-35
+
+Dec. 1990
+
+_
+
+No aunosph¢_
+contamination
+measured
+
+No alarm
+
+STS-40
+
+June 1991
+
+Refrigea'atm-fieezer failed;Annospheric
+fanmotor
+concrewnoted
+aninitating
+odor
+rumination
+idmtifled lX_-flight
+
+No alarm
+
+STS-50
+
+June1992
+
+Ekct_nic
+capacitor
+innegative
+body No ammsphc=ic
+ptesmre
+aplmmUsfailed;
+crewdetec- contamination
+tedanodor
+measured
+
+No alarm
+
+resistor in digi_ display
+crew &mcmd an odin
+
+Result
+
+Response
+
+safety
+systems willbc monitoredremotelyby the ground crews;and,upon an alarm,the
+operators
+willinitiate
+theautomatedresponsecycleof electrical-power
+shutdown and suppressantrelease the affected
+in
+zone. Since this
+isthe only optioneven for theprobable
+minor,non-fire ncidents, alarmin an untendedperiodmay unnecessarily
+i
+an
+waste suppressantresources
+and possibly
+damage components.
+
+KEY ISSUES
+
+IN SPACECRAFT
+
+FIRE SAFETY
+
+Material Flammability Criteria
+Pioneering teats conducted on the 1974 Skylab space station showed that, for typical
+spacecraft materials in normal gravity where vigorous, buoyancy-induced
+convective flows
+are always present, flame-spread rates are 1.5 to 10 times greater than those in quiescent,
+microgravity conditions. 5 The flame-spread
+rate in microgravity, however, has been shown
+to increase with forced-air flows (ventilation).
+For example, representative flame-spread
+rates for thin-paper samples determined
+in _ents
+conducted at the NASA Lewis
+Research Center ground-based facilities are 1.1 cm/s in normal gravity, 0.5 cm/s in quiescent
+mi_ogravity
+conditions, and 1.0 cm/s in forced-flow
+microgravity. =m3 The latter ratewas
+attained ith a 6 cntts
+w
+atmospheric
+flow opposed totheflame spreaddirection a minimal
+-ventilation
+velocity.
+Similarly,
+thelimitingxygen concentration,
+o
+orthelowestatmospheric
+content in which flames will spread, was 16.5% in normal gravity, 21% in quiescent microgravity, and 16% in forced-flow microgravity.
+As a practical necessity, materials for use in spacecraft must be qualified by normalgravity acceptance tests. A standard NASA test for sheet materials determines the resistance
+to the upward spread of flame (NASA NHB 8060.1C, Upward Flammability Test). The
+buoyant air flow in the direction of the flame spread provides a "worst-case"
+environment
+
+innormal
+gravity nd
+a anassumed factororrnicrogravity
+safety
+f
+applications.
+Arecent
+study
+suggests
+possible
+improvements
+inthestandard toaidflammability
+test
+predictions,"
+butno
+study
+asyetderivesorrelationsnormal-gravity
+c
+of
+tocorresponding
+microgravity
+flammability. In addition,
+common articles of paper, fabric, and plastics that are clearly flammable
+must be accepted in spacecraft for lack of suitable substitutes. Usage agreements for these
+articles
+demand strict
+conlrol
+ofquantity,
+configuration,
+spacing, nd storage.
+a
+Whether these
+special
+provisions
+can be continuously
+enforcedduringthe long-durationissionsof the
+m
+Space Station
+isa concernforsafety
+planning.
+Spacecraft
+
+Atmosphere
+
+The aunosphere of the Shuttle Orbiter and the proposed Space Station consists of air
+at ordinary sea-level total pressure and oxygen concenwation
+(21 vol%). Prior to an extravehicular activity (EVA), the aunospheve is modified by removing some of the nitrogen but
+not the oxygen.
+This change decreases the total pressure, but it also increases the oxygen
+concenwation
+to a maximum of 30 vol%. The modified.atmosphere
+permits the crew to
+acclimate rapidly in low-pressore space suits without the need for prolonged prebreathing
+times to reduce blood nilrogen
+levels
+and preventdecompressionsickness.
+An increased
+conccnwationof oxygen in theatmosphere can acceleratelammability
+f
+considerably
+and promote flame spreadfor some materials
+otherwise"non-flammable"in
+air.A review of 766 selected
+materials ith acceptable lame-spread
+w
+f
+resistanceinnormal
+(
+gravity)
+under airshowed only 654 had acceptable ire-spread
+f
+resistance
+under an enriched
+30%-02 atmosphere.
+I#The NASA Lewis studies
+cited
+intheprevioussection
+alsonoted the
+slzonginfluence f atmospheric
+o
+oxygen on flame-spreadates microgravity.or example,
+r
+in
+F
+data for thin paper show that the flame-spread
+rate is increased by a factor of approximately
+1.7 in the EVA 30-vo1%-O2 atmosphere compared to that in air. n'_2
+In contrast to the hazards of increased-oxygen-concentration
+amtospherea, aunospheres
+with reduced-oxygen
+concentrations
+have been shown to offer both life-support
+and fireprotection advantages. _e In particular, a reduced-oxygen
+(or excess-nltrogen)
+atmosphere in
+the untended periods of the Space Station would essentially eliminate the probability of incipient fires requiring the automatic discharge
+of extinguishant.
+A systems analysis must
+determine the trade-off of the costs of aunospheric nitrogen loss and replenishment prior to
+each crew revisit to the savings in reducing the likelihood of untended-period
+alarms and
+their was_ful consequences.
+Fire Detection
+The fire-detection system under consideration
+for the Space Station consists of photoelectric smoke detectors installed to monitor local zones. The sensors use a conventional
+principle
+based on the responseto theobscumtion or scattering a light
+of
+beam by smoke
+particles
+intheatmosphereflowingthrougha samplingduct.Iv
+Ground-based,smoke-chamber development tests
+have establishedn alarm setpoint f 1.5%/m light
+a
+o
+obscuration
+for
+early warning of incipient fires and smoldering.
+Whether this setpoint is suitable for rapid
+recognition of fire "signatures" rnicrogravity
+in
+isnot known. Small-scaleest
+t
+datado indicate that
+the averagesizeand concentrationf smoke particles
+o
+from microgravity
+fires ay
+m
+vary considerably
+fzom those of normal-gravity fn'es, m The obvious safety factor in setting
+the alarm threshold at a low smoke concenwafion can cause more frequent false alarms from
+detector electronic noise or benign atmospheric pollutants (dusts).
+Other detection-system
+requirements, such as alarm-confirmation and failure-tolerance
+criteria, and even the zone
+volume specification
+for an optimum number and location of sensors in the station, are not
+yet established with any confidence.
+
+4
+
+Fire Suppression
+Proposed fire suppression for the Space Station consists of a primary f_xed system for
+remotely actuated discharge of carbon dioxide agent and a secondaxy system of portable
+carbon dioxide fire extinguishers. Storage quantities and release rates are sized to achieve
+a zone flooding concentration of 50 vol% COs, a level based on terrestrial standards and
+developmental-test results. The Space Station suppression system has a single-failure tolerance; i.e., the primary system is backed by the portable fire extinguishers. In the untended
+periods, however, the only alternative upon failure of the primary suppression system is in
+the remotely actuated venting of the spacecraft atmosphere to space. The extinguishment
+of fires by venting to a sufficiently low total pressure has been demonstrated in small-scale
+microgravity tests,s.11 The flow created by venting, however, was shown to stimulate the
+growth of the microgravity fire temporarily,n
+Analyses suggest that the mechanisms and rates of fire suppression in low gravity may
+differ substantially from those in te_estrial environments. _9 Until more data are available,
+conservative requirements must govern the spacecraft designs. It is thus possible that the
+proposed Space Station suppressant concentrations may be insufficient for effective rapid
+extinguishment or, on the contrary, excessive and wasteful.
+Post-Hre Restoration
+The proposed concentrations of carbon dioxide for suppression by flooding the unsealed
+racks or other zones can produce toxic concentrations through leakage into the Space Station
+cabin atmosphere. The prompt removal of excess agent and combustion products from the
+spacecraft atmosphere during and after a fire is beyond the standard capabilities of the environmental-control system. Localized venting or dedicated emergency contaminant-removal
+sy_ms are under study, but these methods require more development. The long-term, subtle effects of toxic and corrosive fire by-products on both the crew health and equipment
+performance must also be considered in post-fire management.
+
+CONCLUDING
+
+REMARKS CONCERNING DESIGN AND RESEARCH
+
+The Space Station is now undergoing an extensive resmicturing in design and operalions, although it is unlikely that the basic requirements for fire protection will change. F'Lre
+prevention, detection, and suppression provisions for current spacecraft and the Space Station
+are adapted from accepted practices in terrestrial fire safety. Shuttle experience indicates
+that current fire protection is adequate. Nevertheless, the uncertainties in the nature of fires
+and the effectiveness of response techniques in microgravity require that system designs be
+conservative with high safety factors. Quantitative risk assessments in progress to evaluate
+the probabilities and consequences of fire-related incidents promise results to define practical
+safety levels and improve system efficiency. For successful analyses, a primary need is
+information on the correlation of normal-gravity acceptance-test data to realistic material
+flammability and flame-spread rates in low gravity. The current small-scale tests in ventilated, microgravity environments are to be augmented with practical experiments on repre_ntative, thick material sections (requiring Shuttle accommodations). Other needs are data to
+optimize fire-detection alarm setpoints and minimum suppressant concentration and flow
+rates, to establish alarm confirmation and false-alarm rejection logic, to provide failuretolerance alternatives for untended periods, and to develop post-fire cleanup techniques.
+
+SUlVIMARY
+
+The unique, low-gravity eavironmem
+in orbiting spacecraft greatly influences
+the
+processes of fire initiation, spread, and suppression.
+For efficient and improved fire-safety
+management in future spacecraft, risk assessments
+are required that incorporate specific
+information on spacecraft material selection, spacecraft atmospheres,
+rue detection, fire suppression, and post-fire restoration.
+
+REFERENCF_
+1. It. Friedman and S.L. Olson, Fxre safety app_caffo_
+AGARD Conf. Publ. 467:15-1 (Oct. 1989).
+
+for spacecraft, in: "Aircr_ FJxe Safety,"
+
+2. G.A. Rodney, HASA's post-Challenger safety program: themes and lhtusts, IAF Paper IAA
+88-510 (Oct. 1988).
+3. BJ. Gamc.k, The approach to risk analysis in three industries: nuclear power, space systems,
+and chemical process, in: "Risk Management--Expandiug Horizons in Nuclear Power and
+Other Induslzies," R.A. Knief, ed., Hemisphere, New York, 173 (1991).
+4. B. Buchbinder, Risk management for the space explorative iniliative, AIAA Paper 930377
+(Jan. 1993).
+5. JJ-l. Kim_y, Skylab experiment M479 zero-gravity flammability,/n: "Skylab Results,"'Proc.
+Third Space Processing Syrup., NASA MSFC M-74-5, 1:115 (June 1974); also NASA
+TM X-70252.
+6. R.L. Pee_,
+Jr. and R.F. Raasch, "I'me_-slrategy technique: a system safety tool for advanced
+design, Jour. Spacecraft & Rockets, 23:200 (1986).
+7. S. Kaplan, Safety risk assessment on the Space Station
+Freedom, AIAA Paper 90-3771
+(Sept.
+1990).
+8, T. Paulos, IL Paxton, S. Jones, F. Issacci, I. Cation, and G. _lakis,
+Risk-_
+spacecraft fire-safety experiment, AIAA Paper 93-1153 (Feb. 1993).
+9. 1".Limero, S. Wtlson, S. Perlot, and L James, "Feerole of environmental health system air
+quality monitors in space station contingency operations, SAE Tech. Paper 921414
+(July 1992).
+10. T. IAmero, J.T. James, R. Cxomer, and S. Beck, A c_xnbustion products analyzer for confinuse during thermodegradation events on spacecra_ ShE Tech. Paper 911479
+(July 1991).
+11. R. Friedman and DI.. Urban, ContrilxRion of micmgravity test results to the design of spacecraft fire-safety systems, AIAA Paper 93-1152 (Feb. 1993).
+12. S.L. Olson, The effect of microgravity on flame spread over a thin fuel, NASA 'I'M 100195
+(Dec. 1987).
+13. S.L. Ols_ Mechanisms of microgravity flame spread over a thin soliduel: oxygen and
+f
+opposed flow effects, Comb. $ci. Technol, 76:233 (1991).
+14. TJ. Ohlemiller and ILM. Villa, Material flammability test assessment for Space Station Freedora, NISrIR 4591, NASA (_ 187115 (June 1991).
+15. C. Jones, K. Simpson, B. Vickers, P. Ledoux, and I-LBabel, Material considerations for habitable areas of manned spafecratL/n
+"S_
+Suttclttw.s and Mechanical Testing,"
+ESA
+SP-321,1:37(Oct.1991).
+16. DR. Knight, Medical guidelines for protecting ct_ws with flame-suppressant atmospheres,
+SAE Tech. Paper 891598 (July 1989).
+17. S. Fuhs, O. Buchmann, R. Hu, J. McLin, and M. Anns_ng, Development of the fire detection system for Space Station Freedom, SAE Tech Paper 921152 (July 1992).
+18. M. Paul, F. Issacci, L Cation, and G. Apostolakis, The morphological description of particles
+generated fium overheated wire insulation in micmgravity, paper presented at:. ASME 29th
+Natl. Heat Transf. Conf. (Aug. 1993).
+19. JJ. Re,uther, Definition of experiments to investigate fire suppressants in microgravity, NASA
+CR 185295 (Dec. 1990).
+
+6
+
+REPORT
+
+DOCUMENTATION
+
+Form Approved
+OMB No. 0704-0188
+
+PAGE
+
+Public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing instructions,
+searching existing data sources,
+gathering and maintaining the data needed, and completing and reviewing the collection of information.
+Send comments regarding this burden estimate or any other aspect of this
+collection of information, including suggestions for reducing this burden, to Washington Headquarters
+Services, Directorate for Information
+Operations and Rel:)orts, 1215 Jefferson
+Davis Highway, Suite 1204, Arlington, VA 22202-4302,
+and to the Office of Management and Budget, Paperwork Reduction Project (0704-0188),
+wasnmgton,
+uL. i_u'ouJ.
+
+1. AGENCY USE ONLY (Leave blank)
+
+2.
+
+REPORT
+
+3.'REPORTTYPE
+
+DATE
+
+December
+
+AND
+
+DATES
+
+1993
+
+S.
+
+4. TITLE AND SUBTITLE
+
+Risks
+
+and Issues
+
+in Fire
+
+Safety
+
+on the Space
+
+COVERED
+
+TechmcalMemorandum
+FUNDING
+
+NUMBERS
+
+Station
+WU-323--44-03
+
+6. AUTHOR(S)
+Robert
+
+7.
+
+Friedman
+
+PERFORMING
+
+ORGANIZATION
+
+NAME(S)
+
+AND
+
+8.
+
+ADDRESS(ES)
+
+PERFORMING
+REPORT
+
+National
+Lewis
+
+Aeronautics
+Research
+
+Cleveland,
+
+and Space
+
+Administration
+
+E-8272
+
+Center
+
+Ohio
+
+44135-3191
+
+9. SPONSORING/MONITORING
+
+10.
+
+AGENCY NAME(S) AND ADDRESS(ES)
+
+SPObISORING/MONITORING
+AGENCY
+
+National
+
+Aeronautics
+
+Washington,
+
+11.
+
+Prepared
+Diego,
+
+and Space
+
+D.C.
+
+SUPPLEMENTARY
+
+California,
+
+March
+
+Category
+
+ABSTRACT
+
+106430
+
+Safety
+21-25,
+
+and Management
+
+1994.
+
+Conference
+
+Responsible
+
+person,
+
+sponsored
+
+Robert
+
+by the Society
+
+Friedman,
+
+(216)
+
+12b.
+
+STATEMENT
+
+for Risk
+
+Analysis,
+
+(Maximum
+
+complicated
+
+200
+
+by two
+
+DISTRIBUTION
+
+CODE
+
+words)
+
+portion
+factors.
+
+and the options
+
+near-zero-gravity
+The
+
+are derived
+
+is adequate,
+
+tics are highly
+
+Shuttle
+
+desirable.
+with
+
+fire-protection
+
+Orbiter
+
+accepted
+
+Innovative
+
+fire detection,
+
+fire
+
+suppression,
+
+an orbiting
+
+is protected
+
+technology
+
+This
+
+paper
+
+Space
+
+and post-fire
+
+briefly
+
+advisable
+
+reviews
+
+in spacecraft.
+
+Station,
+
+While
+
+including
+
+those
+
+discusses
+
+of material
+
+Station,
+
+a forthcoming
+
+assessments
+
+the important
+selection,
+
+Risk;
+17.
+
+Space
+
+SECURITY
+OF
+
+Stations;
+
+CLASSIFICATION
+
+REPORT
+
+Unclassified
+NSN 7540-01-280-5500
+
+Fire
+
+prevention;
+
+Spacecraft
+18.
+
+cabin
+
+OF
+
+THIS
+
+space
+
+to evaluate
+
+unresolved
+
+spacecraft
+
+issues
+
+atmospheres,
+
+Flammability;
+
+Manned
+
+NUMBER
+
+PRICE
+
+OFPAGES
+
+8
+
+spacecraft;
+CODE
+
+atmospheres;Weightlessness
+
+SECURITY
+
+fire
+
+of current
+
+15.
+
+Extinguishing;
+
+Shuttle
+
+fire characteris-
+
+restoration.
+
+TERMS
+
+Detection;
+
+requirements
+
+the effectiveness
+of risk
+
+a
+and
+
+that
+
+16.
+
+SUBJECT
+
+creating
+spread,
+
+whose
+
+has shown
+
+to microgravity
+
+in which
+
+the development
+
+of forces,
+
+system
+
+experience
+
+is
+
+for fire
+
+of fire initiation,
+
+for the Space
+
+It further
+
+operations
+
+the resources
+
+a balance
+
+specifically
+
+missions,
+
+in space
+
+limits
+
+and suppression
+
+to respond
+
+orbital
+
+which
+
+experiences
+
+standards.
+
+systems
+
+fire protection
+
+the characteristics
+
+by a fire-detection
+
+is particularly
+
+of fire incidents
+
+but
+volume,
+
+affects
+
+and long-duration
+
+in the
+
+hazard,
+
+spacecraft
+
+and aircraft
+
+that improved
+
+is unpredictable.
+fire safety
+
+feared
+
+is an enclosed
+
+that profoundly
+
+terrestrial
+
+configuration
+
+and consequences
+
+for improved
+
+Second,
+
+recognize
+
+a complex
+
+systems
+
+the probabilities
+and needs
+
+escape.
+
+cabin
+
+environment
+
+from
+
+designers
+
+is a greatly
+
+the spacecraft
+
+for crew
+
+current
+
+of necessity
+
+community
+
+of a spacecraft
+First,
+
+(microgravity)
+
+suppression.
+
+14.
+
+San
+
+433-5697.
+
+16
+
+A fire in the inhabited
+
+safety
+
+TM-
+
+- Unlimited
+
+Unclassified
+
+fighting
+
+NASA
+
+NOTES
+
+12a. DISTRIBUTION/AVAILABILITY
+
+13.
+
+Administration
+
+REPORTNUMBER
+
+20546--0001
+
+for the Probabilistic
+
+Subject
+
+ORGANIZA'I:ION
+
+NUMBER
+
+CLASSIFICATION
+PAGE
+
+Unclassified
+
+A02
+19.
+
+SECURITY
+OF
+
+CLASSIFICATION
+
+20.
+
+LIMITATION
+
+OF
+
+AB,_TRACT
+
+ABSTRACT
+
+Unclassified
+Standard
+
+Form
+
+Prescribed
+298-102
+
+by ANSI
+
+298
+Std,
+
+(Rev.
+Z39-18
+
+2-89)
+

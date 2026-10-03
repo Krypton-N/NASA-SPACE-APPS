@@ -1,0 +1,353 @@
+NASA/CP—2004-213205/VOL2
+
+Understanding Material Property Impacts on CoCurrent Flame Spread:
+Improving Understanding Crucial for Fire Safety
+A
+
+A
+
+B
+
+338
+
+Ali S. Rangwala , Steven G. Buckley and Jose L. Torero
+A
+
+Department of Mechanical and Aerospace Engineering, University of California,
+San Diego, CA
+
+B
+
+School of Engineering and Electronics, University of Edinburgh, Scotland, UK.
+
+NASA/CP—2004-213205/VOL2
+
+Introduction
+The prospect of long-term manned space flight brings fresh urgency to the
+development of an integrated and fundamental approach to the study of material
+flammability. Currently, NASA uses two tests, the upward flame propagation test
+and heat and visible smoke release rate test, to assess the flammability properties of
+materials to be used in space under microgravity conditions. The upward flame
+propagation test can be considered in the context of the 2-D analysis of Emmons
+(1956)[1]. This solution incorporates material properties by a “mass transfer
+number,” B in the boundary conditions, given by.
+
+339
+
+B=
+
+(1 − χ )(∆H CYO2 ,∞ ) − Cp∞ (Tig − T∞ )
+∆H P + QC
+
+In this expression for B, the numerator denotes the amount of heat release and the
+denominator represents the amount of heat needed to gasify the fuel; hence larger
+values of B represent a greater potential driving force for combustion and a greater
+potential flammability. Experimental and theoretical calculations of the B number,
+however, don’t give similar results. The primary reason for this appears to be air
+entrainment, which is not accounted for in the Emmons 2-D model. Current
+experimental and analysis work aims to provide a more solid foundation for the
+prediction of material property influence on flammability.
+[1] H. Emmons, Z. angew. Math. Mech. 36 (1-2) (1956) 60-71.
+
+NASA/CP—2004-213205/VOL2
+
+Experiment
+•
+
+Measurements of flame stand-off distance and pyrolysis length enable
+determination of B in a configuration analogous to NASA’s flame spread test
+(Figures 1, 2, 5)
+
+340
+
+•
+
+Particle image velocimetry measurements illustrate air entrainment from the
+3rd dimension, this has been verified using the Fire Dynamic Simulator Code
+from NIST (Figure 3, 4).
+
+NASA/CP—2004-213205/VOL2
+
+Experimental setup
+Cover to hold PMMA
+sample
+PMMA slab 5cm ×1cm× 50cm
+Incense smoke
+(Tracer particles)
+
+Flame spreading upwards
+Laser sheet
+
+341
+
+Laser
+Digital
+camera
+
+Lateral
+air
+entrainm
+ent
+
+Fig 1, 2: Experimental set up to measure stand off distance is shown by the
+picture on left hand side. The right hand side above shows the particle
+image velocimetry (PIV) set up.
+
+NASA/CP—2004-213205/VOL2
+
+Typical stand-off distances measured as a
+function of time
+
+t=10s
+
+t=40s
+
+t=60s
+
+t=80s
+
+t=100s
+
+t=120s
+
+t=140s
+
+t=160s
+
+t=180s
+
+t=200s
+
+16
+14
+U∞
+
+10
+
+B
+
+342
+
+12
+(a)
+
+(b)
+
+8
+Lf
+
+6
+xp
+
+4
+
+(c)
+
+2
+0
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+x/xp
+p
+
+3
+
+3.5
+
+4
+
+4.5
+
+(d)
+
+NASA/CP—2004-213205/VOL2
+
+Significance/Findings
+The two-dimensional classical boundary layer solution of Emmons[1] is insufficient
+to describe the buoyantly-driven flame propagation investigated here due to the
+influence of air entrainment in the 3rd dimension. However, this does not invalidate
+the significance of the B number or the importance of material properties on flame
+spread.
+U: -0.001 0.000 0.002 0.003 0.005 0.006 0.007 0.009
+
+343
+
+-1
+
+-1.5
+-2
+
+Y
+
+-2.5
+
+Fig 3: Above: the fuel, with the yellow square on the edge of the
+fuel showing the location of the PIV measurements. The PIV
+measurements (right) illustrate entrainment from the side of
+the fuel: Average velocity is 7-10 mm/s at 4 to 5 mm from the
+surface of the fuel.
+
+-3
+-3.5
+-4
+-4.5
+
+-5
+
+344
+
+Z-C om pone nt of V e loc ity (m /s )
+
+NASA/CP—2004-213205/VOL2
+
+Experimental and FDS results
+5mm
+
+0.06
+0.05
+0.04
+
+1cm
+
+0.03
+
+PIV measured value at 4 mm from the
+surface
+
+0.02
+
+1.5cm
+
+0.01
+0.00
+0
+
+20
+
+40
+Time (s)
+
+60
+
+80
+
+Fig 4: The lateral entrainment velocity predicted by FDS (fire dynamic simulator).
+As the distance from the surface increases the lateral entrainment velocity increases,
+reaching a maximum value at about 1 cm from the surface before decreasing. The
+entrainment velocity of 7-10 mm/s we measured from our experiments was a distance
+of between 4 to 5 mm from the surface of the fuel in good agreement with FDS.
+
+345
+
+Fig 5: The flame shape has a direct
+relationship with the B number. Four of
+the curves with similar shapes are from
+theory, while the red curve shows the
+experimentally measured flame shape.
+The
+experimentally-determined
+B
+number should be a constant, but it is
+not. The evolution of the B number
+obtained from the stand off distance
+shows that theory and experiment don’t
+match.
+
+y (m)
+
+NASA/CP—2004-213205/VOL2
+
+B=1
+
+0.006
+
+B=2
+
+B=3
+
+B=5
+
+0.004
+0.002
+0
+0
+
+0.05
+
+0
+
+0.05
+
+0.1
+0.15
+x (m)
+
+0.2
+
+0.25
+
+4
+3
+2
+1
+0
+0.1
+
+0.15
+
+0.2
+
+0.25
+
+NASA/CP—2004-213205/VOL2
+
+Conclusions to date
+
+346
+
+• Lateral flame spread has a significant impact on the
+upward flame spread problem under study. The
+traditional Emmons solution is not able to capture the
+impact of flow in this 3rd dimension and thus
+modifications are required to apply theory to this
+problem.
+• Material properties, such as those embodied in the
+mass transfer number B, should play a vital role in our
+understanding of flammability and flame spread
+
+NASA/CP—2004-213205/VOL2
+
+Continuing Work
+• New experiments are planned to better examine the
+linkage between the material properties, B number,
+and flammability.
+
+347
+
+• Direct numerical modeling of the experiments to better
+quantify flow field.
+
+• Analytical solution of the flow in the third dimension
+
+NASA/CP—2004-213205/VOL2
+
+Acknowledgements
+
+NASA Fire Safety Program of the Bioastronautics
+Initiative: Grant #NAG-32568
+348
+
+NASA technical contact: Dr. Gary Ruff
+Experimental assistance: Dr. Mickey Coutin
+

@@ -1,0 +1,639 @@
+Operation and Development Status of the
+Spacecraft Fire Experiments (Saffire)
+Gary A. Ruff1 and David L. Urban.2
+NASA John H. Glenn Research Center, Cleveland, OH 44135
+
+Since 2012, a series of Spacecraft Fire Experiments (Saffire) have been under development by the
+Spacecraft Fire Safety Demonstration (SFS Demo) project, funded by NASA’s Advanced Exploration
+Systems Division. The overall objective of this project is to reduce the uncertainty and risk associated with
+the design of spacecraft fire safety systems for NASA’s exploration missions. The approach to achieving this
+goal has been to define, develop, and conduct experiments that address gaps in spacecraft fire safety
+knowledge and capabilities identified by NASA’s Fire Safety System Maturation Team. The Spacecraft Fire
+Experiments (Saffire-I, -II, and -III) are material flammability tests at length scales that are realistic for a
+spacecraft fire in low-gravity. The specific objectives of these three experiments are to (1) determine how
+rapidly a large scale fire grows in low-gravity and (2) investigate the low-g flammability limits compared to
+those obtained in NASA’s normal gravity material flammability screening test. The experiments will be
+conducted in Orbital ATK’s Cygnus vehicle after it has unberthed from the International Space Station. The
+tests will be fully automated with the data downlinked at the conclusion of the test before the Cygnus vehicle
+reenters the atmosphere. This paper discusses the status of the Saffire-I, II, and III experiments followed by a
+review of the fire safety technology gaps that are driving the development of objectives for the next series of
+experiments, Saffire-IV, V, and VI.
+
+Nomenclature
+AES
+ATV
+CO
+CO2
+ESA
+FOT
+GRC
+HCl
+HF
+HTV
+ISS
+JAXA
+LED
+MOPS
+TRL
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+Advanced Exploration Systems
+Automated Transfer Vehicle
+Carbon Monoxide
+Carbon Dioxide
+European Space Agency
+Flight Operations Team
+John. H. Glenn Research Center
+hydrogen chloride
+hydrogen fluoride
+H-II Transfer Vehicle
+International Space Station
+Japan Aerospace Exploration Agency
+Light-emitting diode
+Mission Operations Team
+Technology Readiness Level
+
+I. Introduction
+
+T
+
+ESTS on full-scale transportation vehicles, buildings, homes, and habitats have been common on earth to more
+fully understand the fire hazards associated with each application and how best to protect the passengers and
+inhabitants from a potential fire. Fire safety on spacecraft has been a significant concern for NASA during the
+decades of crewed spaceflight and will remain so as NASA plans future exploration missions. Many microgravity
+combustion experiments have been performed on the Space Shuttle and continue to be performed on the
+International Space States (ISS). The data from these experiments have contributed to our understanding of how to
+prevent and protect crewed spacecraft from fire. However, none of these experiments have studied sample and
+1
+2
+
+Spacecraft Fire Safety Demonstration Project Manager, 21000 Brookpark Road, MS 162-7.
+Branch Chief, Combustion and Reacting Systems Branch, 21000 Brookpark Road, MS 77-5.
+
+environment sizes typical of more serious fires aboard a spacecraft.1 Prior experiments have been limited to samples
+no larger than 10 cm in length and width whereas a serious spacecraft fire could consume as much as an order of
+magnitude more material. Because of the large differences between fire behavior in normal and reduced gravity,
+there is a significant lack of data available for spacecraft designers on which to base their fire safety designs and
+procedures. The use of terrestrial fires and fire standards to design spacecraft fire safety systems presents an inherent
+risk to the vehicle because of the significant level of uncertainty. While this approach has been successful thus far,
+the uncertainty and risk will only increase as exploration missions venture further from earth with considerably
+longer transit times for a safe return. Despite their obvious importance, full scale spacecraft fire experiments have
+not been possible because of the inherent hazards involved with conducting a large fire test in a crewed spacecraft.
+To address this knowledge gap, the Spacecraft Fire Safety Demonstration (SFS Demo) project was proposed to
+conduct large-scale fire safety experiments in an expendable spacecraft without risk to a crew.
+In October 2011, the NASA Advanced Exploration Systems (AES) Division of NASA’s Human Exploration
+and Operations Mission Directorate funded this project to develop and demonstrate spacecraft fire safety
+technologies in relevant environments. The stated keystone demonstration was a large-scale fire safety experiment to
+be conducted on an International Space Station (ISS) re-supply vehicle after it has undocked from the ISS and
+before it enters the atmosphere. The project team led from NASA John H. Glenn Research Center (GRC) was
+identified and began formulating such an experiment. The NASA team was augmented by an international topical
+team assembled by the European Space Agency (ESA). Each member of this team brings expertise and funding
+from their respective space and research agencies for their activities. The participation of members from other
+countries and space agencies not only brings additional skills to the science team but also facilitates international
+cooperation in the development of an approach to spacecraft fire prevention and response for future exploration
+vehicles. No single experiment can address the range of issues that need to be resolved to fully understand the fire
+risk to future spacecraft and missions. The goal of the topical team is to leverage the international capabilities of
+each team member to develop a suite of ground-based and space flight spacecraft fire safety experiments that will
+expand the impact of the flight experiments. The current spaceflight experiment funded and being developed by
+NASA addresses two objectives. The first objective is to understand the flame spread and growth of a fire over an
+amount of flammable material consistent with what is likely to be in a spacecraft cabin. This sample material
+(Saffire-I and III) is approximately 0.94 meters long and 0.4 meters wide. As previously stated, this will be at least
+an order of magnitude larger in both dimensions than any prior low-g flame spread experiment. The second
+objective is to examine the flammability limits of materials in low gravity for comparison with results of NASA’s
+terrestrial normal gravity evaluation tests (Saffire-II). The status of the development of the flight experiment and the
+individual contributions of the topical team will be discussed in subsequent sections.
+
+II. Background and Status
+The unique objectives of this experiment necessitated the use of an expendable ISS resupply vehicle such as
+ESA’s ATV, JAXA’s HTV, Orbital ATK’s Cygnus or SpaceX’s Dragon. Soon after the initiation of this project, the
+European Space Agency (ESA) became interested in this experiment and the opportunities for additional
+collaboration with NASA. As a result, an experiment concept was initially developed to fly in an ATV vehicle. Dr.
+Olivier Minster, Senior Physical Scientist in the Directorate of Human Spaceflight for the European Space Agency
+formed an international topical team chaired by Professor Grunde Jomaas (Technical University of Denmark) and
+Professor Jose L. Torero (University of Queensland, Brisbane, Australia.). This “Fire Safety in Space” International
+Topical Team has grown to consist of 15 researchers from the European, Japanese, Russian, and U.S. spacecraft fire
+safety communities and is tasked to define research that would be possible from such a low-gravity fire safety
+experiment. The group developed the initial science and technology requirements for this experiment as well as
+ground-based experiments and modeling efforts that support this experimental campaign.
+While many factors would go into the selection of a vehicle such as available volume, power, communication,
+etc., the schedule and required financial resources eventually became the most significant. With the planned ATV
+flights ending with ATV-5 in March 2014 (flown in July 2014), it became unlikely that an experiment could be
+developed and integrated into the vehicle within the time allotted. Since Orbital ATK had planned eight Cygnus
+flights to begin in 2013 and extending into 2016 (now 2017), the use of the Cygnus vehicle was more promising for
+the successful completion of this experiment. Programmatic requirements and fire safety technology needs later
+drove the project to plan for three experiments to be performed on three consecutive flights of Cygnus. Even though
+the ESA ATV-5 vehicle was no longer being considered for this experiment, the international topical team remained
+intact and functioning to help formulate the experiment and associated ground-based research.
+
+2
+International Conference on Environmental Systems
+
+III. Saffire Experiment
+A. Hardware
+One of the most significant aspects of the design of the Saffire-I, II, and III flight experiments was that the
+hardware would be as close to identical as possible between the three units except possibly for the sample
+material(s) to be burned. The experiment package consists of a flow duct and an adjacent avionics bay as shown in
+the schematic in Fig. 1. The flow duct forms the primary chamber of the experiment while the avionics bay is
+connected to the side of the flow duct as shown in the figure. A LexanTM panel forms the wall between the flow duct
+and the avionics bay to allow imaging of the front of the sample by two cameras located in the avionics bay. Air is
+drawn through the flow duct by fans located at the top of the duct with flow straighteners at the bottom of the
+experiment module. The flow duct/avionics bay assembly is a rigid structure and will be secured with the standard
+stowage straps used in the Cygnus vehicle. This duct will provide a uniform flow across the samples, maintain a
+clear flow path within the experiment module, and prevent burning debris from interacting with the rest of the cargo.
+The differences between the units is in the sample card and samples to be burned as will be discussed in Section
+III.C.
+Fans
+
+Power
+Management
+Sample card
+(flame spread
+sample shown)
+
+Cameras
+
+Avionics Bay
+
+Flow Duct
+
+Signal
+conditioning
+card
+Flow
+straightener
+
+Figure 1: Schematic of the Spacecraft Fire Safety Demonstration Experiment.
+The experiment module consists of a flow duct containing the sample card and an
+avionics bay. All power, computer, and data acquisition modules are contained in the
+bay. The experiment module is approximately 53- by 90- by 133-cm.
+B. Diagnostics
+The experiment package will have a range of diagnostics to monitor the test conditions. The ambient
+temperature will be measured at the inlet of the flow duct, in the flame plume, and at the outlet of the duct just
+upstream of the fans. The oxygen and CO2 concentrations will be measured at the inlet of the avionics bay so that
+the sensors do not degrade the flow uniformity in the flow duct. A pressure transducer will also measure the pressure
+time-history. Two flow anemometers, one on each side of the sample will quantify the flow velocity in the duct and
+serve as input to the fan flow control algorithm. Two video cameras located in the avionics bay will provide front
+3
+International Conference on Environmental Systems
+
+views of one side of the entire sample through a LexanTM panel separating the flow duct from the avionics bay. The
+sample will also be periodically illuminated by a green LED source to allow the measurement of the pyrolysis
+length. Four calibrated radiometers, two viewing the front of the sample and two viewing the back, will measure the
+broadband radiative emission from the sample to provide an estimate of the radiative flux from the burning zone
+towards the surroundings. The flame stand-off distance is an important characteristic for comparing the data with
+computational models and will be measured for the larger flame spread samples using several thermocouples placed
+at varying heights above the sample surface. The thermocouple wires are woven into the sample and then bent
+upward so they are perpendicular to the surface.
+C. Saffire-I, II, and III Samples
+The objective of the Saffire-I experiment is to investigate flame spread and growth in low-gravity. Specifically,
+the experiment will determine if there is a limiting flame size when burning over a large surface and quantify the
+size and growth rate of the flames. The flame will propagate over a panel of thin material approximately 0.4 m wide
+by 0.94 m long as shown in Fig. 2a. A wire igniter is woven into the fabric along the upstream edge and will be
+energized to ignite the sample. This material will be expected to burn at the anticipated oxygen mole fraction of the
+cabin atmosphere (near 0.21 O2 mole fraction). A second redundant igniter is woven into the fabric at the
+downstream end of the sample in case of a failure of the upstream igniter or if the flame does not propagate the
+entire length of the sample. The objective of the tests to be conducted on Saffire-II is to investigate the low-gravity
+Maximum Oxygen Concentration (MOC) flammability limits in long-term low gravity.2 The configuration for these
+experiments consists of nine samples of varying materials (denoted flammability samples) each having dimensions
+of approximately 5 cm wide by 29 cm long installed on the same panel in place of the single sample in Fig. 1. The
+Saffire-II sample card is shown in Fig. 2b. These samples emulate the configuration used in NASA-STD-6001 Test
+1.3 Each sample is ignited at the bottom using a hot wire. The oxygen concentration in the Cygnus vehicle will be
+nearly 21% by volume—the same as in the ISS when the hatch was closed. The materials have been selected to be
+near their normal-gravity or hypothesized low-gravity maximum oxygen concentration in 21% O2. This has
+complicated the selection of sample materials because most materials relevant for spacecraft do not have normalgravity flammability limits near 21% oxygen by volume.4-6 Camera images are the primary diagnostics for these
+tests as the intended result is primarily to determine whether the flame propagates or self-extinguishes. If it
+propagates, additional data such as flame spread rate will be obtained.
+
+a.
+
+Saffire-I and -III sample card. The
+sample is a composite fabric
+(75% cotton – 25% fiberglass by
+mass) and is0.4 m wide x 0.95 m long.
+
+b.
+
+Saffire-II sample card. Card
+contains nine samples (5 cm x 29
+cm) of PMMA (flat and structured)
+Silicone (3 thicknesses, different
+ignition direction), composite
+fabric from Saffire-I, III, and
+Nomex (with PMMA ignition)
+
+Figure 2. Sample cards for the Saffire-I, II, and III experiments.
+
+4
+International Conference on Environmental Systems
+
+D. Experiment Development
+As a spaceflight experiment, Saffire has undergone the typical suite of programmatic and design reviews during
+its life cycle. However, to meet the schedule imposed by AES, the reviews were heavily tailored with several
+reviews being combined. NASA’s milestone reviews are planned to assess hardware and software readiness before
+moving into the next phase of development, i.e., a System Requirements Review is the gate between requirements
+development and the design phase; a Critical Design Review is the gate between the design phase and
+manufacturing. The philosophy behind the timing and content all the reviews in the Spacecraft Fire Safety
+Demonstration Project was to demonstrate the required readiness but push the hardware into the next phase of
+development as rapidly as possible, thereby shortening the overall development cycle. With three flight systems and
+their numerous sub-systems being simultaneously fabricated, assembled, and tested, this philosophy was essential
+for maintaining project cost and schedule. The System Acceptance Review, the major review that verifies
+completion of the flight system was held in September 2015.
+E. Flight Status and Operations Summary
+The Saffire-I flight unit was integrated into the Cygnus PCM on January 25, 2016 with several pictures of the
+installation shown in Figure 3. The hardware remained in Cygnus through the preparations for the launch of OA-6.
+The Saffire-I hardware was successfully launched into orbit on March 22, 2016 aboard an Atlas-V from Cape
+Canaveral. Cygnus berthed with ISS on March 25 and is scheduled to remain there until June 14 (as of May 5).
+Saffire power is inhibited (relays open) during launch, rendezvous, berthed operations, and departure from ISS.
+After Cygnus has unberthed from ISS and concluded joint operations, Saffire-I operations will begin.
+All commanding of and communication with the Saffire payload is performed by the Orbital ATK Mission
+Operations Team (MOPS) from the Orbital ATK Mission Control Center in Dulles, VA. Payload and vehicle
+telemetry will be received in real time by MOPS, viewed by the Saffire Flight Operations Team (FOT) stationed at
+MCC-D (FOT-Console and FOT-Backup) and then transferred to a drop box where it will be picked up by FOT
+members at NASA-GRC (FOT-GRC). This telemetry includes vehicle and Saffire data such as radiometer and
+anemometer output, fan tachometer readings, and voltage and current histories from the smoke wire and upstream
+and downstream igniters. These data, along with the state of the four relays powering Saffire, will be available
+during all experiment phases.
+Operations on the day of Cygnus unberthing will include closing the two relays that power the avionics and
+sending time-sync and initialization commands that run a built-in test (BIT) of the Saffire system. Pending
+successful outcomes of these tests, the igniter relays will be closed and the RUN command will be issued to begin
+the experiment. The Saffire-I experiment will be complete within about 30 minutes and the on-board computer will
+begin the process of compressing the images for data download. Image compression will take approximately 1.5
+hours to complete during which time the Mission Support Team at NASA-GRC will review the telemetry data to
+determine which one of three pre-specified downlink commands will be issued. These commands are prepared to
+downlink compressed images of the first three minutes of the burn from the upstream igniter (nominal), the burn
+from the downstream igniter, or a combination of both. This command will be issued in the afternoon of the day of
+Cygnus unberthing with the data files downlinked during the ground passes occurring that night. On the morning of
+day 2, the Mission Support Team should have the initial images to review. Operations for days 2-8 will consist of
+identifying the specific raw images (i.e., uncompressed) to be downlinked, preparing the commands to downlink this
+data, and preparing and issuing commands to downlink data packets that were requested but not received. Of course,
+the raw images have a higher resolution that the compressed images and will be used for the majority of the science
+analysis. By contract, Cygnus will remain in orbit for up to 8 days to downlink data or until 20 Gbits (2.5 Gbytes) of
+data are received. When data downlink is completed, the relays that power the Saffire avionics will be opened,
+officially ending the Saffire-I experiment.
+Following the experiment, detailed analysis of the results will commence by researchers at NASA GRC and the
+“Fire Safety in Space” International Topical Team that has assisted in defining the Saffire experiments. Based on the
+the current schedule, Saffire-II will be integrated into the OA-5 Cygnus PCM on May 12, 2016. The Saffire-II
+launch is planned for no earlier than July 6 with operations occurring in September 2016.
+
+5
+International Conference on Environmental Systems
+
+a. Saffire-I hardware installed in the Cygnus OA-6 PCM. Saffire was the first
+cargo loaded and will be followed by the loading of cargo on each of the
+four pallets (front, back, starboard, and aft).
+
+b. Close-up of the Saffire-I hardware installed in the Cygnus OA-6 PCM.
+Sheets of white Zytec foam is placed between the hardware and the black
+straps. The inlet and outlet of the Saffire flow duct is on the ends and do not
+have foam.
+Figure 3: The Saffire-I hardware installed in the Cygnus OA-6 Pressurized
+Cargo Module (PCM).
+
+6
+International Conference on Environmental Systems
+
+IV. Spacecraft Fire Safety Technology Needs for Exploration
+From the outset, the objective of the Spacecraft Fire Safety Demonstration project was to address technology and
+knowledge gaps related to fire safety. These gaps were identified by the Spacecraft Fire Safety Systems Maturation
+Team (SMT) in 2013 and are shown in Table 1. They have remained relatively unchanged since then as the SFS
+Demo project and other activities continue to address them. What is lacking in the verification of these technologies
+is a large scale demonstration of fire response in a spacecraft that makes use of these . This was recognized by AES
+and in 2014 they requested that the SFS Demo project develop three more Saffire experiments that will not only
+continue to investigate large-scale fires in long-duration low-gravity but also draw on the on-going ground-based
+work to demonstrate technologies for fire detection, monitoring, and cleanup.
+Table 1. Spacecraft Fire Safety Technology Gaps for Exploration Missions
+Technical Area
+
+Tech Goal addressed
+
+Accurate definition of the risk from material
+Low- and partial-gravity
+flammability in low-g (identify material flammability
+Material Flammability
+limits in low-g environment)
+
+Gap
+• Quantification of risk from NASA-STD- 6001 Test 1
+normal-g data
+• Growth rate of fire hazard
+
+Fire Detection
+
+Common fire detectors for exploration. Early fire
+detection from structurally integrated distributed
+sensors
+
+• Particle size discrimination
+• Adaptation of state-of-art technology
+
+Fire Suppression
+
+ECLS-compatible and re-chargeable fire
+extinguisher
+
+• Scaling to vehicle
+• Size of critical fire
+
+Emergency Crew Mask
+
+Emergency breathing apparatus with filtering
+respirator
+
+•
+•
+•
+•
+
+Flame resistant
+One size fits all
+Can be donned in 5 sec
+Resists chemical breakthrough
+
+Post-fire (combustion
+product) monitoring
+
+Contingency air monitor for relevant chemical
+markers of post-fire cleanup
+
+•
+•
+•
+•
+
+Measurement of CO, CO2, HF, HCl, HCN
+Battery-operated
+Hand-held
+Calibration duration 1-5 years
+
+Post-fire/leak Clean-up
+
+Contingency air purifier for post-fire and leak
+cleanup
+
+• Stand-alone
+• Low (integrated) power, low mass/volume
+
+Fire Scenario Modeling
+Definition of a realistic spacecraft fire to size
+and Analysis
+
+• Validated models of impact of a large scale fire on
+the spacecraft volume and cabin conditions
+• Analysis to size fire suppression and cleanup
+equipment based on vehicle parameters
+
+Of course, making the jump from technologies and performance gaps to a well-defined experiment that
+effectively demonstrates these technologies requires considerable effort. Researchers and technologists in the SFS
+Demo project as well as the Fire Safety in Space international topical team have developed objectives that would be
+conducted in a Saffire-IV, V, and VI series of flights and that address these gaps. This series of flights will make use
+of not only the Saffire flow chamber to burn samples but also the Cygnus vehicle itself to obtain data on how the
+heat, smoke, and gaseous combustion products interact with the spacecraft volume. The list of experiment objectives
+for Saffire-IV-VI are shown in Table 2 in the order of priority based on deliberations of the Spacecraft Fire Safety
+SMT. Also shown in this table are the investigations that will address these objectives. There are several significant
+factors illustrated in this table. First, all of these objectives require a demonstration to anchor the technology in the
+environment of use, i.e., long-duration low-gravity on a vehicle scale. Several of these gaps are addressed on
+Saffire-I-III but others will require implementation on Saffire-IV-VI. Also, many require a more intensive
+parametric study that can only be achieved through a supporting ground-based investigation.
+One interesting aspect of the objectives shown in Table 2 is that the fire behavior and modeling objective is a
+primary objective – emphasizing the need to obtain data that can be used to extrapolate results to the different
+vehicles and habitats required to perform NASA’s exploration missions. Another observation is the priority placed
+on material flammability in exploration atmospheres – e.g. in ambient conditions having oxygen mole fractions up
+to 0.34 and pressures of 8.2 psia. These conditions bound those considered for exploration missions. While elevated
+oxygen and reduced pressure conditions are generally considered for planetary or asteroid operations where frequent
+extravehicular activities (EVA) are required, the Cygnus environment provides the unique opportunity to explore
+these conditions at relevant scales and obtain data that can anchor computational models that will be applied during
+analysis of fire scenarios.
+7
+International Conference on Environmental Systems
+
+Table 2. Spacecraft Fire Safety Demonstration Experiment Objectives
+Area
+
+Objective
+
+Quantify growth and end state of realistic fires
+Fire behavior/modeling: in spacecraft and their influence on vehicle
+habitability
+
+Comment
+
+Saffire-I, II,
+III
+
+Saffire-IV,
+V, VI
+
+X
+
+X
+
+Require to validate computational
+models
+
+Ground
+
+Flame behavior in complex geometries
+
+Flame behavior for planar and complex
+geometries in exploration atmospheres
+
+Elevated O2, lower P; compare with
+Saffire-I, II, III; supplement small-scale
+tests in CIR
+
+X
+
+Continues Saffire-I and III investigations
+
+Demonstrate performance of prototype Orion
+and ISS CPM
+
+Demonstration of prototype flight
+hardware
+
+X
+
+X
+
+Obtain data to validate transport and detection
+Required for model development
+models
+
+Post-fire monitoring
+
+X
+
+Measure flame behavior over large-scale
+planar surfaces
+
+Fire growth/dynamics
+
+More realistic configurations than SaffireI, II, and III
+
+X
+
+X
+
+X
+
+X
+
+Demonstrate fire detection with multi-moment
+sensors
+
+Demonstrate capability to reject
+nuisance alarms
+
+X
+
+Evaluate performance of hybrid fire detection
+(smoke and gaseous products)
+
+Combustion product detection by
+prototype combustion product monitor
+
+X
+
+Quantify rate of decay of gas species after a
+spacecraft fire
+
+Required for model development
+
+X
+
+X
+
+Post-fire cleanup
+
+Quantify atmosphere cleanup rate with
+prototype smoke-eater
+
+Demo of prototype flight hardware
+
+X
+
+X
+
+Fire Suppression
+
+Performance of low-momentum water mist
+suppression
+
+Effectiveness of fire ports using water
+mist fire suppression
+
+Fire Detection
+
+Post-fire monitoring
+
+X
+
+For fire detection, the size of smoke particulate produced in low-gravity has been investigated by the Smoke
+Aerosol Measurement Experiment (SAME)7,8. Transport models of smoke and combustion products have been
+developed based on these results but the models themselves have not been validated. The Saffire-IV-VI experiments
+in a Cygnus vehicle provide the unique opportunity to obtain this data. Similarly, the transport and detection of
+gaseous combustion products, especially acid gases like hydrogen fluoride (HF) and hydrogen chloride (HCl) that
+have a propensity to attach to smoke particulate and other surfaces must be quantified to define fire response
+protocol. Additionally, the demonstration of a post-fire monitoring technology for these chemical species will
+significantly advance the technology readiness level (TRL) of this instrument and bring it closer to implementation
+both on ISS, Orion, and future exploration vehicles.
+Obtaining data on the ability of advanced sorbents to remove carbon monoxide (CO) from the atmosphere in a
+spacecraft environment will aid spacecraft environmental control and life support (ECLS) designers to develop
+systems that can rapidly clean-up the cabin atmosphere following a fire event. The Cygnus vehicle provides a
+unique environment to demonstrate this technology and provide data essential for the design of clean-up systems for
+exploration vehicles and habitats.
+The ground tests in post fire monitoring and cleanup indicated in Table 2 are planned for a Spacecraft Flow
+Simulator Facility being constructed at NASA-GRC. This facility will be similar to the geometric and volumetric
+configuration of the Cygnus vehicle with the ability to include advanced diagnostics to characterize particulate and
+gaseous combustion product transport in a relevant environment. It will also be used to test various ground
+development units developed for Saffire-IV-VI.
+One technology for which additional low-g validation is currently not planned is fire suppression using fine
+water mist extinguisher. Forced convection is the primary driver when a water mist extinguisher is activated making
+ground demonstrations highly effective in validating its performance. Also, determining the minimum amount of
+suppression agent required to extinguish a fire requires multiple tests to obtain statistically significant results and,
+therefore, is not conducive to the limited demonstration opportunities in the Saffire-IV-VI experiments.
+Concepts for the Saffire-IV-VI hardware are being developed along with the set of engineering requirements that
+encompass science, safety, and vehicle requirements. A Mission Concept Review/System Requirements Review is
+planned for June 2016 with the designs being completed later in 2016. Flight hardware availability for Saffire-IV is
+currently planned for Fall 2018.
+
+8
+International Conference on Environmental Systems
+
+V. Conclusion
+The Saffire series of experiment provides the unique opportunity to address gaps in knowledge and capabilities
+regarding fire safety aboard spacecraft. The Saffire-I, II, and III flight systems will address large-scale flame spread
+and material flammability limits, both essential components of understanding fire behavior and quantifying fire risks
+aboard spacecraft. Continuing these investigations and addressing other knowledge gaps will require a more
+ambitious experiment in Saffire-IV-VI but, by simulating a more complete fire response scenario and demonstrating
+post-fire monitoring and cleanup capabilities, these experiments will significantly improve crew safety on all future
+exploration missions.
+
+Acknowledgments
+The members of the Fire Safety in Space International Topical Team are acknowledged for their continued
+contributions to the development of the Saffire series of experiments. The members are: Gary A. Ruff , David L.
+Urban, and Sandra Olson (NASA Glenn Research Center), Carlos Fernandez-Pello (UC Berkeley), James S. T’ien
+and Ya-Ting Liao (Case Western Reserve University), Jose L. Torero (University of Queensland, Brisbane,
+Australia, Guillaume Legros (Université Pierre et Marie Curie, Paris, France), Christian Eigenbrod (University of
+Bremen (ZARM), Bremen, Germany, Nickolay Smirnov (Moscow Lomonosov State University, Moscow, Russia),
+Osamu Fujita (Hokkaido University, Sapporo, Japan), Adam J. Cowlard (University of Edinburgh, Edinburgh, UK,
+Sebastien Rouvreau (Belisama R&D, Toulouse, France), Balazs Toth (ESA ESTEC, Noordwijk, Netherlands), and
+Grunde Jomaas (Technical University of Denmark, Kgs. Lyngby, Denmark).
+The Spacecraft Fire Safety Demonstration project is funded by the Advanced Exploration Systems Division in
+NASA’s Human Exploration and Operations Mission Directorate.
+
+References
+1.
+2.
+
+3.
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+Ruff, G.A., Urban, D.L., Pedley, M.D., Johnson, P.T., Safety Design for Space Systems edited by Gary Musgrave et al.
+Chapter 27 “Fire Safety,” Elsevier, 2009.
+Hirsch, D.B., Williams, J.H., Haas, J.P., Beeson, H.D., and Pedley, M.D., “Oxygen Concentration Flammability
+Thresholds of Selected Aerospace Materials Considered for the Constellation Program,” Proceedings of the 2nd
+IAASS Conference, Chicago, May 14-16, 2007; (also ESA SP-645, July 2007).
+National Aeronautics and Space Administration Technical Standard 6001.A, “Flammability, Odor, Offgasing and
+Compatibility Requirements and Test Procedures for Materials in Environments That Support Combustion,” 2008.
+Hirsch, D.B., Williams, J.H., Harper, S.A., Beeson, H.D., Ruff, G.A., and Pedley, M.D., “Pressure Effects on the SelfExtinguishment Limits of Aerospace Materials,” Paper No. 2009-01-2490, 39th International Conference on
+Environmental Systems, Savannah, GA, July 12-16, 2009.
+Olson, S.L., Ruff, G.A., Miller, F.J., Microgravity Flame Spread in Exploration Atmospheres: Pressure, Oxygen, and
+Velocity Effects on Opposed and Concurrent Flame Spread,” Paper No. 2008-01-2005, 38th International
+Conference on Environmental Systems, San Francisco, CA, June 29-July 2, 2008.
+Olson, S.L., Hirsch, D.B., and Ferkul, P.V., “Improving Materials Flammability Screening For Spacecraft Fire Safety,”
+Proceedings of the 2010 Technical Meeting of the Central States Section of the Combustion Institute, Champaign,
+Illinois, March 2010.
+Urban, D.L., Ruff, G. A., Mulholland, G., Meyer, M., Yuan, Z.-G., Cleary, T., Yang, J., Greenberg, P. and Bryg, V.,
+“Evaluation of Low-Gravity Smoke Particulate for Spacecraft Fire Detection”, 8th U. S. National Combustion
+Meeting, University of Utah, May 19-22, 2013.
+Urban, D. L., Ruff, G. A., Mulholland, G. Cleary, T. Yang, J., Yuan, Z.-G.David Urban, and Bryg, V., Smoke Particle
+Sizes in Low-Gravity and Implications for the Design of Spacecraft Smoke Detectors, 2009 International
+Conference on Environmental Systems, Savannah, GA, July 2009, 2009-01-2468.
+
+9
+International Conference on Environmental Systems
+

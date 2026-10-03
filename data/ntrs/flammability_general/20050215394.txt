@@ -1,0 +1,65 @@
+Edge Diffusion Flame Propagation and
+Stabilization Studied
+In most practical combustion systems or fires, fuel and air are initially unmixed, thus
+forming diffusion flames. As a result of flame-surface interactions, the diffusion flame
+often forms an edge, which may attach to burner walls, spread over condensed fuel
+surfaces, jump to another location through the fuel-air mixture formed, or extinguish by
+destabilization (blowoff). Flame holding in combustors is necessary to achieve design
+performance and safe operation of the system. Fires aboard spacecraft behave differently
+from those on Earth because of the absence of buoyancy in microgravity. This ongoing
+in-house flame-stability research at the NASA Glenn Research Center is important in
+spacecraft fire safety and Earth-bound combustion systems.
+Video observations of low-speed fuel jet diffusion flames have been made in normal
+Earth-gravity (1g) and in microgravity (µg) at the 2.2-Second Drop Tower at Glenn. The
+1g flame was short and narrow, and the flame base was close to the burner rim as a result
+of buoyancy-induced flow. Intense blue emissions and a yellow-orange color indicated a
+vigorously burning flame zone and soot formation, respectively. By contrast, the µg
+flame was spherical and larger as a result of relatively slow fuel and oxygen molecular
+diffusion in every direction. The weak burning resulted in lower flame temperatures (thus
+reducing soot formation) and in a large quenched space near the burner wall.
+
+Video images of ethane jet diffusion flames in quiescent air. Burner tube inside diameter,
+i.d., 2.87 mm; mean fuel jet velocity, 7.5 cm/sec. Left: 1g. Right: µg.
+Direct numerical simulations with a detailed reaction mechanism and radiative heat
+losses have revealed the flame structure in unsurpassed detail. Unlike previous work,
+these computations, which used a reaction mechanism including 33 species and 112
+elementary steps, enabled genuine prediction of the flame propagation speed. In the
+simulations, a hydrocarbon fuel (methane, ethane, ethylene, acetylene, or propane) was
+injected into quasi-quiescent air in 1g or 0g for a short period (0.3 sec) and ignited
+downstream on the axis. The calculated flame propagation speed was independent of
+gravity and matched well with the stoichiometric laminar flame speed of each fuel.
+
+Temporal variations (from 1 to 200 msec) in the calculated temperature field of a
+propagating edge diffusion flame in an ethane jet in quasi-quiescent air in 0g. Burner
+tube i.d., 3 mm; mean fuel jet velocity, 6.86 cm/sec.
+Computations revealed that a peak reactivity spot (i.e., a reaction kernel) was formed in
+the edge diffusion flame as a result of radical (H atom) back-diffusion into the highoxygen-concentration region and subsequent chain-branching reactions. The reaction
+kernel in the propagating flame had characteristics of premixed flames in the direction of
+propagation. Once the edge diffusion flame attached to the burner rim, its premixed flame
+nature was lost because the flammable mixing layer became too narrow for propagation
+and its direction even became perpendicular to the incoming flow. Instead, vigorous
+reactions at the reaction kernel within an available residence time kept the trailing
+diffusion flame from blowoff. The 1g flame was stabilized at relatively high velocities
+because the reaction-kernel reactivity increased by "blowing." A linear correlation was
+found between the reaction-kernel reactivity and the velocity for each fuel. These new
+findings replace a conventional view of diffusion flame attachment based on premixed
+flames and may lead to better fire-extinguishing and flame-holding approaches.
+
+Calculated velocity vectors, v; temperature isotherms, T; and heat-release rate contours,
+q, in joules per cubic centimeter seconds. Burner tube i.d., 3 mm; mean fuel jet velocity,
+6.86 cm/sec. Left: Propagating ethane flame in 0g. Center: Stabilized ethane jet diffusion
+flames in quasi-quiescent air in 1g. Right: Stabilized ethane jet diffusion flames in quasiquiescent air in 0g.
+
+References
+1. Takahashi, F.; and Katta, V.R.: Reaction Kernel Structure and Stabilizing
+Mechanisms of Jet Diffusion Flames in Microgravity. Proc. Combust. Inst., part
+2, vol. 29, 2002, pp. 2509-2518.
+2. Takahashi, Fumiaki; and Katta, Viswanath R.: Propagation and Structure of Edge
+Diffusion Flames in Axisymmetric Hydrocarbon Fuel Jets. Proceedings of the
+19th International Colloquium on the Dynamics of Explosions and Reactive
+Systems, Hakone, Japan, 2003.
+National Center for Microgravity Research contact: Dr. Fumiaki Takahashi, 216-4333778, Fumiaki.Takahashi@grc.nasa.gov
+Authors: Dr. Fumiaki Takahashi and Dr. Viswanath R. Katta
+Headquarters program office: OBPR
+Programs/Projects: Microgravity Science
+

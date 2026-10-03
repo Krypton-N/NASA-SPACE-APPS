@@ -1,0 +1,1792 @@
+COSMIC:
+
+CARBON
+
+MONOXIDE
+
+IN MICROGRAVITY
+
+_INVERSE
+
+L.G. Blevins
+
+l, M.G. Fernandez
+
+AND
+
+SOOT
+
+COMBUSTION
+
+2, G.W. Mulholland
+
+2,
+
+R.W. Davis 3, E.F. Moore 3, E.B. Steel 3, and J.H.J. Scott 3
+ICombustion
+2Building
+3Chemical
+
+Research
+
+Facility,
+
+and Fire Research
+
+Science
+
+Sandia National
+
+Laboratory,
+
+and Technology
+
+National
+
+Laboratory,
+
+Laboratories,
+
+Institute
+
+National
+
+Livermore,
+
+of Standards
+
+CA
+
+and Technology
+
+Institute
+
+of Standards
+
+and Technology
+
+fires are caused
+
+by inhalation
+
+of toxins
+
+INTRODUCTION
+Almost
+carbon
+
+seventy
+
+monoxide
+
+COSMIC
+
+(CO)
+
+project
+
+combustion,
+
+and
+
+combustion
+
+for
+
+use
+
+simulation
+
+direct
+Mach
+
+to present
+
+transfer.
+
+design
+
+IDF particle
+
+0 cm, 0.5 cm,
+
+The
+
+formed
+
+that form
+
+on the fuel
+
+an oxidizing
+
+between
+
+IDF mimics
+side of the
+
+flame tip. An IDF
+
+paper
+
+For the present
+
+discusses
+
+For this project,
+it is desirable
+different
+flames in normal-gravity
+
+and experimental
+
+results
+
+and to delineate
+
+that support
+
+future
+
+(flame
+
+sheet),
+
+particle
+results,
+
+the burner
+
+unity
+
+plans.
+
+conserved
+
+an
+
+using
+variable
+
+assumptions
+
+Lewis
+
+of low
+
+number,
+
+variable
+
+radiation
+
+of inertial,
+
+thermophoretic,
+
+results
+
+are presented
+
+are introduced
+
+and at radial
+
+Soot m_eling
+
+performed
+
+and negligible
+
+the effects
+
+particles
+
+and
+
+employs
+
+fuel-stream,
+tracking
+
+were
+
+Stokes
+
+simulation
+
+Detailed
+
+for IDFs
+
+heat
+
+here to show
+
+at axial positions
+
+locations
+
+of 1250 K (see Ref. [9]).
+
+thorough
+
+laboratory
+
+of numerical
+
+were used to select
+
+Calculations
+Navier
+
+The
+
+incorporating
+
+Some
+
+and
+
+the use
+
+(CH4) flame shapes
+
+surrounding
+
+temperature
+
+computations
+
+few
+
+and constructing
+
+are to discuss
+
+condition.
+[7].
+
+kinetics
+
+[8].
+
+to designing
+
+METHODS
+
+flame
+
+tracking
+
+is included
+
+pathways.
+
+a recent
+
+0DFs)
+
+devoted
+
+flames,
+
+of the time-dependent
+
+chemical
+
+soot formation
+
+performed;
+
+[ 1,2].
+
+is that the
+
+A
+
+tower.
+
+on methane
+
+a semi-infinite
+particle
+
+been
+
+computational
+
+I cm, 1.5 cm, and 2 cm from
+
+characteristic
+
+burning
+
+during underventilated
+
+flames
+
+through
+
+of this paper
+
+operating
+
+laminar
+
+inf'mite-rate
+
+forces
+
+goals
+
+of gravity
+
+(DNS)
+
+Dilute-condition
+
+have
+
+to underventilated
+
+and initial
+
+properties,
+
+and gravitational
+
+soot
+
+project
+
+species
+
+passing
+
+EXPERIMENTAL
+
+simulation
+
+number,
+
+of the
+
+drop
+
+design,
+are similar
+
+for an axisymmetric
+
+thermophysical
+
+basic
+
+2.2-second
+
+of the effects
+
+numerical
+
+equations
+
+diffusion
+
+The first two years
+
+AND
+
+burner
+
+inverse
+
+hypothesis
+
+without
+
+The
+
+burner
+
+Computations
+
+of CO and
+
+carbon-containing
+
+performed.
+
+that IDFs
+
+COMPUTATIONAL
+
+appropriate
+
+laminar,
+
+can escape
+
+NASA
+
+been
+
+during
+
+the hypothesis
+
+during underventilated
+
+mechanisms
+
+A major
+
+because
+
+cycle.
+
+in the
+
+have
+
+that form
+
+such as
+
+presented at the last microgravity
+workshop
+[3], and a few additional
+IDF
+since that meeting [4-6]. The COSMIC project is entering
+the third year of
+
+funding
+
+experiments
+
+(soot)
+
+using
+
+fuel.
+
+as CO and soot)
+
+its four-year
+rig
+
+smoke
+
+the formation
+
+presently
+
+literature
+review was
+papers have appeared
+a
+
+and
+
+surrounding
+
+underventilated
+(such
+
+of deaths in accidental
+
+examines
+
+achieved
+
+an air jet
+flame
+
+percent
+
+of
+
+corresponding
+
+to a
+
+soot modeling
+
+is not
+
+[4].
+
+to achieve
+a broad variety of operating
+(I-g) and microgi'avity
+(0-g) conditions.
+
+conditions
+that yield
+Initial calculations
+
+and experiments
+were performed
+using a small (5 mm diameter
+air jet) co-flow burner chosen for
+its similarity
+in size to burners used in previous
+drop tower experiments
+[10].
+Flame structures
+were
+
+computed
+
+stabilized
+
+for
+
+1 mm long and were
+flames
+
+several
+
+in the laboratory.
+were
+
+short and
+
+NASA/CP--2001-210826
+
+possible
+
+unaffected
+steady
+
+CH4 operating
+
+For all cases
+by gravity.
+(similar
+
+in the small
+
+conditions,
+burner,
+
+In qualitative
+
+to micro-flames
+
+177
+
+[11]).
+
+and
+
+several
+
+the computed
+
+agreement
+Hence,
+
+with
+
+1-g flames
+IDFs
+
+were
+
+this result,
+
+the small
+
+burner
+
+were
+
+less than
+laboratory
+was
+
+found
+
+to be undesirable
+larger
+
+burner
+
+The
+
+air.
+
+burner
+
+fuel
+
+surrounding
+
+a wide
+
+was constructed
+
+larger
+
+co-annular
+
+because
+
+tube.
+
+beads
+
+prevent passage
+of unburned
+CH4 flame and one ethylene
+velocity)
+
+air flow
+
+secondary
+
+not be achieved.
+
+through
+
+from
+
+A
+
+using computations.
+
+surrounded
+
+flows
+
+flames
+
+are present
+
+could
+
+dimensions
+air jet
+
+(6 slpm)
+
+and honeycomb
+
+by a 3 cm diameter
+
+a 6.4 cm
+
+forming
+
+diameter
+
+between
+
+in the air and
+
+tube
+
+fuel and room
+
+fuel passages,
+
+while
+
+the
+
+screen.
+The air and fuel tubes are sharpened
+to knife-like
+A propane
+flare was used downstream
+of the burner to
+
+fuel into the laboratory
+exhaiJst -ductl _For the present
+(C2H4) flame were studied..- For CH4, a 46 mg/s (40sccs
+
+and a 41 mg/s
+
+32 mg/s (27 sees or 35 cm/s)
+
+central
+
+(N2) curtain
+
+The N2 prevents
+
+conditions
+
+of desirable
+
+of a 1 cm diameter
+
+A nitrogen
+
+Nz flow is smoothed
+with a f'me-mesh
+edges to facilitate
+flame attachment.
+
+average
+
+of IDF operating
+
+after identification
+
+consists
+
+the burner.
+
+Flow-straightening
+
+variety
+
+(64 sees
+
+or 10 cm/s)fuel
+
+air flow and a 49 mg/s
+
+flow
+
+(43 sees or 7 cm/s)
+
+paper, one
+0r:-50"_m/_
+
+were used.
+
+For C2H4, a
+
+fuel flow were used.
+
+The
+
+air velocity was five times as large as the fuel velocity
+for both flames studied. Flame heights
+were estimated from digital photographs.
+For the C2H4 flame, soot particles were collected
+on a
+3 mm, 400-mesh
+copper microscope
+grid coated with amorphous
+carbon film.
+The grid was
+secured to a thin metal spatula and inserted parallel to the flow in the center of the exhaust for
+five
+
+consecutive
+
+CM300FEG
+1 nm probe.
+
+Scanning
+
+RESULTS
+Figure
+
+one-second
+
+AND
+I
+
+Transmission
+
+The
+
+Electron
+
+soot
+
+particles
+
+Microscope
+
+were
+
+analyzed
+
+(STEM)
+
+particle
+
+temperature
+pathways
+
+contours
+are shown
+
+calculated
+in white.
+
+a Philips
+
+operating
+
+at 300 kV
+
+for
+The
+
+l-g
+
+the
+0-g
+
+0-g
+
+and
+
+flame
+
+with a
+
+the
+
+1-g
+
+is about
+
+flame
+
+agreement
+laminar
+
+2.5
+
+than
+
+the
+
+paths
+
+._2.0
+_300
+.g:
+"_ 1.5
+
+longer
+
+that
+
+soot
+
+move
+
+IDFs
+
+and
+
+oxidation
+
+for
+
+the computed
+more
+
+[12].
+
+in Fig.
+
+particles
+
+flame
+
+In
+
+findings
+
+and
+
+1-g flame
+
+shown
+
+can
+
+0-g
+
+rounded
+
+The particle
+1 demonstrate
+
+formed
+
+away
+
+while
+
+is 2.1 cm.
+
+previous
+
+flames,
+
+is
+
+flames
+by peak
+
+2.2 cm,
+
+length
+
+with
+jet
+
+flame
+
+CH4
+
+length (defined
+
+temperature)
+3.0
+
+_
+
+using
+
+DISCUSSION
+
+depicts
+
+Representative
+
+intervals.
+
+from
+
+escape
+
+low
+
+in the
+
+the flame
+with
+
+for both gravity
+
+for
+
+minimal
+
+conditions.
+
+1.0
+
+Figure
+of the
+
+2 shows a digital photograph
+1-g CH4 f[arr_e. The-b|uefl-ame
+
+with
+
+0,0
+
+orange
+
+IDFs
+blue
+
+0.5
+
+observed
+portion
+
+22
+0,0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4
+Radius (cm)
+
+Radius (cm)
+
+Fig.
+1 Calculated
+absolute
+temperature
+OK) for
+0-g (left) and 1-g(right)
+CI-I[4 IDFs.
+Half of
+the
+axisymmetric
+domain is shown. White streaks show
+particle pathways.
+
+NASA/CP--2001-210826
+
+178
+
+the
+
+flame
+the
+
+cap
+
+long,
+
+predicted
+
+height.
+
+is similar
+
+to
+
+by others [13,14].
+The
+of
+the
+flame:
+is
+
+cm + 0.1 cm
+
+with
+of
+
+soot
+
+in agreement
+
+peak-temperature
+
+Despite
+
+orange
+
+soot
+
+stream
+
+exiting
+
+the
+
+invisible
+
+to the naked
+
+the
+cap,
+CH4
+eye.
+
+existence
+the
+IDF
+
+soot
+is
+
+Figure 3 portrays
+the calculated
+time-temperature
+histories
+of the particle paths shown in Fig. 1. Particles are tracked until
+they
+
+reach
+
+the end of the
+
+the burner).
+
+Longer
+
+the
+
+buoyant
+
+lack of
+
+move
+
+away
+
+influence
+spend
+
+from
+time
+
+at high
+
+The
+
+structure
+
+1300
+
+high
+
+of thermophoretic
+
+less
+
+will be studied
+
+In both
+
+temperature
+forces.
+
+implications
+
+of
+
+this
+
+in future
+
+predicted
+
+in the
+
+trend
+
+for
+
+0-g
+soot
+
+experiments.
+
+900
+
+800
+
+....
+
+i
+
+....
+
+i
+
+10
+
+....
+
+i
+
+20
+
+....
+
+i
+
+30
+
+,
+
+a
+
+.
+
+40
+
+.
+
+i
+
+800
+
+....
+
+50
+
+60
+
+0
+
+10
+
+20
+
+Time (ms)
+Fig. 3 Time/temperature
+A digital
+
+photograph
+
+constitutes
+
+of the
+
+90 % of its visible
+
+portion
+
+of the flame
+
+exits the flame
+
+approximate
+metal
+
+targets
+
+was
+
+liquid
+soot
+
+difference
+
+the
+in
+
+[ 18] and [ 19] is that
+
+the
+
+NASA/CP--2001-210826
+
+for the
+
+bright-field
+
+in agreement
+
+STEM
+
+Fig. 4 Photo of 1-g C2H4 IDF.
+An
+asterisk
+marks
+the
+location
+
+of soot sampling.
+
+structures
+
+179
+
+flame
+
+height
+
+soot
+
+with early IDF studies
+
+from
+The
+
+between
+
+60
+
+IDFs.
+
+CH4
+
+the digital
+
+The asterisk
+
+soot
+
+that studied
+
+liquid-like
+
+visible
+
+in the dark photograph).
+
+exhaust
+
+captured
+flames [ 19].
+
+Fig. 4 soot and
+
+the total
+
+saturates
+
+to
+in
+
+to
+
+50
+
+in Fig. 4. The soot cap on the C2H4 flame
+intensity
+
+The
+
+flame
+and
+
+and its emission
+
+sampling
+
+liquid-like,
+
+structure
+is similar
+collected
+
+precursors
+diffusion
+
+[15-17].
+
+40
+
+in 0-g (left) and 1-g (right)
+
+sticky
+
+viscous
+
+streams[18]
+
+of particles
+
+1-g C2I-I4 IDF is shown
+height
+
+of soot
+
+and
+
+underventilated
+
+history
+
+is 0.35 cm long, while
+
+appear
+
+30
+
+Time (ms)
+
+tip (not visible
+
+location
+
+Fig. 5. The particles
+
+present
+
+in the 1-g flame
+those
+
+1000
+
+900
+
+Refs.
+
+the
+
+1100
+
+g
+
+major
+
+particles
+under
+
+1200
+
+1000
+
+on
+
+flames,
+
+than
+
+COSMIC
+
+indicate
+
+1300 .............................
+
+............................
+
+1100
+
+stream
+
+(3 cm above
+
+region
+
+Particles
+
+temperatures
+
+1200
+
+blue
+
+domain
+
+times for the O-g particles
+
+acceleration.
+the
+
+flame.
+
+Fig. 2 Photo of 1-g CH4 IDF.
+
+computational
+
+cut-off
+
+camera.
+
+is 3.5 cm.
+
+The
+A soot
+
+on Fig. 4 shows
+micrograph
+where
+
+the
+
+shown
+
+soot collected
+
+in
+
+are
+
+larger(_250
+
+coagulation
+
+nm
+
+compared
+
+to
+
+vapors.
+
+Particle
+
+of organic
+
+about
+overlap
+
+the large structures,
+or they may result
+efforts are aimed at refining
+the sampling
+SUMMARY
+Direct
+
+_
+
+CONTINUING
+
+numerical
+
+simulation
+
+by 2.2-second
+testing.
+predicted
+likely
+
+drop tower
+
+20nm),
+
+WORK:
+has been
+
+flame
+
+standards--and
+
+regions
+
+with0Ut
+
+containing species in underventilated
+IDFs are planned for Summer 2001.
+will be studied.
+traveled
+
+insight
+
+by soot
+
+into the formation
+
+to select
+
+being
+
+CO for the
+
+mechanisms
+
+of
+
+condensation
+
+grid could
+
+partially
+
+and
+explain
+
+_ :_=_
+
+the design
+
+initial
+
+_iy
+
+: _......
+
+of a burnermrelatively
+
+operating
+
+conditions
+
+large
+
+for 0-g
+
+and
+
+l-g
+
+testing
+agreed quaIitativeI-y
+with
+pathways revealed that IDF soot is
+
+oxidized_-'lLiquid-iike
+
+soot
+
+samples
+
+collected
+
+result.
+All of these findings support the major
+conditions
+similar to those encountered
+by carbon-
+
+flames.
+Drop tower experiments
+employing
+CH4 and C2H4
+Soot yields, CO yields, soot structure, and soot chemical
+
+The simulation
+and
+
+result
+
+loaded
+
+:=:=
+....
+
+used to guide
+
+above the flames corroborate
+this computed
+hypothesis
+that IDF soot (or CO) experiences
+
+paths
+
+on the heavily
+
+a
+
+from post-collection
+sample
+transformations.
+Ongoing
+technique
+and studying IDF soot structure
+further,
+
+Two burners
+were built and tested.
+Laboratory
+flame height and stability trends. Computed particle
+
+to exit
+
+makeup
+
+possibly
+
+method
+
+demonstrated
+
+here
+
+operating
+
+conditions
+
+studied.
+
+of undesirable
+
+will be used to predict
+Results
+
+should
+
+provide
+
+CO and soot during underventilated
+
+This research
+is funded
+via NASA Contract No. C-32069-J.
+Dr. Peter sunderland
+contact) and Dr. Kurt Sacksteder
+(technical
+monitor)provide
+invaluable
+assistance.
+
+the
+
+fires.
+(technical
+
+REFERENCES
+[1]
+[2]
+[3]
+
+Hall, J. R. Jr., Bums, Toxic Gases, and Other Hazards Associated with Fires: Deaths and Injuries
+in Fire and Non-Fire Situations, National Fire Protection Association
+(NFPA), Quincy, MA, 1996.
+Pitts, W. M., Progress in Energy and Combustion Science, 21:197, 1995.
+Blevins, L. G., Mulholland,
+G. W., and Davis, R. W., Proceedings
+of the Fifth International
+
+[4]
+
+Microgravity
+Combustion
+Workshop, NASA/CP-1999-208917,
+Kaplan, C. R. and Kailasanath, K., Combustion andFlame,
+
+NASA, Cleveland,
+124:275, 2001.
+
+1999, p.479.
+
+[5]
+
+Sung, C. J., Zhu, D. L., and Law, C. K., Twenty-Seventh
+Symposium (International)
+Combustion, The Combustion Institute, Pittsburgh, 1998, pp. 2559-2566.
+
+on
+
+[6]
+[7]
+
+Partridge, W. P., Reisel, J. R., and Laurendeau, N. M., Combustion andFlame,
+116:282, 1999.
+Davis, R. W., Moore, E. F., Chert, L. D., Roquemore, W. M., Vilimpoc, V., and Goss, L. P.,
+Theoretical and Computational
+FluidDynamics,
+6:113, i9_41=_: i :: _ _=
+,
+Davis, R. W., Moore, E. F,, and Zachariah, M. R., Journai of Crystal Growth, 132:513, 1993.
+Du, J. and Axelbaum, R. L., Combustion andFlame,
+100:367, 1995.
+
+[8]
+[9]
+[10] Bahadori, M. Y., Edelman, R. B., Stocker, D. P., and Olson, S. L., A/AA Journal, 28:236, 1990.
+[ll] Ban, H., Ven_tes_n, S., and Saito, K.., Journal of Heat Transfer, 116:954, 1994.
+[12] Sunderland, P. B., Mendelson, B. J., Yuan, Z. G., and Urban, D. L., Combustion andFlame,
+116:376,
+
+1999.
+
+[13]
+[14]
+[15]
+
+Sidebotham, G.W. and Glassman, I., Combustion andFlame,
+90:269, 1992.
+Kent, J. H. and Wagner, H. G., ZeitschriftFurPhysikalische
+Chemie-Wiesbaden,
+139:59, 1984.
+Arthur, J. R., Commins, B. T., Gilbert, A. S., Lindsey, A. J., and Napier, D. H., Combustion and
+Flame, 2:267, 1958.
+
+[16]
+[17]
+
+Arthur, J. R. and Napier, D. H., Fifth Symposium (International)
+Institute, Pittsburgh,
+1955, pp. 303-316.
+Arthur, J. R., Kapur, P. K., and Napier, D. H., Nature, 169:372,
+
+[18]
+[19]
+
+Leonard,
+Dobbins,
+
+S., Mulholland,
+R. A., Fletcher,
+
+NASA/CP--2001-210826
+
+on Combustion,
+
+The Combustion
+
+1952.
+
+G. W., Puri, R., and Santoro, R. J., Combustion andFlame,
+R. A., and Chang, H. C., Combustion andFlame,
+115:285,
+
+180
+
+98:20,
+1998.
+
+1994.
+

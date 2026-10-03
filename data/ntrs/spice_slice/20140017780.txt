@@ -1,0 +1,635 @@
+An experimental and computational study on soot formation in a coflow jet
+flame under microgravity and normal gravity
+
+Bin Ma1
+
+Su Cao1
+
+Davide Giassi1
+
+Beth Anne V. Bennett1
+1
+
+Dennis P. Stocker2
+
+Mitchell D. Smooke1
+
+Fumiaki Takahashi3
+
+Marshall B. Long1
+
+Department of Mechanical Engineering & Materials Science, Yale University
+New Haven, Connecticut 06511 USA
+2
+
+3
+
+NASA Glenn Research Center, Cleveland, Ohio 44135 USA
+
+National Center for Space Exploration Research, NASA Glenn Research Center
+Cleveland, Ohio 44135 USA
+
+Corresponding Author:
+Bin Ma
+Department of Mechanical Engineering and Materials Science
+Yale University
+New Haven, CT 06511
+(203) 432-4229 (W)
+(203) 432-6775 (FAX)
+bin.ma@yale.edu
+Colloquium:
+
+Laminar flames
+
+Running Title:
+
+Soot formation in microgravity and normal gravity
+
+Paper Length:
+Total of 5754 words based on method 1
+Main text:
+3607
+Figures:
+261+200+582+150+134
+Caption:
+145
+Equations:
+53
+References: 612
+Affirmation: We will cover the cost of the color reproduction charges
+Supplemental: Supplemental material has been made available.
+1
+
+Abstract
+Upon the completion of the Structure and Liftoff in Combustion Experiment
+(SLICE) in March 2012, a comprehensive and unique set of microgravity coflow
+diffusion flame data was obtained. This data covers a range of conditions from weak
+flames near extinction to strong, highly sooting flames, and enabled the study of
+gravitational effects on phenomena such as liftoff, blowout and soot formation. The
+microgravity experiment was carried out in the Microgravity Science Glovebox (MSG)
+on board the International Space Station (ISS), while the normal gravity experiment was
+performed at Yale utilizing a copy of the flight hardware. Computational simulations of
+microgravity and normal gravity flames were also carried out to facilitate understanding
+of the experimental observations. This paper focuses on the different sooting behaviors of
+CH4 coflow jet flames in microgravity and normal gravity. The unique set of data serves
+as an excellent test case for developing more accurate computational models.
+Experimentally, the flame shape and size, lift-off height, and soot temperature were
+determined from line-of-sight flame emission images taken with a color digital camera.
+Soot volume fraction was determined by performing an absolute light calibration using
+the incandescence from a flame-heated thermocouple. Computationally, the MC-Smooth
+vorticity-velocity formulation was employed to describe the chemically reacting flow,
+and the soot evolution was modeled by the sectional aerosol equations. The governing
+equations and boundary conditions were discretized on an axisymmetric computational
+domain by finite differences, and the resulting system of fully coupled, highly nonlinear
+equations was solved by a damped, modified Newton’s method. The microgravity
+sooting flames were found to have lower soot temperatures and higher volume fraction
+
+2
+
+than their normal gravity counterparts. The soot distribution tends to shift from the
+centerline of the flame to the wings from normal gravity to microgravity.
+
+Keywords: microgravity flame, soot temperature, soot volume fraction
+
+3
+
+1.
+
+Introduction
+Microgravity is a unique environment in which to study combustion. The absence
+
+of buoyancy results in a simplified flow field that can serve as a “cleaner” test case to
+develop computational models. Highly diluted flames that extinguish in normal gravity (1
+g) can be stabilized in microgravity (μ g), which enables the study of flames near
+extinction. Sooty flames with enhanced residence time can be also generated, which can
+be used to further study soot formation mechanisms. In general, the contrasting effects in
+normal and microgravity provide an excellent test case for developing an improved
+understanding of the factors that affect flame lift-off distance, extinction, and soot
+formation mechanisms. To better understand the factors that affect flame extinction and
+particulate formation, flames were investigated in the SLICE experiment on board the
+ISS. Although the SLICE experiment investigated flames with a wide dilution spectrum,
+from weak to highly sooting, the work described here emphasizes the sooting behaviors
+of coflow jet flames in microgravity and normal gravity.
+The effect of gravity on soot formation has been studied over the past few
+decades. Experimentally, Greenberg et al. [1] conducted a reduced-gravity experiment in
+the NASA Glenn 2.2 s drop tower, and reported the first normal gravity and microgravity
+comparison of soot volume fraction for laminar acetylene and nitrogen-diluted acetylene
+jet diffusion flames. A factor of 2 to 4 increase in peak soot volume fraction was reported
+from 1 g to μ g. Walsh et al. [2] found that the laser induced incandescence (LII) signal
+of a methane coflow laminar diffusion flame increased by a factor of 15 during a
+parabolic flight. Jeon and Choi [3] studied the buoyancy effect on soot formation in a
+gas-jet diffusion flame in partial gravity conditions from 0.3 g to 1 g. The soot volume
+
+4
+
+fraction was measured by extinction and found to increase with reduced gravity level.
+Riemann et al. [4] performed LII in a drop tower, measuring both soot concentration and
+primary particle size. In microgravity, the maximum soot particle size is roughly double
+that of the 1-g case. Diez et al. [5] studied the properties of non-buoyant, laminar jet
+diffusion flames on board the Space Shuttle Columbia and showed the existence of a soot
+property-state relationship for such flames. Computationally, Kaplan et al. [6] simulated
+an ethylene-air diffusion flame and found that the peak soot volume fraction increased by
+a factor of 10 from 1 g to μ g. Their simulation did not reach steady-state conditions
+within ~ 3 s of microgravity. This result indicates that flames may not stabilize in shortduration drop tower experiments. Kong and Liu [7] recently simulated laminar coflow
+methane/air diffusion flames and studied the effects of the air coflow velocity. The peak
+soot volume fraction in microgravity was found to be about twice that in normal gravity
+[8]. Liu et al. [9] computed the influence of heat transfer and radiation on the structure
+and soot formation characteristics of a coflow laminar ethylene/air diffusion flame and
+showed that radiative heat loss plays a major role in the flame structure in microgravity.
+Charest et al. [10] recently simulated the influence of gravity on a laminar coflow
+methane/air diffusion flame,
+
+demonstrating that the μ-g flame has lower gas
+
+temperatures, thicker soot regions and higher soot volume fractions than the 1-g flame.
+Although significant efforts have been made to experimentally study gravitational
+effects on soot formation processes, there are some uncertainties and complications
+associated with experiments. For example, flames in short-duration drop tower
+experiments are often not fully stabilized; on the other hand, the gravitational-jitter in
+parabolic flight can dramatically disturb low-momentum flames, affecting the accuracy
+
+5
+
+of the measurements. Furthermore, the experimental results are quite limited due to the
+sheer cost of the microgravity experiments. Many computational studies have been
+conducted, but they were performed for conditions different from the available
+experimental data. Therefore, no direct comparison between experiment and computation
+was available for microgravity flames, making it hard to directly assess the effectiveness
+of the computational models. The SLICE project, on the other hand, is a joint
+experimental and computational study. The microgravity tests were conducted by
+crewmember Dr. Donald R. Pettit in 2012 in the Microgravity Science Glovebox (MSG)
+on board the ISS, which provides a stable microgravity environment for conducting longduration experiments. The normal gravity SLICE experiment was performed at Yale,
+using a replica of the SLICE flight hardware (namely, the engineering and training
+hardware). Detailed near-field velocity measurements performed on the engineering unit
+guided the boundary conditions used in the computations. In the following sections, twodimensional comparisons of 1-g and μ-g soot temperature and volume fraction are
+presented from both experiment and computation.
+2.
+
+SLICE experimental setup
+The basic SLICE experimental setup was originally used in the Enclosed Laminar
+
+Flames (ELF) investigation [11] to study the effect of buoyancy on the stability of coflow
+gas-jet diffusion flames during the STS-87 Space Shuttle mission. A schematic of the
+SLICE burner inside the hardware is shown in Fig. 1. The duct has a 76 mm × 76 mm
+square cross-section with rounded corners and is 174 mm tall. The central fuel jet tube
+has a threaded base that allows five nozzles with 0.41, 0.77, 1.59, 2.14 and 3.23 mm inner
+diameter to be interchanged. The fuels used in SLICE include 100% CH4, 70% CH4, 40%
+6
+
+CH4, 100% C2H4 and 20% C2H4 (by volume) diluted with N2. The current study focuses
+on 100% CH4/air laminar diffusion jet flames using 1.59 mm and 3.23 mm fuel nozzles.
+The fuel flow rate was controlled by a mass flow controller and could be adjusted
+manually in the range of 0-500 sccm N2 equivalent flow.
+
+5.17 cm
+
+17.40 cm
+
+Vent
+
+Ceramic honey
+honeycomb
+& wire mesh
+Fan
+7.62 cm
+
+Fig. 1. SLICE burner configuration.
+As shown in Fig. 1, coflow air is supplied by a DC fan located at the upstream
+end of the duct. The coflow air passes through a honeycomb and a wire mesh to
+straighten the flow and flatten the velocity profile before entering the duct. The coflow
+air velocity is varied by changing the fan voltage. An omni-directional hot-sphere
+anemometer between the honeycomb and mesh provides a reference measurement for the
+air velocity. The flow field of the coflowing air was measured in the engineering unit at
+7
+
+different fan voltage levels using a thin (~ 3.8 μm) hot-wire anemometer at the height of
+1 mm above the 1.59 mm fuel nozzle by scanning through the width of the duct. The
+scanning step is 2 mm in the far field where the coflow velocity gradient is small and 0.5
+mm close to the burner where the gradient is large. The measured velocity profiles are
+shown in the supplemental material. Due to hardware imperfections, the coflow near the
+fuel nozzle is not perfectly symmetric. The velocities of the two sides were averaged
+around the burner axis and used to establish the boundary condition for the 2-D
+simulations. Although the flight and engineering units are very similar and steps were
+taken to match conditions as closely as possible between the two, differences in the
+details of the velocity profiles between the two pieces of hardware are possible. In
+comparing results between normal gravity and microgravity, as well as between
+measurements and computations, these uncertainties should be kept in mind. An analog
+color video camera was used to monitor the flame behavior. Several test conditions,
+including fuel flow rate, fan setting, anemometer reading and a timer, were superimposed
+on the video. In post-processing, an optical character recognition algorithm was used to
+analyze the video to automatically obtain the test conditions and time from the recorded
+video. Still images were taken by a digital single lens reflex (DSLR) camera (Nikon
+D300s)1 with a 2 mm BG-7 filter attached in front of the lens. The filter was used to
+balance the red, green, and blue (RGB) channels of the acquired color images. The
+normal test procedure involved manually setting the desired flow conditions and taking
+images in bracket mode to ensure unsaturated images were obtained. The camera
+exposure time and f-number were typically set based on prior ground and microgravity
+1
+
+The product reference was provided for clarity and does not represent an endorsement
+on the part of NASA or the federal government.
+8
+
+test. For each still image captured by the Nikon camera, the corresponding test conditions
+were determined by matching the video time to the image time available in the EXIF
+(EXchangeable Image Format) data, which can be read out by the image processing
+software OMA [12].
+3.
+
+Soot diagnostics
+A color-ratio pyrometry approach based on a color DSLR camera, which was
+
+developed and discussed in [13, 14], was used in this study. The DSLR camera was fully
+characterized and used as a color-ratio pyrometer. The coupled spectral response of the
+camera and BG-7 filter was measured and is similar to the one reported in [14], although
+the SLICE’s BG-7 filter has lower red light transmission. Lookup tables correlating
+temperature and color-ratio were generated by integrating soot spectral emissivity over
+the camera spectral responses as shown by Eq. (1):
+
+SF1
+SF2
+
+=
+
+∫ η (λ )ε (λ ) I (λ,T ) d λ ,
+∫ η (λ )ε (λ ) I (λ,T ) d λ
+F1
+
+BB
+
+F2
+
+BB
+
+Eq. (1)
+
+where SFi is the calculated signal for the ith channel, ηFi is the spectral response of the ith
+channel, ε ( λ ) is the soot spectral emissivity as a function of wavelength λ, and
+I BB ( λ,T ) is the spectral radiance of a black body at wavelength λ and temperature T as
+
+calculated by Planck’s radiation law. The soot emissivity was normally assumed to vary
+with wavelength as shown in Eq. (2) with α being the so-called dispersion exponent.
+
+ε ( λ ) ∝ λ −α ,
+
+Eq. (2)
+
+9
+
+The value of α is fundamentally important to color-ratio pyrometry as it represents the
+underlying assumptions of the soot spectral emissivity model and affects the calculated
+lookup tables. The value is considered to be dependent on the soot aging stages and has
+been measured in several studies with a range of value from 0.5 to 2.2 reported for
+various flame conditions. Mature soot with a higher C/H atom ratio was found to have
+smaller α values and young soot has greater α values [15-18]. A recent study [19]
+performed 2-D measurements of α across the sooty region in a normal gravity N2-diluted
+80% C2H4 coflow laminar diffusion flame. For that case, the measured value of α was
+found to be as small as 0.9 on the flame wings and as large as 1.4 on the flame centerline.
+This trend is in agreement with the literature since soot on the flame wings is expected to
+be more mature with higher C/H ratios and therefore has a smaller value of α. In Ref.
+[19], the spatially resolved 2-D α map was then used in conjunction with color-ratio
+pyrometry to determine the soot temperature. Although it would be desirable to use a 2-D
+
+α map rather than a constant nominal value, it was not possible to measure α in this
+study. Therefore, consistent with previous studies [13], α = 1.38 is assumed for all the
+flames. It should be kept in mind that the derived soot temperature based on a single
+nominal α value may deviate from the true temperature especially in regions with
+different α values such as the flame wings. The effect of α variation on the soot
+temperature and volume fraction will be discussed in Section 5.
+The image processing was performed using the open source software OMA [12].
+Each flame image was separated into three RGB images and then converted to radial
+profiles using an Abel inversion. The soot temperature can then be determined by
+
+10
+
+applying the soot lookup table to the ratio images of the radial profiles. In order to reduce
+unphysical temperatures caused by low signals and noisy ratios, a spatial filter was
+created based on the inverted intensity image and used to cut off areas with signal values
+less than 10% of the maxima. Details of the image processing and temperature
+determination can be found in the original paper describing the technique [13]. Once the
+soot temperature is determined, the soot volume fraction can be obtained through an
+absolute light intensity calibration. Absolute light intensity calibration is used to quantify
+the geometric factors and optical transmission associated with the specific setup. The
+traditional calibration sources such as a blackbody source or a tungsten lamp cannot fit in
+the SLICE duct due to their large volume; as an alternative solution, a novel light
+calibration approach using an S-type thermocouple, which can be easily placed in small
+volumes given its small size, was developed [20]. The spectral emissivity of both the
+platinum and platinum/rhodium wires used to manufacture the S-type thermocouple was
+measured in the visible range. The incandescence of the flame-heated thermocouple can
+then be calculated based on Planck’s radiation law given the measured emissivity and
+thermocouple temperature reading, and was used as the calibration source to quantify the
+soot volume fraction. The details of the calibration procedure are described in Refs. [13,
+20].
+4.
+
+Computational approach
+The MC-Smooth vorticity-velocity formulation [21] of the governing equations is
+
+employed to simulate each flame, with the chemically reactive mixture treated as
+Newtonian, the diffusion of each species approximated as Fickian, the divergence of the
+net radiative flux evaluated by an optically thin radiation model [22-24], and the
+11
+
+evolution of soot particles represented by a sectional model [25-28] with 20 sections. The
+gas-phase chemistry contains 42 species and 250 reactions, which is based on the GRI 3.0
+mechanism [29] with all nitrogen-containing species (except N2) removed and a series of
+reactions related to the formation and oxidation of benzene and associated species (see
+Table 1 of [25]) added. Since each flame is axisymmetric, a 2-D computational domain
+with rmax = 4.29 cm and zmax = 12.20 cm is employed, with all boundary conditions
+selected to match experimental conditions. The square duct is approximated as a coaxial
+tube with an identical cross-sectional area. The domain is spanned by a nonuniform 129 ×
+202 tensor product grid. The governing equations and boundary conditions are discretized
+on this grid via nine-point finite difference stencils. The resulting set of fully coupled,
+highly nonlinear equations is then solved simultaneously at all grid points using a
+damped modified Newton’s method [30, 31] with a nested Bi-CGSTAB linear algebra
+solver [32], and each flame is solved to a Newton tolerance of 10-4. Further information
+on the computational approach can be found in a companion paper [33].
+5.
+
+Results and discussion
+A 100% CH4 flame using 3.23 mm ID nozzle with average fuel velocity of 46
+
+cm/s and nominal air coflow of 18 cm/s was measured at 1 g and μ g. Digital color
+images of both flames are shown in Fig. 2. The fact that the color images appear green is
+due to a BG-7 filter is attached in front of the lens to balance the RGB signal, e.g.,
+preventing saturation in the red channel. Soot temperatures were determined from these
+color images using the color-ratio pyrometry technique. Soot volume fractions were then
+
+12
+
+obtained given the measured temperature and the absolute light calibration using an Stype thermocouple as mentioned in Section 3.
+
+μ
+
+Fig. 2. Digital color images of 1-g (left) and μ-g (right) flames taken through the
+BG-7
+
+filter
+
+under
+
+the
+
+specified
+
+flow
+
+conditions.
+
+The
+
+vertical
+
+coordinate is height above the burner surface.
+The measured soot temperature and volume fraction are shown in the top row of
+Fig. 3. In μ g, a taller and wider flame was produced and the peak soot volume fraction
+increased by a factor of ~ 8. The enhanced soot production resulted in increased thermal
+radiation losses and hence reduced flame temperatures. The peak soot temperature in μ g
+is shown to be ~ 200 K lower than its 1 g counterpart. From 1 g to μ g, the peak of soot
+volume fraction was also redistributed from the flame centerline to the wings. The soot
+growth mode is believed to change from an inception-dominated mode to a surfacegrowth-dominated mode [28]. Computational simulations were also carried out for the
+flame. The simulated soot temperature and volume fraction of the same flame are shown
+13
+
+in the bottom row of Fig. 3. From 1 g to μ g, the flame shape and the shift of soot from
+the centerline at 1 g to the wings at μ g is very well predicted. While making comparisons
+between experiment and computation, it should be noted that the measured soot profile
+shown here is only plotted in regions with good signal-to-noise ratio. It does not
+necessarily suggest there is no soot along the centerline below 5 cm height above the
+burner (HAB) in the μ g flame. On the computed soot volume fraction map, residence
+time contours are also superimposed. The residence time in milliseconds is determined
+based on the simulated axial velocities as shown in Fig. 4 where the radial velocities are
+neglected given their much smaller magnitude. Due to the buoyancy effect, the hot flow
+under 1 g is accelerated and the maximum velocity is up to ~ 200 cm/s at the far
+downstream location, while the μ g maximum velocity is only ~ 90 cm/s at the upstream
+location around the tip of the burner given the parabolic fuel velocity profile. Compared
+to the 1-g flame, the μ-g counterpart is more diffusion-controlled and has thicker
+diffusion layers with more soot production in the wings. The reduction in axial velocity
+results in longer residence times, and allows more time for soot particles to grow and
+results in an enhanced soot volume fraction. The simulation qualitatively captures the
+trend. However, the quantitative agreement between experiment and computation is not
+good. In 1 g, the predicted soot volume fraction has the same order of magnitude as the
+measured value. However, the computation does not capture the dramatic increase in soot
+volume fraction from 1 g to μ g. It should be noted that the current computational model
+uses an optically thin radiation assumption that does not account for radiation
+reabsorption. This may affect prediction of soot temperature, and more importantly, soot
+volume fraction, given its great sensitivity to temperature. A previous study [27] has
+
+14
+
+shown that the simulated soot volume fraction is greater when reabsorption is considered.
+The effect of reabsorption is expected to be more important in microgravity given the
+longer residence time and higher soot volume fraction.
+μ
+
+μ
+
+μ
+
+μ
+
+Fig. 3. (Top) Measured 1-g and μ-g soot temperature comparison (left) and soot
+volume fraction comparison (right) for a 100% CH4 flame with 3.23 mm ID
+nozzle. Average fuel speed is 46 cm/s and coflow speed is nominally 18 cm/s.
+(Bottom) Computed quantities corresponding to the measurements above.
+Residence time contours (milliseconds) are superimposed on the calculated soot
+volume fraction maps.
+
+15
+
+μ
+
+Fig. 4. 1-g and μ-g computed axial velocity comparison [cm/s] in a 100% CH4
+flame with 3.23 mm ID nozzle. Average fuel speed is 46 cm/s and coflow speed is
+nominally 18 cm/s.
+While making quantitative comparisons between experiment and computation, it
+is important to reflect on the measurement uncertainties. As mentioned above, the soot
+dispersion exponent α is assumed to be the same for normal gravity and microgravity
+flames. This may not be true since the microgravity soot with longer residence time is
+expected to be more “mature” and thus to have a smaller value of α. The effect of α on
+measured temperature and soot volume fraction in the μ-g flame is plotted in Fig. 5,
+where the temperature and soot volume fraction at the peak soot volume location are
+plotted as a function of α. While the true soot dispersion exponent remains unknown in
+microgravity, a range from 0.9 to 1.38 is estimated based on literature values [15-18] and
+our previous investigation [19]. As the value of α increases from 0.9 to 1.38, the derived
+temperature is shown to decrease from ~ 1622 K to ~ 1575 K and the soot volume
+fraction is shown to increase from ~ 2.6 ppm to ~ 4.5 ppm. The derived soot volume
+fraction is affected more strongly, because temperature appears in the exponential term in
+16
+
+Planck’s radiation equation. By considering the estimated range of the soot dispersion
+exponent α from 0.9 to 1.38, the measured microgravity soot temperature is possibly
+underestimated by up to ~ 50 K, and the measured microgravity soot volume fraction is
+possibly overestimated by up to a factor of nearly 2. From 1 g to μ g under the current
+flow conditions, the peak soot volume fraction is shown to increase by a factor of
+approximately 4 to 8 bounded by the uncertainty in soot dispersion exponent in
+microgravity.
+
+Fig. 5. The effect of soot dispersion exponent α on measured temperature and
+soot volume fraction at the position with peak soot volume fraction.
+More normal gravity and microgravity CH4 flames have been measured. In order
+to make the data more widely available and facilitate computations using other codes, the
+data files of soot temperature and volume fraction and their corresponding boundary
+conditions are made available in the supplemental materials. Example Matlab code to
+read and plot data is also attached.
+
+6.
+
+Conclusions
+A unique set of CH4/air coflow laminar diffusion flames were measured and
+17
+
+computed in normal gravity and microgravity as part of the SLICE project to investigate
+the gravitational effects on sooting behaviors in these flames. The ISS provided a stable
+microgravity environment for conducting long-duration, high-quality microgravity
+combustion measurements. From the experiments, the microgravity flames were found to
+be sootier than normal gravity flames by a factor of approximately 4 to 8 in terms of the
+peak soot volume fraction (based on the uncertainty of the soot dispersion exponent and
+temperature measurements). The distribution of peak soot was also found to shift from
+the centerline of the flame at 1 g to the wings at μ g. The flame temperature in μ g is
+shown to be lower than its 1-g counterpart due to higher soot loading and radiative loss.
+Computations of both 1-g and μ-g flames yield good agreement in flame shape with
+experimental results. The computational model also successfully captured the soot
+migration from the centerline at 1 g to the wings at μ g. However, the soot volume
+fraction is underestimated, especially in microgravity. Accurate prediction of the soot
+volume fraction remains a challenge. Advanced reabsorption submodels will be
+introduced in the future to better predict soot temperature and volume fraction. More
+measured and computed temperature and soot volume fraction data files at different flow
+conditions and their corresponding boundary conditions are made available in the
+supplemental material.
+7.
+
+Acknowledgements
+This research was supported by NASA under contract NNX11AP43A. The
+
+authors would like to thank astronaut Don Pettit for conducting SLICE’s microgravity
+tests, SLICE Project Manager Bob Hawersaat, and operations team members Chuck
+Bunnell, Tibor Lorik, Jay Owens and Carol Reynolds.
+18
+
+8.
+
+References
+
+1.
+2.
+
+P. S. Greenberg, J. C. Ku, Combust. Flame 108 (1–2) (1997) 227-230.
+K. T. Walsh, J. Fielding, M. D. Smooke, M. B. Long, Proc. Combust. Inst. 28
+(2000) 1973-1979.
+B.-H. Jeon, J. Choi, J Mech Sci Technol 24 (7) (2010) 1537-1543.
+J. Reimann, S.-A. Kuhlmann, S. Will, Microgravity Sci. Technol. 22 (4) (2010)
+499-505.
+F. J. Diez, C. Aalburg, P. B. Sunderland, D. L. Urban, Z. G. Yuan, G. M. Faeth,
+Combust. Flame 156 (8) (2009) 1514-1524.
+C. R. Kaplan, E. S. Oran, K. Kailasanath, H. D. Ross, Proc. Combust. Inst. 26 (1)
+(1996) 1301-1309.
+W. Kong, F. Liu, Combustion Theory and Modelling 13 (6) (2009) 993 - 1023.
+W. J. Kong, F. S. Liu, Microgravity Sci. Technol. 22 (2) (2010) 205-214.
+F. Liu, G. J. Smallwood, W. Kong, Journal of Quantitative Spectroscopy and
+Radiative Transfer 112 (7) (2011) 1241-1249.
+M. R. J. Charest, C. P. T. Groth, Ö. L. Gülder, Combust. Flame 158 (5) (2011)
+860-875.
+J. E. Brooker, K. Jia, D. P. Stocker, L.-D. Chen, Proceedings of the Fifth
+International Microgravity Combustion Workshop (1999) 97-100.
+P. A. M. Kalt, M. B. Long, http://www.oma-x.org (2013).
+P. B. Kuhn, B. Ma, B. C. Connelly, M. D. Smooke, M. B. Long, Proc. Combust.
+Inst. 33 (1) (2011) 743-750.
+B. Ma, G. Wang, G. Magnotti, R. S. Barlow, M. B. Long, Combust. Flame (0)
+(In press). http://dx.doi.org/10.1016/j.combustflame.2013.10.014
+C. R. Shaddix, Á. B. Palotás, C. M. Megaridis, M. Y. Choi, N. Y. C. Yang, Int. J.
+Heat Mass Transfer 48 (17) (2005) 3604-3614.
+H. Zhao, N. Ladommatos, Prog. Energy Combust. Sci. 24 (3) (1998) 221-255.
+A. D'Alessio, F. Beretta, C. Venitozzi, Combust. Sci. Technol. 5 (1) (1972) 263272.
+R. C. Millikan, J. Opt. Soc. Am. 51 (6) (1961) 698-699.
+B. Ma, M. B. Long, Appl. Phys. B (submitted).
+B. Ma, M. B. Long, Proc. Combust. Inst. 34 (2) (2013) 3531-3539.
+S. Cao, B. A. V. Bennett, M. D. Smooke, (in preparation).
+D. K. Edwards, Adv. Heat Transfer 12 (1976) 115–193.
+R. J. Hall, Journal of Quantitative Spectroscopy and Radiative Transfer 51 (4)
+(1994) 635-644.
+R. J. Hall, Journal of Quantitative Spectroscopy and Radiative Transfer 49 (5)
+(1993) 517-523.
+R. J. Hall, M. D. Smooke, M. B. Colket, in: Physical and Chemical Aspects of
+Combustion: A Tribute to Irvin Glassman (R.F. Sawyer and F.L. Dryer, Eds.),
+Combustion Science and Technology Book Series, Gordon and Breach:
+Amsterdam, 1997.
+M. D. Smooke, C. S. McEnally, L. D. Pfefferle, R. J. Hall, M. B. Colket,
+Combust. Flame 117 (1-2) (1999) 117-139.
+
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+
+26.
+
+19
+
+27.
+28.
+29.
+
+30.
+31.
+32.
+33.
+
+M. D. Smooke, R. J. Hall, M. B. Colket, J. Fielding, M. B. Long, C. S. McEnally,
+L. D. Pfefferle, Combustion Theory and Modelling 8 (3) (2004) 593-606.
+M. D. Smooke, M. B. Long, B. C. Connelly, M. B. Colket, R. J. Hall, Combust.
+Flame 143 (4) (2005) 613-628.
+G. P. Smith, D. M. Golden, M. Frenklach, N. W. Moriarty, B. Eiteneer, M.
+Golderberg, C. T. Bowman, R. K. Hanson, S. Song, W. C. Gardiner, V. V.
+Lissianski, Z. Qin, GRI-Mech 3.0; available at
+http://www.me.berkeley.edu/gri_mech (1999).
+P. Deuflhard, Numerische Mathematik 22 (4) (1974) 289-315.
+M. D. Smooke, Journal of Optimization Theory and Applications 39 (4) (1983)
+489-511.
+H. A. Van der Vorst, SIAM Journal on Scientific and Statistical Computing 13 (2)
+(1992) 631-644.
+S. Cao, B. Ma, B. A. V. Bennett, D. Giassi, D. P. Stocker, F. Takahashi, M. B.
+Long, M. D. Smooke, Proc. Combust. Inst. (submitted).
+
+20
+
+Fig. 1. SLICE burner configuration.
+
+Fig. 2. Digital color images of 1-g (left) and m-g (right) flames taken through the BG-7
+filter under the specified flow conditions. The vertical coordinate is height above the
+burner surface.
+
+Fig. 3. (Top) Measured 1-g and μ-g soot temperature comparison (left) and soot volume
+fraction comparison (right) for a 100% CH4 flame with 3.23 mm ID nozzle. Average fuel
+speed is 46 cm/s and coflow speed is nominally 18 cm/s. (Bottom) Computed quantities
+corresponding to the measurements above. Residence time contours (milliseconds) are
+superimposed on the calculated soot volume fraction maps.
+
+Fig. 4. 1-g and μ-g computed axial velocity comparison [cm/s] in a 100% CH4 flame with
+3.23 mm ID nozzle. Average fuel speed is 46 cm/s and coflow speed is nominally 18
+cm/s.
+
+Fig. 5. The effect of soot dispersion exponent α on measured temperature and soot
+volume fraction at the position with peak soot volume fraction.
+
+21
+

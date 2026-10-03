@@ -1,0 +1,531 @@
+Spacecraft Fire Safety Research
+NASA Glenn Research Center
+By
+Marit Meyer
+Combustion Systems and Reacting Processes Branch
+Cleveland, Ohio USA
+August 2016
+
+1
+
+NASA Glenn Research Center
+Cleveland, Ohio
+
+2
+
+NASA Glenn,
+Cleveland
+
+3
+
+Toronto
+Detroit
+Chicago
+NASA Glenn,
+Cleveland
+
+4
+
+Jargon Spacecraft Fire Safety terms
+Aerosols are tiny particles suspended in
+the air.
+Aerosols in Earth's atmosphere include
+pollution, smoke, dust, pollen as well as
+particles from many other natural and
+man-made materials.
+We breathe in aerosols all day long.
+5
+
+Jargon Spacecraft Fire Safety terms
+1 nanometer is a billionth of a meter
+
+6
+
+Jargon Spacecraft Fire Safety terms
+I overheat materials to make smoke…
+Called pyrolysis (like smoldering)
+--No flames (no combustion)
+When smoke is concentrated, it ‘ages’
+--individual particles stick together
+=agglomeration
+7
+
+Fire Facts
+• Almost 20% of home fire deaths resulted from fires
+beginning with upholstered furniture
+• Over 40% of home fires are caused by cooking
+equipment
+• Fire safety systems here on Earth have been developed
+based on extensive study of typical fires
+• Established body of research characterizes smoke from
+building fires and forest fires (flaming combustion)
+
+• Current fire detection systems in space were developed
+without spacecraft fire data
+• International Space Station has no cooking, no couches that
+can catch on fire
+• A need existed for a comprehensive study of smoke from
+typical spacecraft materials
+
+8
+Statistics source: National Fire Protection Association (NFPA) Fire Analysis and Research Fact Sheet, April 2013.
+
+Outline
+• Background Information
+• Fire and Spacecraft
+• Smoke Aerosol Measurement Experiment (SAME)
+
+• Smoke-in-drums Experiment
+• GASP laboratory study on early smoke detection
+• Morphology of selected smoke particles
+• SAFFIRE Experiment
+
+9
+
+Fire in Space
+
+1g
+
+0g
+
+• Materials in spacecraft are non-flammable, but can
+still overheat and smoke
+• With the absence of gravity smoke does not rise
+• Most likely source of a fire is overheating electronic
+equipment
+• Goal: detect smoke before a flame develops
+• Research smoke from pyrolysis, not flames (combustion)
+10
+
+International Space Station
+
+11
+
+Destiny Module, a.k.a. U.S. Lab
+
+12
+
+Destiny Module, aka U.S. Lab
+
+‘Dirty air’ pulled through HEPA filters here
+
+13
+Simulation results courtesy of John Brooker, ‘ISS Destiny Laboratory Smoke Detection Model,’ DOI: 10.4271/2007-01-3076
+
+Destiny Module, a.k.a. U.S. Lab
+
+Low-gravity
+
+Normal-gravity
+14
+Simulation results courtesy of John Brooker, ‘ISS Destiny Laboratory Smoke Detection Model,’ DOI: 10.4271/2007-01-3076
+
+Avoid false alarms:
+Turn off smoke detectors while vacuuming
+
+15
+
+Smoke Aerosol Measurement Experiment
+(SAME)
+• On ISS in 2007 and 2010
+• Experiment designed to generate
+pyrolysis smoke in low gravity
+• Common spacecraft materials
+• Ability to concentrate and age smoke
+in space
+• Measure with small, cheap
+instruments
+• The best choices at the time
+
+• Collect smoke particles to bring back
+for microscopy
+
+16
+
+Smoke Aerosol Measurement Experiment
+(SAME)
+
+17
+
+SAME Spacecraft Materials
+Pyrell® (flame retardant
+polyurethane foam), used to
+cushion payloads during launch
+
+Teflon® is used in wire
+insulation, sampling
+bags, space suits &
+cargo liners
+
+Lamp wick (cellulose)
+represents clothing & paper
+
+Silicone rubber, used in
+gaskets & adhesives
+
+Kapton® film, a
+polyimide used for thinfilm heaters, wire
+insulation, tape, space
+suits
+18
+
+Microgravity Science Glovebox (MSG)
+
+19
+
+Ground Unit - SAME Hardware in MSG
+Data
+Acquisition and
+Control Unit
+
+Aging
+Chamber
+
+Fluids
+Control
+Unit
+
+Sample
+Diluter
+Instrument
+Boxes
+
+Tubing
+Bundle
+
+Sample
+Carousel
+
+Particle
+collector
+20
+
+SAME Smoke Particles from ISS
+Teflon
+
+Pyrell
+
+Lamp wick
+
+Kapton
+scale bars = 2 μm
+
+21
+
+Smoke-in-drums Ground Experiment
+• Goal
+• Make SAME smoke in a lab
+• Measure with returned ISS instruments—AND—a high
+fidelity reference instrument (which is too heavy and
+complex to fly)
+
+• Dilute the smoke by sending it into a large 55 gallon
+drum
+• Stops coagulation (aging) of the smoke particles during
+measurements
+
+22
+
+Smoke-in-drums Experiment
+SAME smoke generation
+hardware is ground
+engineering hardware
+(identical to ISS setup)
+
+Instruments are
+units returned
+from ISS
+
+23
+
+Hood for purged smoke
+
+Smoke-in-Drums Experiment
+SAME
+engineering HW
+makes smoke
+
+Small instruments
+returned from ISS
+
+Reference
+instrument
+
+Two drums for aged &
+unaged smoke
+
+24
+
+Compare Particle Size Distribution: Pyrell
+249 nm
+364 nm
+
+unaged
+
+• ISS flight, 242 °C
+• Smoke-in-drums, 234 °C
+25
+Meyer et al. 2015, ‘Smoke Characterization and Feasibility of the Moment Method for Spacecraft Fire Detection,’ DOI: 10.1080/02786826.2015.1025124
+
+Gases and Aerosols from Smoldering
+Polymers (GASP) Laboratory
+
+• Two vented enclosures cover all instruments
+• Tube furnace heats materials in a ceramic ‘boat’
+• Safety permit = 1.5 years
+26
+
+One Recent GASP Experiment
+
+• Test a miniaturized particle sensor for early
+detection of smoke from spacecraft materials
+• Compact Optical Dust Sensor (COTS)
+• Has potential for use in spacecraft fire detection?
+• Output response correlated to aerosol mass concentration for
+incense smoke (Yang et al. 2015)
+4.6 cm x 3 cm, 16 g
+
+COTS=Commercial-off-the-shelf
+
+27
+
+GASP Fuels
+Nomex, a heat and flame-resistant woven textile,
+used for acoustic insulation, cargo bags, thermal
+blankets & pressure suits
+
+28
+
+GASP Fuels
+Tobacco
+
+Teflon piece
+
+Components
+
+Bulk Kapton
+
+Components: several thin film resistors, a
+tantalum capacitor, an inductor and a resinencapsulated LED with the leads removed
+29
+
+GASP Experiments: Early Fire Detection
+
+ISS smoke detector alarm
+threshold = 2 mg/m3
+
+Teflon smoke
+generated would
+never trigger
+alarm
+
+Detection times from 1 minute to 6 minutes (Teflon is infinity)
+Too slow!
+30
+
+PCB is ‘printed circuit board’ (bare FR-4)
+
+Circuit board & Components
+~ 350 nm
+
+200 to 400 nm
+
+31
+Images and microscopy data courtesy of RJ Lee Group
+
+Circuit board & Components
+
+Crustal particle
+
+32
+Microscopy courtesy of RJ Lee Group
+
+Wire Insulation Smoke Particles
+(partially fluorinated polyimide, PFPI)
+
+0.1mm
+
+0.5mm
+0.2mm
+
+Crystalline particles
+
+33
+Images courtesy of RJ Victoria Bryg/NSCER
+
+Teflon Smoke Particles
+700 nm
+
+50 nm
+250 nm
+
+25 nm
+34
+Images courtesy of RJ Lee Group and Victoria Bryg/NSCER
+
+Kapton Smoke Particles
+
+• Thermal decomposition of Kapton
+results in liquid aromatic products
+• The general spherical shape of the
+particles observed is consistent with
+the particles starting as a liquid
+solution with many components
+• Chain-like agglomerates, 100 to 350 nm
+primaries
+35
+Images courtesy of RJ Lee Group and Victoria Bryg/NCSER
+
+Nomex Char Particles
+
+36
+Microscopy courtesy of RJ Lee Group
+
+Nomex Tar Balls
+
+37
+Images courtesy of RJ Lee Group
+
+We need a ‘big burn’!
+• Past NASA combustion research
+• Burning 3mm fuel droplets
+• Small samples
+
+FAA full scale aircraft
+test
+
+Naval Research
+Laboratory
+Ex-USS Shadwell
+
+Controlled
+burns of
+structures
+
+Most U.S. agencies responsible for large
+transportation systems conduct full-scale fire tests
+
+38
+
+SAFFIRE: Spacecraft Fire Safety
+Demonstration
+• Use a disposable cargo
+vehicle for a fire experiment
+just before de-orbit and
+destruction
+• SAFFIRE I, II, III
+• Orbital Cygnus vehicle
+
+• SAFFIRE IV, V, VI
+• SpaceX Dragon vehicle
+
+39
+
+SAFFIRE: Spacecraft Fire Safety Demonstration
+The video below can be found at: https://www.youtube.com/watch?v=0JkQ12JluJ0
+
+40
+
+Summary
+• Ongoing work at NASA Glenn Research Center is performed to
+characterize smoke aerosols for improving spacecraft fire safety
+• Oxidative pyrolysis experiments
+• Variables affecting smoke production
+• Database of spacecraft smoke properties
+• Detection
+• Post-fire cleanup
+
+• SAFFIRE
+• Tests 1 through 3 –combustion emphasis
+• Tests 4 through 6 –smoke detection emphasis
+• GASP lab will support with fuel experiments and instrument downselection
+• New smoke ‘room’ under construction at Glenn
+
+41
+
+Questions?
+
+42
+
+Other Fire Research at NASA Glenn Research Center
+Why Study Combustion in Reduced Gravity ?
+• To enable space exploration
+• To advance science
+• To enable technologies on earth
+The Combustion Integrated Rack (CIR) is an ISS Rack in the Destiny module
+dedicated to combustion research on the ISS
+• Study combustion in a range of ambient environments
+• Study liquid, gaseous and solid fuel combustion
+• Modular and upgradeable to improve capabilities as technologies mature
+• Capable of remote, nearly autonomous operation
+The ISS Experiment manifest
+• Droplet Combustion – FLEX (2009 – 2016)
+• Gaseous Combustion – ACME (2017 – 2018)
+• Solid Combustion – SoFIE (2019 – 2020)
+Flame Extinguishment Experiment (FLEX) results revealed a unique twostage burning event: Cool Flames
+• Hot flame radiatively extinguishes -> initiates cool flame burning
+• Observation not possible without long-duration microgravity
+• Originally thought to be ‘impossible’
+• Near-term applications to new engine (e.g., HCCI) technologies - lower
+emissions and higher efficiencies
+• Spacecraft safety procedures based only on considerations of hot flames
+may be inadequate for assuring safety under all conditions.
+43
+
+Links for more Saffire information
+• http://www.theverge.com/2016/3/16/11244364/nasa-saffire-test-fire-orbital-atk-cygnus-issresupply-mission (links to Saffire animation)
+• http://phys.org/news/2016-03-nasa-space-unmanned-orbiting-craft.html
+•
+
+http://m.voanews.com/a/nasa-plans-to-light-large-fire-in-space/3240548.html
+
+• http://www.sciencealert.com/nasa-is-going-to-start-a-large-fire-in-space-in-the-name-ofscience (Has a video of FLEX.)
+•
+
+http://www.computerworld.com/article/3044797/space-technology/nasa-intends-to-start-alarge-scale-fire-in-space.html#tk.rss_all (Quotes Astronaut Dan Tani and also links to Saffire
+animation video)
+
+• http://en.people.cn/n3/2016/0317/c90000-9031350.html
+• https://www.rt.com/usa/335874-nasa-fire-space-cygnus/ (Another link to Saffire video)
+• http://www.independent.co.uk/news/science/nasa-to-set-a-ship-on-fire-in-space-to-test-safetyin-emergencies-a6934081.html (Shows the ISS)
+• https://www.yahoo.com/news/nasa-test-fire-space-burning-unmanned-orbiting-craft081545440.html
+• http://spaceflightnow.com/2016/03/16/scientists-to-start-fire-in-discarded-spacecraft-forweightless-flames-study/
+44
+
+45
+
+Fire Basics
+Diffusion flame: fuel is on one side and the oxidizer is on the other side. Examples are forest
+fires, a candle flame, industrial scale furnace and a flame spreading across a piece of paper
+
+Expts by Shannon
+Lucid on Mir
+
+Air
+
+Fuel
+
+1g
+
+0g
+
+Basics
+What makes a fire grow or die?
+Heat Generation Rate > Heat Loss Rate: Fire persists
+
+Heat Generation Rate < Heat Loss Rate: Extinguishes
+Heat Generation Rate
+• Concentration of Fuel, Concentration of Oxygen, Temperature (exponential
+dependence), Pressure, Type of fuel
+Heat Loss Rate
+• Radiation, Conduction, Convection – all functions of temperature difference between
+fire and surroundings
+
+To first order, gravity affects the rate of supply of oxygen and rate of convective
+loss of heat…
+but there are lots of other effects
+
+Microgravity Behavior
+
+Lower temperature, but it melts faster… it doesn’t drip…
+

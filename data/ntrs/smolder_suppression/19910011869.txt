@@ -1,0 +1,1954 @@
+/A/-/_,
+
+go 3 "7
+NASA
+
+Technical
+
+Memorandum
+
+104334
+
+-
+
+Fire Suppression in
+Human-Crew Spacecraft
+
+Robert
+
+•
+
+=
+
+Friedman
+
+National Aeronautics
+and Space Admihistration
+Lewis Research Center
+Cleveland,
+
+Ohio
+
+and
+Daniel
+
+L. Dietrich
+
+-
+
+Sverdrup Technology, Inc.
+Lewis Research Center
+Cleveland,
+
+v
+
+......
+
+_ .....
+
+_......
+
+Ohio
+
+Prepared for the
+Halon Alternatives
+cosponsored
+
+"
+
+-
+
+Technical
+
+Worldng
+
+by The University
+
+conference
+
+or New Mexico,
+
+The New Mexico
+
+Research Institute, and The Center for Global Environmental
+Albuquer_e,
+New Mexico, April 30--May.
+!_, 1991 ......
+(NASA-TM-I04334)
+FIRE
+HUMAN-CREW
+SPACECRAFT
+
+SUPPRESSION
+(NASA)
+14
+
+p
+
+IN
+CSCL
+
+Engineering
+
+Technologies
+
+N91-21182
+06K
+
+G3/16
+
+Unclds
+000_031
+
+FIRE
+SUPPRESSION IN
+
+HUHAN-CRE'gSPACECRAFT
+
+Robert Friedman
+National Aeronautics and Space Administration
+NASA Lewis Research Center
+Cleveland, Ohio 44135
+Daniel L. Dietrich
+Sverdrup Technology Inc.
+Lewis Research Center Group
+Brook Park, Ohio 44142
+SUMMARY
+Since fire prevention in spacecraft is never assured (minor fire incidents have, in fact,
+occurred), a second-line defense of fire extinguishment is essential.
+equipped with water and foam for extinguishing agents.
+
+Early spacecraft were
+
+The present Shuttle carries Halon 1301,
+
+despite its well known environmental and reaction-product problems.
+
+If an extinguisher were dis-
+
+charged during a Shuttle flight, the spacecraft would immediately be returned to Earth for cleanup of the atmosphere and affected surfaces.
+
+For the future U.S. Space Station Freedom, the
+
+specified agents are carbon dioxide in the U.S. laboratories and nitrogen in the hyperbaric
+(decompression) chamber.
+
+The major challenge to spacecraft fire extinguishment design and opera-
+
+tions is from the low-gravity (microgravity) environment, which minimizes buoyant, naturalconvective flows and profoundly influences extinguishment agent effectiveness, dispersal
+and post-fire cleanup.
+
+The paper discusses the experience and knowledge of extinguishment in
+
+microgravity, the fire-suppression problems anticipated in future spacecraft, and research needs
+and opportunities.
+INTRODUCTION
+A spacecraft in low-earth orbit, such as the U.S. Shuttle, experiences a free-fall
+condition, an environment popularly called zero gravity, but more correctly termed microgravity
+because slight residual accelerations or disturbances are always present.
+
+The strong, upward
+
+buoyant flow of hot combustion products observed in normal gravity is greatly reduced in lowgravity fires, thus affecting the mass and energy transport to the flame zone and the resulting
+fire characteristics (ref. I).
+
+Microgravity fires in still air thus tend to be cooler and
+
+sootier than those in normal gravity and tend to spread slowly.
+
+On the other hand, microgravity
+
+fires under low-speed convective flow (ventilation, for example) have been observed in paper-fuel
+tests to have greater flammability limits and flame-spread rates than those in corresponding
+normal gravity (ref. 2).
+
+Furthermore, other studies suggest that smoldering materials in low
+
+gravity may readily transition to flaming combustion, due to reduced heat losses (ref. 3).
+Several problems arise in preventive fire suppression or in extinguishment of established
+fires in spacecraft.
+
+Probable fire scenarios include fire situations that are difficult to
+
+access and penetrate (smoldering fires in waste containers, for example).
+
+The flame-cooling and
+
+oxygen-dilution effectiveness of agents may be reduced by the negligible natural convection and
+reduced mass and energy transport rates.
+
+The same changes in transport rates plus the strict
+
+mass, volume, and energy limitations can also present formidable problems in the design of
+effective agent storage and delivery systems.
+
+Finally, complete post-fire cleanup after extin-
+
+guishment is critical in space, to prevent both immediate and long-term toxic and corrosive
+hazards.
+The scope of this paper is the review of spacecraft fire-suppression concepts and
+practices, covering past and present spacecraft techniques, applicable findings in systems
+ana]yses and microgravity combustion science, proposed systems for the primary human-crew space
+mission of the future, the U.S. Space Station Freedom, and research needs and opportunities.
+
+BACKGROUND
+While materials for spacecraft should meet defined standards of low flammability, many common flammable materials, such as cotton toweling, paperproducts,
+tabs, have no effective substitutes.
+
+films, sealants, and Velcro
+
+Their use is permitted in spacecraft through waivers spe-
+
+cifying inventory control and fire-protected storage.
+
+Furthermore, while obvious ignition
+
+sources are precluded, breakdowns of common equipment, such as heaters, electrical components,
+and friction devices, can provide potential ignition energy (refs. i and 4).
+
+Thus, the
+
+occurrence of minor fire incidents must be considered, and the second-line protection of fire
+detection and extinguishment is essential for spacecraft fire safety (refs. 1 and 5).
+While experience has shown that present protection on the Shuttle is adequate, there is
+growing attention to the improvement of fire safety through research and technology.
+
+First,
+
+analyses and experiments on microgravity combustion science have strengthened the understanding
+and potential applications of this field (ref. 6).
+
+Second, changes in fire-safety practices
+
+outside the space field also influence the technology of space (the phasing out of Halon 1301 use
+is a good example, ref. 7). Finally, and perhaps most importantly, the approaching era of the
+extended duration missions of the Shuttle and Space Station Freedom demands improvements and
+innovations in fire safety, due to the complex nature of the anticipated designs and operations
+(ref. 8).
+The earliest U.S. human-crew spacecraft had no dedicated systems for fire extinguishing.
+In the 100 percent-oxygen atmosphere of the Apollo spacecraft, the water-metering dispenser used
+for drinking and freeze-dried food reconstitution served as an emergency fire extinguisher
+(fig. I).
+
+This water gun was never needed for fire extinguishment in space; this may be for-
+
+tunate because the later Skylab tests of Kimzey demonstrated the difficulty of controlling and
+directing water sprays in space (ref. 9).
+
+The Apollo program also developed a foam extinguisher,
+
+which was included in the protection system of the original U.S. space station project, Skylab
+(fig. 2).
+
+This extinguisher generated a mixed-phase agent propelled by Freon and nitrogen gases.
+
+The fluid-flow behavior of the extinguisher was demonstrated in space but not its fire-fighting
+capabilities.
+In the current U.S. Shuttle and its inhabited laboratory payloads (Spacelab and the future
+Microgravity Laboratories), a Halon 1301 system is provided.
+
+The Shuttle system consists of
+
+portable extinguishers plus fixed fire extinguishers installed in each of three electronic bays
+(fig. 3).
+
+Ports in the instrument panels permit the insertion of extinguisher nozzles for access
+
+to internal fires.
+
+The extinguishers have been discharged in space only for demonstration
+
+purposes.
+The Halon 1301 fire-extinguishing system design on the Shuttle is an adaptation of systems
+used effectively in the cargo bays and other locations of aircraft.
+
+While external environmental
+
+contamination is immaterial in orbiting spacecraft, the use of Halon extinguishment creates longterm problems of toxic contamination and corrosion from the hydrogen halide reaction products,
+which are not easily removable by the spacecraft environmental-control system.
+
+Immediately after
+
+the discharge of an extinguisher on the Shuttle, however, a mission must be terminated and
+returned to earth within a few orbits.
+
+Thus, no substitute agent is under consideration for the
+
+Shuttle, because post-fire cleanup can be accomplished on the ground.
+
+For Space Station Freedom
+
+in a permanent orbit, the long-term atmospheric contamination and component corrosion problems
+from the reaction products cannot be ignored.
+The review by Bluth (ref. 10) noted that there is a fire-extinguishing system in the only
+current operational space station, the Soviet Mir.
+
+A recent NASA inspection-trip report (Loftus,
+
+J.P.,
+
+et al., unpublished, December 1989) identifies the agent as a foam, perhaps similar to the
+
+agent used in the U.S. Skylab.
+
+A fire on the earlier Salyut 7 required both the discharge of an
+
+extinguisher and venting of the cabin atmosphere.
+
+The atmosphere of the uninhabited space
+
+station was replenished by a subsequent supply flight.
+
+Two minor incidents that occurred in the
+
+U.S. Shuttle missions were both the result of short circuits that caused overheating of wire
+insulation and brief smoldering.
+
+In each incident, the abnormal conditions were immediately
+
+observed by the crew, and the incipient fire was suppressed by deenergizing the appropriate circuits. The fire detectors did not actuate, nor was a fire extinguisher discharged.
+
+SELECTION OF EXTINGUISHING AGENTS FOR SPACE
+For spacecraft use, extinguishing agents must meet a strict set of physical requirements in
+addition to the effectiveness of fire suppression.
+
+There have been several system analyses or
+
+tradeoff studies to evaluate candidate extinguishing agents for spacecraft use, based on assessments of qualifications.
+For the preliminary design of Freedom, a trade-off study (Opfell, J.: Fire Detection and
+Fire Suppression Trade Study, Allied-Signal Aerospace Co. report, unpublished, September 1985)
+ranked four candidate agents, carbon dioxide, Halon 1301, water, and nitrogen, on their response
+to a range of typical fire situations (NFPA Class A, B, and C, for example).
+weights to 19 attributes for agent evaluation.
+
+The study assigned
+
+As examples, the highest-weight attributes were
+
+risk (from use of the agent), reliability, accommodation to Freedom, developmental cost, initial
+cost, and crew usage.
+
+The selected agent, carbon dioxide, was on the basis of a slight numerical
+
+superiority, perhaps because the use of many attributes diluted the sensitivity of the analysis.
+A generic system study, based on a 1987 thesis by Sheridan (ref. 11), examined requirements for
+two spacecraft scenarios, extinguishment of a localized fire (NFPA Class A, B, or C) and suppression or explosion prevention of a large hydrogen fire (possibly from environmental-control system
+leakage).
+
+For the localized fire, the study ranked CO2, N2, dry chemicals, foam, Halon 1301, and
+
+deionized water for effectiveness, toxicity, system cost and mass, and technical readiness.
+
+For
+
+the large fire, the study limited the candidates to COz, N2, and Halon 1301 and substituted module
+pressure buildup for toxicity. The results of the Sheridan analysis were the selection of CO2
+for the localized fire and Halon 1301 for the large fire. A recent analysis by Reuther (ref. 12)
+evaluated candidate agents of water, nitrogen, Halon 1301, carbon dioxide, and foam for a localized spacecraft fire scenario of smoldering, with respect to seven critical requirements, as well
+as flame-zone radiation effects.
+
+The preferred agent was again CO2.
+
+The study also selected Nz
+
+for a scenario of atmospheric inerting to prevent explosion of a major hydrogen leak and fire,
+although this choice was a hypothesis because there were insufficient data for an effective
+analysis.
+Table i is a summary of relevant selection factors for the three principal extinguishants,
+Halon 1301, CO2, and N2. Gaseous agents such as these have obvious advantages for delivery under
+space conditions.
+In the past, as noted, liquid water and mixed-phase agents have been specified
+for, if not actually used in, early spacecraft; and research proponents continue to urge research
+on nongaseous agents, such as water and mixed-phase foams (ref. 8).
+EXPERIMENTAL STUDIES ON FIRE SUPPRESSION IN LOW GRAVITY
+Early Tests
+The original concern of studies of fire suppression for spacecraft was primarily for fire
+control in enriched-oxygen atmospheres and not necessarily for low-gravity control.
+
+Neustein
+
+et
+
+al. (ref. 13) developed a nozzle design in 1968 that generated a hollow cone of nitrogen (or
+
+helium) to exclude oxygen from a fire zone for extinguishment in an enriched-oxygen, microgravity
+atmosphere.
+
+While some flammability tests were conducted in low-gravity, parabolic airplane
+
+flights, extinguishment tests on burning cloth samples were conducted only under normal-gravity
+conditions. Kimzey (ref. 9) conducted an extensive set of fire experiments in a combustion
+chamber with a 60 percent-O2 atmosphere on the U.S. space station Skylab in 1974.
+
+Until
+
+recently, these tests were the only combustion-related study conducted in a spacecraft.
+
+In the
+
+course of this study, Kimzey attempted to terminate some tests through two means of extinguishment, venting to vacuum and water sprays, with discouraging results.
+sified the fire through forced convection before extinguishing it.
+isolated droplets.
+
+The vacuum venting inten-
+
+The water spray broke up into
+
+Only a few droplets struck the burning material, and they tended to scatter
+
+the flaming material rather than extinguish the flame.
+Studies with Halon 1301
+With the introduction of Halon 1301 as the extinguishing agent in the Shuttle, small-scale
+tests were conducted on the effectiveness of this agent at the NASA Lewis Research Center
+(_aggard, J.B.: unpublished data, May i975).
+
+Figure 4 shows the experimental results of
+
+extinguishment-limit boundaries for cellulose fuels at normal gravity.
+
+The test conditions
+
+encompassed the two Shuttle conditions: a normal atmosphere of 21 percent 02 in N2 (air), and a
+prebreathing atmosphere prior to an extravehicular activity of 40 percent 02 (currently 30
+percent) in N2 at a reduced total pressure. An air flow of 11-cm/s velocity opposed to the flame
+spread represented the nominal flow of Shuttle ventilation. Naturally occurring buoyant air
+flows probably augmented the forced flow.
+
+The extinguishment limits are very sensitive to the
+
+imposed air velocity even at normal gravity.
+
+Figure 5 indicates that extinguishment boundaries
+
+reach maxima around 20 cm/s a_r velocity, where the greatest concentration of agent is required.
+There is an interesting comparison of these boundaries to recent microgravity results showing
+that flammability limits and flame-spread rates also reach maxima over a range of 8 to 20 cm/s
+opposed-flow velocities (ref. 2).
+
+The microgravity counterpart to figure 5, that is, the map of
+
+extinguishment maxima influenced by low-velocity opposed flows, has yet to be developed.
+The cited studies also included still-air microgravity extinguishment limits obtained in
+free-fall, drop-tower experiments.
+
+Table 2 is a comparison of results from a series of tests.
+
+It shows that, for normal-pressure atmospheric air, only about.half the quantity of agent is
+required for extinguishment in microgravity compared to that in normal gravity.
+
+At the low-
+
+total-pressure, enriched-oxygen condition, more agent is required for extinguishment, and the
+microgravity quantity is on]y slightly less than that in normal gravity.
+
+In contrast to these
+
+solid-fuel findings, Ronney (ref. 14) found little difference in Halon 1301 extinguishment limits
+between quiescent microgravity and normal-gravity, upward-burning cases, for the combustion of
+premixed methane-air mixtures.
+
+Studies with Other Gaseou s Extinguishants
+Microgravity tests under air-dilution atmospheres serve to estimate nitrogen extinguishment
+requirements.
+
+Olson (ref. 15) reported an ignition limit of 16 mol _ 02 for downward burning of
+
+thin-paper fuels in normal gravity.
+
+This is equivalent to N2 suppression by the addition of
+
+31 mole percent N2 to the original air atmosphere.
+of 21 percent 02 in microgravity.
+
+The same test series showed an ignition limit
+
+Hence, only a trivial addition of nitrogen to air would
+
+suppress the paper flame in low gravity.
+
+Figure6 shows xperimental
+e
+results on the effect of severaldiluent atmospheres
+on
+microgravityflame-spread
+rates andflame-extinctionlimits, providinganestimateof the
+effectivenessof the diluents as extinguishingagents(ref. 16, with recent additions by Dietrich).
+
+The results shown are for tests under atmospheres with fixed 02 partial pressures of
+
+21 kPa (the air value) diluted with inert gas to reach the stated 02 concentrations. Although
+the extinction limits shown are at differing total pressures (which may have only secondary
+effects on results), they are reasonable indicators of agent effectiveness.
+
+For example, roughly
+
+half the molar quantity of carbon dioxide (dilution to 33 percent 02) accomplishes extinguishment
+compared to the quantity of N2 (dilution to 21 percent 02).
+
+-
+
+FIRE-EXTINGUISHMENT PROPOSALS
+FOR THE SPACE STATION FREEOOM
+The focus
+multi-purpose
+observation,
+vide
+
+the environment
+
+safety
+varied
+
+large
+
+(refs.
+
+While
+
+for
+
+scale
+
+scientific
+
+and commercial
+
+under microgravity.
+
+fire-suppression
+
+features
+
+of
+
+research
+
+The need for
+
+under the
+and logistics
+
+preferred
+
+habitation,
+extinguishing
+
+extinguishers.
+
+Figure
+
+Freedom are still
+
+system is generally
+
+laboratory,
+
+Space Station
+
+and developmental
+
+greatly
+
+agent
+7 is
+
+is
+
+modules
+
+Control
+under the
+
+carbon dioxide,
+
+a representation
+
+subject
+
+established.
+
+Environmental
+
+four rack arrays around a central corridor.
+
+Freedom,
+
+improved
+
+operations
+
+approaches
+
+a
+
+to proat a
+
+to fire
+the
+control
+
+supplied
+
+to
+
+change,
+
+The fire
+and Life
+
+the preliminary
+
+detection
+Support
+
+responsibility
+
+System (ECLSS).
+of
+
+the United
+
+from commonstorage
+
+of the laboratory
+
+module,
+
+design
+
+and suppression
+
+which
+
+For the
+
+States,
+
+or from
+will
+
+subthe
+
+portable
+
+be composed of
+
+The extinguishing agent is stored in two redundant
+
+in separate rack locations, interconnected to deliver CO2 to any of the racks, the general
+
+arrays, or the corridor.
+rack.
+
+of the
+
+4 and 8).
+
+many of the
+
+system in Freedom falls
+
+tanks
+
+on the development
+
+in Freedom is evident,
+due to the complexity of the spacecraft
+and its operations,
+human and unattended activities
+proposed, and its long-term
+mission demanding fire
+
+in place
+the
+
+space program is
+
+community to be placed in a permanent low-Earth
+orbit
+for scientific,
+earthvehicle-tending,
+and commercial activities.
+A major objective
+of Freedom is
+
+relatively
+
+of
+
+of the U.S.
+
+Figure 8 shows the proposed agent delivery arrangement in a typical
+
+The CO2 agent is dispensed from a perforated tube to flood the rock upon actuation,
+
+through either a remotely controlled or a manual valve.
+
+A port in the fire detection and
+
+suppression panel permits insertion of a portable extinguisher nozzle, if necessary.
+An obvious and often suggested technique to control major fires in space is through venting
+to the surrounding atmosphere.
+
+The small-scale tests of Kimzey (ref. 9) have already demonstra-
+
+ted that venting provides sufficient forced convection to increase the fire burning rate, a
+process that may continue for several minutes before the overall oxygen content is reduced.
+
+The
+
+gaseous supplies of Freedom are limited to slightly more than the quantity needed to support one
+evacuation and subsequent resupply cycle. Thus, venting to the environment is likely to be
+considered only as a last resort for an uncontrollable fire.
+Fire safety, including fire-suppression provisions, on Freedom is also influenced by some
+of its unusual design features (Heitzman, J.; and Overmyer, C.: Space Station Freedom Contingency
+Operations Scenarios, McDonnell Douglas Astronautics unpublished report, April 1990).
+
+Freedom is
+
+an international program, and two of the laboratory modules are the responsibilities of the European Space Agency (ESA) and Japan.
+laboratories.
+
+Table 3 lists the fire-suppression proposals for the three
+
+In contrast to the centralized CO2 system for the U.S. modules, the ESA laboratory
+
+specifies a Halon 1301 system, with individual supply bottles at each rack.
+laboratory specifies a CO2 system, also with individual bottles.
+
+The Japanese
+
+Each international partner is
+
+proceeding
+independently its shareof the design,but eventuallysome
+in
+commonality the fireof
+suppressionystems ustbedevised. All of the modules ill be interconnectedhrough data
+s
+m
+w
+t
+the
+management for alarmandreaction. Thedegree automation
+system
+of
+andthe tradeoffs between
+automatedndmanual
+a
+decisionsfor extinguisheractuationare yet to bedetermined.Clearly,
+automatic
+agentreleaseupon false alarmor trivial incident may as disastrousas a delayed
+a
+be
+manual
+response analarm. Furthermore, fire may
+to
+a
+damage automated
+the
+datamanagement
+system,forcing the dependence
+onmanual
+response.
+Anadditional designissuein Freedom is the hyperbaric chamber, located in an air lock,
+used to condition crew members for an extravehicular activity or to treat possible decompression
+sickness following such an activity.
+
+Because of the high pressure of several atmospheres and the
+
+human occupation of the chamber, the preferred agent for this chamber is nitrogen to be dispensed
+by flooding, to avoid toxic effects of carbon dioxide in large quantities.
+CONCERNS AND RESEARCH NEEDS IN SPACECPJ_F'I"
+FIRE EXTINGUISHMENT
+Carbon Dioxide Selection
+As already noted, NASA and its prime contractor, Boeing Aerospace, prefer carbon dioxide
+for the Freedom internal module fire-extinguishing agent.
+
+While an unpublished 1985 trade-off
+
+study concluded that CO2 showed a slight superiority, other qualitative factors promote its
+selection convincingly. Carbon dioxide extinguishing systems can use proven technology. The
+agent is removable from the atmosphere by the existing Environmental Control and Life Support
+System (ECLSS).
+
+Competing systems with
+
+N2,
+
+water, and Halons all suffer disadvantages of mass
+
+penalties, electrical conductivity, difficulty of dispersion, or toxic byproducts, as applicable.
+Carbon dioxide systems do require a larger storage mass than Halon 1301 due to the lower agent
+efficiency, but a CO2 system may have a lower overall cost.
+Two drawbacks to CO2 usage are noted. First, local concentrations of CO2 in a fire zone
+may approach 20 mol 9, which is by far a toxic concentration especially in combination with a low
+concentration of carbon monoxide.
+
+Careful control of the discharge into racks can prevent
+
+excessive leakage of agent into the general volume of the module.
+
+For this reason, as mentioned,
+
+nitrogen is preferred for protection of the inhabited hyperbaric chamber.
+
+The second drawback is
+
+that, in the unlikely event of a major fire, stores of CO2 may be insufficient. This may be a
+factor in the selection of Halon 1301 in the Sheridan analysis for the scenario of a large
+hydrogen fire (ref. 11).
+
+The probability of a combustible gas accumulation in Freedom from a
+
+leak in ECLSS processing, releasing hydrogen or methane byproducts, is small, however, for it
+requires multiple failures of containment, gas sensors, and ECLSS performance monitors.
+Microgravity Extinguishment Research
+Practical considerations of agent storage, dispersion, and post-fire cleanup in low gravity
+o
+
+are selection factors as important as extinguishing effectiveness.
+
+The prototype CO2 system for
+
+Freedom is to be qualified in prior ground tests for both effectiveness and reliability.
+Unfortunately, the correlation of the normal-gravity qualification to the eventual low-gravity
+performance is unknown, and appropriate experiments are critically needed.
+Reuther (ref. 12) and Youngblood and Seiser (ref. 17) both propose experiments in a combustion chamber where a small-scale fire is initiated and then extinguished with candidate agents to
+measure the efficiency, delay time, effects of fuel type, likelihood to reignite, and reaction
+products for low-gravity extinguishment.
+
+Reuther suggests a flow system with multiple canisters
+
+of smoldering carbon for the experiment.
+
+Youngblood and Seiser suggest a sample-exchange system
+
+for solid fuels in a quiescent or a flowing atmosphere.
+
+Either experiment proposal is designed
+
+to investigate a variety of gaseous or liquid-spray (water) agents.
+
+These studies can be
+
+initiated in sounding rocket or airplane free-fall facilities, prior to space flight experiments.
+
+Youngblood and Vedha-Nayagam (ref. 18) also identify further applied research and technology development in the field of space extinguishment.
+
+Suggested projects include specific
+
+research on extinguisher performance in inhabited hyperbaric chambers, applied technology on
+high-capacity environmental clean-up units for post-fire applications, and development of innovative space fire protection, such as fire blankets.
+CONCLUDING REMARKS
+This paper is a review of past, present, and proposed techniques for fire suppression in
+spacecraft.
+
+While fire events may be of low probability, present human-crew spacecraft are pro-
+
+vided with fire protection including extinguishers.
+
+The low-gravity environment in orbiting
+
+spacecraft influences combustion, heat transport, and mass transport, greatly affecting extinguishment agent effectiveness, storage, dispersion, and clean-up system performance.
+
+The
+
+increasing complexity anticipated with the advent of the U.S. Space Station Freedom also complicates the issues of spacecraft fire extinguishment.
+
+The current application of Halon 1301 agent
+
+in the Shuttle is justified by the nature of the short-term missions, but alternative agents are
+essential for Freedom.
+
+Clearly, continued research and technology activities should be directed
+
+toward securing knowledge of the unusual features of fires in space for application to practical,
+effective, and conservative spacecraft fire suppression systems.
+REFERENCES
+Friedman, R.; and Sacksteder, K.R.: Science and Technology Issues in Spacecraft Fire Safety.
+
+I*
+
+AIAA Paper 87-0467, Jan. 1987.
+
+(Also, NASA TM-88933).
+
+Olson, S.L.; Ferkul, P.V.; and T'ien, J.S.: Near-Limit Flame Spread Over a Thin Solid Fuel in
+
+2,
+
+Microgravity.
+
+Twenty Second Symposium (International) on Combustion, The Combustion Inst.,
+
+Pittsburgh, 1988, pp. 1213-1222.
+
+3. Cantwell, E.R.; and Fernandez-Pello, A.C.: Smoldering Combustion Under Low Gravity
+Conditions.
+
+AIAA Paper 90-0648, Jan. 1990.
+
+4. Friedman, R.; and Sacksteder, K.R.: Fire Behavior and Risk Analysis in Spacecraft.
+
+NASA
+
+TM-IOOg44, ig88.
+5. Rodney, G.A.: Critical Safety Assurance Factors for Manned Spacecraft: A Fire Safety
+Perspective.
+
+IAF Paper 90-555, Oct. 1990.
+
+6. Law, C.K.: Combustion in Microgravity: Opportunities, Challenges and Progress.
+
+AIAA Paper
+
+90-0120, Jan. 1990.
+
+,
+
+Friedman, R.; and OIson, S.L.: Fire Safety Applications for Spacecraft.
+
+"Aircraft Fire
+
+Safety, AGARD CP-467, AGARD, Nevilly-Sur-Seine, France, 1989, pp. 15-I to 15-15. (Also,
+TM-I01463).
+
+NASA
+
+8. Margle,J.M., ed.: Spacecraft ire Safety. NASAP-2476,
+F
+C
+1986.
+9. Kimzey,
+J.H.: SkylabExperiment ZeroGravity Flammability. SkylabResults,Proceedings
+M479
+of the Third Space
+Processing ymposium, I, NASAMX-70252,
+S
+Vol.
+T
+June1974,pp. 115-130.
+10. Bluth, B.J.; andHelppie,M.: SovietSpace
+Stationsas Analogs, ndedition. NASA-CR
+2
+180920,
+1987.
+11. Kramer, .; andSheridan,J.: Preliminary
+S
+Analysisof Fire Suppression.Methodsthe Space
+for
+Station. Engineering, onstruction, ndOperations Space, .W.Johnson
+C
+a
+in
+S
+and
+J.P. Wetzel,eds., ASCE, York, 1988,pp. 809-819.
+New
+12. Reuther, .J.: Definition of Experiments InvestigateFire Suppressants Microgravity.
+J
+to
+in
+NASA R-185295,
+C
+1990.
+13. Neustein,R.A.; Mader,P.P._Columbo,
+G.V.; andRichardson,
+D.E.: TheEffect of Atmospheric SelectionandGravityon BurningRateandIgnition Temperature.
+McDonnell
+Douglas sA
+tronauticsCo., ReportDAC-62431, CR-I06652, 1968.
+NASA
+Oct.
+14. Ronney,
+R.D.: Effect of GravityonHalocarbonlame
+F
+Retardant
+Effectiveness. Acta
+Astronautica.vol. 12, no. 11, 1985,pp. 915-921.
+15. Olson,S.L.: TheEffect of Microgravity Flame
+on
+Spread
+Overa Thin Fuel.
+NASAM100195, 987.
+T
+1
+16. Olson,S.L.; Stouffer, S.C.; andGrady,T.: Diluent Effects on Quiescent
+MicrogravityFlame
+Spread vera Thin Solid Fuel. Paper 0, Fall Tech.Mtg., Eastern
+O
+7
+StatesSec., TheCombustionInst., Nov.1989.
+17. Youngblood,
+W.W.; ndSeiser,K.M.:Experiments Ensure
+a
+to
+Space
+Station Fire Safety-A
+Challenge.AIAA
+Paper 8-0540, an. 1988.
+8
+J
+18. Youngblood,
+W.W._ndVedha-Nayagam,Advanced
+a
+M.:
+Spacecraft ire Safety: Proposed rojects
+F
+P
+andProgram
+Plan. (WYLE-60300-1,
+WyleLabs;NASAontractNAS3-25367) CR-185147,
+C
+NASA
+1989.
+
+¢J
+<lJ
+.4_+, +..i
+_4..)
+
+o-
+
+,.r__
+
+r-"
+
+_'_
+
+c.._
+
+I_
+_1)
+e(o
+
+0"
+
+u')
+
+_J
+_.1
+
+q3) ¢.)
+
+e_ t.--, o
++_00
+.-¢.) f,-
+
+_je_o
+
+0
+
+u,.i
+_
+
+,+0 ,0)
+
+OJ
+
+OJ
+
+u'l
+
+-_
+
+0
+
+f,-
+
+e.-,
+
+%=
+¢- _,_
+-,-_0
+cO
+
+X
+O
++','4..:
+
+m
+
+tO
+0
+
+I0
+--eE
+U +--'
+la'_ .+.:K+O
+t.-.- 0
+_
+• e,- .i-+ f,,C'"
+QL) 0
+"+
+
++:++
+._
+
+>.l.a
+
+i
+Xe_O
+_
+
+f,,.. t-,
+
+4-a -l-_0-
+
+o
+
+_.,
+('"
+
++.-. O
+
+02
+¢I
+
+.c
+
+e'-
+
+0
+
+• ,-"
+• r-
+
+_
+
+_3. cn
+0
+
+2<
+
+_IJ
+
+c..- <31_,
+
+O
+Z
+0
+
+"O
+
+Z
+-0.,.t-_0
+i,i
+
+f,_
+
+eO ¢-
+
+I..
+
+u'l
+q)
+tj
+
+Q,,) f,- • - _J
+_-I-I
+_.1-1
+_.. t,"- 4_) _,
+
+I..LI
+¢._ (J
+
+_
+
+CJ
+
+(-
+
+tO
+
+_
+0
+
+w
+
+¢n
+
+cO
+c
+tO
+c.J
+
+E
+0
+
+7
+
+4-)
++-
+
+_4
+t-
+
+tO
+r
+0
+
+"I_
+
+O_
+_3.."_
+0"I_
+_- 0
+¢.._
+
+I,tl
+
+O
+
+"Z3
+(I) _.qJ
+Oe_
+
+f..c0.. (.J
+
+(I)
+
+0
+0
+c-_U
+
+,---i
+e-0
+
+%
+-e-
+
+i.
+
+..t..a
+
+N
+
+.i-I
+<-0J
+¢_)
+
+0
+
+cO
+
+.._
+
+Lt_
+
+6
+,,,,-i
+
+•:.-.
+_
+_,.,
+
+tO
+f,¢_I
+
+0
+f.4..a
+Z
+
+!
+
+C=
+O
+._
+ca
+u% .l_l
+<13+L
+<LI
+e". 0":
+
+O
+"_
+4-1
+:3
+t'_ 4..a
+"_¢-_,,-- <_J
++-+C_
+
+r- Spray
+I noz_e
+I
+I
+r- Mesh
+
+Simultaneouslyactuated valves--_
+Trigger --',\
+
+_
+
+\" "-
+
+15 cm --_
+
+\
+
+'-- Foam agent
+Expansion gas
+(ni_'ogen)
+Spring-loaded
+expansion
+..,
+vaJve
+
+Figure 1.--Apollo water-dispenser fire extinguisher.
+
+bellows
+
+,s
+
+Liquefied
+expansion gas
+(freon)
+
+Figure 2.--Apollo Skylab foam fire extinguisher.
+
+nozzle
+
+/:I
+
+//'_/I
+
+__./---
+
+Initiator
+
+Knife ---,,_
+
+I,
+
+Diaphragm_
+_"X,
+
+Fi,
+
+II
+
+""_,._;Y
+
+_
+
+po_J _
+
+Portable:
+Halon charge 3 kg;
+discharge time 30 sec
+
+Fixed:
+Ha]on charge 1.7 kg;
+discharge time 1 se¢
+
+Figure 3.---Shuttle Ha]on 1301 fire extinguishers.
+
+10
+
+b Pressure
+
+_
+
+I
+
+switch
+
+.24
+Total
+
+.10
+
+/
+
+.20
+
+c
+O
+
+g
+
+/ /
+
+t
+Nonflammable
+
+-_ .08
+
+/
+/
+
+__ .16
+
+- .t
+
+O
+
+E .12
+O
+_)
+
+--
+
+,..- .08
+o
+"T"
+.04
+
+;7/
+
+Nonflammable
+
+_ .06
+E
+
+g .o4
+
+J/
+
+ole fraction
+
+C
+0
+
+"1-
+
+1/_1
+.16
+
+.20
+
+I
+.24
+
+.28
+
+I
+.32
+
+1
+
+I
+
+.36
+
+.40
+
+_
+-
+
+I
+
+I
+
+!
+
+_
+
+I
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+Flow velocity, cm/sec
+
+.44
+
+Figure 5.--Exporimental
+effects of opposed
+atmospheric flow velodties on extinguishment boundaries for 0.21 mm thick cellulose. Normal-gravity conditions (from J.B.
+Haggard, unpublished data, 1975).
+
+Payload or equ!pment
+racks (typ.) -1
+
+Extinction limits
+
+I
+-I
+Argon,
+
+I
+
+10
+
+Figure 4.--Experimental
+extinguishment boundaries
+for 0.21 mm thick cellulose in Halon 1301-oxygennitrogen atmospheres. Normal-gravity conditions
+with 11 ¢m/s opposed atmospheric flow (from J.B.
+Haggard, unpublished data, 1975).
+
+--
+
+I
+
+J
+
+Oxygen mole fraction
+
+O.
+
+,_ 101 kPa total pressure;
+
+-_ .02
+
+0
+
+"O
+
+.31 02 mole fraction
+i-- ,55 kPa total pressure;
+
+_- Carbon dioxide tanks,
+\ 2 per medule
+
+,!
+
+He,urn 1Carbon
+I
+I dioxide .._"-/cr"
+I
+' /_¢"'-
+
+,Ni,,o-,
+L/-_//v/
+Igen I
+
+/
+
+____..j(_ r'f
+
+/
+
+O
+
+/
+
+E
+I
+
+_rl
+.2
+
+I
+
+I
+
+1
+
+.4
+
+.6
+
+.8
+
+/
+
+I
+1.0
+
+//
+
+,/
+
+t_ Standoffs (rack banks)
+4 per module
+
+Oxygen mole fraction
+Figure 6.--Experimental
+flame-spread rates for
+0.076 mm thick paper under different oxygen_
+diluent atmospheres.
+Quiescent, microgravity
+conditions with oxygen quantity fixed at 21 kPa
+partial pressure (air value).
+
+Inter" ,..\ \
+I
+connects
+"- _ I
+between
+__1
+standoffs (typ.)
+
+Figure 7.---Schematic representation of centralized carbon
+dioxide extinguishing system in U.S. modules for Space
+Station Freedom.
+
+11
+
+Air inlet _
+
+!
+
+A C02
+outJet
+
+002
+inlet
+
+Solenoid -31
+
+C02
+disUibutor
+tube --_
+
+j;
+
+\
+r_
+
+=
+
+i=
+
+ul J
+
+\
+
+1!
+II
+|=
+l;
+
+\
+
+ii
+ii
+
+"
+
+_
+
+ii
+g!
+u
+
+CO 2 injection
+port for manual
+CO 2 tanks --,,,
+
+Detail of Fire
+Detection and
+Suppression
+\
+
+:-
+
+flag/enunciator
+
+::::::
+
+:
+
+Fire indication
+
+""
+
+._
+
+panel
+
+-:-:::::-.'.:-_.<_..::_:: _-:_-_::
+
+/
+
+• -:._:.'..:-::_._:_::_ _:_._
+
+--/
+
+_: • .-_<._.-%
+I',
+''
+
+manual
+override
+Typical rack - side view
+
+Figure 8, Proposal for carbon dioxide control and distribution
+space design).
+
+within a module rack for Space Station Freedom (Boeing Aero-
+
+12
+
+N/ A
+
+Report
+
+National Aeronautics and
+
+Documentation
+
+Space Admlnisb-ation
+1.
+
+Report
+
+,
+
+,
+
+Page
+
+,,,
+
+No.
+
+NASA
+
+TM - 104334
+
+Title
+
+Accession
+
+3.
+
+No.
+
+5.
+
+Fire Suppression
+
+in Human-Crew
+
+Report
+
+Performing
+
+Organization
+
+Code
+
+8.
+
+and Subtitle
+
+Recipient's
+
+6.
+
+4.
+
+2. Government
+
+Catalog
+
+No.
+
+Performing
+
+Organization
+
+Report
+
+Date
+
+Spacecraft
+
+7. Author(s)
+
+Robert Friedman and Daniel L. Dietrich
+
+No.
+
+E -6100
+10.
+
+Work
+
+Unit No.
+
+323 - 53 - 62
+9.
+
+Performing
+
+Organization
+
+Name
+
+and
+
+Address
+11.
+
+Cleveland,
+
+12.
+
+Ohio
+
+Sponsoring
+
+Agency
+
+44135
+
+Name
+
+and
+
+Supplementary
+
+Type
+
+or Grant
+
+No.
+
+- 3191
+of Report
+
+Technical
+
+Address
+
+National Aeronautics and Space Administration
+Washington,
+D.C. 20546 - 0001
+
+15.
+
+Contract
+
+13.
+
+National Aeronautics and Space Administration
+Lewis Research Center
+
+14.
+
+Sponsoring
+
+and
+
+Period
+
+Covered
+
+Memorandum
+Agency
+
+Code
+
+Notes
+
+Prepared for the Halon Alternatives Technical Working Conference
+cosponsored
+by The University of New Mexico, The
+New Mexico Engineering
+Research Institute, and The Center for Global Environmental
+Technologies,
+Albuquerque,
+New
+Mexico, April 30--May
+1, 1991. Robert Friedman, NASA Lewis Research Center. Daniel L. Dietrich, Sverdrup Technology, Inc., Lewis Research Center Group, 2001 Aerospace Parkway, Brook Park, Ohio 44142 (work funded by NASA
+Contract NAS3 -25266).
+Responsible
+person, Robert Friedman, (216) 433- 5697.
+18.
+
+Abstract
+
+Fire extinguishment agents range from water and foam in early-design spacecraft, Haler 1301 in the present Shuttle, and
+carbon dioxide proposed for the future Space Station Freedom. The major challenge to spacecraft fire extinguishment
+design and operations is from the low-gravity (microgravity) environment, which minimizes natural convection and
+profoundly influences combustion and extinguishing-agent
+effectiveness,
+dispersal, and post-fire cleanup.
+The paper
+discusses the experience and knowledge of extinguishment
+in microgravity,
+the fire-suppression
+problems anticipated in
+future spacecraft, and research needs and opportunities.
+
+17.
+
+KeyWords
+
+(Suggested
+
+18.
+
+byAuthor(s))
+
+Distribution
+
+Fire extinguishers; Fire control; Reduced gravity; Spacecraft
+cabins; Spacecraft environments; Aerospace safety; Space
+stations
+
+19.
+
+Secudty
+
+Classif.
+
+(of the report)
+
+20.
+
+Security
+
+Unclassified
+NASA FORM
+
+111211OCT 86
+
+*For
+
+Classif.
+
+(of this
+
+Statement
+
+Unclassified
+Subject
+
+- Unlimited
+
+Category
+
+page)
+
+21.
+
+16
+
+No. of pages
+
+Unclassified
+sale
+
+by the
+
+National
+
+Technical
+
+Information
+
+Service,
+
+14
+Springfield,
+
+Virginia
+
+22161
+
+_r
+

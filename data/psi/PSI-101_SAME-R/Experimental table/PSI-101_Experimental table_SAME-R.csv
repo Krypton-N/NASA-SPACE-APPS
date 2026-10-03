@@ -1,0 +1,110 @@
+Sample Type,SAME Test #,Description,Date,Inlet velocity (cm/s),Rt/R0,Duration (sec),Primary aging time (sec),Primary mixing time (sec),Net aging time (sec)
+Kapton,51,B.L. new formula,21-Jul,8.1,1.38,60,11,8,38
+Kapton,51a,B.L. new formula,22-Jul,8.1,1.38,60,,,261
+Kapton,61,Baseline Aging,2-Aug,8.1,1.38,60,11,8,38
+Kapton,61a,aged,2-Aug,8.1,1.38,,,,807
+Kapton,62,High Temp aging,2-Aug,8.1,1.48,60,11,8,39
+Kapton,62a,aged,2-Aug,8.1,1.48,,,,808
+Kapton,70,High temp aged STS det,24-Aug,8.1,1.48,60,720,8,747
+Kapton,73,Baseline Aging,26-Aug,8.1,1.38,60,11,8,33
+Kapton,73a,aged,26-Aug,8.1,1.38,,,,560
+Kapton,75,Mid Temp aging (no Ptrak),26-Aug,8.1,1.43,60,11,8,32
+Kapton,75a,aged,26-Aug,8.1,1.43,,,,563
+Kapton,77,High Temp aging,26-Aug,8.1,1.48,60,11,8,31
+Kapton,77a,aged,26-Aug,8.1,1.48,,,,559
+Kapton,85,Mid Temp aging run. Repeat 75,30-Aug,8.1,1.43,60,11,8,33
+Kapton,85a,aged,30-Aug,8.1,1.43,,,,563
+Kapton,90,Mid Temp aging reburn 85,30-Aug,8.1,1.43,60,11,8,38
+Kapton,90a,aged,30-Aug,8.1,1.43,,,,569
+Kapton,92,Baseline STS det,7-Sep,8.1,1.38,60,11,8,35
+Kapton,93,Mid Temp aging run 75 repeat,7-Sep,8.1,1.43,60,11,8,36
+Kapton,93a,aged,7-Sep,8.1,1.43,,,,568
+Kapton,94,Mid Temp aging run mid high,7-Sep,8.1,1.45,60,11,8,42
+Kapton,94a,aged,7-Sep,8.1,1.45,,,,567
+Kapton,101,No flow run w/ aging,8-Sep,0,1.48,60,11,8,29
+Kapton,101a,aged,8-Sep,0,1.48,,,,561
+Kapton,102,No flow run w/ aging,8-Sep,0,1.48,120,11,8,28
+Kapton,102a,aged,8-Sep,0,1.48,,,,563
+Kapton,108,Low flow run w/aging,9-Sep,1,1.48,60,11,8,30
+Kapton,108a,aged,9-Sep,1,1.48,,,,560
+Kapton,114,low flow run w STS no Ptrak,9-Sep,2,1.43,60,11,8,28
+Silicone,48,Low Temp,16-Jul,8,1.304,60,11,8,62
+Silicone,53,HighTemp,22-Jul,8.1,1.35,60,1,8,52
+Silicone,59,baseline aged,30-Jul,8.1,1.327,60,11,8,24
+Silicone,59a,aged,30-Jul,8.1,1.327,,,,856
+Silicone,60,Htemp ageing,30-Jul,8.1,1.35,60,11,8,49
+Silicone,60a,aged,30-Jul,8.1,1.35,,,,856
+Silicone,65,Baseline long aging,23-Aug,8.1,1.327,60,11,8,50
+Silicone,65a,aged,23-Aug,8.1,1.327,,,,1923
+Silicone,66,High T aging,23-Aug,8.1,1.36,60,11,8,42
+Silicone,66a,aged,23-Aug,8.1,1.36,,,,837
+Silicone,67,High temp aged,24-Aug,8.1,1.35,60,720,8,751
+Silicone,72,Baseline STS det,25-Aug,8.1,1.327,60,11,8,42
+Silicone,86,Mid temp aging,30-Aug,8.1,1.345,60,11,8,50
+Silicone,86a,aged,30-Aug,8.1,1.345,,,,628
+Silicone,91,Baseline STS det,7-Sep,8.1,1.327,60,11,8,46
+Silicone,99,No flow run w/aging,8-Sep,0,1.35,60,11,8,48
+Silicone,99a,aged,8-Sep,0,1.35,,,,627
+Silicone,103,low flow run w/ aging,9-Sep,1,1.35,60,11,8,48
+Silicone,103a,aged,9-Sep,1,1.35,,,,619
+Silicone,104,No flow run w/ aging,9-Sep,0,1.35,60,11,8,51
+Silicone,104a,aged,9-Sep,0,1.35,,,,636
+Silicone,109,low flow run w STS,9-Sep,2,1.35,60,11,8,28
+Lampwick,49,B.L. High RT/R0,19-Jul,8,1.251,60,11,8,51
+Lampwick,54,Baseline,29-Jul,8.1,1.245,60,11,8,57
+Lampwick,55,High RT/R0 test aging,29-Jul,8.1,1.245,60,11,8,47
+Lampwick,55a,aged,29-Jul,8.1,1.245,,,,218
+Lampwick,57,High RT/R0 reburn sample,29-Jul,8.1,1.253,60,11,8,n/a
+Lampwick,68,High temp aged STS det,24-Aug,8.1,1.28,60,720,8,747
+Lampwick,78,Baseline aging,26-Aug,8.1,1.245,60,11,8,37
+Lampwick,78a,aged,26-Aug,8.1,1.245,,,,581
+Lampwick,80,High temp aging,26-Aug,8.1,1.28,60,11,8,40
+Lampwick,80a,aged,26-Aug,8.1,1.28,,,,580
+Lampwick,82,Mid temp aging,26-Aug,8.1,1.265,60,11,8,39
+Lampwick,82a,aged,27-Aug,8.1,1.265,,,,579
+Lampwick,88,Baseline STS det,30-Aug,8.1,1.245,60,11,8,n/a
+Lampwick,96,No flow run w/aging,7-Sep,0,1.245,60,11,8,34
+Lampwick,96a,aged,7-Sep,0,1.245,,,,582
+Lampwick,98,No flow run w/aging,8-Sep,0,1.28,60,11,8,37
+Lampwick,98a,aged,8-Sep,0,1.28,,,,585
+Lampwick,106,No flow run w/aging,9-Sep,0,1.28,60,11,8,30
+Lampwick,106a,aged,9-Sep,0,1.28,,,,558
+Lampwick,110,low flow run w/STS,9-Sep,2,1.28,60,11,8,21
+Teflon,50,B.L. High RT/R0,20-Jul,8.1,1.452,60,11,8,33
+Teflon,56,Baseline,29-Jul,8.1,1.445,60,11,8,41
+Teflon,57,High RT/R0 reburn sample,29-Jul,8.1,1.253,60,11,8,n/a
+Teflon,58,Baseline aging,30-Jul,8.1,1.445,60,11,8,34
+Teflon,58a,aged,30-Jul,8.1,1.445,,,,805
+Teflon,69,High temp aged STS det,24-Aug,8.1,1.45,60,720,8,745
+Teflon,79,Baseline aging,26-Aug,8.1,1.445,60,11,8,33
+Teflon,79a,aged,26-Aug,8.1,1.445,,,,560
+Teflon,81,High temp aging,26-Aug,8.1,1.45,60,11,8,30
+Teflon,81a,aged,27-Aug,8.1,1.45,,,,559
+Teflon,83,Mid temp aging,26-Aug,8.1,1.448,60,11,8,30
+Teflon,83a,aged,27-Aug,8.1,1.448,,,,557
+Teflon,89,Baseline STS det,30-Aug,8.1,1.445,60,11,8,31
+Teflon,100,No flow run w/ aging,8-Sep,0,1.45,60,11,8,29
+Teflon,100a,aged,8-Sep,0,1.45,,,,560
+Teflon,105,No flow run w/ aging,9-Sep,0,1.45,60,11,8,24
+Teflon,105a,aged,9-Sep,0,1.45,,,,559
+Teflon,111,low flow run w/ STS,9-Sep,2,1.45,60,11,8,43
+Pyrell,52,Baseline,22-Jul,8.1,1.22,60,11,8,n/a
+Pyrell,63,Baseline Aging,23-Aug,8.1,1.22,60,11,8,56
+Pyrell,63a,aged,23-Aug,8.1,1.22,,,,840
+Pyrell,64,High Temp aging,23-Aug,8.1,1.23,60,11,8,47
+Pyrell,64a,aged,23-Aug,8.1,1.23,,,,842
+Pyrell,71,High temp aged STS det,24-Aug,8.1,1.23,60,720,8,750
+Pyrell,74,Baseline Aging,26-Aug,8.1,1.22,60,11,8,48
+Pyrell,74a,aged,26-Aug,8.1,1.22,,,,623
+Pyrell,76,High Temp aging,26-Aug,8.1,1.23,60,11,8,51
+Pyrell,76a,aged,26-Aug,8.1,1.23,,,,625
+Pyrell,84,Mid Temp aging retry,30-Aug,8.1,1.225,60,11,8,53
+Pyrell,84a,aged,30-Aug,8.1,1.225,,,,632
+Pyrell,87,Baseline STS det,30-Aug,8.1,1.22,60,11,8,45
+Pyrell,95,No flow run w/ aging,7-Sep,0,1.22,60,11,8,38
+Pyrell,95a,aged,7-Sep,0,1.22,,,,n/a
+Pyrell,97,No flow run w/aging,8-Sep,0,1.23,60,11,8,48
+Pyrell,97a,aged,8-Sep,0,1.23,,,,624
+Pyrell,107,Low flow run w/aging,9-Sep,1,1.23,60,11,8,32
+Pyrell,107a,aged,9-Sep,1,1.23,,,,559
+Pyrell,113,low flow run w STS,9-Sep,2,1.23,60,11,8,31

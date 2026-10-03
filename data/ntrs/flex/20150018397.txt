@@ -1,0 +1,386 @@
+Laminar Flames
+9th U. S. National Combustion Meeting
+Organized by the Central States Section of the Combustion Institute
+May17-20, 2015
+Cincinnati, Ohio
+
+Combustion Characteristics in a Non-Premixed Cool-Flame
+Regime of n-Heptane in Microgravity
+Fumiaki Takahashi1,*, Viswanath R. Katta2, Michael C. Hicks3
+1
+
+Case Western Reserve University, 10900 Euclid Avenue, Cleveland, OH, USA
+2
+Innovative Scientific Solutions, Inc., 7610 McEwen Road, Dayton, OH, USA
+3
+NASA Glenn Research Center, 21000 Brookpark Rd, Cleveland, OH, USA
+*
+Corresponding Author Email: fxt13@case.edu
+
+Abstract: A series of distinct phenomena have recently been observed in single-fuel-droplet
+combustion tests performed on the International Space Station (ISS). This study attempts to
+simulate the observed flame behavior numerically using a gaseous n-heptane fuel source in zero
+gravity and a time-dependent axisymmetric (2D) code, which includes a detailed reaction
+mechanism (127 species and 1130 reactions), diffusive transport, and a radiation model (for CH4,
+CO, CO2, H2O, and soot). The calculated combustion characteristics depend strongly on the air
+velocity around the fuel source. In a near-quiescent air environment ( 2 mm/s), with a
+sufficiently large fuel injection velocity (1 cm/s), a growing spherical diffusion flame extinguishes
+at ≈1200 K due to radiative heat losses. This is typically followed by a transition to the lowtemperature (cool-flame) regime with a reaction zone (at ≈700 K) in close proximity to the fuel
+source. The ‘cool flame’ regime is formed due to the negative temperature coefficient in the lowtemperature chemistry. After a relatively long period (≈18 s) of the cool flame regime, a flash reignition occurs, associated with flame-edge propagation and subsequent extinction of the reignited flame. In a low-speed (≈3 mm/s) airstream (which simulates the slight droplet movement),
+the diffusion flame is enhanced upstream and experiences a local extinction downstream at
+≈1200 K, followed by steady flame pulsations (≈0.4 Hz). At higher air velocities (4–10 mm/s),
+the locally extinguished flame becomes steady state. The present axisymmetric computational
+approach helps in revealing the non-premixed ‘cool flame’ structure and 2D flame-flow
+interactions observed in recent microgravity droplet combustion experiments.
+Keywords: diffusion flame, droplet combustion, negative temperature coefficient, pulsating flame
+
+1. Introduction
+Since 1950’s, microgravity droplet combustion experiments and related spherically symmetric
+model descriptions have uncovered new and important phenomena that are generally obscured in
+normal gravity [1, 2]. In recent droplet combustion tests performed in the Flame Extinguishment
+Experiment (FLEX) on the International Space Station (ISS), a series of distinct phenomena have
+been observed. As it has long been known, a spherical diffusion flame of a relatively large nalkane droplet in microgravity grows and extinction occurs due to radiative heat losses. It has
+recently been discovered that the droplet can continue to burn quasi-steadily [3]. The secondstage combustion of the droplet is due to the negative temperature coefficient in the lowtemperature chemistry. This low-temperature burning is generally referred to as a ‘cool flame’
+regime. After a relatively long period of the cool flame regime, a flash re-ignition, followed by
+flame-edge propagation and subsequent extinction of the re-ignited flame can occur when the
+1
+
+Laminar Flames
+atmospheric pressure is slightly elevated. Furthermore, flame pulsations have also been
+observed during conditions when the droplet is slowly moving so that there is a relative velocity
+between the gas phase and the droplet.
+Spherically symmetric (one-dimensional) simulations with a detailed chemistry were performed
+[4–6] to simulate successfully the two-stage combustion phenomena observed in the droplet
+combustion experiments. The slight droplet movement induces relative convection and, in turn,
+two-dimensional (2D) flame-flow interactions: local extinction, pulsation, flame propagation
+after re-ignition, and local soot formation. Since the flame-flow interactions are controlled
+primarily by the physical and chemical processes in the gas phase, the series of events can be
+studied by using a gaseous fuel flame. In addition, unlike a depleting isolated fuel droplet, the
+gaseous fuel can be supplied indefinitely to explore the steadiness or long-term variations in the
+phenomenon under study. In this study, axisymmetric 2D computation is performed with a
+detailed n-heptane reaction mechanism to simulate the two-stage combustion phenomena and the
+flame-flow interactions using a gaseous fuel source in zero gravity. The objectives of this study
+are to gain a better understanding of a series of the events: (1) the two-stage combustion—flame
+expansion, radiative extinction, cool-flame formation, re-ignition, flame propagation; and (2)
+convection effects—local extinction, flame pulsation, and local soot formation.
+2. Computational Methods
+A time-dependent, axisymmetric numerical code (UNICORN) [7, 8] is used for the simulation of
+diffusion flames stabilized on an axisymmetric burner in zero gravity. The code solves the axial
+and radial (z and r) full Navier-Stokes momentum equations, continuity equation, and enthalpyand species-conservation equations on a staggered-grid system. A clustered mesh system is
+employed to trace the gradients in flow variables near the flame surface. The thermo-physical
+properties such as enthalpy, viscosity, thermal conductivity, and binary molecular diffusion of all
+of the species are calculated from the polynomial curve fits developed for the temperature range
+300 K to 5000 K. Mixture viscosity and thermal conductivity are then estimated using the Wilke
+and Kee expressions, respectively. Molecular diffusion is assumed to be of the binary-diffusion
+type, and the diffusion velocity of a species is calculated using Fick's law and the effectivediffusion coefficient of that species in the mixture.
+A comprehensive reaction mechanism (the Curran mechanism [9] reduced by Farouk & Dryer
+[5]; 127 species and 1130 reactions) is integrated into the UNICORN code for the simulation of
+n-heptane flames in zero gravity. The PAH mechanism was added for the prediction of soot.
+While the UNICORN model with various chemistries was extensively validated in the past
+through simulating steady and unsteady counterflow and coflow jet diffusion flames, the
+integration of heptane and PAH chemistries was validated [10] by simulating counterflow
+partially premixed flames of Berta et al. [11]. Predictions for temperature and various species
+including benzene matched well with the measurements [11].
+A simple radiation model based on the optically thin-media assumption is incorporated into the
+energy equation [12]. Only radiation from CH4, CO, CO2, H2O and soot is considered in the
+present study. The two-equation approach of Lindstedt [13, 14] that describes soot distribution
+using transport equations for soot mass fraction and number density is used. The source terms in
+
+2
+
+Laminar Flames
+the soot equations were obtained based on the assumption that nucleation and growth are firstorder functions of acetylene concentrations.
+The finite-difference forms of the momentum equations are obtained using an implicit
+QUICKEST scheme [7], and those of the species and energy equations are obtained using a
+hybrid scheme of upwind and central differencing. At every time-step, the pressure field is
+accurately calculated by solving all the pressure Poisson equations simultaneously and using the
+LU (Lower and Upper diagonal) matrix-decomposition technique.
+Unsteady axisymmetric calculations for porous burner flames are made on a physical domain of
+200 mm by 100 mm using a 301 × 151 non-uniform grid system that yields 0.1 mm by 0.1 mm
+minimum grid spacing in the z and r directions, respectively, in the flame zone. The
+computational domain is bounded by the axis of symmetry and a chimney wall boundary in the
+radial direction and by the inflow and outflow boundaries in the axial direction. The outflow
+boundary in z direction is located sufficiently far from the burner (~50 burner radii) such that
+propagation of boundary-induced disturbances into the region of interest is minimal. Flat
+velocity profiles are imposed at the air inflow boundaries, while an extrapolation procedure with
+weighted zero- and first-order terms is used to estimate the flow variables at the outflow
+boundary.
+Axisymmetric fuel sources (a porous cylinder and superimposed two or three cylinders), suitable
+for the UNICON code’s rectilinear grid system, are used. In this paper, unless otherwise noted,
+only results obtained for the three-cylinder burner (Fig. 1) are presented. The fuel source
+consists of three superimposed porous cylinders (4 mm dia. × 0.67 mm ht., 2.5 mm dia. × 2 mm
+ht., and 1 mm dia. × 4 mm ht.). The surface areas in the axial and radial directions are equal
+(2r2, r = 2 mm), and the total surface area (4r2) is equal to that of a sphere with the same
+radius. First, gaseous n-heptane under the saturation vapor pressure at a room temperature
+(293 K) diffuses from the burner surface without convection for a fixed pre-ignition period (0.2
+to 600 s). The effect of the pre-ignition period is weak, and only results obtained for 1 s is
+reported here. The stoichiometric mixture is ignited at locations on the centerline upstream and
+downstream of the burner. At ignition, the burner wall and fuel temperatures are set at the
+boiling point of n-heptane (372 K). The fuel velocity is set at 1 cm/s, which corresponds to the
+combustion of a 4.4 mm-diameter droplet at a 0.5 mm2/s burning-rate constant. The airstream
+velocity is varied between 0 and 1 cm/s, and the air temperature is set at 300 K.
+
+Figure 1: Schematic illustration of the axisymmetric porous burner
+
+3
+
+Laminar Flames
+3. Results and Discussion
+Two-Stage Combustion
+In the present computation, the stoichiometric fuel-air mixture is ignited on the centerline
+upstream and downstream of the burner after the pre-diffusion period of 1 s. The flame edges
+propagate around the fuel source and merge together to form a small (10 mm dia.) spherical
+diffusion flame. The diffusion flame expands outwardly and extinguishes eventually. Figure 2
+shows the calculated structure of zero-gravity n-heptane flames in quiescent air. The variables
+include the velocity vectors (v) and isotherms (T) on the right, and the heat-release rate (HRR, 𝑞̇ )
+and the oxygen mole fraction (XO2) on the left. Figure 2a shows a flame just before extinction by
+radiative heat losses at the elapse time from ignition t = 6 s. The flame is spherical with a
+diameter of 37 mm, without any influence by the non-spherical fuel source. All velocity
+vectors show radial directions (i.e., spherical symmetry). The maximum temperature is 1235 K.
+The peak HRR exhibits some decrease (1.6  0.1 W/cm3) along the flame downstream,
+presumably due to initial enhanced soot formation on the downstream side. The oxygen leakage
+through the flame zone is on the order of XO2  0.012.
+After the radiative extinction of the high-temperature diffusion flame occurs at t = 7 s, the
+temperature decreases in the entire field, thus the oxygen penetrates into the near-burner region,
+and the low-temperature cool-flame regime begins. Figure 2b shows the calculated structure at t
+= 24 s, just before re-ignition occurs. The peak HRR (2.1  0.1 W/cm3), which is comparable to
+that of the high-temperature flame, occurs at a constant temperature of 700 K in close proximity
+(1 mm) to the fuel source. Despite the non-spherical fuel source, the variation in the peak HRR
+location in the axial and radial directions is relatively small (0.9–1.2 mm). Furthermore, it is
+reasonable to maintain the constant fuel velocity (1 cm/s) because the experimentally determined
+burning-rate constant during the cool flame regime is only slightly smaller than that for the hightemperature diffusion flame [3]. The oxygen mole fraction in the cool flame zone is XO2  0.006.
+After a relatively long period (≈18 s) of the cool flame regime, a flash re-ignition starts at a point
+farther outside the cool flame, the ignition kernel grows, and the flame-edge starts to propagate
+around the fuel source. Figure 2c shows the propagating flame at t = 25 s. The HRR contours
+shows that as the high-temperature diffusion flame surrounds the upper portion of the fuel
+source, the cool-flame zone inside disappears because the oxygen penetration is blocked by the
+consumption in the diffusion flame zone. Immediately after the diffusion flame surrounds the
+fuel source completely, extinction occurs as the combustible mixture is consumed and the fueloxygen concentration field is not re-established to form a steady diffusion flame.
+Figure 3 shows the temporal variations in the calculated maximum temperature, the temperature
+at the maximum HRR, the maximum HRR, the total HRR, and the radial flame location across
+the burner center (z = 0) in the zero-gravity n-heptane flame in quiescent air. The variations in
+the axial direction upstream and downstream along the burner center (r = 0) (not shown) are
+similar. The flame temperature and the HRR decrease from 1629 K to 1234 K and from 2.6
+W/cm3 to 1.8 W/cm3, respectively, during t = 1 s to t = 6 s, as the flame weakens.
+The diffusion flame extinction occurs at ≈1200 K, at which the main heat-release step CO + OH
+ CO2 +H shuts off. During the low-temperature cool-flame regime, the temperature at the
+
+4
+
+Laminar Flames
+
+(a)
+
+(b)
+
+(c)
+Figure 2: Calculated structure of zero-gravity n-heptane flames in quiescent air (the field of
+view: 80 mm  80 mm): (a) near-extinction diffusion flame, t = 6 s; (b) near-reignition cool
+flame, t = 24 s; and (c) reignited propagating flame, t = 25 s
+maximum HRR remains constant at ≈700 K, while the maximum temperature increases slightly
+around 800 K. The maximum HRR of the cool flame increases to the level comparable to the
+high-temperature diffusion flame and then decreases until the re-ignition occurs at t = 25 s, when
+all variables exhibit sharp peaks. Figure 3b shows a remarkable correlation of the total HRR
+integrated over the entire flame with the flame radius (and, in turn, the flame surface area).
+Figure 4 shows the radial distributions of the calculated temperature and HRR across the burner
+center (z = 0) in the zero-gravity n-heptane flame in quiescent air at different times. The
+temperature and HRR peak values decrease and their radial locations increase as the flame
+
+5
+
+Laminar Flames
+
+Figure 3: Temporal variations in (a) the calculated maximum temperature, the temperature at the
+maximum HRR, and the maximum HRR; and (b) the total HRR and the radial flame location
+across the burner center (z = 0) in the zero-gravity n-heptane flame in quiescent air
+
+(a)
+
+(b)
+
+Figure 4: Radial distributions of (a) the calculated temperature and (b) the HRR across the
+burner center (z = 0) in the zero-gravity n-heptane flame in quiescent air
+weakens and expands outwardly until t = 6 s. As the radiative extinction of the high-temperature
+diffusion flame occurs, the temperature decreases rapidly in the entire area and the HRR peak
+disappears. At t = 7 s, the HRR peak appears in close proximity of the burner surface. Thus, the
+transition from the high-temperature to low-temperature combustion regime occurs discretely,
+instead of a propagation of a flame front, because the oxygen must diffuse through the relatively
+low temperature zone to reach the burner surface. Furthermore, although the cool flame
+temperature (700 K) is much lower than that of the high-temperature diffusion flame (1200–1600
+K), the temperature gradient at the burner surface (r = 2 mm) in the cool flame at t = 10 s is
+nearly the same as that for the high-temperature flame at t = 6 s just before the extinction. This
+
+6
+
+Laminar Flames
+
+(a)
+
+(b)
+
+(c)
+
+Figure 5: (a) Calculated species mole fractions, (b) the HRR per species formation, and (c) the
+HRR per reaction step across the burner center (z = 0) at t = 10 s in the low-temperature coolflame regime in the zero-gravity n-heptane flame in quiescent air
+result implies that the heat feedback from the flame to the burner surface is maintained at a
+comparable level before and after the transition to the cool-flame burning regime. It is consistent
+with the experimental result that the burning-rate constant during the cool-flame regime is only
+slightly lower than that for the high-temperature diffusion flame regime.
+Figure 5 shows the calculated species mole fractions, the HRR per species formation, and the
+HRR per reaction step in the low-temperature cool-flame regime at t = 10 s. The peak HRR is
+located at r = 3.4 mm, which is 1.4 mm from the burner surface. Figure 5a shows that n-heptane
+diffuses from the fuel source outwardly and the oxygen diffuses from the ambient inwardly as
+driven by their concentration gradients. The mole fractions of n-heptane and oxygen at the
+reaction zone (at the peak HRR) are Xn-C7H16 = 0.37 and XO2 = 0.0048, respectively. Thus, a
+substantial amount of the unburned fuel escapes through the cool flame zone. The H2O mole
+fraction peaks (XH2O = 0.1) near the reaction zone. Figure 5b reveals that the formation of H2O is
+the major contributor to the heat release rate. Other important species include aldehydes,
+methanol, and C7H14O2. Figure 5c identifies further the main reaction steps that contribute to the
+heat-release rate. The main heat-release contributing reaction steps are as follows.
+C7H15 + O2  C7H15O2
+
+(R938, R936, R940)
+
+nC3H7 + O2  C3H7O2
+
+(R510)
+
+nC7H16 + OH  C7H15 + H2O
+
+(R795, R793, R797)
+
+C2H5 + HO2  C2H5O + OH
+
+(R401)
+
+C7H14OOH  C7H14O + OH
+
+(R1043)
+
+C7H14OOH  C7H14O + OH
+
+(R1049)
+
+pC4H9 + O2  C4H9O2
+
+(R668)
+
+HCO + O2  CO + HO2
+
+(R91)
+
+CH3 + O2 + M  CH3O2 + M
+
+(R380)
+
+C2H5 + O2  C2H5O2
+
+(R378)
+
+7
+
+Laminar Flames
+
+(a)
+
+(b)
+
+(c)
+Figure 6: Calculated structure of zero-gravity n-heptane flames in airstream (3 mm/s): (a) stable
+flame, t = 4 s; (b) pulsating flame (receded), t = 19 s; and (c) pulsating flame (propagating), t =
+20 s
+Flame-Flow Interactions
+Figure 6 shows the calculated structure of zero-gravity n-heptane flames in airstream at 3 mm/s.
+Figure 6a is a stable flame at t = 4 s. The flame is slightly elongated downstream by the flow.
+The combustion is enhanced in the upstream region, as a result of the convective influx of the
+oxygen in addition to diffusion. On the other hand, in the downstream region, the convective
+fuel flux and the oxygen diffusion against the flow reduce the combustion. Thus, the
+temperature and HRR increase in the upstream region and reduce in the downstream region. As
+a result, a local extinction occurs downstream. The flame edge recedes forward (upstream) and
+then propagates backward, thus leading to regular flame oscillations. Figure 6b shows the
+
+8
+
+Laminar Flames
+
+(a)
+
+(b)
+
+Figure 7: Temporal variations in (a) the calculated maximum temperature and the maximum
+HRR; and (b) the total HRR in the zero-gravity n-heptane flame in airstream (3 mm/s)
+receded flame at t = 19 s. Because of the combustion enhancement by the airstream in the
+upstream region, the flame zone is stabilized at relatively high temperature. As the fuel-air
+mixing progresses downstream, the flame edge propagates backward. Figure 6c shows the
+propagating flame. The edge of the propagating flame is particularly enhanced. Although the
+flame is open toward downstream, no cool flame is formed, probably due to the flow of
+combustion products against the oxygen diffusion. The XO2 = 0.005 contour curve cannot reach
+the near surface location to form the cool flame.
+Figure 7 shows the temporal variations in the calculated maximum temperature, the maximum
+HRR in the forward (upstream), side ward, and backward (downstream) directions; and the total
+HRR in the zero-gravity n-heptane flame in airstream at 3 mm/s. Figure 7a shows that the
+maximum temperature and the maximum HRR decrease initially, particularly in the backward
+region, thus resulting in the local extinction downstream at t = 5 s. Figure 7b reveals that the
+total heat release varies up and down in response to flame pulsations at 0.42 Hz. At higher
+airstream velocities (4 to 10 mm/s) (not shown), pulsations do not occur and the locally
+extinguished flame become steady state.
+4. Conclusions
+The axisymmetric 2D simulations of gaseous n-heptane flames in a quiescent or convective-air
+zero-gravity environment have provided insights into a series of distinct combustion phenomena.
+The calculated combustion characteristics change dramatically with the air velocity as follows.
+1. In a quiescent air environment, a spherical diffusion flame expands, radiative heat losses
+increase, the local HRR and flame temperature decrease, and the flame extinguishes
+eventually at ≈1200 K, at which the main heat-release step CO + OH  CO2 +H shuts off.
+2. The radiative extinction of the visible diffusion flame is followed by a transition to the lowtemperature (≈700 K) “cool-flame” combustion regime, as a result of the negative
+temperature coefficient in the low-temperature chemistry, with the heat release (from H2O
+formation reactions, etc.) in close proximity to the fuel source.
+
+9
+
+Laminar Flames
+3. The calculated high concentrations of n-heptane (XnC7H16 = 0.37) and water vapor (XH2O =
+0.1) in the cool flame zone suggest that the vapor cloud experimentally observed after the
+total extinction of the cool flame is likely due to the condensation of the fuel-H2O mixture.
+4. The calculated temperature gradients at the burner surface (and, in turn, the heat feedback)
+are comparable for the visible diffusion flame and the cool flame; it is consistent with the
+experimental observation that the burning rate constant decreases only slightly.
+5. The simulation shows that, after a relatively long period of the low-temperature cool-flame
+regime, flash re-ignition, flame-edge propagation, and extinction of the re-ignited flame
+occur.
+6. In a low-speed (≈3 mm/s) airstream, the calculated diffusion flame is enhanced upstream and
+experiences a local extinction downstream at ≈1200 K, followed by steady flame pulsations
+(≈0.4 Hz).
+7. At higher air velocities (4–10 mm/s), the calculated locally extinguished flame becomes
+steady state.
+8. The computation does not show the low-temperature cool flame co-existing with the hightemperature diffusion flame (either the stable, locally extinguished, or pulsating flames)
+because the oxygen cannot penetrate to the burner surface due to the consumption by the
+high-temperature flame or the convection against the oxygen diffusion.
+5. Acknowledgements
+This work was supported by the NASA Space Life and Physical Sciences Research and
+Applications Division (SLPSRA). The authors would like to thank Daniel Dietrich, Vedha
+Nayagam, and Forman Williams for the fruitful discussion. We acknowledge Tanvir Farouk and
+Frederick Dryer for providing the reduced Curran n-heptane reaction mechanism.
+6. References
+[1] F.A. Williams, Combustion Theory, Benjamin/Cummings Publishing, Menlo Park California,
+1985, p. 52.
+[2] M.Y. Choi, F.L. Dryer, in: H.D. Ross (Ed.), Microgravity Combustion: Fire in Free Fall,
+Academic Press, San Diego, California, 2001, pp. 183-297.
+[3] V. Nayagam, D.L. Dietrich, P.V. Ferkul, M.C. Hicks, F.A. Williams, Combust. Flame 159
+(2012) 3583-3588.
+[4] A. Cuoci, A. Frassoldati, T. Faravelli, E. Ranzi. Cool flames in droplet combustion, XXXVI
+Meeting of the Italian Section of the Combustion Institute, 2013.
+[5] T.I. Farouk, F.L. Dryer, Combust. Flame 161 (2014) 565-581.
+[6] T.I. Farouk, F.L. Dryer, Proc. Combust. Inst. 35 (2016), in press.
+[7] V.R. Katta, L.P. Goss, W.M., Roquemore, AIAA Journal 32 (1994). 84.
+[8] W.M. Roquemore, V.R. Katta, J. Visualization 2 (2000) 257-272.
+[9] H. J. Curran, P. Gaffuri, W. J. Pitz, C. K. Westbrook, Combust. Flame 114 (1998) 149 -177.
+[10] V.R. Katta, S.K. Aggarwal, W.M. Roquemore, Fuel, 93 (2012) 339-350.
+[11] P.Berta, S.K. Aggarwal, I.K. Puri, Combust. Flame 145, (2006) 740-764.
+[12] Anon., Computational Submodels, International Workshop on Measurement and
+Computation of Turbulent Nonpremixed Flames, 2001. http://www.ca.sandia.gov/TNF/rdiation.html.
+[13] R.P. Lindstedt, in: H. Bockhorn (Ed.), Soot Formation in Combustion: Mechanisms and
+Models, Springer-Verlag, Heidelberg, 1994, pp.417-439.
+[14] K.M. Leung, R.P. Lindstedt, W.P. Jones, Combust. Flame 87 (1991) 289-305.
+
+10
+

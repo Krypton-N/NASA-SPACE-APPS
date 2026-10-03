@@ -1,0 +1,9 @@
+Sample #,Sample Material  ,Air Flow (cm/s),Weight loss rate (mg/min),Aging Duration (minutes)
+1,Teflon,5,2,1
+2,Teflon,5,1,1
+3,Teflon,5,2,20
+4,Teflon,10,2,1
+5,Kapton: same conditions as 1-4,,,
+6,Silicone Rubber: same conditions as 1-4,,,
+7,Lampwick: same conditions as 1-4,,,
+8,Dibutyl Phthalate: same conditions as 1-4,,,

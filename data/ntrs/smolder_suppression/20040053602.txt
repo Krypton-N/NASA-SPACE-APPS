@@ -1,0 +1,164 @@
+Quantification of Fire Signatures for Practical Spacecraft Materials
+1
+
+Randy L. Vander Wal1, Gary A. Ruff2 and Aaron J. Tomasek1
+National Center for Microgravity Research in Fluids and Combustion
+2
+Microgravity Combustion Science Branch
+NASA John H. Glenn Research Center, 21000 Brookpark Road
+Cleveland, OH 44135
+
+BACKGROUND
+Fire protection strategies and procedures on the Space Shuttle and International Space
+Station has been developed primarily through the modification of standard practices in terrestrial
+fire safety applications and experience gained throughout the history of the U.S. manned space
+program. These procedures address all aspects of fire safety including fire prevention, detection,
+suppression, and post-fire clean up. Because of dire consequences of a major fire on a manned
+spacecraft, the procedures have been developed to first, reduce the risk that a fire can occur and
+second, if a fire occurs, to minimize the spread rate so that it can be extinguished before it
+transitions into a major fire with potentially catastrophic consequences. Reducing the risk that a
+fire occurs is accomplished through the strict limitations on the use of flammable materials and
+the minimization of potential ignition sources. If a fire would start, the best way to ensure that
+the fire remains small and does minimal damage is through the rapid detection and response. On
+the Space Shuttle and ISS, fire detection is accomplished by smoke detectors that essentially
+mirror well-established terrestrial designs and operating procedures.
+Several factors indicate that the use of smoke detectors alone may be inefficient for fire
+detection. First, smoke detectors are sensitive to airborne particulates meaning that they are not
+only sensitive to smoke but also to dust. In both Shuttle and ISS missions, there have been
+numerous nuisance alarms because of dust in the cabin atmosphere. Second, of the potential firecausing incidents that have occurred on the Space Shuttle, all were first detected by the crew, not
+the smoke detectors (Friedman, 1992). In a large spacecraft with a limited crew, not all modules
+will be constantly inhabited. Based on these previous events, a fire incident could have existed
+longer than it did if the smoke detectors were the only means to detect and annunciate the fire.
+Lastly, research has shown that smokes produced in microgravity have different size and
+morphology than smokes produced in normal gravity (Urban et al., 1998). Therefore, the
+presumed margin of safety that exists with smoke detectors developed based on experience in
+terrestrial applications is reduced when applied to the microgravity environment. Even though
+there have been no major fires on U.S. manned spacecraft, it is difficult to say that this has
+resulted from an efficient fire detection system.
+There are currently at least three research projects aimed at developing improved fire
+detectors based on the measurement of combustion gases. These include several SBIR projects
+developing sensitive laser absorption techniques as well as the development of MEMS gas
+sensors being conducted at the NASA John H. Glenn Research Center. While these sensors are
+promising in spacecraft because of their small size and low power requirements, a more basic
+problem exists – to make use of these sensors to detect fires, one must know what chemical
+species and concentrations are expected.
+
+NASA/CP—2003-212376/REV1
+
+389
+
+Studies conducted in 1-g environments have measured the yield and identity of partial
+decomposition products as functions of the rate of heating and oxygen concentration. Though
+insightful, buoyancy convolves the rate of heating with oxidizer entrainment and combustion
+product removal. Thus, variability in the partial decomposition products (identity and yield) and
+the occurrence of secondary reactions of evolved volatiles may be obscured. The non-buoyant or
+weakly convective flows characteristic of a microgravity environment will alter the rates of
+oxidizer entrainment and combustion product removal. The tenet of this research is that the
+specific chemical reactions (and their products) can differ substantially in microgravity
+environments from their normal gravity counterparts. Given that smoldering or pyrolysis are
+generally characteristic pre-fire and “fire” events, variability in the evolved partial
+decomposition products and their concentration has direct consequences for both early fire
+detection and toxicological assessment. While it may seem logical to conduct this experiment in
+space experiment, it is not practical at this time because of uncertainties in test procedures,
+measurement techniques, products produced and their concentrations, and the sheer number of
+tests that would be required to adequately quantify the fire signatures. As with the 1-g tests
+performed to screen material flammability, a 1-g method to obtain pre-fire signatures must be
+developed.
+The hypothesis of this proposal is that by comparing the 1-g time history of the
+smoldering and pyrolysis products produced at different heating rates, convective velocities,
+oxygen concentrations, and ambient pressures, we will be able to quantify the variation of these
+signatures with operating conditions. These time histories will be compared to pre-fire signatures
+obtained in ground-based low-gravity test facilities. The Zero-Gravity Facility and the KC-135
+aircraft are the most likely candidates for these tests because these provide the longest lowgravity periods. Even though the periods of low gravity are very short, we can determine (1)
+whether the low gravity signatures exhibit the same dependence on heating rates, oxygen
+concentrations, and ambient pressures as their 1-g counterparts, and (2) how the signatures
+compare to those obtained in the 1-g tests over similar durations. This information will help to
+assess candidate species for fire signatures, anticipated concentration ranges, and the
+applicability of the 1-g data to represent 0-g performance.
+OBJECTIVE
+The overall objective of this project is to measure the fire signatures of typical spacecraft
+materials in 1-g and determine how these signatures may be altered in a microgravity
+environment. During this project, we will also develop a test technique to obtain representative
+low-gravity signatures. The specific tasks that will be accomplished to achieve these objectives
+are to:
+(1)
+
+measure the time history of various fire signatures of typical spacecraft materials in 1-g
+at varying heating rates, temperatures, convective velocities, and oxygen
+concentrations,
+(2) conduct tests in the Zero-Gravity Facility at NASA John H. Glenn Research Center to
+investigate the manner that a microgravity environment alters the fire signature,
+
+NASA/CP—2003-212376/REV1
+
+390
+
+(3) compare 0-g and 1-g time histories and determine if 0-g data exhibits the same
+dependence on the test parameters as experienced in 1-g
+(4) develop a 1-g test technique by which 0-g fire signatures can be measured.
+The proposed study seeks to investigate the differences in the identities and relative
+concentrations of the volatiles produced by pyrolyzing and/or smoldering materials between
+normal gravity and microgravity environments. Test materials will be representative of typical
+spacecraft materials and, where possible, will be tested in appropriate geometries. Wire
+insulation materials of Teflon, polyimide, silicone, and PVC will be evaluated using either
+cylindrical samples or actual wire insulation. Other materials such as polyurethane, polyimide,
+melamine, and silicone-based foams will be tested using cylindrical samples, in addition to
+fabric materials, such as Nomex. Electrical components, such as resistors, capacitors, circuit
+board will also be tested.
+Gas and particulate sampling will be performed and evaluated as a function of method
+and rate of pre-heating, convective flow velocity, and oxygen concentration. Values of these
+parameters will be typical of those found in spacecraft microgravity environments. Chemical
+analysis will consist of mass spectrometric (MS) analysis, gas chromatography and infrared
+absorption of collected volatiles and particulate matter. Tests will be conducted in the 2.2-sec
+drop tower for experiment check-out and development of procedures, the 5-sec drop tower to
+further increase the available time while maintaining a good, low-gravity event. Additional tests
+are planned for the KC-135 aircraft.
+STATUS
+Funding for this project will not begin until at least Fall 2003 however, planning and
+design for the 1-g test facility is underway. The objective of the initial 1-g tests will be to
+develop and verify the test procedures and conditions that will be investigated in low-gravity. An
+existing combustion chamber will house the flow tunnel in which the samples will be located, as
+shown in Fig. 1. The inlet flow will pass through a plenum, a volume of packed beads, and
+finally a honeycomb flow-straightener before entering the flow chamber. The samples will be
+placed within the flow tunnel and will be heated either by direct contact with an electric heater or
+by a hot air flow. Because of the different sample materials and configurations to be investigated,
+it is anticipated that several different heating methods will be required. Determining a method
+for the different samples will be one of the objectives of the initial tests.
+Gas samples will be drawn from the top of the flow tunnel and directed to a mass
+spectrometer to provide initial information on pyrolysis/smoldering products. The effect of
+heating method, heating rate, and flow condition will be evaluated which will help define the 1-g
+test matrix. Additional diagnostics will be added when the 1-g testing commences in FY04. The
+low-gravity facility will be developed during FY04 with the tests beginning early in FY05.
+
+NASA/CP—2003-212376/REV1
+
+391
+
+REFERENCES
+Friedman, R. (1992) “Fire Safety Practices and Needs in Human Crew Spacecraft,” Jour. Appl.
+Fire Sci., Vol. 2, No. 3, 1992-1993, pp. 243-259.
+Urban, D. L., Griffin, D. W., and Gard, M.Y. (1998) “Comparative Soot Diagnostics: 1 Year
+Report,” Third United States Microgravity Payload: One Year Report, edited by P. A.
+Curreri, D. McCauley, and C. Walker, NASA/CP-1998-207891, Nov. 1998, pp. 119-134.
+
+Exhaust
+
+Gas Analysis
+System
+Electrode
+
+Sample
+
+Electrode
+holder
+
+Flow
+straightener
+Inlet
+
+Figure 1. Schematic of the normal-gravity test facility
+
+NASA/CP—2003-212376/REV1
+
+392
+

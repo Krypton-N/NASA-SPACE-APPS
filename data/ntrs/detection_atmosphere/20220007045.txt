@@ -1,0 +1,1298 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="pdf:PDFVersion" content="1.7">
+<meta name="xmp:CreatorTool" content="Microsoft® Word for Microsoft 365">
+<meta name="pdf:docinfo:title" content="Proceedings of">
+<meta name="pdf:hasXFA" content="false">
+<meta name="access_permission:modify_annotations" content="true">
+<meta name="access_permission:can_print_degraded" content="true">
+<meta name="dc:creator" content="Howard Kaikow">
+<meta name="dcterms:created" content="2023-03-23T15:16:06Z">
+<meta name="dcterms:modified" content="2023-03-23T15:16:06Z">
+<meta name="dc:format" content="application/pdf; version=1.7">
+<meta name="xmpMM:DocumentID" content="uuid:13B962E3-31CC-4C0B-BBC1-7EDE02B04743">
+<meta name="pdf:docinfo:creator_tool" content="Microsoft® Word for Microsoft 365">
+<meta name="access_permission:fill_in_form" content="true">
+<meta name="pdf:docinfo:modified" content="2023-03-23T15:16:06Z">
+<meta name="pdf:hasCollection" content="false">
+<meta name="pdf:encrypted" content="false">
+<meta name="dc:title" content="Proceedings of">
+<meta name="xmp:CreateDate" content="2023-03-23T11:16:06Z">
+<meta name="pdf:hasMarkedContent" content="true">
+<meta name="Content-Type-Override" content="application/pdf">
+<meta name="Content-Type" content="application/pdf">
+<meta name="xmp:ModifyDate" content="2023-03-23T11:16:06Z">
+<meta name="pdf:docinfo:creator" content="Howard Kaikow">
+<meta name="dc:language" content="en-US">
+<meta name="pdf:producer" content="Microsoft® Word for Microsoft 365">
+<meta name="access_permission:extract_for_accessibility" content="true">
+<meta name="access_permission:assemble_document" content="true">
+<meta name="xmpTPg:NPages" content="8">
+<meta name="pdf:hasXMP" content="true">
+<meta name="access_permission:extract_content" content="true">
+<meta name="access_permission:can_print" content="true">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.DefaultParser">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.pdf.PDFParser">
+<meta name="access_permission:can_modify" content="true">
+<meta name="pdf:docinfo:producer" content="Microsoft® Word for Microsoft 365">
+<meta name="pdf:docinfo:created" content="2023-03-23T15:16:06Z">
+<title>Proceedings of</title>
+</head>
+<body><div class="page"><p></p>
+<p> 1  
+</p>
+<p> 
+Proceedings of the ASME 2022  
+</p>
+<p>International Mechanical Engineering Congress and Exposition   
+IMECE2022 
+</p>
+<p> October 30-November 3, 2022, Columbus, OH, USA 
+ 
+</p>
+<p> 
+IMECE2022-95243 
+</p>
+<p>MULTISCALE MODELING OF THE UPTAKE OF HYDROGEN CHLORIDE ON 
+ANODIZED ALUMINUM IN RELEVANCE TO SPACECRAFT FIRE SAFETY 
+</p>
+<p> 
+ 
+</p>
+<p>Justin Niehaus1,2, Sandip Mazumder2 
+ 
+</p>
+<p>1NASA Glenn Research Center, Cleveland, Ohio, 44135, USA 
+2Department of Mechanical and Aerospace Engineering, The Ohio State University, Columbus, OH 
+</p>
+<p>43210, USA 
+ 
+</p>
+<p> 
+</p>
+<p>ABSTRACT 
+Fire safety is a critical component of space missions. An 
+</p>
+<p>electrical fire within the spacecraft often produces gaseous 
+</p>
+<p>hydrogen chloride (HCl) from the smoldering of wire insulation. 
+</p>
+<p>These gases tend to stick to the interior materials of the 
+</p>
+<p>spacecraft, which is often comprised of treated aluminum. 
+</p>
+<p>Determining the rate of uptake for HCl by aluminum helps the 
+</p>
+<p>safe design of the spacecraft to reduce catastrophic mission risk. 
+</p>
+<p>Our previous studies showed that a one-step global reaction 
+</p>
+<p>model for adsorption of HCl on aluminum is incapable of 
+</p>
+<p>predicting the experimentally measured HCl uptake of anodized 
+</p>
+<p>aluminum, compared to other treatments with thinner oxide 
+</p>
+<p>layers. X-ray photoelectron spectroscopy revealed that 
+</p>
+<p>aluminum chloride is found deep in the oxide layer of the 
+</p>
+<p>anodized aluminum, implying that the transport of HCl within 
+</p>
+<p>the oxide layer covering the aluminum surface must be 
+</p>
+<p>considered. This work uses a multiscale modeling approach to 
+</p>
+<p>predict the uptake of HCl. A pore model is developed wherein the 
+</p>
+<p>HCl reacts with the aluminum oxide pore walls to create an 
+</p>
+<p>aluminum chloride layer. The HCl then diffuses through that 
+</p>
+<p>layer for further reaction, until the diffusion resistance grows too 
+</p>
+<p>large, and the surface is said to be saturated. The pore model is 
+</p>
+<p>then coupled with the reactor-scale model to predict overall HCl 
+</p>
+<p>uptake. Results show that this new multiscale approach predicts 
+</p>
+<p>the uptake of HCl far more accurately than previously used 
+</p>
+<p>single-scale models. 
+</p>
+<p>Keywords: Spacecraft Fire Safety, Multiscale Modeling, 
+</p>
+<p>Surface Reactions  
+</p>
+<p>NOMENCLATURE 
+A  Pre-exponential factor, 1/s 
+</p>
+<p>Apo  Surface area of pore, m2 
+</p>
+<p>c  Concentration, mol/m3    
+</p>
+<p>CCC Chromate Conversion Coating 
+</p>
+<p>Deff  Effective diffusion coefficient, m2/s 
+</p>
+<p>Dop  Diffusion coefficient through open pore, m2/s 
+</p>
+<p>Dpl  Diffusion coefficient in product layer, m2/s 
+</p>
+<p>Ea  Activation energy, J 
+</p>
+<p>PVC Poly (vinyl chloride) 
+</p>
+<p>k  Reaction rate constant for reactor model, 1/s 
+</p>
+<p>kr  Reaction rate in pore model, m/s 
+</p>
+<p>M  Molar Mass, kg/mol 
+</p>
+<p>MFC Mass Flow Controller 
+</p>
+<p>mHCl Mass of HCl deposited on pore walls, kg 
+</p>
+<p>R  Universal gas constant, J/(mol-K) 
+</p>
+<p>Ṙ  Reaction rate for reactor model , kmol/(m3-s) 
+</p>
+<p>s  Surface site used by reactor model 
+</p>
+<p>       SEM  Scanning electron microscopy 
+</p>
+<p>T  Temperature, K 
+</p>
+<p>XPS X-ray photoelectron spectroscopy 
+</p>
+<p>εopl  Volume fraction of product layer 
+</p>
+<p>εpl  Volume fraction of product layer 
+</p>
+<p>ρsite  Surface site density  
+</p>
+<p>θ  Surface site fraction 
+</p>
+<p>µ  Site dependent exponential factor 
+</p>
+<p> 
+</p>
+<p>INTRODUCTION 
+ 
+</p>
+<p>As missions in space become longer and more complex, fire 
+</p>
+<p>safety becomes a critical issue. Most fire testing that has been 
+</p>
+<p>used in spacecraft design takes place in 1-g or at small-scale [1-
+</p>
+<p>3]. There are experiments underway to address gaps in 
+</p>
+<p>knowledge of smoke and flame spread in a large-scale 
+</p>
+<p>microgravity environment, as well as provide the opportunity to 
+</p>
+<p>test novel gas species sensor technology and understand the 
+</p>
+<p>effect the fire has on the vehicle [4-7]. One of these knowledge 
+</p>
+<p>gaps is the fate of acid gas after a fire. 
+</p>
+<p> Risk assessments cite an electrical fire as a common 
+</p>
+<p>spacecraft scenario [8]. Combustion products from the 
+</p>
+<p>smoldering of wire insulation include acid gases such as </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p> 2  
+</p>
+<p>hydrogen chloride (HCl), hydrogen fluoride (HF) and hydrogen 
+</p>
+<p>cyanide (HCN). These gases pose a threat to crew health and 
+</p>
+<p>safety, as well as provide an opportunity for additional fire 
+</p>
+<p>detection methods. It is important to study the interaction of 
+</p>
+<p>these gases with surfaces to determine their lifetime within the 
+</p>
+<p>spacecraft environment for potential fire detection and post-fire 
+</p>
+<p>cleanup applications, as well as general crew safety. These gases 
+</p>
+<p>adsorb on surfaces and participate in other reactions, unlike more 
+</p>
+<p>common combustion products such as water and carbon dioxide. 
+</p>
+<p>Studies in terrestrial fires show that HCl from pyrolyzed 
+</p>
+<p>poly(vinyl chloride) (PVC) reached a peak in the atmosphere and 
+</p>
+<p>then decreased rapidly in rooms made of Poly(methyl 
+</p>
+<p>methacrylate) (PMMA), painted gypsum, ceiling tile and cement 
+</p>
+<p>block [9,10].  
+</p>
+<p>Aluminum is abundant inside a spacecraft and is often 
+</p>
+<p>treated to enhance its natural oxide layer, known as alumina [11, 
+</p>
+<p>12]. Chromate conversion coating (CCC) creates a thin enough 
+</p>
+<p>barrier to allow electricity to still be conducted through the 
+</p>
+<p>metal, while anodization creates a much thicker and protective 
+</p>
+<p>alumina layer that cannot conduct electricity. Both these 
+</p>
+<p>treatments are commonly used in spacecrafts. 
+</p>
+<p>Previous work has studied the interaction of HCl with 
+</p>
+<p>treated and untreated aluminum [13,14]. A reactor was built to 
+</p>
+<p>flow HCl over a cylindrical sample, measuring the inlet and 
+</p>
+<p>outlet concentration of HCl to determine the rate of uptake. A 
+</p>
+<p>numerical model of the reactor was developed where a one-step 
+</p>
+<p>global reaction that accounted for active surface sites was used 
+</p>
+<p>for modeling HCl uptake. The model reaction rate constants were 
+</p>
+<p>calibrated to the untreated and CCC aluminum experimental 
+</p>
+<p>results. When used for anodized aluminum, though, the same 
+</p>
+<p>model did not match as well with experimental data. The 
+</p>
+<p>untreated aluminum and the CCC aluminum were inspected 
+</p>
+<p>using X-Ray Photoelectron Spectroscopy (XPS) and found to 
+</p>
+<p>have oxide layer thicknesses of 50 and 200 nm respectively, 
+</p>
+<p>while the anodized aluminum had an oxide layer thickness of 
+</p>
+<p>5,500 nm. With an order of magnitude thicker oxide layer, the 
+</p>
+<p>mass transport resistance of the oxide layer becomes critical and 
+</p>
+<p>the effect of diffusion through the pores of the oxide layer must 
+</p>
+<p>be accounted for.  
+</p>
+<p>On account of the huge disparity in length scales, it is not 
+</p>
+<p>feasible to model the diffusion through the pores of the oxide 
+</p>
+<p>layer within the reactor-scale model. In other words, the same 
+</p>
+<p>mesh that resolves the inside of the reactor cannot be also used 
+</p>
+<p>to resolve the pores within the oxide layer covering the 
+</p>
+<p>aluminum surface. It is with this difficulty in mind, a separate 
+</p>
+<p>pore-scale model was first developed and used to compute the 
+</p>
+<p>growth of the aluminum chloride layer and its effect on HCl 
+</p>
+<p>uptake [15]. This subgrid-scale model assumes the pores to be 
+</p>
+<p>cylindrical and the reaction of HCl with aluminum oxide pore 
+</p>
+<p>walls to create aluminum chloride is considered. The HCl then 
+</p>
+<p>must diffuse through the thickening aluminum chloride layer to 
+</p>
+<p>react. The reaction stops when the diffusion resistance becomes 
+</p>
+<p>too large for more HCl to make it to the pore wall. The output of 
+</p>
+<p>this pore model was ultimately used in the reactor-scale model 
+</p>
+<p>to result in what is referred to here as a multiscale model. This is 
+</p>
+<p>accomplished by increasing the diffusion resistance realized in 
+</p>
+<p>the pore model. Using the time dependent decrease in diffusion 
+</p>
+<p>coefficient, an expression for the diffusion coefficient as a 
+</p>
+<p>function of HCl wall concentration is further developed to make 
+</p>
+<p>the expression more general and applicable to other simulation 
+</p>
+<p>parameters. The overall idea is depicted in Figure 1.  
+</p>
+<p> 
+</p>
+<p> 
+Figure 1: Multiscale model schematic. A 3D rendering of the 
+</p>
+<p>reactor model is given by (A), where HCl only reacts with 
+</p>
+<p>active surface sites. When the sites are filled, the sample is 
+</p>
+<p>saturated, and the reaction stops. The pore model allows HCl to 
+</p>
+<p>diffuse into the porous oxide layer (B) and react with the 
+</p>
+<p>aluminum oxide walls to create an aluminum chloride product 
+</p>
+<p>layer (C). 
+</p>
+<p> 
+</p>
+<p>MATERIALS AND METHODS 
+ 
+Experimental Measurements 
+ 
+</p>
+<p>First, experiments were carried out where HCl flowed into a 
+</p>
+<p>reactor over an aluminum sample to determine the HCl uptake. 
+</p>
+<p>These tests were used to calibrate the constants in a one-step 
+</p>
+<p>global reaction. A schematic of the test reactor is shown in Figure 
+</p>
+<p>2. It was constructed out of cast acrylic, as it was not known to 
+</p>
+<p>react with HCl. Air mixed with approximately 45 parts per </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p> 3  
+</p>
+<p> 
+Figure 2: Schematic of laboratory setup. The sample is pushed 
+</p>
+<p>into the test cell after inlet and outlet HCl sensors showed 
+</p>
+<p>equilibrium. 
+</p>
+<p> 
+</p>
+<p>million (ppm)  of HCl is flowed through the test reactor at 1000 
+</p>
+<p>cubic centimeters per minute (ccm). Electrochemical HCl 
+</p>
+<p>sensors with a range of up  to 50 ppm and a resolution of 0.1 ppm 
+</p>
+<p>were placed at the inlet and outlet of the reactor to determine the 
+</p>
+<p>uptake of the sample. The sample was pushed by air pump into 
+</p>
+<p>the reactor after the concentration on each sensor had reached 
+</p>
+<p>steady state. During the test, the inlet concentration remains 
+</p>
+<p>relatively constant, while the outlet sensor drops, and then 
+</p>
+<p>increases back up to the initial value as the sample saturates. 
+</p>
+<p>Aluminum 6061-T6 were used for the study and were 
+</p>
+<p>treated by anodizing to standard MIL-8635F Type II Class 1, or 
+</p>
+<p>by CCC using standard MIL-DTL-5541F Type I. The test 
+</p>
+<p>samples were 2.54 cm in diameter by 30 cm in length, while at 
+</p>
+<p>baseline tests push 20 cm of sample length. XPS was used to 
+</p>
+<p>determine the oxide layer thickness of the aluminum samples, as 
+</p>
+<p>well as the depth of the chlorine found in the samples after the 
+</p>
+<p>test. The oxide layer thickness was found to be 50 nm for the 
+</p>
+<p>untreated aluminum, 200 nm for the CCC and 5,500 nm for the 
+</p>
+<p>anodized. On average, chlorine was found no lower than 5, 50, 
+</p>
+<p>and 2,200 nm for the untreated, CCC and anodized aluminum 
+</p>
+<p>respectively. These values are found in Table 1, along with the 
+</p>
+<p>site density of each aluminum treatment, which is explained in 
+</p>
+<p>the next section. 
+</p>
+<p> 
+Table 1: Oxide Layer thickness, depth chlorine is found 
+within the oxide layer after a test and site density of 
+aluminum used in the study. 
+</p>
+<p>Aluminum 
+</p>
+<p>Treatment 
+</p>
+<p>Depth of 
+</p>
+<p>Oxide 
+</p>
+<p>Layer (nm) 
+</p>
+<p>Depth 
+</p>
+<p>Chlorine 
+</p>
+<p>Found by 
+</p>
+<p>XPS (nm) 
+</p>
+<p>Site Density 
+</p>
+<p>(kmol/m2
+) 
+</p>
+<p>Untreated 50 5 7.61x10-8 
+</p>
+<p>CCC 200 50 4.09x10-7 
+</p>
+<p>Anodized 5,500 2,200 2.90x10-6 
+</p>
+<p> 
+</p>
+<p>Reactor Model 
+ 
+Figure 3 shows a schematic of the reactor model, along with 
+</p>
+<p>associated boundary conditions. It is a 2D axisymmetric model 
+</p>
+<p>with an annular mass flow inlet, a reacting surface (aluminum 
+</p>
+<p>surface) with a 1-step global reaction rate, and a pressure outlet. 
+</p>
+<p>The one-step global reaction that was used is as follows: 
+</p>
+<p>  (1) 
+</p>
+<p> 
+</p>
+<p> 
+Figure 3: Schematic of reactor model. 
+</p>
+<p>HCl(g) represents gaseous HCl, while s is an active surface site. 
+</p>
+<p>HCl(s) denotes adsorbed HCl. The rate of HCl disappearance 
+</p>
+<p>from the reactor equals the rate of aluminum surface site 
+</p>
+<p>consumption and is given by: 
+</p>
+<p> 
+</p>
+<p>  (2) 
+</p>
+<p> 
+</p>
+<p>The quantities in square brackets describe molar concentrations 
+</p>
+<p>in kmol/m3, while Ṙ is the molar reaction rate and k is the 
+</p>
+<p>reaction rate constant. This constant is expressed by an 
+</p>
+<p>Arrhenius rate expression that accounts for surface coverage: 
+</p>
+<p> 
+</p>
+<p>                                            (3) 
+</p>
+<p> 
+</p>
+<p>The site fraction θ is the ratio of active sites remaining [s] and 
+</p>
+<p>the total site concentration known as the surface site density, ρsite. 
+</p>
+<p>This site fraction has a starting value of unity, and as the active 
+</p>
+<p>sites fill up, decreases towards zero. This ultimately brings k 
+</p>
+<p>from its maximum value, down to zero as the surface saturates. 
+</p>
+<p>All experiments in this work were conducted at room 
+</p>
+<p>temperature (20 ℃), allowing the temperature dependent terms 
+</p>
+<p>to be treated as constants, ultimately combined into the 
+</p>
+<p>calibratable constant A. Furthermore, the global reaction stated 
+</p>
+<p>in Eq. (1) was assumed to be first order in HCl (a = 1) as 
+</p>
+<p>evidenced in previous studies [16,17]. Consequently, Eq. 3 
+</p>
+<p>simplifies to: 
+</p>
+<p> 
+</p>
+<p>  (4) 
+ 
+</p>
+<p>Figure 4 shows the experimental results from the three types 
+</p>
+<p>of aluminum tested. The curves are integrated to determine ρsite, 
+</p>
+<p>which is used as an input into the model. The available sites 
+</p>
+<p>correlate positively with the thickness of the oxide layer, as can 
+</p>
+<p>be seen in Table 1. The constants of the 1-step global reaction 
+</p>
+<p>were calibrated using the CCC experiment, since it had the 
+</p>
+<p>intermediate number of sites. Figure 5 gives the calibrated results 
+</p>
+<p>for the CCC treatment. An A value of 30,000 and µ of 1 was used 
+</p>
+<p>as the best match, and validated with different flow values, inlet 
+</p>
+<p>concentrations and sample lengths. More information about the 
+</p>
+<p>calibration process, as well as mesh independence is given in 
+</p>
+<p>previous work [13]. The reaction rate calibrated for the CCC fit 
+</p>
+<p>the untreated aluminum sample as well, which is also 
+</p>
+<p>demonstrated in Figure 5. The anodized aluminum did not fit as  </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p> 4  
+</p>
+<p> 
+Figure 4: Experimental HCl history at the outlet sensor. 
+</p>
+<p> 
+</p>
+<p>well, as shown in Figure 6. This is likely due to the additional  
+</p>
+<p>mass transport resistance posed by a thicker oxide layer and is  
+</p>
+<p>the central focus of the present study. As discussed earlier, a 
+</p>
+<p>multiscale model that integrates a pore-scale and a reactor-scale 
+</p>
+<p>model is proposed. In the next subsection, the pore model is 
+</p>
+<p>discussed. 
+</p>
+<p> 
+</p>
+<p> 
+Figure 5: Stock and CCC experiments with calibrated reactor 
+</p>
+<p>model. A =30,000 and µ = 1.0.  
+ 
+</p>
+<p> 
+Figure 6: Anodized experiment with calibrated reactor 
+</p>
+<p>model. A =30,000 and µ = 1.0. 
+</p>
+<p>Pore Model 
+ 
+To account for the mass transport and reaction (formation of 
+</p>
+<p>aluminum chloride) within the oxide layer, a pore-scale model 
+</p>
+<p>was developed for a single pore in the oxide layer. A 2D 
+</p>
+<p>axisymmetric model of a single cylindrical pore was used for the 
+</p>
+<p>diffusion of HCl into the pore, with the top boundary condition 
+</p>
+<p>being of constant concentration and a boundary condition set at 
+</p>
+<p>the pore walls representing the reaction of HCl with aluminum 
+</p>
+<p>oxide. In this model, the reaction at the pore wall creates a solid 
+</p>
+<p>aluminum chloride layer that the HCl must diffuse through to 
+</p>
+<p>further react (see bottom right subfigure of Fig. 1). Once the 
+</p>
+<p>layer grows too thick, the sample is said to be saturated and the 
+</p>
+<p>reaction slows to a stop. HCl transport through the pore is 
+</p>
+<p>described by the 2D transient diffusion equation given by: 
+</p>
+<p> 
+</p>
+<p>                  (5) 
+</p>
+<p> 
+</p>
+<p>The concentration of HCl in mol/m3 is denoted by c while the 
+</p>
+<p>diffusion coefficient in m2/s is denoted by D. The concentration 
+</p>
+<p>of HCl at every control volume (cell) center is determined by 
+</p>
+<p>discretizing Eq. (5) using the finite volume method [18]. Time 
+</p>
+<p>advancement is implemented using the implicit backward Euler 
+</p>
+<p>method. When HCl reaches the pore wall, it creates a solid 
+</p>
+<p>aluminum chloride and deposits on the pore wall at the rate given 
+</p>
+<p>by: 
+</p>
+<p> 
+</p>
+<p>     (6) 
+</p>
+<p> 
+</p>
+<p>The reaction rate, HCl wall concentration and area of the pore 
+</p>
+<p>are given by kr, cw, and Apo, respectively. The molar mass of the 
+</p>
+<p>product (aluminum chloride) is represented by M and dt is the 
+</p>
+<p>time step. In a particular cell, the diffusion coefficient can be 
+</p>
+<p>represented by the open pore diffusion coefficient (Dop), the 
+</p>
+<p>product layer diffusion coefficient (Dpl) or an effective diffusion 
+</p>
+<p>coefficient (Deff) somewhere in between Dop and Dpl for when the 
+</p>
+<p>product layer does not completely fill the cell during a particular 
+</p>
+<p>time step. A diffusion resistance is used to determine Deff through 
+</p>
+<p>the partially filled cell as given by: 
+</p>
+<p> 
+</p>
+<p>  (7) 
+</p>
+<p> 
+</p>
+<p>The volume fraction taken up by the produce layer and the open 
+</p>
+<p>pore are given by εpl and εop, respectively.  
+</p>
+<p>      Figure 7 shows the experimental HCl uptake in kg, against 
+</p>
+<p>the best fit model with the parameters given in Table 2. The 
+</p>
+<p>model was calibrated using two parameters: the reaction rate at 
+</p>
+<p>the, kr, and the diffusion coefficient through the product layer, 
+</p>
+<p>Dpl. Scanning electron microscopy (SEM) was used to estimate 
+</p>
+<p>the average pore radius, as well as the porosity of the entire oxide 
+</p>
+<p>layer. This porosity, given in Table 2, is a fixed value for the </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p> 5  
+</p>
+<p> 
+Figure 7: Uptake of HCl mass by anodized aluminum oxide 
+layer. 
+ 
+Table 2: Parameters used in the pore model  
+</p>
+<p> 
+</p>
+<p>sample and is not to be confused with the porosity of the single 
+</p>
+<p>pore, which decreases as the aluminum chloride product layer 
+</p>
+<p>forms. Additionally, pore radius and the porosity of the oxide 
+</p>
+<p>layer were inferred from a combination of literature, and 
+</p>
+<p>knowledge of the anodization voltage [19-22]. The porosity 
+</p>
+<p>could then be used to determine the number of pores and distance 
+</p>
+<p>between the pores as outlined in Figure 1B, representing the 
+</p>
+<p>oxide-scale model This assumes that each pore being modeled 
+</p>
+<p>and represented in the pore-scale in Figure 1C has the same 
+</p>
+<p>diameter. 
+</p>
+<p>      Figure 8 shows the product layer front at three different 
+</p>
+<p>instances of time, with 30 nm being the maximum product layer 
+</p>
+<p>thickness since that is the pore radius, and represents the pore 
+</p>
+<p>closing up, thereby preventing further uptake of HCl. The 60-
+</p>
+<p>minute mark is when the product layer reaches 30 nm, and uptake 
+</p>
+<p>slows drastically as shown in Figure 7.  
+</p>
+<p>      The open pore diffusion coefficient of 1.85x10-9 m2/s was 
+</p>
+<p>used with the assumption that capillary condensation would be 
+</p>
+<p>found in the pores. Studies using anodized nano channels and 
+</p>
+<p>other nano channels have observed capillary condensation in 
+</p>
+<p>pores between 10 and 60 nm [23,24]. Values for chlorine 
+</p>
+<p>diffusion in water reported in the literature are consistent with 
+</p>
+<p>this value [25]. 
+</p>
+<p>      The diffusion resistance described in Eq. (7) for individual 
+</p>
+<p>cells can also be used to determine the increase in resistance from 
+</p>
+<p>the pore, and assuming each pore is the same, the oxide layer in 
+</p>
+<p>total. This could be used to develop an expression for the 
+</p>
+<p>increased resistance in the reactor model.  Further details of the 
+</p>
+<p>model are discussed in [15]. 
+</p>
+<p>Figure 8: Product layer front as a function of depth into oxide 
+layer. 
+</p>
+<p> 
+</p>
+<p>RESULTS AND DISCUSSION 
+ 
+</p>
+<p>Qualitatively, the inferior fit between the experimental data and 
+</p>
+<p>the reactor model with the anodized treatment vs. the stock and 
+</p>
+<p>CCC can be seen by comparing Figures 5 and 6. The difference 
+</p>
+<p>in standard error also gives quantitative data. The standard error 
+</p>
+<p>between experiment and prediction is almost twice in the case of 
+</p>
+<p>the anodized reactor model compared to the CCC and stock as 
+</p>
+<p>given by Table 3. 
+</p>
+<p>Table 3: Standard error of models as compared to 
+</p>
+<p>experiment. 
+</p>
+<p>Model Type 
+</p>
+<p>Standard Error 
+</p>
+<p>Against 
+</p>
+<p>Experiment (ppm) 
+</p>
+<p>Untreated 1.11 
+</p>
+<p>CCC 0.76 
+</p>
+<p>Anodized 3.08 
+</p>
+<p>Anodized with Eq. (8) 1.59 
+</p>
+<p>Anodized with Eq. (9) 1.62 
+</p>
+<p>      It is possible that there are slight deviations in the chemical 
+</p>
+<p>structure of the oxide layer, such as more silicon or magnesium, 
+</p>
+<p>which would justify adjusting the calibration coefficients. 
+</p>
+<p>During the calibration process, increasing A, generally brought 
+</p>
+<p>the minimum concentration in the curve down, while increasing 
+</p>
+<p>µ produced a faster recovery.  However, changing the A and µ 
+</p>
+<p>value drastically did little to change the prediction in the 
+</p>
+<p>anodized case. For example, Figure 9A shows the reactor model 
+</p>
+<p>with the stock sample using +/- 100% value of the baseline A 
+</p>
+<p>value (A = 30,000) compared to Figure 9B with the anodized 
+</p>
+<p>model. As expected, the minimum concentration in the stock 
+</p>
+<p>prediction dropped noticeably as A was increased, while little to 
+</p>
+<p>no change was noticed in the anodized prediction as A was 
+</p>
+<p>varied. This is an indication that other physics are at work. It is 
+</p>
+<p>known from the XPS results that chlorine is found much deeper 
+</p>
+<p>in the oxide layer than in the stock or CCC samples. This means 
+</p>
+<p>that the active sites are not all on the surface for the anodized 
+</p>
+<p>Diffusion coefficient of product layer: Dpl 2.75x10-13 m2/s 
+</p>
+<p>Diffusion coefficient of pore: Dop 1.85x10-9 m2/s 
+</p>
+<p>Reaction rate at pore wall: kr 5.00x10-5 m/s 
+</p>
+<p>Pore radius 30 nm 
+</p>
+<p>Porosity of oxide layer  0.15 
+</p>
+<p>HCl concentration at the inlet 43.1 ppm </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p> 6  
+</p>
+<p> 
+</p>
+<p> 
+Figure 9: Stock (A) and anodized (B) reactor models with 
+</p>
+<p>different calibration coefficients. A was varied by +/- 100% to 
+</p>
+<p>determine the sensitivity of each model. 
+</p>
+<p> 
+</p>
+<p>aluminum relative to the other aluminum, and that HCl needs to 
+</p>
+<p>diffuse through the layer to get to an active site to react.  
+</p>
+<p>       An expression for the increased diffusion resistance the 
+</p>
+<p>buildup of aluminum chloride provides is given in Figure 10 
+</p>
+<p>along with the least square fit. In the pore model, the aluminum 
+</p>
+<p>chloride layer builds until the diffusion resistance is too much 
+</p>
+<p> 
+Figure 10: Diffusion resistance from pore model. This 
+</p>
+<p>resistance is used to determine the diffusion coefficient of the 
+</p>
+<p>cells adjacent to the reacting surface. 
+</p>
+<p>for further reaction to continue. This can be quantified in a 
+</p>
+<p>diffusion resistance that can be used in the reactor model. 
+</p>
+<p>Analogous to Eq. (7), the ratio of the area fraction taken up by 
+</p>
+<p>the product layer or open pore and its respective diffusion 
+</p>
+<p>coefficient is added in series to get an expression of the diffusion 
+</p>
+<p>resistance. This resistance correlates proportionality to a 
+</p>
+<p>decrease in the effective diffusion coefficient used in the 
+</p>
+<p>adjacent cells to the reacting surface in the reactor model. The 
+</p>
+<p>expression for this effective diffusion coefficient is shown in 
+</p>
+<p>Figure 11 and given by the expression: 
+</p>
+<p> 
+</p>
+<p>      (8) 
+</p>
+<p> 
+</p>
+<p>Placing Eq. (8) as the effective diffusion coefficient near the 
+</p>
+<p>reacting surface drastically decreased the standard error as seen 
+</p>
+<p>in Table 3. This expression, however, would only hold in this 
+</p>
+<p>particular reactor simulation with the same flow conditions and 
+</p>
+<p>initial concentrations. 
+</p>
+<p>To expand the generality of this method, an expression that 
+</p>
+<p>is not purely a function of time must be developed. The speed in 
+</p>
+<p>which the sample saturates is dependent on the sum of HCl that 
+</p>
+<p>makes it to the wall. Integrating the wall concentration with time 
+</p>
+<p>and performing a least square fit to the original curve, Eq. (8),  
+</p>
+<p>gave an expression for the decreased diffusion coefficient shown 
+</p>
+<p>also in Figure 11 and given by: 
+</p>
+<p> 
+</p>
+<p>    (9) 
+</p>
+<p> 
+</p>
+<p> 
+Figure 11: Diffusion coefficient of cells adjacent to the 
+</p>
+<p>reacting surface. Black line represents the diffusion coefficient 
+</p>
+<p>purely as a function of time, Eq. (8), while the blue line is fitted 
+</p>
+<p>to the black line to be a function of cell center concentration of 
+</p>
+<p>cells adjacent to the reacting surface, Eq. (9).  
+</p>
+<p> 
+</p>
+<p>Using the expression in Eq. (9) in the reactor model gave a 
+</p>
+<p>similar prediction as using Eq. 8, as expected, and can be seen in 
+</p>
+<p>Figure 12.  
+</p>
+<p> </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p> 7  
+</p>
+<p> 
+Figure 12: Outlet concentration in the reactor experiments 
+</p>
+<p>and models. Adjusting the diffusion coefficient in the reactor 
+</p>
+<p>model brings up the concentration faster for a better prediction. 
+</p>
+<p> 
+</p>
+<p>      The further development of the reactor model to incorporate 
+</p>
+<p>pore-scale phenomenon will allow for more accurate predictions 
+</p>
+<p>at reduced computational costs. This is essential as spacecraft 
+</p>
+<p>fire simulations will be in the length scale of meters, while the 
+</p>
+<p>physics that govern acid gas adsorption will be micro- and nano-
+</p>
+<p>scale in length. More accurate predictions of the uptake of acid 
+</p>
+<p>gas in a fire scenario will help engineers design better smoke 
+</p>
+<p>detectors, and post-fire cleanup practices. Knowing how much 
+</p>
+<p>HCl remains in the atmosphere and how much remains in the 
+</p>
+<p>surfaces will aid in the development of procedures for crew 
+</p>
+<p>health and safety in terms of when it is optimal to return to a fire 
+</p>
+<p>damaged section of the spacecraft. 
+</p>
+<p>CONCLUSION 
+ 
+</p>
+<p>Two models were utilized and eventually combined to predict 
+</p>
+<p>the uptake of HCl onto anodized aluminum. A single-scale 
+</p>
+<p>reactor model with a 1-step global reaction was able to predict 
+</p>
+<p>uptake of treated aluminum with thin oxide layers better than 
+</p>
+<p>with thick oxide layers. A multiscale model was developed to 
+</p>
+<p>address aluminum samples with thick oxide layers. In this model 
+</p>
+<p>information derived from a pore-scale model was integrated with 
+</p>
+<p>the reactor-scale model. The pore-scale model was utilized to 
+</p>
+<p>predict the uptake of HCl by the thick oxide layer of the anodized 
+</p>
+<p>aluminum. In the pore-scale model, the saturation of the sample 
+</p>
+<p>was due to the increased aluminum chloride layer build up at the 
+</p>
+<p>pore walls which increased the diffusion resistance of the HCl to 
+</p>
+<p>the pore wall, slowing the reaction to a stop. An expression of 
+</p>
+<p>this increased diffusion resistance was used in the reactor model 
+</p>
+<p>of the anodized aluminum to increase the prediction accuracy. 
+</p>
+<p>This expression took the form of a decreased diffusion 
+</p>
+<p>coefficient as a function of time in the cells adjacent to the 
+</p>
+<p>reacting surface. The expression was then modified to be a 
+</p>
+<p>function of integrated HCl wall concentration so that it could be 
+</p>
+<p>used in other reactor models and spacecraft simulations.  
+</p>
+<p> 
+ 
+ 
+</p>
+<p>ACKNOWLEDGEMENTS 
+ 
+</p>
+<p>This research was funded by the Saffire Project within NASA’s 
+</p>
+<p>Advanced Exploration Systems Division. The authors like would 
+</p>
+<p>like to thank the project manager Gary Ruff and the principal 
+</p>
+<p>investigator David Urban for their leadership on the project and 
+</p>
+<p>Gordon Berger and Dan Gotti for their technical expertise and 
+</p>
+<p>engineering design efforts. 
+ 
+REFERENCES 
+[1] Fujita, O., 2015, "Solid combustion research in 
+</p>
+<p>microgravity as a basis of fire safety in space," Proceedings 
+</p>
+<p>of the Combustion Institute, Vol. 35.3, pp. 2487-2502. 
+</p>
+<p>[2] Xiaoyang, Z., Liao, Y-T., T., Johnston, M.C., James, S., 
+</p>
+<p>Ferkul, P., V., and Olson, S., L., 2017, "Concurrent flame 
+</p>
+<p>growth, spread, and quenching over composite fabric 
+</p>
+<p>samples in low speed purely forced flow in microgravity," 
+</p>
+<p>Proceedings of the Combustion Institute, Vol. 36.2, pp. 
+</p>
+<p>2971-2978. 
+</p>
+<p>[3] Meyer, M. E., Mulholland, G. W., Bryg, V., Urban, D. L., 
+</p>
+<p>Yuan, Z.-G., Ruff, G. A., Cleary, T., and Yang, J., 2015, 
+</p>
+<p>“Smoke Characterization and Feasibility of the Moment 
+</p>
+<p>Method for Spacecraft Fire Detection,” Aerosol Sci. 
+</p>
+<p>Technol., Vol. 49.5, pp. 299–309. 
+</p>
+<p>[4] Ruff, G. A., Urban, D. L., Fernandez-Pello, A. C., T’ien, J. 
+</p>
+<p>S., Torero, J. L., Legros, G., Eigenbrod, C., Smirnov, N., 
+</p>
+<p>Fujita, O., Cowlard, A. J., Rouvreau, S., Minster, O., Toth, 
+</p>
+<p>B., and Jomaas, G., 2014, “Spacecraft Fire Experiment 
+</p>
+<p>(Saffire) Development Status,” Proceedings of the 
+</p>
+<p>ICES2014, July 13 – 17, 2014, Tucson, Arizona, Paper 
+</p>
+<p>Number ICES-2014-265. 
+</p>
+<p>[5] Jomaas, G., Torero, J. T., Eigenbrod, C., Niehaus, J., 
+</p>
+<p>Olson, S. L., Ferkul, P. V., Legros, G., Fernandez-Pello, 
+</p>
+<p>C., Cowlard, A. J., Rouvreau, S., Smirnov, N., Fujita, O., 
+</p>
+<p>T’ien, J. S., Ruff, G. A., and Urban, D. L., 2015, “Fire 
+</p>
+<p>Safety in Space – Beyond Flammability Testing of Small 
+</p>
+<p>Sample,” Acta Astronautica, Vol. 109, pp. 208-216. 
+</p>
+<p>[6] Ruff, G. and Urban, D., 2016, “Operation and 
+</p>
+<p>Development Status of the Spacecraft Fire Experiments 
+</p>
+<p>(Saffire),” Proceedings of the ICES2016, July 10 – 14, 
+</p>
+<p>Vienna, Austria, Paper Number ICES-2016-428, Texas 
+</p>
+<p>Tech University Libraries. 
+</p>
+<p>[7] Ferkul, P. V., Olson, S., Urban, D. L., Ruff, G. A., Easton, 
+</p>
+<p>J., T’ien, J. S., Liao, Y.-T. T., Fernandez-Pello, A. C., 
+</p>
+<p>Torero, J. L., Eigenbrod, C., Legros, G., Smirnov, N., 
+</p>
+<p>Fujita, O., Rouvreau, S., Toth, B., and Jomaas, G., 2017, 
+</p>
+<p>“Results of Large-Scale Spacecraft Flammability Tests,” 
+</p>
+<p>Proceedings of the ICES2017, July 16 – 20, 2017, 
+</p>
+<p>Charleston, South Carolina, Paper Number ICES-2017-
+</p>
+<p>224. 
+</p>
+<p>[8] Friedman, R., 1996, “Fire safety in spacecraft,” Fire and 
+</p>
+<p>Materials, Vol. 20.5, pp. 235-243. 
+</p>
+<p>[9] Beitel, J. J., Bertelo, C. A., Carroll Jr, W. F., Gardner, R. 
+</p>
+<p>O., Grand, A. F., Hirschler, M. M., and Smith, G. F., 1986, 
+</p>
+<p>"Hydrogen Chloride Transport and Decay in a Large </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p> 8  
+</p>
+<p>Apparatus I. Decomposition of Poly (Vinyl Chloride) Wire 
+</p>
+<p>Insulation in a Plenum by Current Overload," Journal of 
+</p>
+<p>fire sciences, Vol. 4.1, pp. 15-41. 
+</p>
+<p>[10] Galloway, F. M., and Hirschler, M. M., 1987, "Hydrogen 
+</p>
+<p>chloride release from poly (vinyl chloride): model for its 
+</p>
+<p>decay," European polymer journal, Vol. 23.9, pp. 667-676. 
+[11] Kumar, C. S., Mayanna, S. M., Mahendra, K. N., Sharma, 
+</p>
+<p>A. K., and Rani, R. U., 1999, "Studies on white anodizing 
+</p>
+<p>on aluminum alloy for space applications," Applied 
+</p>
+<p>Surface Science, Vol. 151.3-4, pp. 280-286. 
+</p>
+<p>[12] Pugel, D. B., Rummel, J. R., and Conley, C., 2016, “Tiny 
+</p>
+<p>houses: Planetary protection-focused materials selection 
+</p>
+<p>for spaceflight hardware surfaces,” Proceedings of the 
+</p>
+<p>IEEE Aerospace Conference, March 5- 12, 2016, Big Sky, 
+</p>
+<p>Montana, Paper Number AERO.2016.7500727. 
+</p>
+<p>[13] Niehaus, J. E., Gokoglu, S. A., Berger, G., Easton, J., and 
+</p>
+<p>Mazumder, S., 2020, “Modeling hydrogen chloride and 
+</p>
+<p>aluminum surface interactions for spacecraft fire safety 
+</p>
+<p>applications,” Journal of Spacecraft and Rockets, Vol. 
+</p>
+<p>57.2, pp. 217-224. 
+</p>
+<p>[14] Niehaus, J., Gokoglu, S., Mazumder, S., Berger, G., and 
+</p>
+<p>Easton, J., 2020, “Effect of Humidity on Surface 
+</p>
+<p>Interactions of Gaseous HCl and Aluminum for Spacecraft 
+</p>
+<p>Fire Safety Applications,” Proceedings of the ICES2020, 
+</p>
+<p>July 12 – 16, 2020, Virtual Event, Paper Number ICES-
+</p>
+<p>2020-341. 
+</p>
+<p>[15] Niehaus, J., Gokoglu, S., Mazumder, S., Berger, G., and 
+</p>
+<p>Easton, J., 2021, “Modeling the Uptake of Hydrogen 
+</p>
+<p>Chloride onto Interior Spacecraft Materials,”  Proceedings 
+</p>
+<p>of the ICES2021, July 12 – 15, 2021, Virtual Event, Paper 
+</p>
+<p>Number ICES-2021-271. 
+</p>
+<p>[16] Paereli, S., 2015, “Sorption of hydrogen chloride on solid 
+</p>
+<p>sorbents,” MS thesis, Chemical Engineering Dept., 
+</p>
+<p>Norwegian University of Science and Technology. 
+</p>
+<p>[17] O’Mara, M. M., 1977, "Combustion of PVC" Pure and 
+</p>
+<p>Applied Chemistry, Vol. 49.5, pp. 649-660. 
+</p>
+<p>[18] Mazumder, S., 2015, “Numerical methods for partial 
+</p>
+<p>differential equations: finite difference and finite volume 
+</p>
+<p>methods,” Academic Press. 
+</p>
+<p>[19] Chen, Z., and Lu, C., 2005, “Humidity sensors: a review of 
+</p>
+<p>materials and mechanisms,” Sensor letters, Vol. 3.4, pp, 
+</p>
+<p>274-295. 
+</p>
+<p>[20] Nahar, R. K., 2000, “Study of the performance degradation 
+</p>
+<p>of thin film aluminum oxide sensor at high humidity,” 
+</p>
+<p>Sensors and Actuators B: Chemical, Vol. 63, pp. 49-54. 
+</p>
+<p>[21] Peng, D., Jensen, C. D., Juliano, T. J., Gregory, J. W., 
+</p>
+<p>Crafton, J., Palluconi, S., and Liu, T., 2013. “Temperature-
+</p>
+<p>compensated fast pressure-sensitive paint,” AIAA journal, 
+</p>
+<p>Vol. 51.10, pp. 2420-2431. 
+</p>
+<p>[22] Jani, A., Losic, D., and Voelcker, N., 2013, "Nanoporous 
+</p>
+<p>anodic aluminium oxide: Advances in surface engineering 
+</p>
+<p>and emerging applications," Progress in Materials 
+</p>
+<p>Science, Vol. 58.5, pp. 636-704. 
+</p>
+<p>[23] Casanova, F., Chiang, C. E., Li, C. P., Roshchin, I. V., 
+</p>
+<p>Ruminski, A. M., Sailor, M. J., and Schuller, I. K., 2008, 
+</p>
+<p>“Gas adsorption and capillary condensation in nanoporous 
+</p>
+<p>alumina films,” Nanotechnology, Vol. 19.31, pp. 315709-
+</p>
+<p>315714. 
+</p>
+<p>[24] Bruschi, L., Mistura, G., Liu, L., Lee, W., Gösele, U., and 
+</p>
+<p>Coasne B., 2010, “Capillary condensation and evaporation 
+</p>
+<p>in alumina nanopores with controlled 
+</p>
+<p>modulations,” Langmuir, Vol. 26.14, pp. 11894-11898. 
+</p>
+<p>[25] Leaist, D. G., 1986, “Absorption of chlorine into 
+</p>
+<p>water,” Journal of solution chemistry, Vol. 15.10, pp.827-
+</p>
+<p>838. </p>
+<p></p>
+</div>
+</body></html>

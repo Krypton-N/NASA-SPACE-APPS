@@ -1,0 +1,488 @@
+{
+ "accession": "PSI-21",
+ "acknowledgments": "",
+ "added": [
+  {
+   "bucket": "psi-repo-prod",
+   "date_created": {
+    "$date": 1737504887436
+   },
+   "date_modified": {
+    "$date": 1737504887436
+   },
+   "file_name": "PSI-21_Experimental table_CLD Flame.csv",
+   "file_size": 2454,
+   "organization": "shared",
+   "remote_path": "/Home/psi-data/PSI-21/Experimental table/PSI-21_Experimental table_CLD Flame.csv",
+   "remote_url": "/datamanager/file/Home/psi-data/PSI-21/Experimental table/PSI-21_Experimental table_CLD Flame.csv",
+   "resource_id": {
+    "$oid": "66cf53d46f1142c964b2e0a8"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-21/Experimental table/PSI-21_Experimental table_CLD Flame.csv",
+   "s3_version_id": "ROwzqJp.24ntjZIl.bZD1pR6O.bI53na",
+   "study_id": {
+    "$oid": "67903877b7b6ff8e6502a3e3"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  }
+ ],
+ "approach": "ACME CLD Flame project goals include the generation of improved computational models with improved soot sub-models that are effective for both dilute flames and sooting flames that vary from low to high soot loading levels. The enhanced time and spatial scales in a microgravity environment will be important for achieving both goals. Experimentally, we plan to study methane and ethylene diffusion flames over a wide range of test conditions. For the more dilute flames, measurements will be made of flame chemiluminesence of OH* and CH* to observe variations in lift-off height and flame shape as extinction limits are approached. The sooting tendencies of the more fuel-rich flames will be investigated using soot luminosity and laser extinction measurements to determine soot temperatures and soot volume fractions. Flame temperatures in non-sooting regions will be measured using thin-filament pyrometry. Based on observations, modifications can be made to the kinetics and soot model to match better the experimental results. If the overall agreement of the measurements and computations is good, the results of the computations can be “mined” to provide insight on species (and hence chemical processes) that cannot be measured directly using the diagnostics available for the proposed experiment.",
+ "assays": [],
+ "contacts": [
+  {
+   "@id": "",
+   "address": "",
+   "affiliation": "Yale University",
+   "comments": [
+    {
+     "name": "Study Person REF",
+     "value": ""
+    },
+    {
+     "name": "orcidIdentifier",
+     "value": ""
+    }
+   ],
+   "email": "mitchell.smooke@yale.edu",
+   "fax": "",
+   "firstName": "Mitchell",
+   "lastName": "Smooke",
+   "midInitials": "",
+   "phone": "",
+   "roles": [
+    {
+     "@id": "59J36d8A36ZR1iSs6NNVDRYelIkilTNb30me8Erm",
+     "annotationValue": "Co-Investigator (Co-I)",
+     "comments": [],
+     "termAccession": "Co-Investigator (Co-I)",
+     "termSource": ""
+    }
+   ]
+  },
+  {
+   "@id": "",
+   "address": "",
+   "affiliation": "NASA GRC",
+   "comments": [
+    {
+     "name": "Study Person REF",
+     "value": ""
+    },
+    {
+     "name": "orcidIdentifier",
+     "value": ""
+    }
+   ],
+   "email": "dennis.p.stocker@nasa.gov",
+   "fax": "",
+   "firstName": "Dennis",
+   "lastName": "Stocker",
+   "midInitials": "",
+   "phone": "",
+   "roles": [
+    {
+     "@id": "UPDBsFjwjds0hw6t0IuVN6evepdczdMm2HLYqwom",
+     "annotationValue": "Project Scientist",
+     "comments": [],
+     "termAccession": "Project Scientist",
+     "termSource": ""
+    }
+   ]
+  },
+  {
+   "@id": "",
+   "address": "",
+   "affiliation": "Yale University",
+   "comments": [
+    {
+     "name": "Study Person REF",
+     "value": ""
+    },
+    {
+     "name": "orcidIdentifier",
+     "value": "0000-0003-4263-0425"
+    }
+   ],
+   "email": "marshall.long@yale.edu",
+   "fax": "",
+   "firstName": "Marshall",
+   "lastName": "Long",
+   "midInitials": "B.",
+   "phone": "",
+   "roles": [
+    {
+     "@id": "dEBvA2jSs25xM9IfCv5ploF8MUDFt0ACKekf97KJ",
+     "annotationValue": "Principal Investigator (PI)",
+     "comments": [],
+     "termAccession": "Principal Investigator (PI)",
+     "termSource": ""
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "dirty": false,
+ "doi": "10.60555/23e1-9950",
+ "experimentHardware": "Combustion Integrated Rack (CIR), ACME",
+ "experimentHardwareLink": "https://www1.grc.nasa.gov/space/iss-research/iss-fcf/cir/, https://www1.grc.nasa.gov/space/iss-research/iss-fcf/combustion-science/acme/implementation/",
+ "experimentalTable": [
+  {
+   "_id": {
+    "$oid": "67903877b7b6ff8e6502a3e2"
+   },
+   "date_created": {
+    "$date": 1737504887436
+   },
+   "date_modified": {
+    "$date": 1737504887436
+   },
+   "file_name": "PSI-21_Experimental table_CLD Flame.csv",
+   "file_size": 2454,
+   "remote_path": "/Home/psi-data/PSI-21/Experimental table/PSI-21_Experimental table_CLD Flame.csv",
+   "remote_url": "/datamanager/file/Home/psi-data/PSI-21/Experimental table/PSI-21_Experimental table_CLD Flame.csv",
+   "resource_id": {
+    "$oid": "66cf53d46f1142c964b2e0a8"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-21/Experimental table/PSI-21_Experimental table_CLD Flame.csv",
+   "s3_version_id": "ROwzqJp.24ntjZIl.bZD1pR6O.bI53na",
+   "study_id": {
+    "$oid": "67903877b7b6ff8e6502a3e3"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  }
+ ],
+ "experiments": [],
+ "factors": [],
+ "filesDisabled": null,
+ "flightProgram": "International Space Station (ISS)",
+ "funding": "NNX07AB33A, NNX11AP43A, NNX17AD49A",
+ "hypothesis": "This investigation was focused on gathering bench mark data to validate the hypothesis of computation models, the details of which are available within the following publications:\n\n    1)  Smooke, M.D., Hall, R.J., Colket, M.B., Fielding, J., Long, M.B., McEnally, C.S., and Pfefferle, L.D., Investigation of the transition from lightly sooting towards heavily sooting co-flow ethylene diffusion\n  flames. Combustion Theory and Modelling, 2004. 8(3): p. 593-606. https://doi.org/10.1088/1364-7830/8/3/009\n    2)  Luque, J., Jeffries, J.B., Smith, G.P., Crosley, D.R., Walsh, K.T., Long, M.B., and Smooke, M.D., CH(A-X) and OH(A-X) optical emission in an axisymmetric laminar diffusion flame. Combustion and Flame,\n  2000. 122(1/2): p. 172-175. https://doi.org/10.1016/S0010-2180(00)00112-7\n    3) Walsh, K.T., Fielding, J., Smooke, M.D., and Long, M.B., Experimental and computational study of temperature, species, and soot in buoyant and non-buoyant coflow laminar diffusion flames. Proceedings\n  of the Combustion Institute, 2000. 28: p. 1973-1979. https://doi.org/10.1016/S0082-0784(00)80603-7\n    4) Walsh, K.T., Long, M.B., Tanoff, M.A., and Smooke, M.D., Experimental and computational study of CH, CH*, and OH* in an axisymmetric laminar diffusion flame.  Proceedings of the Combustion Institute,\n  1998. 27(Vol. 1): p. 615-623. https://doi.org/10.1016/S0082-0784(98)80453-0",
+ "identifiers": [],
+ "images": [],
+ "investigationAcronym": "ACME CLD Flame",
+ "investigationEndDate": "05-31-2022",
+ "investigationStartDate": "10-01-2006",
+ "licenseIdentifier": "CC0-1.0",
+ "licenseLink": "https://spdx.org/licenses/CC0-1.0.html",
+ "licenseName": "Creative Commons Zero v1.0 Universal",
+ "managingNasaCenter": "Glenn Research Center (GRC)",
+ "missionEnd": "",
+ "missionLink": "",
+ "missionName": "",
+ "missionStart": "",
+ "modified": [
+  {
+   "bucket": "psi-repo-prod",
+   "date_created": {
+    "$date": 1728394878116
+   },
+   "date_modified": {
+    "$date": 1728394878116
+   },
+   "file_name": "PSI-21_metadata_PSI-97_ACME CLD Flame.zip",
+   "file_size": 15476,
+   "organization": "OSD",
+   "remote_path": "/Home/psi-data/PSI-21/metadata/PSI-21_metadata_PSI-97_ACME CLD Flame.zip",
+   "remote_url": "/datamanager/file/Home/psi-data/PSI-21/metadata/PSI-21_metadata_PSI-97_ACME CLD Flame.zip",
+   "resource_id": {
+    "$oid": "65e0a4d4931988043eebcd6e"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-21/metadata/PSI-21_metadata_PSI-97_ACME CLD Flame.zip",
+   "s3_version_id": "20kAEMQmtmr_yzOQFPsz0f9S..jAFPfy",
+   "study_id": {
+    "$oid": "6705367ef95ac2bc9843433e"
+   },
+   "version": 3,
+   "visible": true
+  }
+ ],
+ "modifiedDate": "22-Jan-2025",
+ "objective": "In order to provide the experimental data needed to allow rigorous testing of computational models at the extremes of the fuel dilution spectrum, we have the following objectives:\nA) Characterize the behavior of weak coflow diffusion flames of methane and ethylene, as a function of velocity and fuel dilution, through measurement of flame shape, lift-off heights, temperatures and extinction limits.\nB) Characterize the sooting tendencies of diffusion flames with long residence times, as a function of velocity and fuel dilution, through measurement of flame shape, gas temperatures in the soot-free portion of the flame, soot luminosity, soot temperatures, and soot volume fractions.",
+ "organizations": [],
+ "payloads": [],
+ "projectIdentifier": "",
+ "projectLink": "",
+ "projectTitle": "",
+ "projectType": "Microgravity Investigation",
+ "proposalTitle": "Fuel Dilution Studies of Coflow Laminar Diffusion Flames in a Microgravity Environment",
+ "public": true,
+ "publications": [
+  {
+   "authorList": "D Giassi, S Cao, BA Bennett, DP Stocker, F Takahashi, MD Smooke, MB Long",
+   "comments": [],
+   "doi": "10.1016/j.combustflame.2016.02.012",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Analysis of CH* concentration and flame heat release rate in laminar coflow diffusion flames under microgravity and normal gravity"
+  },
+  {
+   "authorList": "Giassi Davide, Long Marshall B.",
+   "comments": [],
+   "doi": "10.1007/s00348-016-2218-5",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Signal-to-noise ratio improvements in laser flow diagnostics using time-resolved image averaging and high dynamic range imaging"
+  },
+  {
+   "authorList": "Cao S., Ma B., Bennett B.A.V., Giassi D., Stocker D.P., Takahashi F., Long M.B., Smooke M.D.",
+   "comments": [],
+   "doi": "10.1016/j.proci.2014.05.138",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "A computational and experimental study of coflow laminar methane/air diffusion flames: Effects of fuel dilution, inlet velocity, and gravity"
+  },
+  {
+   "authorList": "Dobbins Richard R., Tinjero Jesse, Squeo Joseph, Zhao Xinyu, Hall Robert J., Colket Meredith B., Long Marshall B., Smooke Mitchell D.",
+   "comments": [],
+   "doi": "10.1080/00102202.2022.2041621",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "A Combined Experimental and Computational Study of Soot Formation in Normal and Microgravity Conditions"
+  },
+  {
+   "authorList": "Kempema Nathan J., Dobbins Richard R., Long Marshall B., Smooke Mitchell D.",
+   "comments": [],
+   "doi": "10.1016/j.proci.2020.06.034",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Constrained-temperature solutions of coflow laminar diffusion flames"
+  },
+  {
+   "authorList": "Cao Su, Ma Bin, Giassi Davide, Bennett Beth Anne V., Long Marshall B., Smooke Mitchell D.",
+   "comments": [],
+   "doi": "10.1080/13647830.2017.1403051",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Effects of pressure and fuel dilution on coflow laminar methane–air diffusion flames: A computational and experimental study"
+  },
+  {
+   "authorList": "Kempema Nathan J., Long Marshall B.",
+   "comments": [],
+   "doi": "10.1364/OL.43.001103",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Effect of soot self-absorption on color-ratio pyrometry in laminar coflow diffusion flames"
+  },
+  {
+   "authorList": "Cao S., Ma B., Bennett B.A.V., Giassi D., Stocker D.P., Takahashi F., Long M.B., Smooke M.D.",
+   "comments": [],
+   "doi": "10.1016/j.proci.2014.05.138",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "A computational and experimental study of coflow laminar methane/air diffusion flames: Effects of fuel dilution, inlet velocity, and gravity"
+  },
+  {
+   "authorList": "Ma Bin, Cao Su, Giassi Davide, Stocker Dennis P., Takahashi Fumiaki, Bennett Beth Anne V., Smooke Mitchell D., Long Marshall B.",
+   "comments": [],
+   "doi": "10.1016/j.proci.2014.05.064",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "An experimental and computational study of soot formation in a coflow jet flame under microgravity and normal gravity"
+  },
+  {
+   "authorList": "Ma Bin, Long Marshall B.",
+   "comments": [],
+   "doi": "10.1016/j.proci.2012.05.030",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Absolute light calibration using S-type thermocouples"
+  },
+  {
+   "authorList": "Herdman Jennifer D., Connelly Blair C., Smooke Mitchell D., Long Marshall B., Miller J. Houston",
+   "comments": [],
+   "doi": "10.1016/j.carbon.2011.07.050",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "A comparison of Raman signatures and laser-induced incandescence with direct numerical simulation of soot growth in non-premixed ethylene/air flames"
+  },
+  {
+   "authorList": "Kuhn Peter B., Ma Bin, Connelly Blair C., Smooke Mitchell D., Long Marshall B.",
+   "comments": [],
+   "doi": "10.1016/j.proci.2010.05.006",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Soot and thin-filament pyrometry using a color digital camera"
+  },
+  {
+   "authorList": "LONG MARSHALL",
+   "comments": [],
+   "doi": "10.1142/9789814295789_0004",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "IMAGING FLAMES: FROM ADVANCED LASER DIAGNOSTICS TO SNAPSHOTS"
+  },
+  {
+   "authorList": "Connelly B.C., Bennett B.A.V., Smooke M.D., Long M.B.",
+   "comments": [],
+   "doi": "10.1016/j.proci.2008.05.066",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "A paradigm shift in the interaction of experiments and computations in combustion research"
+  },
+  {
+   "authorList": "Connelly B.C., Long M.B., Smooke M.D., Hall R.J., Colket M.B.",
+   "comments": [],
+   "doi": "10.1016/j.proci.2008.06.182",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Computational and experimental investigation of the interaction of soot and NO in coflow diffusion flames"
+  },
+  {
+   "authorList": "Dworkin S. B., Cooke J. A., Bennett B. A.V., Connelly B. C., Long M. B., Smooke M. D., Hall R. J., Colket M. B.",
+   "comments": [],
+   "doi": "10.1080/13647830903159293",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Distributed-memory parallel computation of a forced, time-dependent, sooting, ethylene/air coflow diffusion flame"
+  },
+  {
+   "authorList": "Dworkin S.B., Schaffer A.M., Connelly B.C., Long M.B., Smooke M.D., Puccio M.A., McAndrew B., Miller J.H.",
+   "comments": [],
+   "doi": "10.1016/j.proci.2008.05.083",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Measurements and calculations of formaldehyde concentrations in a methane/N2/air, non-premixed flame: Implications for heat release rate"
+  },
+  {
+   "authorList": "Dworkin S.B., Connelly B.C., Schaffer A.M., Bennett B.A.V., Long M.B., Smooke M.D., Puccio M.P., McAndrews B., Miller J.H.",
+   "comments": [],
+   "doi": "10.1016/j.proci.2006.08.109",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Computational and experimental study of a forced, time-dependent, methane–air coflow diffusion flame"
+  }
+ ],
+ "related_glds": "",
+ "releaseDate": "15-Sep-2023",
+ "removed": [],
+ "researchArea": "Combustion Science",
+ "researchImpacts": "Diffusion flames are the flame type of most practical combustion devices. The ability to predict the coupled effects of complex transport phenomena with detailed chemical kinetics in such systems is critical in the modeling of turbulent reacting flows and in understanding the processes by which soot formation and radiative transfer take place. In addition, an understanding of those factors that affect flame extinction in diffusion flames is critical in the suppression of fires and in improving engine efficiency. While normal gravity combustion studies can provide important information on combustion processes, the effects of gravitational forces often complicate the interpretation of both computational and experimental results. Momentum effects dominate most practical combustion devices, but the contribution of buoyancy forces is hard to eliminate in normal gravity. A goal of the study will be to apply sophisticated numerical tools and quantitative diagnostic techniques to the study of hydrocarbon diffusion flames in a microgravity environment. This will lead to a more detailed understanding of the interaction of convection, diffusion and chemistry under momentum-dominated conditions.",
+ "restricted": false,
+ "sourceAccession": "",
+ "sourceLink": "",
+ "spaceProgram": "National Aeronautics and Space Administration (NASA)",
+ "subResearchArea": "Flames of gaseous fuel",
+ "submissionDate": "15-Sep-2023",
+ "title": "Advanced Combustion via Microgravity Experiments / Coflow Laminar Diffusion Flame",
+ "totalFileSize": 2005536295241.0,
+ "version": 4,
+ "versionMessage": "",
+ "versionMessageLevel": "",
+ "versionMessageLocations": [],
+ "versionReason": "Metadata update"
+}

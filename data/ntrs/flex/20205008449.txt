@@ -1,0 +1,228 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PowerPoint Presentation
+
+
+Effects of Ambient Inert Gas Properties on Cool-Flame Combustion 
+of Normal-Alkane Droplets in Microgravity
+
+Vedha Nayagam
+Case Western Reserve University, Cleveland, OH
+
+Daniel L. Dietrich
+NASA Glenn Research Center, Cleveland, OH
+
+Forman A. Williams
+University of California, San Diego, La Jolla, CA
+
+Annual Meeting of the American Society for Gravitational and Space Research (ASGSR), 
+Virtual Meeting November 5-6, 2020
+
+
+
+Background & Motivation
+o Quasi-steady cool flames were discovered during normal-alkane fuel droplet 
+
+combustion onboard ISS in the FLEX experiments.
+
+o Cool flames can extend the flammability of fuels in a microgravity 
+environment, and understanding their burning characteristics is important 
+from spacecraft fire safety point of view.
+
+o Inert gases are used to extinguish fires in microgravity. Currently CO2 is used 
+in the US module of ISS. Other inert gases such as Helium, Xenon, etc., can 
+also inhibit combustion at sufficient dilution (Limiting oxygen index, LOI). 
+
+o In this study we present experimental results (from FLEX/FLEX-2/CFI) for n-
+alkane fuel-droplet cool-flame burning rates and extinction diameters in 
+Helium or Xenon diluted ambient conditions.
+
+o Unlike hot-flames, cool flames are controlled by chemical kinetics. We 
+employ a simplified, 6-step-chemistry, asymptotic theory developed earlier 
+to correlate the burning rate and extinction diameters of n-alkane fuel 
+droplets.
+
+
+
+• Video images are analyzed to obtain droplet, and flame diameters.
+• Narrow and wide-band radiometers measured radiant emissions from the flame.
+
+Cool flame in helium-diluted environment
+
+
+
+• Scaled square of the droplet diameter as function of scaled time for n-octane droplets in 
+nitrogen, carbon dioxide, helium, and xenon ambient with oxygen mole fraction at 0.17.
+
+Cool flames in different diluents
+
+He
+
+Xe
+
+
+
+Theory of Quasi-Steady Cool-Flame Combustion Near Extinction*
+
+* Williams and Nayagam, Combustion Theory and Modelling, 23 (4), 2019
+
+o Quasi-steady theory using activation energy asymptotics and 6-step simplified 
+chemical kinetic mechanism
+
+o Cool flame structure
+
+F – fuel
+R – alkyl radical
+I  – intermediate
+K – ketohydroperoxide
+P, Q, S – products
+
+
+
+Quasi-steady cool-flame theory predictions
+
+o Burning rate constant: Kc = d(D2)/dt
+
+o Cool-flame theory assumed constant properties and a property-evaluation procedure is 
+needed to compare against experiments (as with hot-flame QS theories*).
+
+* Law and Williams, Combustion and Flame, 19 (3), 1972
+
+o Property evaluation prescription – empirically based on data fitting
+
+
+
+Calculated and measured cool-flame burning rates
+(a)
+
+(b)
+
+(c)
+
+(a) 21% O2 – He varies –displaces N2
+
+(b) O2 varies –rest N2
+
+(c) Xe or He displaces air
+
+For case (c) with He, the burning 
+becomes highly transient – QS not 
+valid
+
+
+
+o Cool-flame extinction diameter Dce:
+
+Quasi-steady cool-flame theory predictions
+
+o Critical dissipation rate, or critical inverse residence time χf :
+
+o Critical dissipation rate involves evaluation of Lewis number L (via R-parameter).  
+An effective L is evaluated at the flame where extinction chemistry occurs: 
+
+Dij- binary diffusion coefficient, cp – mixture cp,  and  ρ - mixture density
+
+
+
+Calculated and measured cool flame extinction diameters
+
+Agreements for heptane and
+octane seem reasonable, but 
+dodecane extinction diameters
+are over predicted appreciably, 
+despite the lumped parameters.
+
+(a) 21% O2 – He varies –displaces N2
+(b) O2 varies –rest N2
+(c) Xe or He displaces air
+
+(a)
+
+(b)
+
+(c)
+
+
+
+Summary & Conclusions
+
+o Inert diluents affect the cool-flame-supported 
+n-alkane droplet combustion substantially, 
+through heat-transfer and diffusion processes, 
+and not by influencing chemical-kinetic rates.
+
+o A simplified, quasi-steady theory can be used 
+to predict the burning rates and to a large 
+extent extinction diameters when 
+thermodynamic and transport properties are 
+selected appropriately. A recipe for such 
+selection is presented here. 
+
+o Extinction-diameter correlations suggest that 
+the currently available chemical-kinetic 
+descriptions are adequate for lower normal 
+alkanes, while further study is needed for 
+higher alkanes.
+
+o Xenon decreases burning rates substantially, 
+but can sustain cool flames at much lower 
+oxygen concentrations compared to helium.
+
+
+	Slide Number 1
+	Slide Number 2
+	Slide Number 3
+	Slide Number 4
+	Slide Number 5
+	Slide Number 6
+	Slide Number 7
+	Slide Number 8
+	Slide Number 9
+	Slide Number 10
+

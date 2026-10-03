@@ -1,0 +1,932 @@
+~/OL. <J, :-"0 . •). S!' f'T J:i\ ll:l R 197:!
+
+J. SI'ACEC RA FT
+
+f
+
+7 3 t>t>.;t~ I
+
+697
+
+) 7'!'- - f I ;J.. f.S""
+In cgration of a Fire Detector into a Spacecraft
+R. M. F. LINFOHn*
+McDmmcl/ DOl/g las CorporatioJl, St. Lollis, Mo.
+:\ ddec(nr scnsil iY 10 only the ullr.H'iolet 'r:ldiation emitted by llames has heen sdec!ed as the basic clement
+e
+of tb,' :'\:\S :\ Skyl:lh lire detl'etion system. It is sel L~ itive to approximatl'ly 10 - "\V of radi;ltion :lnd will
+detect ~1ll:11! llames a t rl ist:lllees in excess of 3m. The performance of thc dcteetor was veri lied hy experiments in
+:In ai rn:lft lIyi n~ z c ro -~r:I\' i ty pamholas 10 simulate the ehar:Jeterislies of a fire which thc detector muM sense.
+£ :"I.ll'nsin' iun'sligat ion ;lIId cx a ctin~ design was necessa ry to e:"l.cillde all p(l!>..~ihle sources.. of fal se alarms.
+Oplical mca~lIre I\lC\lt s were made on all the spa eeer.lft windows to determine the amount of solar radiation
+Ir:msm il:,'d. The li ~h ti n ~ systems and the onbo;ud experiments also were appraised for ultraviolet emissions.
+Pro!n\l-acee!cr;ltor tests werc performed iO detcrmine the interaction of thc Earth's trapped radiation belts
+wil h the detectors and the design of the instrument was modified to negate these effects.
+
+the cabin atmosphere was rejected as the Sky Jab air circulation
+could delay the response of such systems with disastrous
+consequences. Sa mpling detectors were also eliminated
+becausc of their inability to identify the exact location o f a
+fire . Correlation spectrometer/interferometers are being
+developed to scan large volumes, but the development
+program for such an instrument was incompatible with the
+Skylab launch schedule. Continuous wire thermistors are
+used extensively to sense fires in aircra ft-cn gi ne nacelles.
+An extremely complicated network of thermistor or thermocouples would have been required for adequate coverage of
+the Skylab system. rnfra red detectors have often been used
+in spacecraft optical systems but are relatively unproven for
+fire detection. Furthermore, they are liable to false alarms
+from hot objects and are insensitive to low-pressure flames.
+All flames emit ultraviolet radiation and extremely sensitive
+detectors are available for this spectral region. Although
+these detectors respond only to an open flame, their sensitivity
+is such that the small flames which they will detect, if extinguished promptly, should not threaten the safety of the Sky lab
+crew. The wavelength range of operation of the ultraviolet
+
+Introduction
+ALTHOU G H nrc detectors have been deployed in commer-
+
+r~cial and military a ircraft fo r some years, the NASA Skylab
+
+will be the Ijr~ t U.S. spac..: vehicle to be equipped wit h a fire
+detection syst..:m. Th..: ,\ po ll o Slxlc..:craft fi re emphasized
+the need fo r such systems and the NASA Fi re Haza rd Steering
+Committee in itialeu prelimi nary developments in this area.
+This paper describes the development of the Skyla b fi re
+detection sensor and the experi men ts undertaken to verify
+its cap~lbili t i cs. The ra tionale fo r the selection of an ul traviolet detector is described and a description of the detector
+tube is incl uded. Experi ments on zero-gravity combustion,
+proton rad iation cfT
+.::cts and the ultraviolet radiation background are also d iscussed.
+
+Selection of the Ultraviolet Sensor
+The fire detection systems tha t were considered for the
+Sky lab incl uded the devices listed in Table 1. For this
+particular appl ica tion any device tha t would rely on sampling
+
+Table 1 Firc-deteetion devices considered for Sky lab
+Category
+Optical
+
+Type of detector
+
+Parameter detected
+
+Laser scattering
+
+Smoke
+Gaseous combustion products
+
+Condensation nuclei counter
+
+Smoke
+
+Ion counter
+
+Smoke
+
+Continuous wire thermistor
+
+Heat
+
+Thermocouple
+Physic:tl
+
+IR radiation from fire
+
+Correlation spectrometer
+
+Thermal
+
+UV radiation from flame
+
+Infrared
+Chemical
+
+Ultraviolet
+
+Heat
+
+Prcssure
+
+Increase in cabin pressure
+
+Comments
+Proven; volume
+surveillance
+Unproven ; volume
+surveillance
+Required development;
+sampling
+Required development;
+sampling
+Frequent maintenance;
+saml,ling
+Liable to false alarm;
+sampling
+Requires complic:lted
+wiring for volume
+coverage
+Requircs complicated
+wiring for volume
+coverage
+Very insensitive
+
+Received December 9, 197 1; n :V1SlO n received March 27, 1971. The contri bution of many of the author's colleagucs is gratefully
+pa rticularly thc parts played by S. D. Corn ish a nd L. A. Cork. Freq uent discussions with D. Walker and R . Johnson of
+Hon.:ywell wer.: vita l to the pro g re~s of the study. The m:tlcria l in this p:t pcr was o rall y presented at the 1971 Fall Meeting of the Optical
+Soci~ t y o f Arm:r i..:a. Oct. 5- l! , 1971, Ottawa, Canau;l. with the title: " The Appl ication of an Ultraviolet Sensitive Fire Detector in a
+M:tniled Space V..:bid.:." Wo rk ui~cu sM;d was pcrformed unde r N ASA Con tract NAS<J-6555.
+Index ca tegories: M:tn ncd Spacc Sta tion Systems ; Spacecraft Ha bita bility a nd Life Support Systems.
+• Senior En:;inec r, A pplied Optics Laboratory.
+acl; n owlc d ~..:d,
+
+R. M. F. LINFORD
+
+J. SPACECRAFf
+
+detectors is b.:i,)\\" 300 nm ; therdore, they are "blind" to
+1110~t l)f th' b.ld' !~ I ..)unu rad iation sources in th.: Skybb, such
+as the li~ht:-, the crew. ~cic n t l li~' in~trllll1cnts, and, for the most
+part, thc sobr r:ld i;l. i,1l1 penetrating the sp:lcecraft windows.
+Fal~e :11,11111$ Call1H'1 be tl)ler,ltcd, so thi~ lack of response to
+badq;r..
+111nd !>l111 rc..·s \\'as an intlllellcing factor in the tinal
+choice of the lIltra\iokl detectors. The e detectors have been
+widely lIsed in tire u.:te.:tor systems for aircraft, on bunch
+pads, in :1l1l0Ilhlti\'c ~ystems, in hC;lling systems, and in many
+experimental fa.:il ities.
+180
+
+200
+
+lJlt r:lYiolct Detector Tube
+
+100
+
+N-
+
+-...
+E
+u
+
+I
+
+10
+
+\
+
+~
+
+Q.
+
+I"
+
+..
+
+(J
+
+Ii:
+
+E
+
+::>
+0
+~
+
+260
+
+280
+
+300 320
+
+\
+
+Fig.2
+
+Sp('ctrom('tl'r fllIlplit dllrillgl.sc:m of a ml·thanc/ai r flame.
+(Figure fl'prndllccd hy J)I.' rmissiun of Iioneywcll, Inc.)
+
+but the curve in Fig. 2 is representative of many hydrocarbon
+fires. Molecular emissions are apparent in the 185-260 nm
+band, but these are two orders of magnitude less intense than
+the familiar 306.8 nm OH bands. Such weak emissions must
+be detected by the fire sensors across the large volumes of the
+Orbital Workshop module of the Skylab. In such extreme
+situations, the fire could be further than 3 m from the nearest
+possible sensor installation; however, the ultraviolet detector
+tube has been proven to be more than adequate for the task.
+
+Detection Capability
+An alarm threshold had to be established for the Sky lab
+detectors. This threshold determined the sensitivity of the
+detection system, or, more importantly, the size to which a
+flame must grow before it could be detected . Moreover, the
+threshold had to be set high enough to preclude the incidence
+of false alarms.
+A prediction of the detection capability from the known
+spectral calibr.ttion curve of the detector tube was rendered
+impossible by a complete lack of srectral radiance data for
+fircs at applicable wavelengths. Further, any slIch data
+obtained in tlte laboratory under normal gravitational
+conditions would inadequately represent a fire burning in the
+low-pressure, oxygen-rich , zero-gravity environment of the
+Skylab. Convection currents are established around Earthbound fires maintaining supplies of fresh oxygen to the fbmes;
+under zero-gravity condition there will be no natural convection around the flame, and fires can be expected to burn less
+fiercely?') Some convection will be maintained by the
+Skylab ventilation systems in the crew-living areas but several
+of the fire detectors will monitor enclosed compartments
+through which air is not circulated.
+To evaluate the performance of the Skylab detector, a
+series of experiments was undertaken in which a detector tube
+
+1.0
+
+>-
+
+:~
+
+.
+
+.~
+
+-
+
+til
+
+5
+~ 0.1
+
+.
+
+0.01
+200
+
+\
+
+Fused·Silica
+Window
+
+Neutrat
+
+\
+
+0
+
+220
+
+240
+
+W~ve lcn9th
+
+Fi;:. 1
+
+240
+
+Wavelength (nm)
+
+The llIhc is ()i the Cici :; cr-~ III 'llcr type I and consists of two
+par;llkl pbtc clectr,1(ks ill a gas-tilled . ultraviolet-transmitting
+glass cnvck)!,c. Ultraviolet radiation incident upon the tube
+r.:leases photocleclrons from the metal cathode triggering an
+avalanche ionization process. Each time th is ionization is
+triggered by :In incident ultr:lviolet photon, the conductivity
+of the tube rises rapidy, and a voltag.:: pulse is generated at the
+output. The freq uency of these pulses is used to indicate the
+presence of a fin:.
+Only photons of a certain minimum energy (maximum
+wavekngth) will liberate cI.::ctrons from the photocathode.
+With the metallic cathode material used in the Honeywell
+detector the upper wavelength limit is about 260 nm, while
+absorption of r:ldiation by :ltl11ospheric oxygen results in a
+180 nm lower limit. A typical calibration curve for one of
+these sensors is shown in Fig. 1, in which the countrate per
+unit energy density (counts sec-I picowatt- ' cm2) is plotted
+ag:linst the wavelength. This curve demonstrates the sensitivity of the sensor. In th.:: 190-240 nm range approximately
+50 counts are gener:lted by I picowatt cm -2 of incident
+radiation. Although the quantu m efficiency of the cathode
+at these w:lvc\cnglhs is ,,;. ,he order of 0.01 %, the avalanche
+mechanism ensun:s that a high percentage of the liberated
+electrons is detected. Furthermore, the number of false counts
+due to thermal activation and background visible radiation
+is essentially zero. Few quantitative measurements have
+been made of the spectral radiance of fires at these wavelengths
+
+-.....
+
+220
+
+260
+
+280
+
+(nm)
+
+Spectr:11 catibration of the I foneywell fire-<ictcctor tube.
+
+Fig. 3 Combustion chamber llnd optical transfer system for the
+zero-lVIlvityexperiments.
+
+I
+
+j.
+
+I
+
+SEPT E ~I IlLR
+
+I TEGRi\TIO , O F i\ FIRE DETECTOR INTO II. SPACECRAFT
+
+1971
+
+r------.--
+
+in the detector tuocs during every combustion cy.:I' St UlICu,
+1' .. 1
+" n I
+C
+Slgl1l IGlIlt Y exceeded 35 counts/sec. This h:vcl was suo.
+sequently set.:cted as Ihe alarlll Ilue ... hold after the fal ...e al '
+.\ I
+I
+..Irm
+·
+I
+stUl I les l escn 'lCl 1'lC ow. Throughout the exrcriments. not
+one of the names exceeded 4 cm in diam. and yet they all
+~o~l.d have occn detected from 3 m. within a second or two of
+11;llItlon.
+
+'.
+I
+
+•. _
+
+_ __ ---J
+
+L - ' : __
+
+a) Zcro · g 0.0-1 sec
+
+f;99
+
+Prevention of False Alarms
+
+__ _ ._ __ _--J
+
+b) Zc ro·g 1.0 soc
+
+1
+I
+
+Detection of a fire which could threaten the safety of the
+Skylab crew or the integrity of the vehicle is of rril11e importance. However, a system th;)t developed frequent false
+alarms would callsc severe rroblel11s for the crew and it
+might even h;)ve to be deactivated. Inevitably. a ~ensitive
+device is ;)Iways susceptible to false ;)Iarms unless the alarmthreshold is set suitably high . To est;)blish the minimum
+level a thorough study of the spacecraft environment was
+undertaken and its effect on the fire sensor was assessed.
+Ultraviulct Rauioltion
+
+\
+l
+c)
+
+Z~ro · g
+
+Fig. 4
+
+2.0 sec
+
+d) Zero · g 5.0 sec
+
+Comhustion of photographic film in zero-grm·ity.
+
+monitored vario us small fires hurning in zero-gravity." Small
+samples of a wide va riety of sraceer~lft materials were burned
+in a combustion ch;unbcr IIlied with the 5 rsi oxygen-nitrogen
+atmosphere of the Skylab. Two detector tubes were installed
+so that they viewed the fires through the transfer optics
+illustrated in Fig. 3, as the combustion was recorded on 16 mOl
+color movie film. The neutral filter was installed to attenuate
+the radiation and thus simulate a 3 m fire-to·detector separation.
+To generate the weightless environment. the chamber was
+released to free-float in the cabin of an USAF C-135 aircraft
+flying a pa r:lholic trajectory. During this maneuver 15 or
+20 SI!C of frl!e-tloat timl! wa~ availahle.
+Exampl.::- of the photogra ph .. and data obtained during the
+cXpCrillll!nh ;Ifl! illu~trated in Fi!,!s. 4 and 5. The n;lI11e
+phot()graph~ illu:-trate the ulllque chara':leristics of /.erogravity flames : the spherical name gl\lwth and the selfextinction of thl! fires by the combustion products. Detectoroutput curves emphasize thl! brief nature of the lire compared
+with a one-gravity burn. Nevertheless, the signals generated
+
+As the ultraviolet fire detector is sensitive to pieowatts of
+emitted radiation, extreme care had to be taken to ensure that
+even very weak background r<!diation sources were eliminated.
+~he ~un is the rrime source of such radiation, but spacecraft
+hghtll1g, photographic lighting, scientific experiments, and
+cIectrostatic discharges are among other possible sources of
+ultraviolet photons. Statistical computations showed that
+the maximum background irradiance that can be tolerated at
+the sensor location is 10- '''w cm -', if the occurrence of false
+alarms is to be less than one per 56-day mission.
+Solar radiation outside the spacecraft includes approximately 4 >: 1O- 4 w cm-' in the sensitivity range of the fire
+sensor. and data from the OGO IV ultraviolet spectrometer
+indicates that even the Earth's albedo is rich in ultraviolet
+radiationS (Fig. 6). Various window materials are used in
+the Skylab: fused silica, Vycor, Corning ;.~ 1723 aluminosilicate glass, and Ohara # BK7 borosilicate glass. Fused
+silica and Vycor both transmit a high percentage of incident
+ultraviolet radiation. and spacecraft windows constructed with
+these materials have had to be coated with reflective and
+absorbing films. Blue reflective coatings have been utilized.
+but antireflection coatings and certain environmental control
+co~ltings. deposited to meet other optic;)1 requiremcnts. also
+were found to reduce the ultr;)violet intensity by several orders
+of magnitude. Borosilicate and alumillosilicalc glasses ;Ire
+often thought of .lS "opaque" in the middle uitr;)violet, out
+transmission eurves for one of the Airlock module window
+clements (Fig. 7) show that the use of quo(;)tion marks is
+justified. In the range of interest. below 270nm, the # 7913
+aluminosilicate element would transmit 0.001 % of the energy
+
+I
+
+~
+
+I
+
+N~
+I
+
+5
+
+100
+
+50
+
+II
+
+l i TnI
+
+I , - :
+-
+
+r:·. .
+I'
+
+1
+"0
+
+I ;
+1--:-, 50
+
+I
+
+j-Effective A!bedci
+
+:: 20 - : - ·.L _ Radiance-
+
+i
+
+g 10
+:!
+
+J,
+
+~--·I-' ·; - I
+
+S ~-- --.•
+
+g
+
+.
+
+'i
+a:
+Elapsed Time · sec
+Fig. 5
+
+Detector outputs during the comhustion of
+lilm in zero·gravity.
+
+. ,
+
+I
+
+,
+
+.~
+
+I
+
+200
+
+i
+
+220
+
+i
+
+!
+
+20 .
+
+.
+
+,;
+
+;~'-:1 10
+
+I. ..
+·· ··r
+.,
+
+~- ·- -5
+
+I
+
+•••
+
+I
+I
+
+I
+
+t --:-- -~ 2
+
+.S olar l!radiance ' 1
+
+240
+
+260
+
+Wavelength (nm)
+
+280
+
+~
+
+I
+
+I
+i
+!
+
+I
+•
+
+.,
+I
+t
+f
+
+:
+
+!
+
+i
+
+I
+~
+
+N"
+
+I
+
+~
+~
+
+~
+g
+
+.-
+
+..s
+
+..
+g
+.,.
+
+~
+:;;
+~
+
+photo~r.lphie
+
+Fig. 6
+
+I
+
+Ultraviolet radiation outside Skylab.
+
+I
+I
+
+1
+
+I
+
+•
+
+J. SPACECRAFT
+
+R. M. F. LINFORD
+
+700
+
+•
+1600.---r---.---.---,---,---,
+
+( 100 ·\
+1.0 1
+
+r OUler P.lne . 0.4 in
+Vycor
+---'" (Corning =17231 ...... '
+. .1
+1r- - - - '-~--.
+10- ",-'-•
+
+,
+
+'
+
+I
+
+I
+
+I -L __
+
+1400r---+---4---~--·~~~--~
+
+... '
+
+- 1200 t--t--t--jt-t-ti'\r--j-~
+
+---'
+
+........
+
+Iu
+
+..
+
+N
+
+c:
+
+'"
+.~ 10-3
+
+~
+I I
+~ 10- 4 - -. _- , - E
+
+Irlnner Pane· 0.2 in
+(Corning ;:79131
+
+10-5
+
+i
+
+--,
+
+o
+~ 6OOr---4---~---;T-t~~._-trr_~
+
+/
+
+__ L_
+
+~
+
+2
+
+I /
+--.,
+
+I
+
+:!
+
+I
+
+E
+
+:;: 800 r--+--t--t-',-j
+c:
+
+I
+
+--,.--
+
+~1~r---~~~~7-~+-~;-~
+
+I
+
+I
+I
+I
+
+o
+
+)(
+
+:J
+
+~ 4OO~--~--~_,~~~~r~---\~~r_1
+
+/ '
+/
+I
+
+"
+10-6~
+
+...
+
+00
+
+Compl~te
+
+10- 7
+
+600
+
+800 1000 1200
+
+- ---~---_'--____
+
+220
+
+240
+
+260
+
+280
+
+300 320
+
+Fij.!. 8
+
+W~Wlel1'Jth (I1ml
+
+Fig. 7
+
+400
+
+Arbitrary Time (seconds)
+
+Window
+
+200
+
+200
+
+Predicted prnlon nux('.~ inside Skylab durinj:! p;assaj:!C throuAb
+thc South Atlantic anomaly.
+
+Spectral tr:lnsmittancc of the Skylah STS window clements.
+
+and the a~seJ11bled window would attenuate direct solar
+radiation by only six ordas or magnitude. However, as ten
+or de\'cn orders \\el\: needed to pn.:vcnt false .lIarms, this
+window also h'ld to be coated with an attenuating coating.
+Mercury vapor fiuorescl.!nt lamrs arc uscd widcly in the
+Skylah modules, ;Ind it W:lS feared that the strong 253.7nm
+mercury emi~sion linc \. :. ~::d trigger the detector. However,
+measurements showed that the glass envelope effectively
+absorbs all the ultraviolet radiation. The exreriments to be
+performed by the crew and the photographic lighting were
+also shown to make an insignificant contribution to the ultraviolet background.
+The time constants of the detection circuit were selected so
+that static discharges will not trigger the alarm system.
+Lastly, the inlcrior surfaces of the Skylab have been studied,
+and, as their ultraviolet reflectivity is less than 10%, the
+radiation absorbed by these surf<lces will further reduce the
+risk of false alarms.
+
+whole mISSIon, while the high-flux rates will only be experienced for less than 5 % of the time.
+To overcome this problem, a "twin tube" concept was
+developed. One tube will monitor ultraviolet radiation and
+will also be exposed to the proton environment and a second
+"blind" tube will detect only the background proton fluxes.
+The outputs from these sensors, when fed into differential
+circuits, will generate a signal in proportion to the intensity of
+the ultraviolet radiation only.
+Even with the twin tube arrangement, some shielding is
+necessary to reduce the background signals in the detection
+circuits. The diagram of the proposed design in Fig. 9 shows
+the combination of fused silica and copper shielding which will
+exclude protons less energetic than 85 Mev.
+A statistical analysis of the design, based on estimates of
+the particulate fluxes in the Sky lab orbit, has indicated that
+a threshold of 35 counts per sec, and a time constant of one
+second, will preclude more than one false alarm for each 56-day .
+mission. The zero-gravity experiments verified that a detector
+with these settings would be sensitive to very small fires
+ignited up to 3m away.
+
+Particulate Radiation
+
+During certain orbits, the Skylab will pass through the
+South Atlantic Anomaly in the trapped radiation belts around
+the Earth. Energetic protons and electrons, oscillating along
+spiral paths bctw,-,en the magnetic poles, will intersect some
+five or six of the daily orbits. The resultant proton fluxes
+inside the ~pacecraft wae caleulated for such orbits, with a
+com pUler program hased on published uata." Profiles for
+the most intense fluxes arc illustrated in Fig. 8
+Electrons and protons imringing on the detector tube will
+cause ionization of the gas between the electrodes of the tube.
+The free electrons produecd will be indistinguishable. from
+photoelectrons, gas avalanches will occur, and pulses will be
+"ener:ltcd in the detcctor circuits. The electron energies are
+:uch that a thin layer of fused silica would easily shield the
+sensor against these particles. On the other hand, the proton
+energies range up to 200 Mev. Expaiments on the NASA
+Langley proton synchrocyclotron confirmed that the proton
+fluxes would generate frequent false ;llarms because any
+~hielding Cllnlit:uratiol1 of acccptable weight would still allow
+the countrat\.: to cxce\.:d 150 counts p\.:r sec. The alarm
+thr..:\!lolu could have b\.:cn ~ct above this level, but the performance of the device would have been uegraded for the
+
+Fused Silica
+Window
+
+Fi\:. 9
+
+Thc Skylab firc dctector. (Fij!urc reproduced by
+of Honeywell, Inc.)
+
+~rmissioQ
+
+,.
+
+SEPTEMBER 1972
+
+INTEGRATION OF A FmE DETECfOR INTO A SPACECRM·T
+
+References
+
+Skylab Fire-Detection System
+Flight-worthy fire sensors arc now in production and a
+system of 22 sensors is being installed in the componcnt
+modules of the Skylab. The locations of the units were
+selected on the basis of a survey o f the combustible material
+throughout tb! S .. yl:lb and the unl ikely prospect of an ignition
+sou rce nea rby. \Vherever possible the sensors have been
+installed so that there is overbp be tween the 1:!Oo fiekl-of-view
+of neighboring units. Crew living and working areas, storage
+areas, instrument panels, cooling and life support systems will
+all be monitored. Should a small fire be ignited anywhere
+inside the Skybb, it will quickly be detected and located so
+that prompt action can be taken.
+
+~ri-
+
+,.&1'-
+
+,nd
+ICS.
+
+:ial
+
+of
+
+is
+,o n
+IWS
+
+viII
+of
+hat
+me
+lay '
+
+tor
+res
+
+.ion
+
+701
+
+I Howling, D. 1-1. and Roxbcrry, R. c., "Gas Filled Ultraviolet
+Deh:ctor Warns of Fires and Explosions," Electronics, Vol. 26,
+May:!6, 1961, pp 52- 55.
+1 Kim7.ey, J. 1-1., Downs, W. R., Eldred, C. 1-1., and Norris, C. W.,
+"Flammability in Zero-Gravity Environment," NASA TR R-246,
+
+OCI. 1966.
+3 Neustein, R. A., Mades, P. 1'., Colombo, G . V., <lnd Richardson,
+D. E., "E!l'ects of Atmosphere Selection and Gravity Upon Flammability," Paper 690639, Oct. 1969, Society of Automotive Engineers
+New York.
+4 Linford, R. M. F., "Experiments with the Skylab Fire Detectors
+in Zero-Gravity," NASA SP-298, 1972, pp. 41 - 55.
+S Anderson , G., Private communication Aug. 1970, Univ, of
+Colorado .
+.. Velte, J. I., et aI., Mbde/s 0/ tize Trapped Radiation EllvironI1Iml, NASA SP 3024, Vols, 1-7, 1966-71.
+
+· .,
+
+)
+

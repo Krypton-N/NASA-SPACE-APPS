@@ -1,0 +1,260 @@
+Paper # 070FR-0418
+
+Topic: Fire
+
+8th U. S. National Combustion Meeting
+Organized by the Western States Section of the Combustion Institute
+Hosted by the University of Utah
+May 19-22, 2013
+
+Opposed-Flow Flame Spread in a Narrow Channel Apparatus over
+Thin PMMA Sheets
+G. R. Bornand1, F. J. Miller1, J. M. Pepper1, S. L. Olson2, and I. S. Wichman3
+1
+
+Department of Mechanical Engineering, San Diego State University, 5500 Campanile Drive, San
+Diego, CA 92182
+2
+NASA Glenn Research Center, Cleveland, OH, 44135
+3
+Department of Mechanical Engineering, Michigan State University, East Lansing, MI, 48824
+Flame spread tests have been conducted over polymethylmethacrylate (PMMA) samples in San Diego State
+University’s Narrow Channel Apparatus (SDSU NCA). The Narrow Channel Apparatus (NCA) has the ability to
+suppress buoyant flow in horizontally spreading flames, and is currently being investigated as a possible
+replacement or complement to NASA’s current material flammability test standard for non-metallic solids,
+NASA-STD-(I)-6001B Test 1. The buoyant suppression achieved with a NCA allows for tests to be conducted in
+a simulated microgravity atmosphere–a characteristic that Test 1 lacks since flames present in Test 1 are buoyantly
+driven. The SDSU NCA allows for flame spread tests to be conducted with varying opposed flow oxidizer
+velocities, oxygen percent by volume, and total pressure. Also, since the test sample is placed symmetrically
+between two confining plates so that there is a gap above and below the sample, this gap can be adjusted. This
+gap height adjustment allows for a compromise between heat loss from the flame to the confining boundaries and
+buoyancy suppression achieved by those boundaries. This article explores the effect gap height has on the flame
+spread rate for 75 µm thick PMMA at 1 atm pressure and 21% oxygen concentration by volume in the SDSU
+NCA.
+Flame spread results from the SDSU NCA for thin cellulose fuels have previously been compared to results from
+tests in actual microgravity at various test conditions with the same sample materials and were found to be in good
+agreement. This article also presents results from the SDSU NCA for PMMA at 1 atm pressure, opposed oxidizer
+velocity ranging from 3 to 35 cm/s, oxygen concentration by volume at 21%, 30 %, and 50% and fuel thicknesses
+of 50 and 75 µm. These results are compared to results obtained in actual microgravity for PMMA obtained at the
+4.5s drop tower of MGLAB in Gifu, Japan, and the 5.2s drop tower at NASA’s Zero-Gravity Research Facility in
+Cleveland, OH. This comparison confirms that at 1 atm pressure, the SDSU NCA successfully simulates
+microgravity for not only thin cellulose fuels, but also for thin PMMA sheets as well. This further supports the
+idea that the NCA is a viable option to complement or replace NASA’s Test 1 for material flammability testing.
+Tests with thick fuels will be conducted in the future to further characterize the SDSU NCA.
+
+1.
+
+Introduction
+
+The Narrow Channel Apparatus (NCA) is being studied as a possible replacement for or complement to NASA-STD-(I)6001B Test 1, NASA’s current test method used to conduct material flammability tests on non-metallic materials to be
+used onboard spacecraft [3]. Since Test 1 is an upward flame propagation test conducted in normal gravity, buoyancy
+effects play a large role in the flame behavior. These effects cause the flammability tests to be conservative in their
+determination of whether a particular material (at a given thickness) can be used in spacecraft or not. The SDSU NCA
+has the ability to more appropriately simulate actual spacecraft ventilation conditions by effectively suppressing buoyant
+effects and allowing the opposed flow oxidizer velocity to be controlled [7]. Buoyant effects are suppressed in the NCA
+by spatially confining the flow with the top and bottom plates of the channel. The test sample is placed symmetrically
+between two confining plates so that there is an adjustable gap above and below the sample. This gap height adjustment
+
+allows for a compromise between heat loss from the flame to the confining boundaries and buoyancy suppression
+achieved by those boundaries.
+Flame spread results from the SDSU NCA for thin cellulose fuels have previously been compared to results from tests in
+actual microgravity at various test conditions with the same sample materials and were found to be in good agreement
+[4,6]. This article presents results from the SDSU NCA for clear, extruded polymethylmethacrylate (PMMA) at 1 atm
+pressure, opposed oxidizer velocity ranging from 3 to 35 cm/s, oxygen concentration by volume at 21%, 30 %, and 50%,
+and fuel thicknesses of 50 and 75 µm. These results are compared to results from actual microgravity test results for thin
+PMMA obtained at the 4.5s drop tower of MGLAB in Gifu, Japan, and the 5.2s drop tower at NASA’s Zero-Gravity
+Research Facility in Cleveland, OH [9, 5]. Similar to the work done on cellulose in [8], this article explores the effect
+gap height has on the flame spread rate for 75 µm PMMA at 1 atm pressure and 21% oxygen concentration by volume in
+the SDSU NCA. Gap height tests were conducted with an opposed oxidizer velocity ranging from 7 to 35 cm/s.
+
+2.
+
+Experimental Apparatus and Procedure
+
+The SDSU Narrow Channel Apparatus is an 8.3 cm wide by 100 cm long (in the flow direction) duct with an adjustable
+gap height from 1 to 25 mm (see Figure 1). Alicat MC-50SLPM-D and MC-1SLPM-D mass flow controllers are sent
+commands to control the oxidizer flow velocity and oxygen concentration by a remote computer with the use of a
+graphical user interface (GUI) created in IGOR Pro (see Figure 2). Each gas has a dedicated 50 SLPM and 1 SLPM
+mass flow controller, allowing calculations done in the GUI to control the flow over the desired range. Honeycomb flow
+straighteners are placed at the inlet and outlet to ensure uniform flow conditions and minimize flow disturbances.
+The sample is overlapped with and taped to a stainless steel sample holder with a 5 cm x 30 cm cutout to match the
+sample size used in NASA Test 1. Care is taken to keep the sample taut. The sample holder then holds the sample in the
+center of the channel as shown in Figure 1. A Kanthal igniter wire with a small piece of paper around it is used to ignite
+the PMMA. Without the paper, the wire can slice through the PMMA without igniting it.
+Tests presented in this paper, other than in the gap height comparison, have a total gap height of 10 mm. The sample is
+placed directly in the middle of the gap, providing an equal gap above and below the sample. This leads to a gap of 5 mm
+from top quartz window in the lid, and 5 mm from the aluminum bottom of the duct.
+
+Figure 1: Side view of the SDSU NCA. Note that the sample is placed with equal spacing from the top window and
+bottom plate.
+
+2
+
+Figure 2: Schematic of the SDSU Narrow Channel Apparatus. Note the vacuum regulator and pump are not used in
+these tests, since all tests were conducted at atmospheric pressure.
+
+3.
+
+Results and Discussion
+The leading edge of the flame is tracked using
+Spotlight-16 Software [2].
+The software
+automatically tracks the flame through the AOI by
+following a user-defined intensity along a straight
+line. The program outputs data in the form of
+position vs. time. This data is then copied into
+Microsoft Excel and plotted. Figure 3 shows an
+example of this plotted data for a sample of thin
+PMMA. Results in Figure 3 are from a test on 75
+µm PMMA at 1 atm pressure, 10 mm gap height, 7
+cm/s opposed oxidizer velocity, and 21 percent
+oxygen concentration. It is noticeable that the
+flame spread follows a characteristic linear position
+vs. time relationship, allowing for a linear curve fit
+of the data. In Figure 3 this leads to a flame spread
+rate of 0.216 cm/s, with an R-squared
+correlation coefficient of 0.9995.
+
+Figure 3: Example position vs. time plot
+
+3
+
+3.1
+
+Effect of Flow Velocity and Oxygen Concentration
+
+Figure 4 shows the flame spread rate as a function of the relative velocity between the flame and the opposed flow.
+For an opposed oxidizer flow, the relative velocity is the opposed flow velocity plus the flame spread rate. Tests
+conducted with fuel thicknesses other than 75 µm were normalized to better compare the data. Normalization was
+achieved using a simple thickness ratio as follows:
+
+Where,
+is the normalized flame spread rate, is the actual flame spread rate, is the fuel thickness, and is
+75 µm (the thickness to which all other fuels are normalized). This is based on the idea that for a thermally thin fuel
+the flame spread rate is inversely proportional to fuel thickness.
+Flame spread results for a total gap height of 10 mm are compared to those of [5] and [9]. In [9] an equivalent flow
+velocity (Veqv) was defined in order to correct for boundary layer development. Equations were taken from [1]
+because of inaccurateness in [9]. The equivalent flow velocity is therefore defined as:
+Veqv = λhyd Vg
+Where λhyd is the hydrodynamic coefficient and V g is the opposed oxidizer velocity. While a range of values
+(average 0.28) for the hydrodynamic coefficient were used in [9], a single value of 1/3 is used for comparisons
+within this work, as in [5].
+In Figure 4 we can see good overall agreement between the data sets. Normalization for fuel thickness seems to
+collapse the data fairly well except for a few of the thickest 125 µm data points at 30 % oxygen and a single 50 µm
+data point at 21 %. Where there is overlap between true microgravity (open symbols) and NCA data (filled symbols)
+there is generally very good agreement. The NCA data also agree well with the one NASA microgravity test at 30%
+oxygen and 30 cm/s relative velocity. The one area on the graph where this not such good agreement is at the very
+low end of the relative velocity scale where the flames extinguish. The NCA flames suffer more heat loss due to the
+proximity of the quartz window and the bottom plate, so that those flames tend to go out sooner than the true
+microgravity flames which do not have this loss mechanism.
+The effects of oxygen concentration can be seen throughout Figure 4. At 21 percent oxygen concentration it is
+noticed that the flame spread rate raises, plateaus, and then begins to drop once again, so that there is an optimal
+relative velocity that maximizes the flame spread rate. As oxygen concentration is raised to 30 percent it is
+noticeable that the drop immediately following the plateau no longer exists within the velocities tested here. At 50
+percent oxygen there is a short plateau, followed by a second raise in the flame spread rate. Further, the oxygen
+concentration plays a large role in the flame spread rate. The data shown have a correlation between a linear and
+square dependence.
+During testing it was noticed that the non-charring PMMA would melt and bubble as it was burned. Afterword
+some of the melted PMMA would be left, unburned on the bottom plate of the narrow channel apparatus. This could
+possibly cause a change in the flame spread rate. Other noticeable effects during the burning process consist of
+changes in brightness, color, and length of the flame in the flow direction as shown in Figure 5. At lower opposed
+flows and during the 21 percent oxygen drop, after the plateau, the flame became less yellow and turned bluer in
+color. It would also shrink in length and brightness. As with opposed flow velocity, the oxygen percentage caused
+the same effects. The higher oxygen percentages caused brighter, yellow, and longer flames.
+
+4
+
+Figure 4: Flame spread rate vs. relative velocity at three oxygen concentrations. Open symbol data is from [9].
+NASA data is from [5]. Legend values indicate thickness in µm - oxygen percentage by volume.
+
+Figure 5: Flame comparison. Tests are with 75 µm PMMA at 1 atm pressure. Left: 30% O2 concentration and 30
+cm/s opposed flow velocity. Right: 21% O2 concentration and 7 cm/s opposed flow velocity (flame is very dim blue)
+
+3.2
+
+Effect of Gap Height
+From Figure 6 it is clear that gap height plays a large role in the flame spread rate. As the gap height is
+lowered buoyancy effects become less dominant and the flame begins to experience simulated microgravity
+conditions. While, this is sought after in a NCA, there is a point when the heat loss from the top and bottom
+plates will cause unrealistic spread rates. The effect gap height plays on a flame can be seen in Figure 7.
+
+5
+
+Both tests were for 75 µm PMMA at 1 atm pressure, opposed oxidizer velocity of 15 cm/s, and 21% O2
+concentration by volume. The top test was set to a total gap height of 18 mm (9 mm above and 9 mm
+below the sample). The bottom test was set to a total gap height of 6 mm. It is obvious that the two flames
+act very differently from one another, while all other conditions were the same. In the 18 mm test it is
+visible that the buoyancy effects are still largely acting on the flame. The flame visibly slopes upward and
+is bright yellow. In the 6 mm test the buoyancy effects are obviously suppressed and the flame turns much
+bluer. It is unclear from Figure 7, but the flame length in the flow direction also shortens greatly as seen in
+Figure 5.
+In Figure 6 there is a noticeable difference between each gap height. At a total gap height of 6 mm the
+flame spread rate is greatly reduced and the maximum spread rate shifts toward a slower relative flow. As
+the gap height is raised the difference in flame spread rate is reduced. This is expected, since the heat loss
+to the top and bottom plates will be reduced as the plates are distanced from the flame. At some point the
+buoyancy effects will no longer grow stronger and the flame spread rate will be that of an open flame.
+
+Figure 6: Flame spread rate vs. relative velocity at four gap heights.
+
+6
+
+Figure 7: Side view gap height comparison (18mm-top vs. 6mm-bottom). 75 µm PMMA at 1 atm. pressure, an
+opposed oxidizer velocity of 15 cm/s, and 21% O2 concentration by volume. Note that the images are not to scale.
+4.
+
+Conclusions
+The SDSU NCA has been shown to successfully simulate microgravity for not only thin cellulose fuels, but also for
+thin PMMA sheets at 1 atm pressure if the proper gap height is chosen. Tests completed in the SDSU NCA closely
+compare to actual microgravity conditions seen in drop tower experiments under otherwise the same conditions.
+These results provide further verification that the SDSU NCA is a viable option to complement or replace NASA’s
+Test 1 for material flammability testing.
+While gap height experiments have shown 18 mm and 6 mm gaps to be unfit for the SDSU NCA, it is unclear what
+gap height produces the best compromise in buoyancy suppression and heat loss to the top and bottom plates of the
+NCA. Future planned experiments will determine the best gap height for thin PMMA in the NCA.
+
+Acknowledgements
+The research at San Diego State University was funded by NASA Grant NNX10AD96A. We thank Prof. Subrata
+Bhattacharjee for helpful discussions regarding the microgravity data and for supplying the fuel for this project.
+Recognition is due to graduate student Derrick Martinez and machinist Michael Lester for constructing the apparatus.
+
+References
+[1] Bhattacharjee, S., West, J., and Altenkirch, R. A., 1996, "Determination of the Spread Rate in Opposed-Flow
+Flame Spread Over Thick Solid Fuels in the Thermal Regime.", Twenty-Sixth Symposium (International) on
+Combustion, The Combustion Institute, Pittsburgh, PA, pp. 1477-1485.
+[2] R. Klimek and T. Wright, "Spotlight-16
+http://microgravity.grc.nasa.gov/spotlight.
+
+Image
+
+Software
+
+Analysis,"
+
+[Online].
+
+Available:
+
+[3] D. Mulville, "Flammability, Offgassing, and Compatibility Requirements and Test Procedures" NASA-STD6001B, 2011.
+[4] S. L. Olson, F. J. Miller, I. S. Wichman and S. Jahangirian, "Flame Spread over Thin Fuels in Actual and
+Simulated Microgravity Conditions," Combustion and Flame, vol. 156, pp. 1214-1216, 2009.
+[5] Olson, S. and Ruff, G., "Microgravity Flame Spread over Non-Charring Materials in Exploration Atmospheres:
+Pressure, Oxygen, and Velocity Effects on Concurrent Flame Spread," SAE Technical Paper 2009-01-2489,
+2009, doi: 10.4271/2009-01-2489.
+
+7
+
+[6] Jacob Pepper, Fletcher Miller, and Sandra Olson, “Opposed Flow Thin Fuel Flame Spread in a Narrow
+Channel Apparatus,” Paper 12S-10, Western States Section of the Combustion Institute Spring Meeting,
+Arizona State University, March 19th-20th, 2012.
+[7] Jacob Pepper, Fletcher Miller, Sandra Olson, and Indrek Wichman, “A Study of the Effectiveness of a Narrow
+Channel Apparatus in Simulating Microgravity Flame Spread over Thin Fuels,” AIAA 42nd International
+Conference on Environmental Systems, Paper AIAA-2012-3493, San Diego, CA, July 15th-19th, 2012.
+[8] G. W. Sidebotham, S. L. Olson, P. Rachow, F. J. Miller and I. S. Wichman, "Effect of Gap Height on Thin
+Fuel Opposed Flow Flame Spread in the Narrow Channel Apparatus," in 7th US National Combustion
+Meeting, Georgia Institute of Technology, Atlanta, GA, 2011.
+[9] Takahashi, S., Kondou, M., Wakai, K., and Bhattacharjee, S; “Effect of Radiation Loss on Flame Spread over a
+Thin PMMA Sheet in Microgravity”, (2002), Proceedings of the Combustion Institute, Volume 29, 2579–
+2586.
+
+8
+

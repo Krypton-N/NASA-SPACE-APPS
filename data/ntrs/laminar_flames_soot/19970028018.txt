@@ -1,0 +1,575 @@
+NASA-CR-205334
+,s
+
+Final Report
+
+Soot and Radiation
+in Microgravity
+
+NASA
+
+Grant
+
+Project
+
+Scientist:
+
+Date:
+
+Submitted
+
+•
+
+Jet Diffusion
+
+NAG3-1265
+
+(4/1/1991
+
+Flames
+
+- 7/31/1995)
+
+Paul S. Greenberg
+Mail Stop 110-3
+Microgravity
+Combustion
+Branch
+NASA Lewis Research Center
+
+December
+
+by:
+
+Measurements
+
+Je_iate
+
+15, 1996
+
+Professor
+
+Mechanical
+Engineering
+Department
+Wayne State University
+5050 Anthony Wayne Drive
+Detroit, MI 48202
+(313) 577-3814
+FAX: (313) 577-8789
+
+3 j]oj'7
+
+-
+
+.
+
+TABLE
+
+OF CONTENTS
+
+Summary
+
+3
+
+List of Publications
+
+3
+
+List of Presentations
+
+4
+
+I. "Radiative
+Heat Transfer in Finite Cylindrical
+Enclosures
+with Nonhomogeneous
+Participating
+Media," Hsu, P.-F., and Ku, J. C., J. Thermophys.
+Heat Transfer, 8,
+434-440
+(1994).
+II. "Buoyancy-Induced
+Differences
+in Soot Morphology,"
+Ku, J. C., Griffin,
+Greenberg,
+P. S., and Roma, J., Comb. Flame, 102, 216-218 (1995).
+
+D. W.,
+
+III. "Radiative
+Heat Transfer in Finite Cylindrical
+Enclosures
+with Nongray,
+Nonhomogeneous
+Soot/Gas
+Mixtures,"
+Hsu, P.-F., and Ku, J. C., Radaitive
+Transfer
+-- I, Proc. 1st Int'l Symp. Radiative
+Transfer,
+M. P. Menguc, ed., 372386, Begell House Inc. Publisher,
+New York (1996).
+IV.
+
+"Measurements
+
+and Modeling
+
+of Soot Formation
+
+Microgravity
+Jet Diffusion
+Flames," Ku, J. C., Tong,
+HTD-Vol.
+335, Proc. ASME Heat Transfer Division,
+V. "Soot Volume Fraction Maps for Normal
+Acetylene
+Jet Diffusion
+Flames," Greenberg,
+Comb. Flame,
+108, 227-230 (1997).
+VI. " Soot Volume Fraction Imaging,"
+to appear in Appl. Opt (1997).
+
+and Radiation
+
+II-1 to3
+
+III-1 to 24
+
+in
+
+L., and Greenberg,
+P. S.,
+Vol. 4, 261-270 (1996).
+
+and Reduced
+Gravity
+P. S., and Ku, J. C.,
+
+I-1 to 7
+
+IV-1 to 10
+
+Laminar
+V-1 to4
+
+Greenberg,
+
+P. S., and Ku, J. C.,
+VI-1 to 24
+
+2
+
+SOOT
+AND RADIATION
+IN MICROGRAVITY
+JET
+
+MEASUREMENTS
+DIFFUSION
+FLAMES
+
+SUMMARY
+The subject of soot formation
+and radiation heat transfer in microgravity
+jet diffusion
+flames is
+important
+not only for the understanding
+of fundamental
+transport
+processes
+involved
+but also for
+providing
+findings
+relevant to spacecraft
+fire safety and soot emissions
+and radiant heat loads of
+combustors
+used in air-breathing
+propulsion
+systems.
+Our objectives
+are to measure
+and model
+soot volume
+fraction, temperature,
+and radiative heat fluxes in microgravity
+For this four-year
+project, we have successfully
+completed
+three tasks, which
+
+jet diffusion
+have resulted
+
+flames.
+in new
+
+research methodologies
+and original results.
+First is the implementation
+of a thermophoretic
+soot
+sampling
+technique
+for measuring
+particle size and aggregate morphology
+in drop-tower
+and other
+reduced
+gravity experiments.
+In those laminar flames studied,
+we found that microgravity
+soot
+aggregates
+typically consist of more primary
+particles and primary
+particles are larger in size than
+those under normal gravity.
+Comparisons
+based on data obtained from limited samples
+show that
+the soot aggregate's
+fractal dimension
+varies within +20% of its typical value of 1.75, with no
+clear trends between
+normal
+and reduced
+gravity conditions.
+Second
+is the development
+and
+implementation
+of a new imaging
+absorption
+technique.
+By properly
+expanding
+and spatiallyfiltering the laser beam to image the flame absorption
+on a CCD camera and applying
+numerical
+smoothing
+procedures,
+this technique
+is capable of measuring
+instantaneous
+full-field soot volume
+fractions.
+Results from this technique
+have shown the significant
+differences
+in local soot volume
+fraction,
+smoking
+point, and flame shape between
+normal
+and reduced
+gravity
+flames.
+We
+observed
+that some laminar flames become open-tipped
+and smoking
+under microgravity.
+The
+third task we completed
+is the development
+of a computer
+program
+which integrates
+and couples
+flame
+structure,
+soot formation,
+and flame
+radiation
+analyses
+together.
+We
+found
+good
+agreements
+between
+model predictions
+and experimental
+data for laminar
+and turbulent
+flames
+under both normal
+and reduced
+gravity.
+We have also tested in the laboratory
+the techniques
+of
+rapid-insertion
+fine-wire
+thermocouples
+and emission
+pyrometry
+for temperature
+measurements.
+These techniques
+as well as laser Doppler velocimetry
+and spectral radiative intensity measurement
+have been proposed
+to provide valuable data and improve the modeling analyses.
+The
+
+research
+
+conducted
+
+journals,
+and 4 workshop
+listed below, with copies
+Roman numerals.
+
+LIST
+
+OF
+
+during
+
+this program
+
+resulted
+
+in 6 publications,
+
+4 of which
+
+in refereed
+
+or conference
+presentations.
+These publications
+and presentations
+are
+of the 6 publications
+attached in sections
+numbered
+in corresponding
+
+PUBLICATIONS
+
+1. Hsu, P.-F., and Ku, J. C., 1994, "Radiative
+Heat Transfer
+in Finite Cylindrical
+Enclosures
+Nonhomogeneous
+Participating
+Media," J. Thermophys.
+Heat Transfer, 8, 434-440.
+2. Ku, J. C.,
+Differences
+
+Griffin,
+D. W., Greenberg,
+in Soot Morphology,"
+Comb.
+
+P. S., and Roma,
+Flame, 102,216-218.
+
+3
+
+J.,
+
+1995,
+
+"Buoyancy-Induced
+
+with
+
+3. Hsu,P.-F.,andKu, J.C., 1996,"RadiativeHeatTransferin Finite CylindricalEnclosureswith
+Nongray,Nonhomogeneous oot/Gas
+S
+Mixtures," Radaitive Transfer -- I, Proc. 1st Int'l Syrup.
+Radiative
+
+Transfer,
+
+M. P. Menguc,
+
+ed., 372-386,
+
+Begell
+
+House
+
+Inc. Publisher,
+
+4. Ku, J. C., Tong, L., and Greenberg,
+P. S., 1996, "Measurements
+and
+Formation
+and Radiation
+in Microgravity
+Jet Diffusion
+Flames,"
+HTD-Vol.
+Heat Transfer
+Division,
+Vol, 4, 261-270.
+
+New
+
+Modeling
+of Soot
+335, Proc. ASME
+
+5. Greenberg,
+P. S., and Ku, J. C., 1997, "Soot Volume
+Fraction Maps for Normal
+Gravity Laminar
+Acetylene
+Jet Diffusion
+Flames," Comb. Flame, 108,227-230.
+6. Greenberg,
+
+Opt.
+
+LIST
+
+OF
+
+P. S., and Ku, J. C., 1997,
+
+" Soot Volume
+
+Fraction
+
+Imaging,"
+
+York.
+
+and Reduced
+
+to appear
+
+in Appl.
+
+PRESENTATIONS
+
+1. Ku, J. C., Tong,
+
+L., Sun, J., Greenberg,
+
+Radiation
+in Turbulent
+Jet Diffusion
+121-132,
+NASA
+CP-10113,
+Proc.
+Ohio, Sep. 15-17.
+
+P. S., and Griffin,
+
+D. W.,
+
+1992,
+
+"Soot
+
+Formation
+
+Flames Under Normal and Reduced
+Gravity
+2nd Int'l Microgravity
+Combustion
+Workshop,
+
+and
+
+Conditions,"
+Cleveland,
+
+2. Ku, J. C., Tong,
+L., and Greenberg,
+P. S., 1995, "Detailed
+Modeling
+Analysis
+for
+Formation
+and Radiation
+in Microgravity
+Gas Jet Diffusion
+Flames,"
+375-380,
+NASA
+10174, Proc. 3rd Int'l Microgravity
+Comb. Workshop,
+Cleveland,
+Ohio, Apr. 11-13.
+
+Soot
+CP-
+
+3. Hsu, P.-F., and Ku, J. C., 1995, "Radiative
+Heat Transfer
+in Finite Cylindrical
+Enclosures
+with
+Nongray,
+Nonhomogeneous
+Soot/Gas
+Mixtures,"
+Int'l Symp. Radiative
+Transfer,
+Int'l Center
+for Heat and Mass Transfer
+(ICHMT),
+Kusadasi,
+Turkey, Aug. 14-18.
+4. Ku,
+
+J. C.,
+
+Formation
+Exposition
+
+Tong,
+
+L.,
+
+and
+
+Greenberg,
+
+and Radiation
+in Microgravity
+(IMECE),
+Atlanta, Georgia,
+
+P.
+
+S.,
+
+1996,
+
+Jet Diffusion
+Nov. 17-22.
+
+4
+
+"Measurements
+Flames,"
+
+and
+
+Int'l Mech.
+
+Modeling
+
+of Soot
+
+Eng. Congress
+
+and
+

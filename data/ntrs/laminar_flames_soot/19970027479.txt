@@ -1,0 +1,839 @@
+_J
+
+NASA-CR-205338
+
+J
+
+Brief
+
+Communication
+
+I
+
+K" -;f
+
+Soot
+
+Volume
+
+Gravity
+
+Fraction
+Laminar
+
+Maps
+Acetylene
+
+PAUL
+MS
+
+110-3,
+
+NASA
+
+Lewis
+
+for Normal
+
+Research
+
+and
+
+Jet Diffusion
+
+Reduced
+Flames
+
+S. GREENBERG*
+Center,
+
+21000
+
+Brookpar],"
+
+Road,
+
+Cleveland,
+
+OH 44135
+
+and
+JERRY
+Mechanical
+
+Engineering
+
+Department,
+
+Wayne
+
+State
+
+INTRODUCTION
+The study of soot particulate
+distribution
+inside gas jet diffusion
+flames is important
+to the
+understanding
+of fundamental
+soot particle and
+thermal
+radiative
+transport
+processes,
+as well
+as providing
+findings relevant
+to spacecraft
+fire
+safety, soot emissions,
+and radiant
+heat loads
+for combustors
+used in air-breathing
+propulsion systems. Compared
+to those under normal
+gravity
+(l-g)
+conditions,
+the elimination
+of
+buoyancy-induced
+flows is expected
+to significantly change
+the flow field in microgravity
+(0 g) flames,
+resulting
+in taller
+and wider
+flames
+with longer
+particle
+residence
+times.
+Work by Bahadori
+and Edelman
+[1] demonstrate many previously
+unreported
+qualitative
+and semi-quantitative
+results,
+including
+flame
+shape and radiation,
+for sooting laminar gas jet
+diffusion
+flames. Work by Ku et al. [2, 3] report
+soot aggregate
+size and morpholo_
+analyses,
+and data and model predictions
+of soot volume
+fraction
+maps [4] for various gas jet diffusion
+flames. In this study, we present
+the first 1-g
+and 0-g comparisons
+of soot volume
+fraction
+maps for laminar
+acetylene
+and nitrogen-diluted acetylene
+jet diffusion
+flames.
+Volume
+fraction
+is one of the most useful
+properties
+in the study of sooting
+diffusion
+flames. The amount
+of radiation
+heat transfer
+depends
+directly
+and this parameter
+
+"Corresponding
+COMBUSTION
+
+on the volume
+fraction
+[4],
+can be measured
+from line-
+
+author.
+AND
+
+FLA_IE
+
+Copyright
+
+© 1997 by The
+
+Published
+
+by Elsevier
+
+108:227-230
+
+Combustion
+
+Science
+
+C. KU
+
+University',
+
+5050
+
+Anthony
+
+Wayne
+
+Drive,
+
+Detroit,
+
+M] 48202
+
+of-sight
+extinction
+measurements.
+Although
+most soot aggregates
+are submicron
+in size, the
+primary particles (20 to 50 nm in diameter)
+are
+in the Rayleigh
+limit, so the extinction
+(=absorption)
+cross section
+of aggregates
+can be
+accurately
+approximated
+[5-7] by the Rayleigh
+solution
+as a function
+of incident
+wavelength,
+particles'
+complex refractive
+index, and particles' volume fraction.
+MEASUREMENT
+PROCEDURES
+
+AND
+
+DATA
+
+INVERSION
+
+Reduced
+gravity, experiments
+have been conducted using the NASA Lewis Research
+Center's 2.2-s drop tower facility. The imaging absorption
+technique
+[8] developed
+bv the authors
+is applied
+to measure
+full-field
+flame
+transmittance
+over a 50-ram-diameter
+field of
+view. The method
+utilizes solid-state
+detector
+arrays coupled
+with collection
+optics configured to provide depth-invariant
+magnification
+and characterized
+angular
+collection
+efficiency.
+The beam from a 1.5-roW visible (632.8 nm)
+laser diode is spatially filtered, expanded,
+and
+collimated
+before
+passing
+through
+the flame.
+Bandpass
+and neutral
+density filters are used
+to block flame emissions
+and to optimize
+the
+dynamic range of the detected
+signal. Undesirable coherent
+imaging effects and fluctuations
+in source
+stability
+are taken into account
+to
+improve
+measurement
+sensitivity.
+A system
+constructed
+from
+inexpensive,
+commercially
+available
+components
+has been demonstrated
+to determine
+fractional
+absorbance
+of 4 x 10 -3
+
+(1997)
+
+Institute
+Pll
+
+Inc.
+
+V-1
+
+0010-2180/97/$17.00
+S0010-2180(96)00205-2
+
+228
+
+P. S. GREENBERG,
+AND I. C. KU
+
+at a full-fieldacquisition of 30 Hz with
+rate
+verygood
+repeatability.
+A sequence f imageframesis recorded
+o
+throughouthe 2.2-stime spanof the drop
+t
+sequence.
+Thissequence
+includes nunattenua
+atedreference
+frameacquired riorto ignition
+p
+under
+reducedravity.
+g
+Thetransmittance at
+T
+each pixel location is calculated
+as the ratio of
+intensity I (with the flame) to I 0 (without),
+and
+is related
+to the local soot volume
+fraction
+f,,(r)
+
+through
+
+-:ox[_
+,; ST-7
+(1)
+Here, h is the wavelength
+and we choose m =
+1.7i0.7 as the complex
+refractive
+index of
+soot. The integration
+is along chord-like
+paths
+through
+the flame. The measured
+transmittance map was numerically
+smoothed
+using a
+two-dimensional
+tensor-product
+spline scheme
+[8] to minimize
+spatial
+noise due to coherent
+imaging effects. Tomographic
+reconstruction
+[9]
+was then used to calculate
+local soot volume
+fractions,
+We have
+
+assuming
+the
+demonstrated
+
+flame is axisymmetric.
+[8] that the numerical
+
+smoothing
+those from
+ing laminar
+
+yields almost
+identical
+results
+as
+temporal
+averaging
+for slowly varydiffusion
+flames.
+
+RESULTS
+
+AND
+
+Figure
+1 shows soot volume
+in combined
+three-dimensional
+
+fraction
+maps,
+and contour
+
+plots, for these flames. As expected
+from the
+elimination
+of buoyancy-induced
+flow,
+0-g
+flames are taller and wider than their 1-g counterparts.
+Note the radial scale for 0-g flames is
+1.7 times larger than that for 1-g flames. Small
+extraneous
+peaks observed
+along the flame axis
+are artifacts
+resulting
+from tomographic
+reconstruction
+[8]. For the pure acetylene
+flames,
+soot particles
+are released
+from the flame tip
+(i.e., smoking)
+under both 1-g and 0-g. The
+diluted flames, however, only smoke under 0 g.
+Soot loading at each flame height is calculated
+by integrating
+the local volume
+fraction
+over
+the flame cross section.
+For 1-g flames,
+the
+peak soot loading decreases
+roughly by a factor
+of 4 from pure to diluted acetylene,
+whereas
+Guider
+and Shelling [10] reported
+a factor of
+3.3 for co-flow ethylene flames. The peak soot
+loading in 0-g is approximately
+four times that
+in 1-g for the 50%-acetylene
+flame, and three
+times that for the pure acetylene
+flame. For
+50%-acetylene
+flames, the maximum
+local soot
+volume fraction
+under 0-g is about twice
+that
+under 1-g. For pure acetylene
+flames, both 0-g
+and 1-g volume
+fraction
+maps exhibit similar
+maximum
+values.
+The increase
+in soot loading from 1-g to 0-g
+flames is attributed
+mainly to the increase
+in
+
+maximum
+attenuations
+are 26%, 66%, 74%,
+and 86% for 1-g 50%, 0-g 50%, 1-g pure, and
+0-g pure flames, respectively.
+Although
+the last
+three
+flames are in the optically
+thick (and
+hence multiple scattering)
+limit where Eq. 1 is
+inaccurate,
+we were not able to obtain reliable
+data from other
+fuels. With the same setup,
+both 1-g propane
+and ethylene
+yield less than
+5% attenuation
+over most of the flame. At-
+
+particle
+residence
+time and the subsequent
+change
+in soot radiative
+heat transfer.
+In a
+simulation
+for 1 cc/s
+ethylene
+and propane
+flames,
+the elimination
+of buoyancy-induced
+flow causes
+a decrease
+in the centerline
+gas
+velocity by a factor of 10 from 1-g to 0-g, and
+an increase in the flame height by a factor of 2,
+resulting
+in a 20-fold
+increase
+in residence
+time from 1-g to 0-g. Longer residence
+times
+will expectedly
+promote soot formation,
+growth,
+and coagulation,
+and consequently
+result
+in
+higher
+local soot volume
+fractions.
+A larger
+flame size and a higher soot loading naturally
+suggest
+a higher
+radiant
+heat loss from the
+flame and consequently
+a cooler flame in 0og.
+A cooler flame will exhibit less soot oxidation
+
+tempts
+to increase
+the nozzle diameter
+were
+restricted
+by the amount
+of bottled fuel, while
+reducing
+the fuel flow rate caused
+a delay in
+reaching steady-state
+for 0-g flames.
+
+(i.e., burnout),
+and thus a slower decrease
+in
+soot loading.
+Results
+from
+a sophisticated
+modeling
+analysis [4], which includes
+coupled
+equations
+for flame structure,
+soot formation
+
+DISCUSSION
+
+Pure acetylene
+and 50% nitrogen-diluted
+(by
+volume) acetylene
+were injected at a flow rate
+of 2.3 cc/s into quiescent
+atmospheric
+air from
+a nozzle
+with i.d. 1.65 mm. The measured
+
+V-2
+
+229
+
+SOOTVOLUMEFRACTION
+MAPS
+
+_o
+%
+3o
+
+%
+
+._-._
+
+so,
+
+4¢-,.,:_
+Fig.
+
+1. Combined
+
+50%-acetylene
+
+three-dimensional
+jet
+
+diffusion
+
+.,¢,_
+
+¢..o._-'--
+
+.
+and
+
+contour
+
+soot
+
+--og
+
+volume
+
+flames.
+
+V-3
+
+fraction
+
+distributions
+
+for
+
+1-g and
+
+0-g
+
+laminar
+
+acetylene
+
+and
+
+230
+
+P. S. GREENBERG,
+AND
+
+and oxidation,
+and radiative
+heat transfer,
+port the aforementioned
+conclusions.
+
+sup-
+
+4.
+
+Ku,
+
+J.
+
+C.,
+
+Conference
+
+Tong,
+
+L.,
+
+Publication
+
+5.
+
+Ku, J. C.,
+113:953-958
+
+Greenberg,
+P. S., and
+Optics (1996).
+
+9.
+
+under
+
+Dobbins,
+R.
+30:4747-4754
+
+8.
+
+support
+
+6.
+7.
+
+J. C. Ku wishes to acknowledge
+NASA grant number NAG3-1265.
+
+Koylu,
+Transfer
+
+Ramachandran,
+Proc. Nat. Acad.
+
+REFERENCES
+1.
+
+Bahadori,
+
+M. Y., and
+
+tor Report
+
+191109
+
+Edelman,
+
+R. B., NASA
+
+Contrac-
+
+(1993).
+
+2.
+
+Ku, J. C., Griffin, D. W., Greenberg,
+P. S., and Roma,
+J., Combust.
+Flame 102:216-218
+(1995).
+
+3.
+
+Ku,
+
+J. C., Tong,
+
+Griffin,
+(1993).
+
+D.
+
+W.,
+
+L., Sun,
+NASA
+
+J.,
+
+Greenberg,
+
+Conference
+
+P. S., and
+
+Publication
+
+10113
+
+V-4
+
+10.
+
+10174
+
+U. O., and
+115:409-417
+
+Guider,
+O.
+92:115-124
+
+Faeth,
+(1993).
+
+A., and
+(1991).
+
+and Shim,
+(1991).
+
+and
+
+Greenberg,
+
+P.
+
+S.,
+
+NASA
+
+(1995).
+G.
+
+M.,
+
+Megaridis,
+K.-H.,
+
+I. C. KU
+
+C.
+
+ASME
+
+ASME
+M.,
+
+J. Heat
+Appl.
+
+J. Heat
+
+Ku, J. C., submitted
+
+Opt.
+
+Transfer
+
+to Applied
+
+G. N., and Lakshminarayanan.
+A. V.,
+Sci. USA, 68:2236-2240
+(1971).
+
+L., and
+(1993).
+
+Snelling,
+
+D.
+
+R., Combust.
+
+Flame
+

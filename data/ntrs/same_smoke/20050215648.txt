@@ -1,0 +1,80 @@
+Fundamental Research Applied To
+Enable Hardware Performance in
+Microgravity
+NASA sponsors microgravity research to generate knowledge in physical sciences. In
+some cases, that knowledge must be applied to enable future research. This article
+describes one such example. The Dust and Aerosol measurement Feasibility Test (DAFT)
+is a risk-mitigation experiment developed at the NASA Glenn Research Center by NASA
+and ZIN Technologies, Inc., in support of the Smoke Aerosol Measurement Experiment
+(SAME). SAME is an investigation that is being designed for operation in the
+Microgravity Science Glovebox aboard the International Space Station (ISS). The
+purpose of DAFT is to evaluate the performance of P-Trak (TSI Incorporated, Shoreview,
+MN)--a commercially available condensation nuclei counter and a key SAME diagnostic-in long-duration microgravity because of concerns about its ability to operate properly in
+that environment. If its microgravity performance is proven, this device will advance the
+state of the art in particle measurement capabilities for space vehicles and facilities, such
+as aboard the ISS.
+The P-Trak, a hand-held instrument, can count individual particles as small as 20 nm in
+diameter in an aerosol stream. Particles are drawn into the device by a built-in suction
+pump. Upon entering the instrument, these particles pass through a saturator tube where
+they mix with an alcohol vapor (see the following figure). This mixture then flows
+through a cooled condenser tube where some of the alcohol condenses onto the sample
+particles, and the droplets grow in a controlled fashion until they are large enough to be
+counted. These larger droplets pass through an internal nozzle and past a focused laser
+beam, producing flashes of light that are sensed by a photodetector and then counted to
+determine particle number concentration. The operation of the instrument depends on the
+proper internal flow and recycling of isopropyl alcohol in both the vapor and liquid
+phases.
+
+P-Trak internal components and flow.
+Long description of figure. Internal components and airflow for the P-Trak, showing pump, focusing
+optics, laser diode, photodetector, saturator tube, alcohol-soaked wick, and sample inlet. Also shows a
+cross-sectional view of the inner wall of the modified condenser. The precisely machined grooves are
+visible.
+
+As the instrument was originally designed, alcohol that condenses on the inner wall of the
+condenser drains back down the saturator tube by gravity. The condenser in the unit was
+modified to promote the capillary flow of liquid alcohol back toward the saturator
+without depending on gravitational forces. This was accomplished through a series of 60
+precisely machined grooves, each 0.009 in. deep, which promote the wicking of the
+liquid alcohol in the proper direction along the condenser’s inner wall. This design was
+developed by fluids physics researchers at Glenn following an analysis to measure the
+contact angle of isopropyl alcohol on the aluminum surfaces of the condenser. The
+technique for this analysis is based on the results of fundamental research conducted at
+Glenn that investigated the wetting properties of liquids on surfaces (ref. 1).
+For the DAFT experiment, both a modified and an unmodified version of the P-Trak will
+be tested in the long-duration microgravity conditions aboard the ISS. In addition to the
+P-Traks, another commercial instrument, the TSI DustTrak, will be utilized with the
+experiment. The DustTrak measures particle concentrations and is not sensitive to
+gravity. For experiment operations, DAFT will be secured to the front of an Expedite the
+Processing of Experiments to Space Station (EXPRESS) Rack and gaseous nitrogen
+provided by the rack will be used to fill 15-liter sample bags. These bags also will be
+loaded with a small quantity of a characterized source of particulates made up of Arizona
+road dust. One of the P-Traks and the DustTrak will then simultaneously draw samples
+from these bags while recording measurements of particle counts and mass
+concentrations, respectively. Prior to the particulate/nitrogen sample entering the
+
+instruments, the smallest particles will be removed from the flow stream by a device
+called the DAFT Impactor, which was designed with the guidance of scientists at the
+National Institute of Standards and Technology. The EXPRESS laptop computer will be
+used to download the recorded measurements from the instruments and downlink them to
+the ground. There, they will be compared to quantitatively assess the operation of the PTrak: that is, whether or not the readings of the P-Trak properly correlate to the readings
+of the DustTrak. These instruments also will take data from samples of the ISS cabin air.
+Environmental Control and Life Support Systems personnel at the NASA Johnson Space
+Center and NASA Marshall Space Flight Center have expressed a strong interest in these
+measurements since they will provide valuable information regarding particulate loading
+in the ISS cabin atmosphere. The DAFT hardware has been formally turned over to
+Johnson and awaits shipment to the launch site.
+
+Reference
+1. Allen, J.S.: An Analytical Solution for Determination of Small Contact Angles
+From Sessile Drops of Arbitrary Size. J. Colloid Interface Sci., vol. 261, 2003, pp.
+481–489.
+Find out more about this research
+http://microgravity.grc.nasa.gov/combustion/daft/daft_index.htm
+Glenn contacts: William A. Sheredy, 216–433–3685, William.A.Sheredy@nasa.gov;
+Dr. David L. Urban, 216–433–2835, David.L.Urban@nasa.gov; and Dr. Gary A. Ruff,
+216–433–5697, Gary.A.Ruff@nasa.gov
+Author: William A. Sheredy
+Headquarters program office: Exploration Systems
+Programs/Projects: Life Support & Habitation
+

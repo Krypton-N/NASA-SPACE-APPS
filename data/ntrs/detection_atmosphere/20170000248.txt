@@ -1,0 +1,838 @@
+Fire Detection Tradeoffs as a Function of Vehicle Parameters
+David L. Urban1, Daniel L. Dietrich2, John E. Brooker3, Marit E. Meyer4, and Gary A. Ruff5
+NASA Glenn Research Center, Cleveland, Ohio 44135
+
+Fire survivability depends on the detection of and response to a fire before it has produced
+an unacceptable environment in the vehicle. This detection time is the result of interplay
+between the fire burning and growth rates; the vehicle size; the detection system design; the
+transport time to the detector (controlled by the level of mixing in the vehicle); and the rate at
+which the life support system filters the atmosphere, potentially removing the detected species
+or particles. Given the large differences in critical vehicle parameters (volume, mixing rate
+and filtration rate) the detection approach that works for a large vehicle (e.g. the ISS) may not
+be the best choice for a smaller crew capsule. This paper examines the impact of vehicle size
+and environmental control and life support system parameters on the detectability of fires in
+comparison to the hazard they present. A lumped element model was developed that considers
+smoke, heat, and toxic product release rates in comparison to mixing and filtration rates in
+the vehicle. Recent work has quantified the production rate of smoke and several hazardous
+species from overheated spacecraft polymers. These results are used as the input data set in
+the lumped element model in combination with the transport behavior of major toxic products
+released by overheating spacecraft materials to evaluate the necessary alarm thresholds to
+enable appropriate response to the fire hazard.
+
+Nomenclature
+𝑛̇ 𝑖,𝐼
+VI
+𝑉̇ 𝐸𝐶𝐿𝑆𝑆
+Xi,I
+αi
+σg
+
+=
+=
+=
+=
+=
+=
+
+particle generation rate per unit volume or moles per unit volume generated in module I
+Volume of module (I)
+Volume flow for ECLSS system
+Mole Fraction of species I or number density of particulate species, i, in module I
+Fraction of ECLSS flow that is HEPA filtered
+Geometric Standard Deviation
+
+I. Introduction and Background
+
+G
+
+IVEN the very small market for spacecraft smoke detectors and the absence of test data in spaceflight conditions,
+spacecraft smoke detectors have been developed based on experience and standards from residential and aviation
+systems. These terrestrial systems will be briefly reviewed to provide background on the choices available for
+spacecraft systems. Beginning in the mid 1970’s the sale of residential smoke detectors expanded rapidly from 50,000
+per year to over 12 million per year. This was largely the result of substantial price reductions in that decade and
+public appreciation of data showing their positive impact on fire survivability [1]. At the time the only technology that
+provided a useful lifetime of 15 to 25 years was radioisotope-based ionization detectors. More recently, with the advent
+of semiconductor light sources, light scattering devices have become more prevalent [2]. As established by the
+National Fire Code (NFPA 72) [3] the performance of residential smoke detectors must be in compliance with
+Underwriters Laboratory (UL) 217/268 [4, 5].
+These UL requirements specify a broad acceptable range for minimum sensitivity and several test fires the sensor
+must detect. Specifically, when exposed to grey smolder smoke and black hydrocarbon smoke, the detector must alarm
+1
+
+Branch Chief, Combustion and Reacting Systems Branch, 21000 Brookpark Road, MS 77-5.
+Staff Scientist, Combustion and Reacting Systems Branch, 21000 Brookpark Road, MS 110-3.
+3
+Staff Scientist, Combustion and Reacting Systems Branch, 21000 Brookpark Road, MS 77-5
+4
+Staff Scientist, Combustion and Reacting Systems Branch, 21000 Brookpark Road, MS 77-5.
+5
+Project Manager, Exploration Systems Project Office, 21000 Brookpark Road, MS 162-7.
+2
+
+within the range of 0.5 to 4.0 percent obscuration per foot. Having fallen within this broad range, the detector must
+also detect three reference fires (shredded paper, wood fire, and a heptane/toluene pool fire). In practice, manufacturers
+trade detection sensitivity versus false alarms while staying within the broad sensitivity specification. Obscuration per
+foot is a measurement basis that is not commonly used elsewhere in the aerosol community. Since it depends strongly
+on the concentration, refractive index and size properties of the smoke, it does not provide direct information about
+the quantity of smoke present for an arbitrary smoke, making it difficult to compare smoke detector specifications to
+fundamental aerosol properties. Nevertheless, due to the historical importance of the UL standard to the detector
+community, it is commonly used to describe detector sensitivity.
+The Federal Aviation Administration (FAA) utilizes a different approach, establishing detection requirements that
+emphasize performance in scenarios consistent with the target locations: bathrooms and cargo bays [6]. Because of
+the wide range of humidity and suspended particulate seen in aircraft cargo bays, the minimum sensitivity
+requirements are also typically somewhat higher than residential detectors.
+Whereas the design goal for residential systems was providing adequate egress time and not necessarily structural
+protection, aviation systems assumed that while immediate egress was not feasible, false alarms are very costly and
+aggressive suppression of fires in cargo bays was possible. Consequently, the minimum sensitivities for both these
+systems were somewhat higher than spacecraft systems where the emphasis is on early detection (Table 1). Higher
+sensitivity levels for terrestrial systems are consistent with the fact that the smoke from a fire rises rapidly and remains
+very concentrated near the ceiling so it is possible to trigger at a higher level even though the overall amount of smoke
+produced is relatively small. However, in spacecraft, the smoke is typically well mixed throughout the volume and
+thereby diluted so detection requires a greater amount of smoke release for a given volume [7].
+The Space Shuttle smoke detector was an ionization detector based on the prevailing technology at the time. The
+sensitivity was higher than typical for residential systems due to the desire for rapid fire detection. The International
+Space Station (ISS) smoke detector is a forward light scattering system and is calibrated to alarm at 1%
+obscuration/foot for punk/smolder smoke.
+
+System
+Residential
+FAA Cargo
+Bay
+Space Shuttle
+ISS
+Orion
+
+Detector Performance Basis
+Minimum Sensitivity 1.6 to 13.2 %
+obscuration/m plus test fires
+Emphasis on sampling the cargo area and
+false alarm avoidance, typical range is up to
+13.2 % obscuration/m
+2 mg/m3 [8]
+3.3 % obscuration/m [8]
+Current concept is rate of rise detection (light
+scattering)
+
+Technology
+Light Scattering or Ionization
+Predominantly Light Scattering
+
+Ionization
+Light Scattering
+Light Scattering
+
+Table 1: Detector Performance Requirements for Terrestrial and Spacecraft Systems
+The Smoke Aerosol Measurement Experiment (SAME) examined the particle size distribution for the pyrolysis of
+several materials relevant [9] to spacecraft fires. An extract of the results is shown in Table 2. The particle size
+distribution was a strong function of the overheated material composition; the flow conditions; gravity level; how long
+the smoke aged at high concentration, and the heating rate. Given the change in size due to the other parameters, the
+influence of gravity was not the dominant cause of size variation. This important result enabled the future use of
+ground-based testing to establish the bulk of the design data for smoke detection. In the SAME results, the overall size
+variation was very significant. In particular, plastics such as Teflon and Kapton produced very small particles (100250 nm diameter of average mass) which are more challenging to detect with light scattering systems whereas silicone
+rubber and cellulose (representing paper and clothing) produced substantially larger particles (250- 620 nm diameter
+of average mass). The current detection methods (ionization and light scattering) both show increased signal with
+increasing particle size with the increase roughly linear for ionization (Space Shuttle) and to the third power for light
+scattering (ISS). This sensitivity to size change and the broad variation in smoke particle size (a factor of 6) coupled
+with a potentially widely varying background aerosol (e.g. dust) all contribute to challenging detector design criteria.
+The challenge lies not in detecting the smallest particles but rather in detecting them without making the detector so
+sensitive to larger particles that the false alarm rate is unacceptable.
+2
+International Conference on Environmental Systems
+
+Geometric Mean
+Diameter (Dg)
+(µm)
+
+Count
+Mean
+Diameter
+(M1/M0)
+(µm)
+Unaged
+0.042
+0.056
+Kapton
+Aged 720 s
+0.089
+0.109
+Unaged
+0.090
+0.128
+Lampwick
+Aged 720 s
+0.229
+0.276
+Unaged
+0.128
+0.196
+Silicone
+Aged 720 s
+0.269
+0.355
+Unaged
+0.081
+0.101
+Teflon
+Aged 720 s
+0.070
+0.105
+Unaged
+0.149
+0.204
+Pyrell
+Aged 720 s
+0.293
+0.359
+Table 2: Particle Size Results from the SAME Experiment [8]
+
+Diameter of Average
+Mass
+(M3/M0)
+(µm)
+0.101
+0.161
+0.258
+0.398
+0.465
+0.619
+0.170
+0.232
+0.384
+0.539
+
+σg
+
+2.154
+1.872
+2.312
+1.834
+2.530
+2.108
+2.198
+2.442
+2.211
+1.892
+
+Smoke detector implementation requires the ability to predict the smoke concentration for the anticipated fire
+risks. Spacecraft smoke signature data were reported in [10, 11] where spacecraft polymers were individually heated
+in a furnace that was enclosed in a larger chamber. This resultant atmosphere was analyzed for the concentrations of
+HF, HCl, CO2, CO, HCN and aerosol particles. An extract of the results were used to produce Table 3. These results
+were scaled to the net species concentrations if the material produced an aerosol concentration of 10 mg/m3 in a 10
+m3 vehicle. These results are used in the subsequent analysis in this paper. The results clearly show that certain
+materials (e.g. Kapton, Teflon and PVC (polyvinyl chloride)) produce substantial quantities of hazardous gases.
+Kapton and Teflon are common in spacecraft due to their electrical properties and their low flammability. PVC is
+less common in vehicle systems but is likely to be present in Commercial-off-the-Shelf (COTS) devices. Using these
+results this paper demonstrates that, while the amount of hazardous products as a function of the mass of material that
+is overheated is very important, it is also essential to consider the relative concentration of hazardous gaseous species
+and the smoke concentration if you are using a smoke detector to detect overheat events.
+
+Material
+
+Kapton snips
+Bulk Teflon
+Orange PVC wire
+Printed Circuit
+Board
+Components
+Lamp wick
+Nomex
+Pyrell
+Bulk Kapton
+
+Mass of pyrolyzed
+material required to
+reach alarm level smoke
+concentrations (g)
+
+Species Concentration increase due to overheat event
+in a 10 m3 vehicle (ppm)
+CO
+
+HF
+
+HCN
+
+HCl
+
+CO2
+
+6.7
+53.7
+0.89
+
+256
+104.
+2.2
+
+0.4
+382
+0.1
+
+5.7
+3.5
+0.1
+
+0.4
+66.
+12.8
+
+263
+2090
+42.1
+
+2.25
+
+9.0
+
+0.1
+
+0.0
+
+0.6
+
+44.6
+
+0.65
+1.34
+1.32
+0.40
+16.81
+
+3.4
+24.3
+47.8
+4.3
+931
+
+0.0
+0.1
+0.2
+0.0
+1.1
+
+0.0
+0.1
+0.5
+0.2
+13.1
+
+0.0
+0.1
+0.2
+0.0
+1.1
+
+10.6
+26.3
+170.0
+15.6
+1420
+
+Table 3: Hazardous Species Results from [11], Scaled to a 10 m3 Spacecraft Volume
+(Scaled to a 10 m3 vehicle with an aerosol concentration at 10 mg/m3)
+
+3
+International Conference on Environmental Systems
+
+II. Analysis
+The objective of this analysis is to estimate the amount of material that must be pyrolyzed to trigger the smoke
+detector for typical spacecraft configurations. The parameters being considered were the spacecraft habitable volume,
+the air circulation and filtration rate and the smoke detector sensitivity. This is not necessarily a straightforward
+calculation because in many spacecraft the Environmental Control and Life Support System (ECLSS) includes High
+Efficiency Particulate Air (HEPA) filtration which removes virtually all of the smoke particles. Given the existence
+of HEPA filtration systems, a relatively higher total amount of smoke must be released to achieve alarm for a given
+smoke release rate. Once the total amount of smoke release has been estimated, the amount of hazardous gaseous
+species released can be estimated using Table 3 assuming no removal of these species by the filtration system. This
+assumption is probably unrealistic for HF which is recognized to have an affinity for surfaces, especially glass
+materials such as the fibers in a HEPA filter. For CO and HCN this assumption is more reasonable.
+Quantification of the absorption of these species to spacecraft materials is the object of an ongoing study. For this
+analysis, we identified representative scenarios based on consideration of the Space Shuttle, the ISS Destiny module,
+Nodes 1 and 2 of the ISS, and representative numbers for Orion and the anticipated commercial crew vehicles. Many
+smoke detector alarm settings are based on percent of light extinction, however, conversion from this metric to smoke
+particle mass concentration (mg/m3) is not straightforward and corresponding empirical data are not available in the
+literature. For this purpose, the work of Bukowski and Mulholland [1] is used to estimate the conversion. Another
+important issue not considered in this work is that the majority of detectors used in current or anticipated spacecraft
+are light scattering devices. The light scattering signal is roughly proportional to the third power of the particle
+diameter. Table 2 shows that the particle sizes of smoke from spacecraft materials varies by a factor of approximately
+6. This substantially influences the concentration at which the smoke alarm is triggered for different materials. Two
+materials of particular interest (Teflon and Kapton) have smaller particles which are harder to detect with a light
+scattering sensor [9] requiring more smoke to trigger the alarm, consequently the smoke particle concentration at alarm
+can be expected to be higher with concomitant increases in hazardous gaseous species.
+The configurations under consideration can be broken into 2 groups: flowing systems and mixed systems. In
+flowing systems, the smoke is released in a duct-like configuration where there is relatively little axial mixing between
+the source and the detector and the plug flow approximation is reasonable. Calculation of the smoke concentration
+needed to alarm is a simple matter of calculating the amount of smoke particulate needed to bring the volume flow to
+the alarm concentration for a period long enough to trigger the alarm. For this work we assumed that a 20-second
+pulse of smoke was necessary to trigger the alarms.
+The mixed model is a stirred or lumped model that considers release of the smoke into a well-mixed volume where
+the ventilation system circulates the air. This ventilation system may or may not filter the particles from the air. In this
+configuration, the smoke is released slowly enough that the volume is fully mixed. Brooker et al [7] shows that at
+slow release rates the smoke mixes thoroughly in typical spacecraft so the entire vehicle volume needs to rise to the
+detection concentration before the alarm will trigger. At very high release rates, given the turbulent flow in most
+spacecraft cabins, a high concentration streamline may pass by the detector before the average concentration has risen
+to the alarm level but this is not a reliable transport mechanism on which to base a detection system. The mixed volume
+model treats a spacecraft as consisting of two volumes (II and III) with a fire (volume I) occurring in either or both
+volumes as shown in figure 1. The ECLSS ventilation system then moves the air from volume II to volume III
+providing a specified level of filtration. The same volume of air flows back from volume III to maintain continuity
+(Figure 1). This design enables modeling of vehicles that contain 2 interconnected volumes. Reducing one volume in
+the model to a negligible size enables simulation of a vehicle with a single volume.
+Since volume I (the fire) is entirely enclosed in volume III, the model can be represented by conservation equations
+for volumes II and III as shown in equations 1 and 2.
+𝑑
+𝑑𝑡
+
+𝑋 𝑖,𝐼𝐼 = 𝑛̇ 𝑖,𝐼𝐼 +
+
+𝑉̇ 𝐸𝐶𝐿𝑆𝑆
+𝑉 𝐼𝐼
+
+𝑋 𝑖,𝐼𝐼𝐼 −
+
+𝑉̇ 𝐸𝐶𝐿𝑆𝑆
+𝑉 𝐼𝐼
+
+𝑋 𝑖,𝐼𝐼
+
+(1)
+
+Equation 1 expresses the net change of species concentration (mole fraction) or particulate number density in the
+volume II as a result of a fire. The first term on the right hand side represents the species generation by the fire; the
+second term is the transport of species from volume III to volume II; and the third term is the transport of species from
+volume II to volume III.
+
+4
+International Conference on Environmental Systems
+
+Variable
+Filtration
+Volume II (mixed)
+
+Volume III (mixed)
+
+ECLSS Flow
+
+Return flow
+(same as ECLSS
+flow)
+
+Volume I: Fire
+Volume
+
+Figure 1: Schematic of the mixed volume model showing the location of the fire zone and the filtration system.
+For the purposes of this paper, all systems were modeled as single compartments by reducing one volume (e.g.
+Volume III) to insignificant size. The filtration flow rate is set as a parameter and the return rate matches by
+continuity.
+
+𝑑
+𝑑𝑡
+
+𝑋 𝑖,𝐼𝐼𝐼 = 𝑛̇ 𝑖,𝐼𝐼𝐼 + (1 − 𝛼 𝑖 )
+
+𝑉̇ 𝐸𝐶𝐿𝑆𝑆
+𝑉 𝐼𝐼𝐼
+
+𝑋 𝑖,𝐼𝐼 −
+
+𝑉̇ 𝐸𝐶𝐿𝑆𝑆
+𝑉 𝐼𝐼𝐼
+
+𝑋 𝑖,𝐼𝐼𝐼
+
+(2)
+
+This expression represents the net change of species (mole fraction) in the main volume III as a result of a fire.
+The first term on the right hand side represents the species generation by the fire, the second term is the species
+transport from volume II to volume III through the ECLSS system (with filtering with efficiency αi); and the third
+term is the transport of species from volume III to volume II.
+The particulate transport equations are almost identical to equations 1 and 2 with the species mole fraction replaced
+by the particulate number density and the generation term in each equation replaced by the particulate generation rate.
+We modify this model to consider an arbitrary space vehicle with a large open volume (III). The ECLSS ventilation
+system cycles air from a small volume II through a filter and back into volume III. Volume II is small and the results
+for particulate loading that follow are for volume III.
+A. Flowing Systems
+In the Space Shuttle fleet, the avionics bays were cooled by cabin air drawn into the front face of the avionics
+units. This air was combined with the air from other avionics devices and the return air in the cabin air assembly and
+then passed over an ionization type smoke detector. The flow in the duct was approximately 9000 lpm. Table 4 shows
+the mass of pyrolyzed material necessary to trigger an alarm assuming it requires a 20-second pulse of smoke at the
+threshold concentration for that vehicle mixed in the air flow in column 1. Table 4 also shows the worst case
+concentration of hazardous species using the results in Table 3. Notable results are that: choice of detector sensitivity
+has a big effect on the results, very small amounts of pyrolyzed PVC will trigger an alarm whereas much larger
+amounts of wire insulation must pyrolyze to trigger the alarm. The species concentration in the duct are quite high but
+since this is a transient pulse that will be diluted in the vehicle, this is not of particular concern.
+
+5
+International Conference on Environmental Systems
+
+Avionics Cooling
+duct STS Alarm
+level
+Avionics Cooling
+duct ISS Alarm
+level
+
+9000
+
+2
+
+65.0
+
+0.1
+
+1.0
+
+3.2
+
+0.1
+
+0.1
+
+186
+
+77
+
+3
+
+3
+
+9000
+
+10
+
+65.0
+
+0.4
+
+5.0
+
+15.9
+
+0.3
+
+0.4
+
+931
+
+383
+
+13
+
+13
+
+CO2 (Bulk Teflon)
+
+HCl (PVC)
+
+HCN (Bulk Kapton)
+
+HF (Bulk Teflon)
+
+PPM increase due to fire at Alarm
+
+CO (Bulk Kapton)
+
+Nomex
+
+Polyvinyl Chloride
+(PVC)
+
+Bulk Teflon
+
+Bulk Kapton (g)
+
+Lamp wick (g)
+
+Vehicle volume (m3)
+
+Alarm level (mg/m3)
+
+Flow rate
+lpm
+
+Mass of pyrolyzed material to trigger
+alarm
+
+417
+
+2087
+
+Table 4: Estimates of the mass of material that must be pyrolyzed to trigger the alarm in a Space Shuttle avionics
+cooling air return using a Space Shuttle Detector or an ISS detector. The concentration of hazardous products in the
+duct are also estimated for several materials.
+
+B. Mixed Systems
+The mixed model simulates smoke release in three systems: 1. the ISS Destiny module based on the flows reported
+in [7]; 2. the Space Shuttle flight deck; and 3. the crew cabin of the Crew Exploration Vehicle (CEV). Table 5
+summarizes the parameters in the model along with tabular results. These cases serve as representative of a class of
+vehicle and may not precisely match the exact flow rates of the vehicle. The CEV numbers are likely representative
+of commercial crew vehicles. One important parameter to consider is the rate of HEPA filtration of the air. The Shuttle
+had no HEPA filtration while the ISS and the CEV, like other new capsule designs, have HEPA filtration combined
+with high air flow rates. The net result is that the smoke generation rate needs to exceed the particle removal rate by
+filtration to achieve a detectable concentration. For simplicity, the model considered only the case of cellulose
+(Lampwick) pyrolysis and then the results were scaled to consider other materials using the values in Table 3. We
+attempted to estimate the habitable volume rather than the total pressurized volume since much of the pressurized
+volume will not communicate with the cabin air on a constant basis. This difference will affect the total smoke mass
+release needed to trigger the alarm and will affect the detection times but will not strongly affect the gas species
+concentrations. Figure 2 displays the results for the Space Shuttle. Notably, since there is no HEPA filtration, the
+aerosol concentration is only dependent on the total mass pyrolyzed and not the pyrolysis rate. This analysis assumes
+that the flow is well mixed and consequently the entire volume needs to rise to the alarm threshold. This assumption
+is valid for a slow release of the smoke, but does not consider the fact that at very high smoke release rates, a high
+concentration streamline of smoke may pass over the detector and trigger the alarm. Given the sensitivity of the flow
+to local positions of people and stowage, the only reliably conservative prediction of alarm thresholds must be based
+on complete mixing. This mixing is one of the challenges of smoke detection in low-gravity compared to terrestrial
+systems where the smoke can be assumed to be concentrated near the ceiling.
+
+6
+International Conference on Environmental Systems
+
+Mass Teflon pyrolyzed to
+alarm
+
+Mass Polyvinyl Chloride
+pyrolyzed to alarm
+
+CO (Bulk Kapton)
+
+HF (Bulk Teflon)
+
+HCN (Bulk Kapton)
+
+HCl (Polyvinyl Chloride)
+
+mg/s
+
+g
+
+g
+
+g
+
+g
+
+ppm
+
+ppm
+
+ppm
+
+ppm
+
+ppm
+
+Destiny
+
+53
+
+1100
+
+100
+
+10
+
+140.5
+
+7.9
+
+98.4
+
+314.0
+
+5.2
+
+1027
+
+422
+
+14
+
+14
+
+2304
+
+Space Shuttle
+
+37
+
+521
+
+0
+
+2
+
+NA
+
+1.0
+
+12.4
+
+39.7
+
+0.7
+
+186
+
+76
+
+3
+
+3
+
+417
+
+CEV /
+Commercial
+Crew Capsules
+
+6
+
+500
+
+100
+
+10
+
+28.1
+
+0.9
+
+11.8
+
+37.7
+
+0.6
+
+1089
+
+448
+
+15
+
+15
+
+2442
+
+CO2 (Bulk Teflon)
+
+Mass Kapton pyrolyzed to
+alarm
+
+mg/m3
+
+Total Mass Cellulose
+Pyrolyzed to alarm
+
+%
+
+HEPA Filtration
+
+m3/h
+
+Air Flow Rate
+
+m3
+
+Vehicle Habitable Volume
+
+Pyrolysis Rate
+
+PPM increase due to fire at alarm
+
+Smoke Alarm setting
+
+Mass of material pyrolyzed
+
+Table 5: Mass pyrolysis needed to trigger the smoke detector in a well-mixed system and resultant concentrations
+of hazardous gases and aerosols based on the results in Figures 2, 3, 4 and Table 3.
+
+Figure 2: Peak Particulate Mass Density on the Space Shuttle as a
+function of the total mass of smoke particulate for 3 different burning
+rates. Owing to the absence of HEPA filtration, only the total
+particulate mass release is important, not the rate of release. The
+detection limit is 2mg/m3.
+Figure 3 shows the results for the ISS Destiny Module, neglecting the mixing of air with other modules. This
+intermodule ventilation will only extend the detection times and potentially increase the total release of smoke
+products. The notable difference from the Space Shuttle is that all of the air on the ISS passes through a HEPA filter.
+7
+International Conference on Environmental Systems
+
+Figure 3: Peak Particulate Mass Concentration in the ISS
+Destiny module as a function of the total mass of smoke
+particulate for 4 different burning rates. The burning rate is
+proportional to the smoke release rate and has a strong
+effect on the time required to reach the ISS detection limit
+(10 mg/m3). The total mass of smoke particulate at the
+alarm threshold for detection is 565 mg at 281mg/s and 586
+mg at 140.5 mg/s.
+
+Figure 4: Peak Particulate Mass Concentration in the CEV
+as a function of the total mass of smoke particulate for 3
+different burning rates. The burning rate is proportional to
+the smoke release rate and has a strong effect on the time
+required to reach the CEV detection limit (10 mg/m3). The
+total mass of smoke particulate at the alarm threshold for
+detection is 55 mg at 140.5 mg/s and 70.3 mg at 28.1 mg/s.
+
+Even though the smoke detectors are in front of the filters, for low smoke release rates, the filtration keeps ahead of
+the smoke generation. Detection times also increase because the ISS detection limit is higher than the Space Shuttle.
+Table 5 documents the impact this has on the gas species concentrations. For each vehicle, Table 5 used the first
+trace in figures 3 and 4 that crossed the alarm threshold (140.5 mg/s for Destiny and 28.1 mg/s for CEV). From this
+the total mass of smoke particulate needed to trigger the alarm was determined. Using this number and scaling the
+results in table 3 for the appropriate vehicle volume, the mass of each material that would need to be pyrolyzed to
+trigger the alarm was estimated and is shown in table 5. Table 3 [11] was used to estimate the concentration of
+hazardous gaseous products that would result from the pyrolysis of the stated mass of each material. The worst-case
+concentrations are shown in table 5 with the specific materials that produced those concentrations identified in the
+column titles. The required masses of pyrolyzed material are substantially higher than in the Space Shuttle despite the
+roughly comparable volumes. This is due to both the effect of the HEPA Filtration and the smoke alarm threshold.
+The results for the Crew Exploration Vehicle in Figure 4 are similar with the exception that it reaches the alarm
+threshold at a lower mass of smoke released. This is not surprising given the much smaller size compared to Destiny.
+Despite the smaller mass needed to trigger the alarm, the hazardous gas species concentration are quite high, owing
+to the rapid air exchange rate with complete filtration.
+These results suggest that hazardous gas species could accumulate to dangerous levels before a smoke alarm is
+triggered. One potential approach is to reduce the particle filtration rate to a level that is slow compared to the expected
+generation rate in a fire but is still higher than the expected baseline generation rate. An alternative approach would
+be to take advantage of one of these species for detection. Examining table 3 suggests CO as a good alternative. It is
+relatively easy to detect and has a low baseline presence on spacecraft. CO is present in significant quantity for most
+of the materials that produce hazardous products except PVC. Further examination of the gas species and particulate
+production from pyrolysis of spacecraft materials is warranted to validate this result.
+
+8
+International Conference on Environmental Systems
+
+III. Conclusion
+These results strongly suggest that spacecraft fire detection thresholds should not be based on terrestrial levels or
+on other spacecraft, but instead, need to be specifically selected based on the volume of the vehicle and the anticipated
+life support (air filtration and ventilation) systems. The interaction between all relevant systems must be considered
+to ensure adequate detection. This issue may be ameliorated by different detection strategies, i.e. looking at additional
+signals like CO concentration or by reducing the filtration rate to enable detection. Further validation of the smoke
+species signature results used to generate this analysis and the potential loss mechanisms for the hazardous species is
+essential to further resolve these issues.
+
+Acknowledgments
+The help of Suleyman Gokoglu with the analysis and review is appreciated.
+
+References
+1 Bukowski, R.W. and G.W. Mulholland, “Smoke Detector Design and Smoke Properties,” NBS Technical Note 973, 1978.
+2 Bukowski, R. W, R. D. Peacock, J. D. Averill, T. G. Cleary, N. P. Bryner, W. D. Walton, P. A. Reneke, and E. D. Kuligowski,
+“Performance of Home Smoke Alarms, Analysis of the Response of Several Available Technologies in Residential Fire Settings,”
+NIST Technical Note 1455-1, December 2007 Revision.
+3 NFPA , National Fire Alarm and Signaling Code NFPA 72, 2016 Edition, Quincy MA.
+4 Underwriters Laboratories Inc., UL Standard for Safety for Single and Multiple Station Smoke Alarms, UL 217, Northbrook,
+IL, Fifth Edition, Rev January 15, 2004.
+5 Underwriters Laboratories Inc., UL Standard for Safety for Smoke Detectors for Fire Alarm Signaling Systems, UL 268,
+Northbrook, IL, Fourth Edition, Rev October 22, 2003.
+6 Cleary, T., and Grosshandler, W., “Evaluation Of Fire Detection Technology For Suitability In Aircraft Cargo
+Compartments,” International Aircraft Fire and Cabin Safety Research Conference, November 16-20, 1998, Atlantic City, NJ, 115 pp, 1998.
+7 Brooker, J. E., Urban, D. L. and Ruff, G. A., “ISS Destiny Laboratory Smoke Detection Model,” 07ICES-113, 2007
+International Conference on Environmental Systems, Chicago, Ill. July 2007.
+8 Urban, D. L., Ruff, G. A., Mulholland, G. W., Cleary, T., Yang, J., Yuan, Z. G., and Bryg, V., “Smoke Particle Sizes in LowGravity and Implications for the Design of Spacecraft Smoke Detectors,” 2009 International Conference on Environmental
+Systems, Savannah, GA, July 2009, 2009-01-2468..
+9 Urban, D. L., Ruff, G. A., Mulholland, G. W., Meyer, M., Yuan, Z. G., Cleary, T., Yang, J., Greenberg, P. S., and Bryg, V.,
+“Evaluation of Low-Gravity Smoke Particulate for Spacecraft Fire Detection”, 8th U. S. National Combustion Meeting, University
+of Utah, May 19-22, 2013.
+10 Meyer, M., Mudgett, P. D., Hornung, S.D., McClure, M. B., Pilgrim, J. S., Bryg, V. Makel, D., Ruff, G. A., and Hunter, G.,
+“Materials Combustion Testing and Combustion Product Sensor Evaluations in FY12”, AIAA 2013-3432, 43rd International
+Conference on Environmental Systems, July 14-18, 2013, Vail, CO.
+11 Briggs, R. M., Frez, C., Forouhar, S., May, R. D., Meyer, M., Kulis, M. J., and Berger, G. M, “Qualification of a MultiChannel Infrared Laser Absorption Spectrometer for Monitoring CO, HCl, HCN, HF, and CO2 Aboard Manned Spacecraft”, ICES2015-300, 45th International Conference on Environmental Systems, 12-16 July 2015, Bellevue, Washington.
+
+9
+International Conference on Environmental Systems
+

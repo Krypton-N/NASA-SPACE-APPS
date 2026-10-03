@@ -1,0 +1,366 @@
+San Diego Mechanism 2016/08/15 - Minor adjustment as of Feb 2025
+
+The prefactor for ozone decomposition was revised which was motivated by recent 
+investigations of the rate parameters for the reverse of the step that increase 
+the accuracy with which the rate of the forward step can be specified, resulting 
+in a change that is within the previous uncertainty.
+
+
+San Diego Mechanism 2016/08/15 - Minor adjustment as of Aug. 2024
+
+Ozone decomposition reaction O3(+M)=O2+O(+M) is added for comparisons with experiments
+in which ozone was added to promote cool flames.
+
+Rate parameters are from Rogg, Linan and Williams, Deflagration Regimes of Laminar Flames
+Modeled after the Ozone Decomposition Flame, Combustion and Flame 65:79-101 (1986)
+and Nayagam, Williams, Dietrich, Asymptotic Analysis of Influence of Ozone on
+Cool-Flame Propagation in Mixtures of an n-Alkane, Oxygen, and Nitrogen,
+submitted to Combustion and Flame (2024) while thermodynamic, transport data and collision
+efficiencies are from Princeton database Ref. H. Zhao, X. Yang, Y. Ju, Kinetic
+studies of ozone assisted low temperature oxidation of dimethyl ether in a flow reactor
+using molecular-beam mass spectrometry, Combustion and Flame 173 (2016) 187-194.
+
+
+San Diego Mechanism 2016/08/15 - Minor correction as of Aug. 2022
+
+Eliminated redundancy in thermo-data for C3H5 species
+
+
+
+San Diego Mechanism 2016/08/15 - Minor adjustment as of Nov. 2018
+
+Two new reactions are added:
+
+C2H2+HO2=CHCHO+OH
+CHCHO+O2=CH2O+CO+O
+
+based on the following references:
+
+[1] Curran, Henry J. "Developing detailed chemical kinetic mechanisms
+for fuel combustion." Proceedings of the Combustion Institute (2018).
+[2] Gimenez-Lopez, Jorge, et al. "Experimental and kinetic modeling
+study of C2H2 oxidation at high pressure." International Journal of
+Chemical Kinetics 48.11 (2016): 724-738.
+
+San Diego Mechanism 2016/08/15 - Minor adjustment as of March 2018
+
+The rates of the reaction H+CH3(+M)<=>CH4(+M) have been modified based on recommended rates from Troe and Ushakov 
+paper published in The Journal of Chemical Physics 136, 214309 (2012) where the recommended rates from that work 
+were converted to CHEMKIN format. Also, Chaperon coefficient of CH4 was changed to 4.0
+
+
+San Diego Mechanism 2016/08/15 - Minor adjustment as of April 2017
+
+The third body efficiency for H2O in the reaction H+CH3(+M)<=>CH4(+M) has been changed from 6.00 to 16.00 
+to improve agreement with counterflow methane extinction experiments that measure effects of water addition.  
+The change is reasonable in that it lies within the current range of uncertainty and is the same as the 
+efficiency for H2O for the step H+O2(+M)<=>HO2(+M).  
+
+San Diego Mechanism 2016/08/15 - December 2016 Correction
+
+The reaction O + OH + M -> HO2 + M (a part of H2 reaction steps) has been eliminated as per the publication 
+by A. Sanchez and F. Williams in Progress in Energy and Combustion Science, 2013.
+
+San Diego Mechanism 2016/08/15 
+
+A number of new reactions involving n-butane have been added to the main mechanism, along with the corresponding 
+thermal and transport data. These reactions are based on the latest work of F.A. Williams and J.C. Prince which is
+accepted for publication at the Combustion and Flame. The paper is titled "A reduced reaction mechanism for the 
+combustion of n-butane"   
+
+San Diego Mechanism 2014/10/04 - Correction as of Nov. 16th
+The presentation of rates for the reactions HO2+OH<=>H2O+O2; 2 HO2<=>H2O2+O2; and H2O2+OH<=>H2O+HO2 
+has been corrected to reflect these reactions are bi-molecular and bi-Arrhenius.
+
+San Diego Mechanism 2014/10/04 
+
+Efficiency of H2O2 in the step OH + OH + M = H2O2 + M has been revised to become 6.0.
+
+Rate parameters in the reaction CH3OH + O = CH2OH + OH have been updated to A=3.88 E5, n=2.5, E=3080 cal/mol = 12.89 kJ/mol 
+based on Driver et al (1992). The previous values were A=1.000E+13, n = 0.0, E= 4684.51 cal/mol.    
+
+Rate parameters for the first entry in the reaction HO2 + OH = H2O + O2 have been revised to become A=7.00 E12, n=0, 
+E=-1094.62 cal/mol  = - 4.58 kJ/mol based on Hong et al (2013). The previous values were 2.890E+13, n=0.0, E=-497.13 cal/mol.  
+
+San Diego Mechanism 2014/02/12 - July 2014 Correction
+
+The 3rd Troe parameter in both Chemkin and FlameMaster formats for several reactions which was 
+explicitly listed as zero, has been changed to a very small non-zero number (1.000E-30) to avoid
+division by zero. 
+
+
+San Diego Mechanism 2014/02/12
+
+Reaction rates, Troe fall-off parameters and Chaperon 
+efficiencies have been revised for several hydrogen chemistry reactions. 
+Those are detailed in the publication by A. Sanchez and F. Williams in 
+Progress in Energy and Combustion Science, 2013.    
+
+San Diego Mechanism 2012/09/07
+
+We have updated our thermodata and transport data to ensure all species are consistent. 
+
+San Diego Mechanism 2011/11/22 
+
+Several changes were made to the ethanol chemistry that were detailed 
+in Li at al. (2004) and Saxena et al. (2007).
+A few reactions were added dealing with the C3 chemistry. Those are 
+detailed in J. C. Prince et al. (2011).
+
+
+San Diego Mechanism 2009/11/01 
+
+The Frequency Factor of the reaction CH3OH + HO2 -> CH2OH + H2O2 
+was changed from 6.200E+12 to 8.000E+13. This change is documented
+in "Detailed and reduced chemistry for methanol ignition" 
+by Seiser et al. (2011). 
+
+San Diego Mechanism 2005/12/01 
+
+Reactions related to combustion of ethanol are added to 
+the existing San Diego Mechanism. Most of those reactions
+are adopted from Juan Li, Ph.D. thesis (2004), Princeton 
+University. We have also added thermodynamic and transport 
+data for the additional species associated with ethanol.
+
+San Diego Mechanism 2005/10/11
+
+Updates are made to several sensitive reactions 
+involving formaldehyde, methane, ethane, ethylene, 
+acetylene and methanol, based on more recent 
+literature.
+
+San Diego Mechanism 2005/06/15- Revision as of 2005/08/17
+
+We have edited the current thermodynamic data file to include 
+several species from our previous data relevant to heptane 
+reactions as well as JP10 and nitrogen chemistry.
+
+
+San Diego Mechanism 2005/06/15
+
+We have added He as an additional third body.
+
+We revised the rates for H+O+M->OH+M step based on
+results of Yetter et al. (1991). The reaction H2+O2->OH+OH
+has been removed from the mechanism following recommendations
+of Michael et al. (2000), Proceedings of Combustion Institute,
+Vol. 28. The rate parameters are updated for the H+H+M->H2+M
+step based on recommendations of Baulch (1992) where Ar is used
+as a bath gas. We have also revised the prefactor in the
+H+OH+M->H2O+M reaction after reviewing appropriate literature.
+In addition, Chaperon efficiencies for He and Ar have been
+changed in the above step as well as in O+O+M->O2+M. 
+We have revised rate parameters and Troe fall-off in the 
+H+O2+M->HO2+M reaction based on Troe (2000) recommendations
+for the use of N2 as bath gas. We have also modified the rate
+parameters in the following steps: HO2+H->OH+OH and HO2+H->H2+O2.
+We have added CO+O2->CO2+O reaction to improve ignition time
+calculations for the mixture of carbon monoxide and hydrogen.
+
+Finally, we have adjusted and corrected several literature
+references in the mechanism.
+
+
+San Diego Mechanism 2005/03/10
+
+We have replaced the existing thermodata with the new set
+to improve the calculations. In particular, we adopted the
+thermodata from A. Burcat for most of the species, except 
+for C3H5 and OH which are taken from H. Wang. As to the
+C3H4 species, representing both allene and propyne, we
+are now using allene thermodata.
+
+A number of changes have been made in our main hydrocarbon
+mechanism. The prefactor A has been increased in the
+H+OH+M->H20+M to improve burning-velocity agreement. The 
+third-body efficiency of water has been increased in the
+H+O2+M->H02+M reaction in order to agree with new autoignition
+data in wet atmospheres. We have slightly revised the rates
+in the HO2+H->OH+OH reaction to improve burning-velocity
+predictions for hydrogen and propane. We have added a falloff
+for higher pressures for the following reaction: OH+OH+M->H202+M.
+We have also revised the rates of the CH3+HO2->CH3O+OH step, in
+order to improve agreement with propane autoignition times. 
+We have added the CH3OH+M->CH3+OH+M step to be able to address
+high-temperature methanol autoignition. We have slightly revised 
+the rates for the CH2CO+H->CH3+CO reaction in order to improve 
+agreement with measured propane autoignition times. 
+
+We have revised a number of steps in the mechanism involving C3 
+chemistry. These revisions enabled us to obtain better results for 
+propane, propene, allene and propyne. In particular, we have included 
+a falloff as well as the third body efficiencies in the propane 
+initiation step C3H8->CH3+C2H5, based on the evaluation of Baulch. 
+Five propyl radical steps have been included in the mechanism,
+less than half of the earlier number of such reactions, because
+many of them did not have appreciable influence on predictions.
+In particular, we have found it very important to include falloff
+in the propyl decomposition steps. As to the propene oxidation steps, 
+we have retained seven of these, where the rate parameters were taken 
+from Davis et al. We have also revised the parameters for propene 
+autoignition steps. Of the two C3H5 isomers, we have included only 
+allyl, since that appeared to be sufficient. Regarding the allyl rate 
+parameters, we followed the reasoning of Davis et al. As to the 
+decomposition steps C3H5->C3H4 +H and C3H5->C2H2+CH3, we have estimated 
+the falloff conditions which would agree with the reported results 
+by Davis, Law and Wang. With respect to the C3H5+O2->C3H4+HO2 step, 
+we used the results of Bozelli and Dean for their channel to allene 
+while neglecting other channels included previously. We have added 
+the reactions C3H5+OH->C3H4+H20, C3H5+HO2->C3H6+02 and 
+C3H5+HO2->C2H3+CH20+OH, where in the last of these we have decreased 
+the rate by Baulch et al. by slightly more than a factor of two, 
+to significantly improve predicted C3H8 ignition times. We have 
+estimated the falloff in the C3H4->C3H3+H reaction, since we find 
+it important for higher temperatures. We have added five steps 
+associated with C3H3 species, in which the rate parameters follow 
+recommendations of Davis et al. Rate parameters for C3H4 reactions 
+are taken from Davis et al. If the same reaction was present for 
+both propyne and allene, the faster rate constant of the two 
+was chosen. 
+
+Finally, we have modified the prefactor A in the following reaction:
+HCCO+NO->HNCO+CO. This detail is given in our Nitrogen Chemistry
+section.
+
+
+
+San Diego Mechanism 2003/08/30-Revision as of 2004/12/09
+
+We have added one reaction to the Nitrogen Chemistry Section
+(see the appropriate section for details).
+Also, we have corrected a discrepancy in the appearance of I-C3H7
+species in the transport data file.
+
+
+San Diego Mechanism 2003/08/30-Additon as of 2004/03/11
+
+We have added some plots which illustrate comparison between 
+computations based on our mechanism and experiments for some
+fuels.
+
+San Diego Mechanism 2003/08/30
+
+The 3rd-body efficiency for H2O in the H+O2+M -> HO2+M
+reaction has been changed from 7.0 to 12.0 as a result 
+of comparisons between homogeneous, adiabatic, isobaric
+induction time calculations and the recent experimental
+data from Wang et al. The fall-off effect for that reaction
+has been included based on the published work of Troe. 
+
+The Troe coefficients fca and fcb in the expression for the 
+fall-off effect in the N-C3H7  -> H + C3H6 reaction have been 
+revised to correct the misprint which occured previously.
+
+San Diego Mechanism 2003/04/30
+
+The rate constants in the propene reactions: C3H6 -> C3H5 + H   
+and  C3H6 -> C2H3 + CH3 have been revised by using the results 
+from the published work by Davis et al. In particular, we
+replaced these reactions with their appropriate counterparts 
+in reverse direction, taking into consideration  the effects
+of pressure dependence. The results based on revised rate
+constants agree better with the laminar flame speed data. 
+
+
+San Diego Mechanism 2002/10/01- Revision as of 2003/04/15
+
+Mechanism files in PDF format containing appropriate literature 
+references have been added to the main mechanism directory as
+well as to the corresponding subdirectories for NOx, Heptane
+and JP-10 chemistry.
+
+The mechanism files in Flame Master format have been edited to
+properly include comments and literature references.
+
+
+San Diego Mechanism 2002/10/01
+
+A separate directory has been created for JP10 chemistry.
+
+Heptane reactions have been included into the mechanism based on
+Held et al. Those reactions have been put into an appropriate separate
+directory. 
+
+Additional species associated with heptane chemistry have been included
+in the thermodata and transport data files.
+
+Butadiene and pentadiene reactions have been removed from the main 
+mechanism file and included into the appropriate files associated 
+with JP10 and heptane chemistry.
+
+Several reactions associated with CH3CHO species as well as I-C3H7
+have been removed from the main mechanism since they proved to be
+unimportant for the computation results.
+
+The portion of the main mechanism associated with propane chemistry 
+has been updated to reflect a more thorough examination of the
+reaction constants based on recent literature.
+
+
+San Diego Mechanism 2002/08/12
+
+A separate directory has been added to address the details of nitrogen 
+chemistry.
+
+Additional species associated with nitrogen chemistry have been put into 
+the thermodata file.
+
+In order to insure compatability of calculations in Chemkin and Flame 
+Master formats, 3-CH2 species has been renamed as T-CH2 and introduced
+into both mechanism formats as well as thermodata and transport data
+files. Correspondingly, 1-CH2 species has been renamed as S-CH2 and
+introduced into all the formats as such.
+
+The keyword "FC" in Chemkin format has been replaced with "TROE" for 
+one reaction.
+
+C10H16 species in FlameMaster format has been renamed as JP10-C10H16.
+
+All {fc=} formulations in FlameMaster format have been replaced with 
+{fca,fcta,fcb...} to preclude potential errors in resulting Chemkin format.
+
+C6H5C2H, IC8H14 and CH3CHCCH species have been commented out and ANTHRACN, 
+CH3CCCH2, NC5H12, IC5H12 as well as NEO-C5H12 have been removed from 
+transport data file as a result of dual entry and/or redundancy.
+Note: no transport data for JP-10 or C10H16 present.
+
+
+San Diego Mechanism 2002/06/03
+
+Thermodynamic data have been updated to reflect the revised OH heat of 
+formation as 8.92 kcal/mol, according to recent Stanford work.
+
+
+San Diego Mechanism 2002/05/20
+
+Reaction (a137f) C3H6 -> C2H2+CH4 added for completeness, based on
+the results from Y. Hidaka et al.
+
+
+San Diego Mechanism 2002/02/05
+
+Hydrogen Reactions were changed and propane reactions were added.
+Reaction (a5f) H + O + M2 -> OH + M2 added for completeness.
+Reaction (a6f) H2 + O2 -> OH + OH added for low temperature hydrogen ignition. 
+Reaction (a11f) O + OH + M -> HO2 + M added for completeness.
+Propane reactions p127f to p152f added after studying propane ignition
+
+
+03/13/2002
+
+Reaction rates for the propane reaction C3H8  -> CH3 + C2H5 
+have been revised, to account for the effects of pressure dependence.
+
+
+San Diego Mechanism 2001/11/05
+
+02/09/2001
+Reaction H + O2 + M -> HO2 + M updated based on recent data from Petersen et al.
+02/09/2001
+Reaction OH + OH + M -> H2O2 + M updated based on recent data from Petersen et al.
+04/12/2001
+The following reactions were updated
+Reactions
+157: C5H8 -> C3H4 + C2H4                          { a = 0.3160E+13  n = 0.000   E = 238.8 }
+158: C5H8 -> C3H5 + C2H3                          { a = 0.3160E+13  n = 0.000   E = 238.8 }

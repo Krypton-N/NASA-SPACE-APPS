@@ -1,0 +1,841 @@
+Technology Development for Fire Safety in Exploration
+Spacecraft and Habitats
+Gary A. Ruff1 and David L. Urban2
+NASA John H. Glenn Research Center, Cleveland, OH 44256
+
+Fire during an exploration mission far from Earth is a particularly critical risk for
+exploration vehicles and habitats. The Fire Prevention, Detection, and Suppression (FPDS)
+project is part of the Exploration Technology Development Program (ETDP) and has the
+goal to enhance crew health and safety on exploration missions by reducing the likelihood of
+a fire, or, if one does occur, minimizing the risk to the mission, crew, or system. Within the
+past year, the FPDS project has been formalized within the ETDP structure and has seen
+significant progress on its tasks in fire prevention, detection, and suppression. As
+requirements for Constellation vehicles and, specifically, the CEV have developed, the need
+for the FPDS technologies has become more apparent and we continue to make strides to
+infuse them into the Constellation architecture. This paper describes the current structure of
+the project within the ETDP and summarizes the significant programmatic activities. Major
+technical accomplishments are identified as are activities planned for FY07.
+
+I. Introduction and Background
+
+T
+
+he Vision for Space Exploration (VSE) announced by President George W. Bush on January 14, 2004 directed
+NASA to achieve the long-term goal of sending humans back to the Moon and then on to Mars. The extent of
+knowledge that must be gained and the number of technologies that must be developed before such missions can
+occur are certainly formidable. The performance standards required for these technologies are, in many cases, well
+beyond those used on the International Space Station and the Space Shuttle and will stretch our current knowledge
+of living and working in space. A large number of the challenges are related to ensuring the health and safety of the
+crew during the exploration mission.
+The Fire Prevention, Detection, and Suppression (FPDS) project is a technology development effort within the
+Exploration Technology Development Program (ETDP) of the Exploration System Missions Directorate (ESMD)
+that addresses all aspects of fire safety aboard crewed exploration systems. The overarching goal for the FPDS
+project is to develop technologies that will ensure crew health and safety on exploration missions by reducing the
+likelihood of a fire, or, if one does occur, minimizing the risk to the crew, mission, or system. This is accomplished
+by addressing the areas of (1) fire prevention and material flammability, (2) fire signatures and detection, and (3)
+fire suppression and response. Much of this work had its origins in the Microgravity Combustion Science Program
+that began in the mid-1980’s and funded peer-reviewed basic research in a broad range of topics in reduced-gravity
+combustion.1 In early 2000, the Bioastronautics Initiative provided funds to allow researchers in the Microgravity
+Combustion Science Program to begin to transition from basic research to more applied fire safety investigations
+although still through the peer-reviewed, NASA Research Announcement (NRA) process. The announcement of the
+VSE continued the transition to technology development projects with the FPDS project being formed shortly
+thereafter. The grants funded by the 2001 and 2002 combustion science NRA solicitations have either been
+continued in the FPDS project or allowed to end in FY06 at the completion of their funding. (In many cases, the
+projects were terminated after three years of funding, as directed by NASA HQ, instead of the normal four years.)
+This paper identifies the deliverables for the FPDS project and discusses the status of the project. Even though
+the goals of the FPDS project have remained unchanged since its inception, it has undergone considerable review
+and revision as NASA implements the VSE, as has all the technology development projects. The status of the
+project was reviewed in January of 20052 and 20063 so this paper will focus on the programmatic activities and
+technical accomplishments over the last year for the current tasks within the FPDS project.
+1
+
+FPDS Project Lead, NASA John H. Glenn Research Center/MS 77-7, AIAA Associate Fellow..
+Chief, Combustion and Reacting Systems Branch, NASA John H. Glenn Research Center/MS 77-5, AIAA Senior
+Member.
+
+2
+
+1
+American Institute of Aeronautics and Astronautics
+
+II. Project Description and Deliverables
+As previously stated, the goal for this work is to develop technologies that will ensure crew health and safety on
+exploration missions by reducing the likelihood of a fire, or, if one does occur, minimizing the risk to the crew,
+mission, or system. This may be accomplished by developing technologies that are applied during the design of the
+vehicle to eliminate or reduce the probability of a fire or by developing technologies to provide the crew with
+effective detection and suppression systems to minimize the impact on the spacecraft systems and mission success if
+a fire would occur. The technologies under development in the FPDS project are identified by a set of deliverables
+(or products) consisting of hardware, design requirements, data for trade studies, test procedures, data libraries, or
+recommendations for fire response procedures, depending on the application. For FPDS, the deliverables are:
+Fire Prevention and Material Flammability
+1. Definition and verification of a normal gravity material flammability test(s) to evaluate
+reduced gravity flammability
+2. Assessments of material flammability in relevant cabin atmospheres and gravity levels for
+exploration transit vehicles and habitats
+3. Definition and evaluation of realistic fire and fire response scenarios for exploration
+spacecraft and habitats
+Fire Signatures and Detection
+4. Advanced detection system for gaseous and particulate pre-fire and fire signatures
+5. Verified models of the transport of contaminants, smoke, and combustion gases throughout
+the habitable volume of a spacecraft or habitat
+Fire Suppression and Response
+6. Design rules for suppressant system including effectiveness of suppressants, required
+concentrations, and dispersion methods
+These were originally developed through a series of workshops that focused on spacecraft fire safety4-6 as well as
+previous studies and reports that have addressed fire protection in spacecraft.7-9 The most recent workshops were
+held in 2001,4 2003,5 and 2004; the first workshop was held in 1986.6 Given the changes that have occurred in
+NASA’s exploration mission during this period, one might expect the FPDS deliverables to have changed
+significantly. Independent of the mission, NASA’s basic philosophy to ensure fire safety on spacecraft has remained
+constant during this period and the FPDS deliverables are aligned with that philosophy. What has changed, however,
+is (1) the technology available to apply that philosophy, (2) the specific missions to which this technology is applied,
+and (3) our understanding of low-gravity phenomena related to fire safety. So, even though the deliverables are the
+same, the tasks to achieve these deliverables are constantly reviewed and revised as the technology needs change. In
+the remainder of the paper, the tasks are identified and briefly discussed with specific emphasis on noteworthy or
+timely accomplishments.
+
+III. Programmatic Considerations
+A. Exploration Technology Development Program
+At the beginning of 2006, the Exploration Technology Development Program (ETDP) was still in the
+formulation process. As the program was defined, so were the requirements on the technology development projects.
+All projects conformed to new reporting and operational procedures aimed at providing uniformity in how
+technology was evaluated, developed and infused into the Constellation Program. This completed the transition from
+research-type projects to technology development that was begun with the announcement of the Vision for Space
+Exploration. One requirement was that every project formulate a project plan to outline the general direction and
+procedures for each project given the anticipated funding levels at the Spring 2006. The FPDS project plan,
+completed and signed in May 2006, developed the philosophy and major objectives of the tasks described in this
+paper. The second major programmatic accomplishment of the year was the successful completion of the Integrated
+Baseline Review (IBR). The purpose of the IBR, conducted by the ETDPO, was to review the detailed
+implementation plan for FY07 although major milestones for later years were also addressed. To prepare for this
+review, specific plans for each FPDS task were formulated including objectives, recent accomplishments, FY07
+milestones, budget, and implementation plan for the assessment of Earned Value. The FPDS review was completed
+in October 2006 and this paper summarizes much of the content presented in the IBR. Interestingly, planning for the
+
+2
+American Institute of Aeronautics and Astronautics
+
+IBR by the entire FPDS team provided a framework for all team members to plan their work for the year and
+become more familiar with the overall objectives of the FPDS project.
+B. Constellation and CEV Program Requirements Formulation
+The continued maturation and activities of the Constellation and CEV Program Offices has had the largest
+programmatic impact on the FPDS during the year. The Constellation Program Office (CxPO) initiated Level II
+activities by forming various Systems Integration Groups (SIGs) that are the “owners” of the Constellation
+Requirements for that discipline. The fire detection and suppression function on a spacecraft is part of the
+Environmental Control and Life Support (ECLS) system and, as such, is included in the ECLS-Thermal SIG, led by
+Robyn Carrasquillo of NASA Marshall Space Flight Center and John Lewis of NASA Johnson Space Center. The
+SIG activity that has most impacted the FPDS project has been the formulation of the fire detection and suppression
+(FDS) requirements in the Constellation Architecture Requirements Document (CARD) and the Human Systems
+Integration Requirements (HSIR). While the Level II requirements are at a fairly high level, the requirements
+formulation process prompted many discussions about the philosophy of fire detection and suppression to be used
+on Constellation vehicles and, therefore, helped confirm and guide FPDS tasks.
+The CEV (now called Orion) Project Office was also set up during this year. The development of the vehicle
+Level III requirements further helped to refine the fire detection and suppression requirements for CEV. The
+selection of a prime contractor for Orion made discussions of the fire detection and suppression systems more
+concrete as the differences between the NASA and contractor designs were debated and resolved. While the design
+is still in flux, the FPDS tasks have remained important and relevant to the development of the Orion spacecraft.
+C. Implementation
+The FPDS project is led by the NASA Glenn Research Center and several teams have been formed to implement
+tasks in areas of material flammability, fire detection, and fire suppression. The Flammability Research Team, led
+by Dr. Fletcher Miller, monitors and implements the tasks in the area of fire prevention and material flammability.
+Similarly, Dr. Daniel Dietrich leads the Fire Suppression and Response Research Team. Because of synergy with the
+Environmental Monitoring and Control project and the recently formulated “Dust” project, the Fire Signature and
+Detection Research Team is co-led by Dr. David G. Fischer and the authors. These teams defined the tasks to be
+discussed in the next section, developed work schedules and defined appropriate milestones that will be used to
+implement Earned Value Management for this project.
+
+IV. Description and Status
+Considerable progress has been made toward the stated FPDS deliverables in the past year. Even with the
+programmatic uncertainties, the FPDS scientists and technicians are entering 2007 with a clear direction on the
+objectives and requirements for each task. In this section, each of the major tasks in FPDS are briefly described
+along with the current status and plans for the coming year. Particular emphasis will to given to those tasks with
+noteworthy or timely accomplishments. The deliverables addressed by each task are also noted in parentheses
+because there if not always a one-to-one correspondence and several tasks can contribute to a single deliverable.
+A. Fire Prevention and Material Flammability
+1. Normal Gravity Flammability Test (Deliverable 1)
+One of the deliverables of the FPDS project is a methodology by which the low-gravity flammability of a
+material can be determined based on a test conducted in normal gravity. Currently, two general approaches to
+achieve this deliverable are being investigated. The first approach is to define a normal-gravity test configuration
+such that the effect of buoyancy on the flame behavior is minimized. In the second approach, specific flammability
+properties of the material are measured in the presence of buoyancy and the low-gravity behavior is determined from
+the measured values of these properties. Three tasks within the FPDS project follow one of these two approaches
+and are discussed later in this paper (Section IV.A., sub-sections 2, 3, and 4).
+Even while the test methods are being developed, we must remain focused on the infusion of this technology as a
+NASA standard test. Through our work with the NASA-STD-6001 Topical Working Group, it has become clear that
+even if a test exists that yields a quantitative measure of low-gravity flammability, it might not be acceptable as a
+standardized test. Other factors must be considered and, depending on the test, may become obstacles to that test
+ever being adopted. We developed a working list of these requirements, shown in Table 1, to help guide our Team in
+the formulation of topics that must be addressed for each of the proposed methods.
+
+3
+American Institute of Aeronautics and Astronautics
+
+Table 1. Criteria for Acceptance of a Material Flammability Test Method
+A. Cost Effectiveness
+i. sample preparation time
+ii. time required to conduct test
+iii. time required for data acquisition and analysis
+iv. applicability of results to other material thicknesses, atmospheric conditions, etc.
+B. Theoretical Justification
+i. measurement of a relevant fire safety parameter
+ii. verified relationship between test results and low-g behavior
+iii. results scalable to other graivty levels (Lunar or Martian)
+iv. results are applicable to other material thicknesses, atmospheric conditions, etc.
+C. Test Performance
+i. test procedure is applicable for a variety of material types (foams, films, fabrics, etc.)
+ii. demonstrated repeatability and precision
+iii. well-defined facility requirements and protocol
+
+There are no specific weighting factors or rankings by which these requirements can be used to compare two or
+more test methods. Instead, these are more useful as “go/no-go” requirements that could identify a potential obstacle
+for a specific method. For example, NASA-STD-6001 Test 1 is NASA’s primary material flammability screening
+test10 and it is useful to subject this test to these criteria. Test 1 is frequently criticized from microgravity combustion
+science and fire safety community because its lack of a theoretical justification and connection to low-gravity
+flammability. In defense of the test, upward flame spread is generally a “worst-case” flame spread condition and the
+igniter used in the test is considered to be more energetic that spacecraft ignition sources. Therefore, even though
+the low-gravity justification for this test may be lacking, the test is assumed to be conservative. Also, over the years,
+the cost effectiveness and the test performance has been demonstrated to be quite acceptable. Therefore, while
+scientists in the FPDS project frequently focus on tests that have a strong theoretical justification, we must
+remember that the test should not impose a significant burden in either cost or time from any combination of test
+time, sample preparation, specialized facilities, data analysis, etc. Therefore, in addition to continuing the technical
+justification of these methods, work is being conducted on all of the proposed test methods to evaluate the broad
+range of requirements listed in Table 1 during FY07. This will lead to a formal evaluation and down-select at the
+end of the fiscal year with only the most promising method or methods continuing development into FY08 and
+beyond.
+2. Forced Ignition and Spread Test (FIST) - (Deliverable 1)
+One of the test methods being considered as a standardized test is the Forced Ignition and Spread Test (FIST)
+(PI: Prof. C. Fernandez-Pello, University of California – Berkeley). The general approach applied in this method is
+to measure standard material flammability characteristics and then perform engineering calculations, including
+computer fire modeling, to calculate the impact of various fire scenarios on the spacecraft under consideration. The
+FIST apparatus, shown in Fig. 1 and described by Cordova et al.11, is a small-scale wind tunnel with the sample
+material mounted flush to the bottom wall of the tunnel and irradiated by heaters in the upper wall of the duct. The
+radiant heaters are designed to provide a spatially-varying radiant flux that is highest at the downstream end of the
+sample and decreases along its length. The data obtained from the FIST apparatus can be plotted as a ‘flammability
+diagram’ that shows the ignition time and flame spread rate as a function of the external heat flux. The critical heat
+flux for ignition given can also be determined from the test data. The primary significance of the test method is that
+material flammability properties such as the apparent thermal inertia, effective ignition temperature, and flame
+spread parameters can be determined by correlating the flame spread and ignition delay branches of the diagram
+with a theoretical model (analytical or numerical). Using this information, materials can be ranked based on their
+readiness for piloted ignition, susceptibility to flame spread, and extinction characteristics.
+FIST researchers have been investigating both experimentally and computationally the critical mass-loss rate
+required for a sample to ignite. This could prove to be a flammability acceptance criterion for this test. Planned tasks
+for FY07 include developing the capability to conduct tests in exploration atmospheres (up to 36% O2 and
+4
+American Institute of Aeronautics and Astronautics
+
+approximately 7 psia), and verifying the test protocol. In the computational analysis, they will complete the solid
+phase model and use it to investigate the effect of oxygen concentration and gravity on the results.
+
+Figure 1. Forced Ignition and Spread Test (FIST) experimental apparatus and typical flame. A
+schematic of the FIST apparatus is shown in the left-hand image while a side-view of a typical flame is
+shown on the right. The blue flame is visible at the upstream portion of the sample with a smoke trail
+extending over the igniter on the right.
+
+3. Low Stretch Scaling (Deliverable 1)
+Unlike the FIST apparatus discussed above, the Equivalent Low-Stretch Apparatus (ELSA) uses an experimental
+configuration in which buoyancy is suppressed (PI: Dr. S. L. Olson, NASA GRC). The configuration and test
+techniques of the ELSA test are similar to a cone calorimeter test except that the sample is burned above the radiant
+heater as shown in Fig. 2.12 In this configuration, the velocity gradient normal to the flame sheet is largely
+determined by the velocity of the incoming flow rather than buoyancy. The hypothesis is that this “low-stretch”
+flame shares many features with a low-gravity flame frequently
+characterized by low stretch rates because of the lack of buoyancy.
+However, the concept of low-stretch scaling places fairly strict
+requirements on the flow field in the apparatus which can be perturbed
+by the interaction of the incoming flow, radiant heater, and burning
+sample. In FY06, smoke flow visualization was used to observe the
+flow in the apparatus and, as a result, a new nozzle was fabricated and
+installed. A modeling effort using both the Fire Dynamic Simulator and
+FLUENT computational codes was begun to investigate the details of
+the ELSA flow field and the low-stretch scaling assumptions. A
+Particle Image Velocimetry (PIV) system is being set up to obtain
+quantitative measurements of the flow field that will be compared to
+the numerical results. Recently, tests have been performed on various
+materials such as Combitherm™, Kevlar™, Nomex™, Pyrell™
+foam, and Kydex™ to evaluate the suitability of this test for a range of
+materials. No significant difficulties in testing these materials have
+Figure 2. Sketch of the Equivalent
+been identified. Both the modeling and experimental verification tests
+Low-Stretch Apparatus (ELSA).
+will continue in FY07.
+4. Sub-critical Rayleigh Number Analogy (Deliverable 1)
+While the ELSA configuration suppresses buoyancy by burning the sample in a ceiling configuration, another
+way to suppress buoyant convection is to burn the sample between two plates separated by a small distance. The
+plate separation is determined from the Rayleigh number defined as the ratio of the buoyant to viscous forces in a
+fluid and given by the equation
+
+Ra =
+
+gβ (T1 − T2 )L3
+
+αν
+
+5
+American Institute of Aeronautics and Astronautics
+
+(1)
+
+where g is the gravitational acceleration, β is the coefficient of thermal expansion, L is the characteristic length, α is
+the thermal diffusivity, and ν is kinematic viscosity. T1 and T2 are the temperatures of the lower (heated) and upper
+plates, respectively. For Rayleigh numbers less than a critical value, buoyancy forces cannot overcome the
+resistance imposed by the viscous forces and there is no buoyancy-driven convection within the cavity thereby
+simulating a low-g environment. For horizontal plates heated from below, the value of the critical Rayleigh number
+is approximately 1708.13 Using T1=900 deg C and T2=80 deg C, the plate separation distance, L, that yields
+Rac=1708 is 1.1 cm. Accordingly, the plate separation typically used in the Narrow Channel Facility is 1.0 cm
+configuration.
+The Narrow Channel Facility can measure the flame spread rate and the propensity for flame propagation at a
+specific flow velocity, pressure, and oxygen concentration14 (PI: Dr. F. J. Miller, National Center for Space
+Exploration Research (NCSER)). The primary question being examined at this time is whether the distance between
+the plates can be standardized for most samples or whether it must be determined for each type of material to be
+tested. Also, FPDS scientists have recently investigated whether the flame spread rate can be determined as a
+function of flow velocity in a single test by slowly decreasing the flow velocity (approx. 2 cm/s2) rather than by
+conducting multiple, constant velocity tests. Although still under investigation, the results to date have been
+promising. Given the results of these tests, the facility is being modified so that the oxygen concentration can be
+slowly decreased during a test to determine the minimum oxygen concentration for flame spread. Other aspects of
+this test that will be evaluated in FY07 include the effectiveness of the test to evaluate concurrent (upward) flame
+spread, the burning of thick materials, and the impact of heat loss to the walls on the test results.
+5. Evaluation of NASA-STD-6001 Test 1(Deliverables 1 and 2)
+Recently, Quintiere15 has made use of flammability parameters defined by Tewarson16 to develop a theoretical
+formulation for fire growth processes such as ignition, burning and energy release rate, and flame spread under
+external radiant heating. More significantly, however, this formalism also identifies critical conditions that can limit
+these processes. The methodology has been demonstrated using data obtained from the Room Corner Test (ISO 54)
+for a variety of materials and a similar type of analysis will be performed for NASA-STD-6001 Test 1. For example,
+NASA-STD-6001 Test 1 can be thought of as a sequence of several types of flammability tests. First, it is an
+ignition test using a specific external heating profile produced by the igniter. If the material ignites, it then becomes
+a flame propagation test first with the igniter on but after 25 sec (the approximate time the igniter is on) with the
+only energy input provided by the flame itself. Of course, a material fails Test 1 if the flame propagates more that 15
+cm (6 inches). If this formalism can developed to define critical values of the flammability parameters that dictate
+whether these processes can occur for this test, a firm connection can be made between NASA’s existing test and
+other standard material flammability tests, including those under development to determine low-gravity
+flammability. Maintaining a connection to the existing material flammability database (MAPTIS17) while supplying
+additional information about low-gravity flammability would significantly increase NASA’s ability to assess
+flammability risks during future exploration missions.
+6. Pressure-Gravity Scaling (Deliverable 1 and 2)
+The previous tasks were aimed at developing test methods that could be used to assess low-g material
+flammability. While these methods could potentially be applied to partial-gravity applications, our understanding of
+material flammability in partial gravity is even less than that in low (near zero) gravity. Test results have shown that
+flammability limits, i.e., oxygen concentrations that support combustion are not simple interpolations between low-g
+and normal-g.18 Therefore, two FPDS tasks are aimed at developing test techniques that could be used evaluate
+partial-g flammability or provide data to verify the performance of the low-g test methodologies previously
+described for partial-gravity applications. Feier et al.19 and Kleinhenz20 have investigated methods to scale results
+from upward flame spread experiments conducted at reduced pressures to upward flame spread rates in partial
+gravity. This technique, called Grashof number (or P2-g) scaling, has been demonstrated with good success by
+comparing test results in normal gravity with those obtained at Lunar and Martian gravity levels on the C-9 aircraft.
+Figure 3a shows images of upward flame spread on a 1-cm-wide paper sample at Lunar, Martian, and Earth gravity.
+When the pressure is increased to compensate for the reduced gravity, the three flames appear very similar, as
+shown in Fig. 3b. Figure 4 shows the flame spread rates measured under these conditions unscaled as a function of
+pressure (Fig. 4a) and as a function of the scaled variable gP1.8 (Fig. 4b). The correlation is seen to be excellent and
+demonstrates that the partial gravity flame spread rate can be scaled in this manner. Additional tests will be
+conducted in FY07 to verify this behavior for larger samples, i.e., having the same dimensions as those used in
+NASA-STD-6001 Test 1 (5 cm wide x 30 cm long of varying thickness) (co-I: Dr. Z.-G. Yuan, NCSER and Dr. J. E.
+Kleinhenz, Case Western Reserve University (CWRU)).
+6
+American Institute of Aeronautics and Astronautics
+
+a. Upward flame spread at constant
+pressure at Lunar, Martian, and Earth
+normal gravity. Note the difference in
+burn length and flame appearance.
+
+b. Upward flame spread at constant
+P1.8g. The burn length and flame
+appearance are quite similar when
+the scaling is applied..
+
+Figure 3. Comparison of burn length and flame appearance with and without P2-g scaling.
+
+a. Upward flame spread rate at constant
+pressure at Lunar, Martian, and Earth
+normal gravity.
+
+b. Upward flame spread rate correlation using
+constant P1.8g.
+
+Figure 4. Correlation of upward flame spread rate using P2-g scaling
+
+7. Partial-Gravity Centrifuge (Deliverable 1 and 2)
+To date, all tests of partial gravity material flammability have been conducted on NASA’s Reduced Gravity
+Aircraft flying the appropriate trajectory. Since clean low-gravity conditions are produced in drop towers at NASA
+Glenn Research Center, partial gravity could be achieved by placing a test sample on a centrifuge inside a drop rig
+and applying the appropriate rotational velocity. In FY06, the mechanical design for a centrifuge drop tower rig was
+completed and the components were assembled on a drop bus to be used in the Zero Gravity Facility at NASA GRC
+(co-I: Dr. P. V. Ferkul, NCSER, Dr. K. R. Sacksteder, NASA GRC, and Prof. J. S. T’ien, CWRU). Later in FY07, the
+rig will be wired and the check-out drops will be conducted. There are many questions to be answered about
+flammability tests conducted in a centrifuge and this task will provide some needed proof-of-concept data to
+determine if this is a practical tool for NASA to use to assess material flammability on the Lunar and Martian
+surface as its exploration missions continue.
+
+7
+American Institute of Aeronautics and Astronautics
+
+Cabin Total Pressure, psia
+
+Cabin Total Pressure, kPa
+
+8. Low-g Flammability in Exploration Atmospheres (Deliverable 2 and 3)
+The atmosphere of previous spacecraft has ranged from 100% O2, 34.5 kPa for Mercury, Gemini, and Apollo
+missions to standard air (21% O2/79% N2, 1 atm) for ISS and STS. (Atmospheric conditions prior to EVA are
+different from the standard cabin atmosphere.) These design points are shown in Fig. 5 and generally lie along the
+normoxic equivalent line, i.e., having the same O2 partial pressure as 100 kPa, 21% O2 by volume.21 In order to
+maintain O2 partial pressure
+Shuttle/Mir/ISS
+along the normoxic line, the
+100
+14
+Normoxic Equivalent
+%O2 increases as the total
+90
+pressure decreases. Yet, it is
+Hypoxic Boundary
+12
+the mole fraction of oxygen
+Historical Designs
+80
+that affects the flammability
+70 Shuttle EVA Preparation
+10
+of materials. The increased
+52.7 – 58.6 kPa, 27.6 - 34% O2
+flammability of materials in
+60
+8
+these conditions is critical in
+50
+Early Apollo Design
+terms of fire initiation,
+6
+propagation, and suppression.
+40
+Skylab
+Mercury/Gemini/Apollo
+In June 2006, the ECLSDecompression
+sickness
+30
+Thermal SIG recommended
+4
+to the Constellation Systems
+20
+Flammability
+Engineering Control Board
+2
+Hypoxia
+10
+(ECB) a set of atmospheres
+for the habitable volume of
+0
+0
+the
+CEV
+and
+future
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+exploration vehicles along
+Cabin Volume Percent Oxygen
+with
+an
+operational
+Figure 5. Design space for cabin atmosphere pressure and O2
+philosophy of how the
+concentration. Arrows indicate the trends for increasing risk of
+atmosphere could be varied
+decompression sickness as a result of EVA, hypoxia, and flammability.21
+depending
+on
+mission
+destination and objectives.
+The Board recommended that additional material flammability testing be performed to verify assumptions about the
+difficulty of certifying material flammability at increased oxygen concentrations. Specifically, NASA White Sands
+Test Facility would conduct NASA-STD-6001 Test 1 at an ambient pressure of 10.2 psia and a range of oxygen
+concentrations to identify the maximum oxygen concentration (MOC) for which the material passes Test 1. For
+these initial tests, approximately 50 materials would be evaluated. Also included in this test program was a series of
+tests to be conducted in the Zero-Gravity Facility at NASA GRC to determine whether the MOC obtained in lowgravity was different than that obtained in the normal gravity test. Previous research has shown that a flame can be
+sustained at lower oxygen concentrations in low-gravity when buoyancy is eliminated and the convective velocity is
+less than that imposed by buoyant convection.22 A significant difference (> 1 – 2 %O2) between the low- and normal
+gravity limits could change the habitable atmosphere recommendations. In fact, even prior to the request by the
+Constellation ECB, these tests were a part of the FPDS technology development project because this low-g data is
+required for verification of the normal gravity flammability tests methods previously discussed (co-I: Dr. S. L.
+Olson, NASA GRC and F. J. Miller, NCSER).
+The ZGF drop rig to conduct these tests has been completed and the initial drops were conducted in December
+2006. The oxygen threshold tests will begin early in FY07 after a short period of rig check-out and development of
+the test procedure. This round of tests will be completed no later than September 2007.
+B. Fire Signatures and Detection
+1. Gas and Particulate Sensor Development (Deliverable 4)
+Smoke detectors on the ISS have proven to be sensitive to dust and have produced numerous false alarms. For
+this reason and other design constraints that will be imposed on future spacecraft, there is a need for new fire
+detector technology that eliminates nuisance alarms yet provides early pre-fire warning. The state-of-the-art in fire
+detection combines gaseous and particulate sensors into a hybrid fire detection system. Since 2001, the FPDS
+project has funded (along with other sources) the development of a sensor suite that couples solid state sensors for
+CO, CO2, H2, total hydrocarbons, and humidity with a particulate sensor (co-I: Dr. G. W. Hunter and Dr. P. S.
+Greenberg, NASA GRC). This hybrid detector has proven to have very good nuisance source discrimination while
+
+8
+American Institute of Aeronautics and Astronautics
+
+correctly identifying fires from a variety of fire sources. A newly-developed scattering sensor for particulate
+monitoring is being developed and will replace the particulate sensor in this suite.
+As a result of several Technical Interchange Meetings (TIMs) between NASA and NASA/CEV contractor
+personnel, a set of requirements, shown in Table 2, were drafted to guide the development of these sensors in FY07
+and beyond. These requirements are not reflected in an official CxP or Orion requirements document (yet) but they
+help to define desired detector operating characteristics, design parameters, and required testing so that sensor
+development can proceed. Both the gaseous and particulate detectors are on a path to produce an advanced fire
+detector by the end of FY07. A portion of the verification testing will be completed by that time with a more
+detailed assessment to be completed in FY08.
+Table 2. Working Requirements for Spacecraft Fire Detector
+1.
+
+Time correlated detection of the presence of particulate and gaseous pre-fire and fire species. At a minimum, CO
+should be detected; other species if required to demonstrate reliability, reduce nuisance alarms, etc.
+
+2.
+
+Respond to particles in the range of 0.5 - 4 microns and ignore particles having larger diameters
+
+4.
+
+Sample particles at ambient flow velocities ranging from 5 - 15 cm/s with the flow direction within 35 deg of normal
+to the plane of the sampling or sample tube area
+Detector should be able to operate continuously for no less than 6 months
+
+5.
+
+Tolerant of expected cabin dust levels on the moon and ISS
+
+6.
+
+Tolerant of vacuum cycles (unpowered)
+
+3.
+
+7.
+
+Operates at ambient pressures from 1 atm to 8 psia
+
+8.
+
+10.
+
+Capable of passing typical spacecraft noise, power, EMI, and thermal testing
+Tolerant of nuisance sources including but not limited to lunar dust, spacecraft dust (hair, skin cells, fabric threads,
+etc.), humidity, and cleaning fluids
+Sampling rate of 1 Hz
+
+11.
+
+Able to achieve 80% of full-scale in 1 sec when challenged with an appropriate full-scale source.
+
+12.
+
+Alarm levels (~ 106 particles/cc or 2 mg/m3) , Species levels TBD
+
+9.
+
+2. Quantification of Fire Signatures (Deliverable 4)
+Even the best sensors won’t detect a fire unless they are in a proper location and have been set to the appropriate
+alarm levels. Working together, they can effectively provide early fire detection as well as reliably identify nuisance
+sources. Therefore, while developing these sensors, there is a need to (1) quantify the gaseous and particulate fire
+signatures from common spacecraft materials and (2) test the sensors under pre-fire conditions with these materials.
+A ground-based facility has been developed to evaluate gaseous fire signatures from various materials using a
+variety of analytical techniques (PI: Dr. R. L. VanderWal, NCSER). In this facility, shown in Fig. 6, a sample is
+drawn into a furnace that has
+been pre-heated to a desired
+temperature. Light gases such
+as H2, O2, N2, CO, CO2, CH2
+that are evolved are quantified
+by gas chromatography and
+mass
+spectrometry.
+Condensibles and particulate
+are
+collected using an
+adsorption column and filter,
+respectively and undergo
+analysis as desired. Initial tests
+on the sensor suite discussed
+in the previous section have
+been conducted in this
+apparatus and these tests will
+continue in FY07.
+Figure 6. Schematic of the facility to evaluate fire signatures and advanced
+TGA-FTIR analysis has
+fire detection technologies
+9
+American Institute of Aeronautics and Astronautics
+
+been used with these samples to identify the gases evolved during smoldering and flaming combustion. The samples
+that are being evaluated include cotton, Kapton™, Teflon™, silicone rubber, Kevlar™, polyimide, melamine, and
+polyurethane foams, and Halar™ and Viton™ wire insulation. Tasks to be conducted in FY07 include (1)
+continuing the quantification of fire signatures using the assembled diagnostics, (2) preparation of a final report on
+the findings of the fire signature studies, and (3) evaluation of prototype gaseous fire detectors. Task (3) will provide
+an early indication of fire detector performance and develop the protocol for the general testing and evaluation of
+potential fire detectors for use on the CEV and LSAM.
+While no longer a formal part of the FPDS project, the Smoke Aerosol Measurement Experiment (SAME),
+an experiment is an essential component of the fire signatures and detection technology area. The objective of the
+Smoke Aerosol Measurement Experiment (SAME) (PI: Dr. David L. Urban, NASA GRC) is to conduct a test in the
+ISS Microgravity Science Glovebox to provide in situ particle size information for several smoke aerosols (solid and
+liquid).23 This data will quantify the particulate pre-fire signatures of relevant spacecraft materials (Kapton™ and
+Teflon™, for example) and be used to guide the development of improved smoke detectors. The SAME experiment
+is currently scheduled for Flight Hardware Availability in February of 2007 and launch aboard STS 13A.1 later in
+2007.
+3. Modeling of Smoke and Contaminant Transport (Deliverable 3)
+The effectiveness of even the most refined fire detector will be reduced unless it is located in the right place and
+the time required for the contaminant to reach a detectable level at that location is known. The objective of this task
+is to develop the tools and methodology to evaluate fire detector placement and time-to-alarm for a given spacecraft
+geometry. (PI: J. E. Brooker, NASA GRC) In the absence of a sufficiently detailed design for the CEV, work has
+focused on analyzing smoke transport and smoke detector activation in the Destiny module of the ISS. The module
+dimensions, vent locations, and flow rates were obtained from ISS documentation and conversations with ISS
+Environmental Control and Life Support System (ECLSS) personnel. Obstructions in the module were estimated
+from recent ISS photographs. As shown in Fig. 7, the six air supply diffusers within the module are positioned such
+that the flow is across the ceiling and down the port wall establishing a rotational flow pattern (counter-clockwise
+facing forward). Two IMV diffusers (one aft-port, the other forward-starboard) direct flow along the floor in the
+forward and aft directions. For this simulation, smoke sources were modeled as soot-emitting propane burner with a
+fixed heat flux and located at the center of each Integrated Standard Payload Rack (ISPR). Circumferential profiles
+of detection time were constructed by moving the smoke source around the module on each of the four walls. The
+strength of the smoke source was varied to determine the effect of smoke source on alarm time.
+Typical variations in the timeStarboard
+to-alarm as a function of location
+of the smoke source are shown in
+Fig. 8. The shortest alarm time
+resulted when both IMV flows
+were present and there were no
+Aft
+obstructions (red bars). The
+transport of smoke along the
+Forward
+length of the module is reduced
+when the forward IMV flow is
+removed making the results more
+dependent on the location of the
+Port
+smoke source and the presence of
+obstructions. For these conditions,
+Figure 7. Geometry of the ISS Destiny Module used for the smoke
+the time-to-alarm varied from
+about 15 sec to approximately 90
+detector evaluation. Supply diffusers are on the upper wall (blue) and
+sec. The time-to-alarm increased
+the return registers are on the floor (green)
+significantly as weaker smoke
+sources were used. In addition to determining the proper location for fire detectors, this tool is useful to analyze
+potential fire and fire response scenarios (Deliverable 3). The analysis for the Destiny Lab Module will continue in
+FY07 culminating in a comprehensive report of the results. As the CEV design develops, a similar analysis will be
+initiated for this vehicle.
+
+10
+American Institute of Aeronautics and Astronautics
+
+Figure 8. Typical results of the smoke detector activation
+modeling in the ISS Destiny module.
+
+C. Fire Suppression and Response
+NASA’s design philosophy is to control ignition sources and material usage so that the likelihood of a fire on a
+spacecraft is very small. However, because the potential impact of a fire on the mission and safety of the crew,
+methods for fire suppression are always provided. Worse than not having a fire extinguisher on board is having one
+that is ineffective at extinguishing the types of fires that may be experienced or that behaves unexpectedly in low-g
+so as to render it ineffective. The objective of the tasks in this area is to develop the data and experience with various
+suppressants and suppressant systems to ensure they will perform as expected if ever needed.
+1. Effectiveness of Fire Suppressants in Low-g (Deliverable 5)
+The objective of this task is to quantify the effectiveness of candidate suppressants in reduced gravity.
+Surprisingly, one of the primary issues facing the fire suppression and response technology development area is to
+determine the proper suppression agents to investigate. There are many different agents and methods that could be
+used to extinguish a fire depending on the type of material burning, the ambient atmosphere, and the volume of the
+spacecraft, to name a few. The variation in suppression effectiveness with these variables can range from being
+slightly less effective that it could be to becoming completely ineffective. In fact, the use of an inappropriate
+suppression agent might even produce a more harmful environment for the crew. The parameters and characteristics
+that will constrain the selection of a fire suppression agent depend on CEV design parameters that are only now
+becoming more firm and will be incorporated into our tasks as they become known.
+Because gaseous CO2 was used as the fire suppression agent on the ISS, recent studies have focused on
+understanding the relative effectiveness and quantifying the minimum extinction concentration for passive gaseous
+suppression agents, such as CO2, N2, Ar, and He. In these investigations, various experimental configurations are
+being used including opposed-flow diffusion flames,24 cup burners,25-27 and PMMA cylinders.28 Several of these
+studies are continuing and new ground-based and low-g data are still being analyzed. Two significant issues are that
+(1) the studies have been performed in NASA’s Reduced Gravity Aircraft for which the low-g duration is
+approximately 20 sec and (2) all low-g studies have been performed using small-scale laboratory configurations.
+Demonstration of low-g fire suppression at realistic scales is practically essential for final evaluation of a fire
+suppression system.
+To address the lack of fire extinction data in an extended low-gravity environment, the Flame Extinguishment
+Experiment (FLEX) will be conducted in the Multi-User Droplet Combustion Apparatus (MDCA) in the
+Combustion Integrated Rack (CIR) on the ISS. This experiment will provide unique low-gravity data on the
+extinction effectiveness and mechanisms of several gaseous fire suppressants using a droplet geometry for which
+11
+American Institute of Aeronautics and Astronautics
+
+some of the complex extinction processes can be elucidated. The critical Damköhler number will be extracted from
+the flame properties and droplet diameter at the time of extinction and used to relate data between the droplet and
+other configurations. The Limiting Oxygen Index (LOI) will also be measured as a function of pressure and oxygen
+concentration to determine the lowest O2 concentration that will sustain a low-gravity flame. Detailed simulations of
+the combustion process made possible by this data will be used to produce simplified models of combustion kinetics
+that can be used in the large-scale simulations of fire scenarios to be discussed in Section C.3. While the FLEX
+project is being conducted under the ISS Research Project instead of the FPDS project, the data will greatly add to
+our knowledge of low-gravity fire suppression and improve the quality and applicability of the product in
+Deliverable 6. The MDCA and CIR hardware is scheduled to launch to the ISS on ULF-2 in July 2008.
+A critical step in understanding low-g fire suppression is to reconcile the results of studies performed to date that
+have made use of various configurations, fuels, suppressant agents, and gravity levels. This effort was begun in a
+trade study on low-g fire suppression that was performed in FY06. This study reviewed existing data and evaluated
+the effectiveness of various agents for fire suppression in the CEV. As more data is obtained and documented, the
+results will be expanded and used not only in trade studies of fire suppressants for CEV and LSAM but also to
+indicate specific knowledge gaps that must be filled by additional testing, analysis, or modeling.
+2. Suppressant Dispersion Methods (Deliverable 5)
+The objective of this task is to characterize the large-scale deployment of a suppressant in low-gravity. As
+expected, investigation of the dispersion method presumes that the suppressant has been selected. Also, it is very
+difficult to perform useful dispersion experiments on small scale geometries because of the dependence of the
+injection and mixing phenomena on scale, especially if a liquid or foam suppressant is used. We anticipate that once
+a fire suppressant system for CEV is selected, tests or numerical simulations can be conducted to investigate its
+dispersion characteristics in low- and reduced gravity. In the interim, tasks in this area involve limited experiments
+and numerical simulations of gaseous suppressant dispersion. Because gaseous CO2 was used as the suppressant
+agent on the U.S. modules of the ISS, simulations have been performed of CO2 dispersion in the CIR and compared
+with experimental measurements. Researchers are developing computational models of the early CEV designs to use
+in both these simulations and those required to model contaminant transport, as discussed in Section B.3 (PI: Dr. D.
+P. Stocker, NASA GRC).
+3. Evaluation of Spacecraft Fire Suppression (Deliverable 3 and 5)
+The evaluation of spacecraft fire suppression systems requires the melding of the technologies developed by the
+definition of fire scenarios, modeling of smoke and contaminant transport and detection (Section B.3), knowledge of
+fire suppressant effectiveness (experiment and modeling) (Section C.1), and verified simulations of suppressant
+dispersion (Section C.2). This task will use all of the applicable tools developed in this project to evaluate the
+effectiveness of the detection and suppression systems to respond to a credible fire source. Because of the number of
+variables involved, this analysis is only meaningful if actual geometry, credible fire sources, and anticipated
+ventilation characteristics are used. However, the more comprehensive a numerical simulation is required to be, the
+more it becomes tailored to that specific configuration and set of conditions. Codes tailored for terrestrial analyses
+are not directly applicable to spacecraft without preliminary assessment and, in some cases, extensive modification.
+Several grants were begun in the Spacecraft Fire Safety program that have been investigating how to apply tools
+developed for terrestrial fire analysis, specifically in buildings and on board ships, to spacecraft applications. These
+efforts include “Large-Scale Fire Dynamics in Spacecraft in Reduced Gravity” (PI: Dr. G. Linteris, National
+Institute of Standards and Technology), “Fire Suppression and Safety in reduced Gravity Environments” (co-I: Drs.
+K. Kailasanath and D. Schwer, Naval Research Laboratory), and “Development of an Engineering Tool for the
+Determination of Suppression Device Placement in Reduced Gravity Environments” (PI: Dr. R. Roby, Combustion
+Science and Engineering, Inc.). These grants have received their final funding and will be completing work in FY07.
+As the FPDS tasks develop and the design of the CEV solidifies, formal tasks in this area will be defined. The
+approach will be two-pronged, i.e., analysis tasks that directly support Orion and tasks that incorporate and the
+FPDS deliverables will be incorporated into specific tools
+
+V. Conclusions
+The Fire Prevention, Detection, and Suppression project is a technology development effort that addresses all
+aspects of fire safety aboard crewed exploration systems. This paper has identified the six deliverables for this FPDS
+project that are in the form of hardware, software, and/or information (e.g., data libraries). Even though they were
+formulated prior to the announcement of the VSE, these deliverables have remained essentially intact because they
+12
+American Institute of Aeronautics and Astronautics
+
+address NASA’s basic philosophy for preventing fires on spacecraft. It is anticipated that they will continue to
+remain relevant throughout the exploration missions. The status, accomplishments and plans for each of the major
+tasks within the FPDS project were also presented in this paper. The teams of scientists and technicians that are
+conducting these tasks provide NASA’s primary expertise in reduced gravity fire behavior as well as fire detection
+and suppression. These technologies play a very important role in the implementation of the Vision for Space
+Exploration.
+In addition to performing the tasks identified in the FY07 FPDS Integrated Baseline Review and summarized in
+this paper, a primary activity in the coming year will be to infuse these technologies into the Constellation and CEV
+requirements and designs. This will be done both by working with the Exploration Technology Development
+Program Office and, more importantly, with NASA and contractor CEV designers. Throughout the on-going design
+of the CEV and the LSAM to follow, the most critical aspects of the FPDS project will be to (1) continue to make
+progress on all of the deliverables so that they can be infused into the CxP when needed, (2) be responsive to the
+NASA and contractor CEV development team as their designs progress and (3) participate in NASA-wide working
+groups and standard development activities to have input to the design and operational requirements for exploration
+habitats and vehicles. Undoubtedly, budget and technical challenges will continue but, similar to NASA’s
+implementation of the VSE, the personnel in the FPDS project will adjust to continue to deliver relevant fire safety
+technologies to the exploration mission.
+
+Acknowledgments
+The authors would like to acknowledge the efforts of all of the individuals who are conducting and assisting the
+tasks that make up the FPDS project. Of particular note are Dr. Fletcher J. Miller (NCSER) and Dr. Daniel L.
+Dietrich (NASA GRC), the Leads for the Material Flammability Research Team and the Fire Suppression and
+Response Research Team, respectively. Their effort and dedication contribute greatly to the definition, formulation,
+and performance of each of the tasks described in this paper. Their help in leading this project is greatly appreciated.
+
+References
+1
+
+Urban, D. L. and King, M. K. “NASA’s Microgravity Combustion Research Program: Past and Future,” Comb. and Flame,
+Vol. 116, No. 3, February 1999.
+2
+Ruff, G. A., Urban, D L., and King, M. K. “A Research Plan for Fire Prevention, Detection, and Suppression in Crewed
+Exploration Systems,” AIAA-2005-0341, 43rd AIAA Aerospace Sciences Meeting and Exhibit, Reno, NV, January 10-13, 2005.
+3
+Ruff, G. A., Urban, D L., and King, M. K. “Fire Prevention, Detection, and Suppression Research Supporting Manned Space
+Exploration – One Year Later,” AIAA-2005-0347, 44th AIAA Aerospace Sciences Meeting and Exhibit, Reno, NV, January 912, 2006.
+4
+Ruff, G. A. (ed.), Research Needs in Fire Safety for the Human Exploration and Utilization of Space: Proceedings and
+Research Plan, NASA CP-2003-212103, April 2003.
+5
+Sacksteder, K. (ed.), Seventh International Workshop on Microgravity Combustion and Chemically Reacting Systems,
+NASA CP-2003-212376, June 2003.
+6
+Margle, J. M. (ed.), Spacecraft Fire Safety, NASA CP-2476, August 1987.
+7
+Apostolakis, G. E., Catton, I., Paulos, T., Paxton, K., and Jones, S., “Findings of a Review of Spacecraft Fire Safety Needs,”
+NASA CR-189181, 1992.
+8
+Youngblood, W. N. and Vedha-Nayagam, M., “Advanced Spacecraft Fire Safety: Proposed Projects and Program Plan,”
+NASA CR-185147, 1989.
+9
+Reuther, J. J., “Definition of Experiments to Investigate Fire Suppressants in Microgravity,” NASA CR 185295, 1990.
+10
+National Aeronautics and Space Administration Technical Standard 6001, “Flammability, Odor, Offgassing, and
+Compatiblity Requirements and Test Procedures for Materials in Environments That Support Combustion”, 1998.
+11
+Cordova, J. L., Walther, D. C., Fernandez-Pello, A. C., Steinhaus, T., Torero, J.L., Quintiere, J. G., and Ross, H. D., “Flow
+Effects on the Flammability Diagrams of Solid Fuels: Microgravity Influence on Ignition Delay,” in Sacksteder, Kurt, ed.: Fifth
+International Microgravity Workshop. NASA/CP-1999-20817, May 1999, pp. 35-38.
+12
+Olson, S. L., Beeson, H., and Haas, J. P., “An Earth-Based Equivalent Low Stretch Apparatus to Assess Material
+Flammability for Microgravity and Extraterrestrial Fire-Safety Applications,” Seventh International Workshop on Microgravity
+Combustion and Chemically Reacting Systems, NASA CP-2003-212376, June 2003, pp. 213-216.
+13
+Incropera, F. P. and DeWitt, D. P. Fundamentals of Heat and Mass Transfer, John Wiley & Sons, New York, 1990.
+14
+Olson, S. L., Miller, F. J., and Wichman, I. S., “Characteristics of the Flamelet Regime of Flame Spread”, 4th Joint Meeting
+of the U.S. Sections of the Combustion Institute, Drexel University, Philadelphia, PA, March 20-23, 2005.
+15
+Quintiere, J. G. “A Theoretical Basis for Flammability Properties,” Fire Mater. Vol. 30, 2006, pp. 175-214.
+16
+Tewarson, A. “Generation of Heat and Chemical Compounds in Fires,” The SFPE Handbook of Fire Protection
+Engineering (3rd ed). Section 3, Chapter 4. The National Fire Protection Association Press: Quincy, MA 2002, pp. 3-161.
+
+13
+American Institute of Aeronautics and Astronautics
+
+17
+NASA Marshall Space Flight Center (MSFC) Materials and Processes Technical Information System (MAPTIS),
+http://maptis.nasa.gov; also, MSFC-HDBK-527/JSC 09604.
+18
+Olson, S. L. “Mechanisms of Microgravity Flame Spread Over a Thin Solid Fuel: Oxygen and Opposed Flow Effects,”
+Comb. Science and Tech., Vol. 76, 1991, pp. 233-249.
+18
+Feier, I. I., Kleinhenz, J., T’ien, J. S., Ferkul, P. V., and Sacksteder, K. R., “Pressure Modeling of Upward Flame Spread
+Rates in Partial Gravity,” 43rd AIAA Aerospace Sciences Meeting and Exhibit, AIAA-2005-0716, January 2005, Reno, NV.
+20
+Kleinhenz, J.E. “Flammability and Flame Spread of Nomex and Cellulose in Space Habitat Environments,” Ph.D.
+Dissertation, Case Western Reserve University, May 2006.
+21
+Lange, K. E., Perka, A. T., Duffield, B. E., and Jeng, F. F. “Bounding the Spacecraft Atmosphere Design Space for Future
+Exploration Missions,” NASA CR-2005-213689, 2005.
+22
+Olson, S .L., Ferkul, P. V., and T’ien, J. S., “Near-Limit Flame Spread Over a Thin Solid Fuel in Microgravity,” TwentySecond International Symposium on Combustion, The Combustion Institute, pp. 1213-1222.
+23
+Urban, D. L., Griffin, D., Ruff, G. A., Cleary, T., Yang, J., Mulholland, G., and Yuan, Z.-G. “Detection of Smoke from
+Microgravity Fires,” Paper No. 2005-01-2930, 35th International Conference on Environmental Systems, Rome, Italy, July 11-14,
+2005.
+24
+Hamins, A., Bundy, M., Puri, I. K., McGrattan, K., and Park, W. C., “Suppression of Low Strain Rate Nonpremixed Flames
+by an Agent,” NASA CP-2001-210826, 2001, pp. 101-104.
+25
+Katta, V. R., Takahashi, F., and Linteris, G. T., “Suppression of Cup-Burner Flames Using Carbon Dioxide in
+Microgravity,” Combustion and Flame, Vol. 137, 2004, pp. 506-522.
+26
+Takahashi, F., Linteris, G. T., and Katta, V. R., “Suppression Characteristics of Cup-Burner Flames in Low Gravity,”
+AIAA-2004-0957, 42nd AIAA Aerospace Sciences Meeting and Exhibit, Reno, NV, January 2004.
+27
+Takahashi, F., Linteris, G. T., and Katta, V. R., “Extinguishment Mechanisms of Cup-Burner Flames in Low Gravity,”
+AIAA-2006-0745, 44th AIAA Aerospace Sciences Meeting and Exhibit, Reno, NV, January 2006.
+28
+Ruff, G. A., Hicks, M., and Pettegrew, R., “Assessment of CO2, N2, and He as Suppressant Agents in Microgravity,” Spring
+Meeting of the Western States Section/The Combustion Institute, Davis, CA, March 2004.
+
+14
+American Institute of Aeronautics and Astronautics
+

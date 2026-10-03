@@ -1,0 +1,1045 @@
+Abstract for Application of the Life Safety Code to an Historic Test Stand
+NASA has assessed alternatives to refurbish existing launch vehicle modal test facilities
+as opposed to developing new test facilities to meet the demands of a very fiscally
+constrained test and evaluation environment. Trades were performed with key selection
+criteria to ensure that appropriate levels of occupant safety are incorporated into test
+facility design modifications. In preparation for the ground vibration tests that were to be
+performed on the Ares launch vehicle, the Marshall Space Flight Center (MSFC) Flight
+and Integrated Test Office (FITO) organization evaluated the available test facility
+options which included the existing mothballed structural dynamic test stand (TS) at
+MSFC (TS4550) used by Apollo and Shuttle, alternative ground vibration test facilities at
+other locations, and the construction of a new dynamic test stand. After an exhaustive
+assessment of the alternatives, the results favored modifying the TS4550 because it was
+the lowest cost option and presented the least schedule risk to the NASA Constellation
+Program for Ares Integrated Vehicle Ground Vibration Test (IVGVT). As the renovation
+design plans and drawings were being developed for TS4550, a safety concern was
+discovered with the construction of the test stand originally built for the Apollo program
+and renovated for the Shuttle program, in that the original design was completed before
+NASA’s adoption of the currently imposed safety and building codes per National Fire
+Protection Association Life Safety Code [NFPA 101] and International Building Codes.
+The initial Constellation Ares FITO assessment of the design changes, required to make
+TS4550 compliant with current safety and building standards, identified a significant cost
+increase and schedule impact. An effort was launched to thoroughly evaluate the
+applicable life safety requirements, to examine the context in which they were derived,
+and then determine a means by which the TS4550 modifications could be made within
+budget, on schedule, and still provide the occupants with appropriate levels of safety.
+The results of this study showed that TS4550 could be made compliant within reasonable
+cost and schedule impacts because there were safety processes and operational limitations
+that could be put in place to meet the safety codes and concerns of the Fire Marshall.
+
+APPLICATION OF THE LIFE SAFETY CODE TO A HISTORIC TEST STAND
+
+Bruce Askins
+NASA
+Marshall Space Flight Center
+Huntsville, AL
+Paul R. Lemke, P.E.
+ARES Corporation
+Huntsville, AL
+William L. Lewis
+Triumph Aerospace
+Jacobs ESTS
+Huntsville, AL
+Carol C. Covell
+Jacobs ESTS
+Huntsville, AL
+
+ABSTRACT
+
+NASA has conducted a study to assess alternatives to refurbishing existing launch
+vehicle modal test facilities as opposed to developing new test facilities to meet the demands of a
+very fiscally constrained test and evaluation environment. The results of this study showed that
+Marshall Space Flight Center (MSFC) Test Stand (TS) 4550 could be made compliant, within
+reasonable cost and schedule impacts, if safety processes and operational limitations were put in
+place to meet the safety codes and concerns of the Fire Marshall. Trades were performed with
+key selection criteria to ensure that appropriate levels of occupant safety are incorporated into
+test facility design modifications. In preparation for the ground vibration tests that were to be
+performed on the Ares I launch vehicle, the Ares Flight and Integrated Test Office (FITO)
+organization evaluated the available test facility options, which included the existing mothballed
+structural dynamic TS4550 used by Apollo and Shuttle, alternative ground vibration test facilities
+at other locations, and construction of a new dynamic test stand. After an exhaustive assessment
+of the alternatives, the results favored modifying the TS4550 because it was the lowest cost
+option and presented the least schedule risk to the NASA Constellation Program for Ares
+Integrated Vehicle Ground Vibration Test (IVGVT). As the renovation design plans and drawings
+were being developed for TS4550, a safety concern was discovered – the original design for the
+construction of the test stand, originally built for the Apollo Program and renovated for the Shuttle
+Program, was completed before NASA’s adoption of the currently imposed safety and building
+codes per National Fire Protection Association Life Safety Code [NFPA 101] and International
+Building Codes. The initial FITO assessment of the design changes, required to make TS4550
+compliant with current safety and building standards, identified a significant cost increase and
+schedule impact. An effort was launched to thoroughly evaluate the applicable life safety
+requirements, examine the context in which they were derived, and determine a means by which
+the TS4550 modifications could be made within budget and on schedule, while still providing the
+occupants with appropriate levels of safety.
+Approved for public release; distribution is unlimited.
+Portions of this effort were performed under contract NNM05AB50C with NASA, Constellation Program, Ares Projects,
+Flight and Integrated Test Office.
+
+INTRODUCTION
+
+During the course of the NASA Constellation Program (CxP), test data was acquired to
+support the design, development, and certification of the Ares I and V launch vehicles. To
+support acquisition of this data, it was necessary to construct new test facilities and upgrade and
+modify existing test facilities. One validation test required to support the development of the Ares
+I launch vehicle was the Ares I Integrated Vehicle Ground Vibration Test (IVGVT). To
+accommodate this testing, CxP officials decided to renovate the historical dynamic test stand at
+MSFC. This test stand was originally built to accommodate dynamic testing of the Apollo V launch
+vehicle and was subsequently renovated to accommodate testing of the Space Transportation
+System (Space Shuttle). Both of these prior renovations preceded NASA’s adoption of the
+National Fire Protection Association Life Safety Code (NFPA 101), an internationally recognized
+building code which establishes the minimum occupant protection requirements based on the
+activities performed by the occupants and the level of hazard exposure that the public is willing to
+accept for the occupants. NFPA 101 requirements establish occupant protective measures such
+as maximum egress path lengths, exit sign locations, and determining if a fire protection system
+is necessary to protect the occupants. As the egress paths for the test stand were to be modified,
+it was determined that the building needed to be brought into compliance with the
+2006 NFPA 101. To keep project costs to a minimum and prevent delays in test operations,
+alternative methods were explored to provide the test stand occupants with appropriate levels of
+safety while reducing the cost and schedule impacts to the program. This paper will examine
+how the IVGVT team came together with other NASA and MSFC organizations to solve the
+issues associated with applying the current life safety code to the refurbishment of a historic test
+stand, particularly looking at the applicable life safety requirements, the context in which they
+were evaluated, and the means by which occupant safety was ensured.
+
+TEST PROGRAM CONTEXT
+
+In early 2006, the MSFC Engineering Directorate supported the new CxP, Ares Projects,
+Vehicle Integration Office (VIO) in preparing an evaluation of the engineering test programs that
+had been historically performed to qualify and human-rate historic launch vehicles. One of the
+past test programs identified as being necessary was the structural dynamic testing of the fully
+integrated launch stack to validate the structural models and the avionics system. Based on the
+outcome of consultations between the VIO and the Engineering Directorate, the MSFC
+Engineering Management Council (EMC) decided that it would be prudent to begin bringing the
+historic MSFC Test Stand 4550 (TS4550) out of mothball status.
+
+The MSFC EMC established preliminary facility requirements based on the assumption
+that the first structural dynamic test to be performed in TS4550 for the CxP would be the
+evaluation of an Ares I protovehicle. This test program would function as a final verification of the
+structural dynamics before the protoflight vehicle was sent to Kennedy Space Center (KSC) for
+the Ares Demonstrator Flight Test 1 (ADFT-1), based on the understanding that the Ares I
+development program would launch a series of protoflight vehicles to validate key development
+milestones as was done during the Apollo Program. The original facility requirements
+incorporated into the Construction of Facilities (CoF) Project were based on the needs of this
+other project.
+
+2
+
+After responsibility for the development of a master test program was transferred to the
+new CxP, Ares Projects, FITO in the fall of 2006, it was determined that CxP funding could not
+support as many test flights as the Apollo Program; therefore, any structural dynamic testing for
+test flight launch vehicles would occur at KSC as done with Ares I-X on the mobile launch
+platform.
+
+Also in the fall of 2006, the FITO Manager received a test data request from the VIO.
+Once CxP managers decided to support the human-rating of the Ares I launch vehicle by testing
+and validating the structural finite element models upon which the design was based, the FITO
+Manager determined the most appropriate way to acquire this data was to conduct a structural
+dynamics test of a production Ares I. This test program became known as the IVGVT. The FITO
+Manager selected TS4550 as the test facility after evaluating the available test facilities. In
+response to that selection, the Engineering Directorate re-evaluated the facility requirements it
+had prepared for the ADFT-1 structural dynamics test to accommodate the much more complex
+IVGVT.
+
+ORGANIZATIONAL CONTEXT
+
+While this paper primarily discusses how NASA ensured the safety of the occupants of a
+previously mothballed historic test stand, the organizational context for the decision-making
+process must be introduced so that the means by which the life safety requirements were
+determined and a solution was iterated can be understood. The authors wish to point out that all
+organizations were passionate about providing the occupants with an appropriately safe working
+environment to prepare the test article and execute the test program. While some difficulties
+were encountered in arriving at a solution due to an initial lack of a common lexicon and an
+unfamiliarity regarding the roles and responsibilities of the other organizations in preparing the
+facility, the various organizations worked together to achieve a “win-win” for MSFC and the CxP.
+
+The overall IVGVT Task was led and funded by the CxP Ares Projects FITO. The FITO
+Structures, Environments, and Vibrations Test (SE&VT) Lead acted as the IVGVT Task Lead for
+the life of the Task. As the representative of the FITO Chief Engineer and the FITO Project
+Manager, respectively, the IVGVT Task Lead set the top-level test goals and requirements and
+managed the Task funding as part of the overall Ares Projects budget. In addition, the IVGVT
+Task Lead, while delegating responsibility for test preparations and the test operations to the
+MSFC Engineering Directorate, retained the responsibility for communicating with the Ares
+Elements and acquiring the test articles and Ground Support Equipment (GSE). The IVGVT Task
+Lead was also the point of contact between the FITO and the engineering analysts supporting the
+Ares Vehicle Integration Office (principally from the MSFC Engineering Directorate, Structural
+Design and Analysis Branch (SD&A Branch)), and the Ares Projects Office Systems Engineering
+&Integration (SE&I) Office.
+
+The work associated with test preparation and test operations was performed for the
+FITO by the MSFC Engineering Directorate and was led by a project manager from the
+Spacecraft and Vehicle Systems Engineering and Integration Division, Systems Test and Flight
+Evaluation Branch (ST&FE Branch). (For purposes of this paper, the title Test Conductor – the
+project manager’s original title - will be used throughout.) The Test Conductor was the point of
+contact between the MSFC Engineering Directorate and the IVGVT Task Lead, as well as the
+point of contact between the Task and the MSFC Facilities Office. The Test Conductor was
+responsible for obtaining all necessary Special Test Equipment (STE) and the test facility, as well
+3
+
+as preparing the test stand, integrating the test article upon delivery, de-stacking the test article
+after conclusion of test operations, closing out the test stand, and delivering the test data to the
+IVGVT Task Lead.
+
+Within MSFC Engineering Directorate, the Engineering Test Laboratory, the Structural
+Dynamics Test Branch (SD Test Lab) had responsibility for preparing the test article and
+conducting test operations. This effort was led by the Lead Test Engineer, who reported to the
+Test Conductor. The Lead Test Engineer was supported in these efforts by test engineers from
+other Branches within the Test Lab. In regards to TS4550, the Lead Test Engineer was
+responsible for identifying and communicating to the Test Conductor all facility requirements
+derived from the test requirements promulgated from the FITO.
+
+The Test Conductor was supported in the preparation of the test stand and development
+of facility requirements by personnel from the Special Test Equipment Design and Manufacturing
+Branch (STE Design Branch). Regarding TS4550, STE Design Branch personnel prepared a
+demolition plan for the Space Shuttle STE, which had been abandoned in place after conclusion
+of the STS Mated Vehicle Ground Vibration Test (MVGVT) in 1979. They also identified and
+communicated to the Test Conductor and FITO any facility requirements related to the IVGVT
+STE (e.g., electrical power requirements). Once the demolition plan was prepared, responsibility
+for demolition work was turned over to the Lead Test Engineer, who had delegated the demolition
+plan execution to the Propulsion Systems Test Branch (Propulsion Test Lab).
+
+The Test Conductor was supported in the development of stacking, integration, and destacking operations by the Propulsion Test Lab and the MSFC Engineering Directorate, Ground
+Operations and Logistics (GO&L) Branch. In regards to TS4550, the Propulsion Test Lab and the
+GO&L Branch identified the crane requirements and any building modifications necessary to
+accommodate lifting the hardware into and out of the building.
+
+One of the Test Conductor’s responsibilities was securing use of the test stand and
+communicating the Engineering Directorate’s facility requirements for the test stand to the MSFC
+Facilities Office. The Test Conductor was the official point of contact between the IVGVT Task
+and the Facilities Office; however, as funding for the construction effort was allocated from FITO,
+it was necessary for the IVGVT Task Lead and other members of FITO to interface directly with
+representatives of the Facilities Office.
+
+As will be elaborated upon further, prior to the initiation of the IVGVT, the Facilities Office
+was preparing a CoF Project for the Center to maintain TS4550 as a core capability facility. The
+design of this CoF Project had been contracted to an Architecture and Engineering (A&E) firm,
+which, it should be noted, was initially only to determine what work would be necessary to bring
+TS4550 up to current codes (a prescriptive design). Once the Test Conductor communicated the
+IVGVT facility requirements to the Facilities Office, the CoF Project baseline was revised to
+incorporate the stated requirements. Upon review, it was determined that there were significant
+costs associated with a prescriptive design. To meet the needs of the Engineering Directorate,
+the A&E firm worked with the Facilities Office and representatives of the Engineering Directorate,
+the FITO, and the MSFC Safety and Mission Assurance (S&MA) Directorate to prepare a
+performance-based design, which would provide adequate risk mitigation while remaining within
+the Program’s financial constraints.
+
+4
+
+In support of the Engineering Directorate’s efforts to prepare TS4550 for use in the IVGVT, the
+MSFC S&MA Directorate, Industrial Safety Branch, conducted a code review of the TS4550. The
+Industrial Safety Branch Chief, also known as the MSFC Fire Marshall, is the Authority Having
+Jurisdiction (AHJ) for all life safety and fire codes and standards at MSFC. The MSFC Fire
+Marshall was the final approving authority for the facility design. To approve the final design, the
+Fire Marshall required documentation regarding the hazards and the risk mitigations that were
+being implemented in lieu of the prescriptive code requirements. . To facilitate the necessary
+information exchange of critical architectural engineering information between representatives of
+the Facilities Office, the Fire Marshall, the Test Conductor, and the IVGVT Task Lead, the IVGVT
+Task Lead engaged a consultant with a background in aerospace engineering, architectural
+engineering, and fire protection engineering to facilitate the establishment of a common lexicon
+between all parties and clarify the goals and needs of all organizations.
+
+A diagram of how the derived facility requirements flowed between the organizations
+listed above, shown in Figure 1, shows the distinct organizations involved in developing and
+iterating out the facility requirements as related to life safety. Note that this diagram does not
+represent the Task organizational hierarchy, nor does it capture all activities that occurred during
+the IVGVT Task. Since the IVGVT was canceled in October 2010 due to a restructuring of the
+Constellation Program with the IVGVT closing out during the next year.
+
+5
+
+APO SE&I
+
+VIO Analysts
+(SD&A Branch)
+Test Data
+Requirements
+
+Dashed Lines Indicate Non Facility Requirements Flow
+
+IVGVT Task Lead
+(FITO)
+Hardware and GSE
+Requirements
+
+Test Requirements
+& Hardware Use
+Requirements
+ADFT -1 Planning
+
+Ares Elements
+(FSO, USO,
+USEO)
+
+Fire
+Marshall
+(S&MA)
+
+MSFC Engineering
+Management Council
+
+Orion
+Project
+
+Test Conductor
+(ST&FE Branch)
+
+Facilities Office
+(Center Logistics)
+Center &
+IVGVT Needs
+
+Life Safety
+Requirements
+
+STE Design
+Group
+STE & TS Demo
+Planning
+
+Test Engineers
+(Test Lab)
+Test Operations
+Planning
+
+Lead Test
+Engineer
+(SD Test Lab)
+
+Test Article Stacking
+(GO&L Branch)
+(Propulsion Test Lab)
+Crane Loads & Reach
+
+Architect/
+Engineer of
+Record
+(BWSC)
+
+CoF
+Contractor
+
+Prescriptive Design
+based on Codes
+
+STE Demolition
+Crew
+(Propulsion Test Lab)
+TS Modifications Resulting
+from STE Demolition
+
+Figure 1: Facility Requirements Flow
+HISTORICAL PERSPECTIVE
+
+In the fall of 2006, the NASA CxP, Ares Projects Office (APO) determined that the Ares I
+structural dynamics mathematical models would be principally validated through test data
+obtained from a modal survey of the integrated vehicle. The FITO was assigned responsibility for
+executing this test, designated as the IVGVT. The program and technical requirements of the
+IVGVT are described in the NASA document CxP 72234, Ares I IVGVT Task Plan, and are
+outside the scope of this document. Part of the IVGVT Task Lead’s responsibilities for preparing
+for the IVGVT included determination of the best location for the test, as well as evaluating the
+existing, mothballed structural dynamic test stand at MSFC (TS4550), alternative locations for the
+test, and the costs associated with constructing a new dynamic test stand either at the same
+location or a new location. The IVGVT Task Lead determined that the best course of action was
+to modify TS4550, the least costly option with the least schedule risk to the Program.
+
+6
+
+TS4550 was originally built in 1964 for the Apollo Program and then renovated in 1977 –
+1978 to accommodate dynamic testing of the Space Shuttle (see Figure 2). Approximately 28
+years lapsed between close-out of Space Shuttle testing and the commencement of the IVGVT,
+during which time the building was effectively mothballed and unoccupied.
+
+Figure 2: Space Shuttle Orbiter Being Removed from TS4550 (1978)
+
+BUILDING DESCRIPTION
+
+TS4550, a 360-foot tall building consisting of all steel construction, is divided into 15
+levels (24 feet per level) (see Figure 3). The building footprint is 100 x 125 feet with an open
+interior (see Figure 4). The building has a 200-ton derrick crane mounted on the northwest
+corner of the roof, bringing the overall height to 425 feet.
+
+7
+
+Figure 3: Test Stand 4550 – Section at Column Line A Looking South
+
+8
+
+N
+
+Figure 4: Test Stand 4550 – Elevation 0’-0” (Level 1)
+
+The majority of the north wall consists of a 144 foot tall x 75 foot wide door. The lower
+edge of the door is at the 216 foot level and extends to the roofline. The walls of the lowest level
+are open. Above the first level, the building’s exterior walls are clad with heavy gauge corrugated
+sheet metal, and no insulation or interior finish other than paint is present. Although there are
+translucent fiberglass panels located on the exterior of the building to allow some ambient light to
+enter the building, there are no operable windows or exterior doors above the first level.
+
+The building roof consists of steel trusses capped by steel plate and raised seam sheet metal
+roofing material. The roof between column lines B2-B5 and E2-E5 is removable in three panel
+sections (total area 75 x 75 feet). Nominally, these panels are only removed for test article
+stacking operations and are in place during test operations. The interior consists of 25-foot wide
+spans of open steel framing on the south, east, and west sides. Connection beams span the
+north wall up to the 216-foot level, above which is the movable door. There is no framing
+spanning the central portion of the building, leaving it unobstructed for the installation of test
+articles. While working platforms are located at all levels of the building, there are no full-width
+floors. The core of the building from column lines B2-B5 to E2-E5 is open from the ground level
+to the roof. These features effectively cause the building interior to function as an atrium with
+chimney effects.
+
+Upon initiation of the IVGVT Task, the central portion of the building had temporary platform
+structures in it to facilitate access to the MVGVT test articles for Shuttle. These temporary
+platforms were considered Special Test Equipment (STE) - not an inherent element of the facility
+itself - and were removed as part of the facility modifications. Three existing small rooms located
+on the second, ninth, and tenth levels, which were to be removed as part of the facility
+9
+
+modifications, are the only interior partitions in the building. Figure 5 shows the second level,
+which had the largest small room. The IVGVT Task was terminated before these rooms could be
+removed.
+
+Figure 5: Test Stand 4550 – Elevation 24’-0” (Level 2)
+
+SUMMARY OF TECHNICAL ISSUES
+
+After the completion of the Space Shuttle dynamic testing, TS4550 was mothballed and
+the STS STE was abandoned in place, including the temporary work platforms located in the core
+of the building. Figure 6 shows the STS STE configuration during the Shuttle dynamic testing
+and represents the building configuration at the inauguration of the IVGVT renovation effort. It
+was necessary to remove this STE before installing Ares I-specific work platforms in support of
+the IVGVT. These alterations of the egress paths resulted in the work associated with upgrading
+TS4550 being considered a modification under the building codes; therefore, all modifications to
+the building had to comply with the currently adopted building codes.
+
+10
+
+Solid Rocket Booster
+Stacking
+
+External Tank Stacking
+
+Integrated STS
+
+Figure 6. Space Shuttle Elements in MSFC Test Stand 4550
+
+CONSTRUCTION OF FACILITIES PROJECT SCOPE
+In January 2006, the MSFC Facilities Group received the periodic Facility Condition
+Assessment (FCA) of TS4550 from their support contractor. The FCA determined that a number
+of repairs were necessary to maintain the building in the condition in which it was left at the end of
+1
+Space Shuttle dynamic testing and to preserve TS4550 as a core capability of MSFC .
+
+A CoF project was inaugurated to resolve several FCA-identified issues that were the
+result of TS4550 being mothballed for approximately 28 years. The MSFC Facilities Group
+engaged an A&E firm to prepare and execute this CoF project, which, including construction and
+commissioning, would ultimately run in parallel to the MSFC Engineering Directorate’s project
+which modified the building to accommodate the IVGVT. During the early design phases of the
+CoF project, other activities were added to the project scope to expand the capability of the
+facility.
+
+The CoF activities specifically driven by life safety requirements included upgrading the fire
+alarm system, adding emergency lighting, and improving the egress path lighting conditions.
+Other CoF repairs and renovations included:
+•
+•
+•
+•
+•
+
+Repairs to the roof membrane,
+Repairs to the roof-mounted derrick crane’s structural load path,
+Renovation of the derrick crane’s control system,
+Repairs to the personnel elevator’s controls, and
+Renovation of the building’s electrical system.
+
+These repairs were not driven by life safety requirements and will not be addressed further in this
+document.
+
+11
+
+BUILDING CODES
+As the egress paths for TS4550 were to be modified as part of the CoF project, it was
+necessary for the Facilities Office to determine which building codes were applicable. NASA
+Standard 8719.11 §6.1 states that “All NASA buildings shall comply with the following:
+1. Appropriate provisions of NFPA 101 (Requirement).
+2. Applicable State and local building codes (Requirement).”
+
+In May 2007, as part of the CoF project, the A&E firm prepared and submitted to the
+2
+Facilities Office a Project Criteria Document (PCD), which included a building code assessment .
+The A&E firm determined that the applicable building codes were:
+• 2003 International Building Code (IBC)
+• 2003 International Fire Code (IFC)
+• 2003 NFPA 13: Standard for the Installation of Sprinkler Systems
+Note: The correct edition was 2002 which was superseded by the 2007 edition
+subsequent to initiation of the project.
+• 2003 NFPA 20: Standard for the Installation of Stationary Pumps for Fire Protection
+• 2004 NFPA 72: National Fire Alarm and Signaling Code
+Note: The correct edition was 2002 which was superseded by the 2007 edition
+subsequent to initiation of the project.
+• 2003 NFPA 101: Life Safety Code
+Note: The correct edition was 2006 which superseded the 2003 edition prior to
+submission of the PCD.
+• NASA Safety Standard 1740.11: Safety Standard for Fire Protection
+Note: NSS 1740.11 (1993) was superseded in 2000 by NASA Standard 8719.11:
+Safety Standard for Fire Protection. The 2006 revision of NASA-STD-8719.11
+was current at the time the PCD was prepared.
+
+As TS4550 was constructed before the adoption of the above codes by NASA, the A&E
+firm also included in the PCD a determination of the building occupancy construction types so
+that design and construction work performed would be governed by the applicable sections of the
+above listed codes. It was determined that test stands do not easily fit into the standard building
+occupancy types described in NFPA 101 and the IBC. Initial inspection of the occupancy types
+listed in NFPA 101 and the IBC indicated that TS4550 would be governed by the provisions of the
+Industrial Occupancy type.
+
+During the early facility design reviews, some members of the IVGVT Team expressed
+the concern that, as TS4550 was a “test stand” and test stands were not specifically mentioned in
+NFPA 101 or the IBC, the requirements of NFPA 101 and IBC were not applicable. Once it was
+clarified that NASA Safety & Mission Assurance (S&MA) had proclaimed through NASA Standard
+8719.11 that both NFPA 101 and local building codes (in this case the IBC) were applicable, the
+IVGVT Team expressed the concern that classifying TS4550 as an Industrial Occupancy was
+inappropriate, due to the facts that:
+1. No manufacturing or production of end items would occur in the building;
+2. The building configuration (high rise building with a small foot print) was atypical for a
+manufacturing or production facility;
+12
+
+3. The Occupant Load Factor of 100 square feet per person given by NFPA 101 – Table
+7.3.1.2 would result in accommodations for a population that was several orders of
+magnitudes larger than the maximum probable population of the building.
+These concerns necessitated further review of the occupancy type definitions to determine if “test
+stands” would fall within the scope of another occupancy type. A further review of the codes
+revealed that “test stands” could possibly fit in the Storage and Business occupancy types. The
+Storage Occupancy type was considered for three major reasons:
+1. The test article would be located in the building for an extended period of time;
+2. A Storage Occupancy is typified by large, un-partitioned spaces filled by commodities;
+3. A test stand by definition does not include manufacturing or production equipment which
+typifies an Industrial Occupancy.
+After careful review of the applicable codes against TS4550’s functions, it was decided that
+classifying the test stand as a Storage Occupancy was not appropriate for the following reasons:
+1. While the volume of the building was large, very few actual items would remain in the
+building for an extended period of time, resulting in an open style floor plan while Storage
+Occupancies are typified by a congested floor plan;
+2. While there would be very few personnel in the building during test operations, there
+could be several dozen occupants present during test preparation efforts;
+3. There would be a significant amount of active test equipment present in the building
+(hydraulic fluid pumps, test article support system, data acquisition systems) that are not
+typical for a Storage Occupancy;
+4. There would be a significant number of activities that would be performed in the building
+that were not typical for a Storage Occupancy. These potential activities include the use
+of pressurized fluids and gasses, electrical work, hot work (welding), and confined space
+entries. These potential activities are significantly more involved than the material
+handling work performed in a typical Storage Occupancy.
+Next, the review evaluated the applicability of the Business Occupancy type classification to the
+test stand, as:
+1. The number of potential occupants was higher than normally associated with a Storage
+Occupancy;
+2. No products were to be manufactured or produced in the building.
+Ultimately, the Business Occupancy type was rejected for two principle reasons (as such, the
+application of the Business Occupancy type to TS4550 was not appropriate):
+1. Normal business activities are oriented around “pushing paper”. While data is acquired
+and a preliminary evaluation of the data is performed in a test stand, the work performed
+by test personnel does not align with that of a typical office worker.
+2. A typical Business Occupancy is partitioned into cubicles, offices, conference rooms, and
+other work spaces which would not be present in the test stand.
+Finally, the review evaluated whether the Special Purpose Industrial Occupancy type was
+applicable. As defined in 2006 NFPA 101 - 3.3.168.8.3:
+Special-Purpose Industrial Occupancy. An industrial occupancy in which
+ordinary and low hazard industrial operations are conducted in buildings
+designed for, and suitable only for, particular types of operations, characterized
+by a relatively low density of employee population, with much of the area
+occupied by machinery or equipment.
+13
+
+This definition corresponded well to the uses intended for TS4550. The building was designed for
+the structural dynamic testing of large, integrated space launch vehicles. The operations would
+consist of preparing the test article for testing, conducting structural dynamic response tests, and
+ultimately breaking down the test article for transportation away from the test stand. The
+operations in support of the test consisted of pumping a stimulant (water) into the fuel tanks,
+pressurizing fuel and liquid oxygen tanks with air or nitrogen to low pressures, vibrating the test
+article at specific locations with low energy shakers, and draining the stimulant after each test
+sequence. All of the operations could be considered low or ordinary hazards. It was planned to
+have less than 25 persons in the building during test article preparation and approximately the
+same number of people during test operations. The number of people involved in the test yielded
+a low population density across the available floor space. The majority of the space would be
+occupied by the test article and test support equipment. These factors demonstrated the
+appropriateness of applying the Special Purpose Industrial Occupancy type to TS4550.
+
+As NFPA 101 and the IBC did not have occupancy types which specifically included “test
+stands,” and as all other occupancy types were less suitable, it was determined, after careful
+review and assessment, that the appropriate NFPA 101 occupancy type for TS4550 was Special
+Purpose Industrial, which is comparable to the IBC occupancy type Factory Industrial F-2 Low
+Hazard. This decision was concurred with by the MSFC Fire Marshall and by the MSFC Facilities
+Office.
+
+INITIAL LIFE SAFETY EVALUATION
+
+As TS4550 was to be brought out of mothball status and become a regularly occupied
+building, the IVGVT Test Conductor asked the MSFC Fire Marshall to evaluate the building to
+determine if any life safety issues were present. In May 2007, the Fire Marshall submitted to the
+3
+IVGVT management team a Fire Protection Assessment, which independently determined the
+building occupancy type and identified three life safety issues specific to TS4550. These issues
+were the required number of egress paths, the enclosure of the existing staircase, and the
+requirements regarding a fire suppression system.
+
+The first life safety issue identified by the Fire Marshall was that TS4550 only had one
+means of egress from the building above the first level (elevation 0’-0”). Except under very
+limited conditions, all sections of NFPA 101 require that occupants have the option to choose
+between at least two means of egress from an area after a common travel distance is traversed.
+As can be seen in Figures 4 and 5 of this paper, there is only one means of egress from TS4550
+above the first level, since the elevator cannot be counted. This egress consists of an
+unenclosed, open tread, metal stair.
+
+The MSFC Fire Marshall determined that it would be acceptable for TS4550 to utilize a
+single means of egress above the first level. The Fire Marshall’s rationale for allowing a single
+means of egress was based on the fact that “due to the facility’s open nature, massive volume,
+and low fire-loading, a fire will be slow developing, quickly identified by occupants, and take a
+long time to build up dangerous levels of smoke.” The Fire Marshall also determined that he
+could not identify “a reasonable scenario in which a single exit will not be adequate,” and
+identified three code exceptions in NFPA 101 which supported this evaluation.
+1. NFPA 101 - 40.2.4.1.2: “A single means of egress shall be permitted from any
+story or section in low and ordinary hazard industrial occupancies, provided that
+14
+
+the exit can be reached within the distance permitted as a common path of
+travel.” (Table 40.2.5 sets that distance as 50 feet.)
+2. NFPA 101 - 11.2.2.4.2: “Open structures occupied by not more than three
+persons, with travel distance of not more than 200 feet shall be permitted to have
+a single exit.”
+3. NFPA 101 - 11.3.2.4 permits single exits for towers subject to maximum
+occupancy of 25 persons and other conditions that this facility meets.
+While these exceptions were not valid for TS4550, since the common paths of travel were greater
+than 50 feet, there would be more than three occupants in the entire building, and TS4550 did not
+meet the definition of a “Tower.” Therefore, the Fire Marshall indicated that, for buildings with
+limited access and limited occupancy, the life safety community recognizes that it is acceptable to
+have only a single means of egress.
+
+Three operational factors were also considered by the Fire Marshall in his assessment.
+First, TS4550 is located in an area of MSFC which is considered a hazardous location; personnel
+entering the test area would have to be cognizant of the inherent and specific risks associated
+with the area in which they would be working. Second, the size of the population that would be
+exposed to any risks associated with a single means of egress was limited to the test operation
+personnel and escorted visitors. The assumed maximum population was on the order of 20 to 30
+people while non-hazardous operations were occurring and a population of less than 10 when
+hazardous operations were occurring. Third, the building itself was non-combustible and there
+would be very limited combustible materials brought into the building.
+
+Considering these factors, the Fire Marshall recommended that only a single means of
+egress was necessary as long as, (1) the population was limited to a maximum of 25 persons,
+and (2) the combustible loading in the building be strictly limited to what was absolutely required
+for operations. The MSFC Test Lab and the FITO concurred with this recommendation and the
+limitations placed upon operations.
+
+The second life safety issue identified by the Fire Marshall was that the existing staircase
+was not enclosed and separated from the residual of the building. The Fire Marshall identified in
+his assessment the following requirements from NFPA 101:
+1. NFPA 101 - 40.3.1(2): “Approved existing open stairs, existing open ramps, and
+existing escalators shall be permitted where connecting only two floor levels.”
+2. NFPA 101 - 11.2.3.2: “Open structures shall be exempt from protection of vertical
+opening requirements.”
+3. NFPA 101 - 11.3.3.1.2: “In towers where the support structure is open and there
+is no occupancy below the top floor level, stairs shall be permitted to be open
+with no enclosure required, or fire escape stairs shall be permitted.”
+The Fire Marshall determined that, while the total load of combustibles was low, it was
+possible that a fire producing dense smoke could be located adjacent to the stairs, due to the
+configuration of the platforms. As there was only a single means of egress planned for the
+building, this posed the risk that the only means of egress could be obstructed by a small, slowgrowing fire located near the stairs. To mitigate this risk, the Fire Marshall determined the
+necessity of enclosing the existing staircase. As will be discussed further, this issue was revisited
+several times over the next 15 months as the contents of the building and the test operations
+were refined.
+15
+
+Based on this recommendation, the MSFC Facilities office instructed the A&E firm to include in
+the CoF Design the enclosure of the existing staircase but eliminate the second staircase, which
+had been included in the 50% PCD.
+
+The third life safety issue identified by the Fire Marshall was whether or not a fire
+suppression system was required in TS4550. The Fire Marshall identified the following
+requirements:
+1. NFPA 101 - 11.2.3.2: Open structures require an “automatic, manual or other
+protection that is appropriate to the particular hazard and that is designed to
+minimize danger to the occupants in case of fire or other emergency.”
+2. NFPA 101 - 11.3.1.3.2: Towers require sprinklers if the levels below the
+observation tower are occupied and occupancy is limited.
+3. NFPA 101 - 40.4: Sprinkler protection is not required for low-hazard, specialpurpose industrial occupancies in high-rise buildings.
+4. NASA-STD-8719.11, Paragraph 7.3.1, “Automatic sprinkler protection shall be
+provided for all new building/facility construction. Sprinklers shall be provided in
+renovation projects over 2,500 square feet (232.26 square meters) or involving
+over 50 percent of the building.”
+As TS4550 is not an Open Structure or Tower as defined in NFPA 101, the first two
+identified requirements are not directly applicable. As demonstrated in the third identified
+requirement, even though other occupancies located in a high-rise building do require an
+automatic sprinkler system, NFPA 101 does not require one in high-rise, low-hazard, special
+purpose industrial occupancies. Similarly, the IBC does not specifically identify any special
+provisions for high-rise, low-hazard industrial occupancies in regards to fire suppression systems.
+Therefore, the fire and life safety codes do not require TS4550 to have an automatic sprinkler
+system.
+However, NASA-STD-8719.11 requires a fire sprinkler system to be installed in TS4550,
+since over 2,500 square feet was being renovated. While the trigger threshold for the
+requirement in NASA-STD-8719.11 aligns with the similar provisions in NFPA 101 and the IBC for
+occupancy types other than Industrial, the NASA-STD-8719.11 requirement applies equally to all
+NASA buildings and occupancy types. In NFPA 101 and the IBC, similar requirements have the
+proviso that only the requirements specific to a particular occupancy type are made retroactive to
+an existing building. This means that for some occupancy types, a fire sprinkler system is not
+required even if the modifications exceed the trigger threshold. For example, NFPA 101 and the
+IBC do not require the installation of fire sprinklers in existing high-rise Industrial or Storage
+Occupancies. Consider also that NFPA 101 and the IBC do not require fire sprinklers in new
+Special Purpose Industrial Occupancies or new General Industrial Occupancies or Storage
+Occupancies with Low Hazard Contents; therefore, under the fire and building codes, even if
+TS4550 was a new construction, it would not be required to have a fire sprinkler system installed.
+For reasons not illuminated in the standard, NASA-STD-8719.11 imposes the much more
+stringent requirement that all new buildings and all existing buildings with significant renovations
+will be installed with fire sprinklers.
+In the specific case of TS4550, the NASA-STD-8719.11 requirement would have
+provided negligible fire hazard risk mitigation, while at the same time imposing a significant
+financial burden upon NASA. It would have also adversely impacted the IVGVT project timeline,
+which in turn would have delayed First Flight of the Ares I.
+
+16
+
+The financial burden would have been the result of the significant technical challenges in
+designing and installing a fire suppression system in TS4550. As TS4550 is effectively a 15-story
+“tin shed” with no air conditioning, a fire sprinkler system would have had to be a dry pipe system.
+Due to the trip time limitations imposed by the building height, the dry pipe system would have to
+be broken up into multiple application zones with multiple dry valves located periodically through
+the building. The wet pipe risers to these dry pipe valves would have to be protected from the
+ambient conditions by weather resistant, insulated, conditioned, and fire resistant chases. Due to
+the building height, large fire pumps would be required to pump the water throughout the building.
+Both the fire pumps and the dry pipe valve assemblies would have to be located in weather
+resistant, insulated, conditioned, and fire resistant rooms. Additional conductors would have to
+be run to the building to supply the fire pumps, and power to the dry pipe valve air compressors
+would have to have been installed in weather- and fire-resistant chases. As the interior structure
+of TS4550 was an open grid work of steel columns and beams, all of the sprinkler heads would
+have to be installed in heat collecting shields so that they would properly actuate. As the roof
+panels above the atrium-like core were removable, any sprinkler piping attached to the roof
+panels would have to be designed to be disconnected from the residual of the system.
+
+Due to the technical and installation issues, preliminary estimates from the A&E firm
+indicated the cost of the sprinkler system would be at least $2M. This cost was not included in
+the original CoF or IVGVT budgets and would have to come out of Program reserves if an
+alternative solution could not be determined. In the face of the Task’s financial constraints, the
+Fire Marshall indicated he would support the Test Conductor’s variance request to NASA
+Headquarters to waive the NASA requirement for a fire suppression system if certain operational
+controls were put in place. These operational controls included strict control of combustibles in
+TS4550, exclusion of high hazards in and around TS4550, and limiting the maximum occupancy
+to 25 people. The Test Conductor agreed to incorporate the operational restrictions into his plans,
+and thus the MSFC Facilities Office did not include the design of a fire suppression system in the
+CoF Project. The response to the Test Conductor’s request to NASA Headquarters S&MA for a
+variance to NASA-STD-8719.11 had not been received at the time the IVGVT Task was
+terminated.
+
+RESPONSE TO FIRE MARSHALL’S INITIAL ASSESSMENT
+
+After receiving direction from the MSFC Facilities Office as to the path forward, the A&E
+firm revised the PCD to include enclosure of the existing stair but eliminated the requirements for
+a second stair and a fire suppression system. After acceptance of the submitted PCD by the
+Facilities Office in May 2007, the A&E firm began preparing design documentation and project
+cost estimates.
+When it became apparent in late June 2007 that the cost of enclosing the existing
+staircase was much greater than the available funding (approximately double the original CoF
+budget), FITO requested that the NASA specialty contractor with Life Safety Code expertise
+perform an independent evaluation of the life safety-related egress requirements of TS4550. The
+goal of this evaluation was to determine if the hazards specific to the IVGVT were such that
+enclosure of the existing staircase was a value-added activity. FITO also requested that the
+NASA contractor work with the Fire Marshall and the Facilities Office to assess lower cost
+alternatives to enclosing the existing staircase. The NASA contractor prepared an independent
+assessment which concurred with the Fire Marshall’s assessment of the applicable codes, but
+suggested that enclosure of the existing staircase would not provide significant occupant risk
+reduction as the contractor was unable to determine a credible fire scenario which would preclude
+4
+the building occupants from utilizing the existing open staircase . This determination was based
+17
+
+on the fact that the building was constructed of non-combustibles, the test articles were effectively
+non-combustible, and the only transient combustibles introduced into the building would be
+limited to what a single individual could transport on a laboratory cart for purposes of
+instrumentation of the test articles.
+
+After the Test Conductor and the FITO IVGVT Task Lead concurred with the preliminary
+assessment of the fire hazards, the NASA contractor discussed with the Fire Marshall what
+information would be required to substantiate a waiver of the enclosure requirement. The Fire
+Marshall indicated that the Test Conductor would have to provide a detailed fire hazards
+assessment that demonstrated that there were no credible fire scenarios that would imperil the
+building occupants. The Fire Marshall suggested that, in the event that sufficient fire hazard data
+could not be compiled in a timely manner, it would be prudent for the IVGVT Team to continue to
+prepare design documents for a protected means of egress from TS4550. The Fire Marshall
+agreed with the suggestion that an acceptable alternative to enclosing the existing staircase
+would be to build a second, open staircase on the exterior of the building. The Test Conductor
+requested the Facilities Office to direct the A&E firm to prepare an estimate for this option in lieu
+of enclosing the existing staircase, while the Engineering Directorate compiled the data
+necessary to support a complete fire hazards assessment.
+
+As directed by the Test Conductor, the NASA contractor had also evaluated, and
+subsequently discussed with the Fire Marshall, lower-cost alternatives to enclosing the existing
+staircase. The first alternative discussed was to leave the existing staircase unmodified and
+provide a second staircase on the exterior of the building, segregated from the building by fire
+barriers. As previously indicated, this was the Fire Marshall’s preferred alternative to enclosure of
+the existing staircase. Other alternative egress options were also discussed, including escape
+slides, rescue line descenders, and escape poles. These concepts were ultimately rejected due
+to the potential for occupants to be located on all floors of the building and the additional training
+requirements necessary to qualify the occupants to use the alternative egress devices.
+Alternatives to fully enclosing the existing staircase, such as draft curtains located at each level,
+were also considered, but the open nature of the structure and the uncertainty regarding what
+would be the highest level used by the building occupants precluded these options. The concept
+of areas of refuge was also considered but eliminated, due to the fact that the local fire
+departments did not have rescue apparatus of sufficient height to reach all floors of the building.
+The possibility of combining the areas of refuge concept with the concept of escape poles located
+on the exterior of the building was considered to have potential, but was eliminated when it was
+determined that the cost exceeded that of a second staircase.
+
+AMMONIUM PERCHLORATE LEACHING ISSUE
+
+As part of gathering data to support a complete fire hazards assessment, the IVGVT
+Task Lead requested information from the Ares Elements on the materials and products used in
+the construction of the test articles they were providing. In August 2007, the Ares First Stage
+Office provided a draft Hazards Analysis for the H-18 Inert Propellant, which the Inert First Stage
+5
+Test Article Segments would be loaded with . The draft Hazards Analysis stated:
+While the H-18 propellant is considered safe for normal handling and even for
+abnormal events that would be catastrophic to live propellant, there are some
+concerns with the [Ammonium Perchlorate (AP)] oxidizer content. AP is very
+hygroscopic and will readily absorb moisture. On occasion, composite propellant
+rocket motor propellants that have been exposed to high humidity situations from
+18
+
+environmental exposure or standing water have had AP leach out of the bulk
+propellant and crystallize on the surface. That is a possibility with H-18
+propellant as well. AP crystals on the surface could create a more reactive
+surface or crystals could be displaced and create additional hazards. The motor
+segments must be enclosed and desiccated except when the propellant has to
+be exposed.
+Because Huntsville, Alabama is considered a high humidity environment and the report did not
+identify the rate at which AP could migrate to the surface of the inert propellant, the Fire Marshall
+was forced to assume that sufficient pure AP could leach to the inert propellant surface during the
+period the segments would be located at MSFC, thus acting as an ignition source for the bulk
+inert propellant itself. This concern was magnified by an Ares First Stage Office video, where a
+sample of H-18 was exposed to the flame of a hand-held blowtorch. While the video
+demonstrated empirically that H-18 would not sustain combustion without an external heat
+source, it also demonstrated that H-18, while smoldering, produces copious amounts of dense,
+dark smoke. The Fire Marshall was concerned that if an external fire or a quantity of pure AP
+started, the inert propellant smoldering the amount of smoke produced would obstruct the existing
+egress paths. The Fire Marshall informed the IVGVT Task Lead and the Test Conductor that
+unless this hazard could be mitigated or eliminated, he could not consider the building contents to
+consist of low or ordinary hazards, and, in addition to enclosure of the existing staircase, he
+would have to require the construction of a second staircase to provide a second means of
+egress.
+The IVGVT Task Lead relayed the Fire Marshall’s concern back to the Ares First Stage
+Office, which in turn relayed the concern back to the First Stage Contractor who revised the final
+draft of the H-18 Hazards Analysis to state:
+While the H-18 propellant is considered safe for normal handling and even for
+abnormal events that would be catastrophic to live propellant, there are some
+concerns with the AP oxidizer content. AP is very hygroscopic and will readily
+absorb moisture. On occasion, composite propellant rocket motor propellants
+that have been exposed to high humidity situations from environmental exposure
+or standing water have had AP leach out of the bulk propellant and crystallize on
+the surface. AP crystals on the surface could create a more reactive surface or
+crystals could be displaced and create additional hazards.
+Specific AP crystallization incidents have involved [the manufacturer of the]
+rocket motors provided for the Minuteman, Poseidon, Titan, and Delta II GEM
+programs. That is a possibility with H-18 propellant as well. However, the author
+is unaware of any such incidents involving H-18 inert propellant. Liquid water will
+of course dissolve and extract the AP. Relative humidity exposure above 75%
+RH is needed to deliquesce and recystallize AP out of the binder matrix. Any
+extended high humidity exposure for more than a working shift should be
+avoided. The motor segments must be enclosed and desiccated except when the
+propellant has to be exposed. A typical [First Stage Contractor] requirement for
+live composite propellant rocket motors is to use a desiccant closure equipped
+with a humidity indicator and to change the desiccant before the internal relative
+humidity reaches 30%.
+The conundrum this hazard analysis presented to the Fire Marshall was that, while the
+authors of the hazard analysis could not identify a single case where leaching of AP to the
+surface of the inert propellant had occurred, they stated there was the potential for this to occur.
+This was not a trivial issue, as the consequences of the AP leaching to the surface would
+increase the potential for the bulk inert propellant to be ignited, which, if that were to occur, would
+19
+
+produce copious amounts of smoke, obstructing the single exit from each level. The only
+documented control for this leaching was a manual operation, which could not be relied upon to
+protect the occupants in lieu of the required second means of egress. In response to this new
+hazard, the Fire Marshall revised his previous assessment and determined that in addition to
+enclosing the existing staircase, a second means of egress must be provided.
+
+RESPONSE TO THE AMMONIUM PERCHLORATE LEACHING ISSUE
+
+Working together with the Facilities Office and the A&E firm, the Test Conductor and
+FITO IVGVT Test Lead assessed the impact of adding both the enclosure of the existing
+staircase and the second external staircase to the Task budget and schedule. It was determined
+that the expansion in the scope of work would result in several million of dollars of additional
+costs, which was at least twice the approved CoF budget. It was also determined that, even if
+funding was immediately available, the potential existed that the construction effort would be so
+protracted that it might be impossible for the test to produce data in a timely manner. In addition,
+if the Project or Program was unable to fund the expanded scope of work, the CoF funding
+approval process could delay inauguration of the work by two or more years. As the impacts
+exceeded the Test Conductor’s budget and schedule authority, the problem was elevated to the
+FITO IVGVT Task Lead for evaluation and direction while the Test Conductor attempted to find
+funding and resources from within the Engineering Directorate. Likewise, the Facilities Office
+began assessing the available Center funds, as well as funds allocated to other CoF projects, to
+determine if any could be applied to the TS4550 CoF project. In parallel to these efforts, the
+Facilities Office directed the A&E firm to prepare a design that would comply with the Fire
+Marshall’s re-assessment of the situation to minimize potential schedule impacts.
+
+The IVGVT Task Lead recognized two potential solutions to the funding problem. First,
+the increased scope of construction work would be funded either through the Project Office or by
+the Center. While the Test Conductor and Facilities Office worked at getting additional funding
+from the Center, the FITO IVGVT Task Lead began working the funding avenues available within
+the Cx Project. As previously mentioned, the Program was already under severe funding
+constraints and the initial inquiries along these lines brought the value of the IVGVT under
+scrutiny. The IVGVT Task Lead, with support of the Test Conductor and other members of the
+Engineering Directorate, spent the next several months proving that the risk reduction provided
+by the IVGVT to the Project was commensurate with the budgeted costs. This request for
+additional funding was still under consideration by the Project when the second potential solution
+to the problem was realized, rendering the request for additional funding moot.
+
+The second potential solution was to eliminate the hazard that was predicating the
+change in scope. After consultation with members of the IVGVT Team, it was decided to
+approach this from two directions. First, as it was impractical from an operational perspective to
+desiccate the interior of the First Stage Test Article once it had been stacked, it was decided that
+the Engineering Directorate would devise a means of excluding humid air from the inert propellant
+core. Second, the FITO would work with the Ares First Stage Office to determine if there was
+either a means to prevent the AP from leaching to the surface of the propellant core, or if the
+amount of AP which could leach to the surface of the propellant core would be insufficient to
+ignite the bulk inert propellant. Through the Ares First Stage Office, the First Stage Contractor
+proposed that a test program be conducted, which would assay the changes in composition of the
+inert propellant loads located at sites around the country. These inert propellant loads included
+some inert propellant loads that were over 30 years old.
+20
+
+Personnel from the Engineering Directorate considered several methods for excluding
+humid air from the inert propellant core, which included blowing dry air across the core and
+pulling a partial vacuum on the core. The test engineers decided the most effective way to
+exclude humid air from the core was to provide a charge of gaseous nitrogen at a slight positive
+pressure to the core. This would prevent any water from entering the core after the First Stage
+Test Article was integrated and thereby prevent any AP from migrating to the inert propellant
+surface. Operationally, the core would be inspected for AP deposits before integration and, if any
+were discovered, they would be removed utilizing the processes developed by the Kennedy
+Space Center for removing AP deposits from live propellant loads. The only significant
+engineering challenge identified regarding the use of an inert gas (GN2) to inert or safe the First
+Stage Inert Segment Test Articles was the need to provide a means to monitor the system losses
+and ventilate the test stand if there was a buildup of nitrogen gas in the building. By spring 2008,
+a preliminary design had been prepared and reviewed by representatives of FITO, the
+Engineering Directorate, and S&MA. In April 2008, the Fire Marshall agreed that the proposed
+mitigation scheme would minimize the likelihood of AP leaching to the surface and, in conjunction
+with assurances that powered vehicles, which were not DOD certified for use around ordinance,
+would be excluded from the base of TS4550, he agreed that no modifications to the existing
+egress system was necessary. The Facilities Office then directed the A&E firm to eliminate the
+enclosure of the existing staircase and the new exterior staircase from the design saving time and
+funds.
+
+FINAL SOLUTION TO THE LIFE SAFETY ISSUES
+
+While the use of gaseous nitrogen to inert or safe the inert propellant eliminated the costs
+associated with modifying the building, it was not an ideal solution due to its imposing direct and
+operational costs upon the Task. The direct costs included those associated with designing and
+installing the nitrogen system and the building monitoring and ventilation system. In addition, as
+there would not be sufficient internal pressure (normally generated by the combustion process) to
+fully engage the segment-to-segment seals; it was assumed that the seals between the First
+Stage Test Article Segments would leak. This meant that the Task would have to pay for
+replacement nitrogen gas for the duration of the test program, which could span several years
+from initial integration to final disassembly. The expected operational costs were the result of test
+personnel having to monitor the building atmosphere for several years and work around a
+pressurized vessel during test operations.
+The use of gaseous nitrogen also imposed the safety risks that (1) the building occupants
+could be exposed to hazardous levels of nitrogen gas in the building atmosphere and (2) those
+personnel were working around a pressurized test article.
+For these reasons, the FITO IVGVT Test Lead and Engineering Directorate continued to
+support the work by the First Stage Contractor to assay the chemical composition of historical
+inert propellant loads, which included several that had been under water as well as the MVGVT
+Inert Solid Rocket Booster test articles stored at MSFC since 1979. By May 2009, the First Stage
+Contractor had compiled sufficient data from the historical inert propellant loads to definitively
+state that AP leaching would not occur with the H-18 inert propellant. The First Stage Contractor
+determined that, unlike the live propellant, in H-18 other compounds would preferentially leach to
+the surface of the inert propellant, forming a water proof barrier (effectively a glaze) on the
+surface. This barrier prevented any water from reacting with the AP and drawing it to the surface.
+The First Stage Contractor determined that this barrier formed shortly after casting and would
+rapidly re-form if disturbed. The possibility of AP leaching to the surface was highly improbable.
+The Ares First Stage Office and the First Stage Contractor presented this information to the Fire
+Marshall for consideration. In June 2009, the FITO IVGVT Task Lead and the Test Conductor
+21
+
+were informed by S&MA that the Fire Marshall had concurred with the findings of the First Stage
+Contractor’s study and that it was no longer necessary to utilize a gaseous nitrogen system to
+prevent AP from leaching to the surface of the First Stage Test Article Inert Segments.
+
+SUMMARY AND RECOMMENDATIONS
+
+While appropriate reuse of existing test facilities is a fiscally responsible activity for
+projects, Project Managers need to be aware of the risks associated with reuse of test facilities.
+Just because a test facility complied with the regulations and standards in place at the time it was
+built or last modified, there is no guarantee that the test facility complies with current regulations
+and standards. Project Managers need to engage architects and architectural engineers in the
+early planning stages of a test program to minimize the impact of modifications to a test facility
+upon the project schedule and budget. Project Managers also need to remain engaged with the
+architectural process through the periodic design reviews so that, as issues arise, they can be
+addressed in a timely manner. Early in the lifecycle of the IVGVT, it was identified that some
+costs associated with upgrading TS4550 had not been included in the baselined budget. This
+could have been prevented by having a building code and safety review conducted before the
+project budget had been baselined. Once the building deficiencies were identified, all of the
+disparate member organizations which made up the IVGVT Team worked together to find a
+solution to the problem. When additional issues arose, the IVGVT Team evaluated the issues
+and found new solutions, which ensured the safety of the building occupants while remaining
+within the fiscal constraints imposed upon the Task.
+
+When planning a future test program that involves the re-use of an existing test facility, it is
+recommended that:
+1. Project Managers engage experts in the life safety regulations, fire codes, and building codes
+as early in the Project lifecycle as possible. Architects and architectural engineers should be
+considered stakeholders in the test planning equal to the test requesters and the test
+engineers.
+2. Project Managers should engage the facility experts in the CoF process early to be sure that
+the facility will be available to meet testing needs.
+3. Project Managers always assume during the initial planning stages that, if it is necessary to
+modify a test facility to accommodate the proposed test, the life safety features (i.e., egress
+paths, exit signage, fire alarm systems, and fire suppression systems) will have to be updated
+to comply with the current building codes. This assumption is particularly valid for previously
+mothballed or abandoned-in-place structures. This assumption may be invalidated during the
+preliminary architectural design phases and cost savings may be realized, but it is better to
+have a robust contingency fund than to have to prove that the occupant safety will not be
+compromised without upgrading the building.
+4. Project Managers recognize that architects and architectural engineers will default to a
+prescriptive design based on strict adherence to the building codes and will only prepare a
+performance-based design if requested by the client.
+5. Project Managers recognize that test engineers and architectural engineers use terminology
+and idioms which are specific to their discipline and background, and terms are not exclusive
+to a discipline. Project Managers should always ensure that when technical information is
+being discussed, all parties are defining the lexicon in the same way.
+
+22
+
+ACKNOWLEDGMENTS
+
+The authors wish to acknowledge the dedicated efforts of all members of the Ares I
+IVGVT Team, including MSFC Engineering Directorate, MSFC Facilities Office, the architect of
+record, the First Stage Contractor, and the MSFC Safety & Mission Assurance Office, in
+preparing Test Stand 4550 for the Ares I Integrated Ground Vibration Test. ad astra per aspera
+(to the stars through difficulties)
+
+This work was performed in part under contract NNM05AB50C with NASA, Constellation
+Program, Ares Projects, Flight and Integrated Test Office.
+
+REFERENCES
+
+1. Facility 4550, Continuous Facilities Assessment, Building 4550, January 2006; EG&G
+for Marshall Space Flight Center; January 2006
+2. Marshall Space Flight Center, Ground Vibration Test Facility, Building 4550, 100% PCD
+Submittal; Barge, Waggoner, Sumner, & Cannon, Inc. for Marshal Space Flight Center; May
+1, 2007
+3. Davis, D.; Building 4550, Modifications for CEV, Fire Protection Assessment; Marshall
+Space Flight Center, Safety & Mission Assurance Directorate, Industrial Safety Branch; May
+16, 2007
+4. Lemke, P.R.; Marshall Space Flight Center Test Stand 4550 Life Safety Egress
+Evaluation (Draft); ARES Corporation, Huntsville, AL for Constellation Program, Ares
+Projects, Flight & Integrated Test Office; October 18, 2007
+5. Bodrero, T.A.; ATK Memorandum HA-4268-07, RSRMV Segment Vibration Test Inert
+Propellant Concerns; ATK Launch Systems, Promontory, UT; September 25, 2007
+
+IMAGE INDEX
+
+1.
+2.
+
+Figure 1: NASA Technical Reports Server Image #7890776
+Figure 6: NASA Technical Reports Server Images #7891971, 7992267, and 7992475
+
+23
+

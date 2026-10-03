@@ -1,0 +1,527 @@
+ANALYSIS OF MSL-1 MEASUREMENTS
+OF HEPTANE DROPLET COMBUSTION
+Malissa Ackerman and Forman Williams
+Center for Energy Research, Mechanical and Aerospace Eng., Univ. of California, San Diego
+Introduction
+A droplet combustion experiment (DCE) was performed on the MSL-1 mission of the Space
+Shuttle Columbia. There were two flights of this mission—STS-83 in April of 1997 and STS-94
+in July of 1997. The reflight occurred because a fuel-cell power problem onboard the shuttle
+forced an early termination of the first flight; this was the only shuttle mission to be flown twice.
+DCE data were obtained during both flights. A fiber-supported droplet combustion (FSDC)
+experiment also was run on STS-94. This smaller “glovebox” experiment, which investigated
+the combustion of fiber-supported droplets in Spacelab cabin air, had previously flown on the
+first United States Microgravity Laboratory (USML-1) mission of STS-73, but successful
+measurements with heptane as the fuel in this experiment were first obtained on STS-94.
+Although heptane droplet combustion in convective flow also was studied on STS-94, only data
+without forced convection are considered here. The objective of the present paper is to analyze
+the results on heptane droplet combustion in quiescent atmospheres.
+Data Analysis
+A PC-based image-analysis system [1] was used to measure droplet and flame diameters
+as functions of time. Reduction of some of the data from STS-83 was reported previously [2].
+In the present work, two approaches to reducing flame-diameter and droplet-diameter data were
+employed. One involved graphically exhibiting raw data extracted from the image-analysis
+system, and the other involved smoothing with a second-degree Loess smoother [3] in the
+statistical software package S-Plus. Full details of the data analysis, these reduction techniques
+and various characteristics of the resulting procedures that dictated selection of the methods
+adopted will be available elsewhere [4] and can be obtained now by contacting the authors.
+Results
+Results are reported in full elsewhere [4]; there were 34 DCE tests in helium-oxygen
+atmospheres and 4 in air, 2 fiber-supported. Figure 1 shows raw data on droplet diameters for
+the 15 FSDC tests, while for comparison Fig. 2 shows smoothed data on both droplet and flame
+diameters for the DCE tests in one particular atmosphere. Here solid curves are for the flames
+and dashed curves for the droplets, error bars indicate maximum scatter, a large dot signifies
+flame extinction and D means that the image drifted out of the field of view. Figure 2 clearly
+shows diffusive extinction for the small droplets and radiative extinction for the larger droplets.
+Results are discussed first in terms of extinction diameters and next in terms of burning rates.
+Extinction Diameters
+When diffusive extinction occurs, droplet diameters at extinction are very small, usually too
+small to be measured and quite possibly often zero. For seven DCE experiments it was found
+that diameters at extinction are too small to be measured, that is, less than a limit of resolution
+between about 0.05 mm and 0.5 mm, depending on the experiment. Only three experiments
+have measurable droplet extinction diameters for diffusive extinction, two of which are shown in
+Fig. 3, the third being similar but in a different atmosphere. On the other hand, for radiative
+extinction, the droplet extinction diameters are much more readily determined. Four such
+
+NASA/CP—2003-212376/REV1
+
+145
+
+Figure 1: Raw data for the fifteen FSDC tests analyzed
+
+Figure 2: Smoothed graph for 1.00 bar, 25 % oxygen
+
+50
+
+35
+30
+25
+20
+15
+
+12
+
+25
+
+10
+5
+0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+25
+
+13
+14
+
+60
+
+20
+
+20
+
+15
+
+15
+
+12
+
+16
+15
+
+18
+
+D
+
+10
+
+10
+
+13
+
+17
+
+Time (s)
+
+D
+
+D
+
+14
+
+5
+
+5
+15
+18
+
+0
+0
+
+16
+
+D
+
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Time (s)
+
+Figure 3: Droplet diameter at extinction
+
+Figure 4: Final flame diameter
+30.00
+
+3.00
+1.00 bar, 30% oxygen
+1.00 bar, 25% oxygen
+0.50 bar, 25% oxygen
+
+2.50
+
+R
+
+R=Radiative extinction
+
+25.00
+
+R
+R
+
+1.00 bar, 35% oxygen
+1.00 bar, 32% oxygen
+1.00 bar, 30% oxygen
+1.00 bar, 25% oxygen
+0.50 bar, 35% oxygen
+0.50 bar, 30% oxygen
+R=Radiative Extinction
+
+R
+
+0.50 bar, 25% oxygen
+
+R
+R
+
+R
+R
+R
+
+20.00
+
+2.00
+R
+
+0.50 bar,
+30% oxygen
+
+15.00
+
+1.00 bar,
+30% oxygen
+
+1.50
+1.00 bar,
+25% oxygen
+
+10.00
+
+1.00
+5.00
+
+0.00
+0.00
+
+0.00
+0.00
+
+0.50
+
+1.00
+
+1.50
+
+2.00
+
+2.50
+
+3.00
+
+3.50
+
+4.00
+
+1.00 bar,
+35% oxygen
+
+0.50 bar,
+35% oxygen
+
+0.50
+
+0.50
+
+1.00
+
+1.50
+
+2.00
+
+2.50
+
+3.00
+
+3.50
+
+4.00
+
+4.50
+
+droplet diameters at extinction were obtained and are also plotted in Fig. 3, identified by the
+symbol R.
+From the data in Fig. 3 for 1.00 bar and 25% oxygen, through which the curve is drawn, it is
+seen that in this atmosphere the droplet extinction diameter increases with increasing initial
+droplet diameter. This trend is consistent with theoretical estimates for radiative extinction. For
+diffusive extinction with the flame in the quasisteady region, if the liquid fuel remains pure then
+the droplet diameter at extinction theoretically is independent of the initial droplet diameter [5];
+the available data are insufficient to test this prediction. Although no significant functional
+dependences for diffusive extinction could be measured, trends were obtained for radiative
+extinction. The point at 1.00 bar and 30% oxygen in Fig. 3 suggests a decrease in the droplet
+radiative extinction diameter with increasing oxygen concentration at a given pressure and initial
+droplet diameter, while that at 0.50 bar and 25% oxygen indicates an increase in the droplet
+radiative extinction diameter with decreasing pressure at a given oxygen mole fraction and initial
+droplet diameter. Both of these trends are expected from the dependence of the reaction rate on
+pressure and oxygen concentration.
+In contrast to droplet diameters at extinction, substantial data were acquired on flame
+diameters at extinction in helium-oxygen atmospheres. Indications are that flames always
+extinguish at flame diameters large enough to be measured. Since fewer theoretical predictions
+have been made of these flame extinction diameters (final flame diameters), additional
+theoretical work is needed for making comparisons with the present experimental results, which
+are partially plotted in Fig. 4 and discussed elsewhere [4] (because of insufficient space here).
+It is of interest to exhibit graphically the boundary between radiative and diffusive extinction,
+in a plane of oxygen mole fraction and initial droplet diameter for different pressures, as
+determined by these experiments. Figure 5 is such a plot, with the open symbols corresponding
+
+NASA/CP—2003-212376/REV1
+
+146
+
+4.50
+
+Flame diameter (mm)
+
+40
+
+Droplet diameter squared (mm 2)
+
+Droplet diameter squared (mm2)
+
+45
+
+30
+
+30
+
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+
+Figure 6: Burning rate comparison
+
+Figure 5: Boudary between radiant and diffusive extinction
+4.50
+
+1.60
+1.00 bar, Radiant extinction
+1.00 bar, Diffusive extinction
+0.50 bar, Radiant extinction
+0.50 bar, Diffusive extinction
+
+4.00
+
+1.00 bar,
+35% oxygen
+
+1.40
+
+3.50
+
+1.00 bar,
+30% oxygen
+
+1.20
+Burning rate (mm 2/s)
+
+3.00
+2.50
+2.00
+1.50
+
+0.60
+
+0.20
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+0.50 bar,
+35% oxygen
+
+u
+
+0.40
+
+0.00
+
+0.50 bar,
+30% oxygen
+
+0.80
+
+1.00
+0.50
+
+1.00 bar,
+32% oxygen
+1.00 bar,
+25% oxygen
+
+1.00
+
+1.00 bar, 35% oxygen
+1.00 bar, 32% oxygen
+1.00 bar, 30% oxygen
+1.00 bar, 25% oxygen
+0.50 bar, 35% oxygen
+0.50 bar, 30% oxygen
+0.50 bar, 25% oxygen
+1.00 bar, air, DCE
+1.00 bar, air, FSDC
+u=Untethered droplet
+
+0.00
+0.00
+
+1.00
+
+Tethered air
+Untethered air
+u
+
+2.00
+
+3.00
+
+4.00
+
+5.00
+
+6.00
+
+Initial droplet diameter (mm)
+
+to observations of diffusive extinction and the closed symbols correspond to radiative extinction.
+Figure 5 shows that, although there is considerable uncertainty about exactly where the boundary
+lies, the general direction and curvature of the boundary between the two regimes seems well
+defined. The error bars indicate the range of uncertainty of the boundary location at 1.00 bar;
+data are insufficient to distinguish differences in boundary locations at 1.00 bar and 0.50 bar.
+Burning Rates
+A summary graph of burning-rate constants as functions of initial droplet diameter is shown
+as Fig. 6. In this figure the solid curves pertain to helium-oxygen atmospheres at 1.00 bar, the
+dashed curves to helium-oxygen atmospheres at 0.50 bar and the dotted curves to air. The
+general trend of a decrease in the burning-rate constant with increasing initial droplet diameter is
+evident in all of this data. Some specific data points, particularly the triangular points
+representing 1.00 bar and 25% oxygen and the circles representing 0.50 bar and 35% oxygen,
+suggest the existence of a minimum burning-rate constant at a particular initial droplet diameter,
+but in view of the general trends of most of the data, it seems likely that these minima are only
+apparent and are the result of run-to-run variability, although their existence cannot entirely be
+ruled out. The decreasing of the burning-rate constant with increasing initial droplet diameter is
+consistent with previous work [6], where the change was attributed to the formation of larger
+quantities of soot.
+Figure 6 clearly shows that the burning-rate constant decreases with increasing dilution, as
+expected. It seems noteworthy that the extent of this increase is much greater at 1.00 bar (solid
+curves) than at 0.50 bar (dashed curves). At 0.50 bar the results for 35% and 30% oxygen are
+very close together, and even the single point available at this pressure for 25% oxygen is quite
+close to these. Although there would be greater confidence in the conclusion that the dilution
+effect is small at 0.50 bar if more data were available at that pressure, there seems to be sufficient
+data to motivate seeking possible theoretical reasons for the small effect. The results in Fig. 6
+for air clearly show the increase in the burning-rate constant caused by the fiber support (tether).
+The two untethered droplets definitely exhibited lower burning-rate constants, and the FSDC
+tether appears to increase the burning rate more than the DCE tether, which was made of a
+different material, suggesting that the enhancement may be associated with heat conduction
+along the fiber from the flame. The burning-rate constants for air are substantially lower than
+those for helium-oxygen mixtures because of the high thermal conductivity of helium.
+Conclusions
+The tests performed during MSL-1 led to the first documented radiant extinction in n-heptane
+droplet combustion. Tests performed at 1.00 bar showed that diffusive extinction occurs for
+droplets smaller than 4.1 mm burning in a 35% oxygen environment with helium as the inert.
+Diffusive extinction also occurs for droplets under 3.2 mm in a 30% environment and 1.7 mm in
+
+NASA/CP—2003-212376/REV1
+
+147
+
+7.00
+
+25% oxygen. The 20% oxygen environment was shown to be unable to support the combustion
+of droplets larger than 0.9 mm in initial diameter. At 1.00 bar radiant extinction was observed
+for droplets over 3.9 mm in the 30% environment and 2.8 mm in the 25% and 20% environment.
+No tests at 35% in 1.00 bar exhibited radiant extinction (the largest droplet was 4.1 mm). For the
+half-bar tests radiant extinction was observed during two tests: 3.1 mm initial droplet diameter
+in a 30% oxygen environment and 2.9 mm initial droplet diameter in the 25% oxygen
+environment. The quarter-bar tests showed radiant extinction at 35% oxygen with an initial
+droplet diameter of 2.6 mm and diffusive extinction at 50% oxygen with an initial droplet
+diameter of about 1.5 mm. These results can be viewed graphically in Fig. 5 with an
+approximate radiant extinction limit drawn.
+All of the droplets exhibited the classic linear decrease in time of the square of their
+diameter. This behavior occurred independent of the more complex flame behavior. Flames
+were generally found to grow and then shrink for tests that underwent diffusive extinction, and
+grow to a maximum diameter, occasionally shrinking slightly, in cases of radiant extinction.
+Some exceptions were found to this flame behavior, but all occurred during the 1.00 bar 20%
+oxygen tests, and they were assumed to result from combustion of the accumulated vapors only.
+In several environments the curves of the square of the droplet diameter as a function of time
+exhibited a curvature wherein the burning-rate constant decreased over time. The lower oxygen
+environments, as well as the lower pressures, did not exhibit this curvature.
+Finite final flame diameters were measured in all tests that stayed within the view of the
+flame-imaging camera. The final flame diameters appear to be dependent on initial droplet
+diameter, especially in cases of radiative extinction. Additionally, several of these droplets in the
+richer oxygen environments have immeasurably small to zero final droplet diameters, while in
+other atmospheres the droplet still exists when the flame extinguishes.
+Burning rates vary with initial droplet diameter, pressure and oxygen content. The burningrate constant decreases with increasing initial droplet diameter. Additionally, the pressure and
+oxygen percentage have the predicted effect on burning-rate constants—decreasing the pressure
+or the oxygen mole fraction increases the burning rate. More study of the influences of the initial
+droplet diameter is desirable because the cause of the decrease is not well understood. Further
+quantitative study of radiant extinction also needs to be done, as does examination of final
+droplet and flame diameters with diffusive extinction.
+Acknowledgment
+This research was supported by NASA Grant NCC3-769 in the NASA Microgravity
+Combustion Science Program. We thank Vedha Nayagam for his help.
+References
+1. Klimek, R.B., Wright, T.W., and Sielken, R.S., “Color Image Processing and Object
+Tracking System”, NASA TM-107144, 1996.
+2. Nayagam, V., Haggard, J.B., Jr., Colantonio, R.O., Marchese, A.J., Dryer, F.L., Zhang, B.L.
+and Williams, F.A., AIAA Journal, 36, 1369-1378 (1998).
+3. Cleveland, W.S., Journal of the American Statistical Association, 74, 829-836 (1979).
+4. Ackerman, M., et al, “A Treatment of Measurement of Helptane Droplet Combusiton Aboard
+MSL-1”, NASA TP, in preparation, 2003.
+5. Card, J.M., and Williams, F.A., Combustion and Flame, 93, 375-390 (1993).
+6. Avedisian, C.T., “Soot Formation in Spherically Symmetric Droplet Combustion”, Physical
+and Chemical Aspects of Combustion, Gordon and Breach, 1997, pp. 148-160.
+
+NASA/CP—2003-212376/REV1
+
+148
+

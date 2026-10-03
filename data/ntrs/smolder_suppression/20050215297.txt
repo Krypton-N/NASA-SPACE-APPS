@@ -1,0 +1,56 @@
+Carbon Dioxide Dispersion in the
+Combustion Integrated Rack Simulated
+Numerically
+When discharged into an International Space Station (ISS) payload rack, a carbon dioxide
+(CO2) portable fire extinguisher (PFE) must extinguish a fire by decreasing the oxygen in
+the rack by 50 percent within 60 sec. The length of time needed for this oxygen reduction
+throughout the rack and the length of time that the CO2 concentration remains high
+enough to prevent the fire from reigniting is important when determining the
+effectiveness of the response and postfire procedures. Furthermore, in the absence of
+gravity, the local flow velocity can make the difference between a fire that spreads
+rapidly and one that self-extinguishes after ignition.
+A numerical simulation of the discharge of CO2 from PFE into the Combustion
+Integrated Rack (CIR) in microgravity was performed to obtain the local velocity and
+CO2 concentration. The complicated flow field around the PFE nozzle exits was modeled
+by sources of equivalent mass and momentum flux at a location downstream of the
+nozzle. The time for the concentration of CO2 to reach a level that would extinguish a fire
+anywhere in the rack was determined using the Fire Dynamics Simulator (FDS), a
+computational fluid dynamics code developed by the National Institute of Standards and
+Technology specifically to evaluate the development of a fire and smoke transport. The
+simulation shows that CO2, as well as any smoke and combustion gases produced by a
+fire, would be discharged into the ISS cabin through the resource utility panel at the
+bottom of the rack (green region at the bottom of the CIR as shown in the figure on the
+right). These simulations will be validated by comparing the results with velocity and
+CO2 concentration measurements obtained during the fire suppression system verification
+tests conducted on the CIR in March 2003.
+
+CO2 after 8 sec of discharge from a PFE in the front section of the CIR. Left: Velocity.
+Right: Molar fraction.
+Long description. The front of the CIR has been removed to allow visualization. Nine distinctive jets are
+
+used to model the PFE discharge (eight radial jets and one into the rack). The simulation shows that carbon
+dioxide is discharged into the ISS open volume through the resource utility panel at the bottom of the rack
+(green region).
+
+Once these numerical simulations are validated, portions of the ISS labs and living areas
+will be modeled to determine the local flow conditions before, during, and after a fire
+event. These simulations can yield specific information about how long it takes for smoke
+and combustion gases produced by a fire to reach a detector location, how large the fire
+would be when the detector alarms, and the behavior of the fire until it has been
+extinguished. This new capability could then be used to optimize the location of fire
+detectors and fire-suppression ports as well as to evaluate the effectiveness of fire
+suppressants and response strategies. Numerical data collected from these simulations
+could also be used to develop a virtual reality fire event for crew training and fire safety
+awareness.
+This work is funded by NASA's Bioastronautics Initiative, which has the objective of
+ensuring and enhancing the health, safety, and performance of humans in space. As part
+of this initiative, the Microgravity Combustion Science Branch at the NASA Glenn
+Research Center is conducting spacecraft fire safety research to significantly improve fire
+safety on inhabited spacecraft.
+Find out more about this research at http://microgravity.grc.nasa.gov/combustion/
+National Center for Microgravity Research contact: Dr. Ming-Shin Wu, 216-4333781, Ming-Shin.Wu@grc.nasa.gov
+Glenn contact: Dr. Gary A. Ruff, 216-433-5697, Gary.A.Ruff@nasa.gov
+Authors: Drs. Gary A. Ruff and Ming-Shin Wu
+Headquarters program office: OBPR
+Programs/Projects: Microgravity Science
+

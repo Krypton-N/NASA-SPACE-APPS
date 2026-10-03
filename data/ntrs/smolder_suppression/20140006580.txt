@@ -1,0 +1,1094 @@
+Determination of Realistic Fire Scenarios in Spacecraft
+D. L. Dietrich∗ G. A. Ruﬀ∗and D. L. Urban∗
+,
+NASA John H. Glenn Research Center, Cleveland, Ohio, 44135, USA
+
+This paper expands on previous work that examined how large a ﬁre a crew member
+could successfully survive and extinguish in the conﬁnes of a spacecraft. The hazards to the
+crew and equipment during an accidental ﬁre include excessive pressure rise resulting in a
+catastrophic rupture of the vehicle skin, excessive temperatures that burn or incapacitate
+the crew (due to hyperthermia), carbon dioxide build-up or accumulation of other combustion products (e.g. carbon monoxide). The previous work introduced a simpliﬁed model
+that treated the ﬁre primarily as a source of heat and combustion products and sink for
+oxygen prescribed (input to the model) based on terrestrial standards. The model further
+treated the spacecraft as a closed system with no capability to vent to the vacuum of space.
+The model in the present work extends this analysis to more realistically treat the
+pressure relief system(s) of the spacecraft. The analysis also considers more combustion
+products (e.g. HCN and HF ) in the analysis. Including the characteristics of vehicle pressure relief systems has a dramatic mitigating eﬀect by eliminating vehicle overpressure for
+all but very large ﬁres and reducing average gas-phase temperatures. For under-ventilated
+ﬁres where there is an excess of fuel relative to oxidizer (cabin air ﬂowrate to the ﬁre) the
+analysis shows high levels of carbon monoxide, hydrogen cyanide and hydrogen ﬂuoride.
+The levels of these contaminant species are much lower for fuel-limited ﬁres.
+
+Nomenclature
+α
+˙
+QCOMB
+˙
+V
+mVENT
+˙
+ni
+˙
+Cv
+Gg
+N2
+QCOMB
+Ru
+νi
+σ
+aP
+ACABIN
+Cp,g
+Cv,g
+CO
+CO2
+F Cs
+hCABIN
+HCN
+HCs
+
+Fire growth coeﬃcient, assumed 0.0029 kW/m2
+Rate of heat release from combustion
+Volumetric ﬂowrate through the valve at standard temperature and pressure (STP), l/min
+Mass ﬂow leaving the cabin through the pressure relief valve
+Rate of change of molar mass of species i inside the cabin
+Valve ﬂow coeﬃcient
+Gas speciﬁc gravity, assumed 1.0 herein
+Emperical constant, 6950 when ﬂow is l/min, temperature is K and pressure is bar
+Heat generation per unit mass of oxygen consumed
+Universal gas constant
+Stoichiometric coeﬃcient of species i with respect to oxygen
+Stefan-Boltzman constant
+Planck mean absorption coeﬃcient of the cabin gas
+Internal surface area of the cabin
+Constant pressure speciﬁc heat of the cabin gas
+Constant volume speciﬁc heat of the cabin gas
+Carbon monoxide
+Carbon dioxide
+Fluorinated compounds
+Heat transfer coeﬃcient between the cabin gas and cabin wall
+Hydrogen cyanide
+Hydrocarbons, any species containing hydrogen and carbon
+
+∗ Aerospace
+
+Engineer, NASA John H. Glenn Research Center, Cleveland, Ohio 44135, AIAA Member.
+
+1 of 12
+American Institute of Aeronautics and Astronautics
+
+HF
+Hydrogen ﬂuoride
+nCABIN Mass of gas (in moles) inside the cabin
+ni
+Molar mass of species i inside the cabin
+N Ox Oxides of nitrogen including N O, N O2 , N2 O, etc.
+O2
+Oxygen
+PCABIN Pressure inside the cabin
+Tg
+Average gas temperature inside the cabin
+Tf
+Average gas temperature inside the ﬁre volume
+Tw
+Wall temperature of the cabin
+VCABIN Volume of the cabin
+VFIRE Volume of the ﬁre
+ni (t)
+Yi
+The mole fraction of species i, = nCABIN (t)
+PMMA Poly(methyl methacrylate), the monomer of which is methyl methacrylate, MMA, C5 H2 O8
+PTFE Polytetraﬂuoroethylene, trade-name Teﬂon, the monomer of which is C2 F4
+
+I.
+
+Introduction and Background
+
+uture exploration missions
+for extending
+into
+beyond low Earth
+Fin the that can an emergency,callconsequences toaithuman presenceoption.space accidental ﬁre isandorbit where,
+event of
+a rapid return earth is not an
+An
+an emergency
+situation
+easily have dire
+if is not detected and extinguished quickly
+eﬀectively.
+Therefore, the crew must have the equipment, systems, and procedures to safely deal with any possible ﬁre
+and its after-eﬀects. The ﬁrst line of defense in a ﬁre safety strategy is ﬁre prevention through material
+selection and control. Experience in manned space ﬂight, however, indicates that this control may, but will
+not necessarily, ensure that ﬁres on spacecraft will not occur. Therefore, ﬁre detection and suppression
+systems are still requireda .
+Fortunately accidental ﬁres have been very rare on space vehicles. There are, however, open questions
+about the size of a potential ﬁre in spacecraft. For total ﬂooding agents involving an inert gas, it is a relatively
+simple exercise to compute the required mass of suppressant given the concentration needed to suppress a ﬁre
+irrespective of ﬁre size. Detailed Computational Fluid Dynamic (CFD) simulations of suppressant dispersal
+would provide an even better tool to design the suppressant system. In practice the dispersal of an inert
+gas suppressant to a concentration required to suppress a likely ﬁre would result an oxygen concentration
+too low for crew survival. Therefore, inert gas suppressants are not necessarily an optimal solution for a
+spacecraft suppression system.1, 2, 3
+Streaming or local application agents can safely and quickly extinguish many ﬁres. As a result, all NASA
+and most foreign manned spacecraft provide a hand-held extinguisher. The size of these extinguishers,
+however, is typically based on terrestrial ﬁre standards and not the unique properties of microgravity ﬁres
+and hazards of the spacecraft environment. The temptation of the designers is to ‘over-size’ the extinguisher
+to compensate for any uncertainty in ﬁre size or severity. Severe weight and volume limitations, however,
+will always push back on the ‘over-size’ design idea. Recently, we introduced the concept of a ‘survivable
+ﬁre’ to guide the design and qualiﬁcation of a hand-held ﬁre extinguisher for future spacecraft.4, 5 In this
+paper we continue to expand on this concept and discuss in detail the speciﬁc risks to the crew and introduce
+estimates to their severity.
+
+II.
+
+Crew and Vehicle Risks from Fire
+
+In order for a ﬁre to occur, all three elements of the ﬁre triangle must be present, fuel, oxygen and an
+ignition source. In a manned spacecraft, the ﬁrst two will invariably be present, even with very strict material
+controls. The ignition source can be a number of things, nearly all of which are the result of equipment
+malfunction. Assuming there is a release of energy suﬃcient to initiate a ﬁre, the chemical reaction between
+˙
+the fuel and oxygen will result in heat release QCOMB (t). The time dependence emphasizes the fact that,
+assuming suﬃcient fuel and oxygen, the ﬂame will grow with time after ignition. As the ﬁre burns, it
+consumes fuel and oxygen, produces carbon dioxide, water vapor and other trace contaminants and releases
+a Russian Soyuz capsules have no dedicated ﬁre suppression capability. This is a programmatic risk that U.S. vehicles have
+not accepted since the Mercury and Gemini programs.
+
+2 of 12
+American Institute of Aeronautics and Astronautics
+
+heat. The process presents some very real hazards to the crew.
+II.A.
+
+Cabin-Averaged Computations
+
+Our previous work5 considered the threats to the crew due to tracheal and skin burning, oxygen depletion,
+carbon monoxide and carbon dioxide production as well as hyperthermia and vehicle over-pressurization.
+The analysis considered a sealed volume the approximate size of the Destiny module on the International
+Space Station (ISS). The results showed that ﬁres between 50 and 100 kW could result in tracheal and skin
+burns to the crew.
+The analysis, however, did not consider any mitigation of the threat due to the safety systems of the
+spacecraft. One of the primary safety systems is the positive pressure relief valves (PPRVs) that will act
+to protect the vehicle structure from over-pressurization. In the event of an accidental ﬁre, the heat release
+will cause a temperature rise in the cabin. The primary mechanism to dissipate the heat from the cabin
+gas is radiation and convection heat transfer to the vehicle (assumed to be at a constant temperature) and
+through the ECLSS systems. Any energy not transferred to the vehicle will go to increasing the pressure
+inside the cabin. If the cabin pressure exceeds the set point of the PPRV, gas will begin to vent to space.
+If the rate of pressure rise exceeds the capability of the PPRV, the pressure inside the cabin will continue
+to increase. Following and extending our previous analysis,5, 6 the gas temperature inside the cabin comes
+from an energy balance using the cabin as a control volume.
+Cv,g
+
+d (nCABIN Tg )
+4
+4
+˙
+¯
+= QCOMB (t) − aP VFIRE σ Tf − Tw − hCABIN ACABIN Tg − Tw − mVENT Cp,g Tg
+˙
+dt
+
+(1)
+
+The second term on the right hand side of Equation 1 is the radiative heat transfer between the ﬂame
+and the walls of the cabin. The expression includes radiative transfer from combustion-produced carbon
+dioxide and water vapor through the Planck Mean Absorption Coeﬃcient, but neglects solid particulate
+heat transfer. For convenience, this calculations in this work assume that the ﬂame volume is equal to
+the cabin volume (VFIRE = VCABIN ) and consequently uses the cabin-averaged temperature and species mole
+fractions. Future work will address relaxing this assumption. The third term on the right hand side of
+Equation 1 is the convective heat transfer between the cabin air and the walls of the cabin. The last term
+on the right hand side of Equation 1 represents the energy loss from the cabin by gases venting out of the
+PPRV and is the major change relative to our previous work.5 Finally, for the sample calculations herein,
+we assume that the volume of the ﬁre is the volume of the cabin.
+Equation 1 requires a knowledge of the mass ﬂow through the PPRV. The ﬂow through a valve depends
+on the upstream (or cabin) pressureb and the ﬂow characteristics of the valve.7
+˙
+V = 0.471N2 Cv PCABIN
+
+1
+Gg Tg
+
+(2)
+
+We assume the gas inside the cabin is ideal so that the relationship between the cabin pressure and temperature is simply
+PCABIN =
+
+nCABIN Ru Tg
+.
+VCABIN
+
+(3)
+
+Diﬀerentiating 3 with respect to time yields the following expression for the rate of change of pressure
+with time.
+dPCABIN
+Ru
+dnCABIN
+dTg
+=
+Tg
++ nCABIN
+dt
+VCABIN
+dt
+dt
+
+(4)
+
+Implicit in Equation 4 is the fact that the molar mass inside the cabin is not constant with oxygen being
+consumed and carbon dioxide and water vapor produced. The total molar mass of gas at any given time
+is simply the sum of molar masses of oxygen, nitrogen, carbon dioxide and water vapor, where we ignore
+b There are two relationships to compute the ﬂow through the valve, subsonic and choked ﬂow at the valve throat. When
+the upstream pressure is more than twice the downstream pressure (as is the case for a spacecraft cabin venting to space) the
+ﬂow is choked.
+
+3 of 12
+American Institute of Aeronautics and Astronautics
+
+the small contributions of trace combustion products. These species are typically present in much smaller
+amounts and do not contribute signiﬁcantly to the total molar mass of gas inside the cabin. Their threat to
+crew health and safety is considered separately.
+nCABIN (t) =
+
+ni (t) ,
+i
+
+dnCABIN
+=
+dt
+
+i
+
+dni
+, i = O2 , N2 , CO2 , H2 O
+dt
+
+(5)
+
+The rate of change of molar mass of any species i inside the cabin is simply generation (positive) or destruction
+(negative) of that species by combustion minus the molar mass that is vented through the pressure relief
+system.
+ni (t) =
+˙
+
+˙
+QCOMB (t) νi
+d (nCABIN )
+− Yi
+QCOMB MO2
+dt
+
+(6)
+
+Implicit in Equation 6 is that the composition of the gas leaving the cabin through the PPRV is the cabinaveraged gas concentration. Integration of Equation 6 with respect to time yields the molar mass gas of
+t
+species i at any instant of time, ni (t) = ni (t = 0) + t=0 [ni (t)] dt
+˙
+Equations 1, 4, 5 and 6 (for each species i) represent a series of ﬁrst order diﬀerential equations for the
+cabin temperature and pressure, molar mass of gas, and molar mass of each species inside the cabin. These
+equation systems are readily solved by established numerical integration schemes. For cases where there was
+no PPRV, the solution time was several seconds. For cases with the PPRV included, convergence time varied
+widely and seemed to scale with the value of the valve ﬂow coeﬃcient. Larger values of the ﬂow coeﬃcient
+resulted in longer convergence times and when the value was too large, the system of equations would fail to
+converge. This was likely due to the very narrow range assumed for the PPRV which would go from being
+fully sealed to fully open over a very small pressure range. Fortunately, the values of the ﬂow coeﬃcient
+where convergence of the equations failed was only relevant for unrealistically large ﬁre sizes.
+II.B.
+
+Toxic Gas Computations
+
+The production of toxic gas species from burning ﬁres poses a signiﬁcant hazard to crew members. The
+threats to the crew can be acute life-threatening conditions such as carbon monoxide inhalation or long-term
+threats due to smoke inhalation. These threats are ampliﬁed by the fact that accidental ﬁres typically don’t
+involve clean burning fuels, but rather higher molecular weight plastics containing such things as ﬂuorine.
+Our previous work5 only considered carbon monoxide as a potential contaminant. The chemical equilibrium calculation8 assumed the speciﬁed mass of fuel (methyl methacrylate or MMA) reacted with air in a
+speciﬁed volume that subsequently mixed uniformly into the volume of the cabin. The chemical equilibrium
+calculation is likely inaccurate, but given a lack of data on large-scale reduced-gravity ﬁres,9 it represents a
+reasonable, physics-based, estimate.
+In this analysis, we use a similar approach, only expanding the eﬀort to include other contaminant species.
+The chemical equilibrium (CEA) calculation8 provides, among a range of quantities, the temperature and
+species mole fraction when a known mass of fuel and oxidizer react. The calculations presented herein assume
+the fuel and oxidizer react with constant pressure and enthalpy and ignores species whose mole fractions are
+less than 1.0x10−16 . The calculations assume the monomer of PMMA, methacrylate, or the the monomer
+of Teﬂon as the fuel. PMMA is relevant because it is a plastic for which there is a lot of thermophysical and
+combustion data available. PTFE (trade-name Teﬂon) is relevant because it contains ﬂuorine (F ) and can
+thus produce toxic hydrogen ﬂuoride (HF ) as a product of combustion. Neither fuel is in the CEA database,
+so the calculation used values available in the literature.10, 11, 12
+The output from the CEA calculation includes species mole fractions predictions for any species in the
+CEA database. For a typical case of PMMA, CEA considers the equilibrium concentrations of over 150
+species, less than 30 of which have mole fractions in excess of the minimum cited above. This is still a
+lot of species to consider so it is worthwhile to group the species. This work breaks down the raw CEA
+output into groups of interest including major species like oxygen, nitrogen and carbon dioxide, and minor
+species (i.e., trace contaminants). These minor species include carbon monoxide, hydrogen cyanide and
+hydrogen ﬂuoride. Species containing oxygen and nitrogen are lumped together into a group (N Ox ) and
+species containing hydrogen and carbon form a hydrocarbon group (HC). We make the further assumption
+
+4 of 12
+American Institute of Aeronautics and Astronautics
+
+that the hydrocarbon species combine to form solid soot (smoke) in the ﬂame. Species containing ﬂuorine
+are lumped together into a group (F Cs).
+
+III.
+III.A.
+
+Results and Discussion
+
+Cabin-Averaged Pressure and Temperature
+
+Species Mole Fraction
+
+Similar to our previous work,5 we assume a sealed volume the approximate size of the Destiny module on
+the International Space Station (ISS). The assumed volume (approximate gas volume) and surface area
+(approximate internal surface area) are 65 m3 and 150 m2 , respectively.
+0.20
+0.15
+Carbon Dioxide
+Oxygen
+
+0.10
+0.05
+
+Cabin Pressure ( atm )
+
+Cabin Temperature ( K )
+
+0.00
+440
+
+No Relief Valve
+Cv = 1.5
+Cv = 3.0
+Cv = 4.0
+
+400
+360
+320
+
+1.4
+1.2
+1.0
+
+Fire Power ( kW )
+
+200
+150
+100
+50
+0
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700sec
+
+Time ( s )
+Figure 1. Fire power (lower), cabin pressure (second from bottom), cabin temperature (second from top) and oxygen
+and carbon dioxide mole fractions (top) as functions of time. The ﬁre power proﬁle is identical for all the simulations
+and there is almost no diﬀerence in the oxygen and carbon dioxide mole fractions for all of the simulations (so only
+one is presented for convenience).
+
+Figure 1 shows the results of the time-dependent predictions of cabin pressure, average gas temperature
+and oxygen and carbon dioxide mole fractions for several simulations. The ﬁrst assumes no PPRV (setting
+
+5 of 12
+American Institute of Aeronautics and Astronautics
+
+the ﬂow coeﬃcient to zero) and the subsequent cases are for relief valves with a ﬂow coeﬃcients equal to 1.5,
+3.0 and 4.0. The ﬁre proﬁle (the bottom plot in Figure 1) is identical to the case presented in our previous
+work.5 The ﬁre growth is according to the following relationship typical of terrestrial ﬁres.
+˙
+Q = α t2
+
+(7)
+
+The total mass of fuel burned is approximately 3.0 kg and the peak ﬁre power is nearly 200 kW .
+The results clearly show how the PPRV mitigates the hazard of over-pressurization. Without a relief
+valve, the peak pressure and temperature inside the cabin is over 1.6 atm and 475 K, respectively. This
+could result in damage to the vehicle and a signiﬁcant threat to the crew. The PPRV, however, clearly
+mitigates the hazard by venting gas to attempt to maintain the pressure at 1.0 atm. The results show that
+for all of the simulations in Figure 1 the results early in the ﬂame lifetime are similar. The ﬁres start to
+grow, increasing the pressure and temperature in the vehicle, but not enough to crack the relief valve. When
+the pressure exceeds the cracking pressure of the relief valve, it opens and begins venting gas to space. The
+result is that the pressure remains constant, and the temperature increase is much slower than the case with
+no relief valve.
+As the ﬁre continues to grow the vent ﬂowrate increases as the relief valve attempts to maintain a constant
+pressure. For all but the largest relief valve, the heat release/pressure rise from the growing ﬁre eventually
+exceeds the capability of the relief. In this case, the vent ﬂow through the relief valve remains constant and
+the pressure and temperature within the cabin begin to rise again. They continue to rise, albiet at a much
+lower rate than for the case with no relief valve until the ﬁre growth levels oﬀ and the ﬁre size begins to
+decrease. As one would expect, larger relief valves can support larger heat release rates before exceeding
+their capacity. The calculations show that a PPRV with a ﬂow coeﬃcient of 4.0 can maintain a constant
+pressure for a ﬁre as large as 200 kW . That is not to say, however, that the PPRV completely mitigates the
+threat to the crew. Our previous analysis5 showed that the heat ﬂux from a ﬁre this size would likely burn
+the crew’s skin and the inhaled gas temperatures as far as several feet from the ﬁre would likely result in
+tracheal burning. The PPRV does, however, mitigate some of the risks to the crew and vehicle.
+The selection of the relief valve size in Figure 1 was relatively arbitraryc . The Orion Multi-Purpose Crew
+Vehicle (MPCV) is currently scheduled for a 2014 launch date. This vehicle has an interior volume and
+dimensions much smaller than the values assumed for the calculation in Figure 1. This vehicle has a PPRV
+rated to discharge a maximum of 150 lbsgas/hour at a pressure diﬀerential of 1.05 atm.13, 14 Using Equation
+2 results in a ﬂow coeﬃcient of approximately 4.35. This is slightly larger than the size of the PPRV assumed
+in Fig. 1. Thus, we can conﬁdently conclude that the pressure relief system for the MPCV would completely
+mitigate the risk to the vehicle from over-pressurization and to the crew from a hyperthermic environment
+from any conceivable accidental ﬁre. We must emphasize, however, that a 200 kW ﬁre in a vehicle the size of
+the MPCV would likely be catastrophic to the crew and vehicle for other reasons (burns, tracheal burning,
+equipment damage, etc.).
+III.B.
+
+Oxygen and Carbon Dioxide
+
+Figure 1 also shows the cabin-averaged oxygen and carbon dioxide mole fractions as functions of time during
+the ﬁre. The PPRV appears to have almost no inﬂuence on the oxygen and carbon dioxide mole fractions
+in the cabin (the plots being so similar that only the results for one case are presented). The problem
+formulation assumes that the vented gas has the cabin-averaged composition. This means that both oxygen
+and carbon dioxide, in addition to nitrogen and water vapor, vent to space through the PPRV when the
+cabin pressure exceeds the set pressure. The results clearly show that the PPRV does little to protect the
+crew from a hypoxic or hypercapnic environment.
+The analysis does not include any mitigation because of the vehicle life support system. These systems
+will certainly remove carbon dioxide as it is the primary component of human respiration. The peak ﬁre
+power in Figure 1 is approximately 200 kW , however, and a ﬁre of this magnitude would likely produce
+carbon dioxide at a much greater rate than the life support systems were designed to handle. Therefore,
+acute carbon dioxide poisoning would be a concern, but in the long term, the vehicle’s life support systems
+would gradually reduce the danger.
+c Numerical convergence of the the system of diﬀerential equations became problematic for relief valves with a ﬂow coeﬃcient
+exceeding 3.
+
+6 of 12
+American Institute of Aeronautics and Astronautics
+
+The analysis also predicts that the oxygen mole fraction will reach dangerously low levels. In the event of
+an accidental ﬁre, the crew could don some kind of personal protective equipment (PPE) that would include
+supplemental oxygen. The downside to that approach, however, is that it introduces oxygen into the cabind .
+This could both vitiate and prolong the ﬁre. One advantage of a ﬁre burning in a sealed environment is
+that it will eventually self-extinguish by diminishing the ambient oxygen mole fraction below that which will
+support combustion.
+III.C.
+
+Contaminant Species
+
+Our previous work only considered carbon monoxide as a contaminant species. Accidental ﬁres in a spacecraft
+will likely involve ﬂammable materials like cloth, paper, plastics and/or wire insulation. While the primary
+combustion products are carbon dioxide and water vapor, minor species produced during combustion are
+also very dangerous to the crew and vehicle. In addition to carbon monoxide, smoke or soot produced from
+the ﬁre can be damaging to the respiratory system. Hydrogen cyanide and hydrogen ﬂouride, if present
+in high enough quantities are both extremely toxic. Finally, oxides of nitrogen are respiratory irritants.
+All of these contaminants are produced, in varying quantities during combustion. Their primary atomic
+constituents, carbon, hydrogen, nitrogen and oxygen are all readily available in either the fuel and/or the
+oxidizers. Hydrogen ﬂuoride obviously requires ﬂuorine, present in Teﬂon wire insulation and many plastics.
+The computation of cabin-averaged oxygen and carbon dioxide mole fractions in the previous section
+assumed that the entire volume of air in the cabin participated in the ﬁre. In terrestrial ﬁres in a sealed
+volume this is not that unreasonable as the strong buoyant ﬂow inside the chamber provides signiﬁcant mixing
+of the combustion products in the ambient gas. In the microgravity environment of a spacecraft, however,
+there is no buoyant ﬂow. The ventilation speeds in the spacecraft are much lower than the buoyant velocity
+and a typical ﬁre response in microgravity involves turning oﬀ the ventilation as a ﬁrst step. Therefore,
+while it is reasonable to use the entire volume of the spacecraft for the volume-averaged calculations in the
+previous section, it is not reasonable to make that same assumption when computing contaminant species.
+Figure 2 shows the the species mole fraction as a function of the fuel mass consumed in the ﬁre for four
+diﬀerent volumes of gas reacting with the fuel. This approach is somewhat analogous to the zone modeling15
+approach in terrestrial ﬁre modeling where a compartment is divided into diﬀerent vertical zones with mass,
+energy and species transport between the zones. The current approach assumes that the prescribed mass
+of fuel (the abscissa in Figure 2) reacts in a prescribed volume of gas in the spacecraft. This volume of gas
+would then mix into the unreacted volume of the spacecraft (that process is not treated herein).
+Figure 2a shows both major species and minor species as functions of the fuel mass for a gas volume of 1 m3
+at atmospheric temperature and pressure. For all but the smallest masses of fuel, these ﬂames are extremely
+under-ventilated, meaning that there is a large excess of fuel relative to the available oxidizer. This typically
+results in high concentrations of carbon monoxide and hydrocarbons (that don’t have suﬃcient oxygen to
+completely react to carbon dioxide and water). Figure 2 bears this out as when the fuel load increases
+beyond 200 g carbon monoxide, hydrocarbons and hydrogen cyanide all increase signiﬁcantly and the ﬁre
+consumes all of the available oxygen. If we assume that all of the hydrocarbons end up in the form of soot
+or smoke, the ﬁre would be, as expected, very sooty and producing large amounts of carbon monoxide.
+When the available volume increases to 5 m3 (Figure 2b), the peaks in carbon dioxide and oxides of
+nitrogen shift to approximately 700 g of fuel (the stoichiometric amount of fuel for this mass of air). Further
+increases in the fuel mass result in signiﬁcant increases in carbon monoxide and hydrocarbons while the ﬁre
+consumes all of the available oxygen. Further increases in the reacting volume of gas shift the peak in carbon
+dioxide and oxides of nitrogen to larger fuel masses. Figure 2d shows that a gas volume of 15 m3 reacts
+stoichiometrically with the maximum fuel load, or approximately 2.0 kg.
+Figure 2 presents the species concentrations inside the reacting volume. The conversion from the species
+concentrations in the reacting volume to the approximate cabin-averaged species concentrations scales with
+the ratio of the reacting volume to the cabin volume. For the 65 m3 volume of the Destiny module in Figure
+1, the conversion factors are approximately 0.0154, 0.077, 0.139 and 0.231 for volumes in Figures 2a, 2b, 2c
+and 2d, respectively.
+Figure 2 clearly shows that the chemical equilibrium species predictions are strong functions of the fuel
+volume and reacting gas volume. As an initial approximation, assume that the ﬁre is fed by a continuous
+d Unless the PPE is closed loop, the crew will exhale oxygen into the cabin in a concentration that is likely above the
+ﬂammability limit of many materials
+
+7 of 12
+American Institute of Aeronautics and Astronautics
+
+0.25
+
+15
+
+Minor Species
+0.20
+
+3
+
+HCN*10
+NOx
+
+10
+0.15
+
+0.10
+5
+
+Major Species Mole Fraction
+
+4x10
+0.20
+
+0.15
+
+Major Species
+CO2
+O2
+CO
+HCs
+
+0.10
+
+Minor Species
+
+0.00
+
+0
+500
+
+HCN*10
+NOx
+
+1
+
+1000
+
+1500
+
+0.00
+
+2000
+
+0
+500
+
+1000
+
+PMMA Fuel Mass ( g )
+
+0.20
+-3
+
+3
+
+5
+
+HCN*10
+NOx
+0.10
+
+2
+
+0.05
+
+1
+
+0.00
+
+0
+1000
+
+1500
+
+0.15
+
+Major Species
+CO2
+O2
+CO
+HCs
+
+4x10
+
+Minor Species
+
+3
+
+8
+
+HCN*10
+NOx
+0.10
+
+2
+
+0.05
+
+1
+
+0.00
+
+2000
+
+-3
+
+Minor Species Mole Fraction
+
+Minor Species
+
+Major Species Mole Fraction
+
+4x10
+
+Minor Species Mole Fraction
+
+Major Species Mole Fraction
+
+2000
+
+(b) Volume = 5 m3
+
+Major Species
+CO2
+O2
+CO
+HCs
+
+500
+
+1500
+
+PMMA Fuel Mass ( g )
+
+(a) Volume = 1 m3
+
+0.15
+
+2
+3
+
+0.05
+
+0.05
+
+0.20
+
+3
+
+-3
+
+Minor Species Mole Fraction
+
+0.25
+
+-3
+
+Minor Species Mole Fraction
+
+Major Species Mole Fraction
+
+0.30
+
+20x10
+
+Major Species
+CO2
+O2
+CO
+HCs
+
+0
+500
+
+1000
+
+1500
+
+PMMA Fuel Mass ( g )
+
+PMMA Fuel Mass ( g )
+
+(c) Volume = 9 m3
+
+2000
+
+(d) Volume = 15 m3
+
+Figure 2. Major and minor species production as a function of PMMA mass burned in volumes of 1, 5, 9 and 15
+m3 . The major species are oxygen (O2 ), carbon dioxide (CO2 ), carbon monoxide (CO) and hydrocarbons (HCs). The
+minor species are hydrogen cyanide (HCN ) and oxides of nitrogen (N Ox ). For reference 1 hour Spacecraft Maximum
+Allowable Concentrations (SMAC) for carbon dioxide (CO2 ), carbon monoxide (CO) and hydrogen cyanide (HCN ) are
+13,000 ppm, 55 ppm and 8 ppm, respectively.16 The other contaminant species in the ﬁgures do not have SMAC values.
+Multiplying the species concentration expressed as a mole fraction by the total cabin pressure converts it to the more
+metabolically-relevant species partial pressure.
+
+8 of 12
+American Institute of Aeronautics and Astronautics
+
+supply of oxidizer over an approximate area of 1.0 m2 at a ﬂow of 10 cm/s. Using the ﬁre burn time of 200
+- 300 s of Figure 1 as a guide, the oxidizer involved in the ﬁre will be approximately 2 - 3 m3 . The species
+production would then be somewhere between Figures 2a and 2b. While there is signiﬁcant uncertainty in
+these numbers, they are all reasonable ﬁrst estimates based on spacecraft dimensions and ventilation speeds.
+The results then imply that for all but the smallest fuel loads, the real ﬁre would likely be under-ventilated
+producing signiﬁcant quantities of carbon monoxide, smoke and other contaminant species.
+The CEA calculations assume that all of the fuel and oxidizer are available to react. The calculation
+does not examine the stoichiometry of the reaction to determine if a chemical reaction can occur. If the
+fuel/oxidizer mixture ratio is too high or too low, it may be outside the ﬂammability limits. For the smallest
+volume in Figure 2, the likely ﬁre scenario for the largest fuel loads is that all of the fuel would not be
+involved in the reaction. This adds considerable uncertainty to the results, but the analysis serves as a good
+physics-based initial estimate of the hazards of an accidental ﬁre.
+The species results above considered the fuel to be PMMA. The equilibrium calculations for PMMA are
+likely to be representative of a number of potential spacecraft fuels including paper, cotton cloth and many
+plastics. Plastics such as PTFE, however, contain ﬂuorine. A logical next step is to extend the analysis to
+include prediction of compounds containing ﬂuorine, speciﬁcally hydrogen ﬂuoride. Hydrogen ﬂuoride is a
+highly dangerous gas, forming hydroﬂuoric acid when it comes into contact with water. It is also likely to
+be highly corrosive to spacecraft structures (again in the form of hydroﬂuoric acid).17
+The monomer of PTFE is C2 F4 . The formation of hydrogen ﬂuoride, however, requires hydrogen. This
+could be in the form of water vapor in the oxidizer gas. We consider in this work the source to be PMMA.
+The fuel for the calculations presented below is, rather arbitrarily, considered to consist of 75 percent by
+weight PMMA and 25 percent PTFE. PMMA contains hydrogen and therefore the equilibrium calculations
+consider the formation of HF as well as a wide range of other ﬂuorine-containing molecules.
+Figure 3 shows the same calculation as for PMMA in Figure 2 except for a fuel consisting of 75 percent
+PMMA and 25 percent PTFE. The results for carbon dioxide, carbon monoxide, hydrocarbons, hydrogen
+cyanide and oxides of nitrogen are similar to those for PMMA in Figure 2. This is not surprising as the
+fuel mix is mostly PMMA. The addition of a ﬂuorine-containing polymer in the fuel, however, does produce
+additional compounds of concern. Figure 3a shows that for severely under-ventilated ﬁres production of
+hydrogen ﬂuoride is signiﬁcant, with mole fractions approaching, and even exceeding, 0.10 in the ﬁre volume.
+Since the ﬁre also generates water vapor (in addition to that present in the atmosphere) the presence of
+hydroﬂuoric acid is unavoidable. In addition to its toxicity to humans, it is extremely damaging to spacecraft
+systems. The concentration of hydrogen ﬂuoride from the ﬁre decreases as the volume of available oxidizer
+increases, although the percentage in the ﬁre volume is still in the single digits even for the largest ﬁre volume
+simulated.
+The cabin-averaged concentrations of hydrogen ﬂuoride when mixed and diluted by the cabin atmosphere
+will be much lower. For crew members ﬁghting the ﬁre and equipment in or near the ﬁre zone, however, the
+concentrations will be much higher than the cabin-averaged concentrations.
+
+IV.
+
+Conclusions
+
+This paper extends our previous work examining the risks to the crew from an accidental ﬁre aboard a
+spacecraft. The work considers the impact of the spacecraft pressure control system (primarily the PPRV)
+and the production of additional toxic species from the ﬁre.
+The results show that the inclusion of the PPRV in the analysis greatly mitigates and likely eliminates
+the risk of a cabin over-pressurization and even a long-term hyperthermic environment. The example case
+presented was for a sealed cabin volume the size of the Destiny module on the ISS. In this case, the pressure
+rise from burning approximately 3.0 kg of material (a peak ﬁre power of approximately 200 kW ) with no
+pressure control system was 0.6 atm above the nominal cabin pressure. A PPRV with a ﬂow coeﬃcient of
+1.5 reduces the peak pressure rise (and associated temperature rise) by one half. Subsequent increases in
+the ﬂow coeﬃcient reduce the peak pressure rise even more.
+A relief valve with a ﬂow coeﬃcient equal to 4.0 can vent gas at a suﬃcient rate to maintain the cabin
+pressure at atmospheric pressure. This size of PPRV is very close to the PPRV of the Orion MPCV, which
+has a much smaller cabin volume. Therefore, the analysis shows that the risk of over-pressurization and a
+long-term hyperthermic environment is largely mitigated by the PPRV. Combined with our previous work,
+the ﬁre sizes that would over-pressure the vehicle would be catastrophic to the crew and vehicle for other
+
+9 of 12
+American Institute of Aeronautics and Astronautics
+
+0.10
+
+0.25
+
+0.08
+
+0.15
+
+0.06
+
+0.04
+
+Minor Species
+HCN*10
+NOx*10
+HF
+
+0.10
+
+0.00
+1000
+
+1500
+
+0.10
+
+50
+
+Minor Species
+
+40
+
+5
+
+HCN*10
+NOx*10
+HF
+FCs
+
+30
+
+20
+
+0.00
+
+2000
+
+0
+500
+
+1000
+
+1500
+
+PMMA/PTFE Fuel Mass ( g )
+
+(b) Volume = 5 m3
+
+30
+
+Minor Species
+HCN
+NOx
+HF
+FCs
+
+20
+
+0.05
+
+10
+
+-3
+
+Major Species Mole Fraction
+
+Major Species Mole Fraction
+
+0.20
+40x10
+
+0.15
+
+0.10
+
+Major Species
+CO2
+O2
+CO
+HCs
+
+25x10
+
+20
+
+Minor Species
+HCN
+NOx
+HF
+FCs
+
+15
+
+10
+0.05
+
+-3
+
+Minor Species Mole Fraction
+
+0.10
+
+Major Species
+CO2
+O2
+CO
+HCs
+
+Minor Species Mole Fraction
+
+0.15
+
+2000
+
+PMMA/PTFE Fuel Mass ( g )
+
+m3
+
+(a) Volume = 1
+
+0.20
+
+-3
+
+10
+
+0.00
+500
+
+0.15
+
+60x10
+
+0.05
+
+0.02
+
+3
+
+FCs*10
+
+0.05
+
+Major Species Mole Fraction
+
+Major Species
+CO2
+O2
+CO
+HCs
+
+0.20
+
+Minor Species Mole Fraction
+
+Major Species Mole Fraction
+
+0.20
+
+Major Species
+CO2
+O2
+CO
+HCs
+
+Minor Species Mole Fraction
+
+0.30
+
+5
+
+0.00
+
+0
+500
+
+1000
+
+1500
+
+0.00
+
+2000
+
+PMMA/PTFE Fuel Mass ( g )
+
+(c) Volume = 9
+
+0
+500
+
+1000
+
+1500
+
+2000
+
+PMMA/PTFE Fuel Mass ( g )
+
+m3
+
+(d) Volume = 15 m3
+
+Figure 3. Major and minor species production as a function of the PMMA/PTFE mixture mass burned in volumes of
+1, 5, 9 and 15 m3 . The major species are oxygen (O2 ), carbon dioxide (CO2 ), carbon monoxide (CO) and hydrocarbons
+(HCs). The minor species are hydrogen cyanide (HCN ), oxides of nitrogen (N Ox ), hydrogen ﬂuoride (HF ) and other
+ﬂuorinated compounds (F Cs).
+
+10 of 12
+American Institute of Aeronautics and Astronautics
+
+reasons (e.g. skin and tracheal burning, damage to critical life support systems).
+The analysis also examined the production of contaminant species from the ﬁre. The predictions used
+NASA’s CEA code to predict equilibrium concentrations of species when a prescribed mass of fuel burns
+in prescribed volume of air. While predictions assuming chemical equilibrium are likely to under-estimate
+actual species production, they do serve as a starting point to consider what the risks to the crew might be.
+Because of the low ventilation velocities in spacecraft and the absence of the strong buoyant ﬂow, any large
+spacecraft ﬁres are likely to be very under-ventilated. The analysis shows that these under-ventilated ﬁres
+are likely to produce signiﬁcant quantities of carbon monoxide and soot (smoke or solid hydrocarbons) for
+ﬁres that burn fuels like PMMA-like plastics, cotton and paper.
+The addition of a ﬂuorine-containing compound like PTFE (e.g. Teﬂon) introduces the potential to
+produce hydrogen ﬂuoride and with water, hydroﬂuoric acid. Using a mix of fuel that is 75 percent PMMA
+and 25 percent PTFE shows that for the under-ventilated ﬁres expected in spacecraft, the production of
+hydrogen ﬂuoride is signiﬁcant. Close to a large ﬁre the atmosphere can contain several percent by volume
+of hydrogen ﬂuoride. Even when mixed into the cabin, this much hydrogen ﬂuoride is a signiﬁcant concern.
+The analysis shows that even over-ventilated ﬂames with a ﬂuorine-containing fuel can produce relatively
+large quantities of hydrogen ﬂuoride.
+The analysis in this article points to the relatively large deﬁcit of information regarding large-scale ﬁres
+aboard spacecraft. The push to higher oxygen concentration ambient environments (at lower cabin pressures)
+means the likelihood and risks to the crew of accidental ﬁres is greatly increased. The risks include burns
+(skin and tracheal due to hot gas), damage to equipment and exposure to toxic atmospheres.
+
+Acknowledgments
+The authors would like to acknowledge the helpful discussions and input from Ed Rains of Jacobs Engineering on the speciﬁcations of the pressure relief system for the unmanned Orion capsule. The authors
+also thank Alex Goodall and Hilary Bollan (UK Ministry of Defence) for their insights into the risks to crew
+safety from ﬁre aboard submarines.
+
+References
+1 Dietrich, D. L., Ruﬀ, G. A., and Urban, D. L., “Fundamentals of Fire Suppression in Reduced Gravity Environments,”
+38th International Conference on Environmental Systems, No. 2008-01-2087, Society for Automotive Engineers, San Francisco,
+California, July 2008.
+2 Dietrich, D. L., Ruﬀ, G. A., Urban, D. L., Hicks, M. C., Stocker, D. P., Nayagam, V., and Takahashi, F., “Fire Suppression
+Technology in Human-Crewed Spacecraft - A Trade Study,” 37th International Conference on Environmental Systems, No.
+07ICES-112, Society for Automotive Engineers, Chicago, Illinois, July 2007.
+3 Dietrich, D. L., Ruﬀ, G. A., and Urban, D. L., “A Fire Suppression Analysis for the Altair Project,” 39th International
+Conference on Environmental Systems, No. 2009-01-2511, Society for Automotive Engineers, Savannah, Georgia, July 2009.
+4 Dietrich, D. L., Ruﬀ, G. A., Easton, J. W., Abbott, A. A., Graf, J. C., Gianettino, D. P., and Sager, C. L., “Towards the
+Development of a Speciﬁcation for a Portable Fine Water Mist Fire Extinguisher for Spacecraft Applications,” 41st International
+Conference on Environmental Systems, No. AIAA-2011-5050, American Institute of Aeronautics and Astronautics, Portland,
+Oregon, July 2011.
+5 Dietrich, D. L., Niehaus, J. E., Ruﬀ, G. A., Urban, D. L., Takahashi, F., Easton, J. W., Abbott, A. A., and Graf,
+J. C., “Determination of Survivable Fires,” 42nd International Conference on Environmental Systems, No. AIAA-2012-3512,
+American Institute of Aeronautics and Astronautics, San Diego, California, July 2012.
+6 Gokoglu, S. A., Niehaus, J. E., Olson, S. L., Dietrich, D. L., Ruﬀ, G. A., Ferkul, P. V., and Johnston, M. C., “Prevention
+of Over-Pressurization During Combustion in a Sealed Chamber,” 42nd International Conference on Environmental Systems,
+No. AIAA-2012-3511, American Institute of Aeronautics and Astronautics, San Diego, California, July 2012.
+7 Swagelok, MS-06-84, Valve Sizing, Abbott Valve and Fitting Co., Solon, Ohio, July 2002.
+8 Gordon, S. and McBride, B. J., “Computer Program for Calculation of Complex Chemical Equilibrium Compositions
+and Applications. I. Analysis,” NASA Reference Publication 1311, NASA John H. Glenn Research Center, Cleveland, Ohio,
+1994.
+9 Ruﬀ, G. A., Urban, D. L., Fernandez-Pello, A. C., T’ien, J. S., Torero, J. L., Legros, G., Eigenbrod, C., Smirnov, N.,
+Fujita, O., Cowlard, J. A., Rouvreau, S., Minster, O., Toth, B., and Jomaas, G., “Development of Large-Scale Spacecraft
+Fire Safety Experiments,” 43rd International Conference on Environmental Systems, American Institute of Aeronautics and
+Astronautics, Vail, Colorado, July 2013.
+10 Walters, R. N., Hackett, S. M., and Lyon, R. E., “Heats of Combustion of High Temperatuyre Polymers,” Fire and
+Materials, Vol. 24, No. 5, May 2000, pp. 245 – 252.
+11 Scott, D. W., Good, W. D., and Waddington, G., “Heat of Formation of Tetraﬂuoromethane from Combustion Calorimetry of Polytetraﬂuoroethylene,” Journal of the American Chemical Society, Vol. 77, January 1955, pp. 245 – 246.
+
+11 of 12
+American Institute of Aeronautics and Astronautics
+
+12 Wood, J. L., Lagow, R. J., and Margrave, J. L., “The Heat of Combustion of Teﬂon in Fluorine,” Journal of Chemical
+and Engineering Data, Vol. 12, No. 2, April 1967, pp. 255 – 256.
+13 Rains, G. E. and Cross, C. D., “Use of Heritage Hardware on Orion MPCV Exploration Flight Test One,” 42nd International Conference on Environmental Systems, No. AIAA 2012-3530, American Institute of Aeronautics and Astronautics, San
+Diego, California, July 2012.
+14 Rains, G. E., “Personal communication,” 2012.
+15 Xiaojun, C., Lizhong, Y., Zhihua, D., and Weicheng, F., “A Multi-Layer Zone Model for Predicting Fire Behavior in a
+Fire Room,” Fire Safety Journal, Vol. 40, 2005, pp. 267 – 281.
+16 JSC Toxicology Group, “Spacecraft Maximum Allowable Concentrations for Airborne Contaminants,” Tech. Rep. JSC
+20584, NASA Lyndon B. Johnson Space Center, Houston, Texas, 1999.
+17 Goodall, A. and Bollan, H., “Personal communication,” 2012.
+
+12 of 12
+American Institute of Aeronautics and Astronautics
+

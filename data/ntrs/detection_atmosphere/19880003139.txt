@@ -1,0 +1,958 @@
+N8 8- 1 2 5 2 1
+TECHNIQUES FOR F I R E D E T E C T I O N
+
+R i c h a r d W . Bukowski
+Center f o r F i r e Research
+N a t i o n a l Bureau o f Standards
+INTRODUCTION
+I
+
+The purpose o f a f i r e d e t e c t o r i s t o p r o v i d e t h e e a r l i e s t warning p o s s i b l e
+o f t h e o u t b r e a k o f an unwanted f i r e so t h a t a p p r o p r i a t e a c t i o n s t o m i t i g a t e
+t h e consequences o f t h e f i r e can be taken. These a c t i o n s g e n e r a l l y i n c l u d e
+t h e e v a c u a t i o n o f occupants a t r i s k t o a s a f e a r e a and t h e i n i t i a t i o n o f e x t i n guishment a c t i v i t i e s , e i t h e r a u t o m a t i c o r manual. S i n c e f i r e s and t h e t h r e a t
+posed by them grow r a p i d l y , e a r l i e r e x t i n g u i s h m e n t means t h a t t h e t h r e a t and
+p o t e n t i a l f o r damage f r o m t h e f i r e i s minimized.
+
+I
+
+Balanced a g a i n s t t h e d e s i r e f o r r a p i d a c t i v a t i o n i s t h e need t o m i n i m i z e
+f a l s e alarms, which d i s r u p t normal a c t i v i t i e s and erode c o n f i d e n c e i n t h e
+d e t e c t i o n system. D e t e c t o r s t h a t " c r y w o l f " t o o o f t e n a r e e i t h e r i g n o r e d o r
+d i s c o n n e c t e d , r e s u l t i n g i n t h e p o t e n t i a l f o r d i s a s t e r . I n an e a r l y 1 9 7 0 ' s
+r e p o r t on A i r Force a i r c r a f t engine n a c e l l e f i r e d e t e c t o r s ( r e f . e), Fox
+r e p o r t e d t h a t about 83 p e r c e n t o f t h e alarms r e c e i v e d were f a l s e and 50 p e r c e n t
+o f t h e f i r e s were n o t d e t e c t e d . The l a t t e r was r e l a t e d t o t h e former i n t h a t
+t h e h i g h f a l s e a l a r m r a t e caused t h e crews t o d i s c o n n e c t t h e d e t e c t o r s i n o r d e r
+t o meet f l i g h t r e a d i n e s s o b j e c t i v e s . I n commercial b u i l d i n g systems, F r y
+( r e f . 9 ) and Bukowski ( r e f . 10) b o t h r e p o r t e d f a l s e t o r e a l a l a r m r a t i o s o f
+1 4 : l f o r smoke d e t e c t o r s i n t h e U n i t e d Kingdom and t h e U n i t e d S t a t e s ,
+r e s p e c t iv e l y .
+The b a l a n c e between e a r l y warning and minimum f a l s e alarms r e q u i r e s t h a t
+t h e d e t e c t o r s e l e c t e d be matched t o t h e a p p l i c a t i o n i n terms o f t h e c h a r a c t e r i s t i c s o f t h e expected f i r e s and t h e o p e r a t i n g environment. An a n a l y s i s of
+t h e c o m b u s t i b l e m a t e r i a l s and p o t e n t i a l i g n i t i o n sources w i t h i n a space t o be
+p r o t e c t e d can p r o v i d e i n s i g h t i n t o t h e expe8ted " f i r e s i g n a t u r e s " t h a t w i l l be
+produced. Taking i n t o account t h e c h a r a c t e r i s t i c s o f t h e space t h a t w i l l
+i n f l u e n c e t h e t r a n s p o r t o f t h e s e p r o d u c t s f r o m t h e combustion s i t e t o t h e
+d e t e c t o r l o c a t i o n and t h e response o f t h e d e t e c t o r t y p e s e l e c t e d a l l o w s t h e
+p r e d i c t i o n o f performance. F i n a l l y , t h e v u l n e r a b i l i t y o f t h e space (and i t s
+c o n t e n t s and occupants) should be analyzed t o d e t e r m i n e t h e maximum f i r e s i z e
+t h a t can be s a f e l y t o l e r a t e d i n o r d e r t o e s t a b l i s h t h e d e t e c t i o n goal r e q u i r e d
+t o provide a safe c o n d i t i o n w i t h o u t being o v e r l y s e n s i t i v e .
+The purpose o f t h i s paper i s t o p r o v i d e an o v e r v i e w o f t h e bases f o r such
+an a n a l y s i s . F i r s t , t h e b u r n i n g process i s d i s c u s s e d i n t e r m s o f t h e product i o n o f t h e " f i r e signatures" normally associated w i t h d e t e c t i o n devices.
+These i n c l u d e convected and r a d i a t e d t h e r m a l energy, p a r t i c u l a t e s , and gases.
+Second, t h e t r a n s p o r t processes a s s o c i a t e d w i t h t h e movement o f these f r o m t h e
+f i r e t o t h e d e t e c t o r , a l o n g w i t h t h e i m p o r t a n t phenomena which cause t h e l e v e l
+o f t h e s e s i g n a t u r e s t o be reduced, a r e d e s c r i b e d . T h i r d , t h e o p e r a t i n g c h a r a c t e r i s t i c s o f t h e i n d i v i d u a l types o f d e t e c t o r s , which i n f l u e n c e t h e i r
+9
+I
+
+,
+
+response t o t h e s i g n a l s , a r e presented. F i n a l l y , v u l n e r a b i l i t y a n a l y s i s u s i n g
+p r e d i c t i v e f i r e modeling techniques w i l l be d i s c u s s e d as a means t o e s t a b l i s h
+the necessary response o f t h e d e t e c t i o n system t o p r o v i d e t h e l e v e l o f p r o t e c t i o n required i n the application.
+F I R E SIGNATURES
+
+F i r e d e t e c t o r s sense t h e presence o f f i r e by responding t o changes i n
+t h e i r l o c a l environment t h a t a r e i n d i c a t i v e o f a f i r e w i t h i n t h e i r a s s o c i a t e d
+area o f coverage. The g o a l i s t o s e l e c t c o n d i t i o n s f o r sensing t h a t appear as
+c a r l y as p o s s i b l e and t h a t a r e p r e s e n t a t l e v e l s s u f f i c i e n t l y above t h o s e a t
+normal, n o n f i r e c o n d i t i o n s t o m l n i m l z e f a l s e a l a r m s . These changes o f c o n d i t i o n s a r e c a l l e d f i r e s i g n a t u r e s . Various f i r e c o n d i t i o n s may produce d i f f e r e n t f i r e s i g n a t u r e s , s o optimum d e t e c t o r system d e s i g n r e q u i r e s t h a t t h e
+d e t e c t o r types s e l e c t e d must be matched t o t h e hazard p r e s e n t .
+
+Heat
+Combustion i s e s s e n t i a l l y an exothermic, gas-phase chemical r e a c t i o n .
+Gaseous f u e l s combust by b r e a k i n g bonds i n t h e f u e l molecules, f o r m i n g o t h e r
+chemical species and r e l e a s i n g thermal energy. For s o l i d o r l i q u i d f u e l s ,
+some o f t h e thermal energy i s needed t o produce t h e phase change t o a gas
+b e f o r e t h e a c t u a l combustion takes p l a c e . T h i s r e q u i r e d energy i s t h e h e a t o f
+g d s i f i c a t i o n . The n e t r e m a i n i n g energy t h e n goes t o i n c r e a s e t h e t e m p e r a t u r e
+o f the gases and a i r l e a v i n g t h e combustion zone. T h i s h o t gas r i s e s due t o
+buoyancy t o t h e c e i l i n g and spreads r a d i a l l y outward i n a c e i l i n g j e t . The
+t m y e r a t u r e and v e l o c i t y o f t h i s c e i l i n g j e t govern t h e h e a t t r a n s f e r r a t e t o
+t h e r m d l l y a c t i v a t e d d e t e c t o r s l o c a t e d on t h e c e i l i n g .
+Smoke
+I n t e r m s o f f i r e d e t e c t i o n , smoke r e f e r s t o s o l l d o r l i q u i d p a r t i c l e s
+r e l e a s e d d u r i n g combustion. The s o l i d s a r e c l u s t e r s o f carbonaceous s p h e r u l e s
+formed w i t h i n t h e f u e l r i c h p o r t i o n s o f t h e f l a m e i n a process s i m i l a r t o
+p o l y m e r i z d t i o n . Vapors can condense on a s o l i d c o r e , y i e l d i n g a l i q u i d covered
+smoke p a r t i c l e . l h i s c o n d e n s a t i o n process r e q u i r e s t h a t t h e t e m p e r a t u r e be
+below t h e v a p o r i z d t i o n t e m p e r a t u r e w h i l e t h e vapor c o n c e n t r a t i o n i s s t i l l h i g h .
+I n s m o l d e r i n g combustion, e s s e n t i a l l y a l l t h e smoke i s i n t h e f o r m o f condensed
+vapors. l h i s i s why t h e smoke f r o m s m o l d e r i n g appears l i g h t c o l o r e d ( t h e
+l i q u i d i s l a r g e l y w a t e r ) and t h e smoke f r o m f l a m i n g i s d a r k ( m o s t l y c a r b o n ) .
+l h i s a l s o means t h a t t h e p a r t i c l e s i z e f r o m s m o l d e r i n g i s l a r g e r t h a n f r o m
+f l a m i ng.
+Light
+Flames r a d i a t e l i g h t energy over a broad spectrum. R a d i a t i o n i n t h e
+v i s i b l e and i n f r a r e d comes l a r g e l y f r o m t h e r m a l energy r a d i a t i n g f r o m t h e c a r bon p a r t i c l e s w i t h i n t h e flame. l h i s i s why a hydrogen flame, which c o n t a i n s
+no carbon, i s i n v i s i b l e . U l t r a v i o l e t r a d i a t i o n comes l a r g e l y f r o m OH r a d i c a l s ,
+and t h e t h e r m a l l y broadened OH r a d l a t i o n e x p l a i n s why a l c o h o l flames and p r e mixed gas flames appear b l u e .
+
+10
+
+Transport/Losses
+Once produced by t h e f i r e , t h e f i r e s i g n a t u r e must t r a v e l t o t h e d e t e c t o r
+t o produce a response. Depending on t h e s i g n a t u r e , t h i s t r a n s p o r t process
+takes t i m e , and l o s s e s can occur t h a t f u r t h e r d e l a y response. An u n d e r s t a n d i n g
+o f t h i s process can h e l p t o s e l e c t optimum d e t e c t o r placement and t y p e f o r t h e
+f a s t e s t response t o t h e hazard.
+l h e r i s i n g plume above a f i r e e n t r a i n s c o o l a i r , which reduces t h e tempera t u r e and d i l u t e s t h e p a r t i c u l a t e c o n c e n t r a t i o n . Once t h e plume c o n t a c t s t h e
+c e i l i n g , h e a t t r a n s f e r reduces t h e temperature f u r t h e r , b u t p a r t i c u l a t e l o s s e s
+t o t h e c e i l i n g a r e g e n e r a l l y s m a l l . When t h e c e i l i n g j e t reaches t h e d e t e c t o r ,
+t h e t h e r m a l i n e r t i a o f a h e a t d e t e c t o r r e s u l t s i n a d e l a y i n response, b u t a
+smoke d e t e c t o r w i l l respond i m m e d i a t e l y i f t h e p a r t i c u l a t e c o n c e n t r a t i o n i s
+h i g h enough. T h i s i s t h e p r i m a r y reason why smoke d e t e c t o r s respond f a s t e r
+t h a n h e a t d e t e c t o r s f o r most f i r e s .
+W i t h f l a m e d e t e c t o r s , t h e l i g h t energy t r a v e l s i n a s t r a i g h t l i n e a l m o s t
+instantaneously. Since t h e f i r e i s r a d i a t i n g i n a l l d i r e c t i o n s , t h e i n t e n s i t y
+f a l l s o f f as t h e square o f t h e d i s t a n c e f r o m t h e f i r e t o t h e d e t e c t o r and may
+be a t t e n u a t e d by any smoke p a r t i c l e s i n t h e r a d i a n t beam. The key t h i n g t o
+remember about f l a m e d e t e c t i o n i s t h a t t h e d e t e c t o r must be a b l e t o "see" t h e
+f l a m e d i r e c t l y , a l t h o u g h i n f r a r e d energy w i l l r e f l e c t f r o m s u r f a c e s a t a
+reduced l e v e l .
+HEAT D E T E C T I O N
+
+,
+
+Heat d e t e c t o r s a r e t h e o l d e s t t y p e o f a u t o m a t i c f i r e d e t e c t i o n d e v i c e .
+l h e y began w i t h t h e development o f a u t o m a t i c s p r i n k l e r heads i n t h e 1 8 6 0 ' s and
+have c o n t i n u e d t o t h e p r e s e n t w i t h a p r o l i f e r a t i o n o f d i f f e r e n t t y p e s o f
+d e v i c e s . A s p r i n k l e r can be c o n s i d e r e d a combined e x t i n g u i s h i n g d e v i c e and
+h e a t - a c t i v a t e d f i r e d e t e c t o r when t h e s p r i n k l e r system i s p r o v i d e d w i t h w a t e r
+f l o w i n d i c a t o r s t i e d i n t o t h e f i r e a l a r m c o n t r o l u n i t system. These w a t e r
+f l o w i n d i c a t o r s d e t e c t e i t h e r t h e f l o w o f w a t e r t h r o u g h t h e p i p e s or t h e subsequent p r e s s u r e d r o p upon a c t u a t i o n o f t h e system and a u t o m a t i c a l l y sound an
+a l a r m as t h e w a t e r i s b e i n g p u t on t h e f i r e .
+E l e c t r i c a l h e a t d e t e c t o r s , w h i c h o n l y sound an a l a r m and have no e x t i n g u i s h i n g f u n c t i o n , a r e a l s o used. Heat d e t e c t o r s a r e t h e l e a s t expensive f i r e
+d e t e c t o r s , have t h e l o w e s t f a l s e a l a r m r a t e o f a l l f i r e d e t e c t o r s , b u t a r e
+a l s o t h e s l o w e s t i n d e t e c t i n g f i r e s . Heat d e t e c t o r s a r e b e s t s u i t e d f o r f i r e
+d e t e c t i o n i n s m a l l c o n f i n e d spaces where r a p i d l y b u i l d i n g , h i g h h e a t o u t p u t
+f i r e s a r e expected and i n o t h e r areas where ambient c o n d i t i o n s would n o t a l l o w
+t h e use o f o t h e r f i r e d e t e c t i o n d e v i c e s o r where speed o f d e t e c t i o n o r l i f e
+s a f e t y a r e n o t t h e p r i m e c o n s i d e r a t i o n . One example o f t h i s would be l o w v a l u e
+p r o t e c t i o n where f i r e c o u l d cause minimum damage t o t h e s t r u c t u r e o r c o n t e n t s .
+Heat d e t e c t o r s may be t h o u g h t o f as d e t e c t i n g f i r e s w i t h i n m i n u t e s o f i g n i t i o n .
+Heat d e t e c t o r s respond t o t h e convected t h e r m a l energy o f a f i r e and a r e
+g e n e r a l l y l o c a t e d a t o r near t h e c e i l i n g . They may respond e i t h e r a t a
+p r e d e t e r m i n e d f i x e d temperature o r a t a s p e c i f i e d r a t e o f t e m p e r a t u r e change.
+11
+
+I n g e n e r a l , h e a t d e t e c t o r s a r e designed t o sense a p r e s c r i b e d change i n a
+p h y s i c a l o r e l e c t r i c a l p r o p e r t y o f a m a t e r i a l when exposed t o h e a t .
+Fixed-Temperature D e t e c t o r s
+F i x e d - t e m p e r a t u r e d e t e c t o r s a r e designed t o a l a r m when t h e temperature o f
+t h e o p e r a t i n g element reaches a s p e c i f i e d p o i n t . l h e a i r temperature a t t h e
+t i m e o f o p e r a t i o n i s u s u a l l y h i g h e r t h a n t h e r a t e d temperature due t o t h e
+thermal i n e r t i a o f t h e o p e r a t i n g elements. F i x e d - t e m p e r a t u r e h e a t d e t e c t o r s
+a r e a v a i l a b l e t o c o v e r a wide range o f o p e r a t i n g temperatures r a n g i n g f r o m
+5 1 " C ( 1 3 5 O F ) and up. H i g h e r temperature d e t e c t o r s a r e necessary s o t h a t
+detection can be p r o v i d e d i n areas t h a t a r e n o r m a l l y s u b j e c t e d t o h i g h ambient
+( n o n f ir e ) temperatures.
+E u t e c t i c m e t a l s , a l l o y s o f bismuth, l e a d , t i n , and cadmium, which m e l t
+r a p i d l y a t a p r e d e t e r m i n e d temperature, can be used as o p e r a t i n g elements f o r
+h e a t d e t e c t i o n . l h e most contmon such use i s t h e f u s i b l e element i n an a u t o
+m d t i c s p r i n k l e r head. F u s i n g o f t h e element a l l o w s w a t e r t o f l o w i n t h e system, which t r i g g e r s an a l a r m by v a r i o u s e l e c t r i c a l o r mechanical means. A
+e u t e c t i c m e t a l may be used i n one o f two ways t o a c t u a t e an e l e c t r i c a l a l a r m
+c i r c u i t . l h e s i m p l e s t method i s t o p l a c e t h e e u t e c t i c element i n s e r i e s w i t h
+a n o r m a l l y c l o s e d c i r c u i t . F u s i n g o f t h e m e t a l opens t h e c i r c u i t t o t r i g g e r
+an alarm.
+l h e second method employs a e u t e c t i c m e t a l as a s o l d e r t o secure a
+s p r i n g under t e n s i o n . When t h e element fuses, t h e s p r i n g a c t i o n i s used t o
+c l o s e c o n t a c t s and sound an a l a r m . Devices u s i n g e u t e c t i c m e t a l s cannot be
+r e s t o r e d . € i t h e r t h e d e v i c e o r i t s o p e r a t i n g element must be r e p l a c e d f o l l o w
+irig opcr a t ion.
+F r a n g i b l e g l a s s b u l b s s i m i l a r t o those used f o r s p r i n k l e r heads have been
+usc'd t o a c t u a t e a l a r m c i r c u i t s . l h e b u l b , which c o n t a i n s a h i g h vapor p r e s s u r e
+l i q u i d arid a s m a l l a i r b u b b l e , i s used as a s t r u t t o rriaintain a n o r m a l l y opcri
+5 w i L r t i i n g c i r c u i t . When exposed t o h e a t , t h e l i q u i d expands, compressing t h e
+d i r b u b b l e . When t h e b u b b l e i s c o m p l e t e l y absorbed, Lhere i s a r a p i d i n c r e a s e
+i n p r e s s u r e , s h a t t e r i n g t h e b u l b and a l l o w i n g the c o n t a c t s t o c l o s e . l h e
+d o s i r e d temperature r a t i n g i s o b t a i n e d by c o n t r o l l i n g t h e s i L e of t h e a i r
+b u b b l e r c l d t i v c t o t h e amount o f l i q u i d i n t h c b u l b .
+A s art a l t e r n a t i v e t o s p o t t y p e f i x e d tentperdturc d e t e c t i o n , v a r i o u s nteth
+o d r o f c o n t i n u o u s l i n e d e t e c t i o n hdve bccn developed. One type o f l i n e detec
+t o r uses a p a i r o f s t e e l w i r e s i n a n o r m d l l y opcn c i r c u i t . I h e c o n d u c t o r s a r e
+i r i s u l a t e d f r o m each o t h e r by a t h e r m o p l a s t i c o f known f u s i n g temperdture. l h e
+w i r e s a r e under t e n s i o n and h e l d t o g e t h e r by a b r a i d e d shedth t o f o r m a s i n g l e
+c a b l e assembly ( f i g . 1 ) . When t h e d e s i g n Lemperdtuie i s reachcd, the i n s u l a
+t i o n m e l t s , c o n t a c t i s made, and an a l a r m i s generdted. F o l l o w i n g an a l a r m ,
+t h e f u s e d s e c t i o n o f t h e c a b l e must be r e p l a c e d t o r e s t o r e t h e system.
+
+A s i m i l a r a l a r m d e v i c e u t i l i z i n g a semiconductor m a t e r i a l and a s t a i n l e s s
+s t e e l c a p i l l a r y t u b e has been developed f o r use where mechanical s t a b i l i t y i s
+a f a c t o r ( f i g . 2 ) . 7he c a p i l l a r y tube c o n t a i n s a c o a x i a l c e n t e r conductor
+separated f r o m t h e tube w a l l by a temperature -sensi t i v e g l a r s senticonduc t o r
+m a t e r i a l . Under normal c o n d i t i o n s . a s m a l l c u r r e n t ( i . e . . below a l a r m t h r e s h o l d ) f l o w s i n t h e c i r c u t . A s t h e t e m p e r a t u r e r i s e s , t h e r e s i s t a n c e o f the
+semiconductor decreases a l l o w i n g more c u r r e n t f l o w and t r i g g e r i n g t h e alarm.
+
+12
+
+I
+
+I
+l
+
+,
+I
+
+B i m e t a l s a r e used f o r t h e o p e r a t i n g elements o f s e v e r a l types o f f i x e d t e m p e r a t u r e d e t e c t o r s . When a sandwich o f two m e t a l s h a v i n g d i f f e r e n t c o e f f i c i e n t s o f t h e r m a l expansion i s heated, d i f f e r e n t i a l expansion causes bending
+o r f l e x i n g towards t h e m e t a l h a v i n g t h e lower expansion r a t e . T h i s a c t i o n
+c l o s e s a n o r m a l l y open c i r c u i t . The l o w expansion m e t a l commonly used i s
+I n v a r , an a l l o y o f 36 p e r c e n t n i c k e l and 64 p e r c e n t i r o n . Several a l l o y s o f
+manganese-copper-nickel, n i c k e l - c h r o m i u m - i r o n o r s t a i n l e s s s t e e l may be used
+f o r t h e h i g h expansion component o f a b i m e t a l assembly.
+
+1
+I
+
+I
+
+f
+
+B i m e t a l d e t e c t o r s a r e g e n e r a l l y o f two types, t h e b i m e t a l s t r i p and t h e
+b i m e t a l snap d i s c . Some d e v i c e s use b i m e t a l s t r i p s p l a c e d d i r e c t l y i n t h e
+a l a r m c i r c u i t . As t h e s t r i p i s heated i t deforms i n t h e d i r e c t i o n o f i t s cont a c t p o i n t . The w i d t h o f t h e gap between t h e c o n t a c t s determines t h e o p e r a t i n g
+temperature. The w i d e r t h e gap, t h e h i g h e r t h e o p e r a t i n g p o i n t . Drawbacks t o
+t h i s t y p e o f d e v i c e a r e i t s l a c k o f r a p i d p o s i t i v e a c t i o n and i t s s u s c e p t i b i l i t y t o f a l s e alarms f r o m v i b r a t i o n o r j a r r i n g , p a r t i c u l a r l y as t h e r a t e d temp e r a t u r e i s approached, f o r example, d u r i n g p e r i o d s o f t r a n s i e n t h i g h ambient
+temperatures t h a t a r e below t h e a l a r m p o i n t .
+l h e o p e r a t i n g element o f a snap-disc d e v i c e i s a b i m e t a l d i s c formed i n t o
+a concave shape i n i t s u n s t r e s s e d c o n d i t i o n ( f i g . 3 ) . A s t h e d i s c i s heated,
+t h e s t r e s s e s developed cause i t t o r e v e r s e c u r v a t u r e suddenly and become convex. T h i s p r o v i d e s a r a p i d p o s i t i v e a c t i o n , which a l l o w s t h e a l a r m c o n t a c t s
+t o c l o s e . The d i s c i t s e l f i s n o t u s u a l l y p a r t o f t h e e l e c t r i c a l c i r c u i t .
+Snap-disc d e v i c e s a r e n o t as s e n s i t i v e t o f a l s e o r i n t e r m i t t e n t alarms as t h e
+b i m e t a l s t r i p s d e s c r i b e d above.
+
+A d i f f e r e n t a p p l i c a t i o n o f t h e thermal expansion p r o p e r t i e s o f m e t a l s i s
+found i n t h e r a t e compensation d e t e c t o r s , which use m e t a l s o f d i f f e r e n t thernial
+expansion r a t e s t o compensate f o r slow changes i n t e m p e r a t u r e w h i l e r e s p o n d i n g
+w i t h an a l a r m f o r r a p i d r a t e s o f t e m p e r a t u r e r i s e and a t a f i x e d maximum temp e r a t u r e as w e l l . For a f u r t h e r d i s c u s s i o n o f t h i s d e v i c e , see t h e s e c t i o n on
+Combination D e t e c t o r s .
+A l l t h e r m a l d e t e c t o r s u s i n g b i m e t a l o r expanding m e t a l elements have t h e
+d e s i r a b l e f e a t u r e o f a u t o m a t i c r e s t o r a t i o n a f t e r o p e r a t i o n when t h e ambient
+t e m p e r a t u r e drops below t h e o p e r a t i n g p o i n t .
+Rate-of-Rise Detectors
+One e f f e c t t h a t a f i r e has on t h e s u r r o u n d i n g environment i s t o g e n e r a t e
+a r a p i d i n c r e a s e i n a i r t e m p e r a t u r e i n t h e a r e a above t h e f i r e . W h i l e f i x e d - t e m p e r a t u r e h e a t d e t e c t o r s must w a i t u n t i l t h e gas t e m p e r a t u r e near t h e c e i l i n g
+reaches o r exceeds t h e d e s i g n a t e d o p e r a t i n g p o i n t b e f o r e sounding an alarm,
+t h e r a t e - o f - r i s e d e t e c t o r w i l l f u n c t i o n when t h e r a t e o f t e m p e r a t u r e change
+exceeds a p r e d e t e r m i n e d value, t y p i c a l l y around 8.3 "C ( 1 5 " F ) p e r m i n u t e .
+D e t e c t o r s o f t h e r a t e - o f - r i s e t y p e a r e designed t o compensate e i t h e r mechani c a l l y o r e l e c t r i c a l l y f o r normal changes i n ambient t e m p e r a t u r e t h a t a r e
+expected under n o n f i r e c o n d i t i o n s .
+The i n c r e a s e d p r e s s u r e o f gas when heated i n a c l o s e d system can be used
+t o g e n e r a t e a mechanical f o r c e t h a t w i l l o p e r a t e a l a r m c o n t a c t s i n a pneumatic
+f i r e d e t e c t i o n d e v i c e . I n a c o m p l e t e l y c l o s e d system, a c t u a t i o n w i l l occur
+s t r i c t l y f r o m a s l o w change i n ambient temperature, r e g a r d l e s s o f t h e r a t e o f
+13
+
+temperature change. l h e pneumatic d e t e c t o r s i n use today p r o v i d e a s m a l l
+opening t o v e n t t h e p r e s s u r e t h a t b u i l d s up d u r i n g slow changes i n temperature.
+7he v e n t s a r e s i z e d so t h a t when t h e temperature changes r a p i d l y , such as i n a
+f i r e s i t u a t i o n , t h e p r e s s u r e change exceeds t h e v e n t i n g r a t e and t h e system i s
+p r e s s u r i z e d . These systems a r e g e n e r a l l y s e n s i t i v e t o r a t e s o f t e m p e r a t u r e
+r i s e exceeding 8.3 "C ( 1 5 O F ) p e r m i n u t e . The p r e s s u r e i s c o n v e r t e d t o mechani c a l a c t i o n by a f l e x i b l e diaphragm. A g e n e r a l i z e d schematic o f a pneumatic
+h e a t d e t e c t i o n system i s shown i n f i g u r e I .
+Pneumatic h e a t d e t e c t o r s a r e a v a i l a b l e f o r b o t h l i n e and s p o t a p p l i c a t i o n s . The l i n e systems c o n s i s t o f m e t a l t u b i n g i n a l o o p c o n f i g u r a t i o n
+a t t a c h e d t o t h e c e i l i n g o f t h e a r e a t o be p r o t e c t e d . € x c e p t where s p e c i f i c a l l y
+approved, U n d e r w r i t e r s ' L a b o r a t o r i e s r e q u i r e s t h a t l i n e s o f t u b i n g be spaced
+n o t more t h a n 9.1 m ( 3 0 f t ) a p a r t and t h a t no s i n g l e c i r c u i t exceed 305 m
+(1000 f t ) i n l e n g t h . Zoning can be achieved by s e l e c t e d s i t i n g o f l i n e s o r by
+i n s u l a t i n g t h o s e p o r t i o n s o f a c i r c u i t t h a t pass t h r o u g h areas f r o m which a
+signal i s not desired.
+For s p o t a p p l i c a t i o n s and i n s m a l l areas where l i n e systems m i g h t riot be
+a b l e t o g e n e r a t e s u f f i c i e n t p r e s s u r e s t o a c t u a t e t h e a l a r m c o n t a c t ( , tieat c o l
+l e c t i n g a i r chambers o r r o s e l t e s a r e o f t e n used. l h e s e u n i t s a c t l i k e a s p o t
+t y p e d e t e c t o r by p r o v i d i n g a l a r g e volume o f a i r t o be expanded a t a s i n g l e
+1o c a t i o n .
+The pneumatic p r i n c i p l e i s a l s o used t o c l o s e c o n t a c t s w i t h i n s p o t detec
+t o r s o f t h e combined r a t e - o f - r i s e / f i x e d - temperature t y p e . l h e s e d e v i c e s a r e
+discussed i n t h e f o l l o w i n g section.
+Combination D e t e c t o r s
+S e v e r a l d e v i c e s a r e a v a i l a b l e t h a t use more than one o p e r a t i n g mechanirm
+and w i l l respond t o m u l t i p l e f i r e s i g n a l s w i t h a s i n g l e u n i t . l h e c o m b i n a t i o n
+d e t e c t o r s may be designed t o a l a r m e i t h e r f r o m any one o f s e v e r a l f i r e s i g n a l s
+o r o n l y when a l l t h e s i g n a l s a r e p r e s e n t a t p r e d e t e r m i n e d l e v e l s .
+S e v e r a l h e a t d e t e c t i o n d e v i c e s a r e a v a i l a b l e t h a t o p e r a t e on b o t h t h e
+r a t e - o f - r i s e and f i x e d - t e m p e r a t u r e p r i n c i p l e s . The advantage o f u n i t s such as
+t h e s e i s t h a t t h e r a t e - o f - r i s e elements w i l l respond q u i c k l y t o r a p i d l y d e v e l o p i n g f i r e s , w h i l e t h e f i x e d - t e m p e r a t u r e elements w i l l respond t o s l o w l y
+d e v e l o p i n g s m o l d e r i n g f i r e s when t h e d e s i g n a l a r m temperature i s reached. 7he
+most common t y p e uses a vented h e m i s p h e r i c a l a i r chamber and a f l e x i b l e d i a phragm f o r t h e r a t e - o f - r i s e f u n c t i o n . The f i x e d - t e m p e r a t u r e element may be
+e i t h e r a b i m e t a l s t r i p ( f i g . 5 ) o r a l e a f s p r i n g r e s t r a i n e d by a e u t e c t i c m e t a l
+( f i g . 6 ) . When t h e designed o p e r a t i n g temperature i s reached, e i t h e r t h e
+bimetal s t r i p f l e x e s t o t h e contact p o i n t o r t h e e u t e c t i c metal fuses, releasi n g t h e s p r i n g which c l o s e s t h e c o n t a c t s .
+A second d e v i c e t h a t can be c l a s s i f i e d as c o m b i n a t i o n r a t e - o f - r i s e / f i x e d temperature i s t h e r a t e - c o m p e n s a t i o n d e t e c t o r . l h i s d e t e c t o r uses a m e t a l
+c y l i n d e r c o n t a i n i n g two m e t a l s t r u t s . l h e s e s t r u t s a c t as t h e a l a r m c o n t a c t s
+and a r e under compression i n a n o r m a l l y open p o s i t i o n ( f i g . - 1 ) . l h e o u t e r
+s h e l l i s made o f a m a t e r i a l w i t h a h i g h c o e f f i c i e n t o f thermal expansion,
+u s u a l l y aluminum, w h i l e t h e s t r u t s , u s u a l l y copper, have a lower expansion
+c o e f f i c i e n t . When exposed t o a r a p i d change i n temperature, t h e s h e l l expands
+
+14
+
+r a p i d l y , r e l i e v i n g t h e f o r c e on t h e s t r u t s and a l l o w i n g them t o c l o s e . Under
+s l o w l y i n c r e a s i n g temperature c o n d i t i o n s b o t h t h e s h e l l and s t r u t s expand.
+l h e c o n t a c t s remain open u n t i l t h e c y l i n d e r , which expands a t a g r e a t e r r a t e ,
+has e l o n g a t e d s u f f i c i e n t l y t o a l l o w them t o c l o s e . T h i s c l o s u r e occurs a t t h e
+fixed-temperature r a t i n g o f the device.
+1he rnioe 1ec t r ic De t ec t o r s
+
+Various t h e r m o e l e c t r i c p r o p e r t i e s o f m e t a l s have been s u c c e s s f u l l y a p p l i e d
+i n d e v i c e s f o r h e a t d e t e c t i o n . O p e r a t i o n i s based e i t h e r on t h e g e n e r a t i o n o f
+a v o l t a g e between b i m e t a l l i c j u n c t i o n s (thermocouples) a t d i f f e r e n t temperat u r e s o r v a r i a t i o n s i n r a t e s o f r e s i s t i v i t y change w i t h temperature.
+These s p o t - t y p e d e v i c e s , which o p e r a t e i n t h e v o l t a g e - g e n e r a t i n g mode,
+use two s e t s o f thermocouples. One s e t i s exposed t o changes i n t h e atmosp h e r i c t e m p e r a t u r e and t h e o t h e r i s n o t . D u r i n g p e r i o d s o f r a p i d temperature
+change a s s o c i a t e d w i t h a f i r e , t h e temperature o f t h e exposed s e t i n c r e a s e s
+f a s t e r t h a n t h e unexposed s e t and a n e t p o t e n t i a l i s generated. l h e v o l t a g e
+i n c r e a s e a s s o c i a t e d w i t h t h i s p o t e n t i a l i s used t o o p e r a t e t h e a l a r m c i r c u i t .
+
+SMOKE DEl'tC1 I O N
+
+Smoke d e t e c t o r s a r e more c o s t l y t h a n h e a t d e t e c t o r s b u t p r o v i d e c o n s i d e r a b l y f a s t e r d e t e c t i o n times arid subsequently h i g h e r f a l s e a l a r m r a t e s due t o
+t h e i r i n c r e a s e d s e n s i t i v i t y . W h i l e smoke d e t e c t o r s a r e v e r y e f f e c t i v e f o r
+l i f e s a f e t y a p p l i c a t i o n s , t h e y a r e a l s o more d i f f i c u l t t o l o c a t e p r o p e r l y ,
+s i n c e a i r c u r r e n t s , which m i g h t a f f e c t t h e d i r e c t i o n o f smoke f l o w , must be
+taken i n t o c o n s i d e r a t i o n .
+Smoke d e t e c t o r s a r e c l a s s i f i e d a c c o r d i n g t o t h e i r o p e r a t i n g p r i n c i p l e and
+a r e of two main t y p e s : i o n i z a t i o n and p h o t o e l e c t r i c . Smoke d e t e c t o r s o p e r a t i n g on t h e p h o t o e l e c t r i c p r i n c i p l e g i v e somewhat f a s t e r response t o t h e
+p r o d u c t s generated by f i r e s o f low energy ( s m o l d e r i n g ) as these f i r e s g e n e r a l l y
+produce l a r g e q u a n t i t i e s o f v i s i b l e ( l a r g e r p a r t i c l e ) smoke. Smoke d e t e c t o r s
+u s i n g t h e i o n i z a t i o n p r i n c i p l e p r o v i d e somewhat f a s t e r response t o f i r e s o f
+h i g h energy (open f l a m i n g ) as these f i r e s produce t h e s m a l l e r smoke p a r t i c l e s
+t h a t a r e more e a s i l y d e t e c t e d by t h i s t y p e o f d e t e c t o r .
+Smoke d e t e c t o r s should be used t o p r o t e c t areas o f h i g h v a l u e and areas
+where l i f e s a f e t y and f a s t response times a r e d e s i r e d . Smoke d e t e c t o r s can
+o p e r a t e w i t h i n seconds o f f i r e i g n i t i o n .
+Smoke d e t e c t o r s a r e a l s o i n s t a l l e d i n r e t u r n a i r d u c t s o f v e n t i l a t i n g
+( H V A C ) systems i n l a r g e b u i l d i n g s t o p r e v e n t r e c i r c u l a t i o n o f smoke t h r o u g h
+t h e HVAC system f r o m a f i r e w i t h i n t h e b u i l d i n g . Upon d e t e c t i o n , t h e a s s o c i -
+
+a t e d c o n t r o l system i s designed t o a u t o m a t i c a l l y s h u t down t h e c i r c u l a t i n g
+b l o w e r s o r t o change them over t o a smoke exhaust mode. Smoke-activated
+d e v i c e s a r e a l s o used t o a u t o m a t i c a l l y c l o s e smoke doors i n l a r g e b u i l d i n g s i n
+o r d e r t o l i m i t t h e spread o f smoke i n case o f f i r e . T h i s may be done w i t h
+s e p a r a t e c o r r i d o r - c e i l i n g mounted smoke d e t e c t o r s connected t o
+
+15
+
+e l e c t r i c a l l y - o p e r a t e d h o l d - o p e n devices on t h e doors o r smoke d e t e c t o r s t h a t
+a r e b u i l t i n t o t h e door c l o s u r e u n i t s themselves.
+I o n i z a t i o n Detectors
+I o n i z a t i o n chambers have been used f o r many years as l a b o r a t o r y i n s t r u ments f o r d e t e c t i n g m i c r o s c o p i c p a r t i c l e s . I n 1939 E r n s t M e i l i , a S w i s s physi c i s t , developed an i o n i z a t i o n chamber d e v i c e f o r t h e d e t e c t i o n o f c o m b u s t i b l e
+gases i n mines ( r e f . 1 1 ) . The major breakthrough i n t h e f i e l d r e s u l t e d f r o m
+M e i l i ' s i n v e n t i o n o f a s p e c i a l cold-cathode tube, which would a m p l i f y t h e s m a l l
+s i g n a l produced by t h e h i g h impedance d e t e c t i o n c i r c u i t s u f f i c i e n t l y t o t r i g g e r
+an a l a r m c i r c u i t . T h i s reduced t h e e l e c t r o n i c s r e q u i r e d and r e s u l t e d i n a
+p r a c t i c a l d e t e c t o r . I n most models today, t h e c o l d - c a t h o d e tube has been
+r e p l a c e d w i t h s o l i d s t a t e c i r c u i t r y , which f u r t h e r reduces t h e s i z e and c o s t .
+The b a s i c d e t e c t i o n mechanism o f an i o n i z a t i o n d e t e c t o r c o n s i s t s o f an
+a l p h a o r b e t a r a d i a t i o n source i n a chamber c o n t a i n i n g p o s i t i v e and n e g a t i v e
+e l e c t r o d e s . Alpha r a d i a t i o n sources a r e commonly americium-241 o r radium-226,
+and t h e s t r e n g t h o f t h e sources g e n e r a l l y range f r o m 2000 t o 3 000 000 d i s i n t e g r a t i o n s p e r second ( 0 . 0 5 t o 80 p C i ) . The a l p h a r a d i a t i o n i n t h e chamber
+i o n i z e s t h e oxygen and n i t r o g e n molecules i n t h e a i r between t h e e l e c t r o d e s
+c a u s i n g a s m a l l c u r r e n t ( o f t h e o r d e r o f 10-11 A ) t o f l o w when v o l t a g e i s
+applied ( f l g . 8).
+When a smoke a e r o s o l e n t e r s t h e chamber, i t reduces t h e m o b i l i t y o f t h e
+i o n s , and t h e r e f o r e t h e c u r r e n t f l o w between t h e e l e c t r o d e s ( f i g . 9 ) . The
+r e s u l t i n g change i n t h e c u r r e n t i n t h e e l e c t r o n i c c i r c u i t i s used t o t r i g g e r
+an a l a r m a t a predetermined l e v e l o f smoke i n t h e chamber. The i o n i z a t i o n
+chamber d e t e c t o r r e a c t s t o b o t h v i s i b l e and i n v i s i b l e components o f t h e p r o d u c t s o f combustion. I t responds b e s t t o p a r t i c l e s i z e s between 0.01 and
+1 . 0 pm.
+Depending on t h e placement o f t h e a l p h a source, two types o f chambers,
+u n i p o l a r o r b i p o l a r , may be produced. A u n i p o l a r chamber i s c r e a t e d by u s i n g
+a t i g h t l y c o l l i m a t e d a l p h a source p l a c e d c l o s e t o t h e n e g a t i v e e l e c t r o d e , thus
+i o n i z i n g o n l y a s m a l l p a r t o f t h e chamber space ( f i g . 1 0 ) . W i t h t h i s c o n f i g .
+u r a t i o n , most o f t h e p o s i t i v e i o n s a r e c o l l e c t e d on t h e cathode, l e a v i n g a
+predominance o f n e g a t i v e i o n s f l o w i n g through t h e chamber t o t h e anode. The
+b i p o l a r chamber has t h e a l p h a source c e n t r a l l y l o c a t e d so t h a t t h e e n t i r e
+chamber space i s s u b j e c t t o i o n i z a t i o n ( f i g . 1 1 ) . The u n i p o l a r chamber i s
+t h e o r e t i c a l l y a u n i p o l a r and b i p o l a r chamber i n s e r i e s ( f i g s . 10 and 1 2 ) .
+l h a t i s , t h e r e i s a p u r e l y u n i p o l a r s e c t i o n and a s e c t i o n which c o n t a i n s i o n s
+o f both p o l a r i t i e s .
+A comparison o f t h e r e l a t i v e m e r i t s o f t h e two types o f chamber d e s i g n
+i n d i c a t e s t h a t t h e u n i p o l a r chamber has a p p r o x i m a t e l y t h r e e times t h e s e n s i t i v i t y o f t h e b i p o l a r c o n f i g u r a t i o n . The reason f o r t h e i n c r e a s e d s e n s i t i v i t y
+i s b e l i e v e d t o be due t o t h e f a c t t h a t t h e r e i s l e s s l o s s o f i o n c a r r i e r s by
+recombination, 1.e. n e u t r a l i z a t i o n o f i o n s of o p p o s l t e s i g n s , which occurs i n
+t h e b i p o l a r chamber. l h i s r e s u l t s i n a h i g h e r s i g n a l - t o - n o i s e r a t i o and a
+stronger alarm signal t o the a m p l i f i e r c i r c u i t .
+
+l h e a l a r m s i g n a l i n an i o n chamber d e t e c t o r i s generated by a v o l t a g e
+s h i f t a t t h e j u n c t i o n between a r e f e r e n c e c i r c u i t and t h e measuring chamber.
+16
+
+l h e v o l t a g e s h i f t r e s u l t s f r o m a c u r r e n t decrease i n t h e measuring chaiiiber
+when p r o d u c t s o f combustion a r e p r e s e n t . l h e r e f e r e n c e c i r c u i t may bc e i t h c r
+e l e c t r o n i c o r a second i o n chamber o n l y p a r t i a l l y open t o t h e atniosptiere
+( f i g . 1 3 ) . These c i r c u i t s a r e r e f e r r e d t o as s i n g l e chamber and d u a l chamber,
+r e s p e c t i v e l y . The d u a l chamber has an advantage i n t h e r e d u c t i o n o f f a l s e
+alarms due t o changes i n ambient c o n d i t i o n s . l h e r e f e r e n c e chamber w i l l tend
+t o compensate f o r s l o w changes i n temperature, p r e s s u r e , and h u m i d i t y .
+
+I t should be n o t e d t h a t some i o n chamber d e t e c t o r designs a r e s u b j e c t t o
+changes i n s e n s i t i v i t y w i t h v a r y i n g v e l o c i t y o f a i r e n t e r i n g t h e sampling
+chamber. D e t e c t o r s w i t h u n i p o l a r chamber designs move s l i g h t l y away f r o m a l a r m
+as v e l o c i t y i n c r e a s e s and a r e t h e most s t a b l e over wide v a r i a t i o n s i n a i r f l o w .
+D e t e c t o r s w i t h b i p o l a r chamber designs move toward a l a r m as v e l o c i t y i n c r e a s e s ,
+and some may s h i f t s u f f i c i e n t l y i n t h e more s e n s i t i v e d i r e c t i o n t o t r i g g e r a
+f a l s e a l a r m . Care must be taken t o choose t h e a p p r o p r i a t e d e s i g n f o r t h e a r e a
+t o be s u p e r v i s e d .
+l e s t s have i n d i c a t e d t h a t i o n chamber d e t e c t o r s a r e n o t s u i t a b l e f o r use
+i n a p p l i c a t i o n s where h i g h ambient r a d i o a c t i v i t y l e v e l s a r e t o be expected.
+The e f f e c t o f r a d i a t i o n i s t o reduce t h e s e n s i t i v i t y . Tests a l s o i n d i c a t e
+t h a t f a l s e alarms can be t r i g g e r e d by t h e presence o f ozone o r ammonia.
+l o n chamber d e t e c t o r s a r e a v a i l a b l e f o r b o t h i n d u s t r i a l and domestic use.
+Models a r e produced f o r b o t h s i n g l e s t a t i o n and system a p p l i c a t i o n s . Power
+s u p p l y r e q u i r e m e n t s v a r y f r o m 240 and 120 V ac o r 6 t o 2 4 V dc f o r use w i t h
+f i r e a l a r m systems t o b a t t e r y powered u n i t s u s i n g 9 t o 13.5 V dc f o r r e s i d e n t i a l use.
+P h o t o e l e c t r i c Detectors
+The presence o f suspended smoke p a r t i c l e s generated d u r i n g t h e combustion
+process a f f e c t s t h e p r o p a g a t i o n o f a l i g h t beam p a s s i n g t h r o u g h t h e a i r . l h i s
+e f f e c t can be u t i l i z e d t o d e t e c t t h e presence o f a f i r e i n two ways:
+( 1 ) a t t e n u a t i o n o f t h e l i g h t i n t e n s i t y over t h e beam p a t h l e n g t h , and
+( 2 ) s c a t t e r i n g o f t h e l i g h t b o t h i n t h e f o r w a r d d i r e c t i o n and a t v a r i o u s a n g l e s
+t o t h e beam p a t h ,
+The t h e o r y o f l i g h t a t t e n u a t i o n by a e r o s o l s d i s p e r s e d i n a medium i s
+d e s c r i b e d by t h e Lambert--Beer Law. I t s t a t e s t h a t t h e a t t e n u a t i o n o f l i g h t i s
+an e x p o n e n t i a l f u n c t i o n o f t h e beam p a t h l e n g t h ( l ) , t h e c o n c e n t r a t i o n o f
+p a r t i c l e s ( c ) , and t h e e x t i n c t i o n c o e f f i c i e n t o f t h e p a r t i c l e s ( k ) . T h i s
+r e l a t i o n s h i p i s expressed as f o l l o w s ( r e f . 1 2 ) :
+-kcl
+I = I e
+0
+
+where I i s t h e t r a n s m i t t e d i n t e n s i t y a t l e n g t h
+( c l e a r a i r ) i n t e n s i t y o f t h e l i g h t source.
+
+1
+
+and
+
+Io s t h e i n i t i a l
+i
+
+Smoke d e t e c t o r s t h a t u t i l i z e a t t e n u a t i o n c o n s i s t o f a l i g h t source, a
+l i g h t beam c o l l i m a t i n g system, and a p h o t o s e n s i t i v e c e l l ( f i g . 1 4 ) . I n most
+a p p l i c a t i o n s , t h e l i g h t source i s an i n c a n d e s c e n t b u l b , b u t l a s e r s and l i g h t
+e m i t t i n g d i o d e s (LED's) a r e a l s o used i n newer p h o t o e l e c t r i c a e r o s o l d e t e c t o r s .
+L i g h t e m i t t i n g d i o d e s a r e a r e l i a b l e l o n g l i f e source o f i l l u m i n a t i o n w i t h low
+c u r r e n t r e q u i r e m e n t s . Pulsed L E D ' s can g e n e r a t e s u f f i c i e n t l i g h t i n t e n s i t y
+f o r use i n d e t e c t i o n equipment.
+17
+
+The p h o t o s e n s i t i v e d e v i c e may be e i t h e r a p h o t o v o l t a i c o r p h o t o r e s i s t i v e
+c e l l . The p h o t o v o l t a i c c e l l s a r e u s u a l l y selenium o r s i l i c o n c e l l s , which
+produce a v o l t a g e when exposed t o l i g h t . These have t h e advantage t h a t no
+b i a s v o l t a g e i s needed, b u t , i n most cases, t h e o u t p u t s i g n a l i s l o w and an
+a m p l i f i c a t i o n c i r c u i t i s r e q u i r e d . These u n i t s a l a r m when t h e p h o t o c e l l o u t p u t
+i s reduced by a t t e n u a t i o n o f t h e l i g h t as i t passes t h r o u g h t h e smoke i n t h e
+atmosphere between t h e l i g h t source and t h e p h o t o c e l l . P h o t o r e s i s t i v e c e l l s
+change r e s i s t a n c e as t h e i n t e n s i t y o f t h e i n c i d e n t l i g h t v a r i e s . Cadmium s u l f i d e c e l l s a r e m o s t commonly employed. These c e l l s a r e o f t e n used as one l e g
+o f a Wheatstone b r i d g e , and an a l a r m i s t r i g g e r e d when t h e v o l t a g e s h i f t i n t h e
+b r i d g e c i r c u i t reaches a predetermined l e v e l r e l a t e d t o t h e l i g h t a t t e n u a t i o n
+d e s i r e d f o r alarm.
+I n p r a c t i c e , most l i g h t a t t e n t u a t i o n o r p r o j e c t e d beam smoke d e t e c t i o n
+systems a r e used t o p r o t e c t l a r g e open areas and a r e i n s t a l l e d w i t h t h e l i g h t
+source a t one end o f t h e area t o be p r o t e c t e d and t h e r e c e i v e r ( p h o t o c e l l / r e l a y
+assembly) a t t h e o t h e r end. I n some a p p l i c a t i o n s , t h e e f f e c t i v e beam p a t h
+l e n g t h i s i n c r e a s e d by t h e use o f m i r r o r s . P r o j e c t e d beam d e t e c t o r s a r e gene r a l l y i n s t a l l e d c l o s e t o t h e c e i l i n g , where t h e e a r l i e s t d e t e c t i o n i s p o s s i b l e
+and f a l s e alarms r e s u l t i n g f r o m i n a d v e r t e n t b r e a k i n g o f t h e beam a r e minimized.
+A l t h o u g h most systems employ a l o n g p a t h l e n g t h and s e p a r a t i o n o f t h e
+l i g h t source and t h e r e c e l v e r , t h e r e a r e s p o t - t y p e d e t e c t o r s which o p e r a t e by
+l i g h t a t t e n u a t i o n . One such u n i t uses a 0.19-m ( 7 . 8 - i n . ) l i g h t p a t h w i t h a
+sealed r e f e r e n c e chamber and an open sampling chamber, each c o n t a i n i n g a p h o t o c e l l . Presence o f smoke i n t h e sampling chamber r e s u l t s i n a v o l t a g e r e d u c t i o n
+f r o m i t s s e l e n i u m p h o t o c e l l , which i s measured by a b r i d g e c i r c u i t c o n t a i n i n g
+t h e p h o t o c e l l f r o m t h e r e f e r e n c e chamber ( f i g . 1 5 ) .
+'Ihere a r e s e v e r a l problems a s s o c i a t e d w i t h p r o j e c t e d beam d e t e c t i o n .
+S i n c e t h e s e d e v i c e s a r e e s s e n t i a l l y l i n e d e t e c t o r s , smoke must t r a v e l f r o m t h e
+p o i n t o f g e n e r a t i o n i n t o t h e p a t h o f t h e l i g h t beam. T h i s may t a k e t i m e and
+a l l o w t h e f i r e t o d e v e l o p headway b e f o r e t h e a l a r m i s sounded. I n a d d i t i o n ,
+f o r l a r g e p r o t e c t e d areas where l o n g beam p a t h l e n g t h s a r e necessary, c o n s i d e r a b l e smoke must be generated i n any s m a l l segment o f t h e beam i n o r d e r f o r
+s u f f i c i e n t a t t e n u a t i o n t o be achieved. Two common ways o f i n c r e a s i n g t h e sens i t i v i t y o f t h e system a r e by t h e use o f m u l t i p l e beams o r r e f l e c t i n g m i r r o r s
+t h a t would pass t h e beam t h r o u g h t h e smoke more t h a n once. F i n a l l y , c o n t i n u o u s
+exposure t o l i g h t can damage o r a c c e l e r a t e t h e a g i n g o f p h o t o c e l l s , r e s u l t i n g
+i n i n c r e a s e d maintenance and p o s s i b l e system f a i l u r e .
+S c a t t e r i n g r e s u l t s when l i g h t s t r i k e s a e r o s o l p a r t i c l e s i n suspension.
+S c a t t e r e d l i g h t reaches i t s maximum i n t e n s i t y a t an a n g l e o f about 2 7 " f r o m
+t h e p a t h o f t h e beam i n b o t h t h e f o r w a r d and backward d l r e c t i o n s and t h e
+s c a t t e r e d l i g h t i n t e n s i t y i s a t a minimum i n a d i r e c t i o n p e r p e n d i c u l a r t o t h e
+beam p a t h . The i n t e n s i t y o f s c a t t e r e d l i g h t i s a l s o r e l a t e d t o p a r t i c l e s i z e
+and t h e wavelength o f t h e i n c i d e n t l i g h t . T h i s i n t e n s i t y , as d e s c r i b e d by
+R a y l e l g h ' s t h e o r y f o r p a r t i c l e s w i t h d i a m e t e r s l e s s t h a n 0.1 t i m e s t h e wavel e n g t h o f t h e i n c i d e n t l i g h t , i s d i r e c t l y p r o p o r t i o n a l t o t h e square o f t h e
+p a r t i c l e volume and i n v e r s e l y p r o p o r t i o n a l t o t h e f o u r t h power o f t h e wavel e n g t h . The t h e o r y o f s c a t t e r i n g f o r l a r g e r p a r t i c l e s , f r o m 0.1 t o 4 times
+t h e wavelength o f t h e i n c i d e n t l i g h t , has been d e f i n e d by Mie. These t h e o r i e s
+o f l i g h t s c a t t e r i n g a r e v a l i d o n l y f o r i s o t r o p i c s p h e r i c a l p a r t i c l e s and a r e
+v e r y complex. However, smoke p a r t i c l e s f r o m a f i r e c o n s i s t o f a nonhomogeneous
+18
+
+m i x t u r e o f p a r t i c l e s , w h i c h a r e o f t e n n e i t h e r s p h e r i c a l n o r i s o t r o p i c , and
+s c a t t e r i n g i n t e n s i t i e s must be determined e m p i r i c a l l y f o r each a e r o s o l m i x t u r e .
+I
+
+I
+
+I
+
+Smoke d e t e c t o r s u t i l i z i n g t h e s c a t t e r i n g p r i n c i p l e o p e r a t e on t h e f o r w a r d
+s c a t t e r i n g o f l i g h t which occurs when smoke p a r t i c l e s e n t e r a chamber o r l a b y r i n t h . The presence o f smoke w i l l i n c r e a s e t h e f o r w a r d s c a t t e r i n g o f l i g h t
+f r o m 10 t o 1 2 t i m e s , b u t t h e i n t e n s i t y o f t h e s c a t t e r e d l i g h t w i l l decrease as
+t h e a n g l e between t h e beam p a t h and t h e p h o t o c e l l i n c r e a s e s beyond 27". 'The
+p h o t o c e l l s used i n these d e t e c t o r s may be e i t h e r p h o t o v o l t a i c , o r p h o t o r e s i s t i v e . T y p i c a l component c o n f i g u r a t i o n s a r e shown i n f i g u r e 16. These u n i t s
+a r e o f t h e s p o t t y p e and may be used as s i n g l e s t a t i o n d e v i c e s w i t h s e l f c o n t a i n e d power s u p p l y and a l a r m o r as p a r t o f an i n t e g r a t e d system w i t h remote
+power s u p p l y , alarm, and z o n e - i n d i c a t i n g hardware.
+FLAME DETECT I
+ON
+
+Flame d e t e c t o r s o p t i c a l l y sense e i t h e r t h e u l t r a v i o l e t ( U V ) o r i n f r a r e d
+( I R ) r a d i a t i o n g i v e n o f f by flames o r g l o w i n g embers. Flame d e t e c t o r s have
+t h e h i g h e s t f a l s e a l a r m r a t e and t h e f a s t e s t d e t e c t i o n times o f any t y p e o f
+f i r e d e t e c t o r . D e t e c t i o n times f o r flame d e t e c t o r s a r e g e n e r a l l y measured i n
+milliseconds from f i r e i g n i t i o n .
+Flame d e t e c t o r s a r e g e n e r a l l y o n l y used ' i n h i g h hazard areas such as f u e l
+l o a d i n g p l a t f o r m s , i n d u s t r i a l process areas, h y p e r b a r i c chambers, h i g h c e i l i n g
+a r e a s , and any o t h e r areas w i t h atmospheres i n which e x p l o s i o n s o r v e r y r a p i d
+f i r e s may o c c u r . Flame d e t e c t o r s a r e " l i n e o f s i g h t " d e v i c e s as t h e y must be
+a b l e t o "see" t h e f i r e , and t h e y a r e s u b j e c t t o b e i n g b l o c k e d by o b j e c t s p l a c e d
+i n f r o n t o f them. However, t h e i n f r a r e d t y p e o f flame d e t e c t o r has some capab i l i t y f o r d e t e c t i n g r a d i a t i o n r e f l e c t e d f r o m w a l l s . I n g e n e r a l , t h e use of
+f l a m e d e t e c t o r s i s r e s t r i c t e d t o "No Smoking" areas o r anywhere where h i g h l y
+flammable m a t e r i a l s a r e s t o r e d o r used.
+
+Infrared Detectors
+I n f r a r e d d e t e c t o r s b a s i c a l l y c o n s i s t o f a f i l t e r and l e n s system t o screen
+o u t unwanted wavelengths and f o c u s t h e incoming energy on a p h o t o v o l t a i c o r
+p h o t o r e s i s t i v e c e l l s e n s i t i v e t o t h e i n f r a r e d . I n f r a r e d r a d i a t i o n can be
+d e t e c t e d by any one o f s e v e r a l p h o t o c e l l s such as s i l i c o n , l e a d s u l f i d e ,
+i n d i u m a r s e n i d e , and l e a d s e l e n i d e . The most commonly used a r e s i l i c o n and
+l e a d s u l f i d e . These d e t e c t o r s can respond t o e i t h e r t h e t o t a l I R component of
+t h e f l a m e a l o n e o r i n c o m b i n a t i o n w i t h f l a m e f l i c k e r i n t h e f r e q u e n c y range o f
+5 t o 30 H z .
+I n t e r f e r e n c e f r o m s o l a r r a d i a t i o n i n t h e i n f r a r e d r e g i o n can be a major
+problem i n t h e use of i n f r a r e d d e t e c t o r s r e c e i v i n g t o t a l I R r a d i a t i o n s i n c e
+t h e s o l a r background i n t e n s i t y can be c o n s i d e r a b l y l a r g e r t h a n t h a t o f a f l a m e
+s i g n a l f r o m a s m a l l f i r e . T h i s problem can be p a r t i a l l y r e s o l v e d by choosing
+f i l t e r s which e x c l u d e a l l I R e x c e p t i n t h e 2.5 t o 2.8 pm and/or 4.2 t o 4 . 5 pm
+ranges. These r e p r e s e n t a b s o r p t i o n peaks f o r s o l a r r a d i a t i o n due t o t h e p r e s ence o f C02 and w a t e r i n t h e atmosphere. I n cases where t h e d e t e c t o r s a r e
+t o be used i n l o c a t i o n s s h i e l d e d f r o m t h e sun, such as i n v a u l t s , t h i s
+19
+
+f i l t e r i n g i s n o t necessary. Another approach t o t h e s o l a r i n t e r f e r e n c e p r o b lem i s t o employ two d e t e c t i o n c i r c u i t s . One c i r c u i t i s s e n s i t i v e t o s o l a r
+r a d i a t i o n i n t h e 0.6 t o 1 . 0 pm range and i s used t o i n d i c a t e t h e presence o f
+s u n l i g h t . l h e second c i r c u i t i s f i l t e r e d t o respond t o wavelengths between
+2 and 5 pm. A s i g n a l f r o m t h e s o l a r sensor c i r c u i t can be used t o b l o c k t h e
+output from the f i r e sensing c e l l , g i v i n g the d e t e c t i o n u n i t t h e a b i l i t y t o
+d i s c r i m i n a t e a g a i n s t f a l s e alarms f r o m s o l a r sources. l h i s i s o f t e n r e f e r r e d
+t o as a "two c o l o r " system. For most a p p l i c a t i o n s , f l a m e f l i c k e r sensor c i r c u i t s are p r e f e r r e d since the f l i c k e r or modulation c h a r a c t e r i s t i c o f flaming
+combustion i s n o t a component o f e i t h e r s o l a r o r man-made i n t e r f e r e n c e sources.
+l h i s r e s u l t s i n an improved s i g n a l t o n o i s e r a t i o . l h e s e d e t e c t o r s use
+frequency s e n s i t i v e a m p l i f i e r s whose i n p u t s a r e tuned t o respond t o an a l t e r n a t i n g c u r r e n t s i g n a l i n t h e I l a m e f l i c k e r range ( 5 t o 30 H z ) .
+Flame d e t e c t o r s a r e designed f o r volume s u p e r v i s i o n and may use e i t h e r a
+f l x e d o r scanning mode. l h e f i x e d u n i t s c o n t i n u o u s l y observe a c o n i c a l volume
+l i m i t e d by t h e v i e w i n g a n g l e o f t h e lens system and t h e a l a r m t h r e s h o l d . l h e
+v i e w i n g angles range f r o m 1 5 t o 110" f o r t y p i c a l commercial u n i t s . One scann i n g d e v i c e has a 120-m ( 4 0 0 f t ) range arid uses a m i r r o r r o t a t i n g a t 6 rpm
+t h r o u g h 360" h o r i z o n t a l l y w i t h a 100" viewiriq a n g l e . l h e m i r r o r s t o p s when a
+s i g n a l i s r e c e i v e d . l o screen o u t t r a n s i e n t s , t h e u n i t alarms o n l y i f t h e
+s i g n a l p e r s i s t s f o r 1 5 sec.
+l h e r e a r e a l s o d e t e c t o r s o f t h i s t y p e designed t o respond t o p a s s i n g
+sparks o r f l a m e f r o n t s i n p i p i n g such as i n t e x t i l e m i l l s . l h e d e t e c t o r l o o k s
+f o r g l o w i n g l i n t f i b e r s i n a i r d u c t i n g , which m i g h t cause f i r e s i n t h e down
+stream f i l t e r s . The d e t e c t o r t u r n s on a water spray, which e x t i n g u i s h e s the
+g l o w i n g f i b e r b e f o r e i t reaches t h e f i l t e r . O f course, these d e t e c t o r s would
+not contain the f l i c k e r c i r c u i t .
+U l t r a v i o l e t Uetectors
+l h e u l t r a v i o l e t component o f { l a m e r a d i a t i o n i s a l s o used f o r f i r e d e t e c
+t i o n . The s e n s i n g element may be a s o l i d s t a t e d e v i c e such a s i l i c o n c a r b i d e
+o r aluminum n i t r i d e , o r a g a s - f i l l e d t u b e i r r which t h e gas i s i o n i z e d by UV
+r a d i a t i o n and becomes c o n d u c t i v e , thus sounding t h e a l a r m . l h e o p e r a t i n g
+wavelength range o f UV d e t e c t o r s i s i n t h e 0 . 1 7 t o 0 . 3 0 pm r e g i o n and i n t h a t
+r e g i o n they a r e e s s e n t i a l l y i n s e n s i t i v e t o b o t h s u n l i g h t and a r t i f i c i a l l i g h t .
+l h e UV d e t e c t o r s a r e a l s o volume d e t e c t o r s and have v i e w i n g a n g l e s f r o m 90" o r
+less t o 180".
+l h e c o m b i n a t i o n o f UV I H s e n s i n g has been appl'led t o a p p l i c a t i o n s i n a i r c r a f t and h y p e r b a r i c chamber f i r e p r o t e c t i o n . l h e s e complex d e v i c e s a l a r m
+when t h e r e i s a predetermined d e v i a t i o n f r o m t h e p r e s c r i b e d ambient UV 1 d i s
+K
+c r i m i n a t i o n l e v e l i n c o n j u n c t i o n w i t h a s i g n a l from a continuous w i r e overhvdt
+d e t e c t o r , t h e a n a l y s i s b e i n g performed by an onboard m i n i c o m p u t e r .
+SUBMICHOML I t R P A R I 1CI-E COUNl LNC [IF. I t C 1 O H S
+
+D u r i n g t h e e a r l i e s t stages o f thermal decomposition, i n t h e p y r o l y s i s o r
+precombustion stage, l a r g e numbers o f submicrometer s i z e p a r t i c l e s a r e p r o duced. I h e s e p a r t i c l e s f a l l l a r g e l y i n t h e s i z e range between 0.005 and
+0.02 pm. A l t h o u g h ambient c o n d i t i o n s n o r m a l l y f i n d such p a r t i c l e s i n
+
+%O
+
+c o n c e n t r a t i o n s f r o m s e v e r a l thousand p e r c u b i c c e n t i m e t e r i n a r u r a l area t o
+s e v e r a l hundred thousand p e r c u b i c c e n t i m e t e r i n an i n d u s t r i a l area, t h e p r e s ence o f an i n c i p i e n t f i r e can r a i s e t h e submicrometer p a r t i c l e c o n c e n t r a t i o n
+s u f f i c i e n t l y above t h e background l e v e l s t o be used as a f i r e s i g n a l .
+Condensation n u c l e i a r e l i q u i d o r s o l i d submicrometer (0.001 t o 0.1 pm)
+p a r t i c l e s which can a c t as t h e nucleus f o r t h e f o r m a t i o n o f a w a t e r d r o p l e t .
+By use o f an a p p r o p r i a t e t e c h n i q u e , submicrometer p a r t i c l e s can be made t o a c t
+as condensation n u c l e i on a one p a r t i c l e - o n e d r o p l e t b a s i s , and t h e c o n c e n t r a t i o n o f p a r t i c l e s i s measured by p h o t o e l e c t r i c methods. A mechanism f o r p e r f o r m i n g t h i s f u n c t i o n i s shown s c h e m a t i c a l l y i n f i g u r e 17. An a i r sample
+c o n t a i n i n g submicrometer p a r t i c l e s i s drawn t h r o u g h a h u m i d i f i e r where i t i s
+b r o u g h t t o 100 p e r c e n t r e l a t i v e h u m i d i t y . The sample t h e n passes t o an expans i o n chamber where t h e p r e s s u r e i s reduced w i t h a vacuum pump. T h i s causes
+condensation o f w a t e r on t h e p a r t i c l e s . The d r o p l e t s q u i c k l y reach a s i z e
+where t h e y can s c a t t e r l i g h t . l h e d a r k f i e l d o p t i c a l system i n t h e chamber
+w i l l a l l o w l i g h t t o reach t h e p h o t o m u l t i p l i e r t u b e o n l y when t h e w a t e r d r o p l e t s
+a r e p r e s e n t t o s c a t t e r l i g h t . The o u t p u t v o l t a g e f r o m t h e p h o t o m u l t i p l i e r
+t u b e i s d i r e c t l y p r o p o r t i o n a l t o t h e number o f d r o p l e t s ( i . e . , t h e number o f
+condensation n u c l e i ) present.
+The system uses a mechanical v a l v e and s w i t c h i n g arrangement t o a l l o w
+sampling f r o m up t o 4 d e t e c t i o n zones w i t h as many as 1 0 sampling heads p e r
+zone. Each zone i s sampled once p e r second f o r 1 5 sec. A l l f o u r zones a r e
+sampled each m i n u t e . The system i s n o m i n a l l y s e t t o a l a r m a t c o n c e n t r a t i o n s
+exceeding 8 x 1 0 l 1 p a r t i c l e s p e r c u b i c meter, a l t h o u g h i t i s p o s s i b l e t o s e l e c t
+d i f f e r e n t t h r e s h o l d s f o r each zone depending on t h e background n o i s e and t h e
+s e n s i t i v i t y r e q u i r e d . I t i s a l s o p o s s i b l e t o have t h e s e n s i t i v i t y v a r y f o r
+c o n d i t i o n s d i f f e r i n g w i t h t i m e o f day. The system d e s i g n i s such t h a t , w i t h
+t h e maximum sample t r a v e l d i s t a n c e f r o m t h e most remote sampling head, f i r e
+w i l l be d e t e c t e d w i t h i n 2 min o f t h e t i m e t h e p r o d u c t s o f combustion f i r s t
+reach a sampling head.
+SLLEClION OF DETCLCTORS
+When l a y i n g o u t a f i r e d e t e c t i o n system, t h e d e s i g n e n g i n e e r must keep i n
+mind t h e o p e r a t i n g c h a r a c t e r i s t i c s o f t h e i n d i v i d u a l d e t e c t o r t y p e as t h e y
+r e l a t e t o t h e a r e a p r o t e c t e d . Such f a c t o r s as t y p e and q u a n t i t y o f f u e l , poss i b l e i g n i t i o n sources, ranges o f ambient c o n d i t i o n s , and v a l u e o f t h e p r o t e c t e d p r o p e r t y a r e c r i t i c a l i n t h e p r o p e r d e s i g n o f t h e system. I n t e l l i g e n t
+a p p l i c a t i o n o f d e t e c t i o n d e v i c e s u s i n g such f a c t o r s w i l l r e s u l t i n t h e maximiz a t i o n o f system performance. T a b l e I i s a summary o f f i r e d e t e c t o r a p p l i c a t i o n c r i t e r i a as t h e y a r e d i s c u s s e d i n t h i s s e c t i o n .
+Heat d e t e c t o r s have t h e l o w e s t c o s t and f a l s e a l a r m r a t e b u t a r e t h e slowe s t i n response. S i n c e h e a t tends t o d i s s i p a t e f a i r l y r a p i d l y ( f o r s m a l l
+f i r e s ) , h e a t d e t e c t o r s a r e b e s t a p p l i e d i n c o n f i n e d spaces, o r d i r e c t l y over
+hazards where f l a m i n g f i r e s c o u l d be expected. Heat d e t e c t o r s a r e g e n e r a l l y
+i n s t a l l e d on a g r i d p a t t e r n a t e i t h e r t h e i r recommended s p a c i n g schedule o r a t
+reduced s p a c i n g where beams o r j o i s t s may impede t h e spread o f t h e h o t gas
+l a y e r , f o r f a s t e r response. The o p e r a t i n g t e m p e r a t u r e o f a h e a t d e t e c t o r i s
+u s u a l l y s e l e c t e d a t l e a s t 14 "C ( 2 5 O F ) above t h e maximum expected ambient
+t e m p e r a t u r e i n t h e a r e a p r o t e c t e d . Pneumatic h e a t d e t e c t i o n systems have a
+21
+
+t l ~ ~ v i cknown a s a "blower h e a t e r compensator," which i s used t o p r e v e n t f a l s e
+e
+alarms due t o t h e sharp i n i t i a l h e a t f r o m c e i l i n g - m o u n t e d u n i t h e a t e r s .
+Smoke d e t e c t o r s a r e h i g h e r i n c o s t than h e a t d e t e c t o r s b u t a r e f a s t e r i n
+responding t o f i r e s . Due t o t h e g r e a t e r s e n s i t i v i t y o f these d e t e c t o r s , f a l s e
+alarriis can be more f r e q u e n t , e s p e c i a l l y i f t h e d e t e c t o r s a r e n o t p r o p e r l y
+l o c a t e d . Smoke d e t e c t o r s do n o t have a s p e c i f i c space r a t i n g e x c e p t f o r a 9-rn
+( 3 0 f t ) niaximum g u i d e d e r i v e d f r o m t h e UL f u l l - s c a l e a p p r o v a l t e s t s w h i c h t h e y
+must pass. G r i d t y p e i n s t a l l a t i o n l a y o u t s a r e u s u a l l y n o t used, s i n c e smoke
+l r a v e l i s g r e a t l y a f f e c t e d by a i r c u r r e n t s i n t h e p r o t e c t e d a r e a . l h u s , smoke
+d e l e c t o r s a r e u s u a l l y p l a c e d by e n g i n e c r i n g judgment based on p r e v a i l i n g cond i tions.
+S i n c e smoke does riot d i s s i p a t e as r a p i d l y as h e a t , smoke d e t e c t o r s a r e
+b o l t e r s u i t e d t o t h e p r o t e c t i o n o f l a r g e , open spacer than h e a t d e t e c t o r s .
+5mokc d e t e c t o r s a r e more s u b j e c t t o damage by c o r r o s i o n , d u s t , and environmen
+t ( i 1 r x l r e m e s than t h e s i m p l e r h e a t d e t e c t o r s because srnoke d e t e c t o r s c o n t a i n
+c . l c c t r o r i i c c i r c u i t r y . l h e y a l s o consume power, so the ricirnticr o f snioke d e t e c t o r s which cdn be connected t o a c o n t r o l u n i t may bc 1 i r n i I r v l hy the powcr
+s u p p l y capabi 1 i t y .
+P h o t o e l e c t r i c smoke d e t e c t o r s a r e p a r t i c u l a r l y s u i l , i t ) l c where s m o l d e r i n g
+I'VC w i r c i r i s u l a t i o n niay
+b c l expected. I o n i L a t i o n smoke d e t e c t o r s a r e p a r t i c u l a r l y s u i l a h l e wherc flarn
+i n g f i r e s i n v o l v i n g any o t h e r m a t e r i a l s would bc t h e c n s e . l h e p a r t i c l c (ouri
+Ler d e t e c t o r responds t o a l l p a r t i c l e s i z e s e q u a l l y , s o i t may bc used w i t h o u t
+r e g a r d t o t h e type o f f i r e expected. lhese systems, howcvcr, a r e f a i r l y
+expensive and complex t o i n s t a l l and m a i r i t a i n . l h e d c r i y n and l a y o u t o f Lhe
+s m p l i n g tubes i s c r i t i c a l and must be done by someone f a m i l i a r w i l h t h e
+cqu ipmcri t .
+f i r e s o r f i r e s i n v o l v i n g low temperatures p y r o l y s i s of
+
+Flame d e t e c t o r s a r e e x t r e m e l y f a s t responding b u t w i l l a l a r m t o any source
+o f r a d i d t i o n i n t h e i r s e n s i t i v i t y range, s o f a l s e a l a r m r a t e s a r e h i g h i f they
+a r e i m p r o p e r l y a p p l i e d . f l a m e d e t e c t o r s a r e u s u a l l y used i n h y p e r b a r i c cham
+b c r s arid flammable m a t e r i a l s t o r a g e areas where no flames o f any s o r t a r e
+a1 l o w a b l e .
+Flame d e t e c t o r s a r e " l i n e o f s i g h t " d e v i c e s , so c a r e must be t a k e n t o
+erisure t h a t t h e y can " s e e " t h e e n t i r e p r o t e c t e d a r e a and t h a t t h e y w i l l n o t be
+a c c i d e n t a l l y b l o c k e d by stacked m a t e r i a l o r equipment. l h e i r s e n s i t i v i t y i s a
+f u n c t i o n o f f l a m e s i z e and d i s t a n c e f r o m t h e d e t e c t o r , and some d e t e c t o r s can
+be a d j u s t e d t o i g n o r e a s m a l l f l a m e a t f l o o r l e v e l . l h e i r c o s t i s r e l a t i v e l y
+h i g h , b u t t h e y a r e w e l l s u i t e d f o r areas where e x p l o s i v e o r flammable vapors
+o r d u s t s a r e encountered as t h e y a r e u s u a l l y a v a i l a b l e i n ' ' e x p l o s i o n p r o o f "
+hous irigs .
+
+F I R E M0Df.I-S
+Over t h e p a s t decade, c o n s i d e r a b l e p r o g r e s s has been made i n u n d e r s t a n d i n g
+t h e processes o f f i r e . W h i l e t h e r e i s s t i l l much t o be l e a r n e d , t h e c u r r e n t
+u n d e r s t a n d i n g i s such t h a t f a i r l y a c c u r a t e p r e d i c t i o n s o f t h e impact o f a f i r e
+i n a compartment can be made u s i n g computer s i m u l a t i o n t e c h n i q u e s . l h e s e f i r e
+models can p r e d i c t t h e p r o d u c t i o n and d i s t r i b u t i o n o f energy and mass w i t h i n
+
+22
+
+a s e r i e s o f i n t e r c o n n e c t e d compartments over t i m e , and t h e e f f e c t o f exposure
+t o these combustion p r o d u c t s on occupants, equipment, and t h e s t r u c t u r e i t s e l f .
+Thus, one p o s s i b l e use o f t h e s e models i s t o e v a l u a t e t h e response o f d e t e c t i o n
+d e v i c e s r e q u i r e d t o p r o v i d e t h e d e s i r e d l e v e l o f s a f e t y t o occupants o r c r i t i c a l equipment w i t h o u t b e i n g so s e n s i t i v e t h a t e x c e s s i v e f a l s e alarms a r e
+experienced.
+l h e concept o f d e s i g n i n g a d e t e c t i o n system such t h a t i t responds p r i o r
+t o t h e f i r e r e a c h i n g a s p e c i f i e d energy r e l e a s e r a t e was r e c e n t l y i n t r o d u c e d
+i n t o t h e N a t i o n a l F i r e P r o t e c t i o n A s s o c i a t i o n Standard on D e t e c t i o n Devices
+( 7 2 € ) . H e r e , a model was used t o develop a s e t o f curves f o r d e t e c t o r a c t i v a t i o n as a f u n c t i o n o f i n s t a l l e d spacing f o r v a r i o u s c e i l i n g h e i g h t s , f i r e
+g r o w t h r a t e s , and d e t e c t o r c h a r a c t e r i s t i c s ( e . g . , t h e r m a l t i m e c o n s t a n t ) . The
+d e s i g n e r decides on a f i r e s i z e ( e n e r g y o u t p u t ) a t a c t i v a t i o n f o r t h e a n t i c i p a t e d f i r e w i t h i n t h e p r o t e c t e d space and determines t h e d e t e c t o r s p a c i n g
+necessary f o r t h e a c t u a l compartment c e i l i n g h e i g h t .
+
+Detector
+type
+
+Response
+speed
+
+Heat
+Smoke
+F lame
+Particle
+
+s 1 ow
+Fast
+Very f a s t
+Fast
+
+False alarm
+rate
+Low
+Med ium
+High
+Med ium
+
+Cost
+Low
+Medium
+High
+High
+
+23
+
+Application
+Confined spaces
+Open o r c o n f i n e d spaces
+Flammable m a t e r i a l s t o r a g e
+Open spaces - h i g h v a l u e
+
+STEEL WIRES
+
+/I
+
+h
+CELLOPHANE
+
+F i g u r e 1.
+
+-
+
+1
+
+I-ine-type f i r e detection cable using insulated p a r a l l e l w i r e s .
+
+IM PR EG NATED GLASS
+SE M I CON DUCTOR
+
+/
+
+/
+f
+
+S T E E L CAPILLARY TUBE
+
+F i g u r e 2.
+
+-
+
+L i n e - t y p e f i r e d e t e c t i o n c a b l e u s i n g a g l a s s semiconductor.
+
+24
+
+NORMALLY OPEN
+ALARM CONTACTS
+
+CONTACT C
+SPRl N
+NONCONDUCTING
+STA NDO FF
+
+RETAINING RING
+SNAP' DISC
+
+F i g u r e 3.
+
+-
+
+B i m e t a l snap-disc h e a t d e t e c t o r .
+
+EXPANDING
+DI A PH R AGM
+
+-
+
+ALARM CONTACTS
+
+VENT ORIFICE--
+
+#
+
+I
+
+i
+
+F i g u r e 4 . - Pneumatic-type h e a t d e t e c t o r .
+
+y-T----BiM€TAl S W P
+
+044SS H€MISPHERE
+
+F i g u r e 5 . - Rate of r i s e f i x e d - t e m p e r a t u r e d e t e c t o r u s i n g a b i m e t a l element.
+25
+
+/ALARM
+
+VENT
+
+CONTACTS
+
+\\
+
+-DIAPHRAGM
+-SPRING
+
+E U T E C T I C METAL
+
+F i g u r e 6.
+
+-
+
+Rate of r i s e f i x e d - temperature d e t e c t o r u s i n g a e u t e c t i c m e t a l .
+
+r C Y L I N D R I C A L OUTER SHELL
+
+EL ECTR I C A L
+WIRES
+
+LSTRUTS ‘-CONTACTS
+Figure 7.
+
+-
+
+Rate- compensation d e t e c t o r .
+
+co
+
+oc
+ALPHA SOURCE
+f-igure 8.
+
+.
+
+I o n i z a t i o n o f chamber a i r space.
+26
+
+U
+
+ALPHA SOURCE
+Figure 9.
+
+-
+
+Effect o f aerosol in ionized chamber.
+
+P+
+b A&&
+
+UNIPOLAR
+
+REGION
+
+t B I P O L A R REGION
+SPACE CHARGE
+
+t
+
+AFigure 10. - Unipolar ion chamber.
+
+P+
+AFigure l l .
+
+--
+
+Bipolar ion chamber.
+
+bipolar
+
+F i g u r e 12.
+
+.
+
+unipolar
+
+I J n i p o l a r i o n chamber c o n s i s t i n g o f t h e o r e t i c a l u n i p o l a r and
+
+b i p o l a r i o n charribers i n ser'ies.
+
+COLD CATHODE T U B E
+
+REFERENCE CHAMBER
+
+SAMPLING CHAMBER
+
+F i g u r e 13.
+
+-
+
+C o n f i g u r a t i o n o f a d u a l i o n chamber d e t e c t o r .
+
+LENS
+n
+
+A
+
+I
+J
+LIGHT
+SOURCE
+
+Figure 1 4 .
+
+-
+
+Beam-type l i g h t a t t e n u a t i o n smoke d e t e c t o r .
+28
+
+aosw CHAMBER,
+
+SELENIUM CELL
+
+Figure 15.
+
+-
+
+1NCAN)ESCPCT LAMP
+
+SMOKE CHAMBER 'LENS
+
+Spot-type l i g h t a t t e n u a t i o n smoke d e t e c t o r .
+
+PHOTOCELL
+
+I
+
+FORWARD SCATTERING
+
+SIDE SCATTERING
+
+LIGHT
+
+STANDBY
+
+STANDBY'
+
+ALARM
+
+ALARM
+
+F i g u r e 16.
+
+Figure 17.
+
+'
+u
+
+-
+
+-
+
+L i g h t - s c a t t e r i n g smoke d e t e c t o r s .
+
+Schematic o f condensation n u c l e i p a r t i c l e d e t e c t o r .
+29
+

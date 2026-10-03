@@ -1,0 +1,4932 @@
+NASA/TM—2013-216501
+
+Large Scale Flame Spread Environmental
+Characterization Testing
+Lauren K. Clayman, Sandra L. Olson, Suleyman A. Gokoglu, and John E. Brooker
+Glenn Research Center, Cleveland, Ohio
+Paul V. Ferkul
+National Center for Space Exploration, Glenn Research Center, Cleveland, Ohio
+Henry F. Kacher
+Glenn Research Center, Cleveland, Ohio
+
+April 2013
+
+NASA STI Program . . . in Proﬁle
+
+Since its founding, NASA has been dedicated to the
+advancement of aeronautics and space science. The
+NASA Scientiﬁc and Technical Information (STI)
+program plays a key part in helping NASA maintain
+this important role.
+
+•
+
+•
+
+•
+
+TECHNICAL PUBLICATION. Reports of
+completed research or a major signiﬁcant phase
+of research that present the results of NASA
+programs and include extensive data or theoretical
+analysis. Includes compilations of signiﬁcant
+scientiﬁc and technical data and information
+deemed to be of continuing reference value.
+NASA counterpart of peer-reviewed formal
+professional papers but has less stringent
+limitations on manuscript length and extent of
+graphic presentations.
+TECHNICAL MEMORANDUM. Scientiﬁc
+and technical ﬁndings that are preliminary or
+of specialized interest, e.g., quick release
+reports, working papers, and bibliographies that
+contain minimal annotation. Does not contain
+extensive analysis.
+CONTRACTOR REPORT. Scientiﬁc and
+technical ﬁndings by NASA-sponsored
+contractors and grantees.
+
+CONFERENCE PUBLICATION. Collected
+papers from scientiﬁc and technical
+conferences, symposia, seminars, or other
+meetings sponsored or cosponsored by NASA.
+
+•
+The NASA STI Program operates under the auspices
+of the Agency Chief Information Ofﬁcer. It collects,
+organizes, provides for archiving, and disseminates
+NASA’s STI. The NASA STI program provides access
+to the NASA Aeronautics and Space Database and
+its public interface, the NASA Technical Reports
+Server, thus providing one of the largest collections
+of aeronautical and space science STI in the world.
+Results are published in both non-NASA channels
+and by NASA in the NASA STI Report Series, which
+includes the following report types:
+
+•
+
+SPECIAL PUBLICATION. Scientiﬁc,
+technical, or historical information from
+NASA programs, projects, and missions, often
+concerned with subjects having substantial
+public interest.
+
+•
+
+TECHNICAL TRANSLATION. Englishlanguage translations of foreign scientiﬁc and
+technical material pertinent to NASA’s mission.
+
+Specialized services also include creating custom
+thesauri, building customized databases, organizing
+and publishing research results.
+For more information about the NASA STI
+program, see the following:
+•
+
+Access the NASA STI program home page at
+http://www.sti.nasa.gov
+
+•
+
+E-mail your question to help@sti.nasa.gov
+
+•
+
+Fax your question to the NASA STI
+Information Desk at 443–757–5803
+
+•
+
+Phone the NASA STI Information Desk at
+443–757–5802
+
+•
+
+Write to:
+STI Information Desk
+NASA Center for AeroSpace Information
+7115 Standard Drive
+Hanover, MD 21076–1320
+
+NASA/TM—2013-216501
+
+Large Scale Flame Spread Environmental
+Characterization Testing
+Lauren K. Clayman, Sandra L. Olson, Suleyman A. Gokoglu, and John E. Brooker
+Glenn Research Center, Cleveland, Ohio
+Paul V. Ferkul
+National Center for Space Exploration, Glenn Research Center, Cleveland, Ohio
+Henry F. Kacher
+Glenn Research Center, Cleveland, Ohio
+
+National Aeronautics and
+Space Administration
+Glenn Research Center
+Cleveland, Ohio 44135
+
+April 2013
+
+Acknowledgments
+
+This work was funded by the Spacecraft Fire Safety Demonstration Project under the Advanced Exploration Systems Program.
+The authors would like to thank the Project Manager, Gary Ruff and the Principal Investigator, David Urban for their management
+and guidance. The authors would also like to thank Michael Johnston for his assistance with test planning and preparation and
+Justin Niehaus for his data analysis support. Finally, the authors extend thanks to the rest of the test team, including the facility
+engineers and technicians, who all made signiﬁcant contributions toward test preparation and execution.
+
+Trade names and trademarks are used in this report for identiﬁcation
+only. Their usage does not constitute an ofﬁcial endorsement,
+either expressed or implied, by the National Aeronautics and
+Space Administration.
+
+Level of Review: This material has been technically reviewed by technical management.
+
+Available from
+NASA Center for Aerospace Information
+7115 Standard Drive
+Hanover, MD 21076–1320
+
+National Technical Information Service
+5301 Shawnee Road
+Alexandria, VA 22312
+
+Available electronically at http://www.sti.nasa.gov
+
+Contents
+Abstract ......................................................................................................................................................... 1 
+1.0  Introduction ............................................................................................................................................ 1 
+1.1  Purpose............................................................................................................................................. 2 
+2.0  Facility .................................................................................................................................................... 2 
+3.0  Test Description ..................................................................................................................................... 3 
+3.1  Experimental Rack, Hardware, and Instrumentation ....................................................................... 3 
+3.1.1  Frame .................................................................................................................................. 3 
+3.1.2  Sample Holder .................................................................................................................... 5 
+3.1.3  Cameras .............................................................................................................................. 6 
+3.1.4  Thermocouples.................................................................................................................... 6 
+3.1.5  Radiometers ........................................................................................................................ 7 
+3.1.6  Anemometers ...................................................................................................................... 7 
+3.1.7  Pressure Transducers .......................................................................................................... 8 
+3.1.8  Mixing Fan.......................................................................................................................... 8 
+3.1.9  Igniters ................................................................................................................................ 8 
+3.1.10  Heat Exchangers ................................................................................................................. 9 
+3.1.11  Quench Bars ...................................................................................................................... 11 
+3.2  Data Acquisition, Storage and Archive.......................................................................................... 12 
+4.0  Fuel Material ........................................................................................................................................ 12 
+4.1  Cheesecloth .................................................................................................................................... 12 
+4.2  SIBAL ............................................................................................................................................ 12 
+5.0  Design of Experiments ......................................................................................................................... 13 
+6.0  Results .................................................................................................................................................. 15 
+6.1  Pressure Plot Examples and Pressure Trends ................................................................................ 15 
+6.1.1  Top vs. Bottom Ignition .................................................................................................... 15 
+6.1.2  Simultaneous vs. Sequential Sample Ignition ................................................................... 17 
+6.1.3  Quench Bars: With vs. Without ........................................................................................ 19 
+6.1.4  Heat Exchanger: With vs. Without ................................................................................... 20 
+6.1.5  Cheesecloth vs. SIBAL ..................................................................................................... 22 
+6.1.6  Pressure Trends ................................................................................................................. 23 
+6.2  Temperature Data Plot ................................................................................................................... 26 
+6.3  Anemometer Data Plot ................................................................................................................... 27 
+6.4  Radiometer Data Plot ..................................................................................................................... 28 
+6.5  Determining Burn-Times From Radiometer Data ......................................................................... 29 
+6.5.1  Cheesecloth Burn-Times................................................................................................... 30 
+6.5.2  SIBAL Cloth Burn-Times ................................................................................................. 33 
+7.0  Closing Remarks .................................................................................................................................. 35 
+References ................................................................................................................................................... 35 
+Appendix A.—Experiment Operating Procedure ....................................................................................... 37 
+Appendix B.—Experimental Rig Dimensions and Diagnostic Instrumentation Locations ........................ 39 
+Appendix C.—As-Run Test Matrices ......................................................................................................... 43 
+Appendix D.—Initial Experimental Rig Concept ....................................................................................... 53 
+Appendix E.—Engineering Drawings ........................................................................................................ 55 
+Appendix F.—Sample Holder Installation Procedure ................................................................................ 59 
+Appendix G.—Sample Holder Removal Procedure ................................................................................... 61 
+Appendix H.—Camera Settings.................................................................................................................. 63 
+Appendix I.—Thermocouple Diagrams ...................................................................................................... 65 
+Appendix J.—Agilent Data-Logger Instructions ........................................................................................ 67 
+
+NASA/TM—2013-216501
+
+iii
+
+Appendix K.—Final DOE With Experimental and Response Model Delta P ............................................ 69 
+Appendix L.—Tabulated Delta Pressure for DOE and Supplementary Matrices....................................... 71 
+Appendix M.—Stills From Test Video Files .............................................................................................. 73 
+
+List of Tables
+Table 1.—Experimental Instrumentation ...................................................................................................... 7 
+Table 2.—DOE Custom Design.................................................................................................................. 13 
+Table 3.—DOE Name vs. Response Model Name ..................................................................................... 13 
+Table 4.—Response Model Estimates ........................................................................................................ 14 
+Table 5.—Cheesecloth Burn-times for Upward Burning (Bottom Ignition) .............................................. 30 
+Table 6.—Cheesecloth Burn-times for Downward Burning (Top Ignition) ............................................... 31 
+Table 7.—SIBAL Cloth Burn-times for Upward Burning (Bottom Ignition) ............................................ 33 
+Table 8.—Diagnostic Instrumentation Locations ....................................................................................... 41 
+Table 9.—DOE Test Matrix, As-run .......................................................................................................... 43 
+Table 10.—Supplementary Test Matrix, As-run ........................................................................................ 49 
+Table 11.—Camera Settings for XR160 ..................................................................................................... 63 
+Table 12.—Camera Settings for CX110 ..................................................................................................... 63 
+Table 13.—Final DOE with Experimental and Response Model Delta P .................................................. 69 
+Table 14.—Experimental Delta Pressure for DOE and Supplementary Tests ............................................ 71 
+
+List of Figures
+Figure 1.—Vacuum Facility 13. ................................................................................................................... 2 
+Figure 2.—Experimental rack in VF-13. ...................................................................................................... 4 
+Figure 3.—Depiction of sample holder designs (not to scale). ..................................................................... 5 
+Figure 4.—Igniter wiring leads on a four slot sample holder. ...................................................................... 6 
+Figure 5.—Igniter concept. ........................................................................................................................... 8 
+Figure 6.—Photo of igniter. .......................................................................................................................... 8 
+Figure 7.—Depiction of an aluminum honeycomb core (similar to L1). ..................................................... 9 
+Figure 8.—Photo of one of two aluminum mesh heat exchanger panels (L2)............................................ 10 
+Figure 9.—Sample card with quench bars. ................................................................................................. 11 
+Figure 10.—Actual vs. Predicted Delta P. .................................................................................................. 14 
+Figure 11.—DOE test 1-1 top ignition example pressure plot.................................................................... 15 
+Figure 12.—DOE test 3-6 bottom ignition example pressure plot. ............................................................ 16 
+Figure 13.—DOE test 1-2 simultaneous bottom ignition example pressure plot. ...................................... 17 
+Figure 14.—DOE test 2-4 sequential bottom ignition example pressure plot. ........................................... 17 
+Figure 15.—DOE test 7-14 simultaneous top ignition example pressure plot............................................ 18 
+Figure 16.—DOE test 20-39 sequential top ignition example pressure plot. ............................................. 18 
+Figure 17.—DOE test 22-43 no quench bars example pressure plot. ......................................................... 19 
+Figure 18.—DOE test 23-45 with quench bars example pressure plot. ...................................................... 19 
+Figure 19.—DOE test 10-19 no heat exchanger example pressure plot. .................................................... 20 
+Figure 20.—DOE test 14-27 L1 heat exchanger example pressure plot. .................................................... 21 
+Figure 21.—DOE test 17-33 L2 heat exchanger example pressure plot. .................................................... 21 
+Figure 22.—SUP test 4-5 50100 cm cheesecloth example pressure plot. ................................................ 22 
+Figure 23.—SUP test 14-21 50100 cm SIBAL example pressure plot. ................................................... 22 
+Figure 24.—Top ignition DOE test runs by categorical parameter. ........................................................... 23 
+Figure 25.—Bottom ignition DOE test runs by categorical parameter. ...................................................... 23 
+Figure 26.—Effect of starting chamber pressure. ....................................................................................... 24 
+Figure 27.—Top ignition pressure rise by number of samples (sheets)...................................................... 24 
+
+NASA/TM—2013-216501
+
+iv
+
+Figure 28.—Igniter length effects on bottom ignition pressure rise. .......................................................... 25 
+Figure 29.—Pressure rise versus area burned for upward burns. ............................................................... 25 
+Figure 30.—Pressure rise versus area burned for downward burns............................................................ 25 
+Figure 31.—DOE test 10-20 temperature data plot. ................................................................................... 26 
+Figure 32.—DOE test 7-14 anemometer data plot...................................................................................... 27 
+Figure 33.—DOE test 7-14 radiometer data plot. ....................................................................................... 28 
+Figure 34.—Burn-times for cheesecloth upward burns. ............................................................................. 31 
+Figure 35.—Burn-times for cheesecloth downward burns. ........................................................................ 32 
+Figure 36.—Cheesecloth upward burn pressure effect. .............................................................................. 32 
+Figure 37.—Burn-times for SIBAL cloth upward burns. ........................................................................... 34 
+Figure 38.—SIBAL cloth upward burn pressure effect. ............................................................................. 34 
+Figure 39.—Interior dimensions of the experimental frame (Top-view).................................................... 39 
+Figure 40.—External dimensions of combustion tunnel............................................................................. 40 
+Figure 41.—Coordinate system used in Table 8. ........................................................................................ 40 
+Figure 42.—Sketch of initial experimental rig concept. ............................................................................. 53 
+Figure 43.—Thermocouple Support Plate Drawing. .................................................................................. 55 
+Figure 44.—One slot, 50 by 100 cm, sample holder drawing. ................................................................... 56 
+Figure 45.—Three slot, 16.7 by 100 cm, sample holder drawing. .............................................................. 57 
+Figure 46.—Four slot, 12.5 by 100 cm, sample holder drawing. ............................................................... 58 
+Figure 47.—Thermocouple configurations A and B................................................................................... 65 
+Figure 48.—Thermocouple configurations C and D................................................................................... 66 
+Figure 49.—Three sample cheesecloth, bottom simultaneous ignition, with quench bars. ........................ 73 
+Figure 50.—Three sample cheesecloth, top simultaneous ignition, without quench bars. ......................... 73 
+Figure 51.—Three sample cheesecloth, top simultaneous ignition, with quench bars. .............................. 74 
+Figure 52.—Two sample SIBAL, bottom sequential ignition, without quench bars. ................................. 74 
+Figure 53.—Two sample SIBAL, bottom simultaneous ignition, without quench bars. ............................ 75 
+Figure 54.—Large 50 by 100 cm cheesecloth, bottom ignition, 15 cm center igniter. ............................... 75 
+Figure 55.—Large 50 by 100 cm SIBAL, bottom ignition, full width igniter. ........................................... 76 
+
+NASA/TM—2013-216501
+
+v
+
+Large Scale Flame Spread Environmental Characterization Testing
+Lauren K. Clayman, Sandra L. Olson, Suleyman A. Gokoglu, and John E. Brooker
+National Aeronautics and Space Administration
+Glenn Research Center
+Cleveland, Ohio 44135
+Paul V. Ferkul
+National Center for Space Exploration Research
+Glenn Research Center
+Cleveland, Ohio 44135
+Henry F. Kacher
+National Aeronautics and Space Administration
+Glenn Research Center
+Cleveland, Ohio 44135
+
+Abstract
+Under the Advanced Exploration Systems (AES) Spacecraft Fire Safety Demonstration Project
+(SFSDP), as a risk mitigation activity in support of the development of a large-scale fire demonstration
+experiment in microgravity, flame-spread tests were conducted in normal gravity on thin, cellulose-based
+fuels in a sealed chamber. The primary objective of the tests was to measure pressure rise in a chamber as
+sample material, burning direction (upward/downward), total heat release, heat release rate, and heat loss
+mechanisms were varied between tests. A Design of Experiments (DOE) method was imposed to produce
+an array of tests from a fixed set of constraints and a coupled response model was developed.
+Supplementary tests were run without experimental design to additionally vary select parameters such as
+initial chamber pressure. The starting chamber pressure for each test was set below atmospheric to
+prevent chamber overpressure. Bottom ignition, or upward propagating burns, produced rapid
+acceleratory turbulent flame spread. Pressure rise in the chamber increases as the amount of fuel burned
+increases mainly because of the larger amount of heat generation and, to a much smaller extent, due to the
+increase in gaseous number of moles. Top ignition, or downward propagating burns, produced a steady
+flame spread with a very small flat flame across the burning edge. Steady-state pressure is achieved
+during downward flame spread as the pressure rises and plateaus. This indicates that the heat generation
+by the flame matches the heat loss to surroundings during the longer, slower downward burns. One heat
+loss mechanism included mounting a heat exchanger directly above the burning sample in the path of the
+plume to act as a heat sink and more efficiently dissipate the heat due to the combustion event. This
+proved an effective means for chamber overpressure mitigation for those tests producing the most total
+heat release and thusly was determined to be a feasible mitigation strategy to incorporate into the
+microgravity experiment.
+
+1.0
+
+Introduction
+
+Past and present space programs have emphasized the need to address practical spacecraft fire safety
+issues for crewed vehicles on exploration missions. As part of the Advanced Exploration Systems (AES)
+Program, the Spacecraft Fire Safety Demonstration Project (SFSDP) was initiated to develop technology
+in all areas of fire safety. While many experiments have been performed on small scale samples as a way
+to understand the basic science of combustion and flammability, characterizing fires that are more
+substantial in size has not been executed in a controlled space environment. The project has proposed a
+zero-gravity large-scale fire demonstration experiment to reveal material flammability, burning trends,
+
+NASA/TM—2013-216501
+
+1
+
+and environmental (control volume) impacts. In addition, experimental data will allow for the verification
+of detailed numerical models of such an event. Many material tests have been conducted in microgravity
+to characterize combustion and flammability characteristics, but experiments to date have not been
+considered large-scale. Among the tasks developed in support of the SFSDP large-scale spaceflight
+experiment, is the initiative to understand and characterize the environmental impact of such an event to a
+spacecraft. A major safety concern for any carrier vehicle is the environmental effect of a large-scale
+burn. As a risk mitigation activity supporting environmental characterization, a full-scale fire
+demonstration experiment was conducted in vacuum chamber at the NASA Glenn Research Center
+(GRC).
+Similar material burning experiments have been conducted at GRC, but with different objectives. The
+primary objective of this test was to measure pressure rise in a large sealed chamber and to characterize
+that data as a function of sample material, burning direction (upward/downward), heat release rate, total
+heat release, and heat loss mechanisms. Unlike tests before it, this task did not intend to examine the
+burning phenomena of various fuel materials, but rather the changes to the ambient environment. The
+experimental data will lend itself to producing useful correlations and trends, answering engineering and
+design unknowns, and providing an anchor upon which to validate analytical models. Data gathered from
+this test will serve as risk mitigation in terms of facilitating further definition of the expected environment
+that will result from burning candidate flight material in a closed volume. The experimental outcomes will
+fold into the project’s Safety Data Package.
+
+1.1
+
+Purpose
+
+The purpose of this test report is to provide a description of the experimental test set up and
+associated hardware and equipment, to provide a synopsis of the test procedure, and to provide examples
+of data instrumentation plots to facilitate data interpretation.
+
+2.0
+
+Facility
+
+Vacuum Facility 13 (VF-13), is a large volume chamber residing in building 301 designed for tests
+requiring a high vacuum environment (Fig. 1). This test utilized the chamber to provide a reduced
+pressure environment. It has a 149.9 cm inner diameter, and a height of 360 cm, yielding a total volume
+of 6.35 m3. The base is 107.9 cm deep and supports the electrical feed-throughs. It has a removable steel
+
+Figure 1.—Vacuum Facility 13.
+
+NASA/TM—2013-216501
+
+2
+
+cap that is 252.1 cm tall. The cap has four viewing windows. It attaches to the base via connecting
+flanges. An experimental rack was fabricated to fit into the chamber to support the integration of the test
+components and will be detailed in the experimental hardware description.
+
+3.0
+
+Test Description
+
+By varying constraints such as heat loss mechanisms and sample burning rate, experimental outputs
+will more effectively validate analytical simulations. To achieve these variations, the experiment was
+designed to accommodate a removable quenching mechanism at the sample mounting location, as well as
+the addition of a thermal mass, or heat exchanger, downstream of the burn plume to more closely mimic
+the expected flight configuration. Sample holders (also referred to as fuel cards) were designed to
+accommodate different material sizes and were wired such that ignition could be achieved at either the top
+or bottom of a sample. The material burning rate was varied between tests by burning the material
+samples either simultaneously or sequentially and by varying ignition location to mimic possible flight
+experiment burning scenarios and to help provide a range of data for analytical simulation validation.
+For each test, VF-13 was sealed and the air inside was evacuated until reaching a specified starting
+test pressure. Up to two runs were performed during each test. A mixing fan was mounted to the bottom
+of the experimental rack to mix the chamber air after each test to help encourage chamber equilibrium.
+Upon test completion, the chamber air was partially evacuated and then refilled to vent the combustion
+products before removing the chamber lid. The comprehensive operational test procedure is included in
+Appendix A.
+As described further in section 3.1, experimental instrumentation for data collection included a
+pressure transducer for measuring tank pressure, thermocouples for capturing tank air temperature,
+radiometers for estimating radiant heat flux, anemometers to measure air flow, and video cameras for
+visually documenting the material burning rate. Feed-throughs were needed for the experimental data
+instrumentation, the ignition system, and the camera system (including the LED strips described in the
+Cameras section). Figure 2 is a photograph of the experimental rack, hardware, and instrumentation.
+Appendix B details the XYZ coordinate locations for the instrumentation.
+Given the wide-ranging objectives of this test, a controlled approach was taken to yield a set of tests
+that would best produce meaningful data correlations. Using a Design of Experiments (DOE) method, an
+array of tests was produced using a fixed set of parametric constraints. A supplementary set of tests was
+run which included a second sample material and several additionally varied parameters that deviated
+from the DOE constraints. Both test matrices are included in Appendix C. In this document any test cases
+referred to by test/fill and run number are prefixed with either DOE, identifying the tests in the Design of
+Experiments matrix, or SUP, identifying the tests in the Supplementary test matrix.
+
+3.1 Experimental Rack, Hardware, and Instrumentation
+3.1.1
+
+Frame
+
+A frame was constructed to fit within VF-13 that sits on an inner rim at the connecting flanges shown
+in Figures 1 and 2. The frame is made of Bosch Rexroth aluminum structural framing. It is capable of
+supporting one sample holder at a time. The sample holders are described in more detail in the following
+section. The frame supports Lexan (SABIC Innovative Plastics) glass panels which surround the sample
+holder on all four sides, partially mimicking the expected flight design enclosure configuration by acting
+as a combustion tunnel. Figure 2 illustrates the entire test rig. The original experimental concept sketch
+can be found in Appendix D, and dimensioned drawings are included in Appendix B.
+
+NASA/TM—2013-216501
+
+3
+
+Figure 2.—Experimental rack in VF-13.
+
+NASA/TM—2013-216501
+
+4
+
+3.1.2
+
+Sample Holder
+
+As mentioned, an objective of the test was to vary heat release rate. This was achieved by varying the
+sample width and burning multiple samples sequentially while keeping the total sample area constant.
+Three sample holder designs were conceived for testing. Drawings were produced for the three sample
+holder designs and were submitted to GRC Manufacturing Division for fabrication. The dimensioned
+drawings can be found in Appendix E. Manufacturing ordered the material (1/16 in. thick aluminum), and
+cut the sample holders using a water knife. Due to the effort to constrain the input variables for the DOE
+matrix generation, only the four slot sample holder was used for DOE testing. The four slot sample holder
+and the one slot sample holder were both used for supplemental testing. The three slot sample holder was
+fabricated but never utilized. Figure 3 shows a depiction of the three designs. The two designs used
+during the test are shown in bold.
+To reduce the potential for reflection on the video recordings, the sample holders were sent offsite for
+flat black anodizing. Two of each sample holder design were fabricated (for a total of six sample holders)
+with the intent of expediting test preparations. The sample holders were not permanently mounted as part
+of the test fixture, but were designed to be easily installed and removed between tests. Because of the size
+of the sample holders and the height of the facility and test rig, the sample holders needed to be installed
+and removed using the facility crane. Procedures for sample holder installation and removal are included
+in Appendix F and Appendix G, respectively.
+Each sample holder was designed with the capability of igniting at either end of the sample. Igniter
+wires were permanently affixed to each end of the sample holders (Figs. 2 and 4). Graduation lines (scale
+factors) were drawn alongside the vertical perimeters of the sample cutouts to facilitate tracking the burn
+rate. Kapton tape was used to mount the samples to the sample holder.
+
+Figure 3.—Depiction of sample holder designs (not to scale).
+
+NASA/TM—2013-216501
+
+5
+
+Figure 4.—Igniter wiring leads on a four slot sample holder.
+
+3.1.3
+
+Cameras
+
+For this test, the four chamber viewing ports did not provide access for visual documentation of the
+experiment. Four HD digital video cameras, two mounted on either side of the sample holder, recorded
+and transmitted video of the experiment inside the chamber. Two of the cameras were purchased new
+(mounted in the front) and two cameras were borrowed. Wide angle lenses were purchased for both sets
+of cameras as the fields of view did not completely cover the entire sample area. With the addition of the
+lenses, the front cameras captured the entire potential sample area, while the back cameras did not. The
+camera locations are labeled in Figure 2 and additional information pertaining to the cameras can be
+found in and Appendix B.
+The cameras were mounted outside of the Lexan enclosure. Aside from documenting the experiments,
+the primary intent of the video imaging was to post-process the videos to reveal the burning rate of the
+samples. Secondarily, a live video feed was transmitted from the two front cameras to two flat screen
+monitors provided test operators with visual confirmation of fuel sample ignition and the outcome of the
+test. Illumination within the chamber to facilitate adequate lighting for video imagery was achieved with a
+series of green Light Emitting Diode (LED) strips, which were mounted vertically inside along the two
+front corners of the Bosch frame. More information pertaining to the LED strips can be found in Table 1.
+The cameras were not configured to operate remotely. As a result, the cameras needed to be turned on
+and recording prior to closing the chamber. Video data captured by the cameras was written to Secure
+Digital (SD) cards. During the course of testing, reflections were hindering flame tracking postprocessing of the video data files. A thin sheet of black card stock was added to the inner surface of the
+back Lexan panel to help minimize the reflection for the front set of cameras. All camera settings are
+captured in Appendix H.
+3.1.4
+
+Thermocouples
+
+The facility had existing feed-throughs capable of supporting eight type K thermocouples. All eight
+were utilized for testing. Seven thermocouples were mounted in the plane directly above the top edge of
+the sample holder, with four evenly spaced on the front side and three evenly spaced on the back side of
+the test rig. The spacing was intended to allow for capturing temperature readings directly above the center
+of the sample being burned, despite which sample holder was being used. An eighth thermocouple was
+mounted one meter above the top edge of the sample holder to obtain a plume temperature reading.
+Thermocouple information can be found in Table 1.
+
+NASA/TM—2013-216501
+
+6
+
+Description
+Thermocouple
+Radiometer
+(Thermopile
+Detectors)
+Anemometer
+
+Camera
+
+Pressure
+transducers
+
+LED strips
+Kanthal igniter
+wire
+
+TABLE 1.—EXPERIMENTAL INSTRUMENTATION
+Manufacturer/Model number
+Quantity
+Serial number
+Comments
+Omega, KMQSS-062(E)-12
+8
+NA
+ORIEL instruments, 7108
+2
+NA
+Utilized two amplifiers, one for each
+radiometer (supplier, Dexter
+Research Center, Model 1010 Low
+Noise Amplifier)
+TSI, 8475-12
+2
+62010041,
+02/28/2012;
+62010042,
+02/24/2012
+SONY HDR-XR160 HD (2)
+4
+HDR-XR160
+Wide angle lenses were purchased
+SONY HDR-CX110 (2)
+1179957-P
+for the cameras (SONY VCL1179960-J
+HA07A wide angle adaptor, QTY 4)
+HDR-CX160
+1197443-F
+1202996-F
+Setra 205-2
+1
+Setra 205-2,
+Setra 205-2 had a range of 0 to
+Setra 270
+530528;
+25 psia and an accuracy of 0.11%
+Setra 270,
+FS. Setra 270 had a range of 0 to
+N/A
+20 psia and an accuracy of 0.05%
+FS.
+RL-SC-RSM-G-10
+1
+N/A
+N/A
+N/A
+For sawtooth/sinusoid shaped
+Product: Kanthal A-1
+igniters, actual wire lengths were
+Size (diameter): 0.0113 in.
+approximately double igniter length.
+B&S wire gauge: 29
+T: 0.45
+Ω/FT: 6.751
+Net: 0.73
+REF NO.: 50130
+
+The thermocouple arrangement was revised for tests which utilized a heat exchanger. The
+thermocouple diagrams documenting the progression of the thermocouple arrangement are in
+Appendix I. Figure 2 shows the thermocouples on the test rig. Appendix B includes XYZ coordinates for
+the thermocouples. A thermocouple support plate was designed with pre-drilled holes to facilitate
+thermocouple mounting. Three support plates were fabricated by manufacturing and also sent out for flat
+black anodizing. Two of the support plates were used for thermocouple mounting, while the third and
+spare plate was instead used to mount the anemometers. The drawing for the thermocouple support plate
+is included in Appendix E.
+3.1.5
+
+Radiometers
+
+Mounted within the front panel of Lexan were two radiometers for detecting radiant flux. Both were
+aligned vertically along the center of the Lexan panel. Two amplifiers were used for the radiometers.
+Table 1 lists additional radiometer information. Figure 2 points out the location of the radiometers on the
+test rig and their XYZ coordinates can be found in Appendix B.
+3.1.6
+
+Anemometers
+
+Measuring induced buoyant flow was of interest for this test. Two omnidirectional anemometers were
+mounted several inches away from the base of the sample holder plane. Table 1 lists additional
+anemometer information. The anemometers are labeled in Figure 2 and actual XYZ coordinates are called
+out in Appendix B. A thermocouple support plate was used for mounting the anemometers. The drawing
+for the thermocouple support plate is included in Appendix E. The anemometer test data readings
+appeared to saturate at approximately 55 cm/s. Airflows of this magnitude were only present while the
+mixing fan was operational.
+
+NASA/TM—2013-216501
+
+7
+
+3.1.7
+
+Pressure Transducers
+
+Two pressure transducers were actively recording data during testing. One pressure transducer was
+left in the facility by the previous occupant and had expired calibration certification. It measured
+pressures within a range of 0 to 20 psi. The second pressure transducer was calibrated prior to testing and
+it had a range of
+0 to 25 psi. While both pressure transducer readings are present in the test data, only the 0 to 25 psi range
+pressure transducer data is being considered for post-test evaluation and data correlations. The make and
+model of these transducers are included in Table 1. The pressure transducers were mounted in the
+chamber feed-throughs (at the chamber wall) approximately 1 ft below the bottom of the test rig. The 0 to
+25 psi range transducer mounted in the feed-through near the front left corner of the test rig and the 0 to
+20 psi transducer was mounted in the feed-through near the front right corner of the test rig.
+3.1.8
+
+Mixing Fan
+
+To aid in mixing the chamber air following test runs, a fan was mounted along the base of the frame.
+Fan mounting location and air flow direction were not of concern, provided the fan did not interfere with
+the test article.
+3.1.9
+
+Igniters
+
+Kanthal wire was used to create the igniters used for each test. More information regarding the
+Kanthal wire can be found in Table 1. For the majority of the tests the wire was bent in sinusoid/sawtooth
+shape until the total length of the igniter was the width of the test sample. Connector pins were crimped
+onto the ends. See Figures 4 to 6. The sawtooth shape of the igniter lent itself well to attaching to the
+sample by alternating peaks above and below the edge of the sample. The igniters were reused until
+broken, distorted beyond repair, or too brittle.
+Concerned that the wire would become hot and sag too quickly, for large sample (50 by 100 cm)
+tests, the igniter wire was simply woven through the fabric like a thread rather than attaching to the
+sample by weaving alternating peaks around the edge. The igniters were supplied with a constant current
+just under 4 A (approximately 3.9 A). The voltage source was an 84 V DC source, but the voltage drawn
+was variable depending on igniter resistance (igniter length).
+A switchbox was custom made for the experiment. It allowed for the experiments four igniters to be
+engaged in any combination, either simultaneously or sequentially, and it also allowed for
+synchronization of the illumination of the LED lights with ignition.
+
+Figure 5.—Igniter concept.
+
+Figure 6.—Photo of igniter.
+
+NASA/TM—2013-216501
+
+8
+
+3.1.10 Heat Exchangers
+As a means of varying heat loss during testing, two different heat absorbing panel configurations
+were used. These were both referred to as heat exchangers. The heat exchangers needed to be porous so as
+not to obstruct the induced buoyant flow during burning.
+The first configuration was comprised of two stacked aluminum honeycomb core panels from
+McMaster Carr. Each was 24 in. wide by 48 in. long by 0.5 in. thick with 0.5 in. cells. The aluminum
+itself was approximately 2 mils thick (a measured value upon receipt of the product from the manufacturer). Figure 7 shows a depiction of an aluminum honeycomb core similar to what was used for this test.
+
+Figure 7.—Depiction of an aluminum honeycomb core (similar to L1).
+
+NASA/TM—2013-216501
+
+9
+
+The two panels were stacked together so that the cells were slightly offset and simply placed across
+the top of the test frame. The length of the panels exceeded the length of the frame so they protruded
+slightly on either side. The panel width was slightly less than the width of the frame so a ceramic paper
+was cut into long strips and used to eliminate the gap. The two panels together weighed 770 g (one
+weighed 380 g, one weighed 390 g). When the honeycomb began to lose its rigidity, it became evident
+that the honeycomb was bonded with adhesive and was not welded. This heat exchanger is referred to as
+“L1” within the context of the test matrices. The reference was an arbitrary label for the purposes of
+providing nomenclature for the parametric input to the DOE software.
+The second heat exchanger was comprised of two aluminum mesh (lath) panels with an aluminum
+frame from filters-now.com. The frame dimensions were 24 in. wide by 43 in. long by 7/8 in. thick. The
+mesh was 5/8 in. and was secured by the frame. Figure 8 is a photograph of one of the two panels. The
+two panels were stacked together and placed across the top of the experimental frame during testing.
+Unlike the honeycomb panels, the length of the mesh panels did not exceed the experimental frame
+length, however the panel width was slightly less than the width of the experimental frame so a ceramic
+paper was cut into long strips and used to eliminate the gap.
+
+Figure 8.—Photo of one of two aluminum mesh heat exchanger panels (L2).
+
+NASA/TM—2013-216501
+
+10
+
+The two panels together weighed 5208 g (one weighed 2610 g, one weighed 2598 g). No adhesives
+were used in the fabrication of these panels. However, while testing, it became evident that the mesh had
+an undisclosed protective coating. Mesh panels with coatings are not uncommon given their range of
+applicability; microwaves, stove hoods, etc. The coating caused excess smoke release during several of
+the tests and at least once caused a secondary burn to occur as the coating caught on fire from the heat and
+intensity of the burning sample. This heat exchanger is referred to as “L2” within the context of the test
+matrices.
+3.1.11 Quench Bars
+As a secondary means of varying heat loss, aluminum bars, called quench bars, were designed to
+fasten along the vertical perimeters of samples on both the front and back of the sample holders. This
+means that four quench bars would be attached per sample. Figure 9 illustrates a depiction of a sample
+card with quench bars. The bars were made of 0.0625 in. thick aluminum and were each 43.25 in. long
+with a 1 in. square hollow cross section. Each bar was painted black with off the shelf spray paint to help
+minimize reflection from both the LED lights and the flame from the burning sample. The bars bolted to
+the sample holder at each end.
+
+Figure 9.—Sample card with quench bars.
+
+NASA/TM—2013-216501
+
+11
+
+3.2
+
+Data Acquisition, Storage and Archive
+
+Data acquisition (DAQ) was achieved with an Agilent DAQ system supplied by the facility. The
+system supported two pressure transducers (one calibrated, one out of calibration), eight Type K
+thermocouples, two radiometers, two anemometers, and an igniter indication signal. Data was recorded at
+a rate of once per second. Plots of all test data were displayed on a computer monitor during testing. All
+raw test data was captured in Comma-Separated Values (CSV) format and read into a Microsoft Excel
+spreadsheet. Procedures for activating and using the DAQ are provided in Appendix J. Table 1 lists the
+experimental instrumentation and hardware used for data collection.
+All Excel test data files, video files, and test matrices, are stored for archival on an external hard drive
+that was purchased by the task. Additionally, all of the Excel test data files and test matrices will be stored
+in the AES Spacecraft Fire Demonstration Project on eRoom. All Excel data files are labeled as
+VF13_"matrix name"_"mm/dd/yyyy"_"test/fill-run".xlsx, where matrix name is either DOE or SUP. For
+example, the filename for DOE test/fill 1, run 1 would be VF13_DOE_04052012_1-1.
+
+4.0
+
+Fuel Material
+
+The leading fuel material candidates for the Large Scale Flight Experiment include cheesecloth and
+Solid Inflammability Boundary at Low-Speeds (SIBAL) material. The DOE did not include fuel as a
+variable parameter and therefore cheesecloth was the only fuel utilized for the DOE testing.
+Supplementary tests included SIBAL fuel. Details of each test and materials burned are provided in the
+test matrices included in Appendix C.
+
+4.1
+
+Cheesecloth
+
+Cheesecloth is a loose-woven gauze-like cotton cloth available in many different grades/weaves. Four
+types of cheesecloth were ordered for this task; #50 unbleached, #60 unbleached, #90 unbleached, and
+#90 bleached. All were from www.cheesecloth.us. It was decided that #90 bleached would be the most
+appropriate cheesecloth selection for this test given its higher grade (more tightly woven fibers) lending
+itself to falling within a targeted area density. Additionally, samples of each type of cheesecloth were
+burn tested in a much smaller chamber. It was found that bleached cheesecloth burns more cleanly than
+unbleached which was more desirable for this test.
+
+4.2
+
+SIBAL
+
+SIBAL fuel is a custom made cotton-fiberglass blend. When burning, the cotton is consumed leaving
+behind a fiberglass matrix after the flame passage. This material is capable of one-sided burning and may
+exhibit inconsistent flame spread rates. Only one roll was manufactured almost a decade ago and what
+remains of the roll is all that exists of the material today. The material was supplied by the GRC
+Combustion and Reacting Systems Branch, code REC. SIBAL is significantly less permeable than
+cheesecloth. It also proved to be easier to handle than cheesecloth in terms of sample preparation. The
+fabric was less prone to snagging, fraying and stretching.
+
+NASA/TM—2013-216501
+
+12
+
+5.0
+
+Design of Experiments
+
+The final DOE (JMP version 10.0) was an augmented custom design (build 1.3.2.20120426)
+consisting of five multi-level factors and one response as described in Table 2.
+The selected response model contained main-effects with 2nd order interactions and included a
+constraint that disallowed non-physical combinations of the factors. The JMP software identified 28 runs
+necessary for an optimal design. Experiments were conducted utilizing the 4-slot sample holder such that
+two runs were performed for each VF-13 chamber test/fill. As such, 48 runs were identified and used in
+the DOE analysis. These runs included retests of anomalies and single point replicates. The relationship
+between the DOE name and name used for the response model is shown in Table 3.
+
+TABLE 2.—DOE CUSTOM DESIGN
+Component
+DOE name
+Levels
+Continuous response
+Delta P
+Minimize
+Categorical factors
+Ignition location
+B, T
+----------------------------Quench block
+N, Y
+----------------------------Heat exchanger
+N, L1, L2
+Discrete numeric factors
+FES width
+12.5, 37.5 (cm)
+----------------------------FES area
+0.125, 0.375 (m2)
+
+TABLE 3.—DOE NAME VS. RESPONSE MODEL NAME
+DOE name and relationship
+Response model name
+Delta P
+Y
+Ignition location
+A
+Quench block
+B
+Heat exchanger
+C
+(FES width-25)/12.5
+X
+(FES area-0.25)/0.125
+Z
+
+The response model expression is shown in Equation (1),
+Y   0  1 A   2 B   3C   4 X   5 Z   6 AB   7 AC   8 AX   9 AZ  10 BC  B11 BX
+ 12 BZ  13CX  14 CZ
+
+(1)
+
+where the parameter estimates, j, are multi-valued for the categorical factors. Using a Standard Least
+Squares fit (normal assumptions apply), estimates for the response model parameters were determined
+and are shown in Table 4.
+An Analysis of Variance provides a comparison between the fitted response model and a simple mean
+model. For this case, the results show (p-value 0.0001) that there is at least one significant effect in the
+response model with an R-squared value of 0.97 (estimates the proportion of variation in the response that
+can be attributed to the model rather than to random error). A graph of actual-versus-predicted Delta P is
+shown in Figure 10. The plot identifies the data points (markers), response model fit (solid red line) and
+95 percent confidence interval (dashed red lines), and mean Delta P (dashed blue line). The final design
+(DOE test matrix), along with the experimental results for Delta P (calculated and verified) and the
+response model predicted Delta P can be found in Appendix C and Appendix K, respectively.
+
+NASA/TM—2013-216501
+
+13
+
+TABLE 4.—RESPONSE MODEL ESTIMATES
+Factor
+Intercept
+A
+-B
+-C
+--X
+Z
+AB
+---AC
+-----AX
+-AZ
+-BC
+-----BX
+-BZ
+-CX
+--CZ
+---
+
+Factor level
+Intercept
+B
+T
+N
+Y
+N
+L1
+L2
+--B, N
+B, Y
+T, N
+T, Y
+B, N
+B, L1
+B, L2
+T, N
+T, L1
+T, L2
+B
+T
+B
+T
+N, N
+N, L1
+N, L2
+Y, N
+Y, L1
+Y, L2
+N
+Y
+N
+Y
+N
+L1
+L2
+N
+L1
+L2
+
+Delta P Actual
+
+Parameter
+0
+1
+-2
+-3
+--4
+5
+6
+---7
+--
+--
+--
+--
+--
+8
+--
+9
+--
+10
+--
+--
+--
+--
+--
+11
+--
+12
+--
+13
+--
+--
+14
+--
+--
+
+Figure 10.—Actual vs. Predicted Delta P.
+
+NASA/TM—2013-216501
+
+14
+
+Estimate
+0.370
+0.186
+–0.186
+0.045
+–0.045
+0.130
+0.062
+–0.192
+0.076
+0.109
+0.030
+–0.030
+–0.030
+0.030
+0.119
+0.038
+–0.158
+–0.119
+–0.038
+0.158
+0.027
+–0.027
+0.096
+–0.096
+0.005
+–0.010
+0.006
+–0.005
+0.010
+–0.006
+0.034
+–0.034
+0.004
+–0.004
+0.016
+–0.005
+–0.011
+0.046
+0.035
+–0.081
+
+6.0
+
+Results
+
+The volume of data collected from the experiment was substantial. Each archived data file includes
+plots of the pressure transducer, thermocouple, anemometer, and radiometer readings. In lieu of capturing
+every data plot from each test within this report, the following sections highlight only select test data.
+Future publications will address and evaluate empirical relationships, trends, and correlations.
+
+6.1
+
+Pressure Plot Examples and Pressure Trends
+
+Given the main test objective, the majority of the selected example plots to follow are pressure data
+plots. One pressure plot was selected to illustrate each test parameter. Trends in the pressure data were
+captured in a series of plots meant to group pressure outcomes according to categorical parameters. These
+are also included within the following subsections. The change in pressure for each test in both the DOE
+and Supplementary test sets is included in Appendix L. Several still pictures captured from the video files
+highlighting depictions of various test parameters are in Appendix M.
+6.1.1
+
+Top vs. Bottom Ignition
+
+The following plots in Figures 11 and 12, show the difference in pressure rise between the two
+ignition locations investigated during these tests. The plots shown below are for similar cases; a single
+12.5 cm wide sample without quench bars and without a heat exchanger. Ignition at the top of a sample
+yields a much slower burn time and less intense flame than a bottom ignition. As a result, the peak
+pressure for a top ignition will not be as high as the peak pressure for a bottom ignition for otherwise
+equivalent cases. Additionally, the peak pressure takes longer to reach as a result of a longer duration
+burn with a top ignition.
+
+Figure 11.—DOE test 1-1 top ignition example pressure plot.
+
+NASA/TM—2013-216501
+
+15
+
+Figure 12.—DOE test 3-6 bottom ignition example pressure plot.
+
+NASA/TM—2013-216501
+
+16
+
+6.1.2
+
+Simultaneous vs. Sequential Sample Ignition
+
+The following plots in Figures 13 to 16, show the difference in pressure rise between igniting multiple
+samples simultaneously and sequentially (also referred to as “in series”). The plots shown below are for similar
+cases. The first two plots are for cases burning three 12.5 cm wide samples ignited at the bottom without
+quench bars and without a heat exchanger. The second two cases are for burning three 12.5 cm wide samples
+ignited at the top without quench bars and without a heat exchanger. While total pressure rise appears to be
+different between the bottom ignition cases it is very close to the same. The apparent difference is caused by
+lag time while igniting sequentially as a result of test operator inaccuracies. The total pressure rise between the
+top ignition cases is slightly different. The sample material takes much longer to burn downward with a top
+ignition than upward with a bottom ignition, therefore sequential burns compared to simultaneous burns of the
+same amount of material at the same conditions will likely yield a lower total pressure rise. This is due in part
+to the released heat having more time to be absorbed by the surroundings.
+
+Figure 13.—DOE test 1-2 simultaneous bottom ignition example pressure plot.
+
+Figure 14.—DOE test 2-4 sequential bottom ignition example pressure plot.
+
+NASA/TM—2013-216501
+
+17
+
+Figure 15.—DOE test 7-14 simultaneous top ignition example pressure plot.
+
+Figure 16.—DOE test 20-39 sequential top ignition example pressure plot.
+
+NASA/TM—2013-216501
+
+18
+
+6.1.3
+
+Quench Bars: With vs. Without
+
+The following plots in Figures 17 and 18, show pressure rise for cases with quench bars and without.
+The plots shown are for similar cases; three samples simultaneously ignited at the top without a heat
+exchanger. The plots are so similar that it is difficult to visually see any obvious differences in pressure
+patterns. Any quench bar influences are more easily seen in later plots in section 6.1.6.
+
+Figure 17.—DOE test 22-43 no quench bars example pressure plot.
+
+Figure 18.—DOE test 23-45 with quench bars example pressure plot.
+
+NASA/TM—2013-216501
+
+19
+
+6.1.4
+
+Heat Exchanger: With vs. Without
+
+The following plots in Figures 19 to 21, show pressure rise for cases with each of the two heat
+exchangers and without. The plots shown are for similar cases; a single 12.5 cm wide sample ignited at
+the bottom without quench bars. As with the quench bars, the pressure plots for the case without the heat
+exchanger and the case with the L1 heat exchanger are so similar that it is difficult to observe the
+difference, if any, in the total pressure rise. The effect of the L1 heat exchanger is more easily seen in
+later plots in the Pressure Trends section. It is evident that the total pressure rise in the L2 heat exchanger
+case was lower than the case without a heat exchanger.
+
+Figure 19.—DOE test 10-19 no heat exchanger example pressure plot.
+
+NASA/TM—2013-216501
+
+20
+
+Figure 20.—DOE test 14-27 L1 heat exchanger example pressure plot.
+
+Figure 21.—DOE test 17-33 L2 heat exchanger example pressure plot.
+
+NASA/TM—2013-216501
+
+21
+
+6.1.5
+
+Cheesecloth vs. SIBAL
+
+The following plots in Figures 22 and 23, show the difference in pressure rise between burning
+cheesecloth and SIBAL material. The plots shown are for similar cases; one 50 cm wide by 100 cm long
+sample ignited at the bottom without quench bars and without a heat exchanger. Burning SIBAL fuel
+yields a greater pressure rise than burning the same size sample of cheesecloth (despite the starting
+pressure being lower in this particular SIBAL test case). This is to be expected since the area density of
+SIBAL is greater than cheesecloth. SIBAL fuel burns more slowly than cheesecloth and consequently its
+pressure rise curve is more symmetric than the curve for cheesecloth.
+
+Figure 22.—SUP test 4-5 50100 cm cheesecloth example pressure plot.
+
+Figure 23.—SUP test 14-21 50100 cm SIBAL example pressure plot.
+
+NASA/TM—2013-216501
+
+22
+
+6.1.6
+
+Pressure Trends
+
+To facilitate evaluating data from the tests, pressure trends from the DOE test runs are combined in
+the following plots in Figures 24 to 30. The data is separated categorically for visualization. References to
+top ignition or bottom ignition are synonymous with downward and upward burning, respectfully.
+
+Figure 24.—Top ignition DOE test runs by categorical parameter.
+
+Figure 25.—Bottom ignition DOE test runs by categorical parameter.
+
+NASA/TM—2013-216501
+
+23
+
+Figure 26.—Effect of starting chamber pressure.
+
+Figure 27.—Top ignition pressure rise by number of samples (sheets).
+
+NASA/TM—2013-216501
+
+24
+
+Figure 28.—Igniter length effects on bottom ignition pressure rise.
+
+Figure 29.—Pressure rise versus area burned for upward burns.
+
+Figure 30.—Pressure rise versus area burned for downward burns.
+
+NASA/TM—2013-216501
+
+25
+
+6.2
+
+Temperature Data Plot
+
+The following plot in Figure 31 shows the temperature response for three samples of cheesecloth
+ignited from the top and burned sequentially with quench bars. As each sample was burning, the
+thermocouple(s) directly above it were the most reactive and had the largest swing in temperature
+response.
+
+Figure 31.—DOE test 10-20 temperature data plot.
+
+NASA/TM—2013-216501
+
+26
+
+6.3
+
+Anemometer Data Plot
+
+The following plot in Figure 32 shows the airspeed response for three samples of cheesecloth ignited
+from the top and burned simultaneously. There are two obvious periods of air disturbance during the test.
+The first is in response to the cheesecloth burning and creating buoyant flow. The second occurs while the
+mixing fan is operational. It can be seen that the anemometers saturate at a reading of approximately
+55 cm/s which is reached by one of them during fan mixing. It can also be seen that the anemometer
+readings are not congruent. In addition to the placement of the anemometers with respect to the samples,
+the asymmetry of the interior bottom section of the test chamber likely contributed to this.
+
+Figure 32.—DOE test 7-14 anemometer data plot.
+
+NASA/TM—2013-216501
+
+27
+
+6.4
+
+Radiometer Data Plot
+
+The following plot in Figure 33 shows the radiometer readings for three samples of cheesecloth
+ignited from the top and burned simultaneously. The radiometer signals were output as a voltage rather
+than converted directly into a reading of radiant flux. The radiometer readings were suitable for indicating
+an accurate estimate of total burn time. While not shown in this plot, the radiometers saturate at
+approximately 8.5 V.
+
+Figure 33.—DOE test 7-14 radiometer data plot.
+
+NASA/TM—2013-216501
+
+28
+
+6.5
+
+Determining Burn-Times From Radiometer Data
+
+A quantitative approach based on radiometer data was developed in order to avoid subjectivity to
+determine burn-times from the VF-13 tests. The analysis includes single-, double-, and triple-strip
+samples and full-size samples where the multiple samples are ignited simultaneously and the full-size
+samples are ignited along their full width. Repeat tests are also included, but multiple samples with serial
+ignitions (i.e., sequential burns) are ignored in the analysis. The anomalous tests are excluded. For DOE
+run 2.3, the radiometers seem dysfunctional, therefore this test is also excluded.
+For the downward burn cases where the samples are ignited at the top, the “ignition time” is obtained
+from the time corresponding to the first 30 percent reading of the full range of the top radiometer (while
+taking off), and the “extinction time” is obtained from the time corresponding to the second 30 percent
+reading of the full range of the bottom radiometer (while falling down). The term “full range” is defined as
+the difference between the maximum and minimum values of the radiometer reading. The burn-times are
+obtained from the difference of extinction and ignition times. Error bars indicate one standard deviation of
+all relevant data including repeats. No error bar means that there is only one single run of that given case.
+For the upward burn cases where the samples are ignited from the bottom, all of the radiometer
+readings saturate except the single-strip burns. Therefore, the radiative heat loss evaluation of doublestrip, triple-strip, and full-size sample tests are not possible. Also, the radiometer readings for many tests
+do not come down to their original minimum after the burns and seem to settle at a higher value (just like
+the pressure curves). Under the circumstances, the approach adopted to determine the extinction time for
+downburn cases is modified in order to handle the upburn cases in a more rational and consistent way.
+The determination of the ignition times for the upburn cases are kept the same as the downburn cases
+since the radiometer behavior is unaffected during ignitions of either cases. For determining the extinction
+times of upburn cases, 50 percent full-scale readings give reasonable values for these fast burns which last
+only about 9 sec (where “full scale” means the saturation value). Since the data is recorded every second,
+obtaining burn-times require some interpolations of readings at two consecutive seconds.
+The data presented are for either cheesecloth or SIBAL fuel material. The cheesecloth data includes
+all DOE tests and some of the relevant Supplemental tests while the SIBAL data is taken only from
+Supplemental tests. All tests had an initial pressure of about 11.7 psi (~0.8 atm) except where indicated
+otherwise. The pressure effect data is obtained from single tests of double-strip cheesecloth samples.
+
+NASA/TM—2013-216501
+
+29
+
+6.5.1
+
+Cheesecloth Burn-Times
+
+Tables 5 and 6 and Figures 34 to 36, give the upward burn cases first followed by the downward burn
+cases. Burn-times labeled as “measured” are obtained from radiometer data as described above.
+TABLE 5.—CHEESECLOTH BURN-TIMES FOR UPWARD BURNING (BOTTOM IGNITION)
+sequential burn; not considered for burn‐times
+anomalous tests; not considered
+radiometer dysfunctional
+All tests had an initial pressure of about 11.7 psi (~ 0.8 atm) except where indicated in aqua color.  
+
+Ignition 
+location
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+Quench 
+block 
+(QB)
+N
+N
+N
+N
+N
+N
+N
+N
+N
+Y
+Y
+Y
+N
+N
+N
+N
+N
+N
+N
+N
+Y
+Y
+Y
+Y
+Y
+Y
+N
+N
+N
+
+Heat 
+exchanger 
+(HX)
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+Y/HX1
+Y/HX1
+Y/HX1
+Y/HX1
+Y/HX1
+Y/HX2
+Y/HX2
+Y/HX2
+Y/HX1
+Y/HX1
+Y/HX1
+Y/HX1
+Y/HX2
+Y/HX2
+N
+N
+N
+
+NASA/TM—2013-216501
+
+Sample  Sample  Measured 
+Burn‐time 
+area 
+deltaP 
+Run.Fill numbers, test dates & comments
+width 
+(s)
+2
+(psi)
+(cm)
+(cm )
+12.5
+0.125
+0.442
+7.44
+7.13 (4/24/12)
+12.5
+0.125
+0.415
+8.64
+10.19 (5/2/12); replicate of 7.13
+12.5
+0.125
+0.434
+7.92
+22.44 (6/1/12); replicate of 7.13
+12.5
+0.125
+0.431
+7.58
+23.46 (6/4/12); replicate of 7.13
+25.0
+0.250
+0.921
+9.92
+Supp1.1 (3/29/12); check out
+37.5
+0.375
+1.369
+8.93
+1.2 (4/5/12)
+50.0
+0.500
+1.776
+9.82
+Supp4.5 (5/3/12); full sample
+12.5
+0.375
+1.051
+2.4 (4/10/12); sequential burn
+12.5
+0.250
+0.797
+CO.b (3/29/12); check out; sequential burn
+12.5
+0.125
+0.394
+8.16
+3.6 (4/16/12)
+12.5
+0.125
+0.366
+7.56
+11.21 (5/3/12); replicate of 3.6
+12.5
+0.375
+0.859
+12.24 (5/4/12); sequential burn
+12.5
+0.125
+0.334
+7.06
+6.11 (4/20/12)
+12.5
+0.125
+0.329
+7.29
+14.27 (5/9/12); replicate of 6.11
+12.5
+0.125
+0.334
+7.64
+21.42 (5/31/12); replicate of 6.11
+37.5
+0.375
+1.065
+9.40
+8.16 (4/26/12)
+12.5
+0.375
+0.860
+5.10 (4/19/12); sequential burn
+12.5
+0.125
+0.097
+7.80
+17.33 (5/24/12)
+50.0
+0.500
+0.326
+9.97
+Supp11.17 (6/6/12); full sample
+12.5
+0.375
+0.202
+16.32 (5/23/12); sequential burn
+12.5
+0.125
+0.294
+7.46
+9.17 (4/30/12)
+12.5
+0.125
+0.294
+7.62
+13.25 (5/7/12); replicate of 9.17
+37.5
+0.375
+0.935
+9.60
+4.8 (4/17/12)
+12.5
+0.375
+0.759
+14.28 (5/9/12); sequential burn
+12.5
+0.125
+0.070
+7.70
+18.35 (5/25/12)
+37.5
+0.375
+0.205
+9.93
+18.36 (5/25/12)
+12.5
+0.250
+0.800
+10.18 Supp13.20 (6/8/12); initial P: 9 psi
+12.5
+0.250
+0.679
+13.56 Supp10.16 (5/22/12); initial P: 6.6 psi
+12.5
+0.250
+0.541
+18.40 Supp13.19 (6/8/12); initial P: 5 psi
+
+30
+
+TABLE 6.—CHEESECLOTH BURN-TIMES FOR DOWNWARD BURNING (TOP IGNITION)
+sequential burn; not considered for burn‐times
+anomalous tests; not considered
+radiometer dysfunctional
+All tests had an initial pressure of about 11.7 psi (~ 0.8 atm) except where indicated in aqua color.  
+
+Ignition 
+location
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+
+Quench 
+block 
+(QB)
+N
+N
+N
+N
+N
+Y
+Y
+Y
+Y
+Y
+Y
+N
+N
+N
+N
+N
+N
+N
+N
+Y
+Y
+Y
+Y
+Y
+
+Heat 
+exchanger 
+(HX)
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+Y/HX1
+Y/HX1
+Y/HX1
+Y/HX1
+Y/HX1
+Y/HX1
+Y/HX2
+Y/HX2
+Y/HX1
+Y/HX1
+Y/HX1
+Y/HX2
+Y/HX2
+
+Sample  Sample  Measured 
+Burn‐time 
+area 
+deltaP 
+Run.Fill numbers, test dates & comments
+width 
+(s)
+2
+(psi)
+(cm)
+(cm )
+12.5
+0.125
+0.129
+211.50 1.1 (4/5/12)
+37.5
+0.375
+0.337
+209.00 7.14 (4/24/12)
+37.5
+0.375
+0.294
+243.45 22.43 (6/1/12); replicate of 7.14
+12.5
+0.375
+0.161
+11.22 (5/3/12); sequential burn; anomaly
+12.5
+0.375
+0.164
+20.39 (5/30/12); retest of 11.22; sequential burn
+12.5
+0.125
+0.130
+2.3 (4/10/12); radiometer dysfunctional
+12.5
+0.125
+0.105
+12.23 (5/4/12); replicate of 2.3; anomaly
+12.5
+0.125
+0.113
+240.75 20.40 (5/30/12); replicate of 2.3
+37.5
+0.375
+0.275
+245.25 3.5 (4/16/12)
+37.5
+0.375
+0.275
+212.00 23.45 (6/4/12); replicate of 3.5
+12.5
+0.375
+0.149
+10.20 (5/2/12); sequential burn
+12.5
+0.125
+0.129
+223.24 4.7 (4/17/12)
+12.5
+0.125
+0.130
+222.77 5.9 (4/19/12), Replicate of 4.7
+37.5
+0.375
+0.315
+9.18 (4/30/12); anomaly
+37.5
+0.375
+0.313
+13.26 (5/7/12); retest of 9.18; anomaly
+37.5
+0.375
+0.307
+224.54 21.41 (5/31/12); retest of 9.18
+12.5
+0.375
+0.164
+15.30 (5/10/12); sequential burn
+12.5
+0.125
+0.084
+243.25 16.31 (5/23/12)
+37.5
+0.375
+0.278
+243.37 17.34 (5/24/12)
+12.5
+0.125
+0.118
+217.50 8.15 (4/26/12)
+12.5
+0.125
+0.116
+226.77 15.29 (5/10/12); replicate of 8.15
+37.5
+0.375
+0.281
+207.50 6.12 (4/20/12)
+12.5
+0.125
+0.091
+251.00 19.37 (5/29/12)
+12.5
+0.375
+0.140
+19.38 (5/29/12); sequential burn
+
+Upward Burns 
+(cheesecloth)
+Burn‐time (s)
+
+12.0
+10.0
+Average = 8.5 s
+8.0
+6.0
+4.0
+Single Single +
+Double
++ Triple
+
+Full
+
+Single +
+Double
++ Triple
++ QB
+
+Single +
+Double
++ Triple
++ HX1
+
+Single + Full + Single + Single +
+Double HX2 Double Double
++ Triple
++ Triple + Triple
++ HX2
++ QB + + QB +
+HX1
+HX2
+
+Figure 34.—Burn-times for cheesecloth upward burns.
+
+NASA/TM—2013-216501
+
+31
+
+Downward Burns
+(cheesecloth)
+
+Burn‐time (s)
+
+275
+250
+Average = 228 s
+225
+200
+175
+Single
+
+Single + Single + Single + Single +
+Double + Double + Double + Double +
+Triple Triple + Triple + Triple +
+QB
+HX1
+HX2
+
+Single +
+Double +
+Triple +
+QB + HX1
+
+Single +
+Double +
+Triple +
+QB + HX2
+
+Figure 35.—Burn-times for cheesecloth downward burns.
+
+Upward Burn Pressure Effect
+(double‐strip cheesecloth)
+
+Burn‐time (s)
+
+20.0
+
+15.0
+
+10.0
+
+5.0
+4.0
+
+5.0
+
+6.0
+
+7.0
+
+8.0
+
+9.0
+
+10.0
+
+Initial Pressure (psia)
+Figure 36.—Cheesecloth upward burn pressure effect.
+
+NASA/TM—2013-216501
+
+32
+
+11.0
+
+12.0
+
+13.0
+
+6.5.2
+
+SIBAL Cloth Burn-Times
+
+SIBAL cloth is a composite fuel material with a total area density of 18.05±0.02 mg/cm2 and
+thickness of 0.31±0.02 mm, composed of 75 percent cotton and 25 percent fiberglass by mass. Only the
+cotton portion is burned and the fiberglass skeleton structure remains after burns. In terms of relative
+energy densities, SIBAL cloth fuel releases about 3.2 times more heat per unit area than cheesecloth.
+Even though the flame spread rates on SIBAL cloth are slower than those on cheesecloth, due to the
+larger area density of SIBAL cloth (18.05 vs. 4.28 mg/cm2), the more energetic burns of SIBAL fuel lead
+to greater radiation. This results in faster saturation of the radiometers beyond their applicable scale and
+longer periods of recovery for the radiometer readings to fall back to their measurement range.
+Furthermore, after each burn, it has experimentally been observed that the remaining skeleton of SIBAL
+cloth fuel continues to glow partially due to the continued smoldering of cotton stuck on fiberglass
+structure and partially due to decaying radiation from warm fiberglass after the flame passes while it is
+cooling. SIBAL burning data is shown in Table 7 and Figures 37 and 38.
+These factors render the approach to use radiometer readings to determine burn-times impractical for
+SIBAL fuel. Although the determination of ignition times may be acceptable, the determination of
+extinction times for SIBAL cloth burns is highly unreliable, as reflected in the table and graph below. For
+the nominal initial pressure cases when no heat exchanger is used, the burn-times of various-width
+samples are expected to be close to one another. Yet, they are considerably different. Therefore, it is
+recommended that some method other than using radiometer readings be adopted to determine the burntimes of SIBAL cloth cases.
+TABLE 7.—SIBAL CLOTH BURN-TIMES FOR UPWARD BURNING (BOTTOM IGNITION)
+sequential burn; not considered for burn‐times
+anomalous tests; not considered
+radiometer dysfunctional
+All tests had an initial pressure of about 11.7 psi (~ 0.8 atm) except where indicated in aqua color.  
+
+Fuel: SIBAL cloth
+Ignition 
+location
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+
+Quench 
+block 
+(QB)
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+
+Heat 
+exchanger 
+(HX)
+N
+N
+N
+Y/HX2
+Y/HX2
+Y/HX2
+Y/HX2
+Y/HX2
+N
+N
+
+NASA/TM—2013-216501
+
+Sample  Sample  Measured 
+Burn‐time 
+area 
+width 
+Run.Fill numbers, test dates & comments
+deltaP 
+(s)
+2
+(cm)
+(psi)
+(cm )
+12.5
+0.125
+0.695
+27.07 Supp7.11 (5/17/12)
+25.0
+0.250
+1.611
+44.03 Supp5.6 (5/11/12)
+32.5
+0.325
+2.395
+57.19 Supp7.10 (5/17/12)
+25.0
+0.250
+0.404
+56.81 Supp6.8 (5/16/12)
+25.0
+0.250
+1.280
+61.64 Supp6.9 (5/16/12); sequential burn
+12.5
+0.125
+0.191
+20.39 Supp8.12 (5/18/12)
+32.5
+0.325
+0.593
+74.26 Supp8.13 (5/18/12)
+50.0
+0.500
+3.527
+78.80 Supp12.18 (6/7/12)
+50.0
+0.500
+2.716
+53.98 Supp14.21 (6/14/12); Initial P: 9 psi
+25.0
+0.250
+0.706
+94.44 Supp10.15 (5/22/12); Initial P: 6.5 psi
+
+33
+
+Upward Burns 
+(SIBAL cloth)
+85.0
+
+Burn‐time (s)
+
+75.0
+65.0
+55.0
+45.0
+35.0
+25.0
+15.0
+Single
+
+Single + Double Single + Double
++ Triple
++ Triple + HX2
+
+Full + HX2
+
+Figure 37.—Burn-times for SIBAL cloth upward burns.
+
+Upburn Pressure Effect
+(SIBAL cloth)
+Burn‐time (s)
+
+100.0
+80.0
+60.0
+40.0
+20.0
+0.0
+4.0
+
+6.0
+
+8.0
+
+10.0
+
+12.0
+
+Initial Pressure (psia)
+Figure 38.—SIBAL cloth upward burn pressure effect.
+
+NASA/TM—2013-216501
+
+34
+
+14.0
+
+7.0
+
+Closing Remarks
+
+Given the quantity of test parameters and variants, gathering as much information as possible from as
+few experiments as possible became an immediate challenge. By utilizing a DOE approach to optimize
+the test matrix, the experiments were structured in a systematic mathematical fashion to aid in producing
+the most relevant and useful data output. The supplemental set of tests was motivated by the need to
+address additional parameters that were omitted from the DOE matrix generation for various reasons.
+Future publications will further convey the data relationships, trends, and correlations derived from the
+two matrices.
+While recorded test details are captured in the test matrices listed in Appendix J, several details
+should be highlighted:
+
+
+
+
+
+
+While running top ignition (downward burn) cheesecloth tests, it was common to see an ember fall
+from the flame front and land a fraction of the way down the length of the sample, thus causing an
+upward burn. Several of these cases were noted as being “anomalous” and in some cases were
+included in the DOE as repeat tests.
+SIBAL tests with top ignition were attempted, but ignition could not be maintained.
+Smoke generation was greater when burning SIBAL fuel than when burning cheesecloth.
+Most of, if not all of, the tests that utilized the L2 heat exchanger were subject to smoke generation. A
+previously undisclosed protective coating was on the steel mesh and tended to smoke upon being
+heated beyond a certain (unknown) temperature.
+
+If further testing is ever pursued to complement what has already been done, additional points of
+interest and value to both engineering and research include:
+
+
+
+
+
+
+
+
+Burning multi-layered fabric.
+Varying igniter power to determine min and max igniter power limits for a given sample material and
+igniter wire type.
+Examining additional starting pressure points.
+Varying oxygen concentration.
+Adding forced flow.
+Utilizing a heat exchanger with a similar mass to the L2 heat exchanger but with no coating.
+Filling the chamber with various materials with a variety of area/volume ratios placed at different
+locations to help characterize the heat transfer environment of the chamber for model validation
+purposes.
+
+References
+Kleinhenz, J., Ferkul, P., Pettegrew, R., Sacksteder, K., and T’ien, J.S. 2005. One-sided Spread
+Phenomena of a Thermally Thin Composite Cotton/Fiberglass Fabric. Fire and Materials, 29:27-37.
+NASA, 2011, Kleinhenz, J., Yuan, Z., An Experimental Study of Upward Burning Over Long Solid Fuels:
+Facility Development and Comparison, NASA Technical Memo, NASA/TM—2011-217024.
+
+NASA/TM—2013-216501
+
+35
+
+Appendix A.—Experiment Operating Procedure
+ Test director to review details on burning sequence with the test team.
+ Verify igniter circuit with ohm meter.
+ Extend anemometers to 1 in. from fuel card plane.
+ Hook up igniter leads from fuel card to chamber feed through leads.
+Only one igniter circuit should be hooked up on each panel. e.g., on panel #1 igniter
+circuit #1 top or igniter circuit #1 bottom should be hooked up, not both.
+ Verify that all TCs have been extended to their proper positions.
+For TC configuration A (without heat sink) TC6 is hooked to data channel 6.
+For TC configuration D (with heat sink) TC9 is hooked to data channel 6.
+ Turn ON all power supplies and TV monitors.
+ Prepare Agilent Data Logger.
+ Verify valid signals from thermocouples, anemometers, radiometers, and pressure transducers are
+being received by the data logger.
+ Have crane crew prepare the chamber cap for installation.
+ CONTINUOUS OPERATION REQUIRED BEYOND THIS POINT.
+ Remove camera caps.
+ Turn ON cameras: Open camera screens on HDR-CX110 cameras. Push ON buttons on HDR-XR160
+cameras. (Screens on HDR-XR160 cameras will be open if HDMI cables are hooked up.)
+ Verify that SD cards have been FORMATED to remove old video.
+ Verify cameras FOV and that they are set for HD video. Review camera setup instruction sheet for
+other settings.
+ KEEP A TIME LOG STARTING WITH THE TIME THE CAMERAS START RECORDING.
+ Push RECORD on all four cameras. RECORD TIME.
+ Install chamber cap. WATCH FOR CLEARANCE ON CAMERAS.
+ Pump chamber down to 11.7 psia 0.05 (~0.8 atmospheres) UNLESS DIRECTED OTHERWISE BY
+TEST DIRECTOR.
+ Turn ON lights and verify camera views while chamber is pumping down.
+ Turn OFF lights
+
+NASA/TM—2013-216501
+
+37
+
+ Push “PLAY” () on the data logger.
+ On the control box:
+Igniter switch(s) for fuel panels to be burned ON
+Igniter Enable ON
+Confirm that all test team members are ready for the burn.
+Push RED ON button and hold until ignition is visually confirmed using TV monitors.
+NOTE: If sequential burns are to be performed turn OFF igniter switch on first panel as soon as
+ignition is confirmed, then turn ON igniter switch for second fuel panel. Push RED ON button as
+soon as first panel burn is complete. Follow same procedure for additional panels.
+ Turn OFF lights at completion of burn. On short burns wait about one minute before turning lights
+off.
+ At completion of burn:
+Wait for temperature/pressure to decay for 10 min.
+Turn fan ON for 5 min.
+Turn fan OFF and allow chamber air to settle for 5 min.
+Anemometer readings should be approaching zero.
+ STOP data logger ()
+ Repeat above to burn additional panels.
+ After final burn:
+Turn OFF power supplies.
+Purge chamber.
+Remove chamber cap ASAP.
+STOP cameras, download video, download data files, recharge batteries.
+Vacuum chamber if necessary.
+ Refer to fuel card removal and installation procedures to replace the fuel card.
+
+	
+
+NASA/TM—2013-216501
+
+38
+
+Appendix B.—Experimental Rig Dimensions and
+Diagnostic Instrumentation Locations
+The diagrams (Figs. 39 and 40) provide the overall experimental rack dimensions. Instrumentation
+locations relative to an XYZ coordinate system specified in Figure 41, are provided in Table 8.
+
+Figure 39.—Interior dimensions of the experimental frame (Top-view).
+
+NASA/TM—2013-216501
+
+39
+
+Figure 40.—External dimensions of combustion tunnel.
+
+Figure 41.—Coordinate system used in Table 8.
+
+NASA/TM—2013-216501
+
+40
+
+TABLE 8.—DIAGNOSTIC INSTRUMENTATION LOCATIONS
+Item
+X coordinate
+Y coordinate
+Camera HDR-XR160 Bottom
++53
+0
+Camera HDR-XR160 Top
++53
+0
+Camera HDR-CX110 Bottom
+–50
+0
+Camera HDR-CX110 Top
+–50
+0
+Radiometer 1 (Lower)
++38.75
+0
+Radiometer 2 (Upper)
++38.75
+0
+Anemometer 1 (Left)
++4
+–12.5
+Anemometer 2 (Right)
++4
++12.5
+Thermocouple 1
++3
+–37.5
+Thermocouple 2
++3
+–12.5
+Thermocouple 3
++3
++37.5
+Thermocouple 4
+–3
+–31.7
+Thermocouple 5
+–3
+0
+Thermocouple 6 (Configuration A)
+–3
++31.7
+Thermocouple 6 (Configuration D)
+N/A
+N/A
+Thermocouple 7 (Configuration A)
+0
+0
+Thermocouple 7 (Configuration D)
+0
+–12.5
+Thermocouple 8
++3
++12.5
+Thermocouple 9 (Configuration D)
+0
+–12.5
+Note: Thermocouple 9 read out is on
+Thermocouple 6 data channel in
+Configuration D. Coordinate unit is
+centimeters.
+Note: The support post used for mounting Thermocouple 7 is not shown in the dimensioned diagram.
+
+NASA/TM—2013-216501
+
+41
+
+Z coordinate
+–20
++30
+–20
++30
+–20
++30
+–67
+–67
++58
++58
++58
++58
++58
++58
+N/A
++160
++160
++58
++68
+
+Appendix C.—As-Run Test Matrices
+C.1. DOE Test Matrix, As-Run
+The test matrix derived from the DOE is listed in Table 9. Unless otherwise stated in the matrix, the starting pressure for each run was
+approximately 11.7 psi (0.8 atmosphere). The material burned for all DOE tests was 90 grade bleached cheesecloth.
+TABLE 9.—DOE TEST MATRIX, AS-RUN
+Quench
+Heat
+Comments
+blocks,
+exchanger,
+Yes/No
+Yes/No
+
+Test/Fill
+number
+
+Run
+
+Width,
+cm
+
+Area,
+m2
+
+Ignition
+location,
+Top/Bottom
+
+1
+
+1
+
+12.5
+
+0.125
+
+T
+
+N
+
+N
+
+one sample
+
+1
+
+2
+
+37.5
+
+0.375
+
+B
+
+N
+
+N
+
+three sample
+simultaneous
+
+2
+
+3
+
+12.5
+
+0.125
+
+T
+
+Y
+
+N
+
+one sample
+
+2
+
+4
+
+12.5
+
+0.375
+
+B
+
+N
+
+N
+
+three sample
+series
+
+3
+
+5
+
+37.5
+
+0.375
+
+T
+
+Y
+
+N
+
+three sample
+simultaneous
+
+3
+
+6
+
+12.5
+
+0.125
+
+B
+
+Y
+
+N
+
+one sample
+
+4
+
+7
+
+12.5
+
+0.125
+
+T
+
+N
+
+Y (L1)
+
+one sample
+
+4
+
+8
+
+37.5
+
+0.375
+
+B
+
+Y
+
+Y (L1)
+
+three sample
+simultaneous
+
+NASA/TP—2013-216501
+
+43
+
+Test configuration details
+
+Date
+
+Thermocouple Configuration A.
+
+Start burning
+samples from
+left to right (as
+seen on HDRXR160
+cameras/"front
+"cameras).
+
+4/5/2012
+
+Thermocouple Configuration A.
+The gain on the radiometers was
+adjusted before this test. The data
+may not be of great value or worth
+as a result. The gain was readjusted
+after this test and the radiometers
+were back to reading as they were
+during previous runs.
+
+4/10/2012
+
+Thermocouple Configuration A.
+
+4/16/2012
+
+Thermocouple Configuration B.
+(TC7 was moved from its location
+in Configuration A, approximately
+one meter above the top of the
+sample card, to approximately 2 in.
+above the HX material.) The HX
+material is approximately 1 in.
+thick (two 0.5 in. sheets stacked).
+The two aluminum honeycomb
+sheets weigh 380 g and 390 g.
+
+4/17/2012
+
+Test/Fill
+number
+
+Run
+
+Width,
+cm
+
+Area,
+m2
+
+Ignition
+location,
+Top/Bottom
+
+Quench
+blocks,
+Yes/No
+
+Heat
+exchanger,
+Yes/No
+
+5
+
+9
+
+12.5
+
+0.125
+
+T
+
+N
+
+Y (L1)
+
+one sample
+
+5
+
+10
+
+12.5
+
+0.375
+
+B
+
+N
+
+Y (L1)
+
+three sample
+series
+
+6
+
+11
+
+12.5
+
+0.125
+
+B
+
+N
+
+Y (L1)
+
+one sample
+
+6
+
+12
+
+37.5
+
+0.375
+
+T
+
+Y
+
+Y (L1)
+
+three sample
+simultaneous
+
+7
+
+13
+
+12.5
+
+0.125
+
+B
+
+N
+
+N
+
+one sample
+
+7
+
+14
+
+37.5
+
+0.375
+
+T
+
+N
+
+N
+
+three sample
+simultaneous
+
+8
+
+15
+
+12.5
+
+0.125
+
+T
+
+Y
+
+Y (L1)
+
+one sample
+
+8
+
+16
+
+37.5
+
+0.375
+
+B
+
+N
+
+Y (L1)
+
+three sample
+simultaneous
+
+9
+
+17
+
+12.5
+
+0.125
+
+B
+
+Y
+
+Y (L1)
+
+one sample
+
+9
+
+18
+
+37.5
+
+0.375
+
+T
+
+N
+
+Y (L1)
+
+three sample
+simultaneous
+
+10
+
+19
+
+12.5
+
+0.125
+
+B
+
+N
+
+N
+
+NASA/TP—2013-216501
+
+Comments
+
+one sample
+
+44
+
+Thermocouple Configuration C.
+(TC7 was moved back to its
+original location and TC6 was
+moved to its place—approximately
+2 in. above the HX material.)
+
+4/19/2012
+
+4/20/2012
+
+Thermocouple Configuration A.
+
+Repeat of Test
+7, Run 13 on
+04/24/2012.
+
+Date
+
+Thermocouple Configuration C.
+
+Start burning
+samples from
+left to right (as
+seen on HDRXR160
+cameras/"front
+"cameras).
+
+Test configuration details
+
+4/24/2012
+
+Thermocouple Configuration D.
+(This configuration is most like
+Configuration C, except that the
+support arm that TC6 is attach to
+was rotated to a position above the
+HX directly across from TC2.)
+Thermocouple Configuration D.
+During run 18, the center sample
+shed a small ember which hit close
+to halfway down the length of the
+sample and caused a brief upward
+burn of that sample area. Test may
+need to be re-run due to this
+anomaly.
+Thermocouple Configuration A.
+This was the first test that was run
+with the black cardstock/cardboard
+
+4/26/2012
+
+4/30/2012
+
+5/2/2012
+
+Test/Fill
+number
+
+Run
+
+Width,
+cm
+
+Area,
+m2
+
+Ignition
+location,
+Top/Bottom
+
+Quench
+blocks,
+Yes/No
+
+Heat
+exchanger,
+Yes/No
+
+10
+
+20
+
+12.5
+
+0.375
+
+T
+
+Y
+
+N
+
+three sample
+series
+
+11
+
+21
+
+12.5
+
+0.125
+
+B
+
+Y
+
+N
+
+one sample
+
+11
+
+22
+
+12.5
+
+0.375
+
+T
+
+N
+
+N
+
+three sample
+series
+
+12
+
+23
+
+12.5
+
+0.125
+
+T
+
+Y
+
+N
+
+one sample
+
+12
+
+24
+
+12.5
+
+0.375
+
+B
+
+Y
+
+N
+
+three sample
+series
+
+13
+
+25
+
+12.5
+
+0.125
+
+B
+
+Y
+
+Y (L1)
+
+one sample
+
+13
+
+26
+
+37.5
+
+0.375
+
+T
+
+N
+
+Y (L1)
+
+three sample
+simultaneous
+
+Repeat of Test
+9, Run 18 on
+04/30/2012.
+
+14
+
+27
+
+12.5
+
+0.125
+
+B
+
+N
+
+Y (L1)
+
+one sample
+
+Repeat of Test
+6, Run 11 on
+04/20/2012.
+
+NASA/TP—2013-216501
+
+Comments
+
+45
+
+Start burning
+samples from
+left to right (as
+seen on HDRXR160
+cameras/"front
+"cameras).
+Repeat of Test
+3, Run 6 on
+04/16/2012.
+Start burning
+samples from
+left to right (as
+seen on HDRXR160
+cameras/"front
+"cameras).
+Repeat of Test
+2, Run 3 on
+04/10/2012.
+Start burning
+samples from
+left to right (as
+seen on HDRXR160
+cameras/"front
+"cameras).
+Repeat of Test
+9, Run 17 on
+04/30/2012.
+
+Test configuration details
+
+Date
+
+on the back side of the
+experimental rig to prevent the
+LED reflection in the HD-160
+camera view.
+
+Thermocouple Configuration A.
+During run 22, the center sample
+shed a small ember which hit about
+10 cm from the top of the sample,
+causing upward burning.(Upon
+removal of the sample card, two
+TCs, 5 and 6, were slightly jarred
+when the sample card bowed. They
+were verified as still properly
+functioning.)
+
+5/3/2012
+
+Thermocouple Configuration A.
+During run 23, the sample shed a
+small ember which fell and hit just
+a couple centimeters below the top
+of the sample causing upward
+burning.
+
+5/4/2012
+
+Thermocouple Configuration D.
+During rerun 18, the sample on the
+right (as viewed from the HX-160
+cameras) shed a small ember which
+fell and hit about one quarter of the
+distance from the top of the sample
+causing upward burning.
+
+5/7/2012
+
+Thermocouple Configuration D.
+
+5/9/2012
+
+Test/Fill
+number
+
+Run
+
+Width,
+cm
+
+Area,
+m2
+
+Ignition
+location,
+Top/Bottom
+
+Quench
+blocks,
+Yes/No
+
+Heat
+exchanger,
+Yes/No
+
+14
+
+28
+
+12.5
+
+0.375
+
+B
+
+Y
+
+Y (L1)
+
+three sample
+series
+
+15
+
+29
+
+12.5
+
+0.125
+
+T
+
+Y
+
+Y (L1)
+
+one sample
+
+15
+
+30
+
+12.5
+
+0.375
+
+T
+
+N
+
+Y (L1)
+
+three sample
+series
+
+16
+
+31
+
+12.5
+
+0.125
+
+T
+
+N
+
+Y (L2)
+
+one sample
+
+16
+
+32
+
+12.5
+
+0.375
+
+B
+
+N
+
+Y (L2)
+
+three sample
+series
+
+17
+
+33
+
+12.5
+
+0.125
+
+B
+
+N
+
+Y (L2)
+
+one sample
+
+17
+
+34
+
+37.5
+
+0.375
+
+T
+
+N
+
+Y (L2)
+
+three sample
+simultaneous
+
+18
+
+35
+
+12.5
+
+0.125
+
+B
+
+Y
+
+Y (L2)
+
+one sample
+
+18
+
+36
+
+37.5
+
+0.375
+
+B
+
+Y
+
+Y (L2)
+
+three sample
+simultaneous
+
+19
+
+37
+
+12.5
+
+0.125
+
+T
+
+Y
+
+Y (L2)
+
+one sample
+
+NASA/TP—2013-216501
+
+Comments
+
+46
+
+Start burning
+samples from
+left to right (as
+seen on HDRXR160
+cameras/"front
+"cameras).
+Repeat of Test
+8, Run 15 on
+04/26/2012.
+
+Test configuration details
+
+Date
+
+Thermocouple Configuration D.
+
+5/10/2012
+
+Thermocouple Configuration D.
+“New” heat exchanger (L2).
+
+5/23/2012
+
+Thermocouple Configuration D.
+“New” heat exchanger (L2).
+
+5/24/2012
+
+Thermocouple Configuration D.
+“New” heat exchanger (L2).
+
+5/25/2012
+
+Thermocouple Configuration D.
+“New” heat exchanger (L2).
+
+5/29/2012
+
+Start burning
+samples from
+left to right (as
+seen on HDRXR160
+cameras/"front
+"cameras).
+
+Start burning
+samples from
+left to right (as
+seen on HDRXR160
+cameras/"front
+"cameras).
+
+Test/Fill
+number
+
+Run
+
+Width,
+cm
+
+Area,
+m2
+
+Ignition
+location,
+Top/Bottom
+
+Quench
+blocks,
+Yes/No
+
+Heat
+exchanger,
+Yes/No
+
+19
+
+38
+
+12.5
+
+0.375
+
+T
+
+Y
+
+Y (L2)
+
+three sample
+series
+
+20
+
+39
+
+12.5
+
+0.375
+
+T
+
+N
+
+N
+
+three sample
+series
+
+20
+
+40
+
+12.5
+
+0.125
+
+T
+
+Y
+
+N
+
+one sample
+
+21
+
+41
+
+37.5
+
+0.375
+
+T
+
+N
+
+Y (L1)
+
+NASA/TP—2013-216501
+
+Comments
+
+three sample
+simultaneous
+
+47
+
+Start burning
+samples from
+left to right (as
+seen on HDRXR160
+cameras/"front
+"cameras).
+Start burning
+samples from
+left to right (as
+seen on HDRXR160
+cameras/"front
+"cameras).
+Originally run
+on 5/3/2012
+(Fill
+11/Run22).
+Original run on
+4/10/2012
+(Fill2/Run3)
+was fine, but
+the replicate
+run on
+5/4/2012 (Fill
+12/Run 23)
+was
+anomalous.
+Originally run
+on 4/30/2012
+(Fill9/Run18);
+retest (Fill
+13/Run 26) on
+5/7/2012 was
+also
+anomalous.
+
+Test configuration details
+
+Date
+
+Thermocouple Configuration A.
+
+5/30/2012
+
+Thermocouple Configuration D.
+
+5/31/2012
+
+Test/Fill
+number
+
+Run
+
+Width,
+cm
+
+Area,
+m2
+
+Ignition
+location,
+Top/Bottom
+
+Quench
+blocks,
+Yes/No
+
+Heat
+exchanger,
+Yes/No
+
+21
+
+42
+
+12.5
+
+0.125
+
+B
+
+N
+
+Y (L1)
+
+22
+
+43
+
+37.5
+
+0.375
+
+T
+
+N
+
+N
+
+three sample
+simultaneous
+
+22
+
+44
+
+12.5
+
+0.125
+
+B
+
+N
+
+N
+
+one sample
+
+23
+
+45
+
+37.5
+
+0.375
+
+T
+
+Y
+
+N
+
+three sample
+simultaneous
+
+23
+
+46
+
+12.5
+
+0.125
+
+B
+
+N
+
+N
+
+one sample
+
+Comments
+
+one sample
+
+.
+
+NASA/TP—2013-216501
+
+48
+
+Replicate of
+Fill 6/Run 11
+on 4/20/2012
+and Fill
+14/Run 27 on
+5/9/2012.
+Repeat of
+"suspicious"
+Fill 7/Run 14
+on 4/24/2012.
+Replicate of
+Fill 7/Run 13
+on 4/24/2012
+and Fill
+10/Run 19 on
+5/2/2012.
+Repeat of
+"suspicious"
+Fill 3/Run 5 on
+4/16/2012.
+Replicate of
+Fill 7/Run 13
+on 4/24/2012,
+Fill 10/Run 19
+on 5/2/2012
+and Fill
+22/Run 44 on
+6/1/2012.
+
+Test configuration details
+
+Date
+
+Thermocouple Configuration A.
+
+6/1/2012
+
+Thermocouple Configuration A.
+
+6/4/2012
+
+C.2 Supplementary Test Matrix, As-Run
+The supplemental tests run in addition to the tests in the DOE matrix are listed in Table 10. Unless otherwise stated, the starting pressure for
+each run was approximately 11.7 psi (0.8 atmosphere).
+TABLE 10.—SUPPLEMENTARY TEST MATRIX, AS-RUN
+Ignition
+Quench
+Heat
+Comments
+location,
+blocks,
+exchanger,
+Top/Bottom Yes/No
+Yes/No
+
+Test/Fill
+number
+
+Run
+
+Width,
+cm
+
+Area,
+M2
+
+*1
+
+1
+
+25
+
+0.25
+
+B
+
+N
+
+N
+
+two sample
+simultaneous
+
+cheesecloth
+
+*1
+
+2
+
+12.5
+
+0.25
+
+B
+
+N
+
+N
+
+two sample
+sequential
+
+3
+
+50
+
+0.5
+
+T
+
+N
+
+N
+
+large sample
+
+3
+
+4
+
+50
+
+0.5
+
+B
+
+N
+
+N
+
+4
+
+5
+
+50
+
+0.5
+
+B
+
+N
+
+5
+
+6
+
+25
+
+0.25
+
+B
+
+5
+
+7
+
+25
+
+0.25
+
+6
+
+8
+
+25
+
+0.25
+
+Date
+
+cheesecloth
+
+2
+
+Test configuration details
+
+NASA/TP—2013-216501
+
+Thermocouple Configuration A.
+
+3/29/2012
+
+cheesecloth
+
+Thermocouple Configuration A.
+15 cm igniter.
+
+4/27/2012
+
+large sample
+
+cheesecloth
+
+Thermocouple Configuration A.
+15 cm igniter.
+
+5/1/2012
+
+N
+
+large sample
+
+cheesecloth
+
+Thermocouple Configuration A.
+Full bottom width ignition.
+
+5/3/2012
+
+N
+
+N
+
+two sample
+simultaneous
+
+SIBAL
+
+5/11/2012
+
+T
+
+N
+
+N
+
+two sample
+simultaneous
+
+SIBAL
+
+B
+
+N
+
+Y (L2)
+
+two sample
+simultaneous
+
+SIBAL
+
+Thermocouple Configuration A.
+Run 2 failed to ignite from the
+top. The chamber was opened
+and the sample material was
+reconfigured so the run could be
+re-executed. The retest failed to
+maintain ignition again.
+Thermocouple Configuration D.
+The sampler closest to the middle
+of the sample holder seemed to
+finish burning after the first
+sample even though the two were
+ignited simultaneously. Once the
+burning was complete, the test
+enclosure filled with smoke,
+which was expected to have
+happened due to the presence of
+
+49
+
+5/16/2012
+
+Test/Fill
+number
+
+Run
+
+Width,
+cm
+
+Area,
+M2
+
+Ignition
+location,
+Top/Bottom
+
+Quench
+blocks,
+Yes/No
+
+Heat
+exchanger,
+Yes/No
+
+6
+
+9
+
+12.5
+
+0.25
+
+B
+
+N
+
+Y (L2)
+
+7
+
+10
+
+37.5
+
+0.375
+
+B
+
+N
+
+7
+
+11
+
+12.5
+
+0.125
+
+B
+
+8
+
+12
+
+12.5
+
+0.125
+
+8
+
+13
+
+37.5
+
+0.375
+
+NASA/TP—2013-216501
+
+Comments
+
+two sample
+series
+
+SIBAL
+
+N
+
+three sample
+simultaneous
+
+SIBAL
+
+N
+
+N
+
+one sample
+
+SIBAL
+
+B
+
+N
+
+Y (L2)
+
+one sample
+
+SIBAL
+
+B
+
+N
+
+Y (L2)
+
+three sample
+simultaneous
+
+SIBAL
+
+50
+
+Test configuration details
+
+the heat exchanger and no forced
+air flow. The smoke did not clear
+out during the quiescent periods
+or during fan operation, therefore
+in order to achieve meaningful
+visual data, the chamber was
+pumped down to approx. 8 psi
+before Run 4 and air was vented.
+Once reasonable clarity was
+achieved, Run 4 was executed.
+The test enclosure filled with
+smoke a second time following
+Run 4.
+Thermocouple Configuration A.
+Smoke was not evident during
+the test, but after the test was
+completed and after the chamber
+was vented. When the cap was
+removed there was still smoke
+within the chamber.
+Thermocouple Configuration D.
+Before this test was executed, the
+heat exchanger panels were
+heated with a flame outside of
+the chamber in an attempt to burn
+off a suspected coating which
+was thought to be contributing to
+the smoke generation during
+SIBAL testing. The decision was
+made to burn one strip first to see
+how much smoke would be
+generated. The smoke did not
+seem overly significant so the
+second run burning 3 strips was
+executed. The three strip burn
+produced less than or equal to (at
+least visually) the amount of
+smoke created during SIBAL
+Test 2.
+
+Date
+
+5/17/2012
+
+5/18/2012
+
+Test/Fill
+number
+
+Run
+
+Width,
+cm
+
+Area,
+M2
+
+Ignition
+location,
+Top/Bottom
+
+Quench
+blocks,
+Yes/No
+
+Heat
+exchanger,
+Yes/No
+
+9
+
+14
+
+50
+
+0.5
+
+B
+
+N
+
+N
+
+large sample
+burn
+
+10
+
+15
+
+25
+
+0.25
+
+B
+
+N
+
+N
+
+two sample
+simultaneous
+
+10
+
+16
+
+25
+
+0.25
+
+B
+
+N
+
+N
+
+two sample
+simultaneous
+
+cheesecloth,
+positions 1 and 2
+(approx. 0.45
+atm).
+
+11
+
+17
+
+50
+
+0.5
+
+B
+
+N
+
+Y (L2)
+
+large sample
+
+12
+
+18
+
+50
+
+0.5
+
+B
+
+N
+
+Y (L2)
+
+large sample
+
+cheesecloth, full
+width igniter,
+11.7 psi (approx.
+0.8 atm).
+SIBAL, full width
+igniter, 11.7 psi
+(approx. 0.8atm)
+
+13
+
+19
+
+25
+
+0.25
+
+B
+
+N
+
+N
+
+two sample
+simultaneous
+
+cheesecloth, 5 psi
+
+13
+
+20
+
+25
+
+0.25
+
+B
+
+N
+
+N
+
+two sample
+simultaneous
+
+cheesecloth, 9 psi
+
+Comments
+
+cheesecloth,
+15 cm igniter,
+6.5 psi (approx.
+0.45 atm).
+SIBAL, positions
+3 and 4, 6.5 psi
+(approx.
+0.45 atm).
+
+*Note: While listed in the Supplementary Test Matrix, Test 1, Runs 1 and 2, were included in the DOE Response Model evaluation.
+
+NASA/TP—2013-216501
+
+51
+
+Test configuration details
+
+Date
+
+Thermocouple Configuration A.
+
+5/21/2012
+
+Thermocouple Configuration A.
+SIBAL samples were burned
+first. The flame on the sample in
+position 3 seemed to burn out
+and leave some material behind.
+However, the material still must
+have burned without a noticeable
+flame present because the
+material that remained,
+“disappeared”.
+Thermocouple Configuration D.
+
+5/22/2012
+
+Thermocouple Configuration D.
+During the experiment the heat
+exchanger did a great job
+absorbing the heat generated by
+the burn and kept the pressure
+down. However, once the sample
+neared burning completion the
+heat exchanger was ignited by
+the sample flame. It’s ignition
+was evident by the flickering
+visible on the video feed and by
+the sudden jump in pressure. The
+pressure went above atmospheric
+and popped the chamber relief.
+Thermocouple Configuration A.
+
+6/7/2012
+
+6/6/2012
+
+6/8/2012
+
+Appendix D.—Initial Experimental Rig Concept
+Figure 42 is the initial conceptual sketch of the experimental rig. This sketch provided the basis for
+the engineering drawings of the sample cards and the overall experiment structure.
+
+Figure 42.—Sketch of initial experimental rig concept.
+
+	
+
+NASA/TM—2013-216501
+
+53
+
+Appendix E.—Engineering Drawings
+The following engineering drawings, Figures 43 to 46, were produced for the fabrication of the
+thermocouple support plate, which was the bar used for mounting the thermocouples, and the three
+sample cards. Only two out of the three sample card designs that were fabricated were used for testing.
+
+Figure 43.—Thermocouple Support Plate Drawing.
+
+NASA/TM—2013-216501
+
+55
+
+Figure 44.—One slot, 50 by 100 cm, sample holder drawing.
+
+	
+
+NASA/TM—2013-216501
+
+56
+
+	
+Figure 45.—Three slot, 16.7 by 100 cm, sample holder drawing.
+
+	
+
+NASA/TM—2013-216501
+
+57
+
+Figure 46.—Four slot, 12.5 by 100 cm, sample holder drawing.
+
+	
+
+NASA/TM—2013-216501
+
+58
+
+Appendix F.—Sample Holder Installation Procedure
+ Position ladder to provide access to top of frame in the vacuum chamber. NOTE: Ladder may have to
+be repositioned for various phases of the sample holder (fuel card) installation.
+ Loosen pivot on upper thermocouple (#7) support arm and rotate arm 90 to provide clearance over
+center of the frame duct area.
+ Unscrew nut(s) on fitting(s) holding thermocouple(s) in center position and back thermocouple(s) out
+as far as possible, This is required to prevent clevis on fuel card from damaging thermocouples.
+ Position crane on EAST side of chamber. North/South position of crane from chamber lid removal
+should not be changed.
+ Verify proof dates on a clevis and sling to be used to install the fuel card. Fuel card will weigh from
+10 to 30 lb
+ Mount fuel card to crane using sling and clevis. Check with test director whether the fuel card igniters
+are to be at the top or bottom. Igniter connectors must be at EAST corner of fuel card. Clevis pin head
+must face away from the center thermocouple (normally NORTH). TAPE CLEVIS TO SLING TO
+PREVENT IT FROM FALLING OFF IN A LATER STEP.
+ Lift fuel card until card bottom is above the top of the frame.
+ A person needs to be on the ladder positioned next to the chamber such that they will not interfere
+with westward movement of the fuel card.
+ Slowly move the fuel card WEST while the person on the ladder guides the fuel card until it is
+centered over the frame.
+ Slowly lower the fuel card while guiding it into the channels on the frame. EXTREME CAUTION
+MUST BE EXERCISED DURING THIS OPERATION TO PREVENT CONTACT WITH THE
+THERMOCOUPLES BY THE FUEL CARD OR THE CLEVIS.
+ When the fuel card is seated CAREFULLY remove the pin from the clevis and lift the clevis clear of
+the frame.
+ Move center thermocouple(s) back into position and snug nut(s).
+CAUTION - OVER TIGHTENING NUTS MAY DAMAGE THE THERMOCOUPLE.
+ Re-center upper thermocouple (#7) over fuel card.
+ Connect igniter leads (1, 3, or 4 leads depending on fuel card being used) on EAST corner of fuel
+card.
+
+	
+
+NASA/TM—2013-216501
+
+59
+
+Appendix G.—Sample Holder Removal Procedure	
+ Position ladder to provide access to top of frame in the vacuum chamber. NOTE: Ladder may have to
+be repositioned for various phases of the sample holder (fuel card) removal.
+ Loosen pivot on upper thermocouple (#7) support arm and rotate arm 90 to provide clearance over
+center of the frame duct area.
+ Unscrew nut(s) on fitting(s) holding thermocouple(s) in center position and back thermocouple(s) out
+as far as possible, This is required to prevent clevis on fuel card from damaging thermocouples.
+ Disconnect igniter leads (1, 3, or 4 leads depending on fuel card being used) on EAST corner of fuel
+card.
+ Position crane on EAST side of chamber. North/South position of crane from chamber lid removal
+should not be changed.
+ Verify proof dates on a clevis and sling to be used to install the fuel card. Fuel card will weigh from
+10 to 30 lb
+ Mount sling and clevis on crane hook with clevis pin head facing away from center thermocouple.
+Remove clevis pin. TAPE CLEVIS TO SLING TO PREVENT IT FROM FALLING OFF IN A LATER
+STEP.
+ Move crane WEST to center lift sling/clevis over the fuel card.
+ A person needs to be on the ladder positioned next to the chamber to guide the clevis to the proper
+location and insert the pin.
+ Slowly lower the crane hook while the person on the ladder guides the clevis to the proper location.
+EXTREME CAUTION MUST BE EXERCISED DURING THIS OPERATION TO PREVENT
+CONTACT WITH THE THERMOCOUPLES BY THE CLEVIS.
+ When the clevis is in the proper location insert the pin through the clevis and hole in the upper center
+of the fuel card.
+ Slowly lift the fuel card with the crane while the person on the ladder guides the fuel card. When clear
+of the frame move the fuel card EAST and lower to floor level for removal from the clevis.
+ The center thermocouple(s) and the upper thermocouple can remain in their retracted positions until
+after another fuel card is installed.
+	
+
+NASA/TM—2013-216501
+
+61
+
+Appendix H.—Camera Settings
+Camera settings were adjusted to suit the needs of the video documentation and are captured in
+Tables 11 and 12. Several settings on the Sony HDR-CX110 cameras required resetting prior to each test
+and are highlighted in Table 12 accordingly.
+TABLE 11.—CAMERA SETTINGS FOR XR160
+SONY HDR-XR160
+Select appropriate icon to make settings
+Shooting Mode
+Movie
+Camera/mic
+Manual Settings
+White Balance
+Outdoor
+Spot Meter Focus
+Manual
+Spot Meter
+Manual
+Spot Focus
+Manual
+Exposure
+Manual
+Focus
+.1m
+Low Lux
+ON
+Fader
+OFF
+Telemacro
+OFF
+Steady Shot
+Active
+Digital Zoom
+OFF
+Conversion Lense
+Wide Conversion
+Autobacklight
+OFF
+Smile Sensitivity
+Normal smile
+Built in Zoom Mic
+OFF
+Wind Noise Red:
+OFF
+Audio Mode
+5.1 ch surround
+Mic Ref Level
+Normal
+Guideframe
+OFF
+Display Setting
+OFF
+Audio Level Display
+OFF
+Image Qual/Size
+Rec Mode
+Highest Qual FX
+Frame Rate
+60i
+HD/STD Setting
+HD Quality
+XV Color
+ON
+Playback Function
+N/A
+Edit Function
+N/A
+Media Settings
+Media Select
+Memory Card
+Media Info
+N/A
+Forman
+N/A
+Repair img DFB
+N/A
+File Number
+Series
+
+TABLE 12.—CAMERA SETTINGS FOR CX110
+SONY HDR-CX110
+Choose “Select Others” on the Main Menu to make all
+appropriate settings
+Manual Settings
+Scene Selection
+Auto
+Fader
+N/A
+White Balance
+Outdoor
+Spot mtr/fcs
+Auto
+Spot Meter
+Auto
+Spot Focus
+Auto
+Exposure
+Auto
+Telemacro
+OFF
+Smthslow rec
+N/A
+Shooting Settings
+HD/STD set
+HD
+Record Mode
+HDFX
+Guideframe
+OFF
+Steady Shot
+Active
+Conversion Lense
+Wide Conversion
+Low Lux
+ON
+Face Detection
+OFF
+Priority Setting
+NA
+Smile Detection
+NA
+Smile Sensitivity
+NA
+Audio Rec Set
+Built in Zoom Mic
+OFF
+Mic Ref Level
+Normal
+Other rec set
+Digital zoom
+OFF
+Auto backlight
+OFF
+XV color
+ON
+Photo Settings
+Self Timer
+N/A
+Image Size
+3.1m
+File No.
+Series
+Playback Settings
+N/A
+Edit Settings
+N/A
+Other Settings
+N/A
+Manage Media
+N/A
+General Settings
+Set Clock
+
+Essential Settings
+Always require reset before each test
+
+NASA/TM—2013-216501
+
+63
+
+Appendix I.—Thermocouple Diagrams
+Throughout testing, several different iterations of thermocouple configurations were used in an effort
+to achieve a configuration suitable for capturing the temperature delta across the heat exchanger. The
+thermocouple diagrams can be referred to when evaluating the thermocouple data from a specific test fill
+and run.
+Thermocouple Configuration A—This is the standard thermocouple configuration used for all tests
+without a heat exchanger (Fig. 47).
+Thermocouple Configuration B—This configuration was used for the first test that utilized a heat
+exchanger. The thermocouple in the upper chamber was moved downward so that it was approximately
+2 in. above the heat exchanger (Fig. 47).
+Thermocouple Configuration C—This configuration resulted from the desire to maintain a
+temperature reading in the upper chamber volume. Thermocouple 6 was moved to a position less than
+2 in. from the top of the heat exchanger (Fig. 48).
+Thermocouple Configuration D—This configuration resulted from the desire to yield a temperature
+delta across the heat exchanger at a location centered above one of the four slotted sample cards. Notice
+that this configuration differs from “C” in that Thermocouple 6 is angled to be above the heat exchanger
+opposite Thermocouple 2 (Fig. 48).
+
+Thermocouple Configuration A
+
+Thermocouple Configuration B
+
+Figure 47.—Thermocouple configurations A and B.
+
+NASA/TM—2013-216501
+
+65
+
+Thermocouple Configuration C
+
+Thermocouple Configuration D
+
+Figure 48.—Thermocouple configurations C and D.
+
+NASA/TM—2013-216501
+
+66
+
+Appendix J.—Agilent Data-Logger Instructions
+1) AT DATA LOGGER: If not already powered up, press the power button on the Agilent 34980A
+DAQ to power it up. Give the unit time to initialize before activating the software.
+2) AT COMPUTER: Activate the Agilent Bench-Link Pro Data Logger software. (Icon is near
+middle of desktop screen)
+3) The software will initialize itself and connect to the DAQ. Once up, select one of the last 4 tabs
+on the screen:
+QUICK GRAPH—Displays graphs and numeric values for the two radiometers and the igniter
+"on" signal (RAD_TOP, RAD_BOT, IGN_ACT)
+GRAPH 2—Displays graphs and numeric values for the two anemometers and the two pressure
+transducers (ANEM_1, ANEM_2, 0-20_PSIA, 0-25_PSIA)
+GRAPH 3—Displays graphs and numeric values for the first four thermocouples (TC1, TC2,
+TC3, TC4)
+GRAPH 4—Displays graphs and numeric values for the last four thermocouples (TC5, TC6,
+TC7, TC8)
+4) To initiate data logging, click the PLAY (arrow/triangle) button near top middle of the screen.
+Shortly after, clicking noises will be coming out of the DAQ and the screen display graphs will
+begin updating. Use the tabs to observe the desired output signals.
+5) To stop the logging process, simply click on the stop (square) button near the top middle of the
+screen. When logging is stopped, the data file is automatically exported to a comma-delimited file
+into the VF-13 AES Data folder. A shortcut link to this folder is located near the middle of the
+desktop screen. It is a .csv file that can be opened directly by Microsoft Excel.
+6) A thumbdrive can be used to off load the files.
+
+NASA/TM—2013-216501
+
+67
+
+Appendix K.—Final DOE With Experimental and Response Model Delta P
+The experimental results for Delta P (calculated and verified) and the response model predicted
+Delta P can be found in Table 13. Dates in the comments section can be cross referenced with the as-run
+DOE test matrix.
+TABLE 13.—FINAL DOE WITH EXPERIMENTAL AND RESPONSE MODEL DELTA P
+
+NASA/TM—2013-216501
+
+69
+
+Appendix L.—Tabulated Delta Pressure for DOE and
+Supplementary Matrices
+Pressure change data for both the DOE and Supplementary tests are tabulated in Table 14 with
+corresponding time durations which characterize time between ignition and the first time the pressure
+reaches its maximum for the run. Additional details are described below.
+
+
+
+
+t_peak is defined as the first time the pressure reaches a maximum value during the run. (Several
+cases show pressure reaching same maximum value more than once.)
+t_ignition is defined as the temperature at ignition. (Ignition can be determined from the raw data
+files as the time when column D, 1001<IGN_ACTIVE> (VDC), indicates its first non-zero
+reading.)
+Fill/Runs highlighted in red text indicate the following:
+ F11R22 experienced an anomaly and was excluded based on the t_peak value being 100 s
+larger than that on the retest F20R39.
+ F9R18 and F13R26 experienced anomalies that also affected t_peak and created a secondary
+decay in pressure as compared to retest F21R41.
+ Replicate F12R23 experienced an anomaly that had a minimal effect as compared to F2R3
+and replicate F20R40 and was therefore included.
+TABLE 14.—EXPERIMENTAL DELTA PRESSURE FOR DOE AND SUPPLEMENTARY TESTS
+Fill(F)/Run(R)
+P(t_peak) - P(t_ignition)
+t_peak - t_ignition
+DOE Tests
+F1R1
+
+0.129
+
+176
+
+F1R2
+
+1.369
+
+9
+
+F2R3
+
+0.130
+
+204
+
+F2R4
+
+1.051
+
+25
+
+F3R5
+
+0.275
+
+190
+
+F3R6
+
+0.394
+
+10
+
+F4R7
+
+0.129
+
+205
+
+F4R8
+
+0.935
+
+9
+
+F5R9
+
+0.130
+
+207
+
+F5R10
+
+0.860
+
+28
+
+F6R11
+
+0.334
+
+9
+
+F6R12
+
+0.281
+
+193
+
+F7R13
+
+0.442
+
+9
+
+F7R14
+
+0.337
+
+169
+
+F8R15
+
+0.118
+
+206
+
+F8R16
+
+1.065
+
+10
+
+F9R17
+
+0.294
+
+11
+
+F9R18
+
+0.315
+
+107
+
+F10R19
+
+0.415
+
+11
+
+F10R20
+
+0.149
+
+744
+
+F11R21
+
+0.366
+
+9
+
+F11R22
+
+0.161
+
+709
+
+F12R23
+
+0.105
+
+223
+
+F12R24
+
+0.859
+
+26
+
+NASA/TM—2013-216501
+
+71
+
+F13R25
+
+0.294
+
+11
+
+F13R26
+
+0.313
+
+172
+
+F14R27
+
+0.329
+
+9
+
+F14R28
+
+0.759
+
+27
+
+F15R29
+
+0.116
+
+188
+
+F15R30
+
+0.164
+
+677
+
+F16R31
+
+0.084
+
+228
+
+F16R32
+
+0.202
+
+83
+
+F17R33
+
+0.097
+
+7
+
+F17R34
+
+0.278
+
+242
+
+F18R35
+
+0.070
+
+7
+
+F18R36
+
+0.205
+
+8
+
+F19R37
+
+0.091
+
+240
+
+F19R38
+
+0.140
+
+752
+
+F20R39
+
+0.164
+
+597
+
+F20R40
+
+0.113
+
+203
+
+F21R41
+
+0.307
+
+211
+
+F21R42
+
+0.334
+
+9
+
+F22R43
+
+0.294
+
+233
+
+F22R44
+
+0.434
+
+9
+
+F23R45
+
+0.275
+
+164
+
+F23R46
+
+0.431
+
+9
+
+F1R1
+
+0.921
+
+10
+
+F1R2
+
+0.797
+
+17
+
+F2R3
+
+0.418
+
+198
+
+F3R4
+
+1.293
+
+20
+
+F4R5
+
+1.776
+
+12
+
+F5R6
+
+1.611
+
+28
+
+F6R8
+
+0.402
+
+66
+
+F6R9
+
+1.280
+
+78
+
+F7R10
+
+2.398
+
+28
+
+F7R11
+
+0.704
+
+29
+
+F8R12
+
+0.191
+
+87
+
+F8R13
+
+0.592
+
+56
+
+F9R14
+
+0.959
+
+23
+
+F10R15
+
+0.706
+
+38
+
+F10R16
+
+0.679
+
+14
+
+F11R17
+
+0.326
+
+8
+
+F12R18
+
+3.527
+
+42
+
+F13R19
+
+0.541
+
+17
+
+F13R20
+
+0.800
+
+11
+
+F14R21
+
+2.719
+
+30
+
+Supplemental Tests
+
+F5R7
+
+NASA/TM—2013-216501
+
+72
+
+Appendix M.—Stills From Test Video Files
+The following still pictures (Figs. 49 to 55) were taken from the test video files. The various still
+pictures show tests with and without quench bars, top and bottom ignition, simultaneous and sequential
+burning, and cheesecloth and SIBAL material. The heat exchangers were mounted above the sample
+holders and were out of the field of view of the cameras. The video stills are all from the front cameras
+(the HDR-XR160 cameras).
+
+Figure 49.—Three sample cheesecloth, bottom simultaneous ignition, with quench bars.
+
+Figure 50.—Three sample cheesecloth, top simultaneous ignition, without quench bars.
+
+NASA/TM—2013-216501
+
+73
+
+Figure 51.—Three sample cheesecloth, top simultaneous ignition, with quench bars.
+
+Figure 52.—Two sample SIBAL, bottom sequential ignition, without quench bars.
+
+NASA/TM—2013-216501
+
+74
+

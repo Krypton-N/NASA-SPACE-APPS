@@ -1,0 +1,1023 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 1 of 11  
+
+ 
+
+Presentation No. *Program Committee will fill it. 
+
+Recent Research on Flames of Gaseous Fuel Aboard the 
+
+International Space Station  
+Dennis P. STOCKER1 
+
+1 NASA Glenn Research Center, Cleveland, Ohio, USA  
+
+ 
+
+Abstract 
+
+Research for a set of six independent experiments with flames of gaseous fuels has been carried out on the International 
+
+Space Station (ISS) since 2017 using the Combustion Integrated Rack (CIR) and a set of modular hardware.  While ISS 
+
+testing has been completed for most of the studies in the Advanced Combustion via Microgravity Experiments (ACME) 
+
+project, it is expected to continue into 2022.  The objectives and selected findings for each investigation are briefly 
+
+discussed after a short review of the advantages of studying combustion in microgravity, previous research conducted in 
+
+space, and the experimental hardware and its operation. 
+
+ 
+
+1. Introduction 
+
+1.1 Combustion in Microgravity 
+
+Microgravity, i.e., apparent near weightlessness, is a unique environment for conducting combustion research.  Many 
+
+flames are dramatically influenced by the near elimination of buoyant convection, where the resulting effects are often 
+
+advantageous 1-2).  For example, it is possible to create spherically symmetric flames enabling one-dimensional analysis.  
+
+More generally, the effective elimination of flicker yields quasi-steady flames.  Furthermore, the length scales are 
+
+increased in microgravity flames facilitating analysis of their structure.  Microgravity flames tend to have a much stronger 
+
+sensitivity to their atmosphere than normal-gravity flames and exhibit a much broader range of characteristics.  For 
+
+example, the long residence times in microgravity flames can lead to strong soot production, but many microgravity flames 
+
+are soot free due to radiative heat loss.  Even neglecting soot, microgravity flames can be appropriate for studies of limit 
+
+and stability behavior where chemical kinetics are important.  It is also possible to study momentum-dominated flames 
+
+at low velocities.  And of course, microgravity is the appropriate environment for studies related to spacecraft fire safety. 
+
+Although microgravity combustion research has long been conducted in drop facilities and research aircraft flying 
+
+parabolic maneuvers, spacecraft like the International Space Station (ISS) offer significant advantages.  Drop durations, 
+
+which are ~5 s or less in NASA facilities, are too short for soot to achieve quasi-steady conditions.  They are also too short 
+
+to first establish a flame and then vary conditions such as the flow rate, for example, to investigate stability or extinction 
+
+limits.  Meanwhile, low-momentum flames can be dramatically disturbed by the g-jitter present in aircraft testing, which 
+
+is nominally ±0.02 g for a ~20 s duration.  The jitter can be avoided by floating an experiment within the aircraft, but that 
+
+reduces the test duration to mere seconds.  As a result, space-based testing is often necessary to get microgravity 
+
+conditions of sufficient duration and quality for combustion research. 
+
+ 
+
+1.2 Previous Research on Flames of Gaseous Fuels Conducted in Space 
+
+Five different experiments burning gaseous fuels were conducted during space shuttle missions in 1997 and 2003.  
+
+Three of those studies are similar to the recent ISS investigations addressed in this paper in that they featured non-
+
+premixed flames in which the fuel and oxygen were separated by the flame sheet.  More specifically, in the three 
+
+investigations the fuel issued from a burner into an oxidizer atmosphere.  Each of the other two studies instead featured 
+
+premixed flames in which a combustion vessel was filled with a mixture of the reactants.  In terms of facilities, three of 
+
+
+
+ 
+
+  
+
+ 2 of 11 
+
+the five studies were conducted in the Combustion Module (CM), a space shuttle precursor to the ISS’ Combustion 
+
+Integrated Rack (CIR), while one was conducted in the Middeck Glovebox (MGBX) and another in a Get-Away Special 
+
+(GAS) canister in the shuttle’s cargo bay.  The latter investigation was automated, while the other four were crew 
+
+operated. 
+
+Two crew-operated experiments with gaseous fuels were subsequently conducted in the ISS’ Microgravity Science 
+
+Glovebox (MSG) with an improved version of the Enclosed Laminar Flames (ELF) hardware used in a 1997 shuttle mission.  
+
+Both featured non-premixed flames, where there have thus far been no investigations with premixed flames conducted on 
+
+the ISS.  The Soot Processes In Coflow Experiment (SPICE) was a follow-on to Laminar Soot Processes (LSP), although it 
+
+was carried out without Prof. G. Faeth, the LSP Principal Investigator, who unfortunately died before SPICE’s launch. 
+
+These seven past investigations are briefly summarized in Table 1, where they are listed in chronological order.  The 
+
+first person listed for each experiment was its Principal Investigator.  Meanwhile, STS is an abbreviation for the space 
+
+shuttle, i.e., Space Transportation System.  The experiments with premixed flames are of limited relevance to the recent 
+
+research addressed in this paper and are shown in italics. 
+
+1.3 Advanced Combustion via Microgravity Experiments (ACME) 
+
+Tests for six independent experiments with flames of gaseous fuels have been conducted on the ISS as part of the 
+
+Advanced Combustion via Microgravity Experiments (ACME) project 2, 33-35).  On-orbit preparations began in Sept. 2017, 
+
+but the Structure & Liftoff In Combustion Experiment (SLICE), a planned precursor to ACME’s Coflow Laminar Diffusion 
+
+Flame (CLD Flame) investigation, was conducted in 2012.  Table 2 provides an overview of each study, where the first 
+
+investigator listed is the Principal Investigator.  Additional information, including preliminary findings, about each of the 
+
+six experiments will be presented after a description of the experimental hardware and operations.  Final testing remains 
+
+for two of the studies, where it is tentatively expected that all ISS testing for ACME will be completed in 2022. 
+
+The ACME experiments are primarily focused on energy and environmental concerns, but there is a secondary emphasis 
+
+with the BRE experiment on spacecraft fire prevention.  The primary objective is to gain fundamental understanding that 
+
+can enable improved efficiency and reduced emissions in practical combustion processes on Earth, for example through 
+
+the development and verification of models for chemical kinetics and transport processes in computational simulations.  
+
+In addition to enhanced performance, improved modeling capability can lead to reductions in the time and cost for 
+
+combustor design.  Some specific goals are to improve our understanding of combustion at fuel lean conditions where 
+
+both optimum performance and low emissions can be achieved, cool flame chemistry, flame stability and extinction limits, 
+
+materials flammability, oxygen-enriched combustion which could enable practical carbon sequestration, soot control and 
+
+reduction, and the use of electric fields for combustion control. 
+
+Table 1 Past research on non-premixed and premixed flames of gaseous fuels conducted in space 
+
+Experiment Investigator(s) Facility Mission (year) 
+Selected 
+
+references 
+
+Laminar Soot Processes (LSP) Gerard M. Faeth  CM 
+STS-83 (1997), STS-94 
+
+(1997), STS-107 (2003) 
+3-8) 
+
+Structure Of Flame Balls At Low 
+
+Lewis-number (SOFBALL) 
+Paul D. Ronney CM 
+
+STS-83 (1997), STS-94 
+
+(1997), STS-107 (2003) 
+9-13) 
+
+Enclosed Laminar Flames (ELF) 
+
+Lea-Der Chen 
+
+Dennis P. Stocker 
+
+John E. Brooker 
+
+MGBX STS-87 (1997) 14-17) 
+
+Turbulent Gas-jet Diffusion 
+
+Flames (TGDF) 
+
+M. Yousef Bahadori 
+
+Uday G. Hegde  
+GAS STS-87 (1997) 18-23) 
+
+Water-Mist Fire Suppression 
+
+(Mist) 
+
+J. Thomas McKinnon 
+
+Angel Abbud-Madrid 
+CM STS-107 (2003) 24) 
+
+Soot Processes In Coflow 
+
+Experiment (SPICE) 
+
+David L. Urban 
+
+Peter B. Sunderland 
+MSG ISS (2009, 2012) 25-28) 
+
+Structure & Liftoff In 
+
+Combustion Experiment (SLICE) 
+
+Marshall B. Long 
+
+Mitchell D. Smooke 
+
+Fumiaki Takahashi 
+
+Dennis P. Stocker 
+
+MSG ISS (2012) 29-32) 
+
+ 
+
+
+
+ 
+
+  
+
+ 3 of 11 
+
+ 
+
+2. Experimental  
+
+2.1 Hardware 
+
+The ACME research is conducted using a single modular set of hardware with the Combustion Integrated Rack (CIR) 2, 
+
+33, 49).  That facility is shown in Figures 1 and 2 with Japanese astronaut Norishige Kanai when he reconfigured the optics 
+
+for one of its cameras on 5 March 2018.  The CIR provides a nominally 100-liter combustion chamber, gas delivery, 
+
+venting, water cooling, imaging, and other general functions needed to carry out an array of combustion research.  The 
+
+facility was launched in 2008 and then used from 2009 to 2017 for a set of investigations featuring the combustion of liquid 
+
+droplets.  That research notably led to the discovery of non-premixed cool flames 50-55) and inspired ACME’s Cool Flames 
+
+Investigation with Gases (CFI-G). 
+
+ 
+Fig. 1 Japanese astronaut Norishige Kanai reconfiguring a Combustion Integrated Rack (CIR) camera [ISS055e096568] 
+
+Table 2 Recent research on non-premixed flames of gaseous fuel conducted on the ISS (listed in chronological order) 
+
+Experiment 
+Investigators 
+
+(*former) 
+
+Lead Russian 
+
+collaborator 
+ISS operations 
+
+Selected 
+
+references 
+
+Coflow Laminar Diffusion 
+
+Flame (CLD Flame) 
+
+Marshall B. Long 
+
+Mitchell D. Smooke 
+Sergey S. Minaev 
+
+Nov. 2017–Feb. 2018 
+
+May-Sept. 2018 
+
+Feb.-March 2021 
+
+36-37) 
+
+Electric-Field Effects on 
+
+Laminar Diffusion Flames 
+
+(E-FIELD Flames) 
+
+Derek Dunn-Rankin 
+
+Sunny Karnani  
+
+Felix J. Weinberg* 
+
+Zeng-Guang Yuan* 
+
+Sergey S. Minaev 
+March-May 2018 
+
+Sept.-Nov. 2018 
+38-40) 
+
+Burning Rate Emulator (BRE) 
+
+James G. Quintiere 
+
+Peter B. Sunderland 
+
+John L. de Ris 
+
+Alexander Y. 
+
+Snegirev 
+
+Jan.-April 2019 
+
+July 2020–Jan. 2021 
+41-45) 
+
+Flame Design 
+
+Richard L. Axelbaum  
+
+Beei-Huan Chao* 
+
+Peter B. Sunderland 
+
+David L. Urban 
+
+Sergei M. Frolov 
+April-July 2019 
+
+? - ? 
+46-48) 
+
+Structure and Response of 
+
+Spherical Diffusion Flames 
+
+(s-Flame) 
+
+Chung K. Law 
+
+Stephen D. Tse 
+
+Kurt R. Sacksteder 
+
+Vladimir V. 
+
+Gubernov 
+
+July 2019–Jan. 2020 
+
+April-July 2020 
+None 
+
+Cool Flames Investigation 
+
+with Gases (CFI-G) 
+
+Peter B. Sunderland 
+
+Richard L. Axelbaum 
+
+Forman A. Williams  
+None 
+
+March-June 2021  
+
+June 2021 - ?  
+None 
+
+ 
+
+
+
+ 
+
+  
+
+ 4 of 11 
+
+ 
+
+Fig. 2 CIR facility returned to its normal configuration by Japanese astronaut Norishige Kanai [ISS055e096658] 
+
+ 
+
+ACME’s chamber insert, which is ~0.4 m in diameter, provides common mounting for a variety of burners (but only one 
+
+at a time) on the chamber axis.  Tests have been conducted with gas-jet, coflow, and spherical burners, in addition to a 
+
+fourth type developed for the Burning Rate Emulator (BRE) investigation.  The resistively-heated igniter has a crew-
+
+exchangeable tip and arm (to accommodate the various burners) and its stepper-motor drive allows for precise positioning 
+
+and retraction from the flame.  The insert is partially withdrawn from the chamber in Figure 3, taken on 10 May 2019 
+
+when Canadian astronaut David Saint-Jacques replaced the igniter tip.  Although relatively small, a porous spherical 
+
+burner can be seen in the photo. 
+
+ 
+
+Fig. 3 Canadian astronaut David Saint-Jacques working with the ACME chamber insert [ISS059e060847] 
+
+The chamber insert includes three mass flow controllers, visible on the left of Fig. 4, for the delivery of fuel, oxidizer or 
+
+inert (e.g., helium), and nitrogen to either the burner or the chamber.  The crew can exchange the mass flow controllers to 
+
+provide appropriate ranges to improve flow control and accuracy.  The gas delivery system enables on-orbit dilution of 
+
+the fuel or oxidizer (but not both simultaneously), coflow, and inverse flames, where the oxidizer issues from the burner 
+
+into the chamber filled with a gaseous fuel.  Gases are also delivered premixed to the space station where that is necessary 
+
+
+
+ 
+
+  
+
+ 5 of 11 
+
+in some circumstances, such as the blending of different gaseous fuels.  ACME tests have been most often conducted with 
+
+ethylene (C2H4) and methane (CH4) where other fuels used included hydrogen (H2), ethane (C2H6), propane (C3H8), n-
+
+butane (C4H10), and hydrogen/methane mixtures.  Nitrogen dilution is common, but tests for the Structure and Response 
+
+of Spherical Diffusion Flames (s-Flame) study were also conducted with helium as the inert in both the fuel and oxidizer. 
+
+ 
+
+Fig. 4 Advanced Combustion via Microgravity Experiments (ACME) chamber insert used within the CIR facility 
+
+ 
+
+The chamber insert provides an assortment of non-imaging instrumentation such as a crew-exchangeable array of 
+
+thermopile detectors to measure thermal radiation.  There is also a set of PhotoMultiplier Tubes (PMTs) providing 
+
+measurements of chemiluminescent emissions from the excited-state species CH* and OH* as well as a broadband 
+
+measurement.  A crew-exchangeable thermocouple rake, intended for studies of spherical flames, can be installed.  
+
+While not shown in Fig. 4, the chamber insert is also equipped with a translating, crew-exchangeable array of 14-micron 
+
+silicon carbide (SiC) fibers for making measurements of flame temperature via Thin Filament Pyrometry (TFP) e.g., 36-37, 46-
+
+48, 56). 
+
+Five different cameras and two illumination systems have been used in the recent research, although usually only a 
+
+fraction of the cameras have been used because of operational constraints.  There is an analog camera mounted on the 
+
+chamber insert for which the color video is always downlinked during testing in near real time.  The other four cameras 
+
+are mounted around the periphery of the black combustion chamber seen in the center of Fig. 1.  A high-definition color 
+
+camera, carefully characterized prior to launch, is always used.  Both provide flame imaging, but the high-definition 
+
+camera can furthermore be used to optically determine the CH* concentration, flame and soot temperature (via 
+
+pyrometry), and soot volume fraction e.g., 36-37, 46-48, 56-57).  The latter can also be determined using a gray-scale camera 
+
+with an opposed collimated light source via a light extinction technique 58-59).  Two intensified cameras have been used, 
+
+one filtered for OH* emissions, while the other allows for imaging of CH*, the primary source of blue light in hydrocarbon 
+
+flames, or formaldehyde (CH2O) emissions associated with cool flame chemistry. 
+
+2.2 Procedure 
+
+All ACME experiments are constant volume (rather than constant pressure) studies, where the chamber’s free volume 
+
+is approximately 83 liters depending on the installed hardware.  The tests are typically only a few minutes in duration, 
+
+limiting the pressure rise, vitiation of the chamber atmosphere, and acquisition of data which is an operational constraint. 
+
+
+
+ 
+
+  
+
+ 6 of 11 
+
+The ACME experiments are configured, but not conducted, by the ISS crew.  Instead, the tests are commanded from 
+
+the ground, specifically from the NASA Glenn Research Center in Cleveland, Ohio.  They are conducted in a nominally 
+
+automated mode using pre-programmed scripts.  But the role of the crew is critical and thus far 30 different crew members 
+
+from Canada, Germany, Italy, Japan, Russia, and the United States have supported ACME operations. 
+
+Weekly operations have typically included a two-shift day for testing, a two-shift day to downlink the resulting image 
+
+data, and a day in which an ISS crew member prepares the hardware for the next test day.  Replacement of gas bottles is 
+
+the most common crew activity, where less frequent replacements include mass flow controllers and igniter tips.  But the 
+
+transition to a different experiment can require many other changes, such as the reconfiguration of imaging systems as 
+
+shown in Fig. 1. 
+
+ 
+
+3. Experiments and Selected Findings 
+
+3.1 Coflow Laminar Diffusion Flame (CLD Flame) 
+
+Past research, including that conducted in microgravity, had revealed shortfalls in the ability to accurately model flames 
+
+at the extremes of fuel dilution, namely for sooty pure-fuel flames and dilute flames that are near extinction.  This 
+
+investigation’s objective is to extend the range of flame conditions that can be accurately predicted by developing and 
+
+experimentally verifying chemical kinetic and soot formation submodels.  The dependence of normal coflow flames on 
+
+injection velocity and fuel dilution is carefully examined for flames at both very dilute and highly sooting conditions.  
+
+Measurements including flame temperature, CH* concentration, soot temperature, and soot volume fraction are made of 
+
+the structure of diluted methane and ethylene flames in an air coflow, where the fuel and air velocities are typically 
+
+matched.  Lifted flames are a focus of the research to avoid flame dependence on heat loss to the burner, where examples 
+
+from ISS testing can be seen in Fig. 5.  The results are directly applicable to practical combustion issues such as turbulent 
+
+combustion, ignition, and flame stability. 
+
+For sooty attached flames, preliminary results have revealed that the soot volume fraction can be several times greater 
+
+in microgravity flames than in comparison normal-gravity flames.  These microgravity flames are also taller and wider.  
+
+Meanwhile, dilution limits for both methane and ethylene flames were extended in microgravity, where the microgravity 
+
+flames are more stable, allowing for lifted flames at lower fuel concentrations. 
+
+ 
+
+Fig. 5 Composite overlay of three dilute methane coflow flames as a function of the matched fuel/coflow velocity 
+
+3.2 Electric-Field Effects on Laminar Diffusion Flames (E-FIELD Flames) 
+
+An electric field can strongly influence flames because of its effect on the chemi-ions produced by the combustion.  The 
+
+direct ion transport and the induced ion wind can modify the flame shape, alter the soot or flammability limits, direct heat 
+
+transfer, and reduce pollutant emission.  This experiment’s purpose is to improve understanding of chemi-ionization in 
+
+flames and the interplay between ion generation & ion-driven flows and explore how electric fields can be used to control 
+
+
+
+ 
+
+  
+
+ 7 of 11 
+
+non-premixed flames.  The ISS tests were conducted burning pure and diluted methane and ethylene with both gas-jet 
+
+and coflow flame configurations.  An electric field of either polarity was generated by creating a high voltage differential 
+
+(up to 10 kV) between the burner and a flat circular mesh above (i.e., downstream of) the burner.  Measurements were 
+
+made of the ion current through the flame and the flame’s response to electric forcing as a function of the field strength, 
+
+fuel, and fuel dilution. 
+
+In contrast to normal-gravity tests, the microgravity flames exhibit a distinct peak ion current that corresponds to the 
+
+most compact flame, where an example of the effect of the field strength on the flame size can be seen in Fig. 6.  Soot 
+
+generation could be suppressed and more broadly there are clear correlations between the flame luminosity, combustion 
+
+intensity, and ion current in the ISS data.  It was found that highly diluted flames can be stabilized with very weak electric 
+
+fields.  But at high field strengths, the flames exhibited corona and arc discharges. 
+
+ 
+
+Fig. 6 Example of the effect of the electric field strength on the flame size where the mesh was negatively charged 
+
+3.3 Burning Rate Emulator (BRE) 
+
+Unlike the other ACME experiments, this study is focused on spacecraft fire prevention.  More specifically, its objective 
+
+is to improve our fundamental understanding of materials flammability in still atmospheres as a function of material 
+
+properties.  The research examines extinction behavior, the conditions needed for sustained combustion, and the 
+
+relevance of existing flammability test methods for low and partial-gravity environments.  A flat porous burner fed with 
+
+gaseous fuel simulates the burning of solid and liquid fuels, where measurements are made of the thermal feedback (i.e., 
+
+to the burner) upon which the vaporization of condensed-phase fuels is dependent.  In the ISS tests, pure or nitrogen-
+
+diluted ethylene and methane were used to simulate the burning of materials such as plastics by matching properties 
+
+including the heats of combustion and gasification, the surface temperature, and smoke point.  Testing included 
+
+atmospheres with elevated oxygen concentrations and reduced pressures being considered for future crew vehicles.  An 
+
+example dome-shaped flame can be seen in Fig. 7. 
+
+Low-momentum microgravity flames can burn for minutes in the absence of an air flow or flame spread.  While the 
+
+flames can burn for minutes in elevated oxygen concentrations, like those being considered for future spacecraft, they were 
+
+found to self-extinguish in concentrations below ~25% (by volume).  While smaller flames can burn for minutes at 
+
+elevated oxygen concentrations, larger flames were generally seen to self-extinguish within 1.5 minutes.  While ethylene 
+
+flames at elevated oxygen concentrations can burn for minutes, methane flames were seen to self-extinguish within a 
+
+minute. 
+
+ 
+
+Fig. 7 Pure ethylene BRE flame, where the burner is illuminated from the left in red 
+
+
+
+ 
+
+  
+
+ 8 of 11 
+
+3.4 Flame Design 
+
+The primary goal of this experiment is to improve fundamental understanding of soot inception and control and thereby 
+
+enable the optimization of oxygen-enriched combustion and the ‘design’ of non-premixed flames that are both robust and 
+
+soot free.  This research will furthermore assess whether the stoichiometric mixture fraction can characterize soot and 
+
+flammability limits for non-premixed flames like the equivalence ratio serves as an indicator of those limits for premixed 
+
+flames.  Tests are conducted with various concentrations of ethylene and oxygen to determine the role of the flame 
+
+structure on the soot inception.  The effect of the flow direction on soot formation is assessed by studying both normal 
+
+flames and inverse flames.  The burner, including its supply tube, can be seen within a normal flame in Fig. 8.  Although 
+
+the normal-flame tests have been completed, the inverse-flame testing has yet to begin. 
+
+As expected in the normal-flame ISS testing, the flame size increases with reactant flow rate and decreases with ambient 
+
+oxygen concentration.  Very small flames have low radiative loss and asymptotically approach steady-state behavior.  In 
+
+contrast, large flames increase in size over time until the flame extinguishes because of radiative heat loss.  Before 
+
+extinction, these flames experience an unstable, oscillatory mode, in which they partially quench and reform.  The 
+
+oscillations grow in magnitude until the flame fully extinguishes.  
+
+  
+
+ Fig. 8 Pure ethylene spherical flame, encompassing the porous spherical burner, from normal-flame testing 
+
+3.5 Structure and Response of Spherical Diffusion Flames (s-Flame) 
+
+This study’s goal is to advance our ability to predict the structure and dynamics of non-premixed spherical flames, 
+
+potentially through modification of kinetic and/or transport sub-models.  The spherical flames were ignited and allowed 
+
+to transition naturally toward extinction, where a specific objective is to identify the extinction limits for both radiative 
+
+and convective extinction (i.e., at high and low system Damköhler numbers, respectively).  Tests were conducted with 
+
+either nitrogen or helium as the diluent in both the fuel and chamber atmosphere.  The fuel gases included hydrogen, 
+
+methane, hydrogen/methane mixtures, and ethylene where an example hydrogen flame can be seen in Fig. 9. 
+
+Both radiative and kinetic (i.e., convective) extinction of the spherical flames appear to have been observed.  Radiative 
+
+extinction seems to occur at high flow rates and kinetic extinction at low flow rates.  The latter may seem counterintuitive 
+
+but at low flow rates the flames are close to the burner where the velocities are highest.  With helium, rather than nitrogen, 
+
+dilution of both the fuel and oxygen, the extinction limits are shifted and kinetic extinction is generally difficult to discern.   
+
+ 
+
+ Fig. 9 False-colored image of a diluted hydrogen flame, revealing the burner and glowing ceramic TFP fibers 
+
+
+
+ 
+
+  
+
+ 9 of 11 
+
+3.6 Cool Flames Investigation with Gases (CFI-G) 
+
+This purpose of this experiment, selected for spaceflight by the Center for the Advancement of Science in Space (CASIS) 
+
+and the National Science Foundation (NSF), is to observe non-premixed quasi-steady spherical cool flames on porous 
+
+burners.  As previously mentioned, non-premixed cool flames were discovered in droplet combustion research 
+
+conducted in the CIR in 2012 but droplet combustion involves unsteady burning rates.  Although ignition and flame 
+
+propagation in engines depend on cool flames, computational tools used to design the engines neglect cool flame chemistry.  
+
+Advances in cool flames kinetic mechanisms could enable cleaner burning, more efficient internal combustion engines.  
+
+Testing is underway where the normal- and inverse-flame tests are being conducted with ethane, propane, and n-butane. 
+
+Cool flames were discovered in CFI-G testing with n-butane as can be seen in Fig. 10 which features a sequence of images 
+
+from an intensified camera filtered for formaldehyde emissions.  As expected, the cool flames are significantly smaller 
+
+than the corresponding hot flames. 
+
+ 
+
+ Fig. 10 Appearance of a cool flame after the hot flame quenches in a normal-flame test with diluted n-butane 
+
+ 
+
+4. Concluding Remarks 
+
+ACME testing is still underway, but well over a thousand flames have been ignited for the six experiments since science 
+
+operations began in Nov. 2017.  Early results have been presented and published 36-48) and more papers will follow.  
+
+ACME’s open-source data and results are gradually being made available through NASA’s Physical Sciences Informatics 
+
+website 60).  As an example, data from the E-FIELD Flames investigation, the first study for which the ISS testing was 
+
+completed, is now available online.  It is tentatively expected that all ISS testing for ACME will be completed in 2022, after 
+
+which the CIR facility will be used for the experiments of the Solid Fuel Ignition and Extinction (SoFIE) project 61) which 
+
+is focused on flammability, flame spread, and spacecraft fire safety. 
+
+ 
+
+Acknowledgements 
+
+The author is grateful for the critical contributions of the ACME investigators (identified in Table 2); their graduate 
+
+students, and collaborators including especially Howard Baum, Yu-Chien (Alice) Chien, and Jesse Tinajero.  Of course, 
+
+the research wouldn’t have been possible without the ZIN Technologies engineering team who developed the ACME 
+
+hardware and software, where key members have included Brian Borowski, Adrian Drake, Jeffrey Eggers, Timothy Gobeli, 
+
+
+
+ 
+
+  
+
+ 10 of 11 
+
+Stephen Lawn, and Christopher Mroczka.  ACME also benefited significantly from Fumiaki Takahashi and NASA 
+
+Glenn’s microgravity facilities staff, led by Eric Neumann, in the conduct of ground-based microgravity tests to evaluate 
+
+hardware and flame behavior in the experimental development.  Testing could not be accomplished without the ISS 
+
+crews and the many members of the CIR operations team, including especially Angela Adams and Melani Smajdek.  The 
+
+author is thankful for the support of colleagues Daniel Dietrich, Uday Hegde, Vedha Nayagam, Justin Niehaus, and Jay 
+
+Owens.  The leadership of Kelly Bailey, Lauren Brown, William Foster, J. Mark Hickman, Kevin McPherson, Martin 
+
+O’Toole, Andrew Suttles, and David Urban has also contributed to the success of the research. 
+
+ 
+
+References 
+
+1) H. D. Ross, ed.: Microgravity Combustion: Fire in Free Fall, Academic Press, London, UK, 2001.  
+
+2) S. A. Gokoglu, D. L. Dietrich, D. P. Stocker, P. V. Ferkul, S. L. Olson and M. C. Hicks: ISS Researcher’s Guide to: Combustion 
+
+Science, 2015, https://www.nasa.gov/connect/ebooks/researchers_guide_combustion_science_detail.html. 
+
+3) D. L. Urban, Z.-G. Yuan, P. B. Sunderland, G. T. Linteris, J. E. Voss, K.-C. Lin, Z. Dai, K. Sun and G. M. Faeth: AIAA J., 36 (1998) 
+
+1346. 
+
+4) K.-C. Lin, G. M. Faeth, P. B. Sunderland, D. L. Urban and Z.-G. Yuan: Combust. Flame, 116 (1999) 415. 
+
+5) D. L. Urban, Z.-G. Yuan, P. B. Sunderland, K.-C. Lin, Z. Dai and G. M. Faeth: Proc. Combust. Inst., 28 (2000) 1965. 
+
+6) G. M. Faeth: Microgravity Combustion: Fire in Free-Fall, Academic Press, London, UK, 2001, 83. 
+
+7)  C. Aalburg, F. J. Diez, G. M. Faeth, P. B. Sunderland, D. L. Urban and Z.-G. Yuan: Combust. Flame, 142 (2005) 1. 
+
+8) F. J. Diez, C. Aalburg, P. B. Sunderland, D. L. Urban, Z.-G. Yuan and G. M. Faeth: Combust. Flame, 156 (2009) 1514. 
+
+9) P. D. Ronney, M.-S. Wu, H. G. Pearlman and K. J. Weiland: AIAA J., 36 (1998) 1361. 
+
+10) M.-S. Wu, J.-B. Liu and P. D. Ronney: Proc. Combust. Inst., 27 (1998) 2543. 
+
+11) J. D. Buckmaster and P. D. Ronney: Proc. Combust. Inst., 27 (1998) 2603. 
+
+12) M. Abid, M.-S. Wu, J.-B. Liu, P. D. Ronney, M. Ueki, K. Maruta, H. Kobayashi, T. Niioka and D. M. VanZandt: Combust. Flame, 
+
+116 (1999) 348. 
+
+13) O. C. Kwon, M. Abid, J.-B. Liu, P. D. Ronney, P. M. Struk and K. J. Weiland: 42nd AIAA Aerospace Sciences Meeting, Reno, NV, 5-
+
+8 Jan. 2004. 
+
+14) J. E. Brooker, D. P. Stocker and L.-D. Chen: Central States Meeting of the Combustion Institute, Lexington, KY, 31 May - 2 June 
+
+1998.  
+
+15) J. E. Brooker, K. Jia, D. P. Stocker and L.-D. Chen: Fourth U.S. Microgravity Payload: One Year Report, Sept. 1999, 151. 
+
+16) K. Jia and L.-D. Chen: 38th AIAA Aerospace Sciences Meeting, Reno, NV, 10-13 Jan. 2000. 
+
+17) R. Venuturumilli and L.-D. Chen: Fuel 88 (2009) 1435. 
+
+18) U. Hegde, M. Y. Bahadori and D. P. Stocker: 37th AIAA Aerospace Sciences Meeting, Reno, NV, 11-14 Jan. 1999. 
+
+19) M. Y. Bahadori, U. Hegde and D. P. Stocker: 37th AIAA Aerospace Sciences Meeting, Reno, NV, 11-14 Jan. 1999. 
+
+20) M. Y. Bahadori, U. Hegde and D. P. Stocker: Fall Western States Meeting of the Combustion Institute, Irvine, CA, 25-26 Oct. 1999. 
+
+21) M.Y. Bahadori, U. Hegde and D. P. Stocker: 38th AIAA Aerospace Sciences Meeting, Reno, NV, 10-13 Jan. 2000. 
+
+22) U. Hegde, M. Y. Bahadori and D. P. Stocker: AIAA J., 38 (2000) 1219. 
+
+23) M. Y. Bahadori and U. Hegde: AIAA-2001-0621, 39th AIAA Aerospace Sciences Meeting, Reno, NV, 8-11 Jan. 2001. 
+
+24) A. Abbud-Madrid, F. K. Amon and J. T. McKinnon: 42nd AIAA Aerospace Sciences Meeting, Reno, NV, 5-8 Jan. 2004. 
+
+25) K. T. Dotson, P. B. Sunderland, Z.-G. Yuan and D. L. Urban: Eastern States Meeting of the Combustion Institute, College Park, MD, 
+
+18-21 Oct. 2009. 
+
+26) K. T. Dotson, P. B. Sunderland, Z.-G. Yuan and D. L. Urban: 48th AIAA Aerospace Sciences Meeting, Orlando, FL, 4-7 Jan. 2010. 
+
+27) K. T. Dotson, P. B. Sunderland, Z.-G. Yuan and D.L. Urban: 6th International Seminar on Fire and Explosion Hazards, Leeds, 
+
+England, 11-16 April 2010. 
+
+28) K. T. Dotson, P. B. Sunderland, Z.-G. Yuan and D.L. Urban: Fire Saf. J., 46 (2011) 550. 
+
+29) B. Ma, S. Cao, D. Giassi, D. P. Stocker, F. Takahashi, B. A. V. Bennett, M. D. Smooke and M. B. Long: Proc. Combust. Inst., 35 (2015) 
+
+839. 
+
+30) S. Cao, B. Ma, B. A. V. Bennett, D. Giassi, D. P. Stocker, F. Takahashi, M. B. Long and M. D. Smooke: Proc. Combust. Inst., 35 (2015) 
+
+897.  
+
+31) D. Giassi, B. Liu and M. B. Long: Appl. Opt., 54 (2015) 4580.  
+
+32) D. Giassi, S. Cao, B. A. V. Bennett, D. P. Stocker, F. Takahashi, M. D. Smooke and M. B. Long: Combust. Flame, 167 (2016) 198. 
+
+https://www.nasa.gov/connect/ebooks/researchers_guide_combustion_science_detail.html
+
+
+ 
+
+  
+
+ 11 of 11 
+
+33) T. F. O'Malley, W. A. Sheredy and D. P. Stocker: “Combustion Research on the International Space Station,” Proc. 59th 
+
+International Astronautical Congress, 2, (2008) 756. 
+
+34) D. P. Stocker, F. Takahashi, J. M. Hickman and A. C. Suttles: Central States Meeting of the Combustion Institute, Tulsa, OK, 16–18 
+
+March 2014. 
+
+35) Advanced Combustion via Microgravity Experiments (ACME), https://www1.grc.nasa.gov/space/iss-research/iss-fcf/cir/acme/. 
+
+36) J. Tinajero, D. Giassi, D. P. Stocker and M. B. Long: 11th U.S. National Combustion Meeting of the Combustion Institute, Pasadena, 
+
+CA, 24-27 March 2019.  
+
+37) J. Tinajero and M. B. Long: 12th U.S. National Combustion Meeting, 24-26 May 2021. 
+
+38) Y.-C. Chien, J. Tinajero, D. P. Stocker, U. Hegde and D. Dunn-Rankin: Central States Meeting of the Combustion Institute, 
+
+Minneapolis, MN, 20-22 May 2018. 
+
+39) Y.-C. Chien, J. Tinajero, D. P. Stocker, U. Hegde and D. Dunn-Rankin: 11th U.S. National Combustion Meeting 2019, Pasadena, 
+
+CA, 24-27 March 2019. 
+
+40) Y.-C. Chien, D. P. Stocker, U. Hegde and D. Dunn-Rankin: 12th Asia-Pacific Conference on Combustion Meeting, 1-5 July 2019, 
+
+Fukuoka, Japan. 
+
+41) P. Dehghani, E. Auth, C. Cui, D. P. Stocker, J. L. de Ris, P. B. Sunderland and J. G. Quintiere: Eastern States Meeting of the 
+
+Combustion Institute, Columbia, SC, 8-11 March 2020. 
+
+42) A. Snegirev, E. Kuznetsov, E. Markus, P. Dehghani and P. B. Sunderland: Proc. Combust. Inst., 38 (2021) 4815.  
+
+43) P. Dehghani, A. Wright, J. L. de Ris and P. B. Sunderland: 12th U.S. National Combustion Meeting, 24-26 May 2021. 
+
+44) P. Dehghani, P. B. Sunderland, J. G. Quintiere and J.L. de Ris: Combust. Flame, 228 (2021) 315.  
+
+45) P. Dehghani and J. G. Quintiere: Combust. Flame, 233 (2021) 111572.  
+
+46) P. H. Irace, H. J. Lee, K. Waddell, L. Tan, D. P. Stocker, P. B. Sunderland and R. L. Axelbaum: Combust. Flame, 229 (2021) 111373. 
+
+47) P. H. Irace, K. Waddell, Z. Xu, D. Constales, P. B. Sunderland, and R. L. Axelbaum: 12th U.S. National Combustion Meeting, 24-26 
+
+May 2021. 
+
+48) K. Waddell, P. B. Sunderland, S. Medvedev, S. Frolov, P. H. Irace and R. L. Axelbaum: 12th U.S. National Combustion Meeting, 24-
+
+26 May 2021. 
+
+49) Combustion Integrated Rack (CIR), https://www1.grc.nasa.gov/space/iss-research/iss-fcf/cir/. 
+
+50) V. Nayagam, D. L. Dietrich, P. V. Ferkul, M. C. Hicks and F. A. Williams: Combust. Flame, 159 (2012) 3583. 
+
+51) D. L. Dietrich, V. Nayagam, M. C. Hicks, P. V. Ferkul, F. L. Dryer, T. I. Farouk, B. D. Shaw, H. K. Suh, M. Y. Choi, Y. C. Liu, C. T. 
+
+Avedisian and F. A. Williams: Microgravity Sci. Technol., 26 (2014) 65. 
+
+52) T. I. Farouk and F. L. Dryer: Combust. Flame, 161 (2014) 565. 
+
+53) G. Paczko, N. Peters, K. Seshadri and F. A. Williams: Combust. Theory Model., 18 (2014) 515. 
+
+54) V. Nayagam, D. L. Dietrich and F. A. Williams: AIAA J., 54 (2016) 1235. 
+
+55) D. L. Dietrich, R. Calabriab, P. Massolib, V. Nayagam and F. A. Williams: Combust. Sci. Technol., 189 (2017) 520. 
+
+56) P. B. Kuhn, B. Ma, B. C. Connelly, M. D. Smooke and M. B. Long: Proc. Combust. Inst., 33 (2011) 743.  
+
+57) B. Ma and M. B. Long: Proc. Combust. Inst., 34 (2013) 3531. 
+
+58) P. S. Greenberg and J. C. Ku: Combust. Flame, 108 (1997) 227. 
+
+59) P. S. Greenberg and J. C. Ku: Appl. Opt., 36 (1997) 5514. 
+
+60) Physical Sciences Informatics (PSI), https://www.nasa.gov/PSI. 
+
+61) Solid Fuel Ignition and Extinction (SoFIE), https://www1.grc.nasa.gov/space/iss-research/iss-fcf/cir/sofie/. 
+
+ 
+
+ 
+
+Notice for Copyrighted Information: This manuscript is a work of the United States Government authored as part of the official duties 
+
+of employee(s) of the National Aeronautics and Space Administration. No copyright is claimed in the United States under Title 17, U.S. 
+
+Code. All other rights are reserved by the United States Government. Any publisher accepting this manuscript for publication 
+
+acknowledges that the United States Government retains a non-exclusive, irrevocable, worldwide license to prepare derivative works, 
+
+publish or reproduce the published form of this manuscript, or allow others to do so, for United States government purposes. 
+
+https://www1.grc.nasa.gov/space/iss-research/iss-fcf/cir/acme/
+https://www1.grc.nasa.gov/space/iss-research/iss-fcf/cir/
+https://www.nasa.gov/PSI
+https://www1.grc.nasa.gov/space/iss-research/iss-fcf/cir/sofie/
+

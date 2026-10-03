@@ -1,0 +1,956 @@
+N96- 15606
+LAMINAR
+
+SOOT
+
+PROCESSES
+
+P.B. Sunderland,
+K.-C. Lin, and G.M. Faeth
+The University
+of Michigan
+Ann Arbor, Michigan
+Introduction
+Soot processes
+within hydrocarbon
+fueled flames are important because they affect the durability
+and performance
+of propulsion
+systems,
+the hazards of unwanted
+fires, the pollutant
+and
+particulate emissions
+fi'om combustion
+processes,
+and the potential
+for developing
+computational
+combustion.
+Motivated
+by these
+observations,
+the present
+investigation
+is studying
+soot
+processes
+in laminar diffusion
+and premixed
+flames in order to better understand
+the soot and
+thermal radiation emissions
+of luminous flames.
+Laminar flames are being studied due to their
+experimental
+and computational
+tractability,
+noting the relevance
+of such results to practical
+turbulent flames through the laminar flamelet concept
+[1,2].
+Weakly-buoyant
+and nonbuoyant
+laminar diffusion
+flames are being considered
+because buoyancy affects soot processes
+in flames
+while most practical flames involve
+negligible
+effects of buoyancy
+[1,2].
+Thus, low-pressure
+weakly-buoyant
+flames
+are being observed
+during ground-based
+experiments
+while nearatmospheric
+pressure nonbuoyant
+flames will be observed
+during space flight experiments
+at
+microgravity.
+Finally, premixed
+laminar flames also are being considered
+in order to observe
+some aspects of soot formation for simpler flame conditions
+than diffusion flames.
+The present
+discussion
+of the investigation
+is brief, see Refs. 2-20 for more details.
+An understanding
+of soot structure and optical properties is prerequisite
+to reliable measurements
+of soot processes
+in flames;
+therefore,
+the initial phases
+of the investigation
+emnhasized
+this
+technology
+[3-8].
+The structure of soot can be seen from the transmission
+electron microscope
+(TEM) photograph
+appearing
+in Fig. 1. Typical of past observations
+[21-23],
+the present
+soot
+consists of roughly spherical
+primary
+particles
+having nearly constant diameters
+at a particular
+location,
+collected
+into aggregates
+having widely varying numbers
+of primary particles
+per
+aggregate.
+Aggregates
+are open structured and can have maximum dimensions
+up to several lan;
+therefore,
+the approximation
+of Mie scattering for an equivalent
+sphere is never justified while
+use of the Rayleigh
+scattering
+approximation
+is questionable
+[4].
+Fortunately,
+use of the
+Rayleigh-Debye-Gans
+scattering
+approximation
+for polydisperse
+populations
+of fractal
+aggregates
+is effective
+for soot aggregates
+[4-7], see the comparison
+between
+measured
+and
+predicted
+scattering patterns
+illustrated in Fig. 2. Based on this technology,
+methods of finding
+soot volume
+fraction
+and soot temperature
+distributions
+from laser extinction
+and multiline
+emission
+imaging
+measurements,
+experiments,
+have been developed
+
+needed
+[ 10-13].
+
+for both
+
+the
+
+ground
+
+based
+
+and
+
+the
+
+space
+
+flight
+
+Present ground-based
+experiments
+involve an extensive
+suite of measurements
+to find both soot
+and flame properties;
+in contrast,
+the space flight experiments
+have limited
+instrumentation
+(flame photographs,
+soot volume
+fractions
+and temperatures,
+soot structure (from TEM) and
+plume temperatures).
+As a result, computations
+of flame structure must be used for properties
+that are not measured
+in order to interpret
+soot processes
+(velocities
+and major species
+concentrations).
+These predictions
+are based on the conserved-scalar
+formalision
+in conjunction
+with the laminar-flamelet
+concept
+for soot-containing
+flames [2-4] which circumvents
+current
+limitations
+about fuel decomposition
+and soot chemistry.
+This approach involves
+full numerical
+simulation
+of flame structure for axisymmetric
+steady flow conditions
+[15-18].
+A typical
+evaluation,
+involving
+results
+along the axis of a weakly-buoyant
+acetylene/air
+laminar jet
+diffusion
+flame, is illustrated
+in Fig. 3; the good agreement
+between
+predicted
+and measured
+velocities,
+mixture fractions and major species concentrations
+is evident.
+
+351
+
+In view of this status, the main
+nucleation
+and growth in laminar
+Laminar
+
+Diffusion
+
+emphasis
+diffusion
+
+of current work has been
+and premixed flames.
+
+on measurements
+
+of soot
+
+Flames
+
+]_Z_]K¢_?,II.
+Present ground-based
+studies of laminar
+diffusion flames are considering
+laminar
+jet diffusion
+flames similar to the flight experiment.
+The objectives
+were to measure
+both soot
+and flame
+properties
+in hydrocarbon/air
+laminar jet diffusion
+flames
+and to exploit
+this
+information
+to study soot growth and nucleation in diffusion
+flames.
+]_x_Derimenta] Methods.
+The experiments
+involved
+weakly-buoyant
+round laminar jet-diffusion
+flames at low pressures,
+as well as buoyant jet diffusion
+flames at atmospheric
+pressure.
+The
+following
+measurements
+were made:
+soot volume
+fractions
+using laser
+extinction,
+gas
+temperatures
+using thermocouples
+where soot is absent and multiline
+emission
+where soot is
+present, soot structure using thermophoretic
+sampling
+and analyses
+by TEM, gas compositions
+by sampling and analysis with gas chromatography
+and gas velocities
+by laser vclocimetry.
+Results and Discussion.
+Soot and flame properties
+along the axis of an acetylene/air
+flame at
+0.25 arm. are illustrated
+in Fig. 4. Species
+concentrations
+for all the flames
+were in good
+agreement
+with generalized
+state relationships
+for major gas species [24], adding confidence
+to
+the laminar flamelet
+technique
+to be used to analyze
+the flight experiments.
+Significant
+levels of
+soot formation only are observed
+when temperatures
+exceed 1250IC
+The end of soot formation
+occurs when the concentrations
+of hydrocarbons
+become
+small, at a fuel-equivalence
+ratio of
+roughly
+1.4. These properties
+were similar for all the flames [9-12].
+The behavior
+of dp was
+more complex, increasing
+during the early stages of soot formation but reaching a maximuni
+well
+before the maximum
+fs is reached; this behavior
+is caused by the greater temperature
+sensitivity
+of soot nucleation
+than soot growth
+so that large nucleation
+rates toward
+the end of soot
+formation yield numerous short residence
+time primary soot particles, tending to reduce the mean
+value of dp.
+The measurements
+were used to study soot growth
+and nucleation
+in laminar diffusion
+flames,
+inferring growth from the variation of fs and nucleation
+from the variation of n v. It was found
+that soot growth was reasonably
+correlated as functions of light hydrocarbon
+(C2H2, C21-I4, CH4)
+concentrationswith a low activation
+energy, and thus best represented as collision
+efficiencies
+[9-12]. In addition,acetylene was the dominant lighthydrocarbon present in the soot growth
+region,similarto premixcd flames, see Refs. 25-27. Itwas also important to account for effects
+of simultaneous
+soot growth and oxidation
+due to the presence
+of soot oxidizing
+species (H20,
+C02 and 02) within the soot growth region.
+The present net soot growth rates, corrected
+for soot oxidation,
+are plotted
+as a function
+of
+acetylene
+concentrations
+in Fig. 5. The net growth rate has been plotted to anticipate
+a simple
+collision
+efficiency
+expression.
+Results shown on the plot involve acetylene/air
+diffusion flames
+(where
+acetylene
+is the main hydrocarbon
+present),
+other hydrocarbon/air
+diffusion
+flames
+(where C2H4 and CH4 concentrations
+are comparable
+to C2H2 concentrations)
+and results from
+premixed
+flames from Refs. 25-27.
+When plotted in this manner, the growth rates for premixed
+flames exhibit a large vertical span, which is attributed to reduced surface reactivity
+with age,
+and growth rates generally
+lower than the diffusion
+flames,
+which may be caused
+by the
+uncertain
+estimates
+of soot surface areas and residence
+times for the results of Refs. 25-27.
+The
+results
+for acetylene/air
+diffusion
+flames over several
+studies and a wide range of conditions
+exhibit fn_t-order
+behavior
+with respect
+to acetylene
+concentrations
+which is consistent
+with a
+rather reasonable
+acetylene
+collision
+efficiency
+of 0.39%.
+In contrast,
+measurements
+for other
+hydrocarbon/air
+diffusion
+flames
+exhibit
+a consistently
+higher
+apparent
+acetylene
+collision
+efficiency
+of 1.56%; this behavior
+suggests either parallel soot growth channels through ethylene
+
+352
+
+collisions (which is present in significant concentrations in these flames), or enhanced surface
+activation due to the presence of higher hydrogen concentrations in the soot growth region
+typified by the hydrogen abstraction carbon addition (HACA) mechanism of Mauss et al. [25]
+and references cited therein.
+The rate of formation of primary particles could be associated with the concentration of acetylene
+in a relatively simple manner. Preliminary examination of the measurements
+indicated f'Lrstorder behavior, in agreement with earlier assessments
+of soot nucleation for various soot
+formation processes [21, 28]. The resulting soot nucleation rate constant, kn, is plotted as a
+function of temperature in Fig. 6, along with an earlier correlation of Leung et al. [28]. The
+results for all the present hydrocarbon/air flames are in reasonably good agreement with each
+other (although the scatter is large due to the sensitivity of measured nucleation rates to d o . The
+results yield a modest
+activation energy of 35 kcal/gmol,
+which is reasonabl6
+for a
+recombination-like process like soot nucleation [21, 28]. Nevertheless, present nucleation rates
+are significantly lower than the correlation of Leung et al. [28]; this is not surprising because the
+data used in Ref. 28 involved optical determinations of _ which are questionable and would tend
+to overestimate nucleation rates as indicated in Fig. 6 [4].
+Laminar Premixed Flames
+Introduction. Soot
+because the flame
+diffusion flames.
+developed to study
+
+processes in laminar premixed hydrocarbon/air flames have received attention
+environment is simpler and more computationally
+tractable than laminar
+Thus, the objective of the present investigation
+was to apply the techniques
+laminar diffusion flames to study soot processes in laminar premixed flames.
+
+Experimental Methods.
+The measurements
+were completed
+using a 60 mm diameter watercooied porous plug premixed flat flame burner surrounded by a nitrogen shroud flow. The
+measurements were the same as for the diffusion flames.
+Results and Discussion.
+Measurements of u, dp, T and fs are illustrated as a function of height
+above the burner in Fig. 7. Increased distance from the burner causes increased u due to
+buoyancy, increased, dp due to growth, decreased. T due to radiative. heat losses and increased, fs
+.
+due to soot nucleauon and growth. Predictably, larger C/O muos y_eld larger soot concentrauons
+and lower temperatures. The measurements of flame and soot structure yield the variations of S,
+np, Wn and wg illustrated in Fig. 8. Both S and np increase with height which implies continued
+soot nucleatidn and growth with increasing
+residence time although both rates decrease similar to
+past observations
+[25-27].
+This behavior is consistent with the reduced temperatures
+with
+increasing distance from the burner exit because both the nucleation rates and the HACA
+mechanism exhibit temperaune dependencies.
+Quantifying these effects, however, will require
+information about concentrations of light and heavy hydrocarbons in the flow; current work is
+carrying out measurements
+along these lines.
+
+[i] - molar concentration
+of species i, d = burner exit diameter, dp = prim_ar_' soot particle
+.....
+_A
+diameter, C/O = atomtc carbon/oxygen
+rauo, fs = soot volume ffacuon,
+Ci_ = aggregate
+scattering cross section (i = incident, j = scattered polarization directions), kn = soot nucleation
+rate constant, np= number of primary particles per unit volume, N = mean number of primary
+particles per aggregate,
+Re = burner exit Reynolds number, S = soot surface area per unit
+volume, T = temperauae,
+u = streamwise velocity, Vi = mean molecular velocity of species i, w_
+= soot growth rate, Wn = soot nucleation rate, Xi = mole fraction of species i, 0 = angle o
+scattering from forward direction.
+
+353
+
+_eknowledgments
+Research
+sponsored
+by NASA Grant No. NAG3-1245
+Urban of the Lewis Research Center.
+
+under the technical
+
+management
+
+of D.L.
+
+References
+1.
+2.
+
+Law, C.IC and Faeth, G.M., Pro2. Enerev Combust.
+Sci., VoL 20, 1994, pp. 65-116.
+Faeth, G. M., Proceedings
+of ihe AL_4/IKI
+Microgravity
+Science
+Symposium,
+AIAA,
+Washington,
+
+1991, pp. 281-293.
+
+3.
+4.
+5.
+6.
+7,
+
+KSyKi, _.'._. and Faeth,
+K6ylti,.U..Q.
+andFaeth,
+K6ylii, .U...O..and Faeth,
+K6ylii, U.O. and Faeth,
+Farias, T.L., Carvalho,
+
+G.M., Combust. Flame. Vol. 89, 1992, pp. 140-156.
+G.M.,_Vol.
+115, 1993,pp.
+409-417.
+G.M., J, Heat Trans., Vol. 116, 1994, pp. 152-159.
+G.M., _I.Heat T r_.s., Vol. 116, 1994, pp. 971-979.
+M.G., K6ylii, U.O. and Faeth, G.M., J, Heat Trans.,
+
+8.
+9.
+
+1995, pp. 1.52-159.
+K6ylti, [l.O., Faeth, G.M., Farias, T.L. and Carvalho, M.G., Combust. Flame. in press.
+Sunderland,
+P.B., Mortazavi,
+S., Faeth, G.M. and Urban, D.L., Combust.
+Flame, Vol. 96,
+
+11.
+12.
+
+1994, pp. 97-103.
+Sunderland,
+P.B., K0ylii, 0.(5. and Faeth, G.M., Combust.
+Flame. Vol.
+310-322.
+Lin, K.-C., Sunderland, P.B. and Faeth, G.M., Combust.
+Flame, in press.
+Sunderland" P.B. and Faeth, G.M., Combust.
+Flame, in press.
+
+13.
+14.
+15.
+
+Faeth, G. M. and K6ylii, 0.(3., Combust.
+Sci. Tech., submitted.
+Lin, K.-C. and Faeth, G.M., 5, Prop. Power, submitted.
+Mortazavi,
+S., Sunderland,
+P.B., Jurng, J., K6ylti, 0.(5. and Faeth,
+
+16.
+
+93-0708,
+1993.
+Faeth,
+G.M.,
+Sunderland,
+P.B.,
+K6ylti,
+0._).
+International
+Symposium
+on Aerospace
+and Fluid
+
+10.
+
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+
+100,
+
+G.M., AIAA
+
+Vol.
+
+1995,
+
+117,
+
+pp.
+
+Paper No.
+
+and Urban,
+D.L.,
+Proceedings
+of
+Sciences,
+Tohoku University,
+Sendai,
+
+Japan, 1.99..3, pp. 185-198.
+K6ylfi, 0.O., Sunderland" P.B., Mortazavi,
+S. and Faeth, G.M., AJAA Paper No. 94-0428,
+1994.
+Sunderland, P.B. and Faeth, G.M., AIAA Paper No. 95-0149,
+1995.
+Lin, K.-C. and Faeth, G.M., AIAA Paper No. 95-0375,
+1995.
+Xu, F., Sunderland,
+P.B. and Faeth, G.M., Proceedings
+of Spring Technical
+Meeting,
+Canadian Section, The Combustion
+Institute, Victoria, B.C., in press.
+Haynes, B. S. and Wagner, H. G., _
+Combust.
+Sci.. VoL 7, 1981, pp. 229-273.
+Glassman,
+I.,Twenty-Second
+Symposium
+(International)
+on Combustion.
+The Combustion
+Institute, Pittsburgh,
+1988, pp. 295-311.
+Howard, J.B., Twenty-Third
+Symposium
+(International)
+on Combustion,
+The Combustion
+Institute, Pittsburgh,
+1990, pp. 1107-1127.
+Sivathanu, Y.R. and Faeth, G.M., Combust.
+Flame, Vol. 82, 1990, pp. 211-230.
+Mauss, F., Schafer, T. and Bockhorn,
+H., C,.ombu_t. Flame, Vol. 99, 1995, pp. 697-705.
+Harris, SJ. and Weiner, A.M., Combust. Sci. Tech., Vol. 38, 1984, pp. 75-87.
+Ramer, E.R., Merklin, J.F., Sorensen, C.M. and Taylor, T.W., Combust.
+Sci. Tech., Vol.
+48, 1986, pp. 241-255.
+Leung, K.M., Lindstedt,
+R.P. and Jones, W.P., Combu#t, Flame. Vol. 87, 1991, pp. 289305.
+
+354
+
+.-
+
+1
+
+.
+
+1
+
+.
+
+ACETYLENE/ AIR
+
+-
+
+SYIIBOLS: MEASUREMENlS
+: PREDICTIONS
+
+IO2
+
+Id
+
+Id'
+
+la2
+0
+
+45
+
+90
+
+e
+Fig. 1. TEMphotognphofsootwithina
+weakly-buoyant acetylendair laminar jet
+diffusion flame. Figm dimCnsimsrou@y
+1 m x 1 4 0 0 ~
+
+IO0
+
+I5
+3
+
+(dog)
+
+Fig. 2 scattering PWIl for soot cmimd
+.
+f o acetylcnc/air buoyant turbulent
+rm
+diffusion flames. From KUylU and F & [SI.
+a
+
+10-~l
+0
+
+'
+
+'
+10
+
+- -
+
+'
+
+'
+
+-
+
+20
+TIYE (me)
+
+'
+
+'
+30
+
+'
+
+I
+40
+
+Fig. 4. Soot and flame pmpcrties along the
+axis of a weakly-buoyant acetylene/&
+laminar jet diffusion flame at 0.25 a m .
+From sunderiand et at. [lo].
+
+Fig.3. M e c r s u r e d a n d p r e d i c t e d ~ ~
+along the axis of a weakly-buoyant
+acetylenJair lamiaat jet diffusion f a e
+lm.
+From K6ylU et al. [171.
+355
+
+TemperahJre (K)
+2000
+
+100
+
+1500
+
+10 -1
+
+, \/
+
+1200
+
+i
+
+u
+
+i
+
+Leu,_ et •1.
+
+1000
+Fuel
+
+T x \
+
+• C,H,
+
+x
+
+_
+
+• C4H1o
+
+10.2
+A
+.em
+v
+
+,_ ""_'t',..
+
+10 -s
+
++ Q.:,.
+
+\
+
+, c,..
+
+\.c,.,
+
+10 .4
+
+10 -s
+
+10 4
+4
+
+6
+
+8
+1041T
+
+10
+
+(K"1)
+
+Fig. 6. Soot nucleation rates within laminar
+hydrocarboWair jet diffusion flames. From
+Sunderland and Fmnh [12]
+
+Fig. 5.
+Net soot growth rates after
+connection
+for oxidation
+within laminar
+hydrocarbon/air jet diffusionflame.
+Prom
+Sundcdand and Fscth [12].
+
+it
+
+|
+
+2.0|-3
+
+PREIMXED
+
+G'FHYLENE
+
+FI.AMES
+
+,._
+
+E
+u
+
+0
+
+,
+0
+
+I
+$
+
+T
+10
+Me_lm
+
+15
+move
+
+_
+
+I
+20
+
+,
+
+I
+2_
+
+=
+
+O.OE
+30
+
+*
+S
+
+I0
+
+15
+
+_,n
+
+2S
+
+3O
+
+(ram)
+
+Fig. 7. Measured flame and soot properties
+along
+the axis of premixcd
+laminar
+¢thylenc/a/r flames at atmospheric pressure.
+From Xu ¢t al [20].
+
+Fig. 8. Derived soot properties along the
+axis of prcmixed
+ethylene/air
+flames at
+mxnospheri.c press=re. From Xu et al. [20].
+
+356
+

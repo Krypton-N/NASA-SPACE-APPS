@@ -1,0 +1,997 @@
+i _FLAME
+
+SPREAD
+
+IN A MICROGRAVITY
+
+ENVIRONMENT-
+
+ROLE
+
+OF FUEL
+
+THICKNESS
+
+SUBRATA
+San Diego
+
+BHATTACHARJEE
+
+State University,
+
+San Diego, California
+
+and
+KAZUNOR_I WAKAI
+SHUHEI TAKAHASHI
+Gifu University,
+
+INTRODUCTION:
+Fueled
+environment
+due to the fire
+decade [1] on laminar flame
+acquired spread rate data in
+flame spread with emphasis
+
+Gifu, Japan
+
+by a necessity to develop an understanding
+of flame spread in microgravity
+safety aspects in manned spacecrafts, considerable work has been done during the last
+spread over solid fuels. In this study, we present a simplified scale analysis and recently
+the MGLAB, Japan [2] to address the role played by fuel thickness in opposed-flow
+on the limiting case of the quiescent environment.
+
+LENGTH AND TIME SCALES: To
+describe the heat-transfer limited mechanism,
+we focus our attention in Fig. 1 at the leading
+edge of the flame where the forward heat
+transfer[3] occurs. With respect to the flame
+the oxidizer approaches the flame with a
+
+velocity r= V, +
+V
+forced or buoyancy
+
+I
+
+, Oxidizer
+
+_ading
+
+!
+
+Edge
+
+v.=vi+v,
+T
+
+(V, canbedueto
+
+induced)
+
+Flame
+
+I
+
+and the fuel with
+x
+
+the gas phase
+size Lg_XLgyXW
+a velocity Vf. ofTwo control volnmes, and one in
+one in
+the solid phase of size L
+
+xL_xW,
+
+_
+
+t_'_'
+
+Lsr_
+
+are
+
+W being the fuel-width
+
+in the z
+
+direction
+
+and the length scales, L_,,
+
+and Lv,
+
+unknown
+
+Lg v , L_x
+
+Condensed
+
+resident
+
+Fuel
+
+Fig. 1 Control volumes
+the solid phases.
+
+times at
+
+I
+at the flame leading
+
+edge in the gas and
+
+edge, t res,g _ L _ / V, in the gas
+
+the leading
+
+phase and t_,,s
+
+_ Ls_ / Vf
+
+In the gas-phase,
+
+a balance
+
+in the solid.
+between
+
+familiar[3]
+
+expression
+
+y-direction
+
+within the available
+
+L_
+
+t/f
+
+at this point.
+
+There are two characteristic
+
+l_eated
+Layer
+
+(----L_
+
+_rT
+
+shown,
+
+_
+
+the conduction
+
+for Lg_, while
+
+_ a__&
+
+Lgr
+
+g
+
+and convection
+
+Lg r can be obtained
+
+residence
+_ _
+
+in the x -direction
+
+following
+
+Delichatsios[4]
+
+= a____g L_
+=
+
+g
+
+Lg = Lg x = Lg r
+
+conduction
+
+being the driving force under all but extreme
+
+phase making
+
+Lsx ~ Lg.
+
+The transverse
+
+NASMCP--2001-210826
+
+as the diffusion
+
+edge yields the
+length
+
+in the
+
+time..
+
+The gas-phase
+
+greater than the half-thickness
+
+at the leading
+
+length
+
+L_y, derived
+
+of the fuel. Therefore,
+
+405
+
+situations
+
+in a manner
+
+[5], Lg is imposed
+
+similar to Lg r , however,
+
+(1).
+
+on the solid
+cannot be
+
+m F=,
+• F I--=--_/.
+= mm/l',,
+L "v:j
+L v:v,j
+THERMAL
+
+REGIME:
+
+(2).
+
+In thermal regime tres.g is assumed large compared to the characteristic chemical time
+
+tcomb justifying the assumption of infinitely fast chemistry and small compared to the radiative time scales
+justifying the neglect of all radiative effects, of flame spread is based on a few simplifying assumptions. The
+characteristic vaporization time tvat, is assumed small compared to tres,s allowing the use of a constant vaporization
+temperature. An energy balance for the solid phase control volume yields the spread rate.
+?tg '-(I_-T_ ) L _,W - V/p,c,L_>,w(r_
+
+>t,
+Hence,
+
+Vf
+
+(3).
+
+T/-L
+F
+
+--
+
+- Tr, . )
+
+where, F =
+
+p, c ,L_y
+
+(4).
+T v - Tr,..
+
+Substituting Lsy from Eq. (2) produces the familiar[6] thin and the thick limits.
+
+Vy'thi"
+
+p,c,
+
+r2*
+F
+
+2gPzCe
+Vf,,hi_k -- V_ /l,p,c,
+
+and
+
+F _
+
+(5a,5b)
+
+In order to reduce the errors in Eq. (5) resulting from the simplifying assumptions, Bhattacharjee et. al[5] proposed a
+simplified theory (EST), which replaced Vg _th
+
+an equivalent velocity _g
+
+into account the bound_y
+
+iaye{
+
+development, introduced a flame temperature correction and prescribed T v as the appropriate temperature for
+property evaluation.
+THICK VS. THIN FUELS: Equating the two
+limiting cases [Eqs. 5a and 5b], we obtain the scale
+for the transition thickness.
+
+•
+•
+•
+
+2, Lg
+rcr"hi"-thi_k ,¢_g F
+
+0.25atm
+0.5arm
+0.75arm
+
+'_
+"
+_,
+
+100
+
+latin
+latm
+latin
+
+(6)
+
+50%
+50%
+50%
+
+50%
+30%
+21%
+
+Eq. 7
+
+10
+In non-dimensional
+
+terms, Eqs. 5(a) and 5(b) can be
+
+combined.
+
+(1)
+
+A
+
+rl -- VZ,-_,Es r - min 1,
+where, T
+
+-
+
+_l"/ _'cr,thin_thick,ES
+
+T
+
+D_II
+
+_.
+
+(7).
+
+A
+
+Or,
+A
+
+Computational results suggest that the fuel becomes
+thermally thick for T > 2, a conclusion that has
+been found to be independent of flow configuration.
+The recent data [7] for downward spread where the
+fuel thickness has been varied over a wide range is
+reproduced in Fig. 2. Although the spread rate is
+somewhat overpredicted by Eq. (7), the transition
+seems to be around T > 2 even though significant
+
+NASAJCP--2001-210826
+
+o.I o.1'_)I , ,,,,,,lo.l ' ' "'"'"I
+,
+
+•
+&
+
+' ' "'""'IO
+
+A
+
+A
+
+' " "1"1100
+
+T
+Fig. 2 Downward spread rate data over PMMA for different
+fuel thicknesses and ambient conditions.
+
+406
+
+kinetic effects are present. Unfornmately,
+there is no forced opposed-flow
+fuel has been varied from the thin to the thick limit in the thermal regime.
+
+QUIESCENT
+with Vf.
+
+ENVIRONMENT:
+
+By substituting
+
+In the absence of forced or induced motion
+
+Vf,thO, from Eq. (5), an upper limit for Vf
+
+L_y-min[f,_-0]=_"
+Fuels at any given thickness,
+
+experiment
+
+because, _'0
+therefore,
+
+to behave
+
+Vr (see Fig. 1) must be replaced
+
+in Eq. (2), it can be shown that
+
+_VfV r >_Vfrh,nV r
+
+can be expected
+
+in which the thickness of a
+
+(6)
+
+_2gpscg
+
+as thin fuels in a quiescent
+
+microgravity
+
+environment.
+
+The energy balance
+residence
+
+times,
+
+of Eq. (3) should be adjusted
+
+t,_,g
+
+the energy balance
+
+= tr_,s _ Lg / Vf,
+
+for thin fuels, and must account for radiative losses, given the large
+
+possible
+
+in a quiescent
+
+environment.
+
+V,o
+7/0 = Vi,n,i,
+
+Equations
+effects
+
+~1+1_
+2
+
+(8) reveals
+
+2"
+
+where,
+
+v,
+
+several characteristics
+
+(T:- rv
+_RO=F2
+
+of flame spread
+
+spread rate is reached
+
+in N 0 beyond
+
+this critical
+
+at N 0 =
+
+1/4,
+
+value will produce
+
+(8).
+
+)],g ( T,--T-_
+
+P_cs
+
+(8)
+
+quiescent
+
+environment.
+
+The radiative
+
+limit Vf,n_i,,
+
+the severity
+
+depending
+
+on the parameter
+
+when the spread rate becomes
+
+an imaginary
+
+thus yields a critical fuel thickness above which steady spread
+to validate this claim. However, the steady
+spread rate at quiescent-environment
+for thin
+cellulosic fuel[8] and extinction for thick
+PMMA[9] are qualitatively
+consistent with Eq.
+
+(7)
+
+in a completely
+
+can be seen to reduce the spread rate from its thermal
+
+N 0 . The minimum
+increase
+
+only solid reradiation in
+
+to capture the radiative effects.
+
+V:op,c,r W(Tv - r. )+ ca(r: - T'
+Or,
+
+We include
+
+spread
+
+rate, indicating
+
+cannot be sustained.
+
+""-.._ss
+02 level
+21%
+
+half its thermal
+extinction.
+
+limit. Any
+Equation
+
+There is no comprehensive
+
+15Bin
+
+50pro
+
+(8)
+data
+
+125gin
+
+___ 13.4 ....... ex__c_t
+_,x__ct
+........
+4.2
+
+_e_x_cA_
+__
+1.4
+
+i,
+
+The MGLAB data[2] for spread over PMMA of
+three different thicknesses at several opposing
+velocities is reproduced in Table 1 and Fig. 3.
+The extinction reported in the table is
+accompanied
+
+by relatively
+
+high values
+
+of 3 o ,
+
+18.6
+
+4.1
+
+30%
+
+.... -2-g.-3..........
+
+ibm6
+...........
+
+50%
+
+39.1
+.... 5-5.-I..........
+.
+
+18.9
+22.-8...........
+
+Table 1. Spread rates in mm/s over PMMA
+
+extinct
+J.-2.....
+Unsteady
+8.f ......
+
+in quiescent
+
+qualitatively
+consistent with conclusion from
+microgravity
+(upper number) and normal gravity conditions.
+Eq. (8). The reduction in spread rate from the 1Total pressure is 1 atm. Extinction occurs at high value of
+g to microgravity
+environment
+(see Table 1)
+N0.
+lends further support to the prediction from Eq.
+(8) that the spread rate decreases by 50% before extinction. The gradual reduction in spread rate, seen in Fig. 1, as
+the opposing velocity is reduced can be predicted from the energy balance equation (Eq. 7) by substituting
+Lg_ _ Olg / Vg for Vg >> Vf,
+heating
+
+Lay from Eq. (2), and treating the radiative term small compared
+
+to the sensible
+
+term in Eq. (7).
+
+rl,,i,, = V/,_o,.r.ho.,_
+
+NASA/CP--2001-210826
+
+1-_R,
+
+rl,h,_, -- VY._'_'._o',_
+
+'
+
+407
+
+F
+
+pgcgVg
+
+_ T_ -T**'.)
+
+(9)
+
+Note
+thatwhile (8)
+Eq.
+
+clearly establishes thickness as an important parameter in the quiescent environment,
+the two
+limits in Eq. (9) also lend support this conclusion that the higher the fuel thickness, the higher is the radiative effects.
+Data shown in Fig. 2 is quite consistent with this conclusion.
+SYMBOLS:
+--"
+-
+
+Equality within a order of magnitude
+Approximately
+equal
+Definition
+
+'
+
+between
+
+'
+
+°
+
+!
+
+'
+
+'
+
+'
+
+50pm
+125pro
+
+15
+
+CONCLUSIONS:
+We present here a scale analysis and
+some recent data acquired in the MGLAB, Japan, to
+investigate the role played by fuel thickness in opposedflow flame spread. The major conclusions,
+some yet to be
+validated through proposed experiments [10], are as
+follows. 1. The critical non-dimensional
+thickness at
+which transition
+
+°
+
+'
+
+I
+
+°
+
+,
+
+o
+
+.
+
+i
+
+,
+
+0
+
+,
+
+0
+
+i
+
+_
+
+o
+
+1
+
+i
+
+0
+
+U
+
+thin and thick fuels takes place
+
+is T _ 2, where T depends on the fuel and
+environmental parameters according to Eq.(7). 2. In a
+quiescent microgravity
+environment
+all fuels are thin
+fuels. 3. Steady spread is impossible in a quiescent
+environment for fuels above a critical thickness. 4. In the
+presence of opposing flow, the radiative effect decreases
+according to Eq. (9), which indicates two different limits
+for thermally thin and thick fuels.
+
+tl
+
+Ig
+fact
+V
+
+•
+
+m i
+
+0
+
+V
+
+n
+
+I
+
+t
+
+I
+
+I
+
+n
+
+50
+
+|
+
+V
+
+u _
+
+s
+
+1
+
+•
+
+•
+
+•
+
+m I
+
+150
+
+Oppos ed-flow
+ACKNOWLEDGEMENT:
+We gratefully acknowledge
+the support of NASA, Glenn Research Center and Japan
+Space Forum, and our technical monitor from NASA, Dr.
+Sandra Olson.
+
+s
+
+100
+
+velocity
+
+g
+
+_ •
+
+200
+[ram/s]
+
+Fig. 3 Spread rate vs. opposed-flow
+velocity for PMMA
+in 21% 02 and Iatm. (Data obtained in MGLAB, Japan)
+
+REFERENCES:
+[1] Wichman,
+
+I.S., Prog. Energy Combust.
+
+[2] Takahashi, S., Nagumo,
+556-562, (2000).
+
+T., Wakai,
+
+[3] Williams, F.A., Sixteenth
+p. 1281, (1976)
+
+K., and Bhattacharjee,
+
+Symposium
+
+[4] Delichatsios,
+M.A._.Twenty-Sixth
+Pittsburgh, PA, p. 1281, (1996).._
+
+Sci., Vol. 18, pp. 646-651
+
+(International)
+
+Symposium
+
+[5] Bhattacharjee,
+S.,West, J., and Altenkirch,
+1477-1485, The Combustion Institute (1996).
+[6] de Ris, J.N., Twelfth
+241, (1969).
+
+Symposium
+
+S., JSME Int. Journal,
+
+on Combustion,
+
+(International)
+
+(International)
+
+on Combustion,
+
+Series B, Vol. 43, No. 4., pp.
+
+The Combustion
+
+on Combustion,
+
+R.A., Twenty-Sixth
+
+(International)
+
+(1992).
+
+Institute,
+
+The Combustion
+
+Symposium
+
+The Combustion
+
+Institute,
+
+Pittsburgh,
+
+Institute,
+
+on Combustion,
+
+Pittsburgh,
+
+[7] Bhattacharjee,
+S., King, M., Takahashi, S., Nagumo, T., and and Wakai, K., A., Twenty-Seventh
+Symposium on Combustion,
+The Combustion Institute (2000)
+[8] Bhattacharjee,
+S., and Altenkirch, R.A., Twenty-Fourth
+Institute, Pittsburgh, PA, pp. 1669-1676, (1992).
+[9] Altenkirch,
+(International)
+
+(International)
+
+R.A, Tang, L., Sacksteder, K., Bhattacharjee,
+Symposium on Combustion, The Combustion
+
+[10] Bhattacharjee,
+
+S., Wakai,
+
+Office of Space Science
+
+NASA/CP--2001-210826
+
+K., and Takahashi,
+
+Applications,
+
+NASA,
+
+S., Dynamics
+
+2000-2003.
+
+408
+
+Symposium
+
+S., and Delichatsios,
+Institute (1998)
+of Flame Spread
+
+PA, p.
+
+Combustion
+
+Twenty-Seventh
+
+in Microgravity
+
+pp.
+
+(international)
+
+on Combustion,
+
+M.,A.,
+
+PA,
+
+Environment,
+
+,
+

@@ -1,0 +1,789 @@
+1st Inaugural Meeting of the ASGSR, New Orleans, Nov.
+2012
+
+UNMANNED VEHICLE MATERIAL FLAMMABILITY
+TEST
+DAVID L. URBAN & GARY A. RUFF: NASA GLENN RESEARCH CENTER, USA
+OLIVIER MINSTER & BALAZS TOTH: ESA ESTEC, NOORDWIJK, NETHERLANDS
+A. CARLOS FERNANDEZ-PELLO: UC BERKELEY, BERKELEY, CALIFORNIA, USA
+
+JAMES S. T'IEN: CASE WESTERN RESERVE UNIVERSITY, CLEVELAND, OHIO, USA
+JOSE L. TORERO & ADAM J. COWLARD: UNIVERSITY OF EDINBURGH, EDINBURGH, UK
+GUILLAUME LEGROS: UNIVERSITE PIERRE ET MARIE CURIE, PARIS, FRANCE
+CHRISTIAN EIGENBROD: UNIVERSITY OF BREMEN (ZARM), BREMEN, GERMANY
+NICKOLAY SMIRNOV: MOSCOW LOMONOSOV STATE UNIVERSITY, MOSCOW, RUSSIA
+OSAMU FUJITA: HOKKAIDO UNIVERSITY, SAPPORO, JAPAN
+SEBASTIEN ROUVREAU: BELISAMA R&D, TOULOUSE, FRANCE
+GRUNDE JOMAAS: TECHNICAL UNIVERSITY OF DENMARK, KGS. LYNGBY, DENMARK
+
+Spacecraft Fire Safety Demonstration
+•
+
+•
+•
+•
+
+Most u.s. agencies responsible for inhabited
+structures and transportation systems conduct
+full-scale fire tests to address gaps in fire
+safety knowledge and prove equipment and
+protocols.
+NASA has been unable to conduct such tests
+owing to risk to the crew.
+Unmanned vehicles provide a new opportunity.
+Demonstration of this operational concept
+could allow future experiments to investigate
+additional fire safety technologies and
+protocols or in unrelated areas.
+Experiment Objective:
+Determine the fate of a large-scale microgravity
+fire
+1. Spread rate, mass consumption, and heat
+release
+• Is there a limiting size in microgravity?
+2. Confirm that low-g flammability limits are less
+than those in normal gravity
+• Are drop tower results correct?
+
+FAA full scale aircraft test
+
+Controlled burns of
+structures
+
+Naval Research Laboratory
+Ex-USS Shadwell
+
+ESA's ATV
+approaching the ISS
+
+Orbital Science's Cygnus
+approaching ISS
+
+2
+
+Knowledge Gaps
+
+.-.._......... .-...-National Aeronautics and Space
+Adlllilli tratioll ( A A)
+Environm ntal C ntrol and Life Support
+(ECLS) Integrated Roadmap Development
+
+December 2011
+
+- - - .... ..-.-
+
+--~.too-
+
+ECf.SS G.p-Rillng Bud,,,, I udJ
+
+Frbnnu')' I .20 12
+
+.... __
+
+• Low- and parlial-g flammability limits
+for spacecraft materials
+• Hybrid gas and parliculate sensors
+fro fire detectors and post-fire
+monitoring
+• Realistic fire challenges
+• Common smoke detectors, fire
+extinguisher, post-fire response and
+monitoring equipment
+- Smoke-eater (Enabling)
+- Combustion Product Monitor
+• Material flammability (margin of
+safety) at hig h %0 2
+- Improved detection and
+suppression to reduce risk
+(Enhancing)
+
+• Common portable fire extinguisher
+}
+Scalable!
+for exploration
+• Common Smoke Eater technology
+• Demonstrating technologies in SFS Demo
+3
+
+% Oxygen
+
+How rapidly can a fire spread in low-g?
+•
+
+This question lies at the heart of the
+development of a fire safety strategy
+•
+
+•
+
+NIST Full Scale Fire test
+
+Terrestrial or spacecraft applications
+
+Rate of fire growth impacts:
+• Time to detect
+• How fast do you need to detect it?
+
+•
+
+Size of fire
+• How long will it remain managable?
+• Amount of fire suppression agent required
+
+•
+
+Heat release rate, fire spread to
+surrounding materials
+• Collateral damage
+
+•
+
+Emission of combustion products
+• Post-fire cleanup strategy and consumables
+
+y
+
+Large-scale flame spread sample
+• 0.5 m wide x 1.0 m long
+
+FAA full scale aircraft test
+T"", S05.0
+
+_ - ==:
+Side view of a low-g
+flame on a thin paper
+sample in a concurrent
+convective flow
+
+5
+
+Implications of Fire Growth Rate
+• Almost no information exists on
+large-scale fire growth in
+microgravity
+• CO 2 concentration approximately
+scales with mass of material
+consumed
+• Safety-critical parameters such as
+temperature and pressure scale with
+mass consumed and rate of mass
+consumption
+• Growth rate information is needed to
+make informed decisions on safety
+equipment and crew response
+Pressure relief valve sizing
+Extinguisher size
+Consumables for cabin cleanup
+Crew response times (fight-or-flee
+decisions)
+
+• Data will validate modeling of
+spacecraft fire response scenarios
+
+Non-survivable
+Fire
+
+500
+
+Firc Grnwth C ..cfficient (kWI./)
+a = 0.0029
+a = 0.04(}9
+1.6
+
+Cv =3.0
+
+G450
+
+.l
+
+Vehicle Volume = 953 fi
+Packing actor = 0.50
+Pres ure Relief Valve = 1.1
+
+1.5
+aIm (1.05 afm
+
+crack)
+
+Survivable Fire
+
+a
+
+;J!
+1.2 -
+
+1.1
+
+I.U
+
+o
+
+100
+
+200
+
+300
+
+400
+
+500~ec
+
+Time frnm start of tire ( .fee)
+
+6
+
+Material Flammability Testing
+• NASA-STO-6001 describes the test methods used to qualify materials for use in
+space vehicles.
+• The tests cover flammability, odor, off-gassing, and compatibility.
+• The primary test to assess material flammability is Test 1: Upward Flame
+Propagation
+• Materials "pass" this test if the flame
+5cm
+self-extinguishes before it propagates
+Su bstrate
+Test
+1ypi:~I I" ...
+tor le$1lng
+chamber
+01 cl)CIJtings
+15 cm
+, "
+' f:
+r-
+
+,
+
+Scale -
+
+,
+
+-,
+
+.
+
+--
+
+,
+
+,
+
+Typlc,all
+
+s,p cclmen -
+
+j
+
+-',
+
+-.
+
+,
+
+'.
+
+J
+'
+
+II'
+I"
+I,·
+
+~
+
+Umitin 51
+I lamespread
+beJgilt
+
+I~
+
+~ "1 -
+
+.J
+1
+
+'I
+
+~
+.,
+
+--
+
+PaiPer
+
+shoot
+below
+specimen
+
+~
+
+,
+
+0 -
+
+/
+~
+
+~
+
+"- -. --
+
+,
+f
+20' Cm
+
+I~ _ _
+
+'Era'
+
+IgllHe r
+f'
+
+.
+
+--1
+
+• Flammability limits determined by this
+test are strongly influenced by natural
+convection
+
+33cm
+
+,j
+
+b
+
+--------=r=:..~
+
+I'
+
+• Maximum oxygen concentration (MOC)
+is defined as the highest O2 fraction at
+which material passes Test 1
+
+.
+
+"
+I~
+
+~
+
+"
+
+"
+
+;
+
+'. ,
+
+I
+
+• Samples are 5 cm wide x 33 cm long
+and rigidly held in a frame
+
+~
+
+/
+
+Y Flammability samples
+Test 1 Apparatus
+
+CI)
+
+1
+
+a
+
+7
+
+Low- and Partial-g Flammability Limits
+• Tests were conducted at WSTF (normal-g)
+and GRC (Iow- and partial-g) to quantify
+changes in the flammability limit for
+Nomex, Mylar, and Ultem at low (with
+convective flow), Martian, and Lunar
+gravity levels.
+
+1
+
+o
+
+VI
+
+• Data on right shows Oxygen Margin of
+Safety (negative means material burns at lower
+02 compared to normal gravity!)
+
+(OMOS
+
+=MOC)o_g -
+
+MOC)1_g)
+
+o
+
+~
+
+.!!!
+III
+
+-
+
+4
+
+...
+III
+
+no
+
+<>
+
+0
+-B- Nor mal Gravitv Natural Comfcction
+
+<>
+
+Qj
+
+~
+)(
+
+o
+
+-6
+
+6.
+
+Mylar
+
+~
+
+M arl.i <'ln Gr ' vi ty l'J a l.uriJI (on·. eel io n
+
+I!J. l una r Gravit'{ Natura l Conve·: tion
+
+o
+
+Dome
+
+Experiment
+support plate
+
+0
+
+~
+
+<)
+
+VI
+
+o
+t:
+
+~
+
+I::l
+AvgOMOS=2.6% 0 2
+
+s: -5
+
+Control
+hardware and
+electronics
+
+-
+
+<)
+
+:E
+
+Centrifuge drop rig
+being prepared for a
+drop in the Zero Gravity
+Facility
+
+Q
+
+-2-
+
+~
+>... -3
+
+-
+
+-
+
+......
+
+Ze ro Gravity Forccd Convection
+
+Ultem
+
+Nomex
+
+Flammability limit samples in the
+Spacecraft Fire Safety Demonstration
+Experiment will evaluate NASA-STD6001 Test 1 in low-g and validate drop
+tower results.
+8
+
+Flow
+Flow
+
+Mission Concept
+
+Load experiment into Cygnus PCM
+
+Cygnus mounted in the shroud
+of the Antares vehicle
+
+Antares (Taures 2) V launch
+10
+
+Mission Concept
+Cygnus
+approaching
+ISS
+
+Unpack cargo, reload with trash
+
+Proposed location of the SFS
+Demo experiment (back of vehicle)
+
+Check-out SFS Demo experiment
+
+11
+
+SFS Demo Experiment Configuration
+• Experiment remains on AFT wall but rotated to lie between the rails
+• Sample spacing requirements met
+• Length of flow chamber reduced from 48" to 44"
+• Camera enclosures facing M-01/M-02 bags on AFT wall
+
+SFSD Expermenwith 44" Flow Chamber
+Displaces One M-01 CTe and One M-02 CTe
+
+Cygnus
+Ops
+Engr.
+
+VOICE
+
+NASA
+Ops
+Engr.
+
+Flow
+Flow
+
+Safety Considerations - Overpressure testing
+
+Vacuum Faculty (VF)-13)
+149.9 cm 10, 360 cm high, 6.35 m3 volume
+
+15
+
+Safety Considerations - Overpressure testing
+
+11.82
+11.8
+11.78
+11.76
+<t
+
+iii
+0..
+
+11.74
+
+!!!::::J
+<II
+<II
+
+!!!
+
+11.72
+
+0..
+
+11.7
+11.68
+11.66
+11.64
+
+a
+
+200
+
+400
+
+600
+
+800
+
+t ime, s from ignit ion start
+
+Pressure trace for Single 12.5- by 100-cm
+sample ignited at the top.
+The fuel is 90 grade cotton cheese-cloth
+with a 4.92 mg/cm2 density.
+SIBAL Cloth, upward 1-g
+16
+
+Calculation initialization
+•
+
+Calculations are initialized with a steady state flow
+generated by the fans at constant temperature following a
+classic strategy:
+•
+•
+•
+•
+
+•
+
+Flow initialization
+Full multigrid initialization
+Few thousand iterations with first order solver
+Few thousand iterations with second order solver
+
+Flow modelling main parameters:
+•
+
+Energy equation turned on
+
+•
+
+Turbulence model: Ke-RNG
+
+•
+
+Air as ideal gas for density calculation
+
+•
+
+Sutherland model for viscosity
+
+•
+
+Initial temperature: 300k
+
+•
+
+Initial pressure: 1013 hPa
+
+•
+
+All walls are adiabatic
+
+,
+
+~.
+
+Calculation with heat release· ATV configuration
+•
+
+1- ATV configuration after 1 minute of heat release
+•
+•
+
+Pathlines
+Velocity field
+
+6.73e-01
+6.3ge-01
+6.05e-01
+5.72e-01
+5.38e-01
+5.04e-01
+4.71e-01
+4 .37e-01
+4 .04e-01
+3.70e-01
+3.36e-01
+303e-01
+2.6ge-01
+2.35e-01
+2.02e-01
+1.68e-01
+1.35e-01
+1.01e-01
+6.73e-02
+3.36e-02
+O.OOe+OO
+
+Pathlines Colored by Velocity Magnitude (m/s) (Time=S.0000e+01)
+Sep OS , 2012
+ANSYS FLUENT 14.0 (3d, dp, pbns , rngke, transient)
+
+Calculation with heat release: ATV configuration
+•
+
+1- ATV configuration after 1 minute of heat release
+•
+
+Temperature field
+1 50e-+-03
+144e-+-03
+1.38e-+-03
+1 32e-+- 03
+1 26e-+-0 3
+1.20e-+-03
+1 14e+03
+1 08e+03
+1. 02e+03
+9 60e+02
+900e+0 2
+8.40e+02
+7.80e+02
+7. 20e-+-02
+6.60e+02
+600e+02
+5.40e+0 2
+4. 80e+02
+4 20e+02
+3.60e+02
+300e+02
+
+Contours of Static Temperature (k) (Time=6.0000e+01)
+
+Sep 06 , 20 12
+ANSYS FLUENT 14.0 (3d, dp, pbns, rngke , transient)
+
+Conclusions
+
+•
+
+Microgravity fire behaviour remains poorly understood and a significant risk for
+spaceflight
+
+•
+
+An experiment is underdevelopment that will provide the first real opportunity to
+examine this issue focussing on two objectives
+•
+•
+
+Flame Spread
+Material Flammability
+
+•
+
+This experiment has been shown to be feasible on both ESA's ATV and Orbital
+Science's Cygnus vehicles with the Cygnus as the current base-line carrier.
+
+•
+
+An international topical team has been formed to develop concepts for that
+experiment and support its implementation.
+• Pressure Rise prediction
+• Sample Material Selection
+
+•
+
+This experiment would be a landmark for spacecraft fire safety with the data and
+subsequent analysis providing much needed verification of spacecraft fire safety
+protocols for the crews of future exploration vehicles and habitats.
+20
+

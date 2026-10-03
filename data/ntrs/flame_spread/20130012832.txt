@@ -1,0 +1,549 @@
+Flammability Aspects of a CottonFiberglass Fabric in Opposed and
+Concurrent Airflow in Microgravity
+
+Paul Ferkul, National Center for Space Exploration Research
+Sandra Olson, NASA Glenn Research Center
+Michael Johnston, Case Western Reserve University
+James T’ien, Case Western Reserve University
+
+This work was supported by the NASA Space Life and Physical Sciences
+Research and Applications Division (SLPSRA).
+
+Presented at the American Society for Gravitational and Space Research 2012 Annual Meeting
+New Orleans, Louisiana
+
+Science Background:
+
+♦ Combustion of solid fuels in
+microgravity has been an active area
+of research
+
+Typical Flammability Boundary for a Solid Fuel
+0.23
+0.22
+0.21
+
+♦ Numerical models predict that 1-g
+buoyant flows profoundly affect fuel
+flammability
+
+0.20
+
+Flammable
+
+O2 Mole
+Fraction 0.19
+
+1-g buoyant
+flow limit
+
+0.18
+
+♦ Microgravity experiments burning
+thin fuels have verified this
+prediction, but ground-based facilities
+are too short to examine the burning
+of thicker fuels
+♦ Flow in range < 30 cm/s is of interest
+
+0.17
+0.16
+Not Flammable
+
+0.15
+
+1
+
+10
+Flow speed (cm/s)
+
+100
+
+300
+
+Hypotheses:
+♦ Materials in microgravity, with
+adequate ventilation, may burn more
+readily compared to normal gravity
+with other conditions being identical
+(pressure, oxygen concentration,
+temperature, etc.)
+♦ Testing at constant O2 mole fraction
+permits studying flame spread and
+extinction at low and high flow speed.
+
+Typical Flammability Boundary for a Solid Fuel
+0.23
+0.22
+0.21
+0.20
+
+Flammable
+
+O2 Mole
+Fraction 0.19
+
+1-g buoyant
+flow limit
+
+0.18
+0.17
+0.16
+Not Flammable
+
+0.15
+
+1
+
+10
+Flow speed (cm/s)
+
+100
+
+Approach:
+♦ Microgravity combustion tests were performed
+aboard the International Space Station using the
+BASS (Burning and Suppression of Solids)
+hardware.
+♦ The wind tunnel was installed in the Microgravity
+Science Glovebox which supplied power, imaging,
+and a level of containment.
+♦ Cotton-fiberglass blend fabric samples were
+mounted inside a small wind tunnel which could
+impose airflow speeds up to 40 cm/s.
+♦ The effects of airflow speed on flame appearance,
+flame growth, and spread rates were determined
+in both the opposed and concurrent flow
+configuration.
+
+Science Applications:
+ Understanding of long-duration microgravity solid material burning and extinction
+ Improved strategies for NASA spacecraft materials selection; link actual burn
+behavior in microgravity to Earth-based selection methods
+ Improved combustion computational models used in the design of fire detection
+and suppression systems in microgravity and on Earth
+ Validated detailed combustion models in the simpler flow environment of
+microgravity build more complex combustion models needed to capture the
+important details of flames burning in normal gravity; models have wide
+applicability to the general understanding of many terrestrial combustion
+problems.
+
+Microgravity Science
+Glovebox (MSG)
+
+BASS flame visible
+through viewport
+
+Fish-eye view of the inside of the Microgravity Science Glovebox (MSG)
+
+Hardware Details
+Top window
+
+Permits variety of solid samples to be mounted, ignited, and burned:
+
+Thin, flat (17)
+
+Spheres (12)
+
+Thick, flat (4)
+
+(Note: samples are not to scale; samples can be flipped 180 degrees if desired)
+
+Candles (8)
+
+Experiment Operation:
+
+Flow Duct
+
+Airflow
+
+Top Window and
+Sample Holder
+
+Experiment Operation:
+
+Fuel Sample Installed
+
+Airflow
+
+Experiment Operation:
+
+Igniter On
+
+Airflow
+
+Experiment Operation:
+
+Flame
+
+Airflow
+
+Experiment Operation:
+
+Flame Spread
+
+Airflow
+
+Experiment Operation:
+
+Flame Responds
+to Higher Flow
+
+Airflow
+Changes
+
+Experiment Operation:
+
+Flame Extinction
+(Flow reduced too far
+or fuel consumed)
+Airflow
+
+Hardware Summary:
+Sample Images
+
+ BASS utilized the on-orbit SPICE hardware;
+minor modifications were made to burn solid
+samples
+
+Digital Still
+
+Video
+
+ Small flow tunnel
+ Solid samples were installed, ignited,
+extinguished, and recorded
+ Video and digital still camera provided bulk
+of the data. Flame appearance, behavior,
+spread rate, and extinction dynamics were
+measured
+ Airflow speed was the main variable
+Airflow
+
+Fuel characteristics (“SIBAL” fabric)
+25% fiberglass, 75% cotton blend
+Simple weave pattern (60 x 40 threads per inch)
+Cotton and fiberglass fibers intermingled
+
+Overall area density: 18 mg/cm2
+Fuel sizes: 8.5 cm length; 1 and 2 cm width
+
+Airflow
+
+Video (edge view) of 2-cm-wide sample in concurrent flow. Ignition is obtained
+at an airflow speed of 10 cm/s and flow is then reduced to 5 cm/s.
+
+Effect of flow speed on 2-cm-wide sample in concurrent flow (top view)
+
+10 cm/s Airflow
+
+5 cm/s Airflow
+
+10 cm/s Airflow
+
+1 cm
+
+Digital still camera images for 1-cm-wide fuel with concurrent airflow = 10 cm/s.
+Images are taken every 1.125 sec (starting at bottom and moving from left to right).
+The flame reaches steady state after about 10 seconds.
+
+Still image analysis; 1 cm-wide fuel, 10 cm/s airflow
+180
+
+20
+
+170
+18
+
+160
+
+Flame Base Position
+
+16
+
+140
+130
+
+Flame Length
+
+14
+
+120
+110
+
+12
+
+100
+90
+
+10
+
+80
+8
+
+70
+60
+
+xtip = 1.71 t + 2.25
+
+50
+
+6
+
+40
+
+4
+
+30
+
+xbase = 1.68 t - 13.81
+
+20
+
+2
+
+10
+0
+
+0
+0
+
+10
+
+20
+
+30
+
+Time, s
+
+40
+
+50
+
+60
+
+Flame Length, mm
+
+Flame Tip and Base Position, mm
+
+150
+
+Flame Tip Position
+
+10 cm/s Airflow
+
+2 cm
+
+Digital still camera images for 2-cm-wide fuel with opposed airflow = 10 cm/s.
+Images are taken every 1.25 sec (starting at top and moving from left to right).
+Flame quickly reaches steady state and goes out when it runs out of fuel.
+Note: Downward flame spread (opposed flow) in 1-g with this material is not
+possible in normal air.
+
+10 cm/s
+6 cm/s
+
+Airflow
+
+4 cm/s
+2 cm/s
+
+1.5 cm/s
+1 cm/s
+
+Digital still camera images showing a flame burning a 2-cm wide cotton-fiberglass
+fabric in opposed flow. Images are taken every 1.25 sec (starting at top and moving
+from left to right). The flow is decreased in discrete steps from 10 cm/s all the way
+down to about 1 cm/s. The flame response to flow changes is very rapid, and the flow
+effects on the flame and its spread rate are dramatic. Total burn time is 90 sec. Flow
+changes are indicated by numbers.
+
+Airflow
+
+Video view of 2-cm-wide sample in opposed flow. Blowoff is attempted at high
+flow speed (~44 cm/s).
+
+Concurrent and Opposed Spread at ~ 10 cm/s
+2.55 mm/s versus 1.21 mm/s
+
+10 cm/s Airflow
+
+6
+2 cm concurrent
+
+1 cm concurrent
+
+5
+
+Flame Spread Rate, mm/s
+
+2 cm opposed
+VF = - 0.20 U∞ + 0.56
+
+4
+
+3
+
+VF = - 0.15 U∞ + 0.07
+
+2
+
+1
+Extinction
+
+0
+-50
+
+-40
+
+-30
+
+-20
+
+-10
+0
+10
+Forced Flow Velocity, cm/s
+
+20
+
+30
+
+40
+
+50
+
+Comparison of 0-g and 1-g Concurrent Flow Flames
+
+0-g with flow (10 cm/s)
+Steady flame size and spread
+Convex base
+Extended blue zone
+
+1-g with flow (10 cm/s)
+Growing flame size and spread
+Concave base
+Extended soot zone
+
+Comparison of 0-g and 1-g Opposed Flow Flames
+
+0-g with flow (10 cm/s)
+Steady flame size and spread
+Convex base
+Extended blue zone
+
+1-g
+Flame does not propagate downward
+
+Summary
+♦ For the opposed flow configuration, the flame quickly reached steady
+spread for each flow speed, and the spread rate was fastest at an
+intermediate value of flow speed.
+♦ These tests show the enhanced flammability in microgravity for this
+geometry, since, in normal gravity air, a flame self-extinguishes in
+the opposed flow geometry (downward flame spread).
+♦ For the concurrent flow configuration, a limiting length and steady
+spread rate were obtained only in low flow speeds. For these
+conditions, flame spread rate increased linearly with increasing flow.
+♦ This is the first time that detailed transient flame growth data was
+obtained in purely forced flows in microgravity. In addition, by
+decreasing concurrent flow speed to a very low value (around 1
+cm/s), quenching extinction was observed.
+♦ The valuable results from these long-duration experiments validate a
+number of theoretical predictions and also provide the data for a
+transient flame growth model under development.
+
+Acknowledgments:
+
+Fumiaki Takahashi, National Center for Space Exploration Research
+Bob Hawersaat, NASA Glenn Research Center
+Jay Owens, National Center for Space Exploration Research
+Tibor Lorik, ZIN Technologies
+Chuck Bunnell, ZIN Technologies
+Carol Reynolds, NASA Marshall Space Flight Center
+Don Pettit, NASA Johnson Space Center
+
+Joe Acaba, NASA Johnson Space Center
+Suni Williams,NASA Johnson Space Center
+
+Questions?
+
+Astronauts Don Pettit, Joe Acaba, and Suni Williams return to Earth, Kazakhstan, 2012
+
+Backup Slides
+
+Effect of flow speed on sample in concurrent flow (edge view)
+
+2 cm wide, 20 cm/s Airflow
+
+1 cm wide, 10 cm/s Airflow
+
+130
+
+110
+Flow change from
+10 cm/s to 5 cm/s
+
+Ignition
+
+Flame tip
+
+100
+
+110
+
+Flame Base
+
+90
+
+Flame Length
+
+90
+70
+
+70
+
+50
+
+60
+
+30
+
+50
+40
+
+10
+
+30
+-10
+
+20
+-30
+
+10
+
+-50
+
+0
+0
+
+10
+
+20
+
+30
+
+Time, s from igniter start
+
+40
+
+50
+
+Flame Length, mm
+
+Flame Position, mm
+
+80
+
+Sample Model Results:
+

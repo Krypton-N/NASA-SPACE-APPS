@@ -1,0 +1,682 @@
+COMBUSTION
+
+OF SOLID
+
+FUEL
+
+IN VERY
+
+LOW
+
+SPEED
+
+OXYGEN
+
+STREAMS
+
+James S., T'ien," Kurt R. Sacksteder, t Paul V. Ferkul," and Gary D. Grayson"
+Case Western Reserve University, Cleveland, Ohio 44106
+tNASA Lewis Research Center, Cleveland, Ohio 44135
+
+N93"20207
+1. Introduction
+In reduced gravity, the combustion of solid fuel in low-speed flow can be studied. The flame behavior in this
+low-speed regime will f'dl a void in our understanding of the flow effect on combustion. In addition, it is
+important for spacecraft fire safety considerations. In this work, modeling and experimental work on low-speed
+forced-concurrent-flow
+flame spread are carried out. In addition, experiments on reduced-gravity buoyant-flow
+flame spread are performed.
+2. Low Speed Forced
+2.1 Concurrent-Flow
+
+Flow
+
+Flame Spread Model [1]
+
+The model considers two-dimensional, steady flame spread in concurrent flow over a thin solid. Because of its
+thinness, the fuel bed can bum through. The flame could therefore reach a constant length provided that a.
+constant (and equal) flame tip velocity, pyrolysis front velocity, and fuel burnout rate, can be obtained in the
+low-speed concurrent flow environment.
+The flame is assumed to be laminar because of its small size and low velocity. The gas-phase fluid mechanical
+treatment is more comprehensive than most works in the past. In the flame base region (where the upstream
+flow is seen firs0, sueamwise heat and mass diffusion is included. This, together with finite-rate, gas-phase
+chemical kinetics, enables us to examine the question of flame stabilization and extinction. The elliptic treatment
+of this flame stabilization zone entails the full Navier-Stokes equations. On the other hand, to save
+computational time, a boundary layer approximation is employed in the downstream region. The two zones are
+coupled at an appropriate gas-phase location. They are also coupled indirectly through the solid by energy
+exchange. A simplified solid fuel model is used. The solid is assumed to be thermally thin and to pyrolyze
+according to a one-step Arrhenius law with no char and tar formation. A solid-surface radiative-loss term is
+included which becomes critically important in the low-speed flammability limit. Because of the coupling
+between elliptic and parabolic regions and between the gas and solid phases, the numerical solutions require
+many iterations and are computationaUy intensive; they are carried out using the Cray X-MP Supercomputer at
+the NASA Lewis Research Center.
+Although the model has been formulated for a mixed forced and buoyant flow, extensive computations have been
+performed for purely forced flow only, using oxygen mole fraction and free-stream velocity as parameters. Fig.
+1 gives all the points calculated and the extinction boundary. Some of the important results are summarized
+below.
+The extinction boundary consists of a quenching and a blowoff branch similar to those in
+stagnation-point flow [2] and in opposed-flow flame spreading [3]. The quenching limit is due to the
+surface radiative loss. Without radiative loss, the model predicts no low-speed limit. Fig. 2 shows the
+maximum computed flame temperatures. In all cases, the maximum temperature decreases with flow
+velocity, especially near the quench limiL The flame spread rate decreases monotonically with flow
+velocity, as expected (Fig.3).
+Flames quench at low speed by shrinking in size. Near-limit flames remain stabilized in the fuel
+burnout region, as shown in Fig. 4. This fixed stabilization is in contrast to flame blowoff at higher
+
+PRECiE{)ING PAGE
+
+BLANK
+
+NOT
+
+FiLMt=ID
+
+245
+
+speedhere
+w
+
+the flame cannot be stabilized in the fuel burnout region. Extinction is reached when the
+flame is blown downstream. This illustrates one of the distinctions in flame extinguishment between
+quenching and blowoff. This difference becomes clear in a two-dimensional analysis but is obscure in
+one-dimensional stagnation-point flames. The reactivity contours shown in Fig. 4 resemble the visible
+blue flame seen in experiment (take w=10 -4 g/cm3/sec for example), which will be discussed in the next
+section.
+-
+
+Using finite-rate kinetics enables us to examine the integrated flux of fuel vapor crossing any vertical
+plane. Far downstream, the fuel-flux stops changing (because the reaction becomes frozen), providing a
+measure of fuel escaping the flame. The fraction of fuel not consummed in the flame increases
+dramatically at lower speeds because of the increased importance of flame-tip quenching. Additionally,
+the variation of escaped fuel vapor is not monotonic with flow velocity.
+
+2.2 Forced Concurrent Flow Flame Spread Experiments
+
+[4]
+
+Low-speed concurrent-forced-flow
+experiments were conducted at Lewis Research Center's 5-second drop tower
+using thin tissue paper Kimwipe) as the solid fuel. The relative flow was generated using a sample translation
+device in a total of twenty-seven drop tests. In these tests, the flow velocity was varied from less than I cm/s to
+5 cm/s and the oxygen concentration in nitrogen (at normal atmospheric pressure) from 30% down to extinction.
+Color cine films were made of the flames.
+.
+
+k
+
+--
+
+-
+
+-
+
+While in most tests the leading edge of the fuel receded steadily as it was burnt following the ignition transient,
+the downstream flame tip propagation was unsteady. Flames grew in length (after the ignition transient) at
+higher oxygen concentrations and relative flow velocities, but shrunk at lower concentrations and velocities. In
+higher-speed flows, in normal gravity, flame length has always been observed to grow after ignition [5]. The
+shrinking flames observed in these microgravity tests could be quenching, but the slow evolution of the flame
+length in the 5 second test time did not allow enough time to observe their eventual fate. Alternatively, the
+small, slowly evolving flames may be indicative of near-steady configurations of flames in very-low-speed
+concurrent flows. Fig. 6 (the color photos are grouped together) shows a comparison of flames at approximately
+5 cm/sec relative concurrent flow at three different oxygen concentrations. The shape of the 15% oxygen
+concentration case can also be compared favorably with the computed reaction contours (e.g. 104 g/cm3/sec)
+shown in Fig. 4 for the same test condition.
+The measured spread rates of the flame base, the leading edge of the fuel at which burnout occurs, are similar to
+the computed values shown in Fig. 3. However, spread rates at high oxygen concentrations and high
+relative-flow velocities are lower experimentally at the end of the drop while the rates at low oxygen
+concentrations and low relative-flow velocities are higher experimentally. These observations are consistent with
+the suggestion that the flames might not have had sufficient time to reach their final configuration in the
+available 5 seconds.
+A flammability map,
+and is similar to Fig.
+experimentally.
+It is
+data in opposed-flow
+
+based upon the status of flames at the end of 5 seconds of microgravity, has been drawn
+i. No detailed comparison can be made because steady flames have not been achieved
+clear that even for a thin fuel such as Kimwipes, which provide ample steady flamespread
+configurations, longer microgravity duration is needed to satisfactorily determine flame
+
+spread rates and extinction limits in concurrent flow.
+3. Buoyant-Flow
+
+Flame Spread
+
+in Reduced-Gravity
+
+Experiments
+
+Flame spread in buoyant flow under reduced-gravitational conditions has been observed using the NASA KC-135
+aircrai't flying parabolic trajectories at approximately 1/3rd, l/tth, and 1/i0th normal earth gravity levels. The test
+apparatus includes-pro--visions for controlled ignition energy, color-schlieren flame imaging and three dimensional
+measurements of thelocal acceleration levels. Tests were conducted in O2/N 2 mixtures from 18% oxygen down
+to extinction (of the same thin Kimwipe tissues used in our other tests) at normal and reduced pressures for
+upward (concurrent fl0w) flame propagation; and at normal pressure for downwaru (opposed flow) propagation.
+246
+
+• -- ' ....
+
+3.1 Downward Flame Spread and Extinction
+Schlieren images of flames spreading in buoyant, opposed flow showed steady propagation in oxygen
+concentrations below the normal-gravity flammability limit. At each oxygen concentration (18, 16, and 15%
+oxygen) spread rates decrease with increasing acceleration, though the difference between 1/10th g and 1/6th g is
+small. Tests conducted at 14% oxygen showed flame propagation at 1/10th g, and a blowoff extinction was
+observed during the aircraft pullout maneuver to approximately 2g. Flames at higher acceleration levels and
+14% oxygen did not appear to survive the ignition transient. Fig. 5 shows a flammability map using acceleration
+level and normal-atmospheric-pressure
+oxygen concentration as parameters. The solid line gives the high-g
+blowoff boundary. The low-g extinction boundary, which cannot be determined accurately in the aircraft
+experiment, is indicated by the shaded curve. Fig. 7 shows schlieren images of the downward spreading flames
+at 15% oxygen at two reducod-gravity levels.
+3.2 Upward Flame Spread
+Schlieren images of flames spreading in buoyant, concurrent flows show propagation of flames down to normalatmospheric-pressure oxygen concentrations of 12%, in both 1/6th and 1/3rd g. A single test at 1/10th g did not
+result in a propagating flame at 12% oxygen, while another at 14% did.
+At normal atmospheric pressure, the upward spreading flames were characterized by thermal/flame plumes that
+become unsteady downstream of the flame stabilization zone. The tissue-paper fuel tended to curl, particularly
+in the normal pressure tests, disturbing the bottom of the flame. Fig. 8 a and b show two parts of an upward
+propagating flame at 15% oxygen in l/6th g as they passed by the single schlieren window. In Fig. 8a, the
+unsteady/unstable plume is shown, while in Fig. 8b, the bottom of the flame is shown stal_ilized near the lowest
+point on the fuel surface.
+Tests were conducted at reduced pressure and showed the existence of low-pressure limits. In the small number
+of tests conducted, the pressure limits were not determined with precision. At reduced pressure the flame plumes
+were more laminar and the fuel deformed more slowly during burning. Fig. 8c shows the downstream plume of
+a 15% oxygen, 0.5 atmosphere pressure flame at l/6th g. Below, in Fig. 8d, the stabilized bottom of the same
+flame is shown.
+
+4. Future Plans
+Although surface radiative loss is included in the current model and has proven to be important in low-speed
+flows, gaseous radiation has been neglected. In stagnation point flow, gas radiation is found to alter the lowspeed quenching limit for one-dimensional stationary flames. In concurrent flow gaseous radiation is likely to be
+more important because the flame is longer. Comparison with experiment also shows that without gas radiation
+the model overpredicts the flame length. The inclusion of gaseous radiation in the model is the logical next step
+and will complete our understanding of radiative effects on flame spreading over solid fuels in low speed flows.
+At the same time thermally-thick solid fuel needs to be treated in the theory (presendy, we have dealt with
+thermally-thin fuel only). The new elements that need to be added will include solid-phase heat transfer, fuel
+geometry change and an unsteady flame growth process.
+Experimentally we will also begin to test thicker fuels in low-speed flows. Because of the limitations of
+microgravity time in ground-based facilities, steady state is not expected, even were burnout possible. In order
+for the results to be useful, a controlled ignition process will be extended to thick fuels. The ignition transient
+experiments and related modeling will lead to a rational design of a space-based experiment required to obtain
+concurrent-flow flame spreading data in the very low-speed regime.
+Because of the flammability limit data we have obtained for both low-speed forced flow and buoyant flow in
+reduced gravity, we also hope to contribute to the reevaluation of flammmability test methods for spacecraft
+materials.
+247
+
+REFERENCES
+I.Ferkul,R V.:A Model of Low-Spe2xl Concurrent-Flow Flame Spread over a Thin SolidFuel,Ph.D. Thesis,
+Department
+of Mechanical
+expected October
+1992.
+
+and Aerospace
+
+2. T'ien,
+
+and Flame,
+
+J. S., Combustion
+
+3. Olson, S. L. Ferkul,
+1213-1222
+(1988).
+4. Gmyson,
+
+P. V., and T'ien,
+
+G. D.: An Experimental
+
+M.S. Thesis, Department
+Cleveland,Ohio
+(1991).
+
+Engineering,
+
+65, I, pp. 31-34
+J. S., 22nd
+
+Study
+
+of Mechanical
+
+Case Westem
+
+University,
+
+Sym. (Int.) on Combustion,
+
+and Aerospace
+
+Cleveland,
+
+Ohio,
+
+(1986).
+
+of Low-Speed
+
+5. Loh, H. T. and Fernandez-PeUo,
+A. C.: Flow
+of the First International
+Sym. on F'tre Science,
+
+Reserve
+
+Concurrent
+
+The Combustion
+
+Flow Flame
+
+Engineering,
+
+Spread
+
+Case Western
+
+Assisted Flame Spread
+Hemisphere
+(1986).
+
+over
+
+pp.
+
+over a Thin Fuel,
+
+Reserve
+
+Thermally
+
+Inst.,
+
+University,
+
+Thin Fuels,
+
+proceedings
+
+21
+20
+
+-O_O
+
+0
+
+_IDO 0
+
+•
+
+"0
+
+E
+.0
+
+0
+
+0
+
+o
+
+0
+
+I
+
+0
+
+0
+x
+
+Steady
+Flame
+Extinction
+
+o
+i.
+
+0
+
+O0
+
+0
+
+Ou
+
+.o
+2_
+
+Branch
+
+=16
+O
+
+o
+
+O
+
+O
+-'X"
+
+14
+- - _
+
+O
+
+O(:D(
+_
+
+"
+
+-"
+_Blowolf
+Branch
+
+15
+1.5
+
+2
+
+2.5
+
+5
+
+4
+
+5
+
+6
+
+7
+
+8
+
+I00
+Free
+
+Fig.
+
+1
+
+Extinction
+
+1.5
+
+2
+
+I 01
+
+Boundary
+
+Slream
+
+of
+
+Velocity
+
+a Thin
+
+248
+
+(cm/s)
+
+Solid
+
+Fuel
+
+in Concurrent
+
+Flow
+
+0
+
+2
+
+6
+
+2
+
+3
+
+4
+
+2
+
+1
+
+Relative
+
+10
+Relative
+
+Veloci(y
+
+2
+
+Maximum
+
+4
+
+10
+
+Velocity
+
+(cm/s)
+
+(cm/s)
+3
+
+Fig.
+FiE.
+
+3
+
+Flame
+
+Flame
+
+Spread
+
+Rate
+
+Temperature
+
+17
+2+7cm/,
++)'0
+
+,
+
+-1
+
+0
+
+I
+
+4
+
+16
+
+.5 cm/$
+0
+C
+g)
+L)
+k-
+
+-I
+
+_15
+
+9
+
+4
+
+n
+
+C
+I 0 cm/,
+>,
+X
+
+0
+7
+
+_0
+-1
+
+T
+
+[
+
+;
+9
+
+4
+
+....
+
+14
+
+14
+
+15,5 ,'m/=
+I x Extinction Flame
+O Steady
+
+l
+
+L
+
+-1
+
+4
+
+g
+
+..t
+
+13
+
+14
+
+x (cm)
+
+0.(
+
+I
+
+0.2
+
+I
+
+0.4
+
+I
+
+I
+
+0.6
+
+0.8
+
+1.0
+
+g
+FiE.
+
+4
+
+Reactivity
+
+Contours
+
+from
+QuenchinE
+to
+(Outermost
+contour
+a
+
+factor
+
+oflOseparates
+
+at
+
+15%
+
+OxyEen
+
+Blowoff
+is 10-6g/cm3/s;
+
+Fig.
+
+5
+
+Extinction
+Kimwipe
+Flows
+
+contours)
+249
+
+Boundary
+in
+
+Buoyant
+
+(earth:
+
+g
+
+for
+Opposed
+
+=
+
+i)
+
+15%
+
+18%
+
+25%
+
+1/i0th
+Fig. 7 Downward
+
+g
+
+1/6th g
+
+Spreading
+
+in 15% Oxygen,
+
+1 Atm
+
+Fig. 6 Flame Shapes at 5cm/sec
+Relative Concurrent
+Flow
+
+(c)
+
+(d)
+
+Fig. 8 Upward
+
+Spreading
+
+in 15% Oxygen,
+
+1 atm (a,b), 0.5 atm
+
+(c,d)
+
+250
+See Golor
+
+Plate F-3
+

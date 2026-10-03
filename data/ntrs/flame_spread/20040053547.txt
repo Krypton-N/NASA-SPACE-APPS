@@ -1,0 +1,204 @@
+COMPUTATIONAL AND EXPERIMENTAL STUDIES OF THREEDIMENSIONAL FLAME SPREAD OVER LIQUID FUEL POOLS
+Jinsheng Cai, Feng Liu, William A. Sirignano
+University of California, Irvine, CA 92697-3975
+Fletcher J. Miller
+National Center for Microgravity Research, MS 110-3, Cleveland, OH 44135-3191
+INTRODUCTION
+Schiller, Ross, and Sirignano (1996) studied ignition and flame spread above liquid fuels
+initially below the flashpoint temperature by using a two-dimensional computational fluid
+dynamics code that solves the coupled equations of both the gas and the liquid phases. Pulsating
+flame spread was attributed to the establishment of a gas-phase recirculation cell that forms just
+ahead of the flame leading edge because of the opposing effect of buoyancy-driven flow in the
+gas phase and the thermocapillary-driven flow in the liquid phase. Schiller and Sirignano (1996)
+extended the same study to include flame spread with forced opposed flow in the gas phase. A
+transitional flow velocity was found above which an originally uniform spreading flame pulsates.
+The same type of gas-phase recirculation cell caused by the combination of forced opposed flow,
+buoyancy-driven flow, and thermocapillary-driven concurrent flow was responsible for the
+pulsating flame spread. Ross and Miller (1998) and Miller and Ross (1998) performed
+experimental work that corroborates the computational findings of Schiller, Ross, and Sirignano
+(1996) and Schiller and Sirignano (1996).
+Cai, Liu, and Sirignano (2002) developed a more comprehensive three-dimensional model
+and computer code for the flame spread problem. Many improvements in modeling and
+numerical algorithms were incorporated in the three-dimensional model. Pools of finite width
+and length were studied in air channels of prescribed height and width. Significant threedimensional effects around and along the pool edge were observed. The same three-dimensional
+code is used to study the detailed effects of pool depth, pool width, opposed air flow velocity,
+and different levels of air oxygen concentration (Cai, Liu, and Sirignano, 2003). Significant
+three-dimensional effects showing an unsteady wavy flame front for cases of wide pool width are
+found for the first time in computation, after being noted previously by experimental observers
+(Ross and Miller, 1999). Regions of uniform and pulsating flame spread are mapped for the flow
+conditions of pool depth, opposed flow velocity, initial pool temperature, and air oxygen
+concentration under both normal and microgravity conditions. Details can be found in Cai et al.
+(2002, 2003). Experimental results recently performed at NASA Glenn of flame spread across a
+wide, shallow pool as a function of liquid temperature are also presented here.
+COMPUTATIONAL RESULTS
+Pulsating Spread without Opposed Flow: A recent three-dimensional experimental study by
+Konishi, Tashtoush, Ito, Narumu, and Saito (2000) presented transient three-dimensional
+structures of velocity and temperature created by a pulsating flame spread over n-propanol.
+Computations at similar conditions have been performed in this study under both normal and
+
+NASA/CP—2003-212376/REV1
+
+81
+
+zero-gravity. Fig. 1 shows the history of flame position vs. time for different initial pool
+temperatures at normal and micro gravity levels.
+
+Fig. 1 History of computed flame position vs. time.
+The symbol x marks extinction
+
+Fig. 2 Velocity vectors and temperature contours at
+Instant A (side view at center of pool).
+
+Under normal gravity, the flame pulsates at initial pool temperatures of 15 °C or below. The
+flame spreads faster and the pulsation amplitude decreases while its frequency increases as the
+initial pool temperature increases. When the initial pool temperature is at 17 °C, the flame
+essentially propagates at a uniform speed. Under microgravity the flames appear to always
+propagate at a steady speed without an opposed flow. However, the flames propagate some short
+distances before they extinguish at later times when the initial pool temperatures are low. When
+the initial pool temperature reaches 17 °C, the flame spreads at a uniform speed much in the
+same way as under normal gravity. The temperature and velocity field are examined for the case
+at 11 °C initial pool temperature under normal gravity at four instants marked as A, B, C, D in
+Fig. 1. These four instants roughly correspond to the fuel vapor accumulation (Instants A and B),
+flame jumping (Instant C), and onset of pulsation (Instant D) steps discussed in Konishi et al.
+(2002), respectively. Fig. 2 shows the side view of velocity vectors and temperature contours at
+the center of the pool (z=0) at Instant A. The almost stationary flame at this instant heats the
+liquid surface causing significant convective motion of the liquid and the gas due to surface
+tension. On the other hand, buoyancy draws air towards the flame causing a recirculating zone in
+the air that can be clearly seen in Fig. 2 (note L = 30 cm). Surface tension pulls the liquid on both
+sides near the maximum temperature point below the flame. Continuity of mass in the liquid then
+results in a pair of vortices centered around the maximum temperature point. The details of the
+flow and the flame at other instants are presented in Cai et al. (2003). The computed flow
+patterns agree well with those observed in the experimental data in Ross and Miller (1996) and
+Konishi et al. (2002). However, the computed temperature profile above the liquid surface does
+not indicate the necessity of a pronounced temperature valley in front of the flame for pulsating
+flame spread as suggested by Konishi et al. (2002). See details in Cai et al (2003).
+Influence of Opposed Flow and Other Parameters: A large number of computations have been
+performed to determine the influences of pool depth, pool width, air oxygen concentration, and
+opposed flow velocity. Temperature regions of uniform and pulsating flame spread have been
+determined by varying those different parameters under both normal and zero gravity. Results are
+presented in Cai et al. (2003).
+Wavy Flame Structures for Wider Pools: Cai et al. (2002) studied the detailed flame structure for
+the 2 cm width pool case and reported significant three-dimensional edge effects as the flame
+front turns around the corners at the side edge of the pool and trails behind. As the pool width is
+
+NASA/CP—2003-212376/REV1
+
+82
+
+increased, the flame front becomes largely a wavy form as can be seen by looking at the contours
+of the fuel consumption rates at three consecutive time instants for a 6 cm wide pool at 1-g
+condition shown in Fig. 3. The amplitude of the wavy flame front and the wavelength are large at
+the low initial fuel temperature end. As the temperature increases, both the amplitude and
+wavelength decreases and the flame also propagates faster. As
+the temperature increases to 18 °C, the flame front becomes completely straight and the flame
+propagates uniformly. There is a strong
+correlation between the wavy form of the
+flame front and the pulsation of the flame
+spread. The wavy flame front only
+appears in pulsating spread cases. Similar
+behavior occurs under microgravity. Two
+movie clips for the normal and
+microgravity conditions, respectively, are
+created
+and
+can
+be
+seen
+at
+http://fliu.eng.uci.edu/Flames/.
+EXPERIMENTAL TESTS
+In most of our previous experiments,
+the narrow pool width of 20 mm
+restrained the full development of 3-D
+effects such as flame wrinkling or
+corrugation at the leading edge.
+Additionally, our apparatus did not
+permit testing with an opposed air flow
+and a variable pool temperature; either Fig. 3 Contours of fuel consumption rate 1mm above the fuel
+the pool temperature could be varied in at different time instants for a 6 cm wide pool under 1g.
+quiescent conditions, or the air flow rate
+could be varied at room temperature. To provide a wider range of data against which to test the
+numerical model, we undertook further 1g tests as described below. The apparatus was in most
+respects the same as that described in Ross and Miller (1996), except that the bottom of the flow
+tunnel was replaced with a new tray insert. This new bottom held a fuel tray 300 mm long x 78
+mm wide x 2 mm deep. The flow duct itself remained at 340 mm x 100 mm x 70 mm, with
+honeycombs and screens at each end to produce an even, laminar flow. The new fuel tray could
+be temperature controlled via water-cooling channels, and the duct fan could be adjusted to give
+varying opposed flow velocities to the flame spread. For all the cases reported here, the opposed
+flow velocity was 45 cm/s, and the fuel was n-propanol.
+Figure 4 gives a representative graph of flame position along the tray centerline vs. time as
+obtained by tracking the flame leading edge (note the time scale starts when the flame first
+became visible beyond the igniter glow, and the starting position is set to zero). As can be seen,
+the flame fronts exhibit pulsations as has been well established for n-propanol at these
+temperatures. Tracking was also performed for the flame front 1.5 cm and 3 cm on one side of
+the centerline. Generally, all three flame locations tracked very well together, indicating that the
+
+NASA/CP—2003-212376/REV1
+
+83
+
+flame, despite being corrugated, moved as a single unit. A sample flame image is given in Fig. 5
+to show the non-uniform leading edge.
+14
+
+8.0 ¼C
+11.8 ¼C
+12.9 ¼C
+14.0 ¼C
+15.4 ¼C
+18.1 ¼C
+20.9 ¼C
+
+12
+10
+8
+6
+4
+2
+0
+0
+
+1
+
+2
+
+3
+
+Time (s)
+
+Fig.4. Centerline flame position vs. time for n-propanol
+pool at 11.8 C.
+
+Fig. 5. The upper portion of the image shows a side
+view of the flame, while the lower portion shows a top
+view. Note the nonuniform flame front.
+
+From the data like that shown in Figure 4, the pulsation frequency can be obtained as a
+function of temperature. Interestingly, over quite a wide temperature range (8-20 °C), the
+frequency was found to be 4-5 Hz, and to depend only slightly on the pool temperature. Results
+presented in Cai et al. (2002 and 2003) indicate qualitatively the same behavior of temperature
+independence when there is an opposed flow velocity and the temperature is above a certain
+level. This extends the limited temperature range studied in Miller and Ross (1992) where a
+similar result was reported and the frequency was found to be mainly a function of the pool
+depth. Although the transition to pulsating spread is very sensitive to pool temperature, once the
+transition has occurred it apparently is quite robust and seems to be driven more by pool
+geometry than by the flame (whose speed decreased markedly as the temperature is lowered).
+This research was conducted in support of the SAL project and the NASA Grant No. NAG32024 under the technical monitoring of Dr. Howard D. Ross. Mr. Thomas Juliano as a Summer
+Student Intern at NASA Glenn performed the experiments.
+REFERENCES
+Cai, J., Liu, F., and Sirignano, W.A. (2003) “Three-dimensional structures of flames over liquid fuel
+pools,” submitted to Combustion Science and Technology.
+Cai, J., Liu, F., and Sirignano, W.A. (2002), Combustion Science and Technology, 174 (5-6):5-34.
+Konishi, T., Tashtoush, G., Ito, A., Narumi, A. and Saito, K. (2002), Proc. Comb. Inst., 28, pp. 2819-2826.
+Miller, F.J. and Ross, H.D. (1998), Proc. Comb. Inst., 27, pp. 2715--2722.
+Miller, F. J. and Ross, H. D. (1992), Proc. Comb. Inst., 24, pp. 1703-1711
+Ross H.D. and Miller F. J. (1996), Proc. Comb. Inst., 26, 1327-1334
+Ross, H.D. and Miller, F.J. (1998), Proc. Comb. Inst., 27, pp. 2723--2729.
+Ross, H. D. and Miller, F. J., (1999), Sixth International Symposium on Fire Safety Science, pp. 77-94
+Schiller, D.N., Ross, H.D., and Sirignano, W.A. (1996), Proc. Comb. Sci. and Tech., 118 (4-6):205--258.
+Schiller, D.N. and Sirignano, W.A. (1996), Proc. Comb. Inst., 26, pp. 1319--1325.
+
+NASA/CP—2003-212376/REV1
+
+84
+

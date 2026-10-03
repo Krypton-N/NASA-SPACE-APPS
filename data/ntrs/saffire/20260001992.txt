@@ -1,0 +1,942 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="pdf:PDFVersion" content="1.6">
+<meta name="xmp:CreatorTool" content="Acrobat PDFMaker 24 for Word">
+<meta name="pdf:hasXFA" content="false">
+<meta name="access_permission:modify_annotations" content="true">
+<meta name="access_permission:can_print_degraded" content="true">
+<meta name="dc:creator" content="Urban, David L. (GRC-LTX0)">
+<meta name="dcterms:created" content="2026-05-04T21:30:46Z">
+<meta name="dcterms:modified" content="2026-05-04T21:32:48Z">
+<meta name="dc:format" content="application/pdf; version=1.6">
+<meta name="xmpMM:DocumentID" content="uuid:4b5bc36a-0620-4d2e-b3ae-9d1b20179296">
+<meta name="pdf:docinfo:creator_tool" content="Acrobat PDFMaker 24 for Word">
+<meta name="access_permission:fill_in_form" content="true">
+<meta name="pdf:docinfo:modified" content="2026-05-04T21:32:48Z">
+<meta name="pdf:hasCollection" content="false">
+<meta name="pdf:encrypted" content="false">
+<meta name="xmp:CreateDate" content="2026-05-04T17:30:46Z">
+<meta name="pdf:docinfo:custom:SourceModified" content="D:20260504213025">
+<meta name="pdf:hasMarkedContent" content="true">
+<meta name="Content-Type-Override" content="application/pdf">
+<meta name="Content-Type" content="application/pdf">
+<meta name="xmp:ModifyDate" content="2026-05-04T17:32:48Z">
+<meta name="pdf:docinfo:creator" content="Urban, David L. (GRC-LTX0)">
+<meta name="xmp:MetadataDate" content="2026-05-04T17:32:48Z">
+<meta name="dc:language" content="EN-US">
+<meta name="pdf:producer" content="Adobe PDF Library 24.1.157">
+<meta name="access_permission:extract_for_accessibility" content="true">
+<meta name="access_permission:assemble_document" content="true">
+<meta name="xmpTPg:NPages" content="10">
+<meta name="pdf:hasXMP" content="true">
+<meta name="access_permission:extract_content" content="true">
+<meta name="access_permission:can_print" content="true">
+<meta name="SourceModified" content="D:20260504213025">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.DefaultParser">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.pdf.PDFParser">
+<meta name="access_permission:can_modify" content="true">
+<meta name="pdf:docinfo:producer" content="Adobe PDF Library 24.1.157">
+<meta name="pdf:docinfo:created" content="2026-05-04T21:30:46Z">
+<title></title>
+</head>
+<body><div class="page"><p></p>
+<p>55th International Conference on Environmental Systems ICES-2026-577 
+12-16 July 2026, Rio Grande, Puerto Rico 
+ 
+</p>
+<p>Heat and Smoke Emission from Tests on the SAFFIRE IV-
+VI Experiments 
+</p>
+<p> 
+David L. Urban1, Gary A. Ruff2, Paul Ferkul3, John Easton4, Jay Owens5, Sandra Olson6, Claire Fortenberry7 
+</p>
+<p>NASA Glenn Research Center, Cleveland, OH, USA 
+</p>
+<p>John Graf8, Oageng George 9         Balazs Toth10   
+NASA Johnson Space Center, Houston, TX, USA     ESTEC, Noordwijk, Netherlands 
+</p>
+<p>Florian Meyer11, Christian Eigenbrod12      James S. T’ien13, Ya-Ting T. Liao14 
+University of Bremen (ZARM), Bremen, Germany   Case Western Reserve University, Cleveland, OH, USA 
+</p>
+<p>A. Carlos Fernandez-Pello15         Guillaume Legros16   
+UC Berkeley, Berkeley, CA, USA    Sorbonne Université &amp; CNES, Paris F-75005, France 
+</p>
+<p>Augustin Guibaud17           Nickolay Smirnov18  
+NYU, New York City, NY, USA    Moscow State University, Russian Federation   
+</p>
+<p>                              Osamu Fujita19    and          Ulises Rojas Alva20, Grunde Jomaas21 
+             Hokkaido University, Sapporo, Japan     FRISSBE, ZAG, Ljubljana, Slovenia 
+</p>
+<p>The hazardous product release results from seven long-duration low-gravity fire tests are 
+presented. These tests were conducted in low-earth orbit aboard a Cygnus spacecraft where 
+the atmosphere pressure and oxygen concentration were varied to examine the effect of 
+exploration atmosphere conditions. All of the samples were 40 cm wide. Four samples were 
+PMMA and were 18 cm long. Two of these samples burned on both sides and the other two 
+sample were attached to a plate that prevented fire on one side. The other three samples were 
+cotton or a composite cotton/fiberglass blend that were 50 cm long. The cabin concentration 
+of CO and CO2 were measured continuously in addition to the aerosol concentration. The 
+aerosol concentration was determined using a light scattering device. The heat release from 
+some of the tests was estimated using oxygen consumption calorimetry by measuring the 
+</p>
+<p> 
+1 Branch Chief, Low gravity Exploration Technology (LTX), MS 77-5, 21000 Brookpark Rd, Cleveland, OH, USA. 
+2 Saffire Project Manager, Exploration Systems Office,21000 Brookpark Road, Cleveland, OH, USA. 
+3 Staff Scientist, Universities Space Research Assoc. (USRA), 21000 Brookpark Road, Cleveland, OH, USA. 
+4 Staff Scientist, Case Western Reserve University (CWRU) MS 110-3, 21000 Brookpark Road, Cleveland, OH, USA. 
+5 Engineer, USRA, MS 77-5, 21000 Brookpark Road, Cleveland, OH, USA. 
+6 Aerospace Engineer, LTX, MS 77-5, 21000 Brookpark Road, Cleveland, OH, USA. 
+7 Aerospace Engineer, LTX, MS 77-5, 21000 Brookpark Road, Cleveland, OH, USA. 
+8 Aerospace Engineer, Life Support Systems Branch, MS-EC3, 2101 E NASA Pkwy, Houston, TX, USA. 
+9 Jacobs Engineering, Project Engineer, ECLSS, JE4EA, 2224 Bay Area Boulevard, Houston, TX 77058. 
+10 Payload System Engineer, ESA/ESTEC, Keplerlaan, 2201 Noordwijk, The Netherlands. 
+11 Senior Researcher, ZARM, University of Bremen, Am Fallturm 2, 28359 Bremen, Germany. 
+12 Researcher, ZARM Univ. of Bremen, Am Fallturm, 28359 Bremen, Germany. 
+13 Professor Emeritus, Dept. Mech. and Aero. Engineering, CWRU, Cleveland, OH, USA. 
+14 Associate Professor, Dept. Mech. and Aero. Engineering, CWRU, Cleveland, OH, USA. 
+15 Professor, Dept. Mech. Engineering, Univ. of California at Berkeley, Berkeley, CA, USA. 
+16 Professor, Sorbonne Université &amp; CNES, Paris F-75005, France. 
+17 Assistant Professor, Department of MAE, NYU Tandon School of Engineering, NYC, NY, USA 
+18 Professor, Mechanics and Mathematics, Moscow M.V. Lomonosov State University, Moscow 119899, Russia 
+19 Professor, Hokkaido University, Sapporo, Japan 
+20 Senior Researcher, FRISSBE, ZAG, Ljubljana, Slovenia 
+21 FRISSBE ERA Chair holder, FRISSBE, ZAG, Ljubljana, Slovenia </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>2 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>oxygen consumption and the production of CO and CO2. These data were correlated with 
+distributed temperature measurements in the spacecraft and the pressure rise. Overall, the 
+pressure rise and temperature change were small but the smoke particulate rose to substantial 
+levels and the gaseous products also achieved hazardous levels.  
+</p>
+<p>Acronyms and Nomenclature 
+FFD = Far Field Diagnostics 
+HRR = Heat Release Rate  
+PMMA  = polymethyl methacrylate 
+SAFFIRE  = Spacecraft Fire Safety Demonstration Project 
+SFU = SAFFIRE Flow Unit 
+SIBAL =  Solid Inflammation Boundary at Low Speed 
+SMAC = Spacecraft Maximum Allowed Concentration     
+</p>
+<p>I. Introduction 
+EVELOPMENT of systems and processes to ensure spacecraft fire safety requires an understanding of the 
+behavior of fires in low-gravity and their impact on the habitability of the spacecraft. Prior to the SAFFIRE 
+</p>
+<p>(Spacecraft Fire Safety Demonstration Project) experiment series, no tests of practical scale fires had been conducted 
+in low gravity. The SAFFIRE series began in 2017 with SAFFIRE I through III occurring between 2017 and 2019 [1] 
+[2]. This series focused primarily on observation of flame spread and growth for large samples of thin materials in 
+flights I and III and a series of smaller samples for flight II [3]. The impact on the spacecraft was deliberately 
+minimized. Subsequently, flights IV-VI studied large, thick, samples that were allowed to burn for longer durations, 
+releasing heat and smoke into the spacecraft cabin. To evaluate the impact of the smoke and heat, a remote diagnostics 
+and filtration system, referred to as the Far Field Diagnostics (FFD) was positioned at the other end of the spacecraft 
+and 6 sensors were distributed across the open volume. Through these tests, it was possible to observe the growth rate 
+of fires on large thick samples and to assess the impact of these fires on the spacecraft. The tests revealed important 
+features of flame spread and growth on both thick [4] [5] and thin [6] materials. These results included delayed 
+extinguishment and reignition of both thick and thin materials [6]; further evidence of the effect of the duct size on 
+spread rate of thin materials; [6] the strong effect of surface structures (ribs) when aligned with the flow direction; [4] 
+and concurrent flame spread on thick materials is suppressed at low flow rates due to the “oxygen shadow.” [6] 
+</p>
+<p>Understanding the impact of the fire on the spacecraft habitability was a major objective of SAFFIRE IV-VI. The 
+aerosol and gaseous species levels were measured for SAFFIRE IV-V [7] and their transport in the spacecraft was 
+effectively modeled [8]. However, the fire heat release rate (HRR) was not successfully determined for SAFFIRE IV 
+and V, so it was difficult to correlate the products with the fire size. For SAFFIRE VI, the HRR was successfully 
+measured and preliminary analysis showed that, like terrestrial fires, the smoke products can be more hazardous than 
+the heat produced by the fire [9]. This paper extends earlier analysis by considering the time to alarm for a smoke 
+detector and the state of the spacecraft habitability when the alarm is triggered. The primary hazardous products from 
+fires are heat, smoke, HCN, CO and CO2. NASA requirements limit CO exposure in the Spacecraft Maximum 
+Allowable Concentrations (SMAC) document [10]. For CO the 1-hour SMAC is 425 ppm, and the 24-hour SMAC is 
+100 ppm. For CO2, which is a metabolic product that is prevalent in crewed spacecraft, NASA-STD-3001 [11] 
+establishes the  limit based on the partial pressure to no more than 3 mm Hg for a 1-hour average. Planning fire 
+response depends on understanding which are the most important hazards. This paper seeks to address that question 
+by examining the CO and CO2 concentration changes caused by the fire events compared to NASA exposure standards 
+at the time of  alarm. These results demonstrate the importance of the hazard from fire smoke projects compared to 
+the heat and pressure rise. 
+</p>
+<p>II. Experimental Hardware and Operations 
+The SAFFIRE flight hardware was installed in the Cygnus spacecraft before launch but was not supplied power 
+</p>
+<p>until after the Cygnus had departed the International Space Station (ISS). As shown in Figure 1, the SAFFIRE Flow 
+Unit (SFU) was located at the end cone (nadir). The FFD was installed at a middeck locker accommodation area near 
+the hatch(zenith). The 6 remote sensors which measured CO2 and temperature were located with one in each standoff 
+and one in the end cone (nadir) and one by the hatch (zenith).The vehicle was launched full of cargo which was 
+removed by the ISS crew and replaced with material for disposal. Since the free volume in this configuration was 
+</p>
+<p>D </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>3 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>unknown, the first test sequence on each flight involved the release of a known quantity of CO2. By measuring the 
+pressure change and tracking the concentration on the remote sensors, the free volume of the spacecraft could be 
+determined. A schematic of the SFU is presented in Figure 2. The flow was driven by a fan at the inlet controlled by 
+the output of a rotary anemometer. In this manner the flow velocity at the entrance of the duct was held constant 
+throughout the test. The CO2, CO, and O2 concentrations were measured in the inlet and outlet ducts. Flow 
+straighteners at each end of the 30 cm high, 45 cm wide and 109 cm long duct assured flat, straight, flow profiles. The 
+flow uniformity was verified by smoke traces produced by rosin beads on a heated wire at the beginning and the end 
+of the test sequence.  
+</p>
+<p>  
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>                        
+Figure 1. Depiction of the Cygnus spacecraft with SAFFIRE installed. The SAFFIRE Flow Unit (A) and 
+the Far Field Diagnostics (B) are depicted in the vehicle. On the left, there is no cargo installed, and the right 
+has a representation of the descent configuration with the spacecraft loaded with trash. The green dots on the 
+left are the zenith and nadir remote sensors, and the red dots are the remote sensors in the standoffs (the 
+triangular spaces running the length of the spacecraft at the ends of each row of cargo bags). 
+</p>
+<p>A
+</p>
+<p>B
+</p>
+<p>Nadir/End Cone
+</p>
+<p>Hatch/Zenith
+</p>
+<p> 
+Figure 2. Schematic of SAFFIRE Flow Unit (SFU). Flow enters at the bottom right and is distributed by a 
+plenum on the left before it enters the test section. At the outlet of the test section, (on the right) it enters the outlet 
+duct where gas species measurements are taken that are compared to the inlet.  
+</p>
+<p>Fan
+</p>
+<p>Inlet
+</p>
+<p>Outlet
+</p>
+<p>Cameras (4)
+</p>
+<p>In Situ Temperature (6)
+</p>
+<p>Temperature
+</p>
+<p>Temperature
+</p>
+<p>O2 Injection Humidity 
+SensorCO CO2 O2
+</p>
+<p>Rotary 
+Anemometer
+</p>
+<p>CO CO2 O2
+</p>
+<p>CO2 &amp; 
+Acid Gas 
+InjectionTemperature
+</p>
+<p>Radiometers (4)</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>4 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>On each flight, the samples were installed on a single flat frame (Fig. 3) and were ignited individually in separate 
+tests. The flames were imaged by 4 video cameras position to observe the top and edge of the samples. The back side 
+was not imaged. During the burn sequence, the sample surface was briefly illuminated every 2 seconds for 
+approximately 0.1 s by green LEDs. This enabled determination of the length of the pyrolysis zone. The parameters 
+for each test were preprogramed but each test was triggered by ground command to assure continuous telemetry and 
+free drift (not thruster firings) of the spacecraft. Once all of the tests were completed, the data download process began. 
+Due to bandwidth limitations, the video data was compressed and only a reduced number of uncompressed images 
+were downlinked. The spacecraft was initially at the pressure and oxygen concentration of the ISS but on each flight 
+the Cygnus controllers vented the spacecraft to a predetermined pressure and the SFU released oxygen to bring the 
+spacecraft to a targeted level.  
+</p>
+<p>The FFD (Fig. 4) contained a series of gas sensors as described in more detail by Fortenberry et al. [7]. These 
+included gas sensors to measure CO, CO2, and O2; an ionization sensor from a commercial smoke detector; and a TSI 
+DustTrak DRX 8533 which uses light scattering to measure aerosol mass concentration. The location of the FFD was 
+near the inlet of the Cygnus air circulation system so the FFD provided a good assessment of the habitability of the 
+spacecraft, and it could be used to assess when a smoke detector would trigger as the air circulation system sweeps 
+the air toward the intake. This is similar to the ISS where the smoke detectors are in front of air intakes [12]. 
+</p>
+<p>The flames were tracked from the camera images using a thresholding analysis and using the average flame 
+position over the central third of the flame (neglecting the edge effects). The images were adjusted for the automatic 
+gain of the camera and averaged over 2 second intervals to reduce noise. In general, the trailing edge was very bright 
+(soot) while the leading edge could be dim blue. The flame length was the difference between the average positions 
+of the leading and trailing edges.  
+</p>
+<p> 
+Figure 3: Sample Layouts for SAFFIRE IV-VI. Front view of the sample cards for each flight.  The 1-sided 
+PMMA samples were 0.5 cm thick, and the 2-sided samples were 1.0 cm thick.  All samples were 40 cm wide. 
+Test numbers account for other test sequences that did not include sample burning. 
+</p>
+<p>SIBAL Fabric
+</p>
+<p>Test 5
+</p>
+<p>Air and Normoxic 
+O2 with forced 
+</p>
+<p>flow
+SAFFIRE IV
+</p>
+<p>Test 4
+</p>
+<p>Test 8
+</p>
+<p>2-sided PMMA 
+</p>
+<p>1-sided PMMA
+</p>
+<p>Nomex Fabric
+Test 7
+</p>
+<p>Cotton 
+Fabric
+</p>
+<p>Test 6
+</p>
+<p>Normoxic O2 with 
+forced flow
+SAFFIRE V
+</p>
+<p>Test 5
+</p>
+<p>Test 4
+</p>
+<p>1-sided PMMA
+</p>
+<p>Structured PMMA
+Test 8
+</p>
+<p>SIBAL Fabric
+</p>
+<p>Test 6
+</p>
+<p>Air and Normoxic 
+O2 with forced 
+</p>
+<p>flow
+SAFFIRE VI
+</p>
+<p>Test 5
+</p>
+<p>Test 8
+</p>
+<p>2-sided PMMA 
+</p>
+<p>1-sided PMMA
+</p>
+<p>Nomex FabricTest 4</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>5 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>III. Results and Fire Impact on Habitability 
+During SAFFIRE IV-VI, there were 4 flat PMMA samples successfully burned and three thin cotton-based 
+</p>
+<p>samples (cotton t-shirt material and SIBAL fabric) [2]. The structured PMMA tests on SAFFIRE V are discussed in 
+detail by Eigenbrod et al. [4]. The 1-sided PMMA sample for SAFFIRE IV shown in Figure 3 was not ignited due to 
+excessive burning of the 2-sided sample [6]. The operational conditions for these tests along with summary results are 
+presented in Table 1. The flame length of the PMMA samples versus time are shown in Figure 5. Since the ignition 
+time for the one-sided samples was 120 seconds (twice the 2-sided samples) the time axis is referenced to when the 
+ignitor was turned off. This adjustment was only done for this figure. The other figures reference to the experiment’s 
+timeline start which is approximately 10 minutes before ignition.  
+</p>
+<p>Unlike 1-g upward burning of thick materials such as PMMA, the flames did not spread but remained anchored at 
+the leading edge and only spread as the material regressed. The PMMA samples all showed intervals of very linear 
+flame growth for periods of several minutes. The slopes were generally similar ranging from 0.22 to 0.38 mm/s. This 
+is significantly faster than the observations of the SAFFIRE II, 5 cm wide sample, [5] where the flame grew at less 
+than 0.1 mm/s in air. The 2-sided samples are still growing at the end of the test (around 500 seconds) while the 1-
+sided samples begin to plateau around 380 s for SAFFIRE V and 420 s for SAFFIRE VI. It is unknown if the 2-sided 
+samples would eventually plateau, longer experiments would be helpful. A plausible explanation for the earlier plateau 
+for the 1-sided samples is the enhanced heat loss through the back side versus the zero-heat loss for the 2-sided 
+samples. In the case of the SAFFIRE II samples, it is likely that heat losses at the edges of the much smaller samples 
+led to the growth limitation. The SAFFIRE thin samples all showed linear flame spread [6]. In comparison, 
+acceleratory flame growth is often seen in normal gravity for upward flame spread on thick fuels. [13] These results 
+suggest that low-gravity flame spread, and growth can be expected to be linear or less and may reach a limiting size.  
+</p>
+<p>Heat loss through the back side of a material is relevant in spacecraft applications, where isolated plates burning 
+on both sides are uncommon. The 1-sided configuration simulates a panel or box cover with limited mass behind it. 
+In the test configuration, the back side consisted of a 0.1 mm thick mica sheet (thermal diffusivity ~0.6 mm²/s) 
+followed by a 0.8 mm thick aluminum card (thermal diffusivity ~97 mm²/s). Despite the large difference in diffusivity, 
+the thinness of the mica layer and the high thermal conductivity of the aluminum mean that these back-side materials 
+add less than 1% to the total thermal resistance of the assembly. However, the high diffusivity of aluminum will 
+distribute heat laterally across the back side once the thermal wave has penetrated through the material.  
+</p>
+<p>The characteristic thermal penetration time for each layer can be estimated as τ = L²/α, where L is the thickness 
+and α is the thermal diffusivity. This gives approximately 220 s for the 5 mm PMMA plate (α = 0.11 mm²/s), ~0.017 
+s for the 0.1 mm mica sheet, and ~0.007 s for the 0.8 mm aluminum card. The combined characteristic time for the 
+full assembly is therefore dominated by the PMMA layer at approximately 220 s, meaning the back-side materials do 
+not meaningfully alter the thermal penetration timescale. For times greater than ~200 s, the thermal wave can be 
+expected to have penetrated the full assembly thickness. The SAFFIRE VI flame growth rate results in Table 1 confirm 
+that back-side heat loss had a significant effect on the growth rate. Since testing all possible configurations is 
+</p>
+<p> 
+Figure 4. Schematic of the Far Field Diagnostics(FFD). Cabin air enters from the right, and the concentration 
+of gaseous species and smoke aerosol are measured by multiple sensors.  The air is directed toward the outlet by 
+one of 3 paths: direct bypass, through a smoke eater or through a CO2 scrubber. While the sample was burning, 
+the air followed the bypass route. After the sample was extinguished, the smoke eater ran after all tests while the 
+CO2 scrubber was only operated before SAFFIRE operations and after one test due to its limited capacity. 
+</p>
+<p>INLET
+</p>
+<p>FAN
+</p>
+<p>OUTLET
+CO
+</p>
+<p>ION
+</p>
+<p>TEMP
+</p>
+<p>CPM
+</p>
+<p>TEMP
+</p>
+<p>ΔP
+</p>
+<p>CO2
+</p>
+<p>O2
+</p>
+<p>AVIONICS
+</p>
+<p>DUSTTRAK DRX
+</p>
+<p>CO
+</p>
+<p>ION
+</p>
+<p>S
+</p>
+<p>CO2
+SCRUBBER
+</p>
+<p>SMOKE 
+EATER
+</p>
+<p>BYPASS
+</p>
+<p>ACT2
+</p>
+<p>ACT1
+</p>
+<p>RHHF/HCl
+</p>
+<p>ACT3</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>6 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>impractical, 2-sided burn results can be used as a conservative upper-bound estimate of the growth rate for 1-sided 
+applications. 
+</p>
+<p> 
+This linear growth rate is an important finding as it suggests that even in high oxygen conditions, low-gravity 
+</p>
+<p>flame spread and growth will not be acceleratory. Figure 6 shows very close agreement, in the later portion of the test, 
+between the flame length and the radiometer signal for the 2-sided PMMA sample in SAFFIRE VI-3. Flame tracking 
+was halted when the flow was reduced to 5 cm/s at 480 s, as the flame had weakened dramatically. The primary 
+purpose of this low-flow interval was to cool the sample material and ensure extinguishment upon flow termination, 
+thereby avoiding the issues seen in SAFFIRE IV-2 [6]. Rather than dropping immediately, the radiometer 
+measurements continued to rise steadily for an additional 50s. This behavior can be attributed to two simultaneous 
+effects: the thermal expansion of the weakened flame at reduced flow, which shortened the distance between the flame 
+front and the radiometers, and the accumulation of hot combustion products within the chamber resulting from the 
+lower flow rate.  
+</p>
+<p>Combined with the absence of spread discussed above, flame growth on thick materials in low-gravity is very 
+different from normal-gravity. The growth rate trends for the 2-sided samples show a 73% increase in the spread rate 
+from an oxygen concentration increase of 0.08 mol fraction despite the overall pressure decrease of 45%. For the 1-
+sided samples growth rate was unchanged for an oxygen increase of 0.03 mol fraction with a pressure decrease of 
+27%.  
+</p>
+<p>Table 1: Sample materials and test data. 
+ All samples were 40 cm wide in 20 cm/s opposed flow. All PMMA samples  were 18 cm long. 1-sided 
+samples were 5 mm thick and 2- sided samples were 10 mm thick. All PMMA samples were preheated for 
+10 minutes at low ignitor power.  SIBAL and Cotton samples were 50 cm long. The Heat Release Rate 
+(HRR) was not successfully measured for flights IV and V. Reported gas concentrations and temperatures 
+were at the FFD. Items in red exceed allowed concentrations. 
+Flight/Sample IV-2 V-3 VI-3 VI-4 IV-1 V-2 VI-2 
+ Material PMMA PMMA PMMA PMMA SIBAL Cotton SIBAL 
+ # of sides burning 2 1 2 1 2 2 2 
+Pressure (mbar) 1000 745 544 550 980 741 541 
+ Oxygen mol fraction 0.22 0.26 0.30 0.29 0.23 0.28 0.31 
+ Free volume (m3) 17.9 19 16.7 16.7 17.9 19 16.7 
+ Ignition duration (s) 60 120 60 120 8 8 8 
+ Duration of initial flow (s) 535 480 480 900 200 200 300 
+ Flame length growth rate (mm/s) 0.22 0.26 0.38 0.27 NA NA NA 
+ Flame spread rate (mm/s) NA NA NA NA 3.6 3.4 4.05 
+ Max flame length (mm) 90.8 118 89.9 93.3 NA NA NA 
+ Peak HRR (W) NA NA 3240 1487 NA NA 3376 
+ Max CO2 increase (mm Hg)  1.78 0.78 3.66 3.39 0.97 0.81 1.46 
+ Max CO increase (ppm) 110 55.5 338 309 77.4 74.3 122 
+ Pressure increase (mbar) 1.31 0.25 0.34 0.25 0.33 0.30 0.31 
+ Max temperature increase  (°C) 0.23 0.04 0.50 0.25 0.25 0.25 0.29 
+ Time to alarm (s) [aerosol = 2 mg/m3]  1083 1117 1037 1603 92 146 201 
+ Flame length at alarm (mm) 74 114 73.95 66.9 NA NA NA 
+ HRR at alarm (W) NA NA 2500 623 NA NA 3180 
+ CO2 increase (mm Hg) at alarm 1.28 0.49 1.43 3.09 0.00 0.00 0.04 
+ CO increase (ppm) at alarm 63.2 28.1 105 283 7.9 11.9 57.1 
+ </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>7 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p> 
+In Figure 7 the smoke aerosol detected at the FFD tracks the flame length with a minor delay.  This limited delay 
+</p>
+<p>is likely due to the direct path from the SFU to the FFD. Even though they were on opposite ends of the Cygnus 
+module, the bulk of the flow went directly to the FFD without the extensive mixing seen in geometries like the ISS 
+[12]. Consequently, the detection scenario tested here is likely to be quicker than in many spacecraft. Figure 8 
+compares the HRR from the fire  with the radiometer for the same 2-sided test in SAFFIRE VI. The peak HRR hit 3 
+kW which is substantial for a small spacecraft.  However, as seen in Table 1, the temperature rise at the FFD was only 
+0.5 °C. Larger temperatures (peak of 77 °C ) were seen at the outlet of the SFU [9] but they quickly reduced due to 
+mixing and heat loss.  
+</p>
+<p> 
+Figure 5. Flame length versus time for the 4 PMMA tests. The time is adjusted to each test to start when 
+the ignitor was turned off. Plotted with each trace is the linear fit to the steady growth period. The test 
+conditions are given in Table 1. 
+</p>
+<p>S-V 1-sided
+</p>
+<p>S-IV 2 Sided
+</p>
+<p>S-VI 2-sided
+S-VI 1-sided
+</p>
+<p> 
+Figure 6. Flame length and radiometer signal for the SAFFIRE VI 2-sided sample. Flame tracking was 
+stopped  when the flow reduction began because the flame shrank substantially. 
+</p>
+<p>0
+</p>
+<p>20
+</p>
+<p>40
+</p>
+<p>60
+</p>
+<p>80
+</p>
+<p>100
+</p>
+<p>120
+</p>
+<p>140
+</p>
+<p>160
+</p>
+<p>180
+</p>
+<p>200
+</p>
+<p>0
+</p>
+<p>10
+</p>
+<p>20
+</p>
+<p>30
+</p>
+<p>40
+</p>
+<p>50
+</p>
+<p>60
+</p>
+<p>70
+</p>
+<p>80
+</p>
+<p>90
+</p>
+<p>100
+</p>
+<p>500 700 900 1100 1300 1500
+</p>
+<p>R
+ad
+</p>
+<p>io
+m
+</p>
+<p>et
+er
+</p>
+<p> P
+ow
+</p>
+<p>er
+ (m
+</p>
+<p>W
+/c
+</p>
+<p>m
+2 )
+</p>
+<p>Fl
+am
+</p>
+<p>e 
+Le
+</p>
+<p>ng
+th
+</p>
+<p> (m
+m
+</p>
+<p>)
+</p>
+<p>Time (s)
+</p>
+<p>  
+</p>
+<p>Flame Length
+Radiometer #4</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>8 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p> 
+The SAFFIRE configuration in the spacecraft had no method to remove CO and only limited capacity to remove 
+</p>
+<p>CO2. As a result, for all but the first test, there was an existing baseline level of these gases. The data are reported in 
+Table 1 as the increase in CO and CO2 for each test rather than the absolute value.  The  1-hour limit for CO2 and the 
+24-hour SMAC for CO were exceeded by the maximum increase for both PMMA tests on SAFFIRE VI. In addition, 
+the 24-hour SMAC for CO was exceeded on SAFFIRE IV for PMMA and for SIBAL on SAFFIRE VI. The high 
+levels for the SAFFIRE VI PMMA and SIBAL cases were likely due to the higher oxygen concentrations for those 
+tests. 
+</p>
+<p>Instead of the peak value, the more important measure is the concentration of hazardous products at the time the 
+fire is detected. Ideally, the fire detection threshold should be determined  such that, for the expected possible fires in 
+the spacecraft, the detection system will detect the fire in time for the crew to effectively respond to the fire. To 
+</p>
+<p> 
+Figure 7. Flame length, FFD Ionization smoke detector signal and the total particulate matter  (PM total) 
+measured by the DustTrak DRX for the SAFFIRE VI 2-sided sample.  The ionization chamber voltage 
+decreases as aerosol concentration increases. 
+</p>
+<p>0
+</p>
+<p>1
+</p>
+<p>2
+</p>
+<p>3
+</p>
+<p>4
+</p>
+<p>5
+</p>
+<p>6
+</p>
+<p>7
+</p>
+<p>0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+</p>
+<p>100
+</p>
+<p>500 700 900 1100 1300 1500
+</p>
+<p>Io
+n 
+</p>
+<p>vo
+lta
+</p>
+<p>ge
+ (V
+</p>
+<p>) a
+nd
+</p>
+<p> P
+M
+</p>
+<p> (m
+g/
+</p>
+<p>m
+3)
+</p>
+<p>Fl
+am
+</p>
+<p>e 
+Le
+</p>
+<p>ng
+th
+</p>
+<p> (m
+m
+</p>
+<p>)
+</p>
+<p>Time (s)
+</p>
+<p>  
+</p>
+<p>Flame Length
+Ion
+PM total
+</p>
+<p> 
+Figure 8. Heat release rate and species production/consumption during SAFFIRE VI 2-sided PMMA 
+sample. 
+</p>
+<p>0
+</p>
+<p>500
+</p>
+<p>1000
+</p>
+<p>1500
+</p>
+<p>2000
+</p>
+<p>2500
+</p>
+<p>3000
+</p>
+<p>3500
+</p>
+<p>4000
+</p>
+<p>0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+0.30
+0.35
+0.40
+0.45
+0.50
+</p>
+<p>500 700 900 1100 1300 1500
+</p>
+<p>He
+at
+</p>
+<p> R
+el
+</p>
+<p>ea
+se
+</p>
+<p> R
+at
+</p>
+<p>e(
+W
+</p>
+<p>) a
+nd
+</p>
+<p> R
+ad
+</p>
+<p>io
+m
+</p>
+<p>et
+er
+</p>
+<p> (x
+10
+</p>
+<p>) 
+(m
+</p>
+<p>W
+/c
+</p>
+<p>m
+2 )
+</p>
+<p>O
+2
+</p>
+<p>an
+d 
+</p>
+<p>CO
+2
+</p>
+<p>m
+as
+</p>
+<p>s c
+ha
+</p>
+<p>ng
+e 
+</p>
+<p>ra
+te
+</p>
+<p> (m
+g/
+</p>
+<p>s)
+</p>
+<p>Time (s)
+</p>
+<p>O₂ consumed (mg/s)
+CO₂ produced (mg/s)
+Radiometer #4 (x10)
+Heat Release Rate</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>9 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>examine this question, an alarm threshold of 2 mg/m3 of total particulate matter detected by the TSI DustTrak DRX 
+in the FFD was used as a reference point (see Fig. 7 for an example). The time to achieve this concentration is tabulated 
+in Table 1 along with the increase in CO2 and CO at that time interval. Also tabulated are the flame length and the 
+HRR at detection. This detection threshold detected the fire before the SAFFIRE IV PMMA sample and SAFFIRE 
+VI SIBAL sample reached hazardous CO levels however both PMMA samples from SAFFIRE VI exceeded the CO 
+threshold with the 1-sided sample approaching the 1-hour SMAC. Notably the CO increase was worse for the 1-sided 
+sample. The SAFFIRE VI results suggest that a lower threshold or additional detectors would be needed for this 
+spacecraft configuration.  
+</p>
+<p>IV. Conclusion 
+Overall, the SAFFIRE IV-VI test series provided useful validation that flame growth rate for flat materials can be 
+</p>
+<p>expected to exhibit linear growth without the acceleration seen in 1-g. This fact is extremely significant when 
+considering the timeline of the response to a spacecraft fire. In the case of the 1-sided PMMA samples, this growth 
+reached a limiting size which is even more significant.  It is possible that the 2-sided samples were not burned long 
+enough to reach a limiting size.  
+</p>
+<p>For this configuration spacecraft, a 2 mg/m3 detection threshold was not low enough to detect the fires before some 
+cases exceeded the 24-hour SMAC for CO, however it only approached the 1-hour SMAC for one case. These results 
+suggest that implementing smoke detection in this spacecraft for these design fires would require either a lower 
+threshold or additional smoke detectors to reduce the transport time. Proper selection of fire detection and response 
+systems depends on the ability to assess whether the smoke detector can identify a fire before the spacecraft is 
+uninhabitable. An assessment of this would require analysis specific to the spacecraft volume and flow conditions 
+using heat and smoke production data such as this in a model of the planned spacecraft. 
+</p>
+<p>Acknowledgments 
+The authors acknowledge the support of the NASA Mars Campaign Office, for the sponsorship of the Spacecraft 
+</p>
+<p>Fire Safety Demonstration Project and the SAFFIRE experiments. In addition, the authors acknowledge the support 
+of the various space and research agencies that have supported this work including but not limited to the Japan 
+Aerospace Exploration Agency (JAXA), the European Space Agency, the Russian Space Agency, the National Centre 
+for Space Studies (CNES), the German aerospace Center (DLR), the European Union, the Russian Science 
+Foundation, and NASA. Grunde Jomaas and Ulises Rojas Alva are supported by FRISSBE project, which has received 
+funding from the European union's Horizon 2020 research and innovation program under Grant Agreement No. 
+952395. The excellent support from the engineering team (NASA and Zin Technologies), Northrup Grumman and the 
+on-orbit crew are gratefully acknowledged. 
+</p>
+<p>References 
+ 
+[1]  P. Ferkul, S. Olson, D. Urban, G. Ruff, J. Easton, J. T'ien, Y.-T. Liao, C. Fernadez-Pello, J. Torero, C. Eigenbrod, G. Legros, 
+</p>
+<p>N. Smirnov, O. Fujita, S. Rouverau, B. Toth and G. Jomaas, "Results of large-scale spacecraft flammability tests.," in 47th 
+International Conference on Environmental Systems, ICES-2017-224, 2017.  
+</p>
+<p>[2]  D. Urban, P. Ferkul, S. Olson, G. Ruff, J. Easton, J. T'ien, Y. Liao, C. Li, C. Fernandez-Pello, J. Torero, G. Legros, C. 
+Eignebrod, N. Smirnov, O. Fujita, S. Rouvereau, B. Toth and G. Jomaas, "Flame spread: Effects of microgravity and scale," 
+Combustion and Flame, vol. 199, pp. 168-182, 2019.  
+</p>
+<p>[3]  S. Olson, D. Urban, G. Ruff, P. Ferkul, B. Toth, C. Eigenbrod and F. Meyer, "Analysis of Saffire II two-sided concurrent 
+flame spread over a thick PMMA slab," in 48th International Conference on Environmental Systems, ICES-2018-101, 2018.  
+</p>
+<p>[4]  C. Eigenbrod, F. Meyer, G. Jomaas, D. Urban, G. Ruff, S. Olson, P. Ferkul and B. Toth, "Eigenbrod, C., Meyer, F., Jomaas, 
+G., Urban, D. L., Ruff, G. A., Olson, S., Ferkul, P., and Toth, B.,Opposed flame spreading along a structured PMMA sample 
+in exploration atmosphere under microgravity," in 50th International Conference on Environmental Systems, ICES-2021-
+244, 2021.  
+</p>
+<p>[5]  S. Olson, D. Urban, G. Ruff, P. Ferkul, B. Toth, C. Eigenbrod, F. Meyer and G. Jomaas, "Concurrent flame spread over two-
+sided thick PMMA slabs in microgravity," Fire Technology, vol. 56, pp. 49-69, 2020.  
+</p>
+<p>[6]  D. Urban, G. Ruff, P. Ferkul, J. Easton, J. Owens, S. Olson, C. Fortenberry, J. Brooker, J. Graf, M. Casteel, B. Toth, F. 
+Meyer, C. Eigenbrod, J. T’ien, Y.-T. Liao, C. Fernandez-Pello, G. Legros, A. Guibaud, N. Smirnov, O. Fujita and G. Jomaas, 
+"Fire Safety Implications of Preliminary Results from Saffire IV and V Experiments on Large Scale Spacecraft Fires," in 
+50th International Conference on Environmental Systems, ICES-2021-266, 2021.  </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>10 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p>[7]  C. Fortenberry, M. Casteel, J. Graf, J. Easton, J. Niehaus, M. Meyer, D. Urban and G. Ruff, "Evaluation of Combustion 
+Products from Large-Scale Spacecraft Fires during the Saffire-IV and Saffire-V Experiments," in 50th International 
+Conference on Environmental Systems, ICES-2021-244, 2021.  
+</p>
+<p>[8]  J. Niehaus, J. Brooker, D. Urban and G. Ruff, "Vehicle Modeling during the Burning of Thermally Thick Samples in the 
+Saffire V Experiments," in 53rd International Conference on Environmental Systems, ICES-2024-310, 2024.  
+</p>
+<p>[9]  D. Urban, G. Ruff, P. Ferkul, J. Easton, M. Johnston, O. J. Owens, Sandra, C. Fortenberry, J. Graf, O. George, B. Toth, F. 
+Meyer, C. Eigenbrod, J. T’ien, Y.-T. Liao and C. Fernandez-Pello, "Preliminary Results from the Saffire VI Experiment," in 
+53rd International Conference on Environmental Systems, ICES-2024-365, 2024.  
+</p>
+<p>[10]  NASA JSC, "Spacecraft Maximum Allowable Concentrations for Airborne Contaminants, JSC 20584, Revision A,," NASA 
+JSC,, Houston TX., 2020. 
+</p>
+<p>[11]  NASA JSC, "Nasa Spaceflight Human-System Standard Volume 2: Human Factors, Habitability, And Environmental 
+Health, NASA-STD-3001, Volume 2, Revision D,," NASA JSC, Houston TX., 2023. 
+</p>
+<p>[12]  J. Brooker, D. Urban and G. Ruff, "ISS Destiny Laboratory Smoke Detection Model," in 37th International Conference On 
+Environmental Systems, 2007-01-3076, Chicago, IL, 2007.  
+</p>
+<p>[13]  A. C. Fernandez-Pello and T. Hirano, "Controlling mechanisms of flame spread," Fire Science and Technology, vol. 2, no. 
+1, pp. 17-54, 1982.  
+</p>
+<p> </p>
+<p></p>
+</div>
+<ul>	<li>Acronyms and Nomenclature</li>
+	<li>I. Introduction</li>
+	<li>II. Experimental Hardware and Operations</li>
+	<li>III. Results and Fire Impact on Habitability</li>
+	<li>IV. Conclusion</li>
+	<li>Acknowledgments</li>
+	<li>References</li>
+</ul>
+<div class="acroform"><ol></ol>
+</div>
+</body></html>

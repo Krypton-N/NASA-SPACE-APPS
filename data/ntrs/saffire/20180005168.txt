@@ -1,0 +1,802 @@
+Saffire: A Novel Approach to Study of
+Spacecraft Fire Safety Using Un-manned
+Spacecraft
+David L. Urban, Paul Ferkul, Sandra Olson, Gary A. Ruff, John Easton,
+NASA GRC, Cleveland, OH, USA;
+
+33rd Annual Meeting American Society for Gravitational and Space Research
+October 25-28, 2017
+Hyatt Regency @ Seattle’s Southport on Lake Washington
+
+1
+
+International Topical Team
+James S. T’ien, Ya-Ting T. Liao
+
+Case Western Reserve University, Cleveland, OH
+
+Carlos Fernandez-Pello
+UC Berkeley, Berkeley, CA
+
+Jose L. Torero
+
+University of Maryland, College Park, MD
+
+Guillaume Legros
+
+Sorbonne Universités, UPMC Univ Paris, France
+
+Christian Eigenbrod
+
+University of Bremen (ZARM), Bremen, Germany
+
+Nickolay Smirnov
+
+Lomonosov Moscow State University, and Federal Science Center, Moscow, Russia
+
+Osamu Fujita
+
+Hokkaido University, Sapporo, Japan
+
+Sebastien Rouvreau
+
+Belisama R&D, Toulouse, France
+
+Balazs Toth
+
+ESA ESTEC, Noordwijk, Netherlands
+
+Grunde Jomaas
+
+University of Edinburgh, Edinburgh, UK
+2
+
+Introduction
+
+• Despite millennia of experience with fire, over 3,000 people die from fires each
+year in the U.S.
+• Fire is a catastrophic hazard for spacecraft
+• However, without any empirical results, it is impossible to be sure that our
+predictions of fire behavior in a spacecraft are realistic.
+• What will kill you first?
+• CO buildup?
+• Other toxic products?
+• Heat?
+• Smoke?
+• Pressure Rise?
+• How should the crew respond?
+
+All inhabited types of structure, vehicle, or even
+open space on earth have been the subject of
+full scale fire studies and/or training.
+3
+
+Air Force Fire Response Training
+4
+
+FAA full scale aircraft test
+5
+
+Controlled burns of structures
+6
+
+Naval Research Laboratory - Ex-USS Shadwell
+7
+
+Bureau of Mines explosion testing
+8
+
+Car Fire Training
+9
+
+Forest Fire response
+10
+
+Benefit of experience
+• From these tests we have a good understanding of
+• How fast a 1-g fire will grow
+• How to detect a 1-g fire
+• How to extinguish a 1-g fire
+• The probability of a 1-g fire
+Having only burned samples up to 8 by 15 cm, we
+lack this understanding for low-g
+
+Saffire was proposed to provide a means to
+address these questions for future spacecraft.
+11
+
+Saffire Objectives
+To address these concerns, an experiment was defined to
+examine issues including
+♦ Low-g flammability limits for spacecraft materials
+♦ Fate of a large-scale spacecraft fire and its interaction
+with the spacecraft
+Objectives:
+♦ Saffire 1 & 3: Assess flame spread of large-scale
+
+microgravity fire (spread rate, mass
+consumption, heat release)
+
+♦ Saffire 2:
+
+gravity
+
+Verify oxygen flammability limits in low
+
+• Data obtained from the experiment will be used to validate modeling of spacecraft fire response
+scenarios
+• Evaluate NASA’s normal-gravity material flammability screening test for low-gravity conditions.
+
+Concept of Operations
+
+13
+
+Saffire Layout
+40.6 cm
+
+94 cm
+
+The Saffire flow duct.
+
+Saffire I and III
+
+•
+•
+•
+•
+•
+
+Saffire II sample layout:
+Silicone) (1-4)
+SIBAL (5 & 6))
+Nomex (with PMMA ignition) (7)
+PMMA (flat and structured) (8 & 9)
+
+14
+
+Saffire Operations
+Mission
+
+Launch Site
+
+Launch
+Vehicle
+
+Integration
+
+Launch
+
+Mission Ops
+
+Saffire-I
+
+OA-6
+
+KSC
+
+Atlas
+
+Jan 25, 2016
+
+Mar 22, 2016
+
+June 14, 2016
+
+Saffire-II
+
+OA-5
+
+WFF
+
+Antares
+
+May 12, 2016
+
+Oct 17, 2016
+
+Nov 21, 2016
+
+Saffire-III
+
+OA-7
+
+KSC
+
+Atlas
+
+Feb 3, 2017
+
+Mar 27, 2017
+
+June 4, 2017
+
+Orbital and Saffire team at Dulles
+
+Saffire team at GRC
+
+15
+
+Saffire-I and III Results
+Saffire-I (20 cm/s)
+
+Saffire-III (25 cm/s)
+
+♦ Sequence of concurrent flame images from Saffire-I
+and III.
+• Each image is 40-sec apart.
+• Saffire-I burned for 400 sec
+• Saffire-III burned for 320 sec.
+♦ This is equal to the inverse ratio of the flame speed
+ The flame speed is proportional to the air flow velocity
+
+♦ Comparison of the
+opposed (upper) and
+concurrent (lower)
+flames from Saffire-III.
+• The flame images
+were taken at
+different times (near
+the end of each burn)
+and superimposed.
+16
+
+Saffire-I-III Results
+
+Measurements of flame base (up stream), pyrolysis tip
+(downstream), and pyrolysis length from concurrent and
+opposed burns from Saffire-I.
+
+Spread rate summary for Cotton/Fiberglass fabric burning in
+microgravity
+
+17
+
+Saffire-I-III Results
+♦ Flame spread over a large thin charring surface in low-gravity
+
+showed that steady flame spread was possible (unlike normal
+gravity).
+♦ Concurrent flame spread (with the wind) was shown to be more
+sensitive to the flow duct dimension than previously anticipated.
+♦ Large scale experiments could be safely conducted in an un-manned
+spacecraft.
+A new series of experiments was proposed to extend the impact to the
+vehicle, examine thick materials and consider detection and post-fire
+cleanup
+18
+
+Saffire-IV, V, and VI Concept
+Objectives:
+♦ Demonstrate spacecraft fire monitoring and cleanup
+technologies in a realistic spacecraft fire scenario
+♦ Characterize fire growth in high O2,
+low pressure atmospheres
+♦ Provide data to validate models of prediction of the
+impact of a fire on vehicle habitability
+Far Field Diagnostics
+
+Saffire Flow Unit
+Approx. 53x90x133cm. New features
+include 2 side view cameras, acid gas,
+O2, heat and byproduct release to cabi
+
+Saffire Flow Unit
+
+Remote Sensors (6)
+Measure temp & CO2 in standoffs,
+hatch and end cone
+
+Remote Sensors
+[6 total, 2 end cones, 4
+central]
+
+Far Field Diagnostics (in Mid Deck Locker)
+Avionics, CO2 scrubber, Smoke Eater, combustion product
+and smoke sensors
+19
+
+Forward Steps
+• The Saffire experiments were the first practical-scale spacecraft fire safety
+investigations.
+• In addition to pioneering a new research capability, they determined that
+concurrent flames can achieve a steady spread rate and that overall the
+concurrent spread rates are strongly influenced the the flow duct size.
+• The next Saffire series will examine larger fires of longer duration to
+examine the impact of a fire on the vehicle habitability .
+
+20
+
+21
+
+Backup
+22
+
+Four tests:
+40.6-cm-wide SIBAL fabric (cotton-fiberglass); concurrent and opposed-flow in 20 cm/s air flow
+5-cm-wide SIBAL fabric; concurrent-flow in air at 20 and 25 cm/s
+Saffire 1
+
+Saffire 2
+
+SIBAL fabric
+5 cm wide
+
+SIBAL fabric
+40.6 cm wide
+
+Ignition power:
+Saffire 1: 165 W (for 8 s)
+4.1 W/cm (per unit fuel width)
+Saffire 2: 80 W (for 9.2 s)
+16 W/cm (per unit fuel width)
+Average flame power:
+Saffire 1: 1200 +/- 300 W
+Saffire 2: 200 +/- 50 W
+
+Fuel characteristics (“SIBAL” fabric)
+75% cotton, 25% fiberglass blend
+Simple weave pattern (60 x 40 threads per inch)
+Cotton and fiberglass fibers intermingled
+Overall area density: 18 mg/cm2
+Fuel sizes (W x L): 40.6 x 94 cm and 5 x 29 cm
+
+Saffire 1 video
+SIBAL fabric (40.6 cm x 94 cm) burning in air at 20 cm/s concurrent flow
+Average flame spread rate is 1.8 mm/s; estimated average flame power is 1200 +/- 300 W
+Total burn time is 420 s
+25
+
+Plots of igniter current and thermocouple temperatures. X-distance along the sample for each
+thermocouple is shown on the diagram. Heights above the surface are indicated on the plot.
+
+26
+
+27
+
+28
+
+29
+
+Sample
+I-1
+
+Table 1. Summary of Samples, Test Conditions, and Selected Results
+Material
+Width
+Thickness
+Length
+Flow
+Direction
+Cotton-Fiberglass
+40.6 cm
+0.37 mm
+94 cm
+20 cm/s
+Concurrent
+
+Δ %O2 i
+21.7 to 21.5
+
+I-2
+
+Cotton-Fiberglass
+
+40.6 cm
+
+0.37 mm
+
+~ 10 cm
+
+20 cm/s
+
+Opposed
+
+~ 21.5
+
+II-1
+
+Silicone
+
+5 cm
+
+0.27 mm
+
+29 cm
+
+20 cm/s
+
+Concurrent
+
+~ 22.1
+
+II-2
+
+Silicone
+
+5 cm
+
+0.61 mm
+
+29 cm
+
+20 cm/s
+
+Concurrent
+
+~ 22.1
+
+II-3
+
+Silicone
+
+5 cm
+
+1.03 mm
+
+29 cm
+
+20 cm/s
+
+Concurrent
+
+~ 22.1
+
+II-4
+
+Silicone
+
+5 cm
+
+0.37 mm
+
+29 cm
+
+20 cm/s
+
+Opposed
+
+~ 22.1
+
+II-5
+
+Cotton-Fiberglass
+
+5 cm
+
+0.37 mm
+
+29 cm
+
+20 cm/s
+
+Concurrent
+
+~ 22.1
+
+II-6
+
+Cotton-Fiberglass
+
+5 cm
+
+0.37 mm
+
+29 cm
+
+25 cm/s
+
+Concurrent
+
+~ 22.1
+
+II-7
+
+PMMA & Nomex
+
+5 cm
+
+0.85 & 0.37 mm
+
+5 & 24 cm
+
+20 cm/s
+
+Concurrent
+
+~ 22.1
+
+II-8
+
+PMMA
+
+5 cm
+
+See Fig. 5
+
+29 cm
+
+20 cm/s
+
+Concurrent
+
+22.1 to 22.0
+
+II-9
+
+PMMA
+
+5 cm
+
+1 cm
+
+29 cm
+
+20 cm/s
+
+Concurrent
+
+22.0 to 21.9
+
+III-1
+
+Cotton-Fiberglass
+
+40.6 cm
+
+0.37 mm
+
+94 cm
+
+25 cm/s
+
+Concurrent
+
+21.2 to 21.0
+
+III-2
+
+Cotton-Fiberglass
+
+40.6 cm
+
+0.37 mm
+
+~ 10 cm
+
+25 cm/s
+
+Opposed
+
+21.2 to 21.0
+
+30
+
+Table 1. Summary of Samples, Test Conditions, and Selected Results (continued)
+Sample
+
+Ignition Power
+
+Ignition
+Time
+
+Burn Duration
+
+µ-g Burn
+Length
+
+1-1
+
+182 W
+
+8s
+
+420 s
+
+~ 84 cm
+
+1.8 mm/s
+
+Complete
+
+Acceleratory
+
+1-2
+
+182 W
+
+8s
+
+70 s
+
+~ 10 cm
+
+1.3 mm/s
+
+~0
+
+n/a
+
+2-1
+
+80 W
+
+9.2 s
+
+Insignificant
+
+~0
+
+n/a
+
+~ Complete
+
+Acceleratory
+
+2-2
+
+80 W
+
+9.2 s
+
+Insignificant
+
+~0
+
+n/a
+
+7.6 cm
+
+1.2 mm/s
+
+2-3
+
+80 W
+
+9.2 s
+
+Insignificant
+
+~0
+
+n/a
+
+~0
+
+n/a
+
+2-4
+
+80 W
+
+9.2 s
+
+Insignificant
+
+~0
+
+n/a
+
+Complete
+
+0.6 mm/s
+
+2-5
+
+80 W
+
+9.2 s
+
+145 s
+
+29 cm
+
+2.1 mm/s
+
+Complete
+
+Acceleratory
+
+2-6
+
+80 W
+
+9.2 s
+
+115 s
+
+29 cm
+
+2.6 mm/s
+
+Complete
+
+Acceleratory
+
+2-7
+
+80 W
+
+9.2 s
+
+140 s
+
+5 cm & 0 ii
+
+n/a (Nomex)
+
+~ 0 (Nomex)
+
+n/a (Nomex)
+
+2-8
+
+97 W
+
+30 s
+
+600 s
+
+~ 10 cm iii
+
+Note (iv)
+
+Complete
+
+Acceleratory
+
+2-9
+
+97 W
+
+30 s
+
+900 s
+
+~ 10 cm iii
+
+Note (iv)
+
+Complete
+
+Acceleratory
+
+3-1
+
+182 W
+
+8s
+
+300 s
+
+~ 84 cm
+
+2.3 mm/s
+
+Complete
+
+Acceleratory
+
+3-2
+
+182 W
+
+8s
+
+60 s
+
+~ 10 cm
+
+0.98 mm/s
+
+~0
+
+n/a
+
+µ-g Spread Rate 1-g Burn Length
+
+1-g Spread Rate
+
+31
+
+32
+

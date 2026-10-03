@@ -1,0 +1,183 @@
+{
+ "accession": "PSI-60",
+ "acknowledgments": "",
+ "added": [
+  {
+   "bucket": "psi-repo-prod",
+   "date_created": {
+    "$date": 1759248983634
+   },
+   "date_modified": {
+    "$date": 1759248983634
+   },
+   "file_name": "PSI-60_metadata_NEWID-5_Computational and Ex.zip",
+   "file_size": 7743,
+   "organization": "OSD",
+   "remote_path": "/Home/psi-data/PSI-60/metadata/PSI-60_metadata_NEWID-5_Computational and Ex.zip",
+   "remote_url": "/datamanager/file/Home/psi-data/PSI-60/metadata/PSI-60_metadata_NEWID-5_Computational and Ex.zip",
+   "resource_id": {
+    "$oid": "65e0a4d4931988043eebcd6e"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-60/metadata/PSI-60_metadata_NEWID-5_Computational and Ex.zip",
+   "s3_version_id": "_kaHOTNz0g9fI1rcnE2bwzpiy0tF54__",
+   "study_id": {
+    "$oid": "68dc02570b12ea5f81a2c1a2"
+   },
+   "version": 1,
+   "visible": true
+  }
+ ],
+ "approach": "The approach  was to combine image processing, experimental diagnostics, and detailed soot modeling. Raw Nikon NEF images were decoded into three color channels and analyzed using color-ratio pyrometry to extract soot temperature fields. Absolute light calibration from SPICE was then used to calculate soot volume fractions. For computational modeling, a coupled flow–species–soot system was implemented, modified to include radiation re-absorption and discrete-sectional aggregate formation. Simulations were performed for both Yale and ACME burner configurations under normal and microgravity conditions. Comparisons between experimental data and computed results guided sensitivity analyses of soot evolution parameters, including the effects of radiation, scattering, boundary conditions, and heat transfer to the burner structure.",
+ "assays": [],
+ "contacts": [
+  {
+   "@id": "",
+   "address": "",
+   "affiliation": "Yale University",
+   "comments": [
+    {
+     "name": "Study Person REF",
+     "value": ""
+    }
+   ],
+   "email": "marshall.long@yale.edu",
+   "fax": "",
+   "firstName": "Marshall",
+   "lastName": "Long",
+   "midInitials": "B.",
+   "phone": "",
+   "roles": [
+    {
+     "@id": "59J36d8A36ZR1iSs6NNVDRYelIkilTNb30me8Erm",
+     "annotationValue": "Co-Investigator (Co-I)",
+     "comments": [],
+     "termAccession": "Co-Investigator (Co-I)",
+     "termSource": ""
+    }
+   ]
+  },
+  {
+   "@id": "",
+   "address": "",
+   "affiliation": "Yale University",
+   "comments": [
+    {
+     "name": "Study Person REF",
+     "value": ""
+    }
+   ],
+   "email": "mitchell.smooke@yale.edu",
+   "fax": "",
+   "firstName": "Mitchell",
+   "lastName": "Smooke",
+   "midInitials": "D.",
+   "phone": "",
+   "roles": [
+    {
+     "@id": "dEBvA2jSs25xM9IfCv5ploF8MUDFt0ACKekf97KJ",
+     "annotationValue": "Principal Investigator (PI)",
+     "comments": [],
+     "termAccession": "Principal Investigator (PI)",
+     "termSource": ""
+    }
+   ]
+  },
+  {
+   "@id": "",
+   "address": "",
+   "affiliation": "Glenn Research Center (GRC)",
+   "comments": [
+    {
+     "name": "Study Person REF",
+     "value": ""
+    }
+   ],
+   "email": "Daniel.L.Dietrich@nasa.gov",
+   "fax": "",
+   "firstName": "Daniel",
+   "lastName": "Dietrich",
+   "midInitials": "L.",
+   "phone": "",
+   "roles": [
+    {
+     "@id": "UPDBsFjwjds0hw6t0IuVN6evepdczdMm2HLYqwom",
+     "annotationValue": "Project Scientist",
+     "comments": [],
+     "termAccession": "Project Scientist",
+     "termSource": ""
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "dirty": null,
+ "doi": "10.60555/mzjm-yv57",
+ "experimentHardware": "",
+ "experimentHardwareLink": "",
+ "experimentalTable": [],
+ "experiments": [],
+ "factors": [],
+ "filesDisabled": null,
+ "flightProgram": "",
+ "funding": "80NSSC19K1634",
+ "hypothesis": "Microgravity conditions would produce longer, more diffuse flames with lower temperatures and increased soot concentrations compared to normal gravity, and that careful integration of experimental temperature fields into the simulations would reduce discrepancies between measured and predicted soot distributions.",
+ "identifiers": [],
+ "images": [],
+ "investigationAcronym": "",
+ "investigationEndDate": "08-29-2022",
+ "investigationStartDate": "06-05-2019",
+ "licenseIdentifier": "CC0-1.0",
+ "licenseLink": "https://spdx.org/licenses/CC0-1.0.html",
+ "licenseName": "Creative Commons Zero v1.0 Universal",
+ "managingNasaCenter": "Glenn Research Center (GRC)",
+ "missionEnd": "",
+ "missionLink": "",
+ "missionName": "",
+ "missionStart": "",
+ "modified": [],
+ "modifiedDate": "30-Sep-2025",
+ "objective": "This ground investigation  sought to increase understanding of the issues that control the large discrepancy between soot formation in 1g and in 0g flames.  The objective of this investigation was to integrate computational and experimental methods to derive temperature distributions and soot volume fractions from the Smoke Point in Coflow Experiment (SPICE) data available in PSI. By analyzing over 1600 raw DSLR images and incorporating advanced soot models, the study sought to improve understanding of soot formation, oxidation, radiative re-absorption, and aggregate growth in heavily sooting flames. The work further aimed to reconcile microgravity and normal gravity flame behavior, identify key physical and chemical processes influencing smoke point development, and provide a framework for evaluating model parameter sensitivity.",
+ "organizations": [],
+ "payloads": [],
+ "projectIdentifier": "",
+ "projectLink": "",
+ "projectTitle": "",
+ "projectType": "Ground Investigation",
+ "proposalTitle": "Computational and Experimental Analysis of SPICE Data Sets",
+ "public": true,
+ "publications": [
+  {
+   "authorList": "Dobbins Richard R., Tinjero Jesse, Squeo Joseph, Zhao Xinyu, Hall Robert J., Colket Meredith B., Long Marshall B., Smooke Mitchell D.",
+   "comments": [],
+   "doi": "10.1080/00102202.2022.2041621",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "A Combined Experimental and Computational Study of Soot Formation in Normal and Microgravity Conditions (2022)"
+  }
+ ],
+ "related_glds": "PSI-107",
+ "releaseDate": "30-Sep-2025",
+ "removed": [],
+ "researchArea": "Combustion Science",
+ "researchImpacts": "This study sought to enhance understanding of soot formation, flame structure, and radiative transport under microgravity and normal gravity, improving predictive models for combustion in both spacecraft and terrestrial systems. For space applications, the results support safer fire detection, suppression, and cleaner combustion technologies critical for long-duration missions. On Earth, the insights help reduce pollutant emissions, optimize combustion efficiency, and inform the design of cleaner energy and industrial systems.",
+ "restricted": false,
+ "sourceAccession": "",
+ "sourceLink": "",
+ "spaceProgram": "National Aeronautics and Space Administration (NASA), PSI grant",
+ "subResearchArea": "Gaseous",
+ "submissionDate": "29-Aug-2022",
+ "title": "Computational and Experimental Analysis of SPICE Data Sets",
+ "totalFileSize": 7743,
+ "version": 1,
+ "versionMessage": null,
+ "versionMessageLevel": null,
+ "versionMessageLocations": [],
+ "versionReason": "New data release"
+}

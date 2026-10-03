@@ -1,0 +1,943 @@
+2016 Spring Technical Meeting
+Central States Section of the Combustion Institute
+May 15-17, 2016
+Knoxville, Tennessee
+
+A Burke-Schumann Analysis of Dual-Flame Structure
+Supported by a Burning Droplet
+V. Nayagam1 , D. Dietrich2 , and F. A. Williams3
+1
+
+Department of Mechanical and Aerospace Engineering
+Case Western Reserve University, Cleveland, OH 44106, USA
+2
+NASA Glenn Research Center, Cleveland, OH 44135,USA
+3
+Department of Mechanical and Aerospace Engineering
+University of California San Diego, La Jolla, CA 92093, USA
+
+Abstract: Droplet combustion experiments carried out onboard the International Space Station (ISS), using pure fuels and fuel mixtures, have shown that quasi-steady burning can
+be sustained by a non-traditional ﬂame conﬁguration, namely a “cool ﬂame” burning in
+the “partial-burning” regime where both fuel and oxygen leak through the low-temperaturecontrolled ﬂame-sheet. Recent experiments involving large, bi-component fuel (n-decane
+and hexanol, 50/50 by volume) droplets at elevated pressures show that the visible, hotﬂame becomes extremely weak while the burning rate remains relatively high, suggesting
+the possibility of simultaneous presence of “cool” and “hot” ﬂames of roughly equal importance. The radiant output from these bi-component droplets is relatively high and cannot
+be accounted for only by the presence of a visible hot-ﬂame. In this analysis we explore
+the theoretical possibility of a dual-ﬂame structure, where one ﬂame lies close to the droplet
+surface called the “cool-ﬂame,” and other farther away from the droplet surface, termed the
+“hot-ﬂame.” A Burke-Schumann analysis of this dual-structure seems to indicate such ﬂame
+structures are possible over a narrow range of initial conditions. Theoretical results can be
+compared against available experimental data for pure and bi-component fuel droplet combustion to test how realistic the model may be.
+Keywords: Dual ﬂames, cool ﬂames, droplet combustion
+
+1.
+
+Introduction
+
+Droplet combustion experiments conducted in space onboard the International Space Station
+with n-alkane fuels showed that quasi-steady combustion can be sustained with the regular hotﬂame chemistry or with the low-temperature, cool-ﬂame chemistry controlled by the negative
+temperature coefﬁcient (NTC) region [1, 2, 3]. The cool ﬂames were found to lie closer to the
+droplet surface, with the ﬂame standoff ratios around three, and the ﬂame temperatures were
+around 780 K, corresponding the NTC-region temperature for n-alkanes [3, 2, 4]. On the other
+hand, the traditional hot-ﬂames were located farther away [5] and their ﬂame temperatures were
+the adiabatic ﬂame temperatures determined by the fuel thermodynamic properties. In all these
+studies, a large droplet when ignited in a quiescent microgravity environment, burns initially with
+visible hot ﬂame, and then extinguishes radiatively as the ﬂame size grows at a ﬁnite droplet diameter. Subsequently, a cool ﬂame supported quasi-steady combustion begins without a visible
+1
+
+ﬂame which also extinguished at a ﬁnite droplet diameter [6]. Because of this behavior coolﬂame combustion has also been called “second-stage” combustion [3, 6].
+More recent space experiments with n-decane and hexanol mixtures (50/50 by volume) at elevated pressures show some intriguing results [7]. It was found that the hot-ﬂame luminosity from
+large droplets that extinguished radiatively, measured with a color camera as well as a low-light
+level ultraviolet camera (LLUV) with a spectral ﬁlter centered at 310 nm that captured the OH ∗
+chemiluminescence, continually decreased when the ambient pressure was increased from 0.05
+MPa to 0.3 MPa. However, the ﬂame radiance during hot-ﬂame combustion, measured using
+a broadband radiometer, remained almost a constant regardless of the ambient pressure. It was
+also observed that the cool ﬂames that formed immediately following hot-ﬂame extinction had
+radiant outputs that increased with pressure, reaching almost one-half of the hot-ﬂame radiance
+at 0.3MPa. These observations lead these authors to speculate the possibility of simultaneous
+presence of cool and hot ﬂames prior to complete extinction of hot ﬂames at higher pressures
+[7].
+The objective of the present study is to explore the possibility of such dual-ﬂame structures
+during quasi-steady droplet combustion using the Burke-Schumann analysis where it is assumed
+that the reactions are conﬁned to a thin ﬂame sheet. Clearly, for the dual ﬂames to exist the gasphase chemistry should proceed in two distinct steps with each step having a distinct activation
+energy that is relatively high. In the premixed ﬂame context, Kapila and Ludford [8] considered
+a sequential reaction of the form A → B → C, and showed two distinct, separated ﬂames are
+possible under certain conditions using activation energy asymptotics. Normal alkane chemistry,
+which is of interest here, is much more complex [9]. However, in a recent study [10] it has been
+shown that for dimethyl ether (DME), which exhibits NTC behavior, a separated cool-ﬂame front
+and a hot-ﬂame front can be present simultaneously when the mixture is ignited by a hot pocket.
+We consider here a much simpler conﬁguration where a cool ﬂame is located closer to the droplet
+surface and a hot ﬂame farther away, with the cool ﬂame acting as a fuel-rich premixed ﬂame
+leaking a substantial amount of fuel through the ﬂame, while the weak hot ﬂame acts as a fuellean premixed ﬂame leaking oxygen to feed the cool ﬂame. Though we assume that fuel and
+oxygen are the reactants in both ﬂames, the stoichiometry and heat of combustion are treated as
+independently speciﬁable variables for both the reactions. To the best of our knowledge similar
+analyses for diffusion ﬂames are not available in the literature. The problem formulation is
+described in the next section, followed by solutions and discussion of the results.
+
+2.
+
+Formulation
+
+Consider a fuel droplet burning quasi-steadily in a microgravity environment under spherically
+symmetric conditions as illustrated in Fig. 1. The burning droplet supports two diffusion ﬂames,
+one closer to the droplet surface with fuel leakage, termed the “cool ﬂame” here for convenience,
+and the other farther away, called the “hot ﬂame”, where the remaining fuel is consumed while
+oxygen is only partially consumed. It is assumed that the reactions are conﬁned to a thin ﬂamesheet and frozen everywhere else. A general one-step, irreversible chemistry of the following
+form is assumed for the cool and hot ﬂames, namely
+1kg [Fuel] + νc kg [Oxidizer] → (1 + νc )kg [Products1] + qc [Heat],
+
+(1)
+
+1kg [Fuel] + νh kg [Oxidizer] → (1 + νh )kg [Products2] + qh [Heat],
+
+(2)
+
+2
+
+Flame
+
+a mf
+˙
+
+Fuel
+
+mf
+˙
+
+˙
+bmo
+
+Oxygen
+
+mo
+˙
+
+Droplet
+Heat
+
+Figure 1: Schematic illustration of dual-ﬂame structure surrounding a droplet with leakage of
+fuel in the inner “cool” ﬂame, and oxygen through the outer “hot” ﬂame.
+
+where νi and qi are the stoichiometric coefﬁcients and heats of combustion per unit mass of fuel
+consumed, with the subscript c denoting the cool ﬂames and h the hot ﬂames. The conservation
+equations for gas phase mass, energy, and species without the source terms can be written as,
+Mass:
+1 d 2
+(r ρu) = 0,
+(3)
+r2 dr
+Energy:
+dT
+ρD d
+dT
+u
+− 2
+r2
+= 0,
+(4)
+dr
+ρr dr
+dr
+Species:
+u
+
+dYi ρD d
+− 2
+dr
+ρr dr
+
+r2
+
+dYi
+dr
+
+= 0, i = F, O
+
+(5)
+
+where u is the radial velocity, r is the radial coordinate, Yi is the mass fraction of species i, T
+is the temperature, ρ is the density, and D is the mass diffusivity. The subscripts i = F , and O
+denote fuel, and oxygen, respectively, and we have assumed unity Lewis number (ρD = λ/cP )
+where λ is the thermal conductivity, and cp is the speciﬁc heat of the gas.
+The mass conservation equation (3) simply states that the mass ﬂow through any spherical shell
+is constant, namely m = 4πr2 ρu, is a constant. A new independent variable η can then be
+˙
+deﬁned as
+˙
+η = 1 − e−M /r ,
+(6)
+˙
+where M = m/(4πρD) = r2 ρu/(ρD), which is a constant. The conservation equations for
+˙
+˜
+species and energy can be expressed in terms of dimensionless dependent variables YO = YO /νh ,
+˜F = YF , and T = cP T /qh as
+˜
+Y
+˜
+˜
+˜
+d2 YO
+d2 T
+d2 YF
+=
+=
+= 0.
+dη 2
+dη 2
+dη 2
+3
+
+(7)
+
+The semi-inﬁnite domain 0 < r < ∞ is mapped into 1 > η > 0. Note that the dependent
+variables are linear functions of the independent variable η. A schematic illustration of the
+species and temperature proﬁles in η coordinate are shown in Fig. 2. The boundary conditions
+associated with Eq. (7) at the fuel surface (r = rs or η = ηs ) and in the ambient environment
+(r → ∞ or η = 0) are
+˜
+˜
+η = ηs :
+T = Ts
+˜
+˜
+dT
+L
+=−
+dη ηs
+1 − ηs
+(8)
+˜
+˜
+dYF
+1 − YF s
+=
+dη ηs
+1 − ηs
+˜
+˜
+˜
+˜
+˜
+η = 0 : YF = 0, YO = YO∞ , T = T∞
+
+(9)
+
+In the classical Burke-Schumann analysis, it is assumed that the fuel and oxygen mass fractions
+at the ﬂame-sheet are zero, and they meet at stoichiometric proportions. However, in the dualﬂame conﬁguration considered here, we allow for the fuel to leak through the cold-ﬂame and
+oxygen through the hot-ﬂame. The leakage fractions a and b, for fuel and oxygen, respectively,
+are treated as variable parameters. The slopes of fuel and oxygen proﬁles across the ﬂame-sheets
+are then related according to
+˜
+dYF
+dη
+
+=a
+−
+ηc
+
+˜
+dYF
+dη
+
+˜
+dYO
+dη
+
+;
++
+ηc
+
+=b
++
+ηh
+
+˜
+dYO
+dη
+
+,
+
+(10)
+
+−
+ηh
+
+where ηh and ηc are the hot and cold-ﬂame locations (see, Fig. 2). The stoichiometric requirements at the hot and the cold ﬂame-sheets, using Eqs. (8) and (10), are
+˜
+˜
+1 − YF s
+dYO
+= −(1 − a)s
+dη ηc
+1 − ηs
+−
+˜
+˜
+dYO
+a 1 − YF s
+=−
+dη η−
+(1 − b) 1 − ηs
+
+(11)
+
+h
+
+where s = νc /νh . In addition, the jump conditions for temperature across the ﬂame-sheets due
+to heat release are
+˜
+˜
+˜
+dYF
+dT
+dT
+=
+−
+−
+dη η+
+dη ηh + dη η−
+h
+h
+(12)
+˜
+˜
+˜
+dYF
+1 dT
+dT
+−(1 − a)
+=
+−
+dη ηc
+q dη ηc + dη ηc
+˜
++
+−
+where q = qc /qh . Since the species and temperature proﬁles are piecewise-linear in η coordinate,
+˜
+the slopes appearing in Eqs. (7,10-12) can be directly related to the unknown parameters of the
+˜
+˜ ˜
+˜ ˜
+problem, namely, YF s , ηs , Tc , YF c , ηc , Th , YOh , and ηh . The resulting eight nonlinear algebraic
+equations for the eight unknowns are
+˜
+˜
+˜
+1 − YF s
+YF s − YF c
+=
+ηs − ηc
+1 − ηs
+
+4
+
+(13)
+
+Premixed flame (fuel lean)
+
+Premixed flame (fuel rich)
+1
+
+𝑇h
+𝑌 𝐹s
+
+𝑌 𝑂∞
+
+𝑇
+
+𝑌𝐹
+
+𝑇c
+
+𝑌𝑂
+
+𝑇s
+𝑌 𝐹c
+
+𝑇∞
+
+𝑇ℓ
+
+𝑌 𝑂ℎ
+
+0
+
+h
+
+c
+
+s 1
+
+
+
+Figure 2: Dual-ﬂame proﬁles in η coordinate.
+
+˜
+˜
+˜
+Ts − Tc
+L
+=−
+ηs − ηc
+1 − ηs
+˜
+˜
+YF c
+1 − YF s
+=a
+ηc − ηh
+1 − ηs
+˜
+˜
+˜
+YOh − YO∞
+YOh
+= −b
+ηc − ηh
+ηh
+˜
+˜
+YOh
+1 − YF s
+= (1 − a)s
+ηc − ηh
+1 − ηs
+˜
+˜
+˜
+YOh − YO∞
+a 1 − YF s
+=−
+ηh
+(1 − b) 1 − ηs
+˜
+˜
+˜
+˜
+˜
+Ts − Tc Tc − Th
+1 − YF s
+−
+= −(1 − a)˜
+q
+ηs − ηc
+ηc − ηh
+1 − ηs
+˜
+˜
+˜
+˜
+˜
+Tc − Th Th − T∞
+YF c
+−
+=−
+ηc − ηh
+ηh
+ηc − ηh
+
+(14)
+(15)
+(16)
+(17)
+(18)
+(19)
+(20)
+
+Equations (13-20) are solved symbolically using the Solve procedure in Mathematica [11] to
+obtain analytical results. The accuracy of these results are checked by solving the same equations
+numerically and comparing. The analytical solutions were also tested by considering the limiting
+conditions for which the results are well known.
+
+5
+
+3.
+
+Solution Procedure
+
+Explicit solutions to the set of nonlinear algebraic equations (13-20) are obtained by treating
+˜
+˜
+a, s, q, YO∞ , T∞ , and ηs as known parameters. By treating ηs as a known parameter we are
+essentially specifying the burning rate and calculating the resulting ﬂame conﬁgurations. It is
+worthwhile to note that a number of results can be obtained rather easily by inspection. Since
+we have forced the fuel and oxygen to be completely consumed between the two ﬂames, a and
+b cannot be independently speciﬁed when the stoichiometric ratio s is ﬁxed. It is easy to show
+using Eqs. (16-18) that
+ab
+.
+(21)
+s=
+(1 − a)(1 − b)
+When a is zero all the fuel is consumed at the cool ﬂame and b becomes one showing that the
+hot ﬂame ceases to exist since no oxygen is consumed. The reverse happens when a is unity and
+b becomes zero. From Eqs. (15) and (17) it is also seen that
+˜
+(1 − a)s
+YOh
+=
+,
+˜
+a
+YF c
+
+(22)
+
+˜
+˜
+showing YF c and YOh are related by a constant irrespective of the burning rate. The solutions
+to equations (13-20) can be further simpliﬁed by ﬁrst considering the three boundary conditions
+at the fuel surface ﬁrst. From equations (13) and (14) the following two identities, showing
+continuity of slopes across the droplet surface, can be derived, namely,
+˜
+˜
+˜
+˜
+˜
+˜
+1 − YF c Ts − Tc
+T − Tc
+1 − YF s
+=
+;
+=
+,
+1 − ηs
+1 − ηc
+ηs − ηc
+1 − ηc
+
+(23)
+
+˜
+˜
+˜
+˜
+˜
+where we have deﬁned T = (Ts − L). Using these identities YF s , Ts , and ηs can be eliminated
+from equations (15) through (20) and the resulting set of six equations can be solved, now treating ηc as one of the independent variables. In addition, the species proﬁles are independent of
+the temperature proﬁles, and they they can be solved ﬁrst and then used to compute the temperature proﬁle conditions expressed in equation (19) and (20), if desired. The dimensionless
+droplet-surface location ηs is related to the cool-ﬂame location ηc as
+(1 − ηs ) = −
+
+˜
+L
+(1 − ηc ).
+˜
+˜
+(T − Tc )
+
+(24)
+
+2
+The mass burning rate of the droplet m, and the burning rate constant K = 4d(rs )/dt are related
+˙
+to ηs as
+1
+8ρD
+1
+m = 4πρDrs ln
+˙
+; K=
+ln
+.
+(25)
+1 − ηs
+ρ
+1 − ηs
+
+The hot and cool ﬂame standoff ratios, fh = (rh /rs ) and fc = (rc /rs ), respectively, can be
+expressed as
+1 − ηs
+1 − ηs
+; fc = ln
+.
+(26)
+fh = ln
+1 − ηh
+1 − ηc
+
+6
+
+60
+a=0.8
+
+Flame Standoff Ratio
+
+50
+0.6
+
+40
+0.4
+
+30
+20
+
+0.2
+
+0.4
+
+0.8
+
+0.6
+
+10
+0
+0.80
+
+0.82
+
+0.84
+
+0.86
+
+0.88
+
+0.90
+
+hs
+Figure 3: Hot-ﬂame (solid line) and cool-ﬂame (dashed line) standoff ratios for various values
+of a as a function of ηs and q =0.2.
+˜
+
+Flame Temperature
+
+0.08
+0.06
+
+0.1
+0.5
+
+0.1
+
+0.9
+
+0.04
+
+0.9
+0.5
+
+0.02
+0.00
+0.80
+
+0.82
+
+0.84
+
+0.86
+
+0.88
+
+0.90
+
+hs
+Figure 4: Hot-ﬂame (solid line) and cool-ﬂame (dashed line) temperatures for various values of
+a as a function of ηs and q =0.2.
+˜
+
+7
+
+4.
+
+Results and Discussions
+
+The analytical solutions obtained using Mathematica are cumbersome and lengthy. We present
+here the key aspects of the results in graphical form, keeping most of the independently speciﬁable parameters ﬁxed. Since one of our objective is to understand the inﬂuences of underlying
+chemical kinetics on the dual-ﬂame structures, we vary the parameters related to chemistry,
+namely the amount of fuel that leaks through the cool ﬂame a, and the ratio of heat of combustion for the cool ﬂame and the hot ﬂame per unit mass of fuel consumed, q . A more thorough
+˜
+parametric study of the results will be presented elsewhere [12]. The values of independent
+nondimensional parameters used in the calculations, roughly corresponding to n-alkanes burning in air, are given in Table 1. Assuming ρ/ρ is of the order 1.5×10−3 , and the value of D
+approximately 0.1 cm2 /s, it can be shown using Eq. (25) that when the burning rate constant K
+varies between 0.3 to .7 mm2 /s, the dimensionless droplet surface location ηs varies between 0.7
+and 0.95. Furthermore, based on experimental observations, we focus here on conditions under
+which the cool ﬂame is located closer to the droplet surface, namely ηh < ηc < ηs .
+
+Table 1: Values of the nondimensional parameters used in the calculations.
+Variable
+Value
+˜
+Heat of vaporization, L
+˜
+Ambient oxygen concentration, YO∞
+˜
+Ambient temperature, T∞
+˜
+Droplet surface temperature, Ts
+Stoichiometric coefﬁcient ratio, s
+Heat of combustion ratio, q
+˜
+Fuel leakage fraction, a
+Burning rate in terms of ηs
+
+7×10−3
+0.066
+.007
+.009
+0.7
+0.01 - 0.3
+0.0 - 1.0
+0.8 - 0.9
+
+Figure 3 shows the variations of cool and hot ﬂame standoff ratios, fh and fc , as a function of
+ηs for various values of fuel leakage fraction a for a constant value of q =0.2. As a increases
+˜
+the fuel leakage at the cool ﬂame increases, and correspondingly the oxygen leakage at the hot
+ﬂame decreases. For a ﬁxed value of ηs , the cool ﬂame moves closer to the fuel surface with
+increasing a in order to maintain the required heat ﬂux to the droplet surface. Since more fuel
+is now available to the hot ﬂame, it moves farther away from the droplet surface to meet the
+stoichiometric requirement. For a ﬁxed value of a, as the burning rate is increased the cool ﬂame
+moves farther away due to the increased surface blowing velocity. However, the hot ﬂame moves
+closer to the cool ﬂame supplying added heat to it and thus increasing the overall heat transfer
+to the fuel surface causing increased vaporization. At some point the hot and cool ﬂames merge
+together and there are no physically meaningful results beyond that burning rate.
+˜
+˜
+Figure 4 shows the cool ﬂame temperature Tc , and the hot ﬂame temperature Th plotted as function of ηs for various values of a, holding q =0.2. Both ﬂame temperatures increase as the burning
+˜
+rate increases due to the increased amount of fuel being burnt. For a ﬁxed value of ηs , both the
+ﬂame temperatures decrease with increasing fuel leakage at the cool ﬂame. However, the rate of
+decrease for each of the ﬂame is quite different: initially as a increase from 0 to approximately
+8
+
+0.6
+0.7
+0.04
+
+hs = 0.86
+
+0.8
+0.85
+
+Ž
+q = 0.2
+
+0.9
+a=0.92
+
+Ž
+T
+
+0.03
+
+0.02
+
+0.01
+
+0.00
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+h
+
+Figure 5: Dimensionless temperature proﬁles for varying fuel leakage fraction a: ηs =0.86,
+q =0.2.
+˜
+
+0.05
+0.04
+
+0.6
+0.7
+
+0.8
+
+Ž
+T
+
+0.03
+
+0.5
+
+hs = 0.82
+Ž
+q = 0.2
+
+a=0.9
+
+0.02
+0.01
+0.00
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+h
+Figure 6: Dimensionless temperature proﬁles for varying fuel leakage fraction a: ηs =0.82,
+q =0.2.
+˜
+
+9
+
+0.05
+
+Ž
+q = 0.01
+
+0.1
+0.04
+
+hs = 0.86
+a=0.9
+
+0.2
+0.3
+
+Ž
+T
+
+0.03
+0.02
+0.01
+0.00
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+h
+Figure 7: Dimensionless temperature proﬁles for varying heat of reaction fraction q : ηs =0.86,
+˜
+a=0.9.
+
+0.01
+0.2
+
+hs = 0.82
+0.1
+
+a=0.5
+
+0.03
+
+Ž
+T
+
+Ž
+q = 0.3
+0.02
+
+0.01
+
+0.00
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+h
+Figure 8: Dimensionless temperature proﬁles for varying heat of reaction fraction q : ηs =0.82,
+˜
+a=0.5.
+
+10
+
+0.5, the hot ﬂame temperature decreases much faster while the cold ﬂame temperature remains
+relatively ﬁxed, and the reverse happens when a is increased further. When a is around 0.5, the
+hot ﬂame temperature actually falls below the cool ﬂame temperature at lower burning rates.
+˜
+˜
+When a is increased further Tc begins to fall at a faster rate and becomes lower than Th . Increasing a for a ﬁxed burning rate causes the ﬂames to move further apart and reduces the ﬂame
+temperatures to maintain the overall energy conservation.
+Figure 5 illustrates the the overall ﬂame structure in η coordinate for a burning rate corresponding to ηs =0.86 and q =0.2 for seven different values of a. As the leakage fraction increases in
+˜
+the cool ﬂame, its ﬂame temperature decreases. However, to keep the burning rate constant it
+moves closer to the droplet surface. The hot ﬂame, on the other hand, moves farther away with
+increasing fuel leakage to capture a sufﬁcient amount of oxygen and its temperature decreases
+slightly as described before. It is interesting to note that as a approaches one, the cool ﬂame
+moves closer to the droplet surface and eventually coincides with it so only a single hot ﬂame
+exists in the gas phase supplying most of the heat. When a approaches zero, both the ﬂames
+move closer to each other and merge eventually, with the cool ﬂame supplying all the heat. A
+similar scenario is shown in Fig. 6 for slightly lower burning rate, ηs =0.82. For this lower burning rate, the leakage fraction at which both the ﬂame temperature are the same occurs around
+a=0.8. On the other hand, when ηs =0.86, the hot ﬂame still supplies heat to the cool ﬂame when
+a=0.8.
+Now we consider the effects of varying the heat combustion of the cool ﬂame q . We consider
+˜
+two different cases; ﬁrst a relatively weak cool ﬂame with a=0.9 shown in Fig. 7, and a robust
+cool ﬂame with a=0.5 in Fig. 8. In the weak cool-ﬂame case as the heat of reaction decreases,
+the cool ﬂame moves closer to the droplet and eventually loses its identity as q approaches zero,
+˜
+leaving a single hot ﬂame. It should also be noted that as q increases the amount of heat the cool
+˜
+ﬂame receives from the hot ﬂame decreases, shown by the decrease in slope of the temperature
+proﬁle between ηh and ηc . The more robust cool-ﬂame case, shown Fig. 8, has cool-ﬂame
+temperatures are greater than that of the hot-ﬂame. As the heat of combustion ratio approaches
+zero, the cool ﬂame moves closer to the hot ﬂame and eventually a single ﬂame is established.
+˜
+˜
+It is also interesting to note that a dominant cool ﬂame, i.e, Tc > Th , is established with the fuel
+leakage of only 50% and relative heat of combustion of only 10%.
+
+5.
+
+Concluding Remarks
+
+The analysis presented here shows that dual ﬂames during spherically symmetric droplet combustion are possible when fuel leakage occurs under certain conditions. With the heat of combustion of the cool ﬂame around 20% of the hot ﬂame, a weak cool ﬂame is established when the
+fuel leakage is high. The weak ﬂame moves toward the droplet surface, as its heat combustion
+increases. One the other hand, a relatively robust coll ﬂame with fuel leakage fraction less than
+50% behaves differently; as the heat of combustion is decreased the cool ﬂame moves closer
+to the hot ﬂame and eventually merges with forming a single ﬂame. More detailed analyses of
+these results are currently underway.
+
+11
+
+Acknowledgments
+This work was supported by the NASA Space Life and Physical Sciences Research and Applications Program, and the International Space Station Program. Mr. J. Mark Hickman served as
+the project manager.
+
+References
+[1] V. Nayagam, D.L. Dietrich, P.V. Ferkul, M.C. Hicks, and F.A. Williams. Can cool ﬂames
+support quasi-steady alkane droplet burning? Combustion and Flame, 159(12):3583 –
+3588, 2012.
+[2] A. Cuoci, A. Frassoldati, T. Faravelli, and E. Ranzi. Cool ﬂames in droplet combustion.
+XXXVI Meeting of the Italian Section of the Combustion Institute, 2013.
+[3] T.I. Farouk and F.L. Dryer. Isolated n-heptane droplet combustion in microgravity: “cool
+ﬂames” two-stage combustion. Combustion and Flame, 161(2):565 – 581, 2014.
+[4] V. Nayagam, D. L. Dietrich, and F. A. Williams. Partial-burning regime for quasi-steady
+droplet combustion supported by cool ﬂames. AIAA Journal, doi: 10.2514/1.J054437,
+2016, (in press).
+[5] Y.C. Liu, C.T. Avedisian, K.N. Trenou, J.K. Rah, and M.C. Hicks. Experimental study of
+initial diameter effects on convection-free droplet combustion in the standard atmosphere
+for n-heptane, n-octane, and n-decane: International space station and ground-based experiments (AIAA 2014-1019). 52nd Aerospace Sciences Meeting. January, 2014.
+[6] V. Nayagam, D. L. Dietrich, M. C. Hicks, and F. A. Williams. Cool-ﬂame extinction during
+n-alkane droplet combustion in microgravity. Combustion and Flame, 162(5):2140–2147,
+2015.
+[7] D.L. Dietrich, R. Calabria, P. Massoli, V. Nayagam, and F.A. Williams. Experimental
+observations of the low-temperature burning of decane/hexanol droplets in microgravity.
+Combustion Science and Technology, (submitted, 2016).
+[8] A. K. Kapila and G.S.S.Lundford. Two-step sequential reactions for large activation energies. Combustion and Flame, 29:167–176, 1977.
+[9] C.K.Westbrook, W.J.Pitz, O. Herbinet, H. J.Curran, and E.J. Silke. A comprehensive detailed chemical kinetic reaction mechanism for combustion of n-alkane hydrocarbons from
+n-octane to n-hexadecane. Combustion and Flame, 156(1):181–199, 2009.
+[10] P. Zhao, W. Liang, S. Deng, and C. K. Law. Initiation and propagation of laminar premixed
+cool ﬂames. Fuel, 166:477–487, 2016.
+[11] Mathematica 10.3. Wolfram Research, Inc, Champaign, Illinois, 2015.
+[12] D.L. Dietrich, V. Nayagam, and F.A. Williams. A burke-schumann analysis of dual-ﬂame
+structure supported by a burning droplet. (in preparation, 2016).
+
+12
+

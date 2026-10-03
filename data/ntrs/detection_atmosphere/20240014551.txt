@@ -1,0 +1,66 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="pdf:PDFVersion" content="1.6">
+<meta name="xmp:CreatorTool" content="Acrobat PDFMaker 24 for Word">
+<meta name="pdf:docinfo:title" content="EXPORT-24-0020">
+<meta name="pdf:hasXFA" content="false">
+<meta name="access_permission:modify_annotations" content="true">
+<meta name="access_permission:can_print_degraded" content="true">
+<meta name="dc:creator" content="Peralta, Stephen F. (WSTF-RF111)">
+<meta name="dcterms:created" content="2024-11-15T18:17:43Z">
+<meta name="dcterms:modified" content="2024-11-15T18:17:44Z">
+<meta name="dc:format" content="application/pdf; version=1.6">
+<meta name="xmpMM:DocumentID" content="uuid:a5cfe2a2-47d5-4711-baad-cd4618428833">
+<meta name="pdf:docinfo:creator_tool" content="Acrobat PDFMaker 24 for Word">
+<meta name="access_permission:fill_in_form" content="true">
+<meta name="pdf:docinfo:modified" content="2024-11-15T18:17:44Z">
+<meta name="pdf:hasCollection" content="false">
+<meta name="pdf:encrypted" content="false">
+<meta name="dc:title" content="EXPORT-24-0020">
+<meta name="xmp:CreateDate" content="2024-11-15T11:17:43Z">
+<meta name="pdf:docinfo:custom:SourceModified" content="D:20241115181623">
+<meta name="pdf:hasMarkedContent" content="true">
+<meta name="Content-Type-Override" content="application/pdf">
+<meta name="Content-Type" content="application/pdf">
+<meta name="xmp:ModifyDate" content="2024-11-15T11:17:44Z">
+<meta name="pdf:docinfo:creator" content="Peralta, Stephen F. (WSTF-RF111)">
+<meta name="xmp:MetadataDate" content="2024-11-15T11:17:44Z">
+<meta name="dc:language" content="EN-US">
+<meta name="pdf:producer" content="Adobe PDF Library 24.4.19">
+<meta name="access_permission:extract_for_accessibility" content="true">
+<meta name="access_permission:assemble_document" content="true">
+<meta name="xmpTPg:NPages" content="1">
+<meta name="pdf:hasXMP" content="true">
+<meta name="access_permission:extract_content" content="true">
+<meta name="access_permission:can_print" content="true">
+<meta name="SourceModified" content="D:20241115181623">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.DefaultParser">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.pdf.PDFParser">
+<meta name="access_permission:can_modify" content="true">
+<meta name="pdf:docinfo:producer" content="Adobe PDF Library 24.4.19">
+<meta name="pdf:docinfo:created" content="2024-11-15T18:17:43Z">
+<title>EXPORT-24-0020</title>
+</head>
+<body><div class="page"><p></p>
+<p>A New Test Methodology for Evaluating Fire Risk Due to Electrical Faults in Oxygen-
+Enriched Environments 
+</p>
+<p>Authors: Stephen F. Peralta, Timothy D. Gallus, Gregory J. Harrigan, Thomas K. Evans, and 
+DeAngelo D. Maestas 
+</p>
+<p>This paper discusses a new test methodology for assessing the safe use of materials found in 
+spacecraft that may be exposed to electrical faults, as performed at the NASA White Sands Test 
+Facility. “Wire-break” testing, modeled after the Cleveland Open Cup method, identifies the 
+conditions under which pyrolyzed material transitions from a brief flash to a propagating flame. 
+The approach focuses on fuel mass liberated through pyrolysis, mixed with oxygen, and ignited 
+by a piloted ignition (spark due to fusion of wire) to achieve flame propagation with the least 
+energy. The test approach attempts to find energy density thresholds derived using I²t values 
+from current-induced heating of various test materials and wire characteristics. The application 
+of the data provides a useful approach to mitigating fire risks in space systems by correlating 
+threshold data to real-world designs and scaling factors, including oxygen pressure, wire 
+diameter, heat sinking, and contained smoke volume. Several case studies, including Apollo 
+missions and hypothetical scenarios, illustrate practical applications of these thresholds to 
+enhance fire safety design considerations in space environments. </p>
+<p></p>
+</div>
+</body></html>

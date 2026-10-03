@@ -1,0 +1,500 @@
+National Aeronautics and Space Administration
+
+Evaluation of Low-Gravity Smoke Particulate for
+Spacecraft Fire Detection
+
+May 19-22, 2013
+
+49th AIAA Aerospace Sciences Meeting, January 2011
+
+www.nasa.gov
+
+1
+
+National Aeronautics and Space Administration
+
+Evaluation of Low-Gravity Smoke Particulate for
+Spacecraft Fire Detection
+NASA Glenn Research Center
+David Urban, Gary Ruff, Paul Greenberg,
+Marit Meyer
+University of Maryland
+George Mulholland
+National Center for Space Exploration Research
+Zeng-guang Yuan, Victoria Bryg
+National Institute of Standards and Technology
+Thomas Cleary, Jiann Yang
+www.nasa.gov
+
+2
+
+National Aeronautics and Space Administration
+
+Smoke Detection Background:
+Destiny Smoke Detection Simulation-25% Soot
+effect of gravity
+
+Low-gravity
+
+Normal-gravity
+www.nasa.gov
+
+3
+
+National Aeronautics and Space Administration
+
+Background: Spacecraft Fire Detection
+STS Detector: sensitive < 1 micron
+•dual-chamber ionization with inertial separator
+which rejects particles larger than 1-2 microns.
+•Developed in the late 70’s when Ionization detectors
+were prevalent
+
+ISS detector: sensitive > 0.5 micron
+•2-pass IR laser-diode forward-scattering detector (30
+degrees) minimum reported sensitivity is 0.3 μm.
+•Developed in the 90’s and took advantage of the
+availability of stable diode light sources.
+
+www.nasa.gov
+
+4
+
+National Aeronautics and Space Administration
+
+Log-Normal Distribution
+
+ ln D  ln Dg 2 
+Nt
+
+exp 
+f N ( D) 
+1/ 2
+2
+
+
+(2 ) D ln  g
+2 ln  g
+
+
+Number is dominated by the smaller particles
+Mass is dominated by the larger particles (tail)
+
+Log-normal distribution σg =
+1.6, Dg= 1
+www.nasa.gov
+
+5
+
+National Aeronautics and Space Administration
+
+SAME Experimental Diagnostic Measurements
+All measure moments of the particle size distribution
+
+M i   D fN (D )dD
+i
+
+Zeroth Moment:
+TSI PTrak™
+
+First Moment:
+First Alert™
+Smoke Detector
+
+Third Moment:
+TSI Dust Trak™
+www.nasa.gov
+
+6
+
+National Aeronautics and Space Administration
+
+SAME Sample Carousel
+
+Sample Materials:
+Silicone
+Teflon
+Kapton
+LampWick
+Pyrell
+DBP
+
+www.nasa.gov
+
+7
+
+National Aeronautics and Space Administration
+
+SAME in MSG (mockup)
+Data
+Acquisition and
+Control Unit
+
+Aging
+Chamber
+
+Fluids
+Control
+Unit
+
+Sample
+Diluter
+Commercial
+Diagnostics
+Hose
+Bundle
+
+Experiment
+Support
+Plate
+
+Sample
+Carousel
+
+Thermal
+Precipitator
+
+P-Trak
+Enclosure
+www.nasa.gov
+
+8
+
+National Aeronautics and Space Administration
+
+SAME Hardware on orbit
+
+www.nasa.gov
+
+9
+
+National Aeronautics and Space Administration
+
+SAME Particle Capture
+
+Handle for quick
+installation and
+removal
+
+Stereolithography
+manifold
+
+X-valve
+solenoid bank
+
+Hot-wire
+Leads
+
+Electrical
+Connection
+
+Vacuum
+Connection
+
+Cover
+
+www.nasa.gov
+
+10
+
+National Aeronautics and Space Administration
+
+Thermal Precipitator
+
+Overview image showing deposition boundary
+www.nasa.gov
+
+11
+
+National Aeronautics and Space Administration
+
+Teflon
+(Run 56)
+
+Pyrell
+(Run 63)
+
+Length
+2 μm
+
+TEM Results
+
+Lampwick
+(Run 54)
+
+Kapton
+(Run
+62)
+
+scale
+
+www.nasa.gov
+
+12
+
+National Aeronautics and Space Administration
+
+TEM Results - Pyrell Aging
+
+Pre aging
+
+2 microns
+
+Post aging
+
+2 microns
+
+High Temperature Pyrell: 480 second aging run (Run 84)
+www.nasa.gov
+
+13
+
+National Aeronautics and Space Administration
+
+TEM Results – Pyrell- effect of flow
+
+5 microns
+
+8 cm/s air flow
+
+5 microns
+
+No air flow
+
+Pyrell with and without flow
+www.nasa.gov
+
+14
+
+National Aeronautics and Space Administration
+
+10 Micron versus 1 micron Mass ratios
+
+DustTrak Ration (10 micron mass / 1 micorn mass)
+
+2.50
+
+2.00
+
+Kapton unaged
+1.50
+
+Lampwick unaged
+Teflon unaged
+Silicone unaged
+Kapton Aged
+
+1.00
+
+Lampwick Aged
+Teflon aged
+Silicone Aged
+
+0.50
+
+0.00
+0.0000
+
+0.1000
+
+0.2000
+
+0.3000
+
+0.4000
+
+0.5000
+
+0.6000
+
+0.7000
+
+Diameter of average mass (µm)
+
+10 micron versus 1 micron impactor ratios for different flow
+rates and sample temperatures
+50th AIAA Aerospace Sciences Meeting, Nashville, TN
+
+www.nasa.gov
+
+15
+
+National Aeronautics and Space Administration
+
+Effect of Air Flow on Diameter of Average
+Mass
+1.40
+
+Diameter of averagef mass (µm)
+
+1.20
+1.00
+0.80
+
+Teflon
+Pyrell
+Silicone
+
+0.60
+
+Lampwick
+Kapton
+
+0.40
+0.20
+0.00
+0
+
+2
+
+4
+6
+Air Flow (cm/s)
+
+8
+
+10
+
+Constant temperature for each material with no aging.
+50th AIAA Aerospace Sciences Meeting, Nashville, TN
+
+www.nasa.gov
+
+16
+
+National Aeronautics and Space Administration
+
+Effect of Aging on Diameter of Average Mass
+0.80
+0.70
+0.60
+Teflon
+
+0.50
+
+Kapton
+
+0.40
+
+LampWick
+Pyrell
+
+0.30
+
+Silicone
+0.20
+0.10
+0.00
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+8 cm/s airflow
+Constant temperature for each sample.
+50th AIAA Aerospace Sciences Meeting, Nashville, TN
+
+www.nasa.gov
+
+17
+
+National Aeronautics and Space Administration
+
+Effect of Gravity on Diameter of Average Mass
+Diameter of Average Mass, low-gravity results (µm)
+
+0.8
+Teflon, Baseline Temperature
+
+0.7
+
+Teflon,High Temperature
+Teflon, Baseline Temperature, Aged
+
+0.6
+
+Kapton, Baseline Temperature
+Kapton, High Temperature
+
+0.5
+
+Kapton, Baseline Temperature, Aged
+Kapton, High Temperature, Aged
+
+0.4
+
+Lampwick, Baseline Temperature
+Lampwick, High Temperature
+
+0.3
+
+Lampwick, Baseline Temperature,
+Aged
+Lampwick, High Temperature, Aged
+
+0.2
+
+Silicone, Baseline Temperature
+Silicone, High Temperature
+
+0.1
+
+Silicone, Baseline Temperature, Aged
+Pyrell, Baseline Temperature
+
+0
+0
+
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+Diameter of Average Mass, normal-gravity results (µm)
+
+50th AIAA Aerospace Sciences Meeting, Nashville, TN
+
+0.7
+
+8 cm/s flow
+www.nasa.gov
+
+18
+
+National Aeronautics and Space Administration
+
+Conclusions
+•
+•
+•
+•
+•
+•
+
+Particle sizes ranged from 100 to 600 nm
+Consistent with a log-normal distribution.
+Particle sizes increase substantially with aging.
+Particle dimensions increase substantially as air flow was decreased.
+TEM showed a significant range of distinct particle morphologies
+For lampwick and silicone approximately 40% of the aerosol mass
+had aerodynamic diameters greater than 1 μm
+• Ground based testing at 8 cm/s showed particle dimensions very
+close to the flight results.
+Spacecraft fire conditions include an even wider array of materials and
+conditions.
+Spacecraft background aerosols can be quite large
+Detection methods that can measure more than one moment of the size
+distribution may show more successful detection and false alarm
+rejection than single moment detectors.
+50th AIAA Aerospace Sciences Meeting, Nashville, TN
+
+www.nasa.gov
+
+19
+

@@ -1,0 +1,761 @@
+Advanced Exploration Systems Division
+
+Operation and Development 
+Status of the Spacecraft Fire 
+Experiment (Saffire)
+Gary A. Ruff and David L. Urban
+NASA John H. Glenn Research Center
+Cleveland, OH
+July 13, 2016
+
+International Topical Team
+
+
+Sandra Olson, NASA Glenn Research Center, Cleveland, OH
+
+
+
+Paul Ferkul, NASA Glenn Research Center, Cleveland, OH
+
+
+
+Carlos Fernandez-Pello, UC Berkeley, Berkeley, CA, USA
+
+
+
+James S. T’ien , Case Western Reserve University, Cleveland, OH, USA
+
+
+
+Ya-Ting Liao, Case Western Reserve University, Cleveland, OH, USA
+
+
+
+Jose L. Torero, University of Queensland, Brisbane, Australia
+
+
+
+Guillaume Legros, Université Pierre et Marie Curie, Paris, France
+
+
+
+Christian Eigenbrod, University of Bremen (ZARM), Bremen, Germany
+
+
+
+Nickolay Smirnov, Moscow Lomonosov State University, Moscow, Russia
+
+
+
+Osamu Fujita, Hokkaido University, Sapporo, Japan
+
+
+
+Sebastien Rouvreau, Belisama R&D, Toulouse, France
+
+
+
+Balazs Toth, ESA ESTEC, Noordwijk, Netherlands
+
+
+
+Grunde Jomaas, Technical University of Denmark, Kgs. Lyngby, Denmark
+2
+
+Spacecraft Fire Safety Demonstration
+•
+
+Project Background and Objectives
+
+•
+
+Saffire Hardware
+
+•
+
+Flight Operations
+
+•
+
+Preliminary Results
+
+•
+
+Spacecraft Fire Safety Technology Needs
+
+•
+
+Saffire-IV-VI Objectives and Plans
+
+3
+
+Saffire-I, II, & III Overview
+Needs:
+
+
+Low-g flammability limits for spacecraft
+materials
+
+
+
+Definition of realistic fires for exploration
+vehicles
+
+Fans
+
+Power
+Management
+Sample card
+(flame spread
+sample
+shown)
+
+‒ Fate of a large-scale spacecraft fire
+
+Objectives:
+
+
+
+
+Saffire-I: Assess flame spread of largescale microgravity fire (spread
+rate, mass consumption, heat
+release)
+Saffire-II: Verify oxygen flammability limits
+in low gravity
+
+Cameras
+
+Avionics Bay
+Signal
+conditioning
+card
+
+
+
+Saffire-III: Same as Saffire-I but at different
+flow conditions.
+
+•
+
+Data obtained from the experiment will be used to
+validate modeling of spacecraft fire response
+scenarios
+Evaluate NASA’s normal-gravity material
+flammability screening test for low-gravity conditions.
+
+•
+
+Flow Duct
+
+Flow
+straightener
+
+Saffire module consists of a flow duct
+containing the sample card and an
+avionics bay. All power, computer, and
+data acquisition modules are contained
+in the bay. Dimensions are
+approximately 53- by 90- by 133-cm
+
+4
+
+Sample Card Holder Configurations
+ Sample card and samples are the only differences between the three
+flight units
+
+Saffire-I, -III Sample Card
+Composite fabric (SIBAL cloth)
+(75% cotton – 25% fiberglass by mass)
+(0.4 m x 0.95 m)
+
+Saffire-II Sample Card
+Saffire-II Samples (5 cm x 29 cm)
+•
+PMMA (flat and structured)
+•
+Silicone (3 thicknesses, different
+ignition direction)
+•
+SIBAL
+•
+Nomex (with PMMA ignition)
+5
+
+Operations Concept
+Pre-Launch
+
+Unpowered
+Inhibits Open
+
+Powered
+Inhibits
+Closed
+
+Hawaii
+
+WGS
+
+66
+
+Saffire-I Integration
+January 2016
+
+Saffire-I hardware
+strapped into the
+Cygnus Pressurized
+Cargo Module
+
+Saffire-I
+Integration.
+NASA-KSC
+
+7
+
+Saffire-I Launch and Berthing
+March 22
+ Successful launch of Saffire-I onboard Cygnus OA-6 (SS Rick Husband) on
+March 22
+ Orbital ATK reported that OA-6 had a nominal ascent.
+‒
+
+Spacecraft Mission Director reported to the Saffire team “Vehicle is good. PCM is
+good. All inhibits in place. Enjoy the ride.”
+
+Saffire-I photograph taken
+by the ISS crew following
+initial ingress to the PCM
+Launch of OA-6 on
+March 22 carrying
+Saffire-I
+
+ OA-6 Pressurized Cargo Module (PCM)
+berthed to the ISS on Saturday, March 26
+with crew ingress into the PCM on March 27
+ The crew took on-orbit photographs of
+Saffire-I (right)
+8
+
+Saffire-I Operations
+June 14-20, 2016
+ OA-6 unberthed from the ISS at 9:30
+a.m. EDT on June 22
+ Saffire-I was powered on at 2:23 p.m.
+ RUN command was sent at 4:41 p.m.
+
+
+Ignition at 4:44 p.m.
+
+ Cygnus smoke detector readings
+received at 4:52 p.m.
+
+NASA and Orbital ATK teams at MCC-Dulles
+(above) and Flight Operations-GRC (right)
+conducted and monitored Saffire-I operations
+
+ Operations received considerable
+coverage on social media
+
+
+NASA GRC and AES
+
+9
+
+Saffire-I Operations
+Smoke Flow Visualization (Pre-Test)
+ Smoke line
+visualization of the
+flow in the Saffire-I
+duct.
+• (Top) smoke line
+image with lens
+distortion.
+• (Bottom) Image
+with distortion
+correction
+showing later
+smoke lines.
+• The flow is from
+right to left.
+
+Camera 1 and 2 images as recorded (with distortion)
+
+Flow
+
+Camera 1 and 2 images with distortion correction
+
+10
+
+Saffire-I Operations
+Concurrent Flow Igniter
+
+Igniter
+Thermocouple
+wires
+Flow
+40 cm
+
+Thermocouple
+beads
+
+Thermocouple wire woven
+into the fabric to assess
+flame structure
+
+Thermocouple
+beads
+
+Saffire-I sample material at the beginning of the concurrent (upstream) burn.
+Thermocouple wires are sewn into the sample material with thermocouple beads at
+various heights in the center of the sample.
+
+11
+
+Saffire-I Operations
+Concurrent Flow Igniter
+
+40 cm
+
+Flow
+
+Video of the first 30 seconds of the Saffire-I concurrent (upstream) burn. The
+green LED is on for 1 second and off for two seconds (1 second out of three). Shorter
+times indicate missing downlinked frames.
+
+12
+
+Saffire-I Operations
+So, how big is the flame?
+
+The length of the
+Saffire-I sample is 94 cm;
+the BASS sample is 7 cm
+long
+40 cm
+
+Flow
+
+2.2 cm
+Saffire-I flame compared to a flame from the Burning and Suppression of Solids (BASS)
+experiment conducted in the Microgravity Science Glovebox . Camera exposures and gains
+are different between the two experiments.
+
+13
+
+Saffire-I Operations
+Opposed Flow Igniter
+
+Igniter
+
+Unburned
+sample
+
+Thermocouple
+wires
+
+Thermocouple
+beads
+40 cm
+
+Saffire-I sample material at the beginning of the opposed flow (downstream) burn. The light
+portion of the image is sample material unburned from the concurrent burn. A second set of
+thermocouple wires are sewn into the sample material with thermocouple beads at various heights
+14
+in the center of the sample.
+
+Saffire-I Operations
+Opposed Flow Igniter
+
+Flow
+40 cm
+
+Video of the Saffire-I opposed flow (downstream) burn. The green LED is on for 1 second and
+off for two seconds (1 second out of three). Shorter illumination durations indicate missing
+downlinked frames.
+
+15
+
+Saffire-I
+End-of-Mission
+ Saffire-I relays were opened at 9:41:48 p.m. on June 19, 2016 ending the
+mission
+ Cygnus OA-6 deployed CubeSat experiments on June 20
+ Cygnus de-orbited on June 21, 11:29 p.m.
+
+Saffire-I Future Analysis
+ Location of pyrolysis front, flame base, and flame length vs. time for concurrent
+and opposed flame spread (rate of flame spread)
+ Pulsation frequency of the concurrent flame
+ Comparison with computational models of the concurrent and opposed flow
+flames
+ Pressure and temperature rise of the Cygnus vehicle during combustion
+ Transport of smoke aerosol in the Cygnus vehicle
+ Estimate of the free volume of the Cygnus vehicle
+ Impact on operation of Saffire-II and III
+ Analyses will be performed by researchers from NASA and the International
+Topical Team and published in various papers
+ Data will also be posted to NASA Physical Sciences Informatics System
+(psi.nasa.gov)
+
+Saffire-II
+Samples
+ Samples are 5 cm x 29 cm
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+ Four different sample materials
+• Concurrent and opposed for
+Silicone
+ Motivation
+• Previous low-g data (small scale)
+• Material flammability limits
+• NASA-STD-6001 Test 1
+• Spacecraft fire safety strategy
+ Thermocouples mounted on the
+SIBAL and Nomex samples
+ Saffire-III sample material will be the
+same as Saffire-I
+
+
+Flow will be close to 30 cm/sec as
+opposed to 20 cm/sec for Saffire-I
+
+Silicone
+SIBAL
+Silicone
+(opposed)
+PMMA
+Nomex
+
+Spacecraft Fire Safety Demonstration
+Saffire-II and III Launch Dates
+
+Orb-3 Failure
+
+
+
+Orb-3
+ Launch occurred on October 28, 2014 which would have been its fourth to
+the International Space Station and the fifth of an Antares launch vehicle
+ Fifteen seconds after liftoff a failure of propulsion occurred in the first stage
+
+
+
+OA-5 launch NET 8/23 with deberth on September 10 (as of 7/8/2016)
+
+19
+
+What’s Next for Saffire?
+ Fire Safety System Maturation Team have defined fire safety
+
+needs for exploration vehicles
+ Low and partial-gravity material flammability
+ Fire detection
+ Fire suppression
+ Emergency crew mask
+ Post-fire (combustion product) monitoring
+ Post-fire cleanup
+ Fire scenario modeling and analysis
+ NASA’s Advanced Exploration Systems Division has authorized
+
+the development of Saffire-IV-VI to address remaining capability
+and technology gaps
+• Following the Saffire-I-III flights, conduct additional tests of material
+flammability but include fire detection, suppression, and clean-up capabilities
+• International Topical Team helping to define science objectives
+20
+
+Saffire-IV, V, and VI Overview
+Needs:
+
+
+Demonstrate spacecraft fire detection,
+monitoring, and cleanup technologies in a
+realistic fire scenario
+
+
+
+Characterize fire growth in high O2/low
+pressure atmospheres
+
+
+
+Provide data to validate models of realistic
+spacecraft fire scenarios
+
+Objectives:
+
+
+
+
+
+
+Saffire-IV: Assess flame spread of largescale microgravity fire (spread
+rate, mass consumption, heat
+release) in exploration atm
+Saffire-V: Evaluate fire behavior on
+realistic geometries
+Saffire-VI: Assess existing material
+configuration control guidelines
+All flights will demonstrate fire detection,
+monitoring, and cleanup technology
+
+Conceptual design of Saffire-IV-VI experiment module.
+Dimensions are approximately 53- by 90- by 133-cm.
+additions from previous Saffire include side view of sample
+card and oxygen addition.
+Avionics
+CO2 Filter
+Smoke Eater
+Combustion Product Monitor
+Particulate monitors
+(DuctTrak & Ion chamber)
+21
+
+Saffire-IV, V, and VI
+Status
+ Conducted a TIM in February 2016 with GRC Project Team and developers of postfire monitoring and cleanup technologies
+ Set-up regular design meetings with engineering teams
+
+ Developing experiment hardware concept that meets preliminary objectives
+ Reviewed Saffire-IV, -V, and –VI with NASA Fire Safety SMT & stakeholders on
+April 6
+
+ Strongly supported flammability objectives and gave suggestions for technology
+demonstration objectives
+
+ Plan to conduct Mission Concept Review/System Requirement Review on August 3
+ CDR in Dec 2015/Jan 2016 timeframe
+Saffire Flow Unit
+
+Far Field Diagnostic
+containing Smokeeater, combustion
+product monitor, and
+particulate diagnostics
+
+22
+
+Spacecraft Fire Safety Demonstration Objectives
+Area
+
+Objective
+
+Comment
+
+Quantify growth and end state of realistic fires
+Require to validate computational
+Fire behavior/modeling: in spacecraft and their influence on vehicle
+models
+habitability
+
+Saffire-I, II,
+III
+
+Saffire-IV,
+V, VI
+
+X
+
+X
+
+Ground
+
+Flame behavior in complex geometries
+Flame behavior for planar and complex
+geometries in exploration atmospheres
+
+Elevated O2, lower P; compare with
+Saffire-I, II, III; supplement small-scale
+tests in CIR
+
+X
+
+Continues Saffire-I and III investigations
+
+Demonstrate performance of prototype Orion
+and ISS CPM
+
+Demonstration of prototype flight
+hardware
+
+X
+
+X
+
+Obtain data to validate transport and detection
+Required for model development
+models
+
+Post-fire monitoring
+
+X
+
+Measure flame behavior over large-scale
+planar surfaces
+
+Fire growth/dynamics
+
+More realistic configurations than SaffireI, II, and III
+
+X
+
+X
+
+X
+
+X
+
+Demonstrate fire detection with multi-moment
+sensors
+
+Demonstrate capability to reject
+nuisance alarms
+
+X
+
+Evaluate performance of hybrid fire detection
+(smoke and gaseous products)
+
+Combustion product detection by
+prototype combustion product monitor
+
+X
+
+Quantify rate of decay of gas species after a
+spacecraft fire
+
+Required for model development
+
+X
+
+X
+
+Post-fire cleanup
+
+Quantify atmosphere cleanup rate with
+prototype smoke-eater
+
+Demo of prototype flight hardware
+
+X
+
+X
+
+Fire Suppression
+
+Performance of low-momentum water mist
+suppression
+
+Effectiveness of fire ports using water
+mist fire suppression
+
+Fire Detection
+
+Post-fire monitoring
+
+X
+
+23
+
+BACKUP
+
+24
+
+Summary of Spacecraft Fire Safety Needs
+Technical Area
+
+Tech Goal addressed
+
+Accurate definition of the risk from material
+Low- and partial-gravity
+flammability in low-g (identify material flammability
+Material Flammability
+limits in low-g environment)
+
+Gap
+• Quantification of risk from NASA-STD- 6001 Test 1
+normal-g data
+• Growth rate of fire hazard
+
+Fire Detection
+
+Common fire detectors for exploration. Early fire
+detection from structurally integrated distributed
+sensors
+
+• Particle size discrimination
+• Adaptation of state-of-art technology
+
+Fire Suppression
+
+ECLS-compatible and re-chargeable fire
+extinguisher
+
+• Scaling to vehicle
+• Size of critical fire
+
+Emergency breathing apparatus with filtering
+respirator
+
+•
+•
+•
+•
+
+Flame resistant
+One size fits all
+Can be donned in 5 sec
+Resists chemical breakthrough
+
+Post-fire (combustion
+product) monitoring
+
+Contingency air monitor for relevant chemical
+markers of post-fire cleanup
+
+•
+•
+•
+•
+
+Measurement of CO, CO2, HF, HCl, HCN
+Battery-operated
+Hand-held
+Calibration duration 1-5 years
+
+Post-fire/leak Clean-up
+
+Contingency air purifier for post-fire and leak
+cleanup
+
+• Stand-alone
+• Low (integrated) power, low mass/volume
+
+Emergency Crew Mask
+
+Fire Scenario Modeling
+Definition of a realistic spacecraft fire to size
+and Analysis
+
+• Validated models of impact of a large scale fire on
+the spacecraft volume and cabin conditions
+• Analysis to size fire suppression and cleanup
+equipment based on vehicle parameters
+
+25
+

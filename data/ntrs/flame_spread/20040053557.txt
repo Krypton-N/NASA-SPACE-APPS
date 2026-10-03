@@ -1,0 +1,506 @@
+EXTINCTION CRITERIA FOR OPPOSED-FLOW FLAME SPREAD IN A
+MICROGRAVITY ENVIRONMENT
+SUBRATA BHATTACHARJEE
+CHRIS PAOLINI
+San Diego State University, San Diego, California
+and
+KAZUNORI WAKAI
+SHUHEI TAKAHASHI
+Gifu University, Gifu, Japan
+INTRODUCTION: A simplified analysis is presented to extend a previous work [1] on flame extinction in a
+quiescent microgravity environment to a more likely situation of a mild opposing flow. The energy balance
+equation, that includes surface re-radiation, is solved to yield a closed form spread rate expression in terms of its
+thermal limit, and a radiation number that can be evaluated from the known parameters of the problem. Based on
+this spread rate expression, extinction criterions for a flame over solid fuels, both thin and thick, have been
+developed that are qualitatively verified with experiments conducted at the MGLAB [2] in Japan. Flammability
+maps with oxygen level, opposing flow velocity and fuel thickness as independent variables are extracted from the
+theory that explains the well-established trends in the existing experimental data [3].
+Thermal Regime: An energy balance for the solid phase control volume of Fig. 1 can be written as.
+
+λg
+where,
+
+(T
+
+f
+
+− Tv )
+Lg
+
+Lg − εσ (Tv4 − T∞4 ) Lg ~ V f ρ s csτ h (Tv − T∞ )
+
+(1)
+
+T f and Tv are characteristic flame and vaporization temperature, τ h is the thickness of the heated layer, and
+
+Lg = α g / (V f + Vg ) is the gas-phase length scale. For thin fuels in the thermal limit, τ h = τ and ε = 0 produces
+
+(
+
+)
+
+(
+
+)
+
+the de Ris solution V f ,th,thn ~ λg / ρ s csτ F , where F ≡ T f − Tv / (Tv − T∞ ) . Using V f ,th,thn to nondimensionalize
+
+V f , η f ≡ V f / V f ,th,thn Eq. (1) can be expressed in non-dimensional form as follows.
+
+4
+4
+V
+τh
+1 ρ s cs εστ  Tv − T∞ 
+(η + η f ηg ) τ − (η f + ηg ) + ℜ0 ~ 0 ; where, ℜ0 ≡ F 2 ρ c λ  T − T  , ηg ≡ V g
+
+
+∞ 
+g g
+g  v
+f ,th,thn
+2
+f
+
+The thermal thin limit
+
+(2)
+
+η f ,th,thin ~ 1 is recovered when ℜ0 = 0 and τ h = τ . To obtain a more general solution
+
+τ h / τ for a thick fuel can be scaled as
+α s tres,s
+α s Lg Ω
+τh
+λ s ρ s cs
+1
+~
+~
+~
+where, Ω ≡
+.
+2
+τ
+τ
+τ Vf
+λ g ρ g cg
+F η (η + η )
+f
+f
+g
+
+(3)
+
+Substituting this into Eq. (2) and still ignoring radiation, we obtain the thermal limit for semi-infinite fuel beds.
+−1
+
+η f ,th,thick
+
+F2  F2 
+F2
+λs
+Ω2
+~ 2 η g 1 − 2  ~ 2 η g if τ ≥ τ h ; or, τ ≥
+; or, η g ≥ 2
+ρ g cgVg F
+Ω
+Ω
+F
+ Ω 
+
+(4)
+
+The simplification above is achieved because for both PMMA and cellulose it can be shown that F < Ω . Equation
+(4) also provides a criterion for transition between the thin and the thick limit for η g
+1 . Prediction from Eq. (4)
+
+NASA/CP—2003-212376/REV1
+
+201
+
+is plotted in Fig. 2 showing the transition from the thin to the thick limit in the thermal regime. Not much data in the
+thick-thin transitional region is available to verify this simple transition criterion.
+Radiative Regime: The energy balance equation, Eq. (2), is solved in both the thick and thin limit producing
+Thin Limit: η f ,thin ~
+
+1 − ηg
+2
+
+1
++
+2
+
+(1 + η )
+g
+
+2
+
+2
+
+− 4ℜ0 ; Thick Limit: η f ,thick
+
+F2  ℜ 
+~ 2 η g 1 − 0  ; (5)
+ η 
+Ω
+g 
+
+
+These results are plotted in Figs. 3 and 4 for several values of the radiation parameter ℜ0 . A number of important
+features of the radiative effects on flame spread rates are revealed by these plots. When ℜ0 > 0 , the slope of the
+spread rate curves decreases with opposing velocity for thin fuels while this trend is completely reversed for thick
+fuels. The MGLAB data [2] for flame spread over thin PMMA, shown in Fig 5, support this predicted trend for thin
+fuels. The DARTFIRE experiments [4] for flame spread over thick PMMA lends supports to the trends predicted by
+Fig. 4.
+Obvioulsy, for ℜ0 = 0 and/or η g → ∞ , the thermal limits are recovered with η f ,thin = 1 and η f ,thick
+being proportional to η g . To establish a criterion for the transition between the thermal and radiative regimes, we
+simplify Eq. (5) assuming η g
+
+1 . If the spread rate is non-dimensionalized by the corresponding thermal limit,
+
+Eq. Error! Reference source not found. for both the thick and thin limit can be shown to approach the same form.
+Thin and Thick Fuels: For η g
+
+1,
+
+η ′f ≡
+
+2
+
+Vf
+V f ,thermal
+
+ ℜ 
+ℜ
+~ 1 − 0  ~ 1 − 2ℜV ; where, ℜV ≡ 0
+ ηg 
+ηg
+
+
+
+(6)
+
+A single parameter ℜV , therefore, controls the radiative effects on the spread rate for both thermally thin and thick
+fuels. η ′ from Eq. (6) is plotted in Fig. 6 against versus 1/ ℜV , so that the abscissa is proportional to Vg .
+f
+Superposed on this figure are experimental spread rates from MGLAB experiments, only part of which were
+previously reported [2]. Although the spread of the data around the prediction of Eq. (6) is substantial, the onset of
+radiative effects seems to be well correlated by the analytical prediction.
+Extinction Criteria: The spread rate expressions of Eq. (5) can be used to establish criterion for flame
+extinguishment. As can be seen from Figs. 3 and 4, there are two types of extinction behavior. For η g ≥ 1 , in both
+the thin and thick limit, steady flame cannot be sustained provided η g > ℜ0 , a criterion that is independent of fuel
+thickness. For η g
+
+< 1 , the thick fuel criterion remains unaltered. However for thin fuels, the spread rate assumes
+
+complex values, an indication of extinguishment, when η g < 2 ℜ0 -1 . For flame spread over PMMA, these
+criteria are combined in the flammability map of Fig. 7. Note that for a critical thickness can be calculated from the
+relation η g = ℜ0 = 1 , beyond which extinction is independent of fuel thickness, thereby, defining a radiatively
+thick fuel.
+Conclusion
+In this article we present a simplified analysis to develop for the first time a closed-form expression for the spread
+rate and extinction criterion for flame spread over condensed fuels in a mild opposing-flow microgravity
+environment. The results presented are supported by experiments on thin PMMA conducted in the MGLAB.
+Acknowledgement: Support from NASA, Glenn Research Center, with Dr. Sandra Olson as the contract monitor, is
+gratefully acknowledged.
+
+NASA/CP—2003-212376/REV1
+
+202
+
+REFERENCES: [1] Bhattacharjee, S., Takahashi, Wakai, K., A., Prediction of a Critical Fuel Thickness for Flame
+Extinction in a Quiescent Microgravity Environment, Combustion and Flame, to appear, 2003
+[2] Takahashi, S., Kondou, M., Wakai, K., A., Bhattacharjee, S., Proceedings of the Combustion Institute, Vol 29, 2002.)
+[3] Olson, S.L., Ferkul, P.V., and T'ien, J.S., Proceedings of the Combustion Institute, 22:1213, (1988)
+[4] Altenkirch, R.A, Olson, S., and, Bhattacharjee, S., “Diffusive and Radiative Transport in Fires”, NASA Contract
+NCC3-221 (1993-1998)
+
+Flame
+Leading Edge
+
+Oxidizer
+
+Vr = V f + Vg
+
+5
+
+L gx
+
+ηf
+
+L gy
+
+x
+Heated
+Layer
+
+Lsx
+
+Eq. (9)
+
+1
+
+Thermally
+Thick Fuel
+
+0
+
+Condensed Fuel
+
+0
+
+Fig. 1 Control volumes at the flame leading edge in the gas and
+the solid phases.
+
+ℜ0 = 0
+
+1
+0.8
+
+2
+
+1
+
+3
+
+4
+
+5
+
+η f ,thick Ω 2 / F 2
+
+6
+
+5
+Locus of
+
+0.4
+
+2
+
+ηg F 2 / Ω2
+
+Fig. 2. Non-dimensional spread rate in the thermal
+regime.
+
+8
+
+0.5
+
+0.6
+
+1
+
+10
+
+0.05
+
+ηf
+
+3
+2
+
+Lsy
+
+Vf
+
+Thermally
+Thin
+Fuel
+
+4
+
+1
+
+ℜ0 = 0
+
+4
+
+η g + 2η f ,thin = 1
+
+0.2
+
+2
+
+2
+
+0
+
+1
+
+0
+
+-1
+
+5
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+ηg
+
+7
+
+8
+
+9
+
+0
+
+10
+
+Fig. 3. Spread rate as a function of η g and ℜ0 as
+
+4
+
+ηg
+
+6
+
+8
+
+10
+
+Fig. 4. Spread rate for thick fuel as a function of η g
+
+predicted by Eq. (7). Opposed-flow flame spread
+extends down to η g = −1 .
+NASA/CP—2003-212376/REV1
+
+2
+
+and ℜ0 as predicted by Eq. (7). The spread rate is zero
+(extinction) for η g < ℜ0 .
+203
+
+ηf
+
+ηg
+Fig. 5. Non-dimensional experimental spread rate [9] as a function of η g for different oxygen mole
+fractions and fuel half-thickness. Note that in this plot the highest experimental spread rate is used to
+normalize
+
+Vf
+
+and
+
+Vg
+
+instead of the theoretical thermal limit.
+
+100
+
+1
+7.5 micro-m,
+50%
+
+0.8
+
+25 micro-m,
+50%
+7.5 micro-m,
+30%
+
+0.6
+
+ηf
+
+25 micro-m,
+30%
+7.5 micro-m,
+21%
+
+0.4
+
+25 micro-m,
+21%
+
+yO2 ,∞
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+−
+ℜV1
+
+70
+
+80
+
+40
+
+40
+
+20
+20
+
+τ = 10 µ m
+
+0
+0
+
+0
+0
+
+η g = ℜ0 , η g ≥ 1
+
+100
+60
+
+Eq. (10)
+
+0.2
+
+τ > 391 µ m
+
+80
+
+90 100
+
+4
+
+ℜ0,thin
+
+from Eq. (10). The prediction is compared with the spread rate data
+
+from the MGLAB experiments.
+
+NASA/CP—2003-212376/REV1
+
+12
+
+Vg , mm/s
+
+16
+
+20
+
+Fig. 7. Flammability map for PMMA fuel at various halfthickness at 1 atm. Radiative extinction happens on the left side
+of each curve.
+
+Fig. 6. Prediction of the non-dimensional spread rate η f plotted as a function of
+inverse of
+
+8
+
+204
+

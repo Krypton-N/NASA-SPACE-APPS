@@ -1,0 +1,4480 @@
+NASA/CP—2003-212103
+
+Research Needs in Fire Safety for the Human
+Exploration and Utilization of Space
+Proceedings and Research Plan
+
+April 2003
+
+The NASA STI Program Office . . . in Profile
+Since its founding, NASA has been dedicated to
+the advancement of aeronautics and space
+science. The NASA Scientific and Technical
+Information (STI) Program Office plays a key part
+in helping NASA maintain this important role.
+
+•
+
+CONFERENCE PUBLICATION. Collected
+papers from scientific and technical
+conferences, symposia, seminars, or other
+meetings sponsored or cosponsored by
+NASA.
+
+The NASA STI Program Office is operated by
+Langley Research Center, the Lead Center for
+NASA’s scientific and technical information. The
+NASA STI Program Office provides access to the
+NASA STI Database, the largest collection of
+aeronautical and space science STI in the world.
+The Program Office is also NASA’s institutional
+mechanism for disseminating the results of its
+research and development activities. These results
+are published by NASA in the NASA STI Report
+Series, which includes the following report types:
+
+•
+
+SPECIAL PUBLICATION. Scientific,
+technical, or historical information from
+NASA programs, projects, and missions,
+often concerned with subjects having
+substantial public interest.
+
+•
+
+TECHNICAL TRANSLATION. Englishlanguage translations of foreign scientific
+and technical material pertinent to NASA’s
+mission.
+
+•
+
+•
+
+•
+
+TECHNICAL PUBLICATION. Reports of
+completed research or a major significant
+phase of research that present the results of
+NASA programs and include extensive data
+or theoretical analysis. Includes compilations
+of significant scientific and technical data and
+information deemed to be of continuing
+reference value. NASA’s counterpart of peerreviewed formal professional papers but
+has less stringent limitations on manuscript
+length and extent of graphic presentations.
+TECHNICAL MEMORANDUM. Scientific
+and technical findings that are preliminary or
+of specialized interest, e.g., quick release
+reports, working papers, and bibliographies
+that contain minimal annotation. Does not
+contain extensive analysis.
+CONTRACTOR REPORT. Scientific and
+technical findings by NASA-sponsored
+contractors and grantees.
+
+Specialized services that complement the STI
+Program Office’s diverse offerings include
+creating custom thesauri, building customized
+databases, organizing and publishing research
+results . . . even providing videos.
+For more information about the NASA STI
+Program Office, see the following:
+•
+
+Access the NASA STI Program Home Page
+at http://www.sti.nasa.gov
+
+•
+
+E-mail your question via the Internet to
+help@sti.nasa.gov
+
+•
+
+Fax your question to the NASA Access
+Help Desk at 301–621–0134
+
+•
+
+Telephone the NASA Access Help Desk at
+301–621–0390
+
+•
+
+Write to:
+NASA Access Help Desk
+NASA Center for AeroSpace Information
+7121 Standard Drive
+Hanover, MD 21076
+
+NASA/CP—2003-212103
+
+Research Needs in Fire Safety for the Human
+Exploration and Utilization of Space
+Proceedings and Research Plan
+
+Proceedings of a conference held at and sponsored by the
+National Aeronautics and Space Administration
+Glenn Research Center
+Cleveland, Ohio
+June 25–26, 2001
+
+National Aeronautics and
+Space Administration
+Glenn Research Center
+
+April 2003
+
+Contents were reproduced from author-provided
+presentation materials.
+
+Available from
+NASA Center for Aerospace Information
+7121 Standard Drive
+Hanover, MD 21076
+
+National Technical Information Service
+5285 Port Royal Road
+Springfield, VA 22100
+
+Available electronically at http://gltrs.grc.nasa.gov
+
+Preface
+The purpose of the workshop documented in this publication was to bring together personnel
+responsible for the design and operations of the International Space Station (ISS) and the fire protection
+research community to review the current knowledge in fire safety relative to spacecraft. From this
+review, research needs were identified that were then used to formulate a research plan with specific
+objectives. The time and effort spent by the presenters, working group moderators, and participants to
+attend this workshop and share their knowledge in fire safety is greatly appreciated. I would also like to
+thank Ms. Christine Gorecki and Ms. Sandi Jones of the National Center for Microgravity Research in
+Fluids and Combustion for coordinating the local arrangements and travel of all the attendees. Their
+efforts ensured that participants arrived ready to address the significant concerns of fire safety in
+spacecraft.
+In this document, I have attempted to capture the very informative and lively discussions that
+occurred in the plenary sessions and the working groups. I hope that it will be useful to readers and serve
+as a significant step in assuring fire protection for the crews of current and future spacecraft.
+Gary A. Ruff
+Workshop Technical Coordinator
+Spacecraft Fire Safety Project Scientist
+NASA John H. Glenn Research Center
+
+NASA/CP—2003-212103
+
+iii
+
+Table of Contents
+Page
+Executive Summary ....................................................................................................................................vii
+Introduction ...................................................................................................................................................1
+Synopses of Previous Workshops on Spacecraft Fire Safety .................................................................1
+Approach .......................................................................................................................................................3
+Summary of the Working Groups .................................................................................................................4
+Smoke and Fire Detection.......................................................................................................................4
+Fire Prevention and Material Flammability............................................................................................7
+Fire and Post-Fire Response .................................................................................................................10
+Spacecraft Fire Safety Research Plan..........................................................................................................14
+References ...................................................................................................................................................15
+Appendix—Plenary Presentations...............................................................................................................17
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+Dr. Gary A. Ruff, NASA Glenn Research Center ................................................................................19
+Spacecraft Fire Safety: A Human Space Flight Program Perspective
+Dr. Michael D. Pedley, NASA Johnson Space Center .........................................................................27
+Control of Materials Flammability Hazards
+Dr. Dennis E. Griffin, NASA Marshall Space Flight Center................................................................35
+Overview of ISS U.S. Fire Detection and Suppression System
+Ms. Alana Whitaker, NASA Johnson Space Center.............................................................................49
+An Introduction to Mars ISPP Technologies
+Dr. Dale E. Lueck, NASA Kennedy Space Center...............................................................................65
+List of Attendees .........................................................................................................................................79
+
+NASA/CP—2003-212103
+
+v
+
+Executive Summary
+On June 25–26, 2001, 64 people representing combustion research and fire prevention professionals
+from NASA, industry, military, and academia met in Cleveland, Ohio, to participate in a workshop
+entitled “Research Needs in Fire Safety for the Human Exploration and Utilization of Space.” The
+objective of this workshop was to bring together experts in various disciplines related to spacecraft fire
+safety to (1) identify research needed to ensure fire safety in future shuttle and International Space Station
+(ISS) systems and payloads, (2) promote ISS fire safety through proposals for innovative designs,
+operations, and validation procedures, (3) identify areas of concern inherent to prolonged human-crew
+missions in Earth orbit and beyond, and (4) anticipate research required to plan and design spacecraft and
+habitats for long-duration space missions and planetary exploration. The outcome of this workshop was a
+list of immediate and long-term areas of concern regarding fire safety in manned spaceflight.
+Workshop attendees participated in one of three working groups depending on their area of expertise
+and interest. These working groups had the following focus areas:
+1. Fire Prevention and Material Flammability
+2. Smoke and Fire Detection
+3. Fire and Post-Fire Response
+Each of the working groups began their deliberations by assessing the current knowledge and “state of the
+art” in their respective focus areas. At the discretion of the working group chairs, short presentations were
+made to review current research in the appropriate areas. Based on this assessment, topics requiring
+additional information and/or technical understanding to guide flight system design and flight procedures
+were identified. The working groups then suggested research directions and topics to obtain the required
+data. The findings of each working group were presented to the workshop attendees during the closing
+session and opened for discussion. The working group moderators provided written documentation of the
+conclusions of their group in addition to their presentations. After the workshop, a 10-year research plan
+was developed that incorporated the inputs provided during the workshop. The overall objective of the
+research conducted in this plan is to provide data for the rational design of fire safety systems for manned
+spacecraft and significantly improve crew and system safety from fires.
+
+NASA/CP—2003-212103
+
+vii
+
+Introduction
+Space travel is an inherently dangerous activity making crew health and safety of primary concern in
+the space program. The vehicle structure and the crew are exposed to high levels of stress, and the hostile
+external environment makes escape and rescue nearly impossible. Many potential hazards can arise in
+space operations, among which are fire, atmospheric contamination, injury, explosion, loss of pressure,
+and meteoroid and debris penetration. These are examples of prompt-effect hazards, that is, those
+requiring immediate response for alleviation. Space operations are also subject to delayed-effect hazards,
+which are those requiring less urgent or timely response, such as contamination, hidden damage, and
+corrosion. Fire is one of the foremost prompt-effect hazards, but it also contributes to the delayed-effect
+hazards. Hence, fire-protection strategies must cover the restoration, repair, and cleanup activities after a
+fire event in addition to the obvious prevention and control before and during a fire.
+Probably the most important factor distinguishing spacecraft fire protection from terrestrial
+procedures in extreme environments (e.g., submarines and aircraft) is the strong influence of the lowgravity environment that dominates fire and particulate behavior and control in spacecraft. The substantial
+upward buoyant flow generated by large density gradients in fires at 1-g is practically eliminated in
+spacecraft. Heat and mass-transport rates – and consequently ignition, flammability, fire characteristics,
+and flame-spread rates – vary considerably from those experienced in conventional, terrestrial fires. At
+partial gravity levels, the effects of buoyancy, convection, and diffusion can combine to produce unique
+combustion results. Thus, fire prevention, detection, and suppression practices for spacecraft and
+extraterrestrial habitats must be developed specifically to respond to the unique aspects of microgravity
+combustion.
+Synopses of Previous Workshops on Spacecraft Fire Safety
+At least three workshops to assess existing knowledge in spacecraft fire safety and guide research
+efforts have been held in the last sixteen years. The participants of the current workshop did not
+specifically review the outcomes of these previous workshops, so comparison of the outcomes can be
+viewed as an evolution of the research needs brought about by continuing advances in knowledge and
+new mission objectives. In fact, some of the participants of the current workshop also attended one or
+more of the previous workshops and they have helped shape the spacecraft fire safety research that has
+been conducted over the last fifteen years. A short synopsis of these previous workshops is given below.
+In 1986, a workshop entitled “Spacecraft Fire Safety” was held with the results published in NASA
+CP 2476 (Ref. 1) and a conference paper (Ref. 2). This workshop, held in Cleveland, Ohio and sponsored
+by NASA Lewis Research Center, began with a symposium with ten original survey papers on the
+following ten topics related to fire safety.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+Techniques for fire detection
+Fire-related standards and testing
+Fire extinguishment and inhibition in spacecraft environments
+Inerting and atmospheres
+Fire-related medical science
+Aircraft fire safety research
+Space Station internal environmental and safety concerns
+Microgravity combustion fundamentals
+Spacecraft material flammability testing and configurations
+Ignition and combustion of metals in oxygen
+
+NASA/CP—2003-212103
+
+1
+
+At the conclusion of these lectures, five forums were convened to develop recommendations for research
+and technology. These forums and the recommendations from each are given below:
+Fire detection and ignition
+a. Study of detection of overheated and smoldering components, with emphasis on the development
+of heat-sensitive coatings
+b. Improvement of sensing systems, and incorporation of multiple fire-signature decision software
+c. Development of central detector systems for command of localized sensing stations
+d. Study of fire signatures expected in low gravity and nonstandard atmospheres
+e. Inventory of spacecraft equipment and procedures to anticipate hazards and locate sensors
+Fire extinguishment
+a. Fundamental research on combustion and suppression in microgravity and space-unique
+environments
+b. Testing and evaluation of candidate suppressants
+c. Development of specific extinguishment and inerting techniques for hazardous areas of the
+spacecraft
+d. Planning for post-fire atmosphere cleanup
+e. Establishment of cooperative working groups to pursue analogies between space and submarine
+research
+Human responses to combustion products and inert atmospheres
+a. Revision of material acceptance standards to test toxicology of emission products
+b. Emphasis on human responses in establishing fire safety policies
+c. Study of combustion, pyrolysis, and extinguishment products expected in microgravity
+d. Update of human tolerance limits to pollutants and reduced-oxygen atmospheres
+e. Designation and training of at least one spacecraft crew member as a fire marshal on each mission
+Spacecraft materials and configurations
+a. Further flammability testing in low-gravity environments
+b. Further testing on overheating and product generation from common materials
+c. Further long-term material testing to include aging effects
+d. Establishment of data banks to share and correlate space, aircraft, and ground fire models
+Selection of spacecraft atmospheres
+a. Research and technology programs on alternative spacecraft cabin atmospheres
+b. Research on combustion, pyrolysis, and smoldering in all atmospheres
+c. Establishment of data banks to collect knowledge on fire behavior in unusual environments
+d. Further research on atmospheric contamination by extinguishants
+A second workshop was held at the University of California, Los Angeles, on October 31–
+November 1, 1991 to review progress and topics related to the Risk-Based Fire Safety Experiment
+Project. This project was sponsored the NASA In-Space Technology Experiment Program (IN-STEP) and
+its principal goal was to develop and perform experiments based on Probabilistic Risk Assessment needs
+that will be used in models to quantify fire risk in humans-crew spacecraft (Ref. 3). The presentations and
+subsequent discussions were intended to guide the UCLA and NASA investigators on the state of
+knowledge and perceived needs in spacecraft fire safety and its risk management. The workshop
+consisted of formal presentations on current safety practices related to design-to-preclude strategies and
+material selection, probabilistic risk assessments, combustion science in spacecraft environments, and the
+specific hazard of smoke in spacecraft. While hardcopies of the presentations can be found in the
+workshop report (Ref. 3), the general findings were (1) that Probabilistic Safety Assessment methods
+
+NASA/CP—2003-212103
+
+2
+
+would be a great value to the design and operation of future manned spacecraft, (2) the importance of
+understanding and testing of smoldering as a likely fire scenario in space, and (3) the need for smoke
+damage modeling to better predict damage by this mechanism.
+A third workshop entitled “Research for Space Exploration: Physical Sciences and Process
+Technologies,” sponsored by the Microgravity Research Division of NASA was held in Cleveland in
+1997. The broad research priorities for spacecraft fire safety developed in this workshop are documented
+in reference 4 and were as follows:
+1. Research on electrical system diagnostics to provide an early, pre-incident warning to
+breakdowns, possibly resistivity or continuity checks.
+2. Determination of flammability, flame spread, flame luminosity, limiting oxygen, and soot sizes
+under various atmospheres for thick materials and polymers at 1/3 g.
+3. Determination of flame sizes, soot sizes, and flammability from thick materials with imposed heat
+flux under microgravity conditions.
+4. Determination of combustion limits, ignitability, and flame luminosity of premixed methane and
+oxygen for propulsion and fire safety.
+5. Research on fundamental behavior of various gaseous, liquid suppressants, and solid-surface fires
+at 1/3 g and microgravity with modeling and experiment verification.
+While many of these remain as relevant research areas, the missions for which fire safety research is
+required are constantly evolving. Instead of developing knowledge of fire safety procedures and systems
+for the initial occupancy of the International Space Station, we are now concerned with maintaining,
+validating, and improving fire safety on the ISS throughout its lifetime while providing maximum
+flexibility in the types of experiments and operations that can be conducted. We must also look forward to
+the special fire safety requirements for travel to and habitation of the Moon and Mars. Research needs for
+these applications may include:
+•
+•
+•
+•
+
+Evaluation of fire initiation hazards arising from waste disposal, trash storage, laundry, household
+activities, and the storage of fuel gas and oxygen systems
+Development of technology for the efficient detection systems required for long-duration
+missions in terms of rapid response, discrimination, false-alarm rejection, multiple-sensor logic,
+etc.
+Identification and evaluation of new suppression agents and techniques required for long-range
+missions, Lunar or Martian habitation, and in-situ resource utilization (ISRU) extinguishment
+Identification of fire safety issues in ISRU operations such as operations at high temperature and
+pressures, oxygen handling, propellant storage, and safety in welding and thermal operations
+
+Approach
+To identify and address these issues, researchers and specialists from academia, industry, national
+laboratories, and NASA who work in the various theme areas of spacecraft fire safety such as applied
+combustion science and technology; environment control and life support; material flammability testing
+and fire prevention; spacecraft, habitat, and ISS design; and fire detection and suppression have been
+invited to this workshop. The workshop consisted of:
+•
+•
+
+Brief presentations reviewing spacecraft fire safety objectives in NASA’s Bio-Astronautics
+Initiative, current spacecraft fire safety research, and goals for the workshop
+Three simultaneous working groups each led by moderators who were responsible for
+directing and focusing the discussion on the theme area
+
+NASA/CP—2003-212103
+
+3
+
+•
+
+Presentation of the recommendations and prioritizations for future research by the discussion
+group leaders to the workshop participants
+
+The three working groups had the following theme areas:
+1. Fire Prevention and Material Flammability
+2. Smoke and Fire Detection
+3. Fire and Post-Fire Response
+Group leaders and co-leaders for each group were identified prior to the workshop. In consultation with
+the workshop technical organizer, participants were placed into one of the three working groups to allow
+them to prepare for the discussions. All participants were notified of their assignments and fellow group
+members in advance of the workshop. The group leaders were tasked with moderating the discussion and
+providing a written synopsis of the discussion and findings of their group as well as copies of their oral
+presentation prior to leaving the workshop. These summaries were used to produce the reports presented
+in the next section.
+
+Summary of the Working Groups
+The summaries of the three working groups are presented in this section. These summaries have been
+developed from the written reports supplied by the working group leaders as well as the oral presentations
+of the findings delivered to all participants during the closing session of the workshop. The working
+groups had freedom in developing and evaluating topics during their deliberations. To ensure that no
+information or continuity of thought was lost while preparing these summaries, no effort was made to
+standardize the format of the results from the groups.
+Smoke and Fire Detection
+Moderators:
+
+Dr. David L. Urban, NASA Glenn Research Center
+Dr. Tom Cleary, National Institute of Standards and Technology
+
+This group consisted of 15 participants (see List of Attendees). The group began its work by
+brainstorming ideas for issues and concerns and, from these, identifying research areas. These were then
+sorted and presented to all workshop participants during the closing session.
+By nature, smoke and fire detection is a technology-driven aspect of fire protection. Improvements in
+sensor technology can be implemented in a fire or smoke detector to allow them to respond faster and
+more reliably to a fire threat. However, advancement in technology is a necessary but not sufficient step
+for the improvement of smoke and fire detectors. Designers must also know what these sensors should be
+looking for. For example, the Comparative Soot Diagnostics (CSD) experiment that flew in the Glovebox
+on STS-75 demonstrated that the microgravity performance of the fire detectors could be different from
+their 1-g performance. This performance difference was attributed to the growth of larger smoke particles
+in 0-g because of the increased residence time in high smoke concentration regions (Ref. 5).
+Issues and Concerns
+The group began by formulating consensus statements and issues that served as a starting point for
+discussions. First, there was a generally recognized paucity of data to guide the development of fire
+detection systems in spacecraft. This was one of the greatest concerns of this working group. Therefore,
+the group focused on defining the issues and concerns related to the design and operation of fire detection
+
+NASA/CP—2003-212103
+
+4
+
+systems on spacecraft to identify data required to provide the needed data. This list of issues and concerns
+were postulated in the form of questions related to the operation of current systems and are identified in
+Table 1. They are divided into issues relating to the detector operation, crew response, and some general
+issues. These issues existed primarily because of the lack of knowledge of one or more fundamental
+aspects of fire behavior in a low-gravity, spacecraft environment.
+Relationships between the identified issues and concerns were then examined to identify areas of
+research required to address these concerns. This analysis resulted in the identification of three major and
+three minor research areas, again posed as research questions. In these research areas, specific types of
+data or analyses were identified that would address the research question. Research that was most critical
+to address the issues was identified as near-term.
+Table 1. Issues and Concerns for Smoke and Fire Detection Systems
+Issue
+Smoke and Fire Detection
+1. What should we detect?
+2. Where do we put the detectors?
+3. Does the detector produce frequent nuisance alarms?
+4. Will it detect all types of fires?
+5. How does the sensor respond to reduced visibility?
+Crew Response
+6. Is detection quick enough to give crew adequate time to respond?
+7. How does the crew know where the fire is?
+8. How should the crew respond, how will they respond?
+9. Can the sensor give an indication of the indicate danger level?
+10 What capability is required for post-fire sensing (toxicity & corrosion)?
+General
+11. Will current systems/procedures work?
+12. What are the risks outside of the crew cabin?
+13. What is the effect of partial gravity on fire signature and detector response?
+
+Research Questions
+1. What are we looking for?
+a. Target and high-risk fire definitions
+b. Fire signatures
+c. Threshold settings and background levels
+d. What aren’t we looking for?
+2.
+
+When and how do we respond?
+a. Levels of response/automation
+b. Nuisance levels (impact on human response)
+c. Human factors
+
+3.
+
+How do we design and place detectors?
+a. Technology/modality
+b. Air flow in modules
+c. Automation (detection and response)
+d. Sampling
+
+NASA/CP—2003-212103
+
+5
+
+e.
+f.
+g.
+h.
+
+Integration into ISS
+Requirements
+Risk Assessment
+Annunciation technique
+
+4.
+
+What post-fire detection is needed?
+
+5.
+
+What fire detection/protection systems are required for uninhabited regions of spacecraft?
+
+6.
+
+How are the fire signatures and detector response different in partial-gravity environments?
+
+Of these research questions identified above, the first three were considered as the highest priority.
+The group also realized that technology exists to address these questions but had yet to be applied to this
+task. To address “What are we looking for?” The working group felt that the identification of a target or
+high-risk fire and the determination of fire signatures was the most immediate, near-term research that
+should be accomplished. In research question 2, all three sub-areas, i.e., evaluation of the level of
+response and degree of automation that should be used to respond to a fire, the elimination of nuisance
+alarms, and other human factors related to the response of the crew to a fire were identified as potential
+near-term research areas.
+Enabling Technologies
+The greatest enabling technology for improved smoke and fire detection are the development of
+small, robust sensors that can detect very small amounts of a wide variety of fire signatures. This includes
+sensors that measure CO, CO2, HCl, hydrocarbons, and smoke. These sensors can be made in several
+forms including solid-state MEMS sensors, and various gas absorption techniques. Each method has its
+advantages and disadvantages but they are still under development. Concurrent development of these
+systems is being done so that their response to an actual fire can be adequately evaluated.
+Many of these technologies will allow a fire or smoke detector to be considerably smaller and use less
+power than existing instruments. This could allow a distributed network of detectors operated by a
+distributed intelligence system. A system of this type composed of different types of detectors could have
+a very low incidence of nuisance alarms, more rapidly locate the fire, and even dispense suppressant to a
+specified location.
+In the course of these discussions, the group realized the dichotomy between physical factors and
+human factors in fire and smoke detection. Human factors were given less consideration by the group not
+because of its relative unimportance but because the group felt that their expertise did not allow them to
+adequately address these issues.
+Summary and Conclusions
+There was general agreement that current detection systems are based upon inadequate knowledge of
+the types of fire signatures for spacecraft materials, the effect of low gravity on fire signatures, and the
+transport of fire precursors within a spacecraft. Current systems have been designed using current
+knowledge but are generally unverified in a zero-g environment. Because existing systems only respond
+to smoke, they are susceptible to dust and the risk of nuisance alarms is significant. Each alarm requires
+valuable crew time to respond and evaluate the alarm. Repeated nuisance alarms over time could increase
+the crew’s response time. The existing systems also have a poor track record in detecting small transients
+that could indicate a fire precursor. There is also no data with which to predict performance during larger
+events.
+Detection in large cabin volumes and standoffs is a concern because of the sparsely located detectors
+within the open cabin volumes. Ventilation systems within a volume will eventually draw air through a
+detector but the transport of smoke is not evaluated.
+
+NASA/CP—2003-212103
+
+6
+
+Further improvements in detection will require implementation of hybrid detection systems consisting
+of sensors for species and particles. Which species these sensors should look for and what combination of
+sensors should be placed in what locations will have to be determined by future tests. Finally, there are
+ignition sources other than electrical sources that must receive consideration. Spontaneous ignition is a
+potential risk and detection in waste systems may not be adequate.
+Fire Prevention and Material Flammability
+Moderators:
+
+Professor James T’ien, Case Western Reserve University
+Dr. Dennis E. Griffin, NASA Marshall Space Flight Center
+
+This working group consisted of 24 participants (see List of Attendees). The group began by
+identifying outstanding issues related to fire prevention and material flammability. They focused
+primarily on issues related to ISS and Shuttle systems because these systems are well-defined with respect
+to materials used, testing procedures, etc. The issues identified by the group are as follows:
+1. Fire scenarios for ISS/Shuttle
+2. Testing/screening methods
+3. Development of new materials
+4. Flammability at elevated oxygen levels (>30%)
+5. ISRU processes and storage
+Within each of these issues, the group recommended research areas and identified the highest priority
+research that should be conducted. Desired outcomes from the research were also identified. The
+information for each of the issues will be discussed in the following sections.
+Issue 1: Fire Scenarios for ISS/Shuttle
+The discussion centered on the most likely ignition mechanisms for manned spacecraft compartment
+fires. The following is a list of potential fire sources and scenarios in manned spacecraft for which the
+group felt there was a need for investigation. Particularly, they were concerned about determining the
+potential for and mitigation of fires from each of these sources. They are listed below in no particular
+order of priority:
+1. Pressurized gaseous oxygen systems
+High pressure oxygen systems (up to 6000 psia) exist that are subject to numerous ignition
+mechanisms, including “flow friction,” compression heating, particle impact,
+contamination/kindling chain reactions, mechanical impact, friction, etc.
+2. Solid Fuel Oxygen Generator (SFOG)
+SFOG units have been responsible for two recorded fire events on Mir.
+3. Overheating of electrical cable
+Overheating of electrical cables and components (pyrolysis events) have been reasonably
+common during the manned space program. On average, such an event occurs once every ten
+missions.
+4. Fire events caused by electrical short circuits
+Short circuits have been responsible for the Apollo 204 and Apollo 13 fires. Also, does foreign
+object debris from a short circuit represent a fire hazard.
+5. Effect of work-arounds/mods
+The effect of work-arounds or other modifications that can occur especially in long duration
+mission should be evaluated. Can these significantly alter the potential for fire?
+
+NASA/CP—2003-212103
+
+7
+
+6. Aging electrical wire
+Wear-induced failures in aging electrical systems can be a problem. There have been some
+occurrences of this recently in the Shuttle Obiter and SRB.
+7. Auto-ignition of waste storage
+It is unknown whether waste might be susceptible to autoignition in low-gravity and, if so, under
+what conditions can this occur.
+The working group noted that other possibilities exist that have not been considered here including fire
+and ignition hazards associated with propulsion systems, pyrotechnics, fuels cells and electrolysis
+systems, etc. One must be careful to not limit consideration of all possibilities when designing fire
+detection and suppression systems and experiments.
+Of these potential fire scenarios, the highest research priority was to investigate ignition mechanisms
+and flammability for pressurized oxygen systems.
+The outcome of research in the area of fire scenarios should lead to improvements in understanding
+and aid in mitigation of potential fire scenarios. This would occur through additional crew training on
+awareness and considerations for fire safety. The group also recommended that researchers take
+advantage of lessons learned from AWIGG (Aircraft Wiring and Inert Gas Generator) working group.
+Issue 2: Testing/Screening Methods
+The following is a list of recommendations for research that would improve and/or augment existing
+materials flammability screening methods:
+1. Augment existing go/no go criteria with a quantitative test method which provides ranking or
+indication of flammability margin, e.g. LOI or radiation panel. This would provide more
+information to the standard Test 1 acceptance criteria to aid in more informed materials selections.
+2. More understanding on relationship between 1-g test methods to microgravity performance. Due
+to the limited amount of microgravity data, this would allow for a better understanding of more
+appropriate material selection decisions.
+3. Need to understand the implications of non-flaming and smoldering combustion in microgravity
+with respect to ISS engineering materials. Current NASA standard flammability test techniques
+do not take smoldering combustion into account so this data would fill this apparent gap.
+4. There is a need for additional microgravity data on the effects of oxygen and flow on ignition,
+combustion and flame propagation for real engineering materials. This data is required to enable
+rational design analysis
+5. Very little data is available on combustion behavior in partial gravity yet this information is
+required for future exploratory missions. There is a need to obtain such data, or possibly
+appropriate theoretical predictions or scaling analysis, from microgravity data.
+6. A better understanding of the relationship between flame spread across thermally thick and thin
+materials must be established. Since the ability to obtain data using thermally thin samples is
+much better than for thermally-thick samples, a method or scaling relationship to accurately
+extrapolate thin data to more realistic thick spacecraft engineering materials would be very
+desirable.
+7. There is a definite need for long duration microgravity experimental data. A facility to carry out
+long duration partial and microgravity combustion experiment is essential.
+8. Currently NASA’s materials selection criteria are based on flammability and not on the resulting
+toxicity of the combustion event. Research is needed to understand the toxicity and fire hazards
+associated with the pyrolysis of combustion products and production of aerosols. If necessary,
+this information should be factored into materials selection criteria, pre-fire events and post-fire
+response. (Need: Moderate)
+Of these research areas, all were considered to be high priority except for item number 8.
+
+NASA/CP—2003-212103
+
+8
+
+Issue 3: New Materials Need to be Studied
+The members of the working group recognized that future spacecraft were likely to be composed of
+different materials than those used in past and current spacecraft. Research topics within this area dealt
+with the need for additional or improved flammability investigations for these materials.
+1. Flammability of Inflatable Structures (Moderate)
+Inflatable structures may be used for interplanetary transportation system structures,
+e.g. TransHab-type concepts, due to launch vehicle space constraints. Information on
+flammability of these materials is required.
+2. Non-Flammable Foam Packing Material (High)
+Currently, flammable foam materials are widely used for ISS stowage and packaging.
+A nonflammable replacement would greatly benefit a short-term need.
+3. Flame-Retardant Clothing (Moderate)
+More comfortable flame retardant fabric or fabric treatments for crew clothing is required,
+especially during long term missions. Current cotton clothing is, of course, highly flammable
+and not suitable for fire fighting.
+4. Alternative wire insulation (High)
+An insulation material with the good properties (lightweight, flexible, high cut-through
+resistance) of polyimide and fluorocarbon constructions and none of the bad properties (poor tear
+resistance, cold flow, stiff) is needed.
+5. Advanced composites (Moderate)
+Advanced composites are becoming more common and are extensively used in ISS for rack
+structures and are even being considered for oxygen tanks. In consideration of the potential for
+smoldering combustion, their inherent flammability in enriched oxygen, and because of the
+obvious advantages they offer in terms of weight and strength, these materials merit further
+flammability investigations for spacecraft applications.
+The working group emphasized that we may need to take advantage of FAA established data for
+advanced materials.
+Issue 4: New Research Considerations
+1. Since future interplanetary missions will be weight limited, gaseous N2 may become a limited
+resource, hence microgravity experiments at oxygen concentrations greater than 30% should be
+considered.
+Issue 5: ISRU processes and storage
+This discussion dealt with in-situ high temperature/high pressure production processes that are being
+investigated to utilize lunar and planetary resources for providing life support fuel resources (e.g. oxygen,
+methane, CO, etc.)
+1. Education and training of researchers
+People doing this research may have not considered the possibilities of fire or explosion in the
+experimentation. Training and recognition of potential hazards is available in courses offered by
+ASTM, etc. (also see item #2 below)
+2. Understanding of hazards analysis techniques
+3. Improve understanding of flow friction as an ignition source
+Flow friction involves a fluid leaking through a small orifice and has been thought to be the cause
+of several recent oxygen system fires. However, this ignition mechanism is not well understood.
+(Refer to Issue 1 research recommendations)
+
+NASA/CP—2003-212103
+
+9
+
+4. Supplement particle impact database
+The data base for particle impact ignition information is very limited in terms of particulate sizes,
+types, velocities and temperatures. (Refer to Issue 1 research recommendations)
+Issue 6: Risk assessment
+This discussion involved the aspect of analyses for preventing fires and quantifying fire risk.
+1. Probabilistic Risk Assessments
+Gain a better understanding of available probabilistic risk assessment and simulation tools.
+2. Aircraft, Submarine, and Ship Analogies
+Understand what is done in the submarine industry.
+3. Determine implications of limited microgravity data sets
+What are the confidence level considerations for repeatability of microgravity data/experiments?
+What are the implications when considering design of experiments (DOE) and the usefulness of
+limited sets of data?
+Fire and Post-Fire Response
+Moderators:
+
+Dr. Robert Friedman, NASA Glenn Research Center (retired)
+Mr. J. Michael Bennett, Wright-Patterson AFB
+
+This working group had 21 participants representing the government, various research organizations,
+and academia (see List of Attendees). The working sessions began with presentations on current research
+covering spacecraft fire response. Following these presentations, there was a general discussion about
+overall research needs in spacecraft fire safety and how many of these needs impacted topics in fire and
+post-fire response. The group then agreed to include topics that provided initial conditions for a fire
+response in their scope of research.
+Current Technology Issues
+First, the working group identified fundamental issues that can benefit greatly from new or increased
+information. This lack of knowledge hinders the ability of the fire-protection community to improve fireprotection capabilities. Examples of these basic needs include knowledge, measurements, predictions or
+correlations of the following:
+1. Rate of fire spread anticipated in space platforms under realistic fire scenarios
+2. Rate of extinguishing agent transport from the reservoirs to the site of the fire, and the
+phenomena that influence it
+3. Actual effectiveness and limits of performance of the existing on-board carbon dioxide fire
+extinguishing systems
+4. Performance and capabilities of the foam fire extinguishing systems currently employed by the
+Russians in space
+5. Current NASA policy that may permit or preclude consideration of alternative fire extinguishing
+agents to carbon dioxide
+6. Types of combustion by-products emitted by the fires and the extinguishing agents applied to
+them in spacecraft
+7. Fundamental understanding of the influence of low gravity (reduced gravity and microgravity)
+on the extinguishment process and
+8. Knowledge of the escape and evacuation mechanisms available to crew members
+
+NASA/CP—2003-212103
+
+10
+
+Research Areas
+Next, the team discussed the major research areas and enabling technologies that can address the
+identified key issues. These discussions defined the areas of study for improvement and advancement of
+spacecraft fire and post-fire response techniques. The research is presented in the following list.
+1. Experimental Determination of Flow in Compartments
+The precise definition and characterization of the flow field in compartments where fires may
+occur, or where agent or by-products may flow, is of primary and fundamental concern for the
+fire-characterization process. For the ISS, the compartments are defined, in terms of increasing
+size, as the rack, module, and inter-module. Experimental data of the flow fields must be obtained
+in the appropriate low-gravity environment. Both scalar velocity and momentum data of the flows
+must be obtained. This activity should incorporate general flow fields in major zones and also
+local point sources of airflow variance due to the presence of inlet or outlet ducts, exhausts, etc.
+2. CFD Representation of Flow in Compartments
+This activity is a corollary to activity #1, which constructs a computational fluid dynamics
+(CFD) model to correspond to the experimental model being developed. This numerical model
+will be a tool of great assistance in later characterizing the fire-establishment and -propagation
+process. These two activities should interact with and jointly refine each other.
+3. Digital Compartment Configuration Documentation
+This effort entails the collection and development of engineering data on spacecraft
+compartment configurations, dimensions and components. These will be used as tools in defining
+fire-zone locations, conditions and geometries. The operating conditions, fuel sources and states
+(solid, liquid, gas), and other features pertinent to fire-protection analysis will be documented.
+Such data ideally are to be stored in digital formats for use in computer codes and models.
+4
+
+Proposal of Fire Scenarios
+The goal of this activity is to identify likely fire locations, size, and growth or spread
+phenomena on-board spacecraft of interest. Such fire designations should incorporate pertinent
+aspects of smoldering or flaming conditions, as applicable. The presence or lack of sooting should
+also be noted and represented. This activity should also support the initiation of an updated faulttree analysis (of issues related to fire safety) for platforms such as the International Space Station.
+
+5. Characterization of Fire Event
+Modeling specifically for a fire event starts with the experimental and numerical verification
+of the fire conditions. This will establish the phenomena of fire growth and spread in low-gravity
+conditions on a realistic scale. (Note the distinction between fire growth, a safety issue, and flame
+growth, a research and possibly safety issue.)
+6. Development of Fire-Response Concepts
+This activity starts with a review and assessment of the current fire-response systems to
+establish baseline protection. This leads to the proposal and development of new technologies to
+mitigate fire events. The innovative approaches will be based on the operating experience in
+space (as available) and the application of new data. The broad range of opportunities covers both
+passive and active fire mitigation. Passive responses are those of fire isolation, containment,
+power and flow shutdown, and the like. Active responses are those of conventional
+extinguishment-agent discharge and compartment venting. Partial evacuation followed by agent
+discharge is suggested as a very efficient method of combating a difficult fire, a technique worthy
+of further consideration.
+
+NASA/CP—2003-212103
+
+11
+
+7. Agent Transport in Low Gravity
+An effective means of agent delivery in low gravity has never been determined. Experimental
+and numerical studies can characterize the transport phenomena from the discharge outlets to the
+fire site. The results can hold promise for improved specifications for extinguishing applications,
+covering gaseous and mixed phase agents.
+8. Fire-Related Emissions
+Emissions and their toxic effects are relevant to the assessment of fire response. By-products
+from the fire event can include not only pyrolysis and combustion products, but also those from
+suppressant decomposition.
+9. Extinguishing Agent Performance in Low Gravity
+There is almost a complete lack of information on the performance of extinguishing agents in
+microgravity and other reduced gravity environments. Performance includes the efficiency
+(quantity required) of extinguishment, the sustaining power (time of application), and other
+criteria. Research must cover a range of current and potential future agents, including gases,
+liquids, powders, and mixed phases.
+10. Agent Distribution
+In addition to the determination of extinguishing agent performance, necessary research must
+include the investigation and assessment of the spatial distribution of agents. These data will
+serve to optimize flow rates, predict the thermodynamic state of the agent, and establish the range
+of agent application. The scope of this research must include fixed and portable extinguishing
+systems, centralized and distributed systems, local and general applications, and streaming and
+flooding discharge.
+11. Agent/Fire Interaction
+This necessary research covers the behavior of the suppressant entering and within the
+combustion zone, raising the issue of the determination of such transport issues as diffusion. It is
+almost certain that gravity will affect this interaction, and models and verifying experiments are
+necessary for low-gravity predictions.
+12. Post-Fire Sampling and Characterization
+Existing rules include criteria for determining that a fire is “out” for discontinuing fire
+response and reentry into the affected zone. These regulations are based on ground experience
+exclusively. Low-gravity research is essential for the definition of the end of a fire, to assure safe
+entry, conserve extinguishing agent, and prevent re-ignition. Predictions from research should
+establish improved atmospheric sampling techniques and diagnostics for these criteria.
+13. Obscuration Mitigation
+Both flaming and smoldering fire may generate smoke, quickly filling the confined volume
+of a spacecraft. Smoke may be both a hazard and a nuisance, but the major concern is the
+obscuration, impeding entry, control, or escape. Predictive data are important, covering the
+special environments of the low-gravity spacecraft. Research can lead to mitigating technology,
+including crew equipment to accommodate the obscured environment (smoke hoods, for
+example).
+As evidenced by the above list, fire response requires input from the topics areas addressed by the
+other two working groups. For example, to properly respond to a fire, you have to first know what is
+burning (material flammability) and how long it has been burning (material flammability, time between
+initiation and detection). This implies knowing the specifics about material configuration, locations of
+
+NASA/CP—2003-212103
+
+12
+
+ignition sources, flow conditions, etc. The working group decided that this information is essential to
+determining a proper fire response and should be included in their analysis as part of determining the
+initial conditions to any fire response. Because of the short time allotted for this analysis, the working
+group did not further combine or prioritize their thirteen research topics. However, these topics are not
+unrelated and can be categorized into three general areas as follows:
+Specifications of the Conditions Prior to the Response
+To assess a fire response strategy, information about the expected type, size, and location of the fire is
+required. The research topics that address this general theme are:
+1. Digital Compartment Configuration Documentation
+2. Evaluation of Potential Fire Locations and Scenarios
+3. Experimental Determination of Flow in Compartments
+4. CFD Representation of Flow in Compartments
+5. Characterization of Fire Events
+The computational and experimental determination of flow in a compartment is required to
+understand the initial conditions of the flow field where a fire may occur and the regions that would be
+affected by the discharge of a suppressant. Also, details of the flow field are required to determine the rate
+of flame spread and the path of smoke transport. From this, the time from fire initiation to detection can
+be estimated. Knowing the type of fire, the possible ignition source, flame spread rate, and time to
+detection, an estimate of the size of the fire what the automated and crew response procedures begin can
+be obtained.
+Evaluation of Fire Suppressants
+Once a fire has been detected and an alarm has sounded, the automated and/or crew fire response
+begins. There are different types of responses and the ability to determine their relative effectiveness for
+various fire scenarios is an important step in minimizing equipment damage and reducing the amount of
+clean-up required. The research areas that address this theme are listed below:
+1. Agent Transport in Low Gravity
+2. Extinguishing Agent Performance in Low Gravity
+–Agent/Fire Interaction
+3. Gaseous and Particulate Emissions from Fires and Suppressants
+Effectiveness of Fire Response Strategies
+Knowing the effectiveness and behavior of individual suppressant agents, various response strategies
+and be proposed and evaluated. The research areas required for this theme include:
+1. Development of Fire-Response Concepts
+–Obscuration Mitigation
+2. Agent Distribution Requirements and Behavior
+3. Post-Fire Sampling and Characterization
+Summary and Conclusions
+Even though the working group did not specifically prioritize the research topics, the categories listed
+above imply a sequence of research areas required for the development of effective fire response
+strategies for manned spacecraft. An area that was repeatedly emphasized by the working group during its
+discussions was that an appropriate response could be defined only as well as the “initial conditions” of
+the fire were known. This includes knowing the material being burned, the location and size of the fire,
+and the ambient conditions (O2 concentration and velocity, for example). Some of this is addressed by
+NASA/CP—2003-212103
+
+13
+
+research identified by the other two working groups. The areas that are not addressed, such as knowing
+the ambient conditions when a fire starts constitute high-priority research areas specific to fire response.
+
+Spacecraft Fire Safety Research Plan
+Upon obtaining the above lists and prioritizations from experts in various aspects of fire safety, it is
+important to meld the recommendations into a coherent research plan. As a result of this input, a research
+roadmap for spacecraft fire safety was prepared and is shown in Table 2. The tasks are divided into the
+three general areas mirroring the focus of the working groups, i.e., fire prevention and material
+flammability, smoke and fire detection, and fire suppression. Work items and overall objectives were
+identified. While the roadmap shows research efforts over a ten-year period, the first tasks in each area
+are of the highest priority and work in these areas should be initiated immediately. Research in many of
+these areas has, in fact, begun since the workshop and the findings of these studies will be presented in
+future reports and workshops. Continuing research efforts will build on this initial work.
+Many of the research areas identified in Table 2 are drawn directly from the recommendations and
+research priorities identified by the working groups during the workshop. Others have been refined from
+these recommendations based on results from on-going research. Of course, these research areas and
+topics will continue to evolve as plans are implemented and results are obtained to ensure that the most
+relevant and critical areas are continuously addressed.
+Table 2. Spacecraft Fire Safety Research Roadmap
+Technical Area
+
+Time Frame
+2004 - 2007
+
+2001 - 2004
+
+- Evaluate the potential for and behavior of deep seated fires in non-1g
+environments
+- Determine potential for autoignition and explosion of high-P gaseous oxygen
+Flammability of
+Practical Materials
+
+- Determine flammability and flame
+
+- Determine limiting O2 and flow for
+flame propagation on practical
+materials in µg and partial-g
+- Determine the effects of sub-limit insitu propellant concentrations in
+standard and enriched O2
+atmospheres on practical material
+flammability
+
+spread of plastic and composite
+materials in partial-g for variations in
+flow and imposed heat flux
+- Improved test methods to rank
+materials
+
+Fire Signatures and
+Detection
+
+Fire Suppression
+and Post-Fire
+Response
+
+- Develop component-level sensors
+for fire detection
+- Define and validate method to
+establish pre-fire and fire signatures of
+practical materials in 1g
+
+- Develop and demonstrate integrated
+sensor (chemical/smoke)
+- Establish pre-fire and fire signatures
+of practical materials in low g
+
+- Evaluate in-situ fire extinguishants
+- Develop model of flame growth and stability in practical configurations to
+extend applicability of data base and to guide design of new systems
+- Integrate understanding of
+extinguishment strategy and flame
+behavior in non-1g environments
+through analysis and modeling
+- Fundamental and system-level tradeoff studies of flame-suppression
+techniques
+
+NASA/CP—2003-212103
+
+14
+
+- Analyze and test physical dispersion
+of suppressant and techniques for
+extinguishment
+- Test and validate flame suppression
+methods in enriched O2 and exotic
+atmospheres
+
+2007 - 2010
+
+Flammability
+measurements and
+correlation from
+normal-g to µg; new
+validated test
+methods for
+material ranking
+
+Data base for fire
+signatures and
+demonstration of
+new detection
+systems
+
+Experimental
+validation of fire
+suppressant
+performance,
+analysis and models
+of fire suppressant
+strategies in µg and
+partial-g
+
+References
+1. Margle, Janice M.: Spacecraft Fire Safety. NASA CP−2476, 1987.
+2. Friedman, Robert; and Sacksteder, Kurt R.: Science and Technology Issues in Spacecraft Fire Safety.
+NASA TM−88933 (AIAA Paper 87−0467), 1987.
+3. Apostolakis, G.E., Catton, I., Paulor, T., and Paxton, K.: Findings of a Review of Spacecraft Fire
+Safety Needs. NASA CR−189181, 1992.
+4. Singh, Bhim S.: Workshop on Research for Space Exploration: Physical Sciences and Process
+Technology. NASA/CP1998-207431, 1998.
+http://gltrs.grc.nasa.gov/cgi-bin/GLTRS/browse.pl?1998/CP-1998-207431.html
+Accessed Jan. 7, 2003.
+5. Friedman, Robert; and Urban, David L.: Progress in Fire Detection and Suppression Technology for
+Future Space Missions. NASA/TM2000-210337 (AIAA Paper 2000−5251), 2000.
+http://gltrs.grc.nasa.gov/cgi-bin/GLTRS/browse.pl?2000/TM-2000-210337.html
+Accessed Jan. 7, 2003.
+
+NASA/CP—2003-212103
+
+15
+
+Appendix—Plenary Presentations
+Five presentations were delivered during the opening session of the workshop and are included in this
+appendix. The titles of the presentations and the speakers were as follows:
+1. Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+Speaker: Dr. Gary A. Ruff, Spacecraft Fire Safety Project Scientist,
+NASA Glenn Research Center
+2. Spacecraft Fire Safety: A Human Space Flight Program Perspective
+Speaker: Dr. Michael D. Pedley, ISS Materials and Process Manager,
+NASA Johnson Space Center
+3. Control of Materials Flammability Hazards
+Speaker: Dr. Dennis E. Griffin, Chemistry Group Leader, Materials, Processes, and
+Manufacturing Department, NASA Marshall Space Flight Center
+4. Overview of ISS U.S. Fire Detection and Suppression System
+Speaker: Alana Whitaker, ISS ECLS Subsystem Manager, Fire Detection and Suppression
+Systems, NASA Johnson Space Center
+5. An Introduction to Mars ISPP Technologies
+Speaker: Dr. Dale E. Lueck, Systems Engineering and Analysis Branch, Spaceport Engineering
+and Technology, NASA Kennedy Space Center
+
+NASA/CP—2003-212103
+
+17
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+Dr. Gary A. Ruff
+Spacecraft Fire Safety Project Scientist
+NASA Glenn Research Center
+
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+Workshop on
+
+Research Needs in Fire Safety
+for the
+
+Human Exploration and Utilization
+of Space
+Hosted by
+
+NASA John H. Glenn Research Center
+and the
+
+National Center for Microgravity Research in Fluids and Combustion
+Sheraton Airport Hotel
+Cleveland, Ohio
+June 25 - 26, 2001
+
+Background
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+•
+
+Last Spacecraft Fire Safety Workshop was held August 20-21, 1986
+
+NASA/CP—2003-212103
+
+19
+
+Background
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+•
+
+Last Spacecraft Fire Safety Workshop was held August 20-21, 1986
+– Challenger accident 8 months earlier
+– Space Station designs underway
+
+•
+
+107 people, 5 break-out forums
+–
+–
+–
+–
+–
+
+•
+
+Fire detection and ignition
+Fire extinguishment
+Human responses to combustion products and inert atmospheres
+Spacecraft materials and configurations
+Selection of spacecraft atmospheres
+
+Objectives
+– Review current knowledge in fire safety
+– Assess the needs relevant to spacecraft
+
+•
+
+Microgravity combustion research conducted since 1986 has impacted
+fire safety practices on STS and ISS
+
+Office of Biological and Physical Research
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+Cross-disciplinary Science and Technology
+CrossWorking Groups
+
+NASA/CP—2003-212103
+
+20
+
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+•
+
+Bioastronautics Initiative - History
+
+In mid-1999, the Space and Life Sciences Directorate at Johnson Space
+Center was challenged to develop a new paradigm for NASA human life
+sciences
+– Space Medicine
+– Space Biomedical Research and Countermeasures
+– Advanced Human Support Technology
+
+•
+
+A new thrust - Bioastronautics - was formulated with a budget
+augmentation request
+
+•
+
+Objective:
+– Expanded extramural community participation through the National Space
+Biomedical Research Institute
+– Initiated the detailed planning and implementation of Bioastronautics
+• An Integrated Approach to Ensure Healthy and Safe Human Space Travel
+• Assist in the Solution of Earth-based Problems
+
+Bioastronautics Initiative
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+•
+
+Builds upon previous and ongoing work
+– A significant amount of fundamental knowledge has been created through ground
+and flight research
+– Apply this knowledge base to applications and solutions which will provide safer
+human operations in space
+
+•
+
+Utilizes new research resources
+– ISS/STS research opportunities
+– Ground analogs
+
+•
+
+Leverages new and unique capabilities
+–
+–
+–
+–
+
+Scientific community to focus on NASA issues
+Transfer knowledge to Earth based problems
+Cooperate with other Federal Agencies
+Develop new technologies
+• smart medical systems
+• biologically-inspired technologies
+• fire protection
+
+NASA/CP—2003-212103
+
+21
+
+NASA Bioastronautics Initiative –
+Combustion Science
+
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+•
+
+Substantially improve spacecraft fire safety within six years
+– $1M per year for four years (initial funding level)
+– Grant-based through NRAs and directed research
+
+•
+
+Fire safety practices and procedures
+– ISS and Shuttle operations
+– Prolonged human-crew missions in Earth orbit and beyond
+–
+
+Lunar and/or Martian habitats
+• In-situ resource utilization
+• Propellant manufacture and storage
+
+Workshop Objectives
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+•
+•
+•
+
+Identify research needed for fire safety of STS, ISS and their payloads
+Identify fire safety concerns for prolonged human-crew missions in
+Earth orbit and beyond
+Anticipate research for future Lunar/Martian habitats
+
+Approach
+• Plenary session to overview current operations and issues in fire
+protection in space
+• Working groups to review current research and identify needs in the
+areas of
+– Fire prevention and material flammability
+– Smoke and fire detection
+– Fire and post-fire response
+
+NASA/CP—2003-212103
+
+22
+
+Plenary Speakers
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+•
+
+Dennis Griffin
+– Group Leader, Chemistry Group
+Materials, Processes, and Manufacturing Department
+NASA Marshall Space Flight Center
+
+•
+
+Michael D. Pedley
+– ISS Materials and Processes Manager
+NASA Johnson Space Center
+
+•
+
+Alana A. Whitaker
+– ISS Environmental Control and Life Support Systems
+Fire Detection and Suppression Department
+NASA Johnson Space Center
+
+•
+
+Dale E. Lueck
+– Systems Engineering and Analysis Branch
+Spaceport Engineering and Technology
+NASA Kennedy Space Center
+
+Working Groups
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+•
+
+Fire Prevention and Material Flammability (O’Hare Room)
+– James T’ien, Case Western Reserve University
+– Dennis Griffin, NASA Marshall Space Flight Center
+
+•
+
+Smoke and Fire Detection (Dulles Room)
+– David L. Urban, NASA Glenn Research Center
+– Thomas Cleary, National Institute of Standards and Technology
+
+•
+
+Fire and Post-Fire Response (Hartsfield Room)
+– Robert Friedman, NASA Glenn Research Center
+– J. Michael Bennett, Wright-Patterson Air Force Base
+
+•
+
+Sessions will begin with introductions and short presentations of
+current research
+–
+–
+–
+–
+
+Begin discussions of mission-driven fire protection systems within these areas
+Recognize current knowledge and identify unknowns
+Define research needed to fill gaps
+Prioritize by short and long term, if applicable
+
+NASA/CP—2003-212103
+
+23
+
+Schedule
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+Monday, June 25
+8:00 AM
+
+8:30 AM
+
+9:00 A M
+
+9:30 A M
+
+W elcom e
+
+M aterials Testing
+and Certification
+G riffin
+
+N ASA MSFC
+
+Spacecraft Fire
+Safety: A H um an
+Sp ace Flight
+P ro gram
+Perspective
+Pedley
+N AS A JS C
+
+ISS Fire
+Protection and
+the E CLS S
+System
+W hitaker
+N AS A JS C
+
+1:30 PM
+
+3:30 P M
+
+4:00 P M
+
+11:00 A M
+
+M oderato rs:
+U rban, C leary
+Presentations:
+Urban, Hunter,
+Young
+
+S m o ke and
+Fire D etection
+(D ulles Room )
+
+Fire
+and Post-Fire
+Respo nse
+(Hartsfield Room )
+
+12:00 PM
+
+M oderato rs:
+T'ien, G riffin
+Presentations:
+Torero,
+Fernandez-P ello
+O lson
+
+W orking
+Session
+
+Lunch (Lambert Room)
+
+Fire Prevention
+and
+M aterial
+Flam m ab ility
+(O'H are Room )
+
+O strach
+
+M oderato rs:
+F riedm an, Benn ett
+Presentations:
+Ross, Takahashi,
+Abbud-Madrid
+
+Break
+(Grand
+B allroom )
+
+6:00 P M
+
+10:15 AM
+
+10:45 AM
+
+In-S itu
+Propellant
+M an ufacture
+and Storage
+Lueck
+N ASA K SC
+
+Ch arg e to
+W o rking
+G ro ups
+Ruff
+
+6:30 P M
+
+W o rking
+Session
+
+W orking
+Session
+
+W orking
+Session
+
+W o rking
+Session
+
+Dinner (Lambert Room)
+
+Ruff,
+Registration/
+C ontinental
+Breakfast
+(G rand B allroom )
+
+Plenary
+(G rand Ballroom )
+
+10:00 AM
+
+Cash Bar (Lambert Room)
+
+7:00 AM
+
+Break (Grand Ballroom)
+
+Event
+
+W o rking
+Session
+
+Schedule
+
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+Tuesday, June 26
+8:00 AM
+
+Smoke and
+Fire Detection
+(Dulles Room)
+
+Fire
+and Post-Fire
+Response
+(Hartsfield Room)
+
+NASA/CP—2003-212103
+
+Continental Breakfast (Grand Ballroom)
+
+Fire Prevention
+and
+Material
+Flammability
+(O'Hare Room)
+
+9:45 AM
+
+Fire Prevention
+and Materials
+Summary
+
+Plenary
+(Grand Ballroom)
+
+9:00 AM
+
+Smoke and
+Fire Detection
+Summary
+
+Working
+Session
+Wrap-up
+
+10:30 AM
+
+Working
+Session
+Wrap-up
+
+Working
+Session
+Wrap-up
+
+24
+
+10:45 AM
+
+11:30 AM
+
+Fire and
+Post-Fire
+Summary
+
+Closing
+Ruff
+
+11:45 AM
+Lunch/Completion of Written Summaries (Working Group Leaders)
+(Lounge)
+
+7:00 AM
+
+Break ( Grand Ballroom)
+
+Event
+
+Summary Presentations
+
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+General Topic
+• Current level of understanding
+• Desired improvement or level of knowledge required
+– If possible,
+– Near-term
+– Long-term
+
+•
+
+Recommendations for research within this topic
+
+•
+
+Other Considerations
+–
+–
+–
+–
+
+Enabling technologies
+Impact on current procedures or future designs
+Technology transfer/technology teaming opportunities
+Who is the User?
+• Desired format
+
+Written Report
+
+National Aeronautics and Space
+Administration
+John H. Glenn Research Center
+
+•
+
+Introduction
+– Conduct of the group
+– Decision/discussion process
+
+•
+
+Current Technology Issues
+– Issue 1
+• Knowns and unknowns
+
+– Issue 2
+
+•
+
+Research Areas
+– Major Areas
+• Near-term
+• Mid-term
+
+– Enabling technologies
+– Technology teaming possibilities
+– Format of information desired by user
+
+NASA/CP—2003-212103
+
+25
+
+Spacecraft Fire Safety: A Human Space Flight Program Perspective
+Dr. Michael D. Pedley
+ISS Materials and Process Manager
+NASA Johnson Space Center
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+SPACECRAFT FIRE SAFETY
+A HUMAN SPACE FLIGHT PROGRAM
+PERSPECTIVE
+
+Michael D. Pedley
+ISS Materials and Processes Manager
+NASA Johnson Space Center
+
+Page 1 of 14
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+TYPICAL MANNED SPACECRAFT MATERIALS
+
+Page 2 of 14
+
+NASA/CP—2003-212103
+
+27
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+TYPICAL MANNED SPACECRAFT MATERIALS
+
+Page 3 of 14
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+TYPICAL MANNED SPACECRAFT MATERIALS
+
+Page 4 of 14
+
+NASA/CP—2003-212103
+
+28
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+TYPICAL FLAMMABLE HARDWARE PROTECTION
+
+Page 5 of 14
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+MATERIALS FLAMMABILITY
+• Current ground-based testing conservative but not intolerably restrictive for
+Shuttle/ISS environments – adequate supply of nonflammable materials for
+vehicle design to 30% oxygen environment
+• Long-term need to quantify “conservative”
+o Relax ISS flammability requirements for payloads, clothing, portable
+equipment accordingly
+o Future manned space exploration missions extremely weight limited – very
+desirable to minimize use of nitrogen as consumable by returning to
+Apollo/Skylab oxygen concentrations
+
+Page 6 of 14
+
+NASA/CP—2003-212103
+
+29
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+FIRE RETARDANTS
+• Need a good and easy fire retardant treatment for fabrics (cotton, paper,
+synthetics)
+o No significant changes in weight/feel of material,
+o Impervious to washing, dry cleaning
+o Odorless
+• Have to compete with current practice of allowing 100% cotton outer clothing
+(flammable)
+o Commercially available fire retardants tried with little enthusiasm from crew
+– stiff, dry-clean only, slight odor
+
+Page 7 of 14
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+NONFLAMMABLE FOAM CUSHION MATERIAL
+• No good nonflammable foam cushion material
+o Current choices are Pyrell fire-retardant polyurethane (flammable and life-limited)
+and Minicell polyethylene foam (more flammable but not life-limited)
+o Both weigh about 2 lb/cu. ft. and are very inexpensive
+• Desired cushion material would have following properties
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+Nonflammable to at least 30% oxygen
+Lightweight – preferably appreciably less than 2 lb/cu. ft.
+Not life-limited – life 30 years +
+Minimal compression set
+High resilience, tear resistance
+Negligible particulate formation
+Open cell for vacuum compatibility
+Very inexpensive
+Easy to cut into complex shapes
+
+Page 8 of 14
+
+NASA/CP—2003-212103
+
+30
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+NONFLAMMABLE FOAM CUSHION MATERIAL
+-- EXISTING CANDIDATES
+• Polyimide Foams (Solimide)
+o Very lightweight (0.5 lb/cu. ft.), nonflammable in 30% oxygen, not life-limited,
+open cell
+o Very poor compression set, significant particulate generation, poor “feel”
+o Difficult to cut without generating considerable particulate
+o Very expensive
+• Melamine Foams
+o Very lightweight (0.5 lb/cu. ft.), nonflammable in 30% oxygen, not life-limited,
+open cell, reasonable compression set
+o Minimal particulate generation but appreciable fine dust
+o Poor resilience, very poor tear resistance
+o Very difficult to cut complex shapes or thin slices
+o Very inexpensive
+• Silicone Foams
+o Expensive, very heavy (at least 6 lb/cu. ft. for adequate resilience)
+Page 9 of 14
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+ELECTRICAL WIRE AND CABLE
+• Critical component from fire safety standpoint, because electrical power is only really
+credible ignition source (excepting solid-fuel oxygen generators)
+• Key features
+o
+o
+o
+o
+
+Nonflammable to 40% oxygen, resists arc-tracking
+High resistance to mechanical damage (abrasion, nicks, cuts)
+High flexibility
+Lightweight and capable of operating at high temperatures (at least 200 ºC)
+
+• No perfect construction
+o Teflon is heavy and has poor damage resistance
+o Kapton is stiff, has very poor arc-tracking resistance, is easily damaged by
+nicks, and may degrade in humid environments
+o Tefzel is flammable in enriched oxygen, has limited life above 150 ºC and modest
+damage resistance
+o Teflon-polyimide hybrids currently best compromise for most applications but
+some aspects inferior to Kapton and others inferior to Teflon
+Page 10 of 14
+
+NASA/CP—2003-212103
+
+31
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+RUSSIAN SOLID-FUEL OXYGEN GENERATOR
+(SFOG)
+
+Page 11 of 14
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+GOX IGNITION MECHANISMS
+• Two important areas of limited understanding with respect to materials ignition
+and combustion in oxygen systems
+• In recent years, several oxygen system fires have been attributed to a
+phenomenon christened (possibly erroneously) as “flow friction”
+o Occurs only at high pressures (> 2500 psia)
+o Occurs in pressurized static systems (all other known ignition
+mechanisms are tied to motion – rapid pressurization, particle impact,
+friction
+o Appears to result from leakage through a seal
+o Ignition mechanism not understood, so cannot be controlled by
+design/materials selection
+• Limited studies of particle impact ignition have shown that high flow velocities
+are required and that metallic particles are probably worse than nonmetals –
+but we don’t know in any detail:
+o Velocity effects for different particulate contaminants
+o Effects of particle size and quantity
+o Effectiveness of filters as protection (as functions of filter size and filter
+material)
+o True hazards from gas streams exiting valve seats/orifices at sonic velocity
+Page 12 of 14
+
+NASA/CP—2003-212103
+
+32
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+FIRE DETECTION
+• Need capability to distinguish between pyrolysis event and true self-supporting
+combustion
+o Pyrolysis events relatively commonplace and inevitable (electrical shorts,
+component failures, arcing/arc tracking)
+o No true fires on orbit, excepting SFOG, combustion experiments
+• Needs to have high reliability, no false positives
+• Solve conundrum of
+o Air flow needed for to transport smoke, combustion products to traditional
+sensors for fire detection
+o Air flow worst thing for microgravity fires
+
+Page 13 of 14
+
+Michael D. Pedley/EM2
+Michael D. Pedley/NASA JSC
+June 2001
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+
+FIRE SUPPRESSION
+• Fire suppression capability always for backup only, but needs to be effective
+backup
+• Issues with Halon-type extinguishers include:
+o ECLSS compatibility
+o Extinguishant toxicity
+o Effectiveness at elevated oxygen concentrations
+o Environmental
+• Issues with carbon dioxide (ISS baseline) include:
+o Application (where is base of flame?)
+o Induced forced convection (will carbon dioxide application extinguish a
+microgravity fire or stir it up?)
+o Mixing (obtaining adequate concentrations in racks)
+• Issues with water-based suppressants (includes Russian segment ISS
+baseline) include:
+o Compatibility with electrical systems
+o Clean up
+o Use in racks (application to fire source, clean-up)
+Page 14 of 14
+
+NASA/CP—2003-212103
+
+33
+
+Michael D. Pedley/NASA JSC
+June 2001
+
+Control of Materials Flammability Hazards
+Dr. Dennis E. Griffin
+Chemistry Group Leader
+Materials, Processes, and Manufacturing Department
+NASA Marshall Space Flight Center
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+Control of Materials Flammability
+Hazards
+Dennis E. Griffin
+Chemistry Group Leader
+NASA/Marshall Space Flight Center
+Materials, Processes, and Manufacturing Department
+
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+•
+•
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin
+
+1
+
+Control of Materials
+Flammability Hazards
+
+Fire is one of many potentially catastrophic hazards associated with
+materials used in the operation of manned spacecraft
+Appropriate materials selection and control of flammable materials is an
+important element of NASA’s approach to fire control
+Major lesson learned from the Apollo 204 fire in 1966 was ignition
+sources can be minimized but never completely eliminated
+Spacecraft fire control is based on minimizing potential ignition sources
+and “eliminating materials that can propagate fire”
+– This means controlling quantity and configuration of flammable materials to
+eliminate potential fire propagation paths and ensure any fire would be
+small, localized, isolated and would self-extinguish without harm to the crew
+
+•
+
+Fire extinguishers are always provided on manned spacecraft but are
+not considered as part of the fire control process
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+35
+
+Dennis Griffin
+
+2
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+Control of Materials
+Flammability Hazards
+(continued)
+
+•
+
+Ground-based flammability testing is conservative but has not proven to
+be unusually restrictive for materials in manned spacecraft environments
+
+•
+
+Many solutions have been developed for controlling the configuration of
+flammable materials and materials in commercial “off-the-shelf” (COTS)
+hardware so that they can be used safely in manned spacecraft
+NSTS 22648, “Flammability Configuration Analysis for Spacecraft
+Applications,” describes these design solutions so customers can design
+safe and cost-effective flight hardware
+Current processes for controlling materials flammability hazards have
+successfully assured space flight materials and systems do not constitute
+an uncontrolled fire hazard
+Materials control processes include requirements, guidelines, testing,
+data bases, data requirement submittals, design analyses, deviation
+evaluation, hazard mitigation, verification, approval and certification
+
+– Adequate sources of nonflammable materials for vehicle design
+
+•
+•
+•
+
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+
+•
+
+•
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin
+
+3
+
+Flammability
+Requirements
+
+All flight hardware used in NASA manned space programs must comply with
+the flammability requirements of NASA-STD-6001, “Flammability, Odor,
+Offgassing, and Compatibility Requirements and Test Procedures for
+Materials in Environments That Support Combustion”
+Establishes NASA program requirements for evaluation, testing and
+selection of materials to preclude unsafe conditions related to flammability in
+the following environments:
+– Habitable flight compartments (internal)
+– Locations outside habitable areas (external)
+– Ground Support Equipment (GSE) and specified test facilities
+– Vented and sealed containers
+– Liquid and gaseous oxygen (LOX/GOX)
+– Breathing gases
+NASA-STD-6001 describes required flammability tests and requires a
+system flammability evaluation for materials that fail these tests
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+36
+
+Dennis Griffin
+
+4
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+
+NASA-STD-6001 contains several materials flammability and ignition tests:
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+
+Test 1 - Upward Flame Propagation (fundamental test for solid materials)
+Test 2 - Heat and Visible Smoke Release Rates (cone calorimeter)
+Test 3 - Flash Point of Liquids (ASTM D 93 Pensky-Martens closed tester)
+Test 5 - Electrical Connector Potting & Conformal Coating Flammability (deleted)
+Test 4 - Electrical Wire Insulation Flammability (15o inclined @ 125oC/ overload)
+Test 8 - Flammability Test for Materials in Vented or Sealed Containers
+Test 10 - Simulated Panel or Major Assembly Flammability (configuration Test 1)
+Test 11 - Simulated Crew Bay Configuration Flammability Verification (deleted)
+Test 13 - Mechanical Impact for Materials in Ambient/Pressurized LOX/GOX
+Test 14 - Pressurized Gaseous Oxygen (GOX) Pneumatic Impact for Nonmetals
+Test 17 - Upward Flammability of Materials in GOX (only for pressurized O2 sys.)
+Test 18 - Arc Tracking (for electrical wire insulation - not true flammability test)
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+•
+•
+•
+•
+•
+
+Flammability
+Requirements
+(continued)
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin
+
+5
+
+Flammability
+Requirements and System
+Evaluations
+
+Nonflammable – a material that self-extinguishes within 6” when ignited and
+does not propagate a flame by transfer of burning debris (for at least 3
+standard sized samples)
+Standard chemical ignition source – energy 750 + 50 cal., temperature 2000
++ 160oF, burning duration 25 + 5 sec., flame height 2.5 + 0.25”
+“Worst-case” anticipated use environment (most hazardous pressure,
+temperature, material thickness, and fluid exposure conditions) must be
+used in the testing and evaluation process
+Materials shown to meet the acceptance criteria of the required test(s) are
+acceptable for further consideration in design
+Systems containing materials that have not been tested or do not meet the
+criteria of the required test(s) must be verified acceptable in the use
+configuration by analysis or testing
+Fundamental requirements is for overall system to be safe from a
+flammability standpoint
+Test methods exist to provide data needed to support systems evaluation
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+37
+
+Dennis Griffin
+
+6
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+
+Flammability
+Requirements and System
+Evaluations (continued)
+
+An acceptable alternative to flammability testing is to assume material is
+flammable and demonstrate by analysis that the material configuration
+cannot propagate fire (e.g. for COTS hardware and electronic equipment)
+These requirements are implemented through various NASA program and
+Materials and Processes (M&P) requirements documents:
+– JSC SE-R-0006/MSFC-STD-506, General M&P Standard (Shuttle)
+– SSP 30233, Space Station Requirements for M&P (ISS)
+– NSTS 1700.7, Safety Policy & Requirements for Payloads Using the Space
+Transportation System and (same requirements in the) ISS Addendum
+
+•
+
+•
+
+NSTS 1700.7 tailors the NASA-STD-6001 requirements by exempting
+payload materials used in small quantities (less than 0.1 lb. or 10 square
+inches in manned crew environments and less than 1 lb. and/or 12 linear
+inches for external materials)
+Hardware containing materials that do not meet flammability requirements
+require Board approval with acceptance rationale and system evaluation
+documented in Materials Usage Agreements (MUAs) or Hazard Reports
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin
+
+7
+
+System Evaluations and
+Environments
+
+Systems flammability evaluations or oxygen hazards analyses are required
+consistent with the hazards assessment guidelines and requirement of:
+– NSTS 22648, Flammability Configuration Analysis for Spacecraft Applications
+– NASA TM 104823, Guide for Oxygen Hazards Analyses on Comp. and Systems
+– NSS 1740.15, Standard for Oxygen and Oxygen Systems, Guidelines for Design
+
+•
+•
+•
+•
+•
+
+Standard rationale codes (for Class III MUAs) are available for the most
+common acceptable configurations containing flammable materials
+Approval of hazard assessments documented in M&P Certification
+Materials flammability depends strongly on the oxygen concentration in the
+environment to which the materials will be exposed (the effect of pressure is
+much smaller and can be ignored at crew cabin pressures < 1 Atm)
+Past NASA programs used much higher oxygen concentrations than the
+current 30% maximum for ISS/Shuttle (100% for Apollo and 70% for Skylab)
+Configurations found to be acceptable under higher oxygen concentrations
+are considered acceptable for lower oxygen concentrations
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+38
+
+Dennis Griffin
+
+8
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+
+System Evaluations
+
+When a flammability assessment results in an unacceptable configuration
+reduction of flammability hazards is necessary to correct the problems
+Primary methods used by NASA to reduce flammability hazards are:
+– Minimize or limit the use of flammable materials by replacement with
+nonflammable materials
+– Eliminate or restrict propagation paths
+• Covering flammable material with a nonflammable material
+• Separation of flammable materials
+– Isolate flammable materials from ignition sources or eliminate ignition sources
+
+•
+•
+
+When results of flammability configuration analysis are inconclusive the
+hardware configuration may be tested for flammability to determine
+acceptability
+Alternatively the hardware organization may choose to assume the
+configuration is flammable and implement appropriate measures to
+eliminate the flammability hazard
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin
+
+9
+
+System Evaluations
+(continued)
+
+To conduct a flammability configuration assessment - Evaluate the overall
+hardware configuration:
+– If the hardware is a closed box without vents or power, the materials inside will
+not contribute to the fire hazard unless the box is constructed from flammable
+materials – the box acts as a fire barrier
+– If the only electrical power within the box is from batteries, the maximum shortcircuit power draw is nearly always too low to act as an ignition source
+• NASA testing during the Apollo era showed that solid materials cannot be
+ignited by electrical powers below 25 watts
+
+•
+
+Evaluate the way in which the hardware will be used:
+– Hardware that is normally stowed in a fireproof container (stowage locker, many
+NASA provided stowage bags and ISS crew transfer bags) and exposed to the
+cabin environment for short periods during use may comply with stowage policy:
+• Max dimensions 10 in. and unstowed less than 1 day/week
+• Unstowed less than 1 hour/day
+• Contingency use only
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+39
+
+Dennis Griffin 10
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+System Evaluations
+(continued)
+
+• Maximum dimension <6 in. and always stowed when not in actual use
+• Used only when covered by crew clothing
+• Exposed surface area < 1 sq. ft. and always worn by crew when unstowed
+– A full flammability analysis is required for hardware that is permanently mounted
+in a rack or a locker space
+
+•
+
+Identify the major materials to be assessed
+– Amounts greater than 0.1 pounds (or 6 linear inches maximum dimension and/or
+10 square inches maximum area) in crew-habitable compartments
+– Amounts greater than 1.0 pounds (or 12 linear inches) in other compartments
+– Metallic panels and structures are nonflammable in Shuttle/ISS environment
+(even magnesium and titanium) and need not be considered
+– Metallic screens may be flammable and must be addressed
+– Inorganic materials (ceramics) are also nonflammable in Shuttle/ISS
+environments and need not be considered
+– Adhesives (sandwiched between two surfaces) and materials covered
+overcoated by nonflammable materials need not be considered
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+•
+•
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin 11
+
+System Evaluations and
+Flammability Data
+
+Flammability characteristics of materials can be determined by consulting
+the NASA/MSFC Materials and Processes Technical Information System
+(MAPTIS) at http://map1.msfc.nasa.gov/WWW_Root/html/page7.html
+An A-rating in MAPTIS for test conditions that are the same as the use
+conditions means the material is acceptable in unlimited quantities
+Any other rating means the material quantity/exposure must be controlled
+The following key factors in materials
+Note the following key factors when using MAPTIS flammability data:
+– Oxygen concentration - MAPTIS flammability data obtained at higher oxygen
+concentrations than the use concentration are always conservative (unpowered
+and painted metal boxes, or hardware stowed/transferred in a standard locker,
+Shuttle container or crew transfer bag for external use are acceptable)
+– Material thickness – generally, flammability deceases with increasing thickness,
+so the thickness associated with the MAPTIS rating should be the same as the
+use thickness of the material, or it is acceptable if a thinner version of the same
+material is rated A for flammability
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+40
+
+Dennis Griffin 12
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+System Evaluations and
+Flammability Data
+(continued)
+
+– Coatings on substrates – thin coatings bonded or sprayed on metallic substrates
+are generally not flammable because the substrate acts as a heat sink, coating
+flammability always decreases with increasing substrate thickness, so a coating
+is always acceptable if it is A-rated for flammability on a thinner substrate, if the
+coating is <2 mils thick and the metal substrate is >20 mils thick the coating is
+acceptable, nonmetallic substrates are not effective as heat sinks
+
+•
+
+Determine fire propagation paths
+– Determine whether the externally exposed materials represent fire propagation
+paths exceeding 6” in crew compartments and 12” in other areas, propagation
+from one flammable material application to the next is not acceptable, and must
+be limited by fire breaks or positive action to control the hazard
+
+•
+
+Evaluate the ability of container to contain fire
+– Sealed containers have no vents and are verified to a max. of 1X10-4 cm3/sec
+• Contains no oxygen or inert gas an internal fire will not be initiated
+• Contains air and nonflammable wall > 60 mils thick fire will be contained
+• Internal void space limited to less than 30% of total volume acceptable
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin 13
+
+System Evaluations
+(continued)
+
+– Vented containers have active vents and associated cooling airflow
+• Vent area <1% of total surface area and vents covered with a fine metal
+(stainless steel or nickel, not Al, Ti or Mg) screen will contain fire
+• Carefully evaluate/test and reduce hazard by:
+- Minimize number and size of vents (avoid chimney effect)
+- Cover vents with fine CRES or Ni screen
+- Minimize free volume by adding nonflammable packaging materials , e.g.
+polyimide foam
+- If forced air flow not required, cover all vents and evaluate as intermediate
+- Relation between flow rate and flammability complex
+- At low flow rates flammable materials burn more vigorously with increasing
+flow rate (decreasing effectiveness of the container)
+- At high flow rate airflow will prevent stable flames (blowing out fire)
+- Intermediate flow rates are worse case and are configuration and
+microgravity dependent
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+41
+
+Dennis Griffin 14
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+System Evaluations
+(continued)
+
+– Intermediate containers have no active vents or cooling airflow
+• NASA-provided stowage lockers and bags are treated as containers that can
+act as barriers to external fires
+• Many commercial electronics items may be addressed by stowage policy or
+can be obtained with metallic or nonflammable polycarbonate case and with
+internal components packed closely such that void space is of no concern
+• Internal ignition of small commercial items powered by alkaline batteries is
+not considered credible
+• Potential for ignition from external sources can be eliminated with
+nonflammable case or by covering the case with a nonflammable material
+
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+•
+•
+•
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin 15
+
+Processes to Control
+Materials Flammability
+Hazards
+
+Elements of effective materials flammability control have successfully
+precluded uncontrolled fires on orbit:
+Requirements - NASA-STD-6001 implemented by program requirements
+Guidelines - NSTS 22648, MSFC-PROC-1301, NSS 1740.15, etc.ration
+Testing – active program for new materials, applications & configurations
+Data bases - MAPTIS provides 85,000 test reports on >32,000 materials
+– Used to publish MSFC-HDBK-527/JSC 09604, Materials Selection Lists for
+Space Hardware Systems, all materials have unique NASA Material Code
+
+•
+
+Data requirement submittals – Type 1 Approval, MCPs, MIULs and MUAs
+– Materials Control Plans – Describes how requirements will be implemented
+– Materials Identification Usage Lists – Identifies where specific materials are used,
+quantities, environments, application, thicknesses, cure, applicable test data, etc.
+– Materials Usage Agreements – used to approve materials that fail to meet
+requirements, describes application and hazard assessment with technical
+acceptance rationale for evaluation of deviation
+– Engineering Drawings
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+42
+
+Dennis Griffin 16
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+•
+•
+•
+•
+•
+
+Processes to Control
+Materials Flammability
+Hazards (continued)
+
+Design review/approval – M&P approval signature required on all
+engineering documentation
+Design analysis – formal hazards analysis, inspections, walk-throughs
+Hazard mitigation – numerous techniques developed and documented
+Oversight/Insight – M&P approval signature and representation required for
+milestone design reviews (SRRs, PDRs, CDRs, DCRs), Safety Review
+Boards/Panels, Certification of Flight Readiness Reviews (CoFRs)
+Verification – data submittal, assessment and closure for generic
+flammability hazard, reconcile as-designed versus as-built configuration
+Materials and Processes (M&P) organization responsible for preparing and
+approving certification that materials meet flammability requirements for
+CoFR and Safety Panel
+Reciprocal Materials Agreements
+– JSC, MSFC, JPL, GRC, GSFC maintain Intercenter Materials Agreements
+– NASA, ESA, NASDA and RSA maintain Interagency Materials Agreements
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin 17
+
+Flammability Reduction
+Methods
+
+Commercial items with flammable outer surfaces (ABS, PVC, polyethylene,
+and/or polyamides) may be wrapped in nonflammable tape
+– 3 mil aluminum tape (L-T-80) will protect most plastics, foams and cardboard
+– Nonflammable fiberglass tape with silicone adhesive will provide same protection
+if each rotation or wrap overlaps the previous one by 50%
+
+•
+
+•
+•
+
+For long-term applications and aesthetics, flammable surfaces may be
+coated with nonflammable barrier such as Fluorel  (expensive, complex,
+fair durability)
+Common case materials for commercial items are generally extremely
+flammable ABS or normally acceptable polycarbonate (up to 30%) or metal
+Electrically powered items with internal flammable materials can usually be
+treated or filled with a suitable material (nonflammable glass-filled-epoxy
+potting compound) to provide protection from internal ignition sources
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+43
+
+Dennis Griffin 18
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+
+Wire and Cable
+
+Most aerospace-grade electrical wire insulation is nonflammable in
+Shuttle/ISS environments
+Limitations are usually driven by such factors as flexibility and cut-through
+resistance:
+– Teflon (MIL-W-22759, MIL-C-27500, or equivalent) – good general-purpose wire
+with high flexibility but poor cut-through resistance
+– Polyimide (MIL-W-81381) – no longer used except in flat circuits because of
+propensity to arc track
+– Teflon-Polyimide Hybrids (MIL-W-22759, MIL-C-27500, or equivalent) – good
+general-purpose wire with lower flexibility than Teflon but higher cut-through
+resistance
+– Tefzel (MIL-W-22759, MIL-C-27500, or equivalent) – suitable for external
+applications but flammable in enriched oxygen with performance similar to hybrid
+– ISS also uses a custom silicone-insulated construction in power circuits (SSQ
+21652) that is nonflammable in ISS environments and exceptionally flexible
+
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+•
+•
+•
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin 19
+
+Wire and Cable (continued)
+
+COTS hardware typically has electrical wiring with PVC, polyethylene, or
+chloroprene insulations which are flammable in all Shuttle/ISS environments
+Their use is generally discouraged and may be used only when
+demonstrated to be acceptable in configuration by flammability analysis
+Commercial wiring inside electronics boxes and low-power signal wiring
+outside such boxes can usually be accepted by this method
+External power cables nearly always need to be replaced or protected from
+ignition
+Flammable insulation is acceptable on wires in external payloads that are
+not powered (including during ground testing) until in vacuum
+
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+44
+
+Dennis Griffin 20
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+
+Wire, Cable and Electrical
+Accessories
+
+Methods for protecting flammable cables include:
+– Covering with braided Teflon sleeve, such as Goretex  sleeving
+– Wrapping with nonflammable fiberglass-backed-silicone adhesive tape
+– Covering with sleeve of 7.2 oz/yd2 natural Nomex HT-9040 fabric, beta cloth,
+polybenzimidazole (PBl), or other nonflammable fabrics
+– Covering by heat shrinking polyvinylidene fluoride or Teflon sleeve onto cable
+
+•
+•
+•
+•
+•
+
+Wire and cable accessories such as cable markers, spacers, and cable ties
+should not contribute to fire propagation paths
+Polyvinylidene fluoride/fluoroelastomeric cable markers are generally used
+Other types of cable marker material may be acceptable if used in small
+discrete amounts or covered with a clear Teflon TFE or FEP sleeve
+Most types of spacers are usually acceptable because of heat sink effects
+Acceptable lacing cords are Teflon TFE, Teflon TFE/fiberglass, or Nomex
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+•
+
+•
+•
+•
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin 21
+
+Electrical Accessories
+Hoses and Tubes
+
+Acceptable cable ties can be made from ETFE or ECTFE fluoropolymers
+If flammable cable tie wraps are used on nonflammable cables they should
+be spaced at least 2 inches apart to prevent fire propagation
+In air and moderately-enriched oxygen environments (up to 40 percent
+oxygen) the shell of a metal shell electrical connector prevents fire
+propagation from the nonmetallic materials used inside the connector to
+other nonmetallic materials, regardless of the material inside the connector
+Flammability configuration analysis is required for nonmetallic shell
+connectors
+Acceptability of the nonmetallic materials used inside the connector depends
+on the flammability of the shell material and its ability to act as a fire barrier
+External tubes or hoses (such as a vacuum cleaner hose) made from
+flammable materials may be replaced with a nonflammable material or
+covered with a fire barrier material
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+45
+
+Dennis Griffin 22
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+•
+•
+•
+
+Hoses and Tubes
+Hook and Loop Fasteners
+
+Clear TFE or FEP Teflon tubes and hoses are readily available to replace
+flammable materials
+If flammable tubes or hoses must be used, the exterior can be protected by
+a covering of 7.2 oz/yd2 natural Nomex HT-9040, PBI, Beta cloth, or other
+nonflammable fabric
+In these cases potential for ignition of the tube walls from inside must be
+addressed
+Although some hook-and-loop fastener materials are less flammable than
+others, all common types are flammable in spacecraft habitable areas
+To prevent long flame propagation paths, the following usage limits are
+generally applied to hook and loop fasteners in habitable areas:
+– Maximum size: 4 square inches, individually or in pieces
+– Maximum length: 4 inches
+– Minimum separation distance: 2 inches in any direction from another piece
+
+•
+
+NASA normally uses nylon fasteners in habitable areas for greater durability
+and Nomex in EVA operations for good low-temperature performance
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+•
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin 23
+
+Stowage Bags and
+Lockers
+
+Metal stowage lockers that do not contain ignition sources are acceptable
+Material selection criteria for nonmetallic stowage lockers must be based on
+fire containment capability and should be supported by test data
+Acceptable stowage bags may be constructed from the following fabrics:
+– Beta cloth - acceptable for stowage of potentially flammable materials but has
+low durability and a tendency to shed glass fibers
+– Natural Nomex HT-9040 fabric weighing at least 7.2 ounces/square yard
+– Lighter weights of natural Nomex HT-9040 are acceptable in double layers
+– Navy blue single-layer Nomex weighing 6.5 ounces/square yard treated with
+ammonia dihydrogen phosphate fire retardant
+• Used on the Shuttle but discouraged for ISS because the fabric cannot be
+wiped down without removing the fire retardant
+– PBI and other flame-retardant fabrics (see MAPTIS)
+
+•
+
+These containers can have flammable items stowed inside them provided
+they do not contain ignition sources and are not susceptible to spontaneous
+ignition or chemical reaction
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+46
+
+Dennis Griffin 24
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+•
+•
+•
+•
+•
+•
+
+Thermal Control Blankets
+
+Thermal control blankets are the most widely used potentially flammable
+external materials
+Blankets typically contain 12 to 40 layers of film (0.0005 to 0.002 inches in
+thickness) separated by some type of scrim cloth
+Blanket materials are usually constructed of metal-coated polyethylene
+terephthalate or polyimide film with an organic separator scrim
+The inner and outer layers are generally heavier than the internal layers for
+durability
+Outer layer has controlled optical properties and is usually polyimide, silverTeflon, or Beta cloth
+Acceptable thermal control blankets are typically constructed as follows:
+– The outer layer is made of nonflammable material such as polyimide film (at least
+1.5 mil thick), metal foil, silver-Teflon, or Beta cloth
+– Internal layers can be a combination of flammable films or scrims
+– Edges are hemmed or suitably finished so that the inner flammable layers are
+protected and Atomic Oxygen is a consideration for long- term LEO exposure
+June 2001
+
+MSFC Materials,
+Processes, &
+Manufacturing
+Department
+
+Spacecraft Fire Safety Workshop
+
+Dennis Griffin 25
+
+Fiber Reinforced
+Laminates
+
+• Fiber-reinforced laminates are used as structural materials
+• Laminates may be flammable if used in thickness < 0.125
+inches
+• Flammability characteristics of thin laminates should be verified
+by test or the laminates should be protected
+• Flammable laminates may be used in external payloads
+provided that ignition sources (electrical wires, heaters, etc.)
+are not located within 6 inches of the laminates
+• Otherwise firebreaks should be placed on the exposed surfaces
+of these laminates at 12 inch intervals, e.g. Aluminum tape 3
+mils thick X 3 inches wide (Federal Standard L-T-80)
+June 2001
+
+NASA/CP—2003-212103
+
+Spacecraft Fire Safety Workshop
+
+47
+
+Dennis Griffin 26
+
+Overview of ISS U.S. Fire Detection and Suppression System
+Alana Whitaker
+ISS ECLS Subsystem Manager
+Fire Detection and Suppression Systems
+NASA Johnson Space Center
+
+Overview of ISS US Fire Detection
+and Suppression System
+
+6/25/01
+
+Alana Whitaker
+
+1
+
+Outline
+• Intro to Fire Detection and Suppression (FDS)
+• Description of (FDS) Subsystems
+– Portable Fire Extinguishers (PFE)
+• PFE Testing
+
+– Smoke Detectors (SD)
+• Ventilation and Air Monitoring/Supply Systems
+
+– Portable Breathing Apparatus (PBA)
+
+• FDS System Component Location and Status
+• FDS System Capabilities
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+49
+
+2
+
+Outline (cont.)
+• FDS Automatic and Manual Response
+• Post Fire Atmosphere Restoration and Air
+Quality Assessment
+• FDS Research Needs
+
+6/25/01
+
+Alana Whitaker
+
+3
+
+Intro to FDS on ISS
+• Fire Detection and Suppression (FDS)
+includes:
+–
+–
+–
+–
+
+6/25/01
+
+NASA/CP—2003-212103
+
+Detection of smoke
+Isolation of fires
+The means to extinguish fires
+The means to recover from fires
+
+Alana Whitaker
+
+50
+
+4
+
+Portable Fire Extinguisher (PFE)
+
+PFE w/o Cover
+
+PFE w/Cover (config. on orbit)
+6/25/01
+
+Alana Whitaker
+
+5
+
+Portable Fire Extinguisher (PFE)
+• PFE Characteristics
+– Contains 6 lbs CO2 at 850psi
+– Discharges in 45 sec.
+– Has two nozzles:
+• Conical Nozzle (open area nozzle) for
+open area suppression
+• Cylindrical Nozzle (closed volume
+nozzle) for suppression
+in closeout fire ports
+Closed Volume Nozzle
+Open Area Nozzle
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+51
+
+6
+
+PFE Cover
+• PFE Cover Characteristics
+– Made of Nomex
+– Fits snuggly to PFE
+– Keeps PFE within allowable touch temp. limits during
+discharge (w/o Cover, PFE reaches 0 deg. F and nozzle -32
+deg. F)
+
+6/25/01
+
+Alana Whitaker
+
+7
+
+Fire Suppression Ports
+• 1” or 0.5” diameter perforated access
+ports in racks and standoffs for the
+cylindrical nozzle (enclosed area
+nozzle) to suppress fires
+• O2 concentration in a rack is reduced to
+< 10.5% within 1 min of suppression.
+
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+52
+
+Suppression port nozzle inserted
+into suppression port
+
+8
+
+Fire Suppression Testing
+• Enclosed Volume Tests (cylindrical nozzle)
+– All CO2 sensors show > 50% concentration for
+volumes 60ft3 or less
+– Good mix in enclosed volumes
+
+• Open Volume Tests (conical nozzle)
+– Fire is suppressed by a combination of blowing
+the fire out (3 lb mass in first 10 sec) and
+supplying CO2.
+
+6/25/01
+
+Alana Whitaker
+
+9
+
+Smoke Detector
+
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+53
+
+10
+
+Smoke Detector
+• Photoelectric Smoke Detector
+– Based on smoke particles scattering a light beam
+– Light from a laser source is reflected by mirrors back to a
+photodiode (obscuration).
+– Scattered light is measured by a second photodiode (scattering)
+– Alarms are based on the voltage level generated by the
+scattering photodiode.
+
+6/25/01
+
+Alana Whitaker
+
+11
+
+Smoke Detector Principle
+El ec tr onic s
+
+Photodiodes
+Laser Diode
+Sc atter Path
+
+Obs cur ati on Path
+
+Airflow
+
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+54
+
+12
+
+Smoke Detectors in Ventilation
+• Smoke Detectors are located on the ventilation filter intake ducts.
+PERFORATED MANUAL
+DAMPER VALVE
+
+SUPPLY
+DIFFUSER
+(6 POSITIONS)
+
+MANUAL DAMPER VALVE
+
+PERFORATED MANUAL
+DAMPER VALVE
+CROSSOVER DUCT
+OVERHEAD
+
+TRANSITION DUCT ASSEMBLY
+BACTERIA FILTER
+ASSEMBLY (6 POSITIONS)
+
+IMV
+OUT
+CDRA
+SUPPLY
+
+SMOKE DETECTOR
+LABPD1
+8
+SMOKE DETECTOR
+LABSD5 8
+
+IMV IN
+PORT
+MANUAL DAMPER VALVE
+ARS RETURN
+
+DECK
+
+MANUAL DAMPER VALVE
+
+STBD
+
+Lab Cabin Air Temperature and Humidity Control Assembly with Smoke Detectors
+
+6/25/01
+
+Alana Whitaker
+
+13
+
+Smoke Detectors in Ventilation
+
+Smoke Detector
+
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+55
+
+14
+
+Air Monitoring/Supply System
+• Air components/concentrations are monitored
+by the Major Constituent Analyzer (MCA) in
+the LAB.
+– Air samples are taken from each module and
+routed to the sensor (mass spec.) in the MCA.
+– MCA gives percent compositions. (Typical O2
+levels on ISS are slightly less than 24%.)
+
+• Metabolic O2 and N2 are supplied from
+Orbiter, Service Module, and Progress
+6/25/01
+
+Alana Whitaker
+
+15
+
+Total and Oxygen Partial Pressure Control
+Not In Campout Mode
+• Pressure control when Not in Campout Mode (nominal)
+is done with closed-loop control
+– Total Pressure
+• The PCPs will be taking constant (1 Hz) total pressures
+• If the total pressure drops below 14.25 psia the Nitrogen Isolation Valve
+in the primary PCP will open
+• When the total pressure >= 14.3 psia the Nitrogen Isolation Valve in the
+primary PCP will close
+– Oxygen Partial Pressure
+• The MCA will be making constant readings of the Station atmosphere
+• If the oxygen partial pressure drops below 3.00 psia the Oxygen
+Isolation Valve in the primary PCP will be opened
+• When the oxygen partial pressure >= 3.05 psia the Oxygen Isolation
+Valve in the primary PCP will close
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+56
+
+16
+
+Total and Oxygen Partial Pressure Control
+In Campout Mode
+•
+
+•
+•
+
+While in Campout Mode, the ppO2 in the Airlock will be controlled by the
+following:
+– If ppO2 < 2.7 psia in the Airlock, the Airlock PCA will open the PCP OIV
+for 4 minutes +/- 10 seconds
+– If the ppO2 > 2.85 psia in the Airlock, the Airlock PCA will open the PCP
+NIV for 2 minutes +/- 2 seconds
+– If either the PCP NIV or OIV was opened, wait 11 minutes after the valve
+closes
+– Repeat
+Total pressure control is via manual operation of the Depress Pump
+The rest of Station will continue to control total and oxygen partial pressures in
+the standard method
+
+6/25/01
+
+Alana Whitaker
+
+17
+
+Portable Breathing Apparatus (PBA)
+
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+57
+
+18
+
+Portable Breathing Apparatus (PBA)
+• PBA is composed of:
+– Mask
+– 15 minute O2 bottle
+– 30’ hose
+
+• Provides O2 to crew in emergency situations
+– Post-fire clean-up
+– Environmental contamination
+– Depressurization
+6/25/01
+
+Alana Whitaker
+
+19
+
+FDS System Component Location
+• Node 1 – 2 area Smoke Detectors (SD), 1 (PBA), 1 (PFE)
+– Currently on orbit
+• PFE and PBA are nominal (have not been used)
+• SD#1 is powered, enabled, and nominal
+• SD#2 is powered and disabled
+
+• Lab – 2 area SD, 2 system rack SD (AR rack, CHeCS rack),
+up to 13 experiment rack SD (3 experiment rack SD at 7A),
+2 PBA, 2 PFE
+– Currently on orbit
+•
+•
+•
+•
+
+PFEs and PBAs are nominal (have not been used)
+4 SDs (2 area and 2 rack) are powered, enabled, and nominal
+1 payload SD is powered, enabled, and nominal
+2 payload SDs operate intermittently based on payload operations
+
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+58
+
+20
+
+FDS System Component Location
+• A/L – 1 area SD, 1 duct SD, 2 Pre-breathe Hose
+
+Assemblies (PHA), 3 O2 bottles, 1 PHA spares
+kit, 1 PFE
+• MPLM – 1 duct SD, 1 PFE, 1 PBA (PBA & PFE
+stored in Node1 when MPLM is not attached)
+
+6/25/01
+
+Alana Whitaker
+
+21
+
+FDS System Component Location
+Zenith Truss
+
+Cupola
+
+X
+4
+
+LAC6
+
+LAC5
+
+DD s
+CU
+
+Z
+
+LAC4
+
+ISPR
+
+1
+
+P
+
+LAC3
+
+ISPR
+
+1
+
+LAC2
+
+ISPR
+
+1
+
+LAC1
+
+ISPR
+
+1
+
+ISPR
+
+1
+
+Node 1
+
+A
+
+PMA - 1
+
+A
+
+N1Z
+
+N1P
+
+Stowage 1
+
+Stowag e 3
+
+X
+1
+
+N1N
+
+LAS5
+MSS / Avionics
+
+LAS4
+
+LAS3
+
+ISPR
+
+1
+
+LAS2
+
+ISPR
+
+1
+
+LAS1
+
+ISPR
+
+1
+
+ISPR
+
+1
+
+N1S
+
+Stowage 2
+
+LAS6
+Mod. Temp. TCS /
+Cabin Air Asse
+mbly
+
+Stowag e 4
+
+X
+2
+
+LAF6
+Lab
+
+N
+
+LAF5
+Avionics #1 / Cond.
+Water Storage
+
+LAF3
+
+Fuel Cell Water Sto
+rage
+
+LAF2
+
+LAF1
+
+ISPR (Window)
+
+LAF4
+
+ARS
+(CDRA, MCA, TCCS)
+
+F
+
+Avionics #3
+
+Avionics #2
+
+F
+
+1
+
+Node 2
+
+S
+X
+3
+
+LAP6
+Node 3
+
+Suppression Port
+
+LAP5
+
+Low Temp. TCS /
+Cabin Air Asse
+mbly
+
+Airlock
+
+MSS / Avionics
+
+LAP4
+
+LAP3
+
+ISPR
+
+FSS / Stowage
+
+1
+
+LAP2
+
+LAP1
+
+ISPR
+
+1
+
+Node1
+
+ISPR
+
+1
+
+LAB
+
+Equipment Lock
+AF1
+Avionics
+
+Portable Fire Extinguisher
+Node 1
+
+P
+
+Crew Lock
+
+Smoke Detector
+Portable Breathing Apparatus
+
+AA1
+Ca Air Asse
+bin
+mbly
+
+Visual Indicator (LED)
+1
+
+ISPR FDS equipment required depends on
+payload and payload rack integration. These
+schematics show worst case scenario until
+payload rack designs are finalized.
+
+6/25/01
+
+NASA/CP—2003-212103
+
+Airlock
+Alana Whitaker
+
+59
+
+22
+
+FDS System Capabilities
+• Node 1, Lab, A/L, & MPLM FDS
+– Fire emergency alarm received if any single SD
+FIRE status flag is set equal to “FIRE”
+– Scatter must exceed the fire threshold two
+consecutive times, the detector then initiates an
+active Built In Test (BIT), and the scatter must
+still be exceeding the threshold after the BIT to
+set the status flag equal to “FIRE.”
+– Location may be determined by laptop.
+6/25/01
+
+Alana Whitaker
+
+23
+
+FDS Automatic and Manual Response
+(Overview)
+
+• In case of fire or smoke
+– The crew can manually push the fire alarm or the
+Smoke Detectors can automatically initiate the fire
+alarm to perform the following functions:
+1) Remove power to racks-to isolate ignition sources
+2) Isolate module by shutting off ventilation (close
+IMVvalves, sample delivery systems, cabin fans)-to stop air flow
+within module and exchange between modules
+
+3) Inhibit introduction of O2 and N2 into module (inhibit
+
+pressure control assembly in LAB)
+
+*Crew can use PFE at their discretion*
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+60
+
+24
+
+Post Fire Atmosphere Restoration
+• Gaseous Contaminants removed by the following:
+– SM - Micropurification Unit(БМП)
+• Removes 19 different gaseous contaminants using a catalytic
+oxidizer (ambient) and expendable & regenerative charcoal
+beds.
+
+– FGB - Harmful Impurities Filter (ФВП)
+• Removes gaseous trace impurities (particles of 0.5 to 300µm
+to a level of 0.15 mg/m3).
+
+– Lab - Trace Contaminant Control Subsystem
+(TCCS)
+• Removes gaseous contaminants using a catalytic oxidizer
+(400ºC) and expendable sorbent and charcoal beds. Sorbent
+contains LiOH which can remove acid gases.
+6/25/01
+
+Alana Whitaker
+
+25
+
+Post Fire Atmosphere Restoration
+– Carbon Dioxide Removal Assembly (CDRA)
+• Removes CO2 from the atmosphere that was discharged from
+the PFE
+
+– Extra charcoal air filters
+• Scrub the environment and contain 2% Pt for CO removal.
+
+– CO2 Removal Kit (CRK)
+• Consists of a portable fan assembly with a LiOH cartridge
+adapter.
+• Can be used with LiOH or ATCO catalyst canister for CO2 or
+CO removal
+
+– Venting module to space
+• Only in worst case scenario
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+61
+
+26
+
+Post Fire Air Quality Assessment
+• Air quality analysis done with the following
+equipment:
+– Compound-Specific Analyzer for Combustion Products
+(CSA-CP)
+– Carbon Dioxide Monitoring Kit (CDMK)
+
+• Final analysis using Draeger detector tubes
+• Atmospheric sampling, using GSC and AK-1 air
+sampling assemblies, for delivery to ground.
+6/25/01
+
+Alana Whitaker
+
+27
+
+FDS Research Needs
+• Data to support suppressant selection
+– Suppressant
+•
+•
+•
+•
+
+Effective
+Not harm ECLSS or other equipment
+No/low toxicity
+Not require extensive clean up
+
+• Microgravity research on suppression of fire
+– Experiments needed on fabrics and items on orbit likely
+to burn
+
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+62
+
+28
+
+??Questions??
+
+Contact Info.
+Alana Whitaker - NASA/JSC
+ISS ECLS Subsystem Manager
+Fire Detection and Suppression Systems
+6/25/01
+
+NASA/CP—2003-212103
+
+Alana Whitaker
+
+63
+
+29
+
+An Introduction to Mars ISPP Technologies
+Dr. Dale E. Lueck
+Systems Engineering and Analysis Branch
+Spaceport Engineering and Technology
+NASA Kennedy Space Center
+
+An Introduction to Mars ISPP
+Technologies
+Research Needs in Fire Safety
+for the
+Human Exploration and Utilization of Space
+June 25-26, 2001
+Dr. Dale E. Lueck
+
+Cleveland, Ohio
+
+NASA/John F. Kennedy Space Center
+
+Background
+•ISPP is an enabling technologies for HEDS missions to Mars.
+
+•CO2 + 4 H2 → CH4 + 2 H2O
+Electrolysis
+
+2H2 + O2
+
+(Sabatier Reaction with Water Electrolysis)
+•Supplemental oxygen production required
+•2 CO2 → 2 CO + O2
+
+NASA/CP—2003-212103
+
+65
+
+Sabatier Reactor / Water Electrolysis
+2nd Generation SR/WE Test Bed
+•Exothermic Reaction, must
+be cooled
+•Operating Temp: 300°C
+•Requires Hydrogen
+Transport and Storage
+•CO2 Freezer
+•Cryo-coolers and Storage
+for LCH4 & LOX
+(common bulkhead storage
+tank?)
+
+Sabatier Reactor Flow Chart
+
+NASA/CP—2003-212103
+
+66
+
+Alternative Fuels?
+Methane requires 4 atoms of Hydrogen
+! Lower hydrogen content improves ISPP
+weight savings ratio
+H/C
+Tons H2
+!
+
+Methane
+! Ethane
+! Ethylene
+! Benzene
+
+4
+3
+2
+1
+
+!
+
+5.1
+4.7
+3.4
+2.1
+
+Fuels and Oxidizer
+ISPP saves weight by producing fuels
+on Mars (5 – 8 tons over H2 brought)
+! Producing fuels other than methane is
+still in early development
+! Producing oxygen saves 70+ tons for
+MAV oxidizer.
+! Life support and mobile power further
+increases savings.
+!
+
+NASA/CP—2003-212103
+
+67
+
+Oxygen Production
+!
+
+All systems use electrolysis to produce
+oxygen
+!
+!
+
+!
+!
+!
+
+Electrolysis of water from a reactor
+Direct electrolysis of CO2
+
+Electrolytes can be water, non-aqueous
+liquids or solids.
+4 e- / O2 molecule establishes current
+Operating voltage and temperature establish
+efficiency and materials of construction.
+
+PEM Cell Electrolyzer Schematic
+•Nafion is preferred PEM
+•Platinum group metals
+used for electrodes,
+deposited on PEM
+
+From Hamilton-Sundstrand
+Web site
+
+NASA/CP—2003-212103
+
+• Uses Proton Exchange
+Membrane (PEM) to
+separate H2 and O2
+
+68
+
+Electrolyzer Stack for Seawolf Submarine
+
+•100Cells/Stack (7 Cells / Inch)
+•50-kW (360 SCFH-H2)
+•High Current Density (1000 A/Ft2)
+•Over 100,000 hours operation
+•H2 & O2 at 3000 psi
+
+Courtesy of J. Kosek, Giner, Inc.
+
+Zirconia Solid Electrolyte Cell
+
+Sridar, Gottmann, and Baird, AIAA Publication
+
+NASA/CP—2003-212103
+
+69
+
+Zirconia Pros and Cons
+•Direct electrolysis of CO2 with pure O2 separated.
+•Good efficiency, about 1.5 V, similar to water
+electrolysis.
+•Very high operating temperatures, 800 - 1000°C.
+•All ceramic construction in high temp zone.
+•Fragile, easily cracked.
+•Membrane failure could threaten entire output.
+•Has been proposed for water vapor electrolysis
+
+Possible Advantages for an Alternate System
+
+•Lower temperatures
+•<700°C…use metals in construction
+•<270°C …use polymers and elastomers
+•< 31°C …liquid CO2 as co-solvent
+•Lower operating voltage…better efficiency
+•More rugged construction, a robust assembly
+
+NASA/CP—2003-212103
+
+70
+
+Reverse Water Gas Shift (RWGS)
+•CO2 + H2 ↔ CO + H2O (RWGS Reaction)
+•Equilibrium constant is only 0.1, must remove
+products to drive reaction to completion.
+•Reactor requires pump, permeation filter and heat
+exchangers to run.
+•Electrolysis of water requires as much energy as
+zirconia.
+•Rugged and low temperature, but complex and heavy.
+
+RWGS Reactor Assembly
+
+NASA/CP—2003-212103
+
+71
+
+RWGS Test Bed
+
+Molten Carbonate Electrolysis
+Molten Carbonate Test Cell Design
+Cover Detail
+
+Anode Reaction
+2 CO3-2 ↔ 2 CO2 + O2 + 4e-
+
+Ni wire lead
+Alumina tubes
+Clearance for
+5/8” tubes
+
+Pt wire Anode
+
+Cathode Reaction
+2 CO2 ↔ CO + CO3-2
+
+Alumina Crucible
+and Cover
+
+Porous Cathode
+
+NASA/CP—2003-212103
+
+72
+
+Molten Carbonate Test Fixture
+
+Molten Salt Results
+•Li2O in Chloride melt
+Pure oxygen at anode
+•Current decreased to zero over a few hours
+•Carbonate formation at cathode is likely
+•Carbonate electrolysis at anode yields 2:1, CO2/O2
+•Sustained reaction for 7 days
+•Minimal loss of O2 production
+•Temperature of operation: 550°C
+•Cell voltage: ~ 0.8 Volts
+•Platinum anode and cathode
+
+NASA/CP—2003-212103
+
+73
+
+Non-Aqueous Solvents
+•Potential Advantages
+•Wide electrochemical window
+•Low temperature operation
+•CO2 a potential co-solvent
+•Solvents Surveyed & Results
+•Acetonitrile, DMSO, Propylene Carbonate
+•C-V curves show CO2 reduction
+•No evidence for oxide or carbonate solubility
+•No oxygen generation at anode
+
+Liquid CO2:
+
+Electrochemical Reaction Vessel
+
+Electrodes
+
+Pressure Gauge
+
+Product Vent
+CO2 inlet
+
+NASA/CP—2003-212103
+
+74
+
+Pro and Cons of Liquid CO2
+•Advantages:
+•Very high electrode concentrations " High current density
+•No porous gas cathode required " Simplified Cathode
+•If carbon forms " Twice as much O2 out/ CO2 in
+•Disadvantages:
+•CO2 at high pressure mixed with electrode products
+•If carbon forms " must remove carbon periodically
+•If CO forms, separation technology is critical for life
+support uses.
+•No known cell compartment separators that would
+transport carbonate, and simplify product separation.
+
+Ionic Liquids
+•What are they?
+•Low melting point ionic salts. By using large anions
+and cations, a low temperature melt with conductivity
+similar to molten salts can be obtained.
+•Examples include pyridinium and imidizolium cations
+with anions such as PF6-, BF4-, and many others.
+•Desirable Properties
+•Low temperature (-100 - 300°C).
+•High conductivity (low I*R losses).
+•Wide electrochemical window.
+•Non-volatile.
+•Miscible with or high solubility for CO2.
+
+NASA/CP—2003-212103
+
+75
+
+Hurdles for Ionic Liquids
+. Find one that carbonate is soluble in, or carbonate is the anion.
+(Working with Prof. R. Rogers @Univ. of Alabama)
+
+•Confirm CO2 reduction, preferably to CO.
+•Confirm O2 production at anode (2:1, CO2/O2).
+•Confirm long term stability and balanced cell reactions.
+•Minimize cell voltage.
+•Electrode materials
+•Minimize I*R drop " thin electrolyte film, highly conductive.
+•Construct porous support for electrolyte (similar to carbonate).
+•Construct cell manifolds and multi-cell assemblies.
+
+Mobile Oxide Ceramic Membranes
+•Similar to Zirconia, but lower temperature.
+•Demonstrated on NOx electrolysis.
+•Oxide ion from CO2 reduction stabilized by
+Ceramic Lattice structure.
+•Operating temperatures 500 - 700°C allows
+use of metal manifolds and seals.
+Working with Prof. E. Wachsman at
+Univ. of Florida to prove feasibility.
+
+NASA/CP—2003-212103
+
+76
+
+Oxygen Production Conclusions
+•Oxide ions as an electrochemical intermediate are only
+viable in mobile oxide ceramics.
+•Carbonate is formed from CO2 reduction in molten salts,
+and produces a 2:1 CO2/O2 mixture at the anode.
+•Other products of CO2 reduction do not produce O2 at
+the anode.
+•Carbonate melts and mobile oxide ceramics are probably
+useable below 700ºC for CO2 electrolysis.
+•Ionic liquids may be able to operate below 200ºC if
+one compatible with carbonate can be found.
+
+Acknowledgements
+!
+
+KSC researchers involved in ISPP work presented here
+! Mike O’Neal
+Bill Larson Clyde Parrish
+! Bill Buttner
+Jan Surma Curtis Ihlefeld
+
+!
+
+Approximately 50 workers have participated in ISRU
+related technologies at KSC, including biological
+research on plant growth chambers, Mars atmospheric
+test chamber, static charge experiments, ISPP and
+other technologies.
+
+NASA/CP—2003-212103
+
+77
+
+List of Attendees
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+Legend:
+
+Name
+Organization
+Gorecki, Chris
+National Center for Microgravity Research
+Jones, Sandi
+National Center for Microgravity Research
+Baker, Diane
+Hill AFB
+Beeson, Harold
+NASA JSC-White Sands Test Facility
+Erickson, Kenneth L.
+Sandia National Labs - Albuquerque
+Feikema, Douglas
+NASA Glenn Research Center
+Fernandez-Pello, Carlos
+Univ. of California, Berkeley
+Ferkul, Paul
+National Center for Microgravity Research
+Frazier, Wayne
+NASA Headquarters
+Griffin, Dennis
+NASA Marshall Space Flight Center
+Hirsch, David
+Honeywell, NASA White Sands Test Facility
+Jackson, Brian (James)
+NASA Glenn Research Center
+Linteris, Greg
+Nat Inst of Standards and Technology
+Miller, Fletcher
+National Center for Microgravity Research
+Nayagam, Vedha
+National Center for Microgravity Research
+Olson, Sandra
+NASA Glenn Research Center
+Orvis, Leigh
+Southwest Research Institute
+Pearlman, Howard
+NASA Glenn Research Center
+Pedley, Michael
+NASA Johnson Space Center
+Sacksteder, Kurt
+NASA Glenn Research Center
+Stemphoski, Thomas
+TRW - Tyndall AFB
+Tewarson, Archie
+Factory Mutual Corporation
+T'ien, James
+National Center for Microgravity Research
+Torero, Jose
+Dept. of Fire Protection Eng, Univ. of Maryland
+Tucker, James
+Applied Research Assoc, Wright-Patterson AFB
+Wu, Ming-Shin
+National Center for Microgravity Research
+Cleary, Thomas
+Nat Inst of Standards and Technology
+Disimile, Peter
+Wright-Patterson AFB/Univ of Cinncinnati
+Hegde, Uday
+National Center for Microgravity Research
+Hunter, Gary
+NASA Glenn Research Center
+Lueck, Dale
+NASA Kennedy Space Center
+Piltch, Nancy
+NASA Glenn Research Center
+Quintiere, James
+Dept. of Fire Protection Eng, Univ. of Maryland
+Roby, Richard
+Combustion Science & Engineering
+Silver, Joel
+Southwest Sciences, Inc.
+Sunderland, Peter
+NASA Glenn Research Center
+Suo-Anttila, Jill M.
+Sandia National Labs - Albuquerque
+Urban, David L.
+NASA Glenn Research Center
+Vanderwal, Randy
+NASA Glenn Research Center
+VonJouanne, Roger
+Boeing - Houston
+Weiland, Karen
+NASA Glenn Research Center
+Young, Rebecca
+NASA Kennedy Space Center
+Yuan, Zeng-Guang
+National Center for Microgravity Research
+Abbud-Madrid, Angel
+CCACS, Colorado School of Mines
+Baum, Howard
+Nat Inst of Standards and Technology
+Bennett, Joseph (Michael) Wright-Patterson AFB
+Dierdorf, Doug
+Air Force Fire Research Laboratory
+Faeth, Gerard
+Dept. of Aerospace Eng, Univ. of Michigan
+Friedman, Robert
+NASA Glenn Research Center
+Gritzo, Louis A.
+Sandia National Labs - Albuquerque
+Kailasanath, K.
+Naval Research Lab
+King, Merrill
+NASA Headquarters
+Labus, Thomas
+National Center for Microgravity Research
+Mather, Douglas
+Univ. of NM - Ctr for Glbl Envr Tech
+Nam, Soonil
+Factory Mutual Corporation
+Olson, John
+Eglin AFB
+Ross, Howard
+NASA Glenn Research Center
+Ruff, Gary A.
+NASA Glenn Research Center
+Struk, Peter
+National Center for Microgravity Research
+Sung, C.J. (Jackie)
+National Center for Microgravity Research
+Takahashi, Fumiaki
+NASA Glenn Research Center
+Tapscott, Robert
+GlobeTech, Inc.
+Whitaker, Alana A.
+NASA Johnson Space Center
+Yang, Jiann C.
+Nat Inst of Standards and Technology
+Prevention - Fire Prevention and Material Flammability
+Detection - Smoke and Fire Detection
+Response - Fire and Post-Fire Response
+
+NASA/CP—2003-212103
+
+79
+
+Working Group
+Admin
+Admin
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Prevention
+Detection
+Detection
+Detection
+Detection
+Detection
+Detection
+Detection
+Detection
+Detection
+Detection
+Detection
+Detection
+Detection
+Detection
+Detection
+Detection
+Detection
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+Response
+
+E-Mail
+Christine.R.Gorecki@grc.nasa.gov
+Sandra.L.Jones@grc.nasa.gov
+diane.baker@hill.af.mil
+harold.d.beeson1@wstf.nasa.gov
+klerick@sandia.gov
+douglas.feikema@grc.nasa.gov
+ferpello@euler.me.berkeley.edu
+Paul.V.Ferkul@grc.nasa.gov
+wfrazier@mail.hq.nasa.gov
+dennis.e.griffin@msfc.nasa.gov
+david.b.hirsch1@wstf.nasa.gov
+james.b.jackson@grc.nasa.gov
+linteris@nist.gov
+fletcher.j.miller@grc.nasa.gov
+Vedha.Nayagam@grc.nasa.gov
+sandra.l.olson@grc.nasa.gov
+lorvis@swri.org
+howard.pearlman@grc.nasa.gov
+michael.d.pedley@jsc.nasa.gov
+kurt.sacksteder@grc.nasa.gov
+Tom.Stemphoski@tyndall.af.mil
+archibald.tewarson@fmglobal.com
+jst2@po.cwru.edu
+jltorero@eng.umd.edu
+james.tucker@wpafb.af.mil
+Ming-Shin.Wu@lerc.nasa.gov
+thomas.cleary@nist.gov
+peter.disimile@wpafb.af.mil
+Uday.G.Hegde@grc.nasa.gov
+gary.w.hunter@grc.nasa.gov
+Dale.Lueck-1@ksc.nasa.gov
+nancy.d.piltch@grc.nasa.gov
+jimq@eng.umd.edu
+rroby@csefire.com
+jsilver@swsciences.com
+Peter.B.Sunderland@grc.nasa.gov
+jmsuoan@mailgate.sandia.gov
+david.l.urban@grc.nasa.gov
+Randy.VanderWal@lerc.nasa.gov
+Roger.VonJouanne@HSV.Boeing.com
+Karen.J.Weiland@grc.nasa.gov
+Rebecca.Young-1@ksc.nasa.gov
+zgyuan@grc.nasa.gov
+aabbudma@mines.edu
+howard.baum@nist.gov
+Joseph.Bennett@wpafb.af.mil
+Doug.Dierdorf@tyndall.af.mil
+gmfaeth@umich.edu
+macfried@xcelnet.net
+lagritz@sandia.gov
+kailas@lcp.nrl.navy.mil
+mking1@mail.hq.nasa.gov
+Thomas.L.Labus@grc.nasa.gov
+mather@nmeri.unm.edu
+soonil.nam@fmglobal.com
+john.olson@eglin.af.mil
+howard.d.ross@grc.nasa.gov
+gary.a.ruff@grc.nasa.gov
+Peter.M.Struk@grc.nasa.gov
+cjs15@po.cwru.edu
+Fumiaki.Takahashi@grc.nasa.gov
+GlobeTech@rmi.net
+alana.a.whitaker1@jsc.nasa.gov
+jiann.yang@nist.gov
+
+Form Approved
+OMB No. 0704-0188
+
+REPORT DOCUMENTATION PAGE
+
+Public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources,
+gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this
+collection of information, including suggestions for reducing this burden, to Washington Headquarters Services, Directorate for Information Operations and Reports, 1215 Jefferson
+Davis Highway, Suite 1204, Arlington, VA 22202-4302, and to the Office of Management and Budget, Paperwork Reduction Project (0704-0188), Washington, DC 20503.
+
+1. AGENCY USE ONLY (Leave blank)
+
+2. REPORT DATE
+
+3. REPORT TYPE AND DATES COVERED
+
+Conference Publication
+
+April 2003
+4. TITLE AND SUBTITLE
+
+5. FUNDING NUMBERS
+
+Research Needs in Fire Safety for the Human Exploration and Utilization of Space
+Proceedings and Research Plan
+
+WBS–22–101–52–02
+
+6. AUTHOR(S)
+
+Gary A. Ruff
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)
+
+8. PERFORMING ORGANIZATION
+REPORT NUMBER
+
+National Aeronautics and Space Administration
+John H. Glenn Research Center at Lewis Field
+Cleveland, Ohio 44135 – 3191
+
+E–13759
+
+9. SPONSORING/MONITORING AGENCY NAME(S) AND ADDRESS(ES)
+
+10. SPONSORING/MONITORING
+AGENCY REPORT NUMBER
+
+National Aeronautics and Space Administration
+Washington, DC 20546– 0001
+
+NASA CP—2003-212103
+
+11. SUPPLEMENTARY NOTES
+
+Contents were reproduced from author-provided presentation materials. Proceedings of a conference held at and
+sponsored by the National Aeronautics and Space Administration, Glenn Research Center, Cleveland, Ohio,
+June 25–26, 2001. Responsible person, Gary A. Ruff, organization code 6711, 216–433–5697.
+12a. DISTRIBUTION/AVAILABILITY STATEMENT
+
+Unclassified - Unlimited
+Subject Category: 18
+
+12b. DISTRIBUTION CODE
+
+Distribution: Nonstandard
+
+Available electronically at http://gltrs.grc.nasa.gov
+This publication is available from the NASA Center for AeroSpace Information, 301–621–0390.
+13. ABSTRACT (Maximum 200 words)
+
+The purpose of the workshop documented in this publication was to bring together personnel responsible for the design
+and operations of the International Space Station (ISS) and the fire protection research community to review the current
+knowledge in fire safety relative to spacecraft. From this review, research needs were identified that were then used to
+formulate a research plan with specific objectives. In this document, I have attempted to capture the very informative and
+lively discussions that occurred in the plenary sessions and the working groups. I hope that it will be useful to readers and
+serve as a significant step in assuring fire protection for the crews of current and future spacecraft.
+
+14. SUBJECT TERMS
+
+15. NUMBER OF PAGES
+
+Spacecraft fire safety; Flammability; Fire detection; Fire suppression; Fire prevention
+17. SECURITY CLASSIFICATION
+OF REPORT
+
+Unclassified
+NSN 7540-01-280-5500
+
+18. SECURITY CLASSIFICATION
+OF THIS PAGE
+
+Unclassified
+
+19. SECURITY CLASSIFICATION
+OF ABSTRACT
+
+81
+16. PRICE CODE
+20. LIMITATION OF ABSTRACT
+
+Unclassified
+Standard Form 298 (Rev. 2-89)
+Prescribed by ANSI Std. Z39-18
+298-102
+

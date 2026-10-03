@@ -1,0 +1,463 @@
+Sub Topic: Fire Research
+9th U. S. National Combustion Meeting
+Organized by the Central States Section of the Combustion Institute
+May 17-20, 2015
+Cincinnati, Ohio
+
+Microgravity Flammability of PMMA Rods in Concurrent Flow
+Sandra L. Olson1, Paul V. Ferkul2
+1
+
+Combustion Physics and Reacting Systems Branch, NASA Glenn Research Center at Lewis Field, m.
+s. 77-5, Cleveland OH, 44135-3127 USA
+2
+Universities Space Research Association, Advanced Research Associates Office at NASA Glenn
+Research Center at Lewis Field, m. s. 110-3, Cleveland OH, 44135-3127 USA
+*
+Corresponding Author Email: Sandra.Olson@NASA.gov
+Abstract: Microgravity experiments burning cast PMMA cylindrical rods in axial flow have been
+conducted aboard the International Space Station in the Microgravity Science Glovebox (MSG) facility
+using the Burning and Suppression of Solids (BASS) flow duct, as part of the BASS-II experiment.
+Twenty-four concurrent-flow tests were performed, focusing on finding flammability limits as a function
+of oxygen and flow speed. The oxygen was varied by using gaseous nitrogen to vitiate the working
+volume of the MSG. The speed of the flow parallel to the rod was varied using a fan at the entrance to
+the duct. Both blowoff and quenching limits were obtained at several oxygen concentrations. Each
+experiment ignited the rod at the initially hemispherical stagnation tip of the rod, and allowed the flame
+to develop and heat the rod at a sufficient flow to sustain burning. For blowoff limit tests, the astronaut
+quickly turned up the flow to obtain extinction. Complementary 5.18-second Zero Gravity Facility drop
+tests were conducted to compare blowoff limits in short and long duration microgravity. For quenching
+tests, the flow was incrementally turned down and the flame allowed to stabilize at the new flow condition
+for at least the solid-phase response time before changing it again. Quenching was observed when the
+flow became sufficiently weak that the flame could no longer provide adequate heat flux to compensate
+for the heat losses (conduction into the rod and radiation). A surface energy balance is presented that
+shows the surface radiative loss exceeds the conductive loss into the rod near the limit. The flammability
+boundary is shown to represent a critical Damkohler number, expressed in terms of the reaction rate
+divided by the stretch rate. For the blowoff branch, the boundary exhibits a linear dependence on oxygen
+concentration and stretch rate, indicating that the temperature at blowoff must be fairly constant. For the
+quenching branch, the dominance of the exponential nature of the Arrhenius kinetics reaction rate
+indicates that the temperature is critical.
+Keywords: Flammability, Microgravity, Rod, Concurrent
+
+1. Introduction
+NASA STD 6001 Test 1[1] is the major method used to evaluate flammability of materials
+intended for use in habitable environments of U.S. spacecraft. The method is an upward flame
+propagation test initiated in a stagnant normal gravity environment and using a well-defined igniter
+flame at the bottom of a vertically mounted sample. A material passes this test if the vertical burn
+length is less than 15.2 cm (6 inches) and there is no evidence of transfer of burning debris. The
+material either passes or fails the test at a given atmosphere (oxygen concentration, pressure). This
+test assumes that the 1g upward flame spread is conservative relative to the material’s flammability in
+space.
+What is problematic with this approach is the assumption that the 1g upward flame spread test
+is the worst case for flammability. Recent research has shown that current normal gravity materials
+flammability results are not conservative when compared to flammability in ventilated microgravity
+1
+
+Sub Topic: Fire Research
+or partial gravity conditions. Materials have sustained burning in microgravity at or below the
+flammability limits measured with the Test 1 protocol. What if materials are intrinsically more
+flammable in space than on earth, due to reduced convective cooling and yet adequate oxygen
+ventilation?
+As part of the Burning and Suppression –II (BASS-II) experiment, twenty-four concurrent
+flow flammability tests with cast PMMA rods were performed in the Microgravity Science Glovebox
+(MSG) [2] in the Destiny Lab of the International Space Station (ISS). Twenty-two rods were clear,
+and two were black, but no obvious differences between clear and black have been noted to date.
+The objective of the BASS-II concurrent rod tests was to obtain the lower portion of the concurrent
+microgravity flammability map as a function of ventilation flow and ambient oxygen concentration.
+Flame spread along rods with axial flow has been widely studied [3-13]. Most of the work
+has been downward flame spread, or opposed flow flame spread. Only a few studies have been
+performed in reduced gravity. Tarifa and his colleagues [9] conducted parabolic and sounding rocket
+opposed flow flame spread experiments with hollow rods and found that flame extinction depends
+considerably on both oxygen concentration and flow velocity, and quenching occurs at low flow
+velocities that are on the order of diffusive velocities.
+Concurrent flame spread along rods was tested aboard the Mir Space Station in the Skorost
+hardware [14]. The extruded PMMA, Delrin, and High Density Polyethylene rods all showed the
+same tendency to melt beneath the flame and form accumulating molten balls on the stagnation end
+of the rod, with the flame wrapped around the molten ball. At low flows, the small flame at the
+stagnation tip of the rod propagated simply through rod regression (bulk burning) rather than through
+a concurrent flame spread along the rod.
+Rod bulk burning via tip regression is the likely near-limit flame geometry for an axial
+concurrent flow along a rod in general, so we proposed to use it to study materials flammability with
+a simple axisymmetric geometry with minimal heat losses (surface radiation loss, conduction along
+the rod axis, no holder losses). The heat loss can be varied by varying the diameter of the rod, which
+effectively changes the surface energy balance term associated with in-depth conduction from the
+surface.
+2. Experimental Setup
+The BASS-II hardware used for these tests is shown inside the MSG working volume in Figure 1.
+The BASS-II hardware consists of a flow duct, still camera, video camera, external control box and
+associated plumbing and mounting systems. The three primary variables included the working volume
+oxygen concentration, the flow velocity through the duct, and the PMMA rod diameter.
+The black anodized 7.6 cm x 7.6 cm x 17 cm rectangular flow duct with rounded corners was
+originally built to perform gas jet diffusion flame studies [15], and was modified to accommodate solid
+samples for the BASS series of experiments. The flow through the duct was generated using a small
+fan at the upstream end of the duct. The voltage to the fan was varied to change the flow through the
+duct. In addition, up to two additional flow restrictors could be used at the fan inlet to increase the
+pressure drop and thus reduce the flow through the duct to the desired value for the test point. The
+flow then passed through a honeycomb flow straightener and an inlet screen to reduce swirl. An
+omnidirectional spherical air velocity transducer (TSI™1 # 8475) was positioned between the
+honeycomb and the screen, and was used to measure the steady-state flow velocity through the duct.
+The air velocity transducer probe had a response time of approximately one minute. The fan voltage
+
+TM Mention of trade names or commercial products is for descriptive purposes only and does not constitute endorsement
+or recommendation for use by the U.S. Government.
+2
+
+Sub Topic: Fire Research
+was calibrated with the air velocity transducer reading at the end of every operations day using that
+day’s flow restrictor configuration(s).
+The test section was 17 cm long. Inside the test section was a nozzle for nitrogen flow to vitiate the
+working volume, a moveable scale to provide a reference at the sample plane, and an Oriel™ #71768
+thermopile detector with a Calcium Fluoride window with a spectral range of 0.13 to 11 microns in the
+downstream top back corner of the duct. The test section of the duct had two orthogonal windows, the
+top one being replaced for BASS to provide a mounting rail system for the solid samples. The top
+window was used by a Nikon™ D300 12.3 megapixel digital color still camera with a 60 mm lens that
+provided 4320 x 2968 pixel images. The duct exit contained a perforated copper plate followed by a
+brass screen to provide heat rejection and a cold surface for soot deposition. The flow turned ninety
+degrees to exit the duct, which facilitated mixing of the hot combustion gases with the cool ambient
+air.
+
+Figure 1. Microgravity Science Glovebox Facility (MSG) working volume aboard the International
+Space Station (ISS) with the Suppression of Solids – II (BASS-II) experiment hardware installed.
+The front window opened to provide access to the test section for sample and igniter change out.
+A Panasonic color video camera WV-CP654 (760 x 480 pixel array) with a turning mirror looked in
+the front window. The video camera had a built-in digital overlay that displayed the nitrogen flow rate
+(cm3/min), fan voltage (10xV), hot wire anemometer reading (cm/s), and the radiometer signal. The
+radiometer signal was not calibrated, but provided a measure of the flame dynamics and steadiness.
+The external control box had controls for the fan voltage level, nitrogen flow level, enable switches for
+the igniter and nitrogen, and a radiometer gain level setting.
+Seventeen clear cast PMMA cylindrical rods of various diameters (11with 1/4”, 4 with 3/8”, and 2
+with 1/2” diameters) were burned in a concurrent flow direction. The samples were manually ignited
+by the astronaut at the initially hemispherical stagnation tip with a Kanthal™ A-1 29 gauge hot-wire
+igniter with a nominal hot wire resistance of 0.8-1 ohms, powered by approximately 3.5-3.8 amps.
+Samples are burned within the duct and the combustion products exit the duct and mix with the gas in
+the work volume.
+To evaluate the levels of combustion products produced during microgravity fires, we used onboard sensors to measure the O2 depletion and the completeness of combustion (CO, CO2). The O2,
+CO2, and CO measurements required two portable, battery powered instruments in the working volume
+during testing: CDM, and CSA-CP. The oxygen sensor is not recalibrated on orbit, so we also used
+3
+
+Sub Topic: Fire Research
+the Mass Constituents Analyzer data to determine the oxygen sensor offset on a daily basis. The
+resolution of the CSA-CO was 0.1% O2. Oxygen concentrations in the MSG working volume were
+varied during the testing from ambient ISS oxygen levels (~ 21% O2) down to ~14% O2 for very nearlimit flames. The CO sensor is zero calibrated every 60 days, with a range of 0-1000 ppm and a
+resolution of 1 ppm. The CO2 sensor was within its calibration window, and had a range of 0-5% and
+a resolution of 0.1% by volume of CO2.
+The sensor data provided initial and final conditions for
+repeated tests in a sealed working volume, and allowed us to determine when the working volume
+needed to be purged.
+To obtain the desired vitiated atmosphere, the MSG working volume was diluted using ISS nitrogen
+(hose connecting BASS-II duct to back wall of MSG in Figure 1). The nitrogen was regulated with a
+small (< 0.5 LPM) MKS™ 179A mass flow meter and entered the flow duct through a small nozzle
+just downstream of the fan in the test section. The fan in the flow duct was turned to maximum (> 100
+LPM) during the nitrogen flow to mix and blow the gas into the working volume and circulate it
+continuously throughout the hours-long vitiation. We developed a vitiation model [16] based on a
+Continuously Stirred Tank Reactor (CSTR) model. This perfect mixing approximation is valid as long
+as the residence time (V/r = 500 min) is 5 to 10 times as long as the mixing time, which is easily the
+case for the 100 LPM mixing rate (250 L/100 LPM = 2.5 min mixing time). The model was verified
+using intermittent on-board oxygen sensor readings during an initial vitiation. This model was then
+used to determine the nitrogen flow rate and flow time to achieve the desired oxygen concentration of
+the test based upon the initial oxygen concentration reading and operational crew time constraints.
+3. Results and Discussion
+To start each experiment, the astronaut ignited the rod at the stagnation tip and allowed the flame
+to develop and heat the rod axially at a sufficient flow to sustain burning. The time needed to
+adequately develop the solid-phase thermal profile is estimated to be when the Fourier number is
+approximately equal to 0.3 (Fo= αt/R2~0.3) [17]. For a thermal diffusivity of PMMA=1.2x10-3
+cm2/s, the times range from 25 s to 100 s for the different rod radii tested.
+3.1 Quenching Extinction
+For quenching tests, the flow was incrementally turned down and the flame allowed to stabilize at
+the new flow condition for at least the solid-phase response time before changing it again.
+Quenching was observed when the levels of forced flow and/or oxygen concentration became
+sufficiently weak that the flame could no longer provide adequate heat flux to compensate for the
+heat losses (conduction into the rod and radiation). Quench test burns lasted up to 28 minutes. Near
+–quenching flames for each rod size are shown in Figure 2.
+
+Figure 2: Representative near-limit flames for each of the three rod sizes tested: left to right R=
+1/8” (0.318 cm), 3/16” (0.476 cm), and ¼” (0.635 cm). Flow and oxygen are not the same, but each
+represents the lowest oxygen test for that rod size.
+4
+
+Sub Topic: Fire Research
+3.1 Blowoff extinction
+For blowoff limit tests, the astronaut quickly turned up the flow to obtain extinction. The flow at
+blowoff was defined by the fan voltage reading at the moment the stagnation region opened up and
+the flame moved downstream. The annular flame would oscillate upstream and downstream multiple
+times before completely blowing off. Later in the test program, we attempted to re-establish the
+stagnation region after local blowoff by quickly reducing the flow to a value below the blowoff
+velocity, but we were only successful in one instance where the blowoff of the stagnation region may
+not have been complete (flame opening less than a thermal length, perhaps) due to the astronaut’s
+quick response time. A subsequent attempt shortly after this was not able to re-establish the
+stagnation region, so it seems that once the flame is blown downstream of the stagnation region, the
+flame is unable to propagate upstream for the low oxygen levels tested (16.1% O2 and lower). This is
+consistent with tests for opposed flow flame spread rods that were also done as part of BASS-II [18],
+where flame spread was not observed below 16.4 % O2. Example blowoff images are shown in
+Figure 3.
+3.2 Drop Tower tests
+Complementary 5.18-second Zero Gravity Facility drop tests were conducted to compare blowoff
+limits in short and long duration microgravity, using the microgravity wind tunnel drop rig [19]. For
+the drop tests, the rod was ignited in normal gravity and allowed to burn and preheat the rod briefly at
+a flammable oxygen flow, and then the gas was switched to the test atmosphere and the package
+released based on the flow time of the gas to reach the flame zone. The flames in the drop tower
+blowoff tests are significantly smaller than the ISS flames, as can be seen in Figure 3. This is most
+likely due to the short burn time prior to blowoff, so the rod was not significantly preheated.
+
+Figure 3: Blowoff images for three rod sizes: left to right R= 1/8” (0.318 cm), 3/16” (0.476 cm),
+and ¼” (0.635 cm). Center image is of a 5.18-second Zero Gravity Research Center drop test, where
+the flame blew off during the drop, since no ISS blowoff tests were obtained with the intermediate
+rod size. A green LED illuminates the drop test rod. Flow and oxygen are not the same, but each
+represents the lowest oxygen test for that rod size.
+
+5
+
+Sub Topic: Fire Research
+3.4 Flammability Boundary
+For each test, the flow at which the flames extinguished and the last flow where a stable flame
+was observed (or where the flame did not blowout in the drop time for drop tests), along with the
+post-burn oxygen reading were used to generate the flammability boundary, shown in Figure 4.
+There appears to be a different O2 minimum for the 0.476 cm and 0.635 cm radius rods, which is
+attributed to increased solid conductive heat loss for the larger rod cross sectional area.
+The thick gray flammability boundary is the border between stable flames and extinguished
+flames. It is a stochastic region due to the fact that near the flammability boundary, the flame is
+sensitive to perturbations, and a random perturbation of sufficient magnitude will extinguish a flame
+in this near-limit region [20]. The gray stochastic boundary is defined by the combined equations
+shown by the red and black dashed lines. These dashed lines are based on a critical Damkohler
+number analysis, where a critical Damkohler number (Dacrit) is defined as
+
+Figure 4: Flammability boundary obtained in BASS-II tests with concurrent rods of different sizes.
+Complementary drop tower test results are also shown. Extinction points (X’s) are color-coded to
+indicate rod diameter.
+Notice that the black dashed line blowoff boundary in Figure 4 is linear (Yox ~ a), which would
+seem to indicate that the dominant parameters for blowoff are these parameters in the Dacrit equation.
+This implies that the fuel concentration and the critical temperature are fairly constant in the flame
+zone at blowoff where the reactants move so quickly through the reaction zone that they do not have
+6
+
+Sub Topic: Fire Research
+time to react. The critical temperature for ignition is a well-known concept that can be applied to
+blowoff if one considers the fuel and oxidizer to be in a state of continual ignition in the flame zone.
+Once the temperature in the flame zone drops below the critical temperature for ignition, the flame
+blows off.
+The drop tower blowoff data linear curve fit is plotted for comparison, and agrees very well with
+the ISS data. This further implies that the different levels of preheating of the rod do not affect
+blowoff extinction. The linear blowoff boundary has interesting implications in that it may be
+possible to linearly extrapolate blowoff data down to zero stretch rate and use that oxygen value as a
+conservative estimate of the minimum oxygen concentration where the material will burn. This will
+allow us to de-rate materials based on normal gravity flammability tests to ensure the material will
+not burn in space. Using the y-intercept of the linear fit (13.3 % O2 in the Figure 4 fit, versus the
+minimum test point of 13.6 % O2) would add a slight level of conservatism.
+On the other hand, the quenching branch is captured with a red dashed exponential fit. This
+suggests the Arrhenius temperature exponential term is dominant in the quenching region. This is
+expected at quenching, where the temperature drops off dramatically while flow time is plentiful.
+Heat losses dominate to cool the flame to extinction, as was modeled by [20, 21]. This boundary is
+very steep when plotted on a linear x axis as shown in Figure 4. To get the “U”-shaped flammability
+boundary, a logarithmic x axis is often used, which expands the quenching branch while making the
+linear blowoff branch have a curved shape.
+We recognize that the appropriate flow parameter to use to compare data for the different rod
+sizes is the flame stretch, which is defined here as sum of the combined flow-induced stretch and the
+curvature-induced stretch, or a=af + acurv. The effect of curvature-induced stretch is not negligible
+for these small diameter rods at low speed flows, and we combine them in this way following the
+example for mixed convection [21]. The initial rod tip is hemispherical, but as it burns it takes on a
+slightly more tapered round-nosed shape, as can be seen in Figures 2 and 3. The flow-induced stretch
+around the approximately spherical rod tip is af = 3/2 U/R. The curvature-induced stretch around
+the hemispherical flames is estimated for the small samples as acurv = [3 U/R] × [(Rflame-R)/R].
+The analysis of all the data for flame radius at each limit condition is not yet complete, so Figure
+4 currently shows the flammability boundary data plotted as forced stretch rate, with the data points
+also marked by rod size. The data points will shift to the right once the curvature-induced stretch is
+accounted for. Table 1 gives estimates of the curvature-induced stretch for each radius, based on the
+flame radii measured from Figure 2, to give an idea of the magnitude of the shift.
+Table 1: Stretch rate estimates for specific tests shown in Figure 2
+Rod radius,
+af = 3/2 U/R,
+acurv = [3 U/R] × [(Rflame-R)/R],
+a=af + acurv, s-1
+cm
+s-1
+s-1
+0.318
+2.36
+3.63
+5.99
+0.476
+3.46
+4.62
+8.08
+0.635
+3.31
+5.38
+8.68
+3.5 Surface Energy Balance
+If we assume for long burn times that the solid phase thermal profile away from the flame tip has
+reached an approximate steady state, we can approximate the 1D temperature profile along the rod
+axis.
+Away from the regressing tip of the rod, there is a balance of heat transfer through the rod
+via conduction and convection:
+Ts
+
+0 = ρscsVr
++ λs
+y
+7
+
+2T
+s
+y2
+
+Sub Topic: Fire Research
+The convective term is due to the steady surface regression of the rod (measured from the
+experiment), Vr. It is assumed in this steady analysis that Vr is so small that the length of the sample
+does not change significantly over the timeframe of interest τ, over which ΔL<<L, where L is the
+characteristic length of the rod. This means that changes in the temperature profiles are quasisteady for a slowly changing L.
+Boundary conditions include the surface temperature at y=0 is Ts (assumed a constant
+pyrolysis temperature) and the ambient temperature at y = L is T . Non-dimensionalizing with
+Y=y/L, θ = (T-T )/(Ts-T ), and Pe= LVr/αs we can write
+0 = Pe
+
+θs
+Y
+
+2θ
+
+s
+2
+Y
+
++
+
+The coefficient is a solid-phase Peclet number, which is a ratio of the convective heat
+transferred as the fuel regresses, compared to the conductive heat transfer from the hot surface.
+Boundary conditions become θ(0)=1 and θ(1)=0. This equation is a linear, homogeneous, second
+order ordinary differential equation with constant coefficients, with roots 0 and -Pe for a general
+solution
+θ(Y) = C1e-PeY +C2e0
+
+Using the boundary conditions to evaluate C1 and C2, we find the solution is
+
+For large Peclet numbers (Pe>1), there is a substantial change in the non-dimensional gradient
+due to the increasing exponential nature of the temperature profiles, since heat conducted along the
+rod is convected back toward the burning tip so that heat cannot penetrate too deeply along the rod.
+For small Peclet numbers (Pe≤1), conduction dominates and the temperature profiles are nearly
+linear. It is counter-intuitive that the slowest burning samples will, in this steady-state, have the least
+heat loss into the solid, which has been previously noted [23].
+We can differentiate the 1D solution to evaluate the steady-state temperature gradient at the
+regressing surface (Y=0) with decreasing Peclet number (burning rate). Solving for the temperature
+gradient at the surface as a function of Peclet number, we obtain
+
+We can use this to evaluate the conductive loss down the rod as a function of regression rate
+(Pe), and estimate the flame heat flux as a function of Peclet number.
+The surface energy balance for the rod tip is given by
+
+Where Lvap = 1700 J/g, m” = Vrρ, ε = 0.85, Ts = 300 oC, λs = 2.09 x 10-3 W/cm K at 300 K, λg = 5.77
+x 10-4 W/cm K at 800 K, ρ = 1.19 g/cc, L=5.9 cm, and σ = 5.729 x 10-12 W/cm2 K4
+Using these values and evaluating the surface temperature gradient as above, we can estimate
+each term in the energy equation as a function of the Peclet number in Figure 5. It has been shown
+[17] that the burning rate decreases nearly linearly with stretch rate until very near the quenching or
+blowoff limits, so Pe ~ a. As mentioned above, solid conduction decreases with decreasing Peclet
+number. Surface radiative loss is assumed to be constant. The energy available for fuel vaporization
+decreases with decreasing Peclet number, as one would expect. The net flame heat flux thus drops
+precipitously with decreasing Peclet number.
+8
+
+Sub Topic: Fire Research
+We can compare the importance of the different losses by normalizing them with the net
+flame heat flux (left side of energy balance, which includes gas-phase conduction and gas radiation).
+In Figure 5, the solid conduction, surface radiation, and the combined solid conduction and surface
+radiative loss are normalized by the net flame heat flux and are plotted on the right axis. As Peclet
+number decreases (rod regression rate decreases as forced stretch rate decreases), the radiative loss
+ratio increases dramatically since surface radiative loss is a constant while flame heat flux decreases
+linearly with Peclet number. The solid conduction ratio actually falls off as Peclet number is
+reduced. The combined radiative and conductive loss ratio increases at low Peclet number, and one
+would expect the flame to quench when the combined losses exceed approximately 70% of the net
+flame heat flux [24, 25]. The primary reason for quenching is the reduced net heat flux from the
+flame compared to the ongoing losses.
+
+Figure 5: Surface Energy Balance terms. As the rod regression rate decreases (Pe decreases, a
+decreases), the relative importance of heat losses increases, eventually causing quenching. At
+quenching, surface radiation is higher than solid conduction loss, but the primary reason for
+quenching is the reduced net heat flux from the flame compared to the ongoing losses.
+4. Conclusions
+Twenty-four concurrent axial flow flammability tests with three diameters of cast PMMA
+cylindrical rods were performed in the MSG on the ISS. Oxygen concentrations in the MSG
+working volume were varied during the testing from ambient ISS oxygen levels (~ 21% O2) down to
+~14% O2, and oxygen concentrations before and after each test were measured with an on-board
+CSA-CP sensor. Flow velocity through the duct was also varied by changing the fan voltage, and
+measured with a hot-wire anemometer.
+In quenching limit tests, the flow was incrementally turned down and the flame allowed to
+stabilize at the new flow condition for at least the solid-phase response time before changing it again.
+For blowoff limit tests, the astronaut quickly turned up the flow to obtain extinction. Complementary
+5.18 second Zero Gravity Facility drop tests were conducted to compare blowoff limits in short and
+long duration microgravity.
+9
+
+Sub Topic: Fire Research
+A flammability boundary with axes of oxygen concentration and forced stretch rate is obtained
+that has a distinctive shape that correlates well with a critical Damkohler number. The blowoff
+branch exhibits a linear (Yox ~ a), trend that indicates there is a relatively constant critical
+temperature at blowoff. The quenching branch exhibits an exponential (Yox versus a) curve which
+reflects importance of heat losses to drop the flame temperature, causing the Arrhenius reaction rate
+to slow to a critical Damkohler number while flow time is plentiful. A surface energy balance is used
+to show how the reductions in net flame heat flux at low stretch (low regression rates) drives the
+flame to quenching extinction despite the fact that the losses actually decrease slightly near the limit.
+5. Acknowledgements
+This work was funded by the ISS Research Project Office. We want to acknowledge the
+invaluable assistance of astronauts Don Pettit, Reid Wiseman and Alex Gerst, who ran the BASS
+experiments reported here. This work couldn’t have been done without the intense efforts of the
+BASS ops team (Jay Owens, Chuck Bunnell, Tibor Lorik, and Carol Reynolds). We also want to
+acknowledge the ground support teams at GRC, JSC, and MSFC that supported the BASS-II
+operations.
+6. References
+1
+NASA STD-6001B, 2011.
+2
+R. A. Spivey, W. A. Sheredy, and G. Flores, 46th AIAA Aerospace Sciences Meeting and
+Exhibit, 7 - 10 January 2008, Reno, Nevada, AIAA-2008-812.
+3
+J. De Ris, A. M. Kanury, and M. C. Yuen, Proc. Comb. Inst. 14 (1973) 1033-1044.
+4
+M. Sibulkin, and C.K. Lee, Comb. Sci. Tech. 9, (1974)137-147.
+5
+A. C. Fernandez-Pello, and R. J. Santoro, Proc. Comb. Inst. 17 (1979) 1201-1209.
+6
+Fernandez-Pello, A. C., Ray, S. R., and Glassman, I., Combust. Sci. Tech. 19 (1978) 19-30.
+7
+S. R. Ray, Dissertation, Princeton University, 1982.
+8
+Y. Halli, J. S. T’ien, NBS-GCR-86-507 (1986).
+9
+C. S. Tarifa, B. Lazaro, First Int’l. Symp. on Microgravity Research and Applications on Physical
+Sciences and Biotechnology, 2000.
+10
+R. O. Weber, and N. J. de Mestre, Comb. Sci. Tech. 70 (1990) 17-32.
+11
+M.A. Delichatsios, Proc. Comb. Inst. 28 (2000) 2899-2904.
+12
+M.A. Delichatsios, R.A. Altenkirch, M.F. Bundy, S. Bhattacharjee, L. Tang, and K. Sacksteder,
+Proc. Comb. Inst. 28 (2000) 2835–2842.
+13
+F. J. Higuera, Comb. Theory & Modelling 6 (2002) 197-208.
+14
+A.V. Ivanov, Ye.V. Balashov, T.V. Andreeva, A.S. Melikhov, NASA–CR–1999–209405 (1999).
+15
+K.T. Dotson, P.B. Sunderland, Z.G. Yuan, and D.L.Urban, Fire Safety J. 46 (2011) 550-555.
+16
+S. L. Olson, P. V. Ferkul, S. Bhattacharjee, F. J. Miller, A. C. Fernandez-Pello, S. Link, and J. S.
+T’ien, ICES-2015-196, 45th International Conference on Environmental Systems, 12-16 July
+2015, Bellevue, Washington.
+17
+S. L. Olson, Case Western Reserve University Dissertation, May, 1997.
+18
+S. Link, C. Fernandez-Pello, S. Olson, P. Ferkul, 30th annual meeting of the American Society
+for Gravitational and Space Research (ASGSR), Pasadena, CA, Oct. 23-26, 2014.
+19
+S. L. Olson, Combustion Science and Technology, 76 (1991) 233-249.
+20
+J. S. T’ien, Combust. Sci. Tech. 7 (1973), 185-188.
+21
+D. W. Foutch and J. S. T’ien, AIAA J. 25 (7), (1986), 972-976.
+22
+T'ien, J. S., Combust. Flame, Vol. 65 (1986) 31-34.
+23
+Ohtani, H., Akita, K., and Hirano, T., J. Fire Flammability 13 (1982) 203–214.
+24
+S.L. Olson, T Kashiwagi, O. Fujita, M. Kikuchi, and K. Ito, Combust. Flame 125 (2001) 852-864.
+25
+J. B. Armstrong, S. L. Olson, and J. S. T'ien, Combust. Flame147 (2006) 262-277.
+10
+

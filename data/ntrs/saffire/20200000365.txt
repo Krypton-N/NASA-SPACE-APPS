@@ -1,0 +1,1391 @@
+Hazardous Product Detection and Environmental Clean-up Removal
+in Spacecraft Vehicles from Fire Induced Li-Ion Fires
+
+Rosa E. Padilla
+Thomas B. Miller, Daniel L. Dietrich,
+Gary Ruff, and David L. Urban
+NASA 2019 Battery Workshop
+Spacecraft Fire Experiment
+
+Combustion Systems and Reacting Processes Branch
+
+NASA Glenn Research Center
+Cleveland, OH 44070
+
+November 19-21, 2019
+Universities Space Research Association
+
+Energetic Sources in Spacecraft
+Potential fires in spacecraft are catastrophic
+hazards
+•
+•
+•
+•
+
+Pressure rise in the vehicle
+Spread and growth of a fire in spacecraft
+Toxic products that can harm the crew
+Crew response, performance of air handling system and
+fire detectors
+
+Approximately 100 laptops are found inside
+the ISS
+•
+
+Lenovo T61P/A31P ThinkPads
+(Panasonic 18650 cylindrical cells)
+• Microsoft Surface Pro Tablets
+(Pouch Cells, 42 Wh)
+
+Causes of Runaway in Li-ion Batteries
+•
+•
+•
+
+Charging or discharging
+Internal short (defect)
+Heating
+
+e.g. Helmet light, pistol
+grip tool, EMU.
+Nickel Metal Hydride
+or Lithium Manganese
+Dioxide based cells
+
+Combustion Studies in Microgravity Conditions at
+Glenn Research Center
+Buoyancy driven
+Convection
+convection
+In the absence of buoyant flows, other heat and mass transfer
+mechanisms dominate, hence flame structures are different in
+microgravity
+• Cooler flames
+• Flame shape
+• Slower propagating flames
+
+1-g vs. 0-g, spherical,
+soot-free and blue flame
+(right image)
+
+• Ignition
+• Changes to smoke properties
+
+Log-g
+Examples of Past and Ongoing Projects
+• Flame Extinguishment Experiment (FLEX)
+• Gaseous Combustion – ACME
+• Solid Fuel Ignition and Extinction (SoFIE)
+Ferkul & Olson et al. 2017
+
+Spacecraft Fire Safety Demonstration (Saffire)
+Saffire I-III - - ;
+_
+
+Saffire I-III & Saffire IV-VI
+Objectives:
+•
+•
+•
+
+Study flame spread of large fires (spread rate, heat release,
+mass consumption)
+Vary flow speed, elevated O2 (fuels e.g. Cotton, nomex,
+PMMA, SIBAL)
+Fire monitoring and response
+
+Saffire VII-VIII
+
+Power
+Manage ment
+
+Sample card
+(flame spread
+sample shown)
+
+Cameras
+
+Flow Duct
+
+Develop an experimental concept to study lithium ion battery
+fires and conduct tests inside the Cygnus cargo vehicle upon
+SIBA
+re-entry
+L
+Objectives:
+• Fire size, fire duration, fabric
+heat release rates, toxic products
+40.6
+• Fire detection
+cm
+• Monitoring
+wide
+• Post clean up
+•
+
+Fans
+
+-
+
+Flow
+
+Data will be used for modeling e.g. to predict fire behavior
+in a spacecraft, such as pressure increase inside a sealed
+cabin ( Brooker and Dietrich et al. 2015, 2017)
+SIBAL Fabric
+(75% cellulose & 25% fiberglass)
+40 cm wide by 50 in length
+
+USBHub
+
+Signal
+conditioning card
+
+Dimensions are
+approximately 53-by
+90-by 133-cm
+
+Fuel Sample
+Holder
+
+Fire Studies Involving
+Li-ion Batteries
+(a)
+
+•
+
+•
+
+Controlled fires for fire response training
+inside of a structure (i.e. homes, cars,
+submarines, mines, aircraft) and uncontrolled
+forest fire response
+
+(b)
+
+Cabin crew procedures for “Fire- Fighting”
+(FAA/TC-TN14/40, DOT/, TC-15/59, 15/40 ),
+Safety Alerts for Operators (SAFO) 09013
+
+Galley or Cargo Storage bags
+•
+
+Underwriters Laboratories battery cargo fires
+standards (lithium-ion based)
+
+•
+
+NASA’s efforts to redesign Li-ion batteries for
+spaceflight applications (JSC-20793-RevD
+requirements)
+UPS (Boeing 747-400F) jumbo cargo
+flight with a large shipment of Li-ion
+Batteries undergoes thermal runaway
+
+FAA Fire Safety, Systems Meeting, Tablet Tests in the
+Cockpit or Galley Compartment Setup, 2017
+
+Calorimetry Comparisons with Different Cell
+Styles and Chemistries
+Pouch Cells
+
+Limited data is available for characterizing tablet
+fires (lithium ion based)
+
+Thermal Capacitance (Slug) Calorimeter
+(Quintiere et al. 2016)
+• Combustible gases being ejected may not
+be captured
+
+Accelerating Rate Calorimeter
+• Adequate for determining onset and
+maximum thermal runaway temperatures
+• Challenging to discriminate TR energy
+
+Cone Calorimeter
+• Small samples are required
+• Oxygen consumption
+
+JSC Calorimeter (Walker et al. 2018)
+• Feasible for 18650 cylindrical cells
+• Total heat output and fraction of heat
+released through the casing vs. ejecta
+material
+
+300
+,-,
+
+~ 250
+
+'-'
+~
+
+e +- LiCoO 2
+
+~
+
+~
+
+~
+
+~
+
+c:i::
+>.
+CJ)
+
+e +- LiCoO 2
+
+200
+
+~ 150
+
+=
+
+o
+~
+
+~
+
+~
+
+e 18650
+
+100
+
+50
+
+•
+1.5
+•
+•
+•
+•
+•
+•
+•
+•
+
+•
+
+Cylindrical Cells
+(LiCoO 2)
+
+2
+
+Walters and Lyon 2016, (Bomb)
+Crowley et al. FAATC-1 5/17(Cone)
+Quintiere et al. 2016 (Slug)
+Walker et al. 2018 (Statistical Fragments)
+Spray et al. 2017 (Cone)
+Ribiere et al. 2012 (Tewarson)
+Lecqoc et al. 2016 ( Tewarson)
+Walter et al. 2017 Cone)
+
+Results
+
+Emulating an Orion Environment
+(White Sands Test Facility)
+- -r-;/
+
+I
+
+'.
+
+/I
+
+_
+·•
+
+\
+
+/1
+
+.
+
+6,.
+
+\
+
+4
+
+:'
+
+j
+
+•
+
+-•
+j
+
+2
+
+,~
+
+•-:
+
+'
+
+I
+
+2 Fire Suppression
+
+-
+
+•
+
+, ;· .,
+
+~ I •f
+
+~>
+
+~
+
+5
+
+3 Detection
+
+•1r~ ';1,•t . ..
+~·
+/
+
+I 11 1
+
+•
+
+_
+a
+
+1
+
+\
+
+=,
+
+. •1-,__ -'-- -
+
+~
+
+~
+
+-
+
+rlfll
+
+.....
+
+•
+
+\
+
+O
+
+Portable fire extinguisher
+(Water based)
+
+----- "
+
+I ,___ 3
+_
+Chamber size 8.1 m3
+
+•
+
+•
+
+Dragger sensors for HCL, O2,
+CO, and CO2 measurements
+Particulate measurement (PM
+2.5, PM10)
+Obscuration (%/ft) unit
+
+4 Protection from Toxic
+Gases
+Contingency Breathing Apparatus
+(CBA)
+
+1 Test Article
+•
+•
+
+Force TR on a 45 Wh
+Microsoft Surface Pro Tablet
+95 Wh (“worst case fire”) Dell
+XPS 15
+
+5 Post-fire cleanup
+Orion ECLSS hardware including
+the Smoke Eater
+
+Ignition Method and Battery Pack Specifications
+4 Type K thermocouples are placed on each
+pouch cell & 1 for feedback control
+A 60 W thin film polyimide heater is placed on
+a single cell
+
+All wiring was carefully routed through a left
+port hole that was drilled
+
+Description
+Cell type and Chemistry
+Voltage (V)
+Capacity (Ah)
+Power (Wh)
+Individual Pouch Cell
+Dimensions (in)
+
+Values
+4 pouch cells in 2S2P LiCoO2
+3.785
+2.97/cell
+45
+Left pouches- 4.2”x 2.1” x 0.125”
+Right pouches- 4.2”x 1.8” x0.125”
+
+Single pouch cell weight (g)
+
+42.3
+
+Electrochemical Energy (kJ)
+
+162
+
+Surface Pro Tablet Fires
+(Video)
+
+Combustion Timeline for a Surface Pro Tablet Fire
+
+Vent Period Lasts: 10-15 s
+
+Second Pouch Cell
+goes into TR
+
+Fire Duration: from 20-30 s
+
+Image Processing for Fire Size Measurements
+
+Measure Heat Release Rate using Heskestad’s
+Correlation
+
+𝐻 = 0.235( 𝑄ሶ 2/5)-1.02D
+where,
+H (m)= Major Length
+D(m)= Minor Length
+ሶ
+𝑄(kW)= Heat release rate
+
+• Automated analysis that converts a
+color image to binary and apply filters
+• Convert pixels to real dimensions
+
+Thermal Runaway Behavior for Tablet Fires
+- - N .t t , Patch H, at, r
+e
+- -
+
+1
+
+1 1
+
+,
+
+U1
+__.
+
+U2
+
+T - . 13
+
+± 50 .,-
+
+T m.ax -
+
+17.7
+
+.
+
++O
+
+, ntmn~ - - ;:
+II
+II
+II
+II
+
+5[
+
+()1
+
+11 ·,
+
+Q1
+
+151,, Q1
+
+21 , Q1
+
+Tin1e . ·
+
+251
+
+()1
+
+30
+
+()1
+
+351
+
+Q1
+
+41, , , I
+
+Single Pouch Cell from a Surface Pro Tablet
+Battery Pack (Video)
+
+Venting lasts between 11-25 s and no sustained fire is observed
+
+Mass Loss for a Single Pouch Cell and Tablet Fire
+
+~rr~ ,:r.t,.:: -~~11it>- ~-- ( , .
+I~
+~r ~,_
+~
+~
+
+0
+
+, ;·
+
+-,
+
+.'
+
+&,,-
+
+• ": . -~. .
+
+• ;•·, •• '-.
+.
+
+-2
+
+fl
+
+•
+'
+
+'
+
+<l -4
+"'
+"'
+.5
+
+1st Major Vent
+
+~
+. -~
+
+(
+
+,. C·.
+;..,
+
+:;
+
+-~---
+
+. ..
+:
+
+.~ ,'
+
+,"$..~••Ao'
+• .:,..-Y
+
+"! ::j-~ °;
+~
+I
+·\\ ·'
+
+'
+
+,.
+
+·,
+'
+
+'.
+
+.
+
+'
+
+~
+
+• '"'"
+
+• ~.
+
+•
+
+~
+
+. ~. ~
+
+I •< t
+
+.
+
+..
+
+I
+
+#,
+
+"'
+"'
+
+~ -6
+
+iid Vent and
+
+parks
+
+-8
+
+0
+
+100
+
+200
+
+300
+400
+Elapsed Time(s
+
+500
+
+600
+
+A max of 2 pouch cells go into TR
+(without water suppressing the fire)
+
+Single pouch cell- Initial and final mass (g):
+46, 37 (after 2nd vent), respectively
+
+Sample size of 3 pouch cells: 6-10 g of mass
+was lost
+Surface Pro tablet mass loss: ~65 g (initial
+weight 784 g )
+Pouch cells on the right side from the battery pack
+
+Flame Height
+0.45 .-------,---------r-------.----------.-------.-------,,--------.---------,
+-
+
+0.4
+•
+
+Unfiltered ajor Length
+oving Average ajor Length
+U nfihered True Height
+oving Average True Height
+Raw Data Unfiltered)
+
+0.35
+
+0.3
+
+<;::
+
+--
+
+"Si)
+
+0.25
+
+'•
+
+I •
+
+•
+
+•;,
+
+i i)
+
+0.15
+
+0.1
+
+0.05
+
+o ~--~----~----~-----~----~----~----~----~
+247
+248
+250
+251
+252
+253
+254
+249
+Time (s)
+
+Heat Release Rate and Total Energy Release
+]6
+14
+
+Total Heat Release Rate 35.2 kJ
+
+§212
+~
+
+"-"
+
+2 10
+C:::i
+i::::
+(1)
+
+ell
+
+C:::i
+
+Max of 2 pouch
+cells go into thermal
+runaway
+
+8
+
+(1)
+
+~
+
+i::::
+
+.......
+
+6
+
+C:::i
+
+(1)
+
+::c
+
+4
+2
+
+o.i-__.,.____
+2875
+
+2880
+
+___J___ _ _~
+
+-
+
+-
+
+-
+
+2885
+2890
+Til11e (s)
+
+......i.- - -~llad
+
+...........
+
+2895
+
+Fire Duration
+(s)
+
+2900
+
+Observation
+
+Max time to
+reach Max
+HRR (s)
+
+Total Heat
+Release, THR
+(kJ)
+
+Fire Suppression
+
+2 failed pouch
+cells
+
+0.3
+
+35.2
+
+40
+
+No
+
+1 failed pouch
+cell
+
+1.4
+
+24.3
+
+34
+
+Yes
+
+Species Production from Surface Pro Tablet Fires
+(Patch Heater)
+
+2 pouch cells
+go into TR
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+2000
+
+4000
+
+Time Isl
+
+Fire was suppressed & OSEF is available
+
+6000
+Time [s]
+
+10000
+
+Without fire suppression & OSEF
+
+SMAClhr
+ppm(mg/m.3)
+
+SMAC24hr
+ppm(mg/m.3)
+
+SMAC7day
+ppm(mg/m.3)
+
+co
+
+425 (485)
+
+100 (114)
+
+55 (63)
+
+CO2
+
+20000 (35000)
+
+13000 (23000)
+
+7000 (13000)
+
+HCN
+
+8 (9)
+
+4 (4.5)
+
+1 (1.1)
+
+Gas
+
+8000
+
+12000
+
+Comparisons of CO for the Dell and Surface Pro
+Tablet based on OSEF Performance
+1000 . . - - - - - - - - - ~ - - - - - - - - r - - - - - - - , . . - - - - - - - - - ~ - - - - - - - - r - - - - . . - - - - - - - - - - ,
+OSEFOnly
+PreFilter was
+
+us,ed
+
+800
+
+s'
+
+600
+
+6
+
+---- - - - - ==-- , -- - _ _ _
+
+0
+
+u 400
+
+.......,
+
+____
+
+.....,..
+
+______
+
+Surpass 1 hr SMAC=425 ppm
+
+200
+
+0
+
+0
+
+10
+
+20
+-
+
+30
+40
+Elapsed Tilne (s)
+
+50
+
+Tablet (Coil) Without PFE & with OSEF
+Tablet (PH) \Vith PFE & OSEF
+Dell (PH) With PFE & OSEF
+Dell (Coi I) With PFE & OSEF
+Dell (Coil) without PFE & with OSEF
+
+60
+
+Comparisons of HCL for the Dell and Surface Pro
+Tablet Based on OSEF Performance
+.,-
+
+- - -
+
+~
+
+SM.AC 1 hr- 5 ppl11
+4
+
+d
+
+::c 2
+SMA:C 24 hr = 2 pptn
+1
+
+0
+0
+
+5
+
+10
+
+15
+
+20
+25
+Elapsed Tin , s
+e
+
+30
+
+35
+
+- -Tablet (Coil With PFE & \vith OSEF
+- - Dell (Coi I) With PFE & with OSEF
+- -Dell (Coil Without PFE & \ ith , SEF
+Q
+
+40
+
+Particulate Matter Comparisons with the Dell XPS
+•
+•
+
+•
+•
+
+.....
+
+•
+•
+
+-1---1
+
+d
+
+~
+
+E40O
+
+i
+
+~
+
+D U {P'l l) wm.thout 'PF . 0 'EF
+&
+D, U ot[) Pf E O EF
+D U oil No P'FE,
+whhO 'EF
+1
+
+1 1
+1 1
+
+Extrapollated to ~ 1000 mg/m3
+
+0
+
+C
+0
+
+u 300
+r:r.:
+r:r.:
+
+d
+
+~
+
+$200
+d
+
+.....
+:::1
+0
+
++-'
+
+~
+
+~
+
+100
+'
+
+o
+---O
+
+2000
+
+4000
+
+6000 8000 10000 12000 14000
+Elapsed TinrJJ • (s
+.
+
+Visibility Comparisons Based on Environmental
+Cleanup
+80
+70
+
+60
+
+20
+10
+
+o-.LL~ :_.__~=-l-.~ ~ ~ -------1,
+0
+
+1000
+
+2000
+3000
+4000
+Elapsed Time (s)
+
+5000
+
+----Dell XPS (Patch Heater with PFE & OSEF)
+- -Dell XPS (Bumer without PFE & OSEF)
+- - Surface Pro (Bumer without PFE & OSEF)
+
+6000
+
+Additional Toxic Gases for a Dell XPS after Fire
+Suppression
+-
+
+Test Condition:
+Sample was initiated 10
+seconds after completion of
+firefighting procedures
+(“Open flame”+30 s + PFE
+complete + 10 s)
+
+Electrk , oil
+C
+
+,._ F',o r1aalde ftyde
+
+=
+=
+p.
+~
+
+0
+
+5
+
+Benz,ene
+
+0
+
+u
+t'-1
+
+e'l:I
+
+D
+
+*CO levels also surpassed the
+7 day allowable (not shown)
+
+Pat-c : Heater
+1
+
+-
+
+Hydr,o gen Cyanide
+
+Acr, lein
+o
+
+Acetaldehyde
+1
+
+0
+
+3,
+
+mg/m 3 (Orion Size)
+SMAC 7 day
+
+mg/m3
+
+SMAC 24 hr
+mg!m3
+
+Acetaldehyde
+
+18
+
+10
+
+4
+
+Benzene
+
+35
+
+10
+
+1.5
+
+Formaldehyde
+
+1.0
+
+0.6
+
+0.12
+
+Gas
+
+SMAClhr
+
+mg/m3
+
+Toxic Gases for a Dell XPS
+-
+
+Hydrogen Cyanide
+
+Electric Coil
+• Sampling occurred 2 hours
+after the flame selfextinguished (“Flame
+extinguishes”+30 s+2 hours)
+
+Pat,ch Heater
+Electrk ·Coil
+
+,._ Formaldehyde
+
+=
+=
+p..
+~
+
+0
+
+5
+
+Benzene
+
+0
+
+u
+
+Patch heater
+
+t'-1
+
+~
+
+• Sampling occurred 10 s after C!I
+PFE (“Open flame”+30 s +
+PFE complete + 10 s)
+*CO levels also surpass the
+
+A,c r, lein
+o
+
+Acetald lt yde
+
+7 day allowable (not shown)
+
+2
+
+0
+
+4
+
+Acetaldehyde
+
+Benzene
+Formaldehyde
+
+SMAC24hr
+mg!m3
+
+SMAC7day
+
+mg/m3
+
+Gas
+
+SMACthr
+
+.
+
+mg/m3 (Orion Size)
+
+18
+35
+1.0
+
+10
+10
+0.6
+
+4
+
+mg/m3
+
+1.5
+0.12
+
+6
+
+Conclusions
+• Tablet fires show an outburst of electrolyte that vents and lasts for 10-15 s followed by a fire
+that lasts between 20-40 s
+• A total energy release between 24.3- 33.3 kJ and flame heights that reach up to 0.4 m
+• Pouch cell surface temperatures reach maximum temperatures between 817-900 K
+• Maximum of 2 pouch cells going into thermal runaway
+• Surface Pro Tablet with the patch heater ignition method
+• Lower tox levels (below SMAC levels), particulate concentrations and obscuration per
+foot
+• “Worst case” fire demonstrations with the Dell XPS 15 (95 Wh) and the electric coil ignition
+method show
+• CO surpasses the SMAC thresholds and OSEF 1 hr SMAC requirement
+• Higher particulate concentrations
+• Visibility exceeds threshold levels for vehicles
+
+Acknowledgements
+• Johnson Space Center and White Sands Test Facility
+(Alfredo Juarez, Ilse Alcantara, Chris Nagel and
+Super Test team)
+• NASA Glenn Research Center (George Saad and
+instrumentation team)
+• USRA (Jay Owens, Gordon Berger, John Easton,
+Dan Gotti, Safety Committee)
+
+Thank You!!
+
+Universities Space Research Association
+
+rosa.e.padilla@nasa.gov
+
+References
+•
+
+Brooker, John E., Dietrich, D. L, Suleyman A. Gokoglu, and Urban, D. L, Modeling and Analysis of Realist Fire Scenarios in
+Spacecraft, 45th International Conference on Environmental Systems, 12-16 July, Bellevue, Washington
+
+•
+
+Dietrich, D. L., Ruff, G. A., and Urban, D. L., Determination of Realistic Fire Scenarios in Spacecraft," 43rd International Conference
+on Environmental Systems, No. AIAA-2013-3411, American Institute of Aeronautics and Astronautics, Vail, Colorado, July 2013.
+
+•
+
+Ferkul, P. et al. Results of Large-Scale Spacecraft Flammability Tests 47th International Conference on Environmental Systems
+Charleston, South Carolina, July 16-20, 2017
+
+•
+
+Olson, S. L., Ferkul, P. V., and T'ien, J. S., Near-Limit Flame Spread Over a Thin Solid Fuel in Microgravity,“ Proceedings of the
+Combustion Institute, Vol. 22, 1988, pp. 1213 (1222).
+
+•
+
+Quintiere et al, Fire Hazards of Lithium ion Batteries, James G. Quintiere, Sean B. Crowley, Richard N. Walters, Richard E. Lyon, and
+David Blake, February 2016, DOT/FAA/TC-TN15/17
+
+•
+
+Quintiere et al On measuring energy from Li-ion Batteries in Runaway and Combustion J. G. Quintiere Qdot LLC with VTEC Lab
+
+•
+
+Ribière, Perrine, Sylvie Grugeon, Mathieu Morcrette, Simeon Boyanov, Stéphane Laruelle, and Guy Marlair. "Investigation on the fireinduced hazards of Li-ion battery cells by fire calorimetry." Energy & Environmental Science 5, no. 1 (2012): 5271-5280.
+
+•
+
+Urban, D.L., Griffin, D., Ruff, G.A., Cleary, T., Yang, J., Mulholland, G., and Yuan, Z.-G.,“Detection of Smoke from Microgravity
+Fires,” SAE Paper No. 2005-01-2930, 35th International Conference on Environmental Systems, Rome, Italy, July 2005. Ward, B.J.,
+“CEV Combustion Product Monitoring,” Make Engineering, Inc. Report MEIGMI09-2-FR-1, October 2009
+
+•
+
+William Walker, John Darst, Donal Finegan, Kenneth Johnson, Eric Darcy, Steven Rickman, Statistical Characterization of Commercial
+18650 Format Lithium-ion Cell Thermal Runaway Behaviro Based on Calorimetric Testing Results, NASA Battery Workshop 2019
+
+•
+
+Lecocq Amandine, Gebrekidan Gebresilassie Eshetu, Sylvie Grugeon, Nelly Martin d, Stephane Laruelle Guy Marlair Scenario-based
+prediction of Li-ion batteries fire-induced toxicity, Journal of Power Sources 316 (2016) 197-206
+
+•
+
+Allowable Concentrations for Spacecraft, Toxicology Group Environmental Factors Office Habitability and Environmental Factors
+Division Space Life Sciences Directorate 2017
+

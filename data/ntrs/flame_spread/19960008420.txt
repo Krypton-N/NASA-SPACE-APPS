@@ -1,0 +1,422 @@
+N96- 15586
+FLAME
+
+SPREAD
+
+OVER SOLID
+
+FUEL IN LOW-SPEED
+
+CONCURRENT
+
+FLOW
+
+James S. T'ien,* Kurt R. Sacksteder, + Paul V. Ferkul, # Paul S. Greenberg, +
+Ching-Biau Jiang,* and Richard D. Pettegrew*
+*Case Western Reserve University, Cleveland, Ohio 44106
++NASA Lewis Research Center, Cleveland, Ohio 44135
+#Analex Corporation,
+
+Brookpark,
+
+Ohio
+
+44142
+
+Introduction
+This research program is concerned with the effect of low speed flow on the spreading and extinction
+processes of flames over solid fuels. Primary attention is given to flame propagation in concurrent flow - the
+more hazardous situation from the point of view of fire safety. Support for the theoretical modeling effort and
+ground-based experiments was awarded in 1990. In 1994, the project was awarded flight experiment definition
+stalxls.
+
+Concurrent-Flow
+
+Flame Spread Modeling with Gas-Phase Radiation
+
+In a recent paper, [1] a model of flame spread and extinction ovor thin solid fuel in concurrent flow was
+describedthat uses an elliptic formulsfion in the leading-edge, flame-stabilization zone and includes a solid
+surface radiative loss. This model was used to study flame spreading chamcteri_cs
+and derailed flame profiles
+in low-speed forced flow. In addition, a flammability boundm7 which consists of a Iow-sIX_ radiafively
+quenched branch and a high-speed residence-time-limited blowoff braneh was established.
+More recently gas-phase radiation was introduced into the flame spreading model. [2'3] The radiation model
+considers gray emitting, absorbing, and non-scauering medium (CO2 and H20). The equation of radiative
+transfer is solved numerically by the S-N discrete ordinates method. A two-dimensional S4 (12 ordinates)
+scheme is adopted based on a balance of numerical accuracy and computational cost after extensive numerical
+testing. The major results of this model computation include:
+1) Radiative heat flux is multi-dimensional in nature, and the S-N discrete ordinates method provides a netradiative-flux vector field in the gas phase. In fig. 1, for example, the net-radiative-flux vectors are shown for a
+flame spreading over a thin cellulosic fuel in a 5 cm/sec concmrent flow of a mixtvsc of 15% oxygen-85%
+ni_'ogen. To model flame spread, an accurate directional radiative flux field is needed to evaluate the radiative
+interaction between the gas phase and the fuel smface.
+2) Using fuel properties of a thin cellulosic fuel, the radiative flux from the gas phase to the surface is always
+smaller than the surface emissions, as illustrated in fig. 2 (same conditions as fig. 1.) Ultimately, because the
+flame is optically thin, the net radiative flux from the solid surface is lost to the surroundings.
+3) Gas-phase radiation losses lower the flame tempemuu_ for flames in low-speed flows, especially in the
+downstream flame zone. Lower temperatures shorten the reaction zone and the visible flame. The shorter
+flames compare better with experimental results than predictions obtained without the gas-phase radiation IOSS.[4]
+4) Gas-phase radiation influences the behavior of concurrent flow flame spreading from the low-spe_
+quenching fimit to the high-speed blowoff limit Figure 3 shows a comparison of flame spread rates with and
+wkhout gas-phase radiation. In the low-speed limit radiative losses from the gas phase cause the quenching limit
+to occur at a higher flow velocity than with surface losses alone, but the high-speed blowoif limit occurs at
+essentially the same velocity with or without gas-phase radiation. Extinction is controlled by processes occurring
+in the flame-stab'dizadon zone, where the flow first meets the flame. [E Here the relative importance of gas-
+
+219
+
+phase radiation increases with decreasing flow velocity. At low speeds gas-phase radiation reduces the flame
+temperatm_, eventually quenching. At higher speeds gas-phase radiation is not important in this zone and flame
+stabilization is de_
+by reactant residence times. Hence, theae is little difference in the two predicted
+blowoff limits. Flame spread rates in concm'rent flow, however, depend on the integrated heat flux to the fuel
+over the preheating and pyrolysis zones. As pyrolysis and preheating lengths increase with flow speed, the
+volume of radiating species (in otw case, CO2 and H20 ) increases, amplifying the radiative feedback to the solid.
+The effect of increased heat transfer to the fuel overpowers the effect of radiative reductions in the flame
+teanpeman¢, producing a net increase in spread rate. As shown in fig. 3, for free-stream velocities above 5
+cm/sec, the spread rate is higher with gas-phase radiation. Hence, unlike flame spread in opposed flows, [6' 71
+where gas-phase radiation is important only at lower speeds, flames in concurrent flows can be influenced by
+gas-phase radiation throughout the flammable flow velocity range.
+5) A U-shaped flammability map using oxygen fraction and flow velocity has been consuucted for concurrentflow flame spreading. The shape of the boundary is similar to the one detemfined by ll1 based on surface
+radiative loss alone, but quantitatively the boundaxy is shifted because of the effects of gas-phase radiation.
+6) With gas-phase radiation included in the model steady-state flame propagation can always be achieved in
+low-speed flows (fig. 4). With surface radiation alone, the flame spread rate increases quickly as surface
+emissivky is decreased. At this time, numeric! difficulty r-"reven_ _
+m
+de.ttmnining if steady spread is
+possible for the adiabatic case.
+
+Droptower
+
+Experiments
+
+The first experiments on concurrent-flow flame spread over a thin solid fuel (Kimwipe tissue) were
+performed in 5-second droptower tests using a fuel-sample translation device. [4] In this series of experiments,
+direct photographs of visible flames provided the only basis for validating the numerical model These tests
+showed that steady slate was not obtained during the 5-second test time. While we cannot do much about the
+transient state of the flames in the dmptower, a number of new features were subsequently added for a second
+set of tests to improve the procedure and the scope of data recorded: Is]
+1) A new fuel-sample translation device driven by a stepping motor. "I'nlschange improves the control of the
+sample tnmslafion speed (and the equivalent relative flow speed).
+2)
+
+The camera is mounted on the lranslafion device and follows the flame, improving the quality of the image.
+
+3) A blinking light in the chamber illuminates the sample providing images of the pyrolysis and burnout fronts.
+The two-dimensionality of these features can be checked to verify the comparison to the two-dimensional model.
+4)
+
+Gas-phase and surface temperatures were measured using thermocouples
+
+in several tests.
+
+5) The pea'formance of two ignition methods were studied: one using a sezpentine heated wire and the other
+using a slraight heated wire atigmented w_th a nilrocellnlosic doped strip.
+The second test-series results show that the serpentine ignitor produces a unifoan pyrolysis and burnout
+front while the nitrocellulosic strip produces a nonuniform pyrolysis front at ignition that evolves toward
+uniformity, but only in higher speed flows. The time history of pyrolysis and btlrilout fronts _
+the earlier
+conclusion that steady state is not reached in these experiments. The thennocouple (0.076ram wire) distorts the
+flame front for this thin fuel, because of heat loss to the thennoconple.
+The temperature measurements are affected by the thermocouples' proximity to the ignition source (unavoidable since the flame spreads only a short distance in 5 seconds). Nevertheless, the teanperamre data are consistent with the model's predictions indicating peak measured flame temperatures in the flame stabilization zone
+
+220
+
+near the solid burnout poinL Measured and calculated peak temperalnres are well below the adiabatic flame
+temperature, consistent with the predicted importance of radiative heat loss.
+
+Glovebox Experiments
+The Forced Flow Flame-Spread Test (FFFI') is a Glovebox experiment for studying concurrent-flow flame
+spreading being prepared for both the United States Microgravity Payload Mission (USMP-3) and the ShuttleMir Science Project (PRIRODA). In these space-flight _ts,
+the lime limilalion encounte_d in the droptower _
+is eliminated. However, the fixed almospheric environment
+intheGlovebox (cabin air) and the
+limited diagnostic and data acqnisition capability constrain the scope of these tests. The objective of these tests
+will be to observe the effect of flow velocity and bulk fuel temperatm_ on the flammability, ignition, flame
+growth and _g
+behavior, in preparation for a more complete space-flight experiment program descn'bed
+below.
+The FFFT flight hardware consists of a miniature low-speed wind tunnel (derived from the Wire Insulation
+Flammability experiment that was flown aboard the Shuttle spacelab in 1992) a control box and replaceable test
+samples, all shown in fig. 5. The test module provides flow control and conditioning, bulk velocity meastwements, thermocouple temperatm'e displays and optical access for photography. The front window of the module
+contains temFaatm_ and unemomet_ displays to be includedn thevideoimageswiththeflames, nd the
+the
+i
+a
+window opens for replacing fuel samples.
+Two types of fuel will be flown during the USMP-3 mission: flat paper samples lying in a plane parallel to
+the flow will be ignited in various air-flow velocities, and cylinders of cellulose formed around an electricallyheated ceramic core will be ignited at different bulk-fuel tempcmlmes. The cylindrical geometry minimizes the
+mass of fuel required for heated samples and provides a simpie method of uniform sample heating.
+For the MIR/PRIRODA mission, four flat paper samples of different thickness will be _
+According to
+computed results for thermally thin fuels, [3] there is a critical fuel thickness, x_, above which the flame structure
+is independent of thickness and where spread rate varies inversely with thickness. Below xe, flames shrink and
+finally quench when the fuel becomes too thin. This series of tests is intended to validate some of these
+
+predictions.
+
+Space Flight Experiment
+
+Hardware Definition
+
+The proposed space flight experiment SIBAL (Solid Inflammability Boundary At Low-Speed) is intended to
+observe the flammability boundary and flame-slxeading charactefi_cs of thin solid fuel (paper sample) in lowspeed, forced-concurrent flow. In order to determine the extinction limit efficiently, a solid fuel delivery
+system/wind tunnel device has been conceived that continuously feeds solid fuel m maimmn the burnout location
+of a lengthy fuel sample (and therefore the flame) at a fixed location in the wind tunnel. The spreading flame,
+f'Lxedwith respect to the laboratory, will facilitate diagnostic
+measurements, save space, and make it poss_le to
+conduct a series of experiments quickly without changing fuel samples.
+To demonsuate the feasibility of this concept, a prototype device was constructed (see fig. 6). This device
+is operated inside an existing apparatus providing aUnespheric control, rainbow-schlieren imaging, data acquisition, and experiment conlrol capabilities. [9] The first reduced-gravity tests of the prototype were completed in a
+recent NASA KC-135 low-gravity flight campaign. The solid-fuel feeding mechanism so_y
+maintained
+flames at a flied location, indicated by the sclflieren photograph, shown in fig 7. of a flame spreading over an
+asldess fliter paper sample in a 5cm/sec flow of a 18% oxygen/82% nitrogen mix_e.
+As is often the case in
+parabolic
+aircraft experiments at reduced gravity, the flame was disturbed by the unsteady acceleration
+environment (g-jitter), limiting the completeness of comparisons with the thenretical results. Nevertheless, to
+illustratethe type of comparison that can be made using the _
+SIBAL experiment results, fig.7 includes a
+
+221
+
+contour plot of density gradients, directly related to the schlienm imagery, c_mpu_l
+18% oxygen.
+
+Future
+
+for the same conditions of
+
+5_/sec.
+
+Plans
+
+During the next year we will pursue several parallel efforts: 1) Continue the imlxovement
+and extension of
+the modelling effort including _
+of cylindrical geomea7
+and tnmsieat calculalioas,
+2) comple_
+the
+hardware developmem and perform the FFFT Olovebox
+experiments aboard the Shuttle (USMP-3) and the
+Space Se_on; 3) continue the development of prototype hardware for the SIBAL flight expe_riment; and 4)
+prepare and compleW a Science Concepts Review forthe SIBAL flight experimenL
+
+References
+I.
+
+Ferkul, E V. and T'ien, J. S., "A Model
+
+of Low-Speed
+
+Concurrent
+
+Flow Flame Spread Over a Thin Fuel,"
+
+Combustion Scienceand Technology,99, 4-6,pp.345-370,(1994).
+2.
+
+Jiang,C.-B. and T'ie_,J. S.,"Numerical Computation of Flame Spread Over a Thin Solid inForced
+Concurrent Flow with Gas-Phase Radiation,"
+FallTechnicalMeeting,Eastern StatesSeclionof The
+Combustion Institute,
+Clearwater Beach, Florida,
+December 5-7 (1994).
+
+3.
+
+Jiang,C.-B.,"A Model of Flame Spread Over a Thin Solid in Concurrent Flow with Flame Radiation,"
+Ph.D. Thesis, Dept. of Mechankal
+and _
+Engineering,
+Case Wes_rn Reserve Univ., May, 1995.
+
+4.
+
+5.
+
+Grayson, O. D., Sacks_,
+IC R., Fedml, P. V., _d
+Low Speed ConcurrentFlow: Dml_wer
+_
+Science and Techno/ogy, VII/2, pp.187-195,
+(1994).
+T'ien, J. S., "The Flame Front _
+C.omlmstkm
+
+6.
+
+WA/HT-49
+Allenkirch,
+
+7.
+
+Micn_ty,"
+g/gg Pros. Amo. Aero., 130, pp.723-740, (1990).
+Chea, C. H. and Cheng, M. C., "Gas-Phase Radiative Effects on Downward Flame Spread in Low Gravity,"
+
+(1986).
+R. A. and Bhaltacharjee,
+
+T'iea, J. S., "Flame Spreading Over a Thin Fuel in
+Results md Comj
+with Theory,"M_'ro&rav_
+in Low-Reynolds-Number
+
+S., "Oplmse_Flow
+
+Flow," ASME Paper 86-
+
+Flame Spread with Implications
+
+for Combustion
+
+in
+
+Combu.u_n Sc/enceand Techno/oo, 97, pp.63-83,(1994).
+Pettegrew, 1L D., "Ignition and Transient Effects of Flame Spread Over a "I'nin Fuel in Low-Speed
+ConcurrentFlow Using Drop_wer
+Facilities', S. Thesis,Dept. of Mechanical and _
+M.
+Engineer-
+
+8.
+
+ing, Case Western Reserve Univ., May, 1995.
+_,K.
+R.,and T'ien, J. S., "Buoyant Downward
+
+9.
+
+Gravity Accelerations,"
+
+TwenfpF_th
+
+Sy_
+
+Diffusion
+
+(Inzema_nal)
+
+Flame Spread and Extinction
+
+on CombuaHon,
+
+Fig.
+
+1.
+
+in Partial
+
+to appear (1995).
+
+Nondimensional
+
+radiative
+
+flux
+
+vectors at 15% 0 2 and U..--5 cm/s (1 unit =
+or. 4 = 0.011 cal/tan2/s).
+
+o
+>-
+
+222
+
+........
+
+i
+
+........
+
+I
+
+........
+
+i
+
+.....
+
+Fig.2. Heat fluxes IJ_solid
+on
+including
+cood_dve fluxqc,incominggasradiativ=
+flux (ck)i., ou_oing surfac_ ritisiive flux
+(_)o_. net radi_'v¢ tlux (ck)_, and net heat
+flux Cl_ at 15% O 2 and U,=5 cm/s.
+
+o" -0.2
+
+F'_I. 3. '1_ elieci ci las zudiadonon tlamo
+
+sprcad at
+_
+iSSo2.
+
+Fig. The effect
+4.
+ofsolid
+fuel
+e.anissivity
+on
+flan_
+slxmul
+ra=fo¢lhec(m-eslx)nding
+_
+withand _
+gas radiation 15% 0 2
+at
+and UR::4.58
+cm/s.
+
+E
+
+inn
+
+m
+
+"
+
+,lil_
+
+.......
+
+, ..............
+
+• lil_
+
+0.0
+
+0.2
+
+0.4
+,_lld
+
+0.6
+emi,_ivily,
+
+0.8
+
+1.0
+
+_:
+
+223
+
+Fig. 5. FFFT (Forced Flow Flamespread Test) Glovebox Hardware
+
+- __
+
+- -- - - - ----Fig. 7. Comparisonof experimentalrainbow schlieren
+image of refractive index gradients and computed
+contours of density gradKnts (18% 0 . cds).
+,5
+
+1 cm
+
+Fig. 6. Solid Fuel Delivery System prototype.
+Fuel advances to maintain the burnout location
+in the centered circular rainbow schlieren window.
+

@@ -1,0 +1,1691 @@
+National Aeronautics and Space Administration
+
+Buoyant Effects on the Flammability of
+Silicone Samples Planned for
+the Spacecraft Fire Experiment (Saffire)
+Justin Niehaus, Suleyman Gokoglu, Gary Ruff
+NASA Glenn Research Center, Cleveland, OH
+and
+
+Paul Ferkul
+USRA, Cleveland, OH
+
+45th International Conference on Environmental Systems
+July 14th 2015
+
+www.nasa.gov
+
+1
+
+National Aeronautics and Space Administration
+
+Outline
+• Motivation
+
+• Saffire Project
+• Silicone Samples
+• Facilities
+• Results
+• Residue Analysis
+
+• Discussion and Model
+• Summary and Conclusions
+
+www.nasa.gov
+
+2
+
+National Aeronautics and Space Administration
+
+Research Motivation
+• Fire can be a catastrophic hazard for the manned space flight program
+
+• However, flame spread behavior in lowgravity is substantially different than in 1-g
+• Low-speed air flow has a major influence
+on material flammability
+
+% Oxygen
+
+• ISS and S&MA community recently counted 516 discrete flammable
+items
+• Increase of 40% over 3 years
+• Bungees, plastic Ziplocs, paper, and packaging
+• For NASA material testing, the
+assumption has been that materials will
+Flammable
+burn more readily in 1-g compared to
+microgravity
+
+-g Tests
+
+Minimum 1-g
+buoyant air-flow
+speed
+
+Air-Flow Speed
+
+www.nasa.gov
+
+3
+
+National Aeronautics and Space Administration
+
+NASA Standard 6001 Test 1
+
+• Upward flame spread test
+• Failed test if sample material is consumed past 15 cm
+• 1-g upward flame spread is assumed to be worst case for flammability
+• Some materials have shown downward flame spread to be worse
+
+• Other figures of merit: MOC; ULOI
+www.nasa.gov
+
+4
+
+National Aeronautics and Space Administration
+
+Saffire Project
+• Spacecraft Fire Experiment
+• Study microgravity flame spread
+• Saffire I and III will study large sample
+• Saffire II will study 9 small samples
+
+www.nasa.gov
+
+5
+
+National Aeronautics and Space Administration
+
+Saffire Operations Concept
+
+www.nasa.gov 6
+
+National Aeronautics and Space Administration
+
+Silicone Samples
+• 4 of 9 small samples on Saffire II will be Silicone
+
+Thickness
+(mm)
+
+MOC
+
+ULOI
+
+1.0
+
+22
+
+23.4
+
+0.61
+
+20
+
+22.8
+
+0.36
+
+19
+
+21
+
+• Grips for spacesuit gloves
+
+0.25
+
+18
+
+19.7
+
+• Microprocessor covers
+
+0.10
+
+17
+
+17.5
+
+• Polydimethylsiloxane (PDMS)
+• C2H6OSi
+• Practical applications on ISS
+
+• Flammability limits near expected test
+atmosphere
+• Obtained different burn lengths for different
+thicknesses
+
+The maximum oxygen concentration
+and upward limiting oxygen index (in
+percent O2) for five thicknesses of
+silicone fuel [from Hirsch et al.] The
+chemical igniter provided 3000 J in
+25 + 5 s.
+
+www.nasa.gov
+
+7
+
+National Aeronautics and Space Administration
+
+Test Facilities: Large Enclosure
+• Most tests conducted in material flammability test chamber
+• Unsealed enclosure ~ 1 m3 in size attached to room exhaust
+• Hot wire igniter
+• 29 AWG KanthalTM
+• 3.8 amps for 8 seconds (92 W)
+
+Silicone sample with igniter
+
+www.nasa.gov
+
+8
+
+National Aeronautics and Space Administration
+
+Test Facilities: Forced Flow Addition
+• 5 lateral 7.5-cm diameter muffin fans
+• Flow straightened by 1.5-cm thick
+honeycomb mesh
+• Up to 2 m/s flow
+
+www.nasa.gov
+
+9
+
+National Aeronautics and Space Administration
+
+Test Facilities: Sealed Chamber
+• Used to vary oxygen concentration
+• Gas flow (from pressurized bottles) between 0 and 30 cm/s achievable
+
+• Chamber: 20-cm inner diameter
+• Samples were 10-cm tall by 5-cm wide
+
+www.nasa.gov
+
+10
+
+National Aeronautics and Space Administration
+
+Results: Upward Spreading Buoyant Flow
+• 3 of the 4 thicknesses
+ignited
+• Every thickness that
+ignited has at least 1
+sample that selfextinguished
+
+Thickness (mm) Burn Length* (cm)
+
+Burn Time* (s) Spread Rate* (mm/s)
+
+0.25
+
+27.5
+
+52.7
+
+5.2
+
+0.36
+
+14.8
+
+51.0
+
+2.9
+
+0.61
+
+7.6
+
+60.8
+
+1.2
+
+1.00
+
+0.0
+
+0.0
+
+0.0
+
+* Values represent the average of 6 tests for each thickness
+www.nasa.gov
+
+11
+
+National Aeronautics and Space Administration
+
+Results: Downward Spreading Buoyant Flow
+• 2 of the 4 thicknesses tested ignited
+• Every sample that was ignited burned the full length
+• Significantly slower than upward flame spread
+
+Thickness (mm) Burn Length* (cm) Burn Time* (s) Spread Rate* (mm/s)
+0.25
+
+30.0
+
+295.7
+
+1.0
+
+0.36
+
+30.0
+
+539.4
+
+0.6
+
+0.61
+
+0.0
+
+0.0
+
+0.0
+
+1.00
+
+0.0
+
+0.0
+
+0.0
+
+* Values represent the average of 6 tests for each thickness
+www.nasa.gov
+
+12
+
+National Aeronautics and Space Administration
+
+Results: Angled Spreading Buoyant Flow
+• Horizontal flame spread burned similar to
+downward flame spread
+• Some angles for the 0.36-mm samples allowed
+complete burning
+
+Angle (deg) Burn Length (cm)
+0
+60
+75
+80
+90
+
+(0.36-mm thick)
+30.0
+30.0
+30.0
+15.8
+14.8
+
+Burn Length (cm)
+(0.61-mm thick)
+0.0
+9.5
+9.9
+9.4
+7.6
+
+* Values represent the average of 6 tests for each thickness
+
+www.nasa.gov
+
+13
+
+National Aeronautics and Space Administration
+
+Results: Forced Flow
+• Forced flow enhanced flame spread
+
+Flame without
+forced flow
+
+Flame with
+forced flow
+
+• Samples could not ignite in the downward
+configuration under forced flow
+• For samples ignited downward without flow,
+the flames were blown off almost
+immediately when forced flow was applied
+
+Thickness (mm) Burn Length (cm) Burn Time (s) Burn Velocity (mm/s)
+0.36
+
+30.0
+
+88.6
+
+3.4
+
+0.61
+
+30.0
+
+198.9
+
+1.5
+
+* Values represent the average of 6 tests for each thickness
+www.nasa.gov
+
+14
+
+National Aeronautics and Space Administration
+
+Results: Upward, Downward and Forced Flow
+30
+
+Burn length (cm)
+
+25
+20
+
+Downward
+
+15
+
+Upward
+
+10
+
+Upward with 2m/s
+Forced Flow
+
+5
+0
+0
+
+0.2
+
+0.4
+0.6
+Sample thickness (mm)
+
+0.8
+
+1
+
+• 1-mm thick sample did not ignite in air
+• Forced flow increased burn length and upward spread rate for 0.61, 0.36
+and 0.25-mm samples
+• Samples in upward configuration that were burning under forced flow self
+extinguished after forced flow was shut off
+www.nasa.gov
+
+15
+
+National Aeronautics and Space Administration
+
+Results: Maximum Oxygen Concentration
+• Oxygen concentrations from 17% to 26% were examined
+
+10
+0.25mm up
+
+Burn length (cm)
+
+8
+
+0.36mm up
+0.61mm up
+
+6
+
+1.00mm up
+0.25mm down
+
+4
+0.36mm down
+0.61mm down
+
+2
+
+1.00mm down
+
+0
+17
+
+19
+
+21
+
+23
+
+25
+
+27
+
+Molar percent O2 in air
+* Values represent the average of 3 tests for each thickness
+www.nasa.gov
+
+16
+
+National Aeronautics and Space Administration
+
+Residue Analysis: TGA
+• Thermo-Gravimetric Analysis
+• 10 C increase per minute
+
+• Post burn analysis of 0.61-mm sample
+• Mass loss in 4 different areas
+• Original fuel and undamaged silica covered
+fuel produced same mass loss curve
+100
+95
+90
+
+% Mass Loss
+
+85
+
+Damaged A
+
+80
+Damaged B
+
+75
+70
+65
+
+Undamaged Silica
+Covered
+
+60
+
+Original Fuel
+
+55
+50
+0
+
+200
+
+400
+
+600
+
+800
+
+Temperature (˚C)
+
+www.nasa.gov
+
+17
+
+National Aeronautics and Space Administration
+
+Residue Analysis: SEM and EDS
+• Energy Dispersive X-ray Spectroscopy (EDS) performed on the deposit
+from an upward burning 0.36-mm sample post test
+
+• Only silicon and oxygen detected leading to assumption the deposit was
+SiO2 (silica)
+• Scanning Electron Microscope (SEM) image of same sample post burn
+• ~ 0.3 mm of silica deposit
+
+SEM images. (a) SiO2 layers formed on both sides of the originally 0.36-mm-thick silicone
+sample after an upward burn. (b) SiO2 layer 286 m thick was formed over the silicone
+sample.
+www.nasa.gov
+
+18
+
+National Aeronautics and Space Administration
+
+Discussion and Model
+• Flame spread model from
+Markstein and de Ris
+• Critical heat flux needed to raise
+thermal inertia of half the thickness
+of a sample plus silica deposit
+• Dashed line represents half 0.36mm sample with 286 µm of silica
+deposit
+
+Critical heat flux (kW/m2)
+
+35
+
+Silicone sample
+thickness
+
+30
+25
+
+0.25mm
+
+20
+
+0.36mm
+
+15
+
+0.61mm
+
+10
+
+1 mm
+
+5
+
+No Burn Limit
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+Silica deposit thickness (µm)
+
+ρs (kg/m3)z
+Cp,s (J/kg-K)
+ρSiO2 (kg/m3)
+
+Cp,SiO2 (J/kg-K)
+Tign (K)
+T (K)
+ (s)
+
+970
+1050
+2600
+
+1591
+673
+293
+
+𝑞′′ =
+
+[(𝜌 𝑠 𝑐 𝑝,𝑆
+
+𝛿𝑠
+) + (𝜌 𝑆𝑖𝑂2 𝑐 𝑝,𝑆𝑖𝑂2 𝛿 𝑆𝑖𝑂2 )] 𝑇𝑖𝑔𝑛 − 𝑇∞
+2
+𝜏
+
+55
+www.nasa.gov
+
+19
+
+National Aeronautics and Space Administration
+
+Analysis Conclusions
+• There is a critical heat flux needed to raise the temperature of
+silicone to the pyrolysis temperature and continue flame spread
+
+• Silica deposits downstream onto silicone sample
+• Flame uses energy to heat silica, has less energy for pyrolysis of
+sample
+• Angled configuration and forced flow tests results support this
+hypothesis
+• Other possible mechanisms for extinction:
+• Deposit layer could be acting as a physical barrier to mass
+transfer
+
+• Could affect flame stabilization zone or flame standoff
+distance
+• Emissivity of silica layer could be higher than silicone
+producing greater heat loss
+www.nasa.gov
+
+20
+
+National Aeronautics and Space Administration
+
+Summary and Conclusions
+• As silicone burns upward, silica deposits downstream
+• If the silicone is ignited in the downward configuration, it burns
+the entire length of the sample
+• Burning upward at an angle increases the burn length in some
+cases possibly due to less silica deposition
+• Forced flow in the upward burning case increases flammability,
+likely due to an increase in convective flow preventing silica
+from depositing
+• Samples in upward configuration burning under forced flow
+self extinguish after forced flow is removed
+
+www.nasa.gov
+
+21
+
+National Aeronautics and Space Administration
+
+Questions
+
+www.nasa.gov
+
+22
+
+National Aeronautics and Space Administration
+
+References
+[1] Jomaas, G., Torero, J. T., Eigenbrod, C., Niehaus, J., Olson, S. L., Ferkul, P. V., Legros, G., Fernandez-Pello, C., Cowlard, A. J.,
+Rouvreau, S., Smirnov, N., Fujita, O., T’ien, J. S., Ruff, G. A., and Urban, D. L., “Fire Safety in Space – Beyond Flammability Testing of
+Small Sample,” Acta Astronautica, 109:208-216, 2015.
+[2] Gokoglu, S. A., Niehaus, J. E., Olson, S. L., Dietrich, D. L., Ruff, G. A., Ferkul, P. V., and Johnston, M. C., “Prevention of OverPressurization During Combustion in a Sealed Chamber,” AIAA 2012-3511, 42nd International Conference on Environmental Systems, San
+Diego, CA, 2012 (NASA/TM 2012-217712).
+[3] Urban, D. L., Ruff, G. A., Minster, O., Fernandez-Pello, C., T`ien, J., Torero, J., Legros, G., Eigenbrod, C., Smirnov, N., Fujita, O.,
+Cowlard, A., Rouvreau, A., and Jomass, G., “Development of Large-Scale Spacecraft Fire Safety Experiments,” AIAA 2013-3410, 43rd
+International Conference on Environmental Systems, Vail, CO, 2013.
+[4] Flammability, Odor, Offgassing, and Compatibility Requirements and Test Procedures for Materials in Environments that Support
+Combustion, NASA STD 6001, Test 1, Upward Flame Propagation, August 26, 2011 (formerly NHB 8060.1C).
+[5] Kashiwagi, T. and Newman, D.L., “Flame Spread Over an Inclined Thin Fuel Surface,” Combustion and Flame, 26:163 – 177, 1976.
+[6] Huang, X. and Gollner, M. J., “Correlations for Evaluation of Flame Spread over an Inclined Fuel Surface,” Fire Safety Science
+Proceedings of the 11th International Symposium, 2014.
+[7] Quintiere, J. G., “The Effects of Angular Orientation on Flame Spread Over Thin Materials,” Fire Safety Journal, 36(3):291-312, 2001.
+[8] Gollner, M. J., “Studies on Upward Flame Spread,” PhD thesis, University of California San Diego, 2012.
+[9] Loh, H, “Concurrent Flow Flame Spread Study,” National Institute of Standards and Technology, NIST-GCR-92-603, 1992.
+[10] Chao, Y. H., and Fernandez-Pello, A. C., “Flame Spread in a Vitiated Concurrent Flow,” Heat Transfer in Fire and Combustion Systems,
+199:135-142, 1992.
+[11] Hirsch, D.B., Juarez, A., Peyton, G.J., Harper, S.A., and Olson, S. L., “Selected Parametric Effects on Materials and Flammability
+Limits,” AIAA 2011-5067, 41st International Conference on Environmental Systems, July 2011.
+[12] Olson, S., Ruff, G., and Miller, F., “Microgravity Flame Spread in Exploration Atmospheres: Pressure, Oxygen, and Velocity Effects on
+Opposed and Concurrent Flame Spread,” SAE Int. J. Aerosp. 1(1):239-246, 2009, doi:10.4271/2008-01-2055.
+[13] Maradey, J.F., T’ien, J.S., and Prahl, J.M., “The Upward and Downward Flame Propagation Limits of Rigid Polyurethane Foams,”
+CWRU Report FTAS/TR-77-131, Case Western Reserve University, Cleveland, Ohio. 1977.
+[14] Buch, R., Shields, J., Kashiwagi, T., Cleary, T., and Steckler, K., “The Influence of Surface Silica on the Pyrolysis of Silicones,” NIST
+Annual Conference on Fire Research: Book of Abstracts, November 1998.
+[15] Romenesko, David J., and Robert R. Buch, “Blending with Siloxane Polymer Powder Containing Silica Filler and Optional Alkoxysilane
+Adhesion Promoter: Reduced Smoke and Carbon Monoxide on Burning,” Dow Corning Corporation, assignee, Patent US5508323 A. 16 Apr.
+1996.
+[16] Kim, Y. S., and Davis, R., “Multi-Walled Carbon Nanotube Layer-by-Layer Coatings with a Trilayer Structure to Reduce Foam
+Flammability,” Thin Solid Films, 550:184-189, 2014.
+[17] G. H. Markstein, J. de Ris, “Upward Fire Spread Over Textiles,” Proc. Combust. Inst. 14: 1085 – 1097, 1973.
+[18] T’ien, J. S., and Endo, M., “Material Flammability: A Combustion Science Perspective,” Procedia Engineering, 62:120-129, 2013.
+
+www.nasa.gov
+
+23
+
+National Aeronautics and Space Administration
+
+Results: Angled Spreading Buoyant Flow
+• Horizontal flame spread
+burned similar to downward
+flame spread
+• Some angles for the 0.36
+mm aloud the sample to
+burn to completion
+Test Name
+
+Thickness
+(mm)
+
+Burn Length Burn Time
+(cm)
+(s)
+
+Burn Velocity
+(mm/s)
+
+Horizontal
+
+0.25
+
+30.00
+
+287.34
+
+1.04
+
+Horizontal
+
+0.36
+
+30.00
+
+530.87
+
+0.57
+
+Horizontal
+60 degree
+upward
+60 degree
+upward
+75 degree
+upward
+75 degree
+upward
+80 degree
+upward
+80 degree
+upward
+
+0.61
+
+0.00
+
+0.00
+
+0.00
+
+0.36
+
+30.00
+
+141.89
+
+2.11
+
+0.61
+
+9.53
+
+93.23
+
+1.02
+
+0.36
+
+30.00
+
+103.00
+
+2.91
+
+0.61
+
+9.86
+
+83.00
+
+1.19
+
+0.36
+
+15.80
+
+55.00
+
+2.87
+
+0.61
+
+9.43
+
+72.94
+
+1.29
+www.nasa.gov
+
+24
+
+National Aeronautics and Space Administration
+
+Residue Analysis: TGA
+•
+•
+•
+•
+
+Thermogravimetric Analysis
+Post burn analysis of 0.61 mm sample
+Mass loss in 4 different areas
+Original fuel and undamaged silica
+covered fuel produced same mass loss
+curve
+• 10 degrees a minute
+100
+
+% Mass Loss
+
+90
+Lower Damaged
+
+80
+Higher Damaged
+
+70
+Undamaged Silica
+Covered
+
+60
+
+Original Fuel
+
+50
+0
+
+200
+400
+600
+Temperature (˚C)
+
+800
+
+www.nasa.gov
+
+25
+
+National Aeronautics and Space Administration
+
+Residue Analysis: TGA
+•
+•
+•
+•
+
+Thermogravimetric Analysis
+Post burn analysis of 0.61 mm sample
+Mass loss in 4 different areas
+Original fuel and undamaged silica
+covered fuel produced same mass loss
+curve
+• 10 degrees a minute
+100
+
+% Mass Loss
+
+90
+Lower Damaged
+
+80
+Higher Damaged
+
+70
+Undamaged Silica
+Covered
+
+60
+
+Original Fuel
+
+50
+0
+
+200
+400
+600
+Temperature (˚C)
+
+800
+
+www.nasa.gov
+
+26
+
+National Aeronautics and Space Administration
+
+Saffire-IV, V, and VI Development Path
+
+
+Conduct stakeholder review of the objectives and mission concept
+ March 2015
+
+
+
+Evaluate design concepts to define science requirements
+ Interim Concept Review in November 2015
+
+
+
+Develop breadboards and final design
+ December 2015 – September 2016 (re-use of Saffire-I, II, III)
+
+
+
+Manufacturing
+ October 2016 – May 2017
+
+
+
+Assembly and Test
+ June 2017 – May 2018 (staggered test of IV, V, and VI)
+
+
+
+Launches
+ Saffire-IV: September 2018
+ Saffire-V: March 2019
+ Saffire-VI: September 2019
+
+
+
+Plans will be submitted in PPBE17
+www.nasa.gov
+
+27
+
+National Aeronautics and Space Administration
+
+Prioritization of Objectives
+
+Objective
+
+Est
+Priority
+
+Comment
+
+Stakeholder
+Priority?
+
+9
+
+Post-fire monitoring: Demonstrate performance of
+prototype Orion and ISS CPM
+
+1
+
+Demo of prototype flight hardware;
+specified in Program Resource Guidance
+
+5
+
+11
+
+Fire behavior/modeling: Quantify growth and end
+state of realistic fires in spacecraft and their
+influence on vehicle habitability
+
+2
+
+Require to validate model development
+
+1
+
+12
+
+Fire behavior/modeling: Obtain data required to
+validate spacecraft fire scenario models
+
+2
+
+Required for model development
+
+1
+
+2
+
+Fire growth/dynamics: Flame behavior in complex
+geometries
+
+3
+
+More realistic configurations
+
+2
+
+3
+
+Fire growth/dynamics: Flame behavior for planar
+and complex geometries in exploration atmospheres
+
+4
+
+Elevated O2, lower P; compare with SaffireI, II, III; supplement small-scale tests in CIR
+
+3
+
+1
+
+Fire growth/dynamics: Measure flame behavior
+over planar surfaces
+
+5
+
+Continue Saffire-I and III
+
+4
+
+4
+
+Fire detection: Obtain data to validate transport and
+detection models
+
+6
+
+Required for model development
+
+5
+
+5
+
+Fire detection: Demonstrate fire detection with
+multi-moment sensors
+
+6
+
+Reject nuisance alarms
+
+5
+
+6
+
+Fire detection: Evaluate performance of hybrid fire
+detection (smoke and gaseous products)
+
+6
+
+Combustion product detection by prototype
+CPM
+
+5
+
+10
+
+Post-fire monitoring: Quantify rate of decay of gas
+species
+
+6
+
+Required for model development; get with
+Objective 9 but only natural decay
+
+5
+
+8
+
+Post-fire cleanup: Quantify atmosphere cleanup
+rate with prototype smoke-eater
+
+7
+
+Demo of prototype flight hardware
+
+6
+
+7
+
+Fire suppression: Performance of low-momentum
+water mist suppression
+
+8
+
+Effectiveness of fire ports
+
+7
+www.nasa.gov
+
+28
+
+Advanced Exploration Systems
+WBS 067463 - Spacecraft Fire Safety Demonstration
+GRC Project Manager: MX/Gary A. Ruff
+GRC Chief Engineer: LA/Lynn Capadona
+GRC Chief Safety Officer: QER/ Bill Schoren
+GRC Lead System Engineer: LSB/Karen Weiland
+GRC Resource Integration: MX/Thomas Acquaviva
+
+FY15 Budget ($K): $7,308
+FY15 FTEs/WYEs: 32.3/14.0
+Phase: D (System AI&T, Launch, and Check-out)
+Project start/end: 10/1/2011 – 9/30/2017
+
+Project Mission Statement:
+Develop and conduct a large-scale fire
+safety experiment on an International
+Space Station resupply vehicle after it
+leaves the ISS and before it re-enters the
+Earth’s atmosphere.
+GRC Scope:
+• Project leadership
+• Design, fabricate, and operate the largescale low-gravity fire safety experiment
+
+Project Life Cycle Schedule
+Milestones
+Actual/ Baseline
+Milestones
+Actual/ Baseline
+
+Continuation
+Review
+
+ATP
+
+MCR/SRR
+(Unit 1,2,3)
+
+PTR-1
+(Unit 1,2,3)
+
+Safety f I / II
+(Unit 1,2,3)
+
+Continuation
+Review
+
+PTR-2
+(Unit 1,2,3)
+
+Continuation
+Review
+
+Safety f III
+(Unit 1)
+
+SAR
+(Unit 1)
+
+09/18/2012
+
+10/01/2012
+
+11/2012
+
+7/2013
+
+08/2013
+
+09/2013
+
+2/2014
+
+9/2014
+
+3/2015
+
+7/2015
+
+Continuation
+Review
+
+ORR
+(Unit 1)
+
+Launch
+(Unit 1)
+
+Safety f III
+(Unit 2)
+
+ORR
+(Unit 2)
+
+Launch
+(Unit 2)
+
+Safety f III
+(Unit 3)
+
+ORR
+(Unit 3)
+
+Continuation
+Review
+
+Launch
+(Unit 3)
+
+9/2015
+
+3/2016
+
+3/2016
+
+2/2016
+
+6/2016
+
+6/2016
+
+6/2016
+
+9/2016
+
+9/2016
+
+10/2016
+
+29
+
+Combustion
+• Our primary energy source (85%)
+• A catastrophic hazard for the manned space flight program
+• The reality is that substantial improvements in the quality of life in space or here on
+earth will require improvements in our ability to predict and control combustion.
+• High-efficiency, low-emission flames can be near limit, which are unstable, where
+kinetics are important
+• Demonstration that flame spread behavior in low-gravity is substantially different from
+1-g
+• Invalidation of the prevalent assumption that 1-g is always a worse case than low-g
+• Demonstration of the significance of low speed air flows on material flammability.
+
+•
+
+Materials Combustion
+– Burning and Suppression of Solids (BASS), 2012, MSG
+– Flammability Assessment of Materials for Exploration (FLAME), CIR
+
+30
+
+Flight results: Flame Spread
+Ignition at the middle of the sample:
+•Flame spreads upstream, however, in the shape of a fan.
+
+• With an increase in the incoming air flow velocity, the fan angle
+increases due to an increase in oxygen supply rate.
+• This is completely contrary to normal gravity
+• An unpredicted and presently unexplained smoldering pattern was
+observed in thin cellulose.
+
+ISS Results Solid Fuel Combustion-Material Flammability
+The Burning and Suppression of Solids Experiment (BASS) – 2012
+in process now
+
+Recent Results:
+With BASS we can measure material flammability in
+BASS in MSG
+microgravity to compare with normal gravity flammability
+Don Pettit running BASS
+NASA-STD-6001 Test # 1. Results to date indicate that
+Nomex III burning in
+Test 1 is not conservative, and materials can burn at lower BASS in air. This
+material will not burn
+oxygen levels in microgravity than on Earth.
+in air on earth.
+BASS also assesses the effectiveness of N2 inert
+extinguishing agent in putting out flames over different
+materials, geometries, and flow. Results to date indicate
+that local application of suppressant is not adequate to
+fully extinguish the flames. The local jet entrains air and
+sustains the flame even when the ambient air flow is
+Spherical PMMA sample
+turned off.
+in BASS. N2 Jet does not
+Relevance/Impact:
+extinguish flame, only blows
+Spacecraft fires are a significant risk factor for human exploration.
+out stagnation region. Wake
+region continues to burn.
+Understanding material flammability and suppression in actual spacecraft
+environments relative to 1g materials screening is needed to mitigate this risk.
+The PMMA material burned in BASS is being considered for MPCV windows.
+JSC was surprised that this thick sample ignited easily and burned well in air.
+Ground-based drop tower testing provides some data, but long-duration microgravity N flow makes candle
+2
+data is needed to study flammability limits for all but the thinnest films.
+flame longer, it does not
+put it out.
+Image analysis
+
+Flammability Assessment of Materials for
+Exploration (FLAME)
+FLAME PI’s:
+Subrata Bhattacharjee, San Diego State University
+Sandra Olson, NASA Glenn Research Center
+James T’ien, Case Western Reserve University
+Carlos Fernandez-Pello, University of California, Berkeley
+Fletcher Miller, San Diego State University
+PS: Paul Ferkul, NCSER
+PM: Mark Hickman, GRC
+Engineering Team: GRC in-house team
+
+Flat, Spherical, and
+Cylindrical samples (L to R)
+burning in 1-g
+
+CIR Facility on ISS
+
+CIR Insert – FLEX
+(Similar to anticipated
+FLAME insert)
+
+Objective:
+ To study and characterize ignition and flammability of solid spacecraft materials
+in practical geometries and realistic atmospheric conditions
+Relevance/Impact:
+ Improve EVA suit design
+ Determine safer selection of cabin materials and validate NASA materials
+flammability selection 1-g test protocols for low-gravity fires
+ Improve understanding of early fire growth behavior
+ Validate material flammability numerical models
+ Determine optimal suppression techniques for burning materials by diluents, flow
+reduction, and venting
+Development Approach:
+ Develop FLAME facility (CIR insert and avionics) to support multiple solidmaterial combustion and fire suppression studies
+ Utilize Combustion Integrated Rack (CIR)
+ Support multiple investigations using common infrastructure:
+
+ISS Resource Requirements
+Accommodation (carrier)
+
+CIR
+
+Upmass (kg)
+
+250 kg
+
+(w/o packing factor)
+
+Volume (m3)
+
+0.50 m3
+
+(w/o packing factor)
+
+Power (kW)
+
+0.75 kW
+
+(peak)
+
+8 hrs
+
+Crew Time (hrs) Crew
+
+Time (hrs)
+- Initial configuration of CIR Rack
+
+8 hrs
+
+- Change-outs during experiment
+
+200 hrs
+
+Launch/Increment
+
+ Common interfaces and flow control
+ Removable test sections and sample holders
+ Removable ignition system
+
+Autonomous Ops (hrs)
+
+Inc. 55
+
+Project Life Cycle Schedule
+Milestone
+s
+
+Kickoff
+
+Baseline
+Oct 2012
+Revision Date: 3/27/12
+
+SCR
+
+RDR
+
+PDR
+
+CDR
+
+VRR
+
+Safety
+
+SAR
+
+Ship
+
+Launch
+
+Ops
+
+Ops End
+
+Report
+
+May
+2013
+
+May
+2014
+
+Jun 2015
+
+Sep 2016
+
+Sep 2017
+
+Dec 2017
+
+Mar 2018
+
+Apr 2018
+
+Jul 2018
+
+Aug 2018
+
+Nov 2019
+
+Dec 2020
+
+33
+
+Spacecraft Fire Safety Demonstration Flight
+Objective:
+• Advance spacecraft fire safety technologies
+identified as gaps by the Constellation Program
+and in the Exploration Technology Roadmaps
+• Demonstrate their performance in a large-scale,
+low-gravity spacecraft fire safety test aboard an
+unmanned re-entry vehicle
+– Demonstration of the operational concept
+could allow future experiments to investigate
+fire detection and suppression equipment
+and protocols.
+Relevance to Human Space Flight:
+The material flammability questions to be
+addressed in this experiment were identified
+during the design of the ECLS system for Orion,
+Altair, and Lunar Surface Systems
+• Addresses knowledge gaps that must be
+resolved for assured protection of a
+spacecraft from fire hazards
+
+Most U.S. agencies responsible for large
+transportation systems conduct full-scale fire
+tests to address gaps in fire safety knowledge
+and prove equipment and protocols.
+
+FAA full scale aircraft test
+
+ESA ATV approaching the
+ISS
+Naval Research Laboratory
+Ex-USS Shadwell
+
+Cut-away of the
+Automated Transport
+Vehicle (ATV). The
+large-scale experiment
+could be conducted in
+one of the standard
+payload racks.
+34
+
+Saffire Overview
+Needs:
+
+
+Low-g flammability limits for spacecraft
+materials
+
+
+
+Definition of realistic fires for exploration
+vehicles
+
+Fans
+
+Power
+Management
+Sample card
+(flame spread
+sample shown)
+
+‒ Fate of a large-scale spacecraft fire
+
+Objectives:
+
+
+
+
+
+•
+•
+
+Saffire-I: Assess flame spread of largescale microgravity fire (spread
+rate, mass consumption, heat
+release)
+
+Saffire-II: Verify oxygen flammability limits
+in low gravity
+
+Cameras
+
+Avionics Bay
+
+Flow Duct
+
+Signal
+conditioning
+card
+Flow
+straightener
+
+Saffire-III: Same as Saffire-I but at different
+flow conditions.
+Data obtained from the experiment will be used to
+validate modeling of spacecraft fire response
+scenarios
+Evaluate NASA’s normal-gravity material
+flammability screening test for low-gravity conditions.
+
+Saffire module consists of a flow duct
+containing the sample card and an avionics
+bay. All power, computer, and data acquisition
+modules are contained in the bay. Dimensions
+are approximately 53- by 90- by 133-cm
+
+35
+
+SFSD Concept
+Cygnus
+approaching
+ISS
+
+Unpack cargo, reload with trash
+
+Proposed location of the SFS
+Demo experiment (back of vehicle)
+
+Check-out SFS Demo experiment
+
+Issues
+Trash packing
+ Based on input from Orbital, we anticipated that Cygnus packing for re-
+
+entry would be similar to launch
+ Developed a Payload Integration Agreement to prevent stowage near the
+Saffire inlet and outlet
+
+iss038e031398
+
+37
+
+Issues
+Trash packing
+ Actual trash packing is not quite so organized
+
+
+
+Impacts air mixing and oxygen availability for Saffire
+
+ Project has discussed this with Orbital and
+
+begun discussions with our Payload
+Integration Manager with ISS
+
+Orb-2 Trash Packing
+
+38
+
+Silicone Samples
+• 4 of 9 small samples on Saffire
+will be Silicone
+•
+
+Silicone is a very simple option for burning on the second flight of the Saffire
+project. It has practical application in space such as covering for camera
+microprocessors and for grips for space suit gloves. The silicone samples that
+are being proposed are readily available in various thicknesses which will
+make it easy to test thickness effects on flammability in microgravity. It has
+been studied extensively on the ground, with a thickness that is right on the
+border of passing NASA Standard 6001 Test 1 (self-extinguish before 6
+inches)[1]. It is solid and non-porous, giving it great structural integrity. The
+MSDS and material properties are readily available and understood.
+
+•
+
+Silicone has been tested in a 1-G environment using the NASA STD-6001
+Test #1 experiment. Five thicknesses have been testing and three thicknesses
+are close to the limit. The .04’’ thickness does not ignite, while the .024’’ and
+.014’’ on average pass Test 1. .01’’ and .004’’ thicknesses do not pass Test 1
+in any of the trials. Figure 1 demonstrates an “S” curve, which gives the
+probability of a sample to pass Test 1 against a certain variable. Tables 1
+through 4 show the specific results below.
+
+•
+
+If the Silicone, especially the .014’’ thickness, burns greater length in
+microgravity, it could prove that Test 1 is not a conservative test and needs to
+be re-evaluated. The MOC for the same thicknesses of silicon has been tested
+by Hirsch [2]. It would be interesting from a scientific point of view to see if
+the MOC changes once in microgravity. The .014’’ thick Silicone sample also
+burns downward without self-extinguishment, showing it could possibly be
+more flammable in microgravity than 1-G.
+
+•
+
+The purpose of the experiment will be to test silicone thicknesses that are
+near the limit of passing NASA STD-6001 Test 1 in air at 1-G. Then by
+picking a thickness above the flammability limit and below the flammability
+limit, the effect of 0-G on thickness of material can be determined. The length
+of the burn, and whether the material passes Test 1 can be compared for 1-G
+vs. 0-G, along with the burn rate. The proposal is to burn a sample of the
+.024’’, .14’’ and .01’’ thicknesses of the silicone samples.
+
+39
+
+Silicone Samples
+• 4 of 9 small samples on Saffire
+will be Silicone
+•
+
+An effort to determine the thinnest sample that can pass Test 1 has been
+complete and the data is shown below. Testing that thickness and others near
+the limit will help determine the conservatism of Test 1 in microgravity. The
+samples take approximately 1 minute to burn in 1-G so microgravity results
+using drop towers and parabolic flights would not be an option. MOC and
+ULOI data for these samples exist, which can be compared to the results
+obtained in microgravity.
+
+•
+
+The samples to be tested are thermally thin, meaning the thickness of the
+material determines its flammability. The silicone samples are simple in
+nature, making it easy to find their thermophysical properties, and the MSDS
+from the supplier is readily available.
+
+•
+
+The stakeholders for this experiment are the scientific community that
+researches combustion and flammability, along with the spacecraft engineers
+who determine which materials are safe for microgravity. This experiment
+can satisfy both types of stakeholders by comparing ground data to
+microgravity data, and by testing the conservatism of tests used to select
+spacecraft materials.
+
+40
+

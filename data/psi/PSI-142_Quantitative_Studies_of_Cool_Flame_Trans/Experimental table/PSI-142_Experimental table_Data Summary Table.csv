@@ -1,0 +1,9 @@
+﻿Data ID,Data Description,Reference Publication Link,Figure ID in Reference
+1,CFE limit with ozone,http://dx.doi.org/10.1016/j.combustflame.2017.01.028,4
+2,CFE limit without ozone,http://dx.doi.org/10.1016/j.combustflame.2017.01.028,5
+3,CFE and HFE Predicted vs Measured ,http://dx.doi.org/10.1016/j.combustflame.2017.01.028,7
+4,Measured and computed DME/O2/O3 CFE and HFE,https://doi.org/10.1016/j.proci.2018.07.050,2
+5,CH2O PLIF and thermometry,https://doi.org/10.1016/j.combustflame.2018.03.013,8
+6,nC7/nC10/nC12 chemiluminescence,https://doi.org/10.1016/j.proci.2018.06.161,2
+7,nC12 chemiluminescence,https://doi.org/10.1016/j.proci.2018.06.162,7
+8,nC12 thermometry,https://doi.org/10.1016/j.proci.2018.06.163,9

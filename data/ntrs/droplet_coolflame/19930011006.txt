@@ -1,0 +1,831 @@
+LASER
+
+DIAGNOSTICS
+
+FOR MICROGRAVITY
+
+DROPLET
+
+STUDIES
+
+Michael Winter
+United Technologies
+East Hartford,
+
+Research
+
+Connecticut
+
+Center
+06108
+
+N
+
+9
+
+3"
+
+2
+
+0
+
+1
+
+9
+
+Rapid advances have recently
+been made in numerical
+simulation
+of droplet combustion
+under microgravity
+conditions,
+while experimental
+capabilities
+remain relatively primitive.
+Calculations
+can now provide detailed information
+on mass and energy transport, complex gas-phase chemistry, multi-component
+molecular
+diffusion, surface evaporation
+and
+heterogeneous
+reaction,
+which provides
+a clearer picture of both quasi-steady
+as well as dynamic behavior
+of droplet
+combustion.
+1 Experiments
+concerning
+these phenomena
+typically result in pictures of the bttrning droplets, and the data
+therefrom
+describe droplet surface regression
+along with flame and soot shell position.
+With much more precise, detailed,
+experimental
+diagnostics,
+significant gains could be made on the dynamics and flame structural changes which occur during
+droplet combustion.
+Since microgravity
+experiments
+become increasingly
+more expensive
+as they progress from drop
+towers and flights to spaceborne
+experiments,
+there is a great need to maximize
+the information
+content from these
+experiments.
+Sophisticated
+measurements
+using laser diagnostics
+on individual
+droplets and combustion
+phenomena
+are
+now possible.
+These include measuring
+flow patterns
+and temperature
+fields within droplets, 2 vaporization
+rates and
+vaporization
+enhancement, 3 radical species pro£ding in flames 4 and gas-phase flow-tagging
+velocimetry. 5 Although these
+measurements
+are sophisticated,
+they have undergone
+maturation
+to the degree where with some development,
+they are
+applicable
+to studies of microgravity
+droplet combustion.
+This program begining
+in September
+of 1992, will include a
+series of measurements
+in the NASA Learjet, KC-135 and Drop Tower facilities for investigating
+the range of applicability
+of these diagnostics
+while generating
+and providing
+fundamental
+data to ongoing NASA
+research programs in this area.
+This program is being conducted in collaboration
+with other microgravity
+investigators
+and is aimed toward supplementing
+their experimental
+efforts.
+
+INTRODUCTION
+Measurement
+
+Needs
+
+Droplet
+
+Internal
+Flow
+While modeling efforts
+
+transport
+
+and chemistry,
+
+of droplet
+
+I experiments
+
+combustion
+
+are providing
+
+under microgravity
+
+conditions
+
+data on droplet surface regression
+
+have been
+
+rates along
+
+expanded
+
+to include
+
+with flamear,
+
+d soot shell
+
+position.
+Even these limited data disagree with theory, 6 possibly as the result of gas-phase
+convection
+around the droplet
+and liquid-phase
+convection within it. The internal flows may largely be residual from the droplet deployment
+process in
+which a droplet is suspended on a hypodermic
+needle which is rapidly retracted.
+To understand
+the results of the experiment,
+it is necessary to characterize these droplet flow patterns and determine if they can be dissipated over some time delay period.
+Gas-Phase
+
+Flow
+
+.........................
+
+Gas-phase motion over the surface of a droplet can have a profound impact on the droplet burning
+deployment can leave droplets with a residual drift on the order of 1-2 mm/sec and as high as 10 mm/sec.
+
+rate. Droplet
+Relative gas-
+
+phase motion of just a few mm/sec can result in a significant
+change in the droplet burning rate. 6 The effect of spark
+ignition can be a dramatic effect: it introduces a perturbation
+in the gas-phase flow resulting in a second source of residual
+gas/droplet motion. Techniques for anchoring a droplet in place using either fiber suspension or electrodynarnic
+levitation
+certainly warrant investigation.
+These techniques alone, however, may not be adequate without assessing the gas-phase
+flow, possibly using a flow tagging or velocimetry
+imaging approach.
+
+149
+PREC._EDiNG
+
+P/_iGE
+
+BLAI'_K
+
+NOT
+
+FILMED
+
+5
+
+Flame
+
+Front
+
+PoiitiOn _
+
+Knowing the position of the reaction front is important for anchoring computer models.
+Currently, an
+approximation of this position is obtained from back-illuminati0n images andnatural light imaging on a second _efa¢
+...........
+th_e_ characteristics are no t likely to be ai31e-t0 be-related directly to predicted model parameters in a quanti_ve
+fashion.
+These can be difficult to interpret, since they are a line of sight measurement on a spherical body. Planar iaser-_
+fluorescence of OH could at least provide representative flame front positionsA-even ff only performed qualitatively. On the
+lean side of the flame, OH would prove reasonable as a flame front marker. Performed in a time resolved manner, these
+measurements could provide information on combustion unsteadiness regarding not only flame position relative to the
+droplet but also the structure of the flame.
+Liquid-Phase
+Thermometry
+Droplet combustion can be characterized as a generic gas phase diffusion flame with curvature but noti N suelc,h.
+The flame structure is, however, to some degree rate limited by evaporation: the transfer of heat into the droplet is therefore
+an important influence on the burning rate. Measuring the liquid phase temperature distribution could further the
+understanding of the flame behavior, particularly for multi-component droplet combustion.
+Dia_,nostic
+
+Canabilities
+
+Optical flow diagnostics offer several advantages over physical probes because they permit multi-point
+measurements non-intrusively.
+Non-intrusive measurements are of particular importance for droplet combustion and
+transport in microgravity environments where physical contact would introduce perturbations.
+The resolution of these
+diagnostics can also isolate transport to length-scales much smaller than the droplet diameter. These techniques can be
+configured to instantaneously map an entire flow field in two and three dimensions, providing either qualitative or
+quantitative information on the distribution of a desired scalar.
+Internal
+
+Circulation
+and Quenched
+Fluorescence
+The capability for measuring flow patterns within individual droplets 7 using oxygen quenching of laser-induced
+fluorescence has been demonstrated. Decane doped with naphthalen e was used for the initial experiments. DroPlets ffoma
+'
+droplet-on-demand generator fall a short distance into a chamber filled with nitrogen and a variable amount oFoxygen. A
+thin sheet of ultra-violet light from the fourth harmonic of a Nd:YAG laser at 266 nm illuminates single droplets. A
+magnified image of the naphthalene fluorescence ts recorded digitally using a two-dimensional vidicon det_tor interfaced to
+a laboratory computer. Since oxygen is a strong fluorescence quencher, any liquid volume element which has been exposed
+to it by surface contact or diffusion will suffer a reduction in fluorescence intensity. Convection from the surface due to
+internal circulation and diffusion cause oxygenated image regions to appear darker. Oxygen-free experiments provid--ea
+baseline case for comparison. These data are shown in Fig. 1. This diagnostic can be used to describe flow patterns within
+droplets, and for determination of relaxation times for the motion to dissipate.
+Exciplex
+
+Thermometry
+Temperature measurements have been performed within droplets as a function of ambient temperature using two
+
+color detection. 2 The temperature measurement technique used is exciplex fluorescence thermometry, which exploits the
+fluorescence at two different wavelengths resulting from the reaction of an excited dopant molecule to form an excited-state
+corn lt/J_ or exciplex. 8 The technique was used to measure the temperature along a meridian plane of the droplets. An
+exciplex system is formed using naphthalene/TMPD in decane. At higher temperatures, the system monotonically shifts to
+increase monomer selective concentration and monomer fluorescence (blue/violet) dominates, hence, the ratio of monomer
+fluorescence over exciplex fluorescence (green) and the intensity ratio can yield the temperature. The resulting fluorescence
+from the droplet is imaged in two dimensions at both wavelength regions. The pixel-to-pixel ratio of these two images can
+be used, after calibration, to obtain the temperature.. Th_ismeasurement would be especially important for com_usting
+multi-component droplets but due to the sensitivity to oxygen quenching has been_xl_.o
+&ae in-n0n combusting sysi_ns.
+As will be described below, mlcrogravity droplet combustion may present an ideal opportunity for implementation of this
+approach since the symmetric envelope flame may preclude oxygen from contacting the droplet fluid.
+Levitation
+and Suspension
+of Droplets
+The aforementioned diagnostic techniques rely on a droplet occupying a known position to allow the laser beam to
+"slice" through a central plane precisely. The dr_let surface acts like a lens, bending the incident rays toward the center of
+the droplet. The light will appear to not fill the circumference (top and bottom) of the droplet if the illumination sheet is
+not incident on a great circle, slicing exactly through the center of the droplet. In typical microgravity experiments, slight
+drifts in droplet position are unavoidable. These drifts may be due to either droplet relative motion within the test chamber,
+
+i
+150
+Z
+
+or, g-jitter which is typical of microgravity environments
+on aircraft
+These drifts, however,
+either an electrodynamic
+levitator er an extremely small fiber to tether the droplet.
+
+can be compensated
+
+for by
+
+Producing
+and supporting
+a droplet on a thin fiber or filament
+can be achieved
+repeatedly
+with automated
+deployment.
+A droplet-on-demand
+generator can produce a single droplet which is brought into contact with the fiber
+filament.
+When the filament has a slight material bead or buildup at some position along its length, the droplet becomes
+anchored and supported at that position. This arrangement
+is shown in Fig. 2. The diameter of the fiber and roundness of
+the bead require careful attention relative to the droplet diameter so as not to change the surface contour of the droplet at the
+wetting surface of the fiber. With careful consideration,
+these criteria are easily met. Droplets supported in this manner can
+be used for experimentation
+even in the presence of g-jitter. It should be noted that while the g-jitter effects the data quality,
+it will not effect the success of the experiments.
+Flame
+
+Front
+and
+Gas-Phase
+Velocimetry
+An additional research requirement would
+
+be detailing
+
+the gas-phase
+
+flow field and position
+
+of the flame fronL
+
+This can be achieved using Planar Laser-Induced Fluorescence (PLI_ of OH 4 which is typically performed by tuning a laser
+to the OH molecular
+absorption and recording the emitted radiation with a two-dimensional
+detector.
+Laser sources and
+detection systems capable of operating under the power and shock environments
+typical of drop tower conditions may be
+available, however, some development is likely to be required. An alternative approach would be to provide laser-induced
+fluorescence
+from a diagnostic seed included in the liquid-phase fuel which would be consumed at the flame front. This, in
+principle,
+would be easier, and lower risk since the diagnostic
+capabilities and instrumentation
+already exist. The main
+advantage to this approach would be that the wavelength of the molecular absorption involved can be chosen to coincide
+with convenient laser wavelengths
+than lasers can be configured to access OH. The details of this approach will be given
+under the project description.
+
+different
+
+Gas-phase flow tagging is capable of del'ming the flow field around the droplet and can be performed
+ways.
+For post-combustion
+gas conditions,
+photodissociating
+water vapor in known spatial
+
+in a number of
+locations
+and
+
+subsequently
+recording
+the PLIF of OH yields gas phase velocities. 5 This approach
+is probably beyond the scope of
+microgravity
+applications
+due to its complexity
+and inslxumentation
+requirements.
+An alternative
+approach would be to use
+laser-induced
+phosphorescence,
+by writing lines in a pre-seeded flow and subsequent
+imaging the convection
+of triplet-state
+excited molecules.
+In this way, gas-phase velocities and flame positions could be measured.
+Particle
+Image Velocimetry
+(PIV) holds the potential
+for recording
+two-components
+of velocity
+in a twodimensional
+plane. Conventional
+techniques like Laser Doppler Velocimetry
+would not be appropriate
+because it is a point
+technique and would not provide information
+related to the global flow field. PIV uses lasers to illuminate
+a seemed fluid
+with two short, properly-timed
+pulses.
+In this way, each particle in a sheet of laser light can be illuminated
+and imaged
+twice in a flame of an imaging device such as a CCD camera.
+With this information,
+spatially resolved maps of two
+components
+of velocity can be determined.
+The proper selection of image magnification,
+pulse timing, particle size and
+seed rate, allow a two-dimensional
+velocity field to be acquired instantaneously.
+Video acquisition
+systems and computer
+software are used to process the images and manipulate them to produce the vector field.
+
+PROJECT
+
+DESCRIPTION
+
+Program
+
+Plan
+The objective of this program is to perform a series of measurements
+to investigate
+the range of applicability
+of
+advanced
+laser diagnostics
+to microgravity
+applications
+while generating
+as much fundamental
+data to ongoing NASA
+microgravity
+research programs as possible.
+Through consultation
+with NASA personnel, and other researchers
+in the field
+of microgravity
+droplet transport and combustion,
+priorities will be established
+with respect to measurement
+parameters.
+The measurement
+parameters currently under consideration are:
+
+(1)
+(2)
+(3)
+(4)
+
+droplet internal flow
+relative gas-phase flow around droplets
+flame front position
+liquid-phase thermometm-y.
+
+An integrated
+diagnostic
+unit, capable of performing
+these measurements
+will be assembled.
+All of the major
+components
+such as lasers, detectors and data systems are currently available and allocated to this effort.
+A self-contained
+miniature nitrogen-pumped
+dye laser system and two-dimensional
+intensified diode-array
+imaging system will form the core
+of the unit.
+
+151
+
+The testing program will proceed with ever more challenging environments proceeding from the laboratory, to
+flight based tests, and finally, to drop tower facilities. The diagnostic approaches and instrumentation would be verifa_d in a
+laboratory setting. Experiments with the intent of reducing the risks associated with high impact and droplet drift would be
+conducted on either the Learjet or KC-135 Aircraft with fiber slispended droplets. Measurements will be performed on
+droplet internal flow patterns and the applicability of liquid phase thermometry in a burning droplet. Investigations will be
+made into performing PLIF measurements of OH or a diagnostic seed material to describe flame front position. Gas-phase
+flow dynamics will be determmed by velocity measurements usmg particle image vetocimeu%
+Risk
+
+Reduction
+Flight Experiments
+......
+-_
+Initial experiments are designed to reduce the risks assoc/ated with high impact and droplet drift. Ex_m_
+of
+droplet combustion under mtcrogravity conditions are best if carried out in either the NASA LeRC 2.2-Second Drop Tower,
+or the 5.18-Second Zero-Gravity Facility, to provide a "clean" set of experimental conditions. Two aspects of these
+facilities and the environment they provide present the greatest chanengesto
+laser diagnostic implementation. Fur,, the
+impact at the bottom of the tower can range from 60 -70 g's. Designing advanced instnfmdaiation m sustain these impacts
+is quite difficult. A risk reduction step _s to _,_,
+rform a test sequence aboard the NASA Aircraft Micrograv!_ F_ties.
+Although the aircraft do not provide as clean a microgravity environment, (-10 -z g), the diagnostic could be developed
+while still providing quality data. These experiments would be followed by measurements m the LeRC 2.2-Sec.ond Drop
+Tower.
+Isolate
+
+Droplet
+Motion
+The second challenge to diagnostic implementation is the droplet drift present in all previous microgravity droplet
+experiments. As described above, droplet deployment is always accompanied by some initial Velocitywhich is _mparted on
+the dropleL The relative motion of the droplet to the ambient gas can result m significant change in the burning behavior.
+Furthermore, this motion complicates the diagnostics. To alleviate these problems the experiments can be performed on
+droplets supported on a thin fiber, or supported in an electrodynamic trap. Fiber support is relatively simpTe, however,
+detailed measurements of the effect of the fiber boundary on droplet internal flow paaems would still need to be undersuxxl.
+The operation of electrodynamic traps becomes considerably simplified at low gravity due to the rec!_
+u__ccdf0_
+on file
+
+droplet
+An automated deployment system will be coupled to thin filament suspension. A droplet-on-demand generau_ will
+produce a single droplet which is brought into contact with the fiber filament. The filament will have a slight material bead
+or buildup at some position along its length so that the droplet becomes anchored and supported at that p6s_--tionas is
+shown in Fig. 2. The diameter of the fiber and roundness of the bead will receive careful attention relative to the droplet
+diameter so as not to change the surface contour of the droplet at the wemng surface of the fiber. Droplets supported in this
+manner will be used for experimentation even in the presence of g-jitter: It should be noted that even though the g-jitter
+effects the quality of the data relative to combustion due to the gas-phase fluctuations, it will not effect the success of the
+experiments.
+Internal
+
+Flow Patterns
+Initial measurements are directed toward describing the internal flow pauerns of droplets in a non-combusting
+cnvironmenL The convecuon of oxygen dissolved into the surface fluid of an isothermal, non-burning drop=letwi_l!be
+detected by the quenching of laser-induced fluorescence. The fluorescence images will be recorded in twodimcnfl_ _
+from a
+laser sheet, provided by a compact nitrogen laser, which slices through the interior of the droplet. This m_ent
+can be
+performed in a time-phased manner with the introduction of a time delay to evaluate temporal evolution. These experiments
+could potentially answer questions relating deviations between current experiments and theory.
+Liquid-Phase
+Thermometry
+......
+An extension of the flow measurement techniques will provide liquid-phase thermometry us_g the same a_.
+Laser-induced exciplex thermometry can be employed in a burning droplet, if it could be shown that no oxygen permeated
+into the measurement regions. This would be expected in microgTavity conditions where a symmetric envelope flame
+surrounds the droplet and consumes oxygen prior to dissolution in the liquid-phase. This assumption is easily verified by
+repeating the flow pattern measurements on burning droplets. Liquid-phase thermometry would qualitatively confirm
+modeling assumptions while providing quantitative temperature data.
+Flame
+
+Front Measurements
+Development of the UTRC diagnostic system will be d_ted
+toward PLIF of OH_ Potentially minor
+modifica_ons to the nitrogen laser system may allow it to operate on excimer gases such as XeCI, thus p_m.
+Vt._#
+of directly exciting the OH molecule. Alteratively, arc lamp illumination could be used. This would provide nnage data on
+152
+
+the
+position
+
+of the flame front around a burning droplet. A second alternative approach would be to pedorm las_-induced
+fluorescence from a diagnostic seed included in the liquid-phase fuel which would be consumed at the flame fronL This, in
+principle, would be easier and the diagnostic capabilities and instrumentation already exist. The main advantage to this
+approach would be that the molecular absorpuon wavelength can be chosen to coincide with more-easily-accessed
+laser
+wavelengths than those of OH. Several diagnostic materials arc available with readily available absorptions, high
+fluorescence yields, and flammability limits similar to typical fuels, i.e., biacetyl in methanol. For these studies, the
+niuvgen laser will be used in conjunction with the dye laser tuned to the appropriate wavelength.
+Gas-Phase
+
+Flow
+
+Particle Image Velocimetry (PIV) holds the potential for recording two-components of velocity in a twodimensional plane. PIV will be performed using two pulses from the nitrogen laser to illuminate the gas surrounding the
+droplet after it is seeded with aerosol particles. In this way, each particle in a sheet of laser light can be illuminated and
+imaged twice in a frame of the imaging system. With this information, two components of the velocity vector will be
+determined. The proper combination of image magnification, pulse timing, particle size and seed rate, provide
+instantaneous two-dimensional velocity fields. Computer software to process these images and manipulate them to produce
+the vector field is currently in use at UTRC.
+Conclusions
+This research program provides measurements investigating the range of applicability of these advanced diagnostics
+while generating fundamental information relevant to ongoing NASA programs in microgravity droplet combustion. Using
+a progressive approach, advanced laser diagnestics will be transported from laboratory, to flight experiments, and ultimately
+to drop tower facilities. In this way, these diagnostics can be developed, while providing fundamental data on droplet
+transport and combustion at an early date. The experiments and measurement parameters suggested here, reflect the needs of
+other researchers in this area. Dissemination of the results of this program throughout the community will effect their
+research directly. At the conclusion of this program, the technology demonstrated herein will be applicable to futm'e ground
+based research, as well as space based operation aboard future Shuttle, Space Lab or Space Station Freedom laboratory
+modules. The facility and techniques demonstrated would serve as a stepping stone for future programs. Development and
+demonstration of this technology at this time, is a prerequisite for these far reaching goals.
+
+References
+,
+
+.
+
+3.
+4.
+5.
+6.
+7.
+8
+
+Cho, S. Y., Yetter, R. A. and Dryer, F. L.; A Computer Model for One-Dimensional Mass and Energy Transport
+in and Around Chemically Reacting Particles, Including Complex Gas-Phase Chemistry, Multicomponent
+Molecular Diffusion, Surface Ev_on
+and Heterogeneous Reaction, Journal of Computational Physics, 1991.
+Winter, M.; Temperature Measurements Inside A Falling Droplet, ILASS, May 1990.
+Anderson, T. J. and Winter, M.; Measurement of The Effect of Acoustic Disturbances on Droplet Vaporization
+Rates, AIAA Aerospace Sciences Meeting, Reno Nevada, 1992.
+Hanson, R. K.; Combustion Diagnostics: Planar Imaging Techniques, Twenty-First Symposium (International)
+on Combustion, p. 1677, 1986.
+Boedeker, L. R.; Velocity Measurement By H20 Photolysis and Laser-lnduced Fluorescence of OH, Optics Letters,
+Vol. 14 p. 473, 1989.
+Williams, F. A.,Dryer, F. U; Preliminary Science Requirements
+Document For The Droplet Combustion
+Apparatus, NASA LeRC, 1991
+Winter, M. and Melton, L. A.;Measurement of Internal Circulation in Droplets Using laser-Induced Fluorescence,
+Applied Optics, Vol. 29, No. 31, p. 4574, 1990.
+Murray, A. M., and Melton, L. A.; Fluorescent Methods for Determination of Temperature in Fuel Sprays, Appl.
+Optics, Vol. 24, p. 2783, 1985.
+
+153
+
+÷ ........
+
+Oxygen
+
+Ambient
+
+....
+
+Fig.
+
+i
+
+droplets
+
+Nitrogen
+
+-........
+
+--
+
+Measurement
+using
+
+Ambient
+
+==_
+
+_
+
+k
+
+'
+
+:: <
+
+of internal
+
+fluorescence
+
+Oxygen/Nitrogen
+
+circulation
+
+from
+
+within
+
+quenching.
+See COlor Plate C-Ta
+
+|
+
+i
+
+b
+
+:
+
+:
+
+Fig. 2
+Surface fluorescence
+quenching
+from a droplet supported
+on a fiber.
+
+See COlor Plate C-7b
+154
+=
+
+COMMENTS
+Question
+(A. Gomez, Yale University): In an electrodynamic
+balance, typically, a DC fickl is uscd to
+counterbalance
+gravity and AC field is used to provide lateral stability.
+In the microgravity
+cxpcriments
+the
+g-field is highly variable.
+Have you thought about a feasible feedback system to accuratcly
+change your DC
+voltage over several orders of magnitude?
+Answer:
+
+The
+
+electrodynamic
+
+balance
+
+can be operated
+
+with a DC field, an AC field, or a supcrposition
+
+of
+
+both.
+In one-g, the gravitational
+influence is typically offset with the DC field, and the AC field is applied to
+provide lateral stability.
+The levitator can, however, be operated
+stably with just thc AC field cvcn at one-g,
+eliminating
+the need to actively adjust the DC voltage for changes
+in gravitational
+ficld or droplet mass.
+Since the AC field provides a force towards equilibrium
+corresponding
+to an opposite vclocity of thc droplet,
+strong AC fields tend to overdrive the droplets
+resulting
+in oscillations.
+The AC frcqucncy
+must be tuned for
+stability, corresponding
+to a reaction time-constant
+relating droplet inertia and drag. Our cxpcricnce
+has
+shown that for droplets
+in the 500 micron diameter
+range at atmospheric
+conditions
+frcqucncics
+of the order
+of 400 Hz are most appropriate.
+Question
+diameter
+measured
+
+(C.T. Avcdisian,
+Corncll University):
+How do you plan to "calibrate" your approach fl_r flame
+mcasurcmcnt
+bascd on CH idcntification?
+For examplc, do you plan to compare
+flame diameter
+from
+
+photographs
+
+with your laser based
+
+flame
+
+Answer: In hydrocarbon
+flames, CH radical laser-i,lduccd
+best indicator
+of most intense chcmical reactions.
+While
+
+diameter?
+fluorcsccnce
+photographic
+
+is accepted in the literalure
+as the
+rccording
+of broadband
+flame
+
+luminosity
+is often used for indicating flame positions,
+these measurcmcnts
+suffer from both spatial ambiguity
+associated
+with line-of-sight
+obser_'ation,
+and assumptions
+rclatcd to non-equilibrium
+chemistry
+and excitedstate radical-species
+formation.
+Comparisons
+will be attempted
+bctween
+luminosity observations
+and the
+laser-induced
+fluorescence
+flamc frtmt indicator to be uscd in this study, to cstablish correspondence
+between
+the approachcs.
+
+155
+
+i
+!
+|
+
+SESSION
+
+D - PREMIXED
+
+(Chair, Mitchell Smooke)
+
+FLAMES
+
+l
+
+Z
+
+Z
+==Z
+
+=
+
+Z
+

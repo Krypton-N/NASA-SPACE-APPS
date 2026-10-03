@@ -1,0 +1,816 @@
+NASA Technick Memorandum 89848
+
+Fire Safety Concerns in Space Operations
+(Nasa-ra-agsua)
+SEACE, O P E R A T J C N S
+
+N87-2 0 3 42
+
+EIRE SAEE'IY CCBCERIU'S I N
+(NASA)
+13 F
+CSCL 22s
+G3/16
+
+"1
+
+Unclas
+45223
+
+Robert Friedman
+Lewis Research Center
+Cleveland, Ohio
+
+Prepared for the
+Joint Army-Navy-NASA-Air Force (JANNAF) Safety and
+Environmental Protection Subcommittee Meeting
+Cleveland, Ohio, May 4-7, 1987
+
+.
+
+.
+
+F I R E SAF t. I Y CONCtHNS I N SPACC OPERA'I IONS*
+
+Robert Friedman
+N a t i o n a l A e r o n a u t i c s and Space A d m i n i s t r a t i o n
+Lewis Research Center
+Cleveland, Ohio 44135
+
+ABS1 K A C l
+W h i l e f i r e s a f e t y has always had m a j o r a t t e n t i o n i n t h e p l a n n i n g and c o n d u c t o f s p a c e c r a f t o p e r a t i o n s , t h e approach t o a permanent o r b i t i n g f a c i l i t y , t h e Space S t a t i o n , w i l l p l a c e even g r e a t e r
+demands on f i r e p r e v e n t i o n and c o n t r o l . On t h e one hand, t h e l o n g d u r a t i o n and c o m p l e x i t y o f t h i s
+p r o j e c t c a l l s f o r more s t r i n g e n t f i r e s a f e t y measures. On t h e o t h e r hand, t h e I m p o r t a n c e o f making
+t h e Space S t a t i o n a c c e s s i b l e t o a v a r i e t y o f users c a l l s f o r s i m p l i f i e d and f l e x i b l e f i r e c o n t r o l s .
+l h e paper r e v i e w s t h e s t a t e - o f - t h e - a r t i n f i r e s a f e t y , d e s c r i b i n g t h e fundamentals o f m i c r o g r a v i t y
+c o m b u s t i o n and t h e a p p l i c a t i o n s t o f i r e d e t e c t l o n . f i r e e x t i n g u i s h m e n t , m a t e r i a l assessment, and
+s p a c e c r a f t atmospheres.
+F u t u r e needs i n research, t e c h n o l o g y , and s t a n d a r d s a r e i d e n t i f i e d . These
+i n c l u d e a b e t t e r u n d e r s t a n d i n g o f m i c r o g r a v i t y combustion, n o v e l f i r e c o n t r o l t e c h n o l o g y , and use o f
+methods d e r i v e d f r o m a i r c r a f t and undersea e x p e r i e n c e .
+INlRODUCl ION
+l h l s paper d i s c u s s e s t h e s t a t e - o f t h e - a r t i n f i r e c o n t r o l t e c h n i q u e s and i d e n t i f i e s i m p o r t a n t
+i s s u e s f o r c o n t i n u i n g r e s e a r c h . t e c h n o l o g y , and s t a n d a r d s . The h i s t o r i c approaches t o f i r e s a f e t y
+i n t h e U.S. space program has a l r e a d y been revlewed b r i e f l y by t h e a u t h o r ( R e f . 1 ) . The g r o w t h o f
+space a c t i v i t i e s produced more complex hardware and m i s s i o n s . and t h e need f o r f i r e s a f e t y p r o t e c t i o n
+grew a c c o r d i n g l y . Whereas Mercury, Gemini, and A p o l l o r e l i e d on t h e spacecrew t o m o n i t o r p o t e n t i a l
+f i r e hazards, t h e S h u t t l e i n c o r p o r a t e s smoke d e t e c t o r s , p l u s f i x e d and p o r t a b l e f i r e e x t i n g u i s h e r s
+M a t e r i a l assessments have l i k e w i s e grown f r o m s i m p l e f l a m m a b i l i t y c r i t e r i a t o a s e t o f
+(Ref. 2).
+m a t e r i a l t e s t codes and a l t e r n a t i v e s . c h i e f o f which I s t h e NASA Handbook NHE 8060.18. a document
+s u b j e c t t o p e r i o d i c r e v i s i o n ( R e f . 3 ) . The Space S t a t i o n . a p e r m a n e n t l y i n h a b i t e d l o w e a r t h o r b i t
+f a c i l i t y Imposes new demands on f i r e s a f e t y (Refs. 4 and 5 ) . The Space S t a t i o n w i l l accommodate a
+c r e w o f v a r i o u s s k i l l s engaged i n c o n s t r u c t i o n and maintenance, s c i e n t i f i c e x p e r i m e n t s , and commerc i a l t e c h n o l o g y development. Crew a c t i v i t i e s w i l l I n c l u d e p e r i o d s o f o r d i n a r y l i v i n g , housekeeping,
+and r e c r e a t i o n . The Space S t a t i o n must s e r v e as a s e l f - c o n t a i n e d community s i n c e r e s c u e i s many days
+away. Thus, t h e Space S t a t i o n may c a l l f o r improved and i n n o v a t i v e f i r e s a f e t y s t r a t e g i e s . as comI t I s i m p o r t a n t , however, t o make t h e Space S t a t i o n as
+p a r e d t o p r e v i o u s space f l i g h t programs.
+a c c e s s i b l e as p o s s i b l e t o a v a r i e t y o f u s e r s . To meet t h e s e c o n f l i c t i n g needs, f i r e s a f e t y measures
+must s t r i v e f o r s i m p l i c i t y , f l e x l b i l l t y , g e n e r a l i z a t i o n , and c o s t e f f e c t i v e n e s s , w i t h o u t compromising
+human o r s t r u c t u r a l s a f e t y c r i t e r i a .
+What i s sought i n s a f e t y a n a l y s e s i s t h e m i n j m l z a t i o n o f r i s k o r p o t e n t i a l f o r harm. The i d e a l
+s a f e t y model would y i e l d a z e r o p r o b a b i l i t y o f any damage o r I n j u r y i n t h e s p a c e c r a f t . A p r a c t i c a l
+o r b a s e l i n e g o a l , however, i s a s l i g h t b u t f i n i t e p r o b a b i l i t y o f damage o r i n j u r y . l i m i t e d t o a n
+o c c u r r e n c e t h a t would n o t impede t h e s p a c e c r a f t o p e r a t l o n ( R e f . 6 ) . T h i s c r i t e r i o n a p p l i e d t o f i r e
+s a f e t y can be i n t e r p r e t e d i n terms o f t h e hazard r e v l e w by Peercy e t a l . ( R e f . 7 ) . The f i r s t l i n e
+o f f i r e defense i s "design t o preclude", which Implles t h a t a t a l l times two o f the elements o f the
+f a m i l i a r i t y f i r e t r i a n g l e ( i . e . , f u e l , o x i d a n t , and i g n i t i o n s o u r c e ) a r e e x c l u d e d . I t I s o b v i o u s
+t h a t f o r t h e b a s e l i n e s a f e t y g o a l f o r s p a c e c r a f t t h i s s t r a t e g y I s i m p r a c t i c a l ; i t i s even u n d e s i r able, from the standpoint o f user a c c e s s i b i l i t y . Instead a second-order defense applies. "design t o
+control".
+For f i r e s a f e t y , t h i s s t r a t e g y i n c l u d e s t h e u s u a l f i r e s a f e t y elements o f d e t e c t i o n ,
+e x t i n g u i s h m e n t , m a t e r i a l assessment, flammable m a t e r i a l s t o r a g e , c o m p a r t m e n t a l i z a t i o n , and so on.
+T h i s paper c o v e r s f i r e s a f e t y fundamentals ( m i c r o g r a v i t y c o m b u s t i o n ) and t h e a p p l i c a t i o n o f f i r e
+s a f e t y technology.
+The fundamentals r e v i e w i s an u p d a t e o f m a t e r i a l p r e s e n t e d t o t h e JANNAF S a f e t y
+and E n v i r o n m e n t a l P r o t e c t i o n Subcommittee (SEPS) i n 1984 ( R e f . 8 ) . F i r e s a f e t y t e c h n o l o g y , t h e
+e s s e n t i a l j n g r e d i e n t o f a f i r e c o n t r o l s t r a t e g y , i s r e v l e w e d i n a d l s c u s s l o n o f c u r r e n t and f u t u r e
+needs i n f i r e d e t e c t i o n , e x t i n g u i s h m e n t , m a t e r i a l s , and atmospheres I n s p a c e c r a f t . Much o f t h i s
+m a t e r i a l i s based on t h e f i n d i n g s o f a 1986 F i r e S a f e t y Workshop h e l d a t t h e NASA Lewis Research
+Center ( r e p o r t i n progress).
+*Approved f o r p u b l i c r e l e a s e ; d i s t r i b u t i o n i s u n l i m i t e d
+
+1
+
+M I C R O G R A V I I Y C O M B U S l l O N AND F I R € S A F t l Y
+
+- __.N TH-€ SPACE ENVIRONMENT
+FIRE I
+A s n o t e d e a r l i e r , t h e s i m p l i f i e d c o n d i t i o n s f o r f i r e a r e t h e e x i s t e n c e o f t h e t h r e e elements o f
+f u e l , o x i d a n t , and an i g n i t i o n s o u r c e . The combustion p r o c e s s u s u a l l y t a k e s p l a c e i n t h e gas phase.
+l h e i g n i t i o n and p r o p a g a t i o n o f a f i r e i n v o l v e t h e i n t e r p l a y o f p r o c e s s e s : t h e s e i n c l u d e t h e genera
+t i o n o f gaseous f u e l , f u e l a i r m i x i n g , h e a t r e l e a s e f r o m t h e c o m b u s t i o n r e a c t i o n , and h e a t t r a n s f e r
+t o a d j a c e n t m a t e r i a l t o g e n e r a t e a d d i t i o n a l gJseous f u e l . These processes a r e d e s c r i b e d u s i n g
+energy, momentum, and mass t r a n s p o r t e q u a t i o n s . I n normal g r a v i t y , t h e m a j o r d i s t i n g u i s h i n g c h a r a c t e r i s t i c o f t h i s coupled system i s t h e d e n s i t y d r i v e n f l o w caused by t h e buoyancy o f t h e r a p i d l y
+h e a t e d gases. I n o r b i t i n g s p a c e c r a f t , t h e n e t a c c e l e r a t i o n due t o g r a v i t y i s o f t h e o r d e r o f
+times normal g r a v i t y . i n t h i s m i c r o g r a v i t y e n v i r o n m e n t , buoyancy i n d u c e d f l o w i s n e g l i g i b l e .
+
+_I _R O G R A V I I Y M C
+
+COMBUSTION E X P E R I M E N I Z
+
+I t i s n o t s u r p r i s i n g t h a t combustion r e s e a r c h has shown g r e a t i n t e r e s t i n t h e m i c r o g r a v i t y
+e n v i r o n m e n t because t h i s e l i m i n a t e s a m a j o r t r a n s p o r t mechanism, e x p o s i n g t h e s u b t l e a s p e c t s o f p r e s s u r e , i n e r t i a , v i s c o s i t y , and s u r f a c e t e n s i o n f o r c e s . Researchers have d e v i s e d v a r i o u s e x p e r i m e n t a l
+t e c h n i q u e s t o s i m u l a t e m i c r o g r a v i t y . Buoyancy I n d u c e d f l o w can be reduced by s i m p l y b a l a n c i n g t h e
+d e n s i t i e s o f gaseous components, a method used t o s t u d y f l a m e l e s s c o m b u s t i o n ( s m o l d e r i n g ) i n p o r o u s
+media ( R e f . 9 ) . The c e n t r i f u g e i s a f a m i l i a r d e v i c e t o i n c r e a s e a c c e l e r a t i o n , and f l a m e spread
+r e s u l t s as a f u n c t i o n o f i n c r e a s e d g r a v i t y may be e x t r a p o l a t e d i n s p e c i a l cases t o w a r d a m i c r o g r a v i t y
+limit.
+W h i l e t h e purpose o f many m i c r o g r a v i t y c o m b u s t i o n e x p e r i m e n t s has been t h e b e t t e r u n d e r s t a n d i n g
+of combustion fundamentals, t h e a p p l i c a t i o n s t o s p a c e c r a f t f i r e s a f e t y have n o t been n e g l e c t e d .
+For
+f i r e - s a f e t y e x p e r i m e n t s , t h e most common m i c r o g r a v i t y s i m u l a t i o n t e c h n i q u e i s f r e e f a l l . F r e e - f a l l
+systems i n c l u d e drop tubes, i n w h i c h f u e l samples f a l l , and d r o p towers, i n w h i c h c o m p l e t e e x p e r i m e n t
+packages f a l l .
+P r a c t i c a l d r o p t o w e r s , o f c o u r s e , can r a r e l y exceed a hundred m e t e r s i n h e i g h t . and
+t h u s they p r o v i d e o n l y a few seconds o f f r e e f a l l . F o r l o n g e r l o w g r a v i t y exposure t i m e s o f m i n u t e s ,
+sounding r o c k e t s w i t h d a t a t e l e m e t r y have been used. A p r a c t i c a l compromise i n t e s t t i m e a g a i n s t
+c o s t i s i n t h e use o f a n a i r p l a n e f l y i n g a K e p l e r i a n o r b a l l i s t i c f l i g h t p a t h . An a i r p l a n e t e s t
+f a c i l i t y p r o v i d e s m i c r o g r a v i t y exposures f o r up t o 30 sec w i t h t h e advantages o f l a r g e e x p e r i m e n t
+packages and t h e p o t e n t i a l f o r a t t e n d e d t e s t i n g .
+T e s t s conducted i n t h e two NASA Lewis d r o p towers have been t h e m a j o r s o u r c e o f m i c r o g r a v i t y
+combustion d a t a p e r t i n e n t t o f i r e s a f e t y . The s m a l l e r o f t h e two f a c i l i t i e s , d e s c r i b e d i n a r e p o r t
+by A n d r a c c h i o and A y d e l o t t ( R e f . 1 0 ) . i s a tower t h a t p r o v i d e s 2.2 sec o f f r e e f a l l t h r o u g h a d r o p
+o f 24 m. The e x p e r i m e n t package i s c o n t a i n e d w i t h i n a massive box t h a t a c t s as a d r a g s h i e l d . Three
+s p i k e s e x t e n d i n g below t h e d r a g s h i e l d a b s o r b t h e d e c e l e r a t i o n f o r c e upon f a l l i n g i n t o an a e r a t e d
+sand p i t . The experiment package f a l l s f r e e l y w i t h i n t h e d r a g s h i e l d d u r i n g t h e d r o p . The l a r g e r
+d r o p tower f a c i l i t y p r o v i d e s a f r e e f a l l f o r 5.2 sec t h r o u g h a d r o p o f 132 m. The 6.1 m - d i a m e t e r
+s h a f t i s evacuated t o 1 3 Pa (100 pm o f m e r c u r y ) t o e l i m i n a t e t h e need f o r a d r a g s h i e l d around t h e
+e x p e r i m e n t v e h i c l e . A d e s c r i p t i o n o f t h i s f a c i l i t y and i t s a p p l i c a t i o n t o f l u i d management r e s e a r c h
+was d e s c r i b e d by A y d e l o t t , e t a l . i n a paper a t t h e 1984 JANNAF SEPS m e e t i n g ( R e f . 1 1 ) . Reported
+g r a v i t a t i o n a l a c c e l e r a t i o n s i n b o t h f a c i l i t i e s a r e o f t h e o r d e r o f 1 0 - 5 g. T h i s i s one t o t h r e e
+o r d e r s o f magnitude b e t t e r than m i c r o g r a v i t i e s a c h i e v e d i n o t h e r f a c i l i t i e s and f l i g h t s .
+l h e i d e a l f a c i l i t y f o r m l c r o g r a v i t y r e s e a r c h i s , o f c o u r s e , an o r b i t i n g s p a c e c r a f t . One impor
+t a n t F i r e s a f e t y t e s t was t h e S k y l a b E x p e r i m e n t M 479 on Zero G r a v i t y F l a m m a b i l i t y , conducted F e b r u a r y 1974 and r e p o r t e d by Kimrey ( R e f s . 4 and 1 2 ) . I n t h e s e e x p e r i m e n t s , specimens o f a l u m i n i z e d
+M y l a r , Nylon, p o l y u r e t h a n e foam, T e f l o n , and paper were i g n i t e d i n a 65 p e r c e n t oxygen atmosphere.
+The s t u d y compared b u r n i n g r a t e s and t h e v i s u a l appearance o f l o w g r a v i t y f l a m e s t o c o r r e s p o n d i n g
+measurements i n normal g r a v l t y . The e x t i n g u i s h m e n t o f f l a m e s by v e n t i n g t o t h e o u t s l d e vacuum o f
+space was a l s o observed.
+Reported s t u d i e s f r o m t h e NASA Lewis m i c r o g r a v i t y s i m u l a t i o n f a c i l i t i e s have c o v e r e d those on
+cornbustion o f premixed and d i f f u s i o n mlxed gases, l i q u i d d r o p l e t s , and v a r i o u s s o l i d samples o f
+paper, p l a s t i c s , and w i r e i n s u l a t i o n . E x p e r i m e n t a l parameters have i n c l u d e d t h e s i z e and o r i e n t a t i o n
+o f samples and t h e p r e s s u r e and oxygen c o n t e n t o f t h e atmosphere. R e s u l t s were g e n e r a l l y i n t e r p r e t e d
+f r o m h i g h - s p e e d v i s u a l and s c h l i e r e n p h o t o g r a p h y , w i t h r e f e r e n c e t o c o r r e s p o n d i n g normal g r a v i t y
+r e s u l t s . T y p i c a l gaseous d i f f u s i o n flames under normal g r a v i t y and m i c r o g r a v i t y a r e i l l u s t r a t e d i n
+t h e photographs o f F i g . 1 . l h e f o r m o f t h e m i c r o g r a v i t y f l a m e i s c l e a r l y d i f f e r e n t than t h a t o f t h e
+c o r r e s p o n d i n g normal g r a v i t y f l a m e . The example shows an u n d e r v e n t i l a t e d methane a i r f l a m e ( l i m i t e d
+d i f f u s i o n o f o x i d a n t ) , w h i c h i s e l o n g a t e d w i t h a f i n i t e w i d t h a t t h e f l a m e t i p . Such f l a m e s have
+been observed, on occasion, t o grow and e x t i n g u i s h d u r i n g t h e t i m e p e r i o d o f t h e f r e e f a l l t e s t s .
+F o r t e s t s w i t h o t h e r hydrocarbons o r d i f f e r e n t f u e l - f l o w r a t e s , s p h e r i c a l o v e r v e n t i l a t e d m i c r o g r a v i t y
+f l a m e s have been observed ( R e f . 1 3 ) .
+
+2
+
+SP_ACECRAFT t IKE HAZARDS
+l h e r e s u l t s o f t h e m i c r o g r a v i t y combustion e x p e r i m e n t s have p r o v i d e d some u n d e r s t a n d i n g o f where
+p o t e n t i a l f i r e ha7ards may a r i s e . I n some r e s p e c t s , t h e s p a c e c r a f t e n v i r o n m e n t a l l e v i a t e s f i r e
+h a z a r d s ; i n o t h e r r e s p e c t s , i t a g g r a v a t e s hazdrds. l h e s t a t e o f knowledge a p p l i c a b l e t o m i c r o g r a v i t y
+f i r e s a f e t y I s s t i l l p r i m i t i v e ; and l o n g d u r a t i o n , l a r g e r s c a l e space e x p e r i m e n t s a r e c l e a r l y neces
+s a r y f o r i n t e r p r e t i n g and p r e d i c t i n g t h e s e e f f e c t s .
+
+A comparison o f normal g r a v i t y and m i c r o g r a v i t y c o m b u s t i o n i n d i c a t e s t h a t i n some i n s t a n c e s
+t h e r e i s e l t h e r no change o r a r e d u c t i o n i n the h a z a r d o f m i c r o g r a v i t y f l a m e s . B u r n i n g r a t e s o f most
+s o l i d m a t e r i a l s appear t o be l o w e r under m i c r o g r a v i t y u n l e s s f o r c e d c o n v e c t i o n f l o w s a r e p r e s e n t .
+The l o w g r a v i t y flames a r e more y e l l o w and orange i n c o l o r t h a n c o r r e s p o n d i n g normal g r a v i t y f l a m e s ,
+i n d i c a t i n g t h a t t h e y a r e s o o t i e r and c o o l e r . The f l a m e s show l e s s " n o i s e " and l o w e r f l u c t u a t i o n s
+t h a n comparable normal g r a v i t y f l a m e s , and, as n o t e d e a r l i e r , under some c o n d i t i o n s t h e f l a m e s may
+extinguish.
+I n c o n t r a s t . t h e r e a r e o t h e r a s p e c t s o f m i c r o g r a v i t y c o m b u s t i o n t h a t i m p l y an i n c r e a s e d l e v e l
+o f f i r e h a z a r d s . A l t h o u g h t h e r e q u i r e d energy t o I g n i t e p r a c t l c a l m a t e r i a l s remains t h e same as i n
+normal g r a v i t y ( R e f . 1 2 ) , i n m i c r o g r a v i t y , w i t h o u t c o n v e c t i v e h e a t l o s s e s , t o t a l i n c i d e n t e n e r g y may
+be reduced. Also. t h e absence o f c o n v e c t i o n , f o r example, c a n n o t be assumed i n an i n h a b i t e d space
+c r a f t . W h i l e buoyancy o r n a t u r a l c o n v e c t i o n i s n o t p r e s e n t , t h e s p a c e c r a f t v e n t i l a t i n g system p r o
+v i d e s f o r c e d c o n v e c t i o n , w h i c h may enhance low g r a v i t y f l a m e spread. Haggard i n v e s t i g a t e d d i f f u s i o n
+flames I n t h e 2.2 sec d r o p tower w i t h a d i f f u s i o n f l a m e t u b e surrounded by an a i r annulus ( R e f . 1 4 ) .
+Among t h e r e s u l t s were t h e f i n d i n g s t h a t minimum a i r f l o w s o f 1 0 cm/sec c o u l d p r e v e n t nlethdne I l a m e
+extinguishment i n microgravity.
+C e r t a i n m a t e r i a l s t e n d t o m e l t , b o i l , and s p u t t e r when b u r n i n g i n m i c r o g r a v i t y . G l o b u l e s o f h o t
+m a t e r i a l , i n s t e a d o f f a l l i n g t o t h e f l o o r , may d r i f t t o i g n i t e a d j a c e n t s u r f a c e s . Kimzey ( K e f . 12)
+o b s e r v e d t h i s phenomenon w i t h N y l o n samples, and l a t e r Olson and Sotos c o n f i r m e d t h i s b e h a v i o r s t u d y
+i n g Nylon Velcro (Ref. 15).
+M i c r o g r a v l t y f l a m e s , w h i l e c o o l e r t h a n c o r r e s p o n d i n g normal g r a v i t y f l a m e s , may be more r a d i a n t
+due t o t h e c o n c e n t r a t i o n o f s o o t p a r t i c l e s . This c o u l d i n c r e a s e t h e dangers o f f l a s h o v e r s and f i r e
+spread t o a d j a c e n t s u r f a c e s t h r o u g h r a d i a n t heat t r a n s f e r . F i n a l l y , flammable f u e l a i r m i x t u r e s
+caused b y a e r o s o l s . s p r a y s , s p i l l s , and d u s t a c c u m u l a t i o n s may p e r s i s t f o r l o n g p e r i o d s o f t i m e i n
+m i c r o g r a v i t y . p o s l n g a s e r i o u s f i r e h a z a r d . Such p a r t i c l e c l o u d s a r e a l s o dangerous i n normal g r a v
+I t y , b u t t h e y t e n d t o d l s p e r s e r a p i d l y t h r o u g h buoyancy o r s e t t l i n g .
+_C U_R R E-NT M ~ R O ~ f & A V C_MBUSTJ-ON RE_SE-AECH
+lIv
+
+O n - g o i n g m i c r o g r a v i t y r e s e a r c h p r o j e c t s a r e s t i l l o r i e n t e d toward t h e fundamental s c i e n c e s o f
+c o m b u s t i o n p r o c e s s e s . I n a p r a c t l c a l sense, however, t h e s e s t u d i e s can c o n t r i b u t e t o s p a c e c r a f t f i r e
+s a f e t y by e s t a b l i s h i n g a c c e p t a b l e l e v e l s o f m a t e r i a l f l a m m a b i l i t y and d e t e r m i n i n g t h e i g n i t i b i l i t y
+and e x t i n c t i o n c h a r a c t e r i s t i c s o f flammable m a t e r i a l s .
+
+lwo g r o u n d - b a s e d m l c r o g r a v j t y experlrnents a r e p a r t i c u l a r l y r e l e v a n t t o s p a c e c r a f t f i r e s a f e t y .
+One 'IS t h e c o n t l n u a t i o n o f a s e r i e s o f s o l l d specimen f l a m m a b l l l t y s t u d i e s . The c u r r e n t p r o j e c t , t o
+b e c o n d u c t e d I n t h e NASA Lewis d r o p t o w e r s and L e a r j e t a l r p l a n e . w i l l i n v e s t l g a t e m i c r o g r a v i t y comb u s t i o n under l o w speed f o r c e d f l o w . Thus the e x p e r i m e n t a l , s m a l l s c a l e combustion t u n n e l d u p l i c a t e s
+t h e c o n d i t i o n s o f v e n t i l a t l o n I n a s p a c e c r a f t . A second p r o j e c t i s t h e a n a l y s i s o f and e x p e r i m e n t s
+on t h e m i c r o g r a v i t y combustion o f porous m a t e r i a l s , t y p i c a l o f foam c u s h i o n s used i n a i r c r a f t and
+spacecraft.
+Such m a t e r i a l s a r e p r o n e t o smoldering. w h i c h i s n o n f l a m i n g c o m b u s t i o n t h a t may p e r s i s t
+a f t e r apparent extinguishment.
+l h r e e combustion e x p e r i m e n t s p l a n n e d f o r t h e S h u t t l e were d e s c r i b e d by S a c k s t e d e r a t t h e 1984
+JANNAF StPS Workshop ( R e f . E ) . W h i l e t h e C h a l l e n g e r d i s a s t e r has d e l a y e d t h e S h u t t l e f l i g h t s and
+made t h e m a n i f e s t d a t e s u n c e r t a i n , t h e r e c o g n i z e d i m p o r t a n c e o f t h e c o m b u s t i o n e x p e r i m e n t s makes
+t h e i r r e s c h e d u l i n g v e r y l i k e l y . The experiments, i l l u s t r a t e d I n F i g s . 2 t o 4 , a r e t h e S o l i d S u r f a c e
+Combustion E x p e r i m e n t (SSCE), t h e P a r t i c l e Cloud t x p e r i m e n t Combustion (PCCL), and t h e D r o p l e t Com
+b u s t i o n E x p e r i m e n t (DCE). l h e SSCC ( F i g . 2) p r o v i d e s a comparison o f m i c r o g r a v i t y t o normal g r a v i t y
+f l a m e spread t h a t e v e n t u a l l y may s e r v e toward d e v e l o p i n g a s t a n d a r d f l a m m a b i l i t y t e s t f o r s p a c e c r a f t
+m a t e r i a l acceptance. The P C C t ( F l g . 3 ) i n v e s t i g a t e s t h e f i r e hazards o f s t a b l e s o l i d a i r suspen
+s i o n s , a c o n d i t i o n u n i q u e t o m i c r o g r a v i t y . I n t h e a p p a r a t u s , each c y l i n d e r c o n t a i n s a m i x t u r e o f
+suspended p a r t i c u l a t e s , l n l t i a l l y l y c o p o d i u m powder ( u n i f o r m d i a m e t e r moss s p o r e s ) and a i r . l h e
+p h y s i c a l arrangement o f t h e e x p e r i m e n t has had t o a d d r e s s t h e problems o f w a l l a d h e s i o n due t o s t a t i c
+c h a r g e s , s e a l i n g o f f l o w p a t h s , and o p t i c a l measurement t e c h n i q u e s . The OCE ( F i g . 4 ) I s a more f u n
+damental e x p e r i m e n t , i n v o l v i n g t h e b u r n i n g of a f r e e l y f l o a t i n g d r o p l e t p o s i t i o n e d by o p p o s i n g
+r e t r a c t a b l e hypodermic n e e d l e s , b u t i t a l s o promises e v e n t u a l a p p l i c a t i o n t o f i r e s a f e t y knowledge.
+
+3
+
+F 1RE SAF t I Y 1 tCHNOI-OGY
+
+l h e development o f t e c h n o l o g y t o p r e c l u d e o r c o n t r o l f i r e h a / a r d s i n s p a c e c r a f t a r i s e s i n p a r t
+f r o m new a p p l i c a t i o n s o f combustion s c i e n c e and i n p a r t f r o m a d a p t a t i o n o f e x i s t i n g ground and a i r
+c r a f t f i r e c o n t r o l measures. l h i s s e c t i o n d e s c r i b e s t h e s t a t e o f t h e - a r t and p e r c e i v e d needs i n f i r e
+d e t e c t i o n , e x t i n g u i s h n i e r i t , m a t e r i a l s assessment and a t m o s p h e r i c c o n t r o l .
+
+_F IHF. DE1 tC110N
+l n c i p i e r i t f i r e s can be i d e n t i f i e d by t h e i r s i g n a t u r e s , o r t h e changes i n t h e e n v i r o n m e n t f r o m a
+" n o r m a l " c o n d i t i o n . l h e s e s i g n a t u r e s may i n c l u d e p r e s s u r e r i s e , t e m p e r a t u r e r i s e , p a r t i c l e concen
+t r a t i o n , t h e r m a l or v i s i b l e r a d i a t i o n , c h e m i c a l s p e c i e s p o p u l a t i o n , o r c o m b i n a t i o n s o f t h e s e f a c t o r s .
+l h e f i r e d e t e c t o r must be c a r e f u l l y p o s i t i o n e d f o r e f f e c t i v e t r a n s p o r t o f t h e s i g n a t u r e i n f o r m a t i o n
+f r o m t h e a f f e c t e d areas t o t h e d e t e c t o r . I t must a l s o a n a l y z e t h e s i g n a t u r e f o r a p p r o p r i a t e a c t i o n .
+Rapid and s e n s i t i v e a c t u a t i o n o f t h e sensor i s c r i t i c a l , b u t t h i s a l s o i m p l i e s i n c r e a s i n g p o s s i b i l i
+t i e s f o r a " f a l s e a l a r m , " w h i c h i s c l e a r l y u n d e s i r a b l e . F u r t h e r m o r e , i n t h e e n c l o s e d modules of
+s p a c e c r a f t , t h e d e t e c t i o n o f some noncombustion c o n d i t i o n s such as o v e r h e a t i n g , s m o l d e r i n g . an3
+c a t a l y t i c decomposition i s a l s o e s s e n t i a l .
+F i r e d e t e c t i o n d e v i c e s t h u s work on t h e g e n e r a l p r i r i c p l e s o f t e m p e r a t u r e r i s e , r a d i a t i o n , chem
+i c a l speci.es, and p a r t i c l e d e t e c t i o n . I n t h e e a r l i e s t U . S manned s p a c e c r a f t , f i r e sensors were
+unnecessary s i n c e the a s t r o n a u t s f u n c t i o n e d as d e t e c t o r s . B e g i n n i n g w i t h t h e S k y l a b p r o j e c t , spacec r a f t modules became t o o l a r g e and complex f o r r e l i a n c e on human o b s e r v a t i o n s . l h e S k y l a b f i r e
+d e t e c t o r was a r a d i o m e t e r , s e n s i t i v e t o u l t r a v i o l e t r a d i a t on a t l e s s t h a n 270 nm, w h i c h responded
+lhese
+t o OH r a d i c a l s generated by a f i r e . l h e S h u t t l e u s e s n i n e i o n i z a t i o n - t y p e d e t e c t o r s ( F i g . 5 ) .
+a r e analoaous t o commercial smoke d e t e c t o r s . o D e r a t i n q on he p r i n c i D l e t h a t smoke D a r t i c l e s impede
+t h e m o b i l i t y o f a i r i o n s i n a chamber, c h a n g i n g t h e c i r r e n t l e v e l t o t r i g g e r an a l a r m . F o r t h e
+S h u t t l e , f o r c e d a i r f a n s a t each d e t e c t o r p r o v i d e a f l o w p a t h t o i n s u r e t h e t r a n s p o r t o f smoke p a r t i
+c l e s t o the detector (Ref. 2).
+New d e s i g n s for s p a c e c r a f t f i r e sensors i n c o r p o r a t e a v a r i e t y o f d e t e c t i o n t e c h n i q u e s . DeMeis
+I n the
+m e n t i o n s i n f r a r e d d e t e c t o r s f o r f l a m e s and c o a x i a l w i r e d e t e c t o r s f o r o v e r h e a t i n g ( R e f . 4 ) .
+f u t u r e , f i r e d e t e c t i o n i n s p a c e c r a f t must l o o k f o r r a p i d response, l o c a l i z e d i d e n t i f i c a t i o n o f haz
+a r d s , and l i g h t weight sensors. M u l t i p l e p a t t e r n r e c o g n i t i o n methods w i l l sense i n c i p i e n t f i r e s
+t h r o u g h a c o m b i n a t i o n o f i n d e p e n d e n t s i g n a t u r e s t o m i n i m i z e f a l s e a l a r m s . O v e r h e a t i n g problems w i t h
+i n d i v i d u a l components may be i d e n t i f i e d by v o l a t i l e c h e m i c a l c o a t i n g s t o r e l e a s e i n d i c a t o r s t o p r o
+v i d e r e c o g n i / d b l e s i g n a t u r e s . An a l t e r n a t i v e means o f f i r e d e t e c t i o n , whose v a l u e i n m i c r o g r a v i t y
+i s b e i n g d e t e r m i n e d , i n v o l v e s a c o n d e n s a t i o n n u c l e i d e t e c t o r , w h i c h c o u n t s smoke p a r t i c l e s by con
+densed w a t e r d r o p l e t s around each p a r t i c l e ( R e f . 1 6 ) . F o r t h e l o n g d u r a t i o n Space S t a t i o n . a means
+o f c a l i b r a t i n g f i r e o r smoke d e t e c t o r s i n s i t u w i l l be n e c e s s a r y . U n d e r l y i n g a l l o f t h e s e t e c h n o l o g y
+g o a l s i s t h e need f o r more b a s i c r e s e a r c h on t h e i d e n t i f i c a t i o n o f f i r e s i g n a t u r e s o f s p a c e c r a f t
+materials i n microgravity.
+f
+
+IRE
+
+EXTINGUISHMENT
+
+F i r e s a r e e x t i n g u i s h e d t h r o u g h s e v e r a l p h y s i c a l and c h e m i c a l means. The b u r n i n g m a t e r i a l s can
+be removed, t h e o x i d a n t can be i n e r t e d , t h e r e a c t i o n can be c o o l e d , o r t h e r e a c t i o n can be c h e m i c a l l y
+i n h i b i t e d . l h e Mercury and Gemini s p a c e c r a f t s had w a t e r a v a i l a b l e , b u t t h e y had no systems d e d i c a t e d
+s o l e l y f o r f i r e e x t i n g u i s h i n g . The A p o l l o s p a c e c r a f t had a hand h e l d f i r e e x t i n g u i s h e r , w h i c h con
+t a i n e d w a t e r and a c e l l u l o s e g e l t h a t formed a foam when sprayed. The 100 p e r c e n t oxygen atmosphere
+o f t h e e a r l y s p a c e c r a f t s a g g r a v a t e d t h e f l a m m a b i l i t y o f most m a t e r i a l s , and t e s t s showed t h a t w a t e r
+was t h e o n l y e f f e c t i v e e x t i n g u i s h a n t .
+I n t h e more c o n v e n t i o n a l atmospheres o f r e c e n t s p a c e c r a f t ,
+h a l o g e n a t e d hydrocarbon f i r e e x t i n g u i s h e r s a r e s u p p l i e d .
+For t h e S h u t t l e ( F i g . 5 ) , t h e r e a r e b o t h
+f i x e d and p o r t a b l e f i r e e x t i n g u i s h e r s . I m p o r t a n t f e a t u r e s i n t h e S h u t t l e c a b i n a r e d e s i g n a t e d p o r t s
+i n t h e i n s t r u m e n t panels t o i n s e r t a p o r t a b l e f i r e e x t i n g u i s h e r n o z z l e i f i t i s n e c e s s a r y t o c o n t r o l
+a f i r e w i t h i n the instrument rack.
+l h e use o f halogenated h y d r o c a r b o n ( H a l o n ) f i r e e x t i n g u i s h e r s i n t h e S h u t t l e i s based on t h e
+h i s t o r y o f t h e use o f t h e s e e x t i n g u i s h e r s i n a i r c r a f t . A comprehensive r e v i e w o f t h i s c l a s s o f f i r e
+e x t i n g u i s h i n g agents was t h e s u b j e c t o f a 1973 symposium ( R e f . 1 7 ) . l h e most w i d e l y used h a l o g e n a t e d
+compound i s H a l o n 1301 ( b r o m o t r i f l u o r o n i e t h a n e , CF3Br), w h i c h a c t s as a c o m b u s t i o n i n h i b i t o r by
+g e n e r a t i n g bromine atoms t o r e a c t w i t h t h e OH r a d i c a l s t o s t o p t h e combustion c h a i n r e a c t i o n . H a l o n
+1301 i s an e f f e c t i v e e x t i n g u i s h a n t i n volume c o n c e n t r a t i o n s up t o 6 p e r c e n t , b u t i t i s n o t as u s e f u l
+f o r deep s e a t e d f i r e s where c o o l i n g o f t h e r e a c t i n g gases i s r e q u i r e d . Another n e g a t i v e a s p e c t o f
+t h e use o f H a l o n 1301 i s t h e t o x i c i t y and c o r r o s i v e n e s s o f t h e h a l o g e n a c i d s , HBr and H F , w h i c h a r e
+formed as d e c o m p o s i t i o n p r o d u c t s .
+In open spaces, t h e s e p r o d u c t s a r e e a s i l y d i s p e r s e d , b u t i n a
+s p a c e c r a f t , atmospheric c o n t a m i n a t i o n a f t e r even m i n o r f i r e s i s a g r e a t c o n c e r n . The a g e n t i t s e l f ,
+when l e a k e d o r d i s c h a r g e d ( i t i s a gas a t normal c o n d i t i o n s ) , can a l s o be t o x i c .
+
+4
+
+Recent r e v i e w s on s p a c e c r a f t o p e r a t i o n s (Ref. 4 , f o r example) have recommended g r e a t e r a t t e n t i o n
+t o f i r e e x t i n g u i s h a n t s o t h e r than t h e H a l o n 1301. Some a g e n t s , such as d e i o n i z e d o r sprayed w a t e r ,
+n i t r o g e n , and carbon d i o x i d e a r e a l r e a d y p r o v e n i n ground p r a c t i c e s ; y e t t h e i r e f f e c t i v e n e s s i n space
+i s unknown. For an u n c o n t r o l l a b l e f i r e , space o f f e r s the o p t i o n o f v e n t i n g . I n t h e Space S t a t i o n ,
+t h e c r e w c o u l d abandon a module, v e n t i t s l o w l y t o e x t i n g u i s h t h e f i r e , and u l t i m a t e l y r e t u r n t o t h e
+module a f t e r r e p r e s s u r i z d t i o n and c l e a n u p . Again, u n d e r l y i n g a l l o f t h e t e c h n o l o g y g o a l s i s t h e need
+f o r f u r t h e r i n v e s t i g a t i o n o f t h e p e c u l i a r i t i e s o f f l a m e p r o p a g a t i o n and e x t i n c t i o n i n m i c r o g r a v i t y .
+
+M AJ E R I AI, S ASS F:5SME-Nl
+M a t e r i a l s f o r usage i n i n h a b i t e d s p a c e c r a f t s have always been s t r i c t l y c o n t r o l l e d . l h e
+100 p e r c e n t oxygen atmosphere o f t h e e a r l y s p a c e c r a f t c r e a t e d a hazardous s i t u a t i o n i n w h i c h few
+m a t e r i a l s , even m e t a l s , a r e t r u l y nonflammable. The s t r i n g e n t m a t e r i a l s r e q u i r e m e n t s a c t e d as a
+c a t a l y s t f o r t h e c r e a t i v e i n v e n t i o n and development o f "space age" m a t e r i a l s . l h e 1911 Conference
+on M a t e r i a l s f o r Improved F i r e S a f e t y ( R e f . 18) was a f o r u m f o r t h e r e v i e w o f t h e p r o g r e s s i n non
+m e t a l l i c s t r u c t u r a l m a t e r i a l s , foams, and i n s u l a t i o n s , as w e l l as a r e v i e w o f t h e new f l m m a b i l i t y
+t e s t i n g and acceptance p r o c e d u r e s . M a t e r i a l s s c r e e n i n g i n v o l v e s t h e v e r i f i c a t i o n of t h e a c c e p t a b i l
+i t y of t h e b u l k m a t e r i a l f o l l o w e d by q u a l i f i c a t i o n t e s t i n g i n s p e c i f i c c o n f i g u r a t i o n s . F l a m n i a b i l i t y
+t e s t s a d a p t e d f o r s p a c e c r a f t i n c l u d e d c o n v e n t i o n a l f l a s h p o i n t t e s t s as w e l l as u n i q u e upward p r o p a
+g a t i o n , downward p r o p a g a t i o n , d r i p i g n i t i o n , s h o r t c i r c u i t i g n i t i o n , and a u t o i g n i t i o n t e s t s .
+C u r r e n t s p a c e c r a f t have l e s s ha7ardous atmospheres than e a r l i e r s p a c e c r d f t ( s e a l e v e l a i r ) , b u t
+f i r e s a f e t y measures t h r o u g h m a t e r i a l s c o n t r o l a r e s t t l l i m p e r a t i v e . A t p r e s e n t , NATA imposes t h e
+t l d m m a b i l i t y and o f f g a s s i n g r e q u i r e m e n t s o f the NHB 8060.18 handbook ( R e f . 3 ) I n a d d i t i o n t o o t h e r
+documented s p e c i f i c a t i o n s on s t r e n g t h , c o r r o s i o n r e s i s t a n c e , and vacuum p e r m e a b i l i t y . M a t e r i a l con
+t r o l p r o c e d u r e s a r e t h r o u g h c o m p u t e r i L e d t r a c k i n g systems, w i t h r e v i e w o f a p p r o v a l s and w a i v e r s .
+l h e l o n g d u r a t i o n h a b i t a t i o n and t h e w i d e range o f l i v i n g and w o r k i n g a c t i v i t i e s i n t h e 5pace
+S t a t i o n w i l l expand t h e range o f d e s i r e d m a t e r i a l s on b o a r d . N o t o n l y must i n v e n t o r i e d m a t e r i a l s be
+c o n s i d e r e d , b u t a l s o e x t r a n e o u s i t e m s o r contraband. Papers, books, t i l m s , r e c r e a t i o n a l i t e m s . non
+i s s u e c l o t h i n g i t e m s , and s o u v e n i r s w i l l be brought on b o a r d . Secured, f i r e r e s i s t a n t s t o r a g e a r m s
+f o r p e r s o n a l i t e m s may be t h e o n l y p r a c t i c a l approach.
+l h e a i m o f p r e s e n t day f l a m m a b i l i t y t e s t i n g i s t o p r o v i d e u s e f u l measurements t h a t can be i n t e r
+p r e t e d on t h e b a s i s o f t h e u n d e r l y i n g c h e m i c a l and p h y s i c a l p r i n c i p l e s . M a t e r i a l t e s t s , o f neces
+s i t y , a r e u s u a l l y on s m a l l s c a l e samples. The t e s t s s e r v e t o p r e d i c t f u l l s c a l e b e h a v i o r t o g u i d e
+t h e u l t i m a t e q u a l i t y a s s u r a n c e u s i n g , as f a r as p o s s i b l e , s t a n d a r d i L e d methods and p r o c e d u r e s .
+H i l a d o has assessed v a r i o u s f i r e response t e s t methods f o r s u i t a b i l i t y i n s c r e e n i n g aerospace mate
+r i a l s ( R e f . 1 9 ) . S e v e r a l recommended c a l o r i m e t r y methods, i n t r o d u c e d by t h e N a t i o n a l Bureau o f
+S t a n d a r d s , F a c t o r y M u t u a l Research, O h i o S t a t e U n i v e r s i t y , and Arapaho Chemicals, use s t a n d a r d i i e d
+chambers t o d e t e r m i n e h e a t r e l e a s e r a t e s , oxygen consumption, smoke r e l e a s e , and t o x i c vapor genera
+t i o n t o c h a r a c t e r i z e m a t e r i a l s . l h e advantage o f t h e use o f s t a n d a r d i L e d i n d u s t r y methods f o r f i r e
+5 a f e t y i s t h e o p p o r t u n i t y t o g e n e r a l i z e techniques w i t h p r e c i s i o n l i m i t s d e t e r m i n e d f r o m i n t e r
+l a b o r a t o r y c o o p e r a t i v e t e s t i n g . For t h e 5pace S t a t i o n , e x p a n s i o n o f t h e NASA methods o f NHLI 8060.18
+t o i n c l u d e t h e g e n e r a l t z e d p r o c e d u r e s w i l l a s s i s t u s e r s by a l l o w i n g more s i m p l i f i e d and c o n v e n i e n t
+s c r e e n i n g o f r e s e a r c h and housekeeping m a t e r i a l s .
+l h e l o n g - d u r a t i o n o p e r a t i o n o f t h e Space S t a t i o n demands a t t e n t i o n t o t i m e r e l a t e d f l a m m a b i l i t y
+t e s t i n g , w h i c h would a l l o w f o r d e t e r i o r a t i o n and a g i n g o f m a t e r i a l s . The u n i q u e l o w g r a v i t y e n v i r o n
+ment makes s p e c i a l i z e d t e s t i n g n e c e s s a r y , i n c l u d i n g methods a p p r o p r i a t e t o d e t e r m i n e spontaneous
+i g n i t i o n and l o w t e m p e r a t u r e combustion ( s m o l d e r i n g ) . S i n c e p r a c t i c a l m a t e r i a l t e s t i n g i n m i c r o
+g r a v i t y i s v e r y d i f f i c u l t , t h e g o a l of s p a c e c r a f t m a t e r i a l s assessment i s t o d e v e l o p s t a t i s t i c a l o r
+c o r r e c t i v e t e c h n i q u e s t h a t can b e used t o i n t e r p r e t normal g r a v i t y f l a m m a b i l i t y t e s t r e s u l t s i n v i e w
+o f t h e more ( o r l e s s , p e r h a p s ) s t r i n g e n t c r i t e r i a f o r m i c r o g r a v i t y . Addi t i o r i a l r e s e a r c h p r o j e c t s i n
+m i c r o g r a v i t y s h o u l d address t h e concerns f o r spontaneous i g n i t i o n , l o w t e m p e r a t u r e c o m b u s t i o n (sinol
+d e r i n g ) , and changes i n m a t e r i a l f l a m m a b i l i t y w i t h a g i n g , a l l m a t t e r s o f p a r t i c u l a r irnportance f o r
+t h e Space S t a t i o n .
+SPACF-CRAF-T ATMOSPIjEREA
+l h e c o n f i d e n c e o f ground e x p e r i e n c e would seem t o f a v o r t h e r e t e n t i o n o f a sea l e v e l oxygen
+n i t r o g e n atmosphere i n s p a c e c r a f t . N e v e r t h e l e s s , r e s e a r c h has shown t h a t a l t e r n a t i v e atmospheres can
+have advantages f o r f i r e s a f e t y . These a r e atmospheres t h a t i n h i b i t cornbustion and y e t s u p p o r t human
+l i f e . T a b l e I shows s t a n d a r d a t m o s p h e r i c values a t s e v e r a l a l t i t u d e s . On t h e ground, humans can
+a c c l i m a t e i n permanent s e l t l e m e n t s a t a l t i t u d e s a t l e a s t as h i g h as 7800 m ( 9 7 0 0 f t ) , t h e a l t i t u d e
+o f Q u i t o , Ecuador. Thus, human a c t i v i t i e s a r e f e a s i b l e o v e r a range o f a t m o s p h e r i c p r e s s u r e s f r o m
+b e l o w 7 1 t o 100 p e r c e n t o f sea l e v e l , c o r r e s p o n d i n g t o oxygen p a r t i a l p r e s s u r e s o f 16 t o 21 kPa. The
+amount o f n i t r o g e n o r , w i t h i n l i m i t s , t h e t o t a l p r e r s u r e o f t h e atmosphere i s i m m a t e r i a l f o r human
+
+5
+
+sustenance. For combustion, on t h e o t h e r hand, an atmosphere i s r e q u i r e d w i t h a minimum c o n c e n t r a
+t i o n , o r mole p e r c e n t , o f oxygen. l h e p r e s e n c e o f n i t r o g e n a f f e c t s c o m b u s t i o n because c o m b u s t i o n
+energy i s used t o heat the i n e r t atmosphere, c o o l i n g and p o s s i b l y q u e n c h i n g t h e f l a m e .
+A s a consequence t o t h e s e d i f f e r e n c e s i n a t m o s p h e r i c e f f e c t s , i t i s e v i d e n t t h a t atmospheres
+w i t h p a r t i a l p r e s s u r e s a c c e p t a b l e f o r humans, b u t w i t h reduced mole f r a c t i o n s o f oxygen, c o u l d r e d u c e
+f i r e ha7ards i n s p a c e c r a f t . l h i s use o f a m o d i f i e d S p a c e c r a f t atmosphere had been proposed a b o u t
+20 y r ago based on s i m p l e f l a m e - s p r e a d t e s t s ( R e f . 2 0 ) . A f u r t h e r a p p l i c a t i o n o f t h i s p r i n c i p l e i s
+t h e p r o p o s a l o f n i t r o g e n f l o o d i n g t o combat f i r e emergencies i n submarines, where t o t a l p r e s s u r e i s
+i n c r e a s e d t o suppress f i r e s by l o w e r i n g t h e oxygen c o n c e n t r a t i o n w h i l e r e t a i n i n g t h e l i f e s u p p o r t i n g
+oxygen p a r t i a l p r e s s u r e ( R e f . 21).
+A l t e r n a t i v e s t o reduced oxygen atmospheres a r e t h o s e w i t h gases o t h e r t h a n n i t r o g e n as t h e i n e r t
+c o n s t i t u e n t . Helium, l o n g used as t h e d i l u e n t i n d i v i n g atmospheres, appears t o i n h i b i t i g n i t i o n ,
+b u t i t promotes t h e spread of e s t a b l i s h e d f i r e s . D e s i r a b l e f i r e s u p p r e s s i o n r e q u i r e s a h i g h s p e c i f i c
+h e a t p e r mole. S t u d i e s by r e s e a r c h e r s such as H u g g e t t ( R e f . 22) have proposed t h e s u b s t i t u t i o n o f
+f l u o r i n a t e d hydrocarbons, such as c a r b o n t e t r a f l u o r i d e , C F 4 , f o r a t l e a s t p a r t o f t h e n i t r o g e n i n
+a f i r e - s a f e atmosphere. l h e f l u o r i n a t e d hydrocarbons n o t o n l y suppress f l a m e spread by t h e i r h i g h
+s p e c i f i c h e a t , b u t can produce r e a c t i o n i n h i b i t i n g s p e c i e s analogous t o t h e a c t i o n o f H a l o n 1301
+e x t i n g u i s h a n t . l h e s e h a l o g e n a t e d gases appear t o be p h y s i o l o g i c a l l y i n e r t , b u t c o n f i d e n c e i n t h e i r
+usage must be demonstrated by l o n g t e r m t e s t i n g .
+
+A v e r y i n t e r e s t i n g s e t o f s u g g e s t i o n s has come f r o m t h e 1986 NASA Lewis Workshop on S p a c e c r a f t
+F i r e S a f e t y . A group o f p a r t i c i p a n t s proposed t h r e e a l t e r n a t i v e s p a c e c r a f t atmospheres, j u d g e d t o
+p r o v i d e a more f i r e safe e n v i r o n m e n t , f o r s c i e n t i f i c i n v e s t i g a t i o n and t e c h n o l o g y development. l h e s e
+atmospheres, i n t h e p r i o r i t y g i v e n , a r e :
+(1)
+(2)
+(3)
+
+150 kPa t o t a l p r e s s u r e ( 1 . 5 a t m ) ; 12 mol
+oxygen; n i t r o g e n d i l u e n t ;
+100 kPa t o t a l p r e s s u r e ( 1 . 0 a t m ) ; and minimum oxygen c o n c e n t r a t i o n ; n i t r o g e n d i l u e n t ;
+atmospheres w i t h d i l u e n t s o t h e r t h a n n i t r o g e n .
+
+l h e f i r s t recommendation i s a n atmosphere t h a t r e t a i n s t h e sea l e v e l p a r t i a l p r e s s u r e o f oxygen.
+l h e mole p e r c e n t o f oxygen, however, i s l o w enough t h a t f i r e ha7ards s h o u l d be g r e a t l y reduced.
+U n f o r t u n a t e l y , t h e h i g h e r t o t a l p r e s s u r e may c a l l f o r more complex and h e a v i e r s p a c e c r a f t s t r u c t u r e s .
+l h e second recommendation a v o i d s t h i s t o t a l - p r e s s u r e d i f f i c u l t y . A minimum oxygen mole f r a c t i o n o f
+16 p e r c e n t would correspond b o t h t o s t a n d a r d e a r t h c o n d i t i o n s a t 2200 m (7200 f t ) a l t i t u d e ( l a b l e 1 )
+and t h e u s u a l c a b i n atmosphere i n l o n g - r a n g e commercial a i r c r a f t . l h e t h i r d recommendation i s based
+on t h e i n n o v a t i v e s u b s t i t u t e d i l u e n t p r o p o s a l s j u s t d i s c u s s e d , b u t t h i s a l t e r n a t i v e i s t h e l e a s t
+l i k e l y f o r c o n s i d e r a t i o n because o f unknown c o s t , c o m p l e x i t y , and human response f a c t o r s .
+A I R C R A F I A N 0 UNOtHWAi t R A N A L O G l F S
+
+I t i s o b v i o u s t h a t s p a c e c r a f t f i r e s a f e t y t e c h n o l o g y must r e c o g n i z e t h e r e s e a r c h and methods
+e s t a b l i s h e d f o r b u i l d i n g codes and, more p a r t i c u l a r l y , f o r a i r c r a f t and u n d e r w a t e r s a f e t y . Cert a i n l y , t h e r e i s need for c o n t i n u e d and expanded use o f t h e a n a l o g i e s f r o m t h e s e n e i g h b o r i n g spheres
+o f technology.
+The a i r p l a n e o p e r a t i n g e n v i r o n m e n t has o b v i o u s d i f f e r e n c e s f r o m t h a t o f s p a c e c r a f t . l h e s e a r e
+normal g r a v i t y , some access t o t h e e x t e r n a l atmosphere, and s h o r t - t e r m p o s s i b i l i t i e s f o r escape and
+r e s c u e . N e v e r t h e l e s s , many o f t h e s p a c e c r a f t f i r e t e c h n i q u e s i n r i s k management, f i r e d e t e c t i o n ,
+e x t i n g u i s h m e n t , and m a t e r i a l s assessment can be t r a c e d t o a i r c r a f t f i r e c o n t r o l s .
+For example, t h e
+r e v i e w by B o t t e r i on a i r c r a f t f i r e s a f e t y ( R e f . 23) d i s c u s s e s a i r c r a f t t e c h n i q u e s on f a i l u r e c r i t e r i a , f i r e d e t e c t i o n , Halon e x t i n g u i s h e r s , and i n e r t gas g e n e r a t i o n . Some of t h e s e have been
+adapted o r a r e under c o n s i d e r a t i o n f o r s p a c e c r a f t . F i r e d e t e c t i o n and e x t i n g u i s h m e n t i n a i r c r a f t has
+been d i s c u s s e d i n more d e t a i l by Waldman ( R e f . 2 4 ) . The S p e c i a l A v i a t i o n F i r e and E x p l o s i o n Reduc
+t i o n (SAFLK) A d v i s o r y Committee R e p o r t i n c l u d e s a number o f recommendations t h a t c e r t a i n l y a p p l y t o
+s p a c e c r a f t as w e l l as t o a i r c r a f t ( R e f . 2 5 ) . I n b r i e f , p e r t i n e n t s e c t i o n s o f t h e r e p o r t r e f e r t o
+t o x i c and smoke hazards, c h e m i c a l p r o d u c t d e t e c t i o n , a n i m a l t e s t i n g , t o x i c i t y s t a n d a r d s , and m a t e r i a l
+ratings.
+Underwater technology would appear t o p r o v i d e f u r t h e r o p p o r t u n i t i e s f o r s p a c e c r a f t f i r e s a f e t y
+a n a l o g i e s s i n c e submarines o p e r a t e i n a h o s t i l e e x t e r n a l e n v i r o n m e n t w i t h s e l f - c o n t a i n e d e n v i r o n
+m e n t a l c o n t r o l s . O f course, t h e submarine c o n t e n t s a r e under normal g r a v i t y , and t h e i n t e r n a l p r e s s u r e i s l e s s t h a n t h e e x t e r n a l atmosphere. T h i s makes l e a k a g e r a t h e r t h a n v e n t i n g a h a z a r d . A
+r e v i e w p u b l i s h e d o v e r 20 y r ago d i s c u s s e s a t m o s p h e r i c c o n t a m i n a n t c o n t r o l i n s p a c e c r a f t by a n a l o g y
+t o submarine procedures ( R e f . 2 6 ) . Atmospheric c o n t r o l has d i r e c t a p p l i c a t i o n t o f i r e s a f e t y because
+o f t h e q u e s t i o n o f c o n t a m i n a t i o n and t o x i c i t y f o l l o w i n g a f i r e o r p y r o l y s i s . T h i s s u b j e c t o f human
+e f f e c t s was c o v e r e d i n t h e 1986 NASA Lewis S p a c e c r a f t F i r e S a f e t y Workshop, b u t i t l i e s o u t s i d e t h e
+scope o f t h i s p a p e r .
+
+6
+
+F i r e s u p p r e s s i o n t e c h n i q u e s d i s c u s s e d by C a r h a r t and F i e l d i n g f o r submarines ( R e f . 27) a l s o
+i n c l u d e methods under c o n s i d e r a t i o n f o r s p a c e c r a f t , namely H a l o n systems, w a t e r foams, c a r b o n
+d i o x i d e , and n i t r o g e n . l h e n i t r o g e n f l o o d i n g t e c h n i q u e f o r l a r g e f i r e s , a l r e a d y n o t e d , was proposed
+f o r submarines d e s i g n e d f o r h i g h p r e s s u r e c o n t a i n m e n t . l h e method, however, c a n n o t be d i s m i s s e d as
+c o m p l e t e l y u n s u i t a b l e f o r s p a c e c r a f t . A p r e s s u r e i n c r e a s e o f no more than 60 kPa may be s u f f i c i e n t ,
+a c c o r d i n g t o Ref. 21.
+CON C 1 D I N C R t MA R KS
+U
+.
+
+l h i s paper has p r e s e n t e d t h e p r o g r e s s and needs o f f i r e s a f e t y a p p l i c a b l e t o human crew space
+c r a f t , w i t h some emphasis on t h e r e q u i r e m e n t s f o r t h e Space S t a t i o n . F u t u r e s p a c e c r a f t f i r e s a f e t y
+s t u d i e s seek s o l u t i o n s t o two a p p a r e n t l y c o n t r a d i c t o r y p r o b l e m s : t h e need f o r more s t r i n g e r i t mea
+s u r e s because o f t h e l o n g d u r a t i o n and c o m p l e x i t y o f t h e Space S t a t i o n m i s s i o n s , and t h e need f o r
+l e s s s t r i n g e n t measures t o encourage s c i e n t i f i c and commercial usage i n t h e same m i s s i o n s . l h i s
+paper has p r e s e n t e d t h e s t a t e - o f t h e - a r t i n the u n d e r l y i n g m i c r o g r a v i t y combustion f i e l d and i r : t e c h
+n o l o g y developments i n f i r e d e t e c t i o n , e x t i n g u i s h m e n t , m a t e r i a l assessment, and s p a c e c r a f t almo
+spheres.
+F o r f u t u r e work, i t appears t h a t t h e emphasis w i l l c o n t i n u e on combustion fundamentals t o
+e s t a b l i s h r e l a t i o n s h i p s f o r f i r e p r o p a g a t i o n and e x t i n c t i o n i n t h e s p a c e c r a f t e n v i r o n m e n t .
+A f u r t h e r r e s u l t o f the review o f spacecraft f i r e s a f e t y i s the recogrii
+g e n e r a l i z e d and f l e x i b l e s t a n d a r d s and methods. The a t t a i n m e n t o f t h i s g o a l
+c o o p e r a t i v e s h a r i n g o f a i r c r a f t and underwater i n f o r m a t i o n and a d a p t a t i o n o f
+l h e r e i s a strong promise o f g r e a t e r involvement o f p r o p u l s i o n s a f e t y expert
+t h e p a r t i c i p a t i o n o f t h e JANNAF members.
+
+i o n o f t h e need f o r more
+i s g r e a t l y a s s i s t e d by
+e x i s t i n g knowledge.
+se, as e x e m p l i f i e d by
+
+REF t R E N C t S
+1. Friedman, R . ; and S a c k s t e d e r , K . R . :
+A I M Paper A I A A 87-0467. Jan. 1987.
+
+Science and l e c h n o l o g y I s s u e s i n S p a c e c r a f t F i r e S a f e t y .
+
+2. K u b i c k i , D.J.:
+F i r e P r o t e c t i o n and Rescue P l a n n i n g f o r t h e NASA Space S h u t t l e .
+v o l . 7 5 , no. 4 . J u l y 1981, pp. 3 4 - 4 0 , 127-128.
+
+F i r e J.,
+
+3. F l a m m a b i l i t y , Odor, and O f f g a s s i n g Requirements and ' l e s t Procedures i n Environments l h a t S u p p o r t
+Combustion. NASA 1M- 84066, - 1981
+
+.
+
+4 . DeMels, R . :
+pp. 2 6 - 2 9 .
+
+5. Peercy. R.L.
+Study, Vol.
+
+S a f e t y I n t h e Space S t a t i o n .
+
+Aerospace America, v o l . 24, no. 5 , May 1986,
+
+J r . ; Raasch, R . F . ; and R o c k o f f , L . A . :
+Space S t a t i o n C r e w S a f e t y A l t e r n a t i v e s
+- F i n a l Summary R e p o r t .
+NASA C R 3854, 1985.
+
+6. Peercy, R.L. J r . ; and Raasch, R . F . :
+Threat S t r a t e g y l e c h n l q u e : A System S a f e t y l o o 1 f o r
+Advanced Des gn. J. Spacecr. Rockets, v o l . 23, no. 2, M a r . - A p r . 1986, pp. 200 206.
+7 . Raasch, R . F .
+Study, Vol.
+
+Peercy, R.L.,
+
+Jr.;
+
+and R o c k o f f , L.A.:
+Space S t a t i o n Crew S a f e t y A l t e r n a t i v e s
+NASA CR-3855, 1985.
+
+I - T h r e a t Development.
+
+8. S a c k s t e d e r . K.H.:
+M i c r o g r a v i t y Combustion S c i e n c e and A p p l i c a t i o n s Program a t t h e NASA l e w i s
+Research C e n t e r . Space O p e r a t i o n s : Problems, I s s u e s , and Programs R e l a t e d t o Man i n Space,
+D.S. E g g l e s t o n , ed., C P I A PUB 415, Chemical P r o p u l s i o n I n f o r m a t i o n Agency, 1985, pp. 265 286.
+9 . Dosarijh, S . ; P e t e r s o n , J.; Fernandez P e l l o , A . C . ; and Pagni, P.J.:
+S m o l d e r i n g Combustion. I A F Paper 85 289, Oct. 1985.
+
+Buoyancy E f f e c t s on
+
+Comparison of Flame S p r e a d i n g Over T h i n F l a t S u r f a c e s i n
+1 0 . A n d r a c c h i o , C . R . ; and A y d e l o t t , J.C.:
+Normal G r a v i t y and W e i g h t l e s s n e s s i n a n Oxygen Environment. NASA 1M X 1992, 1970.
+NASA Lewis Research Center I.ow G r a v i t y F l u i d
+1 1 . A y d e l o t t , J.C.; Carney, M.J.; and Hochstein, J . I . :
+Management Technology Program. Man's Permanent Presence i n Space, A I A A . 1985. ( A l s o , NASA
+1 M - 87145)
+12. Kimzey, J.H.:
+S k y l a b Experiment M479 Zero G r a v i t y F l a m m a b i l i t y . Proceedings o f t h e l h i r d Space
+P r o c e s s i n g Symposium on S k y l a b R e s u l t s , V o l . I , NASA 1 M X-70252, 1974, pp. 115 130.
+1 3 . Haggard, J.B., J r . ; and Cochran, 1- H.:
+S t a b l e Hydrocarbon D i f f u s i o n Flames i n a W e i g h t l e s s
+E n v i r o n m e n t . Combust. S c i . Techno ., v o l . 5, 1972, pp. 291-298.
+1 4 . Haggard, J.B., J r . :
+1P-1841, 1981.
+
+Forced and Na u r a l C o n v e c t i o n i n L a m i n a r - J e t D i f f u s i o n Flames.
+
+7
+
+NASA
+
+15. Olson, S . L . ;
+
+and Sotos, R . G . :
+
+Combustion of V e l c r o i n Low G r a v i t y .
+
+NASA IM 88910, 1981.
+
+l e s t R e s u l t s f r o m Comparative E v a l u a t i o n o f a Conderisdtion N u c l e i F i r e D e t e c t o r
+16. B r i c k e r , R.W.:
+NASA CR 3814, 1985.
+1 1 . C h r i s t i a n , W.J.; and Wands, R . C . , e d s . : A p p r a i s a l o f Halogendted F i r e F x t i n y u i s h i n g A g e n t s .
+N a t i o n a l Academy o f Sciences, Washington, 1912.
+18. Bolger, P.H.,
+
+ed.:
+
+Conference on M a t e r i a l s f o r Improved F i r e S a f e t y .
+
+19. H i l a d o , C.J.:
+F i r e Response l e s t Methods f o r Aerospace M a t e r i a l s .
+Apr. 1978, pp. 211-728.
+
+NASA S P 5096, 1911.
+
+J . F i r e F l a m m a b i l i t y , V o l . 9,
+
+20. McAlevy, R . F . , 111; and Magec, R.S.:
+A C r i t e r i o n f o r Space Capsule t i r e IHa/drd M i n i m i z d t i o n .
+J. Spacecr. Rockets, v o l . 4, no. 10, Oct. 1961, p. 1390.
+S u p p r e s s i o n o f F i r e s i n C o n f i n e d Spaces by N i t r o g e n P r e s s u r i 7 a t i o n :
+21. Gann, R . G . , e t a l . :
+E x t i n c t i o n L i m i t s f o r L i q u i d Pool F i r e s . Combust. S c i . T e c h n o l . , v o l . 18. no. 5 6, 1918,
+pp. 155 163.
+H a b i t a b l e Atmospheres Which Do Not S u p p o r t Combustion.
+22. I i u g g e t t , C . :
+no. 1, Feb. 1913, pp. 140 142.
+23. B o t t e r l , 8.P.:
+A i r c r a f t F i r e P r o t e c t i o n lechnology.
+pp. 1 8 - 1 t o 1 8 15.
+24. Waldman, J . J . :
+1980.
+
+111
+
+Combust. t l a m e , v o l . 70,
+
+A i r c r a f t F i r e Safety.
+
+A i r c r a f t F i r e and Overheat D e t e c t i o n and F - x t i n g u i s h m e n t .
+
+AGAHD C P 166, 1915,
+
+SAL Paper 800672, Apr.
+
+25. Enders, J.H.; and Wood, E . C . :
+F i n a l R e p o r t o f t h e S p e c i a l A v i a t i o n F i r e and F x p l o s i o n R e d u c t i o n
+( S A F t H ) A d v l s o r y Committee, V o l . I . F A A ASF 80 4 VOL 1 , June 1980.
+An Approach t o l r a c e Corilaminant C o n t r o l f o r
+26. S o l i t a r i o , W . A . ; B i a l e c k i . A . ; and l a u b a c h , G . € . :
+a S p a c e c r a f t Atmosphere. Chemical E n g i n e e r i n g Techniques i n Aerospace, D.J. S i m k i n , ed., Chem.
+Eng. Prog. Symp. S e r i e s , v o l . 60, no. 52, 1964, pp. 188 198.
+
+.I.
+
+8
+
+Altitude
+
+T o t a l pressure
+
+Oxygen p a r t i a l
+
+k Pa
+
+4000
+4843
+6000
+1000
+8000
+8222
+9000
+Notes:
+
+4.47
+
+Percent o f
+sea l e v e l
+
+21 - 2 3
+18.83
+16.65
+16.21
+14.69
+12.92
+11 - 5 1
+11 - 3 2
+9.89
+8.61
+1.47
+7.23
+6.45
+
+Comments
+
+100
+89
+78
+16
+69
+61
+54
+53
+47
+41
+35
+34
+30
+
+a. Oxygen p a r t i a l p r e s s u r e c a l c u l a t e d a t
+g e o p o t e n t i a l a l t i t u d e s shown based on
+i n v a r i a n t c o m p o s i t i o n o f 20.94 mol (vel)$ o f
+oxygen.
+b. P r a c t i c a l minimum oxygen p a r t i a l p r e s s u r e
+c o r r e s p o n d i n g t o e a r t h a l t i t u d e and
+commercial f l l g h t a c c l i m a t i z a t i o n .
+c . P r e s e n t space s u i t p r e s s u r e , s u p p l i e d w i t h
+100 p e r c e n t oxygen.
+
+d . Proposed f u t u r e space s u i t p r e s s u r e .
+
+Oxygen
+c o n t e n t c o u l d range f r o m 29 mol % ( b l i m i t )
+t o 38 mol % (sea l e v e l p a r t i a l p r e s s u r e .
+
+FIGURE 1. - EXAMPLES OF GAS JET DIFFUSION FLAnES I N NORHAL (EARTH) GRAVITY
+AND I N MICROGRAVITY.
+
+9
+
+FIGURE 2. - SOLID SURFACE COMBUSTION EXPERIMENT APPARATUS. TO STUDY FLAME
+SPREAD OVER SOLID SPECIMENS I N SHUTTLE FLIGHTS.
+
+COMBUSTION
+PHOTOGRAPHY
+
+FIGURE 3. - PARTICLE CLOUD COMBUSTION EXPERIMENT
+APPARATUS, TO STUDY F L M PROPAGATION AND EXTINCTION I N PARTICULATE-AIR MIXTURES I N SPACECRAFT
+FLIGHTS.
+
+FIGURE 4. - DROPLET COMBUSTION EXPERINENT APPARATUS. TO STUDY
+BURNING OF SPHERICAL L I Q U I D DROPLETS I N SPACECRAFT FLIGHTS.
+
+FIRE SUPPRESSION
+
+EXTINGUISHER
+‘\(TYPICAL
+\
+OF 3 g 1 4
+h‘
+~
+
+\
+
+L SMOKE
+
+LPORTABLE
+FIRE
+
+DETECTORS
+(TYPICAL OF 11)
+FIGURE 5.
+
+EXTINGUISHER
+(TYPICAL)
+
+- F I R E PROTECTION I N THE SHUTTLE CABIN.
+
+10
+
+2. Government Accession No.
+
+1. Report No.
+
+3. Recipient’s Catalog No.
+
+NASA TM-89848
+5. Report Dat;
+
+’
+
+.
+
+F i r e S a f e t y Concerns i n Space Operations
+6. Performing Organization Code
+
+506-49-38
+8. Performing Organization Report No.
+
+7. Author@)
+
+Robert Friedman
+
+E-351 1
+10. Work Unit No.
+
+9. Performing Organization Name and Address
+
+N a t i o n a l Aeronautics and Space A d m i n i s t r a t i o n
+Lewis Research Center
+Cleveland, Ohio 44135
+
+11. Contract
+
+or Grant No.
+
+13. Type of Repoi and Period Covered
+
+Technical Memorandum
+
+2. Sponsoring Agency Name and Address
+
+N a t i o n a l Aeronautics and Space A d m i n i s t r a t i o n
+Washington, D.C.
+20546
+
+14. Sponsoring Agency Code
+
+5. Supplementary Notes
+
+Prepared f o r t h e J o i n t Army-Navy-NASA-Air Force (JANNAF) S a f e t y and
+Environmental Protection’Subcommittee Meeting, Cleveland, Ohio, May 4-7, 1987.
+
+6. Abstract
+
+T h i s paper reviews t h e s t a t e - o f - t h e - a r t i n f i r e c o n t r o l techniques and i d e n t i f i e s
+i m p o r t a n t i s s u e s f o r c o n t i n u i n g research, technology, and standards. For t h e
+f u t u r e permanent o r b i t i n g f a c i l i t y , t h e Space S t a t i o n , f i r e p r e v e n t i o n and cont r o l c a l l s f o r n o t o n l y more s t r i n g e n t f i r e s a f e t y due t o t h e long-term and comp l e x missions, b u t a l s o f o r s i m p l i f i e d and f l e x i b l e s a f e t y r u l e s t o accommodate
+t h e v a r i e t y o f users. F u t u r e research must address a b e t t e r understanding o f t h e
+m i c r o g r a v i t y space environment as i t i n f l u e n c e s f i r e p r o p a g a t i o n and e x t i n c t i o n
+and t h e a p p l i c a t i o n o f t h e technology o f f i r e d e t e c t i o n , extinguishment, and
+m a t e r i a l assessment. Spacecraft f i r e s a f e t y should a l s o c o n s i d e r t h e a d a p t a t i o n
+o f methods and concepts d e r i v e d from a i r c r a f t and undersea experience.
+
+7. Key Words (Suggested by Author@))
+
+18. Distribution Statement
+
+Combustion; F i r e d e t e c t i o n ; F i r e e x t i n g u i s h e r s ; F i r e prevention; F l a m m a b i l i t y ;
+Inerting; Microgravity applications;
+Space S t a t i o n
+9. Security Classif. (of this report)
+
+Unclassified
+
+Unclassified - unlimited
+STAR Category 16
+
+20. Security Classif. (of this page)
+
+Unclassified
+
+21. No. of pages
+
+11
+
+*For sale by the National Technical Information Service, Springfield, Virginia 22161
+
+22. Price’
+
+A02
+

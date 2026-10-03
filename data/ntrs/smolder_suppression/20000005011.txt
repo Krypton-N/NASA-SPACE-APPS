@@ -1,0 +1,1485 @@
+AIAA-99-0699
+
+ULTRASOUND
+PROTOCOL
+
+IMAGING
+
+FOR
+
+THE
+
+SYSTEM
+
+IMPLEMENTATION
+
+MICROGRAVITY
+
+SMOLDERING
+
+AND
+
+IGNITION
+
+COMBUSTION
+
+(MSC)
+
+EXPERIMENTS
+
+David
+
+C. Walther,
+
+Ralph
+
+A. Anthenien
+University
+
+t, Mark
+
+Roslon
+
+of California,
+
+Berkeley,
+
+Fernandez-Pello*
+
+CA 94720
+and
+
+David
+NASA
+
+and A. Carlos
+
+Berkeley
+
+L. Urban
+
+Lewis
+
+Research
+
+Cleveland,
+
+Center
+
+OH 44135
+
++Current address: Air Force Research Laboratory / Propulsion Directorate
+Wright-Patterson
+
+AFB, OH 45433
+
+"Author to whom correspondence
+
+Abstract
+
+should be directed
+
+Additionally,
+the ignition
+sequence
+of the MSC
+experiments
+has been optimized
+from
+previous
+experiments
+to provide
+longer
+periods
+of selfsupported
+smolder.
+An ignition protocol of a fixed
+power
+to the igniter
+for a fixed time is now
+implemented.
+This,
+rather
+than
+a controlled
+temperature
+profile ignition protocol
+at the igniter
+surface, along with the UIS system, will allow for
+better study of the effect of gravity on a smolder
+reaction.
+
+The
+Microgravity
+Smoldering
+Combustion
+(MSC)
+experiment
+is a study
+of the smolder
+characteristics
+of porous combustible
+materials in a
+microgravity environment.
+The objective of the study
+is to provide a better understanding
+of the controlling
+mechanisms
+of smolder,
+both in microgravity
+and
+normal
+earth
+gravity.
+Experiments
+have been
+conducted
+aboard the NASA Space Shuttle in the Get
+Away Special
+Canister
+(GAS-CAN),
+an apparatus
+requiring
+completely
+remote
+operation.
+Future
+GAS-CAN
+experiments
+will utilize an ultrasound
+imaging system (UIS) which has been incorporated
+into
+the
+MSC
+experimental
+apparatus.
+Thermocouples
+are
+currently
+used
+to measure
+temperature
+and reaction
+front velocities.
+A less
+intrusive method is desirable, however, as smolder is
+
+Introduction
+Smoldering
+is defined as a non-flaming,
+selfsustaining, propagating,
+exothermic,
+surface reaction,
+deriving
+its principal
+heat
+from
+heterogeneous
+oxidation of the fuel [1]. If the material is sufficiently
+permeable,
+smoldering
+is not confined
+to its outer
+surface and can propagate as a reaction wave through
+the interior
+of the material.
+Many materials
+can
+sustain
+smoldering,
+ranging
+from
+dry
+organic
+materials
+to polymeric
+foams.
+The
+ignition,
+propagation,
+transition to flaming and extinction
+of
+the smolder
+reaction
+are controlled
+by complex,
+thermo-chemical
+mechanisms
+that
+are
+not well
+understood.
+
+a very weak reaction and it has been found that heat
+transfer along the thermocouple
+is sufficient to affect
+the smolder reaction.
+It is expected
+that the UIS
+system will eventually
+replace the existing array of
+thermocouples
+as a non-intrusive
+technique without
+compromising
+data acquisition.
+The UIS measures
+line of sight permeability,
+providing
+information
+about
+the
+reaction
+front
+position
+and extent.
+
+1
+American
+
+Institute
+
+of Aeronautics
+
+and
+
+Astronautics
+
+As a basiccombustion
+problem, moldering
+s
+encompasses
+a number f fundamental
+o
+processes
+including:
+heatandmass
+transfer porous
+in
+media;
+endothermic
+pyrolysis f thecombustible;
+o
+ignition,
+propagation and extinction of oxidative,
+heterogeneous,
+exothermic
+reactions thegas/solid
+at
+interface; nd the onsetof gas phase
+a
+reactions
+(flaming).nthecontext
+I
+offiresafety,
+smoldering
+is
+of concern ecause canpropagate
+b
+it
+slowlyin the
+material
+interior ndgoundetected
+a
+forlongperiods
+of time,typicallyyieldinga substantially
+higher
+conversion fuel to toxiccompounds
+of
+thandoes
+flaming(albeitmoreslowly),andmayundergo
+a
+sudden
+transition
+toflaming Various
+[2].
+firestudies
+since
+theearly1970's ave
+h shownhatapproximately
+t
+40%of United
+States
+firedeaths
+canbeattributed
+to
+smoldering
+ofhousehold
+furniture Adding
+[3].
+tothe
+hazard rethefactsthatminimum
+a
+smolder
+ignition
+energies typically lower than for flaming
+are
+combustion
+andsmoldering
+canoccurunderower
+l
+oxygenoncentrations
+c
+thannormal Smolder
+air.
+of
+cableinsulation,
+another
+common hazard, of
+fire
+is
+particular
+concern thespacerogram;
+in
+p
+todate
+there
+FLOW
+
+have
+been fewminorincidents overheated
+a
+of
+and
+charredablesndelectrical
+c
+a
+components
+reported
+on
+Space
+Shuttle
+flights[4,5]. Recently, planned
+the
+establishment
+of theInternational Station
+Space
+and
+otherspace
+facilities
+hasincreased
+interestn the
+i
+study smoldering microgravity
+of
+in
+because the
+of
+need preempt
+to
+thepossibility,
+and/oro minimize
+t
+the effectof a smoldernitiatedfire duringthe
+i
+operation
+ofthese
+facilities6].
+[
+Thereare two classifications the onefor
+dimensional
+propagationf a smolder
+o
+reaction:
+opposed
+andforward defined
+[1],
+according the
+to
+direction
+inwhich
+fueland
+oxidizer thereaction
+enter
+zone.n opposed smolderhereaction
+I
+flow
+t
+front
+moves theopposite
+in
+directionstheoxidizer
+a
+flow.
+In forward
+smolder,
+thereaction
+frontmoves the
+in
+same
+direction the oxidizerflow reaching
+as
+the
+reactionone
+z afterpassing
+throughhehotcharleft
+t
+by the propagating
+reaction
+while the hot postcombustion flowintothevirginfuelahead
+gases
+of
+thereaction,
+pre-beating fuel.
+the
+A Get Away Special anisterGAS-CAN),
+C
+(
+carried
+inthe
+payload
+bayoftheSpace
+Shuttle
+isused
+
+INLET
+BULKHEAD
+
+IGNITER
+
+FOR
+
+POWER
+
+_"
+ULTRASONIC
+TRANSDUCER
+
+PLUGS
+
+IGNITER
+DATAACQ.
+
+-"
+
+OUTPUT
+
+SIGNAL
+ULTRASONIC
+
+THERMOCOUPLE
+
+INPUT/
+
+ULTRASONIC
+
+POWER/
+
+_
+
+TRANSDUCER
+PAIR X
+"M
+
+_/
+/_
+
+AMPLE
+
+h_'_"
+
+OUTPUT
+
+.....
+
+ULTRASOUND
+PROCESSING
+
+_!
+
+I _IL,,,
+CARD
+
+_
+
+THERMOCOUPLE
+
+',_:!J_i!:i::i
+COMPENSATION
+
+CARDS
+
+THERMOCOUPLES
+
+\'_/
+THERMOCOUPLES
+
+()-RING
+
+ULTRASONIC
+TRANSDUCER
+PAIRS
+
+(5)
+
+|
+UNISTRUT
+
+Figure
+
+!. Ultrasonic
+ground-based
+
+transducer
+
+implementation
+
+(l-g) opposed
+
+American
+
+into existing
+
+flow configuration.
+
+MSC flight hardware.
+
+Ultrasonic
+
+2
+Institute of Aeronautics
+
+transducers
+
+Apparatus
+
+is shown
+
+in the
+
+are not shown in photograph.
+
+and Astronautics
+
+secondary char oxidation
+the reaction front.
+The
+
+reactions
+occurring
+behind
+UIS has been implemented
+
+into the MSC flight hardware as shown in Figure l&2
+and will be flown aboard the remainder
+of the MSC
+Space Shuttle Missions.
+The technique
+provides
+information about local permeability
+variations within
+a smoldering
+sample,
+which
+can,
+in turn,
+be
+interpreted
+smolder
+
+to visualize
+the propagation
+of
+reaction.
+The
+method
+utilizes
+
+observation
+
+that transmission
+
+of an ultrasonic
+
+the
+the
+
+signal
+
+through a porous material increases with increasing
+permeability.
+(See Tse et al. [11] for in-depth
+discussion
+and analysis).
+Since
+a propagating
+smolder reaction leaves behind a char that is higher in
+permeability
+than the original
+(unburnt)
+material,
+ultrasonic transmission
+can be employed
+to monitor
+smolder progress.
+Additionally,
+the technique allows
+observation of the evolution of the char (i.e. material
+Figure
+
+2.
+
+Photo of actual MSC test section
+hardware installed.
+
+with UIS
+
+left by the
+circumstances,
+
+reaction),
+continue
+
+which,
+in certain
+to
+increase
+in
+
+permeability,
+due to secondary
+reactions
+(either
+oxidative or pyrolytic in nature).
+The UIS employed
+in the MSC produces
+a line-of-sight
+permeability
+measurement
+that
+corroborates
+thermocouple
+measurements
+of reaction
+front location
+and also
+
+to study smolder
+reactions
+in microgravity.
+This
+apparatus is fully automated and therefore requires a
+well-defined
+ignition
+protocol
+and experimental
+control.
+Previous smoldering experiments
+aboard the
+NASA Space Shuttle (STS-69 and STS-77) initiated
+smoldering within the fuel sample by following a preprogrammed
+fuel-igniter
+interface,
+temperature-time
+profile. This ignition protocol was developed prior to
+understanding
+the requirements
+for initiating
+a
+smoldering
+reaction.
+A new protocol,
+developed
+
+provides information
+regarding
+the evolution
+char left in the wake of a smolder front.
+
+of the
+
+Experimental
+Set-up
+Experiments
+have been conducted
+to study the
+normal-gravity
+ignition of both forward and opposed
+smolder of a high void fraction, flexible, polyurethane
+foam in a forced oxidizer
+flow.
+The tests are
+
+through a series of normal-gravity
+tests, relies on a
+preset igniter power for a set time period.
+The power
+and time are set to achieve the requirements
+of a
+minimum
+igniter temperature
+and a heat flux at a
+particular
+depth [7,8].
+This new ignition procedure
+has many advantages
+including:
+a reduction
+of the
+thermally
+assisted smolder region allowing a larger
+region
+of unassisted
+smolder
+for study, a more
+rigorous ignition system as there is no thermocouple
+feedback,
+and it also represents
+a more realistic
+scenario for the initiation of a smolder reaction (e.g.
+an overheated
+
+smolder
+can
+
+performed in a 21.7 L, semi-cylindrical,
+hermetically
+sealed, aluminum
+combustion
+chamber,
+identical
+to
+those used in the MSC flight assembly.
+The flight
+assembly
+integrates
+into the 0.14m 3 NASA
+Get
+Away
+
+Special
+
+Canister
+
+(GAS-CAN),
+
+located
+
+in the
+
+wire).
+
+The ignition
+and propagation
+of smolder
+is
+further examined using an ultrasound imaging system
+(UIS).
+The UIS images provide a representation
+of
+the permeability
+field established
+within an optically
+opaque polyurethane
+foam sample in a non-intrusive
+fashion.
+The ultrasound
+data are compared
+with
+thermocouple
+histories
+and provide
+further insight
+into the smolder ignition process.
+Not only does the
+method allow for non-intrusive
+monitoring
+of the
+
+0
+
+100 2120 300 4120 5130 6(]0 7130 800 900 11300
+TmTe(_c.)
+
+Figure 3. Igniter surface temperature
+profiles. The
+fixed power-time trace is for l-g downward burning.
+Other orientations
+are not shown for clarity.
+
+propagation
+of the smolder front, but it also allows
+for examination
+of the progress
+and extent
+of
+
+3
+American
+
+Institute
+
+of Aeronautics
+
+and Astronautics
+
+cargo bay of the Space Shuttle.
+The igniter consists
+of a Nichrome wire heater placed between two porous
+ceramic disks, one of which is in complete contact
+with the one end of the fuel sample.
+Gaseous
+oxidizer
+forced
+through
+the igniter and foam is
+controlled
+via mass flow controllers or choked flow
+
+downward - not shown) can clearly be seen using the
+new
+method,
+whereas
+the
+previous
+protocol
+constrained
+the temperature
+of the igniter, masking
+the differences.
+A water condensation
+front, the
+effect of reaction exothermicity,
+and the effects of
+buoyant flows all become identifiable.
+The UIS system is thoroughly outlined in Tse et
+al. [11] and is therefore only shown here as Figure 4.
+The UIS has been employed in order to gain a better
+
+nozzles.
+Reaction
+zone temperature
+and smolder
+propagation
+velocities
+are
+obtained
+from
+the
+temperature
+histories of thermocouples
+embedded
+at
+predetermined
+positions within the foam.
+Tests have been conducted
+with air as oxidizer
+
+understanding
+of the smolder
+reaction.
+Briefly,
+operation
+procedures
+for the ultrasonic
+imaging
+technique for a single set of speaker and microphone
+are as follows:
+
+for both upward and downward orientations
+of both
+forward and opposed flow smolder [9,10]. Two welldefined
+smolder
+regimes
+are evidenced,
+a selfsustained
+smolder regime and a no-ignition regime,
+the boundary between which is primarily determined
+by two parameters,
+igniter power flux (O(1 W/cm2)),
+and the time the igniter is powered (O(10 3 sec.)). The
+
+1) A speaker
+
+emits
+
+an ultrasonic
+
+4) The next ultrasonic
+transmission
+data point is
+taken.
+The frequency
+of wave-train
+pulses is
+important.
+The time between wave-train pulses
+
+(Timing Signal)
+
+[
+
+•
+
+I"
+
+"""
+
+""
+
+LOG DC/RMS
+CONVERTER
+
+/
+
+l (<Recv'd Signal)
+
+,_
+
+I
+
+I
+
+[
+]
+
+[
+_l
+
+I
+
+"-I_
+
+I
+Im .;,,,,
+
+I
+
+PRE-AMPS
+
+FLASH MEMORY
+
+Figure
+
+4. UIS electronic
+
+i
+
+I'
+
+MICROPHONES (5)
+
+POWER AMPLIFIER
+
+ol
+II 1
+
+_[.
+_
+
+r
+
+_!
+
+4
+Institute
+
+of Aeronautics
+
+I
+
+II I
+
+II I
+
+IIII
+SPEAKERS (5)
+
+TEST SECTION
+
+schematic
+
+American
+
+_
+_
+
+GAIN
+SELECTABLE
+I
+
+MULTIPLEXER
+_
+
+[ , (Channel Select) _ _
+
+_r II
+
+._1"[^
+
+SYNTHESIZED FUNCTION [
+GENERATOR[
+
+/Gain Select)
+
+wave-
+
+train pulse through
+the porous medium.
+The
+wave-train
+pulse consists of a given number of
+cycles, (6).
+The pulsed ultrasound
+signals are
+amplified
+by a gain-selectable
+amplifier
+that is
+controlled
+by a feedback
+loop to optimize
+the
+strength of the received signal.
+2) A microphone
+receives the wave-form,
+which is
+amplified and converted to a RMS signal. Based
+on the shortest path length through the sample, the
+first peak in the received waveform identifies the
+desired transmitted signal through the foam/char.
+3) The received RMS waveform strength is digitally
+sampled and stored.
+
+required time for ignition of self-sustained
+smolder is
+shorter for forward smolder than opposed due to fuel
+preheating
+by the hot combustion
+products.
+Further,
+the boundary for both forward and opposed is shifted
+to shorter times for the same igniter power flux with
+increasing oxygen mass fraction [7,8]. An additional
+requirement
+for ignition
+is that the fuel-igniter
+interface must attain a minimum temperature.
+Figure
+3 shows thermocouple
+traces for the previous ignition
+protocol along with the temperature
+trace of the new
+protocol.
+The
+differences
+in igniter
+surface
+temperature
+with
+orientation
+(1-g
+upward
+vs.
+
+1_
+
+sinusoidal
+
+and Astronautics
+
+i
+
+500-
+
+0
+
+450 •
+• -10
+400
+I
+• -20
+
+350
+
+•-30
+
+'i
+e¢/}
+
+i.,o|
+ne
+¢/)
+
+5
+150
+
+- -50
+
+1 O0
+--60
+
+0
+
+- -70
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+1000
+
+1100
+
+1200
+
+1300
+
+1400
+
+1500
+
+1600
+
+Time (seconds)
+
+Figure 5. UIS thermocouple
+120 mm).
+
+UIS transducer
+
+(solid lines) and signal (points)
+pairs (x-25mm;
+
+n-60mm;
+
+must be longer than the time of flight for a single
+pulse and must also be long enough to prevent
+superposition
+effects from previously sent wavetrains reflected back into the propagation
+path of
+interest.
+Five speaker/microphone
+pairs are fixed at 25,
+60, 80, 100 and 120 mm from the igniter surface.
+This placement coincides with several thermocouples,
+which allows for correlation
+of the temperature
+and
+permeability
+results.
+Results / Discussion
+Figure 5 contains a plot of temperature
+and UIS
+received signal strength versus time. The test from
+which this data was taken was conducted
+in an
+upward
+burning,
+forward
+flow smolder
+with gas
+velocities of 0.1 mm/s during ignition and _2.5 mm/s
+during the propagation
+period.
+The UIS data shows
+an average smolder velocity of 0.118 mm/s.
+It was
+found from the temperature
+profiles that the smolder
+front propagated
+to a distance
+of 105 mm at an
+average
+velocity
+of 0.116ram/s,
+confirming
+the
+findings of the UIS data.
+
+American
+
+traces.
+
+0 -80mm;V
+
+Thermocouple
+
+-100ram;
+
+positions
+
+(0, 40,60,
+
+80, 100,
+
+o-120mm)
+
+It can be seen that the steep rise in transmission
+of the UIS signal at a given location correlates
+with a
+measured temperature
+of -290-300°C,
+corresponding
+to the pyrolysis temperature
+of the polyurethane
+foam
+[12]. This further corroborates
+the results of the UIS.
+The cause of the periodic nature of the UIS signal
+seen in Figure 5 is uncertain,
+however it is suspected
+that it may be the result of convection cells within the
+foam. The convection cells subtly effect the strength
+of reaction,
+causing
+it to produce
+more or less
+gaseous
+combustion
+products
+that are known
+to
+attenuate sound waves differently
+[13,14].
+It is the
+fluctuations
+in gas concentration
+within these cells
+that may be attributed the received signal fluctuations.
+Future microgravity
+tests will confirm or refute these
+assertions.
+The gradual
+rise
+transmission
+of Channel
+
+and steep
+drop
+in signal
+1 between time t =400-600 s
+
+is of interest.
+The sharp drop coincides
+with the
+switch from low to high oxidizer flow rate and the
+switching off of the igniter.
+This drop is caused by
+the passage of the water condensation
+front, which
+leads the reaction front [15]. In each channel, it may
+be seen from Figure 5 that the signal first undergoes a
+
+5
+Institute of Aeronautics
+
+and Astronautics
+
+gradual
+decrease
+in transmission,
+then a sharp
+increase upon arrival of the actual reaction
+front.
+This gradual
+decrease
+is due to water from the
+reaction condensing
+in the cool foam ahead of the
+
+2. Ortiz-Molina,
+M.G., Toong, T.Y., Moussa, N.A.,
+and Tesero, G.C., Seventeenth Symposium
+(International)
+on Combustion, The Combustion
+Institute, pp.1191, (1979).
+3. Damant, G.H., J. Textile. Inst., 85:505, (1994).
+4. Ross, H.D., "Invited Lecture," Natl. Fire Protection
+Assoc. Annual Meeting, May, 1996.
+5. Friedman, R., NASA Technical Memorandum
+106403, 1994.
+6. Palmer, H., "Closing Address," International
+Microgravity
+Workshop, NASA LeRC, Cleveland,
+OH, January 25, 1989.
+7. Walther, D.C., Anthenien, R.A., and Fernandez-
+
+reaction.
+The water partially fills the pores of the
+foam, increasing
+the attenuation
+of the ultrasound
+signal.
+With the arrival of the reaction front, the
+water is evaporated,
+and the permeability
+increases,
+increasing the transmission
+of the UIS signal. This is
+seen in every channel and is corroborated
+by the
+leveling off of the thermocouple
+traces at -75°C
+(most
+notably
+TC's
+4-6),
+an indication
+of an
+endothermic
+event
+such
+as water condensation.
+Peculiar to Channel 1, however is the sharp drop in
+signal after a short time of increasing signal. This is
+due to the large amount of preheated, unreacted fuel,
+generated by the low oxidizer flow during the ignition
+phase of the test. When the oxidizer flow is switched
+to the higher rate, this fuel reacts quickly, generating
+large amounts
+of products,
+which rapidly fill the
+pores ahead of the reaction.
+This results in the sharp
+drop in signal transmission
+evidenced
+in Figure 5.
+Also coincident
+with the oxidizer flow rate switch,
+Channel2
+transmission,
+
+undergoes
+although
+
+a sharp
+drop
+not as severe.
+
+in
+
+Pello, A.C., "The effect of oxygen concentration
+the ignition of smolder of polyurethane
+foam",
+Mediterranean
+Combustion Symposium,
+1999
+(submitted).
+8. Anthenien, R.A. and Femandez-Pello,
+A.C.
+
+Twenty-seventh
+Symposium (International)
+on
+Combustion, The Combustion Institute (in press).
+9. Anthenien, R.A. "A Study of Ignition of Forward
+Smoldering of Polyurethane Foam," PhD Thesis,
+Berkeley, CA (1998).
+10. Walther, D.C. "A Study of Opposed Flow
+Smoldering of Polyurethane Foam: Comparison
+between Normal- and Microgravity,"
+Ph.D. Thesis,
+Berkeley, CA (1998).
+11. Tse, S.D., Anthenien, R.A., Fernandez-Pello
+A.C., and Miyasaka, K., Comb & Flame 116:120
+(1999).
+12. Bilbao, R., Mastral, J.F., Ceamanos, J., and
+Aldea, M.F., J. Macromolec.
+Sci. Chem.
+A15(1): 169 (1996).
+13. Herzfeld, K., and Litovitz, T., Absorption
+of
+Ultrasonic Waves, Academic Press, Inc., New York
+(1959).
+
+signal
+
+Concluding
+Remarks
+An
+ultrasound
+imaging
+system
+has
+been
+developed
+and
+implemented
+into
+the
+ongoing
+Microgravity
+Smoldering
+Combustion
+experiments.
+The data collected will provide further insight into the
+smoldering
+process
+and provide
+a non-intrusive
+method for studying a smolder reaction propagating
+through
+a permeable
+material.
+The method
+has
+successfully
+imaged both the reaction front and the
+preceding
+water condensation
+front.
+Further, a new
+ignition procedure has been implemented
+which more
+accurately
+simulates
+a smolder ignition hazard and
+allows for a larger portion of the sample to under-go
+self-supporting
+smolder.
+Acknowledgments
+This work
+was supported
+by
+Aeronautics
+and Space Administration
+grants NAG3-1252
+and NAG3-2026.
+would like to acknowledge
+Ms. S. Motil and the NASA
+
+14. Bhatia, A., Ultrasonic Absorption,
+Oxford
+University Press, New York (1967).
+15. DeRis, J., Comb. Sci. Tech. 2:239 (1970).
+
+the National
+under NASA
+The authors
+
+the work and support of
+Lewis engineering team.
+
+References
+1. Ohlemiller, T.J., Prog.
+11:277, (1986).
+
+Ener. & Comb. Sci.,
+
+6
+American
+
+Institute
+
+on
+
+of Aeronautics
+
+and Astronautics
+

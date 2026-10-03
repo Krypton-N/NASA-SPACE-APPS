@@ -1,0 +1,1581 @@
+.
+
+,
+
+NASA-TM-II2173
+
+DROPLET
+
+.....
+
+COMBUSTION
+
+AND
+
+SOOT
+
+FORMATION
+
+IN MICROGRAVITYt
+
+C. THOMAS AVEDISIAN
+SIBLEY
+
+SCHOOL
+
+"
+
+OF MECHANICAL
+AND AEROSPACE
+CORNELL UNIVERSITY
+ITHACA, NEW YORK 14853-7501
+
+ENGINEERING
+
+-1.
+
+Introduction
+One of the most complex
+processes
+involved in the combustion
+of liquid fuels is the
+formation
+of soot. A well characterized
+flow field and simplified
+flame structure
+can improve
+considerably
+the understanding
+of soot formation processes.
+The simplest flame shape to analyze for
+a droplet is spherical with its associated one-dimensional
+flow field. It is a fundamental
+limit and the
+oldest and most often analyzed configuration
+of droplet combustion.
+Spherical symmetry
+in the droplet burning process will arise when there is no relative motion
+between the droplet and ambience
+or uneven heating around the droplet periphery,
+and buoyancy
+effects are negligible.
+The flame and droplet are then concentric with each other and there is no liquid
+circulation
+within the droplet.
+An understanding
+of the effect of soot on droplet combustion
+should
+therefore
+benefit
+from this simplified
+configuration.
+Reviews
+by Haynes
+and Wagner
+(1981),
+Howard and Kausch (1981), Smith (1981), and Glassman (1988) provide a thorough
+account of our
+state of understanding
+on soot formation
+in a wide variety of flaming configurations.
+Soot formed
+during spherically
+symmetric
+droplet combustion,
+however, has only recently drawn attention and it
+appears to be one of the few aspects associated
+with droplet combustion
+which have not yet been
+thoroughly
+investigated.
+For this review, the broad subject of droplet combustion
+[e.g., Williams
+1973; Faeth 1977; Law 1982; Sirignano
+1983] is narrowed
+considerably
+by restricting
+attention
+specifically
+to soot combined
+with spherically
+symmetric droplet burning processes that are promoted
+by microgravity.
+2.
+
+Visualization
+of Soot in Droplet
+Combustion
+Figure la is a photograph [Jackson and Avedisian 1993] that shows the basic configuration
+of near-spherical
+symmetry
+that is the focus of this review, and fig. lb is a schematic
+drawing. A
+heptane droplet is shown which is levitated by microgravity
+(the droplet and ambience
+are in free fall
+at nearly the same rate). The droplet is almost concentric with a spherical soot pattern or "shell" (the
+dark ring) and outer luminous zone. The term "spherically
+symmetric droplet combustion"
+(SSDC)
+that is used throughout this review refers to a situation like that shown in fig. 1 which has the
+appearance
+Visualizations
+
+of spherical
+
+symmetry.
+
+of soot formation
+
+in SSDC are limited
+
+and qualitative
+
+compared
+
+to the larger
+
+body of work reported on sooting processes
+in droplet flames at normal gravity [e.g., Sangiovanni
+and Liscinsky
+1984; Kadota and Hiroyasu
+1984; Randolf and Law 1986]. This is due in part to the
+greater difficulty
+of creating
+the microgravity
+environment
+for experimentation.
+It is not a simple
+matter to do testing in microgravity
+because
+the laboratory
+must be physically
+dropped
+and that
+creates problems
+in design and operation.
+The droplet must be formed and ignited,
+kept near
+motionless
+during its burning, photographed
+with the proper lighting to visualize simultaneously
+the
+droplet, soot, and outer luminous
+zone, and enough time must be available
+to observe
+the entire
+period
+
+of burning.
+
+3.
+
+Creating
+a Microgravity
+Environment
+The purpose of creating a microgravity
+environment
+for droplet combustion
+is to remove the
+influence
+of buoyancy.
+The goal is to create a situation in which the evaporation
+induced (Stefan)
+velocity is much larger than the relative velocity between the droplet and ambience, created either by
+buoyancy or a forced motion.
+An order of magnitude estimate of the Stefan velocity can be obtained
+from the quasi-steady
+state theory for spherically
+symmetric
+droplet combustion
+[e.g., Williams
+1973] and using the droplet diameter,
+D, as a characteristic
+length scale by convention
+[Law and
+Williams
+1972].
+t Invited paper, Eastern States Section Meeting, Combustion Institute, Clearwater, Fla., December 5-7, 1994
+19
+
+Williams (1980)andit waslaterusedasa basisfor a simplifiedanalysisof the process[Jackson
+et
+al. 1992;Choi et al. 1993]. Because f thesymmetric
+o
+flow field andtemperatureradientaroundthe
+g
+droplet,the soot particleswill ideallyresidein an apparent hell-like structureasshownin fig. 1,
+s
+hencethe namesoot shell. The shell will havea finite thicknessbecauseof variations in the
+aggregate
+sizesthat gettrappedby this forcebalance.The precise
+compositionof the sootshellis
+not known. However,1)it is highly porous, ) itsshape
+2
+will bespherical nderidealconditions,3)
+u
+its diameters timedependent,
+i
+and4) it resides etween
+b
+thedropletandflame.
+The ability to photograph
+thesootshellandouterluminouszoneof a flamerequiresproper
+lighting. Back-lightedimages
+cantotally obscure
+thesootpatterns thelightingis intenseenough.
+if
+Simultaneous
+measurement D, Ds (the meansootshell "diameter"),andDf can be difficult or
+of
+impossibleto measure sootimageintensitydominates;
+if
+and,thesootaggregates nddropletmay
+a
+not be visible if flame luminositydominates
+(e.g.,asobserved Jackson al. 1991). The finite
+by
+et
+rateof oxidationof the aggregates
+could,for example, lacethemwell pastthe flameandleadto the
+p
+primaryreactionzone(theflame)beingconfused
+with theluminouszone[RandolfandLaw 1986];
+theflame may bebetterdefinedby a peakin a radicalspecies OH. Differences visibility are
+like
+in
+mostlikely the resultof lightingvariations
+among
+thestudies
+reported.Forexample, hotographsf
+p
+o
+freeheptane
+droplets
+burningin microgravity
+[Kumagai tal. 1971;Avedisian al. 1988;Yangand
+e
+et
+Avedisian 1988]showedno sootshell. Onthe otherhand,microgravityexperiments
+reportedby
+Okajimaand Kumagai(1975),againfor heptane, learly revealed shell structurefor heptane
+c
+the
+(apparently the first to do so) probably becausea different lighting arrangementwas used.
+However,surprisingly,almostnocommentary
+wasofferedaboutthesootpatternsthatwereclearly
+visible in the photographs
+shown. Laterphotographs f free decane
+o
+[Shawet al. 1988a; hoi et al.
+C
+1992]and heptane[JacksonandAvedisian1993]dropletsburningin microgravity showedsoot
+shellssurroundingthe droplets.Soot patterns
+havealsobeenphotographed methanol/toluene
+for
+mixtures [Jacksonet al. 1991]andchlorinatedhydrocarbon
+droplets[Jacksonet al. 1992,1993]
+againburningin microgravity.
+The largest aggregatesin the shell can be observedusing conventional back-lighted
+photographs,houghthermophoretic ampling[Megarides
+t
+s
+andDobbins1987]andlight scattering
+techniques[e.g., Santoroet al. 1987] are more quantitative. Soot aggregates
+collected from
+microgravity droplet flames [Jacksonet al. 1992]showno distinctive featurescomparedwith
+particlesrecovered otherdropletcombustion
+in
+configurations
+(e.g.Nakanishi t al. 1981;Bonczyk
+e
+andSangionvanni1984; DobbinsandMegarides1990). Someevidencehasbeenreportedthat
+primary particle size is dependenton the gravitational level, being larger when formed in
+microgravity[Greenberg
+etal. 1994].
+The time dependence f Ds(theshell "diameter"really hasa finite thickness)reflectsthe
+o
+temporal ariationof Df duringburning.Measured
+v
+values theevolutionof Ds/Dareshownin fig.
+of
+2 for n-heptane[JacksonandAvedisian1993]andarecomparedwith measurements the outer
+of
+luminouszone,Dr/D, which is heretakento betheflamediameter.ThatbothDs/DandDf/D track
+together,with Ds/D<Df/D asshownin figs. 1 and2,is consistent ith thefact thatsootprecursors
+w
+form onthe fuel rich sideof theflame[e.g.,Dobbins1994].
+5.
+
+Parametric
+Effects
+on Soot Formation
+in Spherical
+Droplet
+Flames
+5.1
+Introduction
+The parameters
+pressure,
+droplet
+composition,
+ambient
+gas composition,
+initial droplet
+diameter and their effect on soot formation in SSDC narrows considerably
+the available experimental
+results.
+Very few studies have been reported on how these parameters
+influence
+soot formation
+in
+SSDC, due most likely to the greater difficulty
+of carrying out systematic
+SSDC experiments
+in
+microgravity.
+5.2
+Initial
+Droplet
+Diameter
+The ideal spherically
+symmetric
+quasi-steady
+droplet
+burning
+process
+should
+not be
+influenced
+by the initial droplet diameter. However, the actual spherically
+symmetric
+burning process
+may not be quasi-steady
+(see fig. 2) because it exhibits features not accounted
+for in the ideal case
+such as soot formation.
+21
+
+been
+
+An effect of initial diameter,
+Do, on the droplet burning rate, defined as K = -d(D2)/dt,
+has
+measured
+[Jackson
+and Avedisian
+1993].
+K is obtained
+directly
+from measured
+droplet
+
+diameters
+
+by plotting
+
+the variation
+
+of (D/Do 2) with t/Do 2 since
+
+from the quasi-steady
+
+theory
+
+of
+
+droplet combustion,
+D2=Do 2 - Kt [e.g., Williams
+1973]. Figure 3a shows a typical variation
+for
+heptane (Jackson
+1994) which is the most extensively
+studied hydrocarbon
+for microgravity
+droplet
+flames.
+The linearity
+between K and t/Do 2 is apparent and there is a slight difference
+in K for the
+two Do values shown which is more clearly revealed by using a computer-based
+data analysis sys_m
+to analyze the motion picture movie frames [Jackson 1994].
+Fig. 3b shows the resulting
+vafiauon
+of K with Do for heptane for the range of Do considered
+[Jackson and Avedisian
+1993]. The line is
+drawn to suggest
+trends.
+An explanation
+for an effect of Do on K has been offered based on
+speculations
+about sooting tendencies
+of droplets with different initial diameters.
+The only available
+evidence
+for SSDC is circumstantial
+and based on visual comparisons
+of image intensity.
+In a
+different droplet configuration,
+experiments
+on monodispersed
+droplet streams have shown that soot
+formation
+increases
+as the droplet spacing decreases
+such that a single flame surrounds
+the group
+[Sangiovanni
+and Liscinsky
+1984].
+If the combustion
+of a group of closely
+spaced droplets
+is
+roughly equivalent
+to that of a single larger droplet (Labowsky
+and Rosner 1978), this result is also
+consistent
+with proportionally
+increased
+sooting with increasing
+droplet diameter.
+A connection
+between
+fuel molecule
+residence
+time and droplet diameter
+has been offered as a reason for an
+influence of Do on soot formation
+and the droplet burning rate [Jackson et al. 1992]. The temperature
+of the droplet flame should also effect the propensity
+for sooting [Glassman
+1987] but it is not
+known how large the variation of flame temperature
+with Do is for the range of Do examined.
+Burning
+rate measurements
+reported
+by Kumagai
+et al. (1971), Okajima
+and Kumagai
+(1975), and Hara and Kumagai
+(1990, 1994) show that K is nearly independent
+of Do, or at most
+increases slightly. These data were recently criticized [Choi et al. 1990] on the grounds that spherical
+symmetry
+was not attained initially in the experiments
+because of various levels of convection
+which
+went undetected.
+Convection
+was thought to be caused by the method of igniting the droplets. With
+spark ignition and the force it can create on a droplet [Shaw et al. 1988b], ignition symmetry
+can be a
+factor in setting up convective
+currents around a droplet that could persist [Monaghan
+et al. 1968]
+throughout
+
+burning.
+
+Additional
+
+reasons
+
+for the differences
+
+are speculated.
+
+Convection
+
+can sweep
+
+soot precursors
+
+or aggregates
+away from the droplet and through the flame, to open the flame, or curtail the period
+that a shell would stay intact during burning. The heat transfer to the droplet could then be reduced
+and lead to a burning rate that is more indicative of a lightly, or no, sooting limit which (presumably)
+would be higher than when a shell forms early in burning and remains intact throughout
+the droplet
+lifetime.
+These effects
+may be reduced
+as the droplet
+diameter
+decreases
+since sooting
+is
+proportionally
+less pronounced
+for small droplets. That K would not depend on Do for a sooting fuel
+would be consistent
+with a burning condition
+in which soot does not influence
+the process.
+This
+could arise if soot aggregates
+are swept away by convection
+and are never trapped between
+the
+droplet and flame. Figure 3b shows the calculated
+burning rate in this limit where sooting is not a
+factor for heptane
+[Jackson
+and Avedisian
+1994]. In any event, it appears
+that K is somewhat
+sensitive
+to the soot patterns formed and the duration that these patterns remain intact throughout
+burning.
+The
+
+results
+
+of Kumagai
+
+et al. (1971),
+
+Okajima
+
+and Kumagai
+
+(1975)
+
+and Hara
+
+and Kumagai
+
+(1994) showed burning rates for heptane that are higher than those shown in fig. 3 and reported
+elsewhere
+[Choi et al. 1990]. The predicted
+quasi-steady
+soot-free SSDC burning rate of heptane is
+about .86mm2/s
+[Jackson and Avedisian
+1994] in atmospheric
+air, which compares
+with measured
+values of around .78mm2/s
+[Hara and Kumagai
+1990, 1994], independent
+of Do, and the results of
+fig. 3 for the smallest
+droplets
+studied.
+Avedisian
+(1993) are lower, averaging
+
+For Do-lmm,
+about .6mm2/s
+
+burning
+rates measured
+An additional
+heptane
+
+i
+
+by Jackson and
+burning
+rate for
+
+Do--1.12mm
+was reported
+as .Smm2/s [Choi et al. 1990] for a droplet with the lowest relative
+droplet/gas
+velocity (and presumably
+burning with the greatest degree of symmetry)
+from among
+those they studied which is consistent with the trends shown in fig. 3.
+5.3
+
+Composition
+
+lI
+
+22
+
+Few studies
+have examined
+the influence
+of composition
+on droplet
+combustion
+in
+microgravity
+(e.g., Yang et al. 1990; Mikami et al. 1993), and one specifically
+addresses
+soot for
+droplets burning in microgravity
+[Jackson et al. 1991] for a mixture of methanol and toluene.
+In that
+study, a strong effect of methanol addition to toluene on soot image intensity was found (for roughly
+the same lighting conditions).
+For example, 5% toluene in methanol burns essentially
+the same as
+pure methanol,
+including
+the observation
+of extinction
+[Cho et al. 1990, 1992; Yang et al. 1990;
+Jackson
+et al. 1991].
+The appearance
+of soot particles
+was not evident even for a 25% toluene
+mixture (though particles could have gone undetected
+due to the optical arrangement
+used). Higher
+toluene concentrations
+create more luminous flames signifying more soot formauon.
+Only for a 50%
+toluene
+mixture
+was significant
+soot aggregate
+and shell formation
+observed.
+Some of the
+aggregates
+formed were carded through the flame and oxidized (the Stefan force on the particles
+evidently being able to overcome
+the thermophoretic
+force).
+Figure 4 is a photographic
+sequence
+that shows the development
+of a soot shell and outer
+luminous zone for a toluene/methanol
+mixture droplet that contains initially 50% toluene.
+An early
+period of droplet burning (for t < 0.15s in fig. 4) is characterized
+by no visible soot formation
+and
+relatively low flame luminosity.
+Because methanol is vaporized
+more rapidly than toluene from the
+surface, the droplet surface becomes richer in toluene as burning proceeds and the toluene fractional
+mass vaporization
+increases.
+Furthermore,
+a toluene flame should be larger than a methanol
+flame so
+that the residence
+time will be increased,
+and with time more soot would be produced.
+It should be
+noted that even for a single component
+fuel there will be a delay time for soot to form which, of
+course, cannot be attributed to preferential
+vaporization.
+6.
+
+Disruptive
+Burning
+of Single
+Component
+Fuels
+An interesting
+phenomenon
+has occasionally
+been observed during combustion
+of single
+component
+fuels in microgravity,
+namely that the droplet will sometimes burst or explode near the
+end of combustion.
+This phenomenon
+has only been observed
+when soot forms. Originally
+observed by Knight and Williams (1980) in microgravity
+experiments
+on free n-decane droplets, and
+termed "flash extinction",
+it has been more prominent in the observations
+reported by Shaw et al.
+(1988a) for near spherically symmetric n-decane droplet combustion.
+Disruptive burning for a single
+component
+fuel droplet has also been observed for butyl alcohol and furfural alcohol droplets
+burning in a g0nvective
+environment
+[Kesten et al. 1980]. Three arguments have been offered for
+disruptive burning of single component fuels.
+The first assumes
+that low volatility soot precursor species get absorbed
+into the droplet
+during combustion
+[Shaw and Williams
+1990].
+Once absorbed,
+the droplet is no longer a single
+component
+fuel and the mechanism
+for disruption
+can then be much the same as speculated
+for a
+multicomponent
+fuel droplet
+(e.g., Law 1982; Avedisian
+and Glassman
+1981).
+The second
+conjectures
+that hot soot agglomerate
+particles
+are driven toward
+the droplet
+by a dominant
+thermophoretic
+force after which the particles will contact the droplet sometime
+during combustion
+[Kesten et al. 1980] and cause rapid boiling of the liquid. The third assumes explosive
+ignition of
+soot particles if the flame is very close to the droplet surface [Choi et al. 1993].
+Some of these mechanisms
+require an inward motion of soot agglomerates,
+or soot precursor
+species, toward the droplet surface, which can be provided by the thermophoretic
+force acting on the
+particles
+as discussed
+previously.
+Others, require that the aggregates
+are driven away from the
+droplet (and toward the flame).
+The location where forces on aggregates
+balance depends
+on the
+aggregate size and 02 concentration
+in the ambience [Jackson and Avedisian
+1992; Choi et al. 1993].
+If the aggregates
+are driven away from the droplet, they can pass through the flame where they can
+ignite,
+perhaps explosively.
+Further work will be required to identify more precisely
+the correct
+mechanism
+for this unusual behavior for single component
+(sooting) fuels.
+7.
+
+Modeling
+Soot Formation
+in Spherically
+Symmetric
+Droplet
+Flames
+Modelling
+soot formation
+process for SSDC has not been accomplished
+because
+of the
+complexities
+involved. Complete combustion chemistry and soot formation dynamics are aspects of
+that must be coupled with the conservation
+equations.
+The problem is compounded
+by the fact that
+both the chemical
+kinetic mechanism
+for many fuels and the rate equations
+for soot formation in
+droplet flames are not known with certainty.
+Some of the building
+blocks needed for SSDC
+23
+
+modelling have been developed
+in past research, for example the influence of flame radiation [Saitoh
+et al. 1993; Lage and Rangle 1993] and complete chemistry
+for several fuels [Cho et al. 1990, 1992;
+Jackson
+and Avedisian
+1994].
+Models for soot production
+rates in flames [Kennedy
+et al. 1990;
+Frenklach et al. 1990] have also been developed.
+Concerning
+the soot shell, the only aspect thus far
+addressed has been to show with simplified models that the forces acting on soot particles can in fact
+lead to locations
+between the droplet and flame where they balance [Jackson et al. 1992; Choi et al.
+1993]. The effect of the shell on heat and mass transfer between the droplet and flame has not yet
+been addressed
+in analysis.
+8.
+
+Summary
+and Needs
+Two broad research
+needs to further
+understand
+soot formation
+during
+SSDC are the
+following.
+Firstly, there is a dearth of experimental
+observations
+on soot formation
+in SSDC. This
+fact is tied to the great difficulty
+of forming a droplet, igniting it, and keeping it motionless
+during
+combustion,
+and all in a buoyancy-free
+environment.
+Preferably,
+experiments
+should be done with
+free or unsupported
+droplets.
+If suspended
+droplets are used, care should be used in interpreting
+the
+results, especially
+the effect of the fiber on droplet shape and attraction of soot particles.
+Secondly,
+analyses
+of droplet combustion
+processes
+should begin to include formation
+of a
+soot shell and its effect on burning.
+The analyses will probably have to be numerical
+as it is unlikely
+that a single, or a few, reaction steps will be capable of capturing
+the pathways
+to soot formation.
+The difficulty
+of this undertaking
+is compounded
+by the uncertainty
+of both the rate equations
+involved
+with soot formation
+and the chemistry
+of combustion.
+Work should continue
+developing
+validated chemical
+kinetic models (complete chemistry)
+of hydrocarbon
+fuels, especially
+those that
+are liquid at room temperature,
+and fundamental
+experiments
+are needed to quantify the steps in the
+formation
+of soot that will be important inputs to SSDC models.
+Acknowledgements
+The author is pleased
+to acknowledge
+the insights offered by Dr. Gregory Jackson of Precision
+Combustion,
+Inc. on
+the SSDC process.
+Additional
+conversations
+with Dr. Joseph J. Sangiovanni
+of United Technologies
+Research
+Corporation
+and Professor
+Richard
+A. Dobbins
+of Brown University
+have been helpful.
+The author also wishes to acknowledge
+the
+financial
+support
+received from several sources at various stages: the National Aeronautics
+and Space Administration;
+the New
+York State Center for Hazardous
+Waste Management;
+the Department
+of Energy; and the National Science Foundation.
+References
+Avedisian,
+C.T. and Glassman,
+I. 1981 J. Heat Transf 103, 272.
+Avedisian,
+C.T., Yang, J.C., and Wang, C.H. 1988 Proc. R. Soc. Lond., A420,
+183-200.
+Bonczyk,
+P.A. and Sangiovanni,
+J.J. 1984 Comb. Sci. Tech. 36, 135-147.
+Cbaveau,
+C., Cbesneau,
+X., and Gtkalp, I. 1993 AIAA
+Paper No. 93-0824.
+Cho, S.Y., Choi, M.Y., and Dryer, F.L. 1990 23rd Syrup. (Int.) Comb., Pittsburgh,
+Pa.: The
+1617.
+Cho, S.Y., Yetter, R.A., and Dryer, F.L. 1992 J. Comp. Phys., 102, 160-179.
+Choi, M.Y., Dryer, F.L., and Haggard,
+J.B. 1990 23rd Syrup. (Int.) Comb., Pittsburgh,
+1597-1604.
+Choi,
+
+M.Y.,
+
+Dryer,
+
+F.L., Card,
+
+J.M., Williams
+
+F.A., Haggard,
+
+J.B. and Borowski,
+
+Combustion
+
+Pa.: The
+
+B.A. 1992 AIAA
+
+Institute,
+
+Combustion
+Paper
+
+pp.
+
+Institute,
+
+1611-
+
+pp.
+
+No. 92-0242.
+
+Choi, M.Y., Dryer, F.L., Green, G.J., and Sangiovanni,
+J.J. 1993 AIAA
+Paper No. 93-0823.
+Dietrich, D.L. and Haggard,
+J.B. 1993 Second International
+Microgravity
+Combustion
+Workshop,
+p. 317, NASA Conference
+Publication
+10113, Office of Management,
+NASA.
+Dobbins,
+R.A. 1994 Comb. ScL Tech. Book Series. Vol. 2, in press.
+Dobbins,
+R.A. and Megaridis,
+C.A. 1987 Langumir.
+3, 254-259.
+Faeth, G.M. 1977 Prog. Energy.
+Comb. Sci. 3, 191-224.
+Frenklach,
+M. and Wang, H. 1990 23rd Syrup. (Int.) Comb., Pittsburgh,
+Pa.: The Combustion
+Institute,
+pp. 1559-1566.
+Glassman,
+I. 1987 Combustion,
+2nd ed., Orlando, Fla.: Harcourt, Brace, Jovanovich.
+Glassman,
+I. 1988 22rid Syrup. (Int.) Comb., Pittsburgh,
+Pa.: The Combustion
+Institute,
+pp. 295-311.
+Greenberg,
+P., Griffin, D.W. and Ku, J.C. 1994Comb.
+Flame., to be published.
+Hara, H. and Kumagai,
+S. 1990 23rd Syrup. (Int.) Comb., Pittsburgh,
+Pa.: The Combustion
+Institute, pp. 1605-1610.
+Hara, H. and Kumagai,
+S. 1994 25th Syrup. (Int.) Comb., Pittsburgh,
+Pa.: The Combustion
+Institute,
+to be published.
+Haynes, B.S. and Wagner, H. Gg. 1981 Prog. Energy
+Comb. Sci., 7, 229-273.
+Howard, J.B. and Kausch, W.J. 1981 Prog. Energy Comb. Sci. 6, 263.
+Jackson,
+G.S. 1994 Ph.D Thesis, Cornell University.
+Jackson,
+G.S., Avedisian,
+C.T., and Yang, J.C. 1991 Proc. R. Soc. Lond., A435, 359-369.
+Jackson, G.S,
+Avedisian,
+C.T., and Yang, J.C. 1992 Int. J. Heat Mass Trans., 35 (8), 2017-2033.
+Jackson G.S. and Avedisian,
+C.T. 1993 AIAA paper no. 93-0130 (see also Proc. R. Soc. Lond. A446, 255-236)
+Jackson,
+G.S. and Avedisian,
+C.T. 1994 Cornell Energy Report No. E-94-04,
+Sibley School of Mechanical
+and Aerospace
+Engineering,
+Cornell
+University,
+January.
+
+24
+
+.---x-.,.
+
+Kadota, T. and Hiroyasn.
+H. 1984 Comb. Flame, 55, 195-201.
+Kenl_edy, I.M., Kollman,
+W. and Chen. J.Y. 1990 Comb. Flame. 81. 73-85.
+Kesten.
+A.S., Sangiovanrti,
+J.J. and Goldbcrg.
+P. 1980 J. Eng. for Power. 102, 613.
+Knight.
+B., and Williams.
+F.A. 1980 Comb.
+Flame, 38. I I 1-119.
+Ktm'tagai,
+S. Sakai. T.. and Okajima,
+S. 1971 13th Syrup. (Int.) Comb..
+Pittsburgh.
+l)a.: The
+190.
+Law. C.K. 1982 Prog. Energy. Comb. Sci. 8, 171-201.
+Law, C.K.. Ctmng, S.H. and Srinivasan,
+N. 1980 Comb. Fhmw.38.
+173-198.
+Law, C.K. and Williams.
+F.A. 1972 Comb. & Flame 19, 393-405.
+
+Combustion
+
+Institute,
+
+Labowsky,
+M. and Rosuer, D.E. 1978 Adv. Chem. Ser. 166 (J.T. Ztmg, Ed.), pp. 63-79. American Chemical
+Megaridis,
+C.M. and Dobbins.
+R.A. 1990 Comb. Sci. Tec!h. 71.95-109
+Mikami,
+M.. Kono. M., Sato. J.. Dietrich.
+D.L. and Williams.
+F.A. 1993 Comb. St'i. Tec'h. 90. 111-123.
+
+pp.
+
+177-
+
+Society.
+
+Monaghan,
+M.T., Siddall, R.G,, and Thrirlg, M.W. 1968 Comb. Flame 12, 45-53.
+Nakanishi,
+K.. Kadota, T. and Hiroyasu,
+H. 1981 Comb.
+Fh'tme 40, 247-262.
+Okajima.
+S. and Kumagai,
+S. 1975 15th Synq_. (Int.) Comb.. l_ittsburgh.
+Pa.: The Combustion
+Institute,
+pp. 401-407.
+Randolph.
+A.L. and Law, C.K. 1986 Comb.
+Flame, 64, 267-284.
+Sangiovanni,
+J.J. and Liscinsky.
+D.S. 1984 20th Syrup. (Int.) Comb.,
+Pittsburgh.
+Pa.: The Combustion
+Institute,
+pp. 10631073.
+Santoro,
+R.J., Yeh, T.T. and Scmerjian,
+H.G. 1987Comb.
+Sci. Tech. 53, 89.
+Shaw, B.D., Dryer. F.L., Williams.
+F.A., and Haggard,
+J.B. 1988a Acta Astronaut.,
+17. 1195-120.
+Shaw, B.D.. Dryer, F.L.. Williams,
+F.A., and Gat. N. 1988b Comb. Fhmw. 74. 233.
+Shaw. B.D. and Williams,
+F.A. 1990 Int. ,L Ih'at Mass Trtmaf. 33, 301.
+Shaw. B.D. and Aharon,
+I. 1993 Second
+International
+Micrograrity
+Combttstion
+Workshol_.
+p. 297, NASA
+Conference
+Publication
+10113. OMce of Management,
+NASA.
+Sirignano,
+W.A. 1983 Prog. Energy. Comb. Sci. 9, 291.
+Smith, O.I. 1981 Prog. Energy Comb. Sci. 7, 275.
+Wellin,
+J.D., Jackson.
+G.S. and Avedisian,
+C.T. 1993 paper no. 88. Fall Easlern
+States Section
+Meeting.
+Combustion,
+Prirlceton,
+N.J. October
+25-27.
+Williams.
+A. 1973 Comb.
+Flame 21, 1-31.
+Williams.
+F.A. 1985 Acta Astrona,t.
+12, 547.
+Yang, J.C. and Avedisian.
+C.T. 1988 22rid Syml_. (Int.) Comb.. Pittsburgh,
+Pa.: The Combustion
+Institute,
+pp. 2037-2044.
+Yang. J.C., Jackson,
+G.S. and Avedisian.
+C.T. 1990 23rd Syrup. (Int.) Comb., Pittsburgh. Pa.: The Combustion
+Institute.
+pp.
+1619-1625.
+
+outer luminous
+
+zone
+
+1%iliiiiiii
+
+soot shell
+
+i
+
+.......
+
+(a)
+Figure
+heptane
+
+1: Basic
+&'oplet.
+
+configuration
+of spherically
+In the photograph,
+Do=.7rrun
+
+::::::::::::::::::::::::::::::::
+
+(b)
+symmetric
+
+25
+
+combustion
+
+of a stationary
+
+and unsupported
+
+10.00
+
+....
+
+I ....
+
+I ....
+
+"
+
+I ....
+
+I ....
+
+DI_.
+
+"
+
+8._
+
+o
+
+l ....
+
+t
+o
+
+,_
+
+e,,,
+6.00
+
+•
+
+• •
+• ..
+
+_
+
+I ....
+
+°.'%
+
+: ,_
+
+"l'.
+
+":
+
+"
+
+...'"
+
+'.
+
+_-0.86mm
+
+"
+
+"
+
+do=O.79mm
+
+• 5+=0.69mm
+<_.-o
+so,,.,m
+
+"* ":
+
+_.."
+
+I'''
+
+d_-O.63mm
+
+D_
+.
+
+4.00 --
+
+3
+
+.
+
+'t, Pd/
+
+•
+
+•
+
+V "1'''
+
+.,'"I""
+°l
+
+"_';.;
+
+" _
+
+1.00
+
+•
+
+1.20
+
+2+00
+
+0.00
+
+''''I''',I,,,_I,,,,I,,_,I,,,,I,,,,I,,,
+
+0.00
+
+0.20
+
+1
+
+0.40
+
+0.60
+
+0.80
+
+t/Do2
+
+Figure
+
+2: Variation
+
+(divided
+
+[-'''I
+1
+
+"OOt-'_,...
+
+I--
+
+'''l'
+
+''I'
+
+''l'
+
+"
+
+''I'
+"
+
+"._.-.
+
+''I'
+
+Do= 0.48
+
+,,l,
+
+droplet
+
+0.90
+
+0.60_
+
+"''
+
+j
+
+_.
+
+'I
+
+with t/Do2.
+
+....
+
+I ''''
+
+I ....
+
+I ....
+
+I ....
+
+I''
+
+''I
+
+''''
+
+....... +
++ ...............................
+
+-
+
+0.80
+
+_"
+_'-o
+
+diameter)
+
+--
+
+. _= 0.75
+_
+
+o+
+t
+
+zone and soot shell diameters
+
+,_
+
+mm
+
+1.60
+
+(s/ram 2 )
+
+of luminous
+
+by the instantaneous
+
+1.4,0
+
+_
+
+lmati(a_
+
+O,oat
+
+0.70
+
+¢.q
+
+_,
+
+0.60-
+
+%.
+
+".-.'-.. 4
+
+o
+
+0.50
+
+°%
+
+0.00_''
+O.00
+
+'l'''
+0.20
+
+l''
+
+'l'''
+
+0.40
+
+l,,,
+
+0.60
+
+0.80
+
+t/Do2
+
+Figure
+
+3a: Variation
+
+heptane droplets
+air at atmospheric
+
+i
+
+t=0.140
+
+sec
+
+(s/ram
+
+l,
+
+,,l,
+
+1.00
+
+l,,
+
+,"_
+
+1.40
+
+o48+0,.... ,.... ,.... ,.... ,.... ,.... ....
+
+1.60
+
+•
+
+0.50
+
+0.60
+
+0.70
+
+0.80
+
+0.90
+
+1.0
+
+1.1
+
+D O (ram)
+
+for
+
+with t/Do2
+
+burning in room
+pressure.
+
+Figure 3b: Burning
+temperature
+air at
+microgravity.
+
+temperature
+
+sec
+
+t=0.150
+
+sec
+
+Figure
+mixture
+
+4: Development
+of soot shell for combustion
+droplet with Do--.49mm.
+Droplet was initially
+
+toluene.
+
+Time
+
+after ignition
+
+0.40
+
+2)
+
+of (D/Do)2
+
+t=0.145
+
+,'?'.
+1.20
+
+is shown
+
+beneath
+
+t=0.155
+
+t=0.160
+
+sec
+
+in microgravity
+of a methanol/toluene
+an equivolume
+mixture of methanol
+and
+
+each picture.
+26
+
+sec
+
+rates of heptane
+in room
+atmospheric
+pressure
+in
+

@@ -1,0 +1,420 @@
+SPACECRAFT FIRE SUPPRESSION: TESTING & EVALUATION
+Angel Abbud-Madrid, J. Thomas McKinnon, and Jean-Pierre Delplanque
+Center for Commercial Applications of Combustion in Space
+Colorado School of Mines
+Golden, CO 80401
+Phone: (303) 384-2300 E-mail: aabbudma@mines.edu
+Kazhikathra Kailasanath
+Center for Reactive Flow & Dynamical Systems
+Naval Research Laboratory
+Washington, DC 20375
+Suleyman Gokoglu and Ming-Shin Wu
+NASA Glenn Research Center
+Cleveland, OH 44135
+The objective of this project is the testing and evaluation of the effectiveness of a variety
+of fire suppressants and fire-response techniques that will be used in the next generation of
+spacecraft (Crew Exploration Vehicle, CEV) and planetary habitats. From the many lessons
+learned in the last 40 years of space travel, there is common agreement in the spacecraft firesafety community that a new fire suppression system will be needed for the various types of fire
+threats anticipated in new space vehicles and habitats. To date, there is no single fire
+extinguishing system that can address all possible fire situations in a spacecraft in an effective,
+reliable, clean, and safe way. The testing conducted under this investigation will not only
+validate the various numerical models that are currently being developed, but it will provide new
+design standards on fire suppression that can then be applied to the next generation of spacecraft
+extinguishment systems.
+The test program will provide validation of scaling methods by conducting small,
+medium, and large scale fires. A variety of suppression methods will be tested, such as watermist, carbon dioxide, and nitrogen with single and multiple injection points and direct or
+distributed agent deployment. These injection methods cover the current ISS fire suppression
+method of a portable hand-held fire extinguisher spraying through a port in a rack and also nextgeneration spacecraft units that may have a multi-point suppression delivery system built into the
+design. Consideration will be given to the need of a crew to clean-up the agent and recharge the
+extinguishers in flight in a long-duration mission.
+The fire suppression methods mentioned above will be used to extinguish several fire
+scenarios that have been identified as the most relevant to spaceflight, such as overheated wires,
+cable bundles, and circuit boards, as well as burning cloth and paper. As it has been shown in
+our previous work, the threat of these scenarios is not only the fire itself but also the smoke
+generated from flight-rated materials and wiring insulation that can be extremely toxic. Further
+testing will be conducted in which obstructions and ventilation will be added to represent actual
+spacecraft conditions (e.g., a series of cards in a card rack). The transport of the suppressant
+agent at various locations in the enclosure will be measured. The system will also test the
+effectiveness of fire suppressants in fighting low (28 VDC) and high (120 VDC) voltage
+
+NASA/CP—2004-213205/VOL2
+
+1
+
+electrical fires. Tests will be conducted at the lowest gravity level possible in NASA’s ReducedGravity Aircraft, as well as at Lunar (0.16 g) and Martian (0.38 g) levels. The Fire Suppression
+Testing Facility (FSTF) that will be built and used for this investigation may in the future serve
+as a prototype for the development of a Fire Suppression Insert that may use the Combustion
+Integrated Rack onboard the ISS to conduct long-duration µg tests. This insert will be capable of
+providing a demonstration of a fire-suppression system prototype under spaceflight conditions,
+raising the technology readiness level of the project to a prototype demonstration level (TRL 6).
+This prototype may help in the design of the fire extinguisher to be used in the first manned
+flight of the Crew Exploration Vehicle planned for 2014.
+The main deliverable of this project will be the evaluation and practical demonstration of
+the most effective fire extinguishing and fire response strategy that will efficiently put out a fire
+inside an equipment rack and in any spacecraft module or planetary habitat with a minimum
+amount of suppressant agent and toxic byproducts, and with easy cleanup and recovery after the
+fire event is over. The experimental study will include testing under various gravity levels
+(normal, microgravity, Lunar, and Martian conditions) and under the worst-case fire scenarios
+and environments (pressure, ventilation, power, materials, and surrounding fluids) anticipated in
+future spacecraft and planetary habitats considered under the new NASA Vision for Exploration
+Agenda.
+
+NASA/CP—2004-213205/VOL2
+
+2
+
+NASA/CP—2004-213205/VOL2
+
+SPACECRAFT FIRE SUPPRESSION:
+TESTING AND EVALUATION
+Angel Abbud-Madrid
+J. Thomas McKinnon
+Jean-Pierre Delplanque
+Center for Commercial Applications of
+Combustion in Space/Colorado School of Mines
+
+3
+
+Kazhikathra Kailasanath
+Naval Research Laboratory
+Suleyman Gokoglu
+Ming-Shin Wu
+NASA Glenn Research Center
+
+NASA/CP—2004-213205/VOL2
+
+OBJECTIVE
+•
+
+TESTING AND EVALUATION OF THE EFFECTIVENESS OF:
+• FIRE SUPPRESANTS
+• FIRE RESPONSE TECHNIQUES
+
+4
+
+•
+
+FOR NEXT GENERATION OF:
+• SPACECRAFT
+• PLANETARY HABITATS
+
+NASA/CP—2004-213205/VOL2
+
+FIRE SUPPRESSION PROCESS
+Compartment Geometry
+
+SUPPRESSION MECHANISMS:
+Flux Density
+
+Flux Density
+
+Dynamic Mixing
+Mo
+me
+n
+
+tum
+
+st
+M
+M
+Miii
+
+Mi
+st
+
+m
+um
+um
+ntu
+me
+om
+om
+Mo
+
+*
+
+*
+
+5
+
+Displacement
+Displacement
+• • Oxygen
+Oxygen
+• • Fuel vapor
+Fuel vapor
+
+Radiation shielding
+Radiation shielding
+Obstruction
+
+Kinetic effects
+Kinetic effects
+ce
+our
+eS
+Fir
+
+•
+
+Thermal
+• Cooling by sensible and latent heats
+
+• Physical
+• Oxygen depletion
+• Cooling surfaces
+• Reduction in radiative transfer of energy
+• Chemical
+• Enhance radical recombination
+FACTORS AFFECTING PERFORMANCE:
+
+Cooling
+Cooling
+
+• • Fire plume
+Fire plume
+• • Fuel surface
+Fuel surface
+
+Drawing after Liu and Kim (2000)
+
+•
+•
+•
+•
+
+* Suppressant can be water mist or any
+other gaseous agent
+
+Suppressant flux density and momentum
+Mixing
+Obstructions
+Gravity
+
+NASA/CP—2004-213205/VOL2
+
+CHALLENGES
+
+•
+
+Conduct evaluation and practical demonstration of:
+
+6
+
+•
+•
+•
+•
+•
+•
+
+Most effective fire suppression and response strategy
+
+•
+
+Effect of gravity (micro, partial, and normal g)
+
+Fire suppression under spacecraft conditions
+Use of minimum amount of suppressant agent
+Generation of minimum amount of toxic byproducts
+Easy agent clean up and prompt recovery
+Worst-case scenarios and environments (pressure,
+ventilation, power, materials, surrounding fluids)
+
+NASA/CP—2004-213205/VOL2
+
+NUMERICAL APPROACH
+
+HIGH FIDELITY
+INTEGRATION
+Suppression
+Agent
+Sub-model
+
+Sub-models are linked
+via CFD engine
+7
+
+REDUCED ORDER
+MODEL
+
+CFD
+ENGINE
+Fire Source
+Sub-model
+
+Sub-models are
+comprised of numerical
+and physical simulations
+
+Radiation
+Sub-model
+
+DEMO
+
+NASA/CP—2004-213205/VOL2
+
+NUMERICAL APPROACH (II)
+•
+
+Small and large-scale experiments
+to verify and validate numerical
+submodels and final
+reduced-order model
+
+COMPONENTS OF MODEL
+•
+•
+•
+•
+•
+
+Fire source (chemical kinetics)
+Fluid dynamics
+Suppressant agents (water mist, CO2, N2)
+Radiation
+Normal and partial gravity
+
+8
+
+NUMERICAL STUDY DELIVERABLE
+Software code for help in the design of
+spacecraft fire suppression systems
+
+NASA/CP—2004-213205/VOL2
+
+EXPERIMENTAL APPROACH
+Fixed injection point
+(typ)
+
+III. SUPPRESSION METHODS
+•
+•
+•
+
+Top Port
+
+No agent (baseline)
+Single injection port
+Multiple injection ports (dispersion)
+
+IV. EXPERIMENTAL CONFIGURATIONS
+
+Fire Scenario
+Module
+
+9
+Front Port
+
+•
+•
+•
+•
+
+Forced ventilation
+Obstructions
+Applied Voltage (24 VDC and 120 VDC)
+Micro, partial, and normal gravity
+
+I. FIRE SCENARIOS
+
+II. SUPPRESSION AGENTS
+
+V. MEASUREMENTS
+
+•
+•
+•
+•
+
+•
+•
+•
+•
+
+•
+•
+•
+•
+
+Single Cable
+Cable bundle
+Circuit board
+Cloth and paper
+
+Water mist
+Carbon dioxide (CO2)
+Nitrogen (N2)
+Dual-fluid
+
+Temperature
+Gas analysis
+Suppressant transport
+Fire extinction
+
+NASA/CP—2004-213205/VOL2
+
+PARTIAL GRAVITY TESTING
+CURRENT TESTING:
+KC-135 Parabolic flights
+(0.01, 0.16, 0.38 g)
+
+10
+
+FUTURE PLANS:
+Microgravity tests on
+ISS (10-6 g)
+
+Fire Suppression Insert
+
+Combustion Integrated Rack (CIR)
+
+RESEARCH POTENTIAL
+
+•
+
+Current Low-Gravity Testing Facility could be used as prototype for a Fire Suppression
+Insert in the Combustion Integrated Rack (CIR) onboard the ISS
+
+•
+
+Testing under long durations of g could provide a demonstration of a fire-suppression
+system prototype under spaceflight conditions (Technology Readiness Level, TRL 6)
+
+NASA/CP—2004-213205/VOL2
+
+CONTRIBUTION TO NASA’S EXPLORATION MISSION
+DELIVERABLE
+
+•
+
+Evaluation and practical demonstration of the most effective fire extinguishing
+system to put out a fire inside an equipment rack, spacecraft module, or planetary
+habitat
+
+EVALUATION TOOLS
+
+11
+
+•
+•
+•
+•
+•
+•
+
+Numerical modeling
+Ground testing (normal gravity)
+Validation of scaling methods
+Partial-gravity testing
+Human Factors Engineering
+Risk analysis assessment
+
+TIMETABLE
+
+•
+
+Fire-suppression system prototype ready by 2008 for use in the design of fire
+extinguisher for Crew Exploration Vehicle (1st Manned Mission: 2014)
+

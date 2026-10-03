@@ -1,0 +1,1898 @@
+Three-Dimensional
+Propagation
+Above
+Computational
+Jinsheng
+
+Cai,
+
+Department
+
+study
+
+ignition
+
+perature.
+
+Opposed
+
+is considered.
+height
+are
+
+and
+
+and
+
+similar
+
+air
+
+Pools
+
+to that
+
+calculations.
+
+flow to the
+
+flame
+
+length
+
+effects
+
+Both
+
+The
+
+uniform
+
+spread
+
+Schiller,
+
+Ross,
+
+code
+
+initially
+
+below
+and/or
+
+studied
+
+of the
+
+flame
+
+pulsating
+
+front
+
+natural
+
+near
+
+the
+
+is also present
+
+in the
+
+modes
+
+to
+
+flashpoint
+
+tem-
+
+convection
+
+in air channels
+
+zone
+
+spread
+
+is developed
+
+the
+
+of a recirculation
+
+calculations
+
+and
+
+Engineering
+
+to forced
+
+due
+are
+
+formation
+
+in two-dimensional
+
+A. Sirignano
+
+Navier-Stokes
+
+fuels
+
+spread
+
+and
+
+width
+
+computation.
+
+found
+
+liquid
+
+Flame
+Pools:
+
+CA 92697-3975
+
+reactive
+
+above
+
+Three-dimensional
+
+in the
+
+Irvine,
+
+unsteady
+
+spread
+
+of finite
+
+width.
+
+captured
+
+flame
+
+William
+
+and Aerospace
+
+of California,
+
+A three-dimensional
+
+the
+
+Liu, and
+
+of Mechanical
+
+University
+Abstract:
+
+Feng
+
+Ignition
+and
+Liquid
+Fuel
+Analysis
+
+of prescribed
+
+edge
+
+of the
+
+in the
+
+pool
+
+gas
+
+phase
+
+three-dimensional
+
+are found
+
+in the
+
+calculated
+
+results.
+
+Introduction:
+liquid
+
+fuels
+
+tional
+
+fluid dynamics
+
+phases.
+
+Their
+
+pulsating
+and
+
+initially
+
+flame
+
+spread
+kinetic
+
+of the
+
+gas phase
+
+flame
+
+and
+
+extended
+
+the
+
+A transition
+
+same
+
+study
+
+pulsating.
+opposed
+
+found
+
+to be responsible
+
+The
+
+The
+flow,
+
+[5] performed
+
+1, 2, and
+
+the
+
+effects
+
+because
+
+to include
+was
+
+same
+
+in References
+
+1 and
+
+we extend
+
+opposing
+
+spread
+
+above
+
+which
+
+of gas-phase
+flow,
+
+pulsating
+work
+
+flame
+
+that
+
+the
+
+pool
+
+depth,
+
+fluid
+
+liquid
+
+fuel
+
+pools.
+
+liquid
+
+Pulsating
+
+recirculation
+
+cell that
+
+of buoyancy-driven
+
+phas e. Schiller
+
+forced
+
+opposed
+
+an originally
+
+uniform
+
+cell caused
+Ross
+
+spreading
+
+Miller
+many
+
+properties,
+flame
+
+forms
+
+just
+
+Sirignano
+
+[2]
+
+gas phase.
+flame
+
+be-
+
+combination
+
+concurrent
+
+and
+
+corroborate
+
+and
+
+by the
+
+and
+
+flow in the
+
+flow in the
+
+thermocapillary-driven
+
+generally
+
+computaand
+
+level,
+
+liquid
+
+spread.
+
+gas
+
+for uniform
+
+recirulation
+and
+
+the
+
+above
+
+mechanisms
+
+effect
+
+with
+
+spread
+
+[4] and
+
+of
+
+flow was
+Miller
+
+and
+
+of the computational
+
+2.
+previous
+
+3 to three-dimensions.
+formulation
+
+two-dimensional
+
+Figure
+
+1 shows
+
+of the
+
+problem
+
+and axisymmetric
+
+the geometry
+and
+
+2.
+
+NASA/CP--2001-210826
+
+across
+
+flame
+
+a two-dimensional
+
+the
+
+of a gas-phase
+of the
+
+flame
+
+buoyancy-driven
+for the
+
+of gravity
+
+spread
+
+and
+
+of both
+
+identified
+
+flow in the
+
+found
+
+type
+
+equations
+
+analysis
+
+establishment
+
+experimental
+
+mathematical
+
+References
+
+and
+
+ignition
+
+by using
+
+coupled
+
+on flame
+
+edge
+
+flow velocity
+
+In this paper,
+
+studied
+
+[1] studied
+
+temperature
+the
+
+thermocapillary-driven
+
+forced
+
+findings
+
+and
+
+to the
+
+comes
+
+Ross
+
+solves
+
+studies
+
+leading
+
+the
+
+Sirignano
+
+flashpoint
+
+that
+
+coefficients
+
+was attributed
+
+ahead
+
+the
+
+code
+
+computational
+
+chemical
+
+spread
+
+below
+
+and
+
+5
+
+of the
+
+assumptions
+
+studies
+
+in References
+
+three-dimensional
+are
+
+the
+
+same
+
+model.
+as those
+
+in
+
+Results
+
+and
+
+gravity
+
+and
+
+gravity;
+
+zero gravity
+
+(3) To -
+
+at the exit
+
+vectors
+
+by the total
+tension
+this
+
+wind
+
+length
+
+pulls
+
+fluid
+
+This
+
+vectors
+
+shown
+
+of y/L
+
+-- 0.0022
+
+curves
+
+around
+
+from
+out
+
+from
+
+rate
+
+the
+
+in the
+the wind
+from
+
+the
+
+tunnel
+
+the
+
+calculated
+
+for all four
+
+cases
+
+history
+within
+
+of this abstract,
+computations
+time t0 sh0w pulsating
+fea[ur_d
+In summary,
+coupled
+
+reactive
+
+flow problem
+
+effects
+
+of the flame
+
+curves
+
+backwards
+
+front
+near
+
+to the wind-tunnel
+near
+
+the
+
+shovJ that-thebasic
+
+for pulsating
+the
+such
+
+spread
+
+propagation
+as forced
+
+liquid
+
+featui-es
+
+simulations.
+
+of the
+
+of the
+
+flame
+
+provided
+
+by
+
+Sciences,
+
+and
+
+the
+
+over
+
+initial
+This
+
+under
+
+the
+San
+
+the
+
+UCI
+
+(x - z) plane
+
+technical
+Diego
+Office
+
+The
+
+and
+
+pod:-
+
+6 plots
+
+the
+
+the
+
+pull
+
+at the
+
+corner
+
+fuel
+
+contours
+
+velocity
+
+the
+whereas
+
+pool
+
+of fuel
+
+vectors
+
+flow into
+
+of the
+
+time
+
+and
+
+the
+
+flame
+
+the flow expands
+
+maximum
+
+period.
+
+At the
+
+been
+
+c0_e
+
+has
+
+beyond
+
+and
+
+the
+
+whole
+
+pool
+
+was
+
+conducted
+of Dr.
+
+Supercomputer
+
+Center,
+
+of Academic
+
+fuel.
+
+create
+
+and
+width
+
+Howard
+
+Computing.
+
+NASA
+-
+
+NASA/CP_2001-210826
+i
+
+w_riting
+longest
+
+to solve
+
+the
+
+Three-dimensional
+The
+
+a streamwise
+
+flame
+
+in the gas phase
+more
+also
+and
+
+in the
+
+two:
+
+is necessary
+
+detailed
+variation
+
+vortex
+
+computations
+
+as-[hose
+
+simulation
+
+of
+
+of parameters
+
+depth.
+
+in support
+
+the
+
+for the
+
+effects,
+
+_hesame
+
+will include
+
+pool
+
+of the
+
+of fuel pool to be attached
+
+effects
+
+zone
+
+surface
+
+time
+
+in the computation.
+
+process
+
+liquid
+
+consumption
+
+developed
+
+three-dl-m-ensional
+
+studies
+
+temperature,
+
+been
+
+the edge
+
+buoyancy
+
+fuel
+
+performed
+
+flow over liquid
+
+of a recirculation
+
+monitoring
+
+out of the
+
+5 shows
+
+effects
+
+position
+
+phase
+
+De-splte
+
+research
+
+reaches
+
+Figure
+
+flame
+
+close to the flame
+
+extends
+
+Further
+the
+
+velocity
+distance
+
+4. The
+
+flame
+
+Figure
+
+by the
+
+at a dimensionless
+
+in Figure
+
+edge.
+
+computed
+
+expansion
+
+formation
+
+flame.
+
+Acknowledgments:
+NAG3-2024
+
+as shown
+
+b--ft_e--fl-a-me propagation
+
+The
+
+flow speed,
+
+flame
+
+the edge of the pool are captured
+
+Thermal
+
+of the
+
+of the
+
+wall.
+
+gas
+
+the pool edge and
+
+wall.
+
+twb_ed-ges
+
+dimensional
+
+near
+
+surface
+
+computational
+
+of forced
+
+are non-dimensionalized
+
+against
+
+for Cases
+(2) and (4) have
+of the flame spread.
+
+A three-dimenslonal
+
+and flow velocity
+
+goes
+
+0.805.
+
+of the
+
+the
+
+here
+
+in the
+
+pool,
+
+Buoyancy
+
+wind-tunnel
+
+of temperature
+
+ignition
+
+of the liquid
+
+pool
+
+floor
+
+after
+
+flow velocity
+
+fuel pool.
+
+-
+
+seconds
+
+forced
+
+is shown
+
+plane.
+
+0.89
+
+the
+
+flame
+
+at x/L
+same
+
+at zero
+
+flow velocity
+
+the surface
+
+in front
+
+by the
+
+The
+
+Near
+
+of the
+
+floor
+
+(2) To = 21°C
+
+gravity;
+
+while
+
+cell
+
+of the
+
+To at normal
+
+cases.
+
+presented
+
+flame
+
+fuel surface
+
+at the edge
+
+away
+
+7 shows
+
+of the
+
+gravity;
+
+contours
+
+coordinates
+
+vortex
+
+liquid
+
+rate
+
+3 shows
+
+temperature
+
+at normal
+
+for all four
+
+i.e., 36 cm.
+
+ahead
+
+wind-tunnel
+
+near
+
+pool
+
+location
+
+spatial
+
+in a cross-section
+
+the side very
+
+rate
+
+1. Figure
+
+initial
+
+at normal
+
+15°C
+
+consumption
+
+3. A top view
+
+of temperature
+
+Figure
+
+of fuel
+
+small
+
+bends
+
+to the
+
+from the
+
+at 30 cm/s
+
+The
+
+causes
+
+and
+
+consumption
+contours
+
+is fixed
+
+forward
+
+in Figure
+
+attaches
+
+(1) To = 21°C
+
+of the wind-tunnel,
+
+the
+
+of different
+
+(3) To -
+
+contours
+
+plane.
+
+cases
+
+gravity.
+
+-- 0.02 for Case
+
+same
+
+motion.
+
+and
+
+tunnel
+
+the
+
+at z/L
+
+ill the
+
+are studied:
+at zero
+
+2 shows
+
+plane
+
+Four
+
+25°C
+
+of the
+
+Figure
+x-y
+
+Discussion:
+
+Ross.
+Center
+
+of NASA
+
+Grant
+
+No.
+
+Computer
+
+time
+
+was
+
+for Computational
+
+References
+[1] D.
+
+N. Schiller,
+
+spread
+May
+
+over
+
+H. D.
+
+alcohol
+
+pools,"
+
+and
+
+W.
+
+A.
+
+Combustion
+
+Sirignano,
+Science
+
+"Computational
+
+and
+
+Technology,
+
+analysis
+vol.
+
+118,
+
+of flame
+
+pp. 205-258,
+
+1996.
+
+[2] D. N. Schiller
+
+and
+
+in Proceedings
+1325,
+
+pools
+
+of the
+
+D. N. Schiller,
+in normal
+
+6, p. 249,
+
+and
+
+and
+
+Twenty-Sixth
+
+posium
+
+on
+
+flame
+
+International
+
+W. A. Sirignano,
+
+zero gravities,"
+
+airflow,"
+
+Combustion,
+
+[5] F. J. Miller
+
+and
+
+across
+on
+
+and
+
+F. J. Miller,
+
+or concurrent
+
+spread
+
+"Opposed-flow
+
+spread
+
+across
+
+Symposium
+
+on
+
+n-propanol
+
+Combustion,
+
+pools,"
+pp.
+
+1319
+
+"Axisymmetric
+
+Combustion
+
+flame
+
+Science
+
+and
+
+spread
+
+across
+
+propanol
+
+vol.
+
+139, no. 1-
+
+Technology,
+
+1999.
+
+[4] H. D. Ross
+posed
+
+W. A. Sirignano,
+
+1996.
+
+[3] I. Kim,
+
+sium
+
+Ross,
+
+pp.
+
+H. D. Ross,
+
+a liquid
+
+Combustion,
+
+pool,"
+pp.
+
+"Flame
+
+spread
+
+across
+
+in Proceedings
+2723-2729,
+
+liquid
+
+of the
+
+pools
+
+with
+
+Twenty-Seventh
+
+very
+
+low-speed
+
+International
+
+opSym-
+
+1998.
+
+"Smoke
+
+visualization
+
+in Proceedings
+
+2715-2722,
+
+of the
+
+of the
+
+gas-phase
+
+Twenty-Seventh
+
+flow during
+International
+
+flame
+Sympo-
+
+1998.
+
+TOP VIEW
+
+i_i_r
+
+•
+
+' _--_----'_
+
+x
+
+FUEL
+
+SIDE VIEW
+
+igm_r
+2ram
+
+GAS PHASE
+
+--d
+
+_¢-I
+
+i
+x
+
+.30 mm_
+
+Figure
+flow
+
+l: Geometry
+
+NASA/CP--2001-210826
+
+for the
+
+--_
+
+---Y'Y'Y'Y'Y'_"
+
+lmm"
+
+300ram
+
+three-dimensional
+
+(////30ram
+
+liquid
+
+7
+
+fuel
+
+pool
+
+in a wind-tunnel
+
+with
+
+forced
+
+o_
+
+O,08
+
+O_m
+
+I
+
+llL
+
+Figure
+in the
+
+2: Contours
+x -
+
+of fuel consumption
+
+y plane
+
+at z/L
+
+= 0.02
+
+Figure
+
+t = 0.89s
+
+5: Contours
+
+in the
+
+rate
+
+of fuel consumption
+
+y - z plane
+
+at x/L
+
+= 0.805,
+
+rate
+
+t = 0.89s
+
+T_(T_)
+
+::::::::::::::::::::::::::::::::::::
+
+_
+
+_?-.,
+
+¢
+
+_:.-/>:]_;, _
+
+::m_r,__
+
+._
+
+_
+
+-]_
+
+o_
+
+_
+
+_*--_
+
+ZIL
+
+Figure
+Figure
+
+3:
+
+temperature
+0.0022,
+
+Velocity
+
+vectors
+
+in the
+
+x -
+
+and
+y plane
+
+contours
+at
+
+of
+
+y/L
+
+---
+
+6:
+
+Velocity
+
+temperature
+0.805,
+
+vectors
+
+in the
+
+y-
+
+and
+z plane
+
+contours
+
+of
+
+at x/L
+
+=
+
+t = 0.89s
+
+t = 0.89s
+
+0.2
+
+0.4
+
+0.8
+I
+
+.......
+
+0.8
+I
+
+....
+
+'
+
+'
+
+'
+
+'
+
+1
+I
+
+"1
+
+,
+
+r
+
+1,2
+I
+
+....
+
+1.4
+I
+
+t.0
+"
+
+....
+
+O.04
+
+_
+
+O.84
+
+O.ZU_
+
+0,86
+
+__
+
+_0
+
+0.86
+
+0.8
+
+i
+
+O.B
+
+o_
+0.78
+
+i, o_
+--
+
+At I_M
+
+O4mlr
+
+0.78
+
+TTI
+0,O1
+0.70
+
+'o_...
+. o_.... _, ... h.... ....
+o . o
+_
+oJ
+
+0.T6
+
+o_
+
+....
+
+I
+
+o.4
+
+....
+
+l
+
+o_
+
+LIm_
+
+i
+
+i
+
+i
+
+i
+
+i
+
+i
+
+i
+
+,
+
+,
+
+i
+
+o_
+_
+"rim, (,)
+
+....
+
+I
+
+_
+
+....
+
+I
+
+_._
+
+,
+
+,
+
+i
+
+i
+
+,.o
+
+XIL
+
+Figure
+in the
+
+4: Contours
+x-z
+
+plane
+
+NASA/CP--2001-210826
+
+of fuel consumption
+at y/L
+
+= 0.0022,
+
+rate
+
+t = 0.89s
+
+Figure
+
+7: Position
+
+sumption
+fuel pool
+
+rate
+
+of the
+
+location
+
+maximum
+near
+
+the
+
+fuel conedge
+
+of the
+

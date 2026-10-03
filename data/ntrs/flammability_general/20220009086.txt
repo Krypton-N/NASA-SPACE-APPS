@@ -1,0 +1,648 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - ICES_219-rev-v2.docx
+
+
+51st International Conference on Environmental Systems ICES-2022-219 
+10-14 July 2022, St. Paul, Minnesota 
+
+Opposed-flow spreading flames: Effect of sub-atmospheric 
+pressure on spread and burning rates 
+
+Luca Carmignani1, Priya Garg2, Michael J. Gollner3, Carlos Fernandez-Pello4 
+University of California, Berkeley, Berkeley, CA, 94720, USA 
+
+Maria Thomsen5 
+Universidad Adolfo Ibáñez, Santiago, Chile 
+
+and 
+
+David L. Urban6, Gary A. Ruff7 
+NASA Glenn Research Center, Cleveland, OH, 44135, USA 
+
+Flame spread over solid fuels is a canonical problem in fire science, due to its direct 
+implications on material flammability and importance in fire development. Flames in a 
+microgravity environment can behave very differently than on Earth, posing additional risks 
+for spaceflight life safety. Sub-atmospheric pressures in ground-based experiments have been 
+proposed to approximately replicate the burning behavior of solid fuels in reduced gravity 
+conditions because of similar effects on heat and mass transfer mechanisms from the flame to 
+the solid. In opposed-flow flame spread, the solid fuel is heated by the flame ahead of its 
+leading edge, and this process is strongly affected by the ambient conditions. In this work, we 
+consider flames spreading over flat thin acrylic samples exposed to a forced flow of 20 cm/s, 
+and pressures between 30 and 100 kPa. When radiation losses and chemical kinetic effects are 
+neglected, experimental and theoretical results suggest an independence of the spread rate on 
+pressure. However, the spread rate shows a decreasing trend with lower pressure in the range 
+30-60 kPa. The mass burning rate, calculated from the samples weight measured before and 
+after the experiments, shows a similar trend. The flame length, on the other hand, shows a 
+non-monotonic behavior, reaching a maximum at 60 kPa. Additionally, gas emissions 
+measured during the experiments are used to estimate the heat release rate of the spreading 
+flames. The comparison of the heat release rate obtained from the measured emissions and 
+the estimated mass burning rates, suggests that chemical kinetics is not driving the decrease 
+in flame spread observed at low pressures, whereas radiation losses could be responsible in 
+analogy to what has been observed in micro and partial gravity studies. These results could 
+provide more information to guide future Earth-based material flammability testing for 
+spacecraft applications.  
+
+Nomenclature 
+c = specific heat 
+g = gravity acceleration 
+h = heat transfer coefficient 
+
+ 
+1 Postdoctoral researcher, Mech. Eng. Dept., 60 Hesse Hall, Berkeley, CA, 94720. 
+2 Ph.D. candidate, Mech. Eng. Dept., 60 Hesse Hall, Berkeley, CA, 94720. 
+3 Associate Professor and Deb Faculty Fellow, Mech. Eng. Dept., 6105A Etcheverry Hall, Berkeley, CA, 94720. 
+4 Professor of the Graduate School, Mechanical Engineering, Berkeley, CA, 94720. 
+5 Faculty of Engineering and Science, Diagonal Las Torres 2640, Peñalolén, Santiago, Chile. 
+6 Branch Chief, Low-Gravity Exploration Technol. Branch, MS 77-5, 21000 Brookpark Road, Cleveland, OH 44135. 
+7 Spacecraft Fire Safety Demonstration Project Manager, Exploration Systems Office, MS 162-7, 21000 Brookpark 
+Road, Cleveland, OH 44135. 
+
+
+
+2 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+k = thermal conductivity 
+T = temperature 
+Tv = vaporization temperature 
+Gr = Grashof number 
+Pr = Prandtl number 
+Re = Reynolds number 
+Vf = flame spread rate 
+�̇�′′ = heat flux per unit area 
+U = flow velocity 
+
+Greek symbols 
+a = thermal diffusivity 
+µ = dynamic viscosity 
+r = density 
+t = fuel semi-thickness 
+d = boundary layer thickness 
+
+Subscript 
+g = gas-phase 
+s = solid-phase 
+f = flame (unless otherwise specified) 
+0 = ambient condition 
+ 
+
+I. Introduction 
+HE flammability of solid combustible materials determines the fire hazard characteristics of the material and thus 
+is important in fire safety1. Measured parameters include the material ease of ignition, the rate of flame spread, 
+
+the heat release rate, and the toxicity of the combustion products. Ambient conditions such as pressure, oxygen 
+concentration, gas flow, and gravity level, together with the material thermo-physical properties and scale affect these 
+flammability properties, and thus it is of interest to determine these effects. 
+
+Material flammability in sub-atmospheric pressures has application in determining the fire hazard in urban areas 
+at high altitudes2-4, aircraft5, and spacecraft6,7. Furthermore, since ambient pressure affects the buoyant characteristics 
+of a fire, it has the added application of using pressure modeling to simulate fires at different scales8-10. 
+
+Following a similar approach, low pressure environments have been proposed to study the fire behavior in reduced 
+gravity conditions11-15. By decreasing the ambient pressure, flames over solid fuels tend to move away from the 
+burning surface, and diffusive processes become more important, in analogy with the effect of reduced buoyancy at 
+low gravity levels. In microgravity the buoyant flow field is extremely weak and comparable to diffusive flows, and 
+flames may not spread without externally generated flows, such as the low velocity flows generated in spacecraft by 
+Environmental Control and Life Support Systems (ECLSS). Spreading flames are generally divided into two main 
+categories: concurrent flame spread, where the direction of propagation is the same as that of an oncoming flow field, 
+including upward-spreading flames on Earth, and counter-current or opposed-flow flame spread, where the flame 
+moves against an incoming flow. Concurrent-flow flame spread is known to be more hazardous than opposed-flow 
+flame spread in a terrestrial environment. However, it has been shown that in a low-gravity environment opposed-
+flow flames can grow more easily than concurrent spreading flames because of a fresh supply of oxidizer16, and 
+sometimes burn under conditions where extinguishment would occur on Earth17-19. Previous experiments suggest that 
+reduced pressures ranging between 20-40 kPa may be able to simulate flames in microgravity in terms of flame spread 
+rate and flame length13,15, at least for thin combustible materials. However, there are some limitations to the 
+comparison between low gravity and low pressure. Numerical studies and scaling analyses have highlighted the 
+importance of diffusion processes and radiation losses in reduced pressure environments11,14,20. 
+
+As the flame spreads over the surface of the solid, it leaves behind a burning solid that releases heat depending on 
+the physico-chemical characteristics of the process. The resulting heat-release rate (HRR) is an important parameter 
+used to characterize the flammability of a material, since together with the flame spread rate they determine the growth 
+of a fire. The HRR can be derived from the rate of fuel consumption, which is usually calculated using the mass loss 
+
+T 
+
+
+
+3 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+rate. This can also be estimated by measuring the initial and post-combustion gas composition together with the size 
+of the flame21,22. 
+
+The primary objective of this work is to provide information about the flammability of materials in spacecraft 
+environments, although the results have applications to other reduced pressure conditions. Specifically, we study the 
+effect of ambient sub-atmospheric pressure on the flammability of thin solid materials, through their rate of flame 
+spread, emissions, and the heat release. We consider the opposed/downward spread of flames over thin acrylic samples 
+(polymethyl methacrylate, or PMMA), at ambient pressures between 30 and 100 kPa. The flames are exposed to a 
+forced velocity of 20 cm/s in addition to the self-generated buoyant flow. The analysis of the flow velocity controlling 
+the flame spread developed by Thomsen et al.15 is expanded to correlate the experimentally measured variation of 
+flame characteristics such as spread rate and flame length scales with pressure. Additionally, the gas concentrations 
+of the combustion products are used to estimate the HRR of the spreading flames, which is shown to decrease with 
+pressure. When compared to the HRR estimated from the average mass loss rate of the fuel, the results suggest that 
+chemical kinetics is not a driving factor for these conditions. 
+
+II. Experimental setup 
+The experiments were conducted in an apparatus 
+
+previously developed to study the flammability of solid 
+combustible materials under varied ambient conditions23. 
+The apparatus consists of a laboratory scale combustion 
+tunnel that is inserted in a pressure chamber as shown in the 
+schematic of Figure 1. The tunnel has a 125 mm square cross 
+section and a 600 mm total length. The first 350 mm section 
+of the duct serves as a flow straightener, the other 250 mm 
+segment of the duct is used as the test section. 
+
+The chamber is provided with a flow system that 
+provides constant supply and exhaust of gases to avoid 
+vitiation problems. Compressed dry air was supplied through 
+critical nozzles (O’Keefe Controls) to the bottom of the duct 
+while constantly evacuating to maintain constant pressure 
+inside the chamber. The chamber pressure was controlled by 
+a high-capacity vacuum pump (Welch DuoSeal 1376), and 
+measured with an electronic pressure transducer (Omega 
+Engineering, Inc. PX309-015A5V). The tests were 
+conducted in air at pressures between 30 and 100 ± 2 kPa. 
+The forced flow was adjusted to provide 20 cm/s at the 
+respective chamber pressure for all tests. This velocity was selected to be consistent with the flow of air induced by 
+the ECLSS inside of a spacecraft. In addition to the forced flow, the flame is exposed to a self-induced buoyant flow 
+that varies with pressure. Thus, during the experiments the flame is exposed to a mixed (free and forced) flow 
+condition. 
+
+Gas measurements were recorded using a gas analyzer Enerac 700. This device provides real-time concentrations 
+of oxygen (O2), nitrogen oxide (NO), nitrogen dioxide (NO2), oxides of nitrogen (NOx), and sulphur dioxide (SO2) 
+using an electrochemical sensor. Carbon dioxide (CO2), carbon monoxide (CO), and unburnt hydrocarbons (HC) were 
+calibrated against propane using a NDIR sensor. The flow rate of the sampling pump was set at 1.5 SLPM, and the 
+sampling probe was connected to the exhaust system downstream of the vacuum pump (see schematics in Figure 1). 
+
+The fuel samples were thin sheets of cast PMMA, with a thickness of 0.7 mm. The rectangular samples were held 
+between two identical stainless-steel frames 0.6 mm thick, with a rectangular opening of 150 mm long by 50 mm wide 
+that served as the test area. Each sample was placed vertically at the mid-plane of the test section, and they were 
+ignited at the top with a 26-gauge Kanthal wire. The igniter was energized using a controlled current power supply 
+(BK Precision 1785) set to deliver 50 W for about 10 s, or until the flame appears on both sides of the sample. The 
+flames were extinguished by flushing the system with nitrogen after they had spread over the entire sample region. 
+The experiments were repeated three to six times for each test condition to address experimental uncertainty. 
+
+The ignition and subsequent flame spread were video recorded with a resolution of 1920 by 1080 at 30 frames per 
+second using a Sony RX10-III camera for the front view, and a second Nikon D3200 camera for the flame side view. 
+The camera settings were kept constant during the experiments, although they slightly differ between front view and 
+
+ 
+Figure 1.  Schematic of the experimental setup 
+(bottom right: picture of the pressure chamber). 
+ 
+
+
+
+4 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+side view. The experimental  videos were processed using a 
+Python-based program, called Flame Tracker, internally 
+developed and now publicly available24. With the Flame 
+Tracker, several flame characteristics were tracked on a frame 
+by frame basis by isolating the flame region from the 
+background. 
+
+III. Experimental results 
+Figure 2 shows the front and side views of downward 
+
+spreading flames at different pressure levels. By reducing 
+pressure, the front view the flames does not show qualitatively 
+changes until 60 kPa, with the only expection being the flame 
+length that slightly increases. Below 60 kPa, however, the 
+flames become dimmer, and the yellow sooty region starts 
+shrinking. The side view confirms these observations, showing 
+bluer flames at low pressures, especially in proximity of the 
+flame leading edge (this is due to slightly different camera 
+settings and the lower sensor saturation due to soot brightness). 
+The reflections from the background in the side views at 80 and 
+100 kPa complicate the visual comparison with the rest of the 
+flames, but in general we can observe that the flames become 
+thicker at lower pressures. As for the solid fuel, two regions can 
+be defined ahead of the flame leading edge. With reference to 
+the images in Figure 2 and the schematics in Figure 3, the 
+pyrolysis region 𝑥! characterized by the vaporizing fuel can be 
+associated with the non-transparent area of the sample. Ahead 
+of this region, the flame preheating of the solid PMMA starts 
+softening the fuel (glass transition), and the visible dark line in 
+Figure 2 can be used to define the preheating length 𝑥". Both 
+pyrolysis and preheating regions are flat along the sample 
+width for pressures above 60 kPa, whereas at lower pressures 
+their concavity gradually increases.  
+
+The flames reached steady state conditions soon after 
+ignition (~10 s), and they spread for at least six minutes before 
+reaching the end of the sample or being extinguished with 
+nitrogen to stop the test. The experiment videos were processed with the Flame Tracker24 to measure the variation of 
+flame characteristics (e.g. position, length scales) during each test. The flame position increased linearly over time for 
+all the pressures tested, and Figure 4 shows the spread rates calculated as the slope of these lines. The error bars 
+
+ 
+Figure 3. Schematics of the opposed-flow flame 
+spread problem and characteristic length scales. 
+
+ 
+Figure 2. Front and side views of flames spreading over acrylic samples at different pressures. 
+
+ 
+Figure 4. Variation of flame spread rate with 
+pressure. 
+ 
+
+
+
+5 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+represent the variation among test repetitions. The flame spread rates seem to oscillate around a value of about 0.22 
+mm/s between 60 and 100 kPa, whereas it decreases at lower pressures.  
+
+ 
+The front view of the experiments was used also to measure the variation of the preheating and pyrolsysis lengths with 
+pressure. Both length scales are inversely proportional to pressure as shown in Figure 5, but with different 
+dependencies as discussed in the next section. 
+
+Figure 6 shows the variation of the flame length 𝑥# (see Figure 3), and the total thickness of the flame 2𝑦# 
+(measured from the side view of the experiments). The flame length shows a non-monotonic behavior, reaching a 
+maximum at 60 kPa and decreasing at higher and lower pressures, as qualitatively observed in Figure 2. This variation, 
+however, is limited to less than 20%, with an average value of about 25 mm. The flame length was multiplied by the 
+total thickness of the flame and the width of the sample (52 mm) to estimate the flame volume, which values are 
+shown in Figure 6. The flame length and standoff distance have the same initial trend and the flame volume increases 
+by reducing pressure, although it approaches a constant value below 60 kPa.  
+
+The flame ignition and extinction times in the experiments were matched between the cameras and the gas analyzer 
+recordings, thus it was possible to calculate changes in O2 consumption, and CO, CO2 productions. The gas analyzer 
+measured the molar fractions of the gas in the combustion products, which were converted to mass fractions to estimate 
+the consumption and production rates of each component. The emission recordings showed a strong initial variation 
+of gas concentrations (especially CO) due to the ignition phase, before reaching steady state values. Only the values 
+obtained during the steady state flame spread are considered here, and the average rates are reported in Figure 7. The 
+oxygen consumption rates follow a trend similar to the one observed for the spread rate in Figure 4; it is stable in the 
+range 50-100 kPa, whereas it decreases at lower pressures. The CO and CO2 production rates, follow opposite trends 
+as expected, respectively increasing and decreasing 
+at higher pressures. This is an indication that the 
+combustion efficiency of the pyrolyzed fuel 
+decreases with reduced pressure, although the 
+decrease is small because of the relatively small 
+variations in CO and CO2 concentrations.  
+
+IV. Analysis and discussion 
+A schematic of the opposed-flow flame spread 
+
+problem is shown in Figure 3. The problem is two-
+dimensional, and for symmetry we can consider only 
+one half of the flame. To look at the dependence of 
+the flame spread rate on pressure and its relation to 
+buoyancy, it is helpful to use a simplified analysis 
+such as that developed by Fernandez-Pello25. The 
+flame spread rate depends on the heating mechanisms 
+
+ 
+Figure 5. Variation of solid fuel length scales with 
+pressure. 
+ 
+
+ 
+Figure 6. Variation of flame length and flame 
+thickness (left axis), and flame volume (right axis), 
+with pressure. 
+ 
+
+ 
+Figure 7. Consumption rate of O2, and production rate of 
+CO, CO2 at different pressures. 
+ 
+
+
+
+6 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+between the flame and the solid fuel in the preheating region, and can be expressed as:  
+ 
+
+ 𝑉# = 𝑥" )
+$̇!"
+## &$̇!$
+
+## '$̇%$##
+
+(%)%*(,&',')
+− 𝜑(Da)0 (1) 
+
+ 
+where 𝑥" is the preheating length along the solid fuel, �̇�#)
+
+..  and �̇�#/
+..   are respectively the convective and radiant heat 
+
+flux from the flame to the solid surface, whereas and �̇�0/..  is the radiant flux from the solid fuel surface. φ(Da) is a 
+term depending on the Damköhler number and accounts for the effect of chemical kinetics. ρ0, 𝑐0, and τ are fuel 
+properties, whereas 𝑇1 and 𝑇2 are the vaporization and initial fuel temperatures. Previous works showed that Eq. (1) 
+can be further simplified by assuming that (i) the flame radiant flux to the surface is balanced by the surface radiant 
+flux, and (ii) neglecting the effect of chemical kinetics15. Thus, the only parameter driving the spread rate is �̇�#)
+
+.. , which 
+can be explicitely written as function of the difference between flame and surface temperatures: �̇�#)
+
+.. = ℎ7𝑇# − 𝑇18. 
+With these simplifications, Eq. (1) becomes: 
+ 
+
+ 𝑉# ≈ 𝑥"
+"
+
+3%)%4
+:
+,!',&
+,&','
+
+; (2)
+  
+
+Equation (2) represents the classical de Ris’ solution for a thermally thin fuel26. The flame temperature is mainly 
+controlled by chemical kinetics, thus we can reasonably neglect variations of 𝑇# with pressure. 𝑇1 depends on the 
+burning conditions, but its variation does not play a major role in determining the flame spread rate27. Therefore, in 
+Eq. (2) only ℎ and 𝑥" directly depend on pressure. The heat transfer coefficient can be estimated as the ratio of the 
+thermal conductivity and the thickness of the boundary layer along the sample surface. In this work, the flow field has 
+a forced component, 𝑈# = 20 cm/s, and a natural component generated by buoyancy 𝑈5, therefore the flame leading 
+edge faces a mixed flow (natural + forced). The boundary layer thickness depends on a combination of the local 
+Reynolds and Grashof numbers15,28: 
+
+ 
+
+ δ6 = 𝑥(Re78 + Gr79)':/<Pr':/= (3)
+  
+
+with 𝑥 being the coordinate along the sample, and Re7 = ρ>𝑈>𝑥/µ, and Gr7 = 𝑔ρ>Δρ𝑥=/µ9 the Reynolds and 
+Grashof numbers. Eq. (3) was derived for a burning vertical surface28, and therefore the coordinate 𝑥 is the same for 
+Re and Gr and corresponds with the edge of the fuel surface. In opposed flame spread, however, the length scales of 
+Re and Gr are different; the unheated fuel ahead of the flame corresponds to the development length of the boundary 
+layer, which is used in the Reynolds number. The Grashof number on the other hand accounts for the self-generated 
+buoyant flow, which is proportional to the flame length. Therefore, in Eq. (3) we can assume a charactestic 
+development length of 𝑥2 = 100 mm (1/2 of the sample length + sample holder length), and a constant flame length 
+of 𝑥# = 25 mm as the characteristic length for the Grashof number, in analogy with the work of Ju et al.29. With these 
+length scales, we obtain the ratio Gr9/Re8 ≈ 0.11, confirming that both the natural and forced components of the flow 
+field are important in Eq. (3). By approximating the coordinate 𝑥 in Eq. (3) as the pyrolysis length, as previously done 
+in similar analyses15,30, we can combine Eq. (2) and Eq. (3): 
+
+ 
+
+ 𝑉# ≈
+7(
+7)
+(Re8 + Gr9):/<𝑃𝑟:/=
+
+?*+
+
+3%)%4
+:
+,!',&
+,&','
+
+; (4) 
+
+ 
+The preheating length scales with the diffusion length in the gas-phase31, 𝑥" ∼ α>/𝑈> ∼ 𝑘>/7ρ>𝑐>𝑈>8, which implies 
+a pressure dependence of 𝑝':. In Figure 5, the dashed yellow line scaling with 𝑝': shows great agreement with the 
+
+
+
+7 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+measured values. The dependence of the pyrolysis length 
+on pressure for opposed flame spread has not yet been 
+determined, but the measured values in Figure 5 suggest a 
+variation on the order of 𝑝'2.A (as shown by the dotted 
+dark red line). The Reynolds number scales with 𝑝, and 
+the Grashof number with 𝑝9 (Ref. 30), therefore the term 
+(Re8 + Gr9):/< ∼ 𝑝2.A balances out the ratio 𝑥"/𝑥! ∼
+𝑝'2.A, neglecting the pressure dependence of the spread 
+rate in Eq. (4). This is in agreement with the thermal 
+regime assumptions, and confirmed by the almost 
+constant value of the spread rate in the range 60-100 kPa 
+in Figure 4. However, Eq. (4) does not capture the 
+decrease observed at pressures below 60 kPa. To derive 
+Eq. (4), we neglected the importance of the radiative 
+exchange between flame and fuel surface, and the effect 
+of chemical kinetics. For opposed flame spread, numerical 
+studies showed that radiation losses could play a major 
+role in slowing down the flames, but chemical kinetics can become important as well at low pressures14,20. 
+
+The concentration of the post-combustion products of a flame is an important indicator of the completeness of the 
+reactions involved in the flame spread. The average O2, CO and CO2 concentrations measured during the flame spread 
+experiments were used to estimate the HRR32, and the results are shown in Figure 8. The HRR can also be estimated 
+from the mass burning rate of the solid fuel. Since the mass of the samples was measured before and after the 
+experiments, we calculated an average mass loss rate; by assuming complete combustion of the solid fuel, we can 
+obtain the HRR from the mass measurements simply multiplying the mass loss rate by the heat of combustion of 
+PMMA (25.9 kJ/g). The estimated values, reported in Figure 8 as well, follow the same pressure trend of the HRR 
+calculated from the emission measurements, as well as the flame spread rate, indicating that they are related to the 
+amount of fuel burned as the flame spreads along the solid surface. The calculated values of the HRR from the gas 
+composition and mass loss are similar, suggesting that the assumption of complete combustion gives reasonable values 
+for the pressure range 30-100 kPa. Furthermore, this implies that the decrease in spread rate is not driven by the onset 
+of finite rate kinetics effects; more likely, the flames are weaken by radiative losses, in analogy to what happens in a 
+reduced gravity environment. 
+
+V. Conclusion 
+Experiments of opposed/downward spreading flames over thin acrylic sheets were conducted at sub-atmospheric 
+
+pressures with the objective of studying the flammability of solid combustible materials in low pressure environments 
+such as high-altitude locations, aircraft, and spacecraft. Several flame characteristics are measured from the video 
+analysis of the experiments. It is found that the flame spread rate is weakly dependent on pressure in the range 60-100 
+kPa, and then it decreases as the ambient pressure is reduced. The pyrolysis and preheating length on the solid surface 
+are inversely proportional to pressure, whereas the flame length follows a non-monotonic behavior with a peak at 60 
+kPa. The gas concentrations in the post-combustion products were used to calculate the HRR of the spreading flame, 
+and the results show a similar trend with the spread rate: it is almost constant in the range 50-100 kPa and then 
+decreases at lower pressures. The comparison between the HRR calculated from the gas emissions, and the HRR 
+estimated from the mass loss rate suggests that chemical kinetics is not a limiting factor for the spreading flames 
+considered in this work, although it seems to affect the efficiency of the gas phase fuel combustion process. It is 
+possible that the flow velocity of 20 cm/s used in this work was large enough to guarantee an adequate mixing of the 
+reactancts, decreasing the effect of pressure on the chemical reaction rate. The spread of the flames could also be 
+weakened by radiative losses, which were neglected in the flame spread rate model. The increase in concavity of the 
+burning front of the solid fuel observed at low pressures, in fact, could be caused by heat losses occurring by the 
+sample sides. In summary, the reduced ambient pressure on opposed-flow flame spread over thin PMMA samples had 
+similar implications to a reduced gravity level, where chemical kinetics is not important and the process is limited by 
+flame radiative losses. In order to better compare opposed flame spread in reduced pressure and gravity environments, 
+it will be necessary to further investigate and characterize the importance of radiation losses. 
+
+ 
+Figure 8. Comparison of the HRR calculated from the 
+gas concentrations and from the sample mass. 
+ 
+
+
+
+8 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+Acknowledgments 
+This research was supported by NASA Grant NNX12AN67A. The authors would like to thank the graduate 
+
+students Christina Liveretou, Joseph Dowling, and Michael Wright, and Dr. Charles Scudiere for their help with the 
+experiments. 
+
+References 
+1Quintiere, J.G., Fundamentals of Fire Phenomena, John Wiley & Sons, 2006. 
+2Li, Z.-H., He, Y., Zhang, H., Wang, J., “Combustion characteristics of n-heptane and wood crib fires at different altitudes,” 
+
+Proc. Combust. Inst, Vol. 32, No. 2, 2009, pp. 2481-2488. 
+3Gong, J., Yang, L., Zhou, X., Deng, Z., Lei, G., Wang, W., “Effect of low atmospheric pressure on combustion characteristics 
+
+of polyethylene and polymethyl methacrylate,” J. Fire Sciences, Vol. 30, No. 3, 2012, pp. 224-239. 
+4Gong, J., Zhou, X., Li, J., Yang, L., “Effect of finite dimension on downward flame spread over pmma slabs: Experimental 
+
+and theoretical study,” Int. J. Heat and Mass Transfer, Vol. 91, 2015, pp. 225-234. 
+5Galea, E., Markatos, N., “A review of mathematical modelling of aircraft cabin fires,” Appl. Mathematical Modelling, Vol. 
+
+11, No. 3, 1987, pp. 162-176. 
+6Lange, K.E., Perka, A.T., Duffield, B.E., Jeng, F.F., “Bounding the spacecraft atmosphere design space for future exploration 
+
+missions, NASA/CR-2005-213689, 2005. 
+7Hirsch, D., Williams, J., Beeson, H., “Pressure effects on oxygen concentration flammability thresholds of materials for 
+
+aerospace applications,” J. Testing and Evaluation, 2006, pp. 69-72. 
+8De Ris, J., Murty Kanury, A., Yuen, M., “Pressure modeling of fires,” Symp. (Int.) on Combust., Vol. 14, No. 1, 1973, pp. 
+
+1033-1044. 
+9Quintiere, J.G., “Scaling applications in fire research,” Fire Saf. J., Vol. 15, No. 1,  1989, pp. 3-29. 
+10Zhou, Z., Wang, J., Yuen, R. K. K., “Section B Fire and Explosion - Application of Pressure Fire Modeling Under Low 
+
+Pressure, Springer International Publishing, 2015, pp. 97-104. 
+11Ferkul, P.V., T’ien, J.S., “A model of low-speed concurrent flow flame spread over a thin fuel,” Combust. Sci. Technol., Vol. 
+
+99, 1994, pp. 345-370. 
+12Kleinhenz, J., Feier, I. I., Hsu, S.-Y., T’ien,	J.	S., Ferkul, P. V., Sacksteder, K. R., “Pressure modeling of upward flame spread 
+
+and burning rates over solids in partial gravity,” Combust. Flame, Vol. 154, No. 4, 2008, pp. 637-643. 
+13Nakamura, Y., Yoshimura, N., Ito, H., Azumaya, K., Fujita, O., “Flame spread over electric wire in sub-atmospheric 
+
+pressure,” Proc. Combust. Inst., Vol. 32, No. 2, 2009, pp. 2559-2566. 
+14Hsua, S.-Y., T'ien, J. S., “Pressure extinction limits of non-premixed flames,” Combust. Th. Model., Vol. 13, No. 5, 2009, pp. 
+
+885-900. 
+15Thomsen, M., Fernandez-Pello, C., Urban, D.L., Ruff, G.A., “On simulating the effect of gravity on concurrent flame spread 
+
+over thin paper through variations in ambient pressure,” Combust. Flame, Vol. 232, 2021 (in Press). 
+16Olson, S. L., Kashiwagi, T. , Fujita, O., Kikuchi, M., Ito, K., “Experimental observations of spot radiative ignition and 
+
+subsequent three-dimensional flame spread over thin cellulose fuels,” Combust. Flame, Vol. 125, No. 1-2, 2001, pp. 852–864. 
+17Olson, S. L., “Mechanisms of Microgravity Flame Spread Over a Thin Solid Fuel: Oxygen and Opposed Flow Effects,” 
+
+Combust. Sci. Technol., Vol. 76, No. 4-6, 1991, pp. 233–249. 
+18Sacksteder, K.R., T’ien, J.S., “Buoyant downward diffusion flame spread and extinction in partial-gravity accelerations,” 
+
+Symp. (Int.) Comb. Inst., Vol. 25, 1994, pp. 1685-1692. 
+19Olson, S. L., Ferkul, P. V., “Microgravity flammability boundary for PMMA rods in axial stagnation flow: Experimental 
+
+results and energy balance analyses,” Combust. Flame, Vol. 180, June 2017, pp. 217–229. 
+20Bhattacharjee, S., Carmignani, L., “Radiation-kinetics interactions: A comparison of opposed-flow flame spread in a low-
+
+velocity microgravity and low-pressure downward environments,” Proc. Combust. Inst., Vol. 38, No. 2, 2021, pp. 4795-4803. 
+21Huggett, C., “Estimation of rate of heat release by means of oxygen consumption measurements,” Fire and Materials, Vol. 
+
+4, No. 2, 1980, pp. 61-65. 
+22Babrauskas, V., “Development of the cone calorimeter: a bench-scale heat release rate apparatus based on oxygen 
+
+consumption,” Fire and Materials, Vol. 8, No. 2, 1984, pp. 81-95. 
+23Thomsen, M., Fernandez-Pello, C., Urban, D. L., Ruff, G. A., Olson, S. L., “On simulating concurrent flame spread in reduced 
+
+gravity by reducing ambient pressure,” Proc. Combust. Inst., Vol. 37, No. 3, 2019, pp. 3793-3800. 
+24Carmignani, L., “Flame Tracker: An image analysis program to measure flame characteristics,” SoftwareX, Vol. 15, July 
+
+2021 (in Press). 
+25Fernandez-Pello, C., “The solid phase,” in: Cox G. (Ed.), “Combustion Fundamentals of Fire,” Academic Press Limited, 
+
+1994, pp. 31–100. 
+26de Ris, J., “Spread of a laminar diffusion flame,” Symp. (Int.) Combust., Vol. 12, 1969, pp. 241-252. 
+27Carmignani, L., Bhattacharjee, S., “Burn Angle and Its Implications on Flame Spread Rate, Mass Burning Rate, and Fuel 
+
+Temperature for Downward Flame Spread over Thin PMMA,” Combust. Sci. Technol., Vol. 192, No. 8, 2020, pp. 1617-1632. 
+28Mao, C. P., Fernandez-Pello, A. C., Pagni, P. J., “Mixed Convective Burning of a Fuel Surface with Arbitrary Inclination,” 
+
+J. Heat Transf., Vol. 106, No. 2, 1984, pp. 304-309. 
+
+
+
+9 
+International Conference on Environmental Systems 
+
+ 
+ 
+
+29Ju, X., Gollner, M.J., Wang, Y., Tang, W., Zhao, K., Ren, X., Yang, L., “Downstream radiative and convective heating from 
+methane and propane fires with cross wind,” Combust. Fl., Vol. 204, 2019, pp. 1-12. 
+
+30Carmignani, L., Thomsen, M., Fereres, S., Gollner, M.J., Fernandez-Pello, C., Urban, D., Ruff, G.A., “The effect of reduced 
+pressure on the characteristics of spreading flames,” 50th ICES, July 2021. 
+
+31Chen, C.-H., T’ien, J.S., “Diffusion Flame Stabilization at the Leading Edge of a Fuel Plate,” Combust. Sci. Technol., Vol. 
+50, 1986, pp. 283-306. 
+
+32Hurley, M.J., Gottuk, D.T., Hall Jr, J.R., Harada, K., Kuligowski, E.D., Puchovsky, M., Watts Jr, J.M., Wieczorek, C.J. et al., 
+“SFPE handbook of fire protection engineering,” Springer, 2015. 
+
+ 
+ 
+
+

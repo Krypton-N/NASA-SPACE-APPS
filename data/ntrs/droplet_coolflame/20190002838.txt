@@ -1,0 +1,534 @@
+Three stage cool flame droplet burning behavior of
+n-alkane droplets at elevated pressure conditions: Hot,
+warm and cool flame
+T.I. Farouk a, ∗, D. Dietrich b, F.L. Dryer a, c
+a Department
+
+of Mechanical Engineering, University of South Carolina, Columbia, SC 29208, USA
+b NASA Glenn Research Center, Cleveland, OH 44135, USA
+c Department of Mechanical and Aerospace Engineering, Princeton University, Princeton, NJ 08544, USA
+
+Abstract
+Transient, isolated n-alkane droplet combustion is simulated at elevated pressure for helium-diluent
+substituted-air mixtures. We report the presence of unique quasi-steady, three-stage burning behavior of
+large sphero-symmetric n-alkane droplets at these elevated pressures and helium substituted ambient fractions. Upon initiation of reaction, hot-flame diffusive burning of large droplets is initiated that radiatively
+extinguishes to establish cool flame burning conditions in nitrogen/oxygen “air” at atmospheric and elevated
+pressures. However, at elevated pressure and moderate helium substitution for nitrogen (XHe > 20%), the
+initiated cool flame burning proceeds through two distinct, quasi-steady-state, cool flame burning conditions. The classical “Hot flame” (∼1500 K) radiatively extinguishes into a “Warm flame” burning mode at
+a moderate maximum reaction zone temperature (∼ 970 K), followed by a transition to a lower temperature (∼765 K), quasi-steady “Cool flame” burning condition. The reaction zone (“flame”) temperatures are
+associated with distinctly different yields in intermediate reaction products within the reaction zones and
+surrounding near-field, and the flame-standoff ratios characterizing each burning mode progressively decrease. The presence of all three stages first appears with helium substitution near 20%, and the duration of
+each stage is observed to be strongly dependent on helium substitutions level between 20–60%. For helium
+substitution greater than 60%, the hot flame extinction is followed by only the lower temperature cool flame
+burning mode. In addition to the strong coupling between the diffusive loss of both energy and species and the
+slowly evolving degenerate branching in the low and negative temperature coefficient (NTC) kinetic regimes,
+the competition between the low-temperature chain branching and intermediate-temperature chain termination reactions control the “Warm” and “Cool” flame quasi-steady conditions and transitioning dynamics.
+
+∗
+
+Corresponding author.
+E-mail address: tfarouk@sc.edu (T.I. Farouk).
+
+2
+
+1. Introduction
+The chemical characteristics of hightemperature flames for both premixed and nonpremixed systems have been thoroughly investigated by theoretical, experimental and computation methods [1,2]. The comparative characteristic
+time-scales for convective, diffusive, radiative, and
+chemical heat generation dictate the existence
+and burning intensity of these flames and their
+ignition, quasi-steady burning, and extinction
+dynamics.
+Most liquid fuels of practical interest exhibit
+a wide range of chemical kinetic time scale generally classified into low, intermediate, and hightemperature behaviors. The low and intermediatetemperature behaviors exhibit characteristics related to peroxy and peroxide chemistry of large
+hydrocarbon radicals that result in degenerate
+branching and negative temperature coefficient
+(NTC) behaviors. Hydrogen peroxide formed as an
+intermediate begins to rapidly decompose as reaction temperature increases and combined with significant β scission of the larger radicals leads to
+auto-thermal acceleration of chemical rates and,
+eventually to high-temperature kinetic behavior
+dominated by small radical chain branching chemistry. These chemistries are manifest in cool and
+hot flame dynamic behaviors. “Cool flame” phenomena have been observed for homogenous vapor
+phase conditions in static reactor [3], flow tube, and
+opposed flow configurations [4], and for isolated
+droplet configuration associated with auto-ignition
+research in drop-towers [5].
+Recently, there has been new interest generated
+from microgravity isolated droplet combustion experiments on the International Space Station (ISS)
+[6,7] and opposed flow diffusion flames in ground
+experiments [8]. In the ISS experiments, a sustained
+cool flame burning mode was established for a
+wide range of fuels when the ignition of sufficiently
+large initial drop diameters led to hot flame radiative extinction to yield long duration, “Cool flame”
+droplet burning. On limited occasions, sustained
+“Cool flame” burns were also initiated by controlling the rate and duration of initiation energy deposition [9].
+In recent ground-based, opposed flow, prevaporized, laminar diffusion flame configurations,
+ozone was added into the oxidizer stream [10].
+The rapid decomposition of ozone produced
+
+active atomic oxygen, substantially reducing the
+induction timescale for initiating low-temperature,
+exothermic fuel oxidation chemistry. The reduced
+time-scales led to flame initiation and quasi-stable
+“Cool flame” diffusive burning at intermediate
+reaction temperatures characteristic of the NTC
+kinetic regime. Recent experiments [11] and numerical simulations [12] have shown that in the
+opposed flow configuration for dimethyl ether,
+there can exist a multistage premixed flame at nearlimit conditions. The occurrence of this multistage
+flame structure is attributed to the result of two
+different sets of chain-branching reactions involving small radical chemistry and peroxy chemistry
+at intermediate and low temperatures respectively.
+In our prior work [13] we reported the existence of
+a highly transient multistage oscillatory cool flame
+behavior where the droplet combustion continuously evolves between a hot and cool flame - not
+having a co-occurrence of the two different flames;
+never attaining a quasi-steady burn. However,
+neither experimental or computational endeavors
+have revealed whether stable multistage flame
+behaviors could exist for multiphase (e.g., isolated
+microgravity droplet) configurations.
+Below, we report results from numerical simulations of n-heptane droplet combustion at an
+elevated pressure where the ambient nitrogen is
+progressively replaced with helium to augment
+diffusive losses. Modeling results show that at
+moderate helium substitution, the initiated burn
+proceeds through three distinct stages. For large
+initial droplet sizes, the classical hot flame radiatively extinguishes into a “Warm flame” burning at
+moderate/intermediate reaction zone temperature
+condition, followed by a transition to a lower temperature quasi-steady “Cool flame” burning condition. The simulations further demarcate the conditions under which quasi-steady, three-stage burning
+behaviors exist, and the dynamic transitions that
+progress to yield these different burning behaviors.
+The apriori numerical predictions and interpretations described below were used to guide an ISS
+isolated droplet combustion experimental test matrix that considered elevated pressure and high helium diluent substitution using n-dodecane as fuel.
+Results from the experiments confirm and compare well against the predicted three-stage behavior
+in terms of droplet diameter, flame stand-off ratio
+(FSR =d f lame /ddroplet ), and radiant emission evolution histories.
+
+3
+
+2. Experimental setup and procedure
+Experiments were performed in the Multi-User
+Droplet Combustion Apparatus (MDCA) insert
+in the ISS Combustion Integrated Rack (CIR),
+a full-sized rack facility in the ISS-Destiny module. The hardware and software are nearly identical to that detailed in a previous publication [14].
+In the present experiments, the field-of-view (FOV)
+of the backlit images of the droplet increased to
+5 cm × 5 cm, resulting in slightly less spatial resolution but increased ability to record longer duration burning histories within the FOV. A new intensified camera (1392 × 1040 pixel array) equipped
+with a rotating filter wheel and an increased FOV
+(90 mm × 68 mm) recorded the radiative emissions
+associated with “Hot” and “Cool flame” conditions.
+The rotating filter wheel contained a 430 nm filter to visualize the CH∗ chemiluminescence during “Hot flame” burning, and a wideband filter
+to detect formaldehyde chemiluminescence (390–
+490 nm) during “Cool flame” burning. A separate,
+wide angle radiometer was used to record radiant
+emission history. The radiometer signal was used
+to determine the initiation of “Hot flame”, automatically power off and retract the igniter from the
+vicinity of the droplet. When the radiometer signal
+showed “Hot flame” extinction, the intensified camera intensifier gain increases and the “Cool flame”
+filter rotated into position to record the formaldehyde chemiluminescence during cool flame burning. The observed “Cool flame” emission could
+not be observed on the color video camera on the
+MDCA and was of poor quality even on the intensified camera. The “Cool flame” images were improved using median filtering and image-averaging
+over 500 ms [15], and an automated image processing procedure was then applied to determine flame
+diameter from line profile across the center of the
+flame image. Here we report two relevant measures
+of the flame, the peak-to-peak flame diameter representing the diameter of peak chemiluminescence
+and an FWHM diameter that represents the outer
+diameter of the flame where the grayscale value of
+the flame chemiluminescence decreased to one-half
+the peak value.
+3. Numerical modeling
+The mathematical model employed to describe the transient vaporization, ignition, and
+combustion histories of isolated pure and multicomponent fuel droplets both in the high and lowtemperature regime under microgravity conditions
+was presented and validated in earlier publications
+[7,9,13]. The model assumes sphero-symmetry because of microgravity conditions. The conservation
+equations for mass, species, and energy are solved
+for the liquid and gas phases. Both Fickian and
+Soret diffusion is taken into account for evaluating
+
+multicomponent species diffusion velocities. The
+radiative effects are predicted via a spectrally
+resolved statistical narrow band (SNB) radiation
+model [16]. Liquid phase property data are taken
+from the Daubert and Danner database [17].
+Comprehensive kinetic mechanisms consisting
+of 652 species, 2827 reactions [18] and 583 species
+and 2609 reactions [19] were employed to describe
+the gas phase chemical reactions of n-heptane
+and n-dodecane respectively. Both the mechanisms
+are detailed constructs capable of resolving the
+high and low-temperature kinetic regimes. The ndodecane model is a reduced construct developed
+for n-alkanes covering a carbon number range from
+C7 –C20 . Sooting phenomena are not accounted for
+in the numerical simulations, and only present during the hot flame initiation phase, experimentally.
+Symmetry conditions are imposed at the center
+of the droplet. At the liquid/gas interface, the
+continuity of fluxes of energy and species is considered. The far field boundary (∼200 times the
+initial droplet diameter) is defined using a Dirichlet boundary condition by prescribing ambient
+composition and temperature (i.e., XO2 / XN2 / XHe
+and 298 K).
+4. Results and discussion
+First, we discuss the simulation results for an nheptane droplet of do = 4.00 mm burning at 3 atm
+pressure. The ambient composition consists of
+XO2 = 21% and balance of nitrogen that is progressively substituted with helium. Three representative helium substitution cases (i.e., XHe = 20, 40
+and 60%) are presented. These cases are chosen to
+be within substitution range where inception and
+cessation of three-stage burning behavior are observed. For complete substitution (XHe = 79%), the
+presence of a three-stage burning behavior is not
+predicted. Figure 1 shows the predicted droplet diameter, FSR, burning rate (Kb ) and peak gas temperature (Tmax ) evolution histories. For all three
+cases, the FSR initially grows, representative of an
+increasing “Hot flame” diameter. The flame steadily
+grows in diameter with a decrease in the flame temperature to the maximum diameter (i.e., maximum
+FSR) and then undergoes radiative extinction. In
+all the three cases, following the first-stage “Hot
+flame”, the system transitions to a second-stage, but
+unlike previous observations [7,9] this second-stage
+is associated with an intermediate-temperature
+“Warm flame” burn occurring at ∼970 K (Fig. 1b).
+The system undergoes a second transition to a
+third-stage burn characterized by a lower temperature (∼765 K) “Cool Flame” burn. It is apparent
+from the FSR evolution history that each of the
+burning transitions is associated with a contraction of the flame (reduction in the FSR). Despite,
+the large variation in the flame structure, there are
+no distinctive changes to be noted in the predicted
+
+4
+
+Fig. 1. Evolution of (a) droplet diameter, FSR and (b)
+predicted Kb , Tmax for n-heptane droplet combustion
+(do = 4.00 mm, P = 3 atm, XO2 = 21%, denoted XHe and
+balance XN2 ). The three-stage burning behavior is demarcated with the vertical dashed lines only for the
+XHe = 40% case.
+
+droplet diameter regression history. The droplet regression rate is related to the heat feedback from
+the flame to the droplet, which is a function of
+the temperature gradient toward the drop surface.
+Even though the flame temperature decreases, the
+distance between the flame and the droplet also
+decreases such that the gradient does not change
+significantly. Thus, the regression rate is relatively
+insensitive to the different burning regimes. In general, once the droplet is driven to near-saturation
+temperature, the gross feature of diameter regression rate does not vary substantially.
+The helium substitution in the ambient strongly
+dictates the three-stage burning characteristics. For
+XHe = 20%, the intermediate-temperature secondstage burn continues for ∼23 s and is followed by
+a very brief ∼0.5 s low-temperature third-stage. As
+the XHe fraction is increased, the duration of the
+second-stage is decreased and the third-stage increases. As the XHe approaches 60%, the secondstage is suppressed to ∼1 s, followed by a thirdstage “Cool flame” burn for ∼18 s. The shorter and
+longer burn durations are also evidenced in the Kb
+evolution (Fig. 1b). The higher helium substitution
+augments the diffusive losses which dictate the second and third-stage burn. The first-stage remains
+
+Fig. 2. Evolution of (a) radiative and (b) diffusive heat
+losses for n-heptane droplet combustion (do = 4.00 mm,
+P = 3 atm, XO2 = 21%, denoted XHe and balance XN2 ).
+The three-stage burning behavior is demarcated with the
+vertical dashed lines only for the XHe = 40% case.
+
+relatively insensitive to helium substitution with the
+transition to the second-stage at ∼3 s. However, helium substitution increases Kb and hence results in
+shorter total burn times (Fig. 1b). The higher thermal diffusivity of helium leads to improved heat
+transfer to the droplet surface which contributes to
+the increasing Kb .
+Figure 2 presents the predicted temporal evolution of the integrated net radiant and diffusive heat
+losses for the 3 atm cases. The net radiative and diffusive heat loss evolution is obtained by integrating
+the predicted radiative fluxes at all wavelength and
+the diffusive heat fluxes from the flame location to
+the far-field. For all the cases, the radiative heat loss
+dominates the first-stage burn and the transition to
+the second-stage takes place when the radiant heat
+reaches ∼35 W. The growth of the flame radius in
+the first-stage is such that for all the cases the radiant heat attains its maximum at ∼3 s. As the system
+transitions to the second-stage “Warm flame” burn
+the radiative heat loss decreases but still remains
+significant and only diminishes as the burn evolves
+to the third-stage. This is in contrast to atmospheric
+
+5
+
+Fig. 3. Evolution of (a) droplet diameter, FSR and (b)
+predicted Kb , Tmax for n-heptane droplet combustion
+(do = 4.00 mm, P = 5 atm, XO2 = 21%, denoted XHe and
+balance XN2 ). The three-stage burning behavior is demarcated with the vertical dashed lines only for the
+XHe = 60% case.
+
+pressure, n-heptane/air “Cool flame” droplet burning where radiative losses were considerably less
+than diffusive losses. In comparison, the diffusive
+heat loss is lower in the first-stage but is comparable
+to the radiative loss in the second-stage. It is only in
+the low-temperature “Cool flame” burn that the diffusive heat loss to the far-field surpasses the radiative contribution. The heat loss temporal profile indicates that the three-stage transition is dictated by
+the size of the flame and the associated relative balance between radiative, diffusive heat transfer and
+the heat generation as the droplet size regresses. It is
+apparent that with an increase in helium concentration the diffusive heat loss increases which is due to
+the higher thermal diffusivity of helium. The sharp
+rise in the early transient of the diffusive heat loss is
+a result of the prescribed thermal ignition profile.
+Figure 3 presents the predicted droplet diameter,
+FSR, Kb and Tmax evolution for three representative three-stage burning behavior at 5 atm. The
+choice of the two operating pressure conditions
+(i.e., 3 and 5 atm) is a result of the operational capability of the MDCA onboard the ISS. Similar to
+the 3 atm cases, at 5 atm pressure, a distinct threestage burning behavior is observed unlike the 1 atm
+
+Fig. 4. Chemical pathways for n-heptane droplets undergoing three-stage burning and ignition delay time of nheptane as a function of temperature at three different
+pressure is also shown. The vertical arrows in the ignition delay plot denote the activation energy in the NTC
+regime.
+
+helium diluent exchange studies [7]. In comparison
+to the 3 atm predictions, higher helium loading
+is required to initiate the three-stage behavior at
+5 atm. At 5 atm, an onset of the three-stage occurs
+for XHe = 40% which is a factor of two higher than
+the inception condition of the 3 atm case. At the
+same time, at XHe = 79% an equally spaced out
+three-stage behavior is observed whereas at 3 atm
+XHe = 60% results in a near suppression of the
+“Warm flame” burn. Kinetically, an increase in the
+operating pressure results in an increase in both
+the turnover temperature into the NTC regime
+and hot ignition temperature transition associated
+with hydrogen peroxide decomposition (Fig. 4).
+However, the difference in the ignition delay time
+(reactivity) between the two temperatures decreases
+
+6
+
+with increasing pressure, resulting in a reduced
+range of conditions over which heat release (kinetic
+time scales) and heat loss (diffusive time scales) can
+balance to yield quasi-steady second-stage burning.
+Figure 4 shows the dominant chemistry in the
+high, intermediate and low-temperature kinetic
+regimes. At high temperatures the consumption of
+n-heptane proceeds entirely by decomposition and
+H-abstraction reactions followed by β scission reactions to form lower carbon number alkyl and
+alkenyl fragments that eventually decompose and
+react further to produce small radicals (CH3 , HO2 ,
+OH, H, HCO). At temperatures below which heptyl radical beta scission dominates, peroxy radicals R7 OO• form via O2 addition, followed by isomerization to • Q7 OOH and a second oxygen addition and adduct isomerization results in forming
+ketohydroperoxides OQ7 OOH and OH, yielding
+degenerate chain branching. The relative rates of
+R7 OO• and • O2 Q7 OOH formation/decomposition
+as well as the decompositions of their isomerized configurations control the rate of degenerate
+branching which manifests in the turnover temperature and NTC behaviors. The decomposition
+of hydroperoxyalkyl • Q7 OOH forms small alkenes,
+aldehydes, heptene and HO2 , C7 -cyclic ethers and
+OH, C7 -etherocycle species reducing degenerate
+branching in the NTC – intermediate-temperature
+regime. Our earlier investigations of cool flame
+droplet burning of n-heptane in air at atmospheric
+pressure showed that decomposition of and reversal of oxygen addition to • Q7 OOH led to extinction
+as heat losses forced maximum reaction temperatures in the NTC regime toward the turnover temperature [7].
+In some recent works [20,21] it has been
+proposed that peroxy-alkyl hydroperoxide species
+(O2 QOOH; Q =Cn H2n ) can undergo an alternative
+isomerization to produce alkyl-dihydroperoxides
+(P(OOH )2 ; P =Cn H2n−1 ), which is followed by a
+third O2 addition to form O2 P(OOH)2 radicals.
+The P(OOH)2 species can also undergo β-scission
+forming olefins or decompose to form hydroperoxyl cyclic ethers. These additional pathways have
+been demonstrated to have a significant influence
+on n-hexane and iso-octane ignition delay times at
+high pressure only. It is likely that developments in
+the intermediate-temperature kinetics of n-heptane
+and higher alkanes will emerge and may modify
+the details of the reaction paths depicted in Fig. 4,
+though the global kinetic behaviors must continue
+to reflect the experimental observations present in
+the literature.
+Figures 5 and 6 shows the flame structure behaviors over the entire droplet burning phenomena
+via spatiotemporal contour plots of the stable combustion products, major intermediates and selected
+key species, where the FSR is also inlaid to readily
+identify the flame location. The vertical dash lines
+sharply delineate the distinct three-stage combustion behavior.
+
+In the first-stage “Hot flame” (∼1500 K) combustion, diffusive burning results in H2 O and
+CO2 as the major products (Fig. 5b and c).
+CO and much lower concentrations of hydrocarbon appear as intermediate species. As the system transitions to “Warm flame” burning conditions (∼970 K), H2 O remains as a major product species, but the conversion of CO to CO2 in
+the flame structure is substantially inhibited. The
+“Warm flame” NTC kinetic reactions and competition of hydrocarbon and oxygenated hydrocarbon
+fragments for OH, strongly suppressing the oxidation ofCO through CO + OH → CO2 + H, leaving only the much slower formation path of conversion, CO + HO2 → CO2 + OH. Intermediate
+concentrations of smaller alkenes, alkynes (C2 H4 ,
+C2 H2 , C3 H6 , C4 H8 not shown here) also become
+more prominent for similar reasons. A significant
+increase in HO2 concentration in the flame zone
+highlights reactions associated with R7 OO• and
+Q7 OOH that limits degenerate branching is controlling chemical time scales. At increased pressure, and sufficient helium substitution the radiative loss during the second-stage burn exceeds diffusive losses to the far-field (Fig. 2). The presence
+of helium also augments the diffusive transport of
+species in the flame zone sufficiently to slow NTC
+reactions that define the heat generation time scale.
+The increased diffusive loss associated with both
+heat loss to the far field and reduced heat generation from species transport control the near quasisteady second-stage “Warm flame” behavior, with
+flame temperatures residing between the hot ignition and turnover temperature. As the reaction
+temperature approaches the turnover temperature,
+the behavior transitions to the third-stage condition. The increased heat release rates at temperatures below the turnover (due to increased pressure)
+are sufficient to balance the enhanced diffusive
+transport resulting in the near quasi-steady thirdstage behavior at lower temperatures. At atmospheric pressure conditions, even without helium
+substitution, heat generation rates at these temperatures cannot sustain continued “Cool flame”
+droplet burning in a transition from burning in the
+NTC kinetic regime across the turnover temperature condition.
+The spatiotemporal contour plots of exemplary key low-temperature combustion species are
+presented in Fig. 6. In addition to formaldehyde CH2 O, acetaldehyde CH3 CHO, cyclic
+ether C7 H14 O, hydroperoxyalkyl C7 H14 OOH,
+peroxyalkylhydroperoxide O2 C7 H14 OOH and
+ketohydroperoxide C7 H14 O3 species are found
+to be present at high concentrations during the
+third-stage “Cool flame” burn. C7 H14 O is also
+significant in the “Warm flame” burn and overlaps
+with n-heptene (not shown here).
+Data for an elevated pressure, helium substituted droplet experiment with n-dodecane as fuel
+(FLame EXtinguishment experiment 1268) are
+
+7
+
+Fig. 5. Spatiotemporal contour of (a) gas phase temperature and mass fraction of (b) H2 O, (c) CO2 , (d) CO, (e) H2 O2
+and (f) HO2 for n-heptane undergoing three-stage combustion (do = 4.00 mm, 3 atm, XO2 = 21%, XHe = 40% and balance
+N2 ).
+
+Fig. 6. Spatiotemporal contour of (a) total C7 H14 OOH, (b) total O2 C7 H14 OOH, (c) total C7 H14 O3 , (d) total C7 H14 O, (e)
+CH3CHO and (f) CH2 O for n-heptane undergoing three-stage combustion (do = 4.00 mm, 3 atm, XO2 = 21%, XHe = 40%
+and balance N2 ).
+
+compared with simulations in Fig. 7. Similar to
+the n-heptane results discussed above, a three-stage
+burning behavior is observed. While the predicted
+droplet diameter regression and the transition time
+to the second-stage agree very well with measurements, the predicted FSR and radiant emission
+results considerably differ from the measurements.
+Sooting observed in the experimental hot ignition
+and flame transition phase are likely responsible
+for the disparities during the first-stage “Hot
+
+flame” burn. Furthermore, the predictions show
+a longer second-stage burn that transitions to a
+short third-stage “Cool flame”. Experimentally
+the duration of the second-stage “Warm flame”
+is a factor of ∼2 shorter than predictions, and a
+re-initiation and radiant extinction of hot flame
+burning is also observed. A sensitivity analysis
+of the low and intermediate temperature pathways of the parent fuel identified the ·• Q12 OOH →
+OH+· Q12 O (cyclic ethers ) reaction classes to be the
+
+8
+
+Fig. 7. Measured and predicted evolution of droplet
+diameter, flame diameter and radiant heat for an ndodecane droplet combustion (do = 4.35 mm, 2.75 atm,
+XO2 = 21%, XHe = 29% and balance N2 , FLEX 1268).
+The duration of the first, second and third-stage burn of
+the experiment and model is demarcated at the top and
+bottom of the figure.
+
+most sensitive in the “Warm flame” burn and the
+·•
+O2 Q12 OOH → OH+Q12 OOH, ·• O2 Q12 OOH →
+OH + OQ12 OOH(ketohydroperoxides)
+having
+highest sensitivity in the “Cool flame” burn mode.
+Closer consideration of the kinetic model for ndodecane oxidation show that the low-temperature
+and NTC regime properties are identical to those
+for n-heptane, likely because these kinetics for the
+n-dodecane model are based upon similarity to
+and data for the n-heptane low and NTC kinetics.
+However, the overall rates of isomerization for
+radical-O2 adducts yield degenerate branching
+should be faster for n-dodecane than for n-decane,
+based upon the statistical number of five and six
+membered ring formations possible with increased
+n-alkane carbon number [22]. It is likely that
+the above disparities of second and third-stage
+behaviors for n-dodecane experiment and predictions may result from uncertainties in low and
+intermediate-temperature n-dodecane kinetics. As
+for the reignition, our prior study [13] identified
+that the heat feedback through the tether fiber can
+play a substantial role in this behavior. However
+other external sources of perturbation can also
+trigger this phenomenon. In general, in these
+systems the dynamic processes (e.g., re-ignition,
+transition in burning stage) are caused by diffusive/kinetically controlled heat release balances
+and when balances can no longer be achieved,
+either re-ignition or extinction occurs.
+
+5. Summary
+Experimental and simulation data for largediameter n-alkane droplet combustion at elevated
+pressure and helium diluent substitution are reported. A unique three-stage burning behavior is
+
+observed. Initiation of “Hot flame” burning transitions through radiation extinction to nearly quasisteady “Warm” and then “Cool flame” burning conditions. The simulations elucidate the strong dependence of observations on helium diluent substitution and ambient pressure that promote different
+burning conditions where net heat generation rate
+from low or NTC kinetic behaviors and net total
+heat loss rate from radiation and diffusive transport are nearly balanced. The second-stage “Warm
+flame” condition results from a balance of heat release at kinetic conditions within the NTC kinetic
+regime against heat loss, which is dominated by radiant loss. The third-stage condition results from
+an inability to achieve higher heat release rates to
+balance net heat loss rates as flame temperatures
+decrease toward the turnover temperature condition. The “Warm flame” condition can no longer be
+stabilized and dynamically transitions to a nearly
+quasi-steady balance of heat generation and loss at
+flame temperatures lower than the turnover temperature and within the low-temperature kinetic
+regime. In this third-stage “Cool flame” condition,
+diffusive losses are found to be greater than radiative contributions to the total heat loss rate.
+The time and spatial histories of species for nheptane droplet combustion indicative of incomplete hydrocarbon consumption (reduced oxidation of CO to CO2 ) and the shift in intermediate
+oxygenated alkyl fragments demarcate the kinetic
+characteristics for all three burning modes and support that the “Warm” and “Cool flame” burning
+modes lie in the NTC, and low-temperature kinetic
+regimes, respectively.
+Similar experiments using n-dodecane as fuel indicate that re-initiation of hot flame burning from
+the “Warm flame” condition can occur when the
+heat release/loss balance results in reaction temperatures exceeding the NTC “hot ignition” condition. No such phenomena are predicted using current n-dodecane oxidation kinetics for which low
+and NTC parameters are based upon those of nheptane. The quantitative differences in cool flame
+behaviors are likely due to current deficiencies in
+the n-dodecane kinetic sub-model components.
+
+Acknowledgments
+This study was supported by the National
+Aeronautics and Space Administration (NASA)
+through grant numbers NNX14AG461A (TF) and
+NNX09AW 19A (FLD).
+References
+[1] F.A. Williams, Prog. Energy Combust. Sci. 26 (2000)
+657–682.
+[2] W.A. Sirignano, Prog. Energy Combust. Sci. 42
+(2014) 54–86.
+
+9
+[3] R. Fairlie, J.F. Griffiths, K.J. Hughes, H. Pearlman,
+Proc. Combust. Inst. 30 (2005) 1057–1064.
+[4] R. Foresti, Symp. (Int.) Combust. 5 (1955) 582–589.
+[5] M. Tanabe, M. Kono, J. Sato, J. Koenig, C. Eigenbrod, H. Rath, Symp. (Int.) Combust. 25 (1994)
+455–461.
+[6] V. Nayagam, D.L. Dietrich, P.V. Ferkul, M.C. Hicks,
+F.A. Williams, Combust. Flame 159 (2012)
+3583–3588.
+[7] T.I. Farouk, F.L. Dryer, Combust. Flame 161 (2014)
+565–581.
+[8] S.H. Won, B. Jiang, P. Diévart, C.H. Sohn, Y. Ju,
+Proc. Combust. Inst. 35 (2015) 881–888.
+[9] T.I. Farouk, D. Dietrich, F.E. Alam, F.L. Dryer,
+Proc. Combust. Inst. 36 (2017) 2523–2530.
+[10] C.B. Reuter, S.H. Won, Y. Ju, Combust. Flame 166
+(2016) 125–132.
+[11] C.B. Reuter, S.H. Won, Y. Ju, Proc. Combust. Inst. 36
+(2017) 1513–1522.
+[12] Y. Ju, C.B. Reuter, S.H. Won, Combust. Flame 162
+(2015) 3580–3588.
+[13] T.I. Farouk, M.C. Hicks, F.L. Dryer, Proc. Combust.
+Inst. 35 (2015) 1701–1708.
+[14] D.L. Dietrich, V. Nayagam, M.C. Hicks, P.V. Ferkul, F.L. Dryer, T. Farouk, B.D. Shaw, H.K. Suh,
+M.Y. Choi, Y.C. Liu, C.T. Avedisian, F.A. Williams,
+Microgravity Sci. Technol. 26 (2014) 65–76.
+
+[15] V. Nayagam, D.L. Dietrich, F.A. Williams, AIAA J.
+54 (2016) 1235–1239.
+[16] Z. Chen, X. Qin, B. Xu, Y. Ju, F. Liu, Proc. Combust.
+Inst. 31 (2007) 2693–2700.
+[17] T.E. Daubert, R.P. Danner, Physical and Thermodynamic Properties of Pure Chemicals: Data Compilation, Hemisphere Publishing, New York, 1989.
+[18] M. Mehl, W. Pitz, C. Westbrook, H. Curran, Proc.
+Combust. Inst. 33 (2011) 193–200.
+[19] S. Sarathy, C. Westbrook, M. Mehl, W. Pitz,
+C. Togbe, P. Dagaut, H. Wang, M. Oehlschlaeger,
+U. Niemann, K. Seshadri, P. Veloo, C. Ji, F. Egolfopoulos, T. Lu, Combust. Flame 158 (2011)
+2338–2357.
+[20] N. Atef, G. Kukkadapu, S.Y. Mohamed,
+M.A. Rashidi, C. Banyon, M. Mehl, K.A. Heufer,
+E.F. Nasir, A. Alfazazi, A.K. Das, C.K. Westbrook,
+W.J. Pitz, T. Lu, A. Farooq, C.-J. Sung, H.J. Curran, S.M. Sarathy, Combust. Flame 178 (2017)
+111–134.
+[21] Z. Wang, S.M. Sarathy, Combust. Flame 165 (2016)
+364–372.
+[22] F.L. Dryer, Proc. Combust. Inst. 35 (2015) 117–144.
+

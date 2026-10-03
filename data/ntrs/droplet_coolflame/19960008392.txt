@@ -1,0 +1,863 @@
+MULTICOMPONENT
+AND
+
+SOOT
+
+DROPLET
+
+FORMATION
+C. Thomas
+
+IN
+
+COMBUSTION
+MICROGRAVlTY
+
+N96- 15558
+
+Avedisian
+
+Cornell University
+Ithaca, New York
+
+Most practical
+fuels which are burned
+in combustion-powered
+devices,
+stationary
+power
+plants, and incinerators
+are multicomponent
+in nature. The differing
+properties
+of fuels effects the
+combustion
+behavior
+of the blend.
+Blending
+can be useful to achieve
+desired
+ends, such as
+increasing
+burning
+rates and reducing
+extinction
+diameter and soot formation.
+Of these, particulate
+emissions
+is one of the most important
+concerns _cause
+of its impact on the environment.
+It is also
+the least understood
+and most complicated
+aspect of droplet combustion.
+Because of this fact, a well
+characterized
+flow field and simplified
+flame shape can improve the understanding
+of soot formation
+during droplet combustion.
+The simplest flame shape to analyze for a droplet, while still maintaining
+the integrity
+of the droplet geometry
+with its inherent
+unsteadiness,
+is spherical
+with its associated
+one-dimensional
+flow field.
+This project will concern soot formation
+in microgravity
+droplet flames
+that effect it. Because
+it has not yet begun, this paper will briefly review some
+
+and some parameters
+related results on this
+
+subject.
+Experiment
+For combustion
+in an ambience
+of air (the most practical environment),
+the pressure must be
+reasonably
+high (usually
+atmospheric
+or higher) for soot formation
+to be a factor.
+Low pressure
+tends to suppress
+sooting for an ambience
+of air. With increasing
+pressure,
+buoyancy
+becomes
+a
+factor so a microgravity
+environment
+can compensate.
+In past work, low gravity
+was realized
+by
+conducting
+experiments
+on board a drop tower, and both free and fiber-supported
+droplets
+were
+studied. Free droplets were formed and deployed
+by a piezoelectric
+droplet generator
+[ 1]. For fiber
+supported
+droplets,
+the ratio of the fiber to the droplet diameter at ignition is kept small to minimize
+the influence
+of the fiber, which can effect soot patterns
+as shown in fig. 1 [2]. Burning
+rates for
+fiber-supported
+droplets need to match (within experimental
+error) the bunting rates of unsupported
+droplets
+of similar
+size to avoid a fiber influence
+on burning.
+Then, results from fiber supported
+droplets can be useful for single component
+fuels.
+Typical
+data are the evolution
+of the droplet diameter.
+If the luminous
+zone is especially
+pronounced
+in photographs,
+the flame 'diameter'
+can also be measured
+but few data exist for the
+flame or luminous
+zone boundary
+that spans a significant
+portion of the burning history. The flame is
+ideally
+identified
+by a peak in a radical
+species
+like OH or temperature
+distribution,
+but the
+diagnostics
+necessary
+to measure
+OH distribution
+around burning droplets have not yet been utilized
+in microgravity
+droplet combustion
+experimentation.
+In practice, the flame and soot shell diameters
+are identified
+from photographs.
+This type of recording
+medium will continue
+to be indispensable
+for
+data extraction.
+Simultaneous
+measurement
+of the droplet diameter, D, the mean soot shell diameter,
+Ds, and the 'flame'
+diameter,
+Df, however,
+is difficult
+or impossible
+if soot image
+intensity
+dominates.
+Data reduction
+from the motion picture negatives is via commercial
+data acquisition
+software.
+Sooting is inferred
+from examination
+of digitized photographs
+by scanning the pixels. This method is
+obviously
+qualitative
+but necessary
+because
+of the difficulty
+of employing
+more quantitative
+soot
+diagnostic
+methods in a drop tower environment.
+47
+
+PAGE
+
+_t,Jd_j{
+
+NOT
+
+FILMED
+
+Mixtures
+
+and Emulsions
+
+Many models have been formulated
+for spherically
+symmetric
+burning
+of multicomponent
+fuels, including
+emulsions,
+but few relevant
+data have been published.
+Combustion
+of a mixture
+droplet, especially,
+can be effected
+by the experimental
+method.
+For fuel blends,
+fiber supported
+droplets can_effect the species distribution
+within the droplet, promote heterogeneous
+nucleation
+on
+the fiber surface,
+and (for an emulsion)
+cause coalescence
+of the dispersed
+phase. Unsupported
+droplets
+avoid these effects but it is more difficult to capture their complete
+combustion
+history on
+film because
+of the necessity
+of keeping
+the droplet
+stationary.
+Unsupported
+droplets
+of
+methanol/dodecanol,
+heptane/hexadecane,
+and methanol/toluene
+have been examined
+in microgravity
+[3-6].
+Some of the observations
+showed
+multistage
+combustion
+and microexplosions,
+and an
+influence
+of composition
+on soot formation.
+Concerning
+emulsions,
+two studies
+are known
+for microgravity
+droplet
+flames
+[7,8].
+Emulsions
+of water and oil, and hydrazine
+and oil, were examined
+[8] using the suspended
+droplet
+technique
+in which disruptions
+akin to microexplosions
+were noted.
+For the present
+project,
+emulsions
+using free droplets
+will be studied.
+The continuous
+phase will be heptane
+and the
+dispersed
+phase will be water.
+Water is selected
+as the dispersed
+phase because
+of its expected
+influence
+on soot formation
+through the flame temperature.
+Heptane
+as the continuous
+fuel phase
+permits referencing
+the results with microgravity
+heptane droplet flames. The similar volatility
+of
+heptane
+and water should not lead to microexplosions.
+The presence
+of a low volatility
+surfactant
+that is usually needed to stabilize an emulsion,
+however,
+will be assessed
+in the experiments.
+Evolution
+
+of the Flame
+
+and Soot Shell
+
+'Diameter'
+
+The appearance
+of a ring of soot or 'shell' is unique to spherical
+droplet
+flames for sooting
+fuels. In a convective
+environment,
+soot entrapment
+will also occur but the soot pattern shape will
+roughly
+follow that of the flame which is stretched
+out in a tear-drop
+shape.
+First observed
+by
+Okajima and Kurnagai
+[9], spherical
+soot patterns formed between droplet and flame have been more
+prominent
+in recent studies.
+The shell of soot will form where the forces acting on the aggregates
+balance.
+Thermophoretic
+forces on aggregates
+are directed toward the flame. The force due to Stefan
+drag is directed away from the droplet. The 'shape' of the shell is dictated by the velocity distribution
+around the droplet which is spherical for a purely radial flow field.
+The time dependence
+of Ds (the shell "diameter"
+really has a finite thickness)
+reflects
+the
+temporal variation
+of Df during burning.
+An example is illustrated
+in fig. 2a, where the evolution
+of
+Ds/D is shown for n-heptane
+[1] and compared
+with measurements
+of the outer luminous
+zone, Dr/D,
+which is here taken to be the flame diameter.
+Similar results for a 1-chloro-octane
+(CHC) flame am
+also shown in fig. 2b. That both Ds/D and DffD track together,
+with Ds/D<Dt'/D
+as shown in fig. 2,
+is consistent
+with the fact that soot precursors
+form on the fuel rich side of the flame.
+Based on the
+time dependence
+of Df/D shown in fig. 2, 'quasi-steady'
+droplet combustion
+which requires
+Df/D to
+be constant [10] is not realized in the experiments.
+,.E,.
+ffect of Droplet
+
+Diameter
+
+on Soot Formation
+
+anal Burning
+
+Rate
+
+The evidence
+for this effect is qualitative
+because it
+comparing
+intensities
+of photographs
+for droplets of different
+less intense
+soot images
+than large droplets.
+Fig. 3 shows
+droplets
+under similar
+backlighting
+conditions
+[1]. The
+smallest droplets and 501.tm for the two largest droplets. The
+.44mm to 1.01ram
+and the value
+Differences
+in soot image intensity
+
+of ffDo 2 is approximately
+am evident.
+
+is based on subjective
+judgements
+from
+size. Generally,
+smaller droplets
+show
+four different
+fiber-supported
+heptane
+fiber diameter
+was 301.tin for the two
+initial (equivalent)
+diameters
+range from
+the
+
+same
+
+to facilitate
+
+comparisons.
+
+The mass of soot formed during droplet combustion
+should increase
+as the initial droplet
+diameter
+increases
+because
+of the larger mass of fuel vaporized.
+Less clear is whether
+or not the
+'proportional'
+amount
+of soot formed,
+that is the amount
+of soot formed
+per unit mass of fuel
+vaporized,
+is effected
+by droplet
+size.
+No measurements
+of this quantity
+have been made for
+spherical
+droplet flames. However,
+for droplets burning in a convective
+environment,
+the amount of
+48
+
+sootformedper unit massof fuel burnedappears increase
+to
+asthedropletdiameterincreases
+andto
+scaleasD n [11] where 3<n<4.
+Concerningthe burningrate,someevidence
+exists to showthatthe droplet burning rate is
+influencedby Do [1]. Fig. 4 showshow K (- - d(D2)/dt)varieswith Do for heptane(for two-spark
+ignition) for .4mm<Do<l.lmm. K increasesas Do decreases, hich is not consistentwith the
+w
+classicaltheory of dropletcombustion[10] which,though,neglects
+sootformation.
+Soot formation cancauseK to changecontinuouslyduringburning. Aggregatesformed in
+the early of burning wherethe dropletdiameteris largestwill become
+trappedbetweenthe droplet
+andflame. In the later period wherethe droplet diameteris considerablyreducedfrom the initial
+value,proportionally lesssootshouldbe produced.However,entrapped
+aggregatesrom the earlier
+f
+periodof burningcan still remainnearthe dropletlatein theburninghistory.Also, theheatgenerated
+at the flame (relative to the droplet size) shouldincreaseproportionally as diameter is reduced
+becauseproportionally fewer fuel molecules are converted to soot if smaller droplets soot
+proportionally less than larger ones. As a result, K could progressively increaseas burning
+proceeds.The evidencefor this effect is circumstantialas shownin fig. 5 for CHC [1], but it does
+suggesta more constantK for smaller,lesssooting,dropletsthan larger ones. Variations in K
+duringburningcan bedifficult to identifybecause requu'es
+it
+obtainingsecond
+derivativeswhich can
+greatlymagnify datauncertainty. The earlyperiodof burning(thefirst 10%of it or so),andthe end
+of burningwherethedropletdiameter
+canbetoo small,canbedifficult to resolveusingconventional
+photographicmeans. Therewill continueto be a needfor increased
+precisionof droplet diameter
+measurements.
+The residencetime of fuel moleculeson thefuel-rich sideof a flamecanbe usedto explain
+qualitatively trends shownin fig. 3. The longer fuel moleculesresideon the fuel rich side of the
+flame the greaterwill be the probability of their ultimate conversionto soot aggregates. Two
+characteristictimes arethe transporttime of fuel molecules
+betweenthe dropletandflame (Do2/a)
+anda pyrolysis reactiontime.The ratio of thesetwo times,x, is z - ADo2exp[-E/(RT)]/_
+[12] where
+E is an activation
+
+energy
+
+associated
+
+pre-exponential
+
+factor
+
+for an Arrenhius
+
+propensity
+
+for soot formation
+
+decreasing
+
+values
+
+observations.
+is consistent
+
+with a fit'st order pyrolysis
+
+increases
+
+of x. Trends
+
+constant,
+
+as conditions
+
+based
+
+For example,
+decreasing
+with experimental
+results
+
+rate
+
+on
+
+reaction,
+
+and
+
+Do lowers'c
+[1,11].
+
+a is a mean
+
+are adjusted
+
+this proportionality
+which
+
+should
+
+A (s "l) is the corresponding
+
+to increase
+are consistent
+lower
+
+gas
+
+diffusivity.
+
+x, and vice
+with
+
+the propensity
+
+The
+versa
+
+for
+
+experimental
+to soot.
+
+This
+
+Modelling
+Soot formation
+processes
+have not yet been included
+in a model for droplet
+combustion.
+Such things as complex
+chemistry,
+the steps and associated
+rates for forming
+soot aggregates,
+soot
+aggregate
+entrapment,
+and the effect of converting
+fuel molecules
+to soot on the heat release at the
+flame would
+have to be included
+in a detailed
+model.
+Some of the building
+blocks for detailed
+modelling
+have been developed
+in past research,
+for example
+the influence
+of flame radiation
+[13,14],
+complex
+chemistry
+for several fuels [15-17], the forces acting on soot aggregates
+[17,18],
+and models for soot production
+rates in flames [19-21].
+If soot formation
+
+is not accounted
+
+for, the resulting
+
+analysis
+
+will be of limited
+
+applicability,
+
+for example
+to a small droplet or low pressure
+limit where soot formation
+is minimal.
+Such a limit
+was assumed
+for a spherically
+symmetric
+flame for quasi-steady
+conditions
+and neglecting
+flame
+radiation
+[17].
+Complex
+chemistry
+for heptane
+[22] was, however,
+included
+in the model.
+The
+temperature
+and velocity distributions
+calculated
+from this model were used to predict the net force
+on particles
+(due to thermophoresis
+and the Stefan drag force) for a fictitious
+situation
+in which the
+soot particles
+do not influence
+the transport
+processes.
+Fig. 6 [17] shows two equilibrium
+positions
+for particle
+entrapment
+for a given particle radius, rp, but only one of them is stable: the one closest
+to the droplet.
+Concerning
+a soot precursor
+species, fig. 7 [17] shows that the calculated
+mass of
+49
+
+acetylene fonned per mass of fuel vaporized decreases as the initial droplet diameter decreases.
+Summarv and Future Work
+Past research has shown that composition and droplet size can influence the droplet burning
+rate and soot formation for near spherically symmetric burning. Future work will extend the range
+of droplet diameters to smaller droplets than has been examined in a near convection-free
+environment, compare the results to a nonsooting fuel for referencing, and extend the analysis for
+sooting fuels. The experiments will also include study of emulsions using free droplets to examine
+the effect of water. Metal-based additives may also be examined because of their known role of
+influencing soot formation in some cases by the effect of the ions produced.
+
+1.
+2.
+
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+22.
+
+Jackson, G.S. and Avedisian, C.T. Proc. R. SOC. Lord, A M , 1994, 255-276
+al
+Wellin, J.D., Jackson, G.S. and Avedisian, C.T. paper no. 88, F l Eastern States Section Meeting of the
+Combustion Institute, Princeton, NJ. October 25-27, 1993.
+Yang, J.C., Jackson, G.S. and Avedisian, C.T. 23rd Symp. (Znf.)Comb., Pittsburgh, Pa: The Combustion
+Institute, 1990, pp. 1619-1625.
+Mikami, M., Kono, M., Sato, J., Dietrich, DL. Williams, F.A. Corn Sci. Tech. 90, 1993, 110-123.
+on
+Yang, J.C. and Avedisian, C.T. 2 2 d Symp. (hf.) Combus&, Combustion Institute, 1989, pp. 2037-2044
+. . Avedisian, C.T., and Yang, J.C. Proc. R. Soc. Land, A435 1991, 359-369.
+Jackson, G S ,
+O a i a S., Kanno, H.. and Kumagai, S. Acta Astronaut. 1 . 1985, 555-563.
+kjm,
+2
+Kimura, M., Ihara, H. Okajima, S , and Iwama, A. Comb. Sci Tech., 44, 1986, 289-306.
+.
+Okajima, S. and Kumagai, S . 15th Symp. (Znt.) Comb., Pittsburgh, Pa.: The Combustion Institute, 1975,
+pp. 401-407.
+Glassman, I. Combusfion,2nd ed.,Orlando, Fla.: Harcourt., Brace, Jovanovich, 1987.
+Gupta, S.B., Ni, T. and Santoro, R J . paper no. 50, Fall Eastern States Section Meeting of the Combustion
+Institute, Cearwater Beach, Fl., December 5-7,1994.
+Avedisian, C.T. Comb. Sci. Tech Book Series, vol. 2, in press.
+Lage, P.L.C. and Rangle, R.H. J. Thennophys. Heat Trmsf: 7,1993,101-109.
+Saitoh, T., Yamazaki,K. and Viskanta, R J. Thennophys. Heat Trans$ 7 , 1993,94-100.
+Cho, S.Y., Choi, M.Y., and Dryer, F.L. 23rd Symp. (Znf.) Comb., Pittsburgh, Pa: The Combustion
+Institute, 1990, pp. 1611-1617.
+Cho, S.Y., Yetter, R.A., and Dryer,F.L.J. Cow. Phys., 102, 1992, 160-179.
+Jackson, G.S. and Avedisian, C.T. AZAA paper no 954286,1995.
+Jackson, G.S, Avedisian, C.T., and Yang, J.C. Znf. J. Heat Muss Trans., 35 (8), 1992, 2017-2033.
+Kesten, A.S., Sangiovanni, JJ. and Goldberg, P. J. Eng. for Power, 102, 1980, 613-618.
+Kennedy, I.M., Kollman, W. andChen, J.Y. Comb. Flame. 81,1990,73-85.
+Frenklach, M. and Wang, H. 1990 23rd Symp. (Int.) Cod., Pittsburgh, Pa.: The Combustion Institute,
+1990, pp. 1559-1566.
+Wamatz, J. 20th Symp. (Znt.) Cod.,Pittsburgh, Pa.: The Combustion Institute, 1984, pp. 845-856.
+
+Effect of support fiber diameter on soot pattans and droplet shape .45s after ignition. a) free droplet;
+Figure 1:
+b) . 0 5 7 fiber, DO=~O@XII; 1 ~
+C) 1
+f i b , Do =770c~; 33d)
+fiber,D e 6 l w
+50
+
+L
+
+-
+
+Loo-
+
+8
+
+am-
+
+-
+
+3
+
+d
+
+B
+a
+
+.
+.
+4m .
+
+-
+
+-
+
+zm
+
+&
+t
+
+.;e
+
+.+
+
+= 0 3 s / m d (0.075 s)
+.9
+
+t@
+/
+
+Do=.44mrn
+
+= 0.40 s h d (0.15 s)
+D0=.61 mm
+
+t/#
+
+= 0.38s/rnr~?(0.28 s)
+
+t/#
+
+= 0 3 s / m d (0.39s)
+.8
+Do=l.O1 rnrn
+
+DO=.86rnm
+
+Figure 3: Effect of Do on soot image intensity for suspended heptane droplets.
+
+OM)
+
+om
+
+020
+
+0.40
+
+0.60
+
+om
+
+1.00
+
+120
+
+1AO
+
+1.60
+
+vLk2(h4
+
+Figure 4
+020
+
+0.15
+
+0.10
+0
+
+O M
+
+0.00
+
+Figure 7
+
+Figure 6
+51
+

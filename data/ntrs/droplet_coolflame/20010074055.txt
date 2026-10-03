@@ -1,0 +1,1436 @@
+Experiments
+
+and
+
+Model
+
+Radiation
+
+Development
+
+Effects
+Mun
+
+for
+
+the
+
+in Microgravity
+Young
+
+Choi
+
+Investigation
+
+Droplet
+
+and Ahmet
+
+L. Dryer
+
+Mechanical
+Princeton
+
+University,
+
+Combustion
+
+and Mechanics
+PA 19104
+
+and Andrei
+
+and Aerospace
+
+and
+
+Yozgatligil
+
+Department of Mechanical
+Engineering
+Drexel University, Philadelphia,
+Frederick
+
+of Sooting
+
+Kazakov
+
+Engineering
+
+Princeton,
+
+NJ 08544
+
+Ritsu Dobashi
+Department
+
+of Chemical
+Systems
+University
+of Tokyo
+Tokyo,
+
+Engineering
+
+Japan
+
+INTRODUCTION
+nearly
+
+Today, despite efforts to develop
+and utilize natural gas and renewable
+97% of the energy used for transportation
+is derived
+from combustion
+
+principally
+
+derived
+
+from
+
+petroleum.
+
+While
+
+society
+
+continues
+
+to rely
+
+on liquid
+
+energy sources,
+of liquid fuels,
+petroleum-based
+
+fuels as a major energy
+maximize
+the efficiency
+
+source in spite of their f'mite supply, it is of paramount
+and minimize
+the environmental
+impact of the devices
+
+importance
+to
+that bum these
+
+fuels.
+
+of improved
+
+efficieneies
+
+The
+
+development
+
+energy
+
+conversion
+
+lower emissions,
+is central
+to meeting
+both local
+development
+requires improvements
+in computational
+systems, which in turn requires
+more
+trasnport, energy
+transport (including
+burnout).
+diffusion
+
+having
+
+and regional
+design tools
+
+higher
+
+and
+
+air quality
+standards.
+This
+for applied energy conversion
+
+robust sub-model
+components
+for combustion
+chemistry,
+radiation),
+and pollutant
+emissions
+(soot formation
+and
+
+The study of isolated droplet burning as a unidimensional,
+time dependent
+model
+flame system facilitates extensions
+of these mechanisms
+to include fuel molecular
+sizes
+
+and pollutants
+sector.
+
+typical
+
+Because
+
+of conventional
+
+of the
+
+against
+
+Based
+the formation
+
+and
+
+altemative
+
+geometry,
+
+simplified
+
+those reduced to sizes compatible
+can be developed,
+compared and
+tested
+
+systems,
+
+liquid
+
+sub-model
+
+fuels
+
+used
+
+components
+
+for use in multi-dimensional,
+validated against experimental
+
+from
+
+in the
+
+transportation
+
+the most
+
+detailed
+
+to
+
+time dependent applied models
+diffusion
+flame processes,
+and
+
+one another.
+on observations
+in microgravity
+experiments
+on droplet combustion,
+it appears
+and lingering presence
+of soot within the fuel-rich region of isolated droplets
+
+that
+can
+
+modify the burning rate [Choi et al., 1990; Jackson and Avedisian,
+1994], flame structure
+extinction
+[Nayagam
+et al., 1998; Marchese et al., 1999], soot aerosol properties
+=
+[Manzello
+Choi,
+2001],
+and the effective
+thermophysical
+properties
+[Choi et al., 1990; Jackson
+
+and
+
+Avedisian,
+
+1994].
+
+These
+
+outstanding
+contributions
+absence
+of asymmetrical
+droplet
+
+surface
+
+greater
+
+than previously
+
+and
+
+burning
+
+parameters,
+
+NASA/CP--2001-210826
+
+the
+
+observations
+
+led to the belief
+
+that "perhaps
+
+one of the most
+
+of microgravity
+droplet
+combustion
+is the observation
+forced and natural convection,
+a soot shell is formed
+flame,
+
+exerting
+
+recognized"
+
+including
+
+burning
+
+an
+
+[Law
+
+influence
+and
+
+Faeth,
+
+on
+
+the
+
+1994].
+
+rate, soot shell dynamics,
+
+245
+
+droplet
+The
+
+flame
+
+response
+
+of soot
+
+structure,
+
+important
+
+that in the
+between
+the
+
+combustion
+effects
+
+and
+and
+
+and
+
+on
+
+far
+
+droplet
+
+extinction
+
+phenomena
+provide significanttestingparameters studyingthe structureandcouplingof soot
+for
+modelswith othersub-model omponents.
+c
+OBJECTIVES
+
+OF STUDY
+
+Microgravity
+diffusion
+
+flames
+
+combustion
+involves
+
+coupling
+
+thorough
+interpretation
+and incorporating
+the
+provide
+a robust test
+extinction,
+and aerosol
+The
+
+_uels
+
+of
+
+for advancing
+
+additives
+
+that
+
+of an isolated
+flow
+
+microgravity
+
+are
+
+typically
+
+droplet
+
+(liquid,
+
+the understanding
+
+detailed
+
+interactions
+_ i....
+numerical
+
+gas,
+
+investigations
+
+of
+
+of
+
+in internal
+problem
+
+particulate)
+strongly
+
+with burning
+rate,
+= = .....
+_
+........ :_
+modeling
+
+used
+
+is a robust
+
+burning behavior
+cannot be accomplished
+of sooting
+and radiation.
+Experimental
+
+of the important
+properties ..............
+
+development
+
+and
+
+.._ :
+
+platform
+
+multi-phase
+
+in previous
+
+of droplet
+influences
+
+o_ : .... :::__._::-
+
+The burning
+
+reactions,
+
+observations
+
+-
+
+is an ideal
+
+hydrocarbon
+
+and gas turbines.
+of chemical
+
+The
+
+__
+
+combustion
+
+of liquid
+
+engines
+
+change.
+
+_, = :: :
+
+droplet
+
+that
+
+with phase
+
+suggest
+
+that
+
+a
+
+without
+examining
+measurements
+will
+flame
+
+structure,
+
+flame
+
+spherically-symmetric
+
+droplet
+
+combustion
+provides opportunities
+to test and validate the chemical
+kinetic, transport, sooting,
+and radiation mechanisms
+for a realistic fuels under a variety of conditions
+that are unattainable
+by means other than those
+coupled
+gas-phase
+chemical
+
+provided
+kinetic
+
+by
+and
+
+microgravity.
+soot formation
+
+Improved
+mechanisms,
+mechanisms
+for both
+
+especially
+n-heptane
+
+the
+and
+
+ethanol
+fuels, are needed to integrate
+the influence
+of sooting in n-heptane combustion
+and to
+reconcile the recent discovery
+that ethanol
+flames produce significant
+soot under high pressures.
+of
+performed
+geometrical
+
+these
+
+models
+
+in microgravity
+configurations)
+
+EXPERIMENT
+
+through
+
+comparison
+
+against
+
+well-characterized
+
+(for a wide range of residence
+times unattainable
+can _eld-new
+and important understanding.
+
+experiments
+
+through
+
+such
+70
+
+•
+0
+
+5O
+
+and
+
+ethanol
+
+significant
+implications.
+
+60
+It
+
+as gasoline
+
+of liquid
+
+o
+
+practical
+In recent
+
+[Vanderver,
+•
+•
+
+2O
+
+also has
+
+and_
+_en_l
+years, the use of ethanol
+
+has been stimulated
+by the
+Amendments
+of
+1990
+
+_199_2]
+
+reformulated
+
+22s data
+JAMIC data
+
+carbon
+
+that-requir-e-ufiH_ti0n-of
+
+and oxygenated
+monoxide
+
+to reduce
+
+volatile
+
+and
+
+gasoline
+
+organic
+
+compound
+emissions.
+With the phaseout
+of
+MTBE,
+ethanol
+remains
+one
+of the
+most
+
+I0
+,,,,i
+
+....
+
+0,5
+
+i
+
+1
+
+....
+
+I
+
+....
+
+1.5
+2
+d (ram)
+p
+
+i
+
+....
+
+2.5
+
+favorable
+
+I
+
+3
+
+oxygenated
+
+studies
+liquid
+
+and
+
+model
+
+validation
+
+that
+
+point
+
+chemistry
+extensively
+
+1
+
+fuel combustion
+
+NASA/CP--2001-210826
+
+fundamental
+
+for ethanol
+studied.
+
+valuable
+
+Figure
+
+practical
+
+Understanding
+
+o
+
+3o
+
+combustion
+
+distillates.
+
+N-heptane is
+liquid fuels
+
+c0_mbustionprocesses
+
+as a fuel additive
+Clean
+Air
+Act
+
+It
+
+&
+
+0
+
+other
+
+DESCRIPTION
+
+The proposed experiments
+will consider two fuels: n-heptane, and ethanol.
+the simplest of liquid alkanes with properties similar to those found for conventional
+
+40
+
+any
+
+targets
+
+can
+
+phenomena.
+
+246
+
+ultimately
+
+lead
+
+additives.
+
+of view,
+
+gas-phase
+
+and n-heptane
+These factors
+for
+
+fundamental
+
+to better
+
+From
+
+the
+
+oxidation
+have
+make
+
+been
+both
+
+droplet
+
+understanding
+
+of
+
+In these experiements,soot volume fraction will be measuredusing full-field light
+extinction at 635 nm. In this method,line of sight extinction measurementsre deconvoluted
+a
+using tomographicinversion[Dasch, 1992]. Soot temperature
+will be measured
+using line of
+sight flame emissiondata at two separate
+wavelengths
+(700 nm and 900 nm) with subsequent
+tomographicinversion. The ratio of the spectralemissionintensityat eachradial position will
+then be usedfor the applicationof two-wavelength
+pyrometry. This techniqueis similar to that
+used successfullyin Laminar Soot Processes
+(LSP) Shuttle experiments. As in the LSP
+experiments,t is expectedthat due to the small soot particle sizes,the differencebetweenthe
+i
+gas-temperature nd the soot temperature
+a
+will be small. Radiation from the flame will be
+measured
+using a broadbandradiometer(detectionspectrumranging from 0.5 to 5 microns).
+Soot agglomerates
+will be sampledusing a thermophoretictechnique and analyzedusing
+transmission electron microscopy.
+Ultraviolet emission due to hydroxyl radical
+chemiluminescence
+(andthe interference
+from soot emission)occurringwithin the flame will be
+imagedusing a Xybion intensifiedarray CCD camerawith a narrowbandfilter with central
+wavelength 310nm anda FWHM of 10 nm. This approach
+of
+yields the instantaneous
+location
+of maximumOH" emissionwhich, in conjunction
+with detailednumericalmodeling,will beused
+to definethe transientlame structure.
+f
+RECENT
+
+PROGRESS
+
+Soot
+
+volume
+
+fraction
+
+and radiative
+
+emission
+
+were performed
+The maximum
+2.6
+
+mm
+
+and
+
+measurements
+
+for large
+
+droplet
+
+experiments
+
+at the JAM/C
+10 sec facility in Hokkaido,
+soot volume fraction, fvmx values measured
+2.9
+
+mm
+
+initial
+
+droplet
+
+diameter
+
+Japan.
+for the
+
+experiments
+
+are
+
+plotted in Figure
+1 along with previous measurements
+for smaller
+droplets
+[Lee et al. 1998].
+The maximum
+soot volume fractions
+for the larger
+linear increase
+
+from
+from
+
+the
+the
+
+small droplet experiments.
+The measured
+maximum
+soot volume
+fractions
+for the larger droplets
+are nearly 40% smaller than the
+values obtained
+at do = 1.8 mm.
+This reduction
+in sooting
+is
+
+_'_;_1
+
+J
+
+droplets
+exhibit
+a significant
+departure
+as a function of do as it might be inferred
+
+:_
+
+_.
+*__:(_
+! ,!_
+
+aspects
+of the
+many in initial droplet
+increases
+(due to both soot and nonthe temperatures
+to below
+additional
+soot formation.
+in the 28 th Symposium
+on
+
+Combustion
+[Manzello
+Characterization
+
+_ _ ._,-
+
+to have It is believed
+strong
+implications
+process.
+that
+will produce
+radiative
+losses
+
+luminous
+component)
+that will reduce
+threshold
+temperatures
+required
+for
+Results were presented
+and published
+
+|
+
+on
+
+morphological
+
+expected
+burning
+diameter
+
+et al., 2001].
+of
+soot
+
+properties
+
+including
+the primary
+particle
+size, dp, radius
+of gyration,
+Rg,
+fractal
+dimension,
+Dr, and mass fractal
+prefactor
+term, kf are
+important
+
+for
+
+the
+
+analysis
+
+of soot
+
+growth,
+soot
+agglomeration
+Measurements
+of primary
+particle
+soot sampled
+
+in n-hexane
+
+NASAJCP--2001-210826
+
+droplet
+
+flames
+
+burning
+
+in microgravity
+
+247
+
+processes
+
+including
+
+particle
+
+and
+oxidation
+processes.
+size and fractal dimensions
+for
+flames
+
+are shown
+
+in Table
+
+I.
+
+Table
+
+I
+
+Dr
+
+kr
+
+25.9
+
+1.61
+
+6.6
+
+45.8
+
+1.63
+
+7.8
+
+dp
+Normal-Gravity
+
+Soot
+
+_g Soot at 0.5 sec
+The
+
+increase
+
+primary
+
+in the
+
+particle
+
+_
+
+primary
+
+size
+
+particle
+
+increased
+
+from
+
+dimensions
+25.9
+
+with
+
+residence
+
+nm for soot collected
+
+time
+
+soot collected
+at 0.5s after ignition in microgravity.
+In the present
+increased
+from 6.6 in normal gravity to728 for the 0.5-s rnicrograxn_ty
+constant
+Journal
+
+for nodal-gravity
+of Heat and Mass
+As mentioned
+
+not received
+a non-sooting
+
+much
+fuel
+
+and microgravi_
+Transfer
+[M_lnzelio
+
+previousiy,
+
+ethanol
+
+soot.
+Detailed
+and Choi, 200I]__
+
+KS
+
+attention in the literature.
+at atmospheric
+p_essures.
+
+displayed
+
+i.8
+
+tower
+atm.
+
+facilities.
+
+Figure
+
+In Figure
+
+2a displays
+
+2b, the pressure
+
+nitrogen was increased
+Figure 2e, the oxygen
+
+to 0.25 mole
+concentration
+
+experiments,
+experiment.
+
+results
+i
+
+unusual
+
+The average
+to 45.8 nm for
+
+gravity
+
+_i]
+
+sooting
+
+the average kf
+Df Was-nearry
+
+appear
+
+in the
+
+characteristics
+
+Int'l
+
+that
+
+has
+
+As an oxygenate,
+ethanol is known to be essentially
+At elevated pressures
+(starting from as low a_ 1.5 to
+
+2 arm of air), however,
+an ethanol
+droplet
+flame has
+High-pressure
+micrograxn_ty experiments
+using ethanol
+drop
+
+is dramatic.
+
+in normal
+
+the back-lit
+
+was
+
+been
+were
+
+view
+
+increased
+
+shown
+to form soot [Yap, I986].
+performed
+at the JAMIC
+10 sec.
+
+of an ethanol
+
+to 2 atm and
+
+droplet
+
+the oxygen
+
+burning
+
+in air at
+
+concentration
+
+in
+
+fraction.
+The presence
+of the sootshell is clearly evident.
+In
+was increased
+to 0.31 mole fraction while the pressure was
+
+maintained
+at 2 atm. The sootshell
+is more
+and the luminosity
+of the flame was markedly
+
+opaque (corresponding
+brighter.
+
+to higher
+_
+
+soot concentration)
+
+REFERENCES
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Choi, M.Y., Dryer, F.L. and Haggard, Jr., J.B] Proceedings
+of the Combustion
+Institute, 23: 15971604,1990.
+: z-_:
+_ _:
+.
+:
+Dasch, C.J., Applied Optics, 31:1146, 1992.
+Faeth, G.M., Prog. Energy and Comb. Sci., 3:191, 1977.
+Jackson, G.S. and Avedisian, C.T. Proc. R. Soc. Lond. A. 446, 255-276, 1994
+Law, C.K., Prog. Energy Combust. Sci., 8:171, 1982.
+Law, C.K. and Faeth, G.M., Prog. Energy Combust. Sci, 20:65, 1994.
+Lee, K.O., ManzeUo, S.L. and Choi, M.Y. Combustion Sci. Tech. 132, 139-156, 1998
+Manzello, S.L. and Choi, M.Y., Int'l Journal of Heat and Mass Transfer, in press, 2001
+Manzello, S.L., Choi, M.Y., Kazakov, A., Dryer, F.L., Dobashi, 1L, and Hirano, T., Proc. Combust.
+Inst. in press, 2001.
+
+I 0. Marchese, A.J., Dryer, F.L. and Nayagam, V. Combustion and Flame 116, 432-459, 1999.
+11. Nayagam, V., Haggard, J.B., Colantonio, 1L, Marchese, A.J., Zhang, B.L., and Williams, F.A. AIAA
+Journal 26, 1369-1378, 1998.
+12. Vanderver T.A., Ed.
+D.C., 1992.
+
+Clean
+
+13. Yap, L.T., Ph.D. Dissertation,
+Acknowledgments:
+comments
+Support
+
+and
+from
+
+M. Yamaoka,
+acknowledged.
+
+Air Law and Regulation.
+Princeton
+
+The authors
+suggestions.
+
+JSUP
+
+NASA/CP--2001-210826
+
+to wish
+
+This
+
+(Mr. T. Sakuraya)
+
+Director),
+
+Dr.
+
+University,
+
+work
+
+to thank
+
+(NIST),
+
+248
+
+of National
+
+Affairs,
+
+Washington,
+
+MAE Department,
+
+1986.
+
+Dr. Paul
+
+Ferkul,
+
+project
+
+NASA
+
+through
+
+Grant
+
+from
+
+the JAMIC
+
+is supported
+
+and assistance
+
+S.L. Manzello
+
+The Bureau
+
+by
+
+in experiments
+and Dr. K.O.
+
+Lee
+
+scientist,
+
+(Argonne)
+
+for helpful
+NCC3-822.
+staff (Dr.
+
+are gratefully
+

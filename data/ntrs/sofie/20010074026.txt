@@ -1,0 +1,1219 @@
+f
+
+CHARACTERISTICS
+
+OF
+
+NON-PREMIXED
+
+TURBULENT
+
+FLAMES
+
+IN
+
+MICROGRAVITY
+U. Hegde
+
+and Z. G. Yuan, National Center for Microgravity
+Research, Cleveland,
+D. P. Stocker, NASA John H. Glenn Research
+Center, Cleveland,
+OH
+
+M. Y. Bahadori,
+
+Science
+
+and Technology
+
+Development
+
+Corp.,
+
+Los Angeles,
+
+OH
+CA
+
+INTRODUCTION
+propane)
+
+This project is concemed
+with the characteristics
+of turbulent
+hydrocarbon
+(primarily
+gas-jet diffusion
+flames in microgravity.
+A microgravity
+environment
+provides
+the
+
+opportunity
+
+to study the structure
+
+flames
+
+at moderate
+
+Reynolds
+
+number
+
+(large
+
+achievable
+Primarily,
+
+in normal gravity. This paper
+the features of flame radiation
+gravity
+
+number)
+
+diffusion
+
+conditions
+
+reduced
+
+Froude
+
+of turbulent
+
+environment
+
+are described.
+
+and normal
+
+using a k-e model
+the thermal field.
+Flame
+in previous
+flames
+
+gravity
+
+Tests
+
+flames.
+
+for the turbulence
+
+radiation
+
+were
+
+studies
+
+Results
+
+quantity
+
+by the authors 2 and also by
+
+burning
+
+under
+
+microgravity
+
+conditions
+
+times
+
+higher)
+
+compared
+
+is a combination
+
+not
+
+for non-premixed,
+
+Urban
+have
+
+numerical
+
+to show
+
+computations
+
+the effects
+
+et al 3. It was found
+higher
+
+counterparts
+
+of the flame
+
+of flame
+
+by buoyancy
+
+significantly
+
+gravity
+
+nitrogen-
+
+Glenn 5.18 Second Zero Gravity
+slices of the flame are compared
+
+that is impacted
+
+to their normal
+
+to seven
+
+which
+
+conducted
+
+from
+
+are also presented
+
+is an important
+
+momentum-dominated
+
+summarizes
+progress
+made since the last workshop 1.
+from microgravity
+turbulent jet diffusion
+flames in a
+
+diluted propane flames burning in quiescent
+air in the NASA
+Facility. Measured
+flame radiation
+from wedge-shaped,
+axial
+for microgravity
+
+under
+
+as has been
+
+that
+
+on
+shown
+
+jet diffusion
+
+radiative
+
+because
+
+radiation
+
+loss (about
+
+of larger
+
+five
+
+flame
+
+size
+
+in microgravity
+and larger convective
+heat loss fraction from the flame in normal gravity. These
+studies, however,
+were confined to laminar flames. For the case of turbulent
+flames, the flame
+radiation
+
+is a function
+
+of time and both the time-averaged
+
+and time-dependent
+
+interest. In this paper, attention is focused primarily
+on the time-averaged
+but the turbulent
+structure of the flame is also assessed
+from considerations
+
+components
+
+are of
+
+level of the radiation
+of the radiation
+
+power spectra.
+APPROACH
+Fuel-nitrogen
+made
+
+of stainless
+
+presented
+by means
+
+mixtures
+steel tubing.
+
+are injected
+A mixture
+
+into quiescent
+
+air through
+
+of 60% propane-40%
+
+a nozzle
+
+nitrogen
+
+(i.d. of 1.65 mm)
+
+was used.
+
+For the results
+
+here, injection Reynolds
+number was about 3000. Side views of the flame are imaged
+of video cameras at 30 frames per second. The radiometer
+assembly
+utilized for the
+
+flame radiation
+measurements
+is shown in Fig. 1. It consists of a thermopile
+radiometer
+optical assembly
+consisting
+of a biconvex lens, a piano-cylindrical
+lens, and a narrow
+
+and an
+bandpass
+
+filter. The filter is centered at 1870 nm which corresponds
+to a water vapor band. The restriction
+to the narrow bandpass
+wavelength
+range enables the limited field of view desired. This design
+in conjunction
+with the placement
+distance
+of the radiometer
+assembly
+from the nozzle centerline
+(see Fig. 1) results in a field of view which has an axial extent
+flame centerline.
+The axial location of the radiometerassembIy
+distribution
+
+of the flame
+
+the radiometer
+signal
+The numerical
+relationships
+reaction
+
+for predicting
+
+fuel and oxidizer
+
+NASAJCP--2001-210826
+
+signal.
+
+A 16-bit
+
+data acquisition
+
+at sampling rates up to 2000 Hz.
+model utilizes standard turbulent
+
+for chemistry
+
+between
+
+radiation
+
+models
+
+the time-averaged
+
+is assumed.
+
+The model
+
+129
+
+of approximately
+6 mm at the
+was varied to obtain the axial
+system
+
+in conjunction
+
+flow field.
+solves
+
+is utilized
+
+for
+
+with state
+
+A single
+pressure,
+
+to record
+
+step chemical
+velocity,
+
+temperatures,
+species
+utilizes
+
+a discrete
+
+transport.This
+wavelengths.
+
+concentrations,
+
+transfer
+
+and turbulent
+
+radiation
+
+energy
+
+and H20
+
+and dissipation
+
+emissions
+
+rate. The code
+
+for radiative
+
+is a grey gas model where the predicted intensity is an integrated
+intensity over all
+With this model, the equation for the radiant intensity,dI,
+along a path ds is
+=
+
+dI/ds
+where
+
+kinetic
+
+model 4 for CO2
+
+o_ is the net absorption
+
+local temperature,
+
+and scattering
+
+and 6 is Boltzman's
+
+_I + [36T4/r_
+
+coefficient,
+
+constant.
+
+13 is the emission
+
+In the present
+
+coefficient,
+
+computations,
+
+T is the
+
+the emission
+
+and
+
+absorption
+coeffecients
+are assumed equal at each point in the flow field and scattering
+in the gas
+is neglected.
+The absorption
+coefficient
+is a function of the local concentrations
+of carbon
+dioxide and water vapor. The above equation
+must be integrated
+for a number of rays emanating
+from a point in the flow field so that the hemispherical
+solid angle about that point is covered by
+RESULTS
+
+AND
+
+DISCUSSION
+
+.....
+
+A typical radiation
+signal obtained in the drop test for the microgravity
+flame is shown in
+Fig. 2 for the fmal two seconds of the drop. For this test, the axial location of the radiometer
+was
+at a x/d of approximately
+
+150. The radiation
+
+signal
+
+with the turbulent nature of the flame. A mean
+time frame, but due to the limited time duration
+achieved
+a statistically
+stationary
+state.
+
+exhibits
+
+a fluctuating
+
+behavior
+
+consistent
+
+level of the radiation
+may be obtained during this
+of the test, it is not clear whether the signal has
+
+Figure 3 plots the mean measured
+radiation signal for different
+axial locations,
+radiometer.
+The results for both the microgravity
+flame and the corresponding
+normal
+flame
+
+are shown.
+
+axial distance
+flame,
+
+It is seen that for the normal
+
+up to approximately
+
+however,
+
+the mean
+
+gravity
+
+the flame
+
+radiation
+
+signal
+
+flame,
+
+tip before
+
+peaks
+
+the radiation
+
+beginning
+
+upstream
+
+signa!_creases
+
+to decay.
+
+of the flame
+
+with
+
+For the microgravity
+
+tip before
+
+decaying.
+
+Since radiation is proportional
+to the fourth power of temperature,
+the above finding
+that flame temperatures
+near the tip for the microgravity
+flame are reduced
+compared
+normal gravity
+plots computed
+
+x/L, of the
+gravity
+
+suggests
+to the
+
+case. This is confirmed
+by the numerical
+computations
+as shown in Fig. 4 which
+flame centerline temperatures
+as a function of the distance from the nozzle tip,
+
+non-dimensionalized
+
+in the same
+
+The numerical
+
+manner
+
+computations
+
+as for Fig. 3.
+
+also show
+
+....
+
+that the axial velocity
+
+profile
+
+for the normal
+
+and
+
+microgravity
+flames begin to differ Significantly
+within thirty no_le
+diameters
+axially _om the
+nozzle tip for the flow conditions
+stucUed here. This corresponds
+to roughly 20% of the normal
+gravity
+
+flame
+
+higher
+
+height.
+
+velocity
+
+The effects
+
+and velocity
+
+of buoyant
+
+gradient)
+
+acceleration
+
+are clearly
+
+evident
+
+in the velocity
+at further
+
+field (for example,
+
+downstream
+
+locations.
+
+_
+This is
+
+shown in Fig. 5 which plots the computed
+radial profile of the axial velocity (nondimensionalized
+with respect tc "_':._
+injection
+velocity) for both normal gravity and microgravity
+cases at an axial location corresponding
+to the mean normal-gravity
+flame height.
+Figures 4 and 5 indicate that in normal gravity, a larger fraction of the heat release
+by convection.
+
+This follows
+
+lost by convection
+
+by noting
+
+downstream
+
+that the flame heat
+
+of the flame,
+
+release,
+
+Q,
+
+Qc, and the radiative
+
+is lost
+
+can be related to the heat
+
+heat loss, Qr, as
+
+Q = Qc + Qr
+where,
+
+for simplicity,
+
+convective
+
+losses.
+
+the product
+
+of velocity
+
+NASA/CP--2001-210826
+
+Conduction
+
+The axial
+
+is assumed
+
+convection
+
+and temperature
+
+to be negligible
+
+of enthalpy
+
+c0ml_aredto
+
+downstream
+
+the radiative
+
+and
+
+of the flame is proportional
+
+at the flame tip which from
+
+Figs. 4 and
+
+5 is greater
+
+to _.
+for
+
+130
+z
+
+the normal gravity
+of buoyancy.
+
+case. Consequently,
+
+The mierogravity
+and 180, respectively
+are shown
+are the smallest
+
+of the three. Further
+
+(up to
+
+However,
+
+further
+
+transfer
+
+downstream,
+
+at x/d =120
+
+more dominant
+
+in the absence
+
+(in the region
+
+where
+
+the time-
+
+a maximum),
+the magnitude
+of the spectra increases over the
+This indicates
+an increase
+in the magnitude
+of the turbulent
+
+downstream,
+
+at x/d =180,
+
+are of similar
+
+30 Hz, approximately)
+
+becomes
+
+flame radiation power spectra for three locations, x/d = 30, 120
+in Fig. 6. At the lowest location, the spectral magnitude
+levels
+
+averaged
+radiation
+levels reaches
+entire frequency
+range of interest.
+fluctuations.
+
+radiative
+
+magnitude
+
+while
+
+the lower
+
+compared
+
+frequency
+
+to those
+
+components
+
+at x/d =120,
+
+the higher
+
+frequency
+components
+are of smaller magnitude.
+This result is consistent
+with computations
+that
+indicate that the axial velocity near the flame tip of the microgravity
+flame is only a few percent of
+the injection
+
+velocity
+
+i.e., an order
+
+of rmgnitude
+
+lower.
+
+Hence,
+
+the local Reynolds
+
+number
+
+based
+
+upon the local centerline velocity is also expected to decay significantly.
+Furthermore,
+if it is
+assumed that the local turbulent velocity magnitude
+scales with the local centerline velocity, and
+that the local integral length scales with the local flame width which is relatively invariant over the
+flame length, then it is clear that the local turbulent Reynolds number, ReT, also decays. The
+smallest scale of turbulence,
+that is, the dissipation
+length scale, varies as Rer-°"75 [e.g. Tennekes
+and
+Lumley
+
+5] indicating
+
+that the size of the smallest
+
+flame (since ReT decreases).
+turbulence
+
+dissipation
+
+the integral
+smallest
+
+length
+
+scales)
+
+This is also consistent
+
+is of order
+
+scale
+
+scales
+
+t_/1 where
+
+[e.g., Spalding6].
+
+in the turbulent
+
+increases
+
+with turbulence
+
+u/ is the turbulent
+The integral
+
+dissipation
+
+velocity
+
+This is a measure
+
+spectrum.
+
+with increasing
+fluctuation
+
+of the highest
+
+length
+
+distance
+behavior.
+
+and 1 is
+
+(i.e., the
+
+to be relatively
+
+invariant over the flame length whereas u( will scale with the mean velocity which decreases
+Thus, t_/1 is expected to decrease downstream
+indicating
+a decrease in the highest frequencies
+an increase in the size of the smallest scales.
+The normal
+
+gravity
+
+flame
+
+radiation
+
+power
+
+120, respectively
+
+are shown
+
+of approximately
+numbers.
+Further
+
+14 Hz which may be related
+downstream
+(e.g., x/d =90),
+
+spectra
+
+in Fig. 7. At the lowest
+
+This work was supported
+The assistance
+
+Glenn Research
+
+Center,
+
+University
+of Dayton
+Glenn and NCMR.
+
+by NASA
+
+of Mr. Dennis
+
+in the conduct
+
+assisted
+
+locations,
+
+there
+
+is a strong
+
+to the flame flicker
+the spectra broaden
+
+higher at all of the frequencies.
+At x/d =120, which
+fluctuation
+amplitudes
+are larger and the frequency
+ACKNOWLEDGEMENT
+NAS3-98032.
+
+for three
+
+location,
+
+axially.
+and
+
+x/d = 30, 90, and
+peak at a frequency
+
+observed
+at lower Reynolds
+out, and the spectral levels
+
+are
+
+is near the observed flame tip, the overall
+range of the turbulence
+is not reduced.
+
+under cooperative
+Thompson,
+
+agreement
+
+Zero-G
+
+of the tests is greatly
+
+with the numerical
+
+the
+
+The
+
+magnitude
+
+frequencies
+
+scale is expected
+
+along
+
+NCC3-544
+
+and contract
+
+Facility
+
+manager
+
+at NASA
+
+appreciated.
+
+Jonathan
+
+Sakai of the
+
+code computations
+
+during internships
+
+at NASA
+
+REFERENCES
+1. Hegde, U., Yuan, Z. G., Stocker, D. P., and Bahadori. M. Y. [1999] Characteristics of Non-Premixed Turbulent Flames in Microgravity, Fifth
+International Microgravity Combustion Workshop, Cleveland, OH.
+2. Bahadori, M. Y., Stocker, D. P., Vaughan, D. F., Zhou, L., and Edelman, R. B. [1993] in Modem Developments in Energy, Combustion, and
+Spectroscopy (Williams, F. A., Oppenheim, A. IC, Olfe, D. B., and Lapp, M., Eds.), Pergamon Press, Oxford, pp. 49-66.
+3. Urban, D. L., Yuan, Z. G., Sunderland, P. B., Linteris, G. T., Voss, J. E., Lin, K. C., Dai, Z., Sun, K., and Faeth, G. M. [1998] A/AA J, vol. 36,
+pp. 1346-1360.
+4. Siegel, IL, and Howell, J. [1981] Thermal Radiation Heat 73,ansfer, Second Edition, McGraw-Hill.
+5. Teameke_ H. and Lumley, J. L. (1977). A First Course in Ttabulence Fourth Printing, The MIT Press, Cambridge, Massachusetts.
+6. Spalding, D. B. (1971) _
+Eng. Sci., vol. 26, pp. 95-114.
+
+NASAJCP--2001-210826
+
+131
+
+......Fb_
+
+.....
+
+t
+
+_r,,,.
+
+_%¢
+
+",j
+
+..,v,
+
+t
+
+Fig 1 Narrow-view
+
+radiometer
+
+°t
+
+Fig 2 Typical measured radiometer
+the final 2 seconds of the drop test
+
+assembly
+
+--_-
+
+signal during
+
+!
+
+'_
+
+i L"
+
+1
+
+'
+
+i
+
+Fig 3Measured
+
+radiation
+
+ofnnndlmenrlnnal
+
+axial
+
+Vig:J_Computed
+
+Signal asa _etion-
+
+cenieriine
+
+temperature
+
+distribution
+
+|ncaticm
+
+°'I...................... ...........................................
+i
+
+!
+
+Fig 5 Computed radial profile of axial velocity
+at an axial location corresponding
+tO the normal
+
+1
+
+l
+
+.................... :;_,..............
+_.......
+.
+,,..
+
+Q
+
+._;
+
+_,
+
+gravity
+
+flame tip
+
+:_
+
+q_
+
+-_
+
+rq
+I
+
+'
+
+_' : y(Vt
+
+r_,<
+
+]
+
+t
+
+i_ " .... ,...... :-$:.;....... !
+_
+
+.i
+
+v
+
+I
+
+":
+
+Fig 6 Measured
+miernm'avitv
+
+log autospectra
+flame
+
+NASAJCP--2001-210826
+
+k,,_., i
+.f\
+
+i
+
+.............
+1
+
+Fig 7 Measured log autospectra
+normal gravity flame radiation
+
+of
+
+racllatlcm
+
+132
+
+of
+

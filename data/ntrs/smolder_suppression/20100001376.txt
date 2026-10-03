@@ -1,0 +1,195 @@
+• Power-control circuits for ultracapacitors can be simpler than those for batteries.
+• Whereas a typical battery can be
+charged and discharged about 300
+times, an ultracapacitor can be
+charged and discharged more than a
+million times.
+• The longer lifetimes of ultracapacitors
+greatly reduce life-of-system costs and
+reduce adverse environmental effects,
+inasmuch as it will probably never be
+necessary to replace and dispose of ultracapacitors in most applications,
+whereas batteries must be replaced frequently.
+• Disposal problems and the associated
+contributions to life-of-system costs are
+further reduced because the chemical
+constituents of ultracapacitors are less
+toxic and less environmentally harmful
+than are those of batteries.
+• Excellent low-temperature performance makes ultracapacitors suitable for
+storing energy in applications at temperatures too low for batteries.
+• The consistent performance of ultracapacitors over time enables reliable
+operation not possible with batteries.
+• Unlike batteries, ultracapacitors can
+be safely left completely discharged for
+indefinitely long times.
+
+• Whereas the charge-discharge efficiency in conventional power management using rechargeable batteries is
+typically about 50 percent, the chargedischarge efficiency in HPM typically
+exceeds 90 percent.
+Figure 2 depicts the relationships
+among the various subsystems of the
+HPM system for the present fuel-cellpowered utility vehicle. At the beginning of operation, the PEM fuel cells
+are started and used to charge the ultracapacitors. As operation continues, the
+fuel cells continue to recharge the ultracapacitors while electric energy is
+drawn from the ultracapacitors (just as
+energy is drawn from a rechargeable
+battery in a conventional hybrid vehicle) to drive an electric traction motor
+that propels the vehicle. In a conceptual alternative version of the vehicle,
+photovoltaic cells would be used (in addition to or instead of fuel cells) to
+charge the ultracapacitors. In another
+conceptual version, some additional
+recharging would be gained by use of
+regenerative braking.
+Large transient loads are imposed
+on the traction motor of this or any
+electric vehicle. Large transient loads
+shorten the operational lifetimes of
+PEM fuel cells. By smoothing out the
+
+transient loads applied to the PEM fuel
+cells, the energy-storage devices (in
+this case, the ultracapacitors) increase
+the operational lifetimes of the fuel
+cells and make it possible to utilize
+fuel cells smaller than would be necessary if the fuel cells alone were required to satisfy the peak power demand. An optimized combination of
+PEM fuel cells and ultracapacitors
+makes it possible to obtain high energy
+and power densities.
+The storage of the hydrogen fuel in
+the form of a metal hydride is a major
+feature of the design of this system, intended to overcome the disadvantages
+of the prior approaches to storing hydrogen as a compressed gas at room
+temperature or as a cryogenic liquid.
+Storage in a metal hydride can be accomplished more safely and efficiently,
+at relatively low pressure, without refrigeration.
+This work was done by Dennis J. Eichenberg
+of Glenn Research Center. Further information is contained in a TSP (see page 1).
+Inquiries concerning rights for the commercial use of this invention should be addressed
+to NASA Glenn Research Center, Innovative
+Partnerships Office, Attn: Steve Fedor, Mail
+Stop 4–8, 21000 Brookpark Road, Cleveland,
+Ohio 44135. Refer to LEW-18281-1.
+
+Fine-Water-Mist Multiple-Orientation-Discharge Fire Extinguisher
+Rechargeable system discharges 100 percent of its contents regardless of extinguisher orientation.
+John H. Glenn Research Center, Cleveland, Ohio
+A fine-water-mist fire-suppression device has been designed so that it can be
+discharged uniformly in any orientation
+via a high-pressure gas propellant. Standard fire extinguishers used while
+slightly tilted or on their side will not discharge all of their contents. Thanks to
+the new design, this extinguisher can be
+used in multiple environments such as
+aboard low-gravity spacecraft, airplanes,
+and aboard vehicles that may become
+overturned prior to or during a fire
+emergency. Research in recent years has
+shown that fine water mist can be an effective alternative to Halons now
+banned from manufacture.
+Currently, NASA uses carbon dioxide
+for fire suppression on the International Space Station (ISS) and Halon
+chemical extinguishers on the space
+shuttle. While each of these agents is effective, they have drawbacks. The toxicity of carbon dioxide requires that the
+
+24
+
+crew don breathing apparatus when the
+extinguishers are deployed on the ISS,
+and Halon use in future spacecraft has
+been eliminated because of international protocols on substances that destroy atmospheric ozone. A major advantage to the new system on occupied
+spacecraft is that the discharged system
+is locally rechargeable. Since the only
+fluids used are water and nitrogen, the
+system can be recharged from stores of
+both carried aboard the ISS or spacecraft. The only support requirement
+would be a pump to fill the water and a
+compressor to pressurize the nitrogen
+propellant gas. This system uses a
+gaseous agent to pressurize the storage
+container as well as to assist in the generation of the fine water mist.
+The portable fire extinguisher hardware works like a standard fire extinguisher with a single storage container
+for the agents (water and nitrogen), a
+
+control valve assembly for manual actuation, and a discharge nozzle. The design
+implemented in the proof-of-concept
+experiment successfully extinguished
+both open fires and fires in baffled enclosures.
+The proof-of-concept design weighs less
+than 20 lb (9 kg) and can be easily scaled
+up or down in size depending on the application. The design is fully self-contained
+and modular with no complex piping to
+thread through a crowded habitation
+module, and mounting is simplified.
+The liquid agent is water, or water
+with additives to enhance the fire suppression capability for specific fire hazards. Compatible gases include nitrogen, argon, or other common
+nonflammable gases. Each fluid constituent is held in the container by a
+valve. Design features inside the storage
+tank make it possible to easily discharge
+all of the fluid as a uniformly dispersed
+
+NASA Tech Briefs, January 2010
+
+fine water mist regardless of gravity or
+system orientation.
+When the system is operated, the gas
+pressure forces the liquid from the extinguisher. The gas and liquid constituents are also mixed to deliver a multiphase flow to the discharge nozzle to
+
+generate fine water-mist droplets, which
+extinguish the fire.
+This work was done by James R. Butz,
+Craig S. Turchi, and Amanda Kimball of
+ADA Technologies Inc. and Thomas McKinnon and Edward Riedel of Colorado School of
+Mines for Glenn Research Center.
+
+Inquiries concerning rights for the commercial use of this invention should be addressed
+to ADA Technologies Inc, Attn: Nick Knowlton, 8100 Shaffer Pkwy, suite 130, Littleton,
+CO. 80127-4107, (303) 874-7377. LEW18190-1
+
+Fuel-Cell Water Separator
+Separator uses no moving parts or other power-consuming components.
+John H. Glenn Research Center, Ohio
+The main product of a typical fuel cell
+is water, and many fuel-cell configurations use the flow of excess gases (i.e.,
+gases not consumed by the reaction) to
+drive the resultant water out of the cell.
+This two-phase mixture then exits
+through an exhaust port where the two
+fluids must again be separated to prevent the fuel cell from flooding and to
+facilitate the reutilization of both fluids.
+The Glenn Research Center (GRC) has
+designed, built, and tested an innovative
+fuel-cell water separator that not only removes liquid water from a fuel cell’s exhaust ports, but does so with no moving
+parts or other power-consuming components. Instead it employs the potential and
+kinetic energies already present in the
+moving exhaust flow. In addition, the
+
+NASA Tech Briefs, January 2010
+
+geometry of the separator is explicitly intended to be integrated into a fuel-cell
+stack, providing a direct mate with the fuel
+cell’s existing flow ports. The separator is
+also fully scalable, allowing it to accommodate a wide range of water removal requirements. Multiple separators can simply be
+“stacked” in series or parallel to adapt to
+the water production/removal rate.
+GRC’s separator accomplishes the task
+of water removal by coupling a high aspect-ratio flow chamber with a highly hydrophilic, polyethersulfone membrane.
+The hydrophilic membrane readily absorbs and transports the liquid water away
+from the mixture while simultaneously resisting gas penetration. The expansive flow
+path maximizes the interaction of the
+water particles with the membrane while
+
+minimizing the overall gas flow restriction.
+In essence, each fluid takes its corresponding path of least resistance, and the two
+fluids are effectively separated.
+The GRC fuel-cell water separator has
+a broad range of applications, including
+commercial hydrogen-air fuel cells currently being considered for power generation in automobiles.
+This work was done by Kenneth Alan Burke,
+Caleb Fisher, and Paul Newman of Glenn Research Center. Further information is contained in a TSP (see page 1).
+Inquiries concerning rights for the commercial use of this invention should be addressed
+to NASA Glenn Research Center, Innovative
+Partnerships Office, Attn: Steve Fedor, Mail
+Stop 4–8, 21000 Brookpark Road, Cleveland, Ohio 44135. Refer to LEW-18304-1.
+
+25
+

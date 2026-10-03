@@ -1,0 +1,5245 @@
+{
+ "accession": "PSI-100",
+ "acknowledgments": "",
+ "added": [
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134395037
+   },
+   "date_modified": {
+    "$date": 1749134395037
+   },
+   "file_name": "PSI-100_Engineering Documents_SAFFIRE Offgassing Testing Strategy.pdf",
+   "file_size": 1696929.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/97836/284/SAFFIRE Offgassing Testing Strategy.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Engineering Documents/PSI-100_Engineering Documents_SAFFIRE Offgassing Testing Strategy.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652463/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65eb514f2ec0b0961f8f9a49"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Engineering Documents/PSI-100_Engineering Documents_SAFFIRE Offgassing Testing Strategy.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134395130
+   },
+   "date_modified": {
+    "$date": 1749134395130
+   },
+   "file_name": "PSI-100_Presentations_SAFFIRE_45 I Con of Env Sys presentation.pdf",
+   "file_size": 2821941.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/97837/284/SAFFIRE_45 I Con of Env Sys presentation.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Presentations/PSI-100_Presentations_SAFFIRE_45 I Con of Env Sys presentation.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652470/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65f8b34f2ec0b0961f8fa20b"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Presentations/PSI-100_Presentations_SAFFIRE_45 I Con of Env Sys presentation.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134395223
+   },
+   "date_modified": {
+    "$date": 1749134395223
+   },
+   "file_name": "PSI-100_Presentations_SAFFIRE_46th I Con of Env Sys presentation.pdf",
+   "file_size": 2199305.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/97840/284/SAFFIRE_46th I Con of Env Sys presentation.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Presentations/PSI-100_Presentations_SAFFIRE_46th I Con of Env Sys presentation.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652515/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65f8b34f2ec0b0961f8fa20b"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Presentations/PSI-100_Presentations_SAFFIRE_46th I Con of Env Sys presentation.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134395315
+   },
+   "date_modified": {
+    "$date": 1749134395315
+   },
+   "file_name": "PSI-100_Presentations_SAFFIRE_47th I Con of Env Sys presentation.pdf",
+   "file_size": 5224988.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/97841/284/SAFFIRE_47th I Con of Env Sys presentation.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Presentations/PSI-100_Presentations_SAFFIRE_47th I Con of Env Sys presentation.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652521/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65f8b34f2ec0b0961f8fa20b"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Presentations/PSI-100_Presentations_SAFFIRE_47th I Con of Env Sys presentation.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134395407
+   },
+   "date_modified": {
+    "$date": 1749134395407
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C1_Distortion Grid_1200x920.zip",
+   "file_size": 171750.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102362/11441/SAFFIRE-III_F1C1_1200x920.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_Distortion Grid_1200x920.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7762573/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_Distortion Grid_1200x920.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134395512
+   },
+   "date_modified": {
+    "$date": 1749134395512
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C1_Distortion Grid_1360x1024.zip",
+   "file_size": 143760.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102363/11441/SAFFIRE-III_F1C1_1360x1024.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_Distortion Grid_1360x1024.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7762576/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_Distortion Grid_1360x1024.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134395614
+   },
+   "date_modified": {
+    "$date": 1749134395614
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C1_BIT_jpeg.zip",
+   "file_size": 43178412.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102364/11441/SAFFIRE-III_F1C1_BIT_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_BIT_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7762577/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_BIT_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134395707
+   },
+   "date_modified": {
+    "$date": 1749134395707
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C1_F1_jpeg.zip",
+   "file_size": 54876674.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102365/11441/SAFFIRE-III_F1C1_F1_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_F1_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7763178/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_F1_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134395799
+   },
+   "date_modified": {
+    "$date": 1749134395799
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C1_RAW2TIFF.zip",
+   "file_size": 549631047.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102366/11441/SAFFIRE-III_F1C1_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7764589/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134395890
+   },
+   "date_modified": {
+    "$date": 1749134395890
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C1_JPEG_Mapped.zip",
+   "file_size": 88239943.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102367/11441/SAFFIRE-III_F1C1_JPEG_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_JPEG_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7764861/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_JPEG_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134395981
+   },
+   "date_modified": {
+    "$date": 1749134395981
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C1_jpeg2png.zip",
+   "file_size": 782335124.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102368/11441/SAFFIRE-III_F1C1_jpeg2png.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_jpeg2png.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7766498/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_jpeg2png.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134396073
+   },
+   "date_modified": {
+    "$date": 1749134396073
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip",
+   "file_size": 762442146.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102369/11441/SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7769330/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134396165
+   },
+   "date_modified": {
+    "$date": 1749134396165
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C2_Distortion Grid_1280x920.zip",
+   "file_size": 173161.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102370/11441/SAFFIRE-III_F1C2_1280x920.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_Distortion Grid_1280x920.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7770133/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_Distortion Grid_1280x920.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134396258
+   },
+   "date_modified": {
+    "$date": 1749134396258
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C2_Distortion Grid_1360x1024.zip",
+   "file_size": 140927.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102371/11441/SAFFIRE-III_F1C2_1360x1024.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_Distortion Grid_1360x1024.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7770427/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_Distortion Grid_1360x1024.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134396350
+   },
+   "date_modified": {
+    "$date": 1749134396350
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C2_BIT_jpeg.zip",
+   "file_size": 50321656.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102372/11441/SAFFIRE-III_F1C2_BIT_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_BIT_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7770428/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_BIT_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134396441
+   },
+   "date_modified": {
+    "$date": 1749134396441
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C2_F1_jpeg.zip",
+   "file_size": 65578122.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102373/11441/SAFFIRE-III_F1C2_F1_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_F1_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7771451/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_F1_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134396533
+   },
+   "date_modified": {
+    "$date": 1749134396533
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C2_RAW2TIFF.zip",
+   "file_size": 627133146.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102374/11441/SAFFIRE-III_F1C2_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7773509/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134396625
+   },
+   "date_modified": {
+    "$date": 1749134396625
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C2_JPEG_Mapped.zip",
+   "file_size": 110735258.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102375/11441/SAFFIRE-III_F1C2_JPEG_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_JPEG_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7774591/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_JPEG_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134396716
+   },
+   "date_modified": {
+    "$date": 1749134396716
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip",
+   "file_size": 896820699.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102376/11441/SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7776228/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134396808
+   },
+   "date_modified": {
+    "$date": 1749134396808
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F1C2_jpeg2png.zip",
+   "file_size": 955803244.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102377/11441/SAFFIRE-III_F1C2_jpeg2png.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_jpeg2png.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7776500/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F1C2_jpeg2png.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134396900
+   },
+   "date_modified": {
+    "$date": 1749134396900
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F2C1_F2_Jpeg.zip",
+   "file_size": 39844126.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102378/11441/SAFFIRE-III_F2C1_F2_Jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_F2_Jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7780717/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_F2_Jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F2C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134396992
+   },
+   "date_modified": {
+    "$date": 1749134396992
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F2C1_RAW2TIFF.zip",
+   "file_size": 1258623.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102379/11441/SAFFIRE-III_F2C1_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7781530/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F2C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134397084
+   },
+   "date_modified": {
+    "$date": 1749134397084
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F2C1_JPEG_Mapped.zip",
+   "file_size": 65736570.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102380/11441/SAFFIRE-III_F2C1_JPEG_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_JPEG_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7781531/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_JPEG_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F2C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134397175
+   },
+   "date_modified": {
+    "$date": 1749134397175
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F2C1_jpeg2png.zip",
+   "file_size": 557181726.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102381/11441/SAFFIRE-III_F2C1_jpeg2png.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_jpeg2png.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7783063/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_jpeg2png.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F2C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134397269
+   },
+   "date_modified": {
+    "$date": 1749134397269
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip",
+   "file_size": 1877075.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102382/11441/SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7785298/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F2C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134397364
+   },
+   "date_modified": {
+    "$date": 1749134397364
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F2C2_F2_jpeg.zip",
+   "file_size": 44817552.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102383/11441/SAFFIRE-III_F2C2_F2_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_F2_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7785299/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_F2_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F2C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134397458
+   },
+   "date_modified": {
+    "$date": 1749134397458
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F2C2_RAW2TIFF.zip",
+   "file_size": 1484048.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102384/11441/SAFFIRE-III_F2C2_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7786651/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F2C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134397552
+   },
+   "date_modified": {
+    "$date": 1749134397552
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F2C2_JPEG_Mapped.zip",
+   "file_size": 80447572.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102385/11441/SAFFIRE-III_F2C2_JPEG_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_JPEG_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7786652/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_JPEG_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F2C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134397645
+   },
+   "date_modified": {
+    "$date": 1749134397645
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F2C2_jpeg2png.zip",
+   "file_size": 674302753.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102386/11441/SAFFIRE-III_F2C2_jpeg2png.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_jpeg2png.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7788585/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_jpeg2png.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F2C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134397739
+   },
+   "date_modified": {
+    "$date": 1749134397739
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip",
+   "file_size": 1228408.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102387/11441/SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7791019/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III F2C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134397847
+   },
+   "date_modified": {
+    "$date": 1749134397847
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S1C1_BIT_jpeg.zip",
+   "file_size": 3990892.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102388/11441/SAFFIRE-III_S1C1_BIT_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_BIT_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7791020/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_BIT_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134397940
+   },
+   "date_modified": {
+    "$date": 1749134397940
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S1C1_RAW2TIFF.zip",
+   "file_size": 988663627.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102390/11441/SAFFIRE-III_S1C1_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7791321/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134398033
+   },
+   "date_modified": {
+    "$date": 1749134398033
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip",
+   "file_size": 2387136643.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102393/11441/SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7792945/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134398125
+   },
+   "date_modified": {
+    "$date": 1749134398125
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip",
+   "file_size": 2405006306.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102394/11441/SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7794564/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134398217
+   },
+   "date_modified": {
+    "$date": 1749134398217
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S1C2_BIT_jpeg.zip",
+   "file_size": 3769161.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102395/11441/SAFFIRE-III_S1C2_BIT_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_BIT_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7796183/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_BIT_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134398309
+   },
+   "date_modified": {
+    "$date": 1749134398309
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S1C2_RAW2TIFF.zip",
+   "file_size": 930228245.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102397/11441/SAFFIRE-III_S1C2_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7796484/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134398400
+   },
+   "date_modified": {
+    "$date": 1749134398400
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip",
+   "file_size": 2651468291.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102400/11441/SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7798251/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134398499
+   },
+   "date_modified": {
+    "$date": 1749134398499
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip",
+   "file_size": 2671930707.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102401/11441/SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7800018/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134398602
+   },
+   "date_modified": {
+    "$date": 1749134398602
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S2C2_RAW2TIFF.zip",
+   "file_size": 1121256620.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102406/11441/SAFFIRE-III_S2C2_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7801785/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S2C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134398694
+   },
+   "date_modified": {
+    "$date": 1749134398694
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip",
+   "file_size": 2004825153.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102410/11441/SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7802780/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S2C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134398785
+   },
+   "date_modified": {
+    "$date": 1749134398785
+   },
+   "file_name": "PSI-100_Raw Data_Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "file_size": 5230949.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810146/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134398877
+   },
+   "date_modified": {
+    "$date": 1749134398877
+   },
+   "file_name": "PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx",
+   "file_size": 8677965.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Saffire-III Telemetry Data.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810147/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III Telemetry Data.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134398970
+   },
+   "date_modified": {
+    "$date": 1749134398970
+   },
+   "file_name": "PSI-100_Raw Data_Saffire-III 1 Hz Telemetry Data.xlsx",
+   "file_size": 21290090.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Saffire-III 1 Hz Telemetry Data.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III 1 Hz Telemetry Data.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810148/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III 1 Hz Telemetry Data.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134399062
+   },
+   "date_modified": {
+    "$date": 1749134399062
+   },
+   "file_name": "PSI-100_Raw Data_Raw telemetry file.csv",
+   "file_size": 1656916.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Raw telemetry file.csv",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Raw telemetry file.csv",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810366/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Raw telemetry file.csv",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134399154
+   },
+   "date_modified": {
+    "$date": 1749134399154
+   },
+   "file_name": "PSI-100_Raw Data_Saffire-III Sample 1 Figure for TM.docx",
+   "file_size": 1283509.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102414/226/Saffire-III Sample 1 Figure for TM.docx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III Sample 1 Figure for TM.docx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810696/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III Sample 1 Figure for TM.docx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/Data Package Sensor Telemetry/S1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134399246
+   },
+   "date_modified": {
+    "$date": 1749134399246
+   },
+   "file_name": "PSI-100_Raw Data_Saffire III Sample 1 Sensors.xlsx",
+   "file_size": 22548166.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102414/226/Saffire III Sample 1 Sensors.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire III Sample 1 Sensors.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810697/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire III Sample 1 Sensors.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/Data Package Sensor Telemetry/S1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134399338
+   },
+   "date_modified": {
+    "$date": 1749134399338
+   },
+   "file_name": "PSI-100_Raw Data_Saffire-III Sample 2 Figure for TM.docx",
+   "file_size": 1160152.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102415/226/Saffire-III Sample 2 Figure for TM.docx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III Sample 2 Figure for TM.docx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810704/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire-III Sample 2 Figure for TM.docx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/Data Package Sensor Telemetry/S2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134399429
+   },
+   "date_modified": {
+    "$date": 1749134399429
+   },
+   "file_name": "PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx",
+   "file_size": 5361279.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102415/226/Saffire III Sample 2 Sensors.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810705/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_Saffire III Sample 2 Sensors.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/Data Package Sensor Telemetry/S2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134399521
+   },
+   "date_modified": {
+    "$date": 1749134399521
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip",
+   "file_size": 101943407.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825083/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134399613
+   },
+   "date_modified": {
+    "$date": 1749134399613
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip",
+   "file_size": 82260660.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825084/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134399704
+   },
+   "date_modified": {
+    "$date": 1749134399704
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip",
+   "file_size": 135195584.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825085/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134399796
+   },
+   "date_modified": {
+    "$date": 1749134399796
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip",
+   "file_size": 113400742.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825086/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134399888
+   },
+   "date_modified": {
+    "$date": 1749134399888
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part4.zip",
+   "file_size": 678758875.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part4.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part4.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825088/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part4.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134399979
+   },
+   "date_modified": {
+    "$date": 1749134399979
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part1.zip",
+   "file_size": 1219162732.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part1.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part1.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825089/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part1.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134400070
+   },
+   "date_modified": {
+    "$date": 1749134400070
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part2.zip",
+   "file_size": 979688974.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part2.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part2.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825090/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part2.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134400162
+   },
+   "date_modified": {
+    "$date": 1749134400162
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part3.zip",
+   "file_size": 843602267.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part3.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part3.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825091/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg2png_part3.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134400253
+   },
+   "date_modified": {
+    "$date": 1749134400253
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part2.zip",
+   "file_size": 87402948.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part2.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part2.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825579/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part2.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134400344
+   },
+   "date_modified": {
+    "$date": 1749134400344
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part1.zip",
+   "file_size": 81649666.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part1.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part1.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825593/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part1.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134400436
+   },
+   "date_modified": {
+    "$date": 1749134400436
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part4.zip",
+   "file_size": 56855673.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part4.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part4.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825598/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part4.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134400527
+   },
+   "date_modified": {
+    "$date": 1749134400527
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part3.zip",
+   "file_size": 74176154.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part3.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part3.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825604/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg_part3.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134400619
+   },
+   "date_modified": {
+    "$date": 1749134400619
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part3.zip",
+   "file_size": 63682760.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part3.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part3.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828371/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part3.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134400711
+   },
+   "date_modified": {
+    "$date": 1749134400711
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part2.zip",
+   "file_size": 69548635.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part2.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part2.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828372/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part2.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134400819
+   },
+   "date_modified": {
+    "$date": 1749134400819
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part1.zip",
+   "file_size": 85710221.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part1.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part1.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828373/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part1.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134400915
+   },
+   "date_modified": {
+    "$date": 1749134400915
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part4.zip",
+   "file_size": 51093268.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part4.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part4.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828374/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C1_jpeg_part4.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134401007
+   },
+   "date_modified": {
+    "$date": 1749134401007
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip",
+   "file_size": 138327281.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828800/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134401099
+   },
+   "date_modified": {
+    "$date": 1749134401099
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip",
+   "file_size": 134776462.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828801/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134401190
+   },
+   "date_modified": {
+    "$date": 1749134401190
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip",
+   "file_size": 95674666.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828802/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134401281
+   },
+   "date_modified": {
+    "$date": 1749134401281
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip",
+   "file_size": 125064700.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828803/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134401374
+   },
+   "date_modified": {
+    "$date": 1749134401374
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part3.zip",
+   "file_size": 1084371938.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part3.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part3.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831263/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part3.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134401466
+   },
+   "date_modified": {
+    "$date": 1749134401466
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part1.zip",
+   "file_size": 1204748637.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part1.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part1.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831264/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part1.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134401558
+   },
+   "date_modified": {
+    "$date": 1749134401558
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part2.zip",
+   "file_size": 1248619283.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part2.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part2.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831265/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part2.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134401665
+   },
+   "date_modified": {
+    "$date": 1749134401665
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part4.zip",
+   "file_size": 880510638.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part4.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part4.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831266/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE_III_S1C2_jpeg2png_part4.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S1C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134401760
+   },
+   "date_modified": {
+    "$date": 1749134401760
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S2C1_S2_jpeg.zip",
+   "file_size": 44255442.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102402/11441/SAFFIRE-III_S2C1_S2_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C1_S2_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831267/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C1_S2_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S2C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134401852
+   },
+   "date_modified": {
+    "$date": 1749134401852
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S2C1_JPEG_Mapped.zip",
+   "file_size": 75584893.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102403/11441/SAFFIRE-III_S2C1_JPEG_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C1_JPEG_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831269/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C1_JPEG_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S2C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134401944
+   },
+   "date_modified": {
+    "$date": 1749134401944
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S2C1_jpeg2png.zip",
+   "file_size": 612146310.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102404/11441/SAFFIRE-III_S2C1_jpeg2png.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C1_jpeg2png.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831270/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C1_jpeg2png.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S2C1",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134402036
+   },
+   "date_modified": {
+    "$date": 1749134402036
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S2C2_S2_jpeg.zip",
+   "file_size": 63830650.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102405/11441/SAFFIRE-III_S2C2_S2_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_S2_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831271/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_S2_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S2C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134402128
+   },
+   "date_modified": {
+    "$date": 1749134402128
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S2C2_JPEG_Mapped.zip",
+   "file_size": 111869158.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102407/11441/SAFFIRE-III_S2C2_JPEG_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_JPEG_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831273/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_JPEG_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S2C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134402220
+   },
+   "date_modified": {
+    "$date": 1749134402220
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S2C2_jpeg2png.zip",
+   "file_size": 953584415.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102408/11441/SAFFIRE-III_S2C2_jpeg2png.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_jpeg2png.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831274/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_jpeg2png.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S2C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134402312
+   },
+   "date_modified": {
+    "$date": 1749134402312
+   },
+   "file_name": "PSI-100_Raw Data_SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip",
+   "file_size": 1993781615.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102409/11441/SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7832269/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/PSI-100_Raw Data_SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "Reduced Gravity/SAFFIRE-III S2C2",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134402403
+   },
+   "date_modified": {
+    "$date": 1749134402403
+   },
+   "file_name": "PSI-100_Science Documents_SAFFIRE-III Image Directory Nomenclature_v3.0.pdf",
+   "file_size": 273485.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/10430/SAFFIRE-III Image Directory Nomenclature_v3.0.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-III Image Directory Nomenclature_v3.0.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837567/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65eb50812ec0b0961f8f9a45"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-III Image Directory Nomenclature_v3.0.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134402495
+   },
+   "date_modified": {
+    "$date": 1749134402495
+   },
+   "file_name": "PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx",
+   "file_size": 7701589.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/10430/SAFFIRE-III_MergeResult-raw_Final.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837568/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65eb50812ec0b0961f8f9a45"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-III_MergeResult-raw_Final.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134402586
+   },
+   "date_modified": {
+    "$date": 1749134402586
+   },
+   "file_name": "PSI-100_Science Documents_SAFFIRE-III_MergeResult-jpeg_Final.xlsx",
+   "file_size": 7879404.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/10430/SAFFIRE-III_MergeResult-jpeg_Final.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-III_MergeResult-jpeg_Final.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837569/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65eb50812ec0b0961f8f9a45"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-III_MergeResult-jpeg_Final.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134402678
+   },
+   "date_modified": {
+    "$date": 1749134402678
+   },
+   "file_name": "PSI-100_Science Documents_SAFFIRE Objectives, Development and Status.pdf",
+   "file_size": 186259.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/10430/SAFFIRE Objectives, Development and Status.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE Objectives, Development and Status.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7882760/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65eb50812ec0b0961f8f9a45"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE Objectives, Development and Status.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134402770
+   },
+   "date_modified": {
+    "$date": 1749134402770
+   },
+   "file_name": "PSI-100_Science Documents_SAFFIRE-I and SAFFIRE-III Readme.docx",
+   "file_size": 65426.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/11572/SAFFIRE-I and SAFFIRE-III DoD.docx",
+   "remote_path": "/Home/psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-I and SAFFIRE-III Readme.docx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10441959/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65eb50812ec0b0961f8f9a45"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Science Documents/PSI-100_Science Documents_SAFFIRE-I and SAFFIRE-III Readme.docx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1749134402862
+   },
+   "date_modified": {
+    "$date": 1749134402862
+   },
+   "file_name": "PSI-100_Engineering Documents_SAFFIRE-III Operations.pdf",
+   "file_size": 40256.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/22141/SAFFIRE-III Operations.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Engineering Documents/PSI-100_Engineering Documents_SAFFIRE-III Operations.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10506314/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65eb514f2ec0b0961f8f9a49"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Engineering Documents/PSI-100_Engineering Documents_SAFFIRE-III Operations.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  }
+ ],
+ "approach": "The Saffire-III experiments were performed on the Orbital Science’s Cygnus resupply vehicle after it deberthed from the ISS. As a follow on to the Saffire 1 investigation, the Saffire III investigation also used SIBAL as the sample material. However, the experiments were conducted at a flow velocity of 30 cm/s compared to 20 cm/s during Saffire I. The flow was either concurrent or opposed.  Once the sample was ignited flame images were captured using two cameras. In addition, thermocouples provided flow, flame, and plume temperatures, two radiometers recorded flame radiation, solid state sensors were used to measure pressure, CO2 and O2 mole faction, and two anemometer tracked flow velocity. All data was compressed, and subsequently downlinked. Details related to samples and experimental parameters are provided in the Experimental Details file in the Science document folder.",
+ "assays": [],
+ "contacts": [
+  {
+   "@id": "",
+   "address": "",
+   "affiliation": "NASA GRC",
+   "comments": [],
+   "email": "david.urban@nasa.gov",
+   "fax": "",
+   "firstName": "David",
+   "lastName": "Urban",
+   "midInitials": "L.",
+   "phone": "",
+   "roles": [
+    {
+     "@id": "dEBvA2jSs25xM9IfCv5ploF8MUDFt0ACKekf97KJ",
+     "annotationValue": "Principal Investigator (PI)",
+     "comments": [],
+     "termAccession": "Principal Investigator (PI)",
+     "termSource": ""
+    }
+   ]
+  }
+ ],
+ "description": "",
+ "dirty": false,
+ "doi": "10.60555/040q-4h36",
+ "experimentHardware": "Saffire III enclosure in Cygnus",
+ "experimentHardwareLink": "https://www1.grc.nasa.gov/space/iss-research/msg/saffire/",
+ "experimentalTable": [
+  {
+   "_id": {
+    "$oid": "6792d422b7b6ff8e650381da"
+   },
+   "date_created": {
+    "$date": 1737675810283
+   },
+   "date_modified": {
+    "$date": 1737675810283
+   },
+   "file_name": "PSI-100_Experimental table_SAFFIRE-3.csv",
+   "file_size": 239,
+   "remote_path": "/Home/psi-data/PSI-100/Experimental table/PSI-100_Experimental table_SAFFIRE-3.csv",
+   "remote_url": "/datamanager/file/Home/psi-data/PSI-100/Experimental table/PSI-100_Experimental table_SAFFIRE-3.csv",
+   "resource_id": {
+    "$oid": "66cf53d46f1142c964b2e0a8"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Experimental table/PSI-100_Experimental table_SAFFIRE-3.csv",
+   "s3_version_id": "AQXs1TocpP6NKs8L3qWuMYbRHZo8Wgbl",
+   "study_id": {
+    "$oid": "6841ac438970fb41b9cebbfc"
+   },
+   "subcategory": "",
+   "version": 1,
+   "visible": true
+  }
+ ],
+ "experiments": [],
+ "factors": [],
+ "filesDisabled": null,
+ "flightProgram": "International Space Station (ISS)",
+ "funding": "NASA",
+ "hypothesis": "This investigation hypothesizes that due to large differences between fire behavior in normal and reduced gravity, the use of terrestrial fires and fire standards to design spacecraft fire safety systems presents an inherent risk to the vehicle because of the significant level of uncertainty. While this approach has been successful thus far, the uncertainty and risk will increase as exploration missions venture further from earth with considerably longer transit times for a safe return. There is a significant lack of microgravity data available for spacecraft designers on which to base their fire safety designs and procedures. To address this knowledge gap, this investigation proposed to conduct large-scale fire safety experiments in an expendable spacecraft without risk to a crew.",
+ "identifiers": [],
+ "images": [],
+ "investigationAcronym": "SAFFIRE-III",
+ "investigationEndDate": "",
+ "investigationStartDate": "04-18-2017",
+ "licenseIdentifier": "CC0-1.0",
+ "licenseLink": "https://spdx.org/licenses/CC0-1.0.html",
+ "licenseName": "Creative Commons Zero v1.0 Universal",
+ "managingNasaCenter": "Glenn Research Center (GRC)",
+ "missionEnd": "",
+ "missionLink": "",
+ "missionName": "",
+ "missionStart": "",
+ "modified": [
+  {
+   "bucket": "psi-repo-prod",
+   "date_created": {
+    "$date": 1737675810196
+   },
+   "date_modified": {
+    "$date": 1737675810196
+   },
+   "file_name": "PSI-100_metadata_PSI-168_SAFFIRE-III.zip",
+   "file_size": 8021,
+   "organization": "OSD",
+   "remote_path": "/Home/psi-data/PSI-100/metadata/PSI-100_metadata_PSI-168_SAFFIRE-III.zip",
+   "remote_url": "/datamanager/file/Home/psi-data/PSI-100/metadata/PSI-100_metadata_PSI-168_SAFFIRE-III.zip",
+   "resource_id": {
+    "$oid": "65e0a4d4931988043eebcd6e"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/metadata/PSI-100_metadata_PSI-168_SAFFIRE-III.zip",
+   "s3_version_id": "wCFyJz0PfPni8aRSECc62xicLWlpWANi",
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "version": 3,
+   "visible": true
+  }
+ ],
+ "modifiedDate": "05-Jun-2025",
+ "objective": "The objectives of this investigation were to:\n(1) determine how rapidly a large scale fire grows in low-gravity and (2) investigate the low-g flammability limits compared to those obtained in NASA’s normal gravity material flammability screening test.",
+ "organizations": [],
+ "payloads": [],
+ "projectIdentifier": "",
+ "projectLink": "",
+ "projectTitle": "",
+ "projectType": "Microgravity Investigation",
+ "proposalTitle": "",
+ "public": true,
+ "publications": [
+  {
+   "authorList": "JE Niehaus, PV Ferkul, SA Gokoglu, GA Ruff",
+   "comments": [],
+   "doi": "",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire), 45th International Conference on Environmental Systems ICES-2015-[293] 12-16 July 2015, Bellevue, Washington"
+  },
+  {
+   "authorList": "W Schoren, GA Ruff, DL Urban",
+   "comments": [],
+   "doi": "",
+   "pubMedID": "",
+   "status": {
+    "@id": "l87xqHQEQuC4rNfO31zRSVlRomoXfQjaWFyzxZZZ",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": ""
+   },
+   "title": "The Spacecraft Fire Experiment (Saffire) - Objectives, Development and Status"
+  },
+  {
+   "authorList": "https://ntrs.nasa.gov/citations/20170000230",
+   "comments": [],
+   "doi": "",
+   "pubMedID": "",
+   "status": {
+    "@id": "Rd2oZxVKYUnMCRj3tbHg0eGQhfrFmtiEFnMOyDHF",
+    "annotationValue": "published",
+    "comments": [],
+    "termAccession": "http://www.ebi.ac.uk/efo/EFO_0001796",
+    "termSource": "EFO"
+   },
+   "title": "Operation and Development Status of the Spacecraft Fire Experiments (Saffire), 46th International Conference on Environmental Systems (ICES), July 2016"
+  }
+ ],
+ "related_glds": "PSI-99,PSI-98",
+ "releaseDate": "18-Sep-2024",
+ "removed": [
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858720
+   },
+   "date_modified": {
+    "$date": 1726715858720
+   },
+   "file_name": "SAFFIRE Obj, Dev, and Status.pdf",
+   "file_size": 186259.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/97835/257/SAFFIRE Obj, Dev, and Status.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE Obj, Dev, and Status.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652456/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE Obj, Dev, and Status.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/2016 - W Schoren, GA Ruff, DL Urban. &quot;The Spacecraft Fire Experiment (Saffire) - Objectives, Development and Status&quot;. 8th International Association for the Advancement of Space Safety Conference (IAASS), May 2016",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858721
+   },
+   "date_modified": {
+    "$date": 1726715858721
+   },
+   "file_name": "SAFFIRE Offgassing Testing Strategy.pdf",
+   "file_size": 1696929.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/97836/284/SAFFIRE Offgassing Testing Strategy.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE Offgassing Testing Strategy.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652463/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE Offgassing Testing Strategy.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/2015 - Saffire Offgas Testing Strategy, International Offgas Round Robin Status &amp; Results",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858722
+   },
+   "date_modified": {
+    "$date": 1726715858722
+   },
+   "file_name": "SAFFIRE_45 I Con of Env Sys presentation.pdf",
+   "file_size": 2821941.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/97837/284/SAFFIRE_45 I Con of Env Sys presentation.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_45 I Con of Env Sys presentation.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652470/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_45 I Con of Env Sys presentation.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/2015 - Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire)",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858723
+   },
+   "date_modified": {
+    "$date": 1726715858723
+   },
+   "file_name": "SAFFIRE_45 I Conv of Env Sys paper.pdf",
+   "file_size": 1207785.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/97838/257/SAFFIRE_45 I Conv of Env Sys paper.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_45 I Conv of Env Sys paper.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652478/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_45 I Conv of Env Sys paper.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/2015 - JE Niehaus, PV Ferkul, SA Gokoglu, GA Ruff. &quot;Buoyant Effects on the Flammability of Silicone Samples Planned for the Spacecraft Fire Experiment (Saffire)&quot;. 45th International Conference on Environmental Systems, July 2015",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858724
+   },
+   "date_modified": {
+    "$date": 1726715858724
+   },
+   "file_name": "SAFFIRE_46th I Con of Env Sys paper.pdf",
+   "file_size": 596617.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/97839/257/SAFFIRE_46th I Con of Env Sys paper.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_46th I Con of Env Sys paper.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652509/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_46th I Con of Env Sys paper.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/2016 - GA Ruff, DL Urban. &quot;Operation and Development Status of the Spacecraft Fire Experiments (Saffire)&quot;. 46th International Conference on Environmental Systems (ICES), July 2016",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858725
+   },
+   "date_modified": {
+    "$date": 1726715858725
+   },
+   "file_name": "SAFFIRE_46th I Con of Env Sys presentation.pdf",
+   "file_size": 2199305.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/97840/284/SAFFIRE_46th I Con of Env Sys presentation.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_46th I Con of Env Sys presentation.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652515/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_46th I Con of Env Sys presentation.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/2016 - Operation and Development Status of the Spacecraft Fire Experiment (Saffire)",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858726
+   },
+   "date_modified": {
+    "$date": 1726715858726
+   },
+   "file_name": "SAFFIRE_47th I Con of Env Sys presentation.pdf",
+   "file_size": 5224988.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/97841/284/SAFFIRE_47th I Con of Env Sys presentation.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_47th I Con of Env Sys presentation.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7652521/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_47th I Con of Env Sys presentation.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/2017 - Results of Large-Scale Spacecraft Flammability Tests",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858727
+   },
+   "date_modified": {
+    "$date": 1726715858727
+   },
+   "file_name": "SAFFIRE-III_F1C1_1200x920.zip",
+   "file_size": 171750.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102362/11441/SAFFIRE-III_F1C1_1200x920.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_1200x920.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7762573/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_1200x920.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_DistortionGrid_Package1200x920",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858728
+   },
+   "date_modified": {
+    "$date": 1726715858728
+   },
+   "file_name": "SAFFIRE-III_F1C1_1360x1024.zip",
+   "file_size": 143760.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102363/11441/SAFFIRE-III_F1C1_1360x1024.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_1360x1024.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7762576/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_1360x1024.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_DistortionGrid_Package1360x1024",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858729
+   },
+   "date_modified": {
+    "$date": 1726715858729
+   },
+   "file_name": "SAFFIRE-III_F1C1_BIT_jpeg.zip",
+   "file_size": 43178412.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102364/11441/SAFFIRE-III_F1C1_BIT_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_BIT_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7762577/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_BIT_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_BIT_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858730
+   },
+   "date_modified": {
+    "$date": 1726715858730
+   },
+   "file_name": "SAFFIRE-III_F1C1_F1_jpeg.zip",
+   "file_size": 54876674.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102365/11441/SAFFIRE-III_F1C1_F1_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_F1_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7763178/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_F1_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858731
+   },
+   "date_modified": {
+    "$date": 1726715858731
+   },
+   "file_name": "SAFFIRE-III_F1C1_RAW2TIFF.zip",
+   "file_size": 549631047.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102366/11441/SAFFIRE-III_F1C1_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7764589/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_RAW2TIFF",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858732
+   },
+   "date_modified": {
+    "$date": 1726715858732
+   },
+   "file_name": "SAFFIRE-III_F1C1_JPEG_Mapped.zip",
+   "file_size": 88239943.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102367/11441/SAFFIRE-III_F1C1_JPEG_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_JPEG_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7764861/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_JPEG_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_JPEG_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858733
+   },
+   "date_modified": {
+    "$date": 1726715858733
+   },
+   "file_name": "SAFFIRE-III_F1C1_jpeg2png.zip",
+   "file_size": 782335124.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102368/11441/SAFFIRE-III_F1C1_jpeg2png.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_jpeg2png.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7766498/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_jpeg2png.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_jpeg2png",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858734
+   },
+   "date_modified": {
+    "$date": 1726715858734
+   },
+   "file_name": "SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip",
+   "file_size": 762442146.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102369/11441/SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7769330/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C1_RAW2TIFF_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C1/SAFFIRE_III_F1C1_RAW2TIFF_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858735
+   },
+   "date_modified": {
+    "$date": 1726715858735
+   },
+   "file_name": "SAFFIRE-III_F1C2_1280x920.zip",
+   "file_size": 173161.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102370/11441/SAFFIRE-III_F1C2_1280x920.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_1280x920.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7770133/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_1280x920.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_DistortionGrid_Package1280x920",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858736
+   },
+   "date_modified": {
+    "$date": 1726715858736
+   },
+   "file_name": "SAFFIRE-III_F1C2_1360x1024.zip",
+   "file_size": 140927.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102371/11441/SAFFIRE-III_F1C2_1360x1024.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_1360x1024.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7770427/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_1360x1024.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_DistortionGrid_Package1360x1024",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858737
+   },
+   "date_modified": {
+    "$date": 1726715858737
+   },
+   "file_name": "SAFFIRE-III_F1C2_BIT_jpeg.zip",
+   "file_size": 50321656.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102372/11441/SAFFIRE-III_F1C2_BIT_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_BIT_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7770428/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_BIT_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_BIT_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858738
+   },
+   "date_modified": {
+    "$date": 1726715858738
+   },
+   "file_name": "SAFFIRE-III_F1C2_F1_jpeg.zip",
+   "file_size": 65578122.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102373/11441/SAFFIRE-III_F1C2_F1_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_F1_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7771451/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_F1_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858739
+   },
+   "date_modified": {
+    "$date": 1726715858739
+   },
+   "file_name": "SAFFIRE-III_F1C2_RAW2TIFF.zip",
+   "file_size": 627133146.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102374/11441/SAFFIRE-III_F1C2_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7773509/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_RAW2TIFF",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858740
+   },
+   "date_modified": {
+    "$date": 1726715858740
+   },
+   "file_name": "SAFFIRE-III_F1C2_JPEG_Mapped.zip",
+   "file_size": 110735258.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102375/11441/SAFFIRE-III_F1C2_JPEG_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_JPEG_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7774591/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_JPEG_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_JPEG_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858741
+   },
+   "date_modified": {
+    "$date": 1726715858741
+   },
+   "file_name": "SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip",
+   "file_size": 896820699.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102376/11441/SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7776228/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_Raw2TIFF_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_Raw2TIFF_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858742
+   },
+   "date_modified": {
+    "$date": 1726715858742
+   },
+   "file_name": "SAFFIRE-III_F1C2_jpeg2png.zip",
+   "file_size": 955803244.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102377/11441/SAFFIRE-III_F1C2_jpeg2png.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_jpeg2png.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7776500/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F1C2_jpeg2png.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F1C2/SAFFIRE_III_F1C2_jpeg2png",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858743
+   },
+   "date_modified": {
+    "$date": 1726715858743
+   },
+   "file_name": "SAFFIRE-III_F2C1_F2_Jpeg.zip",
+   "file_size": 39844126.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102378/11441/SAFFIRE-III_F2C1_F2_Jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_F2_Jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7780717/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_F2_Jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F2C1/SAFFIRE_III_F2C1_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858744
+   },
+   "date_modified": {
+    "$date": 1726715858744
+   },
+   "file_name": "SAFFIRE-III_F2C1_RAW2TIFF.zip",
+   "file_size": 1258623.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102379/11441/SAFFIRE-III_F2C1_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7781530/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F2C1/SAFFIRE_III_F2C1_RAW2TIFF",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858745
+   },
+   "date_modified": {
+    "$date": 1726715858745
+   },
+   "file_name": "SAFFIRE-III_F2C1_JPEG_Mapped.zip",
+   "file_size": 65736570.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102380/11441/SAFFIRE-III_F2C1_JPEG_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_JPEG_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7781531/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_JPEG_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F2C1/SAFFIRE_III_F2C1_JPEG_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858746
+   },
+   "date_modified": {
+    "$date": 1726715858746
+   },
+   "file_name": "SAFFIRE-III_F2C1_jpeg2png.zip",
+   "file_size": 557181726.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102381/11441/SAFFIRE-III_F2C1_jpeg2png.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_jpeg2png.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7783063/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_jpeg2png.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F2C1/SAFFIRE_III_F2C1_jpeg2png_icmad",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858747
+   },
+   "date_modified": {
+    "$date": 1726715858747
+   },
+   "file_name": "SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip",
+   "file_size": 1877075.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102382/11441/SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7785298/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C1_Raw2TIFF_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F2C1/SAFFIRE_III_F2C1_Raw2TIFF_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858748
+   },
+   "date_modified": {
+    "$date": 1726715858748
+   },
+   "file_name": "SAFFIRE-III_F2C2_F2_jpeg.zip",
+   "file_size": 44817552.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102383/11441/SAFFIRE-III_F2C2_F2_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_F2_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7785299/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_F2_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F2C2/SAFFIRE_III_F2C2_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858749
+   },
+   "date_modified": {
+    "$date": 1726715858749
+   },
+   "file_name": "SAFFIRE-III_F2C2_RAW2TIFF.zip",
+   "file_size": 1484048.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102384/11441/SAFFIRE-III_F2C2_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7786651/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F2C2/SAFFIRE_III_F2C2_RAW2TIFF",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858750
+   },
+   "date_modified": {
+    "$date": 1726715858750
+   },
+   "file_name": "SAFFIRE-III_F2C2_JPEG_Mapped.zip",
+   "file_size": 80447572.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102385/11441/SAFFIRE-III_F2C2_JPEG_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_JPEG_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7786652/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_JPEG_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F2C2/SAFFIRE_III_F2C2_JPEG_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858751
+   },
+   "date_modified": {
+    "$date": 1726715858751
+   },
+   "file_name": "SAFFIRE-III_F2C2_jpeg2png.zip",
+   "file_size": 674302753.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102386/11441/SAFFIRE-III_F2C2_jpeg2png.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_jpeg2png.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7788585/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_jpeg2png.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F2C2/SAFFIRE_III_F2C2_jpeg2png_icmad",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858752
+   },
+   "date_modified": {
+    "$date": 1726715858752
+   },
+   "file_name": "SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip",
+   "file_size": 1228408.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102387/11441/SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7791019/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_F2C2_Raw2TIFF_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III F2C2/SAFFIRE_III_F2C2_Raw2TIFF_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858753
+   },
+   "date_modified": {
+    "$date": 1726715858753
+   },
+   "file_name": "SAFFIRE-III_S1C1_BIT_jpeg.zip",
+   "file_size": 3990892.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102388/11441/SAFFIRE-III_S1C1_BIT_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_BIT_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7791020/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_BIT_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_BIT_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858754
+   },
+   "date_modified": {
+    "$date": 1726715858754
+   },
+   "file_name": "SAFFIRE-III_S1C1_RAW2TIFF.zip",
+   "file_size": 988663627.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102390/11441/SAFFIRE-III_S1C1_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7791321/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_RAW2TIFF",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858755
+   },
+   "date_modified": {
+    "$date": 1726715858755
+   },
+   "file_name": "SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip",
+   "file_size": 2387136643.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102393/11441/SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7792945/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_Raw2TIFF_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_Raw2TIFF_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858756
+   },
+   "date_modified": {
+    "$date": 1726715858756
+   },
+   "file_name": "SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip",
+   "file_size": 2405006306.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102394/11441/SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7794564/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C1_Raw2TIFF_Map_icmad.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_Raw2TIFF_Mapped_icmad",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858757
+   },
+   "date_modified": {
+    "$date": 1726715858757
+   },
+   "file_name": "SAFFIRE-III_S1C2_BIT_jpeg.zip",
+   "file_size": 3769161.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102395/11441/SAFFIRE-III_S1C2_BIT_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_BIT_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7796183/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_BIT_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_BIT_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858758
+   },
+   "date_modified": {
+    "$date": 1726715858758
+   },
+   "file_name": "SAFFIRE-III_S1C2_RAW2TIFF.zip",
+   "file_size": 930228245.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102397/11441/SAFFIRE-III_S1C2_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7796484/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_RAW2TIFF",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858759
+   },
+   "date_modified": {
+    "$date": 1726715858759
+   },
+   "file_name": "SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip",
+   "file_size": 2651468291.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102400/11441/SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7798251/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_Raw2TIFF_mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_Raw2TIFF_mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858760
+   },
+   "date_modified": {
+    "$date": 1726715858760
+   },
+   "file_name": "SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip",
+   "file_size": 2671930707.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102401/11441/SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7800018/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S1C2_Raw2TIFF_Map_icmad.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_Raw2TIFF_Mapped_icmad",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858761
+   },
+   "date_modified": {
+    "$date": 1726715858761
+   },
+   "file_name": "SAFFIRE-III_S2C2_RAW2TIFF.zip",
+   "file_size": 1121256620.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102406/11441/SAFFIRE-III_S2C2_RAW2TIFF.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_RAW2TIFF.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7801785/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_RAW2TIFF.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S2C2/SAFFIRE_III_S2C2_RAW2TIFF",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858762
+   },
+   "date_modified": {
+    "$date": 1726715858762
+   },
+   "file_name": "SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip",
+   "file_size": 2004825153.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102410/11441/SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7802780/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_Raw2TIFF_Map_icmad.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S2C2/SAFFIRE_III_S2C2_Raw2TIFF_Mapped_icmad",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858763
+   },
+   "date_modified": {
+    "$date": 1726715858763
+   },
+   "file_name": "Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "file_size": 5230949.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810146/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858764
+   },
+   "date_modified": {
+    "$date": 1726715858764
+   },
+   "file_name": "Saffire-III Telemetry Data.xlsx",
+   "file_size": 8677965.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Saffire-III Telemetry Data.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire-III Telemetry Data.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810147/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire-III Telemetry Data.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858765
+   },
+   "date_modified": {
+    "$date": 1726715858765
+   },
+   "file_name": "Saffire-III 1 Hz Telemetry Data.xlsx",
+   "file_size": 21290090.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Saffire-III 1 Hz Telemetry Data.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire-III 1 Hz Telemetry Data.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810148/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire-III 1 Hz Telemetry Data.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858766
+   },
+   "date_modified": {
+    "$date": 1726715858766
+   },
+   "file_name": "Raw telemetry file.csv",
+   "file_size": 1656916.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Raw telemetry file.csv",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Raw telemetry file.csv",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810366/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Raw telemetry file.csv",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858763
+   },
+   "date_modified": {
+    "$date": 1726715858763
+   },
+   "file_name": "Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "file_size": 5230949.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810146/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858764
+   },
+   "date_modified": {
+    "$date": 1726715858764
+   },
+   "file_name": "Saffire-III Telemetry Data.xlsx",
+   "file_size": 8677965.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Saffire-III Telemetry Data.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire-III Telemetry Data.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810147/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire-III Telemetry Data.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858765
+   },
+   "date_modified": {
+    "$date": 1726715858765
+   },
+   "file_name": "Saffire-III 1 Hz Telemetry Data.xlsx",
+   "file_size": 21290090.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Saffire-III 1 Hz Telemetry Data.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire-III 1 Hz Telemetry Data.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810148/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire-III 1 Hz Telemetry Data.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858766
+   },
+   "date_modified": {
+    "$date": 1726715858766
+   },
+   "file_name": "Raw telemetry file.csv",
+   "file_size": 1656916.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Raw telemetry file.csv",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Raw telemetry file.csv",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810366/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Raw telemetry file.csv",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858769
+   },
+   "date_modified": {
+    "$date": 1726715858769
+   },
+   "file_name": "Saffire-III Sample 1 Figure for TM.docx",
+   "file_size": 1283509.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102414/226/Saffire-III Sample 1 Figure for TM.docx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire-III Sample 1 Figure for TM.docx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810696/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire-III Sample 1 Figure for TM.docx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_S1_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858770
+   },
+   "date_modified": {
+    "$date": 1726715858770
+   },
+   "file_name": "Saffire III Sample 1 Sensors.xlsx",
+   "file_size": 22548166.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102414/226/Saffire III Sample 1 Sensors.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire III Sample 1 Sensors.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810697/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire III Sample 1 Sensors.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_S1_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858763
+   },
+   "date_modified": {
+    "$date": 1726715858763
+   },
+   "file_name": "Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "file_size": 5230949.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810146/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire_Data_Table2017.161.00.42.03-EU.csv",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858764
+   },
+   "date_modified": {
+    "$date": 1726715858764
+   },
+   "file_name": "Saffire-III Telemetry Data.xlsx",
+   "file_size": 8677965.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Saffire-III Telemetry Data.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire-III Telemetry Data.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810147/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire-III Telemetry Data.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858765
+   },
+   "date_modified": {
+    "$date": 1726715858765
+   },
+   "file_name": "Saffire-III 1 Hz Telemetry Data.xlsx",
+   "file_size": 21290090.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Saffire-III 1 Hz Telemetry Data.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire-III 1 Hz Telemetry Data.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810148/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire-III 1 Hz Telemetry Data.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858766
+   },
+   "date_modified": {
+    "$date": 1726715858766
+   },
+   "file_name": "Raw telemetry file.csv",
+   "file_size": 1656916.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102413/226/Raw telemetry file.csv",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Raw telemetry file.csv",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810366/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Raw telemetry file.csv",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858774
+   },
+   "date_modified": {
+    "$date": 1726715858774
+   },
+   "file_name": "Saffire-III Sample 2 Figure for TM.docx",
+   "file_size": 1160152.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102415/226/Saffire-III Sample 2 Figure for TM.docx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire-III Sample 2 Figure for TM.docx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810704/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire-III Sample 2 Figure for TM.docx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_S2_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858775
+   },
+   "date_modified": {
+    "$date": 1726715858775
+   },
+   "file_name": "Saffire III Sample 2 Sensors.xlsx",
+   "file_size": 5361279.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102415/226/Saffire III Sample 2 Sensors.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/Saffire III Sample 2 Sensors.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7810705/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/Saffire III Sample 2 Sensors.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE_III_S2_Data Package Sensor Telemetry",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858775
+   },
+   "date_modified": {
+    "$date": 1726715858775
+   },
+   "file_name": "SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip",
+   "file_size": 101943407.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825083/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part3.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858776
+   },
+   "date_modified": {
+    "$date": 1726715858776
+   },
+   "file_name": "SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip",
+   "file_size": 82260660.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825084/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part4.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858777
+   },
+   "date_modified": {
+    "$date": 1726715858777
+   },
+   "file_name": "SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip",
+   "file_size": 135195584.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825085/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part1.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858778
+   },
+   "date_modified": {
+    "$date": 1726715858778
+   },
+   "file_name": "SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip",
+   "file_size": 113400742.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102426/11441/SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825086/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_JPEG_Mapped_part2.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858778
+   },
+   "date_modified": {
+    "$date": 1726715858778
+   },
+   "file_name": "SAFFIRE_III_S1C1_jpeg2png_part4.zip",
+   "file_size": 678758875.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part4.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part4.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825088/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part4.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg2png",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858779
+   },
+   "date_modified": {
+    "$date": 1726715858779
+   },
+   "file_name": "SAFFIRE_III_S1C1_jpeg2png_part1.zip",
+   "file_size": 1219162732.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part1.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part1.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825089/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part1.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg2png",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858780
+   },
+   "date_modified": {
+    "$date": 1726715858780
+   },
+   "file_name": "SAFFIRE_III_S1C1_jpeg2png_part2.zip",
+   "file_size": 979688974.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part2.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part2.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825090/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part2.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg2png",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858781
+   },
+   "date_modified": {
+    "$date": 1726715858781
+   },
+   "file_name": "SAFFIRE_III_S1C1_jpeg2png_part3.zip",
+   "file_size": 843602267.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102392/11441/SAFFIRE_III_S1C1_jpeg2png_part3.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part3.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825091/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg2png_part3.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg2png",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858781
+   },
+   "date_modified": {
+    "$date": 1726715858781
+   },
+   "file_name": "SAFFIRE_III_S1C2_jpeg_part2.zip",
+   "file_size": 87402948.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part2.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part2.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825579/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part2.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858782
+   },
+   "date_modified": {
+    "$date": 1726715858782
+   },
+   "file_name": "SAFFIRE_III_S1C2_jpeg_part1.zip",
+   "file_size": 81649666.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part1.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part1.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825593/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part1.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858783
+   },
+   "date_modified": {
+    "$date": 1726715858783
+   },
+   "file_name": "SAFFIRE_III_S1C2_jpeg_part4.zip",
+   "file_size": 56855673.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part4.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part4.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825598/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part4.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858784
+   },
+   "date_modified": {
+    "$date": 1726715858784
+   },
+   "file_name": "SAFFIRE_III_S1C2_jpeg_part3.zip",
+   "file_size": 74176154.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102396/11441/SAFFIRE_III_S1C2_jpeg_part3.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part3.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7825604/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg_part3.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858784
+   },
+   "date_modified": {
+    "$date": 1726715858784
+   },
+   "file_name": "SAFFIRE_III_S1C1_jpeg_part3.zip",
+   "file_size": 63682760.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part3.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part3.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828371/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part3.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858785
+   },
+   "date_modified": {
+    "$date": 1726715858785
+   },
+   "file_name": "SAFFIRE_III_S1C1_jpeg_part2.zip",
+   "file_size": 69548635.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part2.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part2.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828372/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part2.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858786
+   },
+   "date_modified": {
+    "$date": 1726715858786
+   },
+   "file_name": "SAFFIRE_III_S1C1_jpeg_part1.zip",
+   "file_size": 85710221.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part1.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part1.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828373/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part1.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858787
+   },
+   "date_modified": {
+    "$date": 1726715858787
+   },
+   "file_name": "SAFFIRE_III_S1C1_jpeg_part4.zip",
+   "file_size": 51093268.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102389/11441/SAFFIRE_III_S1C1_jpeg_part4.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part4.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828374/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C1_jpeg_part4.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C1/SAFFIRE_III_S1C1_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858787
+   },
+   "date_modified": {
+    "$date": 1726715858787
+   },
+   "file_name": "SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip",
+   "file_size": 138327281.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828800/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_Part2.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_JPEG_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858788
+   },
+   "date_modified": {
+    "$date": 1726715858788
+   },
+   "file_name": "SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip",
+   "file_size": 134776462.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828801/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_part1.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_JPEG_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858789
+   },
+   "date_modified": {
+    "$date": 1726715858789
+   },
+   "file_name": "SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip",
+   "file_size": 95674666.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828802/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_Part4.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_JPEG_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858789
+   },
+   "date_modified": {
+    "$date": 1726715858789
+   },
+   "file_name": "SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip",
+   "file_size": 125064700.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102398/11441/SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7828803/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_JPEG_Mapped_Part3.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_JPEG_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858790
+   },
+   "date_modified": {
+    "$date": 1726715858790
+   },
+   "file_name": "SAFFIRE_III_S1C2_jpeg2png_part3.zip",
+   "file_size": 1084371938.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part3.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part3.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831263/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part3.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg2png",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858791
+   },
+   "date_modified": {
+    "$date": 1726715858791
+   },
+   "file_name": "SAFFIRE_III_S1C2_jpeg2png_part1.zip",
+   "file_size": 1204748637.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part1.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part1.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831264/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part1.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg2png",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858792
+   },
+   "date_modified": {
+    "$date": 1726715858792
+   },
+   "file_name": "SAFFIRE_III_S1C2_jpeg2png_part2.zip",
+   "file_size": 1248619283.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part2.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part2.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831265/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part2.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg2png",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858792
+   },
+   "date_modified": {
+    "$date": 1726715858792
+   },
+   "file_name": "SAFFIRE_III_S1C2_jpeg2png_part4.zip",
+   "file_size": 880510638.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102399/11441/SAFFIRE_III_S1C2_jpeg2png_part4.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part4.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831266/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE_III_S1C2_jpeg2png_part4.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S1C2/SAFFIRE_III_S1C2_jpeg2png",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858793
+   },
+   "date_modified": {
+    "$date": 1726715858793
+   },
+   "file_name": "SAFFIRE-III_S2C1_S2_jpeg.zip",
+   "file_size": 44255442.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102402/11441/SAFFIRE-III_S2C1_S2_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C1_S2_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831267/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C1_S2_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S2C1/SAFFIRE_III_S2C1_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858794
+   },
+   "date_modified": {
+    "$date": 1726715858794
+   },
+   "file_name": "SAFFIRE-III_S2C1_JPEG_Mapped.zip",
+   "file_size": 75584893.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102403/11441/SAFFIRE-III_S2C1_JPEG_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C1_JPEG_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831269/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C1_JPEG_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S2C1/SAFFIRE_III_S2C1_JPEG_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858795
+   },
+   "date_modified": {
+    "$date": 1726715858795
+   },
+   "file_name": "SAFFIRE-III_S2C1_jpeg2png.zip",
+   "file_size": 612146310.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102404/11441/SAFFIRE-III_S2C1_jpeg2png.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C1_jpeg2png.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831270/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C1_jpeg2png.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S2C1/SAFFIRE_III_S2C1_jpeg2png",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858795
+   },
+   "date_modified": {
+    "$date": 1726715858795
+   },
+   "file_name": "SAFFIRE-III_S2C2_S2_jpeg.zip",
+   "file_size": 63830650.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102405/11441/SAFFIRE-III_S2C2_S2_jpeg.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_S2_jpeg.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831271/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_S2_jpeg.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S2C2/SAFFIRE_III_S2C2_jpeg",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858796
+   },
+   "date_modified": {
+    "$date": 1726715858796
+   },
+   "file_name": "SAFFIRE-III_S2C2_JPEG_Mapped.zip",
+   "file_size": 111869158.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102407/11441/SAFFIRE-III_S2C2_JPEG_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_JPEG_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831273/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_JPEG_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S2C2/SAFFIRE_III_S2C2_JPEG_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858797
+   },
+   "date_modified": {
+    "$date": 1726715858797
+   },
+   "file_name": "SAFFIRE-III_S2C2_jpeg2png.zip",
+   "file_size": 953584415.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102408/11441/SAFFIRE-III_S2C2_jpeg2png.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_jpeg2png.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7831274/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_jpeg2png.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S2C2/SAFFIRE_III_S2C2_jpeg2png",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": {
+    "$date": 1726715858798
+   },
+   "date_modified": {
+    "$date": 1726715858798
+   },
+   "file_name": "SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip",
+   "file_size": 1993781615.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102409/11441/SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7832269/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_S2C2_Raw2TIFF_Mapped.zip",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/SAFFIRE-III S2C2/SAFFIRE_III_S2C2_Raw2TIFF_Mapped",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": "",
+   "file_name": "SAFFIRE-III_Update_Log_Final.pdf",
+   "file_size": 247157.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/10430/SAFFIRE-III_Update_Log_Final.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_Update_Log_Final.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837566/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_Update_Log_Final.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": "",
+   "file_name": "SAFFIRE-III Image Directory Nomenclature_v3.0.pdf",
+   "file_size": 273485.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/10430/SAFFIRE-III Image Directory Nomenclature_v3.0.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III Image Directory Nomenclature_v3.0.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837567/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III Image Directory Nomenclature_v3.0.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": "",
+   "file_name": "SAFFIRE-III_MergeResult-raw_Final.xlsx",
+   "file_size": 7701589.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/10430/SAFFIRE-III_MergeResult-raw_Final.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_MergeResult-raw_Final.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837568/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_MergeResult-raw_Final.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": "",
+   "file_name": "SAFFIRE-III_MergeResult-jpeg_Final.xlsx",
+   "file_size": 7879404.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/10430/SAFFIRE-III_MergeResult-jpeg_Final.xlsx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III_MergeResult-jpeg_Final.xlsx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7837569/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III_MergeResult-jpeg_Final.xlsx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": "",
+   "file_name": "SAFFIRE Objectives, Development and Status.pdf",
+   "file_size": 186259.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/10430/SAFFIRE Objectives, Development and Status.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE Objectives, Development and Status.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/7882760/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE Objectives, Development and Status.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": "",
+   "file_name": "SAFFIRE-I and SAFFIRE-III DoD.docx",
+   "file_size": 65426.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/11572/SAFFIRE-I and SAFFIRE-III DoD.docx",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-I and SAFFIRE-III DoD.docx",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10441959/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-I and SAFFIRE-III DoD.docx",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/",
+   "version": 1,
+   "visible": true
+  },
+  {
+   "bucket": "",
+   "date_created": "",
+   "file_name": "SAFFIRE-III Operations.pdf",
+   "file_size": 40256.0,
+   "organization": "shared",
+   "psi_legacy": true,
+   "psi_legacy_s3_path": "legacy/102178/22141/SAFFIRE-III Operations.pdf",
+   "remote_path": "/Home/psi-data/PSI-100/Raw Data/SAFFIRE-III Operations.pdf",
+   "remote_url": "https://psi.ndc.nasa.gov/mpglobal/api/athena/file/10506314/?inline=1&log=1",
+   "resource_id": {
+    "$oid": "65e739c18e263688e9f9200d"
+   },
+   "restricted": false,
+   "s3_path": "psi-data/PSI-100/Raw Data/SAFFIRE-III Operations.pdf",
+   "s3_version_id": null,
+   "study_id": {
+    "$oid": "6792d422b7b6ff8e650381db"
+   },
+   "subcategory": "Legacy/",
+   "version": 1,
+   "visible": true
+  }
+ ],
+ "researchArea": "Combustion Science",
+ "researchImpacts": "The Saffire-I experiment provides a new way to study a realistic fire on an exploration vehicle, which has not been possible in the past because the risks are too high. Instruments on an unmanned cargo vessel measure oxygen, carbon dioxide, heat, pressure and flame growth, and two video cameras provide views of the flame. Results determine microgravity flammability limits for several spacecraft materials, help to validate NASA’s material selection criteria, and how microgravity and limited oxygen affect flame size. The investigation is crucial for the safety of current and future space missions. Studying fire in small, sealed environments such as the Cygnus cargo supply vehicle benefits fire safety and prevention efforts on Earth, including inside mines, airplanes, or submarines.",
+ "restricted": false,
+ "sourceAccession": "",
+ "sourceLink": "",
+ "spaceProgram": "National Aeronautics and Space Administration (NASA)",
+ "subResearchArea": "Spacecraft Fire Safety",
+ "submissionDate": "18-Sep-2024",
+ "title": "Spacecraft Fire Experiment-III",
+ "totalFileSize": 35210765052.0,
+ "version": 4,
+ "versionMessage": "",
+ "versionMessageLevel": "",
+ "versionMessageLocations": [],
+ "versionReason": "Metadata update"
+}

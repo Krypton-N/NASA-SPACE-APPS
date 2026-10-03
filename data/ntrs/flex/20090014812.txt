@@ -1,0 +1,167 @@
+Acronym: MDCA-FLEX
+Title: Multi-User Droplet Combustion Apparatus - Flame Extinguishment Experiment
+Principal Investigator(s):
+Forman A. Williams, University of California, San Diego, San Diego, CA
+Co-Investigator(s)\Collaborator(s):
+Vedha Nayagam, National Center for Space Exploration Research, Cleveland, OH
+Mun Y. Choi, Drexel University, Philadelphia, PA
+Frederick L. Dryer, Princeton University, Princeton, NJ
+Benjamin D. Shaw, University of California, Davis, Davis, CA
+Contact(s):
+PI - Forman Williams, (858) 534-5492
+Primary - Michael Hicks, 216-433-6576
+Secondary - Vedha Nayagam, 216-433-8702
+Mailing Address(es):
+Developer(s): Glenn Research Center, Cleveland, OH
+ZIN Technologies, Cleveland, OH
+Sponsoring Agency: National Aeronautics and Space Administration (NASA)
+Increment(s) Assigned: 18, 19, 20
+Brief Research Summary (PAO): Multi-User Droplet Combustion Apparatus Flame Extinguishment
+Experiment (MDCA-FLEX) will assess the effectiveness of fire suppressants in microgravity and quantify
+the effect of different possible crew exploration atmospheres on fire suppression. The goal of this
+research is to provide definition and direction for large scale fire suppression tests and selection of the fire
+suppressant for next generation crew exploration vehicles.
+Research Summary:
+•
+
+The combustion and extinction characteristics of liquid fuel droplets in microgravity are
+determined by the complex interaction of fuel vapor and oxidizer transport, fuel vaporization,
+conductive, convective and radiative heat loss and chemical kinetics. All of these phenomena are
+critical in real fire scenarios and thus in understanding the complex issues involved in the design
+of an effective fire suppression system.
+
+•
+
+The simplicity of the droplet geometry lends itself to detailed theoretical and numerical studies. By
+comparing the results of the experiments to these detailed treatments it is possible to develop
+validated chemical kinetic and heat and mass transport mechanisms for liquid fuels. From these
+fundamental mechanisms it becomes possible to develop validated, predictive, reduced-scale
+mechanisms that are appropriate for modeling real fire suppression scenarios aboard future
+spacecraft.
+
+•
+
+The Multi-User Droplet Combustion Apparatus - Flame Extinguishment Experiment (MDCAFLEX) investigation will yield both a quantitative measure of the effectiveness of various
+suppression agents and more importantly a set of predictive tools that will allow the effective,
+efficient design of future spacecraft fire suppression systems.
+
+Detailed Research Description: Multi-User Droplet Combustion Apparatus - Flame Extinguishment
+Experiment (MDCA-FLEX) will map the flammability boundaries for liquid fuel combustion in reduced
+gravity to quantify the suppressant efficacy of various gaseous suppressants over the range of candidate
+
+atmospheric pressures and oxygen concentrations. This investigation will develop predictive theoretical
+and numerical codes and chemical kinetic schemes to model flammability boundaries as a function
+effective gravitational acceleration on the unique ambient conditions encountered in space exploration
+applications.The development and validation of these models will require detailed spatially and temporally
+resolved measurements of droplet burning rate, flame extinction, flame radiation, soot concentration, soot
+temperature, etc. This investigation will also develop improved and validated reduced (simplified)
+theoretical and numerical sub-models of important physical processes (chemical kinetics, radiation, soot
+formation/destruction) that can be used in simulations of large scale, realistic fires.
+The independent experiment variables analyzed by MDCA-FLEX are:
+Oxygen Mole Fraction: The ambient oxygen mole fraction in a typical space environment can vary from
+high concentrations in EVA pre-breathing environments down to that typically found in air. At high oxygen
+concentrations, however, the chemical times are small enough (relative to the characteristic flow times)
+such that the droplets will burn to completion rather than exhibiting flame extinction. Therefore, it is also
+necessary to study low oxygen concentrations, down to the Limiting Oxygen Index (LOI). It is also
+important to determine the LOI in order to verify the chemical mechanisms. The oxygen mole fractions in
+the present study will vary from 0.10 to 0.50. The chamber must also be large enough such that there is
+no significant decrease in ambient oxygen mole fraction during an experiment (i.e. the droplet burns in an
+essentially constant ambient).
+Diluent (non-suppressant): The ambient mixture will consist of oxygen mixed with a suppressant and
+the balance of an inert diluent gas. The diluent gas for these studies will be primarily nitrogen since that is
+the typical diluent on Earth and expected in space. There will be a small number of tests with a helium
+diluent gas. The reason is primarily for baseline comparisons with the Droplet Combustion Experiment,
+which used helium as the diluent gas and also to vary the physical properties of the diluent gas.
+Suppressant Type: The tests will examine candidate gaseous suppressants that have widely varying
+physical, chemical and radiative properties. This will enable model and sub-model development and
+validation over a wide range of ambient conditions to improve the predictive capabilities of the models.
+The suppressants are carbon dioxide and helium. The expected concentrations range from 0.00 mole
+fraction to the limit where no flame can exist (0.70 expected for the least active suppressant).
+Pressure: Ambient pressure does not significantly influence the droplet burning rate, but does influence
+chemistry at sufficiently low values. In addition, one strategy for extinguishing a fire is to isolate the
+habitat where it exists and vent the cabin to space. It is therefore beneficial to have verified suppressant
+data at low pressures. The pressure for the tests will range from 0.5 to 1.0 atm (standard atmosphere). As
+with the oxygen mole fraction, it is important that the test chamber be sufficiently large so that the
+pressure is essentially constant during an experiment (i.e. the droplet burns in a constant pressure
+ambient).
+Fuel Type: The advantage of the droplet geometry is that the fuel is relatively simple and better
+characterized than typical fuels in fire safety studies (e.g. PMMA or paper). This is also a disadvantage
+since it does not represent a practical fuel. The study will use two typical hydrocarbon fuels, an alcohol,
+methanol (CH3OH ) and an alkane, heptane (C7H16 ). There is a relatively large experience base with
+these fuels. Methanol has a fuel-bound oxygen atom, and burns with a very dim blue flame (not much
+soot production) with a small standoff distance, so it has widely different radiative characteristics than
+heptane. Therefore, studying these two fuels gives a wide range of fire scenarios to verify model and submodel performance over.
+Droplet Diameter: The droplet is ignited in the flammable region and then burns in a constant oxygen
+mole fraction ambient until flame extinction. Under the assumption of quasisteady burning, the initial
+droplet size should not significantly influence the determination of the extinction droplet size. Transient
+influences, however, will be present, so some variation in initial droplet diameter is necessary to
+determine the deviation from quasi-steady behavior. The initial droplet size in the proposed study will vary
+between 2 and 5 mm.
+
+Project Type: Payload
+Images and Captions:
+
+Burning droplet from the Droplet Combustion Experiment, image courtesy or Glenn Research Center.
+
+NASA Image: C-2006-414: Flight Unit Multi-User droplet Combustion Apparatus (MDCA) Chamber Insert
+Assembly (CIA).
+
+NASA Image: ISS018E010645 - Astronaut Michael Fincke, Expedition 18 commander, works on the
+Multi-User Droplet Combustion Apparatus (MDCA) Chamber Insert Assembly (CIA) in the Harmony node
+of the International Space Station.
+Operations Location: ISS Inflight
+Brief Research Operations:
+•
+
+MDCA-FLEX will be setup and operated in the Combustion Integrated rack (CIR) on ISS.
+
+•
+
+The investigation will generate droplets from methanol or heptane as required by the test point.
+
+•
+
+The data will be recorded via video using the CIR optics bench.
+
+Operational Requirements: The MDCA-FLEX investigation will be setup in the Combustion Integrated
+Rack (CIR). The CIR chamber will be filled with the appropriate atmosphere depending on the test point.
+A total of 196 test points are required for completion of MDCA-FLEX. Fuel will be dispensed followed by
+ignition. All activities will be captured in near real-time download with the CIR color camera video.
+Operational Protocols: Following setup and initialization of the MDCA-FLEX investigation the chamber
+shall be filled with the appropriate atmosphere, which depending on the test point, will vary in pressure
+from 0.5 atm to 3.0 atm, will vary in oxygen concentration from 0.1 to 0.4 mole fraction, and will vary in
+suppressant concentration from 0 to 0.7 mole fraction. A settling time of approximately 2 minutes will
+elapse prior to initiating the test in order to ensure that the temperature and pressure of the chamber
+gases have stabilized. This settling time will be followed by the dispensing of a predetermined amount of
+fuel (based on the target droplet size) onto the support fiber. When sufficient fuel has been dispensed the
+
+dispensing needles will be retracted and a dwell period of at least 10 seconds will be allowed for the
+droplet internal fluid motion induced by deployment to subside.
+This will then be followed by initiating power to the igniter for a selectable amount of time ranging from 1
+second to 5 seconds after which the igniter will be retracted from the field of view. If the flow field is to be
+generated by translating the droplet then droplet motion would commence at the same time that the
+igniter is retracted. A near real-time download of the color camera video will be required in order to verify
+successful droplet deployment, ignition, and overall progress of the experiment. Pressure and
+temperature data of the chamber environment will also be required in near real time.
+At least 2 minutes must be allowed after filling chamber to ensure that the chamber gas temperature and
+pressure has stabilized. For droplet dwell time allow at least 10 seconds to ensure all droplet motion
+imparted by droplet deployment and needle retraction has subsided. Chamber purity for fuel vapor mole
+fraction of less than 0.005 in the atmosphere for tests without carbon dioxide and less than 0.02 mole
+fraction (each species) of carbon monoxide, carbon dioxide and other products.
+Review Cycle Status: PI Reviewed
+Category: Technology Development
+Sub-Category: Spacecraft Systems
+Space Applications: MDCA-FLEX will help us develop more efficient energy production and propulsion
+systems on Earth and in space.
+Earth Applications: MDCA-FLEX will help in the understanding to deal better with combustion generated
+pollution, and address fire hazards associated with using liquid combustibles on Earth.
+Manifest Status: New
+Supporting Organization: Exploration Systems Mission Directorate (ESMD)
+Previous Missions: The Fiber Supported Droplet Combustion Experiment, (FSDC), a predecessor to
+MDCA-FLEX was performed on STS-73 (October 20, 1995) and STS-83 (April 4, 1997). The Droplet
+Combustion Experiment (DCE), another predecessor was performed on STS-83 (April 4, 1997) and STS94 (July 1, 1997). The fundamentals addressed by these experiments are essential to the fundamentals
+that impact fire sensing and suppression technologies applicable to space exploration environments.
+Web Sites:
+Space Flight Systems at GRC
+Last Update: 02/23/2009
+

@@ -1,0 +1,406 @@
+Experimental
+
+Study of Unsupported
+Nonane Fuel Droplet
+in Microgravity
+
+Combustion
+
+B.J. Callahan, C.T. Avedisian, D.E. Hertzog and J.W. Berkery
+Sibley School of Mechanical and Aerospace Engineering
+Cornell University
+Ithaca, New York 14853-7501
+1.
+
+Introduction
+
+Soot formation in droplet flames is the basic component
+of the particulate emission process that
+occurs in spray combustion.
+The complexity
+of soot formation motivates a one-dimensional
+transport
+condition which has obvious advantages in modeling.
+Recent models of spherically
+symmetric droplet
+combustion have made this assumption when incorporating
+such aspects as detailed chemistry [1-3] and
+radiation [4]. Interestingly,
+spherical symmetry does not necessarily restrict the results because it has been
+observed that the properties of carbon formed in flames are not strongly affected by the nature of the fuel or
+flaming configuration
+[5,6].
+What is affected, however,
+are the force.s acting on the soot aggregates and
+where they are trapped by a balance of drag and thermophoretic
+forces.
+The distribution of these forces
+depends on the transport conditions of the flame.
+Prior studies of spherical droplet flames as reviewed
+in reference 7 have examined the droplet
+burning history of alkanes, alcohols and aromatics.
+Data are typically the evolution of droplet, flame,
+extinction,
+and soot shell diameters.
+These data are only now just beginning
+to find their way into
+comprehensive numerical models of droplet combustion to test proposed oxidation schemes for fuels such as
+methanol [3] and heptane [2,4].
+In the present study, we report new measurements
+on the burning history of unsupported nonane
+droplets in a convection-free
+environment
+to promote spherical symmetry.
+The far-field gas is atmospheric
+pressure air at room temperature.
+The evolution of droplet diameter was measured using high speed cine
+photography
+of a spark-ignited,
+droplet within a confined
+volume in a drop tower. The initial droplet
+diameters varied between 0.5ram and 0.6mm.
+The challenge of unsupported droplets is to form, deploy and
+ignite them with minimal disturbance, and then to keep them in the camera field of view. Because of the
+difficulty of this undertaking, more sophisticated diagnostics for studying soot than photographic were not
+used. Supporting the test droplet by a fiber fixes the droplet position but the fiber can perturb the burning
+process especially for a sooting fuel (Avedisian
+1998).
+Prior studies on heptan¢ droplets of similar size [8,9] showed little evidence for soot formation due to
+the relationship between sooting and droplet diameter. For nonane droplets we expect increased sooting due
+to the greater number of carbon atoms. As a sooting droplet burns and its diameter decreases, proportionally
+less soot should form. This reduced soot, as well as the influence of soot formed earlier in the burning
+process which collects in a 'shell', on heat transport to the flame offers the potential for a time-varying
+burning rate. Such an effect was investigated and revealed in results reported here. Speculation is offered
+for the cause of this effect and its possible relation to soot formation.
+2.
+
+Experiment
+
+Unsupported droplets in microgravity
+were studied using a variation of a method reported in previous
+studies [8-11].
+A fuel droplet is projected into a vertical trajectory in a chamber attached to a support
+package.
+At the apex of the droplet's trajectory, the package which houses the combustion chamber and
+surrounding instrumentation is released into free-fall.
+A short time later, the droplet is ignited by two sparks
+positioned on opposite sides of the droplet to counteract the impulse of the spark discharge on moving the
+droplet.
+The electrodes
+are then quickly retracted and the burning process recorded by a high speed cine
+camera. In the present study, the sparks are activated between 5ms and 33ms after release of the package.
+The smaller delay time ensures more precise positioning of the droplet between the center of the electrodes
+at
+ignition and, thus, tends to minimize the effect of the spark on droplet motion after ignition. The spark
+energy is about .05 J and the spark duration is 0.5ms. The droplets studied had initial diameters less than
+0.6ram which are small enough to burn completely
+within the allowable 1.2s of the experimental
+free-fall
+time. A drag shield around the support package provided a gravity level of about 10"4 that of the Earth's
+normal gravity.
+Several improvements
+were made to prior versions of this method that produced a more reliable
+operating procedure: 1) the timing sequences required to activate power to the spark circuit, electrodes,
+solenoids, and magnet was controlled by external logic circuitry interfaced with a commercial timing control
+box (Quantum Composers model 9318 timing box (Bozeman,
+Mt); 2) a continuous duty cycle electromagnet
+(a model CEA-400M-110M
+electromagnet
+from AEC Magnetics,
+Cincinnatti,
+Ohio) that had a more
+repeatable delay time was used; 2) new and more powerful electrode retraction solenoids were fabricated with
+367
+
+non-brushing
+brushes; ) the powersupplyfor the package
+3
+wason-boardthe free-fall package reduce
+to
+straysignals
+directed thesparkcircuit; and4) droplets
+to
+werepropelled
+upwardin a moreverticaltrajectory
+to reduce horizontal
+the
+velocitycomponent
+atthe apex.
+Maintaining
+zeroresidual elocityat theapexby a verticaltrajectory
+v
+provedhelpfulfor aligningthe
+dropletbetween
+thetwin ignitionsparks
+(four electrodes) insuresymmetric
+to
+impulseforcesduringignition,
+which is thekey for keeping
+thedropletvelocitylow afterignition. Unfortunately, configuration
+this
+forces
+the dropletsprior to theexperimental
+dropletto splashon the nozzleface,which could affectthe stream.
+This wasnota problem
+aslongasthe nozzle
+wasflat, horizontal, ndsmallenough
+a
+suchthatwhenthe liquid
+splashedentrally theface,it diffused
+c
+on
+thedropletandwettedthedescending
+wallsevenly.
+TIG welded,two piece,solidelectrodeseplaced
+r
+thethree-piece rushing
+b
+contactelectrodessedin previous
+u
+studies(see Fig. 1). Eliminating the brushingcontact allowed more repeatable
+spark energy. The
+positioningsolenoidactedon the plungerportion which had to be ferromagnetic.The tips could not be
+magnetic, incethatwoulddiffusethe magnetic linesfrom the solenoid
+s
+flux
+coils. Theweldedconstruction
+allowedelectricalconduction
+from the leaderwire to the electrode while employingnonmagneticteel
+tips
+s
+for thetips,andferromagnetic
+steelfor theplunger.
+The highspeed
+moviecamera
+wasoperated
+at200frames/sec
+givingabout100discrete
+timestepsfor
+the durationof the burn.The film imagesweredigitizedon a Microtekslide scanner 3900dpi, then
+at
+importedinto an imageanalysis
+software
+package.The software
+finds theedgeof thedropletby means
+of
+categorizing pixelsaccording a threshold
+the
+to
+brightness.Thelightingandmagnification
+arethe samefor
+theresultspresented this study.. Theresolution thedropletdiameter easurement
+in
+in
+m
+wasestimated be
+to
+::l:251am.
+Thebacklighting
+wasadjusted showthetranslucent
+to
+dropletandgranularsootshellasa shadow
+but
+at the expenseof observingthe outer luminouszone of the flame. A video camerawas mounted
+perpendicularly themoviecamera recordthedropletpositionalongtheview axisof the moviecamera.
+to
+to
+A 40W halogen
+light mounted
+outside package
+the
+back-litthedropletin the initial stages free fall while
+of
+thevideocamera
+automaticntensitygaincontrolremained
+i
+off. In this fashion,thebacklightilluminatedthe
+dropletbeforeignition,andthecamera
+couldviewthe dropletandthe flameafter ignitionusingthe visible
+flameradiation.
+3.
+
+Results
+
+Figure 2 shows a series of photographs
+of the complete burning history of a free nonane droplet
+from ignition to burnout.
+The electrodes are visible in the first two frames and are out of the field of view in
+later frames because of their retraction.
+After ignition, the droplet decreases
+in size while the soot shell
+develops as the black 'ring' structure surrounding
+the droplet.
+The shell shows reasonable
+sphericity except
+for a 'tail' that is created by a very small convection
+component
+due to the droplet's motion.
+This tail has
+been observed for other fuel types as well [7]. The outer luminous zone which could be taken as the 'flame'
+is faintly visible in 'c' and 'e'.
+In 'd' and 'e' the white 'patches' are soot aggregates
+that have passed through
+the flame and were oxidized.
+The last frame show's the complete
+burnout
+that was typical
+of our
+observations.
+Remaining is a single soot aggregate 'speck' in 'g'.
+The evolution of droplet diameter is shown in fig. 3 for three data sets in coordinates
+that follow the
+classical 'd2 law' [12], though the variation is not consistent with that result as will be discussed below.
+Also
+shown in fig. 3 are references to fig. 2 to show where in the burning history the photographs
+in fig. 2 were
+taken. The initial diameters are essentially the same for the three data sets so that there should be no effect of
+droplet diameter on sooting. Several points to note about fig. 3 are the following:
+
+1)
+2)
+3)
+
+the burning histories of the three separate runs are close to each other and show the same
+trends;
+the variation of droplet diameter with time is not linear; and
+the droplets burned to completion and left a single soot aggregate particle.
+
+Fig. 3 shows that burning occurs progressively
+faster as time advances
+(a solid line in fig. 3 is
+included to better note the non-linear burning process).
+Soot formation can cause the burning rate to change
+during combustion.
+Early in the burning process while the droplet is still large, the incomplete
+combustion
+associated
+with soot formation lowers the chemical energy released by oxidation at the flame and, therefore,
+reduces heat transfer to the droplet.
+At the same time, radiative losses from the flame are larger in the early
+period because the flame is physically larger. As burning progresses and the droplet and flame size decrease,
+the droplet produces less soot per mass of fuel consumed
+due to the effect of droplet size on soot formation
+[2,8,9,13]
+as well as the effect of size on radiative
+losses from the flame [4]. The reduced sooting and
+radiation loss translates into a higher gasification rate. Soot that passes through, or is overtaken by, the flame
+will absorb heat in the high temperature
+zone and be carried further from the droplet because aggregates
+
+368
+
+p
+
+p
+
+4
+
+2.2mm
+
+2a, -40ms
+2b, 0 (ignition)
+
+2d, 325ms
+
+2c, 220ms
+
+I*
+
+(.0
+i
+
+%
+
+2e, 405ms
+
+2g, 525ms
+
+2f, 490ms
+i
+
+1.2
+•
+o
+=
+
+_=o
+
+do=O.55mm
+do=O.57mm
+do=O.56mm
+
+0.8
+o
+
+"o
+"0
+
+o
+
+oo o
+
+_°":.?o°
+
+0.6
+
+Fig. 2d
+
+°°+_o
+
+V
+
+oo
+
+"'_'t,
+
+0.4
+
+°o
+oOeeo,
+
+o_.
+
+Fng.2e
+
+"_,_,
+
+0.2
+
+0
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+t/do2(S/m
+Figure
+
+370
+
+1
+
+1.2
+
+Fig. 21-
+
+1.4
+
+1 .6
+
+°"
+This report is a preprint of an article submitted to a journal for
+publication.
+Because ofchangc_
+that may be made before formal
+publication,
+this preprint i_ made available with the understanding
+that it will not be oiled or repr_duced
+without the permission of tl_
+author.
+

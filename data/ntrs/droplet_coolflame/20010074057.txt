@@ -1,0 +1,1471 @@
+i
+
+i-_
+
+,.
+
+_r
+
+BI-COMPONENT
+
+_
+
+DROPLET
+
+B. D. Shaw,
+
+COMBUSTION
+
+MAE Department,
+
+University
+
+IN REDUCED
+
+of California,
+
+GRAVITY
+
+Davis,
+
+CA 95616
+
+of bi-component
+
+droplets
+
+INTRODUCTION
+This research
+the mm
+droplet
+
+size
+
+deals
+
+range
+
+internal
+
+with
+
+reduced-gravity
+
+or larger.
+
+flows,
+
+The
+
+combustion
+
+primary
+
+objectives
+
+of the research
+
+and solutal
+
+thermal
+
+Marangoni
+
+stresses,
+
+in
+
+the effects
+
+are to study
+
+and species
+
+initially
+
+of
+
+volatility
+
+differences
+
+on liquid species
+transport
+and overall combustion
+phenomena
+(e.g., gas-phase
+unsteadiness,
+burning rates, sooting, radiation,
+and extinction).
+The research program utilizes a reduced-gravity
+environment
+so that
+facilitates
+visualization
+
+buoyancy
+of droplet
+
+In the experiments,
+
+effects
+internal
+
+droplets
+
+are rendered
+flows, which
+
+composed
+
+of low-
+
+negligible.
+is important
+
+Use of large droplets
+for this research.
+
+and high-volatility
+
+species
+
+also
+
+are burned.
+
+The
+
+low-volatility
+components
+are initially present
+in small amounts.
+As combustion
+of a droplet
+proceeds,
+the liquid surface mass fraction
+of the low-yolatility
+component
+will increase
+with
+time,
+heats
+
+resulting
+in a sudden and temporary
+to temperatures
+close to the boiling
+
+burning
+
+rates
+
+causes
+
+a sudden
+
+decrease
+in droplet burning rates as the droplet rapidly
+point of the low-volatility
+component.
+This decrease
+in
+
+and temporary
+
+contraction
+
+of the flame.
+
+The
+
+decrease
+
+in burning
+
+rates and the flame contraction
+can be observed
+experimentally.
+Measurements
+of burning rates
+as well as the onset time for flame contraction
+allow effective
+liquid-phase
+species diffusivities
+to
+be calculated,
+visualized
+diffusivities
+This
+research
+point
+
+e.g., using
+
+on bi-component
+
+[1]. It is planned
+
+that
+
+droplet
+
+internal
+
+combustion
+experiment
+
+is a flight
+
+that has been
+
+ongoing
+
+(Bi-Component
+
+for several
+
+Droplet
+
+flows
+
+the 5th Microgravity
+
+PROPANOL-GLYCEROL
+
+Combustion
+
+DROPLET
+
+In this research,
+
+reduced
+
+were performed.
+
+gravity
+
+Marangoni
+size range
+
+species
+
+and
+
+is summarized
+
+theoretical
+
+years.
+
+The
+
+focal
+
+Experiment,
+
+studies have been
+over the last two
+
+here (see below).
+
+COMBUSTION
+experiments
+
+Propanol-glycerol
+
+candidates
+for displaying
+were initially
+in the mm
+
+Workshop)
+
+will be
+
+liquid
+
+Combustion
+
+This flight experiment
+is under development.
+However,
+supporting
+Because
+of space limitations,
+only some of the research performed
+
+(since
+
+droplets
+
+theory
+
+droplet
+
+of this program
+
+BCDCE).
+performed.
+years
+
+asymptotic
+
+in future flight and ground-based
+experiments.
+In this way, effective
+can be related to droplet internal flow characteristics.
+program
+is a continuation
+of extensive
+ground
+based experimental
+
+on combustion
+
+mixture
+
+droplets
+
+of propanol-glycerol
+
+are of interest
+
+mixture
+
+here because
+
+they are
+
+flows as as a result of solutal capillary
+stresses.
+Droplets
+with initial glycerol
+mass fractions
+of 0, 0.05 and 0.2. All
+
+experiments
+were in O2/N2 ambients
+at standard temperature
+and pressure.
+The ambient 02 mole
+fraction was 0.21 (air) or 0.5. Use was made of a NASA-supplied
+drop rig, and the experiments
+were
+
+performed
+
+at the NASA
+
+In the experiments,
+carbide
+
+support
+
+droplets
+
+fibers
+
+ignition
+system,
+flame size data
+
+(about
+
+For
+buildup
+
+results
+
+analysis
+
+initially
+
+Center
+about
+
+2.2 s Drop Tower.
+
+1 mm in diameter
+
+12 /am in diameter).
+
+-210826
+
+clear indications
+are shown
+in
+
+for droplet
+
+of the
+
+of glycerol
+
+NASA/CP--2001
+
+Research
+
+The
+
+droplets
+
+and droplets
+and flames were _aged
+using onboard
+were obtained
+from the video records
+using digital
+
+The experiments
+showed
+droplet
+size variations
+computational
+
+Glenn
+
+data,
+
+of flame contraction.
+Fig. 1 (the discrete
+
+size variations
+
+with t_e
+
+a computational
+
+model
+
+at the surface
+
+of a droplet.
+
+This
+
+253
+
+model
+
+were
+
+deployed
+ignited
+
+via
+
+silicon-
+
+a hot-wire
+
+data on flame
+Also
+shown
+
+and
+are
+
+line).
+
+developed
+assumed
+
+onto
+
+video cameras. Droplet and
+image processing
+routines.
+
+Representative
+data points).
+
+(the thick
+was
+
+were
+
+to predict
+the gas phase
+
+the
+
+transient
+
+was
+
+quasi-
+
+steady,
+
+which
+
+was
+
+apparently
+
+the case
+
+in the experiments
+
+since
+
+flame-to-droplet
+
+diameter
+
+ratios
+
+were nearly constant
+after ignition. The model allowed for variable transport properties
+in the
+liquid phase. In addition, spherical
+symmetry was assumed in both the liquid and gas phases. In
+employing
+diffusivities
+flame
+
+this numerical
+model,
+the gas-phase
+were varied so that the computational
+
+contraction
+
+diffusivities
+
+to be
+
+matched
+estimated.
+
+the
+
+thermal
+conductivities
+results on burning rates
+
+experimental
+
+results
+
+closely.
+
+The numerical
+
+model,
+
+which
+
+This
+was
+
+and liquid species
+and onset times for
+
+allowed
+based
+
+difference
+scheme,
+employed
+nonuniform
+gridding to allow free resolution
+surface.
+This provided
+substantial
+decreases
+in computatm_on time While
+accuracy. A schematic
+of the nonuniform
+are not shown in this figure _.
+.........
+Comparison
+
+of the experiments
+
+gridding
+
+with
+
+is shown
+
+the numerical
+
+effective
+
+on an
+
+as well
+
+finite
+
+near the droplet
+still maintaining
+
+in Fig. 2. For clarity,
+
+model,
+
+species
+
+explicit
+
+all grid points
+
+as with
+
+an asymptotic
+
+model
+[1], suggests
+that convective
+mixing
+was present
+in the droplets.
+The liquid
+species
+diffusivities
+in the numerical
+model needed to be increased
+by as much as an order-of-magnitude
+in order to match
+the experimental
+results.
+For example,
+liquid
+species
+diffusivities
+were
+increased
+
+by about
+
+a factor
+
+of four
+
+for the
+
+data
+
+in Fig.
+
+1. In an actual
+
+droplet,
+
+increases
+
+in
+
+effective
+diffusivities
+are generally
+caused by liquid convection.
+Because
+of the large differences
+in surface
+tension
+between
+glycerol
+and propanol,
+such convection
+was likely the result of
+solutalcapillary
+instabilities.
+In addition,
+the experiments
+exhibited
+extinction
+after
+flame
+contraction,
+which was
+available
+in Ref. [2].
+
+NUMERIC
+
+_
+
+unexpected
+
+MODELING
+
+for droplets
+
+in this size
+
+OF _ER-sU__
+
+range.
+
+Details
+
+DROPLETS:
+
+on this research
+
+i
+
+Support
+fib_'_
+are commonIy
+empIo_ied
+in microgravity
+droplet
+combustion
+studies,
+and it is of interest to develop
+models of fiber-supported
+
+are
+
+°
+evaporation
+droplets.
+
+and
+In this
+
+research,
+a numerical
+study of the M_angoni
+forces on a droplet supported
+by a fiber has been
+carried out for an evaporating
+methanol
+droplet in both dry air and humid air environments,
+with
+the focus
+
+being
+
+the development
+
+of instabilities
+
+modeling
+employed
+a finite-volume
+geometry
+considered
+here is shown
+twenty for all cases considered.
+surface
+
+The thermal
+Marangoni
+toward an isothermal
+
+that form
+
+technique.
+A
+in Fig. 3. The
+
+early
+
+in the lifetime
+
+of a droplet.
+
+schematic
+of the fiber-supported
+initial droplet-to-fiber
+diameter
+
+effect has a stabilizing
+effect,
+condition.
+The solutal Marangoni
+
+This
+
+droplet
+ratio was
+
+and it always
+drives the droplet
+effect (from water absorption)
+is
+
+much larger in magnitude,
+and it tends to concentrate
+water on the surface.
+This tendency
+to
+concentrate
+water leads to surface waves and instabilities,
+which are relieved
+by diffusion
+of the
+water into the droplet interior. For 0.5 mm radius droplets (as measured
+from the fiber edge) the
+surface
+
+forces
+
+have
+
+generated
+
+liquid
+
+Reynolds
+
+numbers
+
+greater
+
+than one hundred.
+
+Figure
+
+4 shows
+
+an instantaneous
+velocity field in a large droplet
+(the maximum
+velocity
+in Fig. 4 is about 20
+cm/s). Also shown are water mass fraction profiles (y). At this instant in time, there are several
+vortices
+
+present
+
+in the droplet.
+
+These
+
+vortices
+
+are a result
+
+of the solutal
+
+Smaller droplets
+(initial radii of 0.005 ram) give qualitatively
+Reynolds
+numbers
+are reduced
+by size and diffusion
+damping
+simulations
+verification
+appears
+previous
+
+are sensitive to droplet
+and supporting
+and comprehensive
+numerical
+studies
+
+Marangoni
+
+stresses.
+
+similar results, however
+the
+influences.
+The numerical
+
+fiber size, and it appears
+that experimental
+should be fully three-dimensional.
+It also
+
+that the solutal Marangoni
+flows are unstable
+to very small wavelengths,
+as suggested
+linearized
+stability analyses [3]. Details onthi_'s research are available
+in Ref. [4].
+
+NASAJCP--2001-210826
+
+254
+
+by
+
+MEASUREMENTS
+ABSORPTION
+
+OF TRANSIENT
+
+Experiments
+supported
+droplets
+investigate
+
+were performed
+initially
+in the
+
+mixing
+
+levels
+
+COMPOSITIONS
+
+VIA
+
+FIBER-OPTIC
+
+properties
+
+to determine
+the time-dependent
+compositions
+of fibermm size range.
+These
+experiments
+were performed
+to
+
+in bi-component
+
+solutalcapillary
+stresses. Droplets
+methanol
+and acetone, or propanol
+its optical
+
+DROPLET
+
+SPECTROSCOPY
+
+(i.e.,
+
+droplets
+
+that
+
+are
+
+likely
+
+initially about 1 mm in diameter
+and acetone, were investigated.
+
+absorption
+
+characteristics
+
+in the
+
+to have
+
+flows
+
+driven
+
+by
+
+and composed
+of mixtures
+of
+Acetone was selected because
+
+UV)
+
+are well
+
+characterized,
+
+while
+
+methanol
+and propanol
+are essentially
+transparent
+at a wavelength
+of about 270 nm, which is the
+peak wavelength
+in the spectral region where acetone
+absorbs strongly in the presence
+of polar
+liquids.
+
+The droplets
+
+evaporated
+
+in room
+
+air under
+
+normal
+
+gravity.
+
+The
+
+experiments
+
+employed
+
+thin optical fibers to carry light from a UV-Vis light source into and out of a droplet (Fig. 5). The
+time-dependent
+UV absorption
+spectrum
+of the liquid between
+the fibers was measured
+using a
+spectrometer
+
+coupled
+
+to one of the fibers,
+
+yielding
+
+the local transient
+
+Analysis
+of the experimental
+results [5] indicated
+evaporating.
+This is likely a result of solutalcapillary
+
+based
+
+on the relative
+
+vapor
+
+pressures
+
+concentration.
+
+that the droplets were well mixed while
+flows that may have been induced
+as a
+
+result of water absorption
+into the droplets (the droplets
+evaporated
+data indicate
+that the more volatile component
+was preferentially
+expected
+
+acetone
+
+of the components.
+
+in humid air). In addition,
+evaporated.
+These trends
+Representative
+
+in Fig. 6 for a propanol-acetone
+droplet, where it is evident that the acetone
+liquid decreased
+with time. Details on this research are available
+in Ref. [5].
+FUTURE
+
+data are shown
+
+concentration
+
+in the
+
+PLANS
+
+Future ground-based
+combustion
+
+research
+
+of bi-eomponent
+
+will include
+
+droplets
+
+these experiments
+will eventually
+can be imaged during combustion.
+
+initially
+
+more
+
+drop tower
+
+about
+
+0.8 - 1 mm in diameter.
+
+employ
+flow-visualization
+Experiments
+at UC Davis
+
+interior
+compositions
+using absorption
+spectroscopy
+are both dominant
+as well as subdominant.
+A goal
+mixing
+studies
+
+the
+are
+
+rates
+will
+
+on reduced-gravity
+It is planned
+
+that
+
+so that droplet
+interior
+flowfields
+will include measuring
+local droplet
+
+under conditions
+where Marangoni
+flows
+of these experiments
+is to provide
+data on
+
+and liquid species
+fluctuations
+within
+droplets.
+Theoretical
+and computational
+include
+development
+of a 3-d numerical
+model
+of fiber-supported
+droplet
+
+combustion,
+on droplet
+
+experiments
+
+as well as further
+interior
+
+flows.
+
+development
+
+Development
+
+of theory
+
+to predict
+
+of the BCDCE
+
+effects
+
+flight experiment
+
+of solutalcapillary
+
+stresses
+
+will also continue.
+
+ACKNOWLEDGEMENTS
+The
+
+financial
+
+acknowledged
+
+support
+
+for providing
+
+of
+project
+
+NASA
+
+is
+
+gratefully
+
+supervision
+
+acknowledged.
+
+and technical
+
+Dr.
+
+D.
+
+Dietrich
+
+is
+
+support.
+
+REFERENCES
+1.
+
+Aharon,
+
+2.
+
+Dee, V., and Shaw,
+
+3.
+4.
+5.
+
+Aharon, I., and Shaw, B. D., Physics of Fluids 8:1820
+(1996).
+Dwyer, H. A., and Shaw, B. D., Combustion
+Science and Technology
+(in press).
+Xiao, J. S., Wei, J. B., and Shaw, B. D., paper 43 presented
+at the 2 _d Joint Meeting
+Sections
+
+I. and Shaw,
+
+B. D., Combustion
+B. D., AIAA
+
+of the Combustion
+
+NASA/CP--2001-210826
+
+paper
+
+Institute,
+
+and Flame
+
+113,507
+
+(1998).
+
+2001-0468.
+
+Oakland,
+
+255
+
+CA (2001).
+
+of the US
+
+140
+--1_0
+
+_
+
+_m,
+
+..'_"
+
+0.00
+
+"'"_.
+
+020
+
+0.40
+
+Flame
+
+0.60
+
+O.BO
+
+24
+20t
+
+_
+
+I .(X)
+
+1.20
+
+1.40
+
+l"hrm_'_r IW_I_ |_)
+-0 O25
+
+Figure
+
+1. Propanol-glycerol
+combustion
+data.
+
+0
+
+0 025
+
+0 05
+
+x (ram)
+
+droplet
+Figure
+
+4.
+
+Water
+
+_,por_
+
+mass
+
+fraction
+
+(y) contours
+
+and velocity
+
+vectors
+
+(cm/s).
+
+Fiber
+
+Dr.plet
+
+/
+/,
+
+Te Spectrometer
+
+_"
+
+From
+
+_n.r_I
+
+So_¢e
+
+N./
+©pucal
+
+Figure
+
+2.
+
+Nonuniform
+
+computational
+
+Figure
+
+grid.
+
+5.
+
+Fibers
+
+Schematic
+
+of the droplet
+
+spectroscopy
+Hot Surroundings
+
+j
+
+Surface
+
+Heal
+
+setup.
+
+xvith 10% Water
+
+and
+
+Mass
+
+Fluxes
+
+4O _
+
+.
+
+\
+
+E
+¢u
+___........
+
+__
+
+_. _o
+
+vo,,2 7.,.2 375x
+L2
+|
+Figure
+
+3.
+
++o.o,or_
+X'-,.o_SE-S
+x' j
+
+1
+
+Schematic
+droplet.
+
+of a fiber
+
+supported
+
+10
+
+30
+
+i
+40
+
+50
+
+6o
+
+Time (sec)
+
+Figure
+
+NASMCP--200!-210826
+
+J L1
+
+20
+
+256
+
+6.
+
+Acetone
+
+mass
+
+fraction
+
+vs. time.
+

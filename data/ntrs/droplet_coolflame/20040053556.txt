@@ -1,0 +1,195 @@
+Cool Flames in Propane-Oxygen Premixtures at Low and
+Intermediate Temperatures at Reduced-Gravity
+Howard Pearlman†, Michael Foster, Devrez Karabacak
+Drexel University, Dept. of Mechanical Engineering and Mechanics, Philadelphia, PA 19104
+INTRODUCTION
+The Cool Flame Experiment aims to address the role of diffusive transport on the
+structure and the stability of gas-phase, non-isothermal, hydrocarbon oxidation reactions, cool
+flames and auto-ignition fronts in an unstirred, static reactor. These reactions cannot be studied
+on Earth where natural convection due to self-heating during the course of slow reaction
+dominates diffusive transport and produces spatio-temporal variations in the thermal and thus
+species concentration profiles (Griffiths, et al., 1971; Melvin, 1969). On Earth, reactions with
+associated Rayleigh numbers (Ra) less than the critical Ra for onset of convection (Racr~600;
+Tyler, 1966; Fine, et al., 1970; Barnard and Harwood, 1974) cannot be achieved in laboratoryscale vessels for conditions representative of nearly all low-temperature reactions. In fact, the Ra
+at 1g ranges from 104-105 (or larger), while at reduced-gravity, these values can be reduced two
+to six orders of magnitude (below Racr), depending on the reduced-gravity test facility.
+Currently, laboratory (1g) and NASA’s KC-135 reduced-gravity (µg) aircraft studies are
+being conducted in parallel with the development of a detailed chemical kinetic model that
+includes thermal and species diffusion. Select experiments have also been conducted at partial
+gravity (Martian, 0.3gearth) aboard the KC-135 aircraft. This paper discusses these preliminary
+results for propane-oxygen premixtures in the low to intermediate temperature range (310350oC) at reduced-gravity.
+GROUND-BASED COOL FLAME AND AUTO-IGNITION STUDIES
+Laboratory Studies in a Mallard-LeChatlier Static, Unstirred Reactor: A classic MallardLeChatlier apparatus (Mallard, 1880) was developed and used to conduct 1g and reduced-gravity
+experiments. A schematic of the hardware is shown in figure 1. It consists of a furnace, a fusedsilica spherical vessel of given diameter (i.d.=10.2cm) and a gas delivery system. The furnace
+employs resistive heating elements in the rear and top panels, an internal mixing fan to circulate
+the hot air, three parallel 7.5cm diameter (0.32cm thick, 1.2cm separation distance) quartz
+windows on both the top and side walls of the furnace for viewing and a gas feedthrough built
+into the door. The temperature uniformity within the furnace is ± 10oC throughout its operating
+range (20-600oC), measured at random spatial locations using 0.51mm diameter wire,
+unsheathed, type-K thermocouples. The vessel pressure is recorded at 100Hz using a Setra 025psia Model 204 transducer (accuracy: ±0.028psia= ±1.4Torr) situated at the vessel inlet, on the
+cold side of the oven door. Two intensified, ultraviolet and visible-sensitive cameras operating at
+maximum gain (~10-6 fc minimum sensitivity) and full exposure, record the integrated light
+intensity at 30 frames/s.
+
+†
+
+Corresponding Author
+
+NASA/CP—2003-212376/REV1
+
+193
+
+V
+
+Ca Sid
+m e
+er
+a
+
+Heater
+Elements
+
+Quartz
+Window
+
+L
+
+Computer/
+Data Acquisition
+Pressure
+Transducer
+
+Premixed
+Gases
+
+R
+
+Blower
+Motor
+
+V
+
+Top
+Camera
+Reactor
+
+FURNACE
+
+TC rake
+
+Solenoid
+Valve
+Manual
+Valve
+Vacuum
+Pump
+
+50cc Cylinder
+
+Fig. 1: Schematic of static, unstirred reactor, furnace and gas delivery system
+
+Representative experimental results obtained at 1g for different initial pressures at two
+different vessel temperatures (a: T=310oC, b: T=320oC) are shown in figures 2a and 2b,
+respectively. At low pressures, steady, dark (non-visible) reaction is observed with induction
+periods on the order of minutes. As the pressure increases at fixed temperature, multiple cool
+flames occur. Further pressure increase results in a decrease in the first induction period. At
+sufficiently high initial pressures, two-stage ignition (a cool flame preceding a hot ignition)
+occurs. These and similar results at different temperatures (in the range of 300-400oC) are being
+used to compile detailed ignition diagrams.
+
+(a)
+(b)
+Fig. 2: Pressure histories at 1g at (a) T=310oC, (b) T=320oC for five experiments at
+different initial pressures. Mixture composition is C3H8:O2 (1:1).
+
+KC-135 Aircraft Reduced-Gravity and Martian-Gravity Results: Representative cool flame
+results obtained during KC-135 parabolic maneuvers at reduced-gravity using propane-oxygen
+mixtures at T=320oC are shown in figures 3a and 3b for pressures less than (and equal) to
+7.7psia. At 7.7psia, one cool flame is observed with an induction period of 15s, followed by a
+steady, non-visible reaction that continues throughout the remainder of the available test time.
+Beyond 20s, the g-level is time-dependent and varies from 10-2g to 1.8g (see lower curve in fig.
+3b). This transitional period induces buoyant mixing in the vessel and a complicated pressure
+history. At lower initial pressures, experiments conducted at 3.9psia and 6.2psia show little
+evidence of reaction during the available reduced-gravity test time, while reaction in the
+subsequent “pull-up”/transitional g period following the reduced-gravity period is observed.
+Figure 3b shows a plot of the pressure history associated with the experiment conducted at
+3.9psia along with the vertical-component of the acceleration. These results clearly demonstrate
+the need for additional reduced-gravity test time.
+
+NASA/CP—2003-212376/REV1
+
+194
+
+(a)
+(b)
+Fig. 3: Cool flames in C3H8:O2 (1:1) mixture at different initial pressure at T=320°C and µg;
+Reaction continues beyond the available reduced-gravity test time.
+
+As mentioned, select experiments were also conducted at 0.3gearth (Martian-g) to study
+the effect of "weak" convection/mixing without changing any physical parameters or the mixture
+composition (i.e., the Ra can be changed by varying g). The pressure histories obtained at 1g and
+µg and those obtained at 0.3g and 1g are plotted in figures 4a and 4b for nearly identical initial
+pressures (ranged from 7.5 to 7.8pia), fixed temperature (320oC) and fixed mixture composition.
+At 1g, five sequential cool flames are observed. The first cool flame follows an induction
+period of approximately 27s. At 0.3g, two sequential cool flames are visually observed and the
+first induction period shortens to 15s. In contrast, only a single cool flame is observed at µg
+followed by a monotonic pressure increase until the end of the available 20s test time at which
+time the pressure gradient remains positive. The vertical-components of acceleration associated
+with these three tests are also shown in the lower half of figures 4a and 4b.
+
+(a)
+(b)
+Fig. 4: (a) Comparison of pressure histories obtained at reduced-gravity (KC-135 aircraft) and 1g and (b) Martian
+gravity versus 1g for nearly identical initial pressures at T=320oC. The 1g data is the same in both (a) and (b).
+Mixture composition is C3H8:O2 (1:1). The vertical component of acceleration is shown in the lower portion
+of the plot (negative value indicates downward acceleration).
+
+NASA/CP—2003-212376/REV1
+
+195
+
+Imaging Cool Flames in Propane-Oxygen and Propane-Air Premixtures: For the propaneoxygen and propane-air experiments reported herein, the overall intensity of the integrated
+ultraviolet and visible emission (integrated over the spectral sensitivity of the intensified camera)
+is significantly lower than that observed in earlier experiments with butane-oxygen reported by
+Pearlman (1999). At maximum camera gain (10-6 fc), very few propane-oxygen and only one
+propane-air cool flame(s) have been imaged at reduced-gravity. Some of the clearest images
+obtained from the KC-135 testing at a: µg, b: 0.3g, and c: 1g in the propane-oxygen system are
+shown in figure 5. In all sequences shown, the temperature is fixed at 320oC.
+
+(a)
+(b)
+(c)
+Fig. 5: Representative cool flame images in C3H8:O2 at 320oC, 10.2cm i.d. quartz vessel at (a) µg ~10-2g (12.0 psia),
+(b) 0.3g (7.6psia), and (c) 1g (7.8psia). Time lapse between sequential images in 1/3s.
+Images have been enhanced for clarity.
+
+CONCLUSIONS
+Preliminary experimental results have been obtained for a propane:oxygen system at 1g,
+µg, and 0.3g. Multiple cool flames have been observed at 1g and 0.3g, yet only a single cool
+flame has been observed at µg within the available test time. Reaction is observed to continue
+beyond the 20s available on the KC-135 aircraft. Qualitatively, the frequency of oscillation is
+observed to decrease as g-level decreases (second and subsequent induction periods decrease
+with a decrease in g-level). Cool flames at 0.3g appear qualitatively similar to those at 1g, yet
+those at µg are radially (presumably spherically) symmetric. Ignition diagrams will be
+developed using this and subsequent reduced-gravity data. Additional work is needed to
+quantify the role of g-jitter (gravitational fluctuations) on the spatio-temporal structure and
+evolution of reduced-gravity cool flames. Numerical models will be tuned based on these results
+and used to predict the behavior of cool flames beyond the available 20s in ground-based
+facilities. These results will guide the planned space-flight experiment.
+ACKNOWLEDGMENTS
+This work was supported by NASA GRC under cooperative agreement, NCC3-871. Special
+thanks to the KC-135 pilots and support personnel for providing the reduced-gravity and
+Martian-gravity parabolas.
+REFERENCES
+1. Barnard, J.A. and Harwood, B.A. (1974) Combustion and Flame 22 35-42.
+2. Fine, D.H., Gray, P. and MacKinven, R. (1970) Royal Society of London A316 223-240.
+3. Griffiths, J.F., Gray, B.F., and P. Gray (1971) 13th Symposium (Int.) on Comb., 239-248.
+4. Mallard, E. and LeChatelier, H.L. (1880) C.R. Acad. Sci. Paris 91 825.
+5. Melvin, A. (1969) Combustion and Flame 13 438-9.
+6. Pearlman, H. (1999) Combustion and Flame 121 (1-2) 390-3.
+7. Tyler, B.J. (1966) Combustion and Flame 10 90-91.
+
+NASA/CP—2003-212376/REV1
+
+196
+

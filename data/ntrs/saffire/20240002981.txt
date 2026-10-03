@@ -1,0 +1,815 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="pdf:PDFVersion" content="1.6">
+<meta name="xmp:CreatorTool" content="PScript5.dll Version 5.2.2">
+<meta name="pdf:docinfo:title" content="Microsoft Word - Saffire-ICES-2024- ICES-365 --051524 changes accepted(final) plus grunde.docx">
+<meta name="pdf:hasXFA" content="false">
+<meta name="access_permission:modify_annotations" content="true">
+<meta name="access_permission:can_print_degraded" content="true">
+<meta name="dc:creator" content="durban">
+<meta name="dcterms:created" content="2024-05-16T03:30:01Z">
+<meta name="dcterms:modified" content="2024-05-16T03:30:01Z">
+<meta name="dc:format" content="application/pdf; version=1.6">
+<meta name="xmpMM:DocumentID" content="uuid:f3e5d9a6-c6f2-489d-919b-a25eac26db6b">
+<meta name="pdf:docinfo:creator_tool" content="PScript5.dll Version 5.2.2">
+<meta name="access_permission:fill_in_form" content="true">
+<meta name="pdf:docinfo:modified" content="2024-05-16T03:30:01Z">
+<meta name="pdf:hasCollection" content="false">
+<meta name="pdf:encrypted" content="false">
+<meta name="dc:title" content="Microsoft Word - Saffire-ICES-2024- ICES-365 --051524 changes accepted(final) plus grunde.docx">
+<meta name="xmp:CreateDate" content="2024-05-15T23:30:01Z">
+<meta name="pdf:hasMarkedContent" content="false">
+<meta name="Content-Type-Override" content="application/pdf">
+<meta name="Content-Type" content="application/pdf">
+<meta name="xmp:ModifyDate" content="2024-05-15T23:30:01Z">
+<meta name="pdf:docinfo:creator" content="durban">
+<meta name="pdf:producer" content="Acrobat Distiller 20.0 (Windows)">
+<meta name="access_permission:extract_for_accessibility" content="true">
+<meta name="access_permission:assemble_document" content="true">
+<meta name="xmpTPg:NPages" content="7">
+<meta name="pdf:hasXMP" content="true">
+<meta name="access_permission:extract_content" content="true">
+<meta name="access_permission:can_print" content="true">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.DefaultParser">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.pdf.PDFParser">
+<meta name="access_permission:can_modify" content="true">
+<meta name="pdf:docinfo:producer" content="Acrobat Distiller 20.0 (Windows)">
+<meta name="pdf:docinfo:created" content="2024-05-16T03:30:01Z">
+<title>Microsoft Word - Saffire-ICES-2024- ICES-365 --051524 changes accepted(final) plus grunde.docx</title>
+</head>
+<body><div class="page"><p></p>
+<p>53rd International Conference on Environmental Systems ICES-2024-365 
+21-25 July 2024, Louisville, Kentucky 
+</p>
+<p>Preliminary Results from the Saffire VI Experiment 
+ 
+</p>
+<p>David L. Urban1, Gary A. Ruff2, Paul Ferkul3, John Easton4, Michael Johnston5, Jay Owens6, Sandra Olson7, Claire 
+Fortenberry8 
+</p>
+<p>NASA Glenn Research Center, Cleveland, OH, USA 
+</p>
+<p>John Graf9, Oageng George 10         Balazs Toth11   
+NASA Johnson Space Center, Houston, TX, USA     ESTEC, Noordwijk, Netherlands 
+</p>
+<p>Florian Meyer12, Christian Eigenbrod13      James S. T’ien14, Ya-Ting T. Liao15  
+University of Bremen (ZARM), Bremen, Germany   Case Western Reserve University, Cleveland, OH, USA 
+</p>
+<p>A. Carlos Fernandez-Pello16        Guillaume Legros17   
+UC Berkeley, Berkeley, CA, USA    CNRS-ICARE, Univ. Orléans, Orléans, France 
+</p>
+<p>Augustin Guibaud18         Nickolay Smirnov19  
+University College, London, UK    Moscow State University, Russian Federation   
+</p>
+<p>                            Osamu Fujita20      and        Ulises Rojas Alva21, Grunde Jomaas22 
+             Hokkaido University, Sapporo, Japan  FRISSBE, ZAG, Ljubljana, Slovenia 
+</p>
+<p>Preliminary results are presented for one test of the last flight of the Spacecraft Fire 
+Experiment (Saffire VI) which was conducted on an orbiting Cygnus spacecraft. These 
+experiments directly address the risks associated with our understanding of spacecraft fire 
+behavior at practical length scales and geometries. The lack of this experimental data has 
+forced spacecraft designers to base their designs and safety precautions on 1-g understanding 
+of flame spread, flame self-extinguishment, fire detection, and suppression. The Saffire 
+experiment was developed by an international team of investigators with the goal of 
+addressing open issues in spacecraft fire safety. NASA’s Spacecraft Fire Safety Demonstration 
+Project was formulated with the goal of conducting a series of large-scale experiments in 
+</p>
+<p> 
+1 Branch Chief, Low gravity Exploration Technology (LTX), MS 77-5, 21000 Brookpark Rd, Cleveland, OH, USA. 
+2 Saffire Project Manager, Exploration Systems Office,21000 Brookpark Road, Cleveland, OH, USA. 
+3 Staff Scientist, Universities Space Research Assoc. (USRA), 21000 Brookpark Road, Cleveland, OH, USA. 
+4 Staff Scientist, Case Western Reserve University (CWRU) MS 110-3, 21000 Brookpark Road, Cleveland, OH, USA. 
+5 Aerospace Engineer, LTX, MS 77-5, 21000 Brookpark Road, Cleveland, OH, USA. 
+6 Engineer, USRA, MS 77-5, 21000 Brookpark Road, Cleveland, OH, USA. 
+7 Aerospace Engineer, LTX, MS 77-5, 21000 Brookpark Road, Cleveland, OH, USA. 
+8 Aerospace Engineer, LTX, MS 77-5, 21000 Brookpark Road, Cleveland, OH, USA. 
+9 Aerospace Engineer, Life Support Systems Branch, MS-EC3, 2101 E NASA Pkwy, Houston, TX, USA. 
+10 Jacobs Engineering, Project Engineer, ECLSS, JE4EA, 2224 Bay Area Boulevard, Houston, TX 77058. 
+11 Payload System Engineer, ESA/ESTEC, Keplerlaan, 2201 Noordwijk, The Netherlands. 
+12 Senior Researcher, ZARM, University of Bremen, Am Fallturm 2, 28359 Bremen, Germany. 
+13 Researcher, ZARM Univ. of Bremen, Am Fallturm, 28359 Bremen, Germany. 
+14 Professor Emeritus, Dept. Mech. and Aero. Engineering, CWRU, Cleveland, OH, USA. 
+15 Associate Professor, Dept. Mech. and Aero. Engineering, CWRU, Cleveland, OH, USA. 
+16 Professor, Dept. Mech. Engineering, Univ. of California at Berkeley, Berkeley, CA, USA. 
+17 Professor, Université Orléans, 45071 Orléans, Cedex 2 France. 
+18 Post. Doc. Environmental and Geomatic Engineering, University College, London, UK. 
+19 Professor, Mechanics and Mathematics, Moscow M.V. Lomonosov State University, Moscow 119899, Russia 
+20 Professor, Hokkaido University, Sapporo, Japan 
+21 Senior Researcher, FRISSBE, ZAG, Ljubljana, Slovenia 
+22 FRISSBE ERA Chair holder and Head of department, FRISSBE, ZAG, Ljubljana, Slovenia </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>2 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>spacecraft environments that represent practical spacecraft fires. These tests spanned 1.5 to 
+3.2 kW with free air volumes of 17 to 19 cubic meters. The final flight in the series of six 
+experiments examined concurrent spread over large samples (all 41 cm wide) including a thin 
+sheet of flammable fuel (cotton/fiberglass 50 cm long); 2-sided spread over 1 cm thick 
+polymethyl methacrylate (PMMA) (18 cm long); 1-sided spread over 0.5 cm thick (18 cm 
+long); and Nomex fabric (7 cm long). Results are presented for the PMMA samples, the SIBAL 
+sample, and the thin cotton samples from Saffire IV and V. The flame heat release is 
+determined and compared to the overall temperature rise in the spacecraft and the change in 
+the concentration of carbon dioxide and carbon monoxide in the spacecraft. Overall, the 
+temperature and pressure rise in the spacecraft were found to be less significant than the 
+increase in carbon dioxide and carbon monoxide. 
+</p>
+<p>Nomenclature 
+FFD = Far Field Diagnostics 
+PMMA  = polymethyl methacrylate 
+Saffire  = Spacecraft Fire Safety Demonstration Project 
+SFU = Saffire Flow Unit 
+SIBAL =  Solid Inflammation Boundary at Low Speed 
+SMAC = Spacecraft Maximum Allowed Concentration  
+</p>
+<p>I. Introduction 
+lthough spacecraft fires have long been recognized as a potentially catastrophic hazard, the impact of a spacecraft 
+fire on the vehicle habitability was not examined experimentally before the initiation of the Saffire experiment 
+</p>
+<p>series. In terrestrial fires, the smoke and its constituents are generally a greater hazard than the heat from the fires. In 
+the confined space of an orbiting spacecraft, any of these hazards can become a critical hazard for the mission and the 
+crew. Specifically, excessive temperature rise will potentially cause thermal injury, while increase in the levels of 
+carbon dioxide and carbon monoxide may pose a more significant and acute hazard to the crew. Given the difficulty 
+in predicting the impact of the heat and pressure rise from a spacecraft fire compared to the hazardous products, one 
+of the major goals of the Saffire VI flight was to provide such a comparison. This increased understanding of the 
+relative impact of various fire impacts can be used to guide spacecraft designs. Other than the thin cellulose samples 
+on prior flights, the heat release on Saffire IV and V for the thick PMMA samples was not determined. The first three 
+flights have been discussed previously.1,2 and flights IV and V were presented in Urban et al. 20213. As described in 
+Refs. 1,2, and 3 the prior flights had a significant impact on our understanding of flame spread and growth in long 
+duration and large-scale experiments. The prior flights revealed that, under typical spacecraft conditions, fires can 
+develop to significant size. Overall, the average temperature and pressure rise were not particularly of concern 
+however the increase in hazardous products (carbon monoxide and carbon dioxide) were enough to be of health 
+concern. However, the utility of these results as reference data sets for model validation was limited owing to the 
+absence of heat release data for the PMMA (high heat release) cases. Improvements were made for the final Saffire 
+VI flight to ensure accurate heat release measurements. Further analysis of the burning of the structured PMMA 
+sample on Saffire V are presented in Ref. 4, and details of the smoke and product transport are presented in Ref. 5.  
+</p>
+<p>II. Experimental Hardware 
+The Saffire Flow Unit (SFU) for flights IV - VI was very similar to that used for Saffire I-III1,2 with the addition of 
+side view cameras, and gas sensors in the inlet and outlet to measure the oxygen consumption and production of carbon 
+oxides. On Saffire IV and V, the outlet gas sensor location was found to have been moved from the location where 
+mixing had been verified and therefore not see a fully mixed outlet flow, so the gas measurements were not useful. 
+For Saffire VI it was moved to the verified location at the end of the duct to provide oxygen consumption calorimetry 
+needed to enable measurement of the heat release from the flame. To accommodate the second set of cameras, the 
+duct half-height was reduced from 25 cm (for Saffire I-III) to 15 cm for Saffire IV-VI (perpendicular to the sample 
+surface) preserving the 45 cm width. The locations of the Saffire units are shown in Figure 1 with the Saffire Flow 
+Unit near the end cone of the Cygnus vehicle and the Far Field Diagnostics (FFD) containing the smoke cleanup 
+system and smoke sensors was installed in a mid-deck locker accommodation location adjacent to the hatch. Six 
+</p>
+<p>A</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>3 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>remote sensors containing a thermocouple and a carbon dioxide sensor were located in each of the four standoffs at 
+the mid plane of the vehicle, in the end cone and in the hatch area. After the cargo was unloaded, the vehicle was 
+repacked with trash which was an essential task for the mission but also was essential to the Saffire experiment as it 
+filled extra volume enabling the experiment to adjust the oxygen concentration in the spacecraft. After the spacecraft 
+left the space station and arrived at the planned orbit for the testing, the system was powered up and stepped through 
+the test sequence. Each test was separately triggered by ground command, but the detailed steps for the tests were 
+</p>
+<p>predetermined by a command file. Before the tests were initiated, the free volume in the spacecraft was measured by 
+releasing a known volume of carbon dioxide and observing the change in concentration over time. This volume was 
+then used to select a targeted pressure reduction and oxygen backfill. The Northrup Grumman operators vented the 
+spacecraft to the requested pressure and the Saffire experiment then released oxygen to bring the spacecraft to the 
+desired condition (Table 1). 
+</p>
+<p> The Saffire IV and V tests were discussed in detail in Urban et al.3 For this paper, the thin cotton samples from 
+each flight will be included in this analysis because the heat relase rate can be estimated from the spread rate for thin 
+fuels. The Saffire VI sample card contained four samples and was configured for four ignitions. As with Saffire IV 
+</p>
+<p>Table 1. Saffire IV-VI Sample Test Conditions considered in this paper. 
+ 
+</p>
+<p>Flight/Sample IV-1 V-2 VI-2 VI-3 VI-4 
+</p>
+<p>Material SIBAL 
+Cloth 
+</p>
+<p>Cotton Jersey SIBAL 
+Cloth 
+</p>
+<p>Two-Sided 
+PMMA 
+</p>
+<p>One-Sided 
+PMMA 
+</p>
+<p>Length (cm) 50  50 50 18 18 
+</p>
+<p>Air Flow Rate (cm/s) 20 20 20 20 20 
+</p>
+<p>Flow Direction Concurrent Concurrent Concurrent Concurrent Concurrent 
+</p>
+<p>Ambient Pressure (kPa) 100.0 70.7 54.1 54.6 55.2 
+ 
+</p>
+<p>Oxygen Concentration (mol 
+%) 
+</p>
+<p>22.0 26.2 31.0 30.3 28.8 
+</p>
+<p>Free volume (m3) 17.9 19.0 16.7 16.7 16.7 
+</p>
+<p> 
+</p>
+<p> 
+ 
+Figure 1. Rendering of the position of the Saffire Flow Unit (A) and the Far Field Diagnostics (B) in the 
+empty Cygnus module(left) and as fully packed for Saffire IV (right). The remote sensors in the standoffs 
+are indicated with red dots and the ones in the end cone and hatch area with green dots. The four open 
+wedge-shaped areas in the right image are referred to as the standoffs in the Cygnus vehicle. The top surface 
+of both images is the port side of the vehicle with the bottom side being the starboard. The right-hand side 
+of the cylinder is forward, and the left side is the aft. The SFU is at the nadir end of the vehicle with the SFU 
+intake in the aft-port standoff and the outlet in the forward-port standoff. The standoffs provided a 
+communication path for the air from the hatch area (zenith) (front surface in the images) to the end cone 
+(nadir). </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>4 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>and V, the tests were conducted in a rectangular flow tunnel that was 30 cm high by 45 cm wide by 109 cm long. The 
+ends of the ducts were equipped with flow straighteners that connected to plenums. The inlet and outlet ducts 
+connected to these plenums and were parallel to the flow duct producing a folded geometry. These ducts enabled flow 
+mixing and measurement of the temperature and concentrations of oxygen, carbon dioxide and carbon monoxide on 
+the inlet and outlet. The flow was induced by a fan in the inlet duct and measured by a vane anemometer at the entrance 
+of the inlet duct. The samples were affixed to a metal frame (Figure 2) in the middle of the duct. Similar to Saffire IV 
+&amp; V, the sample materials were: “SIBAL” fabric (75% cotton and 25% fiberglass)1 with a total area density of 18.05 
+mg/cm2; or flat, cast, polymethyl methacrylate (PMMA) (either one-sided 5 mm thick or two-sided (10 mm thick). 
+</p>
+<p>The Nomex sample did not ignite and so it will not be included in this paper. The 
+exhaust gases exited the SFU and entered the forward port standoff of the spacecraft. 
+The overall flow in the spacecraft carried the gases to the FFD in the hatch area. The 
+FFD contained aerosol and species diagnostics and a smoke cleanup system. More 
+details of the smoke transport and preliminary FFD results are in Fortenberry et al.5. 
+</p>
+<p>III. Results and Their Fire Safety Implications  
+Representative front-view images of the flames are shown in Figure 3. Overall, the 
+</p>
+<p>flame growth and spread were consistent with prior Saffire flights discussed 
+previously3. The SIBAL sample (left image) achieved a steady size and spread rate 
+</p>
+<p>quite rapidly where the two PMMA samples grew continuously until the flow speed was reduced. This continued 
+growth is evident in Figure 4 where the outlet duct temperature rises continuously. Likewise, the oxygen consumption 
+(Fig. 5) and the CO and CO2 (Fig. 6) concentrations at the SFU outlet increase continuously until the flow is reduced 
+at 1120 seconds. At the same time the temperatures and gas temperature at the outlet of the SFU outlet is significant 
+(70 °C) the temperature near the FFD (zenith) only changes slightly from the prior baseline. The CO and CO2 levels 
+are also very high exiting the SFU, but they are also attenuated at the location of the FFD (Fig. 6). The increase at the 
+FFD is reported in Table 2. Since carbon dioxide scrubbing only occurred twice on the Saffire flights and there was 
+limited carbon monoxide removal, the values reported here are the increases in the average concentration in the space 
+craft due to each test.  
+</p>
+<p>Figure 5 presents the heat release calculated from the oxygen consumption using the method of Huggett6 where 
+the heat release is estimated for a wide range of combustibles to be 13.1 kJ per gram of oxygen consumed. The heat 
+release can be seen to be consistent with the radiometer. These results are tabulated in Table 2 with the thin fuel results 
+from Saffire IV and V and all the successful ignitions from Saffire VI. The fires were generally of 1.5 to 3 kW in 
+intensity which is a small fire by terrestrial standards. The table also includes the heat release calculated using the fuel 
+consumption rate for the thin materials. For the thick materials, much of the material burning is from the surface which 
+cannot be detected by the cameras, so it is not possible to estimate the heat release from the flame imaging. For the 
+VI-2 sample (SIBAL) both methods were used and agree within 15% which is reasonable for this type of analysis.  
+</p>
+<p>     
+</p>
+<p> 
+Figure 2. Sample card 
+layout for Saffire VI 
+Red dots indicate the 
+location of the igniter 
+wires. The Nomex 
+sample did not ignite. 
+</p>
+<p>SIBAL Fabric
+</p>
+<p>Test 3
+</p>
+<p>Normoxic O2 with 
+forced flow
+</p>
+<p>Test 2
+</p>
+<p>Test 4
+</p>
+<p>2‐sided PMMA (1 cm thk.)
+</p>
+<p>1‐sided PMMA (0.5 cm thk.)
+</p>
+<p>Nomex Fabric
+Test 1
+</p>
+<p>           
+Figure 3. Representative front-view (sample surface) images for each Saffire VI test 
+after the flame is well established. From left: SIBAL fabric (test 2), 2-sided PMMA (test 
+3), and 1-sided PMMA (test 4). Oxidizer flow is from the left at 20 cm/s in all cases. </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>5 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>Figure 7 presents the smoke concentrations at the FFD 
+and the response of a terrestrial ionization detector. The 
+smoke levels can be seen to rise rapidly and subsequently 
+decrease, presumably due to particle loss from impaction 
+on multiple surfaces. Selecting 1 mg/m3 as a relatively 
+tight alarm threshold, the FFD detector reached that 
+threshold at 981 seconds. By this point, much of the 
+hazardous gas release had occurred. This is comparable to 
+predictions based on smoke versus hazardous product 
+emission by overheated materials9. Although the CO and 
+CO2 diluted rapidly in these tests, the increases observed 
+</p>
+<p>from these tests are quite significant from a toxicology standpoint. For carbon monoxide, NASA establishes a 
+Spacecraft Maximum Allowed Concentration (SMAC) value based on the exposure duration. For carbon monoxide, 
+the 1-hour SMAC is 425 ppm, and the 24-hour SMAC is 100 ppm7. For carbon dioxide, which is prevalent in manned 
+spacecraft, the limits are established differently in NASA-STD-30018 which limits the 1-hour average CO2 partial 
+pressure to no more than 3 mm Hg. As can be seen in Table 2, the allowable CO2 level was exceeded by both of the 
+PMMA tests on Saffire VI. For carbon monoxide the levels were well above the 24-hour SMAC and quite close to the 
+1-hour level. 
+</p>
+<p> 
+</p>
+<p> 
+ 
+Figure 7. Far field ionization smoke detector and 
+particulate matter measurements for Saffire VI-3 
+(two-sided PMMA).  
+</p>
+<p> 
+Figure 5. Inlet and outlet oxygen concentrations 
+for Saffire VI-3 (two-sided PMMA) with the 
+calculated heat release based on the oxygen 
+consumption. The flow was changed from 20 cm/s 
+to 5 cm/s at 1120 s and terminated at 1420 s. The 
+dip at 1120 s is due to the impact of the transient 
+flow change on the oxygen sampling. 
+</p>
+<p>0
+</p>
+<p>500
+</p>
+<p>1000
+</p>
+<p>1500
+</p>
+<p>2000
+</p>
+<p>2500
+</p>
+<p>3000
+</p>
+<p>3500
+</p>
+<p>4000
+</p>
+<p>0
+</p>
+<p>1
+</p>
+<p>2
+</p>
+<p>3
+</p>
+<p>4
+</p>
+<p>5
+</p>
+<p>6
+</p>
+<p>7
+</p>
+<p>8
+</p>
+<p>500 700 900 1100 1300 1500
+</p>
+<p>H
+e
+at
+ R
+e
+le
+as
+e
+ R
+at
+e
+(W
+</p>
+<p>) 
+an
+</p>
+<p>d
+ R
+ad
+</p>
+<p>io
+m
+et
+er
+ (
+x1
+0
+) 
+</p>
+<p>(m
+W
+/c
+m
+^
+2
+)
+</p>
+<p>O
+xy
+ge
+n
+ m
+</p>
+<p>as
+s 
+fl
+o
+w
+ r
+at
+e
+ (
+m
+g/
+s)
+</p>
+<p>Time (s)
+</p>
+<p>Inlet O2 Outlet O2 Heat Release Rate
+</p>
+<p>Radiometer #4 (x10) 10 per mov. avg.
+</p>
+<p> 
+Figure 4. Temperature results for Saffire VI-3 
+(two-sided PMMA). The duct flow was reduced at 
+1120 s and terminated at 1420 s so the inlet and 
+outlet traces end. The forward port sensor is the 
+nearest to the Saffire flow duct outlet. 
+</p>
+<p>‐0.1
+</p>
+<p>0
+</p>
+<p>0.1
+</p>
+<p>0.2
+</p>
+<p>0.3
+</p>
+<p>0.4
+</p>
+<p>0.5
+</p>
+<p>0.6
+</p>
+<p>0.7
+</p>
+<p>0
+</p>
+<p>10
+</p>
+<p>20
+</p>
+<p>30
+</p>
+<p>40
+</p>
+<p>50
+</p>
+<p>60
+</p>
+<p>70
+</p>
+<p>80
+</p>
+<p>90
+</p>
+<p>0 500 1000 1500 2000 2500
+</p>
+<p>Ig
+n
+it
+e
+r 
+C
+u
+rr
+e
+n
+t 
+(A
+)
+</p>
+<p>Te
+m
+p
+er
+at
+u
+re
+ (
+d
+eg
+C
+)
+</p>
+<p>Time (s)
+</p>
+<p>SFU Outlet FFD Inlet Forward‐Port Igniter Current
+</p>
+<p> 
+Figure 6. CO and CO2 concentrations for Saffire 
+VI-3 (two-sided PMMA) The duct flow terminated 
+at 1420 s so the outlet traces end. The flow was 
+changed from 20 cm/s to 5 cm/s at 1120 s. At this 
+lower flow rate, the outlet CO2 and CO levels 
+increased due to the lower ambient flow. The 
+forward port sensor is the nearest to the Saffire 
+flow duct outlet and the zenith sensor is near the 
+far field device.
+</p>
+<p>0
+</p>
+<p>500
+</p>
+<p>1000
+</p>
+<p>1500
+</p>
+<p>2000
+</p>
+<p>2500
+</p>
+<p>0
+</p>
+<p>10000
+</p>
+<p>20000
+</p>
+<p>30000
+</p>
+<p>40000
+</p>
+<p>50000
+</p>
+<p>60000
+</p>
+<p>70000
+</p>
+<p>0 500 1000 1500 2000 2500
+</p>
+<p>C
+O
+ C
+o
+n
+ce
+n
+tr
+at
+io
+n
+ (
+p
+p
+m
+)
+</p>
+<p>C
+O
+2
+ C
+o
+n
+ce
+n
+tr
+at
+io
+n
+ (
+p
+p
+m
+)
+</p>
+<p>Time (s)
+SFU Outlet CO2 FFD CO2 SFU Outlet CO FFD CO</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>6 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>IV. Conclusion 
+Practical scale fires ranging from 1.5 to 3.2 kW were tested in unmanned spacecraft with free air volumes of 17 to 
+</p>
+<p>19 cubic meters. Despite these fires, the temperature only increased significantly very near to the fire itself. However, 
+the ambient concentrations of carbon monoxide and carbon dioxide rose significantly with the PMMA tests exceeding 
+the 1-hour carbon dioxide limit and the 24-hour carbon monoxide limit. The smoke from the fire event was readily 
+detected by an ionization detector and a light scattering system but a typical alarm threshold was only achieved at 981 
+seconds. By this time most of the hazardous gas release had occurred. Collectively these results demonstrate that the 
+human hazard from a fire in a spacecraft is very similar to terrestrial fires where the heat from the fire is not the 
+principal hazard and rather the smoke and gaseous products are a much greater concern. These results are helpful for 
+defining fire response approaches for spacecraft. Further work will be needed to extend these results to the partial 
+gravity environment expected on future mission to the moon and Mars. Additional analysis and modeling of these fire 
+scenarios will be the topic of future articles. 
+</p>
+<p>Acknowledgments 
+The authors acknowledge the support of the NASA Mars Campaign Office, for the sponsorship of the Spacecraft 
+</p>
+<p>Fire Safety Demonstration Project and the Saffire experiments. In addition, the authors acknowledge the support of 
+the various space and research agencies that have supported this work including but not limited to the Japan Aerospace 
+Exploration Agency (JAXA), the European Space Agency, the Russian Space Agency, the National Centre for Space 
+Studies (CNES), the German aerospace Center (DLR), the European Union, the Russian Academy of Sciences and 
+NASA. The excellent support by the engineering team (NASA and Zin Technologies), Northrup Grumman and the 
+on-orbit crew are gratefully acknowledged. 
+</p>
+<p>References 
+1 Urban, D. L., Ferkul, P., Olson, S., Ruff, G. A., Easton, J., T'ien, J. S., Liao, Y. T., Li, C., Fernandez-Pello, C., Torero, J. L., 
+</p>
+<p>Legros, G., Eigenbrod, C., Smirnov, N., Fujita, O., Rouvreau, S., Toth, B., and Jomaas, G., “Flame spread: Effects of Microgravity 
+and Scale,” Combustion and Flame, Volume 199, 2019, pp. 168-182. 
+</p>
+<p>2 Olson, S., Urban, D. L., Ruff, G. A., Ferkul, P., Toth, B., Eigenbrod, C., Meyer, F., and Jomaas, G.,” Concurrent Flame 
+Spread Over Two-Sided Thick PMMA Slabs in Microgravity,” Fire Technol 56, 49–69 (2020). 
+</p>
+<p>3 Urban, D. L., Ruff, G. A, Ferkul, P., Easton, J., Owens, J., Olson, S., Meyer, M., Fortenberry, C., Brooker, Graf, J., Casteel, 
+M., Toth, B. Meyer, F, Eigenbrod, C., T'ien, J. S., Liao, Y. T., Li, C., Fernandez-Pello, C., Legros, G., Guibaud, A., Smirnov, N., 
+Fujita, O., Jomaas, G., Fire Safety Implications of Preliminary Results from Saffire IV and V Experiments on Large Scale 
+Spacecraft Fires,” 50th International Conference on Environmental Systems, ICES-2021-266, 12-15 July 2021 
+</p>
+<p>Table 2. Saffire IV-VI Heat release and increase of carbon oxides*. 
+  
+</p>
+<p>Oxygen 
+Consumption 
+Calorimetry 
+</p>
+<p>Fuel Consumption 
+Calorimetry 
+</p>
+<p> 
+</p>
+<p>Saffire 
+Flight/ 
+Sample 
+</p>
+<p>Material Burn 
+duration 
+</p>
+<p>(s) 
+</p>
+<p>Peak 
+Heat 
+</p>
+<p>Release 
+(W) 
+</p>
+<p>Total 
+Heat 
+</p>
+<p>Release 
+(kJ) 
+</p>
+<p>Average 
+Heat 
+</p>
+<p>Release 
+(W) 
+</p>
+<p>Total 
+Heat 
+</p>
+<p>Release 
+(kJ) 
+</p>
+<p>Max 
+Temp 
+</p>
+<p>at 
+SFU 
+outlet 
+(°C) 
+</p>
+<p>Max 
+Temp at 
+FFD or 
+nearest 
+location 
+</p>
+<p>(°C) 
+</p>
+<p>FFD 
+inlet 
+CO2 
+</p>
+<p>increase 
+(ppm) 
+</p>
+<p>CO2 partial 
+pressure 
+increase 
+(mmHg) 
+</p>
+<p>FFD 
+inlet CO 
+increase 
+(ppm) 
+</p>
+<p>IV-1 SIBAL 130 
+  
+</p>
+<p>3,150 409 45 25 1390 1.03 80 
+</p>
+<p>V-2 Cotton 
+Jersey 
+</p>
+<p>200 
+  
+</p>
+<p>2,800 560 46 23 2360 1.26 83 
+</p>
+<p>VI-2 SIBAL 112 3217 580 3,650 409 48 20 2800 1.15 120 
+</p>
+<p>VI-3 2-sided 
+PMMA 
+</p>
+<p>780 3080 1280 
+  
+</p>
+<p>77 21 8539 3.51 308 
+</p>
+<p>VI-4 1-sided 
+PMMA 
+</p>
+<p>1200 1507 830 
+  
+</p>
+<p>57 21 8117 3.37 320 
+</p>
+<p>*Empty fields were cases where the data were not available. </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>7 
+International Conference on Environmental Systems 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>4 Eigenbrod, C., Meyer, F., Jomaas, G., Urban, D. L., Ruff, G. A., Olson, S., Ferkul, P., and Toth, B., “Opposed flame spreading 
+along a structured PMMA sample in exploration atmosphere under microgravity,” 50th International Conference on Environmental 
+Systems, 12-15 July 2021, ICES-2021-218. 
+</p>
+<p>5 Fortenberry, C., Casteel, M., Graf, J., Easton, J., Niehaus, J., Meyer, M., Urban, D., Ruff, G., “Evaluation of Combustion 
+Products from Large-Scale Spacecraft Fires during the Saffire-IV and Saffire-V Experiments,” 50th International Conference on 
+Environmental Systems, 12-15 July 2021, ICES-2021-244. 
+</p>
+<p>6 Huggett, C., “Estimation of Rate of Heat Release by Means of Oxygen Consumption Measurements,” Fire and Materials, 
+vol. 14, no. 2, 1980, pp. 61-65. 
+</p>
+<p>7 Spacecraft Maximum Allowable Concentrations for Airborne Contaminants, JSC 20584, Revision A, April 2020, NASA 
+JSC, Houston TX. 
+</p>
+<p>8 Nasa Spaceflight Human-System Standard Volume 2: Human Factors, Habitability, And Environmental Health, NASA-
+STD-3001, Volume 2, Revision D, 2023-09-15 NASA JSC, Houston TX. 
+</p>
+<p>9 Urban, D., Dietrich, D., Brooker, J., Meyer, M., and Ruff, G., Fire Detection Tradeoffs as a Function of Vehicle 
+Parameters, 46th International Conference on Environmental Systems, ICES-2016-318, 10-14 July 2016, Vienna, Austria 
+ </p>
+<p></p>
+</div>
+</body></html>

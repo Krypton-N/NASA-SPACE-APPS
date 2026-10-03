@@ -1,0 +1,88 @@
+Flex Number,Test Date,Local Time,CIR ,Pressure,Oxygen,Nitrogen,Helium,Fiber,Fuel 
+1206,9-Mar-17,02:03:08 pm est,f068a03,1 atm,0.21,0.79,0,No,C12H26
+1207,9-Mar-17,03:53:26 pm est,f068a07,1 atm,0.21,0.79,0,Yes,C12H26
+1208,9-Mar-17,04:25:22 pm est,f068a08,1 atm,0.21,0.79,0,Yes,C12H26
+1209,9-Mar-17,04:49:43 pm est,f068a09,1 atm,0.21,0.79,0,Yes,C12H26
+1210,9-Mar-17,05:43:01 pm est,f068a11,1 atm,0.21,0.79,0,Yes,C12H26
+1211,21-Mar-17,10:17:45 am est,f080a01,1 atm,0.21,0.79,0,Yes,C12H26
+1213,27-Mar-17,10:37:21 am est,f086a04,1 atm,0.17,0.83,0,Yes,C12H26
+1215,27-Mar-17,11:45:48 am est ,f086a06,1 atm,0.17,0.83,0,No,C12H26
+1216,27-Mar-17,12:10:26 pm est,f086a07,1 atm,0.17,0.83,0,No,C12H26
+1217,27-Mar-17,01:02:35 pm est,f086a08,1 atm,0.17,0.83,0,No,C12H26
+1218,31-Mar-17,12:21:21 pm est,f090a03,1 atm ,0.21,0.79,0,Yes,C12H26
+1219,31-Mar-17,12:57:07 pm est,f090a04,1 atm ,0.21,0.76,0,No,C12H26
+1220,31-Mar-17,01:18 pm est,f090a05,1 atm,0.21,0.76,0,,C12H26
+1221,31-Mar-17,01:56:05 pm est,f090a06,1 atm,0.21,0.76,0,No,C12H26
+1222,31-Mar-17,02:26:52 pm est,f090a07,1 atm ,0.21,0.76,0,No,C12H26
+1223,31-Mar-17,03:55:56 pm est,f090a08,1.25 atm,0.21,0.79,0,No,C12H26
+1224,31-Mar-17,04:22:52 pm est ,f090a09,1.25 atm,0.21,0.79,0,No,C12H26
+1225,31-Mar-17,04:39:07 pm est,f090a10,1.25 atm,0.21,0.79,0,No,C12H26
+1226,31-Mar-17,04:52:01 pm est,f090a11,1.25 atm,0.21,0.79,0,Yes,C12H26
+1227,5-Apr-17,1:47:47 pm est,f095a01,2 atm,0.21,0.79,0,Yes,C12H26
+1228,5-Apr-17,02:28:02 pm est,f095a02,2 atm,0.21,0.79,0,No,C12H26
+1229,5-Apr-17,04:08:33 pm est,f095a04,2 atm,0.21,0.79,0,No,C12H26
+1285,22-Jun-17,11:05:52 am est,f173e01,1 atm ,0.17,0.83,0,Yes,[.75]/[.25] C12H26/iso-dodecane 
+1286,22-Jun-17,11:23:26 am est,f173e02,1 atm,0.17,0.83,0,Yes,[.75]/[.25] C12H26/iso-dodecane 
+1287,22-Jun-17,11:42:32 am est,f173e03,1 atm,0.17,0.83,0,No,[.75]/[.25] C12H26/iso-dodecane 
+1288,22-Jun-17,12:36:48 pm est,f173e05,1 atm,0.17,0.83,0,No,[.75]/[.25] C12H26/iso-dodecane 
+1289,22-Jun-17,12:47:53 pm est,f173e06,1 atm ,0.17,0.83,0,Yes,[.75]/[.25] C12H26/iso-dodecane 
+1295,28-Jun-17,09:24:35 am est,f179e01,1 atm,0.21,0.79,0,Yes,[.75]/[.25] C12H26/iso-dodecane 
+1296,28-Jun-17,9:43:08 am est,f179e02,1 atm,0.21,0.79,0,Yes,[.75]/[.25] C12H26/iso-dodecane 
+1297,28-Jun-17,11:51:50 am est,f179e05,1 atm,0.21,0.79,0,No,[.75]/[.25] C12H26/iso-dodecane 
+1290,26-Jun-17,09:24:29 am est ,f177d01,1 atm ,0.17,0.83,0,Yes,[.75]/[.25] C12H26/iso-dodecane 
+1291,26-Jun-17,09:48:40 am est,f177d02,1 atm,0.17,0.83,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1292,26-Jun-17,10:28:20 am est ,f177d03,1 atm,0.17,0.83,0,No,[.60]/[.40] C12H26/iso-dodecane 
+1293,26-Jun-17,10:43:35 am est ,f177d04,1 atm ,0.17,0.83,0,No,[.60]/[.40] C12H26/iso-dodecane 
+1294,26-Jun-17,11:12:25 am est,f177d05,1 atm,0.17,0.83,0,No,[.60]/[.40] C12H26/iso-dodecane 
+1300,29-Jun-17,10:42:16 pm est,f180d01,1 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1301,29-Jul-17,11:06:59 am est,f180d02,1 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1310,5-Jul-17,09:30:30 am est,f186d01,1.25 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1311,5-Jul-17,09:44:25 am est,f186d02,1.25 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1312,5-Jul-17,10:35:41 am est,f186d04,1.25 atm,0.21,0.79,0,No,[.60]/[.40] C12H26/iso-dodecane 
+1313,5-Jul-17,11:05:35 am est,f186d05,1.25 atm,0.21,0.79,0,,[.60]/[.40] C12H26/iso-dodecane 
+1314,5-Jul-17,11:27:49 am est,f186d06,1.25 atm,0.21,0.79,0,No,[.60]/[.40] C12H26/iso-dodecane 
+1320,10-Jul-17,9:44:19 am est,f191d02,2 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1321,10-Jul-17,10:33:53 am est,f191d03,2 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1322,10-Jul-17,11:02:40 am est,f191d04,2 atm,0.21,0.79,0,No,[.60]/[.40] C12H26/iso-dodecane 
+1323,10-Jul-17,11:16:11 am est,f191d05,2 atm,0.21,0.79,0,No,[.60]/[.40] C12H26/iso-dodecane 
+1328,14-Jul-17,10:23:39 am est,f195d01,3 atm,0.17,0.83,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1329,14-Jul-17,10:51:22 am est,f195d02,3 atm ,0.17,0.83,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1330,14-Jul-17,12:53:00 pm est,f195d07,3 atm,0.17,0.83,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1331,14-Jul-17,01:41:52 pm est,f195d10,3 atm,0.17,0.83,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1332,14-Jul-17,02:22:xx pm est,f195d11,3 atm ,0.17,0.83,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1335,19-Jul-17,09:35:03 am est ,f200d01,3 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1336,19-Jul-17,11:14:07 am est,f200d03,3 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1337,19-Jul-17,11:37:54 am est,f200d04,3 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1338,19-Jul-17,12:07:00 am est,f200d05,3 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1340,21-Jul-17,10:22:42 am est,f202e02,5 atm ,0.21,0.79,0,Yes,[.75]/[.25] C12H26/iso-dodecane 
+1341,24-Jul-17,10:13:27 am est,f205d01,5 atm ,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1342,24-Jul-17,11:10:04 am est,f205d02,5 atm ,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1346,27-Jul-17,10:13:41 am est,f208d01,0.75 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1347,27-Jul-17,11:04:48 am est,f208d02,0.75 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1348,27-Jul-17,11:41:29 am est,f208d03,0.75 atm,0.21,0.79,0,No,[.60]/[.40] C12H26/iso-dodecane 
+1349,27-Jul-17,12:02:11 am est,f208d04,0.75 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1356,1-Aug-17,09:34:26 am est,f213d02,0.5 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1357,1-Aug-17,10:07:16 am est,f213d03,0.5 atm,0.21,0.79,0,No,[.60]/[.40] C12H26/iso-dodecane 
+1358,1-Aug-17,11:04:35 am est,f213d04,0.5 atm,0.21,0.79,0,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1362,9-Aug-17,11:27:27 am est,f221e06,1 atm,0.21,0.5,0.29,,[.75]/[.25] C12H26/iso-dodecane 
+1363,10-Aug-17,11:04:53 am est,f222d01,1 atm,0.21,0.5,0.29,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1364,10-Aug-17,11:21:53 am est,f222d02,1 atm,0.21,0.5,0.29,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1365,10-Aug-17,11:58:01 am est,f222d03,1 atm,0.21,0.5,0.29,No,[.60]/[.40] C12H26/iso-dodecane 
+1366,10-Aug-17,12:40:21 pm est,f222d04,1 atm,0.21,0.5,0.29,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1367,14-Aug-17,10:48:38 am est,f226e01,3 atm ,0.21,0.5,0.29,,[.75]/[.25] C12H26/iso-dodecane 
+1368,14-Aug-17,11:12:23 am est,f226e02,3 atm,0.21,0.5,0.29,,[.75]/[.25] C12H26/iso-dodecane 
+1369,14-Aug-17,11:48:32 am est,f226e03,3 atm,0.21,0.5,0.29,,[.75]/[.25] C12H26/iso-dodecane 
+1373,16-Aug-17,01:56:42 pm est,f228e01,3 atm,0.21,0.2,0.59,,[.75]/[.25] C12H26/iso-dodecane 
+1374,16-Aug-17,02:32:45 pm est,f228e02,3 atm ,0.21,0.2,0.59,,[.75]/[.25] C12H26/iso-dodecane 
+1383,21-Aug-17,11:16:35 am est,f233d01,1 atm,0.21,0.2,0.59,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1384,21-Aug-17,11:31:44 am est,f233d02,1 atm,0.21,0.2,0.59,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1386,21-Aug-17,12:24:13 am est,f233d04,1 atm,0.21,0.2,0.59,Yes,[.60]/[.40] C12H26/iso-dodecane 
+1387,21-Aug-17,12:48:15 pm est,f233d05,1 atm,0.21,0.2,0.59,,[.60]/[.40] C12H26/iso-dodecane 
+1285,22-Jun-17,11:05:52 am est,f173e01,1 atm ,0.17,0.83,0,Yes,[.75]/[.25] C12H26/iso-dodecane 
+1286,22-Jun-17,11:23:26 am est,f173e02,1 atm,0.17,0.83,0,Yes,[.75]/[.25] C12H26/iso-dodecane 
+1287,22-Jun-17,11:42:32 am est,f173e03,1 atm,0.17,0.83,0,No,[.75]/[.25] C12H26/iso-dodecane 
+1288,22-Jun-17,12:36:48 pm est,f173e05,1 atm,0.17,0.83,0,No,[.75]/[.25] C12H26/iso-dodecane 
+1289,22-Jun-17,12:47:53 pm est,f173e06,1 atm ,0.17,0.83,0,Yes,[.75]/[.25] C12H26/iso-dodecane 
+1295,28-Jun-17,09:24:35 am est,f179e01,1 atm,0.21,0.79,0,Yes,[.75]/[.25] C12H26/iso-dodecane 
+1296,28-Jun-17,9:43:08 am est,f179e02,1 atm,0.21,0.79,0,Yes,[.75]/[.25] C12H26/iso-dodecane 
+1297,28-Jun-17,11:51:50 am est,f179e05,1 atm,0.21,0.79,0,No,[.75]/[.25] C12H26/iso-dodecane 

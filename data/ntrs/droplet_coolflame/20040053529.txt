@@ -1,0 +1,274 @@
+COMBUSTION OF INTERACTING DROPLET ARRAYS IN
+MICROGRAVITY
+D.L. Dietrich, P.M. Struk
+NASA John H. Glenn Research Center
+M. Ikegami and G. Xu
+National Institute for Advanced Industrial Science and Technology
+Introduction
+Theory and experiments involving single droplet combustion date back to 1953[1], with the ﬁrst
+microgravity work appearing in 1956[2]. The problem of a spherical droplet burning in an inﬁnite,
+quiescent microgravity environment is a classical problem in combustion research with the classical
+solution appearing in nearly every textbook on combustion. The microgravity environment oﬀered
+by ground-based facilities such as drop towers and space-based facilities is ideal for studying the
+problem experimentally. A recent review by Choi and Dryer [3] shows signiﬁcant advances in
+droplet combustion have been made by studying the problem experimentally in microgravity and
+comparing the results to one dimensional theoretical and numerical treatments of the problem.
+Studying small numbers of interacting droplets in a well-controlled geometry represents a logical
+step in extending single droplet investigations to more practical spray conﬁgurations. Studies
+of droplet interactions date back to Rex and co-workers [4], and were recently summarized by
+Annamalai and Ryan [5]. All previous studies determined the change in the burning rate constant,
+k, or the ﬂame characteristics as a result of interactions. There exists almost no information on
+how droplet interactions aﬀect extinction limits, and if the extinction limits change if the array is
+in the diﬀusive[6] or the radiative[7] extinction regime.
+Thus, this study examined experimentally the eﬀect that droplet interactions have on the extinction process by investigating the simplest array conﬁguration, a binary droplet array. The
+studies were both in normal gravity, reduced pressure ambients and microgravity facilities. The
+microgravity facilities were the 2.2 and 5.2 second drop towers at the NASA Glenn Research Center
+and the 10 second drop tower at the Japan Microgravity Center. The experimental apparatus [8]
+and the data analysis techniques [9] are discussed in detail elsewhere.
+Experimental Results
+Extensive testing in normal gravity showed that interaction eﬀects have a stronger inﬂuence on the
+extinction behavior of a binary array than the quasi-steady burning behavior. In normal gravity,
+k is only a very weak function of the inter-droplet spacing at initial non-dimensional separation
+distances (L/D) greater than 5. The extinction droplet diameter, Dext , however, is much smaller (if
+it existed) for the droplet array at an instantaneous L/D of approximately 20. These low pressure,
+normal gravity environment minimized, but did not altogether eliminate, the eﬀects of buoyancy.
+Initial drop tower tests [10] showed that the reduced pressure, air ambients that yield a ﬁnite extinction droplet diameter in normal gravity do not produce a ﬁnite extinction droplet diameter
+in microgravity. In fact, at pressures down to the ignitable limit, the droplets burned to completion. Thus in order to observe extinction at ﬁnite droplet sizes, we performed the microgravity
+experiments in reduced oxygen mole fraction, reduced pressure ambients.
+The ﬂame did extinguish at a ﬁnite droplet diameter at an ambient oxygen mole fraction of
+0.15 (depending on the pressure). Figure 1a shows the burning behavior for a single droplet and a
+binary array (L ≈ 3mm) in a 0.15 oxygen mole fraction, 190mmHg ambient in microgravity. This
+oxygen mole fraction ambient condition was not ﬂammable in normal gravity at ambient pressures
+up to 760mmHg. The burning behavior is non-linear, with k increasing throughout the ﬂame
+
+NASA/CP—2003-212376/REV1
+
+1
+
+lifetime. Finally, this ﬁgure shows that the ﬂame size initially grew with time, reached a plateau,
+then decreased with time until extinction. The ﬂame standoﬀ ratio, however, increased nearly
+linearly with time throughout the burn.
+25
+
+2
+
+( D / D0 )
+
+20
+
+0.6
+
+1.0
+
+(b)
+
+15
+
+0.8
+
+24
+22
+20
+
+0.6
+
+Df ( mm )
+
+0.8
+
+2
+
+(a)
+
+( D / D0 )
+
+1.0
+
+18
+0.4
+
+10
+5
+
+0.0
+
+Df ( mm )
+
+0.2
+
+0.4
+
+0
+0.0
+
+0.5
+1.0
+1.5
+2
+2
+t / Do ( s / mm )
+
+16
+Single / Binary
+2
+( D / D0 )
+Df
+
+0.2
+0.0
+
+12
+10
+
+0.0
+
+2.0
+
+14
+
+0.2 2
+0.4 2 0.6
+t / D0 ( s / mm )
+
+Figure 1: Droplet and ﬂame histories as a function of time for a single droplet and a binary droplet
+array (L ≈ 4mm) in (a) 0.15 oxygen mole fraction, 380mmHg, nitrogen ambient; (b) 0.25 oxygen
+mole fraction, 190mmHg, helium ambient in microgravity.
+In the 0.15 mole fraction ambient and all pressures (90 → 760mmHg), the ﬂame surrounding
+the binary array extinguished at a ﬁnite droplet diameter. Figure 1a shows that while the single
+droplet burned to completion, the ﬂame surrounding the array extinguished approximately one
+second after the igniter withdrew. The Dext was approximately 1.1mm for both droplets of the
+array. Further, the ﬂame size was nearly 50 percent larger than the ﬂame surrounding the single
+droplet and the ﬂame was much dimmer. In the binary array test, the ﬂame size increased, reached
+a maximum, and extinguished. The above trends were consistent over a range of inter-droplet
+spacings and ambient pressures. In the 0.15 oxygen mole fraction ambient, the ﬂame surrounding
+the binary array always extinguished at a ﬁnite droplet size that was larger than the single droplet
+extinction diameter.
+The results cited above display an opposite trend to the normal gravity test results. That is,
+interactions diminished ﬂammability in the microgravity tests, whereas in the normal gravity tests,
+interactions enhanced ﬂammability. The large, weak ﬂames in the microgravity tests were probably
+more inﬂuenced by radiative losses (spectral, due to the lack of soot) from the ﬂame zone than the
+normal gravity tests.
+Recent droplet combustion experiments on the Space Shuttle[11] showed that droplets burning
+in helium-oxygen ambients exhibited large burning rates, smaller ﬂame standoﬀ ratios and ﬁnitesized extinction droplet diameters. The experiments further demonstrated both modes, diﬀusive
+and radiative, of ﬂame extinction. Figure 1b shows the burning history of a single droplet and a
+binary array in a 190mmHg, 0.25 oxygen mole fraction (balance helium) ambient in microgravity.
+The droplet histories were more linear and was much higher for the helium diluted experiments
+than those in the nitrogen diluted experiments (Fig. 1a). Also, the ﬂames were much brighter in the
+helium-diluted ambients and the ﬂame sizes and standoﬀ distances in the helium-diluted ambients
+
+NASA/CP—2003-212376/REV1
+
+2
+
+were approximately 50 percent smaller. The ﬂame surrounding the single droplet extinguishes
+quickly after ignition. The ﬂame surrounding the binary array, however, burns much longer, with
+Dext ≈ 1.1mm. This extinction trend is opposite to that displayed in nitrogen-diluted experiments,
+but in agreement with the normal gravity experiments. The k for the binary array (0.75 mm2 /s)
+was smaller than k for the single droplet (0.90 mm2 /s), although there is only a short time period
+in the single droplet experiment to calculate k. The ﬂame height for the binary array was larger
+than the ﬂame height for the single droplet. Further tests showed that the ﬂames surrounding the
+binary droplet array at L ≈ 8, 12 mm (merged ﬂames existed for both spacings) both extinguished
+at droplet diameters smaller than the single droplet. The extinction behavior at L ≈ 24mm,
+however, was nearly identical to that of a single droplet.
+The observed diﬀerence between the two ambients is attributed to the importance of radiative
+loss. The nitrogen/oxygen tests had larger, weaker ﬂames, and smaller burning rates and consequently were aﬀected more signiﬁcantly by radiative loss from the ﬂame zone compared to the
+helium/oxygen tests.
+Numerical Modeling
+The numerical model of the single droplet (numerical modeling of the binary array is in progress)
+is based on the model of the candle ﬂame [12]. The model is one-dimensional and transient in both
+the liquid and gas phase. The gas-phase model assumes: one-step, second-order overall Arrhenius
+reaction, constant speciﬁc heats and thermal conductivity, constant Lewis number for each species
+(although diﬀerent species can have diﬀerent, constant Lewis numbers), ideal gas behavior, and no
+buoyant force. Flame radiative losses from carbon dioxide and water vapor are accounted for by
+a gray gas treatment. Dietrich and co-workers [13] provide complete details about the numerical
+model, solution procedure and a more complete listing of the results.
+Figure 2 shows a comparison of an experiment in a 120mmHg, 0.15 oxygen mole fraction
+ambient with the predictions of the numerical model. The Dext are 0.76mm and 0.69mm for the
+experiment and model, respectively. The agreement between the model and experiment is very
+good. The predicted ﬂame diameter and temporal behavior of the ﬂame size are very close to the
+experiment. The only exception is near the end of the test when the model predicts that the ﬂame
+size and standoﬀ decrease until extinction, whereas the experiment shows that the ﬂame standoﬀ
+increases continuously until extinction.
+The numerical model correctly predicts many of the observed experimental trends. Furthermore, quantitative agreement is good for the temporal behavior of both the droplet and ﬂame. This
+agreement requires suitable values for the average gas-phase thermo-physical and chemical kinetic
+properties. The fact that the droplet history agrees is not surprising, since even the simplest formulation will produce good estimates of the burning rate constant as long as reasonable properties
+are used in the formulation. Simpliﬁed models, however, do not predict accurate ﬂame sizes, and
+the current model provides reasonable agreement for ﬂame size as a function of time. The model
+does not predict the experimentally observed pressure dependence of extinction. This is due to
+the simpliﬁed kinetics scheme, although it may be possible to change the pressure dependence of
+the single step scheme to get better agreement. One surprising result of the model was the sensitivity of the extinction conditions to the ignition parameters. The igniter location, energy and
+duration must closely match the experimental values such that the model accurately predicts both
+the pre-ignition vaporization behavior and ignition time (ﬁrst appearance of a ﬂame).
+
+NASA/CP—2003-212376/REV1
+
+3
+
+20
+
+( D / D0 )
+
+15
+
+0.8
+0.6
+
+10
+
+0.4
+5
+
+Df (mm) , Df / D
+
+2
+
+1.0
+( D / D0 )
+
+2
+
+Df
+
+Df /D
+Experiment
+Model
+
+0.2
+0.0
+
+0
+0.0
+
+0.5
+1.0
+1.5
+2
+2
+t / D0 ( s / mm )
+
+Figure 2: Experiment and numerical model comparison for a single (D0 ≈ 1.8mm) droplet burning
+in a 0.15 oxygen mole fraction, 120mmHg, nitrogen-diluted ambient in microgravity.
+
+References
+[1] G.A.E. Godsave Proc. Comb. Inst. 4:818-830 (1952).
+[2] S. Kumagai and H. Isoda Proc. Comb. Inst. 6:726-731 (1956).
+[3] M.Y. Choi and F.L. Dryer Microgravity Combustion, Fires in Free Fall, Ch. 4, Academic Press,
+New York (2001).
+[4] J.F. Rex, A.E. Fuhs and S.S. Penner, Jet Propulsion 26: 179 (1956).
+[5] K. Annamalai and W. Ryan, Prog. Energy Combust. Sci. 18: 221 (1992).
+[6] C.K. Law Combust. Flame 24: 89 (1975).
+[7] B.H. Chao, C.K. Law and J.S. Tien Proc. Comb. Inst. 23: 523 (1990).
+[8] P.M. Struk, D.L. Dietrich, M. Ikegami and G. Xu, Proc. Comb. Inst. 29: to appear (2002).
+[9] P.M. Struk, M. Ackerman, V. Nayagam and D.L. Dietrich, Microgravity Sci. Tech. XI/4: 144
+(1998).
+[10] J. Easton, Large Diameter Radiative Extinction Experiments with Decane Droplets in Microgravity, MS Thesis, Case Western Reserve University (1998).
+[11] V. Nayagam, J.B. Haggard, R. Colantonio, A.J. Marchese, B.L. Zhang and F.L. Dryer and
+F.A. Williams AIAA J. textbf26: 1369 (1998).
+[12] D.L. Dietrich, H.D. Ross, Y. Shu, P. Chang and J.S. T’ien, Combust. Sci. Tech. 156:1 (2000).
+[13] D.L. Dietrich, P.M. Struk, M. Ikegami and G. Xu, Proceedings of the Third Joint Meeting of
+the US Sections of the Combustion Institute, March 16-19, Chicago, Illinois (2003).
+
+NASA/CP—2003-212376/REV1
+
+4
+

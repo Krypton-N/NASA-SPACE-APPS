@@ -1,0 +1,1113 @@
+Buoyancy Effects on Concurrent Flame Spread Over Thick PMMA
+Maria Thomsena,∗, Carlos Fernandez-Pelloa, Gary A. Ruffb and David L. Urbanb
+aDepartment of Mechanical Engineering, University of California - Berkeley, Berkeley,
+CA, 94720, USA
+bNASA Glenn Research Center, 21000 Brookpark Rd., Cleveland, OH, 44135, USA
+
+*
+
+Corresponding Author (maria.thomsen@berkeley.edu; +1 (510) 701-8170)
+
+Abstract
+The flammability of combustible materials in a spacecraft is important for fire safety applications
+because the conditions in spacecraft environments differ from those on earth. Experimental testing in
+space is difficult and expensive. However, reducing buoyancy by decreasing ambient pressure is a
+possible approach to simulate on-earth the burning behavior inside spacecraft environments. The
+objective of this work is to determine that possibility by studying the effect of pressure on concurrent
+flame spread, and by comparison with microgravity data, observe up to what point low-pressure can
+be used to replicate flame spread characteristics observed in microgravity. Specifically, this work
+studies the effect of pressure and microgravity on upward/concurrent flame spread over 10 mm thick
+polymethyl methacrylate (PMMA) slabs. Experiments in normal gravity were conducted over
+pressures ranging between 100 and 40 kPa and a forced flow velocity of 200 mm/s. Microgravity
+experiments were conducted during NASA’s Spacecraft Fire Experiment (Saffire II), on board the
+Cygnus spacecraft at 100 kPa with an air flow velocity of 200 mm/s. Results show that reductions of
+pressure slow down the flame spread over the PMMA surface approaching that in microgravity. The
+data is correlated in terms of a non-dimensional mixed convection analysis that describes the
+convective heat transferred from the flame to the solid, and the primary mechanism controlling the
+spread of the flame. The extrapolation of the correlation to low pressures predicts well the flame
+spread rate obtained in microgravity in the Saffire II experiments. Similar results were obtained by
+the authors with similar experiments with a thin composite cotton/fiberglass fabric (published
+elsewhere). Both results suggest that reduced pressure can be used to approximately replicate flame
+behavior of untested gravity conditions for the burning of thick and thin solids. This work could
+provide guidance for potential ground-based testing for fire safety design in spacecraft and space
+habitats.
+Keywords: Flame spread rate, low pressure, environmental conditions, microgravity, PMMA
+
+1
+
+1. Introduction
+Concurrent, or flow assisted, flame spread is particularly relevant in fire safety because it is generally
+fast and consequently hazardous. It is for this reason that some material flammability tests use this
+mode of flame spread to characterize the fire hazard of combustible materials. For example, NASA
+relies on an upward flame spread test [1] to screen materials to be used in spacecraft cabins. A problem
+with fire testing of spacecraft materials in normal gravity is that spacecraft fire conditions are very
+different from those encountered on earth, particularly at the space exploration atmospheres (SEA) that
+NASA is planning in using in future spacecraft. They include microgravity, low velocity flows, and
+potentially low pressure (~60 kPa) and elevated oxygen concentration (~34%) [2]. The SEA
+atmospheric conditions are designed to reduce preparation time for space walks, while keeping the
+partial pressure of oxygen acceptable for human respiration [2,3]. However, because of flame-induced
+buoyancy it is very difficult to reproduce on earth the environmental conditions of a spacecraft,
+particularly the low velocity flows. The spacecraft ventilation system induces flows with velocities that
+are of the order 100 mm/s to 200 mm/s, while the buoyant flow induced by a propagating flame have
+velocities of the order of 300 mm/s to 600 mm/s. Thus, fire testing of materials to be used in spacecraft
+requires either a reduced gravity facility, or alternative approaches to reduce buoyancy. Ground-based
+microgravity facilities such as drop towers or parabolic flights are limited to a few second duration.
+Testing in a space-based facility is very expensive and very limited in available space and
+opportunities. There are microgravity studies that have been focused on opposed [4–7], quiescent [8–
+10], and concurrent [7,11,12] flame spread over a solid material, although concurrent flame spread
+tests are more limited because of size and safety restrictions. Despite these works, there is still a lack
+of information regarding flame spread behavior in spacecraft environments. To address this concern,
+NASA has embarked on a research project, the Spacecraft Fire Experiment (Saffire) [13], to carry out
+large-scale fire tests, or multiple small flame spread tests of varied materials in an un-manned
+spacecraft, the Cygnus spacecraft by Orbital ATK. The spacecraft is an autonomous cargo supply to
+the International Space Station, ISS. The tests are conducted after the Cygnus leaves the ISS and before
+it de-orbits. To date three Saffire tests have been conducted [13–15], Saffire I and III were large scale
+tests with a thin cotton/fiberglass fabric, (Sibal) and Saffire II were nine small scale tests with different
+materials. The authors have been conducting normal gravity, variable pressure, tests in support of the
+Saffire II tests. One series of tests were performed with a Sibal fabric (Saffire II sample 5, 6) [16] and
+another with a Nomex fabric (Saffire II sample 7) [17]. The current tests are with a 10 mm thick PMMA
+slab in support of the Saffire II sample 9 test [15]. Given the cost and limitations of conducting
+experiments in a spacecraft such as the Cygnus, it is relevant to study the possibility of simulating
+reduced buoyancy experiments in earth, not only to reduce the cost of testing but also to verify the
+spacecraft tests and for model verification. A possible approach to test flame spread at different
+buoyancy levels is to vary the orientation of the solid surface where the flame spreads [18–27]. Two
+primary approaches have been followed, one is to change the angle of inclination of the solid surface
+[18–24] or to conduct the experiments in a ceiling configuration [25–27]. However, there are several
+problems with changing the surface orientation to reduce the effect of gravity; one is that the thickness
+of the boundary layer is changed and consequently the heat flux from the flame to the surface is also
+changed, ultimately affecting the flame spread rate. Another is the stratification of the hot pyrolyzate
+near the solid surface in a ceiling orientation or away from the surface in a floor orientation that changes
+2
+
+the transport of the pyrolyzate and air [19,27]. Thus, a more promising approach is to use reduce
+pressure, and consequently density, to reduce gravity effects.
+Several studies have taken advantage of the changes in buoyancy resulting from reducing pressure to
+simulate solid burning (ignition, opposed flame spread, extinction) encountered in microgravity [28–
+33]. In concurrent flame spread, the spread of the flame is strongly dependent on the heat flux to the
+solid fuel surface, which in turn depends on the flame length and its stand-off distance. Since the gas
+density changes with ambient pressure, the thickness of the boundary layer, and consequently the
+position of the flame respect to the solid surface, also change with pressure [20,34] (Fig. 1). As the
+pressure is reduced, the boundary layer thickens, the flame stand-off increases, and the heat transferred
+from the flame to the solid surface decreases. Consequently, the flame spread rate is reduced, both
+because of the reduced heat flux from the flame to the solid surface and because of a reduction in the
+flame length [35]. Thus, reducing the ambient pressure has a similar effect on the spread of the flame
+as to that of reducing the flow velocity [26]. This is relevant because the primary constraint to
+reproducing flame spread in spacecraft environments in normal gravity is that the low flow velocities
+encountered in spacecraft (~100 to 200 mm/s) cannot be attained in normal gravity because the buoyant
+flow (~300 to 600 mm/s) induced by the flame overwhelms the forced flow. Thus, reducing ambient
+pressure is a potential approach to simulate concurrent flame spread in reduced gravity, low velocity
+flows.
+
+Figure 1: Schematic diagram of concurrent flame spread over a thick sample.
+
+In this study, the concurrent flame spread over a thick PMMA sheet was investigated under normal
+gravity, mixed (forced and free (natural convection)) flow, and varied reduced ambient pressure
+environments. The PMMA sheet was selected to compare the results with microgravity tests,
+particularly those of sample 9 of the Saffire II experiments [15]. The study follows the same
+experimental approach and data analysis as that of the tests conducted with thin fabrics in [16,17],
+although for a thick material. Thus, there is some duplicity of information in those publications and the
+present one. However, the publications [16] and [17] had length limitations, but in this paper some of
+3
+
+the information is given in more detail.
+2. Experiments
+2.1.
+
+Normal gravity
+
+The normal gravity experiments were conducted in an apparatus previously developed to study the
+flammability of solid combustible materials under varied ambient conditions [29]. The apparatus is
+basically the same as that used in the studies of Refs. [16,17], although modified to accept thick
+PMMA, samples. It consists of a laboratory scale combustion tunnel in a pressure chamber (Fig. 2).
+The tunnel has a 125 mm by 125 mm square cross section and a 600 mm total length. The first 350
+mm section of the duct serves as a flow straightener, the other 250 mm segment of the duct is used as
+the test section. The side walls of the test section normal to the plane of the samples are made of clear
+polycarbonate with low profile pins protruding slightly (∼2-3 mm) into the duct to constrain the
+samples and keep them straight. The walls parallel to the sample are 0.56 mm thick alkalialuminosilicate glass to improve the image from video. A polymethyl methacrylate (PMMA) slab is
+placed vertically at the midplane of the test section with both sides exposed to the flow but only one
+side burning. Ignition of the PMMA slab is induced with a 29-gage Kanthal wire, that is threaded along
+the upstream edge of the sample through 14 equally spaced holes on a tapered end of the sample about
+5 mm long (Fig.3). The igniter is energized using a constant current power supply (BK Precision 1785)
+set to 68 W, the time required to assure ignition changed depending on the ambient pressure tested but
+was between 10 to 50 seconds. Lower pressures required longer time to ignite the PMMA.
+
+Figure 2: (a) Schematic of experimental apparatus and (b) photograph of the pressure chamber.
+
+Compressed house air is supplied through critical nozzles (O’Keefe Controls) while constantly
+evacuating the pressure chamber to maintain constant its pressure. The chamber pressure is controlled
+by a high-capacity vacuum generator (Vaccon JS-300) and a mechanical vacuum regulator. After
+metering the flow, the supply line passed through a bulkhead in the pressure chamber and delivers the
+4
+
+gas directly to the inlet of the test duct located in the bottom part of the duct. This process ensures
+that flow through the duct is continually fresh and maintained at a constant mass flow rate. The chamber
+pressure is monitored constantly with an electronic pressure transducer (Omega Engineering, Inc.
+PX303-015A5V).
+The present tests were conducted in air under pressures of 100, 80, 60, and 40 ± 2 kPa and a fixed
+forced flow velocity of 200 mm/s. The experimental apparatus limited the lowest testing pressure to
+around 40 kPa. The direction of the flow was upward so that the spread of the flame was in the
+concurrent configuration in a mixed (forced and free) convective flow. Once the sample was in
+position, the chamber was sealed and adjusted to the desired conditions. Two 9000 lumen LEDs were
+installed with a strobe circuit to visualize the progress of the pyrolysis region by overpowering the
+flame luminosity. During each experiment, the ignition and subsequent flame spread and flame
+appearance were video recorded with two cameras with a resolution of 1920 by 1080 at 60 frames per
+second. A Sony RX10-III camera was used to track the pyrolysis front, and a Nikon D3200 camera
+was used to record videos of visible flame length. For each test condition, between three and five
+replicate experiments were conducted to address the experimental uncertainty.
+The fuel samples were cast PMMA from McMaster-Carr and were selected to match one of the materials
+tested in the Saffire II microgravity experiment [15]. The PMMA slabs were 150 mm long by 50 mm
+wide, with a thickness of 10 mm (Fig. 3). The sample length was shorter than in the microgravity tests
+because it was the maximum length that could be fitted in the experimental apparatus. The sample had
+one small groove on each side that was used to slide it into a stainless-steel frame to hold it in position
+during the test. The holder had sidewalls 25 mm wide to prevent air entrainment from the sides to the
+burning sample.
+
+Figure 3: Flow duct and PMMA samples used in the normal gravity tests.
+
+2.2.
+
+Micro-gravity
+
+The microgravity experiments were conducted in the Orbital ATK Cygnus spacecraft (Saffire II) [15].
+5
+
+The full details of the Saffire experimental set-up can be found in Refs. [13–15], thus only a brief
+description is given here. The hardware, shown in Fig. 4c, is a rectangular flow duct measuring
+460 mm x 510 mm in cross section with fans at one end to induce a flow of air through the flow
+duct. The samples to be tested are placed in a holder located in the middle of the flow duct so that
+air flows in both sides of the sample. In Saffire II, nine separate fuel samples (measuring 290 mm
+long by 50 mm wide) were used (Fig. 4a), and one of them (sample 9) was a PMMA slab 10 mm
+thick, which is the one that provided the data used in the present work. To study concurrent flame
+spread, a resistively-heated 29-gage Kanthal-wire (0.286 mm) was threaded through 18 closelyspaced holes on the tapered upstream end of the sample across the 50-mm width. The hot-wire
+igniter was powered for 30 s (3.85 A, 97 W) which was larger than that used in normal gravity to
+assure ignition of the thick fuel.
+
+Figure 4: The different samples (a) used during Saffire II were mounted in the flow duct (b). The flow duct was carried by Cygnus
+spacecraft ((c) and (d)). During the test, several samples of varied materials were ignited. The arrow over the sample holder shows the
+direction of the air flow.
+
+Two cameras were used to record images of the burning samples at 30 fps. The flow duct was
+dark to improve flame imaging. However, the fuel samples were periodically (for 0.4 s every 2 s)
+illuminated with green LED light so that the pyrolysis front could be seen as the material burned.
+Four radiometers measured front and back radiation coming from the flame and fuel. Six
+thermocouples were arrayed to provide temperature measurements at key locations on and near
+the fuel and throughout the flow duct. Oxygen concentration, carbon dioxide, and pressure were
+also recorded just upstream of the fuel in the flow duct. In addition to the Saffire instrumentation,
+the vehicle provided smoke detector data.
+The PMMA sample was burned in air with a 200 mm/s flow and atmospheric pressure. The
+concurrent flame spread rate was obtained by processing the dark images of the flame progress.
+The flame location was approximately determined from images as the location where the pixel
+intensity dropped drastically past a threshold value. The location of the flame was tracked over
+time to extract the flame spread rate. The initial ignition period was not considered in the
+determination of the spread rate.
+6
+
+3. Results
+The normal gravity concurrent flame spread over thick PMMA was investigated under different
+ambient pressures. The primary data collected were pyrolysis front and flame tip positions, and through
+them, the concurrent flame spread rate was extracted. Figure 5 shows representative frames from videos
+of the flame spreading over the PMMA in normal gravity at normal pressure and at 40 kPa. Photograph
+5a displays the burning samples with the strobe light off and shows the visible flame used to determine
+the flame tip. The location of the flame tip was approximately determined from dark frames with the
+visible flame when the pixel intensity dropped past a threshold of 75% compared to the intensity of
+flame pixels. Photograph 5b shows the burning sample with the strobe light on and shows the pyrolysis
+front. Here, the position of the pyrolysis front was defined as the point where the PMMA is first visibly
+pyrolyzing (bubbling). During the tests, after ignition is achieved, the flame spreads along the surface
+of the sample until it reaches its end. The pyrolysis front had an inverted "U" shape in all the tests. The
+flame tip also had a flickering flatter inverted "U" shape. The flame flickering appears to decrease as
+the pressure is decreased. This agrees with previous studies of flame flickering in buoyant pool fires
+[36–38]. Usually, after ignition of the sample, an initial period of laminar flame spread was observed,
+followed by the flame transitioning to a turbulent flame [39,40]. During the tests significant soot
+streamed out of the tip of the flame and deposited along the length of the material. Vapor jetting of
+bubbles of PMMA bursting at the surface caused distortions in the flame that got worse as the test
+progressed [41].
+
+Figure 5: Front view of two representative frames at 100 and 40 kPa with (a) the light off showing the flame tip, and with (b) the
+strobe light on showing the pyrolysis front. All frames are taken 100 s after ignition.
+
+Figure 6a shows the progress of the pyrolysis front along the sample surface for the pressures tested in
+normal gravity. Three to five tests were conducted for each experimental condition. The shaded areas
+represent the scatter in the measurements between the different tests. It was not possible to track
+pyrolysis front from the Saffire II images because the flame covered the pyrolysis region and its
+luminosity prevented its visualization. The data from Fig. 6a is used to obtain the dependence of
+7
+
+the pyrolysis length on pressure at different times as shown in Fig. 6b. It is seen that within the
+length of the sample, time dependence of the pyrolysis front is fairly linear for all pressures tested
+indicating an approximately constant flame spread rate. The progress of the flame tip along the
+sample surface for the different pressures tested is shown in Fig. 7. For comparison purposes, the
+flame tip progress during the Saffire II test is also included in the figure. It is difficult to determine
+the location of the flame tip because the flame fluctuates, consequently the data is only
+approximate, although it agrees with the flame tip data reported by Olson, et al. [42]. In the initial
+10 to 20 seconds the flame length is affected by the igniter, but after the igniter is turned off the
+time dependence of the flame tip is also approximately linear, until close to the end of the sample
+where end effects affect the spread of the flame. Above the end of the sample (150 mm) the flame
+is a plume flame rather than a wall flame; thus, its length would be somewhat different than with
+a longer sample. While upward flame spread is typically an acceleratory process in normal gravity
+[43,44], the change in spread rate over the relatively small distances measured here, and the weak
+dependence of spread rate on distance [43] is not sufficient to capture the transient characteristics of the
+flame spread process in this tests. From Fig. 6 it is seen that as pressure is reduced the flame spread
+rate of the pyrolysis front is also reduced. At an ambient pressure of 100 kPa, the pyrolysis front takes
+about 150 s to progress over the entire length of the sample (~140 mm), which is significantly faster
+when compared to the average 450 s obtained at about 40 kPa. Similar results are obtained when looking
+at the variation of the flame tip with pressure, shown in Fig.7. From the results of Fig.7, it can be inferred
+that as the ambient pressure is reduced the flame tip progress approaches the microgravity data from the
+Saffire II experiments.
+
+Figure 6: Time evolution of the (a) pyrolysis front position and (b) variation of the pyrolysis front with pressure at different times.
+
+8
+
+Figure 7: Flame tip position for different ambient pressures and the Saffire II experiment.
+
+The data in Fig. 6 and 7 can be used to approximately obtain the variation of the length of the PMMA
+heated region downstream from the pyrolysis front (heated length (Fig.1)) as the flame progresses along
+the sample. As shown below, the heated length is an important parameter in the spread of the flame.
+This length is calculated here by subtracting the flame length from the pyrolysis length. Although the
+results are only approximate because it is difficult to determine the flame tip accurately and the flame
+changes character after it passes the end of the sample, they help interpreting the experimental results.
+Figures. 8a and 8b show the variation with time of the measured pyrolysis and flame lengths, and of the
+calculated heated length for 100 kPa and 60 kPa. The heated length is calculated only until the point
+that the flame tip reaches the end of the sample, since from then on the flame is a plume flame rather
+than a wall flame. It is seen that the heated length does not vary much along the fuel sample, but varies
+significantly with pressure, decreasing as the pressure is decreased. This is shown in Fig. 9, where the
+dependence of the averaged heated length with pressure is presented.
+
+Figure 8: Variation with time of the pyrolysis, flame tip and heated lengths for (a) 100kPa and (b) 60 kPa.
+
+9
+
+Figure 9: Averaged heated length for different ambient pressures
+
+The flame brightness is also reduced with pressure, becoming weaker as pressure is reduced. In these
+conditions, the flame changes from a bright yellow/orange to a faint blue color, as it can be seen in Fig.
+10. This indicates that ambient pressure, and consequently buoyancy affects both the soot generation
+and the flame temperature, and in turn the radiation from the flame to the solid. Visible flame height
+is also reduced as the pressure is decreased, although for the lower pressures the flame tip becomes
+very diffuse and hard to define. These observations seem to agree with those of Ref. [45,46], where it
+is shown that soot production in diffusion flames in microgravity is significantly affected by the
+oxidizing stream conditions. From Fig. 10 it is also seen that as the pressure is reduced, the flame size
+decreases toward what was observed during the Saffire microgravity experiment, although the color is
+different. This last observation indicates that reducing pressure may not be able to reproduce well the
+soot formation and flame temperature in microgravity.
+
+Figure 10: Effect of ambient pressure on flame appearance.
+
+10
+
+The progress of the pyrolysis front is often used to determine the flame spread rate because it can be
+measured more accurately that the progress of the flame tip, which fluctuates and is more difficult to
+determine. Figure 11 shows the average flame spread rate as a function of ambient pressure as obtained
+from the pyrolysis front data of Fig. 6. Also included in Fig. 11 is the flame spread rate calculated from
+the flame tip data of Fig. 7. The error bars show the standard deviation of the data from the different
+tests conducted at each condition. It is seen that the flame tip method gives higher spread rates
+particularly at ambient pressure, although the error from the flame tip data gives more confidence in
+the flame spread rate values obtained from the pyrolysis front data. For comparison, the flame spread
+rate data of Saffire II obtained from the flame tip progress shown in Fig. 7, is also included. It is seen
+that the microgravity flame spread rate is significantly lower than in normal gravity at the same ambient
+pressure, indicating that the buoyantly induced flow velocity plays an important role in normal gravity
+concurrent flame spread. However, as the pressure is decreased in normal gravity the flame spread rate
+also decreases, approaching that in microgravity conditions.
+
+Figure 11: Average flame spread rate over PMMA as a function of ambient pressure obtained from the pyrolysis front and flame tip.
+
+4. Simplified Analysis and Data Correlation
+The dependence on pressure of the flame spread rate of Fig. 11 can be correlated in terms of the
+controlling mechanisms of concurrent flame spread using a simplified analysis of concurrent flame
+spread over a thermally thick solid fuel as that developed in Refs [20,34], together with a mixed
+flow (forced and free) analysis of the heat transfer from the flame to the fuel [19]. Such approach was
+used successfully in Refs. [16,17] to correlate the variation with pressure of concurrent flame spread
+rate over a thermally thin solid fuel. In this work, the analysis is applied to correlate the data for the
+dependence on pressure of the flame spread over a thermally thick solid fuel. Also, a more complete
+justification of the simplifications used in the analysis is provided.
+In the analysis, the flame spread process is treated as a series of ignition steps where the flame acts both
+as the source of solid heating and pyrolysis and the pilot ignition of the pyrolyzate/oxidizer gas mixture
+[20,47–49]. The analysis provides an analytical formula for the concurrent flame spread rate obtained
+11
+
+from the ratio of the solid heating length downstream from the pyrolysis front and the time required to
+heat, pyrolyze and ignite the solid. For a thermally thick solid it gives [20]:
+2
+
+𝜋𝑘 𝑠 𝜌 𝑠 𝑐 𝑠 (𝑇 𝑝 − 𝑇 𝑜 )
+𝐶𝑥
+𝑉 𝑓 = 𝑙ℎ [
+−
+𝜑 (𝑡 𝑐ℎ𝑒𝑚 )]
+′′
+′′
+′′ )2
+4(𝑞̇ 𝑓𝑐 + 𝑞̇ 𝑓𝑟 − 𝑞̇ 𝑟 𝑠
+𝑈𝑚
+
+−1
+
+(1)
+
+where 𝑙ℎ is the heated length of the solid downstream of the pyrolysis front, 𝑞̇ ′′ , represents the
+𝑓𝑐
+convective heat flux from the flame to the solid surface, 𝑞̇ ′′ is the flame radiant flux to the solid
+𝑓𝑟
+surface, 𝑞̇ ′′𝑠 the re-radiation from the solid, 𝑈 𝑚 the mixed gas flow velocity, 𝜑 (𝑡 𝑐ℎ𝑒𝑚 ) is a function of
+𝑟
+the chemical time, 𝑡 𝑐ℎ𝑒𝑚 the chemical time, 𝜌 𝑠 and 𝑐 𝑠 are the solid density and specific heat, and 𝑘 𝑠 , is
+the solid thermal conductivity. 𝑇 𝑝 and 𝑇 𝑜 represent the pyrolysis and initial temperatures of the solid
+and C is a constant. The first term in Eq. (1) describes the heat transfer mechanisms of the flame spread
+process for a thermally thick solid and the second term the gas phase chemical kinetic mechanisms. It
+should be noted that for the derivation of Eq. (1) several important simplifications are made. These
+simplifications are discussed in detail below and in the discussion section.
+The heat transfer term in Eq. (1) includes some important simplifications. To calculate the ignition
+time, it is assumed that the heat flux from the flame to the solid (both convection and radiation), and
+the surface re-radiation are uniform along the solid heated length. This approximation is somewhat
+reasonable because the growth of the boundary layer, and in turn the flame stand-off distance, is
+moderate since the boundary layer thickness grows with a 1/2 to 1/4 power of the distance from the
+sample leading edge [50]. It is also assumed that the solid ignites as soon as its surface temperature
+reaches the solid pyrolysis temperature, which is also reasonable for piloted ignition since the rate of
+fuel is given by an Arrhenius reaction and consequently is very sensitive to the solid temperature [20].
+Also, since the flame act as the ignition pilot, the gaseous fuel/air mixture will ignite as soon as the
+lean flammability is reached. In addition, it is assumed that the PMMA slab behaves as thermally thick
+during the heating from the flame to the solid. Although a 10 mm thick PMMA sample may not be
+truly thermally thick it approaches thermally thick behavior at least in normal gravity gas flows [20].
+The radiant flux from the flame to the solid surface is difficult to calculate because the ambient pressure
+and buoyant flow may affect the soot formation and the flame temperature, and consequently the
+radiant flux from the flame to the solid [45]. Given the approximate nature of this analysis, it is assumed
+that the radiant flux from the flame to the solid is approximately balanced by the surface re-radiation.
+This is a significant simplification that allows to obtain an analytical expression for the flame spread
+rate, and that as it is discussed below, breaks down at low velocity, low pressure or microgravity, flows.
+With this simplification, the heat flux to the solid is primarily the convective heat flux from the flame
+to the solid surface, 𝑞̇ ′′ = ℎ(𝑇 𝑓 − 𝑇 𝑝 ), with ℎ representing the convective heat transfer coefficient, 𝑇 𝑓
+𝑓𝑐
+the flame temperature and 𝑇 𝑝 the PMMA pyrolysis temperature. The flame temperature is directly
+proportional to the ambient oxygen concentration but is not strongly dependent on ambient pressure
+until the pressure is relatively low and the chemical time starts to become larger than the physical time.
+Because the oxygen concentration is that of air for all the experiments, the flame temperature is
+assumed constant in the range of pressures of the present experiments. This is another simplification
+12
+
+in the analysis that should be reasonable for not too low ambient pressures, as discussed below in the
+discussion section.
+The chemical kinetics term affects the spread rate at conditions that reduce the Damkohler number and
+make the term comparable with the heat transfer term. This may occur at low oxygen concentration,
+low pressure, and at large flow velocity (blow off) [20], or very low flow velocity in microgravity
+(diffusive transport and radiation losses) [51-54]. As indicated in the discussion section the present
+experiments are conducted away from these limiting conditions, thus, the spread rate is given primarily
+by the heat transfer term in Eq. (1). Under these conditions the flame spread rate becomes
+𝑉 𝑓 ≈ 𝑙ℎ [
+
+4(ℎ(𝑇 𝑓 − 𝑇 𝑝 ))2
+𝜋𝑘 𝑠 𝜌 𝑠 𝑐 𝑠 (𝑇 𝑝 − 𝑇 𝑜 )
+
+(2)
+
+2]
+
+From Eq. (2) it is seen that the flame spread rate is proportional to the heating length and the square of
+the convective heat transfer coefficient at the solid surface, with the other parameters or properties,
+considered constant. The heat transfer coefficient is directly related to the flame stand-off distance to
+the solid surface, which in turn is proportional to the boundary layer thickness through ℎ = 𝑘/𝛿, where
+k is the gas thermal conductivity and 𝛿 the boundary layer thickness. The boundary layer thickness is
+determined through the Reynolds number (𝑅𝑒) in pure forced flow, or through the Grashof number (𝐺𝑟)
+in pure natural convection (free) flow [50]. For a mixed flow, forced and free, as in the normal gravity
+experiments the boundary layer thickness can be expressed in terms of the Reynolds number, the
+Grashof number, and the Froude number (𝐹𝑟) as [19]
+1
+
+𝛿 𝑚 = 𝐶𝑙 𝑝
+
+[𝑅𝑒 4
+
++ 𝐺𝑟
+
+1
+2 ]−8
+
+1
+𝑃𝑟 −3
+
+= 𝐶𝑙 𝑝 𝑅𝑒
+
+−
+
+1
+2 [1
+
+1
+1 −8
++ 2 ] 𝑃𝑟 −3
+𝐹𝑟
+
+(3)
+
+Where C is a generic constant related to the type of flow and the pyrolysis length, 𝑙 𝑝 , has been selected
+as the characteristic length of the problem. Then, 𝑅𝑒 = 𝜌𝑈 𝑓 𝑙 𝑝 /𝜇, 𝐺𝑟 = 𝑔𝛽∆𝑇𝑙 3 𝜌2 /𝜇 2 , and 𝐹𝑟 =
+𝑝
+2
+2
+𝑅𝑒 /𝐺𝑟 = 𝑈 𝑓 /𝑔𝑙 𝑝 . 𝑈 𝑓 represents the forced flow velocity component of the mixed flow, 𝜇 is the
+dynamic viscosity, 𝜌 is gas phase density, 𝛽 is the coefficient of thermal expansion and 𝑔 is gravity
+level. Equation (3) shows a general expression for the boundary layer thickness in a mixed flow. For
+zero gravity (𝐹𝑟 = ∞) Eq. (3) gives the boundary layer thickness for a pure forced flow, and for zero
+forced flow (𝐹𝑟 = 0) Eq. (3) gives the boundary layer thickness for a pure natural convection flow. It
+is seen that similar boundary layer thickness can be obtained by varying accordingly the Reynolds and
+Grashof numbers.
+As the flame spreads along the solid surface, the pyrolysis length increases with time, the boundary
+layer thickens, and consequently the heat flux on the surface also varies with time and pressure. In
+keeping with the simplified character of the analysis the pyrolysis length in Eq. (3) is taken as constant
+and equal to half the sample length. This, results in an average boundary layer thickness and heat flux
+from the flame to the solid, which is consistent with the simplifications implicit in Eq. (1), and is
+13
+
+discussed further in the discussion section below.
+Equation (3) can be used together with the definition of the heat transfer coefficient, ℎ = 𝑘/𝛿, and the
+definitions of the non-dimensional numbers, to obtain a mixed flow average convective heat transfer
+coefficient as
+
+ℎ= 𝐶
+
+𝑘
+1
+𝑙2
+𝑝
+
+1
+𝑃2
+
+1
+𝑔2 𝑙 2
+𝑝
+2
+𝑈𝑓 [ 4
+𝑈𝑓
+
+1
+8
+
+1
+
+(4)
+
++ 1] 𝑃𝑟 3
+
+Substituting Eq. (4) in Eq. (2) an expression can be obtained for the concurrent flame spread rate in
+terms of the problem parameters, as done in Ref [16] for a thin solid fuel. For brevity this is not
+presented here.
+Incorporating mixed flow conditions in analytical flame spread models is complicated and for this
+reason most models consider only forced flow conditions, and give the flame spread rate as a function
+of a generic flow velocity [20]. Thus, another approach to obtain the dependence of the concurrent flame
+spread rate on the problem parameters is to first determine a mixed flow gas velocity that would
+correspond to the actual mixed flow boundary layer at given ambient conditions; pressure and flow
+velocity in this case. This mixed flow velocity would be such that if applied in a pure forced flow, would
+produce a boundary layer of the same thickness as the one in the mixed flow, and consequently the same
+heat flux on the solid surface. Although the mixed flow and forced flow boundary layers would have
+different velocity profiles, this approach is still applicable to determine the flame spread rate because,
+by definition, the heat transfer coefficient is directly related to the boundary layer thickness through ℎ =
+𝑘/𝛿, and the boundary layer thickness, 𝛿, is directly related to the gas flow velocity through correlations
+as those of Eq. (3). Since these correlations are obtained experimentally, the differences in flow velocity
+profile and gas temperature distribution would be incorporated in the respective correlations. Following
+this approach, the mixed convective flow velocity can be obtained by equating the boundary layer
+thickness for the mixed convective flow as given in Eq. (3) with the boundary layer thickness for a pure
+forced flow (also given by Eq. (3) with g=0).
+−1/2
+
+𝛿 𝑔=0
+
+𝑈 𝑚 𝑃0 𝑙 𝑝 −1/2 −1/3
+𝑈 𝑓 𝑃𝑙 𝑝
+)
+= 𝐶𝑙 𝑝 (
+𝑃𝑟
+= 𝛿 𝑔≠0 = 𝐶𝑙 𝑝 (
+)
+𝜇
+𝜇
+
+−
+
+𝑔2 𝑙 2
+𝑝
+[1 + 4 ]
+𝑈𝑓
+
+1
+8
+
+1
+
+𝑃𝑟 −3
+
+(5)
+
+Solving for the flow velocity in the expression for the pure forced flow boundary layer, and calling this
+flow velocity the mixed convection velocity, 𝑈 𝑚 , the following expression is obtained for the mixed
+flow velocity in terms of pressure, forced flow velocity component of the mixed flow, and gravity.
+1
+
+4
+𝑔2 𝑙 2
+𝑃
+𝑝
+𝑈 𝑚 = 𝑈 𝑓 ( ) [ 4 + 1]
+𝑃0
+𝑈𝑓
+
+14
+
+(6)
+
+where 𝑃0 is a reference ambient pressure (standard Earth ambient pressure) and 𝑈 𝑓 is the forced flow
+velocity component of the mixed flow at the reference pressure 𝑃0 . From Eq. (6) it is seen that for zero
+gravity or large flow velocity, the mixed flow velocity is that of a pure forced flow at a given test
+P
+pressure, 𝑈 𝑚 = P 𝑈 𝑓 . For elevated gravity and/or zero forced velocity, the mixed flow velocity becomes
+0
+
+1/2
+
+P
+
+that of natural convection at a given test pressure, 𝑈 𝑚 = P (𝑔𝑙 𝑝 )
+0
+
+. The mixed convection velocity of
+
+Eq. (6) would produce an equivalent forced flow boundary layer of similar thickness as that of the mixed
+convective flow, and consequently an approximately similar convective heat transfer coefficient on the
+fuel surface. From Eq. (2) it can also be inferred that different flow conditions that would provide similar
+boundary layer thickness and convective heat transfer coefficient would have similar flame spread rates.
+Thus, it would be possible to approximately predict the flame spread rate in a pure forced flow, as that
+experienced in microgravity, with a normal gravity test that has a similar mixed convection boundary
+layer as that of the forced flow, or conversely. In this case, the convective heat transfer coefficient for
+the forced flow, based on the mixed flow velocity, would be
+1
+
+𝑘
+𝑘 𝑈 𝑚 𝑃𝑙 𝑝 2 1
+) 𝑃𝑟 3
+ℎ=
+(𝑅𝑒 1/2 𝑃𝑟 1/3 ) = 𝐶 (
+𝐶𝑙 𝑝
+𝑙𝑝
+𝜇
+
+(7)
+
+And from Eq. (2) the flame spread would be given by
+1
+
+𝑉𝑓 ≈
+
+2
+
+𝑈 𝑃 2 1
+4 (𝐶𝑘 ( 𝑚 ) 𝑃𝑟 3 ) (𝑇 𝑓 − 𝑇 𝑝 )2
+𝜇
+
+𝑙ℎ
+
+𝑙𝑝
+
+𝜋𝑘 𝑠 𝜌 𝑠 𝑐 𝑠 (𝑇 𝑝 − 𝑇 𝑜 )
+[
+
+4𝐶1 𝑘 2
+≈
+
+2
+
+𝑈𝑚 𝑃 2
+2
+3
+𝜇 𝑃𝑟 (𝑇 𝑓 − 𝑇 𝑝 )
+
+𝜋𝑘 𝑠 𝜌 𝑠 𝑐 𝑠 (𝑇 𝑝 − 𝑇 𝑜 )
+
+2
+
+(8)
+
+]
+
+The heating length, 𝑙 ℎ , is the difference between the flame length and pyrolysis length, and increases
+somewhat with time, although weakly as stated above. In a previous application of Eq. (1) it was
+considered that 𝑙ℎ ~𝑙 𝑐𝑝 [20,52]. Since here 𝑙 𝑝 is taken as constant, we will assume that 𝑙ℎ is also constant
+and proportional to 𝑙 𝑝 .Thus their ratio is also constant, and the constant of proportionality is included
+in the constant 𝐶1 .
+It should be noted that Eq. (8) is similar to the expressions obtained for opposed flame spread rate over
+a thermally thick solid [20,47–49,53], with the value of 𝑙ℎ as the primary difference. In opposed flame
+spread 𝑙ℎ is the solid heated length upstream of the flame front, or pyrolysis front, while here is the
+length of the flame from the pyrolysis front. This is understandable since the primary controlling
+mechanisms of opposed and concurrent flame spread are basically the same [20].
+The flame spread data of Fig. 11 can be correlated in terms of the mixed convective flow velocity, 𝑈 𝑚 ,
+given by Eq. (6), as shown in Fig. 12. It is seen that Eq. (6) correlates well the variation of the flame
+spread rate with pressure, and that the extrapolation to lower flow velocities (pressures) approximately
+predicts the data in microgravity. As the pressure is reduced the resulting mixed flow velocity is also
+15
+
+reduced, correspondingly the flame spread rate decreases and approaches that obtained in microgravity
+in the Saffire II experiments which had a lower flow velocity than the mixed flow velocity in normal
+gravity.
+
+Figure 12: Average flame spread rate over PMMA as a function of the mixed flow velocity of Eq. (6).
+
+It is worth noting that similar results were obtained correlating the concurrent flame spread rate
+dependence on pressure for a thermally thin fuel (a cotton/fiberglass composite, Sibal) as shown in
+Ref. [16]. This gives further validity to the approach followed in this work and suggests that reduced
+pressure can be used to approximately replicate similar flame behavior of untested gravity conditions
+for the spread of flames over thick and thin combustible solids.
+Furthermore, the flame spread rate data of Fig. 11 can also be used to verify the predictive capabilities
+of Eq. (8). This is done in Fig. 13 that shows the measured flame spread rate for the different pressures
+tested in comparison with flame spread rate predicted from Eq. (8). The PMMA properties used in Eq.
+(8) are given in Table 1, together with the flame temperature obtained from a thermodynamics
+equilibrium program. The value of the constant 𝐶1 was set to match the experimentally measured flame
+spread rate at normal pressure (100 kPa). From Fig. 13 it is seen that, despite the simplifications and
+assumptions of the analysis, Eq. (8) predicts relatively well the flame spread rates measured at lower
+pressure environments and the microgravity Saffire data, although the values are somewhat under
+predicted. It should be kept in mind however that variations in ambient pressure will affect flame
+chemistry and other parameters affecting the spread of the flame. This is important since it would be
+necessary to reduce the pressure to values of the order of 30 to 20 kPa to simulate microgravity
+conditions and some of the simplifications used in the analysis may not be applicable to these
+environments.
+
+16
+
+Figure 13: Measured average flame spread rate over PMMA as a function of the predicted flame spread rate of Eq. (8).
+
+Table 1. Polymethyl methacrylate (PMMA) properties [54].
+Property
+Value
+Units
+Solid density, ρs
+
+1190
+
+kg/m3
+
+Solid specific heat, cs
+
+1.4
+
+kJ/kg-K
+
+Solid conductivity, ks
+
+0.19
+
+W/m-K
+
+Pyrolysis temperature, Tp
+
+579
+
+K
+
+Flame temperature, Tf
+
+2365
+
+K
+
+5. Discussion
+The good correlation of the flame spread data as a function of ambient pressure, or buoyancy, and the
+apparent capability to predict at least approximately the concurrent flame spread in microgravity, is an
+indication that the flame spread description given by the present analysis has merit. This is somewhat
+surprising given the simplifications used in the analysis, but it indicates that the physico-chemical
+concepts underlined in the model and the assumptions used are reasonable at least for the correlation
+of present experiments in terms of pressure. In this section the implications of these simplifications
+and the limitations of the analysis are discussed.
+The assumption that chemical kinetics effects can be neglected is an important simplification. Gas
+phase chemical kinetics affects the spread rate at conditions that reduce the Damkohler number and
+make the term in Eq. (1) comparable with the heat transfer term. There are two limiting conditions
+where chemical kinetic effects are important. One is at large flow velocities where the chemical time
+is larger than the physical time and the flame spread rate decreases with the flow velocity until it is
+blown-off (blow off limit) [5,20]. The flow velocities in these experiments are too small for chemical
+kinetics to affect the flame spread in the blow-off limit, at least at elevated pressures. Although as the
+pressure is reduced the reaction rate decreases and the chemical time increases, also does the physical
+17
+
+time since the buoyant velocity also decreases. So, it is unlikely that the blow off limit would be reached
+in the present experiments. Also, the experimental results of Ref. [55] indicate that chemical kinetics
+affects the ignition of PMMA in air for pressures smaller than 30 kPa, thus it is reasonable to assume
+that at least up to this pressure the present analysis is valid.
+Another condition where chemical kinetics may have a considerable influence is at very low velocity
+flows. In microgravity and very low velocity flows the transport of oxidizer to the flame is reduced
+which causes the flame to move outward seeking oxygen and the flame temperature and soot generation
+to decrease. This reduces the radiant flux from the flame to the surface to the point that surface reradiation becomes important, causing the spread rate to decrease and eventual extinction of the flame
+(diffusion/radiation limit) [5,51,56,57]. In the present case the gas flow velocity appears large enough
+that this potential effect is not important, although if the pressure is too low it may become more
+significant.
+The analysis also assumes that the convective heat flux from the flame to the solid is the controlling
+mechanism of concurrent flame spread, at least away from the above limiting conditions of flow
+velocity, oxygen concentration or pressure. It should be noted that the correlation of the data of figure
+12 is basically based on the convective heat transfer from the flame to the solid surface. This is
+somewhat surprising because one would expect that radiation from the flame to the solid would have
+a more important role in concurrent flame spread. Regarding this issue, from the apparent visual
+differences in the flame characteristics as pressure is reduced (Fig. 9), it is inferred that the soot
+concentration and temperature of the flame, and consequently the flame radiation, are affected by
+pressure. The work of Refs. [45,46] on the soot concentration in diffusion flames in microgravity seems
+to confirm this observation. Thus, the radiant heat flux from the flame to the surface would vary with
+pressure and this should be reflected in the correlation of the data. However, to reduce the potential
+impact of radiation heat transfer, in the analysis it is assumed that the radiant flux from the flame to
+the solid surface is counteracted by the re-radiation from solid surface to the surrounding. It should be
+pointed out that in microgravity and very low velocity flows, the flame stan-off distance may be large
+enough that re-radiation from the surface may be larger than both convection and radiation heat transfer
+from the flame to solid surface [57]. The good correlation of the data suggests that in these experiments
+the resulting radiant flux balance between flame radiation and surface re-radiation, is small in
+comparison with the convective heat flux, and that the variations in radiant flux with pressure are not
+strong enough to be reflected in the data. One potential reason for this result is the small scale of the
+samples. As shown in Ref. [53] as the sample size increases and the flames become more turbulent the
+radiant flux becomes more important eventually dominating the heat transfer from the flame to the
+solid. The size of the sample would also affect the characteristics of the flame and the convective heat
+flux from flame to solid. As the size of the sample increases and the flames become turbulent not only
+the radiation characteristics of the flame would change, but also the corresponding turbulent flow
+convective heat transfer correlations. Thus, the small size of the samples may be the reason for the
+results and justifies the radiant flux assumption at least for the present experiments.
+Regarding the flame temperature, in the correlation of the experiments it is assumed that it is constant
+and independent of pressure. This appears reasonable at least for not too low pressures since the oxygen
+18
+
+concentration of the gas flow is constant (air). Thermodynamically, the adiabatic flame temperature is
+directly proportional to the flow oxygen concentration and is basically independent of pressure if the
+air and post-combustion gases behave as ideal gases. Kinetically, the flame temperature is not strongly
+dependent on ambient pressure until the pressure is relatively low and the chemical time starts to
+become larger than the physical time, at which point the reaction rate decreases and in turn the heat
+released at the flame combustion reaction. Also, fairly low-pressure environments result in an increase
+in the mean free path between molecules (𝜆 ∝ 1/𝑃) therefore reducing the number of collisions in the
+reaction zone and thickening the flame sheet [58]. The combined effect of reduced partial pressure of
+oxygen and a larger mean free path between molecules, slows down the chemical reactions in the gas
+phase, affecting the flame temperature and the heat provided by the flame to the unburned solid and
+therefore reducing the flame spread rate. However, these effects are not too important until the ambient
+pressure is reduced significantly. The experiments of Ref. [55] of the effect of pressure on the ignition
+time of PMMA show that chemical kinetic effects are relevant for pressures lower than 30 kPa. Thus,
+since flame spread is related to the solid ignition and these experiments are conducted at pressures
+above 30 kPa it is reasonable to assume that chemical effects do not affect the flame spread rate through
+the flame temperature and that consequently it can be assumed constant in the range of pressures of the
+present experiments. This is a reasonable assumption particularly considering the simplified character
+of the analysis.
+Another important simplification is the assumption of a constant average value for the pyrolysis length.
+The pyrolysis length increases as the flame spreads along the sample surface and since 𝑉𝑓 = 𝑑𝑙 𝑝 /𝑑𝑡,
+it is seen that Eq. (2) predicts an acceleratory flame spread rate for mixed flow, which will depend on
+the relative values of the gravity and forced flow. It also predicts an acceleratory flame spread for
+natural convection upward flame spread as observed experimentally [40,43,59]. This is due to the
+boundary layer growing at a slower rate than the flame heating length in mixed flow and upward flame
+spread. It should be taken into account that the above theoretical models assume laminar flow and the
+experiments were conducted with small samples. It is possible that if the sample is long enough the
+flame spread rate may become constant, this could be because the growth of the boundary layer
+becomes small with distance and the flame becomes turbulent and probably of almost constant length.
+Thus, the total heat flux from the flame to the surface may also become constant and consequently the
+flame spread rate. For pure forced flow Eq. (8) predicts a constant flame spread rate, in agreement with
+boundary layer type theoretical models of concurrent flame spread [59]. In forced flow, the growth of
+the boundary layer and the consequent decrease in the heat flux on the surface as the flame spreads is
+compensated by a growth of the flame heated length. Both effects compensate each other resulting in
+a constant flame spread rate [19]. This seems to be confirmed, at least approximately, with the Saffire
+data of Fig. 7, once the influence of the igniter subsides. This aspect of the concurrent flame spread
+could not be verified until the Saffire II microgravity experiments.
+Predicting the time dependence of the concurrent fame spread involves the solution of the transient
+conservation equations that govern the problem, which is beyond the scope of the present simple
+analysis whose primary objective is to predict the dependence of the spread rate on buoyancy through
+pressure. To meet this objective, it is reasonable to use averages of the parameters that control the
+spread of the flame and that are time dependent. The most important simplification is the selection of
+19
+
+an average pyrolysis length as half the sample length. It implies an average boundary layer thickness,
+and average flame stand-off distance, average flame tip length, an average solid heated length and an
+average convective heat flux from the flame to the solid surface. Given that the basic development of
+Eq. (1) considers a uniform heat flux from the flame to the solid surface along the solid heated length
+[20,48], some of these approximations are within the simplified character of the analysis. Theoretically
+boundary layer and flame stand-off increase along the fuel sample as a power of the distance from the
+upstream leading edge [59], but the variation is gentle (between 1/2 in forced flow and 3/4 power in
+natural convection). Consequently, the convective heat flux along the sample decreases also gently.
+Selecting as characteristic pyrolysis length half of the sample length results in a heat flux at the solid
+surface that would correspond to that in the middle of the sample which is a small varying zone of its
+value [50], thus the impact of the approximation is relatively small. Furthermore, averaging the heat
+transfer coefficient along a solid surface is not uncommon in heat transfer [50]. The selection of a
+constant averaged pyrolysis front length implies that the flame tip length is also selected as constant
+since the latter is proportional to the former [20,52,60]. Since the heated length is the difference
+between the flame tip length and the pyrolysis front length, its value is also constant. The experimental
+measurements of the heated length shown in Fig. 8 indicate that this assumption is reasonable at least
+for the present experimental conditions. Finally, it should be noted that in the expressions for the flame
+spread rate (Eq. (8)), the ratio of the heated length and pyrolysis length, 𝑙ℎ /𝑙 𝑝 appear as a multiplier of
+the other terms. Thus, even if the assumption that the two lengths are proportional is not accurate, the
+impact of the assumption on the predicted spread rate would be reduced by their lengths appearing as
+a ratio.
+The above discussion applies to a given sample length. As the sample length is increased the average
+pyrolysis length will also increase, which is particularly relevant in a gravity field (𝑔 ≠ 0) because
+buoyancy depends on the length of the sample, and the buoyant velocity and flame spread rate will
+increase with the sample length. This issue is approximately captured in the model (Eq. (8)) through
+the Froud Number. The equation predicts that the effect of sample length is less important as the forced
+flow velocity is increased, and the pressure or gravity are reduced. In 𝑔 = 0, the spread rate is
+theoretically constant along the sample length, and consequently is independent of the sample length.
+Thus, the sample length would be reflected in Fig. 12 with different lines of flame spread versus mixed
+flow velocity, with the major separation at 100 kPa (the larger the sample the larger the difference) and
+that would all converge to the microgravity value. The separation of the lines would be reduced as the
+sample length is decreased, the forced flow velocity is increased, or the gravity level is reduced.
+6. Concluding Remarks
+The concurrent flame spread rate and flame appearance over a thick slab of PMMA have been studied
+under reduced ambient pressure to determine the effect of buoyancy on the spread of the flame. Also
+explored was the possibility of simulating the characteristics of the concurrent flame spread in reduced
+gravity environments by reducing the ambient pressure. It has been found that as pressure is reduced,
+the concurrent flame spread rate over the surface of a thick solid is also reduced. Flame intensity is
+also weakened, resulting in dimmer blue flames for the lowest pressures. As ambient pressure is
+progressively reduced, the flame spread characteristics get closer to what is observed in microgravity.
+20
+
+The dependence on pressure of the flame spread rate was correlated in terms of a mixed flow heat
+convection parameter, or a mixed flow velocity, that includes gravity and pressure. The extrapolation
+of the data correlation to low pressures predict fairly well the flame spread data obtained in
+microgravity during the Saffire II experiments. Similar results were obtained with experiments with a
+thin composite cotton/fiberglass fabric [16]. Both results suggest that reduced pressure can be used to
+approximately replicate similar flame behavior of untested gravity conditions for the burning of thick
+and thin solids. Furthermore, the application of the mixed flow analysis in a simplified expression of
+the concurrent flame spread over a thick solid fuel seems to predict fairly well the measured flame
+spread rate variation with pressure and in microgravity. However, it should be kept in mind that the
+reduction in ambient pressure will eventually affect flame chemistry. Thus, caution should be taken in
+implementing test methods that would use only ambient pressure reduction to predict flame spread at
+different gravity levels. This is important since it would be necessary to reduce the pressure to values
+of the order of 20 kPa to simulate microgravity conditions and some of the simplifications used in the
+analysis may not be applicable to these environments. This problem, however, could be reduced if the
+microgravity tests were conducted at higher flow velocities, since the spread rate could then be
+simulated at higher pressures, thus reducing the flame chemistry effects.
+Also, it is worth noting that at different gravity levels, such as on the Moon or Mars, the concurrent
+flame spread can be simulated for thick solids with a flame spread formulation as in Eq. (8) by reducing
+the pressure so that the mixed flow gas velocity remains the same than that at reduced gravity. At those
+intermediate gravity levels, the simulation pressure would be higher, and the chemical kinetic effects
+consequently reduced. Thus, the proposed analysis should have better applicability. The analysis
+should also able to predict flame spread in environments with different oxygen concentrations through
+the dependence of the flame temperature on the oxygen concentration of the gas flow.
+7. Acknowledgments
+This research was supported by NASA Grant NNX12AN67A. Maria Thomsen would like to
+acknowledge the support of Becas Chile through the scholarship program Becas de Doctorado en el
+extranjero convocatoria 2014 (#72150022). The authors would like to thank Saul Pacheco, Grace
+Mendoza, Miguel Soto, and Runbiao Wei for their help conducting the experiments. The support to the
+senior author by the Almy C. Maynard and Agnes Offield Maynard Endowed Chair of Mechanical
+Engineering at the University of California Berkeley is also acknowledged.
+8. References
+[1]
+National Aeronautics and Space Administration, NASA-STD-6001B Flammability, Offgassing,
+and Compatibility Requirements and Test Procedures, Washington, DC, 2011.
+[2]
+K.E. Lange, A.T. Perka, B.E. Duffield, F.F. Jeng, Bounding the Spacecraft Atmosphere Design
+Space for Future Exploration Missions, 2005. http://ntrs.nasa.gov/search.jsp?R=20050185597.
+[3]
+P.D. Campbell, Recommendations for Exploration Spacecraft Internal Atmospheres - The Final
+Report of the NASA Exploration Atmospheres Working Group (EAWG) - JSC-63309,
+Houston, Texas, 2006.
+[4]
+S. Link, X. Huang, C. Fernandez-Pello, S. Olson, P. Ferkul, The Effect of Gravity on Flame
+21
+
+[5]
+[6]
+
+[7]
+[8]
+[9]
+[10]
+[11]
+[12]
+[13]
+
+[14]
+[15]
+
+[16]
+[17]
+
+Spread over PMMA Cylinders in Opposed Flow with Variable Oxygen, 46th Int. Conf.
+Environ. Syst. (2016).
+S. Bhattacharjee, A. Simsek, F. Miller, S. Olson, P. Ferkul, Radiative, thermal, and kinetic
+regimes of opposed-flow flame spread: A comparison between experiment and theory, Proc.
+Combust. Inst. 36 (2017) 2963–2969. doi:10.1016/j.proci.2016.06.025.
+S.L. Olson, U. Hegde, S. Bhattacharjee, J.L. Deering, L. Tang, R.A. Altenkirch, Sounding
+rocket microgravity experiments elucidating diffusive and radiative transport effects on flame
+spread over thermally thick solids, Combust. Sci. Technol. 176 (2004) 557–584.
+doi:10.1080/00102200490276773.
+S.L. Olson, F.J. Miller, Experimental comparison of opposed and concurrent flame spread in a
+forced convective microgravity environment, Proc. Combust. Inst. 32 (2009) 2445–2452.
+doi:10.1016/j.proci.2008.05.081.
+J. West, L. Tang, R.A. Altenkirch, S. Bhattacharjee, K. Sacksteder, M.A. Delichatsions,
+Quiescent flame spread over thick fuels in microgravity, Symp. Combust. 26 (1996) 1335–
+1343. doi:10.1016/S0082-0784(96)80352-3.
+S. Bhattacharjee, R.A. Altenkirch, Radiation-controlled, opposed-flow flame spread in a
+microgravity environment, Twenty-Third Symp. Coinbustion/The Combust. Institute,. (1990)
+1627–1633.
+S.L. Olson, Mechanisms of Microgravity Flame Spread Over a Thin Solid Fuel: Oxygen and
+Opposed Flow Effects, Combust. Sci. Technol. 76 (1991) 233–249.
+doi:10.1080/00102209108951711.
+X. Zhao, Y.T.T. Liao, M.C. Johnston, J.S. T’ien, P. V. Ferkul, S.L. Olson, Concurrent flame
+growth, spread, and quenching over composite fabric samples in low speed purely forced flow
+in microgravity, Proc. Combust. Inst. 36 (2017) 2971–2978. doi:10.1016/j.proci.2016.06.028.
+S.L. Olson, P. V. Ferkul, Microgravity flammability boundary for PMMA rods in axial
+stagnation flow: Experimental results and energy balance analyses, Combust. Flame. 180
+(2017) 217–229. doi:10.1016/j.combustflame.2017.03.001.
+G. Jomaas, J.L. Torero, C. Eigenbrod, J. Niehaus, S.L. Olson, P. V Ferkul, G. Legros, A.C.
+Fernandez-Pello, A.J. Cowlard, S. Rouvreau, N. Smirnov, O. Fujita, J.S. T ’ien, G.A. Ruff, D.L.
+Urban, Fire safety in space – beyond flammability testing of small samples, Acta Astronaut.
+109 (2015) 208–216. doi:10.1016/j.actaastro.2014.11.025.
+D.L. Urban, P. Ferkul, S. Olson, G.A. Ruff, S.T. James, Y.T. Liao, A.C. Fernandez-pello, J.L.
+Torero, G. Legros, C. Eigenbrod, N. Smirnov, O. Fujita, S. Rouvreau, B. Toth, G. Jomaas,
+Flame Spread : Effects of Microgravity and Scale, Combust. Flame. (2018) 1–22.
+P. Ferkul, S. Olson, D.L. Urban, G.A. Ruff, J. Easton, J. T’ien, Y.T.T. Liao, C. Fernandezpello, J.L. Torero, C. Eigenbrod, G. Legros, N. Smirnov, O. Fujita, S. Rouvreau, B. Toth, G.
+Jomaas, Results of Large-Scale Spacecraft Flammability Tests, in: Proc. 47th Int. Conf.
+Environ. Syst., Charleston, South Carolina, 2017: pp. 1–10.
+M. Thomsen, C. Fernandez-pello, D.L. Urban, G.A. Ruff, S.L. Olson, On simulating concurrent
+flame spread in reduced gravity by reducing ambient pressure, Proc. Combust. Inst. (in press)
+(2018).
+M. Thomsen, X. Huang, C. Fernandez-pello, D.L. Urban, G.A. Ruff, Concurrent flame spread
+over externally heated Nomex under mixed convection flow, Proc. Combust. Inst. (in press)
+(2018).
+22
+
+[18]
+[19]
+[20]
+[21]
+[22]
+[23]
+[24]
+[25]
+[26]
+[27]
+[28]
+[29]
+[30]
+[31]
+[32]
+[33]
+[34]
+[35]
+[36]
+[37]
+
+D. Drysdale, Introduction to Fire Dynamics, Wiley, 1998.
+C.-P. Mao, A.C. Fernandez-Pello, P.J. Pagni, Mixed convective buring of a fuel surface with
+arbitrary inclination, J Heat Transf. 106 (1984) 304–309. doi:10.1115/1.3246673.
+C. Fernandez-Pello, The solid phase, in: G. Cox (Ed.), Combust. Fundam. Fire, Academic Press
+Limited, 1994: pp. 31–100.
+X. Chen, J. Liu, Z. Zhou, P. Li, T. Zhou, D. Zhou, J. Wang, Experimental and theoretical
+analysis on lateral flame spread over inclined PMMA surface, Int. J. Heat Mass Transf. 91
+(2015) 68–76. doi:10.1016/j.ijheatmasstransfer.2015.07.072.
+D.D. Drysdale, A.J.R. Macmillan, Flame spread on inclined surfaces, Fire Saf. J. 18 (1992)
+245–254. doi:10.1016/0379-7112(92)90018-8.
+M.J. Gollner, C.H. Miller, W. Tang, A. V. Singh, The effect of flow and geometry on
+concurrent flame spread, Fire Saf. J. 91 (2017) 68–78. doi:10.1016/j.firesaf.2017.05.007.
+M.J. Gollner, X. Huang, J. Cobian, A.S. Rangwala, F.A. Williams, Experimental study of
+upward flame spread of an inclined fuel surface, Proc. Combust. Inst. 34 (2013) 2531–2538.
+doi:10.1016/j.proci.2012.06.063.
+L. Zhou, A.C. Fernandez-Pello, Turbulent, concurrent, ceiling flame spread: The effect of
+buoyancy, Combust. Flame. 92 (1993) 45–59. doi:10.1016/0010-2180(93)90197-B.
+H.T. Loh, C. Fernandez-Pello, A study of the controlling mechanisms of flow assisted flame
+spread, Twent. Symp. Combust. Combust. Inst. (1984) 1575–1582.
+C. Fernandez-pello, C.-P. Mao, A Unified Analysis of Concurrent Modes of Flame Spread,
+Combust. Sci. Technol. 26 (1981) 147–155. doi:10.1080/00102208108946954.
+S.H. Chung, C.K. Law, An experimental study of droplet extinction in the absence of external
+convection, Combust. Flame. 64 (1986) 237–241. doi:10.1016/0010-2180(86)90061-1.
+M. Thomsen, D.C. Murphy, C. Fernandez-pello, D.L. Urban, G.A. Ruff, Flame spread limits
+(LOC) of fire resistant fabrics, Fire Saf. J. 91 (2017) 259–265.
+doi:10.1016/j.firesaf.2017.03.072.
+Y. Nakamura, N. Yoshimura, H. Ito, K. Azumaya, O. Fujita, Flame spread over electric wire in
+sub-atmospheric pressure, Proc. Combust. Inst. 32 (2009) 2559–2566.
+doi:10.1016/j.proci.2008.06.146.
+J. Kleinhenz, I.I. Feier, S.Y. Hsu, J.S. T’ien, P. V. Ferkul, K.R. Sacksteder, Pressure modeling
+of upward flame spread and burning rates over solids in partial gravity, Combust. Flame. 154
+(2008) 637–643. doi:10.1016/j.combustflame.2008.05.023.
+S. Fereres, C. Fernandez-Pello, D.L. Urban, G.A. Ruff, Identifying the roles of reduced gravity
+and pressure on the piloted ignition of solid combustibles, Combust. Flame. 162 (2015) 1136–
+1143. doi:10.1016/j.combustflame.2014.10.004.
+R.A. Altenkirch, R. Eichhorn, P.C. Shang, Buoyancy effects on flames spreading down
+thermally thin fuels, Combust. Flame. 37 (1980) 71–83. doi:10.1016/0010-2180(80)90072-3.
+A.C. Fernandez-pello, Modelling flame spread as a flame induced solid ignition process, Fire
+Explos. Hazards Proc. Fourth Int. Semin. (2004) 13–26.
+P. V. Ferkul, J.S. T’ien, A model of low-speed concurrent flow flame spread over a thin fuel,
+Combust. Sci. Technol. 99 (1994) 345–370. doi:10.1080/00102209408935440.
+J.L. Torero, J.M. Most, P. Joulain, On the effect of pressure, oxygen concentration, air flow and
+gravity on simulated pool fires, 2018.
+P. Joulain, The Behavior of Pool Fires: State of the Art and New Insights, Proc. Combust. Inst.
+23
+
+[38]
+[39]
+[40]
+[41]
+
+[42]
+[43]
+[44]
+[45]
+[46]
+
+[47]
+[48]
+[49]
+[50]
+[51]
+[52]
+[53]
+[54]
+[55]
+
+27 (1998) 2691.
+W.E. Mell, K.B. McGrattan, H.R. Baum, Numerical simulation of combustion in fire plumes,
+Symp. Combust. 26 (1996) 1523–1530. doi:10.1016/S0082-0784(96)80374-2.
+C. Fernandez-Pello, Theory of the Mixed Convective Combustion of a Spherical Fuel Particle,
+Combust. Flame. 32 (1983) 23–32.
+G.H. Markstein, J. De Ris, Upward fire spread over textiles, Symp. Combust. 14 (1973) 1085–
+1097.
+C. Eigenbrod, G. Ruff, S.L. Olson, P. V. Ferkul, Experimental Results on the Effect of Surface
+Structures on the Flame Propagation Velocity of PMMA in Microgravity Experimental Results
+on the Effect of Surface Structures on the Flame Propagation Velocity of PMMA in
+Microgravity, in: 47th Int. Conf. Environ. Syst., Charleston, SC, 2017: pp. 1–11.
+S.L. Olson, D.L. Urbanb, G.A. Ruff, P. V. Ferkul, B. Toth, C. Eigenbrod, F. Meyer, Analysis of
+Saffire II two-sided concurrent flame spread over a thick PMMA slab, in: 48th Int. Conf.
+Environ. Syst., Albuquerque, New Mexico, 2018.
+A.C. Fernandez-pello, Upward laminar flame spread under the influence of externally applied
+thermal radiation, Combust. Sci. Technol. 17 (1977) 87–98. doi:10.1080/00102207708946818.
+A.C. Fernandez-Pello, A theoretical model for the upward laminar spread of flames over
+vertical fuel surfaces, Combust. Flame. 31 (1978) 135–148. doi:10.1016/0010-2180(78)901244.
+G. Legros, J.L. Torero, Phenomenological model of soot production inside a non-buoyant
+laminar diffusion flame, Proc. Combust. Inst. 35 (2015) 2545–2553.
+doi:10.1016/j.proci.2014.05.038.
+J. Citerne, H. Dutilleul, K. Kizawa, M. Nagachi, O. Fujita, M. Kikuchi, G. Jomaas, S.
+Rouvreau, J.L. Torero, G. Legros, Acta Astronautica Fire safety in space – Investigating fl ame
+spread interaction over wires, Acta Astronaut. 126 (2016) 500–509.
+doi:10.1016/j.actaastro.2015.12.021.
+F.A. Williams, Mechanisms of fire spread, Symp. Combust. 16 (1976) 1281–1294.
+doi:10.1016/S0082-0784(77)80415-3.
+J. Quintiere, A simplified theory for generalizing results from a radiant panel rate of flame
+spread apparatus, Fire Mater. 5 (1981) 52–60. doi:10.1002/fam.810050204.
+M.A. Delichatsios, Creeping flame spread: energy balance and application to practical
+materials, Symp. Combust. 26 (1996) 1495–1503.
+F.P. Incropera, D.P. DeWitt, Fundamentals of heat and mass transfer, John Wiley & Sons,
+1996.
+S.L. Olson, P. V. Ferkul, J.S. T’ien, Near-limit flame spread over a thin solid fuel in
+microgravity, Symp. Combust. 22 (1988) 1213–1222. doi:10.1016/S0082-0784(89)80132-8.
+M.A. Delichatsios, Flame Heights in Turbulent Wall Fires with Significant Flame Radiation,
+Combust. Sci. Technol. 39 (1984) 195–214. doi:10.1080/00102208408923789.
+J.N. De Ris, Spread of a laminar diffusion flame, Symp. Combust. 12 (1969) 241–252.
+doi:10.1016/S0082-0784(69)80407-8.
+S. Fereres, C. Lautenberger, A.C. Fernandez-Pello, D.L. Urban, G.A. Ruff, Understanding
+ambient pressure effects on piloted ignition through numerical modeling, Combust. Flame. 159
+(2012) 3544–3553. doi:10.1016/j.combustflame.2012.08.006.
+S. McAllister, C. Fernandez-Pello, D. Urban, G. Ruff, The combined effect of pressure and
+24
+
+[56]
+[57]
+[58]
+[59]
+[60]
+
+oxygen concentration on piloted ignition of a solid combustible, Combust. Flame. 157 (2010)
+1753–1759. doi:10.1016/j.combustflame.2010.02.022.
+S. Takahashi, M. Kondou, K. Wakai, S. Bhattacharjee, Effect of radiation loss on flame spread
+over a thin PMMA sheet in microgravity, Proc. Combust. Inst. 29 (2002) 2579–2586.
+Y.-T. Tseng, J.S. T’ien, Limiting Length, Steady Spread, and Nongrowing Flames in
+Concurrent Flow Over Solids, J. Heat Transfer. 132 (2010) 91201. doi:10.1115/1.4001645.
+H.D. Ross, Basics of Microgravity Combustion, in: H.D. Ross (Ed.), Microgravity Combust.
+Fire Free Fall, 2001: pp. 1–33.
+M. Sibulkin, J. Kim, The dependence of flame propagation on surface heat transfer II. upward
+burning, Combust. Sci. Technol. 17 (1977) 39–49. doi:10.1080/00102209708946811.
+K. Tu, J.G. Quintiere, Wall Flame Heights with External Radiation, Fire Technol. (1991) 195–
+203.
+
+25
+

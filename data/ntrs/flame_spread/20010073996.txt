@@ -1,0 +1,732 @@
+©
+SOLID
+
+o111
+
+INFLAMMABILITY
+
+James
+
+T'ien*,
+
+Julie Kleinhenz*,
+
+o;.;
+
+BOUNDARY
+
+Paul Ferkul ÷, Kurt Sacksteder
+Hasan Bedir*,
+
+Richard
+
+AT
+
+LOW-SPEED
+
+#, Hsin-Yi
+
+Pettegrew
+
++, Nancy
+
+Shih*,
+Piltch"
+
+(SIBAL)
+
+Amit Kumar*,
+and David
+
+Frate"
+
+*Case Western Reserve University,
+Cleveland,
+Ohio 44106
++National Center for Microgravity
+Research,
+Cleveland,
+Ohio 44135
+"NASA Glenn Research Center, Cleveland,
+Ohio 44135
+INTRODUCTION
+This research program
+is concerned
+with the effect of low-speed,
+concurrent
+flow on the
+spreading
+and extinction
+processes of flames over solid fuels. The primary objective
+is to verify the
+theoretically
+predicted
+extinction
+boundary,
+using oxygen
+percentage
+and flow velocity
+as
+coordinates.
+Of particular interest are the low-speed quenching
+limits and the existence of the critical
+oxygen flammability
+limit. Detailed flame spread characteristics,
+including flame spread rate, flame
+size, and flame structure are sought.
+Since the predicted
+flame behavior depends on the inclusion of
+flame and surface radiation,
+the measured
+results will also be used to assess the importance
+of
+radiative heat transfer by direct comparison
+to a comprehensive
+numerical
+model.
+The solid fuel used in this experiment
+is a custom-made
+fabric consisting
+of a 1:1 blend of
+cotton and fiberglass.
+This choice was made following
+an extensive search to yield a material with
+favorable
+properties,
+namely,
+combustion,
+and flammability
+
+rollability,
+non-cracking
+in a range of oxygen
+
+behavior
+during combustion,
+strength after
+limits permissible
+within the Combustion
+
+Integrated
+Rack (CIR) on the International
+Space Station.
+At the present time, an effort is being
+made to characterize
+both the radiative properties
+of the fuel and the flame spreading
+behavior
+in
+normal gravity at reduced pressure.
+These will provide a basis for comparison
+with the mierogravity
+results as well as aid in bracketing
+the anticipated
+flammability
+boundary for the flight experiment.
+An overview of recent work, with emphasis on theoretical
+results, is presented
+below.
+THREE-DIMENSIONAL
+
+FLAME
+
+SPREAD
+
+MODEL
+
+A previously
+established
+two-dimensional
+laminar flame spread model over a thin solid in
+low-speed
+concurrent
+flow has been extended
+to three-dimensions.
+The model consists of the full
+Navier-Stokes
+equations
+for the conservation
+of mass, momentum
+energy and species in the gasphase. The species equations are for the fuel vapor, oxygen, carbon dioxide and water vapor. A onestep, second-order,
+finite-rate Arrhenius
+reaction between fuel vapor and oxygen is assumed.
+The
+solid obeys a zeroth-order
+pyrolysis relation and is thermally
+and aerodynamically
+thin. Both surface
+and gas radiation
+are included
+in the model.
+However,
+the coupled
+computation
+with the threedimensional
+gas-phase
+radiative
+transfer equation "__very time-consuming.
+Thus far, the computed
+solutions are restricted to the case with surface radiative loss only.
+Computations
+have been performed
+with the solid fuel inside a three-dimensional
+flow
+tunnel.
+placed
+
+In the first configuration
+examined,
+the tunnel height is fixed at 10 cm, and the solid fuel is
+at the middle height.
+The solid is fed into the tunnel at the steady burnout rate (only steady
+
+solutions are being sought).
+Laterally, the fuel spans the entire tunnel width (i.e., from wall to wall).
+The tunnel width (which is identical to the solid fuel width) is a parameter
+in the numerical
+study
+(varied from 2 cm to infinity).
+In addition to the fuel width, the incoming
+flow velocity
+and the oxygen percentage
+are
+varied.
+The fuel burnout is fixed at 6 cm from the tunnel entrance.
+In this configuration,
+several
+three-dimensional
+effects due to the presence
+of the tunnel walls are observed.
+First, the wall
+
+NASA/CP--2001-210826
+
+9
+
+changes
+
+the velocity
+
+profiles
+
+due to the
+
+conduct
+heat away from the flame,
+quenched
+layer near the walls creates
+At higher
+
+flow velocities
+
+no-slip
+
+boundary
+
+condition.
+
+Second,
+
+the cold
+
+which produces
+heat loss and a quenched
+layer.
+a space for oxygen side diffusion to the flame.
+
+(away
+
+from limit cases),
+
+the three-dimensional
+
+sidewalls
+Third,
+
+effect is mostly
+
+the
+heat
+
+transfer in origin, as the flames spread faster for wider samples.
+However,
+near the low-speed,
+lowoxygen
+limit, many unexpected
+results appear.
+The competition
+between
+wall heat loss, wall
+quenching,
+and oxygen side diffusion
+creates a number
+of unusual phenomena
+for the near-limit
+flames.
+These include faster spread for narrower
+samples and an extension
+of flammability
+beyond
+the two-dimensional
+limit for moderately
+narrow
+samples
+(about 4 cm wide for the specified
+conditions)
+[ 1,2]. The key mechanism
+responsible
+for these unusual phenomena
+appears to be the
+side diffusion
+of oxygen, which finds its way to the flame through quenched
+wall layers.
+Oxygen
+side diffusion strengthens
+the oxygen-starved
+near-limit
+flames.
+It also pushes the flames closer to
+the solid surface, which increases the flame heat feedback and the spread rate.
+
+.....
+
+5
+
+20
+
+1,,k.
+10
+
+Figure 1. Schematic
+of the three-dimensional
+flame in the flow tunnel.
+Upper half of the
+tunnel configuration
+is shown. The 4-era wide solid fuel (Y = 0) is fitted with a 1-cm inert strip
+on each side. The computed
+flame (only half of the upper flame) is shown stabilized over the
+solid where the flame base position (X = 0) is 6 cm away from the _ei
+entrance.
+oxidizer flow is imposed at the entrance and the solid fuel is fed into the flame.
+
+A forced
+
+In the proposed flight experiment,
+the tunnel flow cross section is fixed (10 cm x l0 cm) but
+the fuel sample width can be varie&
+In addition, to facilitate the translation
+of the sample and to
+eliminate
+edge effects, two inert strips are mounted
+on the sample sides (fig. 1). This realistic
+geometry is the second configuration
+examined
+numerically.
+With the inert strips, the flame spread
+rate increases
+due to the decrease
+of the wall heat loss and the promoti0n
+i_f the Oxygen side
+diffusion.
+of results
+......
+
+To demonstrate
+the modeling
+computed .....
+_: _ _: :
+
+capability,
+Figures
+:- _.......... _
+
+_-e-2%]iovTs-th-eri0h-d-_-ff_ensional
+
+s0Iid?tiiickness
+
+2 and 3 give an illustration
+_ _
+_d-sufface
+
+te_erature
+
+of the types
+
+conto_ofa_4
+
+cm wide solid fuel (thin cellulosic
+sheets with 20% noncombustible
+material)
+in 5 cm/s,
+flow.
+The pyrolysis
+front (thickness
+- 0.95) and burnout front are seen clearly to exhibit
+dimensional
+effect. This three-dimensional
+feature is even more pronounced
+in the preheat
+shown by the surface temperature
+contours.
+width ratio.
+The curvature
+of the contours
+
+-
+
+15% O2
+a threezone as
+
+z
+
+It is expected
+from the Consideration
+of the iength-t0in the downstream
+region is opposite to those in the
+=.
+
+NASA/CP_2001-210826
+
+10
+
+upstream flame base region.
+It is also noteworthy
+that in this calculation,
+the area thermal inertia
+the inert strips is assumed to be 100 times that of the fuel. Consequently,
+the strip temperature
+low. The strip thermal inertia is a parameter in the model and in the experiment.
+10 .......
+
+of
+is
+
+9
+8
+(Inert strip)
+7
+6 _ (Burnout)
+
+-ff
+tD
+
+v
+
+5
+
+U
+
+_
+-
+
+(Fresh fuel)
+
+0/tO
+t0.2/0.6 09 .o5t. f08
+099
+fo.81.
+
+tilill_' i
+ii\_i,_ \2.1
+
+!
+\2
+
+,
+!1.9
+
+_
+/'1.7
+
+, /1.5
+
+,
+//
+
+4
+3
+-
+
+(Inert strip)
+
+2
+
+__
+
+__L_a__t_l
+"-2
+
+i
+
+£1
+
+0
+
+i
+
+2
+
+I i
+4
+
+I_l_.._L_l_J
+e
+
+X (cm)
+Figure 2. The solid thickness (upper half) and
+temperature contours (lower half, 1 unit = 300 K).
+Figure 3 presents the projections
+of the streamlines
+and velocity vectors on the plane 8.5 mm
+above the solid surface.
+Also shown are the oxygen mass flux vectors, temperature
+contours,
+and
+fuel reaction rate contours.
+Note that due to thermal expansion, the hot temperature
+contours (e.g., T
+= 2) are extended beyond the width of the sample, consistent
+with experimental
+observations.
+Also
+note that side diffusion
+of oxygen is very pronounced
+near the flame base region.
+These computed
+results will provide guidance on the types of flame structure measurements
+that should be performed
+in the flight experiment.
+OPPOSED
+
+AND CONCURRENT
+
+In order to fully
+
+understand
+
+SPREADING
+
+FLAMES
+
+the relationship
+
+between
+
+COMPARISON
+flame
+
+spread
+
+in concurrent
+
+and
+
+in
+
+opposed
+flows, a two-dimensional
+opposed-flow
+model with the same assumptions
+as the twodimensional
+concurrent
+spread model is developed [3]. Both contain gas radiation.
+Flammability
+limits and spread rates are computed
+using oxygen percentage
+and free stream
+velocity as parameters.
+The opposed flow result is compared
+to that of concurrent
+flow.
+In both
+cases, the flammability
+boundary is a typical U-shaped
+curve which consists of two branches,
+namely
+a low-speed
+quenching
+branch which is due to radiative losses from both the gas phase and the fuel
+surface, and a high-speed
+blowoff branch which is due to inadequate
+flow residence
+time. Although
+
+NASMCP--2001-210826
+
+11
+
+qualitativelysimilar, the comparison the two flammability boundariesshowsthat there is a
+of
+crossover. Whenthe flow velocity is sufficientlylow, the flame in opposedflow can be more
+flammable, hile at higherflow velocitiesthe flamein concurrentlow is moreflammable. This is
+w
+f
+an unusualandintriguing discovery canbe explainedbasedon the relativeflow velocitywith
+but
+respectothe flame.
+t
+5 cm/s
+1.375 x 10 _ g/cm2/s
+
+8
+
+!
+
+5 -_"
+Z
+
+'
+_
+
+Z_
+
+'
+
+--_-t.\.
+
+....
+
+-l-iZ
+
+',
+
+"
+:
+
+!
+
+-_
+
+...................
+
+-35
+
+J
+
+, -, 10
+,.-,,
+
+.)
+
+-4
+
+....
+
+---r,IT
+
+! 10
+
+j 10
+
+-5
+
+t
+
+_
+-'6
+
+3
+
+"
+
+10. g/cm/s
+
+t
+
+:
+
+]
+
+1
+0
+0
+
+5
+
+10
+
+X(cm)
+Figure 3. The detailed flame structure on the plane at height Y = 8.5 mm above the solid. Upper
+half: velocity vectors, temperature
+contours
+(1 unit = 300 K). Lower half: velocity streamlines,
+fuel
+reaction
+
+rate contours,
+The flame-spread
+
+and oxygen
+
+mass flux vectors.
+
+rates in opposed
+
+The vectors
+
+and concurrent
+
+are projections
+
+flow exhibit
+
+different
+
+on this plane.
+trends.
+
+The flame-
+
+spread rate in concurrent
+flow is approximately
+proportional
+to the flow velocity while in opposed
+flow the variation of spread rate with flow velocity has a maximum
+at an intermediate
+flow velocity
+and drops near both the high and the low velocity limits.
+The two spread rate curves again can
+crossover.
+The spread rates for opposed flow can be higher than those for concurrent
+flow when the
+flow velocity is sufficiently low.
+REFERENCES
+1.
+
+Shih, H. Y.: "A Three-Dimensional
+Model of Flame Spread Over a Thin Solid in Low-Speed
+Concurrent Flow,"
+Ph.D. Dissertation,
+Case Western
+Reserve
+University,
+Cleveland,
+Ohio
+(January 2000).
+
+2.
+
+Shih, H. Y. and T'ien, J. S.: "Modeling
+Concurrent
+Speed Flow Tunnel," Proceedings
+of the Combustion
+
+3.
+
+Kumar, A., Shih, H. Y. and T'ien, J. S.: "A Comparison
+of Extinction
+Limits
+Rates in Opposed and Concurrent
+Spreading
+Flames Over Thin Solids," Presented
+Meeting of the US Sections of theCombustion
+Institute (March 2601).
+
+NASA/CP---2001-210826
+
+12
+
+Flame Spread Over a Thin Solid in a LowInstitute 28, to appear (2000).
+and Spreading
+at the 2 nd Joint
+

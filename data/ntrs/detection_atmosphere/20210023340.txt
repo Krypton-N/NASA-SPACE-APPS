@@ -1,0 +1,565 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Topical White Paper submitted to the Decadal Survey 2023-2032 
+
+Topical: Recommendations for Fire 
+Extinguisher Research for Crewed Missions 
+ 
+
+Corresponding Author: John W. Easton; phone: 216-433-2643; Case Western Reserve 
+University, Cleveland, Ohio; email: john.w.easton@nasa.gov  
+
+Co-Authors 
+
+Gordon Berger, Claire Fortenberry, and Rosa Padilla; Universities Space Research Association, 
+Cleveland, Ohio 
+
+Co-Signers 
+
+Luca Carmignani and Michael J. Gollner; Department of Mechanical Engineering, University of 
+California, Berkeley, California 
+
+Christian Eigenbrod; Center of Applied Space Technology and Microgravity, ZARM-University of 
+Bremen 
+
+Augustin Guibaud; Department of Civil, Environmental & Geomatic Engineering, University 
+College London 
+
+Michael Johnston; Universities Space Research Association, Cleveland, Ohio 
+
+Fletcher J. Miller; Department of Mechanical Engineering, San Diego State University, San 
+Diego, California 
+
+Gary Ruff and David Urban; NASA Glenn Research Center, Cleveland, Ohio 
+
+James T’ien; Department of Mechanical and Aerospace Engineering, Case Western Reserve 
+University, Cleveland, Ohio 
+
+  
+
+
+
+Background 
+
+While NASA and commercial partners spend enormous effort designing and building vehicles 
+and habitats with the goal of minimizing if not eliminating fire risk, there will always be a need 
+for fire extinguishing systems. Further, future Lunar and Martian missions anticipate a habitat 
+environment of 34% oxygen by volume, with a total pressure of 8.2 PSIA1. At these conditions, 
+materials that are non-flammable become flammable, and flammable materials require lower 
+ignition energy and burn faster with greater temperature and heat release rates than in normal 
+atmosphere. For these reasons, among many others, fire extinguishers enable future low Earth 
+orbit, Lunar, and Martian crewed missions by increasing the safety and resiliency of these 
+missions2.  
+
+Fire extinguishers have several criteria to meet for use in crewed space vehicles. They must be 
+effective for many different fire and fuel scenarios. They must be usable in an open area with 
+easy access to the burning material, as well as in constrained, enclosed, and/or tortuous areas 
+such as behind equipment racks or panels. The extinguishing material must not be toxic to crew 
+or damaging to environmental control systems and must not present onerous post fire clean 
+up. The extinguishers must also put out fires from different fuel sources, from paper to plastic 
+to lithium ion batteries to battling secondary fires around a damaged oxygen generator1, 3. 
+Lithium ion batteries pose particular challenges, as they are ubiquitous in electronics, have 
+been found to fail in terrestrial applications, and are a stored energy source which increases 
+heat release and potential damage to the vehicle4, 5. Currently, the International Space Station 
+(ISS) uses a mix of fine water mist extinguishers and carbon dioxide extinguishers in the U.S. 
+segment, with water-foam extinguishers in the Russian segment6. 
+
+Taken together, current knowledge of fire extinguisher performance requires further research. 
+Performance in reduced pressure, elevated oxygen atmospheres affects not only the flame 
+dynamics, but the extinguisher dynamics as will be discussed. The same is true of partial gravity 
+situations; reduced buoyancy affects the flame dynamics, but also the extinguisher and 
+extinguishing agent performance. Research into the performance of fire extinguishers in 
+exploration, partial gravity environments will greatly improve future missions by adding 
+margins of safety to crewed missions, particularly Lunar and Martian missions where crews may 
+be far from home and help. 
+
+This white paper describes some of the areas for future work and development testing fire 
+extinguishers for use in future space missions. The areas discussed include general 
+considerations of water mist extinguishers and areas of need for future modeling and testing, 
+the current use of scaling in terrestrial fires and the expansion of that concept to Lunar and 
+Martian missions, and the potential for other extinguishing materials for use in crewed vehicles 
+and habitats. 
+
+
+
+Water Mist and General Extinguisher Performance 
+
+Water and water mist extinguishers have been used for decades in terrestrial applications to 
+fight fires. Water is plentiful, inexpensive, non-toxic, has high specific and latent heats to 
+quench flames, displaces oxygen when evaporated in a flame zone, quenches and inhibits heat 
+and fuel transfer by soaking or pooling on a fuel surface. Water mist extinguishers propel small 
+droplets, including fine mist with mean droplet diameter between 20 and 100 μm7-9. These 
+extinguishers have received much attention in the literature, as Halon fire extinguishers are 
+generally phased out of use.  
+
+Water mist extinguishers mainly extinguish a flame through quenching. As the droplet 
+approaches the flame zone, heat from the flame increases the sensible temperature to the 
+boiling point, then evaporates the droplet, which absorbs more heat. Additional effects, such as 
+displacing oxygen after evaporation and radiative adsorption in addition to conductive and 
+convective effects, are important as well. One set of key criteria, though, are droplet size and 
+velocity. Typically, the goal is to have droplets large enough and with sufficient momentum to 
+penetrate the flame zone without evaporating before entering the flame zone, and with 
+enough momentum not to be overcome by the flame’s buoyant plume. If the droplets are too 
+large, or possess too much momentum, the droplets will exit the flame zone without fully 
+evaporating and potentially not removing enough energy from the flame to be effective. In this 
+case, the droplets will then saturate the fuel surface. In some cases, such as wood crib fires or 
+paper fires in an office, this may be a negligible or even beneficial outcome. In other cases, such 
+as a fire over an oil fryer in a restaurant kitchen or onto still-energized electrical components, 
+the outcome could be catastrophic7.  
+
+In a reduced gravity environment, both the temperature field, buoyant effects on the gas, and 
+body force effects on the droplets change compared to those found in normal gravity 
+applications. This means that, while the requirement for “just right” droplet size distribution 
+and momentum is still critical, the actual “just right” conditions change with the gravity level 
+experienced by the vehicle or habitat. These factors are also difficult to model numerically, as 
+most models now used do not account for changes in flame temperature and profile, change in 
+buoyant laminar versus turbulent flow, or kinematics of droplets in non-Earth gravity.  In 
+addition to the changes in flame characteristics and behavior in reduced gravity, the 
+atmospheric environment also plays a role. As discussed, future crewed missions to the Moon 
+and Mars anticipate a standard habitable atmosphere of elevated oxygen concentration in low 
+total pressure. Research has shown that reduced atmospheric pressure decreases water mist 
+extinguisher mean droplet diameter as well as the axial droplet velocity10. Thus, both the 
+atmospheric and gravitational effects on flames and extinguisher behavior must be 
+investigated. 
+
+The change in fire and extinguisher dynamics, and the interaction of these, calls for research 
+into fire and fire extinguisher use in the appropriate environments. These include elevated 
+
+
+
+oxygen at reduced pressure and partial gravity environments. Experiments in drop towers, 
+sounding rockets, and aircraft can form a basis for this work, but larger scale experiments 
+should also be considered as the body of knowledge in the appropriate environment builds. 
+This research should not only explore the dynamics of fire extinguishment, but practical 
+concerns, such as how large and how capable a fire extinguisher capability should be, and when 
+and how to fight a fire in a space craft or habitat module.  
+
+Modeling 
+
+Modeling the spray characteristics and interaction between flame and suppressant is an 
+ongoing area of research in terrestrial fire extinguishment, and presents opportunities and 
+challenges in reduced gravity, exploration environments. This work includes the development 
+and use of computational fluid dynamics as well as modeling “packages”, such as the Fire 
+Dynamics Simulator (FDS) developed by the National Institute of Standards and Technology 
+(NIST)11. This work includes the interactions of flame and extinguishing agent as well and 
+include models of droplet behavior, using statistical distributions of droplet size and velocity to 
+predict flame interaction and extinguishment12-14. Other modeling efforts have focused on the 
+water spray dynamics. These efforts attempt to predict the statistical droplet diameter and 
+velocity distributions15-18 
+
+Future work in modeling calls for many of these same types of studies but performed using the 
+gravitational and environmental conditions of reduced gravity, Lunar, and Martian 
+environments. Changes in flame dynamics and buoyancy, changes in the diameter and velocity 
+distribution due to gravity and atmosphere, and tortuous paths, closed systems, and obstructed 
+flames in vehicle habitats all add complexity and changes to the work necessary in providing 
+fire extinguishment capability to future missions. The authors here recommend the 
+development of numerical models to predict behavior in such conditions, and experiments to 
+validate, test, and provide insight into the real-world dynamics of extinguishing flames in 
+reduced gravity. 
+
+Additives to Water Mist and Other Extinguishing Materials 
+
+Water mist extinguishers are by no means the only extinguishers available for use on crewed 
+vehicles and habitats. Other extinguishing strategies have received attention in the fire safety 
+community and should be considered for future space vehicle applications. The criteria, as 
+mentioned above, include choosing effective extinguishing media19, the ability to put out 
+obstructed fires or flames with tortuous paths, extinguish multiple fuel sources, be safe to 
+crew, environmental and other vehicle systems, and to be easy to clean up after a fire event. 
+
+Additives to water mist extinguishers are one way to increase the efficacy of the extinguisher. 
+Research in this area includes adding a salt to a water source in water mist extinguishers20, 21. 
+This work, among others, found the ions from salt interacted with ions in the flame reaction 
+zone, increasing the effectiveness of water mist. Water-based foam extinguishers are already in 
+
+
+
+use on the ISS and present another option for extinguisher media3. Halon replacement gases 
+have also been studied extensively22-24. Other choices include using an inert gas, such as the 
+current carbon dioxide on the ISS4 or xenon25. Finally, inert particles26 may also be an option, 
+particularly in Lunar or Martian missions with significant gravity. While outside the scope of this 
+white paper, future use of fire blankets and “fire bags” to contain potentially burning material 
+should also be explored. We recommend future studies should explore other extinguishing 
+media, including inert particles, for use in Lunar and Martian spacecraft. 
+
+Scaling Fires and Fire Extinguishers 
+
+The fire safety community has used the Froude number to scale model fires and extinguishers 
+as test beds for realistic fire scenarios. The Froude number, 
+
+𝑢𝑢02𝑇𝑇∞
+𝐿𝐿𝐿𝐿(∆𝑇𝑇0)
+
+ 
+
+relates inertial to gravitational forces, where 𝑢𝑢02 is the plume velocity, 𝑇𝑇∞ is the ambient 
+temperature, L is a flame length scale (size of fuel sample, fire diameter, etc.), g is the 
+gravitational accelerations, and ∆𝑇𝑇0 is the difference between the flame and ambient 
+temperature. Assuming temperatures are constant in both the realistic fire and scaled fire, and 
+that the flame zone is turbulent and well mixed, velocity scales as the square root of length. 
+This scaling also requires relaxing the constraint of equal Reynolds Number across the realistic 
+and scaled flame scenarios, allowing the velocity to vary from scale to scale. Applying this 
+scaling leads to mass flux, heat flux, and pressure scaling as powers of the length as well and 
+allows for scaling flames across sizes. Further, assuming the trajectories and diameter 
+characteristics of droplets from a water mist extinguisher or sprinkler are the same across scale, 
+the behavior of droplets in terms of heat removed, evaporation, and other factors to also scale 
+as various powers of the length. This analysis allows for the use of scaled test fire and sprinkler 
+systems up to a factor of 10 to narrow the requirements for fire safety in real world 
+applications, even if scaled fires do not fully model an actual, expected fire scenario27-32. 
+
+This scaling, however, has not been used for modeling or testing fires in space vehicles. The 
+model is not valid across gravitational levels (i.e. Earth vs Lunar) due to differences in 
+temperature between the two gravity levels, non-buoyant flames not becoming turbulent to 
+provide mixing outside the flame zone, changes in flame temperature due to transport, 
+differences in droplet trajectory due to gravitational differences, and many other factors.  
+
+Future work, though, provides test beds to explore, develop, and test model fires and 
+extinguisher configurations for future Lunar and Martian missions. This work includes proposals 
+for use in drop towers with rotating platforms to induce partial gravity, parabolic flights on test 
+aircraft, Blue Origin rockets, and future robotic Lunar missions. The authors propose using the 
+existing scaling relationships to develop scale model flames using these test beds, with the 
+Froude number scaling already used for terrestrial, commercial applications. The scaling data 
+
+
+
+can inform the length and time scale necessary for model experiments in these platforms to 
+mimic realistic fires and fire extinguishment in Lunar or Martian vehicles and habitats. These 
+models can provide insight into potential, full scale fires in Lunar or Martian habitats and 
+methods for fighting those fires. These insights will inform design requirements, criteria, and 
+operational procedures for the crewed vehicles and habitats. These data will be both directly 
+applicable as well as inform future, larger- to full-scale fire and extinguisher testing in partial 
+gravity environments. 
+
+Recommendations 
+
+The use of fire extinguishers in future space missions is of critical importance, and the 
+performance of the extinguisher must be shown in the relevant gravity and atmospheric 
+environment. The extinguisher must put out a fire, in reduced gravity, at elevated oxygen 
+concentration and reduced total pressure, with a variety of fuel sources including stored energy 
+reactions, and with tortuous path and hidden fires. The authors make the following 
+recommendations for future work in these areas: 
+
+• Explore the dynamics of fine water mist extinguishers, determining the appropriate 
+droplet diameter distribution and momentum to transport droplets to a fire, have 
+droplets penetrate to the reaction zone, and minimize post-fire clean up. This work 
+should also address the size of a fire extinguisher and/or extinguishing system, and 
+when and how it should be used. This includes work in reduced gravity facilities such as 
+drop towers, aircraft, sounding rockets, building towards microgravity, Lunar, and (in 
+the future) Martian experiments.  
+
+• Build computational modeling expertise and experience, to include the various effects 
+of reduced gravity and enhanced oxygen environment on both flame dynamics as well 
+as droplet dynamics, and the interactions of these phenomena. This work will also 
+inform the sizing and use of a fire extinguisher. 
+
+• Explore other fire extinguisher media, including but not limited to additives to water-
+mist extinguishers, halon-replacement chemicals, inert chemicals, and inert particles, 
+again meeting the criteria to extinguish a flame and minimize post-fire cleanup. 
+
+• Pursue current scaling relationships used for demonstration, scaled fires in terrestrial 
+applications to model fire and extinguisher scenarios. This includes testing existing 
+scaling relationships in the relevant environment, pursue other or additional scaling 
+relationships, and exploring potential scaling relationships that allow for modeling fire 
+and extinguisher scenarios across gravity levels. This also includes numerical modeling 
+efforts as well as experimentation. 
+
+  
+
+
+
+References 
+
+1 Dietrich, D., Ruff, G., & Urban, D. (2009). Fundamentals of Fire Suppression in Reduced 
+Gravity Environments. SAE International Journal of Aerospace, 307-316. 
+doi:10.4271/2008-01-2087 
+
+ 
+2 Ruff, G. A., Urban, D. L., & Dietrich, D. L. (2020). Spacecraft Fire Safety Technology 
+
+Development Plan For Exploration Missions. 2020 International Conference on 
+Environmental Systems. https://hdl.handle.net/2346/86349 
+
+ 
+3 Kopylov, S., Smirnov, N., & Tanklevsky, L. (2015). Fire extinghishers for manned 
+
+spacecraft. Acta Astronautica, 225-230. doi:10.1016/j.actaastro.2014.11.004 
+ 
+
+4 Padilla, Rosa, Dietrich, Daniel, Lynch, Kelly, Juarez, Alfredo, Harper, Susana, Nagel, 
+Chrisopher, Ruff, Gary, & Urban, David (2019). Characterization of Laptop Fires 
+in Spacecraft. 49th International Conference on Environmental Systems. 
+https://hdl.handle.net/2346/84955 
+
+ 
+5 Padilla, Rosa E., Dietrich, Daniel, Pitz, William, Ruff, Gary, & Urban, David (2021). 
+
+Battery Fire Risk Assessment. 50th International Conference on Environmental 
+Systems. https://hdl.handle.net/2346/87240 
+
+ 
+6 Rodriguez, B., & Young, G. (2013). Development of the International Spcae Station Fine 
+
+Water Mist Portable Fire Extinguisher. 43rd International Conference on 
+Environmental Systems. doi:10.2514/6.2013-3413 
+
+ 
+7 Grant, G., Brenton, J., & Drysdale, D. (2000). Fire suppression by water sprays. Progress 
+
+in Energy and Combustion Science, 79-130. doi:10.1016/S0360-1285(99)00012-X 
+ 
+
+8 Pei, B., Yu, M., Liwei, C., Zhu, X., & Yang, Y. (2016). Experimental study on the synergistic 
+inhibition effect of nitrogen and ultrafine water mist on gas explosion in a 
+vented duct. Journal of Loss Prevention in the Process Industries, 546-553. 
+doi:10.1016/j.jlp.2016.02.005 
+
+ 
+9 Santangelo, P. E., & Tartarini, P. (2010). Fire Control and Suppression by Water-Mist 
+
+Systems. The Open Thermodynamics Journal, 167-184. 
+doi:10.2174/1874396x01004010167 
+
+ 
+10 Wang, X., Zhu, P., Li, Y., Ni, X., & Fan, M. (2015). Effect of low ambient air pressure on 
+
+spray characteristics of water mist. Experimental Thermal and Fluid Science, 7-
+12. doi:10.1016/j.expthermflusci.2015.03.009 
+
+ 
+
+https://doi.org/10.4271/2008-01-2087
+https://hdl.handle.net/2346/86349
+https://doi.org/10.1016/j.actaastro.2014.11.004
+https://hdl.handle.net/2346/84955
+https://hdl.handle.net/2346/87240
+https://doi.org/10.2514/6.2013-3413
+https://doi.org/10.1016/S0360-1285(99)00012-X
+https://doi.org/10.1016/j.jlp.2016.02.005
+http://dx.doi.org/10.2174/1874396X01004010167
+https://doi.org/10.1016/j.expthermflusci.2015.03.009
+
+
+11 McGrattan, K., McDermott, R., Vanella, M., Hostikka, S., & Floyd, J. (2021). Fire 
+Dynamics Simulator Users's Guide. National Institute of Standards and 
+Technology. doi:10.6028/NIST.SP.1019 
+
+ 
+12 Yoon, S. S., Figueroa, V., Brown, A. L., & Blanchat, T. K. (2010). Experiments and 
+
+Modeling of Large-scale Benchmark Enclosure Fire Suppression. Journal of Fire 
+Sciences, 109-139. doi:10.1177/0734904109104503 
+
+ 
+13 Jenft, A., Collin, A., Boulet, P., Pianet, G., Breton, A., & Muller, A. (2014). Experimental 
+
+and numerical study of pool fire suppression using water mist. Fire Safety 
+Journal, 1-12. doi:10.1016/j.firesaf.2014.05.003 
+
+ 
+14 Jenft, A., Boulet, P., Collin, A., Trevisan, N., Mauger, P.-N., & Pianet, G. (2017). Modeling 
+
+of fire suppression by fuel cooling. Fire Safety Journal, 680-687. 
+doi:10.1016/j.firesaf.2017.03.067 
+
+ 
+15 Myers, T., & Marshall, A. (2016). A description of the initial fire sprinkler spray. Fire 
+
+Safety Journal, 1-7. doi:10.1016/j.firesaf.2016.05.004 
+ 
+
+16 Sikanen, T., Vaari, J., Hostikka, S., & Paajanen, A. (2014). Modeling and Simulation of 
+High Pressure Water Mist Systems. Fire Technology, 483-504. 
+doi:10.1007/s10694-013-0335-8 
+
+ 
+17 Beji, T., Zadeh, S. E., Maragkos, G., & Merci, B. (2017). Influence of the particle injection 
+
+rate, droplet size distribution and volume flux angular distribution on the results 
+and computational time of water spray CFD simulations. Fire Safety Journal, 586-
+595. doi:10.1016/j.firesaf.2017.03.040 
+
+ 
+18 Meredith, K., de Vries, J., Wang, Y., & Xin, Y. (2013). A comprehensive model for 
+
+simulating the interaction of water with solid surfaces in fire suppression 
+environments. Proceedings of the Combustion Institute, 2719-2726. 
+doi:10.1016/j.proci.2012.06.094 
+
+ 
+19 Avedisian, C., Presser, C., Stiehl, J., & Cavicchi, R. (2010). A simple method to assess the 
+
+quenching effectiveness of fire suppressants. Fire Safety Journal, 206-210. 
+doi:10.1016/j.firesaf.2010.02.002 
+
+ 
+20 Joseph, P., Nichols, E., & Novozhilov, V. (2013). A comparative study of the effects of 
+
+chemical additives on the suppression efficiency of water mist. Fire Safety 
+Journal, 221-225. doi:10.1016/j.firesaf.2013.03.003 
+
+ 
+21 Tianwei, Z., Hao, L., Zhiyue, H., Zhiming, D., & Yong, W. (2017). Active substances study 
+
+in fire extinguishing by water mist with potassium salt additives based on 
+
+https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication1019.pdf
+https://doi.org/10.1177/0734904109104503
+https://doi.org/10.1016/j.firesaf.2014.05.003
+https://doi.org/10.1016/j.firesaf.2017.03.067
+https://doi.org/10.1016/j.firesaf.2016.05.004
+https://link.springer.com/article/10.1007/s10694-013-0335-8
+https://doi.org/10.1016/j.firesaf.2017.03.040
+https://doi.org/10.1016/j.proci.2012.06.094
+https://doi.org/10.1016/j.firesaf.2010.02.002
+https://doi.org/10.1016/j.firesaf.2013.03.003
+
+
+thermoanalysis and thermodynamics. Applied Thermal Engineering, 429-438. 
+doi:10.1016/j.applthermaleng.2017.05.053 
+
+ 
+22 Pagliaro, J. L., Linteris, G. T., Sunderland, P. B., & Baker, P. T. (2015). Combustion 
+
+inhibition and enhancement of premixed methane-air flames by halon 
+replacements. Combustion and Flame, 41-49. 
+doi:10.1016/j.combustflame.2014.07.006 
+
+ 
+23 Pagliaro, J. L., Linteris, G. T., & Babushok, V. I. (2016). Premixed flame inhibition by 
+
+C2HF3Cl2 and C2HF5*. Combustion and Flame, 54-65. 
+doi:10.1016/j.combustflame.2015.08.015 
+
+ 
+24 Xu, W., Jiang, Y., Qui, R., & Ren, X. (2017). Influence of halon replacements on laminar 
+
+flame speeds and extinction limits of hydrocarbon flames. Combustion and 
+Flame, 1-13. doi:10.1016/j.combustflame.2017.03.029 
+
+ 
+25 Alam, F. E., Dryer, F. L., & Farouk, T. I. (2016). Effectiveness of Xenon as a Fire 
+
+Suppressant Under Microgravity Combustion Environment. Combustion Science 
+and Technology, 145-165. doi:10.1080/00102202.2015.1085033 
+
+ 
+26 Ranganathan, S., Lee, M., Akkerman, V., & Rangwala, A. S. (2015). Suppression of 
+
+premixed flames with inert particles. Journal of Loss Prevention in the Process 
+Industries, 46-51. doi:10.1016/j.jlp.2015.03.009 
+
+ 
+27 Heskestad, G. (1975). Physical Modeling Of Fire. Journal of Fire and Flammability, 254-
+
+273. doi:10.1016/S0379-7112(02)00012-7 
+ 
+
+28 Heskestad, G. (2002). Scaling the interaction of water sprays and flames. Fire Safety 
+Journal, 535-548. doi:10.1016/s0379-7112(02)00012-7 
+
+ 
+29 Heskestad, G. (2003). Extinction of gas and liquid pool fires with water sprays. Fire 
+
+Safety Journal, 301-317. doi:10.1016/s0379-7112(02)00085-1 
+ 
+
+30 Yu, H.-Z. (2012). Froude-modeling-based general scaling relationships for fire 
+suppression by water sprays. Fire Safety Journal, 1-7. 
+doi:10.1016/j.firesaf.2011.09.006 
+
+ 
+31 Yu, H.-Z. (2016). Investigation of Fire Extinguishment in Large Facilities based on 
+
+Physical Scaling, Modeling and Testing. Fire Technology, 2143-2157. 
+doi:10.1007/s10694-015-0546-2 
+
+ 
+32 Tanaka, F., Mizukami, W., & Moinuddin, K. A. (2020). Fire cooling performance by water 
+
+sprays using medium and small-scale model experiments with scaling relaxation. 
+Fire Safety Journal. doi:10.1016/j.firesaf.2020.102965 
+
+https://doi.org/10.1016/j.applthermaleng.2017.05.053
+https://doi.org/10.1016/j.combustflame.2014.07.006
+https://doi.org/10.1016/j.combustflame.2015.08.015
+https://doi.org/10.1016/j.combustflame.2017.03.029
+https://doi.org/10.1080/00102202.2015.1085033
+https://doi.org/10.1016/j.jlp.2015.03.009
+https://doi.org/10.1016/S0379-7112(02)00012-7
+https://doi.org/10.1016/S0379-7112(02)00012-7
+https://doi.org/10.1016/S0379-7112(02)00085-1
+https://doi.org/10.1016/j.firesaf.2011.09.006
+https://link.springer.com/article/10.1007/s10694-015-0546-2
+https://doi.org/10.1016/j.firesaf.2020.102965
+
+
+ 
+
+
+	Background
+	Water Mist and General Extinguisher Performance
+	Modeling
+	Additives to Water Mist and Other Extinguishing Materials
+
+	Scaling Fires and Fire Extinguishers
+	Recommendations
+

@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Title Date  Name, Title, Organization
+
+
+Fire Safety Implications of Preliminary Results from Saffire IV 
+and V Experiments on Large Scale Spacecraft Fires
+
+July 14, 2021
+
+
+
+Authors
+
+• David L. Urban, Gary A. Ruff, Paul Ferkul, John Easton, Jay Owens, Sandra Olson, Marit Meyer, Claire 
+Fortenberry, John Brooker NASA Glenn Research Center, Cleveland, OH, USA
+
+• John Graf, Michael Casteel, NASA Johnson Space Center, Houston, TX, USA 
+• Balazs Toth, ESTEC, Noordwijk, Netherlands
+• Florian Meyer, Christian Eigenbrod, University of Bremen (ZARM), Bremen, Germany
+• James S. T’ien, Ya-Ting T. Liao, Case Western Reserve University, Cleveland, OH, USA
+• A. Carlos Fernandez-Pello, UC Berkeley, Berkeley, CA, USA  
+• Guillaume Legros, CNRS-ICARE, Univ. Orléans, Orléans, France
+• Augustin Guibaud, University College, London, UK
+• Nickolay Smirnov, Moscow State University, Russian Federation 
+• Osamu Fujita, Hokkaido University, Sapporo, Japan 
+• Grunde Jomaas, University of Edinburgh, Edinburgh, UK
+Acknowledgements:
+
+NASA Advanced Exploration Systems Division 
+
+Space and Research agencies that have supported this work including but not limited to JAXA, ESA, RSA, 
+CNES, DLR, the Russian Academy of Sciences and NASA. ]The excellent support by the engineering team 
+
+            
+
+2
+
+
+
+Motivation and Background
+
+3
+
+• How rapidly can a fire spread in low-g?
+• How long will it take to detect it?
+• How will it affect vehicle habitability?
+Background
+
+– Saffire I-III flew in 2016 & 2017
+– Examined fire growth on thin fuels and flammability 
+
+limits
+• Saffire IV-VI objectives
+
+– Consider thick fuels, longer burn times & exploration 
+atmospheres,
+
+– Examine impact on the vehicle and post fire recovery
+– Saffire IV and V flew in 2020 and 2021
+
+ALL terrestrial occupied structure types have been the subject of full scale fire tests
+(planes, ships, cars, trains, buildings, mines etc.)
+
+Far Field Diagnostics (in Mid Deck Locker)
+Avionics, CO2 scrubber, Smoke Eater, Combustion Products Monitor, particulate monitors 
+(DustTrack & Ion Chamber)
+
+Remote Sensors (6)
+Measure temp & CO2 in standoffs,
+hatch and end cone
+
+Saffire Flow Unit
+Approx. 53x90x133cm. New features 
+include 2 side view cameras, acid gas, O2, 
+heat and byproduct release to cabin 
+
+
+
+Configuration in spacecraft
+
+Dots are remote sensors, RED in standoffs, GREEN in end cone or hatch.
+A: Saffire Flow Unit
+B: Far Field Diagnostics
+
+4
+
+A
+
+B
+Hatch/Zenith
+
+Nadir/End Cone
+
+
+
+Test Matrix (as executed)
+
+Flight/Sample IV-1 IV-2 V-2 V-3 V-4
+
+Material/configuration SIBAL Cloth 2-sided 
+PMMA
+
+Cotton 
+Jersey
+
+1 sided 
+PMMA
+
+Structured 
+PMMA
+
+Length (cm) 50 18 50 18 20
+
+Air Flow Rate (cm/s) 20 20 20 20 20
+
+Flow Direction Concurrent Concurrent Concurrent Concurre
+nt
+
+Opposed
+
+Ambient Pressure (kPa) 100.0 100.0 70.7 71.3 72.6
+
+Oxygen Concentration
+(mol %)
+
+22.0 22.0 26.2 25.4 25.7
+
+Pressurized Volume (m3) 18.7 19.2
+
+Free volume (m3) 17.9 19.0
+
+5
+
+
+
+Sample configuration
+
+Saffire IV
+
+6
+
+Cotton Fabric
+
+Test 3
+
+Normoxic O2 with 
+forced flow
+
+Test 2
+
+Test 1
+
+1-sided PMMA (0.5 cm thick.)
+
+Structured PMMA (1 cm thick.)
+Test 4
+
+SIBAL Fabric
+
+Test 2
+
+Air and Normoxic O2
+with forced flow
+
+Test 1
+
+Test 4
+
+2-sided PMMA (1 cm thick.)
+
+1-sided PMMA (0.5 cm thick.)
+
+Nomex Fabric
+Test 3
+
+Saffire V
+
+
+
+Findings-Extinguishment
+
+Saffire V-2 (cotton jersey)
+Low flow for 35 s 
+Flow was off for 70 seconds 7
+
+Extinguishment of thin charring fuels at increased oxygen cannot be assumed to occur rapidly in 
+quiescent conditions.
+
+10 X speed video- top view
+
+
+
+Findings-Extinguishment
+
+8
+
+Extinguishment of 
+bubbling polymers 
+cannot be assumed to 
+occur rapidly in 
+quiescent conditions
+
+Flame shrank during the reduced flow interval of 65 seconds but survived the 15 second no-flow 
+interval.
+Flame extinguished below the sample for 6.4 seconds but  reignited
+
+
+
+Findings-Extinguishment
+
+One sided PMMA. 
+300 seconds of low air flow (5 cm/s) 9
+
+In some circumstances, reducing air flow to 
+a small value rather than quiescent 
+conditions may be useful to disperse fuel 
+vapor and help cool the material to enable 
+extinction
+
+
+
+Findings  - Spread rate
+
+Effect of sample size and duct dimensions
+Saffire I-III were in a 46 cm duct and Saffire 
+IV was in a 30 cm duct.
+
+10
+
+BASS concurrent 2 cm wide
+BASS concurrent 1 cm wide
+BASS opposed 2 cm wide
+Saffire I& III: 40 cm wide
+Saffire II: 5 cm wide 
+Saffire IV: 40 cm wide
+
+Duct size and flow development 
+can affect the spread rate and the 
+pyrolysis length
+
+
+
+Findings-Flow/configuration
+
+• Cotton and SIBAL samples from 
+Saffire I-V
+
+11
+
+Duct size and flow development can affect the spread rate and the 
+pyrolysis length
+
+
+
+Findings - Surface structure
+
+Opposed flame spread on ribbed PMMA. 
+Flow is from left to right at 20 cm/s. 
+Sample rib centerlines (red lines) are indicated. Ribs are 3 mm high with 
+widths increasing from 1 mm to 10 mm by 1 mm increments 
+2 cm between adjoining rib faces
+
+12
+
+In opposed spread over thick materials, the size of ridges or other surface 
+shape structures can have a significant effect on flame spread.
+
+10 cm
+
+
+
+Overview
+
+13
+
+• Spread and Growth
+– Flames were seen to develop to nearly steady lengths in all configurations. 
+
+• This includes concurrent and opposed spread on thin fuels and on thick fuels. 
+– Flames on thick fuels in concurrent flow did not spread and were instead pinned to the leading edge of the sample 
+
+• In opposed flow on thin structures, the flames spread toward the leading edge where they became pinned, flames behind 
+obstacles did not spread. 
+
+– Once a flame achieved its limiting size, downstream flames were inhibited or extinguished by the oxygen “shadow” of the 
+upstream flame.
+
+– Thick fuel flame growth was found to be dissimilar from that seen in NASA STD 6001 Test 1: concurrent flames established a 
+finite size and did not grow further.   This does not invalidate the test but does affect the interpretation of the test results
+
+– In one case, a flame was seen to jump a 4.5 cm gap to ignite a previously warmed PMMA surface.
+
+• The Saffire experiments have identified important features of flame spread and growth on solid fuels.
+• The experiments had a measurable impact on the spacecraft itself
+
+– These results will be used to validate our models of fire impact
+– Post fire cleanup results are discussed in another paper
+
+
+
+
+	 Fire Safety Implications of Preliminary Results from Saffire IV and V Experiments on Large Scale Spacecraft Fires�July 14, 2021
+	Authors
+	Motivation and Background
+	Configuration in spacecraft
+	Test Matrix (as executed)
+	Sample configuration
+	Findings-Extinguishment
+	Findings-Extinguishment
+	Findings-Extinguishment
+	Findings  - Spread rate
+	Findings-Flow/configuration
+	Findings - Surface structure
+	Overview
+	Slide Number 14
+

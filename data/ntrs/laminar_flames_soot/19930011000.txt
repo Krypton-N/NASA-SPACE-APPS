@@ -1,0 +1,2363 @@
+EFFECTS
+
+OF BUOYANCY
+
+ON LAMINAR,
+
+TRANSITIONAL,
+
+GAS JET DIFFUSION
+M. Yousef
+Science
+
+TURBULENT
+
+FLAMES
+
+N93-20189
+
+Bahadori t
+
+Applications
+International
+Corporation
+Thermal Sciences Division
+Torrance,
+
+Dennis
+
+AND
+
+California
+
+90501-1724
+
+P. Stocker, t David F. Vaughan, tt and Liming
+NASA Lewis Research Center
+Cleveland,
+
+Ohio
+
+Zhou"
+
+44135
+
+and
+Raymond
+
+B. Edelman §
+
+Rockwell International
+Corporation
+Rocketdyne
+Division
+Canoga Park, California
+
+Gas jet diffusion
+flames have been a subject of research for many years.
+However, a better understanding
+of the
+physical and chemical phenomena
+occurring in these flames is still needed, and, while the effects of gravity on the
+burning process have been observed, the basic mechanisms
+responsible
+for these changes have yet to be determined.
+The fundamental
+mechanisms
+that control the combustion
+process are in general coupled and quite complicated.
+These include mixing, radiation, kinetics, soot formation and disposition,
+inertia, diffusion,
+and viscous effects.
+In
+order to understand the mechanisms controlling a fire, laboratory-scale
+laminar and turbulent gas-jet diffusion flames
+have been extensively
+studied, which have provided
+important
+information
+in relation to the physico-chemical
+processes occurring in flames. However, turbulent flames are not fully understood
+and their understanding
+requires
+more fundamental
+studies of laminar diffusion flames in which the interplay of transport phenomena
+and chemical
+kinetics is more tractable.
+But even this basic, relatively simple flame is not completely
+characterized
+in relation to
+soot formation, radiation, diffusion, and kinetics.
+Therefore, gaining an understanding
+of laminar flames is essential
+to the understanding
+of turbulent flames, and particularly
+fires, in which the same basic phenomena
+occur. Figures 1
+and 2 show, respectively,
+the processes occurring
+in a laminar jet diffusion
+flame and the three regimes of flames
+(i.e., laminar, transitional,
+and turbulen0.
+In order to improve and verify the theoretical
+models essential
+to the
+interpretation
+of data, the complexity
+and degree of coupling of the controlling
+mechanisms
+must be reduced.
+If
+gravity is isolated,
+the complication
+of buoyancy-induced
+convection
+would be removed
+from the problem.
+In
+addition, buoyant convection
+in normal gravity masks the effects of other controlling
+parameters
+on the flame.
+Therefore,
+the combination
+of normal-gravity
+and microgravity
+data would provide the information,
+both theoretical
+and experimental,
+to improve our understanding
+of diffusion
+flames in general, and the effects of gravity on the
+burningprocessinparticular.
+
+Paper presented at the Second International
+Workshop on Combustion Science in Microgravity,
+September 15-17,
+1992, Cleveland, Ohio. This work is supported by NASA Lewis Research Center under Conu'acts NAS3-22822 ("Effects
+of Buoyancy on Laminar Gas Jet Diffusion Flames," End Date: April 1. 1992) and NAS3-25982 ("Gravitational Effects
+on Transitional and Turbulent Gas Jet Diffusion Flames," Start Date: November 11, 1991) with Science Applications
+International
+Corporation.
+i" Senior Scientist, Author for Correspondence;
+
+21151 Western Avenue,
+
+Torrance, CA, 90501-1724.
+
+NASA Project Scientist.
+1"'1" esearch Assistant, Baldwin-Wallace
+R
+** Post-Doctoral
+§
+
+Resident
+
+Co-Investigator,
+
+College.
+
+Berea` Ohio.
+
+Research Associate from University
+
+formerly
+
+of Science
+
+Applications
+
+of California,
+
+International
+
+91
+PHEGEC,,=_._
+
+P_GE
+
+E_LANK
+
+NOT
+
+F!Lllf_l)
+
+Berkeley.
+
+Corporation.
+
+The overall objective of this effort is to gain a better fundamental understanding
+of the behavior and characteristics
+of
+gas-jet diffusion flames in the absence of buoyancy.
+Diffusion flames are selected because they are easy to control,
+and embody mechanisms
+important in many combustion processes such as fires and practical combustion
+systems.
+The specific
+objectives
+of these microgravity
+studies are to characterize
+the transient
+phenomena
+of flame
+development
+following ignition, steady-state
+flame behavior, effects of soot, radiative characteristics,
+and if any,
+extinction phenomena."I'hese objectives
+are being accomplished
+through measurements
+of the microgravity
+flame
+size and development,
+observations
+on flame color and luminosity,
+temperature
+measurements,
+global and local
+flame-radiation
+measurements,
+and species measurements.
+In addition, the tests provide the effects of buoyancy as
+well as Reynolds number, nozzle size, fuel reactivity and fuel type, oxygen concentration,
+pressure, and other global
+characteristics
+of gas-jet diffusion
+flames over the entire range of laminar, transitional,
+and turbulent regimes•
+Comparisons
+are also being made with the characteristics
+of the normal-gravity
+counterparts
+of these flames to
+determine the effects of buoyancy on these jet diffusion flames. Analytical and numerical
+studies are also underway
+to provide comparisons between the measured and predicted flame phenomena.
+In the following sections, we present the experimental
+and theoretical
+efforts
+important
+findings of this program.
+More information
+is available
+from
+comprehensive
+review of the past efforts on laminar diffusion flames, see [ 1 ].
+
+Tests on laminar diffusion
+flames
+5.18-Second Zero-Gravity
+Facility
+15% to 50% oxygen in nitrogen
+conducted
+in the KC-135 research
+rates (1.0 to 5.0 cc/sec for methane
+laminar phase of these studies were
+
+conducted
+the cited
+
+to date, in addition
+references
+[1-10].
+
+to the
+For a
+
+of methane and propane were conducted
+in the 2.2-Second
+Drop Tower and the
+of the NASA Lewis Research Center.
+The oxidizing environment
+consisted of
+at pressures
+of 0.5 to 1.5 atm.
+In addition,
+a preliminary
+series of tests were
+aircraft.
+Various nozzle sizes (0.051 to 0.0825 cm in radius) and volume flow
+and 0.3-1.5 cc/sec for propane) were used. The jet Reynolds numbers for the
+in the range of 20-200, based on the nozzle radius and fuel properties.
+
+The 2.2-second tests [2, 4, 61 were conducted to obtain information on the laminar-flame
+behavior and characteristics,
+and to defme the matrix for the longer-duration,
+5.18-second tests. The flames were ignited in microgravlty.
+Figure 3 shows a schematic of the hardware for the 5.18-second
+tests [3, 7, 9]. The experimental
+ume of 0.087 m3. Two movie cameras recorded the laminar flame development
+and behavior.
+thermopile-detector
+radiometer was used to measure the global flame radiation over the range of
+the drop. a 3x3 rake of thermocouples
+measured the temperature both inside and outside the flame
+In the KC-135
+through
+
+tests, both attached
+
+photography
+
+and free-float
+
+configurations
+
+of the package
+
+chamber had a volA wide-view-angle,
+0.2-9.0 t.tm. During
+at fixed locations.
+
+were used, and flame visualization
+
+was conducted.
+
+Tests are currently underway te.g., 10] in the 2.2-Second Drop Tower for studying high-Reynolds-number
+laminar
+flames in addition to transitional
+and turbulent flames of methane, ethylene, ethane, propylene,
+and propane to obtain
+the effects of fuel type and Reynolds number, as well as observations
+of blow-off and other features ofthe-se-iTam_.
+Nozzle sizes are m the range of 0.025 to 0.050 cm in-radius.
+The flames are studied in airat ambient pressm'e.
+Flame radiation, temperature,
+and species measurements
+are planned, in addition to future tests in the 5.18-Second
+Zero-Gravity
+Facility and theKC-135
+aircrafL
+
+ammzaL2a
+
+|
+
+|
+
+An analytical model was developed
+for transient, axisymmetric
+laminar diffusion flames in the absence of buoyancy
+[5]. The model incorporated
+the effects of axial diffusion, and was an extension of the classical model for gas-jet
+diffusion flames. In addition, a comprehensive
+numerical m_eel which_corpo-r:ated
+_e_e{f_:_of'gmvi-(Y,
+&_f'u-sion,
+inertia, viscosity, combustion,
+multi-component
+diffusion, and radiation, was u_dedand
+utilized forco_sons
+with the laminar-flame
+data. The model is steady-state
+and two-dimensional
+(rectangular
+or cylindrical),
+with the
+partial differential equations for mass, momentum, energy, and species in their boundary-layer
+form. The governing
+equations
+are solved using an explicit
+finite-difference
+scheme.
+Details of the flow field including velocity,
+temperature, and species fields, radiative contributions,
+flame shape and dimensions,
+and other characteristics
+of the
+flame are predicted and compared with experimental results [e.g., 4].
+
+92
+z
+
+|
+
+i
+
+i
+
+In addition, a numerical model for turbulent flames is currently under development which incorporates the effects of
+buoyancy on both mean flow and generation of turbulent kinetic energy (manifested through the correlation of
+velocity and temperature fluctuations). Also, analytical models are being developed for the effects of disturbances and
+associated vortex interactions with flame front to better characterize the behavior of transitional and turbulent
+diffusion flames under microgravity conditions.
+In the following sections, some of the important findings of this program on diffusion flames are presented. The
+first section presents the observations, experimental data, and predictions for laminar diffusion flames. In the second
+section, the results obtained to date on the transitional and turbulent flames are presented. The efforts have shown
+unique and unexpected phenomena in microgravity diffusion flames.
+Laminar Diffusion-Flame
+
+Data and Analysis
+
+Laminar diffusion flames of hydrocarbons under microgravity conditions have shown distinct characteristics relative
+to normal-gravity flames [1]. Flames are taller (up to twice), rather globular (up to four times in diameter), and
+sootier in microgravity. This is due to the significant reduction in the buoyant force, which makes diffusion the
+dominant mechanism of transport. As a result, increased residence time, enhanced soot formation, radiative cooling
+due to the larger flame size, and the possible onset of a chemical-kinetics limitation on the heat-release process are
+responsible for the very different characteristics of these flames compared to those in normal gravity. Under the
+influence of buoyancy, the flame is pencil-like due to the steep gradients of oxygen, which is caused by buoyant
+convection and associated entrainment. These flames are generally yellow due to soot emission and burn-off. In
+addition, normal-gravity flames burning in quiescent oxidizing environments flicker with a frequency of 10-20 Hz
+due to hydrodynamic instability. Under microgravity conditions, flame flicker disappears, the flame becomes larger,
+and shows colors ranging from orange to red to entirely blue, depending on the fuel, pressure, and composition of the
+oxidizing atmosphere.
+In addition, absence of buoyancy makes the gradients of oxygen much more shallow
+compared to those in normal gravity. The continuous formation and accumulation of the combustion products at the
+microgravity flame front which are transported primarily by diffusion with some contribution from the initial (and
+rapidly decreasing) jet momentum are responsible for a larger microgravity flame. This process dramatically affects
+flame radiation, soot behavior, residence time, flow field characteristics (such as temperature, velocity, and species
+distributions), fuel pyrolysis, approach to steady state, and (possibly) even kinetics.
+Figure 4 shows laminar methane and propane diffusion flames under both normal-gravity
+and microgravity
+conditions. As mentioned before, microgravity environment has a strong effect on these flames where, for example,
+the color, size, and other features of the flame are affected. The yellow, luminous zone indicates the thermal
+emission of burning carbon particles. This luminous zone becomes orange, then red, and finally, dark red toward the
+boundary of the visible region, as the temperature of the unburned soot decreases. The orange/reddish color of the
+flame in microgravity is due to the soot at cooler temperatures that would be expected for typical burn-off conditions.
+The normal-gravity flames of methane and propane show similar characteristics such as flame flicker and a luminous
+yellow color due to buoyancy. However, the microgravity flames are completely different. The methane flame
+shows a closed tip whereas the propane flame has an open tip with quenched soot escaping through the tip. This
+underventilated-like
+behavior is attributed to the effects of pyrolysis, soot formation and quenching, extensive
+radiative loss, and possible thermophoretic effects.
+Microgravity tests have shown that laminar flames need longer time to reach their near-steady state compared to the
+flames in normal gravity. In the presence of buoyancy, times of the order of 0.5 second are needed for the flame to
+establish and reach steady state following ignition. In microgravity, due to the lack of entrainment caused by
+buoyancy, the flame needs longer time (as shown in Figure 5) for approach toward steady state. The accumulation
+and slow transport of the combustion products in the absence of buoyancy contributes to this transient flame
+development
+Pressure and oxygen concentration effects are much more significant in microgravity than in normal gravity.
+Laminar flame characteristics, color, luminosity, sooting behavior, and as will be seen later, radiation are strongly
+affected by various combinations of pressure and oxygen concentration in the environment of the microgravity flame.
+Sooting was eliminated at 18% ()2 - 0.5 atm, and the flames were weak, entirely blue and soot-free, whereas their
+normal-gravity counterpm'ts were yellow, luminous, and very similar to normal-gravity flames under atmospheric, or
+even high-pressure/high-oxygen-concentration
+conditions. This has an impact on fh-e detection in microgravity
+environments.
+For example, particulate detectors may not respond to blue, non-sooting flames in low gravity.
+Figure 6 shows a blue microgravity flame typical of low-pressure/low-oxygen-concentration
+flames. Massive
+93
+
+sooting has been observed at high oxygen concentrations in microgravity Haines. Figure 7sh6veS a propahe fine
+with 30% oxygen in the environment. Although the flame is stronger in luminosity compared to lower:oxygen
+microgravity flames, still soot quenching and breakthrough at the tip has been observed, even at 50% oxygen which
+showed a column of quenched soot emerging through the tip. Figure 8 shows the effects of oxygen concentration on
+methane flame heights in microgravity and normal gravity. In general, the lower the oxygen concentration, the -taller
+the flame, with a stronger effect in microgravity flames, as predicted.
+Figures 9 and 10 show microgravity
+laminar flame heights of propane burning in air at different pressures and
+Reynolds numbers. It appears from this data that the flame height correlates linearly with Reynolds number, but
+reaches an apparent minimum between 0.5 atm and 1.5 atm. The flame height in all of these tests was based on the
+location where red soot changes color into dull red, indicating local flame extinction.
+Experimental
+studies [ 11] have
+shown that soot ceases to burn near 1300 K. The red to dull-red transition seems to roughly correspond
+to this
+temperature.
+The non-monotonic
+behavior
+of flame height with pressure may be attributed
+to the competitive,
+oxygen- and pressure-dependent rates of fuel pyrolysis and particle inception, agglomeration
+and burn-off,
+Figure 11
+shows the soot quench length (red region at the flame tip) as a function of pressure and Reynolds number.
+Tests conducted in the 5.18-Second Zero-Gravity
+Facility have shown that radiative loss from m icrogravity laminar
+flames is approximately an order of magnitude larger than the corresponding normal gravity flames,
+This is
+primarily due to the accumulation
+of the combustion products, as well as larger flame size and increased soot.
+Figure 12 shows a typical set of data (in mV) for flame radiation in both_ norrnal-gravity and microgravity environments. Examination of the data also shows that radiation does not reach steady state (_unlike the normal-g_vity
+flame) in 5 seconds of microgravity.
+This is due to the accumulation and slow transport of combustion products
+(particularly
+water vapor and carbon dioxide) in the vicinity of the flame. Visualization
+of these flames (through
+photography) has shown that the flame does not appear to significandy increase in size with time near the end of the
+drop test. However, the diffusion of non-luminous hot gases in the surrounding causes the volume of the gas to
+increase, which is reflected through the continuous increase in radiation. This has a direct impact on the approach
+toward quasi-steady-state in microgravity flames.
+Figure 13 shows the effects of fuel volume-flow rate (i.e.,
+Reynolds number for fixed nozzle diameter) on flame radiation.
+The figure also shows that because in normal
+gravity, a large fraction of heat release is removed via the convection of hot products of combustion, the contribution
+of energy loss due to radiation from the flame is redt_cedl in microgravity,
+practically all of the released heat is
+accumulated around the flame through the combustion products, causing radiative losses of up to an order of
+magnitude higher com_
+to normal-gravity
+condition,
+Pressure and oxygen concentration
+also show a significant effect on radiative loss in microgravity.
+Figure 14 shows
+radiation from methane flames under different conditions Of pressure and oxygen level. The normal-gravity
+data show
+litde sensitivity
+to the environmental
+condition,
+whereas radiation levels from microgravity
+flames are strongly
+affected
+by pressure
+and oxygen concentration.
+The results have also shown that low-pressure/low-oxygenconcentration
+flames in microgravity
+(which are entirely blue, unlike those in normal gravity) approach near-steadystate levels of radiation by the end of the available 5 seconds of microgravity.
+However, high-pressured
+high-oxygenconcentration
+flames show a continuous increase in radiative loss throughout the drop period, and do not reach Steady
+state in the available time. Also, blue microgravity
+flames, which are apparendy
+soot-free, have shown appreciable
+amounts of radiation,
+indicating
+that contributions
+from the water vapor and carbon dioxide
+bands are quite
+significant.
+These experiments represent the first time flame radiation was measured in microgravity
+environments.
+Figure
+15 shows the results of temperature
+measurements
+for a typical
+flame in both normal-gravity
+and
+microgravity
+environments.
+The position of the thermocouple
+rake with respect to the flame is also shown.
+The
+microgravity
+flame shape in this figure corresponds
+to the condition prior to the deceleration
+of the package.
+The
+initial overshoot in the data is due to the presence of excess fuel at ignition.
+The normal-gravity
+data show that the
+temperature drops quickly to the ambient value immediately
+outside the flame front between radial locations of 0.75
+and 2.75 era. This is due to entrainmenL
+In addition, the strong buoyancy-driven
+portion of the flame causes the
+three thermocouples
+near the centerline to show roughly equal temperatures,
+which essentially
+reach steady state
+approximately
+3 seconds after the start of the experiment.
+However, the microgravity
+data show that far above and
+away from the flame, the gas is still experiencing
+a temperature
+rise.
+This figure also shows that the gas
+temperature does not reach a steady value anywhere in the field during the 5 seconds of microgravity,
+again due to the
+continuous
+dilution and heating of the environment
+caused by the combustion
+products.
+In addition, large
+temperature gradients are observed in the axial direction for the microgravity
+flame, and the variation of temperature
+in the radial direction is significant all the way to the far field. The data suggest that although the flame appeared to
+have reached steady state (verified
+through visualization),
+5 seconds of microgravity
+is not sufficient
+to obtain
+information
+on the flame structure, since the field is approaching
+steady state but is still changing in the available
+time of 5 seconds.
+
+94
+
+z
+__=
+
+The modeling effort has been an ongoing development process aided by these experiments, and has proven to be a
+critically important element contributing to the interpretation
+of experimental results. Figure 16 shows a
+comparison between the measured and predicted microgravity flame heights for a series of fuels. Figure 17 shows
+the centerline velocity as a function of axial distance for different gravity levels, using the numerical model discussed
+previously. As seen in this figure, under microgravity condition, the gas velocity is highest at the nozzle exit and
+drops immediately upon expansion of the jet in the absence of buoyancy. The normal-gravity flame shows a
+significant increase in the centerline velocity clue to the influence of buoyancy and the behavior of the streamlines.
+The intermediate gravitational levels show that the effects of buoyancy become negligible at 10 "4 g. Figure 18
+shows the predicted flame heights as a function of gravity level and their comparison with the available normalgravity and microgravity flame height measurements. The results are in excellent agreement, and again, it is shown
+that effects of buoyancy are not important for jet diffusion flames for gravity levels less than 10 .4 g. Figure 19
+shows the predicted shapes of these flames. Figure 20 shows the predicted radial distribution of the axial velocity at
+two heights (near the middle and the tip of the flame) as a function of gravitational level. The significant effect of
+buoyancy appears in this figure, in addition to the observation that the tip of the microgravity flame is almost at
+stagnation. The comparisons of predictions with data are quite encouraging. As data becomes available on other
+parameters, comparisons of theory with these data will further substantiate the accuracy of the theoretical model
+being _veloped.
+Transitional/Turbulent Diffusion-Flame Data _d Analysis
+The investigation of microgravity laminar jet diffusion flames is currently being extended to transitional
+turbulent regimes. Several important and unexpected results have akeady been obtained on this new effort.
+
+and
+
+The behavior of gas-jet diffusion flames in normal gravity as a function of the fuel Reynolds number was shown in
+Figure 2. In the laminar regime, the variation of flame height is linear with Reynolds number (or fuel volume flow
+rate) for a fixed tube diameter. As the Reynolds number increases, the laminar flame undergoes a transitional
+behavior, in which, instabilities start to develop at the tip of the flame with a brush-type characteristic, and the flame
+height starts to decrease due to enhanced mixing (see Figure 2). As the Reynolds number is further increased, the
+boundary of the brash-type region moves upstream, and results in further reduction of flame heighL
+A Reynolds
+number is finally reached at which the entire flame is fully turbulent and the height no longer changes with increase
+in jet momentum (see Figure 2). Further increase in Reynolds number will ultimately lead to blow-off. This
+overall behavior is shifted to larger flame heights with increasing tube diameter, and the blow-off limit also moves
+to higher Reynolds numbers.
+In order to study the effects of microgravity on the different regimes of jet diffusion flames, tests were conducted in
+the 2.2-Second Drop Tower with propane and propylene flames; tests for other fuels such as methane, ethane and
+ethylene are underway.
+Figure 21 shows the variation of flame height with (cold jet) Reynolds number for propane/air diffusion flames. The
+normal-gravity flames of the laminar regime show a linear variation of height with Reynolds number, as is expected
+from the classical behavior. These flames flicker due to hydrodynamic instability, as discussed before, and the flicker
+range increases with increasing jet momentum. The laminar flames are generally yellow with a small blue base. As
+the jet momentum increases, the (average) flame height undergoes a transitional regime with a dip which is not a
+characteristic of typical transitional flames [12]. However, other studies [e.g., 13] have shown that relatively lowmomentum flames exhibit this type of behavior and, indeed, the flame height in the turbulent regime can be larger
+than that in the transitional regime. As the normal-gravity laminar flame goes through transition, lift-off beings,
+and a large blue base is formed followed by a yellow brush-type flame which both flickers and wavers from side to
+side. This behavior persists throughout the turbulent regime. Blow-off occurs somewhere near Re = 6,000.
+The microgravity flames, on the other hand, show significandy different behavior compared to those in normal
+gravity. In the laminar regime, the flame is flicker-free, and as discussed before, is much wider than the normalgravity flame, has an open tip with flame colors changing from blue at the base to yellow, then orange, then red and
+finally dark red toward the flame tip. The flame color and shape indicate soot quenching and its subsequent escape
+through the tip, which resembles an underventilated-type behavior. However, as the jet momentum increases toward
+the wansitional regime, the width of the flame tip decreases. In addition, the gap between the microgravity and
+(average) normal-gravity flame heights increases with increasing Reynolds number. The microgravity flames of
+Figure 21 show a monotonic flame height variation, indicating that transition from the laminar to turbulent regime
+may occur quite smoothly, unlike the classical normal-gravity behavior. However, somewhere in the transition
+95
+
+regime, the flame tip closes, and large-scale, slow-moving structures develop which do not look like a brush-type
+behavior, as in the normal-gravity flames, but rather a wrinkled structure. The flame lifts off the nozzle tip,
+although the stand-off distance is almost half of that for the normal-gravity flame. Tip flicker was not observed for
+any of the microgravity flames. The flame slowly increases in height up to a Reynolds number of 4400, and then
+increases further in height, where the tip of the flame unfortunately falls out of the camera field of view. It is
+anticipated (as discussed later) that the height will increase in this region with increasing Reynolds number. The
+microgravity flame height in this regime is almost twice that of the corresponding normal-gravity flame.
+Figure 22 shows the behavior of propylene flames under both normal-gravity and microgravity conditions. The
+(average) normal-gravity height shows the typical classical behavior, similar to Figure 21. The microgravity flame
+did not drop in height in the transition regime, and again, beyond a Reynolds number of approximately 4400, the
+flame tip fell outside the camera field of view.
+Figure 23 shows the shapes of microgravity and normal-gravity propylene flames in both low- and high-Reynoldsnumber laminar regimes. In addition, it shows the shapes of transitional and fully developed turbulent flames of
+normal gravity, and their corresponding microgravity flames. Careful examination of these flames has revealed
+fundamental differences between the flames of microgravity and those in normal gravity. Under normal gravity, as
+discussed before, transition is initiated at the tip of the flame and, with increase in Reynolds number, the instability
+moves downward closer to the flame base. However, in microgravity, transition initiates with the appearance of
+disturbances that form at the base of the flame and are convected downstream. These disturbances are intermiuent in
+nature, that is, during the 2.2-second available time and at a critical transition Reynolds number, only one
+disturbance is observed which is convec_xl along the flame boundary and moves toward the/'/ame ftp. At a slightly
+higher Reynolds number, two or three of these disturbances appear during the 2.2-second time, and in between
+successive disturbances, the flame is completely laminar in nature (i.e., undisturbed). As the jet Reynolds number
+increases, the frequency of occurrence of the disturbances also increases, until a train of disturbances (with a measured
+frequency of occurrence of approximately 15 Hz) is formed in the region which corresponds to the normal-gravity
+turbulent regime.
+The differences between normal-gravity and reduced-gravity transition of diffusion flames arise due to the strong
+influence of buoyancy on the flow field under normal-gravity conditions. With gravity, the flow exiting the nozzle
+is accelerated, whereas without gravity, the velocity drops with downstream.
+The numerical model described
+previously shows that this behavior is indeed related to the velocity field. The predicted centerline velocities for
+typical normal-gravity and microgravity flames were shown in Figure 17. The velocity in the normal-gravity flame
+attains its maximum value at the tip of the flame due to the influence of buoyancy, resulting in convergence of
+streamlines.
+In microgravity, the maximum velocity is the jet exit velocity, which then drops sharply due to the
+expansion of the gas caused by the absence of buoyancy. Therefore, instability initiates at the tip of the normalgravity flame and at the base of the microgravity flame due to this behavior in the velocity field.
+
+i
+]
+
+,4
+
+Z
+
+2
+
+The results shown in Figures 21 and 22 also indicate that the transitional behavior of the microgravity flames may
+be extended well beyond the critical range of Reynolds numbers associated with the normal-gravity flames. In
+normal gravity, the transition to fully developed turbulent regime is accelerated due to the presence of buoyancy
+generated turbulence. However, in microgravity, the flame does not have any kinetic energy source a&_s_ciatc.d
+with
+buoyancy. As a result, transition to turbulence may occur over a substantially longer range of Reynolds number. It
+is quite possible that at sufficiently high jet Reynolds numbers, the microgravity flame will ultimately have
+characteristics identical to a fully developed turbulent flame in normal gravity. In addition, due to the reduction in
+flame stand-off distance in microgravity, it is possible that the flame may show a higher blow-off Reynolds number
+compared to that in normal gravity. Quantifying these phenomena in addition to the other characteristics
+of
+transitional and turbulent jet diffusion flames in microgravity represents the focus of this research.
+Conclusions and Fut_e Plans
+The studies conducted to date in this program have provided unique and new information on the behavior and
+characteristics of gas jet diffusion flames in microgravity environments. Significant differences have been observed
+between the normal-gravity flames and those under reduced-gravity conditions. The goal of this r_h
+is to extend
+observations in order to fully characterize the influences of buoyancy on the structure of, and physic.o-chemical
+processes occurring in, microgravity gas jet diffusion flames over the entire range of laminar, transitional, and
+turbulent regimes.
+
+96
+
+References
+
+Edelman, R. B. and Bahadori, M. Y., "Effects of Buoyancy
+Astronautica, Vol. 13, No. 11/12, pp. 681-688, 1986.
+.
+
+°
+
+on Gas-Jet Diffusion Flames,"
+
+Acta
+
+Bahadori, M. Y. and Stocker, D. P., "Oxygen-Concentration
+Effects on Microgravity Laminar
+Methane and Propane Diffusion Flames," Paper presented at the Eastern States Meeting of The
+Combustion Institute, Albany, New York, October/November 1989.
+Bahadori, M. Y., Edelman, R. B., Sotos, R. G., and Stocker, D. P., "Measurement of Temperature in
+Microgravity Laminar Diffusion Flames," Paper presented at the Eastern States Meeting of the
+Combustion Institute, Orlando, Florida, December 1990.
+Bahadori, M. Y., Edelman, R. B., Stocker, D. P., and Olson, S.L., "Ignition and Behavior of Laminar
+Gas-Jet Diffusion Flames in Microgravity," _,
+Vol. 28, No. 2, pp. 236-244, 1990.
+
+4.
+
+.
+
+,
+
+,
+
+.
+
+,
+
+Bahadori, M. Y., "An Analytical Solution for Transient, Cylindrically Symmetric Laminar Diffusion
+Flames in the Absence of Buoyancy," Paper presented at the Central States Meeting of The
+Combustion Institute, Cincinnati, Ohio, May 1990.
+Bahadori, M. Y., Stocker, D. P., and Edelman, R. B., "Effects of Pressure on Microgravity
+Hydrocarbon Diffusion Flames," Paper AIAA-90-0651, AIAA 28th Aerospace Sciences Meeting,
+Rent, Nevada, January 1990.
+Bahadori, M. Y., Edelman, R. B., Sotos, R. G., and Stocker, D. P., "Radiation from Gas-Jet
+Diffusion Flames in Microgravity Environments," Paper AIAA-91-0719, AIAA 29th Aerospace
+Sciences Meeting, Rent, Nevada, January 1991.
+Bahadori, M. Y. and Edelman, R. B., "Combustion of Gaseous Fuels Under Reduced-Gravity
+Conditions," Paper LB-038, in press in Proceedings of The Second Symposium on Lunar Bases,
+Lunar and Planetary Institute, Houston, Texas, 1992.
+Bahadori, M. Y., Edelman, R. B., Stocker, D. P., Sotos, R. G., and Vaughan, D. F., "Effects of
+Oxygen Concentration on Radiative Loss from Normal-Gravity and Microgravity Methane Diffusion
+Flames," Paper AIAA-92-0243, AIAA 30th Aerospace Sciences Meeting, Rent, Nevada, January
+1992.
+
+t0.
+
+Bahadori, M. Y., Vaughan, D. F., Stocker, D. P., Weiland, K. J., and Edelman, R. B., "Preliminary
+Observations on the Effects of Buoyancy on Transitional and Turbulent Diffusion Flames," Paper
+presented at the Central States Meeting of The Combustion Institute, Columbus, Ohio, April 1992.
+
+I1.
+
+Kent, J. H. and Wagner, H. Gg., Combustion Science and Technoloa, v, Vol. 41, pp. 245-269, 1984.
+
+12.
+
+Hottel, H. C. and Hawthorne, W. R., Third Symposium on Combustion, pp. 254-266, Williams and
+Wilkins Co., Baltimore, 1949.
+
+13.
+
+Wohl, K., Gazley, C., and Kapp, N., Third Svmoosium on Combustion,
+Wilkins Co., Baltimore, 1949.
+
+97
+
+pp. 288-300, Wilfiams and
+
+tamiw _dw..
+
+I
+
+Tr_wiw
+
+_._Ful_
+
+dmml_l
+
+...4..'-- o_'_n_"
+
+/
+
+T
+
+"/!ll
+§
+
+Volume flow rate
+
+(or
+
+Figure 2.-- Change in flame height and behavior
+with increase in volume flow rate for a gas jet
+diffusion flame in normal gravity;
+x indicates
+blow-off.
+
+I
+Figure 1.-- Schematics of a laminar gas jet diffusion
+flame in normalgravity.
+
+0-9
+
+J
+scale:
+
+FUEL NOZZLE-
+
+Reynolds number)
+
+_
+
+1-g
+• I ca
+
+. SPAA.K ELECTRODE
+
+s/P_
+OB P----"-'_fl"
+/
+
+THE_COUPLE_[_OII[$
+
+propane
+0"9
+
+1
+
+I'9
+
+methane
+
+,[
+
+/t
+
+ft.
+THE _OCOUPLE
+
+S
+
+P
+
+w
+.w
+
+-o/kp
+"fl
+
+Figure 4.-- Typical normal-gravity and microgravity
+flames of methane and propane in the laminar
+regime; nozzle radius = 0.048 cm for methane and
+0.0825 cm for propane; volume flow rate = 5.25
+co/see for methane and 1.0 cc/sec for propane; air
+at 1 arm is the oxidizer. The bars show the range
+of normal-gravity flame flicker (f). The Various
+colors indicated in the diagram are as follows: B
+(blue), D (dark), DB (dark blue), DP (dark pink), O
+(orange), P (pink), R (red), W (white), and Y
+(yellow); reproduced from [2] and [7].
+
+Figure 3.-- Schematics of the experiment package
+for the 5.18-second tests.
+
+98
+
+10
+
+9
+
+----
+
+- I cm
+
+_- _I
+i#'-v _t
+
+!
+7
+
+6
+E
+
+i
+
+I
+
+,uir,
+ll
+
+3
+
+o-_
+_ATM
+
+2
+o
+
+Q=
+O=
+O=
+
+Figure 7.-- Effects of high oxygen concentration on a
+laminar propane diffusion flame; 30% oxygen, 1
+atm, volume flow rate = 1 cc/sec, and nozzle radius
+= 0.048; see Fig. 4 for the definition of colors; f
+is the flicker range; reproduced from [2].
+
+1 5 cc/s
+
+?
+
+1.0 cc/s
+05 cc/s
+
+1
+
+0
+0
+
+:
+
+2
+
+4
+
+3
+
+"_E
+
+5
+
+(seco_as)
+
+Figure 5.-- Ignition and development of a series of
+microgravity propane diffusion flames.
+
+t-i
+
+O-1
+
+0
+
+U
+
+•
+
+$1s m/e
+
+l,o
+
+S¢..1_:
+
+_
+
+•
+
+tl
+
+J cm
+
+J
+
+t
+
+l
+
+1
+
+i
+
+t
+
+t
+
+t
+
+l
+
+l
+
+I
+
+i
+
+,t
+
+1
+
+16
+
+'I
+
+Figure 8.-- Effects of oxygen concentration
+on
+methane diffusion flames at 1 aim; nozzle inner
+radius = 0.048 cm and P = 1 atm; reproduced from
+[2].
+
+0
+
+J
+
+11
+I
+
+p
+
+ll*
+
+I
+
+I.|
+
+lllI
+
+l,
+
+l-__Z_
+
+Figure 6.m Effects of low oxygen concentration on a
+laminar propane diffusion flame; 18% oxygen, 1.0
+atm, volume flow rate = 1 cc/sec, and nozzle radius
+= 0.074 cm; for the defmilion of colors, see Fig. 4;
+f is the normal-gravity flicker range; reproduced
+from [2].
+
+ii
+I,
+z
+0
+
+___.
+
+I
+ill
+
+I
+ill
+Iltl,ll
+
+1ill
+
+I
+147
+Ir
+
+Figure 9.-- Microgravity propane-air flame heights
+vs. Reynolds number for different pressures;
+reproduced from [6].
+
+99
+
+1l
+
+6.0
+
+.
+
+..,
+
+,.
+
+10
+
+s
+
+!
+
+S.O
+
+I
+4.0
+
+4
+
+e_ °
+
+_5
+J
+o.s
+
+|
+I o
+P_lllllurl
+
+3.0
+
+i
+1.s
+
+w
+
+(i_)
+m
+_t
+
+Figure 10.-- Microgravity
+propane-air
+flame heights
+vs. pressure
+for different
+Reynolds
+numbers;
+reproduced
+from {6].
+
+e_
+
+0.0
+P',
+
+t
+
+O.S
+
+1 5 rut
+
+2,0
+
+Vol_
+
+1.0
+Flov
+
+I .S
+
+Rite
+
+(¢a3/se¢)
+
+Figure
+13.-- Effects of fuel flow rate on radiation
+from laminar propane-air
+diffusion
+flames at 1 atm.
+The radiation
+data for microgravity
+flames are the
+average values between 4.0 and 5.0 seconds after
+ignition; reproduced from {7].
+
+1.0 itl
+
+1.6
+
+°II
+
+1.0
+
+1.4
+
+8
+
+z.o
+
+O_ a_
+0,il
+0,4
+
+0.0
+
+:
+
+_
+
+,=
+
+|t
+
+N
+
+147
+
+5.0
+
+Figure
+11.-- Soot quench length vs. jet Reynolds
+number as a function of pressure for microgravity
+propane air flames; reproduced
+from [6].
+
+4.0
+
+).0
+e.,i !
+
+12
+
+\
+
+8
+
+2.O
+
+T_n_l
+Rad/atlon
+
+(=v}
+
+v
+
+f
+
+,,%
+
+4
+
+\
+
+i,/./
+
+I\/"
+
+\
+
+I-G
+
+1.0
+1- 8
+
+0
+0
+
+i
+
+2
+
+Drop
+S_a.r'_l
+
+.1
+
+T_ue
+
+4
+
+isec)
+
+I
+1
+0.5
+
+0.0
+
+•
+I
+1.0
+_espa:*e
+
+Figure
+
+12.--
+
+Radiometer
+
+flame burning in quiescent
+1.5 cc/sec
+and nozzle
+reproduced
+from [7].
+
+response
+
+from
+
+I
+1.5
+
+(am,)
+
+a propane
+
+air at 1 atm; flow rate =
+radius
+= 0.0825
+cm;
+
+100
+
+Figure
+
+14.--
+
+Effects
+
+of oxygen
+
+concentration
+
+and
+
+pressure on radiative loss from methane flames at a
+fixed mass flow rate (corresponding
+to 3 cc/sec at 1
+atm); nozzle radius = 0.0825 cm.
+
+Normal
+
+Gravlt_
+
+Microgravity
+
+2200
+r
+
+]
+
+b,;
+
+i
+
+"
+
+L_
+
+o
+
+I
+
+]1)
+
+J
+
+m
+
+t (sec)
+
+\
+
+"'i
+
+:
+
+J
+
+200
+
+L
+
+2_0
+
+f
+
+/
+
+I--
+
+6
+
+--
+
+I
+4
+
+t (see)
+
+1;:G
+
+1200
+
+I
+
+f
+/
+
+I
+
+L
+!
+
+t
+
+e__
+
+/
+
+: |.,
+
+o
+
+t (see)
+
+1290
+
+--
+
+i
+
+200
+
+t (see)
+
+1200
+
+l
+1
+
+9
+
+I-.
+
+I
+
+I
+
+2OO
+
+i
+
+I
+
+l
+
+-.q
+
+:a
+
+ib
+
+..
+
+¢
+
+"-
+
+"-LT' I
+f
+
+fly
+
+'_1
+
+t (see)
+
+¢m
+
+L-IO
+
+I I
+
+i
+
+.,.
+
+Figure 15.-- Temperature
+data for normal-gravity
+and microgravity
+laminar propane diffusion flames
+at 19% oxygen and 1 atm; volume flow rate = 1.5
+cc/sec and nozzle radius = 0.0825 cm;
+for the
+definition of colors see Fig. 4; f is the flicker range
+for the normal-gravity
+flame;
+L is the distance
+between
+the nozzle
+tip and the lowest row of
+thermocouples.
+The columns
+of thermocouples
+are, respectively,
+0.75 cm away from the centerline
+and 2 cm apart;
+the rows of thermocouples
+are 3
+cm apart.
+The diagram is to-scale;
+reproduced
+from [3].
+
+,rA..o,
+L.IO
+
+I
+
+200
+(E
+
+t (sec)
+
+¢m
+
+101
+
+$
+
+Zg 19
+
+0
+
++1
+
+Q,
+o
+T=
+
+!
+
+,o-,, °3<.".
+P
+II
+It
+
+IZ
+
+16
+
+20
+
+++4
+
+(Ca)
+
+Figure
+17.-- Predicted
+non-dimensional
+centerline
+velocity (with respect to jet exit velocity) vs. axial
+distance along the jet; methane/air
+flames; nozzle
+radius = 0.0825
+cm, fuel flow rate = 1 cc/sec,
+pressure = 1 atm; reproduced,
+with modifications,
+from [1].
+
+Figure 16.-- Measured
+and predicted
+microgravity
+flame heights for different fuels; for the references
+cited in this figure, see [4].
+
+g/go
+10-0
+
+O
+5
+
+:
+
+•
+
+•
+
+10-5
+"
+
+I
+
+1U
+
+I
+
+.tl
+
+10
+
+I
+
+-3
+
+I
+
+10
+I
+
+-2
+
+10
+!
+
+-1
+
+O
+
+10
+
+lO
+
+5
+
+*1
+
+I
+
+°
+
+/
+
+O-g
+
+I0 3g
+
+3
+u
+
+-=
+r2_
+
+2
+
+CH4/air
+flames
+Q = 2 cc/sec
+
+2
+
+r o = 0.0825
+
+,u
+
+P=
+
+ta.
+
+1
+
+i-g
+
+cm
+
+Iatm
+
+•
+
+._e t hane-_
+
+1
+
+:
+
+Data
+
+:
+
+Prediction
+
+r
+
+Flames
+
+Q = 2 cclsec
+r o = 0,0825
+
+cm
+
+P = I at_n
+0
+
+--Jr
+- _
+
+I
+-6
+
+1
+-5
+
+u
+
+I
+
+!
+
+s
+
+-4
+
+_
+
+-3
+
+-2
+
+-1
+
+l°glO
+
+I
+0
+
+'1
+
+O0
+
+I
+
+t
+
+2
+r
+
+(g/go)
+
+A
+3
+
+4
+
+(_)
+
+Figure 19._
+Predicted flame shapes as a function of
+gravity level;
+methane-air
+flames, volume flow
+rate = 2 cc/sec, nozzle radius = 0.0825 cm, P = 1
+
+Figure 18._ Predicted flame height as a function of
+gravity level and comparisons
+with experimental
+data;
+methane-air
+flames, volume flow rate = 2
+cc/see, nozzle radius = 0.0825 cm, P = 1 arm.
+
+arm.
+
+102
+
+lo-z__z_
+
+in -_ __
+
+2.0
+--x:
+
+= 2.4
+
+x = 1.04
+-_×
+
+cm
+
+= 3.02
+
+!..5
+_
+
+hf
+
+_ 2.6
+
+hf
+
+nc
+
+_x
+
+= 2,21
+
+cm
+
+cn
+
+.--x
+
+= 4.0
+
+cm
+
+1.5
+
+cm
+
+5
+
+1.0
+
+c.
+
+= 3.54
+
+_-x
+
+c_
+
+1.5
+
+T°
+
+2.0
+
+1.2cm
+
+---x
+
+o_
+
+2.0
+
+2.0
+
+= 3.5
+
+].5
+
+em
+
+hf
+
+o'_
+
+-
+
+o
+
+hf
+
+0
+
+1.0
+
+o
+
+1.0
+
+= 3.8
+
+= 4,4
+
+1
+
+t.O
+
+D
+
+0.5
+
+0.5
+
+0.5
+
+0.5
+
+I
+
+L,
+l
+r
+
+2
+
+1
+
+(c_)
+
+r
+
+2
+
+O
+
+1
+
+(cm)
+
+r
+
+2
+
+3
+
+(cm)
+
+r
+
+2
+(era)
+
+Figure 20.-- Predicted axial velocity distributions at different axial locations for flames under different
+gravitational levels; methane-air flames; p = 1 atm, flow rate = 2 cc/sec, nozzle radius = 0.0825 cm, and
+jet exit velocity = 93.5 cm/s.
+
+56
+
+!
+
+Open-tip
+
+48
+
+licrolrlvl
+f I ilIC!
+
+Closed-tip
+ty
+
+itcrogrivl
+flail
+
+ly
+
+ill
+
+lit
+
+IlCIIOGIIAVIT¥
+
+Out
+
+Of
+
+t_
+
+CIIPI
+
+4O
+
+field
+" ....
+"V'|
+i
+
+...........
+
+of
+
+Vlev
+I .......
+
+32
+u
+
+/
+
+/!
+
+/
+
+v
+
+i
+
+"'.
+
+24
+_0
+-,-4
+
+-'--4
+....-_-- ............
+....
+_,;_t
+I
+
+._...................
+
+._.........
+
+.
+
+/,<"P_.,.-, c :
+NORMAL*GRAVITY
+
+[
+
+-4-T,
+
+•
+
+---,-,
+......
+e
+
+(_
+
+I
+
+=
+
+-.
+
+_g, 4
+
+IJ
+
+l =,//#
+
+, ,
+
+16
+
+Illow-off
+region
+
+, ,V<,'
+B
+
+t 200
+
+5rind-off:
+
+')':
+
+17/1
+
+I
+
+2400
+
+3600
+Jet
+
+Reynolds
+
+4800
+
+6000
+
+7200
+
+Nkunlmr
+
+Figure 21.-- Normal-gravity and microgravity heights of propane flames burning in quiescent air at1 ann,
+as a function of the jet Reynolds number (based on the fuel properties and nozzle diameter); for the color
+symbols, see Fig. 4. The dotted line in the normal-gravity plots indicates uncertainty in the trend which
+is currendy under investigation. The circles show the particular flames studied in this work; f is the
+flicker envelope for the normal-gravity flames; reproduced from [10].
+
+103
+
+50
+
+Flame
+
+tip
+
+c_ra
+
+out
+
+field
+
+of
+of
+
+the
+view
+
+4{)
+........
+
+X
+
+.....
+
+i
+
+Blow-off
+
+•
+
+_3
+
+o
+o
+0
+
+•
+
+2O
+
+° °
+
+of the
+
+no_l-g
+
+•
+
+flalne
+
+"N
+
+Q
+0
+
+0
+
+0
+
+0
+
+0
+
+O
+
+0
+
+0
+
+0
+
+I
+
+0
+
+[]
+
+i
+I
+
+•
+
+0
+
+o
+
+I0
+
+g
+g
+
+I
+
+I
+
+100o
+
+I
+
+2000
+
+3000
+Jet
+
+Figure 22.-- Microgravity
+and (average) normal-gravity
+air at 1 atm, as a function of the jet Reynolds number
+
+i
+
+I
+
+4000
+Reynolds
+
+5000
+
+I
+6000
+
+70(0)
+
+Number
+
+heights of propylene fi .ames burning in quiescent
+(based on the fuel properues and nozzle diameter).
+
+R
+
+-l'-Y
+l
+
+Y
+
+It- B
+
+B
+
+n
+
+n
+O-g
+(a)
+
+I-g
+Re = 845
+
+1-g
+(b)
+
+Re
+
+=
+
+1970
+
+(c)
+
+Re
+
+= 2810
+
+(d)
+
+Re
+
+=
+
+3940
+
+Figure 23.-- Normal-gravity
+and microgravity
+flames of propylene;
+(a) low-Reynolds-number
+laminar
+flame, Co) high-Reynolds-number
+laminar flame, (c) beginning
+of transitional
+behavior
+with a single
+disturbance
+in microgravity,
+and (d) fully transitional
+flame with a train of disturbances
+in microgravity.
+The colors are as follows: B (blue), O (orange), R (red), Y (yellow);
+f is the flicker range for the normalgravity flame; scale:
+_
+_ : = 10cm.
+
+104
+
+COMMENTS
+Question
+- (Jerry Ku, Wayne State University):
+For low flow ratcs (e.g. 1.5 cc/scc),
+taller, wider, and open-tipped.
+At higher flow rates (e.g. 350 cc/sec),
+zero-g flames
+close-tipped.
+Is there a good explanation
+for this observation?
+Answer: In general,
+the microgravity
+laminar flames (including
+the 350 cc/sec)
+normal-gravity
+counterparts,
+and have open tips. At higher Reynolds numbers
+turbulent
+regimes)
+the flames are still taller and wider than those
+The flame-tip
+closing may be attributed
+to enhanced
+transport.
+
+in normal
+
+Ouestion
+(G. Faeth, University
+of Michigan:
+It requires
+some distance
+was the burner passage length-to-diameter
+ratio of your experiments?
+Answer:
+
+The
+
+ratio
+
+of length
+
+to diameter
+
+is larger
+
+than
+
+zcro-g flames
+arc not much
+
+are much
+wider and
+
+are taller and wider than their
+(i.e., in the transitional
+and
+
+gravity,
+
+to dcvelop
+
+but show
+
+a closed
+
+the flow in tttbcs.
+
+tip.
+
+What
+
+100.
+
+Question
+(S. Raghu, State Universitv
+of New York at Stony Brook): The Rcvnolds numbers
+of the flames
+you mentioned
+in your talk is based on the "cold flow" conditions.
+One has to be cautious in inlcrpreting
+the
+fluid dynamic phenomena
+of stability, transition and turbulence
+of the flames based on this flclitit_us cold
+flow Reynolds number.
+Are there any dctails about the exit mean vclocity profiles (parabolic
+_ top-hat),
+and the nozzle shape (contraction
+ratio, nozzle tip thickness)
+nlcasurcd
+for your sen, p?
+Answer: The cold-fuel
+Reynolds
+number was selected to compare
+the flame behavior
+with the cl_ssical works
+on this subject.
+We do realize that the Reynolds number based on local flow propcrties
+may sig_fificantly
+deviate from the jet exit Reynolds number.
+In our opinion,
+however the latter rcmai,as a useful parameter
+in
+describing
+the observed
+flow phenomena
+as has been done in the past. As such, we fail to understand
+what
+is meant by a "fictitious"
+Reynolds number.
+We used circular nozzles in the range 0.5-1.0 mm inner
+diameter.
+Although
+no velocity mcasurements
+were conducted,
+the lurgc Icnglh-to-diamctcr
+ratit_ (larger than
+100) indicates that the flow is fully dcvetoped
+at the nozzle exit. The nozzle tip was tapcrcd,
+and the inside
+had no contraction.
+
+105
+
+O_IC_L
+OF POOR
+
+,:"_.6;£ I_
+QUALITY
+

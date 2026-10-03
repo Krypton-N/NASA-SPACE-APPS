@@ -1,0 +1,609 @@
+Investigation
+
+of Sooting in Microgravity
+
+Droplet
+
+Combustion:
+
+Fuel-Dependent
+
+Effects
+
+Samuel L. Manzello t, Ming Hua and Mun Young Choi 2
+Department of Mechanical Engineering
+University of Illinois at Chicago
+Introduction
+Kumagai and coworkers first performed microgravity
+droplet combustion experiments
+[Kumagai, 1957].
+The primary goal of these early experiments were to validate simple 'd2-1aw ' models [Spalding, 1954, Godsave,
+1954]. Inherent in the 'd2-1aw ' formulation and in the scope of the experimental observation is the neglect of sooting
+behavior. In fact, the influence of sooting has not received much attention until more recent works [Choi et al., 1990;
+Jackson et al., 1991; Jackson and Avedisian, 1994; Choi and Lee, 1996; Jackson and Avedisian, 1996; Lee et al.,
+1998]; Choi and Lee measured soot volume fraction for microgravity droplet flames using full-field light extinction
+and subsequent tomographic
+inversion [Choi and Lee, 1996].
+In this investigation,
+soot concentrations
+were
+measured for heptane droplets and it was reported that soot concentrations
+were considerably higher in microgravity
+compared to the normal gravity flame.
+It was reasoned that the absence of buoyancy and the effects of
+thermophoresis resulted in the higher soot concentrations. Lee et al. [ 1998] performed soot measurement experiments
+by varying the initial droplet diameter and found marked influence of sooting on the droplet burning behavior.
+There is growing sentiment that sooting in droplet combustion must no longer be neglected and that "perhaps
+one of the most important outstanding contributions of }.tgdroplet combustion is the observation
+that in the absence
+of asymmetrical
+forced and natural convection, a soot shell is formed between the droplet surface and the flame,
+exerting an influence on the droplet combustion response far greater than previously recognized."
+[Law and Faeth,
+1994]. One of the methods that we are exploring to control the degree of sooting in microgravity
+is to use different
+fuels. The effect of fuel structure on sooting propensity
+has been investigated
+for over-ventilated
+concentric
+coflowing buoyant diffusion flames.[Glassman,
+1996]. In these investigations,
+the fuel flowrate was increased until
+smoke was observed to escape from the "luminous visible flame" [Glassrnan, 1996]. A total of 29 fuels were used
+in order to characterize
+relative sooting propensity.
+The sooting propensity of a particular fuel was assessed by
+comparing the flowrates for soot emission from the tip of the flame. It was reported that the sooting tendency for
+diffusion flames increased for fuels with higher rates of pyrolysis.
+Randolph and Law [1986 and not 1994] also examined the effect of fuel structure on droplet sooting
+behavior. In their experiments the droplets were separated from the bulk gas stream and quenched with nitrogen prior
+to gravimetric measurements.
+A variety of fuels were studied, namely aromatics, phenyl-alkanes
+and alkanes. The
+results were in qualitative agreement with the work of Glassman [1986]. Vander Wal et al. [ 1994] performed relative
+soot concentration
+measurements
+using laser-induced
+incandescence
+for heptane and decane fuel droplets burning
+under normal-gravity conditions.
+It was found that soot volume fractions for decane was more than a factor of two
+larger than that for heptane.
+Although the normal-gravity
+investigations have provided some important insights regarding the influence
+of fuel structure on the sooting behavior of droplet flames, results cannot be easily extrapolated
+for microgravity
+studies since increased residence times and thermophoretic
+effects must be considered in greater detail. Several
+studies have compared sooting behavior of different fuel droplets burning under microgravity conditions [Card and
+Choi, 1990; Jackson et al., 1991; Jackson and Avedisian,
+1994], however, detailed quantitative
+results were not
+provided.
+In all of these previous studies, the degree of sooting was only visually assessed from an incandescent
+backlighted image of the soot containing region. Such techniques can provide misleading results regarding sooting
+behavior [Choi, 1996].
+Experimental
+Description
+All experiments
+were performed in the 2.2 drop tower at NASA-Lewis
+Research Center.
+Figure 1 is a
+schematic of the experimental apparatus. Only a brief discussion will be given since details can be found elsewhere
+
+NASA Graduate Student Research Program Fellow
+2Corresponding Author: MunYChoi @uic.edu
+669
+
+L
+
+[Lee et. al., 1998].
+
+On the top optical plate, light from a 635 nm variable
+
+intensity
+
+diode laser attached
+
+to a single
+
+fiber optic cable was expanded to a diameter of 50mm. The beam was collimated and directed through the top optical
+port of the 12 liter stainless steel combustion chamber using a mirror positioned at 45 degrees.
+The beam was
+transmitted
+through the combustion chamber and focused using a 200 mm focal length piano-convex
+lens and
+redirected using a second mirror positioned at 45 degrees. The reflected beam was then imaged through a spatial
+filter to a high resolution CCD camera located on the bottom plate. The video output from the camera was recorded
+onto Betacam and S-VHS recorders at 30 frames per second via fiber optic link.
+Discussion
+
+and Results
+
+Experiments were performed for heptane and decane fuels at 0.75 atm. Reduction in pressure was necessary
+to circumvent the large signal attenuation that was observed for the 1 atm experiment.
+Pressure reduction is a proven
+method for reducing sooting in microgravity droplet combustion
+[Lee and Choi, 1997]. The reduction in flame
+temperature and the reduction in the residence time for fuel vapor transport within the fuel rich region are probable
+factors for reduced sooting at lower ambient pressures. Soot volume fraction was calculated by deconvoluting
+the
+radial distribution of the transmittance measurement using a 3-pt Abel technique [Choi and Lee, 1996]. Figure 2a
+displays the spatially-resolved
+soot volume fraction at various normalized time (time divided by square of initial
+droplet diameter) for a 1.47 mm decane droplet burning in air at 0.75 arm. This experiment is compared with a 1.55
+mm heptane droplet experiment performed at the same condition (Figure 2b), and some remarkable differences are
+noted (analysis of similar sized droplet was essential since the initial droplet size is known to affect the residence time
+within the fuel-rich region and thus cause variations in the degree of sooting [Lee et al., 1998]. It is observed that
+the maximum soot volume fraction for
+soot volume fraction, while significant,
+of soot volume fraction but different
+location of the sootshell. For example,
+heptane and decane experiments.
+It is
+
+decane is nearly 30% higher than for heptane. Comparisons based solely on
+may be be misleading.
+It is possible for droplets to have similar magnitude
+magnitudes in sooting due to the extent of soot containing region and the
+Figure 3 displays the sootshell standoff ratio and flame standoff ratio for the
+shown that while the flame standoff ratios are similar, the sootshell location
+
+for decane is much smaller.
+
+the higher soot concentration
+
+Therefore,
+
+(measured
+
+at the sootshell)
+
+for decane
+
+may have
+
+been an artifact of constraining
+the formed soot particles to reside in a smaller shell volume.
+In order to compare
+the bulk sooting behavior of the two fuels, the mass of soot was calculated by integrating the soot volume fraction
+distribution with respect to the volume of the soot containing region and multiplying by the density of soot.
+'!
+
+m,oo, = P, oo,_ f, 4 _¢r2dr
+
+(Eqn. 1)
+
+ri
+
+The limits riand rt are the instantaneous
+
+droplet and flame diameters,
+
+g/cm 3 [Choi et. al. 1995]. The soot mass for the decane experiment
+l,tg. Although
+
+the soot volume fraction
+
+is different
+
+respectively
+
+and the soot density used was 1.8
+
+was 1.35 _tg and for the heptane
+
+experiment
+
+1.16
+
+by 30 %, the total soot mass varies by only 16%.
+
+A possible explanation for the difference in sooting tendency is related to the residence time for fuel vapor
+transport from the droplet surface to the flame front. The residence time for fuel vapor transport from the droplet
+surface to the flame front has been shown to be:
+do 2
+t, - 4 ( Kpl ) 2 Pg 2D
+[Jackson
+
+and Avedisian,
+
+1994] where do is the initial droplet
+
+(Eqn. 2)
+
+diameter,
+
+p_ is the liquid phase density of the fuel, K
+
+is the burning rate and pg is the gas phase density of fuel vapor and D is the mass diffusivity.
+The burning rate was
+calculated for the decane and heptane experiments by performing a linear regression fit to the data after the respective
+heat up period.
+The burning rate was 0.61 mm2/s and 0.58 mm2/s for the decane and heptane experiment,
+respectively.
+Since the thermophysical
+properties are similar [Beaton and Hewitt, 1989], this analysis reveals that
+the difference in sooting cannot be attributed to residence time.
+The increase in sooting for decane compared to heptane is in qualitative agreement with the normal-gravity
+experiments of Kadota et al. [ 1977]. In their work, the effects of fuel structure (pentane, heptane, decane, dodecane,
+hexadecane) on droplets burning under normal-gravity was investigated under ambient pressures ranging from 0.1
+to 3.0 MPa. The sooting propensity was characterized by gravimetrically
+measuring the soot mass emitted from the
+open-tipped flames. It was found that the mass of emitted soot increased with increased number of carbon atoms in
+670
+
+I
+
+Fig. l-Schematic
+
+High-Speed @..
+
+of Experimental
+
+_
+
+Rig
+
+Colhmator
+
+_,_.
+
+P
+
+"r"
+Fig. 2a- Soot volume fraction
+1.47 mm nakcane
+
+distribution
+
+droplet,
+
+g o,o
+
+_
+
+_
+
+Fig. 2b-Soot volume fraction
+
+for
+
+for 1.55mm
+
+0.75 atm
+
+n-heptane
+
+distribution
+
+droplet,
+
+0.75 atm
+
+5O
+
+50
+
+45
+
++
+0.05
+_0.09
+_0.14
++0.19
++0.23
+0.28
+--+-- 0.32
+_0.37
+0.42
+
+45
+
+4O
+35
+
+30
+g_
+
+1
+
+Came_
+
+25
+20
+
+4O
+35
+30
+
+& 20
+15
+
+15
+
+10
+5
+
+5
+
+0
+
+0
+0,75
+
+1.25
+
+1.75
+
+0.75
+
+2.25
+
+1.25
+
+1.75
+r (ram)
+
+r (ram)
+
+Fig. 3-FSR
+
+and SSR for n-heptane
+
+and n-decane
+
+experiments
+
+7
+
+5
+cn 4
+
+_
++
+
+SSR_ n-decane
+FSI_ n-heptane
+SSR, n-heptane
+
+3
+
+, ,,l_l,Jlkll
+
+0
+
+0.05
+
+Lt
+
+0.1
+
+....
+
+0.15
+
+I ....
+
+0.2
+
+t/,t _
+o
+
+672
+
+I,_._I
+
+0.25
+
+....
+
+0.3
+
+l,,J
+
+0.35
+
+,
+
+0.4
+
+2.25
+
+the'fuel.
+
+In the experiments
+
+of Vander Wai et al. [1994], the relative
+
+greater than the soot volume fraction
+
+for heptane.
+
+It is believed
+
+As mentioned previously,
+is formed at the location
+
+heavier precursors
+
+=
+r
+
+where ct is the accommodation
+
+was 120%
+
+is related
+
+are more readily
+
+to the
+
+formed
+
+for
+
+the soot standoff ratio for the decane and heptane experiments are quite different.
+where thermophoretic
+and drag force (induced by Stefan flux) are in balance. The
+
+thermophoretic
+flux is proportional to the temperature gradient and independent
+much smaller than the mean free path) and is displayed in eqn. 3a.
+dT
+-3v
+pV
+
+for decane
+
+that the main factor for the increase
+
+higher rates of fuel pyrolysis [Glassman, 1988] and that perhaps
+decane compared to heptane [Vander Wal et al., 1994].
+Sootshell
+
+soot volume fraction
+
+dr
+an: T
+4(1 +--_-)
+
+coefficient
+
+of particle size (for particles
+
+that are
+
+pK
+(Eqn. 3a)
+
+pV r -
+
+d,
+
+(Eqn. 3b)
+
+viscosity.
+
+To estimate
+
+16r 2
+
+(0.9) and v is the kinematic
+
+the magnitude
+
+of the
+
+temperature gradient that would exist, the adiabatic flame temperature was calculated for decane and heptane at 0.75
+atm and found to be 2268K and 2266K, respectively.
+Considering that thermophysical
+properties and flame standoff
+ratio for decane and heptane are similar [Vargaftik 1983], it is believed that the thermophretic
+flux distribution
+for
+the two cases are also similar. Since the measured burning rates for both fuels are nearly equal, it is expected that
+the Stefan flux induced drag (eqn. 3b) are also expected to correspond.
+determine the factors causing the difference in the soot standoff ratios.
+
+Therefore,
+
+additional
+
+work is required
+
+to
+
+Acknowledgment
+This work was supported by NASA under grant NAG3-1631.
+The authors would like to thank Dr. KyeongOok Lee of UIC and Dr. Paul Ferkul of NASA-LeRC for helpful discussions.
+We would also like to thank Arthur
+Birchenough, Brian Borowski, Mike Johnston, Joe Carrion and Ron Miletto of NASA-LeRC for their tremendous
+support of our experiment.
+References
+°
+
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+
+Beaton, C.F., and Hewitt, G.F., Physical Pro_oertv Data for the Design Engineer, p. 43 ,Hemisphere,
+Choi, M.Y., "Science Req. Doe. for Sooting Effects of Droplet Combustion",
+NASA, 1996.
+Choi,
+Choi,
+Choi,
+Card,
+
+1989.
+
+M.Y., Dryer, F.L. and Haggard, Jr., J.B., 23 _aSymposium (Int'l) on Combustion, p. 1597, 1990.
+M.Y. and Lee, K.-O., 26 '_Symposium (Int'l) on Combustion,
+p.1243, 1996.
+M.Y., Mulholland, G.W., Hamins, A., and Kashiwagi, T., Combustion and Flame, 102:161, 1995.
+J.M. and Choi, M.Y., Technical Meeting of the Eastern States Section of Combustion Institute, 1990.
+
+Friedlander, S.K., Smoke, Dust and Haze, Wiley, New York, p. 42, 1977.
+Glassman, I., Combustion, Academic Press, Orlando, F1, 1996.
+Godsave, G.A.E, 4 tb Symposium (int'l) on Combustion, p. 813, 1953.
+Jackson, G.S. and Avedisian, C.T., Combustion Science and Technology,
+115:125, 1996.
+Jackson, G.S. and Avedisian, C.T., Proc. R. Soc. Lond. A 446:255, 1994.
+Jackson, G.S., Yang, J.C. and Avedisian, Proc. R. Soc. Lond. A 435:359, 1991.
+Kadota, T., Hiroyasu, H. and Farazandehmehr,
+A., Combustion and Flame, 29:67, 1977.
+Kumagai, S., and Isoda, H., 6'h Symposium (int'l) on Combustion,
+p.726, 1957.
+Law, C.K., and Faeth, G.M., Prog. Energy Combust. Sci., 20:65, 1994.
+Lee, K.-O., Manzello, S.L. and Choi, M.Y., Combustion Science and Technology,
+132:139, 1998.
+Lee, K-O., and Choi, M.Y., Microgravity Science and Technology,
+X2:86, 1997.
+Randolph, A.L. and Law, C.K., Combustion and Flame, 64:267, 1986.
+Spalding, D.B., 4 tb Symposium (Int'l) on Combustion, p.847, 1953.
+Vander Wal, R.L., Dietrich, D.L. and Choi, M.Y., Technical Meeting of the Eastern States Section
+Combustion
+Institute, p. 250, 1994.
+Vargaftik,
+D.C.,1983.
+
+N.B.,
+
+Handbook
+
+of Physical
+
+Properties
+
+671
+
+of Liquids
+
+and
+
+Gases,
+
+Hemisphere,
+
+of the
+
+Washington,
+

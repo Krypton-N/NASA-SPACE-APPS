@@ -1,0 +1,1722 @@
+NASA
+
+Contractor
+
+Report
+
+Laser-Induced
+
+Randall
+
+L. Vander
+
+NYMA,
+
+Inc.
+
+Brook
+
+May
+
+Park,
+
+Wal
+
+Ohio
+
+1997
+
+Prepared
+for
+Lewis Research
+
+Center
+
+Under
+
+NAS3-27186
+
+National
+
+Contract
+
+Aeronautics and
+
+Space Administration
+
+202346
+
+Incandescence
+
+in Microgravity
+
+LASER-INDUCED
+
+INCANDESCENCE
+
+IN
+
+MICROGRAVITY
+
+RANDY L. VANDER WAL
+NYMA @ NASA-Lewis
+Cleveland,
+OH 44135
+
+Introduction
+Knowledge
+of soot concentration
+is important
+due to its presence and impact upon a wide range of combustion
+processes
+ranging from diffusion to premixed flames, laminar to turbulent
+processes and homogeneous
+to heterogeneous
+combustion.
+Measurement
+of soot volume fraction (Iv) is essential to discerning
+its formation and growth [1]. The presence of soot also
+affects other physical and chemical properties
+of combustion
+thereby affecting studies not directly concerned
+with either
+its formation
+or growth, such as radiative heat transfer, CO oxidation and fuel vaporization
+or pyrolysis rates [1].
+Microgravity
+offers unique opportunities
+for studying both soot growth and the effect of soot radiation upon flame structure
+and spread [2]. Spatial scales and residence
+time scales are greatly extended in 0-g facilitating
+soot growth studies. With
+the varied geometries,
+short duration microgravity
+test times and time-varying
+processes there is a demand for measurement of fv with high spatial and temporal resolution.
+Laser-induced
+incandescence
+(LII) has advanced
+fv measurements
+in many 1-g combustion
+processes.
+To create laserinduced incandescence,
+a pulsed high intensity laser heats soot to incandescence
+temperatures
+[3]. Using appropriate
+spectral and temporal detection
+conditions,
+the resulting
+incandescence
+can be selectively
+detected apart from the nonlaser-heated
+soot and flame gases. Theoretical
+modelling
+[4] and experiments
+[5-7] have shown that the resulting
+incandescence
+is representative
+of fv. Using an intensified
+array camera and a laser sheet for excitation,
+one- and twodimensionally
+resolved LII images of fv have been obtained in 1-g [6-10].
+LII has been characterized
+and developed
+at NASA-Lewis
+for soot volume fraction determination
+in a wide range of 1-g
+combustion
+applications.
+Broadly grouped, the chacterization
+work has included studies of excitation
+intensity,
+excitation
+wavelength
+and the optimum
+temporal and spectral detection conditions
+to enable an accurate representation
+of soot
+volume fraction by LII [6,11 ]. Tests for special requirements
+imposed by different combustion
+processes have been
+performed
+in laminar [6,8,9] and turbulent
+[7,8] diffusion flames, rich sooting premixed flames [6], single droplet
+combustion
+[10], and other heterogeneous
+combustion.
+These studies demonstrated
+LII's high sensitivity,
+temporal and
+spatial capabilities
+and its geometric
+versatility.
+In contrast to the advantages
+offered to combustion
+studies by a microgravity
+environment,
+advanced diagnostics,
+specifically those requiring pulsed laser diagnostics
+have been limited due to the size, weight and power limitations
+in a lowgravity environment.
+Reported here are the first demonstrations
+of LII performed in a microgravity
+environment.
+Examples
+are shown for laminar and turbulent gas-jet diffusion flames in 0-g.
+Experimental
+Experiments
+
+Approach
+were performed
+
+in the 2.2 sec drop tower facility
+
+To enable LII, light from a pulsed Nd:YAG laser is delivered
+diameter (30 _tm cladding thickness)
+optical fiber to the drop
+tower. The jacket of the optical fiber consisted of black PVC
+905 input connector was vital to coupling of the pulsed laser
+cavity, pulsed Nd:YAG laser manufactured
+by Big Sky Laser
+length plant-convex
+BK-7 lens. The combined
+input coupling
+through the 35 m optical fiber was roughly 75%.
+
+at NASA-Lewis
+
+[12].
+
+via a 35 m long section of high OH-content,
+1000 I.tm core
+package from the laser resident on the eigth floor of the drop
+with Kevlar-strengthening
+fibers. A special high power SMAlight into the optical fiber. Laser light at 532 nm from a short
+Inc. was coupled into the optical fiber using a 200 mm focal
+efficiency
+of 532 nm light into the fiber plus transmission
+
+Figure 1 illustrates the layout of the drop rig. The divergence of the laser light at 532 nm emerging from the optical fiber is
+reduced by a 50-mm diameter,
+100-mm-focal-length,
+fused-silica,
+spherical lens placed -40 mm after the fiber. A laser
+sheet was formed using a 125 mm focal length 50 mm round cylindrical
+lens. Only the central 30 mm of the light sheet,
+representing
+the most uniform spatial intensity,
+was used for creating the laser-induced
+incandescence.
+A dichroic mirror
+following the cylindrical
+tens allowed for precise placement
+of the light sheet through the flame centerline.
+A beam dump
+
+NASA
+
+CR-202346
+
+1
+
+collected
+thelaserightaftertheburner
+l
+thereby liminatingcattered light.Withanincident nergyf 10mj and
+e
+s
+laser
+e
+o
+estimated sheet
+beam
+widthof 400um,thelaserntensity asroughly
+i
+w
+lxl07 W/cm
+2.
+LII images ere
+w detected aruggedized
+by
+Xybion
+ISG-250
+ICCDcamera
+through bandpass
+a
+interference transmittfilter
+ing400-450m.A glass used
+n
+lens
+atf/8fittedwitha 10mmextension
+tubeprovided field-of-view
+a
+(FOV) about
+of
+30mm.A custom
+electonics
+module
+providedowerothecamera
+p
+t
+fromtherig batteries
+andcoupled
+thevideoand
+related
+timingsignals utfromtheICCDcamerandgatepulse
+o
+a
+intothecamera
+intensifier.
+Natural
+flame luminosity
+was
+detected by a Sony XC-77 black and white camera or a Sony XC-999 color video camera. Video signals from both
+cameras were transmitted
+though FM (6 MHz bandwidth)
+video transmitters
+attached to the drop rig, a dual fiber-optic
+video cable running between the drop rig and the top floor of the drop tower and FM video receivers located on the top
+floor of the drop tower. The LII signal was recorded on Beta video tape while the natural flame luminosity
+was recorded
+SVHS video tape. A frame-grabber
+digitized images for subsequent
+analysis.
+
+on
+
+Synchronization
+of the laser, camera intensifier
+gate and camera video signal was achieved using custom electronics
+to
+detect the top-of-frame
+pulse on each LII video frame and provide a trigger pulse to a delay generator. The delay generator
+in turn triggered the laser and provided an inverted TTL pulse to serve as the gate pulse for the ICCD camera intensifier.
+The camera gate pulse was delivered
+through a 35 m length of BNC (RG58) cable connected
+to the camera control unit
+aboard the drop rig.
+Drops were initiated by loading a computer program into an onboard droppable
+data acquisition/control
+system. This unit
+also controlled
+solid state relays to deliver power to the spark ignitor, cameras, and gas solenoid. A preburn prior to the
+drop ensured fuel within the gas-jet nozzle and confirmation
+of all systems working. Upon package release into free-fall,
+an electrical circuit was opened to provide a rising edge TTL trigger to initiate fuel delivery and ignition.
+Laminar gas-jet diffusion flames were established
+on a 1.1 mm i.d. nozzle with approximately
+a 30 ° outside edge taper.
+The burner for the turbulent gas-jet diffusion flame utilized a 0.51 mm i.d. Nozzle (length/diameter
+>20) with a co-annular
+pilot diffusion
+flame. In each case a regulator and fine control valve were adjusted against a mass flow meter to deliver a
+known fuel flow rate. The acetylene flow through the central gas-jet tube was 1.0 slpm giving a Reynolds number of 4250
+while the acetylene flow for the laminar coannular
+pilot flame was roughly 10 sccm.
+Results
+
+And Discussion
+
+LII System
+
+Response
+
+Figure 2 illustrates the measured
+system dependence
+upon LII intensity. To test this dependence,
+a laminar steady-state
+gas-jet flame of ethylene was established
+in 1-g supported on the same 1.1 mm i.d. burner nozzle with a fuel flow rate of
+48 sccm. The signal excitation
+and detection were configured
+as if the measurements
+were being performed
+in low-gravity.
+Consequently,
+the graph represents
+the results of an end-to-end
+test of the LII signal detection, transmitting
+and processing
+equipment
+which includes the intensified
+camera, the video fiber-optic
+transmitter
+plus receiver,
+beta recorder and the
+frame-grabber
+used for digitization
+of the video signal. With a fixed camera intensifier
+gain typical of that needed for LII
+0-g measurements,
+the LII intensity reaching the camera was varied by placing calibrated
+neutral density filters in the
+optical path. Within the resulting
+digitized LII image, a region-of-interest
+(ROI) was defined containing
+624 pixels within
+the flame tip where a rather spatially uniform fv distribution
+(<20% spatial intensity variation) was observed. The average
+pixel intensity within this region was calculated.
+Since the LII intensity incident upon the camera photocathode
+will vary
+as,
+
+Signal(det.)
+
+=C
+
+* LII * 10 (-N'D')
+
+where C is a constant, a semi-logarithmic
+plot of Signal(det.) versus N.D. filter value should be linear provided all subsequent signal processing
+is linearly dependent upon the detected LII signal. This is observed
+in Fig. 2. The error bars
+represent one standard deviation of the ROI average intensity. Even if the curve were nonlinear,
+it would still provide a
+calibration
+curve for translating
+final digitized
+pixel intensities
+into relative LII intensities.
+The observed linearity allows
+straightforward
+interpretation
+of LII intensities as proportional
+to fv.
+Camera
+
+gain calibration
+
+Lower LII signals arising from lower soot concentrations
+could be readily detected by adjusting the camera intensifier
+gain.
+To establish the relative detection sensitivities
+at different intensifier
+gains, calibration
+measurements
+were performed.
+Again, the entire LII excitation/detection
+system was set up as if to perform low-gravity
+measurements.
+LII images of a
+laminar steady-state
+flame of ethylene (48 sccm flow rate) were acquired using different intensifier
+gains. Neutral density
+filters maintained
+the signal intensity within the dynamic range of the detection system. Analysis of a region of interest
+
+NASA
+
+CR-202346
+
+2
+
+(620pixels) earhetip oftheflameprovided naverageII intensity
+n t
+a
+L
+fortheparticular
+gainsetting
+(higher ains
+g
+correspond smaller
+to
+readout
+values).
+Comparison therelative intensities
+of
+LII
+corrected theneutral
+for
+densityilter attenuf
+ationprovided relative
+a
+measure thedetectionensitivitytthedifferent ainsettings.
+of
+s
+a
+g
+Tofaciliate
+comparison,
+the
+relative
+values
+were
+normalized theLII average
+by
+intensity easured
+m
+withthelowest ractical
+p
+gainsetting.
+These
+results
+areshown Fig.3.Theerrorbarswere
+in
+calculated
+assuming
+Poissontatistics
+s
+withthestandard
+deviationalculated
+c
+as
+thesquare
+rootoftheaverage pixelintensity.
+LII
+These
+limitswere
+found
+empirically wellencompass
+to
+thevariation
+observed theaverage intensityalculated
+in
+LII
+c
+withintheROI.
+Although
+thesemi-logarithmic
+plotconveniently
+illustrates
+therange detection
+of
+sensitivities, is a physical
+there
+basis
+for
+thismethod f plotting.
+o
+Because
+thephoton
+detectionvents described Poissonistribution
+e
+i
+bya
+d
+[13]andtheintensifier
+amplificationrocess exponential
+p
+is
+[14],witha linear etectionystem,
+d
+s
+thedetected
+signalntensity
+i
+wouldbeexpected
+to scale
+exponentially
+withtheintensifier
+gainprovided osaturation theelectron ultiplication
+n
+of
+m
+processccured ithin
+o
+w
+themicrochannel coupledhosphor
+plate,
+p
+screenr CCDpixelwell.AsFig.3 shows,
+o
+using
+theintensifier, thana
+more
+1000-fold
+increase detectionensitivityanbeachieved
+in
+s
+c
+relative thatata gainsetting 4.70. ased
+to
+of
+B
+onsoot olume
+v
+fractions f about 5ppmforthelaminar
+o
+1
+50/50
+(v/v)acetylene/nitrogen in l-g detected againof 4.70,
+mixture
+using
+a
+detectionensitivityf nearly
+s
+o
+0.01ppmis predicted onFig.3
+based
+Validation
+
+of Lll
+
+Figure 4 shows LII images of a laminar acetylene gas-jet diffusion flame in 1-g and 0-g with a fuel flow rate of 70 sccm.
+The effect of buoyancy upon the flame shape and soot processes is clear. Buoyancy induced air entrainment
+causes radial
+confinement
+of the gas-jet in 1-g. In 0-g, the initial fuel-jet momentum
+governs the flow with the divergence
+of the gas-jet
+clearly observed from the soot spatial distribution.
+In contrast to l-g, flow trajectories
+in 0-g follow a monotonic path in
+mixture fraction and temperature
+while within the flame leading to extended
+spatial scales for soot inception
+and
+subsequent
+growth.
+To verify the validity of the LII measurements
+as representative
+of Iv, LII radial intensity profiles from the acetylene gasjet flame in 0-g are compared
+with those derived from a full-field extinction
+method that has been reported previously
+[15].
+The axial positions were chosen to illustrate different spatial and intensity variations in fv- Three radial pixel rows of the
+LII image were averaged together for better signal-to-noise
+thus giving a spatial resolution
+of 0.25 mm. Each LII profile
+was also corrected for attenuation
+by soot between the LII image plane and camera. To convert the relative LII intensities
+to fv, each LII radial profile was multiplied
+by a scaling factor which was determined
+by the ratio of the summed LII
+intensity from all radial profiles to the radially summed fv'S at the same axial positions.
+As can be seen from Fig. 5, good
+agreement
+is observed between the LII measurements
+and those derived from extinction
+where both the relative spatial
+variations
+and intensities
+are similar. While previous tests of LII have shown it to yield accurate relative measurements
+in
+1-g by comparison
+with light extinction
+and gravimetric
+sampling, these results are the first tests validating
+LII as a
+diagnostic
+for fv in 0-g.
+Additional
+Laminar
+
+Demonstrations
+gas-jet flame
+
+Figure 6 shows LII images obtained from a laminar ethane gas-jet diffusion flame in l-g and 0-g. In each case, the fuel
+flow rate was 70 sccm with resulting
+Reynolds number of 200. Due to buoyancy-induced
+instabilities,
+the normal gravity
+flame frequently
+flickered,
+consequently
+a representative
+image was chosen.
+As clearly seen by Fig. 6, buoyant accleration overcomes
+the divergent cold-gas flow causing radial confinement
+of the flame in t-g. With soot oxidation proceeding inward towards the flame centerline,
+soot on the jet centerline is oxidized last resulting in the steeple shaped soot
+distribution
+at the flame tip. With buoyant acceleration
+eliminated
+in 0-g, the initial divergence
+of the exiting fuel flow is
+largely preserved resulting in a flame spatial extent determined
+much more by stoichiometry
+requirements
+than in 1-g.
+Similar to the laminar gas-jet flame of acetylene,
+absence of buoyant entrainment
+leads to an increase in the spatial
+extent of soot inception and growth. Despite the fuel abundance
+within the central core of the flame, a combination
+of
+insufficient
+fuel pyrolysis products and diminished
+temperatures
+relative to 1-g likely inhibit soot formation
+reactions along
+the axial streamline
+resulting in the absence of soot at the flame tip.
+Although the flicker observed in 1-g causes variation in peak fv (ranging from 0.3 to 0.6 ppm in the tip of the flame), the
+ratio of the 0-g to 1-g fv is roughly 3 based on a comparison
+of LII intensities. This example also illustrates the sensitivity
+of LII as the radially integrated
+fv-pathlength
+product is 6.7x10-7 cm yielding a transmittance
+of 0.95 using Ke = 4.9 from
+Dazell and Sarofim [16]. Such a high transmittance
+is marginally
+detectable
+using unstabilized
+HeNe lasers, voltage biased photodetectors
+and 8-bit digitization.
+On the basis of the camera gain calibration
+curve, approximately
+a factor of 30
+higher sensitivity
+(or a factor of 30 lower fv) is achievable
+using a camera gain of 4.40 compared to 4.575 as was presently
+
+NASA
+
+CR-202346
+
+3
+
+used. uch hightransmittancelikelyundetectable using
+S a
+is
+even
+sensitive
+lock-in
+detectionf absorbance
+o
+which
+possesses
+a practical
+limitof roughly
+0.1%absorbance
+sensitivity ithRCtimeconstants
+w
+ontheorder f 100s' f msec.
+o
+o
+Turbulent
+
+gas-jet flame
+
+Figure 7a, perhaps the best
+LII image from a turbulent
+500 ns to ensure capture of
+using a replica of the 1951
+ing spatial structures of 0.1
+calculated
+based on the LII
+camera intensifier
+calibration
+Vortex
+
+illustration
+of the temporal plus spatial capabilities
+of LII and its geometric
+versatility,
+shows a
+gas-jet flame of acetylene with Reynolds number of 4250 in 0-g. Even using a detection gate of
+the of the LII signal, temporal frequencies
+of greater than 1 MHz can be frozen. As determined
+Air Force test pattern, the spatial resolution
+is approximately
+5 line pairs per millimeter
+allowmm to be resolved. Figure 7b is a contour plot of Fig. 7a. Absolute soot volume fractions were
+image intensity in the turbulent
+flame relative to that of the reference
+flame system using the
+curve of Fig. 3.
+
+visualization
+
+Figure 8 is a LII image of soot within a vortex formed by propane fuel issuing from a gas-jet nozzle.
+The central bulge is
+due to the initial jet momentum
+while the side recirculation
+regions result from air entrainment
+into the shear layer. Initiation of fuel flow and subsequent
+ignition were performed in low-gravity
+(after package release from the "music" wire).
+The nominal jet Reynold's
+number was 330 based on the nozzle ID of 1.1 mm and flow rate of 70 sccm. The higher fv in
+the recirculation
+regions is sensible as fuel parcels in these regions experience
+extended
+times at elevated temperatures
+promoting
+fuel pyrolysis processes and soot growth.
+The transient vortex and steep spatial gradients require the temporal
+and spatial capabilities
+of LII.
+Conclusions
+Combustion
+processes
+exhibit rather different features in microgravity
+compared
+to normal gravity. With the elimination
+of
+buoyancy-induced
+convection,
+both flame shape and fv differ substantially
+compared to the same fuel/burner
+system in
+normal gravity. The sensitivity,
+temporal and spatial capabilities
+in addition to geometric
+versatility
+enable LII to reveal
+the soot volume fraction regardless
+of these differences.
+Comparison
+of radial fvs obtained by light extinction
+and LII
+validate LII for fv determination
+in low-gravity.
+Application
+of LII to a laminar gas-jet flame of ethane illustrates
+the
+sensitivity
+of LII while application
+to a turbulent diffusion flame of acetylene and vortex formed by a transient gas-jet
+diffusion
+flame of propane demonstrate
+the high temporal and spatial capabilities
+of LII for fv determination.
+Spatial and
+concentration
+differences
+of fv in 1-g and 0-g environments
+are readily illustrated
+by comparison
+of the LII images.
+Acknowledgements
+This work was supported through
+and P.S. Greenberg
+(NASA-Lewis)
+
+NASA contract, NAS3-27186.
+The author thanks Prof. J.C. Ku (Wayne
+for sharing their full-field light extinction
+data.
+
+State
+
+University)
+
+Disclaimer
+Manufacturer
+government.
+
+and product
+
+names
+
+are used to aid understanding
+
+and do not constitute
+
+an endorsement
+
+by the federal
+
+References
+1. Soot Formation in Combustion, (H. Bockhom Ed.), Springer-Verlag, Heidelberg, (1994).
+2. Proceedings of the Third International Microgravity Combustion Workshop, (NASA CP-10174), April 11-13, Cleveland, OH (1995).
+3. Eckbreth, A.C., Laser Diagnostics for Combustion Temperature and Species, Gordon and Breach, Amsterdam, The Netherlands, 2nd
+ed. 1996. p. 254.
+4. Melton, L.A., Appi. Opt. 23:2201 (1984).
+5. Quay, B., Lee, T.W., Ni, T. and Santoro, R.J., Combust. and Flame 97:394 (1994).
+6. Vander Wal, R.L. and Weiland, K.J., J. Appl. Phys. B59:445 (1994).
+7. Vander Wal, R.L., Zhou, Z. and Choi, M.Y., Combust. And Flame 105:462 (1996).
+8, Ni, T., Pinson, J.A., Gupta, S. and Santoro, R.J., Appl. Opt. 34:7083 (1995).
+9. Shaddix, C.R. and Smyth, K.C. Combust. And Flame 107:418-452 (1996).
+10. Vander Wal, R.L. and Dietrich, D.L. Appl. Opt. 34:1103 (1995).
+ll. Vander Wal, R.L., Appl. Opt. 35:6548 (1996).
+12. Lekan, J., Gotti, D.J., Jenkins, A.J., Owens, J.C. and Johnston, M.R., NASA TM-107090, April, (1996).
+13. Stanford Research Systems, Application Notes, 1996-1997, Note no. 4, p. 186.
+14. Engstrom, R.W., RCA Photomultplier handbook, The RCA Corporation, (1980).
+15. Greenberg, P.S. and Ku, J.C. Combust. And Flame 108:227-230 (1997).
+16. Dalzell, W.H. and Sarofim, A.L.J. Heat Transfer 91:100-106 (1969).
+
+NASA
+
+CR-202346
+
+4
+
+Beam
+dump
+
+Trigger ICamera
+_
+---_lcontrol
+unit_
+Filter
+
+1
+
+I
+
+,co°
+
+I
+
+I
+
+r
+
+Sph. lens
+lens
+(a)
+
+100
+
+Dichroic
+¢-
+
+Camera gate
+trigger
+
+Dual fiber-optic Laser-light (delivery)
+video cable
+fiber-optic cable
+
+1
+
+x
+
+E
+
+t t Filter
+Ignitor_._ _ Burner
+
+Mirror_
+
+D
+
+10
+
+,cco
+I-.
+
+0.2
+
+I
+0.4
+
+I
+
+I
+
+I
+
+I
+
+I
+
+0.6
+
+0.8
+ND Value
+
+1
+
+1.2
+
+1.4
+
+Figure 2.--Average LII pixel intensity versus neutral
+density filter value (ND) preceding the LII camera.
+See text for details.
+
+i
+Figure 1.--(a) Top view of the hardware and optical
+layout of the drop rig. (b) Corresponding side view.
+
+1000
+
+:
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I_
+
+O3
+Q)
+
+loo I
+
+-"
+
+Q)
+>
+
+lO
+Q_
+02
+
+1
+4.7!
+
+$
+4.7
+
+I
+4.65
+
+I
+
+i
+
+I
+
+I
+
+4.6 4.55 4.5 4.45
+Gain (arb. units)
+
+I
+4.4- 4.35
+
+Figure 3.-_Camera intensifier gain calibration curve.
+Note that higher intensifier gains correspond to
+smaller values of the gain setting, See text for
+details.
+
+NASA
+
+CR-202346
+
+Figure 4.--LII images of a laminar acetylene gas-jet
+diffusion flame in 1-g and O-g. The burner nozzle is
+1 mm above the picture bottom (but is not observable
+in the LII images). The ruler spatial scale is in
+millimeters.
+
+5
+
+50.0
+
+i
+[
+
+40.0
+
+fv
+•
+
+3o.o ,
+20.0
+
+'
+,
+
+-.
+
+L II
+
+t
+
+(a)
+HAB
+
+r_ 23.0 mm
+
+i
+•
+
+t
+
+o**
+lO.Oj
+0.0
+
+-
+
+•
+Figure 6.--LII images of a laminar ethane gas-jet
+diffusion flame in 1-g and 0-g. The burner nozzle is
+11 mm below the picture bottom. The ruler spatial
+scale is in millimeters. See text for details.
+
+A
+
+E
+CL
+Q.
+cO
+
+35.0
+(b)
+HAB
+14.6 mm
+
+30.0
+25.0
+
+LL
+
+20.0
+
+d_
+
+E
+
+(b)
+
+15.0
+
+0
+
+10.0
+0
+
+5.0
+
+co
+0.0
+35.0
+30.0
+
+(c)
+
+/.
+
+25.0
+
+HAB
+6.2 mm
+
+20.0
+15.0
+10.0
+5.0
+0.0
+-2.9
+Radial
+
+0.0
+position
+
+2.9
+(mm)
+Figure 7.--(a) LII image of soot within the oxidation
+region of a turbulent gas-jet flame of acetylene.
+(b) Contour plot of (a) with fv values given in ppm.
+The image bottom is 100 mm above the burner
+nozzle. The ruler spatial scale is in millimeters.
+
+Figure 5.--Comparison
+of LII radial intensities with fv
+determined through light extinction in the laminar
+gas-jet flame of acetylene in O-g (shown in Fig. 4) at
+the indicated axial heights above the burner.
+
+(b)
+4 ppm-_
+/
+/
+
+Figure 8._(a)
+formation
+
+LII image of a vortex formed
+of a laminar
+
+gas-jet
+
+flame
+
+during
+
+of propane
+
+initial
+in O-g.
+
+(b) Contour plot of (a) with fv values given in ppm.
+Both fuel flow and ignition were initiated in O-g. The
+nominal
+
+steady-state
+
+fuel flow
+
+burner nozzle is 11 mm below
+text for details.
+
+NASA CR-202346
+
+6
+
+rate was 70 sccm.
+the picture
+
+bottom.
+
+The
+See
+
+Form
+
+REPORT
+for this collection
+of
+the data needed,
+
+Public
+reporting
+burden
+gathering
+end maintaining
+collection
+Davis
+
+of
+
+DOCUMENTATION
+information
+is estimated
+to average
+and completing
+and reviewing
+the
+
+information,
+
+Highway,
+
+Suite
+
+1. AGENCY
+
+including
+1204,
+
+suggestions
+
+Arlington,
+
+USE ONLY
+
+VA
+
+for
+
+reducing
+
+22202-4302,
+
+this
+
+and
+
+(Leave blank)
+
+to
+
+burden,
+the
+
+to
+
+Office
+
+2. REPORT
+
+AND
+
+1 hour
+collection
+
+Washington
+
+per response,
+of information.
+
+and
+
+including
+Send
+
+the time
+comments
+
+Services,
+
+Budget,
+
+for reviewing
+instructions,
+searching
+regarding
+this burden
+estimate
+or
+
+Directorate
+
+Paperwork
+
+for
+
+Reduction
+
+3. REPORT
+
+DATE
+
+TYPE
+
+Information
+Project
+
+Operations
+
+(0704-0188),
+
+AND DATES
+
+1997
+
+Final
+
+SUBTITLE
+
+Laser-Induced
+
+and
+
+existing
+any other
+Reports,
+
+Washington,
+
+data sources,
+aspect
+of this
+1215
+
+DC
+
+Jefferson
+
+20503.
+
+COVERED
+
+Contractor
+
+Report
+
+5. FUNDING
+
+Incandescence
+
+Approved
+
+OM8No.0704-01e8
+
+Headquarlere
+
+of Management
+
+May
+4. TITLE
+
+PAGE
+
+NUMBERS
+
+in Microgravity
+WU-963-70--0E
+C-NAS
+
+6. AUTHOR(S)
+Randall
+
+L. Vander
+
+7. PERFORMING
+
+Wai
+
+ORGANIZATION
+
+NYMA,
+
+Aerospace
+
+Brook
+
+Park,
+
+National
+
+Ohio
+
+Prepared
+
+for
+19-21,
+
+Space
+
+International
+
+SPONSORING/MONITORING
+AGENCY
+REPORT NUMBER
+
+Administration
+
+Microgravity
+
+Project
+
+code
+
+CR-202346
+
+6711,
+
+Manager,
+(216)
+
+Combustion
+
+Howard
+
+D.
+
+Workshop
+
+Ross,
+
+Space
+
+sponsored
+
+by
+
+Experiments
+
+NASA
+
+Division
+
+Lewis
+
+NASA
+
+Research
+
+Lewis
+
+Center,
+
+Research
+
+Center,
+
+433-2562.
+
+STATEMENT
+
+12b.
+
+DISTRIBUTION
+
+CODE
+
+- Unlimited
+
+Subject
+
+Category
+
+publication
+
+ABSTRACT
+
+25
+
+is available
+
+(Maximum
+
+Microgravity
+spread.
+
+range
+
+of
+
+environment.
+
+unique
+
+LII
+I-g
+
+from
+
+the NASA
+
+Center
+
+for AeroSpace
+
+Information,
+
+(301)
+
+621-0390
+
+200 words)
+
+offers
+
+and
+
+SUBJECT
+
+10.
+
+AND ADDRESS(ES)
+
+NASA
+
+DISTRIBUTION/AVAILABILITY
+
+wide
+
+NAME(S)
+
+NOTES
+
+1997.
+
+Unclassified
+
+14.
+
+AGENCY
+
+44135-3191
+
+the
+
+organization
+
+ture
+
+PERFORMING
+ORGANIZATION
+REPORT NUMBER
+
+Center
+
+SUPPLEMENTARY
+
+This
+
+8.
+
+E-10682
+
+and
+
+Research
+
+Cleveland,
+
+13.
+
+ADDRESS(ES)
+
+44142
+
+Aeronautics
+
+Lewis
+
+12a.
+
+AND
+
+Parkway
+Ohio
+
+9. SPONSORING/MONITORING
+
+May
+
+NAME(S)
+
+Inc.
+
+2001
+
+11.
+
+3-27186
+
+has
+
+opportunities
+been
+
+combustion
+
+Examples
+
+are
+
+for
+
+characterized
+applications.
+shown
+
+for
+
+studying
+and
+
+both
+
+developed
+
+Reported
+
+here
+
+and
+
+turbulent
+
+laminar
+
+soot
+
+growth
+
+and
+
+at NASA-Lewis
+are
+
+the
+gas-jet
+
+first
+
+the
+for
+
+effect
+soot
+
+of
+
+demonstrations
+
+diffusion
+
+flames
+
+soot
+
+volume
+of
+
+radiation
+fraction
+
+LII
+
+upon
+
+flame
+
+determination
+
+performed
+
+strucin
+
+a
+
+in a microgravity
+
+in 0-g.
+
+15. NUMBER
+
+TERMS
+
+OF PAGES
+8
+
+Soot;
+
+LII;
+
+Laser-induced
+
+incandescence;
+
+Microgravity
+
+16. PRICE
+
+CODE
+A02
+
+17.
+
+SECURrrY
+CLASSIFICATION
+OF REPORT
+Unclassified
+
+NSN
+
+7540-01-280-5500
+
+18.
+
+SECURITY
+CLASSIFICATION
+OF THIS PAGE
+Unclassified
+
+19. SECURITY CLASSIFICATION
+OF ABSTRACT
+
+20.
+
+LIMITATION
+
+OF ABSTRACT
+
+Unclassified
+Standard
+
+Form
+
+Prescribed
+298-102
+
+by
+
+ANSI
+
+298
+Std.
+
+(Rev.
+Z39-18
+
+2-89)
+

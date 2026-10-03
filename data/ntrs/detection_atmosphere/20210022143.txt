@@ -1,0 +1,1038 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research Questions and Challenges for Improved Spacecraft Fire Detection 
+
+A topical white paper submitted to the National Academies of Sciences, Engineering and 
+
+Medicine (NASEM) for the Biological and Physical Sciences Decadal Survey, 2022-2032 
+
+ 
+
+Primary Author:  
+
+Claire Fortenberry 
+
+Universities Space Research Association, NASA Glenn Research Center 
+
+claire.fortenberry@nasa.gov 
+
+(216) 433-2605 
+
+ 
+
+Coauthors: 
+
+Xiaoliang Wang, Desert Research Institute 
+
+Thomas Cleary, National Institute of Standards and Technology 
+
+John Easton, Case Western Reserve University, NASA Glenn Research Center 
+
+Gordon Berger, Universities Space Research Association, NASA Glenn Research Center 
+
+Marit Meyer, NASA Glenn Research Center 
+
+ 
+
+Cosigners:  
+Luca Carmignani, University of California, Berkeley;  Daniel Dietrich, NASA Glenn Research 
+
+Center;  Christian Eigenbrod, Center of Applied Space Technology and Microgravity (ZARM), 
+
+University of Bremen, Germany;  A. Carlos Fernandez-Pello, University of California, Berkeley;  
+
+Osamu Fujita, Hokkaido University, Japan;  Michael Gollner, University of California, Berkeley;  
+
+Augustin Guibaud, University College London, United Kingdom;  Michael Johnston, Universities 
+
+Space Research Association, NASA Glenn Research Center;  Grunde Jomaas, FRISSBE, 
+
+Slovenian National Building and Civil Engineering Institute (ZAG), Slovenia;  Sarah Kingsley, 
+
+Georgia Institute of Technology; Guillaume Legros, Scientific Research National Center (CNRS), 
+
+France;  Ya-Ting Liao, Case Western Reserve University;  Randall McDermott, National Institute 
+
+of Standards and Technology;  Fletcher Miller, San Diego State University; Justin Niehaus, NASA 
+
+Glenn Research Center; Thomas Orlando, Georgia Institute of Technology;  Rosa Padilla, 
+
+Universities Space Research Association, NASA Glenn Research Center;  Gary Ruff, NASA 
+
+Glenn Research Center; Nickolay Smirnov, Moscow Lomonosov State University, Russia;  
+
+Benjamin Sumlin, Universities Space Research Association, NASA Glenn Research Center;  
+
+James T’ien, Case Western Reserve University;  David Urban, NASA Glenn Research Center;  
+
+Indrek Wichman, Michigan State University 
+
+ 
+
+ABSTRACT: This paper describes challenges and recommendations for research to improve 
+
+spacecraft fire detection. Because crew safety is critical to every spaceflight mission, effective fire 
+
+detectors must detect a wide variety of fires to ensure the success of future space exploration. Fire 
+
+emissions are affected by fuel type, heating conditions, gravity and exploration atmosphere. 
+
+Advances in sensing technology provide a promising basis for future detectors, which must 
+
+selectively detect a broad variety of fires. Addressing these areas will secure the success of future 
+
+lunar and deep space missions. 
+
+mailto:claire.fortenberry@nasa.gov
+
+
+INTRODUCTION 
+
+ The potential for spacecraft fires poses a substantial threat to the future of long-duration 
+
+crewed missions. “Fire” refers specifically to the heat and radiation produced from the reaction of 
+
+a flammable material with oxygen. However, in practice, fire detection must also encompass the 
+
+period of fuel overheating prior to flame development since early fire detection is preferred. 
+
+Compared to terrestrial building fires, spacecraft fires are especially dangerous due to limited 
+
+escape options and extinguishment resources. Furthermore, if a fire is survivable, toxic particles 
+
+and gases from the event pose a serious risk to crew health. Detectable properties of fire include 
+
+heat, radiation, and smoke. “Smoke” can include gases (e.g., CO, CO2, water vapor, and volatile 
+
+organics) and particles formed either from overheating the fuel (“oxidative pyrolysis”) or from a 
+
+flame (e.g., soot and ash). Although heat and radiation detectors are useful for select terrestrial 
+
+applications,1 smoke detection is particularly advantageous on Earth because buoyant flow drives 
+
+hot combustion products upward, allowing convenient placement of detectors on ceilings where 
+
+smoke concentrates. In microgravity, this buoyant flow does not occur, and this advantage 
+
+therefore does not exist. Consequently, on the International Space Station (ISS), smoke detectors 
+
+are placed in the cabin air return vents in front of the filters; this placement has other implications 
+
+for fire detection that will be discussed later. Due to a lack of data characterizing microgravity 
+
+fires, however, spacecraft fire detection strategies have necessarily relied on technological 
+
+advances developed for terrestrial fire detection. For example, the ionization detector on the Space 
+
+Shuttle represented the most advanced detection technology available in the 1970s, as ionization 
+
+detectors were becoming broadly available for home use. Similarly, the ISS forward light 
+
+scattering detector utilized improvements in photodiode technology developed in the 1990s.2 
+
+ Recent research has demonstrated that current fire detection strategies are inadequate for 
+
+ensuring crew safety on long duration missions. During the Smoke Aerosol Measurement 
+
+Experiment (SAME), which was the first study to examine oxidative pyrolysis particles in 
+
+microgravity, the ISS detector failed to alarm for Kapton smoke in half of the tests and for Teflon 
+
+smoke in two-thirds of the tests, a troubling result considering that Kapton and Teflon are abundant 
+
+in spacecraft electrical systems, where a spacecraft fire is likely to begin.3–5 Furthermore, Urban 
+
+et al. (2016) demonstrated that particle filtration rates provided by the Environmental Control and 
+
+Life Support System (ECLSS) are rapid enough to outpace smoke accumulation in the event of a 
+
+small or early-stage fire, suggesting that detection may fail or be delayed if an event does not 
+
+produce smoke particle concentrations sufficient to bring the cabin to the detector’s alarm 
+
+threshold.6 Finally, because the ISS detector does not select for smoke particles, the device is 
+
+subject to nuisance alarms from suspended dust, which can desensitize spacecraft crew to real 
+
+alarms. In fact, when ISS crew members vacuum the cabin, they typically disable the smoke 
+
+detectors to prevent suspended dust from causing alarms. These observations suggest that a system 
+
+relying on detection of a single fire property, like the forward light scattering detector on the ISS, 
+
+is unlikely to achieve successful early fire detection under all relevant scenarios.  
+
+ The ability to ensure spacecraft crew safety is crucial to the success of NASA’s goals of 
+
+lunar, Martian, and deep-space exploration. Therefore, future experiments must address the 
+
+shortcomings of traditional fire detection methods and establish optimal methods of detection for 
+
+future spacecraft. Additionally, as missions move deeper into space and utilize different 
+
+exploration atmospheres, new risks emerge that must be evaluated. In particular, material 
+
+flammability limits are not expected to meet current requirements under elevated O2 (34%) and 
+
+reduced pressure conditions (8.2 psi) planned for future lunar habitats; these conditions are also 
+
+expected to effect fire emissions. Research topics to be investigated include the identification of 
+
+
+
+realistic fire scenarios, characterization of gravity and exploration impacts on fire signatures, and 
+
+the development of novel detectors to selectively detect a greater range of spacecraft fires.  
+
+RESEARCH TOPICS AND CHALLENGES 
+
+A. Identification of realistic fire scenarios and characterization of fire signatures from 
+
+unstudied and understudied fuels. Because a spacecraft fire detection system must detect smoke 
+
+from a variety of possible fire scenarios, fuels of interest must be identified and thoroughly 
+
+examined. Experiments should examine both small scale (similar to SAME) and large-scale fires 
+
+(similar to the Saffire experiments7–9) to evaluate detection in early stage and fully developed 
+
+spacecraft fire scenarios, respectively. A fire source of major concern is the lithium ion battery 
+
+(LIB), which is used in various on-orbit electronics including laptops, power tools, and space suits. 
+
+In particular, laptop LIB fires constitute one of the most likely and most dangerous spacecraft fire 
+
+scenarios threatening crew safety in long-duration missions.10 As crewed missions move to the 
+
+moon, Mars, and deeper into space, the space flight and space research community anticipates 
+
+increased reliance on LIBs to power electrical components for longer periods of time.11 While 
+
+several studies have examined gaseous products of LIB fires,12–15 and others have examined 
+
+particles from large-scale LIB fires (e.g., car batteries),16,17 we are aware of only one study that 
+
+characterized the properties of smoke particles from laptop LIB fires.18 Another fuel of immediate 
+
+interest is the to-be-determined fabric that will compose crew clothing in future lunar missions. 
+
+Because planned exploration atmosphere conditions are expected to increase material flammability 
+
+potential, clothing worn by crew members on the ISS (e.g., cotton jersey t-shirts) may not be 
+
+suitable for future lunar missions. Currently, researchers are working to identify a fire-resistant 
+
+fabric for the crew to wear within the anticipated lunar habitat. This fabric must be investigated as 
+
+a potential fuel to identify fire signatures, which will inform selection of an optimal fire detector.  
+
+ Variations in particle properties due to differences in fuel heating methods further 
+
+complicate identification of realistic fire scenarios. Ground experiments described in Meyer (2015) 
+
+revealed that the same fuel heated to different maximum temperatures can yield particles with 
+
+drastically different sizes and morphologies.19 In addition, measurements performed in parabolic 
+
+flight have shown that the longer fuel residence time experienced in reduced gravity drastically 
+
+impact the formation and growth of particles,20 fundamentally changing the propensity of a flame 
+
+to generate smoke from a given fuel.21 Future spacecraft smoke detection studies must attempt to 
+
+recreate a variety of realistic overheating scenarios, including different maximum heating 
+
+temperatures and different temperature ramp methods.  
+
+ Since recent spacecraft fire detection systems have relied on sensing smoke particles, most 
+
+spacecraft detection research to date has focused on characterization of smoke sizes and 
+
+morphologies. However, due to challenges with particle detection, there is a need for expanded 
+
+smoke measurements including but not limited to gas composition and concentrations, particle 
+
+charge distributions, and particle chemical composition. For example, research has demonstrated 
+
+that increased flammable gases released during microgravity fire events can contribute to flame 
+
+propagation (e.g., vapor jetting of monomers during polymethyl methacrylate combustion22), and 
+
+thus, monomers generated from polymer degradation during a fire constitute a potential detection 
+
+target. Another example of potential gas-phase detection targets are electrolyte vapors vented in 
+
+the early stages of LIB failure. 
+Characterizing fire signatures from spacecraft-relevant fuels will not only improve crew 
+
+safety for future space exploration but will also benefit researchers and consumers on Earth. 
+
+Ground measurements of particles and gases from spacecraft-relevant sources could inform future 
+
+standards for terrestrial smoke detectors and could complement research in other topical areas. For 
+
+
+
+example, since LIBs are commonly used in laptops and cell phones, and increasingly in electric 
+
+vehicles, data from NASA-led experiments could be used to evaluate terrestrial smoke detection 
+
+standards and inform air quality risks associated with LIB fires.  
+ 
+
+B. Evaluation of gravity impacts on fire signatures and plume transport. To date, spacecraft 
+
+fire detection studies have focused on microgravity applications, with heavy reliance on results 
+
+from complementary ground experiments. During SAME, smoke particles generated in 
+
+microgravity were larger compared to those generated in ground experiments below an air flow 
+
+threshold of 8.1 cm s-1, with the most significant size and morphology differences observed during 
+
+no-flow tests. Differences in particle formation and evolution in reduced gravity are attributable 
+
+to increased residence times near smoke sources since smoke plumes take longer to disperse due 
+
+to low air velocities and a lack of buoyant flow.3,4 In lunar gravity, the dependence of smoke 
+
+particle size on air flow remains unclear. To ensure that an appropriate detector is selected for a 
+
+future lunar habitat, particle sizes must be characterized in reduced gravity under air velocity 
+
+conditions relevant to that environment. Experiments must also examine particle growth over 
+
+relevant timescales, which should be informed by cabin air transport parameters and environmental 
+
+conditions unique to the space. Finally, the effects of reduced gravity on smoke particle properties 
+
+should be examined for a variety of different spacecraft-relevant fuels. 
+
+The magnitude of gravity influences smoke plume 
+
+transport as illustrated in Figure 1. The optimal location 
+
+for a smoke detector within a lunar vehicle cabin must be 
+
+evaluated through further research. Lunar dust is 
+
+expected to pose a significant threat to crew health and 
+
+materials in future lunar missions, and air returns placed 
+
+on cabin floors would improve removal of lunar dust from 
+
+cabin air by utilizing gravitational settling. If buoyant 
+
+transport is sufficient to overcome downward flow, it may 
+
+be advantageous to place detectors on the cabin ceilings. Modeling smoke transport in lunar gravity 
+
+is therefore prioritized for upcoming fire safety research. Furthermore, the development of a lunar 
+
+gravity smoke model could provide the framework for Martian studies in the future. 
+
+ Lastly, future fire safety modeling studies will rely on smoke emission factors (i.e., mass 
+
+of smoke component per mass fuel burned) from microgravity and partial gravity experiments.6 
+
+These emission factors provide realistic smoke source scenarios that, when paired with habitat 
+
+filtration and mixing parameters, enable alarm time predictions. Because spacecraft cabin air is 
+
+typically well-mixed and heavily filtered, determination of realistic emission factors for different 
+
+fuels and fire scenarios are critical for predicting times to alarm and informing detector placement. 
+ 
+
+C. Evaluation of exploration atmosphere impacts on fire signatures in reduced gravity. The 
+
+planned environment for future lunar habitats is 34% O2 and 8.2 psi.
+23 These parameters, in 
+
+conjunction with reduced gravity, are expected to influence material flammability, flame spread 
+
+rates, and smoke emission for materials in future spacecraft.21,24–26 Lee et al. (2000) found that for 
+
+methane flames, soot surface growth and oxidation rates increase as O2 % increases.
+27 Similarly, 
+
+Edland et al. (2020) demonstrated that for propane flames, soot inception and surface growth rates 
+
+increase by orders of magnitude, with substantial changes occurring above 30% O2.
+28 However, 
+
+below a critical pressure at which soot formation is maximized, reduced pressures are expected to 
+
+reduce soot formation.29 Based on these studies, the elevated O2 concentration and reduced 
+
+pressure conditions targeted for future lunar vehicles are expected to impact sizes, and therefore 
+
+ 
+Figure 1. Comparison of smoke 
+
+plume transport in terrestrial (left), 
+
+micro- (center), and lunar (right) 
+
+gravity.  
+
+
+
+detection, of soot from fully developed fires. Additionally, we note that these studies utilized 
+
+gaseous fuels rather than solid fuels, and more research is needed on O2 and pressure impacts on 
+
+solid fuel combustion. Effects of O2 concentration and pressure on oxidative pyrolysis particles 
+
+remain unclear and must also be investigated. 
+ 
+
+D. Development of improved fire detection systems. Experiments to characterize fire signatures 
+
+under a variety of spacecraft-relevant conditions will provide the basis for improved fire detection 
+
+technology. For example, a CO detector in parallel with a smoke detector was suggested as a 
+
+solution to address rapid particle filtration by the ECLSS in Urban et al. (2016).6 Ultimately, an 
+
+ideal spacecraft fire detection system would incorporate a network of instruments and sensors to 
+
+monitor fire properties (e.g., temperature, radiation, gas composition and concentrations, particle 
+
+properties and concentrations) within the spacecraft cabin. The feasibility of such a system must 
+
+be addressed in future work. A network of sensors within a detection system could also utilize 
+
+monitoring technology already incorporated into the spacecraft for other purposes, like cabin air 
+
+quality monitoring. For example, gas monitors currently on the ISS, including a laser 
+
+spectroscopy-based combustion products monitor,30 could be incorporated into a greater fire 
+
+detection network in a future vehicle. 
+
+ An array of sensors continually monitoring for pre-determined fire signatures would not 
+
+only expand the subset of detectable fires but would also reduce false alarms. For example, a future 
+
+detection system measuring particle chemical composition or charges could differentiate between 
+
+smoke particles and lunar dust, which would greatly improve fire safety in future lunar spacecraft. 
+
+Advances in chemical measurement technology (e.g., gas chromatography mass spectrometry) 
+
+have enabled in situ molecular-level particle and gas chemical characterization, and recent efforts 
+
+have focused on shortening analysis times, reducing power and physical footprints, and increasing 
+
+robustness for these instruments,31–33 making them potential candidates for future selective smoke 
+
+detectors. Chemical characterization of particles and gases produced during a fire can also provide 
+
+further information about the fire including the material burning, the approximate temperature of 
+
+the fire, and the toxicity or harmfulness of the materials produced. Immediate knowledge of these 
+
+factors would aid in determining the best response to the fire.34 Additionally, novel data analysis 
+
+strategies, including machine learning techniques like positive matrix factorization35–37 and deep 
+
+long-short term memory neural networks with variational autoencoders,38 could be used to reduce 
+
+complex data sets and efficiently identify analyte sources. 
+
+CAPABILITIES 
+
+ Table 1 lists a subset of resources currently available for spacecraft smoke characterization 
+
+research. At the NASA Glenn Research Center (GRC), the Gases and Aerosols from Smoldering 
+
+Polymers (GASP) laboratory19 and the new Battery Test Facility (BTF) are available for ground 
+
+testing under terrestrial O2 and pressure conditions. Parabolic flights provide short durations of 
+
+microgravity or partial gravity (approximately 30 s), allowing an opportunity to prove experiment 
+
+feasibility prior to longer-scale missions.20,21,39 The zero-gravity research facility (ZGRF) drop 
+
+tower centrifuge rig can currently provide 5.2 seconds of lunar gravity,40 and planned 
+
+improvements to GRC’s drop tower facility will extend reduced gravity durations to 10 seconds.41 
+
+Experiments on lunar vehicles (e.g., through Commercial Lunar Payload Services) are necessary 
+
+to thoroughly investigate the influence of partial gravity on fire emissions. Additionally, continued 
+
+combustion experiments on the ISS (e.g., using the microgravity science glovebox, MSG42,43, or 
+
+the combustion integrated rack, CIR44) and future low-earth orbit spacecraft are needed to improve 
+
+fire detection in microgravity, which remains relevant for future deep-space missions.  
+
+
+
+ As previously discussed, improvements in sensing technology for both particles and gases 
+
+will enable unprecedented measurements within the constraints of a spacecraft environment. In 
+
+addition to instrumentation already successfully implemented within a spacecraft,30,45 novel 
+
+sensors can be calibrated to reference aerosols and instruments to provide particle size distributions 
+
+and concentrations.46,47 Particle and gas sensors increasingly feature smaller footprints and power 
+
+requirements, offering logistical advantages for future lunar and deep space chamber studies.  
+
+ The ability to use Computational Fluid Dynamics (CFD) to assess the ability to detect fire 
+
+effluent as it evolves from the source location is crucial for determining detector design and 
+
+placement strategies. One such model is the NIST Fire Dynamics Simulator (FDS), which is 
+
+designed for fire flows in any gravity environment with fire or other heat sources.48,49 Recent 
+
+updates to FDS include advancements in aerosol dynamics modeling, accounting for particle size 
+
+distributions and transport dynamics affecting particle sizes and concentrations (e.g., coagulation, 
+
+deposition, and thermophoresis). As the FDS software is freely available and open source, the code 
+
+may be modified to account for currently un-modeled physics.     
+
+Table 1. Partial list of experimental resources enabling investigation of smoke particle 
+
+characteristics and transport under various gravity and cabin atmosphere conditions. 
+
+Resource/Location Duration Gravity 
+
+(g) 
+
+O2 
+
+(%) 
+
+Pressure 
+
+(psi) 
+
+GASP and BTF (GRC) Full burn 1 21 14.7 
+
+MSG42,43 (ISS) Full burn 0 21 14.7 
+
+CIR44 (ISS) Full burn 0 10-40 0.29-44 
+
+ZGRF drop tower centrifuge rig40 (GRC) 5.2 s 0.165 21 14.7 
+
+Parabolic Aircraft/DIAMONDS (CNES)20,21,39 ~30 s 0-0.379 <21 7.3-20 
+
+Blue Origin New Shepard Rotating Capsule ~120 s 0.165 ~34 ~8.2 
+
+Commercial Lunar Payload Services Experiments Full burn 0.165 ~34 ~8.2 
+
+CONCLUSIONS AND RECOMMENDATIONS 
+
+ Transformative spacecraft fire detection research is paramount to ensuring crew safety in 
+future lunar and deep-space missions. We recommend the following priorities for future study: 
+ 
+
+1. Identification of realistic fire scenarios and characterization of fire signatures from 
+unstudied and understudied fuels. Fuels prioritized for immediate testing include LIBs and 
+
+the crew clothing fabric to be selected for Artemis missions. 
+
+2. Evaluation of gravity impacts on fire signatures and plume transport. Proof-of-concept 
+studies in simulated lunar gravity will provide a starting point for lunar habitat experiments. 
+
+Emission factors from these studies will enable computational simulations of smoke plume 
+
+transport and inform detector placement in future spacecraft cabins. 
+
+3. Evaluation of exploration atmosphere impacts on fire signatures in reduced gravity. 
+Elevated O2 and reduced cabin pressure conditions will influence fire signatures and therefore 
+
+fire detection. Each variable must be investigated individually in both ground and reduced 
+
+gravity experiments. 
+
+4. Development of improved detection systems using data from spacecraft fire safety 
+experiments. A transformative fire detection system would be capable of rapidly identifying 
+
+smoke components through a combination of different particle and gas measurement 
+
+techniques. Such a system would increase the number of detectable fires and reduce nuisance 
+
+alarms from suspended cabin and lunar dust. 
+
+
+
+REFERENCES 
+
+(1)  Mowrer, F. W. Lag Times Associated with Fire Detection and Suppression. Fire Technol. 
+
+1990, 26 (3), 244–265. https://doi.org/10.1007/BF01040111. 
+
+(2)  Musgrave, G.; Larsen, A.; Sgobba, T. Safety Design for Space Systems, 1st edition.; 
+
+Butterworth-Heinemann: Burlington, MA; Oxford, 2009. 
+
+(3)  Meyer, M. E.; Mulholland, G. W.; Bryg, V.; Urban, D. L.; Yuan, Z.-G.; Ruff, G. A.; 
+
+Cleary, T.; Yang, J. Smoke Characterization and Feasibility of the Moment Method for 
+
+Spacecraft Fire Detection. Aerosol Sci. Technol. 2015, 49 (5), 299–309. 
+
+https://doi.org/10.1080/02786826.2015.1025124. 
+
+(4)  Mulholland, G. W.; Meyer, M.; Urban, D. L.; Ruff, G. A.; Yuan, Z.; Bryg, V.; Cleary, T.; 
+
+Yang, J. Pyrolysis Smoke Generated Under Low-Gravity Conditions. Aerosol Sci. 
+
+Technol. 2015, 49 (5), 310–321. https://doi.org/10.1080/02786826.2015.1025125. 
+
+(5)  Meyer, M. E.; Urban, D. L.; Mulholland, G. W.; Bryg, V.; Yuan, Z.-G.; Ruff, G. A.; 
+
+Cleary, T.; Yang, J. Evaluation of Spacecraft Smoke Detector Performance in the Low-
+
+Gravity Environment. Fire Saf. J. 2018, 98, 74–81. 
+
+https://doi.org/10.1016/j.firesaf.2018.04.004. 
+
+(6)  Urban, D.; Dietrich, D.; Brooker, J.; Meyer, M.; Ruff, G. Fire Detection Tradeoffs as a 
+
+Function of Vehicle Parameters. In 46th Int. Conf. Environ. Syst., Vienna, Austria, 10-14 
+
+July 2016; ICES-2016-318. https://ttu-ir.tdl.org/handle/2346/67662. 
+
+(7)  Ruff, G.; Urban, D. Operation and Development Status of the Spacecraft Fire Experiments 
+
+(Saffire); In 46th Int. Conf. Environ. Syst., Vienna, Austria, 10-14 July 2016; ICES-2016-
+
+428. https://ttu-ir.tdl.org/handle/2346/67728. 
+
+(8)  Urban, D.; Ruff, G.; Ferkul, P.; Owens, J.; Olson, S.; Meyer, M.; Fortenberry, C.; 
+
+Brooker, J.; Graf, J.; Casteel, M.; Jomaas, G.; Toth, B.; Eigenbrod, C.; T’ien, J.; Liao, Y.-
+
+T.; Fernandez-Pello, C.; Meyer, F.; Legros, G.; Guibaud, A.; Smirnov, N.; Fujita, O. Fire 
+
+Safety Implications of Preliminary Results from Saffire IV and V Experiments on Large 
+
+Scale Spacecraft Fires; In 50th Int. Conf. Environ. Syst., 12-15 July 2021; ICES-2021-266. 
+
+https://ttu-ir.tdl.org/handle/2346/87224. 
+
+(9)  Fortenberry, C.; Casteel, M.; Graf, J.; Easton, J.; Niehaus, J.; Meyer, M.; Urban, D.; Ruff, 
+
+G. Evaluation of Combustion Products from Large-Scale Spacecraft Fires during the 
+
+Saffire-IV and Saffire-V Experiments; In 50th Int. Conf. Environ. Syst., 12-15 July 2021; 
+
+ICES-2021-244. https://ttu-ir.tdl.org/handle/2346/87212. 
+
+(10)  Padilla, R.; Dietrich, D.; Lynch, K.; Juarez, A.; Harper, S.; Nagel, C.; Ruff, G.; Urban, D. 
+
+Characterization of Laptop Fires in Spacecraft; In 49th Int. Conf. Environ. Syst., Boston, 
+
+MA, 7-11 July 2019; ICES-2019-188. https://ttu-ir.tdl.org/handle/2346/84955. 
+
+(11)  Ruff, G.; Urban, D.; Dietrich, D. L. Spacecraft Fire Safety Technology Development Plan 
+
+for Exploration Missions. In Int. Conf. Environ. Syst., 2020; ICES-2020-173. https://ttu-
+
+ir.tdl.org/handle/2346/86349. 
+
+(12)  Sun, J.; Li, J.; Zhou, T.; Yang, K.; Wei, S.; Tang, N.; Dang, N.; Li, H.; Qiu, X.; Chen, L. 
+
+Toxicity, a Serious Concern of Thermal Runaway from Commercial Li-Ion Battery. Nano 
+
+Energy 2016, 27, 313–319. https://doi.org/10.1016/j.nanoen.2016.06.031. 
+
+(13)  Nedjalkov, A.; Meyer, J.; Köhring, M.; Doering, A.; Angelmahr, M.; Dahle, S.; Sander, 
+
+A.; Fischer, A.; Schade, W. Toxic Gas Emissions from Damaged Lithium Ion Batteries—
+
+Analysis and Safety Enhancement Solution. Batteries 2016, 2 (1), 5. 
+
+https://doi.org/10.3390/batteries2010005. 
+
+https://doi.org/10.1007/BF01040111
+https://doi.org/10.1080/02786826.2015.1025124
+https://doi.org/10.1080/02786826.2015.1025125
+https://doi.org/10.1016/j.firesaf.2018.04.004
+https://ttu-ir.tdl.org/handle/2346/67662
+https://ttu-ir.tdl.org/handle/2346/67728
+https://ttu-ir.tdl.org/handle/2346/87224
+https://ttu-ir.tdl.org/handle/2346/87212
+https://ttu-ir.tdl.org/handle/2346/84955
+https://ttu-ir.tdl.org/handle/2346/86349
+https://ttu-ir.tdl.org/handle/2346/86349
+https://doi.org/10.1016/j.nanoen.2016.06.031
+https://doi.org/10.3390/batteries2010005
+
+
+(14)  Diaz, F.; Wang, Y.; Weyhe, R.; Friedrich, B. Gas Generation Measurement and 
+
+Evaluation during Mechanical Processing and Thermal Treatment of Spent Li-Ion 
+
+Batteries. Waste Manag. 2019, 84, 102–111. 
+
+https://doi.org/10.1016/j.wasman.2018.11.029. 
+
+(15)  Or, T.; Gourley, S. W. D.; Kaliyappan, K.; Yu, A.; Chen, Z. Recycling of Mixed Cathode 
+
+Lithium-Ion Batteries for Electric Vehicles: Current Status and Future Outlook. Carbon 
+
+Energy 2020, 2 (1), 6–43. https://doi.org/10.1002/cey2.29. 
+
+(16)  Essl, C.; Golubkov, A. W.; Gasser, E.; Nachtnebel, M.; Zankel, A.; Ewert, E.; Fuchs, A. 
+
+Comprehensive Hazard Analysis of Failing Automotive Lithium-Ion Batteries in 
+
+Overtemperature Experiments. Batteries 2020, 6 (2), 30. 
+
+https://doi.org/10.3390/batteries6020030. 
+
+(17)  Cai, T.; Valecha, P.; Tran, V.; Engle, B.; Stefanopoulou, A.; Siegel, J. Detection of Li-Ion 
+
+Battery Failure and Venting with Carbon Dioxide Sensors. eTransportation 2021, 7, 
+
+100100. https://doi.org/10.1016/j.etran.2020.100100. 
+
+(18)  Padilla, R.; Alcantara, I.; Meyer, M.; Juarez, A.; Dietrich, D.; Urban, D.; Ruff, G.; Nagel, 
+
+C. R. Hazardous Effects of Li-Ion Battery Based Fires. In Int. Conf. Environ. Syst., 2020; 
+
+ICES-2020-433. https://ttu-ir.tdl.org/handle/2346/86372. 
+
+(19)  Meyer, M. E. Particle Morphology and Elemental Composition of Smoke Generated by 
+
+Overheating Common Spacecraft Materials; NASA/TM-2015-218912; National 
+
+Aeronautics and Space Administration, Glenn Research Center: Cleveland, OH, 2015. 
+
+https://ntrs.nasa.gov/citations/20160000940. 
+
+(20)  Guibaud, A.; Citerne, J.-M.; Consalvi, J.-L.; Legros, G. On the Effects of Opposed Flow 
+
+Conditions on Non-Buoyant Flames Spreading over Polyethylene-Coated Wires – Part I: 
+
+Spread Rate and Soot Production. Combust. Flame 2020, 221, 530–543. 
+
+https://doi.org/10.1016/j.combustflame.2020.07.044. 
+
+(21)  Guibaud, A.; Citerne, J.-M.; Consalvi, J.-L.; Legros, G. On the Effects of Opposed Flow 
+
+Conditions on Non-Buoyant Flames Spreading over Polyethylene-Coated Wires – Part II: 
+
+Soot Oxidation Quenching and Smoke Release. Combust. Flame 2020, 221, 544–551. 
+
+https://doi.org/10.1016/j.combustflame.2020.08.038. 
+
+(22)  Olson, S. L.; T’ien, J. S. Near-Surface Vapour Bubble Layers in Buoyant Low Stretch 
+
+Burning of Polymethylmethacrylate. Fire Mater. 1999, 23 (5), 227–237. 
+
+https://doi.org/10.1002/(SICI)1099-1018(199909/10)23:5<227::AID-FAM689>3.0.CO;2-
+
+2. 
+
+(23)  Dietrich, D. L.; Ruff, G. A.; Urban, D. L. Fundamentals of Fire Suppression in Reduced 
+
+Gravity Environments. SAE Int. J. Aerosp. 2008, 1 (1), 307–316. 
+
+https://doi.org/10.4271/2008-01-2087. 
+
+(24)  Sacksteder, K. R.; Tien, J. S. Buoyant Downward Diffusion Flame Spread and Extinction 
+
+in Partial-Gravity Accelerations. Symp. Int. Combust. 1994, 25 (1), 1685–1692. 
+
+https://doi.org/10.1016/S0082-0784(06)80816-7. 
+
+(25)  Osorio, A. F.; Fernandez Pello, A.; Urban, D. L.; Ruff, G. A. Low-Pressure Flame Spread 
+
+Limits of Fire Resistant Fabrics. In 43rd Int. Conf. Environ. Syst., Vail, CO, 14-18 July 
+
+2013; American Institute of Aeronautics and Astronautics, 2013. 
+
+https://doi.org/10.2514/6.2013-3386.  
+
+(26)  Osorio, A. F.; Fernandez-Pello, C.; Urban, D. L.; Ruff, G. A. Limiting Conditions for 
+
+Flame Spread in Fire Resistant Fabrics. Proc. Combust. Inst. 2013, 2 (34), 2691–2697. 
+
+https://doi.org/10.1016/j.proci.2012.07.053. 
+
+https://doi.org/10.1016/j.wasman.2018.11.029
+https://doi.org/10.1002/cey2.29
+https://doi.org/10.3390/batteries6020030
+https://doi.org/10.1016/j.etran.2020.100100
+https://ttu-ir.tdl.org/handle/2346/86372
+https://ntrs.nasa.gov/citations/20160000940
+https://doi.org/10.1016/j.combustflame.2020.07.044
+https://doi.org/10.1016/j.combustflame.2020.08.038
+https://doi.org/10.1002/(SICI)1099-1018(199909/10)23:5%3c227::AID-FAM689%3e3.0.CO;2-2
+https://doi.org/10.1002/(SICI)1099-1018(199909/10)23:5%3c227::AID-FAM689%3e3.0.CO;2-2
+https://doi.org/10.4271/2008-01-2087
+https://doi.org/10.1016/S0082-0784(06)80816-7
+https://doi.org/10.2514/6.2013-3386
+https://doi.org/10.1016/j.proci.2012.07.053
+
+
+(27)  Lee, K.-O.; Megaridis, C.; Zelepouga, S.; Saveliev, A.; Kennedy, L.; Charon, O.; 
+
+Ammouri, F. Soot Formation Effects of Oxygen Concentration in the Oxidizer Stream of 
+
+Laminar Coannular Nonpremixed Methane/Air Flames. Combust. Flame 2000, 121, 323–
+
+333. https://doi.org/10.1016/S0010-2180(99)00131-5. 
+
+(28)  Edland, R.; Allgurén, T.; Normann, F.; Andersson, K. Formation of Soot in Oxygen-
+
+Enriched Turbulent Propane Flames at the Technical Scale. Energies 2020, 13 (1), 191. 
+
+https://doi.org/10.3390/en13010191. 
+
+(29)  Böhm, H.; Hesse, D.; Jander, H.; Lüers, B.; Pietscher, J.; Wagner, H. G. G.; Weiss, M. 
+
+The Influence of Pressure and Temperature on Soot Formation in Premixed Flames. Symp. 
+
+Int. Combust. 1989, 22 (1), 403–411. https://doi.org/10.1016/S0082-0784(89)80047-5. 
+
+(30)  Mudgett, P. D.; Pilgrim, J. S.; Wood, W. R. Laser Spectroscopy Multi-Gas Monitor: 
+
+Results of a Year Long Technology Demonstration on ISS. In 45th Int. Conf. Environ. 
+
+Syst., Bellevue, WA, 12-16 July 2015; ICES-2015-243. https://ttu-
+
+ir.tdl.org/handle/2346/64501. 
+
+(31)  Williams, B. J.; Jayne, J. T.; Lambe, A. T.; Hohaus, T.; Kimmel, J. R.; Sueper, D.; 
+
+Brooks, W.; Williams, L. R.; Trimborn, A. M.; Martinez, R. E.; Hayes, P. L.; Jimenez, J. 
+
+L.; Kreisberg, N. M.; Hering, S. V.; Worton, D. R.; Goldstein, A. H.; Worsnop, D. R. The 
+
+First Combined Thermal Desorption Aerosol Gas Chromatograph—Aerosol Mass 
+
+Spectrometer (TAG-AMS). Aerosol Sci. Technol. 2014, 48 (4), 358–370. 
+
+https://doi.org/10.1080/02786826.2013.875114. 
+
+(32)  Martinez, R. E.; Williams, B. J.; Zhang, Y.; Hagan, D.; Walker, M.; Kreisberg, N. M.; 
+
+Hering, S. V.; Hohaus, T.; Jayne, J. T.; Worsnop, D. R. Development of a Volatility and 
+
+Polarity Separator (VAPS) for Volatility- and Polarity-Resolved Organic Aerosol 
+
+Measurement. Aerosol Sci. Technol. 2016, 50 (3), 255–271. 
+
+https://doi.org/10.1080/02786826.2016.1147645. 
+
+(33)  Watson, T. B. Aerosol Chemical Speciation Monitor (ACSM) Instrument Handbook; 
+
+DOE/SC-ARM-TR-196; Department of Energy Office of Science Atmospheric Radiation 
+
+Measurement (ARM) Program, Brookhaven National Laboratory: Upton, NY, 2017. 
+
+https://doi.org/10.2172/1375336.  
+
+(34)  Garrido, M. A.; Font, R.; Conesa, J. A. Pollutant Emissions during the Pyrolysis and 
+
+Combustion of Flexible Polyurethane Foam. Waste Manag. 2016. 
+
+https://doi.org/10.1016/j.wasman.2016.04.007. 
+
+(35)  Zhang, Y.; Williams, B. J.; Goldstein, A. H.; Docherty, K.; Ulbrich, I. M.; Jimenez, J. L. 
+
+A Technique for Rapid Gas Chromatography Analysis Applied to Ambient Organic 
+
+Aerosol Measurements from the Thermal Desorption Aerosol Gas Chromatograph (TAG). 
+
+Aerosol Sci. Technol. 2014, 48 (11), 1166–1182. 
+
+https://doi.org/10.1080/02786826.2014.967832. 
+
+(36)  Zhang, Y.; Williams, B. J.; Goldstein, A. H.; Docherty, K. S.; Jimenez, J. L. A Technique 
+
+for Rapid Source Apportionment Applied to Ambient Organic Aerosol Measurements 
+
+from a Thermal Desorption Aerosol Gas Chromatograph (TAG). Atmospheric Meas. Tech. 
+
+2016, 9 (11), 5637–5653. https://doi.org/10.5194/amt-9-5637-2016. 
+
+(37)  Gao, Y.; Walker, M. J.; Barrett, J. A.; Hosseinaei, O.; Harper, D. P.; Ford, P. C.; Williams, 
+
+B. J.; Foston, M. B. Analysis of Gas Chromatography/Mass Spectrometry Data for 
+
+Catalytic Lignin Depolymerization Using Positive Matrix Factorization. Green Chem. 
+
+2018, 20 (18), 4366–4377. https://doi.org/10.1039/C8GC01474D. 
+
+https://doi.org/10.1016/S0010-2180(99)00131-5
+https://doi.org/10.3390/en13010191
+https://doi.org/10.1016/S0082-0784(89)80047-5
+https://ttu-ir.tdl.org/handle/2346/64501
+https://ttu-ir.tdl.org/handle/2346/64501
+https://doi.org/10.1080/02786826.2013.875114
+https://doi.org/10.1080/02786826.2016.1147645
+https://doi.org/10.2172/1375336
+https://doi.org/10.1016/j.wasman.2016.04.007
+https://doi.org/10.1080/02786826.2014.967832
+https://doi.org/10.5194/amt-9-5637-2016
+https://doi.org/10.1039/C8GC01474D
+
+
+(38)  Xu, Z.; Guo, Y.; Saleh, J. H. Advances Toward the Next Generation Fire Detection: Deep 
+
+LSTM Variational Autoencoder for Improved Sensitivity and Reliability. IEEE Access 
+
+2021, 9, 30636–30653. https://doi.org/10.1109/ACCESS.2021.3060338. 
+
+(39)  Citerne, J.-M.; Dutilleul, H.; Kizawa, K.; Nagachi, M.; Fujita, O.; Kikuchi, M.; Jomaas, 
+
+G.; Rouvreau, S.; Torero, J. L.; Legros, G. Fire Safety in Space – Investigating Flame 
+
+Spread Interaction over Wires. Acta Astronaut. 2016, 126, 500–509. 
+
+https://doi.org/10.1016/j.actaastro.2015.12.021 . 
+
+(40)  Ferkul, P. V.; Olson, S. L. Zero-Gravity Centrifuge Used for the Evaluation of Material 
+
+Flammability in Lunar Gravity. J. Thermophys. Heat Transf. 2011, 25 (3), 457–461. 
+
+https://doi.org/10.2514/1.T3651.  
+
+(41)  Urban, D.; Paul, A.-L.; Sackett, C.; Weislogel, M.; Kim, J.; Sinha-Ray, S.; Liao, Y.-T.; 
+
+Miller, F.; Neumann, E. High Throughput Ground-Based Reduced Gravity Testing [white 
+
+paper]. Submitted to the National Academies of Sciences, Engineering and Medicine for 
+
+the Decadal Survey on Biological and Physical Sciences in Space 2023-2032, 2021. 
+
+http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/623127/6378869/217-
+
+5b3da811fae18638f07e2d433452322b_UrbanDavidL.docx (accessed 31 Oct 2021). 
+
+(42)  Spivey, R.; Flores, G. An Overview of the Microgravity Science Glovebox (MSG) 
+
+Facility, and the Gravity-Dependent Phenomena Research Performed in the MSG on the 
+
+International Space Station (ISS). In 46th AIAA Aerospace Sciences Meeting and Exhibit, 
+
+Reno, NV, 7-10 Jan 2008; American Institute of Aeronautics and Astronautics, 2008. 
+
+https://doi.org/10.2514/6.2008-812. 
+
+(43)  Olson, S. L.; Ferkul, P. V.; Bhattacharjee, S.; Miller, F. J.; Fernandez-Pello, C.; Link, S.; 
+
+T’ien, J. S.; Wichman, I. Results from On-Board CSA-CP and CDM Sensor Readings 
+
+during the Burning and Suppression of Solids – II (BASS-II) Experiment in the 
+
+Microgravity Science Glovebox (MSG). In 45th Int. Conf. Environ. Syst., Bellevue, WA, 
+
+12-16 July 2015; ICES-2015-196. https://ttu-ir.tdl.org/handle/2346/64468. 
+
+(44)  Dietrich, D. L.; Nayagam, V.; Hicks, M. C.; Ferkul, P. V.; Dryer, F. L.; Farouk, T.; Shaw, 
+
+B. D.; Suh, H. K.; Choi, M. Y.; Liu, Y. C.; Avedisian, C. T.; Williams, F. A. Droplet 
+
+Combustion Experiments Aboard the International Space Station. Microgravity Sci. 
+
+Technol. 2014, 26 (2), 65–76. https://doi.org/10.1007/s12217-014-9372-2 . 
+
+(45)  Wallace, W. T.; Limero, T. F.; Loh, L. J.; Mudgett, P. D.; Gazda, D. B. Monitoring of the 
+
+Atmosphere on the International Space Station with the Air Quality Monitor. In 47th Int. 
+
+Conf. Environ. Syst., Charleston, SC, 16-20 July 2017; ICES-2017-103. https://ttu-
+
+ir.tdl.org/handle/2346/64468. 
+
+(46)  Li, J.; Mattewal, S. K.; Patel, S.; Biswas, P. Evaluation of Nine Low-Cost-Sensor-Based 
+
+Particulate Matter Monitors. Aerosol Air Qual. Res. 2020, 20 (2), 254–270. 
+
+https://doi.org/10.4209/aaqr.2018.12.0485. 
+
+(47)  Jayaratne, R.; Liu, X.; Ahn, K.-H.; Asumadu-Sakyi, A.; Fisher, G.; Gao, J.; Mabon, A.; 
+
+Mazaheri, M.; Mullins, B.; Nyaku, M.; Ristovski, Z.; Scorgie, Y.; Thai, P.; Dunbabin, M.; 
+
+Morawska, L. Low-Cost PM2.5 Sensors: An Assessment of Their Suitability for Various 
+
+Applications. Aerosol Air Qual. Res. 2020, 20 (3), 520–532. 
+
+https://doi.org/10.4209/aaqr.2018.10.0390. 
+
+(48)  Brooker, J. E.; Urban, D. L.; Ruff, G. A. ISS Destiny Laboratory Smoke Detection Model; 
+
+SAE Technical Paper 2007-01–3076; SAE International: Warrendale, PA, 2007. 
+
+https://doi.org/10.4271/2007-01-3076.  
+
+https://doi.org/10.1109/ACCESS.2021.3060338
+https://doi.org/10.1016/j.actaastro.2015.12.021
+https://doi.org/10.2514/1.T3651
+http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/623127/6378869/217-5b3da811fae18638f07e2d433452322b_UrbanDavidL.docx
+http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/623127/6378869/217-5b3da811fae18638f07e2d433452322b_UrbanDavidL.docx
+https://doi.org/10.2514/6.2008-812
+https://ttu-ir.tdl.org/handle/2346/64468
+https://doi.org/10.1007/s12217-014-9372-2
+https://ttu-ir.tdl.org/handle/2346/64468
+https://ttu-ir.tdl.org/handle/2346/64468
+https://doi.org/10.4209/aaqr.2018.12.0485
+https://doi.org/10.4209/aaqr.2018.10.0390
+https://doi.org/10.4271/2007-01-3076
+
+
+(49)  Brooker, J. E.; Dietrich, D. L.; Gokoglu, S. A.; Urban, D. L.; Ruff, G. A. Modeling and 
+
+Analysis of Realistic Fire Scenarios in Spacecraft; In 45th Int. Conf. Environ. Syst., 
+
+Bellevue, WA, 12-16 July 2015; ICES-2015-204. https://ttu-ir.tdl.org/handle/2346/64475.  
+
+ 
+
+ 
+
+https://ttu-ir.tdl.org/handle/2346/64475
+

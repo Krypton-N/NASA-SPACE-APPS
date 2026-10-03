@@ -1,0 +1,14344 @@
+NASA
+
+Contractor
+
+Report
+
+185295
+
+Definition of Experiments to Investigate
+Fire Suppressants in Microgravity
+
+James
+
+J. Reuther
+
+Banelle
+Columbus,
+
+Ohio
+
+December 1990
+
+Prepared for
+Lewis Research
+
+Center
+
+Under
+
+NAS3-25362
+
+Contract
+
+N_ionalAe_nauticsand
+SpaceAdmini_ration
+DEFINITION
+OF
+EXPERIMENTS
+(NASA-CR-1852_5)
+SIJPPRESSANT_
+IN
+TO
+TNV_STTGATE
+F[PE
+MIC_OGRAVTTY
+final
+_e[_ort
+(_ttelle
+Columbus
+Labs.)
+64
+p
+CSCL
+
+N91-1437_
+
+22_
+
+NASA
+
+Contractor
+
+Report
+
+185295
+
+Definition of Experiments to Investigate
+Fire Suppressants in Microgravity
+
+James J. Reuther
+Battelle
+Columbus,
+
+Ohio
+
+December 1990
+
+Prepared for
+Lewis Research
+Under Contract
+
+Center
+NAS3-25362
+
+NationalAeronautics
+and
+Space Administration
+
+TABLE
+
+OF CONTENTS
+
+Page
+1.0
+
+Introduction
+
+2.0
+
+Review
+
+.......................
+
+of Suppression
+
+Concepts
+
+I
+
+for Space
+
+.........
+
+2
+
+2.1
+2.2
+2.3
+2.4
+
+Literature Review
+..........
+Technical Information (QuestiJn'NJ.'li
+......
+Spacecraft Fire Scenarios (Question No.'2) ....
+Effect of Gravity on Combustion (Question No.'3) . . .
+
+2
+2
+3
+4
+
+2.5
+
+4
+
+2.6
+
+Factors Influencing Flame Suppressant
+Effectiveness
+(Question No. 4) ' ...........
+Candidate Spacecraft Fire Suppressants
+
+2.7
+
+(Question
+Selection
+
+6
+No. 5)
+of Fire "Suppressants
+
+Low-Gravity
+
+Combustion
+
+Based
+
+Knowledge
+
+(Question
+
+Active Fire Suppression
+Passive Atmospheric
+Inerting"
+2.8
+2.9
+2.10
+3.0
+
+on ........
+No. 6)
+
+.........
+. ........
+
+Recommended Spacecraft Fire Suppressants
+(Question No. 7) .......
+Concludin_ Remarks on'Review of'Suppression"
+Concepts (Task I)
+...........
+(Task I)References
+....
+Z .
+Z _".
+_..
+
+Experiment
+Spacecraft
+
+. .
+
+Definition and Requirements for
+Fire Suppression
+................
+
+8
+8
+11
+
+13
+
+i Z
+
+15
+16
+
+25
+
+3.1
+3.2
+
+Literature Review
+..........
+Technical Information (Question'No.
+
+3.3
+
+Science Requirements for Spacecraft FireSuppression
+Experiments (Question No. 2) .......
+
+27
+
+3.3.1
+3.3.2
+3.3.3
+3.3.4
+3.3.5
+
+27
+28
+36
+38
+41
+
+3.4
+
+1)" ........
+
+Scope of the Study
+.............
+Experimental Parameters
+...........
+Scale of Experiments
+.............
+Number and Duration of Tests
+.........
+Selection of Priority Experiments
+......
+
+25
+25
+
+Other In-Space Experiment Considerations
+(Question No. 3) ...................
+
+42
+
+3.4.1
+3.4.2
+3.4.3
+3.4.4
+
+42
+43
+43
+44
+
+Justification
+for In-Space Testing
+......
+Influence of Low-Gravity Quality
+.......
+Volume and Power Estimates
+..........
+Crew Involvement
+...............
+
+ii
+
+TABLEOF CONTENTS
+(Continued)
+
+Page
+3.5
+
+Concluding Remarkson Experimental Definition
+and Requirements (Task 2) ..............
+(Task 2) References .................
+
+44
+45
+
+Definition Completion and Implementation Plan for
+Fire-Suppression Experiment ................
+
+4g
+
+3.6
+4.0
+
+4.1
+4.2
+
+49
+
+4.4
+4.5
+
+Information Sought
+........
+Criteria for Establishment of'Definition
+(Question No. 1) ...................
+Paradigm of In-Space Smolder-Suppression Experiment
+(Question No. 2) ...........
+Implementation Plan (Question'No.'3) Z i
+Concluding Remarkson Definition Completi i n Z ....
+aid
+
+4.6
+
+Implementation Plan (Task 3) .............
+(Task 3) References .................
+
+56
+56
+
+4.3
+
+4g
+50
+54
+
+LIST OF TABLES
+Table 2.1.
+
+Critical
+
+Table 2.2
+
+Generic Effects of Low Gravity on Diffusion
+and Premixed Flames .................
+
+Table 2.3
+
+Factors Influencing Flame Suppressant
+Effectiveness
+....................
+
+Table 2.4
+
+Qualifications
+Suppressants
+
+Table 2.5
+
+Primary and Secondary Drawbacks of Active
+Spacecraft Fire Suppressants
+............
+
+Table 2.6
+
+Estimated Loss in Suppression Effectiveness
+CFaBr Under Conditions Representative of
+Low-Gravity Flames
+.................
+
+Table 2.7
+
+Table 3.1
+
+Questions
+
+on Fire Suppression
+
+for Active Spacecraft
+....................
+
+in Space
+
+. . .
+
+Fire
+
+of
+11
+
+Contribution/Significance
+of Individual
+References
+.....................
+
+21
+
+Critical Task 2 Questions for Which
+Information and Answers Were Sought
+
+25
+
+111
+
+Scientific
+.........
+
+LIST OF TABLES
+(Continued)
+
+Page
+Table 3.2
+
+Table 3.3
+
+Table 3.4
+
+Table 3.5
+
+Low-Gravity Combustion Experiments
+and Flame Type
+...................
+Experimental Parameters
+Suppression
+Experiments
+Ideal Requirements
+Smolder-Suppression
+
+by Fuel
+26
+
+for In-Space Smolder...............
+
+for Solid Fuels in Spacecraft
+Experiments
+...........
+
+29
+
+30
+
+Qualifications
+of Carbon as a Candidate Fuel
+to Meet Ideal Requirements
+.............
+
+31
+
+Table 3.6
+
+Carbon
+
+37
+
+Table 3.7
+
+Parametrics
+Suppression
+
+Table 3.8
+
+Table 4.1
+
+Table 4.2
+
+Table 4.3
+
+Table 4.4
+
+Fuel and Combustion
+of Proposed
+Experiments
+
+Properties
+
+........
+
+In-Space Smolder...............
+
+40
+
+Priority Low-Gravity Smolder-Suppression
+Experiments
+.....................
+
+42
+
+Critical Questions
+and Implementation
+
+49
+
+on Definition Completion
+Plan ...............
+
+Conceptual Design of Spacecraft
+Suppression
+Experiment Package
+
+Fire...........
+
+51
+
+Conceptual Operation of Spacecraft FireSuppression
+Experiment Package
+...........
+
+52
+
+Other Contributing Factors to Spacecraft
+Fire-Suppression
+Experiments
+............
+
+53
+
+LIST OF FIGURES
+Figure 4.1.
+
+Functional Diagram for the In-Space SmolderSuppression Experiment
+..............
+
+iv
+
+54
+
+SUMMARY
+
+Defined
+operation
+
+of a critical
+
+suppressants
+
+the solid fuel
+
+set of experiments
+
+(carbon),
+mixing
+
+replenishable),
+
+oxidants
+
+mode,
+
+lifetime,
+
+H20, N2) and suppressant
+
+bustion,
+
+Preferred
+
+The_,
+
+gravity
+
+inert under
+
+number,
+
+experiments
+
+experiments
+design
+
+package
+
+in-space
+
+experiments
+
+included
+
+and duration
+
+vessel,
+
+combustion
+
+concept
+which
+
+V
+
+or fire.
+
+gravity)
+
+combustion
+
+of the proposed
+
+of standardized
+
+Deliberately
+
+both
+
+accommodasmolder-
+
+incorporated
+
+for the prototype
+later.
+
+into the
+experi-
+
+This flexibil-
+
+fuel canisters
+
+integration
+
+and simultaneous
+
+and time.
+
+and
+
+fire-suppression
+
+Freedom)
+
+of up to 25 modular
+
+experiments
+
+utilities
+
+(normal
+
+now or Freedom
+
+permits
+
+com-
+
+the local, near-quiescent
+
+Station
+
+interchangeability
+
+on Shuttle
+
+alters
+
+data not only on the limitations
+
+and experience
+
+at normal gravity.
+
+by the design
+
+to conserve
+
+using
+
+sup-
+
+mechanisms,
+
+combustion,
+
+size,
+
+(C02,
+
+Candidate
+
+(about 1 hour)
+
+(Shuttle or Space
+
+was sufficient
+
+a containment
+
+unwanted
+
+terrestrial
+
+were estimated
+
+to fly either
+
+ity is provided
+within
+
+to suppress
+concepts
+
+suppressants
+
+the modes,
+
+and
+
+fire-zone
+
+gravity
+
+on
+
+fuel/
+
+ventilated
+
+tendency,
+
+of how reduced
+
+may influence
+
+but also data on the details
+
+conceptual
+
+and finite;
+
+and diagnostics.
+
+on
+
+spacecraft-
+
+atmospheres),
+
+(toxicity),
+
+and
+
+are provided
+
+vapor, or mist that has thermophysical
+
+by spacecraft-carrier
+
+suppression
+
+parameters
+
+and reignition
+
+design
+
+information
+
+realistic
+
+spacecraft
+
+(quiescent
+
+after an analysis
+
+agents
+
+to yield
+
+under
+
+experiment
+
+systems,
+
+suppression
+
+of a gas,
+
+systems
+
+and consequences
+
+and is chemically
+
+low-gravity
+
+mental
+
+identified
+
+spacecraft
+
+conditions.
+
+tions,
+
+event,
+
+delivery
+
+of terrestrial
+
+application
+
+imposed
+
+and rate
+
+are the conceptual
+
+expected
+
+(habitable
+
+and how these alterations
+
+capacities
+
+activity
+
+Specific
+
+ignition mode,
+
+fire conditions,
+
+were
+
+delivery
+
+(smoldering).
+
+supply,
+
+pressants
+
+in this report
+
+and on suppressant
+
+fire conditions
+
+oxidant
+
+and justified
+
+into existing
+
+testing
+
+low-
+
+of separate
+
+1.0.
+
+When humans
+will
+
+venture
+
+into space
+
+not only have to conquer
+
+environment,
+
+but also those
+
+to the earth-like
+safety
+
+challenges
+
+recreated
+
+presents
+
+fire-safety
+
+Space Administration
+25362.
+
+they
+
+by the extraterrestrial
+
+inherent
+
+aboard spacecraft
+
+In-Space
+
+Technology
+
+in and attendant
+
+for survival.
+
+Experiments
+
+practicable
+
+fire suppressants
+
+continuously
+
+prevent
+
+atmosphere
+
+smoldering
+
+or flaming
+
+Office
+Program
+
+Fire
+
+once
+
+life- or mission-threatening
+
+approached
+
+through
+Task
+
+was to define
+evaluate,
+
+ignitions
+
+or quickly
+
+the following
+
+project
+
+in
+
+Aeronautics
+
+Contract
+
+and
+
+No. NAS3-
+
+of Aeronautics
+and Space
+
+and
+
+Technology)
+
+(IN-STEP).
+
+identify,
+
+combustion,
+
+under
+
+of Aeronautics
+
+and suppressant
+
+unwanted
+
+control,
+
+Center
+
+of the NASA Office
+
+of this project
+
+that would
+
+of a three-task
+
+for the National
+
+Lewis Research
+
+(formerly
+
+The objective
+
+results
+
+by Battelle
+
+was a component
+
+Technology
+
+experiments
+
+the final
+
+research
+(NASA)
+
+The project
+
+Exploration
+
+no more
+
+terrestrial
+
+posed
+
+and development,
+
+is one of those challenges.
+
+spacecraft
+
+through
+
+for exploration
+
+the new challenges
+
+environment
+
+This report
+
+nology
+
+INTRODUCTION
+
+and develop
+
+delivery
+
+from occurring
+and permanently
+initiated,
+
+systems
+
+in-space
+
+tech-
+
+effective,
+that either
+
+in manned
+
+spacecraft
+
+extinguish
+
+unwanted
+
+with the action
+
+than the fire
+
+project
+
+specific
+
+itself.
+
+This
+
+taken
+
+being
+
+objective
+
+was
+
+plan:
+
+I. Analysis of Experiment Concepts
+1.1. Identification of Spacecraft Fire Scenarios
+1.2. Evaluation of Fire-Suppression
+Concepts
+
+Task 2. Experiment Definition and Justification
+2.1. Definition of In-Space Science Requirements
+2.2. Justification
+for In-Space Experiments
+Task 3. Definition Completion and Implementation Plan Development
+3.1. Completion of Defined In-Space Experiment(s)
+3.2. Preparation of Implementation Plan.
+
+The information
+hensive
+
+required
+
+and critical
+
+and Earth-based
+
+for this project
+
+was obtained
+
+review of the technical
+
+combustion
+
+literature
+
+and its suppression.
+
+solely
+
+from a compre-
+
+available
+
+No experiments
+
+on space-
+
+were
+
+conducted.
+This
+ect,
+
+including
+
+report presents
+the conceptual
+
+the results
+review,
+
+of this three-task
+
+experimental
+
+parameters,
+
+research
+and
+
+proj-
+
+implementation plan for
+posed design
+various
+
+experiments
+
+of an in-space
+
+situations
+various
+
+suppression
+
+effectiveness
+
+is organized
+
+three tasks outlined
+
+nology
+
+to discuss
+
+provided
+
+presents
+
+objective
+
+fire-suppression
+
+spacecraft
+
+plan.
+
+The sections
+
+at the end of each
+
+for further
+
+to simulate
+
+and evaluate
+body
+
+the fire-
+
+of the report
+
+made on each of the
+are self-contained
+
+section.
+
+CONCEPTS
+
+of Task
+
+The pro-
+
+fire scenarios,
+
+The following
+
+of Task I was to recommend
+
+concepts
+
+the means
+
+the progress
+
+the results
+
+FOR SPACE
+
+1 efforts
+
+on the project.
+
+no less than two spacecraft
+
+development
+
+in terms
+
+of in-space
+
+tech-
+
+experimentation.
+
+2.1.
+
+Technical
+critical
+
+questions
+
+nent technical
+
+posed
+
+recommendations
+
+2.1.
+
+Questions
+
+that would
+
+Question
+
+Technical
+
+References
+thought
+
+and fire safety;
+
+No. 2 to 5 addressed
+based
+
+Information
+
+1 to 29 are a chronological
+relevant
+
+thought
+
+fire suppression.
+
+to Task 1 in terms
+
+the issues of
+of Question
+
+No. I)
+
+are to be found
+bibliography
+of low-gravity
+
+in Subsecof the technicombustion
+
+bibliography
+
+to the field of normal-gravity
+
+Table 2.7, to be found
+
+and
+
+questions.
+
+30 to 48 are a chronological
+relevant
+
+to the
+
+the perti-
+
+the conclusions
+
+(question
+
+section
+
+answers
+
+on a review
+
+on the preceding
+
+for this report
+
+references
+
+documents
+
+based
+
+provide
+
+No. 1 established
+
+No. 6 and 7 established
+
+of the author,
+
+The references
+
+technical
+
+in Table
+
+Questions
+
+2.2.
+
+cal documents
+
+was sought
+
+Review
+
+fires and their suppression,
+
+No. I literature.
+
+tion 2.10.
+
+Literature
+
+information
+
+literature.
+
+reduced-gravity
+
+trial)
+
+agents.
+
+REVIEW OF SUPPRESSION
+
+This section
+The specific
+
+sections
+
+in the project
+
+2.0.
+
+in space.
+
+can be used to deliver
+
+of various
+
+references
+
+provides
+
+of plausible
+
+technologies
+
+into three
+
+with separate
+
+flight apparatus
+
+representative
+
+after which
+
+on fire suppression
+
+of the
+(terres-
+
+at the end of Section
+
+2.0,
+
+is
+
+TABLE2.1.
+
+CRITICALQUESTIONS
+ONFIRE SUPPRESSION SPACE
+IN
+
+No.
+
+Que_ons
+
+1
+
+Is technical information
+
+available
+
+2
+
+Based on the phase, amount,
+atmospheres to be expected
+have a reasonable
+
+with which
+
+and configuration
+on manned
+
+probability
+
+to evaluate
+
+potential
+
+of flammable
+
+spaceflights,
+
+spacecraft fire suppressants?
+
+materials and the specifications
+
+of the oxidizing
+
+what is the nature of those fire situations, or scenarios,
+
+that
+
+of occurrence?
+
+3
+
+How
+
+and to what extent does low gravity alter the physicochemical
+
+4
+
+How
+
+and to what extent
+
+do variables
+
+characteristics of normal-gravity
+
+combustion?
+
+other than gravity influence the effectiveness of normal-gravity
+
+fire
+
+suppressants?
+5
+
+What
+
+candidate
+
+spacecraft, fire suppressants have been identified and recommended,
+
+6
+
+Have the alterations
+
+to combustion
+
+caused by reduced-gravity
+
+effects been adequately
+
+criteria for and analysis of spacecraft fire suppressants and atmosphere-inerting
+consequences of this omission on the selection?
+7
+
+Based on the information available and its application,
+recommended with confidence?
+
+an annotated
+Question
+
+bibliography
+
+and discuss
+important
+
+papers
+
+can an effective, interim, spacecraft
+
+of the documents
+
+and reports
+
+fire suppression
+
+background
+
+selectively
+
+cited,
+
+into the selection
+
+fire suppressant
+
+constituting
+
+used here.
+
+Lewis Research
+
+Center,
+
+To date,
+been prevention
+mable material
+spacecraft
+
+Microgravity
+
+January
+
+be
+
+a response
+
+to
+
+Combustion
+
+approach
+
+and controlling
+cannot
+
+of onboard
+spacecraft,
+
+completely
+
+flammable
+
+of this
+
+find-
+
+of the
+
+report.
+
+No. 2)
+
+fire safety
+
+the amount of onboard
+
+has
+flam-
+
+sources (2s). Obviously,
+
+on protection
+
+materials
+
+such as the Space
+
+and
+
+held at the NASA
+
+proceedings
+
+(question
+
+ignition
+
+provided
+
+the preliminary
+
+by NASA to spacecraft
+
+potential
+depend
+
+documents
+
+Workshop,
+
+by limiting
+
+fire safety
+
+will be summarized
+
+the author reviewed
+
+Fire Scenarios
+
+(design to preclude)
+
+tical for advanced
+
+study, which
+
+at the time of writing
+
+the principal
+
+The avoidance
+
+of spacecraft
+
+1989, but the published
+
+Spacecraft
+
+fire safety
+
+the topic
+
+for this
+
+In addition,
+
+were not available
+
+2.3.
+
+cover
+
+in particular. (zs-ze,28,2e)hese
+T
+
+material
+
+ings of the International
+
+tion.
+
+factored
+
+gases, and if not, what were the
+
+No. 1.
+
+Several
+
+workshop
+
+and why?
+
+by fire preven-
+
+and combustion
+
+Station
+
+is imprac-
+
+Freedom (2s,2e),
+because
+
+4
+of the
+
+complex,
+
+and operations
+
+permanent
+planned.
+
+operations
+
+There are also serious
+
+flammability
+
+standards
+
+for space
+
+for waivered
+
+flammable
+
+articles.
+
+ity of fire aboard
+
+Freedom,
+
+of an unwanted
+
+fire
+
+of the variety
+
+flaming--could
+
+and cannot
+
+fire scenario
+
+material
+
+nents (7,14,15,18,25,29). secondary
+A
+explosion
+
+threat
+
+from either
+
+the possibil-
+
+procedures,
+
+it is
+
+smoldering
+
+to
+
+Freedom.
+technical
+
+literature
+
+the smoldering
+
+of a most
+
+readily
+
+control
+
+is that a
+
+of deep-seated
+
+of electrical
+
+less likely combustion
+
+or the environmental
+
+and storage
+
+to zero (15c,18) Because
+.
+
+of the overheating
+
+and much
+
+of
+
+is that the risk
+
+of combustion--from
+
+begins with
+
+is from the evolution
+
+smoldering
+
+atmosphere,
+
+be reduced
+
+Station
+
+as the result
+
+on the definition
+
+regarding
+
+and experimental
+
+the Space
+
+experiments
+
+of controls
+
+the situation
+
+from the review of available
+
+spacecraft
+
+questions
+
+its Earth-like
+
+materials
+
+occur aboard
+
+solid flammable
+
+Hence,
+
+all types and classes
+
+A consensus
+plausible
+
+is finite,
+
+of onboard
+
+and on the adequacy
+
+with
+
+of necessary
+
+likely that almost
+
+and the variety
+
+compo-
+
+(flaming)
+
+ignitible
+
+gas,
+
+and life support
+
+and
+
+H2,
+
+system
+
+(ECLSS).
+
+Effect of
+
+2.4.
+
+The reduced-gravity
+icochemistry
+affecting
+ject
+
+mass and energy
+
+of low gravity
+the gravity
+merely
+
+on the two modes
+
+compilation,
+
+ment, and procedures,
+
+experiments
+
+Table
+
+and premixed
+
+flames.
+
+with no distinction
+influence
+
+No. 3)
+
+spacecraft
+
+alters
+
+natural
+
+combustion
+
+has been
+
+effects
+
+differences
+
+may be noted.
+
+Table
+
+of fuel type,
+
+the results
+
+the sub-
+
+parabolic
+
+the observed
+
+Some general
+
+made
+
+the phys-
+
+convection,
+
+(in drop towers,
+
+2.2 summarizes
+
+of combustion
+
+which undoubtedly
+
+(question
+
+by eliminating
+
+Low-gravity
+
+and limited
+
+on diffusion
+
+a generic
+
+combustion
+
+and spacecraft).
+
+effects
+
+of orbiting
+
+transport.
+
+analyses
+
+flights,
+
+on Combustion
+
+environment
+
+of normal-gravity
+
+of extensive
+
+airplane
+
+Gravity
+
+in
+
+2.2 is
+
+equip-
+
+to some
+
+extent.(ss,4e)
+
+2.5.
+
+Factors
+
+Influencinq
+
+In the past,
+late zero-gravity
+
+thick,
+
+Flame Suppressant
+
+flat normal-gravity
+
+combustion
+
+Effectiveness
+
+flames
+
+on Earth, (2)by altering
+
+(question
+
+No. 4)
+
+have been used to simutheir
+
+normal-gravity
+
+5
+TABLE2.2.
+
+GENERIC
+EFFECTS F LOW
+O
+GRAVITY
+ONDIFFUSION
+ANDPREMIXEDLAMES
+F
+
+Flame
+
+Magnitude
+
+Parameter
+
+Change
+
+of Change
+Diffusion
+
+Reference(s)
+
+Flames
+
+Spread Rate
+
+Slower
+
+" 50%
+
+Lumlnosity
+
+Brighter
+Dimmer
+
+--
+
+Thickness
+
+Thicker
+
+~ 50%
+
+2-5, 7b, 19, 28
+
+Burning Rate
+
+Slower
+
+"50%
+
+3-5, 19, 27-28
+
+Temperature
+
+Cooler
+
+-
+
+3, 4, 17, 18, 28
+
+Standoff Distance
+
+Further
+
+--
+
+6, 9, 28
+
+(Sooting)
+
+Prernixed
+Luminosity
+
+(Sooting)
+
+1-3, 2B
+2-4, 17-19,
+
+28
+
+Flames
+
+None
+
+-
+
+8
+
+Burning Velocity
+
+None
+
+-
+
+7c, 8, 11
+
+Temperature
+
+Hotter
+
+-
+
+10, 12
+
+Standoff
+
+Further
+
+--
+
+12
+
+None
+Wider
+
+-
+
+8, 11
+7c
+
+-
+
+9, 11
+
+Distance
+
+Flammabllity
+
+Limits
+
+IgniUon Energy
+
+None
+All Flames
+
+Extinction
+Mechanism
+
+More
+
+2, 8, 13, 23, 24, 27
+
+Radiation
+
+combustion
+flames
+
+characteristics
+
+in Table 2.2.
+
+pressure
+
+gravity
+
+spacecraft
+
+spheric
+
+flames.
+
+effectiveness
+tiveness
+
+atmospheric,
+
+upon either
+
+or by reducing
+
+to correspond
+
+As a specific
+
+ness of normal-gravity
+by 50 percent
+
+Dominated
+
+lowering
+
+example,
+
+fires may be (partially)
+
+Thus, a first-order
+
+in low-gravity
+
+CH(/air
+
+to the order
+
+fires may be made
+
+th _ characteristics
+
+of low-pressure
+
+in Table 2.3, which
+
+documents
+
+from a review
+
+simulated
+
+prediction
+
+low-pressure
+
+flames,
+
+flames.
+
+the reduction
+
+of the literature.
+
+for low-gravity
+
+note that the flame-front
+
+stoichiometric
+gravity
+
+described
+
+to 50 kPa (0.5 atm). (4,30 This
+
+in normal-gravity
+
+interpreted
+
+to those
+
+flames
+
+is increased
+
+of I0"4 m/s 2 (10-s g)
+suggests
+
+on Earth
+
+of flame
+
+that
+
+suppressant
+
+or at least
+
+on flames
+
+characteristics
+
+in suppressant
+
+low-
+
+by subatmo-
+
+from the corresponding
+
+These
+
+thick-
+
+effecshowing
+
+are shown
+
+effectiveness
+
+as
+
+TABLE2'3.
+
+FACTORS
+INFLUENCING
+FLAME
+SUPPRESSANT
+EFFECTIVENESS
+
+Flame Suppressant EffedJveness Is Reduced
+
+As:
+
+Reference(s)
+
+Flame Luminosity Increases
+Flame Thickness Increases
+
+31
+
+Burning
+
+31, 32, 34, 40
+
+37, 41, 43
+
+Rate (Speed) Slows
+
+Flame Temperature Cools
+Flame Standoff Distance Increases
+Combustion
+
+2.6.
+
+fire
+
+interim
+
+technology
+
+recommendations
+
+Fire
+
+and suppressing
+
+built,
+
+for several
+
+active.
+
+candidate
+
+research
+
+to fight a spacecraft
+
+include
+
+nitrogen,
+
+Halon 1301
+
+foams. (16'1s,25`2a,20)
+For passive
+recommended
+
+gases
+
+include
+
+For the active
+candidate
+erically
+
+suppressant
+listed
+
+agents
+
+with
+
+agents,
+
+between
+
+or severe
+
+of spacecraft
+factors
+
+byproducts.
+
+fire suppression
+that
+
+is, fire
+
+recommended
+
+dioxide,
+
+agents
+
+and water-based
+
+diluents
+
+to prevent
+
+for selecting
+
+products.
+
+overload
+Physical
+
+drawbacks
+
+fires,
+
+any particular
+
+of water
+
+2.4 is a summary,
+as applied
+
+to the various
+
+to date has attempted
+
+extinguishants
+
+on a systems
+
+(unreacted)
+
+are obvious.
+agent
+with
+
+(ECLSS) recognizes
+
+a quan-
+
+basis. (18) Most
+
+Toxicity
+
+is distin-
+
+and that of the combustion
+
+the spacecraft
+
+environmental
+
+that the system can cope
+
+and CO 2, but not with
+
+of non-gaseous
+
+gen-
+
+necessar-
+
+Only one study
+
+Compatibility
+
+system
+
+cleanup
+
+in Table
+
+and assessments
+
+that of the neat
+
+and life support
+
+a modest
+
+the rationale
+
+Also given
+
+and extinguishment
+control
+
+atmospheric
+
+provides
+
+to date has been based on a set of qualifications,
+
+of the qualification
+guished
+
+Station
+
+a workable
+
+agents,
+
+initiated,
+
+(CF3Br), carbon
+
+in Table 2.4.
+
+evaluation
+
+of potential
+
+Space
+
+to identify
+
+5)
+
+N2, CO2, He, CF(, and SF6.(15,1B,18,26)
+
+and their qualifications.
+
+titative
+
+before
+
+For active
+
+fire once
+
+of the limited
+
+ily subjective,
+
+testing
+
+agents for spacecraft
+
+agents,
+
+No.
+
+A review of the literature
+
+consideration.
+
+extinguishants
+water,
+
+(Question
+
+technologies
+
+and flown, the effort
+
+has been quite
+
+of immediate
+
+Suppressants
+
+is little time for low-gravity
+
+inerting
+
+is designed,
+
+37, 41, 43
+
+"Air" 0 2 Content Decreases
+
+Spacecraft
+
+there
+
+Freedom
+
+worthy
+
+33, 34
+
+Candidate
+
+Because
+spacecraft
+
+31, 32, 40, 45
+
+agents,
+
+Halon
+
+1301 or its
+
+such as water
+
+and foam,
+
+TABLE2.4.
+
+QUALIFICATIONSORACTIVESPACECRAFT
+F
+FIRE SUPPRESSANTS
+Negative
+
+Qualification
+
+H20
+
+0
+
+o
+
+with ECLSS
+•
+
+Post-Fire
+
+•
+
+Feasibility
+
+Electronic
+
+Recover)'
+
+of Delivery
+
+Effect of Delivery
+Replenishability
+
+at Low Gravity
+
+may pose a severe
+
+problem
+
+0
+
+therefore,
+
+Table 2.5 summarizes
+
+1, 14-18,
+
+in space.
+
+agents
+
+tum of liquid delivery
+
+Again,
+
+for example).
+
+has serious
+the author's
+
+much
+
+of each of the candidate
+
+study must
+
+without
+
+drawbacks
+
+be given
+
+any assistance
+
+It is also
+
+and spread
+
+opinion
+
+0
+
+25, 28.
+
+to the flame,
+
+may scatter
+
+2.5.
+
+0
+
+•
+
+sprinklers,
+
+TABLE
+
+0
+
+•
+
+After Fire
+
+the non-gaseous
+
+ity (no downward
+
+0
+
+•
+
+on Fire
+
+*Extracted from Refs.
+o Limited drawback.
+• Severe drawback.
+
+vantages
+
+0
+
+0
+
+Ease of Physical Cleanup
+
+candidate,
+
+0
+
+0
+
+tn Neat Form
+of Products
+
+Compatibility
+
+deliver
+
+0
+
+Foam
+
+CO 2
+
+•
+
+Effectiveness Against Smoldering
+Effectiveness on Mass Basis
+
+CF3Br
+
+0
+
+0
+
+Effectiveness Against all Fires
+
+Toxicity
+Toxicity
+
+N2
+
+Factor"
+
+feared
+
+low-gravity
+
+as well
+
+as potential
+
+OF ACTIVE
+
+i.,
+
+Drawback
+Suppressant
+
+Primary Reason
+
+H O
+
+Uncertain
+
+1_2
+
+Gravimeuic
+
+delivery methodology
+ineffectiveness
+
+Secondary
+Gravlmetrlc
+
+Each
+advantages.
+
+and secondary
+
+active extinguishants.
+
+PRIMARY AND SECONDARY DRAWBACKS
+SPACECRAFT FIRE SUPPRESSANTS
+
+from grav-
+
+that the momen-
+
+fires.
+
+of the primary
+
+on how to
+
+Reason
+
+Ineffectiveness
+
+Rre applicability
+
+CF^Br
+
+Toxidty
+
+ECLSS incompatibility
+
+CC_2
+Foam
+
+Gravlmetric ineffectiveness
+Difficulty of physical cleanup
+
+Toxicity
+Uncertain
+
+delivery
+
+methodology
+
+disad-
+
+8
+
+The qualifications
+inerting
+
+gases have not been analyzed
+
+a complementary
+SF8.
+
+and drawbacks
+
+Each
+
+table,
+
+inertant
+
+primarily
+
+remains
+
+obvious
+
+reasons
+
+that
+
+spheres
+
+of spacecraft
+
+2.7.
+
+The previous
+
+2.7.1.
+
+Active
+
+Question
+
+answered
+
+manner.
+
+craft fire, once
+
+first
+
+cleanup
+
+using
+
+recovery,
+
+is a general
+
+ants, such
+
+No. 6)
+
+to discover
+will
+
+No. 1-5
+and categorize
+
+now be used to
+
+and replenishment
+
+space
+
+recognizes
+
+techniques
+
+that
+
+Likewise,
+
+the toxicity
+
+Freedom.
+
+The present
+
+compatibility,
+
+of Freedom.
+
+Post-fire
+
+involving
+
+mass transport
+
+at low gravity.
+
+delivery
+
+and corrosivity
+
+agent
+
+with
+
+ECLSS
+
+liquid and mixed-phase
+
+provision
+
+for short missions
+
+on the artifacts
+
+attributes
+
+convection
+
+and foams, pose formidable
+
+for space-
+
+are critical
+
+and resources
+
+of natural
+
+a space-
+
+as a guide.
+
+2.4 have a dependence
+
+such as toxicity,
+
+of CF3Br use make this
+
+because,
+
+combustion
+
+to fight
+
+that not all the qualifications
+
+issue, but cleanup
+
+technology
+
+yet to be solved.
+
+Space Station
+
+atmo-
+
+on Low-
+
+be done actively
+
+low-gravity
+
+in Table
+
+by the absence
+
+as water
+
+ment byproducts
+
+for the
+
+in submarines. (Is)
+
+Questions
+
+This information
+
+Factors,
+
+to meet the limited
+
+may be influenced
+
+justified
+
+listed
+
+combustion.
+
+component
+
+ent spacecraft
+
+on CF 4 and
+
+in the "air"
+
+(Question
+
+Critical
+
+literature
+
+is what would
+
+initiated,
+
+craft fire suppressants
+
+required
+
+Based
+
+to provide
+
+No. 6.
+
+It must be distinguished
+
+electronic
+
+enough
+
+N2 is championed
+diluent
+
+oxygen-
+
+Fire Suppression
+
+Considered
+
+of low-gravity
+
+Knowledge
+
+the technical
+
+extensively
+
+application
+
+of Fire Suppressants
+
+Combustion
+
+in a particular
+
+Critical
+
+the established
+
+subsections
+
+(Table 2.1) by reviewing
+
+answer
+
+although
+
+and has had precedential
+
+Selection
+
+passive
+
+of a lack of information
+
+a candidate,
+
+Gravity
+
+information
+
+or debated
+
+because
+
+it is already
+
+of the candidate
+
+an unlikely
+
+extinguish-
+
+and cleanup
+
+problems
+
+of the extinguishcandidate
+
+for the
+
+for CF3Br on the Shuttle
+
+immediate
+
+Pres-
+
+rescue
+
+can be
+
+opportunities,
+
+g
+post-fire
+toxicity
+
+cleanup
+
+can be accomplished
+
+and corrosivity
+With respect
+
+nevertheless,
+adequately
+
+to the qualifications
+
+it is clear that the effects
+
+or appropriately
+
+factored
+
+fire suppressants.
+
+extent
+
+gravity
+
+reduced
+
+that reduce
+
+terrestrial
+
+agents
+
+on-orbit
+
+by reduced
+
+gravity,
+
+alters
+
+affected
+of reduced
+
+comparison
+
+normal-gravity
+
+gravity
+
+are less effective
+
+process
+
+of how and to what
+(Table 2.2) with
+
+of common
+
+results
+
+have not been
+
+or validation
+
+combustion
+
+effectiveness
+
+that reducing
+
+gravity
+
+into the selection
+
+A direct
+
+the terrestrial
+
+(Table 2.3) suggests
+
+eliminating
+
+concerns.
+
+for spacecraft
+
+factors
+
+on the ground,
+
+fire suppressants
+
+in combustion
+
+at suppressing.
+
+those
+
+Thus,
+
+that known
+
+the following
+
+can
+
+be stated:
+Qualifying or disqualifying
+a candidate spacecraft fire suppressant on the basis of comparative normal-gravity
+effectiveness
+may
+be flawed and unfairly bias the results, unless it can be proven
+that the reduction in suppressant effectiveness
+at spacecraft
+conditions is the same for all agents and all fire scenarios.
+
+A previous
+demonstrate
+question
+
+both chemical
+
+for spacecraft
+
+and mechanisms
+Recent
+
+review
+
+fire safety
+
+studies
+
+mechanism
+
+for low-gravity
+
+ticularly
+
+heat losses,
+
+extinguishment
+strong
+
+argument
+
+mechanisms,
+
+the usual
+
+are altered
+
+by low-gravity
+
+by chemical
+analog
+
+the author's
+
+activity
+
+approach
+
+words,
+
+that of physical
+
+effectiveness
+
+agents
+
+limits
+
+fire-
+
+rather
+
+than
+
+chemically
+
+to lose than physically
+
+the suppression
+
+par-
+
+data supports
+
+of thermophysical-suppression
+
+have more effectiveness
+
+agents
+
+of active
+
+In other
+
+processes,
+
+extinction
+
+review of documented
+
+in low gravity.
+
+is reduced,
+
+the extinction
+
+kinetics. (4g) While
+
+for the prediction
+
+modes
+
+conditions.
+
+more by physical
+
+is dominated
+
+An important
+
+(terrestrial)
+
+flames
+
+ones and, as gravity
+(CFsBr) might
+
+is whether
+
+to some extent.
+
+note that
+
+for the dominance
+
+suppressants
+
+activity,
+
+that all fire suppressants
+
+on paper combustion
+
+than
+
+a complete
+
+chemical-suppression
+active
+
+and physical
+
+for fire suppression
+
+drop-tower
+
+are by no means
+
+by the author (41)showed
+
+active
+
+of chemical
+
+(H20, N2, and C02).
+
+a
+
+10
+A further
+
+analogy may be noted from documentedevidence that solid-
+
+phase extinguishants
+gravity:
+
+show a temperature dependenceon effectiveness
+
+in normal
+
+•
+
+At low temperatures
+(~500 C), efficient chemically active "dry
+chemical" powders, such as NaHCO s, are no more effective than
+inert powders, such as CaO. (46)
+
+•
+
+At high temperatures
+(~3000 C)j chemically
+more effective than inert C02._4)
+
+Such
+
+lower and upper temperature
+
+ness may provide
+
+an analogy
+
+for plausible
+
+•
+
+Low-temperature
+
+•
+
+High-temperature
+
+Further
+predominance
+
+evidence
+
+limits
+
+(500-1000
+
+of thermophysical
+
+effective-
+
+fire scenarios:
+
+C) smoldering
+
+may be advanced
+
+CF3Br is no
+
+for suppressant
+
+spacecraft
+
+(>2000 C) hydrogen
+
+active
+
+combustion,
+
+and
+
+combustion.
+
+the arguments
+
+mechanisms
+
+suppression
+
+to support
+
+in space.
+
+for the
+
+These
+
+are:
+
+•
+
+Use of the normal-gravity
+approximation
+(low-pressure)
+gravity combustion for an indirect proof.
+
+of low-
+
+•
+
+Comparison of the suppression effectiveness
+of various
+normal- and low-gravity conditions for a direct proof.
+
+agents
+
+With regard
+
+to the indirect
+
+effectiveness
+flames.
+
+proof,
+
+of CF3Br is significantly
+
+In fact, the inhibition
+
+and negligible
+
+Table
+
+in slow-burning
+
+2.6 documents
+reduced
+
+effectiveness
+(2-10 cm/sec),
+
+at
+
+that the suppression
+
+in simulated
+
+low-gravity
+
+of CFsBr and N2 was comparable
+very cool
+
+(750 C) premixed
+
+CH4
+
+flames.(32)
+With
+that
+
+about 5 percent
+
+solid-surface
+quantity
+CH4/air
+plete
+cent
+
+regard
+
+CF3Br was ineffective
+
+flames, (I)whereas
+
+is more
+flames
+
+to the direct proof,
+
+suppression
+
+that about
+
+at low gravity,
+
+could accomplish
+
+studies
+
+drop-tower
+
+6 percent
+
+whereas
+
+drop-tower
+
+at suppressing
+
+normal-gravity
+
+than adequate. (4e) Recent
+
+determined
+
+early
+
+tests
+
+reduced-gravity
+
+indicate
+tests
+
+that this
+
+on premixed
+
+CF3Br was necessary
+
+at normal
+
+the same. (11,4e,43)In summary,
+
+gravity,
+direct
+
+determined
+
+for com-
+
+2.5 to 4.3 per-
+
+and indirect
+
+11
+
+TABLE2.6.
+
+SimulaUon
+Fuel
+
+ESTIMATEDOSSIN SUPPRESSION
+L
+EFFECTIVENESS CF3BrUNDER
+OF
+CONDITIONS
+REPRESENTATIVELOWOF
+GRAVITY
+FLAMES
+
+of Reduced-Gravity
+
+Effec_
+
+Reduction
+
+on CombusUon
+
+CH 4
+
+Sootier, slower,
+
+CH 4
+
+Slower, cooler
+
+CH 4
+
+Cooler
+
+CH 4
+
+In Sup-
+
+pressant Effectiveness
+
+cooler
+
+Slower
+
+Ref.
+
+70%
+
+31
+
+6X
+
+32
+
+4X
+
+40
+
+20-35%
+
+40
+
+C2H 4
+H._
+
+50%
+14%
+
+43
+34
+
+C1"-1"
+4
+
+information
+
+Thicker
+Slower, cooler
+Thicker
+
+4S%
+1S%
+
+37
+41
+
+strongly
+
+ity of various
+suppression
+
+suggests
+
+agents
+
+to suppress
+
+effectiveness
+
+fire suppressants.
+
+combustion
+
+spacecraft
+
+event more
+
+rather than being
+
+2.7.2.
+
+Passive
+
+craft fire through
+
+of Tables
+Because
+
+measure,
+
+whereas
+
+to be prevented
+
+in their
+
+ability
+
+in their
+
+to suppress
+
+Smoldering,
+
+however,
+
+atmosphere
+
+inerting
+
+through
+
+is a
+
+by suppression. (7a,I_)
+
+Inerting
+
+atmospheric
+
+The technical
+
+spacecraft
+
+are near-equivalent
+
+smoldering.
+
+i.e.,
+
+next is what might
+
+have not been debated
+versions
+
+suppressants
+
+fire,
+
+Atmospheric
+
+to qualify
+
+basis.
+
+may emerge
+
+likely
+
+in the abil-
+
+of H20, N2, and CO 2 can approach
+
+differences
+
+terminated
+
+Considered
+
+guide.
+
+if candidate
+
+applicability,
+
+a most-probable
+
+on a mass
+
+parity
+
+that normal-gravity
+
+discriminator
+
+Thus, the effectiveness
+
+Nevertheless,
+
+causes
+
+coad_ustion, meaning
+
+is not a useful
+
+that of CF3Br in spacecraft
+
+"universal"
+
+that reduced-gravity
+
+merits
+
+control,
+
+be done passively
+
+to prevent
+
+a space-
+
+using
+
+combustion
+
+as a
+
+and demerits
+
+extensively;
+
+low-gravity
+
+of "suggested"
+
+hence, there
+
+oxygen-inerting
+
+gases
+
+is no atmosphere-inerting
+
+2.4 and 2.5.
+atmosphere
+
+fire
+
+inerting
+
+suppression
+
+ogy for its implementation
+
+is more
+
+is a continuous,
+
+is an active,
+integral
+
+passive
+
+"on-demand"
+
+to the total
+
+fire-safety
+
+one, the technol-
+
+operating
+
+Spacecraft
+
+12
+system,
+
+especially
+
+spacecraft
+
+structural
+
+costs, were
+
+beyond
+
+ical decisions
+made with
+
+the life-support
+design
+
+some urgency,
+
+satisfactorily
+
+Freedom
+
+as their
+
+is rapidly
+
+was given to the atmosphere-inerting
+
+that crit-
+
+systems
+
+in the design
+
+approaching.
+
+of
+
+associated
+
+it is known
+
+atmosphere-inerting
+
+it is clear that the effects
+
+factored
+
+be
+
+and construc-
+
+For this
+
+portion
+
+must
+
+reason,
+
+of Critical
+
+gases.
+
+submarines
+
+and aircraft,
+
+environment
+
+have not been
+
+process
+
+for space-
+
+value
+
+technologies,
+
+in the confined
+
+may not have the same effectiveness
+
+of spacecraft.
+
+feasible
+
+gravity
+
+Atmospheric-inerting
+
+Consider
+
+as the first justification
+
+to the most
+
+of reduced
+
+or validation
+
+into the selection
+
+N2-flooding , known to have some protective
+
+mation
+
+However,
+
+as a "point-of-no-return"
+
+atmosphere-inerting
+
+gravity
+
+as well
+
+analyses
+
+No. 6.
+Again,
+
+craft
+
+factors,
+
+on the value of recognized
+
+attention
+
+Question
+
+and weight
+
+the scope of this project.
+
+tion of the Space Station
+serious
+
+system. (16-18,28)
+Detailed
+
+concept
+
+the following
+
+for this conclusion,
+
+of N2-inerting
+
+such as
+
+spaces
+
+of
+
+in the lowqualitative
+
+especially
+
+infor-
+
+with
+
+regard
+
+technology:
+
+•
+
+Inerting may not impede the progress
+smoldering. _7)
+
+•
+
+Inerting may not suppress smoldering at reduced gravity because
+the flammability limits of the principal products of smoldering,
+CO and H2, may be altered. (Ta)
+
+The first supposition
+slow-burning,
+
+cool
+
+is based on the results
+
+(750 C) CH4-flames.(32)
+
+rect conclusion
+
+from modeling
+
+which
+
+that changes
+
+indicated
+
+flame extinguishment
+studies
+
+inert H2-flames,(23) whereas
+
+tive
+
+was required,
+
+in low-gravity
+
+claims
+
+that modest
+
+increase)
+tional,
+
+would
+
+albeit
+
+of simulated
+
+supposition
+
+low-gravity
+
+pressure
+
+of oxygen
+
+significantly. (2) Furthermore,
+
+conditions
+
+indicated
+
+studies
+
+implying
+
+that 88 percent
+
+at normal gravity
+that N2-inerting
+
+in spacecraft
+
+give a substantial
+indirect,
+
+support
+
+increase
+
+is an indi-
+
+combustion,
+did not alter
+experimental
+
+refutes
+oxygen
+
+less effec-
+
+qualitative
+content
+
+(N2
+
+in fire protection. (16c,I_) Addi-
+
+for this apparent
+
+to
+
+that only
+
+was 24 percent
+
+atmospheric
+
+on
+
+N2 was required
+
+indicated
+
+environments. (48) The latter number
+reductions
+
+(300 C)
+
+that N2 had little effect
+
+The second
+
+in the partial
+
+parameters
+
+at low-gravity
+
+71 percent
+
+studies
+
+of low-temperature
+
+loss in effectiveness
+
+of
+
+13
+N2-inerting
+
+comes from
+
+combustion
+reduced
+
+where
+
+simulated
+
+the apparent
+
+by 14-45 percent,
+As an addendum
+
+the author
+
+suggests
+
+prevention
+
+of ignition
+
+This
+
+is because
+
+halogenated
+
+actual
+
+in view
+
+surfaces,
+
+safety
+
+that
+
+2.8.
+
+have demonstrated
+
+(HBr) was reduced
+
+of various
+
+spacecraft
+
+it does
+
+environments
+
+in confined
+
+Recommended
+
+requirements
+
+smoldering
+
+Spacecraft
+
+(600-800
+
+for spacecraft
+
+of one
+content
+
+Furthermore,
+
+conditions
+
+at normal
+
+the
+
+may be
+decom-
+
+C) in the presence
+
+Fire Suppressants
+
+review,
+
+fire suppression.
+
+such as SF6, thermally
+
+may not provide
+
+environments
+
+for passive
+
+as the oxygen
+
+byproducts. (4e) In summary,
+
+Based on the preceding
+critical
+
+under
+
+temperatures
+
+toxic
+
+for active
+
+from 22 to 16 percent. (_)
+
+candidates
+
+smoldering-like
+
+environments
+
+by 75 percent
+
+is
+
+ineffectiveness,
+
+that the effectiveness
+
+of the fact that chemicals,
+
+thus producing
+
+of low-gravity
+
+the ability
+
+combustion
+
+pressure. _041)
+
+on inerting
+
+of spacecraft
+
+may jeopardize
+
+low-gravity
+
+of N2 to suppress
+
+observations
+
+air was reduced
+
+"inertness"
+
+pose at lower,
+
+to these
+
+normal-gravity)
+
+to that at atmospheric
+
+that N2-inerting
+
+suppressant
+
+questioned
+
+effectiveness
+
+compared
+
+experiments
+
+of the combustion
+
+(low-pressure,
+
+of
+
+atmosphere-inerting
+
+the same degree
+
+of fire
+
+gravity.
+
+(question
+
+one may establish
+
+No. 7)
+
+the following
+
+fire suppressants:
+
+•
+
+Must not pose
+
+•
+
+Must have a volumetric effectiveness
+such that a quantity sufficient to inert or suppress multiple or large-scale fires can be
+transported, stored or replenished, and delivered on demand.
+
+•
+
+Must be deliverable via a method requiring low momentum in
+reduced gravity to avoid increasing the convective environment
+surrounding the fire.
+
+•
+
+Must possess a negligible toxicity and corrosivity
+in neat form
+and be compatible with the environmental
+control and life support
+system (ECLSS) in the event of releases via false alarms.
+
+•
+
+Must be active over the temperature range of 500-2000
+effective at preventing or extinguishing
+the expected
+plausible spacecraft fires.
+
+•
+
+Must act to enhance
+gravity
+
+a prohibitive
+
+flames,
+
+mass penalty
+
+the normal
+
+which
+
+extinction
+
+is dominated
+
+in stored
+
+mechanism
+
+by radiation
+
+form.
+
+C to be
+variety of
+
+of low-
+
+loss.
+
+14
+•
+
+Must generate byproducts upon action that are nontoxic and noncorrosive to spacecraft systems and removable via the ECLSS.
+
+In short, prerequisites
+favor gaseous
+tum.
+
+agents that
+
+These critical
+
+following
+
+candidate
+
+to be ranked
+
+for practicable
+
+are chemically
+
+requirements
+
+and their
+
+probability
+
+CO 2 suppression
+
+by local
+
+H20 suppression
+
+by local
+
+application,
+
+•
+
+N2 inerting
+
+While
+review
+
+validation,
+
+appears
+
+and established
+
+believes
+
+surface.
+
+enhance
+
+combustion
+
+For a suppressant
+
+flame luminosity,
+
+reasonable
+
+and consistent
+
+its order
+
+that increasing
+
+via increased
+
+was greatly
+
+N2 because
+
+CO 2 decreases
+
+sooting
+
+than does N2,(_2) and CO2 is more
+Moreover,
+
+CO 2 was favored
+
+ness as pressure
+
+is reduced
+
+its superiority
+
+in diffusion
+
+over N2
+
+studies. (3a,41,4a)
+Unlike
+
+On this basis,
+flames
+
+radiatively
+
+based
+
+in effectiveness
+
+over N2 under
+
+but
+
+transparent
+
+CO 2 was favored
+percent
+
+(infrared)
+
+flames,
+
+of
+
+decrease
+
+than
+
+of analogous
+
+N2, CO2 does not lose its apparent
+
+in normal-gravity
+
+to
+
+to the fuel
+
+it must
+
+by 20-30
+
+on the results
+
+subject
+
+extinction,
+
+and remain
+
+by
+
+(sooting)
+
+feedback
+
+radiatively,
+
+sink itself,
+
+active
+
+their
+
+the pre-
+
+influenced
+
+the luminosity
+
+radiative
+
+to be effective
+
+act as a radiation
+
+with
+
+effects. (16,17,2s,26,28)
+Although
+
+the flame and its surroundings.
+
+maintain
+
+and
+
+fires may not have the effect of enhancing
+
+may instead
+
+pressure
+
+as follows:
+
+control.
+
+criteria,
+
+of flame radiation
+
+the author
+
+spacecraft
+
+by atmosphere
+
+this ranking
+
+the consideration
+
+between
+
+the
+
+application,
+
+•
+
+allowed
+
+mode of deployment,
+
+of success,
+
+•
+
+ceding
+
+at low momen-
+
+fire suppressants
+
+technologies,
+
+to a decreased
+
+fire suppressants
+
+inert and deliverable
+
+for spacecraft
+
+fire-fighting
+
+according
+
+spacecraft
+
+implying
+
+over
+
+more
+
+N2.(2)
+loweffective-
+
+that CO 2 may
+
+low-gravity
+
+spacecraft
+
+conditions.
+To reiterate,
+gate under
+have
+
+spacecraft
+
+CO2 is the first choice
+
+conditions,
+
+and to use in the interim,
+
+recommended. (la,2s) H20 was selected
+
+primarily
+
+because
+
+it must be distributed
+
+the would be difficult
+
+of a suppressant
+
+and uncertain
+
+as a second candidate
+as a mist,
+
+under
+
+a method
+
+low-gravity
+
+to investi-
+
+as some others
+suppressant
+of application
+
+conditions. (2,1s,2g)
+
+15
+N2-inerting was ranked behind CO or H20-suppression primarily because of its
+2
+relative ineffectiveness probably cannot prevent the most plausible spacecraft
+fire scenario: smoldering. The limiting 02 content (after nitrogen inerting)
+for preventing the combustion of the COand H released upon smoldering is
+2
+5.0-5.5 percent, well below the minimumof 16 percent thought practicable and
+livable.
+The aforementioned ranking summarizesthe findings of Task I of the
+The selection of the three candidate agents was based on a review of
+
+study.
+
+data concerning conventional suppression techniques and low-gravity combustion
+behavior. Although technical information exists with which to propose and
+reasonably support the acceptability of interim spacecraft fire suppressants,
+Earth- and space-based experiments are urgently needed to increase confidence
+in such technologies.
+2.9.
+
+Concludinq
+
+Remarks
+
+The objective
+pression
+nology
+
+concepts
+
+develop
+
+effective,
+
+delivery
+
+systems,
+
+tion.
+
+development
+
+the overall
+
+spacecraft
+objective
+
+was obtained
+
+The ground
+
+underlying
+
+to provide
+
+problems
+
+in the selection
+
+(Task I)
+
+spacecraft
+
+of in-space
+
+identify,
+
+fire suppressants
+
+evaluate,
+
+suptechand
+
+and suppressant
+
+of the program.
+
+on low-gravity
+by analogy,
+
+rules for practical
+
+in terms
+
+would
+
+by proposing
+
+answers
+
+Concepts
+
+two or more
+
+(design)
+
+Such experimentation
+
+by using the literature
+
+fire suppression
+
+of Suppression
+
+I was to recommend
+
+practicable
+
+Information
+followed
+
+of Task
+
+for further
+
+experimentation.
+
+on Review
+
+a set of critical
+combustion
+comparison,
+
+spacecraft
+of candidate
+
+questions,
+
+and on conventional
+and/or
+
+fire suppression
+technologies
+
+extrapolaand the
+
+are as follows:
+
+•
+
+Most plausible spacecraft fire scenarios include low-temperature
+smoldering and high-temperature
+combustion of smoldering
+products.
+
+•
+
+Effects of reduced gravity on combustion and how it influences
+conventional atmosphere inerting and fire suppression
+have not
+been adequately factored into the selection and validation process for spacecraft fire-fighting
+actions.
+
+•
+
+Because of a low-gravity-induced
+loss in inerting and suppression
+effectiveness,
+agents that possess chemical suppression
+or
+
+16
+inerting activity
+in terrestrial
+flames may lose this activity
+in
+low-gravity flames, resulting in parity amongcandidate spacecraft fire suppressants.
+Based on the findings of the Task I study and reasonable inferences,
+author concludes the following:
+
+the
+
+Practicable spacecraft fire suppressants must be effective,
+nontoxic, noncorrosive, ECLSS
+compatible, thermally and radiatively
+active, chemically inert over 500-2000 C, fluid (gaseous), and
+quiescently deliverable.
+Three extinguishing technologies, already established as stateof-the-art
+in normal gravity, meet most of the critical
+requirements. A preliminary ranking favors directed, localized
+suppression with CO over H20-suppression or N2-inerting as an
+2
+interim spacecraft-fire-safety
+measure.
+The second
+apparatus
+results
+
+task of this project
+
+that would
+
+allow these
+
+of the definition
+
+sion experiments
+
+appear
+
+candidate
+
+and justification
+in Section
+
+2.10.
+
+was to design
+suppressants
+of these
+
+the in-space
+
+flight
+
+to be evaluated.
+
+spacecraft
+
+The
+
+fire suppres-
+
+3.0 of this report.
+
+(Task
+
+1) References
+
+1. Stevens, M. R., Fisher, H. D., and Breen, B. P., "Investigation
+of Materials Combustibility,
+Fire, and Explosion Suppression in a Variety of
+Atmospheres",
+Technical Report AFAPL-TR-68-35,
+Dynamic Science to WrightPatterson Air Force Base, OH (1968).
+2.
+
+Bonne, U., "Radiative Extinguishment
+of Diffusion
+ity", Combustion and Flame 16, 147-159 (1971).
+
+Flames
+
+at Zero Grav-
+
+3.
+
+Cochran, T. H. and Masica, W. J., "An Investigation
+of Gravity Effects on
+Laminar Gas-Jet Diffusion Flames", Thirteenth Symposium (International)
+on Combustion, pp. 821-829, The Combustion Institute (1971).
+
+4.
+
+Haggard, Jr.,
+J. B. and Cochran, T. H., "Stable Hydrocarbon Diffusion
+Flames in a Weightless Environment",
+Combustion Science and Technology
+291-298 (1972).
+
+5,
+
+17
+5. Edelman, R. B., Fortune, O. F., Weilerstein, G., Cochran, T. H., and
+Haggard, Jr., J. B., "An Analytical and Experimental Investigation of
+Gravity Effects Upon Laminar Gas Jet-Diffusion
+Flames", Fourteenth Symposium (International)
+on Combustion, pp. 399-412, The Combustion Institute
+(1973).
+6.
+
+Lavid, M. and Berlad, A. L., "Gravitational Effects of Chemically Reacting Laminar Boundary Layer Flows Over a Horizontal Flat Plate", Sixteenth Symposium (International)
+on Combustion, pp. 1557-1568 (1977).
+
+7.
+
+(a) Cochran, T. H. et al., "Overview Study of Combustion Experiments
+in a
+Space Laboratory", pp. 7-18, Combustion Experiments
+in a Zero-Gravity
+Laboratory, T. H. Cochran, Editor, Progress in Astronautics
+and Aeronautics 73 (1981).
+(b) Huggett, C., "Large
+pp. 19-23, ibid.
+
+Surface
+
+(c) Strehlow, R. A. and Reuss,
+Tube", pp. 61-89, ibid.
+
+Liquid-Gas
+
+D., "Flammability
+
+(d) Summerfield, M. and Messina,
+Fuels", pp. 129-194, ibid.
+8.
+
+Unpremixed
+
+N., "Smoldering
+
+Combustion",
+
+Limits
+
+in a Standard
+
+Combustion
+
+in Porous
+
+Ronney, P. D. and Wachman, H. Y., "Effect of Gravity on Laminar Premixed
+Gas Combustion I: Flammability Limits and Burning Velocities",
+Combustion
+and Flame 6_22,
+107-119 (1985).
+
+9. Ronney, P. D., "Effect of Gravity on Laminar Premixed Gas Combustion
+Ignition and Extinction Phenomena", Combustion and Flame 6_22,
+121-133
+(1985).
+10. Berlad,
+
+A. L. and Joshi,
+
+Conditions
+
+for Premixed
+
+N. D., "Gravitational
+Flames",
+
+Effects
+
+Acta Astronautica
+
+12. Joshi, N. D. and Berlad,
+Premixed, Lycopodium-Air
+pp. 55-68 (1986).
+
+on the Extinction
+
+1_22,
+539-545
+
+11. Ronney, P. D., "Effect of Gravity on Halocarbon Flame
+tiveness", Acta Astronautica
+I._22,
+915-921 (1985).
+
+II"
+
+(1985).
+
+Retardant
+
+Effec-
+
+A. L., "Gravitational
+Effects on Stabilized,
+Flames", Combustion Science and Technology 47,
+
+13. Foutch, D. W. and Tien, J. S., "Extinction of a Stagnation Point Diffusion Flame at Reduced Gravity", Central States Section Combustion
+Institute Paper 2-D2 (1986).
+14. DeMeis,
+(1986).
+15.
+
+R., "Safety
+
+in the Space
+
+Station",
+
+Aerospace
+
+America,
+
+24:5,
+
+26-29
+
+(a) Friedman, R., "Executive Summary", pp. 1-6, Spacecraft Fire Safety,
+NASA Conference Publication 2476, J. M. Margle (Editor) (1987).
+
+18
+(b) Babrauskas, V., "Fire-Related
+ibid.
+
+Standards and Testing",
+
+(c) de Ris, J., "Fire Extinguishment and Inhibition
+ronments", pp. 43-49, ibid.
+(d) Carhart, H., "Inerting
+
+pp. 31-41,
+
+in Spacecraft Envi-
+
+and Atmospheres", pp. 51-57, ibid.
+
+(e) Knight, D. R., "Fire-Related Medical Science", pp. 59-64, ibid.
+(f)
+
+Botteri,
+
+B. P., "Aircraft
+
+Fire Safety Research", pp. 65-72, ibid.
+
+(g) Cole, M. B., "Space Station Internal
+cerns", pp. 73-87, ibid.
+(h) Sacksteder, K. R., "Microgravity
+ibid.
+(i)
+
+Combustion Fundamentals", pp. 89-94,
+
+Ledoux, P. W., "Spacecraft Material
+rations", pp. 95-98, ibid.
+
+(j) Friedman,
+
+R., "Forum 2--Fire
+
+Environmental and Safety Con-
+
+Flammability Testing and Configu-
+
+Extinguishment",
+
+(k) Friedman, R., "Forum 3--Human Responses
+Inert Atmospheres",
+pp. 109-110, ibid.
+(1) Friedman, R., "Forum
+115-117, ibid.
+
+5--Selection
+
+pp. 105-107,
+
+to Combustion
+
+of Spacecraft
+
+ibid.
+
+Products
+
+Atmospheres",
+
+and
+
+pp.
+
+16. Friedman, R. and Sacksteder,
+K. R., "Science and Technology
+Issues in
+Spacecraft Fire Safety", 25th Aerospace Sciences Meeting, AIAA-87-0467,
+NASA TM-88933 (1987).
+17. Friedman, R., "Fire Safety Concerns in Space Operations", Joint ArmyNavy-NASA-Air
+Force (JANNAF) Safety and Environmental
+Protection Subcommittee Meeting, NASA TM-89848 (1987).
+18. Sheridan, J. G., "A Systems Analysis of Fire Suppression Alternatives
+the U.S. Space Station", M.S. Thesis in Space Operations,
+Air Force
+Institute of Technology (1987).
+19. Carleton, F. B. and Weinberg, F. J., "Electric Field-lnduced
+Flame
+vection in the Absence of Gravity", Nature 330, 635-636 (1987).
+20. Jason, N. H., "Spacecraft Fire Detection and Extinguishment:
+phy", NBSIR 88-3712, NASA CR-180880 (1988).
+21.
+
+for
+
+Con-
+
+A Bibliogra-
+
+Priem, R. J., "Study of Industry Requirements Than Can be Fulfilled by
+Combustion Experimentation
+Aboard Space Station", NASA CR-180854 (1988).
+
+19
+22. Youngblood, W. W., "Spacecraft Fire-Safety Experiments for Space Station:
+Technology Development Mission", NASA
+CR-182114(1988).
+23. Ronney, P. D., "Effect of Chemistry and Transport Properties on NearLimit Flames at Microgravity", Combustion Science and Technology 50,
+123-141 (1988).
+24. Ronney, P. D., "On the Mechanismsof Flame Propagation Limits and the
+Extinguishment Processes at Microgravity", Twenty-Second Symposium
+(International)
+on Combustion, pp. 1615-1623, The Combustion Institute
+(1988).
+25. Friedman, R. and Sacksteder, K. R., "Fire Behavior and Risk Analysis in
+Spacecraft", Annual Meeting of American Society of Mechanical Engineers,
+NASA
+TM-I00944 (1988).
+26. "Microgravity Combustion Science: A ProgramOverview", Microgravity
+bustion Group, NASA
+Lewis Research Center, NASA
+TM-I01424 (1989).
+
+Com-
+
+27. Ronney, P. D., "A Study of the Propagation, Dynamics, and Extinguishment
+of Cellular Flames Using Microgravity Techniques", AIAA-89-0157 (1989).
+28. Friedman, R. and Olson, S. L., "Fire Safety Applications for Spacecraft",
+AGARD/NATO
+Symposium Aircraft Fire Safety, NASA
+on
+TM-I01463 {1989).
+29. Smith, R. L. and Kashiwagi, T., "Expert SystemsApplied to Spacecraft
+Fire Safety", NASA
+CR-182266(1989).
+30. Kaskan, W. E., "The Dependence Flame Temperature on Mass Burning Veloof
+city", Sixth Symposium(International)
+on Combustion, pp. 134-143,
+Reinhold (1957).
+31. Rosser, W. A., Wise, H., and Miller, J., "Mechanismof Combustion Inhibition by Compounds
+Containing Halogen", Seventh Symposium(International)
+on Combustion, pp. 175-182, Butterworths Scientific
+(1959).
+32. Rosser, Jr., W. A., Inami, S. H., and Wise, H., "Study of the Mechanisms
+of Fire Extinguishment of Liquid Rocket Propellants", Stanford Research
+Institute Technical Report to Wright-Patterson Air Force Base, WADC
+59-206 (1959).
+33. Rosser, Jr.,
+(1961).
+
+W. A., Inami, S. H., and Wise, H., loc. cit.,
+
+ASD61-143
+
+34. Miller D. R., Evers, R. L., and Skinner, G. B., "Effects of Various Inhibitors on Hydrogen-Air Flame Speeds", Combustion and Flame Z, 137-142
+(1963).
+35. Fristrom,
+Behavior
+
+R. M. and Westenberg, A. A.,
+of Flames",
+
+pp. 9-42,
+
+McGraw
+
+Flame Structure,
+Hill (1965).
+
+"The Macroscopic
+
+20
+36. McHale, E. T., "Survey of Vapor PhaseChemical Agents for Combustion Suppression", Flame Research Abstracts and Reviews 1__I, 0-104 (1969).
+9
+37. Miller, W. J., "Inhibition
+i_33, 10-212 (1969).
+2
+
+of Low Pressure Flames", Combustion and Flame
+
+38. Fristrom, R. M. and Sawyer, R. F., "Flame Inhibition Chemistry", Paper
+12, Conference Proceedings on Aircraft Fuels, Lubricants, and Fire
+Safety, AGARD-CP-84-71, ATO(1972).
+N
+39. McHale, E. T., Geary, R. W., von Elbe, G.,and Huggett, C., "Flammability
+Limits of H2-O Fluorocarbon Mixtures", Combustion and Flame I_66,
+2
+167-175
+(1971).
+40. Gann, R. G. (Editor), Halogenated Fire Suppressants, ACS Symposium
+I_66,
+pp. 81, 96, 171, 176, American Chemical Society (1975).
+
+Series
+
+41. Reuther, J. J., "Measures of Effectiveness
+and Mechanisms for Chemical
+and Physical Inhibition of Quenched and Adiabatic Premixed Flames", lOth
+Materials Research Symposium, National Bureau of Standards Special Publication 561, 2, 1281-1313 (1979).
+42.
+
+Haynes, B. S. and Wagner, H. Gg.,
+and Combustion Science Z, 229-273
+
+"Soot Formation",
+(1981).
+
+Progress
+
+43. Westbrook, C. K., "Flame Inhibition by CFaBr", Western
+bustion Institute Paper 82-97 (1982).
+
+States
+
+in Energy
+
+Section
+
+Com-
+
+44. Moen0 I. 0., Ward, S. A., Thibault, P. A., Lee, J. H., Knystautes, R.,
+Dean, T., and Westbrook, C. K., "The Influence of Diluents and Inhibitors
+on Detonations",
+Twentieth Symposium (International)
+on Combustion, pp.
+1717-1725, The Combustion Institute (1985).
+45.
+
+Kim, H. T. and Reuther, J. J., "Temperature Dependence of Dry Chemical
+Premixed Flame Inhibition Effectiveness",
+5__77,
+313-317 (1984).
+
+46.
+
+Kuchta, J. M., "Investigation of Fire and Explosion Accidents in the
+Chemical, Mining, and Fuel-Related Industries--A Manual", U.S. Bureau
+Mines Bulletin 680 (1985).
+
+47. Ohlemiller,
+T. J., "Modeling of Smoldering Combustion Propagation",
+ress in Energy and Combustion Science I_]I,
+277-310 (1985).
+48.
+
+of
+
+Prog-
+
+Pandompatam, B., Liem, A. J., Frenette, R., and Wilson, M. A., "Effect of
+Refractory on the Stability of SFR", Journal of the Air and Waste Management Association 39, 310-316 (1989).
+
+49. Olson, S. L., Ferkul, P. V., and T'ien, J.S., "Near-Limit Flame Spread
+Over a Thin Solid Fuel in Microgravity",
+Twenty-Second
+Symposium (International) on Combustion, pp. 1213-1222, The Combustion Institute (1988).
+
+21
+
+TABLE 2.7.
+
+Ref.
+1
+
+CONTRIBUTION/SIGNIFICANCE OF INDIVIDUAL REFERENCES
+
+Contribution/Significance
+Pioneering
+
+drop-tower
+
+to Low-Gravity
+
+study on the effect of lowered
+
+2
+
+•
+•
+3
+
+4
+
+5
+
+levels, even with
+
+flames to simulate zero-gravity
+reaching
+
+combustion
+
+the significant conduslons
+
+and infer information
+
+that:
+
+radiative loss or CO 2 concentration
+in the flame zone would promote extinction,
+Changes In partial pressure of oxygen did not alter extinguishment
+parameters appreciably.
+studies of laminar
+
+Low-g [lames are cooler,
+
+gas-jet diffusion
+
+flames at zero gravity,
+
+slower, thicker,
+
+of Ref. 3, with the following
+
+Lower gravity
+
+Modeling
+•
+
+diffusion
+
+the effect of gravity on combustion,
+
+Continuation
+•
+
+from terrestrial
+
+Increased
+
+Detailed
+•
+
+as gravity is reduced
+
+efficiency of
+
+delivery.
+
+Use of thick, flat, normal-gravity
+regarding
+
+and Fire Safety Research
+
+gravity on the solid-surface fire-suppression
+
+CF3Br , protein foam, or atomized water, indicating:
+• All have a greatly diminished
+suppression effldency
+olximlzed
+
+Combustion
+
+of low-gravity
+
+Partial-oxidation
+
+laminar
+
+models
+
+quantitative
+reduction
+
+gas-jet diffusion
+
+provide
+
+indicating:
+
+and sootier than norrnal-g
+
+causes about a 50 percent
+
+and
+
+[lames.
+
+information:
+in burning
+
+rate.
+
+flames, concluding:
+
+an Improvement
+
+in the accuracy
+
+6
+
+Review text describing results of past and planned zero-gravity
+those on smoldering combustion
+that conclude that:
+
+under
+
+zero-gravity
+
+conditions.
+
+Theoretical study of low-gravity gaseous-diffusion
+flames demonstrating:
+• Flame standoff distance increases as gravity is reduced.
+
+7
+
+of predictions
+
+•
+
+8
+
+9
+
+10
+
+Ignition energies of CH4/air
+
+study of prernlxed
+
+Peak flame temperature
+
+Experimental
+
+lycopodium/air
+
+is 150-200
+
+limit, burning velocity,
+
+and smoldering
+
+CH4/alr
+
+and zero gravity.
+
+[lames at normal and reduced gravity, reporting that:
+
+study of the effect of CF3Br and reduced gravity on laminar premixed
+
+"About
+
+6 percent
+
+1.0-5.9
+
+percent
+
+Continuation
+
+rendered
+
+CH4/air
+
+mixtures
+
+CH4/air
+
+under all conditions
+
+flame velocity at 1 atmosphere
+
+tested,"
+
+flames, reporting:
+
+as gravity is reduced from 1-g.
+
+analysis concluding:
+
+Low-speed
+
+•
+
+Flame extinction is dominated
+
+forced-air
+
+flow (ventilation) at low gravity helps sustain combustion,
+
+and
+
+by radiation loss.
+
+of space station fire safety in a popular
+
+•
+
+Onboard
+
+•
+
+A disabled environmental
+
+•
+
+The ECLSS can generate flammable
+
+sense, indicating:
+
+fire is the greatest fear,
+control and life support system (ECLSS) is the second,
+gases, such H 2 and. CH 4.
+
+and
+
+and zero-g`
+
+of Ref. 10, reporting:
+
+•
+
+Review
+
+nonflammable
+
+CF3Br had no effect on CH4/air
+
+Premixed flame standoff distance increases
+
+Theoretical
+
+combus-
+
+flame color, or temperature.
+
+CF3Br inhibition was "slightly less effective at zero-g",
+
+•
+
+including
+
+C hotter at zero gravity than at normal gravity.
+
+•
+
+14
+
+concentrations,
+
+stoichiometrtc and fuel-lean
+
+[lames were the same at normal
+
+•
+
+13
+
+to date (1981),
+
+of study in Ref. 8 reporting that:
+
+The minimum
+
+•
+
+12
+
+premixed,
+
+gravity had lilIle or no effect on lean flammability
+
+Experimental
+•
+
+11
+
+Reduced
+
+Continuation
+•
+
+experiments
+
+CO and H 2 are the principal products of smoldering, present at flammable
+may be more difficuk to Inert with N 2 at reduced-gravity.
+
+Experimental study on the effect of gravity on laminar,
+tion, showing that:
+•
+
+combustion
+
+and
+
+22
+TABLE 2.7.
+
+Ref.
+
+Contribution/Significance
+
+to Low-Gravity
+
+fire-safety
+
+Combustion
+
+and Fire Safety Research
+
+15
+
+Proceedings
+
+16
+
+Technical paper reviewing the details of Ref. 1.5.
+
+17
+
+Same as Re[. 16.
+
+1B
+
+Systems analysis of fire suppression alternatives for the U.S. Space Station,
+•
+
+of a NASA spacecraft
+
+(Continued)
+
+workshop, the entire contents of which are significant
+
+recommending:
+
+Portable CO 2 extinguishers for small localized fires and CFaBr total-flooding
+for module-wide
+H 2 fires, based
+on a 5-point numerical (subjective) analysis of tradeoffs among effectiveness, toxicity, aftereffects, weight, and
+cost.
+
+19
+
+Experimental
+
+study of electric field-induced
+
+20
+
+Bibliography on spacecraft
+
+flame convection
+
+fire detection and extinguishment,
+
+in the absence of gravity.
+including related references on aircraft and subma-
+
+rine fire safety.
+21
+
+Study of industry requirements
+
+that can be fulfilled
+
+by combustion
+
+experimentation
+
+aboard Space Station,
+
+including fire extinguishment.
+22
+
+Spacecraft fire-safety
+
+experiments
+
+for the Space Station technology development
+
+guishment at low gravity and at smoldering and deep-seated
+23
+
+Experimental
+
+mission,
+
+especially fire extin-
+
+combustion conditions.
+
+study of the role of chemical kinetics and transport in the extinction of premixed
+
+H_O_N 2 and CH4/O2/N 2 at normal and reduced gravity, offering:
+• Secondary data on the amount of N 2 required to inert microgravity
+cent), which, when compared
+
+lean-limit flames of
+
+flames of H 2 (88 percent)
+
+to those In Ref. 46 for 1-g flames of H 2 (71 percent)
+
+or CH 4 (B0 per-
+
+and CH 4 (36 percent),
+
+dearly demonstrate the reduced inerting effectiveness of N2 at low gravity and the resistance of these flames
+to physical extinguishment.
+24
+
+Study to develop
+
+and model
+
+the extinguishment
+
+mechanism
+
+of laminar premixed
+
+flames at mlcrogravity,
+
+conclud-
+
+ing:
+•
+25
+
+Thermal transport
+
+is more important than chemical
+
+An update of the technical
+
+kinetics
+
+series begun with Refs. 16-17,
+
+at extinction.
+
+including the points that:
+
+•
+•
+
+No one type of extinguishant
+
+can satisfy all desirable criteria, and
+
+•
+26
+
+Smoldering
+
+CO 2 is the leading candidate
+
+for primary
+
+Program
+
+combustion may be more common and more
+
+overview
+
+of NASA microgravity
+
+(more Intense, faster, sootier
+27
+
+extinguishant
+
+combustion science,
+
+H_O_N
+
+•
+
+"CF3Br ... may not substantially
+
+•
+
+"CF3Br has much less of an effect on the burning velodty
+of spacecraft
+
+fire-safety
+
+at low rather than normal gravity,
+
+aboard Space Station Freedom.
+
+combustion) of slow, forced-air
+
+Study of the extinguishment of low-gravity premixed
+
+probable
+
+updating Refs. 16, 17, and 25, including the Impact
+convection.
+2 flames,
+
+reporting that:
+
+reduce reactivity in ... very low-temperature
+
+applications,
+
+(H_O_N
+
+28
+
+Review
+
+updating Refs. 15-17
+
+29
+
+Study of expert systems applied to spacecraft
+
+and 25, all of which is significant.
+
+30
+
+Data that COg may chemically,
+
+31
+
+Data that CF3Br inhibition effectiveness decreases by 70 percent as a premlxed
+made 30 percent fuel rich and flame velocity slows and temperature cools.
+
+fire safety, including advocacy of foam
+
+rather than physically,
+
+2) flames" and
+
+than dilution with air or N2."
+
+inhibit premixed
+
+H_O_N2
+
+extinguishers.
+
+flames.
+stoichiometric
+
+CH4/air
+
+flame Is
+
+23
+TABLE
+
+Ref.
+
+32
+
+Contribution/Significance
+
+(Continued)
+
+to Low-Gravity
+
+Combustion
+
+and Fire Safety Research
+
+Data that the inhibition effectiveness
+
+of both N 2 and CF 3 Br Is comparably
+negligible
+(750 C) or very hot (2700 C) premlxed CH 4 flames.
+
+(2-10 cm/sec), very cool
+33
+
+2.7.
+
+Data that the inhibition
+stoichiometrlc
+
+effectiveness
+
+of HBr decreases 75 percent
+
+CH 4 flames Is reduced
+
+from 22 percent
+
+as the oxygen
+
+In slow-burning
+
+content
+
+of alr In premlxed
+
+to 16 percent.
+
+34
+
+Data on a CF Br-inhibited premixed fuel-rich (75 percen0 H 21O 2 flame which, when compared
+Ref. 43, revea_ a 14 percent decrease in CF3Br inhibiUon effectiveness upon H 2 enrichment.
+
+35
+
+Data that the thickness of premixed stoichiometric
+pressure Is reduced from 1 to 0.4 atmosphere.
+
+36
+
+Technical
+
+review of combustion
+
+suppression
+
+CH4/air
+
+flat flames increases by 50 percent as atmospheric
+
+by vapor-phase
+
+those in Ref. 46, indicate that CO 2 flame-inhibiUon
+
+to those In
+
+agents providing data which, when
+
+effectiveness
+
+combined
+
+37
+
+Data on N2-inhibited low-pressure (0.01 arm) stoichiometric CH4/O2 flames which, when compared
+Ref. 41, reveal a 45 percent decrease in N 2 inhibidon effectiveness upon lowering pressure.
+
+38
+
+Specialized
+
+technical
+
+review of fire suppression that provides quantitative
+
+inhibition and extinction
+39
+
+technical
+
+review of halogenated
+
+fire suppressants,
+
+•
+
+Slower-burning
+
+•
+
+Amount
+
+•
+
+CF3Br can promote
+
+•
+
+(by 50 percent)
+
+flames require 20-35
+
+of CF3Br required to inhibit CH4/air
+
+technical
+
+43
+
+Detailed
+
+more (20-30 percen0
+
+chemical-kineUc
+
+•
+
+2.5 percent
+
+•
+
+CF3Br is more effective
+chemical-kinetic
+
+CF3Br acts more
+
+46
+
+Compendium
+
+(from 1 to
+
+or diffusion
+
+flames of
+
+upon lowering the pressure
+
+of C2H4/air
+
+flames
+
+flames, and
+
+H21air flames at normal gravity than at low gravity (data in Ref. 11).
+
+data, indicating
+
+as CO 2 in reducing
+
+as a detonaUon
+
+Data seUJng precedence
+
+oxygen,
+
+of premixed
+
+of CF3Br is reduced 50 percent
+
+modeling
+
+•
+45
+
+upon lowering pressure
+
+than does N 2.
+
+in stoichiometric
+
+CF3Br is not as effective
+
+that:
+
+the detonation
+
+hazard of C2H4/air
+
+mixtures
+
+and
+
+sensidzer than as an Inhibitor.
+
+for the temperature
+
+of data on flammability
+distances,
+
+and
+
+of CO 2 does not.
+
+is the amount of CF3Br required to suppress all CH4/air
+
+•
+
+quenching
+
+C) flames,
+
+modeling data, Indicating that:
+
+Flame Inhibition effectiveness
+from 1 to 0.1 atm.
+
+Detailed
+
+(1500
+
+to those in Refs. 36 and 37, indicate that:
+
+of N2 decreases by about 15 percent
+
+Data that the addiUon of CO 2 lowers the soot-forming tendency
+
+•
+
+44
+
+flames is 4.3 + 3 percent,
+
+review with data which, when compared
+
+Flame inhibition effectiveness
+
+hydrocarbon/air
+
+than hotter
+
+percent more CF3Br for extinguishment,
+
+pyrolysis.
+
+0.1 atm), whereas the inhibiUon effectiveness
+42
+
+less than that
+
+providing data IndicarJng:
+
+Cool (800 C) flames require 4-times more CF3Br for extinguishment
+
+Specialized
+
+of flame
+
+respectively).
+
+•
+
+41
+
+measures for effectiveness
+
+Data that the minimum amount of CF4 required to suppress H210 2 flames is only about 8 percent
+
+Comprehensive
+
+to those In
+
+and modes of action by vadous agents.
+
+of N 2 (83.5 versus 90.5 percent,
+40
+
+to
+
+is not reduced as pressure Is reduced.
+
+limits, inerting
+
+and flame temperatures
+
+or oxygen- or nitrogen-enriched
+
+dependence
+
+air).
+
+of inhibitor
+
+requirements,
+
+and burning
+
+effectiveness.
+
+minimum
+
+IgniUon energies
+
+velociUes as a function
+
+and temperatures,
+
+of fuel and oxidant
+
+(air,
+
+24
+TABLE
+
+Ref.
+
+47
+
+Contdbution/SigniNcance
+
+Review
+•
+
+48
+
+of smoldering
+
+Nitrogen-inerting
+
+combustion,
+
+2.7.
+
+to Low-Gravity
+
+with information
+
+may not impede
+
+(Continued)
+
+Combustion
+
+implying
+
+that:
+
+the progress of low-temperature
+
+Data Indicating that the thermal decomposition
+temperature
+to 600-800 C in the presence of refractory material.
+
+and Fire Safety Research
+
+(300 C) smoldering.
+
+of alleged "inerts,"
+
+such as CCI 4 and SF_ is lowered
+
+25
+
+3.0.
+
+EXPERIMENT
+
+DEFINITION
+
+This section
+The specific
+and justify
+gravity
+
+AND REQUIREMENTS
+
+presents
+
+objective
+
+the results
+
+conduct
+
+fire-suppression
+
+3.1.
+
+critical
+
+questions
+
+nent technical
+experiment
+retrieval
+
+information
+posed
+
+requirements
+conducted
+
+identified
+
+Questions
+
+TABLE 3.1.
+
+to evaluate
+
+Question
+
+provide
+
+for
+
+the low-
+
+based
+
+answers
+
+No. I established
+
+No. 2 and 3 addressed
+on a data
+
+the perti-
+
+issues
+search
+
+to the
+
+on in-space
+and
+
+literature.
+
+CRITICAL TASK 2 QUESTIONS FOR WHICH
+INFORMATION AND ANSWERS WERE SOUGHT
+
+No.
+I
+
+requirements
+
+1.
+
+that would
+
+and justification,
+
+on the technical
+
+on the project.
+
+Review
+
+was sought
+3.1.
+
+designed
+
+in Task
+
+Literature
+
+in Table
+
+literature.
+
+the science
+
+of experiments
+
+concepts
+
+FIRE SUPPRESSION
+
+of Task 2 efforts
+
+of Task 2 was to define
+
+the in-space
+
+Technical
+
+FOR SPACECRAFT
+
+SCIENTIFIC
+
+Questions
+What
+
+technical
+
+information
+
+space combustion
+
+is available with which to assessthe feasibility
+
+expeflmenlation
+
+of adapclng existing technolo_ies
+
+for in-
+
+to meet the science requirements for in-space research on low-gravity [ire
+
+suppression?
+What
+
+are the basic science requirements
+
+for the proposed
+
+presslon, spedfically the scope, experimental
+and other contributing
+factors?
+What are other
+experiment
+
+Important
+
+in-space experiment
+
+in space (as opposed
+
+to ground
+
+gravity quality, the maximum volume
+
+3.2.
+
+Initial
+available
+
+foundation
+sought
+
+efforts
+
+to date.
+
+here.
+
+extent
+
+on low-gravity
+and duration
+
+experiment
+
+fire supof tests,
+
+such as the justification for the conduct
+
+requirements,
+
+of the
+
+of low-
+
+and the extent of crew involvement?
+
+(question
+
+of reviewing
+low-gravity
+
+This information
+
+number
+
+the influence on the proposed
+
+Information
+
+consisted
+
+for the definition
+
+Task 1 in-space experiments
+scale of experiments,
+
+considerations,
+simulation),
+
+and power
+
+Technical
+
+on how and to what
+
+been defined
+
+parameters,
+
+the technical
+combustion
+
+and experience
+
+of the low-gravity
+
+No. I)
+
+literature
+
+experiments
+
+served
+
+have
+
+as the technical
+
+fire-suppression
+
+experiments
+
+26
+The references for this report section are to be found in Subsection 3.6. References 1 to 27 are a chronological bibliography of technical
+documents relevant to low-gravity combustion experiments. The type of fuel
+and combustion studied in the low-gravity experiments conducted, or proposed,
+to date, is listed for each reference in Table 3.2. The most valuable sources
+for the review were those of references 6, 13, 17, and 18.
+TABLE3.2.
+
+LOW-GRAVITY
+COMBUSTION
+EXPERIMENTS FUELAND
+BY
+FLAME
+TYPE
+
+FueVFlame Type
+
+References
+
+Solid, Diffusion
+
+1, 6, 12, 14, 17, 18, 22, 24, 25, 26, 27
+
+Gaseous,
+
+2, 3, 4, 5, 12, 14, 15, 16, 17, 22, 24
+
+Liquid,
+
+Diffusion
+
+Diffusion
+
+Gaseous,
+
+Premixed
+
+6, 12, 14, 22, 24
+6, 7, 8, 9, 10, 12, 14, 17, 19, 20, 22, 23
+
+Solid, Smoldering
+
+6, 12, 14, 18, 25, 26
+
+Liquid,
+
+6, 12, 13, 14, 15, 17, 22
+
+Droplet
+
+Solid, Particulate
+
+Some general
+combustion
+
+research
+
+6, 9, 11, 12, 13, 14, 15, 17, 22
+
+observations
+
+on documented
+
+experience
+
+from low-gravity
+
+are as follows:
+
+The majority of the hardware developed has been for use in lowgravity experiments during which the combustion process itself is
+being studied, and not the ability to suppress it.
+The principal method for terminating the combustion process in
+prior experiments appeared, at best, to be a simple extrapolation
+of normal-gravity
+methods, or, at worst, an afterthought.
+Of the experiments during which fire-fighting
+at low-gravity conditions was of direct interest, the focus was mainly on the prevention or suppression of high-temperature
+flaming, and not
+low-temperature
+smoldering, combustion.
+On first inspection, it appeared that it was not feasible to
+develop a conceptual design for a definitive in-space firesuppression experiment from the mere modification of the components that now accompany in-space combustion experiments
+for
+safety, and not research, purposes.
+
+27
+•
+
+While
+ideas
+might
+ments
+
+there is no shortage of general, often interchangeable,
+on how and which spacecraft fire-suppression
+experiments
+be performed, the science requirements
+for these experionly been superficially
+defined.
+
+These observations
+suppression
+describes
+
+concepts
+
+of Task
+
+the science
+
+ments proposed
+
+The science
+the fire-suppression
+
+duration
+
+3.3.1.
+
+of tests,
+
+Scope of
+
+requirements
+
+pressants
+lished
+meet
+
+•
+
+Carbon
+
+•
+
+Water
+
+•
+
+Nitrogen
+
+evaluation
+
+experi-
+
+No. 2)
+
+experiments
+
+scale
+
+to investigate
+
+2.0)
+
+include
+
+of experiments,
+
+the
+
+number
+
+and
+
+factors.
+
+delivery
+
+according
+
+(N2) inerting
+
+with
+
+by atmosphere
+
+the specifics
+
+of safe and effective
+
+and
+
+of the proposed
+
+fire
+
+definition
+
+one should
+
+for the experimental
+
+terrestrial
+
+of merit:
+
+control.
+
+fire suppression,
+
+guidelines
+
+to
+
+application,
+
+by local application,
+
+low-gravity
+
+of unambiguous
+
+by local
+
+estab-
+
+identified
+
+order
+
+the
+
+fire sup-
+
+to the concepts
+
+in decreasing
+
+(CO2) suppression
+
+that yield
+
+on spacecraft
+
+The suppressants
+
+as follows,
+
+(H20) suppression
+
+proceeding
+
+systems
+
+report was to define
+
+experiments
+
+information
+
+(Section 2.0).
+
+were
+
+in this
+
+and scalable
+
+and practicable
+
+dioxide
+
+to investigate
+
+the development
+
+parameters,
+
+versatile,
+
+I review
+
+these qualifications
+
+experiments
+
+fire-suppression
+
+from Task 1 (Section
+
+of the study described
+
+and suppressant
+
+Before
+
+which
+
+Study
+
+definitive,
+
+in the Task
+
+for the in-space
+
+and other contributing
+
+straightforward,
+
+most timely,
+
+The next subsection,
+
+on
+
+how.
+
+selected
+
+experimental
+
+The objective
+feasible,
+
+2.0).
+
+by the findings
+
+Science Requirements for Spacecraft
+Fire-Suppression
+Experiments
+(Question
+
+concepts
+
+the
+
+influenced
+
+for the spacecraft
+
+I, explains
+
+3.3.
+
+of course,
+
+I (Section
+
+requirements
+
+in Task
+
+scope of the study,
+
+were,
+
+suppression
+
+of
+
+note that
+
+design
+systems
+
+and
+remains
+
+28
+a
+
+difficult
+
+Perhaps
+
+scientific
+
+challenge,
+
+the best way to describe
+
+the results
+
+of most tests
+
+even after
+
+why this challenge
+
+are design-,
+
+application-specific,
+
+which
+
+suspicion,
+
+A universal,
+
+at worst.
+
+of any fire-suppression
+situation,
+however,
+
+simply
+
+spacecraft
+
+and may never.
+
+offer
+
+a more
+
+favorable
+
+tions.
+
+(There is, after all, only one Space
+
+dilemma
+
+the definition
+
+regarding
+
+racy and the avoidance
+design
+
+experiment
+
+experiments
+
+or is it better
+
+specify
+
+and vary experimental
+
+3.3.2.
+
+Experimental
+
+parameters
+
+combustion-suppression
+
+cussed
+
+variability.
+next.
+
+iterative
+
+in-space
+
+note,
+
+posed
+
+by
+
+of designing
+
+by general
+
+parameters
+With
+
+a suc-
+
+Earth
+
+must
+
+respect
+data,
+
+condi-
+
+realism
+
+address
+
+to maximum
+
+the
+
+accu-
+
+is it better
+
+to
+
+of parameters
+
+and variability
+
+in
+
+via simulation
+
+and
+
+independently?
+
+experiments
+
+parameters
+
+suggested
+
+The specifics
+
+specific
+
+in Section
+
+of these
+
+Note that the establishment
+
+2.0, as well as their
+
+experimental
+
+of these
+
+to the low-gravity
+
+science
+
+parameters
+
+are dis-
+
+requirements
+
+was an
+
+process.
+
+Fuel.
+cations
+
+in any new fire
+
+Parameters
+
+Table 3.3 lists experimental
+
+general
+
+and
+
+Freedom).
+
+in the resulting
+
+to sacrifice
+
+at best,
+
+conditions
+
+Station
+
+design.
+
+control
+
+system,
+
+posed
+
+of experimental
+
+of ambiguity
+
+that sacrifice
+
+favor of realism,
+
+and/or
+
+for the evaluation
+
+probability
+
+than those
+
+experimental
+
+that
+
+On a more optimistic
+
+that the situation-specific
+
+systems-evaluation
+
+age-old
+
+is to state
+
+methodology
+
+its delivery
+
+cessful
+
+Finally,
+
+exists
+
+of effort. (28,2g)
+
+methodology-,
+
+standardized
+
+along with
+
+does not exist,
+
+environments
+
+device-,
+
+decades
+
+leaves data open to interpretation,
+
+agent,
+
+one may observe
+
+several
+
+directly
+fire
+
+the boundary
+
+specification
+
+influence
+
+suppression,
+
+every
+
+position
+other
+
+affecting
+
+in Table
+
+parameter
+
+3.3 because
+
+fuel
+
+in the experiment
+
+both the initial
+
+conditions
+
+specifi-
+
+to study
+as well
+
+as
+
+conditions.
+
+Because
+combustion,
+
+Fuel holds first
+
+of the requirement
+
+experimental
+subsequently
+
+defined
+
+fuel candidates
+
+were
+
+in Task
+
+1 to recreate
+
+limited
+
+fixed the specifications
+
+to solids.
+
+smoldering
+This fuel
+
+for many of the other
+
+29
+
+TABLE 3.3.
+
+No.
+
+EXPERIMENTAL PARAMETERS
+SUPPRESSION EXPERIMENTS
+
+Experimental
+
+FOR IN-SPACE
+
+Parameter
+
+SMOLDER-
+
+Variability
+
+1
+
+Fuel
+
+Onboard
+
+2
+
+Oxidant
+
+3
+
+Fuel/oxidant
+
+Manned-spacecra_
+Finite or infinite
+
+4
+5
+
+Fuel/oxidant
+mixtng and rate
+Ignition event and mode
+
+Quiescent
+One-time
+
+6
+7
+
+Reignition tendency
+Fire zone size
+
+None, Immediate, or delayed
+Millimeters, centimeters,
+or meters
+
+8
+9
+
+Fire conditions
+Fire lifetime
+
+Smoldering and/or flaming
+Seconds or minutes
+
+10
+
+Fire consequences
+
+Production
+
+11
+
+Suppressant
+
+12
+
+Diagnostics
+
+CO2,, H 2O, or N 2 volume and flow conditions
+Preflame, flame, and/or post-flame conditions
+
+parameters,
+bustion,
+
+supplies
+
+deliver,/
+
+such as heat content,
+
+in Table 3.4.
+
+(diffusion) or ventilated (low-velocity
+or continuing, thermal or electrical
+
+of heal: and combustion
+
+ignition
+
+these ideals.
+were
+
+experiments
+
+would
+
+The technical
+
+and suppression,
+
+as most
+
+on low-gravity
+
+qualified
+
+of data
+
+in Table 3.5, carbon
+
+ject of considerable
+
+materials
+
+to serve
+
+of com-
+
+here should
+
+be complementary.
+
+The science
+
+posed in-space
+
+smoldering
+
+Suffice
+
+blacks,
+
+char-
+
+as the fuel in the proposed
+
+of carbon-based
+
+As should
+
+research.
+
+fuels
+
+be deduced
+
+and its suppression
+The in-space
+
+requirements
+
+for the "oxidant"
+experiments
+
+being considered
+
+for low-
+
+from the amount
+
+have
+
+been the sub-
+
+research
+
+fire aboard
+
+able debate. _.z2,z4,zs`za,21024)
+
+to be used
+
+proposed
+
+Freedom
+
+in the pro-
+
+have been influenced
+
+for the habitable
+
+it to say here that candidate
+
+life and prevent
+
+approached
+
+(80a8)
+
+smolder-suppression
+
+by the atmosphere(s)
+
+its creation
+
+qualities
+
+(chars,
+
+listed
+
+suppression. (803z-38)
+
+experiments.
+
+terrestrial
+
+combustion,
+
+a fuel whose
+
+carbon-based
+
+smolder
+
+smolder-suppression
+
+port
+
+products
+
+if they had the qualities
+
+on smoldering
+
+to identify
+
+On this basis,
+
+selected
+
+be ideal
+
+literature
+
+was reviewed
+
+gravity
+
+Freedom.
+
+convection)
+
+byproducts
+
+characteristics,
+
+Table 3.5 lists the qualifications
+
+Oxidant.
+
+material(s)
+habitat(s)
+
+and so on.
+Fuel specifications
+
+coals)
+
+flammable
+
+environment
+
+atmospheres
+
+believed
+
+have been the subject
+
+strongly
+aboard
+to sup-
+
+of consider-
+
+30
+
+TABLE3.4.
+
+IDEALREQUIREMENTS
+FORSOLIDFUELSIN SPACECRAFT
+SMOLDER-SUPPRESSION
+EXPERIMENTS
+
+•
+
+The physical characteristics should be suchthat its size, shape, density, and porosity can be readily varied.
+
+•
+
+The chemical composition should be such that only combustible elements are present (no ash residue), with these
+elements controllable one or more at a time.
+
+•
+
+The heat content should be reprodudble to a high degree and sufficientlyhigh such that only a relaUvely small
+quantity is required to create a fire and heat.
+
+•
+
+The ignition characteristics should be such that igniUon can be achieved in the absence of forced convection and
+varied over some appredable range of minimum temperatures.
+
+•
+
+The burning characteristics should be such that the minimum oxidation rate Is slow (smoldering), symmetrical,selfsustaining,and selectable under quiescent flow conditions, and variable (increasing) under dynamic-flow conditions.
+
+•
+
+The productsof (smoldering)combustion should be suchthat they are minimum In number and somewhat controllable, yet still representative(prudendy so) of spacecraftfire emissions in terms of consequences(toxicity,
+compatibility with life-support systems).
+
+•
+
+The suppression characteristics under terrestrial, deep-seated fire conditions should be such that the largest
+quantity of the most effeaJve agent is required.
+
+•
+
+The combustion extinction characteristics should be such that some other safeguarding mechanism can be relied
+on to suppress the combustion if the fire-suppression agent being tested fails to do so.
+
+•
+
+The candidate flammable material will be present aboard manned spacecraft, and could be the odgln of a fire.
+
+Life-support
+and mole fraction
+fraction.
+
+With
+
+not support
+candidate
+
+craft
+
+of oxygen,
+
+regard
+
+the testing
+
+diluents
+
+investigated
+
+atmospheres
+
+may be varied
+
+total
+
+pressure,
+
+to the latter,
+
+(e.g., sulfur
+
+and identity
+
+the Task
+
+of any non-oxidant
+
+1 (Section
+
+other
+
+hexafluoride,
+
+and may not, in fact,
+
+be inert
+
+in terms
+
+of partial
+
+of the non-oxidant
+2.0) findings
+
+than nitrogen,
+
+SFs) have never
+
+under
+
+either
+
+pressure
+
+because
+
+did
+other
+
+been thoroughly
+
+terrestrial
+
+or space-
+
+fire conditions. (4j)
+Thus, the variation
+
+suppression
+of Task
+proposed
+
+technology
+
+1 questioned
+
+by N2 inerting
+
+the effectiveness
+
+here to obtain
+
+there is concern
+
+of the oxidant
+
+direct
+
+Freedom,
+
+justifying
+
+pressure
+
+atmosphere.
+
+experiments
+
+(see Section
+
+While
+
+technology,
+
+on its feasibility.
+
+of fire within
+
+in at least
+
+to a study
+
+2.0).
+
+of inerting
+
+information
+
+about the threat
+
+amounts
+
+the hyperbaric
+
+one representative
+
+of passive
+the findings
+experiments
+Furthermore,
+chamber
+
+on
+
+high total-
+
+are
+
+31
+
+TABLE 3.5.
+
+QUALIFICATIONS
+REQUIREMENTS
+
+OF CARBON AS A CANDIDATE
+
+Carbon-based
+materials can be molded
+and porosity. (31)
+•
+
+into a variety
+
+Chars, blacks, and charcoals are typically
+
+95% carbon,
+
+FUEL TO MEET
+
+of shapes and sizes, with considerable
+
+with the balance
+
+altered by simple blending
+
+predominately
+
+over density
+
+inert (inorganic) ash, and
+
+can have their
+
+elemental composition
+
+•
+
+At 32.8 M,_g
+available.(341
+
+(7,830
+
+•
+
+The Ignition temperatures
+of spedfic carbon blacks formed under different process conditions naturally vary from
+about 320 to 535 C, whereas the ignition temperature
+of specific carbon blacks can be varied from about 265 to
+of trace (parts per million) quantities of metal catalysts.
+
+achieved under quiescent conditions (no oxidant convection),
+tion.(31,32,34,35)
+Once
+
+ignited,
+
+carbon-based
+
+(" 500 C) in a manner
+forced convection. (_)
+•
+
+materials smolder
+
+and be enhanced
+
+flammable
+
+Moreover,
+
+by forced
+
+solids
+
+ignition can be
+
+convec-
+
+slowly (~ 1 x 10 .4 g/cm2-sec) at near-constant
+
+temperatures
+
+that is quite symmetrical, self-sustaining under quiescent conditions, and accelerated
+
+The oxidation rates of carbon-based
+the more reactive carbons
+
+•
+
+solids. (34)
+
+cal/g), chars, blacks, and charcoals are some of the more energy-dense
+
+740 C via the impregnation
+
+•
+
+with other flammable
+
+control
+
+IDEAL
+
+fuels can be altered to vary over 5 to 6 orders
+
+oxidizing at rates approaching
+
+of maRnitude,
+
+by
+
+with some of
+
+100s of milligrams per mfnute. ('_'36)
+
+The (almost) exclusive products of carbon-based
+combustion (smoldering) are CO 2 and CO, which can be singly
+or simultaneously generated and which singly and collectively pose representative threats to the life of spacecraft
+crew and to the operation
+
+of life-support systems. (33'34'39)
+
+•
+
+The self-extinction of carbon smoldering can be achieved not only by limiting the fuel and oxidant supply, but
+also by incorporating
+trace quantities of foreign solids, such as borates. (37)
+
+•
+
+Charcoal
+
+has been used as a model, worst-case Class A fuel in standardized
+
+ness of gas-phase terrestrial
+high volumetric
+
+agents to suppress deep-seated
+
+concentration
+
+(13%) of an effective agent (Halon
+
+whereas an even higher concentration
+•
+
+Activated
+
+carbons
+
+and life support
+
+will probably
+
+which indicate that a relatively
+
+1301) is required to extinguish
+
+smoldering,
+
+(65%) of ineffective agent (COL>) Is required. (29)
+
+be aboard Space Station Freedom as a component
+
+of the environmental
+
+control
+
+system (ECLSS), which has been identified as a Possible location for a fire. (39)
+
+From the preceding
+low-gravity
+
+experiments to evaluate the effective-
+
+smoldering combustion,
+
+smolder
+
+assessments,
+
+the following
+
+oxidants
+
+experiments:!
+
+•
+
+12_ 02 in N2 @ 150 kPa (1.5 arm),
+
+•
+
+16_ 02 in N2 @ 100 kPa (1.0 atm),
+
+•
+
+21_ 02 in N2 @ 100 kPa (1.0 atm),
+
+•
+
+21_ 02 in N2 @ 280 kPa (2.8 atm).
+
+and
+
+are then
+
+proposed
+
+for
+
+32
+
+Fuel/Oxidant
+the
+
+proposed
+
+low-gravity
+
+requirement
+
+because
+
+conducted,
+lated.
+
+but
+
+container,
+ply.
+
+Oxidant
+plete
+
+ments
+fuel
+
+tude
+
+to
+
+limit
+
+experiment.
+
+ignition
+
+more oxidant
+
+For
+
+the
+
+in
+
+that
+
+The following
+
+required
+
+will
+
+for
+
+be the
+
+the
+
+of
+
+science
+
+oxidant
+of
+
+contaminated
+
+requirements
+
+com-
+
+atmosphere
+experi-
+
+about
+
+0.5
+
+an order
+
+combustion.
+
+heat
+
+for
+
+low-gravity
+
+provided
+
+sup-
+
+mechanism.
+
+required
+
+materials,
+
+complete
+
+simuexperi-
+
+release
+
+that
+
+pioneering
+
+which
+
+can be
+
+a sealed
+
+extinction
+
+of
+
+flammable
+
+a 2 x 10 -2 m chamber,
+s
+
+than
+
+proposed
+
+of
+
+in
+
+in
+
+science
+
+are
+
+as a finite
+
+surplus
+
+in
+
+a critical
+
+experiment
+
+fuel
+
+limit
+
+volume
+
+example,
+
+and suppression
+
+was burned
+
+experiments
+
+and contain
+
+to
+
+be used
+
+combustion
+
+a guaranteed
+in
+
+to
+
+consequences
+
+serving
+
+has been made finite
+
+yet
+
+the
+
+amount of
+
+provide
+
+is
+
+solid-fuel
+
+container
+
+and to
+
+and oxidant
+
+and their
+
+low-gravity,
+
+the
+
+fuel
+
+how safely
+
+use a finite
+
+within
+
+supply
+
+only
+
+has been made finite,
+
+by the
+
+on the
+
+air
+
+not
+
+of
+
+combustion
+
+combustion,
+
+produced
+
+of
+
+of
+
+of
+
+experiments
+
+conditions
+
+proposed,
+
+the
+
+supply
+
+fire
+
+majority
+
+Fuel
+
+and products
+
+which
+
+or
+
+with
+
+(1,e,17,18)
+
+influences
+
+the
+
+conducted
+
+The amount
+
+smolder-suppression
+
+it
+
+also
+
+To date,
+
+ments,
+
+Supplies.
+
+gram
+
+of
+
+magni-
+
+(z)
+
+for
+
+the
+
+in-space
+
+the
+
+amount
+
+here:
+
+•
+
+The fuel
+supply will
+always be finite,
+determined
+by fire
+consequences.
+
+•
+
+The oxidant
+supply will
+either
+be finite,
+to simulate
+the spacecraft
+condition
+wherein
+the fire
+zone has been isolated,
+or infinite,
+to simulate
+the condition
+whereby the fire
+zone has not or
+cannot be isolated
+and remains
+dynamically
+integrated
+with the
+environmental
+control
+and life
+support
+system.
+
+Fuel/Oxidant
+mixing
+only
+of
+
+and rate
+by the
+
+practical
+
+favor
+
+whereas
+
+forced
+
+enced
+
+proposed
+
+low-velocity
+
+in-space
+
+that
+
+tests
+
+simulation
+
+reveal
+
+defined
+
+for
+
+favor
+
+quiescent
+that
+
+will
+
+experiments
+
+and oxidant
+
+but
+
+fundamental
+
+tests
+
+studies
+
+the
+
+be present
+have
+
+is
+
+aspects
+would
+combus-
+
+Because
+
+strongly
+
+aboard
+to
+
+not
+
+low-velocity
+
+conditions.
+
+combustion
+
+will
+
+also
+
+quiescent
+
+with
+
+burned
+
+and compromised
+
+suppression,
+
+of manned spacecraft
+that
+
+fuel
+
+on diffusion-limited,
+
+would
+
+convection
+
+fire-suppression
+
+supply,
+are
+
+and its
+
+The prerequisites
+
+representative
+
+experiments
+
+by the
+
+combustion
+
+fire-suppression
+realistic
+
+As with
+
+requirements
+
+of
+
+application.
+
+convection
+
+low-gravity
+
+and Rate.
+
+science
+
+fundamentals
+
+in-space
+
+tion,
+
+have
+
+Mixinq
+
+with
+
+include
+
+influ-
+
+Freedom,
+both
+
+the
+modes
+
+33
+
+of fuel/oxidant
+tive oxidant
+should
+
+flow has a strong
+
+include
+
+parallel
+
+both cocurrent
+
+and opposed
+
+requirements
+finite
+
+mixing. (8,21,24)Furthermore,
+
+supply would
+
+tioning
+
+operations
+
+conducted
+source,
+
+or
+
+spread,
+
+the
+
+Reignition
+
+ity has been
+
+be independently
+
+there can be no more
+
+utilized.
+
+ones,
+
+revealed
+
+experimental
+the actual
+
+convenience
+
+proposed
+
+ratio)
+
+Using
+
+and practical
+
+combustion
+
+would
+
+with
+size,
+
+in
+the
+and
+
+fire and its
+event
+
+and suppressant
+events,
+
+technical
+
+experiments
+
+than
+
+a
+
+capabildelivery
+
+but also on
+
+scaling
+
+requirements
+
+fire)
+
+as much
+
+property,
+
+was considered
+
+be sufficient
+
+(incipient
+
+literature
+
+are sized
+
+the pioneering
+
+the science
+
+are that the order of centimeters
+
+smo!-
+
+ignition
+
+spacecraft
+
+smoldering
+
+are for any other
+
+here.
+
+for
+
+wide-
+
+delay.
+
+for low-gravity
+
+field and Martin (6) as a guide,
+
+wave/length
+
+suppressant
+
+size of any fire. (6,13,18)This reasoning
+
+for the experiments
+
+after
+
+of fire-fighting
+
+A review of the available
+
+as they
+
+more
+
+whose temperature,
+
+of the initial
+
+not only on initial
+
+that fires created
+
+(milliseconds).
+
+continues
+
+smoldering
+
+point-
+
+controlled.
+
+For this reason,
+
+Fire Zone Size.
+
+experiments
+
+life- or mission-threatening
+
+after some appropriate
+
+a malfunc-
+
+by a longer,
+
+if not all, of the first-line
+
+will be evaluated
+
+subsequent
+
+Outside
+
+duration
+
+requirements
+
+system,
+
+from
+
+in
+
+by a one-time,
+
+probably
+
+of
+
+infinite
+
+events
+
+sparks
+
+as a
+
+conditions.
+
+combustion
+
+short
+
+science
+
+ignition
+
+or
+
+initiated
+
+be initiation
+
+Tendency.
+
+after most,
+
+of
+
+whereas
+
+ignition
+
+accomplished
+
+which
+
+the
+
+of
+
+flows
+
+interdependent,
+
+(ventilated)
+
+in-space
+
+typically
+
+reason,
+
+radiant
+
+can
+
+is
+
+event,
+
+will
+
+all
+
+spark)
+is
+
+ignition
+
+or
+
+time-at-temperature
+
+reignition
+
+(electric
+
+For this
+
+a hot-surface
+
+almost
+
+ignition
+
+however,
+
+based
+
+_,18)
+
+In
+
+overheating
+
+oxidant
+
+tests
+
+Note that the science
+
+conditions,
+
+convective
+
+of convec-
+
+the proposed
+
+i.e.,
+
+are somewhat
+
+The most probable
+
+from
+
+date,
+
+experiments
+
+consequences,
+
+(z2)
+
+event
+
+thermally
+
+systems
+
+to
+
+combustion,
+
+proposed
+
+use of
+
+system.
+
+proposed
+
+begins.
+
+those
+
+flows,
+
+with quiescent
+
+with flowing,
+
+rate,
+
+respectively.
+
+and mixing
+
+and Node.
+
+are
+
+high-energy
+
+Smoldering
+
+dering
+
+Event
+
+electrical
+
+spread,
+
+be associated
+
+be associated
+
+Ignition
+spacecraft
+
+supply
+
+the direction
+
+over burning
+
+and countercurrent
+
+to the flame
+
+for oxidant
+
+supply would
+
+influence
+
+because
+
+research
+
+such as
+
+sufficient
+of Summer-
+
+for fire-zone
+for fundamental
+
+reasons.
+
+for
+
+size
+(smolder
+
+34
+Fire Conditions.
+ditions
+
+of smoldering
+
+suppressants
+
+would
+
+The studies
+
+and flaming
+
+of Task
+
+combustion
+
+have to be effective.
+
+seems to have been given to smoldering
+However,
+
+science
+
+requirements
+
+for fuel and oxidant
+
+is oxygen
+
+smoldering
+
+an investigation
+ment,
+
+within
+
+to the
+
+contingency,
+
+for this science
+
+could
+
+from
+
+as the atmosphere
+
+may be inherent
+no other
+
+low-
+
+and the
+
+that the transition
+
+was considered
+the ECLSS
+
+under
+
+literature
+
+fuel may occur
+
+here,
+
+emphasis
+
+become
+
+such
+
+as
+
+require-
+
+the source
+
+of
+
+combustion. (8'_9)
+
+and suppressed
+
+By the nature
+
+(smoldering),
+
+Fire Consequences.
+of heat, and identity
+
+the experiment
+The science
+process,
+
+during
+
+dictated
+
+smoldering
+
+during
+
+By fire consequences
+and quantity
+
+for fire consequences
+
+the experiments
+
+are meant
+
+of chemical
+
+were
+
+Thus,
+
+proposed
+
+here
+
+an hour.
+
+the temperature,
+
+byproducts
+
+released
+
+of smoldering
+developed
+
+by
+
+combustion.
+
+as an iterative
+
+the consequences
+
+here were
+
+to be created
+
+proposed
+
+up to about
+
+and suppression
+
+by fuel requirements.
+
+event
+
+of the experiments
+
+to tens of minutes,
+
+the initiation
+
+requirements
+
+of the combustion
+
+the duration
+
+be on the order of minutes
+
+amount
+
+designed
+
+flames,
+
+H2 generated
+
+Fire Lifetime.
+
+will
+
+of a solid
+
+such a transition
+
+experiment
+
+of hydrogen
+
+even though
+
+flaming
+
+combustion
+
+indicate
+
+over which
+
+more
+
+combustion
+
+a review of the technical
+
+enriched. (6) Because
+
+solid-fuel
+
+the extremes
+
+than to flaming
+
+conditions.
+
+to flaming
+
+represent
+
+that the fire con-
+
+So far in this report,
+
+gravity
+
+smoldering
+
+I indicated
+
+of deliberate
+
+predictable
+
+and
+
+predeterminable.
+
+Suppressant
+mental
+
+parameter
+
+the suppressant
+
+included
+
+The science
+
+consideration
+
+flow direction,
+
+Based on the results
+•
+
+Delivery.
+
+requirements
+
+for this experi-
+
+of the suppressant
+
+to be delivered,
+
+and the amount of suppressant
+
+of Task 1 (Section 2.0),
+
+the following
+
+delivered.
+
+was decided:
+
+C02, N2, or H20 will be delivered in a near-quiescent
+(lowvelocity), countercurrent manner, such that the minimum volume
+required to suppress smoldering could be determined.
+
+35
+Because CO
+2
+is rather
+mist
+
+and N2 are gaseous
+
+straightforward
+
+to accomplish
+
+of H20 at low-gravity,
+
+An effort
+design
+
+was made
+
+however,
+
+experimentally.
+
+represents
+
+here to understand
+
+their
+
+The dispersion
+
+an experimental
+
+and resolve
+
+dispersion
+of a
+
+challenge. (1,12)
+
+this potential
+
+experimental
+
+problem.
+Atomization
+
+high pressure)
+
+is conventionally
+
+through
+
+rate, and droplet
+has been
+
+accomplished
+
+by forcing
+
+The end result
+
+a restriction.
+
+ics is a high-velocity,
+
+result
+
+fire suppressants,
+
+of these
+
+very directional
+
+size are dependent
+
+mist
+
+of liquid,
+
+whose
+
+on the backpressure
+
+shown to be unacceptable
+
+a liquid
+simple
+
+in low-gravity
+
+mechan-
+
+momentum,
+
+applied.
+
+(via
+
+flow
+
+This end
+
+fire-suppression
+
+experiments.(1, 41)
+A review of the commercial
+tion technology
+lem regarding
+ultrasonics,
+
+exists
+
+whose
+
+atomized-H20
+generates
+
+with ultralow
+
+adoption
+
+revealed
+
+here could
+
+delivery.
+
+fine mists
+
+solve
+
+This technology,
+
+at ultralow
+
+the experimental
+which
+
+rates that
+
+the flow rate to the nozzle. (42) This novel
+
+atomization
+
+into the in-space
+
+it may have utility
+
+yet proven,
+monitored
+liquid
+
+must be obtained
+
+techniques
+
+during
+
+composition
+
+those of the initial
+bustion
+
+atmospheric
+
+and extinguishment.
+
+diagnostic
+
+simplicity
+
+the fuel and 02/N2 mixtures
+deliberately
+smoldering
+already
+
+delivered
+carbon
+
+fuel.
+
+be monitored
+
+composition
+
+The proposed
+
+in terms
+
+Concentration
+
+of on-line
+
+the oxidants,
+
+to suppress
+The other
+
+under pre-fire
+
+manner,
+
+gas
+
+diagnos(smolder-
+
+using
+
+smoldering.
+
+and
+
+and atmospheric
+
+measurements
+
+include
+
+lend themselves
+
+conditions.
+
+Because
+
+of H20 will
+
+The only source
+
+of smoldering
+
+simple,
+
+data to be
+
+(oxidant)
+
+phase),
+
+the only source
+
+as
+
+basis.
+
+for onboard
+
+data acquisition.
+
+products
+
+here,
+
+as well as the products
+
+experiments
+
+only of
+
+is to be
+
+proposed
+
+The critical
+
+include
+
+(gas and solid
+
+(02, CO 2, and CO).
+
+droplets
+
+fire and post-fire
+
+and reliable.
+
+of an "experiment"
+
+(H20) flow rates, temperatures
+
+chemical
+
+experiments
+
+in a straightforward
+
+that are robust
+
+the course
+
+technology
+
+prob-
+
+on
+
+are a function
+
+requirements
+
+data on the pre-fire,
+
+relies
+of water
+
+as well as a research,
+
+To meet the science
+
+tics, basic thermochemical
+ing) environments
+
+fire-suppression
+
+on a commercial,
+
+Diagnostics.
+
+that a new atomiza-
+
+(10-15 /_m mean diameter)
+delivery
+
+incorporated
+
+velocity
+
+literature
+
+of comto
+carbon
+
+is
+
+be that
+
+of CO will
+
+(CO2 and 02) would
+
+be
+
+36
+It is proposed that requisite
+via the following techniques:
+
+tently
+
+fundamental data be obtained intermit-
+
+•
+•
+
+Liquid
+
+•
+
+Temperatures:
+
+•
+
+3.3.3.
+
+Gas flow rates:
+
+mechanical
+
+Atmospheric
+chemical composition:
+troscopy and solid-state sensing.
+
+flow rates:
+
+piston
+
+fine-wire
+
+the fire hazard,
+
+(forced-convection)
+
+the scaling
+
+of the proposed
+
+sion supplies
+
+nondispersive
+
+infrared
+
+spec-
+
+zone size, condition,
+and suppressions
+
+are dependent
+
+carrier.
+supply
+
+imum volumetric
+the identity
+
+Furthermore,
+
+and maximum
+
+volume
+
+Space Shuttle (s,13)
+or for the Combustion
+in-space
+
+laboratory
+
+scale of the proposed
+•
+
+and
+
+fire-
+
+reignitions,
+
+the consequences
+
+determine
+energy
+
+of
+
+by the
+
+the maximum
+available,
+
+rejected-heat
+
+max-
+
+load,
+
+and
+
+estimates
+
+on
+
+byproducts.
+containing
+
+for either
+
+Facility
+
+These
+
+mis-
+
+only as a
+
+and accommodated
+
+the Spacelab
+
+aboard
+
+data were used as guidelines
+
+experiments.
+
+overboard
+
+extent
+
+electrical
+
+in the literature
+
+the limits of many of these accommodations
+
+available
+
+of ignitions,
+
+accommodations
+
+acceptable
+
+guides
+
+on combus-
+
+of fuel and oxidant,
+
+can be supported
+
+of experiment
+
+environment
+
+in that consumable
+
+and vented
+
+and the number
+
+maximum
+
+are available
+
+or "glow-
+
+are one-time
+
+the amount
+
+rate, maximum
+
+space available,
+
+Documents
+
+onboard,
+
+Spacecraft-carrier
+and supply
+
+(quiescent)
+
+experiments
+
+ones
+
+upon how and to what
+
+conditions
+
+surface
+
+spacecraft
+
+Space-borne
+
+from Earth-based
+
+and lifetime,
+
+the fire and post-fire
+
+fuel/oxidant
+
+experiments.
+
+differ
+
+of solid-fuel
+
+under smoldering
+The unique
+
+must be contained
+
+last resort.
+
+spacecraft
+
+is the extent
+
+of fuel, air, and fire suppressant
+
+all byproducts
+
+desperate,
+
+either
+
+conditions.
+
+tion and its suppression
+
+These
+
+and
+
+Scale of Experiments
+
+area creating
+
+that
+
+pump,
+
+thermocouples,
+
+The "scale of the experiment"
+
+ing"
+
+meters,
+
+are summarized
+
+Space
+
+aboard
+
+Station. (17,18)
+
+to approximate
+
+the
+
+as follows:
+
+The maximum flow rate of fluid (oxidant and/or suppressant) to be
+supplied to combustion experiments aboard Space Station Freedom
+is about 65 I/min.
+
+37
+The average electric power (at 28 V dc) to be madeavailable is
+about 4 kWaboard Shuttle and about 6 kWaboard Space Station
+Freedom.
+The maximum
+volumetric space available
+is about 0.2 to 0.6 m
+3.
+
+for the combustion chamber
+
+The maximum
+allowable heat load that can be dissipated by a combustion experiment is about 4 kWaboard Shuttle and about 15 kW
+aboard Freedom.
+The maximum allowable volumetric flow rate of "typical", "processable" products of combustion (COx, 02, H20) from Freedom experiments is about 225 I/min at from 100 to 280 kPa (1.0 to 2.8 atm).
+
+These
+were
+
+compared
+
+estimates
+
+for in-space
+
+to the properties
+
+tion products,
+
+to determine
+
+combustion
+
+properties
+
+references
+
+of the candidate
+
+which
+
+are listed
+
+combustion-experiment
+
+ones were
+
+limiting.
+
+•
+
+Elemental
+
+•
+
+Carbon
+
+3.6
+
+carbon,
+These
+
+(also see Table
+
+and its combus-
+
+carbon
+
+fuel
+
+and
+
+therein).
+TABLE 3.6.
+
+in Table
+
+fuel,
+
+accommodation
+
+CARBON FUEL AND COMBUSTION
+PROPERTIES
+
+content:
+
+density:
+
+carbon,
+
+trace ash
+
+~ 1.1 g/cm 3
+
+•
+
+Heat content:
+
+•
+
+Stoichiometrlc
+
+•
+•
+
+Ignidon temperature:
+Ignition energy:
+i-4
+
+•
+
+Smoldering
+
+combustion
+
+temperature:
+
+•
+
+Smoldering
+
+combustion
+
+rate:
+
+•
+•
+
+Glowtng
+Glowing
+
+•
+•
+
+Products of smoldering or combustion:
+CO x
+Volumetric products of smoldering or combustion:
+
+In Table 3.6, smoldering
+combustion
+
+refers
+
+tions showed
+carriers
+
+33 MJ/I<8
+air requirement:
+
+combustion
+combustion
+
+combustion
+
+of carbon
+
+that fluid-flow
+
+allow carbon
+
+9.4 I/g
+
+~ 500 C
+W/cm 2
+
+9.4 Vg
+
+refers to quiescent
+
+(oxidant)
+
+conditions;
+
+glowing
+
+conditions.
+
+properties
+
+fuel to burn
+
+~ 500 C
+
+~ 1 x 10 -4 g/cm2-sec
+
+temperature:
+~ 950 C
+rate: ~2 x 10 -3 g/crn2-sec
+
+to forced-convection
+
+The analysis
+
+3.5 and the
+
+compared
+
+constraints
+
+to experiment
+
+aboard
+
+(stoichiometrically)
+
+possible
+
+accommodaspacecraft
+
+at a maximum
+
+rate of
+
+38
+about 7 g/min. Based on the maximum
+estimated burning rate for the carbon
+fuel, about 0.12 g/cm2-min, which would occur under forced-convection or
+"glowing" conditions, the maximum
+allowable solid surface available for combustion would be about 58 cm
+2.
+The above estimate
+combustion
+
+is very likely
+
+used in the calculation
+which,
+
+from what
+
+artificially
+
+Given
+
+conservative
+
+as 100 cm2, which
+
+that the fire zone size should
+
+and shape of the smoldering
+the geometry
+
+were
+
+square,
+
+Thus,
+
+burning
+
+number
+
+to 11.3 cm in diameter,
+
+rate
+
+conditions,
+
+factor
+
+surface
+
+may be
+of about
+
+design.
+
+of centimeters,
+
+vary from
+
+2
+
+area to as
+
+in experimental
+
+zone could
+
+for
+
+burning
+
+at low-gravity,
+
+be on the order
+
+combustion
+
+carbon
+
+a nominal
+
+solid-fuel
+
+is a more workable
+
+area available
+
+the maximum
+
+burning
+
+of 2.
+
+the available
+
+surface
+
+under terrestrial
+
+is known about solid-fuel
+
+high by about a factor
+
+solid
+
+because
+
+was that estimated
+
+can be used to increase
+much
+
+of the maximum
+
+the scale
+
+10 cm-a-side,
+
+if the geometry
+
+if
+
+were
+
+circular.
+Multiple
+simultaneously
+
+independent
+
+accommodated
+
+of any one experiment
+ber of experiments
+ate certain
+
+3.3.4.
+
+potential
+
+fire
+
+fire conditions
+
+the most
+
+variations
+
+carriers.
+
+using
+
+Thus,
+
+as a guide
+
+to reproduce
+
+could
+
+the scale
+
+the total
+
+results
+
+be
+
+num-
+
+and to evalu-
+
+ranges.
+
+to evaluate
+
+available
+Therefore,
+
+and timely
+
+or fire zones,
+
+Tests
+
+the least number
+
+for the first
+
+discussions,
+
+of
+
+not prudent
+
+possible.
+
+critical
+
+spacecraft
+
+be conducted
+
+over acceptable
+
+suppressants
+
+to define
+
+experiments,
+
+would best be determined
+
+Number and Duration
+
+It is simply
+
+project
+
+by possible
+
+that should
+
+parameters
+
+combustion
+
+data.
+
+under
+
+all, or even many,
+
+all, or even many,
+
+it was the underlying
+
+of definitive
+
+experiments
+
+A description
+
+round of in-space
+
+tests,
+
+of the types
+
+of
+
+intent of this
+that would
+
+of the minimum
+based
+
+of the
+
+yield
+
+parametric
+
+on the preceding
+
+follows:
+
+•
+
+Only one carbon fuel (which fixes
+of the fuel) would be used.
+
+•
+
+Four nitrogen-oxygen
+atmospheres
+ferent spacecraft habitats.
+
+the thermophysical
+
+would
+
+properties
+
+be used to represent
+
+dif-
+
+39
+•
+
+Fuel
+
+supply
+
+would
+
+be finite.
+
+•
+
+Two oxidant-supply
+conditions would be used:
+finite, and dynamic and replenishable.
+
+quiescent
+
+and
+
+Ignition would be induced using an appropriately
+sized electrically heated surface operating for a fixed time at one temperature
+above that required for ignition.
+•
+
+Two ignition times would be used=
+first, to begin the smoldering, and second, to reignite the smoldering after it apparently
+had been suppressed.
+One fire-zone size (centimeters) would be used, which would be
+established from the total number of critical first-round experiments identified (to be defined).
+Two fire conditions would be evaluated:
+smoldering combustion
+under a quiescent atmosphere, and glowing combustion under a
+dynamic atmosphere.
+
+•
+
+The fire lifetime would be of the order of minutes to an hour,
+encompass ignition, burning, suppression, reignition
+(in some
+cases), and resuppression.
+
+to
+
+Fire consequences of byproduct release would be controlled and
+fixed by the other experimental parameters, particularly
+the
+fuel.
+Six different suppressant delivery conditions would be evaluated
+to accommodate three suppressants,
+C02, H20, or N2, either at two
+different premixed concentrations
+in the quiescent atmosphere or
+at an increasing concentration
+in the dynamic atmosphere,
+until
+the volume required to cause suppression was reached.
+Centralized diagnostic equipment for temperature and gas composition measurement would be operated and the data multiplexed
+during all phases of the in-space smolder-suppressant
+experiments.
+
+Table 3.7 summarizes
+number
+
+of first-round
+
+variations.
+Two-
+
+600),
+
+however,
+
+occurrence
+strates
+
+experiments
+
+The product
+
+192.
+
+or possibly
+
+the parametrics
+required
+
+of the minimum
+
+three-times
+
+could be necessary
+
+and reproducibility.
+
+the need to conduct
+
+just
+
+to obtain
+
+number
+
+experiments
+
+data on all possible
+
+number
+
+experiments
+
+of experiments
+
+experimental
+
+This impractical
+
+multiple
+
+to show the total
+
+of first-round
+
+this minimum
+to determine
+
+listed
+
+number
+
+probability
+
+of experiments
+
+simultaneously.
+
+is
+
+(~400of
+demon-
+
+40
+
+TABLE3.7.
+
+PARAMETRICS PROPOSED
+OF
+IN-SPACE
+SMOLDER-SUPPRESSION
+EXPERIMENTS
+Minimum Number
+of Discrete Varla-
+
+Experimental
+
+tions
+
+Parameter
+
+Fuel
+
+1
+
+Oxidant
+
+4
+
+Fuel supply
+
+1
+
+Oxidant
+
+supply
+
+2
+
+Ignition
+
+mechanism
+
+1
+
+Ignition/reignition
+Fire-zone size
+Fire conditions
+
+2
+1
+2
+
+Fire lifetime
+
+1
+
+Fire consequences
+
+1
+
+Suppressant delivery
+
+6
+
+Diagnostics
+
+1
+
+Total Experimental
+
+A practical
+experiment
+
+package
+
+ber, serviced
+
+of carbon
+
+The design
+
+"experiments"
+
+Although
+smolder-suppression
+spacecraft-carrier
+in the design
+
+mental
+
+a-side)
+
+experiments
+
+gravity.
+
+comes from an industrial
+
+ignitor
+
+prudent
+
+information
+
+I hour, or less. (2g)
+
+a
+
+of thermo-
+
+the number
+
+of
+
+is a function
+
+of
+
+fuel.
+low-gravity
+imposed
+
+to attempt
+
+by
+
+to factor
+
+smolder-suppression
+on a terrestrial
+
+for the evaluation
+
+fuels using
+
+(up to
+
+and containing
+
+by limitations
+
+from standardized
+
+standard
+
+number
+
+of simultaneous
+
+solely
+
+cham-
+
+exhaust,
+
+and array
+
+which
+
+of solid
+
+and duration
+
+Class A (solid)
+
+in tests that last about
+
+a variable
+
+simultaneously,
+
+Available
+
+supply,
+
+insulated
+
+The
+
+isolation
+
+to determining
+
+it was thought
+
+and experience
+
+of smoldering
+
+reduced
+
+can be fixed
+
+accommodations,
+
+details
+
+each
+
+of the unit-charge
+
+the scale, number,
+
+at normal
+
+analog
+
+suppression
+
+and geometry
+
+combustion
+
+be mounted
+
+with an integral
+
+is thereby
+
+is suggested.
+
+oxidant/suppressant
+
+fuel canisters,
+
+prefitted
+
+problem
+
+could
+
+that could be conducted
+
+the mass, volume,
+
+experiments
+
+into which
+
+experiments
+
+of a centralized
+
+by a common
+
+of independent
+
+fixed charge
+couples.
+
+system,
+
+for multiple
+
+consist
+
+and monitored
+
+and diagnostic
+some maximum)
+
+approach
+
+should
+
+192
+
+Combinations:
+
+charcoal
+
+experi-
+
+of the
+
+cubes
+
+(2.5 cm-
+
+41
+All the information
+
+on what might
+
+done on Earth was then integrated
+
+be done
+
+to arrive
+
+in space
+
+and what
+
+at the following
+
+has been
+
+experiment
+
+specifications:
+The carbon fuel element whose smoldering is to be suppressed
+should be a rectangular parallelepiped
+in geometry, 2 x 2 x 15 cm
+in dimension, and about 60 grams in weight, which would allow up
+to 25 separate experiments of about I hour, or less, in duration
+to be conducted simultaneously
+in space.
+The elapsed time required at low gravity, not counting pre- and
+post-experiment
+activities, would be about 16 hours, based on 25
+separate experiments in an hour and 400 total tests (twice the
+minimum requirement).
+
+3.3.5.
+
+Selection
+
+of Priority
+
+Experiments
+
+Table 3.8 lists those
+thought
+
+most crucial
+
+These priority
+bles, with
+tions.
+
+have been characterized
+
+key adjustable
+
+For example,
+
+replenishable
+
+and timely to the NASA spacecraft
+
+experiments
+
+other
+
+manner
+
+oxidant
+
+and to simulate
+
+ventilation).
+
+Suppressant
+
+which with
+
+manner
+
+respect
+
+parameters
+
+would
+
+to promote
+
+to suppress,
+
+replenishable
+
+8 of the 192 experiments
+
+be supplied
+
+smoldering,
+
+to determine
+
+to the origin
+
+in terms
+
+be supplied
+
+cabin
+
+if its delivery
+of suppressant,
+
+at worst-case
+
+condi-
+
+environment
+
+cocurrent,
+
+and
+
+it more difficult
+(low-veioclty
+
+countercurrent,
+
+intensified
+would
+
+program.
+varia-
+
+make
+
+in a dynamic,
+
+were
+
+of critical
+
+in a dynamic,
+
+to possibly
+
+results
+
+fire-safety
+
+held constant,
+
+the spacecraft
+
+would
+
+whose
+
+appear
+
+and
+
+the smoldering,
+to be deep-
+
+seated.
+The reason
+
+for each priority
+
+experiment
+
+is as follows=
+
+Experiments No. I and 2 are intended to be shakedown tests of the
+systems to induce smoldering in low-gravity "air" atmospheres
+and
+to provide data on the effectiveness
+of the leading candidate for
+spacecraft fire suppression, CO 2, and its delivery system.
+Experiments No. 2, 3, and 4 are intended to provide data on the
+comparative effectiveness
+of CO 2, N2, and H20 as suppressants
+and
+to test the ultrasonic H20-delivery system.
+
+42
+
+TABLE3.8.
+
+Experiment
+No.
+
+PRIORITY
+LOW-GRAVITY
+SMOLDERSUPPRESSION
+EXPERIMENTS
+
+Atmospheric
+Og Content
+
+Atmospheric
+
+Suppression
+
+Pressure (KPa)
+
+(%)
+
+Inerting
+Agent
+
+Agent
+
+1
+
+21
+
+100 (1 arm)
+
+None
+
+None
+
+2
+
+21
+
+1O0 (1 atm)
+
+None
+
+CO 2
+
+3
+
+21
+
+100 (1 atm)
+
+None
+
+N2
+
+4
+
+21
+
+100 (1 atm)
+
+None
+
+H20
+
+5
+
+16
+
+100 (1 arm)
+
+N2
+
+None
+
+6
+
+16
+
+100 (1 atm)
+
+N2
+
+Best Nos. 2-4
+
+7
+
+21
+
+280 (2.8 atm)
+
+None
+
+None
+
+8
+
+21
+
+280 (2.8 aim)
+
+None
+
+Best Nos. 2-4
+
+Experiments No. 5 and 6 are intended to provide information on
+whether N2-inerting of the atmosphere prevents smoldering,
+and if
+not, if such inerting influences the effectiveness
+of the best
+among CO 2, N2, or H20 to suppress smoldering, once initiated,
+respectively.
+Experiments No. 7 and 8 are intended to provide hyperbaric systems data on more intense (glowing) smoldering, possibly flaming,
+and data on how effective the best among C02, N2, and H20 is at
+suppressing this type of spacecraft fire.
+
+3.4.
+
+3.4.1.
+
+Other
+
+In-Space
+
+Justification
+
+for
+
+The conduct
+simulation,
+
+craft,
+
+can a low-gravity
+
+trial
+
+minutes
+
+In-Space
+
+is justified
+
+experiments
+
+because
+
+environment
+
+smoldering.
+
+nowhere,
+
+be provided
+
+to an hour, required
+
+agents to suppress
+
+Considerations
+
+(question
+
+No. 3)
+
+Testing
+
+of the proposed
+
+ground
+
+exposure,
+
+Experiment
+
+in space,
+
+as opposed
+
+but in an orbiting
+for the minimum
+
+for the effective
+
+testing
+
+to
+
+space-
+
+duration
+
+of
+
+of terres-
+
+43
+3.4.2.
+
+Influence
+
+of
+
+Low-Gravity
+
+By low-gravity
+gravity,
+
+uments
+Station
+
+Freedom,
+
+Space Shuttle
+ble effect
+
+fluctuations
+
+modular
+
+on smoldering
+
+and
+
+aboard
+
+of this
+
+and minimum
+
+The volume
+
+(e.g., droplet
+
+or Freedom
+
+probable
+
+ster,
+
+spacecraft
+
+(0.6 m3).
+
+have
+
+carriers.
+
+Given
+
+estimates
+
+of the proposed
+
+in-
+
+facility
+
+the urgency
+
+experiment
+
+the experi-
+
+will
+
+to
+
+designed
+
+in-
+
+(Shuttle
+
+to acquire
+
+the test
+
+be integrated
+
+into
+
+or facilities.
+the principal
+
+requirements
+
+of the proposed
+
+and power
+
+would
+
+could
+
+of 25 modular
+
+solid-fuel
+
+Station
+
+experiment
+
+by one fuel canicanister
+
+is
+
+by all proposed
+
+canisters
+
+by the spacecraft
+Freedom
+
+add-
+
+from one to
+
+solid-fuel
+
+be accommodated
+
+accommodated
+
+hardware
+
+number
+
+required
+
+of one modular
+
+the Space
+
+smolder-
+
+is intended
+
+an already
+
+which
+
+could be readily
+volume,
+
+carrier
+
+canister(s),
+
+The volume
+
+The volume
+
+in-space
+
+the experiment
+
+is exercised,
+
+by the volume
+
+by 25.
+
+available
+
+first-order
+
+or a dedicated
+
+experiments
+
+to be about 1 x 10-3 ms, which
+
+with the most
+
+a negligi-
+
+space
+
+into either
+
+that the proposed
+
+and power
+
+be defined
+
+2.5 x 10-2 m3, which
+
+aboard
+
+requirements
+
+and whether
+
+Combustor).
+
+solid-fuel
+
+volume
+
+and the maximum
+
+estimated
+
+and the Space
+
+should
+
+Freedom
+
+upon in which
+
+burning)
+
+combustion
+
+on will be the modular
+
+would therefore
+
+doc-
+
+experienced
+
+of the proposed
+
+or be incorporated
+
+Modular
+
+low-gravity
+
+The minimum
+
+for the Shuttle
+
+was to provide
+
+and power
+
+If the integration-option
+
+25.
+
+Station
+
+activity
+
+are dependent
+
+space experiment
+
+existing
+
+technical
+
+experiments. @)
+
+(Shuttle or Freedom),
+
+it is very
+
+of the available
+
+and g-jitter
+
+requirements
+
+device
+
+data,
+
+in the tests.
+
+experiments.
+
+be a stand-alone
+
+Spacelab
+
+Space
+
+residual
+
+experienced
+
+facility
+
+gravity
+
+volume
+
+and power
+
+experiments
+
+ment will fly
+
+combustion
+
+combustion
+
+space smolder-suppression
+
+suppression
+
+(g-jitter)
+
+maximum
+
+Power Estimates
+
+The objective
+for the maximum
+
+the approximate
+
+from a review
+
+that the residual
+
+and expected
+
+Volume
+
+is meant
+
+of the author,
+
+on a proposed
+
+3.4.3.
+
+quality
+
+and acceleration
+
+It is the opinion
+
+Quality
+
+Combustion
+
+is about
+carrier
+Facility
+
+44
+The corresponding minimum (I solid-fuel canister) and maximum(25
+solid-fuel canisters) power requirements for the proposed experiments are
+about 0.06 and 1.5 kW, respectively, which can readily be accommodated
+by
+either the Shuttle (4 kW) or the Space Station Freedom(6 kW).
+3.4.4.
+
+Crew
+
+Involvement
+
+Crew time aboard
+
+orbiting
+
+fact, and that a payload
+
+specialist
+
+fire-safety
+
+it would
+
+spacecraft
+
+automate
+
+experiments,
+
+the proposed
+
+involvement
+replace
+
+automation
+
+any number
+
+tests during
+mal,
+
+of "spent"
+
+given the modular
+
+3.5.
+
+Concludinq
+
+design
+
+Remarks
+
+The objective
+requirements
+evaluate
+manned
+
+selected
+
+here are details
+
+and scalable
+
+tive, and practicable
+systems
+
+provided
+
+on the experimental
+
+itable spacecraft
+(quiescent
+
+and tendency,
+
+to have to
+
+a second
+
+round
+
+of
+
+be mini-
+
+and Requirements
+
+(Task 2)
+
+smoldering
+suppression
+inerting
+
+combinations)
+expected
+
+spacecraft-fire
+
+fuel/oxidant
+
+ventilated
+
+with
+
+design
+
+to yield
+
+fuel
+
+supply,
+
+to
+
+aboard
+
+by local
+
+applica-
+
+N2.
+and operation
+
+of feasible,
+
+and replenishable),
+
+size, fire conditions,
+
+designed
+
+fires
+
+of
+
+straightfor-
+
+timely,
+
+defini-
+
+and suppressant
+
+conditions.
+
+of solid
+
+the science
+
+of experiments
+
+on the conceptual
+
+parameters
+
+atmospheres),
+
+fire-zone
+
+with
+
+crew
+
+to do this should
+
+on fire suppressants
+
+under realistic
+
+and finite;
+
+included
+
+experiments
+
+information
+
+delivery
+
+were
+
+was to define
+
+conduct
+
+by atmosphere
+
+set (8 out of 192 possible
+
+ward, versatile,
+
+involved
+
+for fighting
+
+concepts
+
+tion of CO 2 or H20, and prevention
+
+a critical
+
+to proceed
+
+Definition
+
+the in-space
+
+Promising
+
+Presented
+
+as possible.
+
+of the experiments,
+
+specialist
+
+of Task 2 of this project
+
+(Task 1) concepts
+
+spacecraft.
+
+as much
+
+to
+
+of the experiment.
+
+on Experimental
+
+for and justify
+
+to these
+
+The only prerequisite
+
+if a payload
+
+The effort
+
+of this
+
+of the mission
+
+and operation
+
+fuel canisters
+
+the same mission.
+
+interest
+
+not be difficult.
+
+would result
+
+Because
+
+not be dedicated
+
+experiments
+
+of the design
+
+should
+
+anticipated
+
+probably
+
+be in the best
+
+smolder-suppression
+
+Given the straightforwardness
+near-complete
+
+would
+
+is precious.
+
+Specifics
+
+(carbon),
+mixing
+
+mode,
+
+ignition
+
+lifetime,
+
+oxidant
+
+are
+(hab-
+
+and rate
+
+mode,
+
+event,
+
+and consequences
+
+45
+(toxicity),
+
+suppressant and suppressant delivery
+
+system, and diagnostics.
+
+Moreover, the scale, number, and duration (about 1 hour) of the proposed lowgravity experiments were estimated using not only data on the limitations
+imposed by spacecraft-carrier
+(Shuttle or Space Station Freedom) accommodations, but also data on the details and experience of standardized smoldersuppression experiments at normal gravity.
+Deliberately incorporated into the
+conceptual design was sufficient
+flexibility,
+scalability,
+and interchangeability
+for the prototype experimental package to fly either on Shuttle now or
+Freedomlater.
+This flexibility
+is provided by the design concept of up to
+25 modular fuel canisters within a containment vessel, which permits both
+integration into existing low-gravity in-space combustion experiments and
+simultaneous testing of separate experiments to conserve utilities
+and time.
+This modular construction is vital because someof the critical
+in-space firesuppression experiments designed in this program may have to be flown aboard
+Shuttle to acquire data vital to the design of Freedom.
+3.6.
+
+(Task 2)
+
+References
+
+I. Stevens, M. R., Fisher, H. D., and Breen, B. P., "Investigation
+of Materials Combustibility,
+Fire, and Explosion Suppression
+in a Variety of
+Atmospheres",
+Technical Report AFAPL-TR-68-35,
+Dynamic Science to WrightPatterson Air Force Base, OH (1968).
+2. Bonne, U., "Radiative Extinguishment of Diffusion
+ity", Combustion and Flame I_66,
+147-159 (1971).
+
+Flames
+
+at Zero Grav-
+
+3. Cochran, T. H. and Masica, W. J., "An Investigation of Gravity Effects on
+Laminar Gas-Jet Diffusion Flames", Thirteenth Symposium (International)
+on Combustion, pp. 821-829, The Combustion Institute (1971).
+4. Haggard, Jr., J. B. and Cochran, T. H., "Stable
+Flames in a Weightless Environment",
+Combustion
+291-298 (1972).
+5.
+
+Hydrocarbon
+Diffusion
+Science and Technology
+
+5,
+
+Edelman, R. B., Fortune, O. F., Weilerstein, G., Cochran, T. H., and
+Haggard, Jr., J. B,, "An Analytical and Experimental
+Investigation
+of
+Gravity Effects Upon Laminar Gas Jet-Diffusion
+Flames", Fourteenth Symposium (International)
+on Combustion, pp. 399-412, The Combustion Institute
+(1973).
+
+46
+
+6. Cochran, T. H., Editor, Combustion Experiments in a Zero-Gravity
+Laboratory, Progress in Astronautics
+and Aeronautics 73, especially pp. 129194, "Smoldering Combustion in Porous Fuels", M. Summerfield
+and N.
+Messina (1981).
+7. Ronney, P. D., and H. Y. Wachman, "Effect of Gravity on Laminar Premixed
+Gas Combustion
+I: Flammability Limits and Burning Velocities",
+Combustion
+and Flame 6_22,
+107-119 (1985).
+8. Ronney, P. D., "Effect of Gravity on Laminar Premixed Gas Combustion
+Ignition and Extinction Phenomena", Combustion and Flame 6__22,
+121-133
+(1985).
+9.
+
+II"
+
+Berlad, A. L. and Joshi, N. D., "Gravitational Effects on the Extinction
+Conditions for Premixed Flames", Acta Astronautica I._22,
+539-545 (1985).
+
+10. Ronney, P. D., "Effect of Gravity on Halocarbon Flame
+tiveness", Acta Astronautica
+I_22,
+915-921 (1985).
+11. Joshi, N. D. and Berlad,
+Premixed, Lycopodium-Air
+pp. 55-68 (1986).
+12. Margle, J. M., Editor,
+tion 2476, (1986).
+
+Retardant
+
+Effec-
+
+A. L., "Gravitational Effects on Stabilized,
+Flames", Combustion Science and Technology 4__77,
+
+Spacecraft
+
+Fire Safety,
+
+NASA Conference
+
+Publica-
+
+13. Gat, N., "Design Considerations
+for Shuttle Borne Microgravity Combustion
+Experiments", Central States Section Combustion Institute Paper 1D-2
+(1986).
+14. Friedman, R. and Sacksteder, K. R., "Science and Technology Issues in
+Spacecraft Fire Safety", 25th Aerospace Sciences Meeting, AIAA-87-0467,
+NASA TM-88933 (1987).
+15. Friedman, R., "Fire Safety Concerns in Space Operations", Joint ArmyNavy-NASA-Air
+Force (JANNAF) Safety and Environmental
+Protection Subcommittee Meeting, NASA TM-89848 (1987).
+16. Carleton, F. B. and Weinberg, F. J., "Electric Field-lnduced
+Flame
+vection in the Absence of Gravity", Nature 330, 635-636 (1987).
+
+Con-
+
+17. Priem, R. J., "Study of Industry Requirements Than Can be Fulfilled by
+Combustion Experimentation
+Aboard Space Station", NASA CR-180854 (1988).
+18. Youngblood, W. W., "Spacecraft Fire-Safety Experiments for Space
+Technology Development Mission", NASA CR-182114 (1988).
+19. Ronney, P. D., "Effect of Chemistry and Transport
+Limit Flames at Microgravity",
+Combustion Science
+141 (1988).
+
+Station:
+
+Properties on Nearand Technology 5_99,
+123-
+
+47
+20. Ronney, P. D., "On the Mechanismsof Flame Propagation Limits and the
+Extinguishment Processes at Microgravity", Twenty-Second Symposium
+(International)
+on Combustion, pp. 1615-1623, The Combustion Institute
+(1988).
+21. Friedman, R. and Sacksteder,
+K. R., "Fire Behavior and Risk Analysis in
+Spacecraft", Annual Meeting of American Society of Mechanical
+Engineers,
+NASA TM-100944 (1988).
+22.
+
+"Microgravity Combustion Science_
+bustion Group, NASA Lewis Research
+
+A Program Overview", Microgravity
+Center, NASA TM-101424 (1989).
+
+Com-
+
+23.
+
+Ronney, P. D., "A Study of the Propagation, Dynamics, and Extinguishment
+of Cellular Flames Using Microgravity Techniques", AIAA-89-0157
+(1989).
+
+24.
+
+Friedman, R. and Olson, S. L., "Fire Safety Applications
+for Spacecraft",
+AGARD/NATO Symposium on Aircraft Fire Safety, NASA TM-I01463 (1989).
+
+25. Apostolakis,
+G., Ho, V., Marcus, E., Perry, A., and Thompson, S., "RiskBased Fire Safety Experiment Definition for Manned Spacecraft",
+NASA CR183835 (1989).
+26. Youngblood,
+W. and Vedha-Nayagam,
+M., "Advanced Spacecraft Fire Safety:
+Proposed Projects and Program Plan", NASA CR-185147 (1989).
+27. Olson, S., Stouffer, S. C., and Grady, T., "Diluent Effects on Quiescent
+Microgravity
+Flame Spread Over a Thin Solid Fuel", Eastern States Section
+Combustion Institute Paper 70 (1989).
+28. Miller, M., "The Relevance of Fundamental Studies of Flame Inhibition to
+the Development of Standards for Halogenated Extinguishing
+Agent Systems", pp. 64-93, Halogenated Fire Suppressants,
+R. Gann, Editor, American
+Chemical Society Symposium Series 1__66
+(1975).
+29. Ford, C. L., "An Overview of Halon 1301 Systems", pp. 1-63, Halogenated
+Fire Suppressants,
+R. Gann, Editor, American Chemical Society Symposium
+Series 16 (1975).
+30. Smith, R. L. and Kashiwagi, T., "Expert
+Fire Safety", NASA CR-182266 (1989).
+
+Systems
+
+Applied
+
+31.
+
+Nebel, G. J. and Cramer, P. L., "Ignition Temperatures
+Carbon Mixtures", Industrial and Engineering Chemistry
+(1955).
+
+32.
+
+Goard,
+Carbon
+
+P.R.C.
+and Mulcahy,
+5, 137-153
+(1967).
+
+M.F.R.,
+
+"A Study
+
+of
+
+the
+
+to Spacecraft
+
+of Lead Compound47, 2393-2396
+
+Ignition
+
+of Graphite",
+
+33. Walker, Jr., P. L., Shelef, M., and Anderson, R. A., "Catalysis of Carbon
+Gasification",
+Chemistry and Physics of Carbon 4, 287-383, P. L. Walker,
+Jr., Editor, Marcel Dekker (1968).
+
+48
+34. Mantell, C. L.,
+Interscience
+
+Carbon
+(1968).
+
+and Graphite
+
+Handbook,
+
+35. McKee, D. W., "Metal Oxides
+Carbon 8, 623-635 (1970).
+
+as Catalysts
+
+36. Smith, I. W., "The Intrinsic
+409-414 (1978).
+
+Reactivity
+
+Chapter
+
+2, pp. 14, 31, 33,
+
+for the Oxidation
+
+of Carbons
+
+of Graphite,"
+
+to Oxygen",
+
+Fuel 5_Z
+7,
+
+37. Ehrburger, P., Baranne, P., and Lahaye, J., "Inhibition of the Oxidation
+of Carbon-Carbon
+Composite by Boron Oxide", Carbon 24, 495-499 (1986).
+38. Ohlemiller, T. J., "Modeling of Smoldering Combustion Propagation",
+ress in Energy and Combustion Science 1__1,
+277-310 (1985).
+39. Sheridan, J. G., "A Systems Analysis
+the U.S. Space Station", M.S. Thesis
+Institute of Technology (1987).
+
+Prog-
+
+of Fire Suppression Alternatives
+in Space Operations, Air Force
+
+for
+
+40.
+
+Pandompatam, B., Liem, A. J., Frenette, R., and Wilson, M. A., "Effect of
+Refractory on the Stability of SF_", Journal of the Air and Waste Management Association
+39, 310-316 (1989).
+
+41.
+
+Kimzey, J. H., "Skylab Experiment M479 Zero Gravity Flammability",
+in
+"Skylab Results", Proceedings of the Third Space Processing Symposium,
+NASA Marshall Space Flight Center, Vol. 1, NASA TM X-70252, 115-130
+(1974).
+
+42.
+
+Berger, H., "Ultrasonic Nozzles Take Pressure Out of Atomizing Processes", Research and Development, pp. 124-127, September 1984 (No
+endorsement
+is implied).
+
+49
+4.0.
+
+DEFINITION
+COMPLETION AND IMPLEMENTATION PLAN FOR SPACECRAFT
+FIRE-SUPPRESSiON EXPERIMENT
+
+This
+The specific
+posed
+
+section
+
+presents
+
+objective
+
+in-space
+
+the results
+
+of Task 3 efforts
+
+of Task 3 was to complete
+
+fire suppression
+
+experiments
+
+on the project.
+
+the definition
+
+and to prepare
+
+of the pro-
+
+an implementation
+
+plan.
+
+4.1.
+
+As in the preceding
+seeking
+
+technical
+
+to critical
+
+information,
+
+questions.
+
+Information
+
+tasks,
+
+Souqht
+
+the efforts
+
+interpretations,
+
+The critical
+
+issues
+
+of Task 3 were
+and logic
+
+approached
+
+to provide
+
+for Task 3 are listed
+
+by
+
+answers
+
+in
+
+Table 4.1.
+TABLE 4.1
+
+CRITICAL
+
+QUESTIONS
+
+ON DEFINITION
+
+No.
+
+PLAN
+
+CHUcal
+
+What criterta should guide suggestions In-space installation,and what is the resuk of this analysis?
+for
+
+2.
+
+3.
+
+How realistically and to what extent could estimates be made for the en_neerlng-development implementation plan, Including future design efforts, precursor testing, time and labor schedules, and order-of-magnitude costs?
+
+4.2.
+
+Criteria
+
+for Establishment
+
+A condensation
+
+of opportunity,
+
+all objective
+
+for the proposed
+
+(including
+
+the OAST
+
+the cooperative
+
+trial community
+
+in low-gravity
+
+capabilities
+
+available
+
+and research
+in-space
+
+IN-STEP
+
+seek to broaden
+
+by making
+
+of Definition
+
+of the requirements
+
+announcements
+
+ment
+
+AND IMPLEMENTATION
+
+What criteria should guide the determination that the proposed in-space smolder-suppressionexperiment
+had reached the milestone of "definition", and had this milestone been reached?
+
+I,
+
+grams
+
+COMPLETION
+
+of NASA program
+announcements
+
+experiments.
+
+solicitation
+
+participation
+basic
+
+research
+
+and exploiting
+
+of the Space Station
+
+that
+
+No. I)
+
+solicitations,
+
+established
+
+Basically,
+sponsored
+
+and applied
+
+the over-
+
+the NASA pro-
+
+this effort)
+
+of the U.S. academic
+
+the unique
+
+Freedom,
+
+(Question
+
+technology
+
+and indusdevelop-
+
+manned-orbiting-laboratory
+
+with the intent
+
+of maintaining,
+
+50
+building, or rebuilding world leadership in Earth-based advanced technology.
+The pace and timing of the cooperative participation
+seek to define and
+develop in-space technology experiments to be carried-out aboard Space Station
+Freedom, once it is operational in the mid-to-late 1990s. However, the nature
+and consequences of the in-space technology of concern here, spacecraft fire
+safety, portends a different,
+more urgent, and less certain mode, pace, and
+timing of participation.
+Because the results of the proposed low-gravity
+smolder-suppression experiment appear vital to the safety of the Space Station
+mission itself,
+they probably should be acquired as Freedomis designed and
+before it is built, implying that the in-space experiments proposed here
+should be carried-out aboard Space Shuttle or other existing low-gravity
+carriers (getaway specials, free flyers).
+Thus, the criterion for determining that the proposed experiments
+are adequately defined for the needs of NASA the conception of the least
+is
+common
+denominator in unit experiment design that would be adaptable to either
+Shuttle or Freedomspaceflight, and modular so that a different number of
+tests could be performed at any time aboard either carrier.
+In this regard,
+the author is confident that the conceptual design given in Section 3.0 of
+this report provides the criterion for the "definition"
+for the in-space
+smolder-suppression experiment.
+4.3.
+
+Paradiqm
+
+of In-Space
+
+The design
+in-space
+
+features
+
+experiment
+
+some quantitative
+
+are summarized
+
+characteristics
+operating
+
+characteristics
+
+fire-suppression
+
+have established
+
+in three
+
+of the suggested
+
+characteristics
+
+for 8 critical
+
+experiments
+
+"air" atmosphere
+
+(No. I) and with
+Experiments
+
+plan,
+
+charts.
+
+suppressing
+
+Table
+
+2.0 and 3.0,
+order.
+
+describing
+
+proposed
+
+design
+
+both without
+
+techniques
+
+of parameters
+
+No. I to 4 are tests
+
+smoldering
+
+These
+
+4.3 lists the general
+
+of 192 combinations
+
+Experiments
+
+to investigate
+
+in Sections
+
+4.2 lists the general
+
+plan.
+
+No. 2)
+
+for the proposed
+
+at least to a first
+
+Table
+
+experiment
+
+(question
+
+parameters
+
+presented
+
+features,
+
+out of a matrix
+3.0).
+
+Experiment
+
+and operating
+
+of the experiments,
+
+(see Table 3.8 in Section
+normal
+
+Smolder-Suppression
+
+under
+
+a
+
+suppression
+
+agents of CO 2, N2, and H20 (Nos. 2 to 4).
+
+No. 5 and 6 are tests
+
+under
+
+a reduced
+
+02 atmosphere
+
+to investigate
+
+51
+
+TABLE 4.2.
+
+CONCEPTUAL
+EXPERIMENT
+
+DESIGN OF SPACECRAFT
+PACKAGE
+
+General
+
+FIRE-SUPPRESSION
+
+Design Characteristics
+
+Each fuel element will consist of a 2 x 2 x 15 cm, 60-g bar of carbon, Into one square-end
+an electrical-resistance
+
+heated ignition surface, and into the vertical
+
+of which
+
+length of which are Imbedded
+
+Is imbedded
+
+beaded
+
+thermo-
+
+couples at 1-cm intervals along the centerline, beginning at the ignition zone.
+Each carbon
+surrounds
+•
+
+•
+
+fuel element
+
+the element
+
+will be suspended
+
+within an excavated
+
+and insulated
+
+canister such that a 1-cm gap
+
+about its length and about 5-cm about each square end.
+
+Fuel canisters will also be parallelepipeds
+a second "isolation" chamber.
+
+and clustered
+
+together
+
+in a honeycomb
+
+array to conserve volume
+
+within
+
+Each fuel canister will have individual inlet and exhaust valves and transfer lines at both ends, which will originate
+on the inside walls of the isolation
+
+chamber and which will be individually connected to a common
+
+fluid supply
+
+and recovery system.
+The fluid supply system will consist of individual
+(CO 2 and N2), and a reservoir of delonized
+
+pressurized
+
+H20
+
+canisters of oxidizer
+
+equipped
+
+The fluid recovery system will be an evacuated
+
+chamber
+
+be used as a holding tank before
+
+of smoldering
+
+environmental
+
+the products
+
+control and life support
+
+•
+
+For all tests Involving H20,
+
+•
+
+Fluid supply and recovery transfer
+nostic package,
+
+passive
+
+with
+
+N2 in the atmosphere.
+
+suppressants
+
+iments No. 7 and 8 are tests under
+
+respectively.
+flexibility,
+
+into the conceptual
+
+In summary,
+ation and attempted
+suspended
+sketch
+
+evaluated
+
+to a common
+
+a hyperbaric
+
+of the experiment
+
+suppression
+
+in a fuel canister.
+
+Instrument diag-
+
+in Experiments
+
+plan
+
+Exper-
+
+pressure)
+
+atmo-
+
+agents,
+
+that have been
+
+safety,
+
+incorporated
+
+plan.
+
+of smoldering
+
+is a functional
+
+No. 2 to 4
+
+for simplicity,
+
+is proposed,
+
+The concept
+
+No. 6,
+
+atmosphere.
+
+(280 kPa total
+
+and with the best of the three
+
+an experiment
+
+in Figure 4.1, which
+
+atomizer.
+
+with the inerting
+
+and interchangeability
+
+design
+
+which will
+
+by the spacecraft
+
+In Experiment
+
+Table 4.4 lists some of the provisions
+scalability,
+
+of activated carbon,
+are processed
+
+scan a sample from each ongoing experiment.
+
+in combination
+
+with no suppression
+
+and of gaseous suppressant
+
+system.
+
+increased
+
+also be investigated
+
+sphere,
+
+with a prefilter
+
+and its suppression
+
+lines to individual canisters will be manifolded
+
+the best of the three active
+will
+
+equipped
+
+the suppressant inlet valve will consist of an ultrasonic
+
+which will periodically
+
+inerting
+
+(02)
+
+with a low-flow pump.
+
+consisting
+
+in a fixed
+
+is further
+diagram
+
+amount
+
+illustrated
+
+to represent
+
+of the initiof carbon
+
+fuel
+
+by the
+the features
+
+52
+
+TABLE 4.3.
+
+CONCEPTUAL
+EXPERIMENT
+
+OPERATION
+PACKAGE
+
+OF SPACECRAFT
+
+General Operating
+
+Characteristics
+
+until the experiment
+
+(smoldedng)
+
+•
+
+Fuel canisters will remain evacuated
+
+•
+
+Each experiment will commence with the injection of oxidant
+pressure, and ventilation rate (about 0.1-0.5 cm/sec).
+
+•
+
+Oxidant
+
+and, in Experiments
+
+No. 5 and 6, Inertant
+
+coflow conditions (oxidant flow and smoldering
+Each experiment
+thermal-wave
+
+will then be continued
+
+After
+
+smoldering
+
+will be Injected
+
+propagating
+
+and byproducts
+
+at the Ignition
+
+at the specified
+
+O_N 2 ratio,
+
+end of the fuel element
+
+to create
+
+until the diagnostics
+
+down the length of the fuel element
+
+detect the
+
+and the evolution
+
+of
+
+process at low gravity In terms of time (t), tempera-
+
+(CO/COg)].
+
+has been achieved and calibrated
+
+of CO 2 (No. 2), N 2 (No. 3), and H20
+
+into the fuel canister
+
+wave unidirectional).
+
+No. 1 will calibrate the smoldering
+
+ture (T), heating rate (dT/d0,
+
+is to be initiated.
+
+by activating the hot-surface ignitor
+
+characteristics of smoldering
+
+CO and CO 2 [Experiment
+
+FIRE-SUPPRESSION
+
+using air as an oxidant
+
+(No. 4) suppressant
+
+(Experiment
+
+No. 1), metered
+
+amounts
+
+will be introduced into the fuel canister at the end
+
+opposite the ignitor until smoldering-is Impeded (dT/dt slowed, CO/CO 2 increased), at which time the concentration will be held constant to determine if the smoldering can be suppressed and how long it takes to do so.
+•
+
+The agent among CO 2, N 2, and H20 requiring the lowest concentration
+amount of time will be evaluated in Experiments No. 6 and 8.
+Experiment No. 6 will not be conducted
+
+if smoldering
+
+is not achievable
+
+to suppress smoldering in the least
+
+in Experiment
+
+No. S, where
+
+nitrogen-
+
+enriched air might act as an Inerrant.
+•
+
+Input and exhaust of each fuel canister will be periodically
+
+analyzed by the common
+
+diagnostic
+
+system throughout
+
+the course of an experiment.
+
+•
+
+The fuel canister will be purged with N 2 and evacuated to ensure suppression,
+zero) or has not been suppressed by the introduction of agent.
+
+described
+
+in Table 4.2.
+
+The illustrated
+
+carbon-fuel
+
+sible array of up to 25 that may be clustered
+designed,
+
+for example,
+
+changeable
+supply
+
+to fit within
+
+fuel canisters
+
+would
+
+a Freedom
+
+have common
+
+whether
+
+canister
+
+within
+
+rack.
+
+to oxidant
+
+has (dT/dt to
+
+is one of a pos-
+
+an isolation
+
+laboratory
+
+access
+
+smoldering
+
+chamber
+The inter-
+
+and suppressant
+
+and exhaust.
+The proposed
+
+characteristics
+
+ble approach
+
+to meet
+
+experiment.
+
+While the proposed
+
+previous
+
+concepts
+
+the definition
+
+recently
+
+and design
+
+and critical
+
+experiment
+
+appearing
+
+in that it is based on a thorough
+
+illustrations
+requirements
+
+plan owes
+
+offer
+
+a feasi-
+
+for an in-space
+
+some commonality
+
+to
+
+in the literature, (l-a)it is innovative
+
+analysis
+
+of priority
+
+needs,
+
+low-gravity
+
+53
+
+TABLE 4.4.
+
+OTHER CONTRIBUTING
+EXPERIMENTS
+
+FACTORS
+
+Simplicity, Safety, Flexibility,
+The 1-dimensional
+
+geometry
+
+TO SPACECRAFT
+
+FIRE-SUPPRESSION
+
+Scalability, and Interchangeability
+
+of the smoldering process Is amenable to modeling.
+
+Oxidant will not be introduced
+into the evacuated fuel canister until the experiment
+is intended to start, pdmariiy
+to avoid smoldering after an acddental ignition and subordinately
+to avoid %veathering" and subsequent alteration
+of carbon
+
+reactivity_
+
+The supply of all oxidizing agents, 02, CO2, or H20, can be Independently
+shut off during smoldering,
+and the
+canister purged with a non-oxidizing
+agent, N2, at either or both ends, to stop the smoldering of the finite amount
+of fuel.
+
+The isolation chamber offers double-hull
+develop
+
+containment
+
+Any leaks from the smolder-suppression
+control and life support
+The exhaust
+
+recovery chamber
+
+gravity combustion
+The experimental
+
+tests are non-corrosive
+
+time, allowing
+
+are Interchangeable
+
+it to be accommodated
+
+science,
+
+1.0 through
+
+3.0.
+
+with the spacecraft
+
+environmental
+
+solids and detectors
+
+proposed
+
+for other micro-
+
+is controlled
+
+chamber
+
+at normal
+
+by the number
+
+of fuel canisters allowed
+
+requirements,
+
+be recognized,
+
+and diagnostics
+
+and refined
+
+The concept
+
+arrays
+
+promising,
+
+to the eventual
+
+on the ground
+
+gravity, without modification.
+to smolder at one
+
+by different spacecraft carders.
+
+It must
+
+at this time.
+is most
+
+and compatible
+
+with the flammable
+
+and experimental
+
+More detailed
+
+essential
+
+a "hot" fuel canister
+
+experiments.
+package can be tested and calibrated
+
+of the isolation
+inary.
+
+should
+
+acts as a holding tank to buffer the ECLSS.
+
+The scale of any sequence of experiments
+
+tions
+
+to the experiment,
+
+system (ECLSS).
+
+The fuel and diagnostics
+
+combustion
+
+redundancy
+
+a leak.
+
+nevertheless,
+design.
+
+however,
+
+cannot
+
+elements
+
+packages
+
+and should
+
+feature
+
+is prelim-
+
+not be established
+
+in any of several
+
+and this
+
+in Sec-
+
+that the configuration
+
+and accommodation
+
+designs
+
+of modular
+
+as discussed
+
+is very
+
+geometric
+likely
+
+to be
+
+54
+CARBON FUEL
+CANISTER
+
+OBSERVATION
+WINDOW
+
+FLOW
+STRAIGHTENER
+
+CARBON
+FUEL
+
+THERMOCOUPLE ARRAY &
+CARBON FUEL SUPPORT
+STRUCTURE
+
+ULTRASONIC
+ATOMIZER &
+OXIDANT/SUPPRESSANT
+INPUT/EXHAUST
+IPORTS
+
+FLOW
+STRAIGHTENER
+
+THERMOCOUPLE &
+IGNITOR LEADS
+FIGURE
+
+4.1.
+
+4.4.
+
+This section
+
+FUNCTIONAL DIAGRAM
+SMOLDER-SUPPRESSION
+
+Implementation
+
+presents
+
+possible
+
+phase of this project
+
+proposed
+
+in-space
+
+following
+
+(Question
+
+a preliminary
+involving
+
+No. 3)
+
+implementation
+
+the engineering
+
+plan
+
+for the next
+
+development
+
+of the
+
+experiments.
+
+The remainder
+accordance
+
+Plan
+
+FOR THE IN-SPACE
+EXPERIMENT
+
+of this project,
+
+with established
+sequential
+
+NASA practice,
+
+if continued,
+which
+
+would
+
+nominally
+
+be carried
+
+consists
+
+out in
+
+of the
+
+activities:
+
+Project Definition:
+Conversion of conceptual systems designs
+into optimized, technically unique engineering
+designs to lead
+to a project plan and conceptual design review.
+Non-Advocate Review:
+Final analyses of designs to determine
+likelihood that the flight experiment will achieve objectives.
+Hardware Design and Development:
+Completion and development
+design, with appropriate precursor testing.
+
+of
+
+55
+
+•
+
+Critical Design Review:
+Qualification
+safety procedures and data package.
+
+of functional
+
+•
+
+Pre-ship
+
+hardware
+
+•
+
+Payload Integration:
+final scheduling.
+
+Review:
+
+Assessment
+
+The first activity,
+crucial
+
+follow-up
+
+go-ahead
+
+spacecraft
+
+to a flight
+
+project.
+
+carrier,
+
+for the entire
+
+experiment
+ment,
+
+program.
+
+however,
+
+fuel-rod
+
+chamber
+
+and diagnostics
+
+that the implementation
+
+structing
+
+experiments
+prototype
+
+to laboratory
+
+shakedown
+
+Realistic
+development
+
+The budgets
+
+under
+
+for the essential
+
+precursor
+canister,
+
+and 5 to 7 months.
+
+order-of-magnitude
+be made
+
+estimates,
+
+that designs,
+without
+
+in-space
+
+experimentsl
+
+more firm and specific
+
+followed
+
+with
+
+smolderby con-
+
+by subjecting
+
+them
+
+conditions.
+experiment-
+
+the Non-Advocate
+
+testing
+
+to be about
+
+and schedules
+
+of this study,
+
+in the next phase
+
+Review
+
+respectively.
+
+ground-based
+
+are estimated
+
+for the purposes
+
+on the
+
+the author
+
+initiated
+
+and 12 to 15 months,
+
+prices
+
+develop-
+
+to its integration
+
+for the total
+
+plan beyond
+
+The quoted
+
+delay
+
+As a consequence,
+
+normal-gravity
+
+to be about $1 to 1.5 million
+
+the proposed
+
+its own or the spacecraft
+
+and canisters
+
+and time budgets
+
+of the carbon-molder
+
+300 thousand
+
+definition.
+
+monetary
+
+in which
+
+in a phased manner,
+
+phase of the implementation
+
+are estimated
+
+prototype
+
+fuel-rods
+
+tests
+
+systems.
+
+of the
+
+of any implementation
+
+proceed
+
+either
+
+is thus
+
+the identity
+
+plan for the proposed
+
+be conducted
+
+carbon
+
+regarding
+
+prior
+
+plan
+
+engineering-development
+
+of the manner
+
+and with
+
+and
+
+is the official
+
+An implementation
+
+and canister)
+
+into carrier
+
+which
+
+Review,
+
+could
+
+readiness.
+
+is the obvious,
+
+it is suggested
+
+testing
+
+and
+
+phase,
+
+the details
+
+Because
+
+precursor
+
+isolation
+
+accommodation
+
+suppression
+
+Definition
+
+for the eventual
+
+formulate
+
+experiment.
+
+(carbon
+
+any sized/shaped
+carrier's
+
+of experiment
+
+the uncertainty
+
+has been conceived,
+
+unit experiment
+
+proposes
+
+Given
+
+one cannot
+
+and ground-based
+
+readily
+
+the Project
+
+to guide the requirements
+
+phase of this
+
+plan
+
+Adaptation
+
+to lead to the Non-Advocate
+
+to proceed
+
+necessary
+
+of flight
+
+hardware
+
+$200 to
+
+represent
+
+but they can
+
+of project
+
+of a
+
+56
+
+4.5
+
+Concludinq Remarks on Definition
+Implementation
+Plan {Task 3
+
+The objective
+posed
+
+in-space
+
+and progress
+
+of Task 3 was to complete
+
+fire-suppression
+
+experiments
+
+for the accommodation
+
+basic experiment
+
+concept
+
+and thermocouple
+
+chamber
+
+and suppressant,
+
+with
+
+ment
+more,
+
+for integration
+the proposed
+
+the design
+listing
+features
+
+experiment
+
+quantitative
+
+are preliminary
+
+requirements;
+
+more
+
+detail
+
+is needed
+
+would
+
+needs
+The
+
+with
+
+ignitor
+
+be mounted
+
+in a
+
+with
+
+vital
+
+oxidant
+
+Further-
+
+information
+
+concept
+
+relevant
+
+is illustrated
+
+procedures,
+
+although
+
+has been in the review
+
+of experiments
+
+The implementation
+
+4.6.
+
+Freedom.
+
+experi-
+
+these
+
+the subsequent
+
+here
+
+It is recognized
+engineering
+
+of sup-
+
+science
+
+as reported
+
+plan presented
+
+activities.
+
+(Task 3)
+
+effort,
+
+and their
+
+in the
+
+is a generic
+that much
+
+development.
+
+References
+
+1. Gat, N., "Design Considerations
+for Shuttle Borne Microgravity Combustion
+Experiments",
+Central States Section Combustion Institute Paper 1D-2
+(1986).
+2. Youngblood, W. W., "Spacecraft Fire-Safety Experiments for Space
+Technology Development Mission", NASA CR-182114 (1988).
+
+to
+
+by
+
+of progress.
+
+most of the total
+
+to initiate
+
+safety
+
+and operational
+
+of this project
+
+follow-on
+
+of an in-space
+
+Station
+
+The experiment
+
+and in the definition
+
+of the necessary
+
+fuel element
+
+to supply each canister
+
+or the Space
+
+at this level
+
+these occupied
+
+carbon
+
+the definition
+
+can provide
+
+factors
+
+thrust
+
+Task I and 2 findings.
+outline
+
+meets
+
+itself.
+
+design
+
+the future
+
+exhaust.
+
+experiment
+
+of the Freedom
+
+concepts
+
+utilities
+
+of the pro-
+
+of the experiments.
+
+One to 25 elements
+
+on the Shuttle
+
+The primary
+pression
+
+common
+
+and to remove
+
+The proposed
+
+and to discuss
+
+is that of a modular
+
+and
+
+the definition
+
+and scheduling
+
+instrumentation.
+
+containment
+
+Completion
+
+Station:
+
+3. Apostolakis, G., Ho, V., Marcus, E., Perry, A., and Thompson, S., "RiskBased Fire Safety Experiment Definition for Manned Spacecraft",
+NASA CR185147 (1989).
+
+fUASA
+..,,o._..
+......,..,
+SI_
+
+Report
+
+Documentation
+
+Page
+
+_mimsltaIion
+
+1. Report No.
+
+2. Government
+
+Accession
+
+No.
+
+3. Recipient's
+
+Catalog
+
+No.
+
+NASA CR 185295
+4. _tte
+
+5. Report Date
+
+and Subtitle
+
+Definition
+of Experiments
+to Investigate
+Fire
+Suppressants
+in Microgravity
+
+December,
+6. Pe_rming
+
+1990
+
+Organization
+
+G1424-0000
+
+8. Performing Organi_tion
+
+7. Authors)
+
+James
+
+J.
+
+Reuther
+
+Code
+
+(746)
+Repo_ No.
+
+BC0-JJR-90-1348
+10. Work Unit No,
+
+506-48-4A
+91 Pe_ing
+
+O_anization
+
+Battelle
+505 King
+Columbus,
+12. Spon_ring
+
+Name and A_ress
+11. Contra_
+
+NAS3-25362
+
+Avenue
+Ohio
+
+43201-2693
+
+13. Type of Report end Period Covered
+
+Contractor
+Final
+
+Agency Name and Address
+
+National
+Aeronautics
+and Space
+Lewis Research
+Center
+Cleveland,
+Ohio
+44135-3191
+15. Supplementaw
+
+or Grant No.
+
+Administration
+
+Report
+
+14. Sponsoring Agency Code
+
+N_es
+
+Project
+Manager,
+Robert
+Friedman,
+NASA Lewis Research Center
+
+Space
+
+Experiments
+
+Division
+
+16. Abstra_
+
+Defined
+
+are
+
+the
+
+conceptual
+
+design
+
+and operation
+
+of
+
+a critical
+
+set
+
+of
+
+experiments
+expected
+to yield
+information
+on suppressants
+and suppressant
+delivery
+systems under realistic
+spacecraft-fire
+conditions
+(smoldering).
+Specific
+experiment
+parameters
+are provided
+on the solid
+fuel
+(carbon),
+oxidants
+(habitable
+spacecraft
+atmospheres),
+fuel/oxidant
+supply,
+mixing
+mode
+and rate
+(quiescent
+and finite;
+ventilated
+and rep]enishab]e),
+ignition
+mode
+and event,
+fire-zone
+size,
+fire
+conditions,
+lifetime,
+and consequences
+(toxicity),
+suppressants
+(CO2, Hz0, Nz) and suppressant
+delivery
+systems,
+and
+diagnostics.
+The scale,
+number, and duration
+of proposed low-gravity
+experiments
+were estimated
+using data not only on the ]imitations
+posed by
+spacecraft-carrier
+(Shuttle
+or Space Station
+Freedom) accommodations,
+but also
+data on the details
+and experiences
+of standardized
+smolder-suppression
+experiments
+at normal gravity.
+Deliberately
+incorporated
+into
+the design was
+interchangeability
+provided
+by the concept of ustng up to 25 modular fuel
+canisters
+within
+a containment
+vessel,
+which permits
+both integration
+into
+the
+existing
+low-gravity
+in-space
+combustion
+experiments
+on either
+the Shuttle
+now
+or Freedom later
+and simultaneous
+testing
+of separate
+experiments
+to conserve
+utilities
+and time.
+17. KW Words (Suggest_
+
+18. Di_fibution
+
+by A_s))
+
+19. Security Cla_sif. (of this repot)
+
+20. Secudty Classif. (of this page)
+
+Uncl assi fied
+NASA FORM 1625 OCT88
+
+Statement
+
+Unclassified-Unlimited
+Subject
+Category
+
+Spacecraft Fire Safety
+Smoldering Combustion
+Fire Suppression
+Shuttle and Space Station
+
+18
+
+21. No of pages
+
+Uncl assi fied
+*For
+
+sale
+
+by the
+
+National
+
+Technical
+
+Information
+
+62
+Service,
+
+Springfield,
+
+Virginia
+
+22161
+
+22. Price"
+
+A04
+

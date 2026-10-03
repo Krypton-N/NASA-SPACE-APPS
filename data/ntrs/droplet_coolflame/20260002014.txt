@@ -1,0 +1,3183 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="pdf:PDFVersion" content="1.7">
+<meta name="pdf:hasXFA" content="false">
+<meta name="access_permission:modify_annotations" content="true">
+<meta name="pdf:docinfo:custom:MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_SiteId" content="9274ee3f-9425-4109-a27f-9fb15c10675d">
+<meta name="access_permission:can_print_degraded" content="true">
+<meta name="dcterms:created" content="2026-03-06T18:44:15Z">
+<meta name="dcterms:modified" content="2026-03-06T18:44:15Z">
+<meta name="dc:format" content="application/pdf; version=1.7">
+<meta name="xmpMM:DocumentID" content="uuid:D487B86A-0062-4D4C-9761-4F78B3F0F9E8">
+<meta name="access_permission:fill_in_form" content="true">
+<meta name="pdf:docinfo:modified" content="2026-03-06T18:44:15Z">
+<meta name="pdf:hasCollection" content="false">
+<meta name="pdf:encrypted" content="false">
+<meta name="xmp:CreateDate" content="2026-03-06T13:44:15Z">
+<meta name="pdf:docinfo:custom:MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_SetDate" content="2025-02-19T16:10:59Z">
+<meta name="pdf:docinfo:custom:MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_Tag" content="10, 3, 0, 1">
+<meta name="pdf:docinfo:custom:MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_Method" content="Standard">
+<meta name="MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_ContentBits" content="0">
+<meta name="MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_SiteId" content="9274ee3f-9425-4109-a27f-9fb15c10675d">
+<meta name="pdf:hasMarkedContent" content="true">
+<meta name="Content-Type-Override" content="application/pdf">
+<meta name="Content-Type" content="application/pdf">
+<meta name="xmp:ModifyDate" content="2026-03-06T13:44:15Z">
+<meta name="dc:language" content="en">
+<meta name="MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_ActionId" content="80a96a38-9c08-4a61-85b2-ed958dfbe377">
+<meta name="access_permission:extract_for_accessibility" content="true">
+<meta name="access_permission:assemble_document" content="true">
+<meta name="xmpTPg:NPages" content="11">
+<meta name="MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_Method" content="Standard">
+<meta name="pdf:docinfo:custom:MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_ActionId" content="80a96a38-9c08-4a61-85b2-ed958dfbe377">
+<meta name="pdf:hasXMP" content="true">
+<meta name="pdf:docinfo:custom:MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_Enabled" content="true">
+<meta name="access_permission:extract_content" content="true">
+<meta name="MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_Tag" content="10, 3, 0, 1">
+<meta name="MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_Enabled" content="true">
+<meta name="access_permission:can_print" content="true">
+<meta name="pdf:docinfo:custom:MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_Name" content="General Business">
+<meta name="pdf:docinfo:custom:MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_ContentBits" content="0">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.DefaultParser">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.pdf.PDFParser">
+<meta name="MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_SetDate" content="2025-02-19T16:10:59Z">
+<meta name="MSIP_Label_549ac42a-3eb4-4074-b885-aea26bd6241e_Name" content="General Business">
+<meta name="access_permission:can_modify" content="true">
+<meta name="pdf:docinfo:created" content="2026-03-06T18:44:15Z">
+<title></title>
+</head>
+<body><div class="page"><p></p>
+<p>1 
+</p>
+<p> 
+</p>
+<p>The effect of pressure on radiative losses in hot, warm, 
+</p>
+<p>and cool microgravity spherical diffusion flames 
+</p>
+<p> 
+Kendyl A. Waddella,*, Daniel L. Dietricha, Vedha Nayagamb 
+</p>
+<p> 
+a NASA Glenn Research Center, Cleveland, OH, 44135, USA 
+b Department of Mechanical and Aerospace Engineering, Case Western Reserve University, Cleveland, OH 44106, USA 
+</p>
+<p>______________________________________________________________ 
+ 
+Abstract 
+This work investigates the effects of ambient pressure on radiative heat losses in hot, warm, and cool microgravity 
+spherical diffusion flames using a numerical model and compares the results to observations from microgravity 
+experiments. The experimental data was obtained during droplet combustion experiments, and the numerical 
+model simulates burner-supported flames. The similarities in the gas phase between the two configurations allow 
+these simulations to provide accurate insights into the experimental results. The model uses a statistical narrow-
+band model that includes emission and reabsorption. The effect as pressure was varied between 0.5 and 10 atm 
+on the relative radiation contributions from CO2 and H2O, the primary radiating species, was examined. As the 
+pressure increased H2O contributed more to radiative loss than CO2 in both the experiments and computations. 
+This was determined to be caused by increased absorption coefficients leading to increased reabsorption at higher 
+pressures. Calculations performed without reabsorption did not see this effect, confirming it is due to the optically 
+thick nature of the system. Reabsorption was higher for CO2 due to the prominence of the absorption band at 4.3 
+µm, which became saturated at higher pressures. These results demonstrated the importance of using the optically 
+thick assumption to accurately account for radiative losses in these flames, which are crucial to capture flame 
+behaviours such as radiative extinction and reignitions. 
+ 
+Keywords: Radiative heat loss; Optical thickness; Cool flames; Warm flames; Microgravity 
+</p>
+<p>______________________________________________________________ 
+*Corresponding author. 
+</p>
+<p> 
+</p>
+<p> 
+</p>
+<p>Novelty and significance statement 1 
+</p>
+<p>The novelty of this study is that it provides the first 2 
+</p>
+<p>comprehensive analysis of the effects of pressure on 3 
+</p>
+<p>radiative reabsorption in hot, warm, and cool 4 
+</p>
+<p>microgravity diffusion flames. A statistical narrow 5 
+</p>
+<p>band radiation model is used to explain previously 6 
+</p>
+<p>unexplained experimental behaviour from 7 
+</p>
+<p>International Space Station droplet combustion 8 
+</p>
+<p>experiments, where the contribution to total radiative 9 
+</p>
+<p>loss shifted from CO2 dominated to H2O dominated at 10 
+</p>
+<p>higher pressures. The results show for the first time 11 
+</p>
+<p>this behaviour was caused by the saturation of CO2 12 
+</p>
+<p>absorption bands and could not be accounted for with 13 
+</p>
+<p>optically thin radiation models. This demonstrates the 14 
+</p>
+<p>limitations of using the optically thin assumption 15 
+</p>
+<p>when calculating radiative loss in combustion 16 
+</p>
+<p>systems, particularly at elevated pressures, which has 17 
+</p>
+<p>significant implications for flame stability, extinction, 18 
+</p>
+<p>and reignition. 19 
+</p>
+<p> 20 
+</p>
+<p>1. Introduction 21 
+</p>
+<p>Radiative heat transfer is of great importance in 22 
+</p>
+<p>many combustion systems, particularly in high 23 
+</p>
+<p>temperature systems such as flames and fires where it 24 
+</p>
+<p>can be the dominant mode of heat transfer. In 25 
+</p>
+<p>microgravity, where natural convection is eliminated, 26 
+</p>
+<p>combustion products accumulate in the flame region 27 
+</p>
+<p>and radiate heat while the chemical heat release from 28 
+</p>
+<p>the flame remains relatively constant, causing the 29 
+</p>
+<p>flame temperature to decrease until combustion can 30 
+</p>
+<p>no longer be sustained. This phenomenon, known as 31 
+</p>
+<p>radiative extinction, has been the subject of several 32 
+</p>
+<p>previous studies [1–5]. Most studies are primarily 33 
+</p>
+<p>concerned with the total radiative loss from the flame, 34 
+</p>
+<p>and less so with the individual contributions from 35 
+</p>
+<p>different species. The primary radiating species in 36 
+</p>
+<p>combustion systems are H2O, CO2, CO, soot, and fuel 37 
+</p>
+<p>vapor. Often CO2 and H2O are the main contributors 38 
+</p>
+<p>to radiative heat loss.  39 
+</p>
+<p>Radiative heat transfer in combustion systems has 40 
+</p>
+<p>been studied extensively, with particular attention 41 
+</p>
+<p>paid to the accuracy of different radiation property 42 
+</p>
+<p>models and radiative transfer equation (RTE) solution 43 
+</p>
+<p>methods [6–11]. The main types of radiation models, 44 
+</p>
+<p>in order of increasing accuracy, are grey gas, wide 45 
+</p>
+<p>band, narrow-band, and line-by-line models. Grey gas 46 
+</p>
+<p>models do not account for the change of radiative 47 
+</p>
+<p>properties with wavelength and tend to result in 48 
+</p>
+<p>unacceptable accuracy. Wide band models divide the 49 </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>2 
+</p>
+<p> 
+</p>
+<p>absorption and emission spectra into a few wide bands 1 
+</p>
+<p>and are computationally inexpensive but still not of 2 
+</p>
+<p>high enough fidelity for most combustion 3 
+</p>
+<p>applications. Narrow band models divide the spectral 4 
+</p>
+<p>domain into even smaller bands and average the 5 
+</p>
+<p>absorption coefficient over each band. With small 6 
+</p>
+<p>enough bands, this method can produce comparable 7 
+</p>
+<p>results to the line-by-line model while greatly 8 
+</p>
+<p>reducing computational time. Line-by-line models 9 
+</p>
+<p>consider each spectral line individually and are highly 10 
+</p>
+<p>accurate but often too computationally expensive. In 11 
+</p>
+<p>general, the statistical narrow band (SNB) method 12 
+</p>
+<p>strikes a good balance between accuracy and 13 
+</p>
+<p>computational time [7,9,12–14] for detailed 14 
+</p>
+<p>simulations of laboratory-scale flames.  15 
+</p>
+<p>When solving the RTE it is common to use one of 16 
+</p>
+<p>two treatments. The first is that radiators both emit 17 
+</p>
+<p>and absorb radiation, i.e., the system is optically thick. 18 
+</p>
+<p>This is the more accurate treatment but greatly 19 
+</p>
+<p>increases computation time. The second treatment is 20 
+</p>
+<p>to assume radiators only emit radiation but do not 21 
+</p>
+<p>absorb it, i.e., the system is optically thin. This can 22 
+</p>
+<p>greatly reduce computation times but is often unable 23 
+</p>
+<p>to reproduce experimental behavior without 24 
+</p>
+<p>additional correction factors [6–11].  25 
+</p>
+<p>There have been studies that examined the effects 26 
+</p>
+<p>of using the optically thin or optically thick 27 
+</p>
+<p>assumption, [9,11] or the effects of changing stretch 28 
+</p>
+<p>rate [10,12] or ambient pressure [14], which affect the 29 
+</p>
+<p>optical thickness [10,12,14] on radiative heat transfer. 30 
+</p>
+<p>Bedir et al. [9] compared different radiation models 31 
+</p>
+<p>for a PMMA stagnation point flame. They found that 32 
+</p>
+<p>using the SNB model with the optically thin 33 
+</p>
+<p>assumption overpredicted radiative emission by as 34 
+</p>
+<p>much as 57%, and similar results were obtained using 35 
+</p>
+<p>the Planck mean absorption coefficient. Applying a 36 
+</p>
+<p>factor of 0.44 to the Planck mean results provided 37 
+</p>
+<p>good agreement with the total emission from the 38 
+</p>
+<p>optically thick narrow band calculations, but there 39 
+</p>
+<p>were still inaccuracies in the distribution of radiation.  40 
+</p>
+<p>Ju et al. [11] calculated new Planck mean 41 
+</p>
+<p>absorption coefficients using the SNB model and 42 
+</p>
+<p>compared the resulting heat fluxes to those obtained 43 
+</p>
+<p>from the SNB method for a counterflow CH4 flame. 44 
+</p>
+<p>They found that the Planck mean absorption 45 
+</p>
+<p>coefficient overpredicted radiative heat loss due to the 46 
+</p>
+<p>lack of radiation reabsorption. Rhatigan et al. [12] 47 
+</p>
+<p>used an SNB model to calculate the radiation heat 48 
+</p>
+<p>transfer in a PMMA stagnation point diffusion flame 49 
+</p>
+<p>and compared the results to using the Planck mean 50 
+</p>
+<p>absorption coefficient and the optically thin SNB 51 
+</p>
+<p>model. They found that the Planck mean and optically 52 
+</p>
+<p>thin SNB methods both overpredicted emission due to 53 
+</p>
+<p>a lack of absorption, and that the net radiative loss 54 
+</p>
+<p>from the flame increased with increasing stretch rate. 55 
+</p>
+<p>Chu et al. [14] studied the effects of total pressure on 56 
+</p>
+<p>radiative heat transfer in a parallel plate geometry 57 
+</p>
+<p>containing CO2, H2O, and mixtures of the two. They 58 
+</p>
+<p>showed that radiative emission and absorption 59 
+</p>
+<p>increased with increasing pressure due to increasing 60 
+</p>
+<p>optical thickness but did not differentiate between 61 
+</p>
+<p>CO2 and H2O emission/absorption.  62 
+</p>
+<p>Bedir and T’ien [10] studied radiation in a PMMA 63 
+</p>
+<p>stagnation point diffusion flame at varying stretch 64 
+</p>
+<p>rates.  They considered the radiation emission and 65 
+</p>
+<p>absorption contributions for CO2, H2O, and fuel 66 
+</p>
+<p>vapor. As the stretch rate increased the optical 67 
+</p>
+<p>thickness of the system decreased due to the pressure 68 
+</p>
+<p>path length of the radiating species decreasing. Most 69 
+</p>
+<p>of the emitted radiation came from CO2, and the 70 
+</p>
+<p>contribution to total emitted radiation from CO2 71 
+</p>
+<p>increased with increasing optical thickness. As optical 72 
+</p>
+<p>thickness increased the absorption percentage of gas 73 
+</p>
+<p>phase radiation increased for both CO2 and H2O, but 74 
+</p>
+<p>the CO2 increase was much larger. Most of the 75 
+</p>
+<p>absorption was determined to be self-absorption, i.e., 76 
+</p>
+<p>radiation from a particular species was absorbed by 77 
+</p>
+<p>that same species, rather than cross absorption.  78 
+</p>
+<p>Both droplet [1,3,8,15,16] and burner supported 79 
+</p>
+<p>[2,5,17–20] configurations are commonly used to 80 
+</p>
+<p>study microgravity spherical diffusion flames 81 
+</p>
+<p>experimentally and numerically. The two 82 
+</p>
+<p>configurations are similar, differing primarily by the 83 
+</p>
+<p>boundary conditions at the surface of the droplet or 84 
+</p>
+<p>sphere.  The burner-supported configuration is, 85 
+</p>
+<p>however, computationally easier (faster) to study 86 
+</p>
+<p>since the mass flux and temperature at the burner 87 
+</p>
+<p>surface are prescribed rather than being part of the 88 
+</p>
+<p>solution.  Both microgravity droplet and burner-89 
+</p>
+<p>supported combustion experiments have a gas-phase 90 
+</p>
+<p>that can be considered quasi-steady outside of the 91 
+</p>
+<p>ignition and extinction transients. This allows the 92 
+</p>
+<p>burner-supported configuration to provide accurate 93 
+</p>
+<p>insights into the gas-phase processes [3,4,20], 94 
+</p>
+<p>provided the boundary conditions at the burner 95 
+</p>
+<p>surface match the burning rate and droplet surface 96 
+</p>
+<p>temperature in the experiment. 97 
+</p>
+<p>Warm and cool diffusion flames are relatively new 98 
+</p>
+<p>areas of study. Cool diffusion flames were first 99 
+</p>
+<p>observed during droplet experiments on the 100 
+</p>
+<p>International Space Station (ISS) in 2012 [21], and 101 
+</p>
+<p>warm diffusion flames were first observed in normal 102 
+</p>
+<p>gravity counterflow experiments [22] and 103 
+</p>
+<p>microgravity droplet experiments [23] in 2018. These 104 
+</p>
+<p>flames burn at lower temperatures than typical hot 105 
+</p>
+<p>flames and follow different chemical kinetic 106 
+</p>
+<p>pathways. Understanding their behavior is key to 107 
+</p>
+<p>developing advanced engine technologies that utilize 108 
+</p>
+<p>their chemistry to create engines that are more 109 
+</p>
+<p>efficient and less polluting. These flames can also 110 
+</p>
+<p>exist outside the typical flammability limits of hot 111 
+</p>
+<p>flames and are favored to form in microgravity, 112 
+</p>
+<p>making them important to both terrestrial and 113 
+</p>
+<p>spacecraft fire safety. Compared to hot flames, there 114 
+</p>
+<p>has been little research into the radiative properties of 115 
+</p>
+<p>these flames. Lin et al. [24] modeled thermal radiation 116 
+</p>
+<p>in counterflow warm and cool diffusion flames but 117 
+</p>
+<p>used an optically thin radiation model due to short 118 
+</p>
+<p>optical lengths in that configuration. They found that 119 
+</p>
+<p>thermal radiation did affect the flammability limits of 120 
+</p>
+<p>the flames. Farouk et al. [23] modeled radiation in 121 </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>3 
+</p>
+<p> 
+</p>
+<p>microgravity droplet diffusion flames using an SNB 1 
+</p>
+<p>model and found that total radiative losses were lower 2 
+</p>
+<p>during the warm and cool flame burning periods 3 
+</p>
+<p>compared to the hot flame but did not consider the 4 
+</p>
+<p>relative contributions from individual species.  5 
+</p>
+<p>During recent droplet experiments performed 6 
+</p>
+<p>aboard the ISS radiance measurements were taken 7 
+</p>
+<p>that captured both the total flame radiance and the 8 
+</p>
+<p>radiance from water vapor in the 5-7 µm range at 9 
+</p>
+<p>various ambient pressures [16]. A trend observed 10 
+</p>
+<p>during these experiments was that, during the hot 11 
+</p>
+<p>flame, as ambient pressure increased and as the flame 12 
+</p>
+<p>burned the fraction of total radiation that came from 13 
+</p>
+<p>water vapor increased. This trend could not be easily 14 
+</p>
+<p>explained, as the production rates of main radiators 15 
+</p>
+<p>CO2 and H2O should be relatively constant between 16 
+</p>
+<p>conditions, and any changes to product formation 17 
+</p>
+<p>should affect both radiators equally. The objective of 18 
+</p>
+<p>this work is to use a transient numerical model of 19 
+</p>
+<p>burner supported flames with an optically thick SNB 20 
+</p>
+<p>model to recreate and determine the cause of the 21 
+</p>
+<p>experimental behavior. The influence of using the 22 
+</p>
+<p>optically thick or optically thin assumption on the 23 
+</p>
+<p>accuracy of the numerical predictions is also 24 
+</p>
+<p>examined for the spherically symmetric diffusion 25 
+</p>
+<p>flames. 26 
+</p>
+<p> 27 
+</p>
+<p>2. Methods 28 
+</p>
+<p> 29 
+</p>
+<p>2.1 Experimental 30 
+</p>
+<p>Droplet experiments were carried out aboard the 31 
+</p>
+<p>ISS as part of the Cool Flames Investigation (CFI), a 32 
+</p>
+<p>subset of the Flame Extinguishment Experiment 33 
+</p>
+<p>(FLEX) set of experiments. More details on the 34 
+</p>
+<p>experiments can be found in [15,16,25,26]. Both free 35 
+</p>
+<p>floated droplets and droplets supported by a 40 µm 36 
+</p>
+<p>carbide fiber were examined, and initial droplet 37 
+</p>
+<p>diameters for the pure dodecane experiments ranged 38 
+</p>
+<p>from 4 to 4.5 mm. The ambient was air (0.21/0.79 39 
+</p>
+<p>O2/N2) for most of the tests and the ambient pressure 40 
+</p>
+<p>ranged from 0.5 to 5 atm.  41 
+</p>
+<p>The droplet and flame were monitored using color, 42 
+</p>
+<p>backlit, and intensified cameras. Droplet sizes were 43 
+</p>
+<p>measured using the backlit camera, and the estimated 44 
+</p>
+<p>uncertainties in droplet size are ± 50 µm [15].  45 
+</p>
+<p>Flame radiance was measured by two radiometers, 46 
+</p>
+<p>one wideband and one narrowband, both located 110 47 
+</p>
+<p>mm away from the droplet deployment site. The 48 
+</p>
+<p>wideband detector was a silicon-based thermopile 49 
+</p>
+<p>detector with a KRS-5 window that limited the 50 
+</p>
+<p>spectral response from 0.58 µm to 50 µm, used argon 51 
+</p>
+<p>as a back-fill gas, had an active area of 0.36 mm2, and 52 
+</p>
+<p>was preceded by an aperture with a diameter of 3.175 53 
+</p>
+<p>mm. The narrowband detector was a thin-film based 54 
+</p>
+<p>thermopile with a silicon long-wave-pass filter and 55 
+</p>
+<p>sapphire window that limited the spectral range from 56 
+</p>
+<p>5 µm to 7 µm, where water vapor exhibits strong 57 
+</p>
+<p>absorbance. It used xenon as a back-fill gas, had an 58 
+</p>
+<p>active area of 4.0 mm2, and was preceded by an 59 
+</p>
+<p>aperture with a diameter of 4.572 mm [15].   60 
+</p>
+<p>The radiometers were calibrated using a calibrated 61 
+</p>
+<p>blackbody source, and total radiance was determined 62 
+</p>
+<p>using this calibration and details of the radiometer 63 
+</p>
+<p>geometry relative to the droplet and flame. 64 
+</p>
+<p>Uncertainties in flame radiance are estimated to be up 65 
+</p>
+<p>to ± 20% [15]. More details on the radiometers and 66 
+</p>
+<p>their calibration, as well as the conversion from 67 
+</p>
+<p>irradiance to flame radiance, can be found in [15]. 68 
+</p>
+<p> 69 
+</p>
+<p>2.2 Numerical 70 
+</p>
+<p>Numerical simulations were performed using the 71 
+</p>
+<p>SphDiff program [18–20,27,28], which is a 72 
+</p>
+<p>modification of Sandia PREMIX and uses the 73 
+</p>
+<p>Chemkin-II package [29]. This numerical model has 74 
+</p>
+<p>been used in various studies of burner supported 75 
+</p>
+<p>spherical diffusion flames and has been shown to 76 
+</p>
+<p>accurately reproduce the experimental results [18–77 
+</p>
+<p>20,27,28]. A full model description can be found in 78 
+</p>
+<p>[20,27,28]. 79 
+</p>
+<p>The inner boundary was the burner surface, at a 80 
+</p>
+<p>radius of 2.25 mm. Mass flow rate and burner 81 
+</p>
+<p>temperature were prescribed, and species mass flux 82 
+</p>
+<p>and energy were conserved. The outer boundary was 83 
+</p>
+<p>at a radius of 100 cm and temperature and species 84 
+</p>
+<p>concentrations were prescribed there. The domain 85 
+</p>
+<p>was sufficiently large that there was no change in 86 
+</p>
+<p>species or temperature near the outer boundary.  87 
+</p>
+<p>An adaptive grid algorithm was used, as in [20]. 88 
+</p>
+<p>The domain was divided into three grid areas: an inner 89 
+</p>
+<p>area, a reaction area, and an outer area. The inner area 90 
+</p>
+<p>follows the same algorithm as [28], and the reaction 91 
+</p>
+<p>area has 200 grid cells with 0.001 cm spacing and was 92 
+</p>
+<p>centered about the peak temperature. From there, the 93 
+</p>
+<p>grid spacing in the outer area increased by 5% for each 94 
+</p>
+<p>grid cell moving outward. A total of 373 grid cells 95 
+</p>
+<p>were used, which satisfied grid independence. 96 
+</p>
+<p>The radiation model is described in detail in 97 
+</p>
+<p>[27,28]. The model considered radiation heat loss 98 
+</p>
+<p>from CO, CO2, and H2O. A detailed 99 
+</p>
+<p>absorption/emission statistical narrow band model 100 
+</p>
+<p>was used to calculate the absorption coefficient for 101 
+</p>
+<p>these species. For optically thin simulations, 102 
+</p>
+<p>absorption was neglected. Radiation properties were 103 
+</p>
+<p>taken from the HITRAN database [30] with 104 
+</p>
+<p>wavenumbers ranging from 150 to 9300 cm-1. The 105 
+</p>
+<p>data was divided into 366 bands, each of 25 cm-1, and 106 
+</p>
+<p>properties were averaged over each band considering 107 
+</p>
+<p>a Lorentz spectral line shape of random spacing and 108 
+</p>
+<p>strength. The radiative transfer equation was solved 109 
+</p>
+<p>using a discrete-ordinates method [27,28]. Radiation 110 
+</p>
+<p>from soot was not considered in these simulations, as 111 
+</p>
+<p>experimental observations show luminous soot does 112 
+</p>
+<p>not typically form in these flames after the ignition 113 
+</p>
+<p>transient owing to the large radiative losses reducing 114 
+</p>
+<p>the temperature below the sooting threshold [3,4,20]. 115 
+</p>
+<p>For the simulations the fuel was pure heptane, 116 
+</p>
+<p>owing to the lack of an available dodecane chemical 117 
+</p>
+<p>kinetic mechanism that was compatible with SphDiff. 118 
+</p>
+<p>The radiative extinction characteristics of the 119 
+</p>
+<p>dodecane droplets were very similar to those for pure 120 </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>4 
+</p>
+<p> 
+</p>
+<p>heptane droplets so the fuel choice has minimal 1 
+</p>
+<p>impact on the results. It was shown in a previous study 2 
+</p>
+<p>that flame radiance for different hydrocarbons was 3 
+</p>
+<p>similar despite their different compositions [15]. 4 
+</p>
+<p>Thus, it is reasonable to compare the results of 5 
+</p>
+<p>heptane simulations to those of dodecane 6 
+</p>
+<p>experiments. The chemical kinetics mechanism from 7 
+</p>
+<p>UCSD, which has 65 species and 303 reactions, was 8 
+</p>
+<p>used [31]. As in the experiments, the ambient was air 9 
+</p>
+<p>(0.21/0.79 O2/N2). Mass flow rate was held constant 10 
+</p>
+<p>at 0.9 mg/s, this value was chosen to closely match the 11 
+</p>
+<p>experimentally measured burning rate constants. The 12 
+</p>
+<p>burner surface temperature was held constant at the 13 
+</p>
+<p>boiling point of heptane at each pressure, and pressure 14 
+</p>
+<p>was varied from 0.5 to 10 atm. The burner size, 15 
+</p>
+<p>temperature, and mass flow rate were chosen to best 16 
+</p>
+<p>replicate the conditions from the droplet experiments. 17 
+</p>
+<p> 18 
+</p>
+<p>3. Results and Discussion 19 
+</p>
+<p>Figure 1a shows the simulated temporal evolution 20 
+</p>
+<p>of flame temperature and flame radius for the 1 atm, 21 
+</p>
+<p>4 atm, and 10 atm cases. These simulations were 22 
+</p>
+<p>performed using the SNB method with emission and 23 
+</p>
+<p>reabsorption. The flames ignite at temperatures above 24 
+</p>
+<p>2000 K, after which the peak temperature decreases 25 
+</p>
+<p>due to increasing radiative losses. As the flame 26 
+</p>
+<p>temperature decreases it is possible for the flame to 27 
+</p>
+<p>traverse all three combustion regimes, hot, warm, and 28 
+</p>
+<p>cool flames, depending on the pressure.  29 
+</p>
+<p>As hot flame peak temperature reaches ~1200 K, 30 
+</p>
+<p>the hot flame either radiatively extinguishes if the 31 
+</p>
+<p>pressure is less than 4 atm or transitions to a warm 32 
+</p>
+<p>flame if the pressure is 4 atm or higher. In the cases 33 
+</p>
+<p>where a warm flame is established, the transition from 34 
+</p>
+<p>hot flame to warm flame is not obvious when looking 35 
+</p>
+<p>at the temperature or radius curves. Once a warm 36 
+</p>
+<p>flame is established it burns in a similar manner to a 37 
+</p>
+<p>hot flame and radiatively extinguishes before a cool 38 
+</p>
+<p>flame is established. This section is organized such 39 
+</p>
+<p>that the combustion regimes are discussed separately, 40 
+</p>
+<p>starting with the hot flame, and moving to the warm 41 
+</p>
+<p>flame and then the cool flame.  42 
+</p>
+<p> 43 
+</p>
+<p>3.1 Hot Flame 44 
+</p>
+<p>Figure 1a shows that the evolution of flame 45 
+</p>
+<p>temperature is nearly invariant with pressure during 46 
+</p>
+<p>the hot flame. Peak temperature is controlled by the 47 
+</p>
+<p>balance between radiative loss and chemical heat 48 
+</p>
+<p>release, both of which decrease with increasing 49 
+</p>
+<p>pressure due to the increasing influence of 50 
+</p>
+<p>intermediate-temperature HO2 chemistry, which 51 
+</p>
+<p>shifts chemical pathways and has a weakening effect 52 
+</p>
+<p>on the hot flame [32]. Also shown in Fig. 1a is the 53 
+</p>
+<p>flame radius, which decreases with increasing 54 
+</p>
+<p>pressure. Increased pressure decreases the flow 55 
+</p>
+<p>velocity and increases the molar density of fuel vapor 56 
+</p>
+<p>and oxidizer in the system, allowing the flame to 57 
+</p>
+<p>establish at locations closer to the burner surface. 58 
+</p>
+<p>The net molar production rate of the radiating 59 
+</p>
+<p>products H2O, CO2, and CO are shown in Fig. 1b. 60 
+</p>
+<p>During the hot flame H2O is produced at higher rates 61 
+</p>
+<p>than CO2, consistent with the stoichiometry, and the 62 
+</p>
+<p>production of both is relatively steady with time and 63 
+</p>
+<p>decreases with increasing pressure, due to the rise 64 
+</p>
+<p>pressure-dependent intermediate-temperature HO2 65 
+</p>
+<p>chemistry [32]. There is little to no CO production 66 
+</p>
+<p>during the hot flame.  67 
+</p>
+<p>The simulated temporal evolution of H2O, CO2, 68 
+</p>
+<p>and CO radiance, integrated across the entire 69 
+</p>
+<p>computational domain at each timestep, for the 1 atm, 70 
+</p>
+<p>4 atm, and 10 atm cases is shown in Fig. 2. Figure 2a 71 
+</p>
+<p>shows the raw computed values; in Fig. 2b they are 72 
+</p>
+<p>normalized by the flame diameter cubed at each 73 
+</p>
+<p>timestep to account for size effects.  74 
+</p>
+<p>During the hot flame all the radiance comes from 75 
+</p>
+<p>H2O and CO2. Water vapor radiance increases with 76 
+</p>
+<p>increasing time at all pressures due to flame growth, 77 
+</p>
+<p>when this is accounted for H2O radiance decreases as 78 
+</p>
+<p>time increases. In Fig. 2a CO2 radiance is relatively 79 
+</p>
+<p>constant with time following the initial ignition 80 
+</p>
+<p>transient. When flame size is accounted for CO2 81 
+</p>
+<p>radiance decreases with increasing time, and the 82 
+</p>
+<p>degree of this decrease is higher than that for H2O.  83 
+</p>
+<p>Water vapor radiance increases with increasing 84 
+</p>
+<p>pressure in the hot flame, while CO2 radiance 85 
+</p>
+<p>decreases with increasing pressure. When flame size 86 
+</p>
+<p>is taken into consideration that radiance from both 87 
+</p>
+<p>species increases with increasing pressure, though 88 
+</p>
+<p>Figure 1: Temporal evolution of (a) flame temperature 
+</p>
+<p>and flame radius and (b) H2O, CO2, and CO production 
+</p>
+<p>at 1 atm, 4 atm, and 10 atm. (a) Symbols indicate points 
+in the hot flame (HF: T = 1300K), warm flame (WF: T 
+</p>
+<p>= 1000 K) and cool flame (CF: T = 750 K) to be 
+</p>
+<p>examined in more detail. 
+</p>
+<p> 
+</p>
+<p>600
+</p>
+<p>800
+</p>
+<p>1000
+</p>
+<p>1200
+</p>
+<p>1400
+</p>
+<p>1600
+</p>
+<p>1800
+</p>
+<p>2000
+</p>
+<p>2200
+</p>
+<p>0
+</p>
+<p>0.2
+</p>
+<p>0.4
+</p>
+<p>0.6
+</p>
+<p>0.8
+</p>
+<p>1
+</p>
+<p>1.2
+</p>
+<p>1.4
+</p>
+<p>1.6
+</p>
+<p>1.8
+</p>
+<p>2
+</p>
+<p>0 10 20 30 40 50 60 70
+</p>
+<p>T
+em
+</p>
+<p>p
+er
+</p>
+<p>at
+u
+re
+</p>
+<p> [
+K
+</p>
+<p>]
+</p>
+<p>R
+ad
+</p>
+<p>iu
+s 
+</p>
+<p>[c
+m
+</p>
+<p>]
+</p>
+<p>Time [s]
+</p>
+<p>(a) 1 atm
+4 atm
+10 atm
+HF
+WF
+CF
+</p>
+<p>Tflame
+</p>
+<p>Rflame
+</p>
+<p>0
+</p>
+<p>1
+</p>
+<p>2
+</p>
+<p>3
+</p>
+<p>4
+</p>
+<p>5
+</p>
+<p>6
+</p>
+<p>7
+</p>
+<p>8
+</p>
+<p>0 10 20 30 40 50 60 70
+</p>
+<p>N
+et
+</p>
+<p> M
+o
+</p>
+<p>la
+r 
+</p>
+<p>P
+ro
+</p>
+<p>d
+u
+ct
+</p>
+<p>io
+n
+ R
+</p>
+<p>at
+e 
+</p>
+<p>x
+ 1
+</p>
+<p>0
+⁵ 
+</p>
+<p>[m
+o
+</p>
+<p>l/
+s]
+</p>
+<p>Time [s]
+</p>
+<p>(b) 1 atm
+4 atm
+10 atm
+</p>
+<p>H2O
+</p>
+<p>CO2
+</p>
+<p>CO</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>5 
+</p>
+<p> 
+</p>
+<p>H2O increases to a larger extent. Since the changes in 1 
+</p>
+<p>production rate with pressure affect both species in the 2 
+</p>
+<p>same direction, the only explanation for a difference 3 
+</p>
+<p>in their behavior is a difference in the radiative 4 
+</p>
+<p>properties for each species. 5 
+</p>
+<p>Both as the flame burns and as pressure increases, 6 
+</p>
+<p>the absorption coefficients of H2O and CO2 increase 7 
+</p>
+<p>due to increasing molar concentrations. Increased 8 
+</p>
+<p>absorption coefficients lead to higher emission and 9 
+</p>
+<p>reabsorption of radiation. With the optically thin 10 
+</p>
+<p>assumption there is no reabsorption of radiation, and 11 
+</p>
+<p>comparing optically thin calculations to optically 12 
+</p>
+<p>thick calculations isolates the reabsorption effects. 13 
+</p>
+<p>The radiation calculations were re-performed using 14 
+</p>
+<p>the same temperature and species profiles that were 15 
+</p>
+<p>obtained with optically thick simulations, but 16 
+</p>
+<p>neglecting the reabsorption term from the RTE. The 17 
+</p>
+<p>reabsorption fraction is then calculated as 1-18 
+</p>
+<p>Rthick/Rthin, where R is the total radiance.  The resulting 19 
+</p>
+<p>reabsorption fraction (i.e., the fraction of emitted 20 
+</p>
+<p>radiation that was reabsorbed) is shown in Fig. 3.  21 
+</p>
+<p>A low reabsorption fraction indicates that most of 22 
+</p>
+<p>the emitted radiation escapes the system, and there is 23 
+</p>
+<p>little reabsorption, while a high reabsorption fraction 24 
+</p>
+<p>indicates most of the emitted radiation is reabsorbed 25 
+</p>
+<p>before it leaves the system. The reabsorption fraction 26 
+</p>
+<p>shows that CO2 reabsorption is significantly higher 27 
+</p>
+<p>than H2O reabsorption during the hot flame at all 28 
+</p>
+<p>pressures, and both values increase with increasing 29 
+</p>
+<p>pressure. This explains the trends seen in Fig. 2. 30 
+</p>
+<p>Radiance from CO2 is relatively constant with time 31 
+</p>
+<p>because early in the flame lifetime a high percentage 32 
+</p>
+<p>of the emitted radiation is reabsorbed. Meanwhile 33 
+</p>
+<p>H2O reabsorption levels are low, and as such H2O 34 
+</p>
+<p>radiance can continually increase with time. The same 35 
+</p>
+<p>is true as pressure increases, CO2 reabsorption is so 36 
+</p>
+<p>high that its radiance decreases with increasing 37 
+</p>
+<p>pressure, while H2O reabsorption is low enough that 38 
+</p>
+<p>its radiance can increase as pressure increases.  39 
+</p>
+<p>The radiance values shown in Fig. 2 for each 40 
+</p>
+<p>species were obtained by integrating the radiance 41 
+</p>
+<p>from the surface to the outer boundary, which is the 42 
+</p>
+<p>equivalent of the total radiative loss from the system. 43 
+</p>
+<p>If the integration is instead performed from the 44 
+</p>
+<p>surface to some intermediate radius, the result is the 45 
+</p>
+<p>radiative loss from the system up to that radius, which 46 
+</p>
+<p>is the equivalent of placing a radiometer at that point. 47 
+</p>
+<p>Figure 4 shows this integration for the 1 atm and 4 atm 48 
+</p>
+<p>cases when the peak temperature is 1300 K, 49 
+</p>
+<p>considering both optically thick and optically thin 50 
+</p>
+<p>calculations. The distribution of temperature is also 51 
+</p>
+<p>shown. 52 
+</p>
+<p>Considering CO2 in the optically thick cases, 53 
+</p>
+<p>moving outwards from the burner surface, there is a 54 
+</p>
+<p>region of net reabsorption near the burner surface, 55 
+</p>
+<p>after which radiance increases sharply in the high 56 
+</p>
+<p>temperature region near the flame. The radiance then 57 
+</p>
+<p>peaks and begins to decrease due to reabsorption by 58 
+</p>
+<p>the large concentration of accumulated products at 59 
+</p>
+<p>low temperature in this region and finally plateaus as 60 
+</p>
+<p>the temperature and species concentrations decrease. 61 
+</p>
+<p>For H2O the distribution is similar, but the effect of 62 
+</p>
+<p>reabsorption is less pronounced. These trends are the 63 
+</p>
+<p>same between the 1 atm and 4 atm cases, with the 4 64 
+</p>
+<p>atm case having a more compressed profile.  65 
+</p>
+<p>When reabsorption is neglected, radiance from 66 
+</p>
+<p>both H2O and CO2 increases continually throughout 67 
+</p>
+<p>the flame region until there are no more radiating 68 
+</p>
+<p>products. There is a much more significant difference 69 
+</p>
+<p>between the optically thick and optically thin cases for 70 
+</p>
+<p>CO2 than H2O, owing to higher levels of reabsorption.  71 
+</p>
+<p> 
+Figure 2: Temporal evolution of radiative losses from 
+</p>
+<p>H2O, CO2, and CO for the 1 atm, 4 atm, and 10 atm 
+cases. (a) Integrated radiance, (b) integrated radiance 
+</p>
+<p>normalized by flame diameter cubed. 
+</p>
+<p>0
+</p>
+<p>2
+</p>
+<p>4
+</p>
+<p>6
+</p>
+<p>8
+</p>
+<p>10
+</p>
+<p>12
+</p>
+<p>14
+</p>
+<p>16
+</p>
+<p>18
+</p>
+<p>20
+</p>
+<p>0 10 20 30 40 50 60 70
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p> [
+W
+</p>
+<p>]
+</p>
+<p>Time [s]
+</p>
+<p>(a) 1 atm
+4 atm
+10 atm
+</p>
+<p>H2O
+</p>
+<p>CO2
+</p>
+<p>CO
+</p>
+<p>0
+</p>
+<p>0.5
+</p>
+<p>1
+</p>
+<p>1.5
+</p>
+<p>2
+</p>
+<p>2.5
+</p>
+<p>3
+</p>
+<p>3.5
+</p>
+<p>0 10 20 30 40 50 60 70
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p>/d
+f3
+</p>
+<p>[W
+/c
+</p>
+<p>m
+3
+]
+</p>
+<p>Time [s]
+</p>
+<p>(b) 1 atm
+4 atm
+10 atm
+</p>
+<p>H2O
+</p>
+<p>CO2
+</p>
+<p>CO
+</p>
+<p>Figure 3: Temporal evolution of H2O and CO2 
+</p>
+<p>reabsorption fractions for the 1 atm, 4 atm, and 10 atm 
+</p>
+<p>cases. 
+</p>
+<p>0
+</p>
+<p>0.1
+</p>
+<p>0.2
+</p>
+<p>0.3
+</p>
+<p>0.4
+</p>
+<p>0.5
+</p>
+<p>0.6
+</p>
+<p>0.7
+</p>
+<p>0.8
+</p>
+<p>0.9
+</p>
+<p>1
+</p>
+<p>0 10 20 30 40 50 60 70
+</p>
+<p>R
+ea
+</p>
+<p>b
+so
+</p>
+<p>rp
+ti
+</p>
+<p>o
+n
+ F
+</p>
+<p>ra
+ct
+</p>
+<p>io
+n
+</p>
+<p>Time [s]
+</p>
+<p>1 atm
+4 atm
+10 atm
+</p>
+<p>H2O
+</p>
+<p>CO2</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>6 
+</p>
+<p> 
+</p>
+<p>The differences in reabsorption are due to the 1 
+</p>
+<p>spectral properties of each species. Figure 5 shows the 2 
+</p>
+<p>absorption cross sections of H2O and CO2 at 750 K 3 
+</p>
+<p>and 1500 K, obtained from the HITRAN database 4 
+</p>
+<p>[30]. These values are multiplied by Avogadro’s 5 
+</p>
+<p>number and the molar concentration to obtain 6 
+</p>
+<p>absorption coefficient. The H2O absorption spectrum 7 
+</p>
+<p>is broad, while the CO2 spectrum has strong peaks 8 
+</p>
+<p>centered at 4.3 µm and 15 µm. When temperature 9 
+</p>
+<p>increases the shape of the H2O spectrum changes 10 
+</p>
+<p>slightly, with its magnitude decreasing at some 11 
+</p>
+<p>wavelengths and increasing at others. The CO2 12 
+</p>
+<p>spectrum keeps the same general shape as temperature 13 
+</p>
+<p>increases, and the magnitude of its peaks decreases. 14 
+</p>
+<p>The 4.3 µm band has the highest magnitude and is the 15 
+</p>
+<p>key to understanding the difference in reabsorption 16 
+</p>
+<p>behaviors between the two molecules.  17 
+</p>
+<p>Increasing pressure while holding other conditions 18 
+</p>
+<p>constant increases the molecular density of the 19 
+</p>
+<p>system, which increases absorption coefficient. A 20 
+</p>
+<p>high absorption coefficient indicates that radiation is 21 
+</p>
+<p>likely to be reabsorbed before it escapes the region 22 
+</p>
+<p>where it is emitted, with total radiative intensity 23 
+</p>
+<p>limited by the Planck blackbody function. When the 24 
+</p>
+<p>absorption coefficient is initially low, the intensity is 25 
+</p>
+<p>far away from this limit and can increase towards it as 26 
+</p>
+<p>absorption coefficient increases. When the absorption 27 
+</p>
+<p>coefficient is initially high, as it is in the 4.3 µm band 28 
+</p>
+<p>for CO2, total intensity in that band is already near the 29 
+</p>
+<p>limit and any new emission is almost immediately 30 
+</p>
+<p>reabsorbed.  31 
+</p>
+<p>This can be seen in Figure 6, where the radiance 32 
+</p>
+<p>distribution across the domain has been broken down 33 
+</p>
+<p>according to wavelength for the 1 atm case (with and 34 
+</p>
+<p>without reabsorption) and the 4 atm case (with 35 
+</p>
+<p>reabsorption) when the peak temperature is 1300 K. 36 
+</p>
+<p>Neglecting reabsorption in the 1 atm case increases 37 
+</p>
+<p>radiance by a fair amount across the H2O spectrum 38 
+</p>
+<p>and in the 15 µm band for CO2. In the 4.3 µm band 39 
+</p>
+<p>the amount of reabsorption is much higher, 80% of the 40 
+</p>
+<p>CO2 radiance in that band is reabsorbed. There is a 41 
+</p>
+<p>moderate increase in the radiance values in the 4 atm 42 
+</p>
+<p>case compared to the 1 atm case across the H2O 43 
+</p>
+<p>spectrum and in the 15 µm band for CO2, but in the 44 
+</p>
+<p>4.3 µm band the radiance mostly decreased as 45 
+</p>
+<p>pressure increased. 46 
+</p>
+<p>Figure 7 summarizes the changes in H2O and CO2 47 
+</p>
+<p>radiance during the hot flame as pressure changes 48 
+</p>
+<p>from 0.5 to 10 atm for cases with and without 49 
+</p>
+<p>reabsorption. Figure 7a shows the H2O and CO2 50 
+</p>
+<p>radiance when the flame temperature is 1300 K at 51 
+</p>
+<p>each pressure, normalized by the flame diameter 52 
+</p>
+<p>cubed to remove flame size effects. Water vapor 53 
+</p>
+<p>radiance increases with increasing pressure both with 54 
+</p>
+<p>and without reabsorption, and the increase for cases 55 
+</p>
+<p>without reabsorption is more significant. The same is 56 
+</p>
+<p>true for CO2 to an even larger extent, optically thick 57 
+</p>
+<p>CO2 radiance increases only slightly with increasing 58 
+</p>
+<p>pressure, and optically thin radiance is an order of 59 
+</p>
+<p>magnitude higher at higher pressures. Such a high 60 
+</p>
+<p>amount of reabsorption is due to saturation of the 4.3 61 
+</p>
+<p>µm CO2 band, keeping CO2 radiance nearly level as 62 
+</p>
+<p>pressure increases. 63 
+</p>
+<p>Figure 7b shows how the fraction of total radiance 64 
+</p>
+<p>that comes from CO2 and H2O (the radiance ratio) 65 
+</p>
+<p>changes as pressure increases for cases both with and 66 
+</p>
+<p>without radiation reabsorption. In cases without 67 
+</p>
+<p>reabsorption the radiance is consistently around 0.8 68 
+</p>
+<p>for CO2 and 0.2 for H2O, as the radiance for both 69 
+</p>
+<p>increases linearly with pressure. However, in cases 70 
+</p>
+<p>with reabsorption CO2 radiance dominates at lower 71 
+</p>
+<p>pressures, and as pressure increases the CO2 radiance 72 
+</p>
+<p>ratio decreases and more of the radiance comes from 73 
+</p>
+<p>H2O. This same behavior was also observed in 74 
+</p>
+<p>microgravity droplet experiments [16] and is caused 75 
+</p>
+<p>by H2O radiance increasing as pressure increases 76 
+</p>
+<p>while CO2 radiance remains nearly constant. 77 
+</p>
+<p> 78 
+</p>
+<p>3.2 Warm Flame 79 
+</p>
+<p>Warm flames were only established when the 80 
+</p>
+<p>pressure was 4 atm or higher. Unlike in the hot flame, 81 
+</p>
+<p>in the warm flame the evolution of peak temperature 82 
+</p>
+<p>with time changes with pressure. Temperature 83 
+</p>
+<p>decreases more quickly in lower pressure hot flames, 84 
+</p>
+<p>as seen in Fig. 1a, because the intermediate-85 
+</p>
+<p>temperature chemistry that supports these flames is 86 
+</p>
+<p>stronger at higher pressures [32].  87 
+</p>
+<p>Fig. 1b shows that during the warm flame H2O is 88 
+</p>
+<p>produced at similar levels to its production in the hot 89 
+</p>
+<p>Figure 4: Temperature distributions and H2O and CO2 
+</p>
+<p>integrated radiance distributions with and without 
+</p>
+<p>reabsorption for the (a) 1 atm and (b) 4 atm cases when 
+the peak temperature was 1300 K.  
+</p>
+<p>-5
+</p>
+<p>5
+</p>
+<p>15
+</p>
+<p>25
+</p>
+<p>35
+</p>
+<p>45
+</p>
+<p>55
+</p>
+<p>65
+</p>
+<p>75
+</p>
+<p>300
+</p>
+<p>500
+</p>
+<p>700
+</p>
+<p>900
+</p>
+<p>1100
+</p>
+<p>1300
+</p>
+<p>1500
+</p>
+<p>0 1 2 3 4 5 6 7 8
+</p>
+<p>In
+te
+</p>
+<p>g
+ra
+</p>
+<p>te
+d
+</p>
+<p> R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p> [
+W
+</p>
+<p>]
+</p>
+<p>T
+em
+</p>
+<p>p
+er
+</p>
+<p>at
+u
+re
+</p>
+<p> [
+K
+</p>
+<p>]
+</p>
+<p>Radius [cm]
+</p>
+<p>(a) 1 atm
+</p>
+<p>T
+</p>
+<p>CO2 Thin
+</p>
+<p>CO2 Thick
+</p>
+<p>H2O Thin
+</p>
+<p>H2O Thick
+</p>
+<p>-5
+</p>
+<p>5
+</p>
+<p>15
+</p>
+<p>25
+</p>
+<p>35
+</p>
+<p>45
+</p>
+<p>55
+</p>
+<p>65
+</p>
+<p>75
+</p>
+<p>300
+</p>
+<p>500
+</p>
+<p>700
+</p>
+<p>900
+</p>
+<p>1100
+</p>
+<p>1300
+</p>
+<p>1500
+</p>
+<p>0 1 2 3 4 5 6 7 8
+</p>
+<p>In
+te
+</p>
+<p>g
+ra
+</p>
+<p>te
+d
+</p>
+<p> R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p> [
+W
+</p>
+<p>]
+</p>
+<p>T
+em
+</p>
+<p>p
+er
+</p>
+<p>at
+u
+re
+</p>
+<p> [
+K
+</p>
+<p>]
+</p>
+<p>Radius [cm]
+</p>
+<p>(b) 4 atm
+</p>
+<p>T
+</p>
+<p>CO2 Thin
+</p>
+<p>CO2 Thick
+</p>
+<p>H2O Thin H2O Thick</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>7 
+</p>
+<p> 
+</p>
+<p>flame, decreasing slightly at 4 atm and increasing 1 
+</p>
+<p>slightly at 10 atm. The production of CO2 decreases 2 
+</p>
+<p>in the warm flame compared to the hot flame, and the 3 
+</p>
+<p>corresponding CO production increases as there is 4 
+</p>
+<p>less conversion from CO to CO2 in the warm flame. 5 
+</p>
+<p>CO2 production continues to decrease as time goes on 6 
+</p>
+<p>in the warm flame, with CO production increasing. As 7 
+</p>
+<p>pressure increases the production of CO2 and H2O 8 
+</p>
+<p>increase, while the production of CO decreases.  9 
+</p>
+<p>Despite the increase in CO production during the 10 
+</p>
+<p>warm flame, it still only contributes a small fraction 11 
+</p>
+<p>of the total flame radiance, as seen in Fig. 2. The main 12 
+</p>
+<p>radiators are still CO2 and H2O, with H2O constituting 13 
+</p>
+<p>most of the radiance. Radiance from CO peaks just 14 
+</p>
+<p>before warm flame radiative extinction. Figure 2b 15 
+</p>
+<p>shows that when accounting for flame size CO2 and 16 
+</p>
+<p>H2O radiance continue to decrease with increasing 17 
+</p>
+<p>time in the warm flame. 18 
+</p>
+<p>To examine the effect of increasing pressure on the 19 
+</p>
+<p>warm flame, the point where the peak temperature 20 
+</p>
+<p>was 1000 K was chosen for comparison. Since the rate 21 
+</p>
+<p>of temperature decrease decreases with increasing 22 
+</p>
+<p>pressure in the warm flame, the flame takes longer to 23 
+</p>
+<p>reach this temperature at higher pressures. Figure 8 24 
+</p>
+<p>summarizes the results from the warm flames when 25 
+</p>
+<p>the peak temperature is 1000 K as pressure increases 26 
+</p>
+<p>from 4 atm to 10 atm. Fig. 8a shows the radiance from 27 
+</p>
+<p>H2O and CO2 divided by the flame diameter cubed, 28 
+</p>
+<p>and Fig. 8b shows the radiance ratio for these species, 29 
+</p>
+<p>for cases both with and without reabsorption. The 30 
+</p>
+<p>results here are much like the higher-pressure results 31 
+</p>
+<p>for the hot flame shown in Fig. 7. Reabsorption from 32 
+</p>
+<p>CO2 is high enough that its radiance is constant with 33 
+</p>
+<p>changing pressure when reabsorption is included, 34 
+</p>
+<p>while the radiance from H2O increases slightly with 35 
+</p>
+<p>increasing pressure. In the optically thin cases the 36 
+</p>
+<p>radiance from both species increases with increasing 37 
+</p>
+<p>pressure, as the molar concentrations are higher due 38 
+</p>
+<p>to the increased pressure and longer burning 39 
+</p>
+<p>durations.  40 
+</p>
+<p>Most of the radiance comes from H2O at all 41 
+</p>
+<p>pressures during the warm flame for the optically 42 
+</p>
+<p>thick calculations. The radiance ratio values for the 43 
+</p>
+<p>optically thin cases are the mirror image of the 44 
+</p>
+<p>optically thick cases, with most of the radiance 45 
+</p>
+<p>coming from CO2 at each pressure. The difference in 46 
+</p>
+<p>spectral properties that caused the trends observed in 47 
+</p>
+<p>the hot flame are also responsible for the results here. 48 
+</p>
+<p>In the warm flame the reabsorption coefficient is even 49 
+</p>
+<p>higher due to decreasing peak temperatures and 50 
+</p>
+<p>increasing product concentrations, causing the CO2 51 
+</p>
+<p>reabsorption fraction to peak during the warm flame 52 
+</p>
+<p>as shown in Fig. 3.  53 
+</p>
+<p> 54 
+</p>
+<p>3.3 Cool Flame 55 
+</p>
+<p>Once the cool flame is established its burning 56 
+</p>
+<p>behavior changes depending on the ambient pressure, 57 
+</p>
+<p>as seen in Fig. 1a. For cool flames at pressures of 4 58 
+</p>
+<p>atm and below, there is a period after the cool flame 59 
+</p>
+<p>is established where the peak temperature increases 60 
+</p>
+<p>Figure 5: (a) H2O and (b) CO2 absorption cross sections 
+</p>
+<p>from the HITRAN database vs. wavelength at 
+</p>
+<p>temperatures of 750 K and 1500 K.  
+</p>
+<p>0
+</p>
+<p>3E-19
+</p>
+<p>6E-19
+</p>
+<p>9E-19
+</p>
+<p>1.2E-18
+</p>
+<p>1.5E-18
+</p>
+<p>0 10 20 30 40 50 60
+</p>
+<p>A
+b
+</p>
+<p>so
+rp
+</p>
+<p>ti
+o
+</p>
+<p>n
+ C
+</p>
+<p>ro
+ss
+</p>
+<p> S
+ec
+</p>
+<p>ti
+o
+</p>
+<p>n
+ [
+</p>
+<p>cm
+²/
+</p>
+<p>m
+o
+</p>
+<p>le
+cu
+</p>
+<p>le
+]
+</p>
+<p>Wavelength [µm]
+</p>
+<p>(a) H2O T = 750 K
+</p>
+<p>T = 1500 K
+</p>
+<p>0
+</p>
+<p>3E-19
+</p>
+<p>6E-19
+</p>
+<p>9E-19
+</p>
+<p>1.2E-18
+</p>
+<p>1.5E-18
+</p>
+<p>0 10 20 30 40 50 60
+</p>
+<p>A
+b
+</p>
+<p>so
+rp
+</p>
+<p>ti
+o
+</p>
+<p>n
+ C
+</p>
+<p>ro
+ss
+</p>
+<p> S
+ec
+</p>
+<p>ti
+o
+</p>
+<p>n
+ [
+</p>
+<p>cm
+²/
+</p>
+<p>m
+o
+</p>
+<p>le
+cu
+</p>
+<p>le
+]
+</p>
+<p>Wavelength [µm]
+</p>
+<p>(b) CO2 T = 750 K
+</p>
+<p>T = 1500 K
+</p>
+<p>0
+</p>
+<p>5E-19
+</p>
+<p>1E-18
+</p>
+<p>1.5E-18
+</p>
+<p>4.1 4.3 4.5
+</p>
+<p>Figure 6: (a) H2O and (b) CO2 integrated radiance vs 
+</p>
+<p>wavelength for the 1 atm and 4 atm cases when the peak 
+</p>
+<p>temperature was 1300 K.  
+</p>
+<p>0
+</p>
+<p>1E-12
+</p>
+<p>2E-12
+</p>
+<p>3E-12
+</p>
+<p>4E-12
+</p>
+<p>5E-12
+</p>
+<p>6E-12
+</p>
+<p>7E-12
+</p>
+<p>8E-12
+</p>
+<p>0 10 20 30 40 50 60
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p> [
+W
+</p>
+<p>/c
+m
+</p>
+<p>3
+]
+</p>
+<p>Wavelength [µm]
+</p>
+<p>(a) H2O 1 atm Thick
+1 atm Thin
+4 atm Thick
+</p>
+<p>0
+</p>
+<p>1E-11
+</p>
+<p>2E-11
+</p>
+<p>3E-11
+</p>
+<p>4E-11
+</p>
+<p>5E-11
+</p>
+<p>6E-11
+</p>
+<p>7E-11
+</p>
+<p>8E-11
+</p>
+<p>0 5 10 15 20
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p> [
+W
+</p>
+<p>/c
+m
+</p>
+<p>3
+]
+</p>
+<p>Wavelength [µm]
+</p>
+<p>(b) CO2
+1 atm Thick
+1 atm Thin
+4 atm Thick
+</p>
+<p>0
+</p>
+<p>2E-11
+</p>
+<p>4E-11
+</p>
+<p>6E-11
+</p>
+<p>8E-11
+</p>
+<p>4.1 4.3 4.5</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>8 
+</p>
+<p> 
+</p>
+<p>with time, before peaking and decreasing towards a 1 
+</p>
+<p>steady-state value. When the pressure is 5 atm and 2 
+</p>
+<p>higher, the temperature increase at the beginning of 3 
+</p>
+<p>the cool flame is enough to make it reignite back to a 4 
+</p>
+<p>hot flame. The reignition is due to pressure dependent 5 
+</p>
+<p>intermediate-temperature HO2 chemistry, which 6 
+</p>
+<p>provides additional heat release in the cool flame [32]. 7 
+</p>
+<p>Figure 1b shows that H2O production drops 8 
+</p>
+<p>significantly in the cool flame compared to the 9 
+</p>
+<p>hot/warm flame, as does CO2, to the point that there is 10 
+</p>
+<p>little to no CO2 production. The production of CO is 11 
+</p>
+<p>higher than it is in the hot flame, but lower than the 12 
+</p>
+<p>peak level reached in the warm flame if a warm flame 13 
+</p>
+<p>was present. The production rates of H2O and CO are 14 
+</p>
+<p>comparable, with H2O being slightly higher, and the 15 
+</p>
+<p>production of all three species increases with 16 
+</p>
+<p>increasing pressure.  17 
+</p>
+<p>Figure 2a shows that, at all pressures, radiance 18 
+</p>
+<p>from CO2 and H2O drops significantly in the cool 19 
+</p>
+<p>flame compared to the hot and warm flames. 20 
+</p>
+<p>However, Fig. 2b shows that when flame size is 21 
+</p>
+<p>accounted for there is a sharp increase in radiance as 22 
+</p>
+<p>the cool flame forms due to the sharp decrease in 23 
+</p>
+<p>flame radius between the hot/warm flames and the 24 
+</p>
+<p>cool flame. The result is that the flame size adjusted 25 
+</p>
+<p>radiance is higher in the cool flame than the later 26 
+</p>
+<p>points in the hot and warm flames.  27 
+</p>
+<p>Figure 2 shows that the radiance in the cool flame 28 
+</p>
+<p>mostly comes from H2O. The rest of the radiance 29 
+</p>
+<p>mostly comes from CO2, with a smaller contribution 30 
+</p>
+<p>from CO, despite the lack of CO2 production. Besides 31 
+</p>
+<p>the small amount of CO2 production there is still 32 
+</p>
+<p>residual CO2 from the hot/warm flame, and CO2 is a 33 
+</p>
+<p>much stronger radiator than CO.  34 
+</p>
+<p>The point where the cool flames had a peak 35 
+</p>
+<p>temperature of 750 K was chosen for comparison, and 36 
+</p>
+<p>summary plots for the cool flames at 750 K from 2 37 
+</p>
+<p>atm to 10 atm are shown in Fig. 9. The cases at 1 atm 38 
+</p>
+<p>and below do not reach this temperature and are not 39 
+</p>
+<p>included.  40 
+</p>
+<p>The radiance from H2O and CO2 divided by the 41 
+</p>
+<p>flame diameter cubed is shown in Fig. 9a. For the 42 
+</p>
+<p>cases with reabsorption the radiance from H2O is 43 
+</p>
+<p>consistently higher than that from CO2 at both 44 
+</p>
+<p>pressures. This holds true for the 2 atm case when 45 
+</p>
+<p>reabsorption is neglected, but as the pressure increases 46 
+</p>
+<p>the radiance from CO2 and H2O are nearly equal when 47 
+</p>
+<p>reabsorption is not included. The jump in CO2 48 
+</p>
+<p>radiance between 2 atm and 3 atm is because the 2 atm 49 
+</p>
+<p>case takes longer to reach 750 K than the 3 atm and 50 
+</p>
+<p>higher cases. Since there is little CO2 production in 51 
+</p>
+<p>the cool flame, in the early cool flame residual CO2 52 
+</p>
+<p>concentration in the flame region is high from the 53 
+</p>
+<p>hot/warm flame, and it decreases as the CO2 diffuses 54 
+</p>
+<p>Figure 7: (a) Hot flame H2O and CO2 integrated 
+radiance normalized by flame diameter cubed and (b) 
+</p>
+<p>hot flame H2O and CO2 radiance ratio, as pressure 
+</p>
+<p>increases from 1 atm to 10 atm. The flame temperature 
+was 1300 K, and calculations with and without 
+</p>
+<p>reabsorption of radiation are shown.   
+</p>
+<p>0
+</p>
+<p>0.1
+</p>
+<p>0.2
+</p>
+<p>0.3
+</p>
+<p>0.4
+</p>
+<p>0.5
+</p>
+<p>0.6
+</p>
+<p>0.7
+</p>
+<p>0.8
+</p>
+<p>0.9
+</p>
+<p>1
+</p>
+<p>0 2 4 6 8 10
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p> R
+at
+</p>
+<p>io
+</p>
+<p>Pressure [atm]
+</p>
+<p>(b) H₂O Thick H₂O Thin
+</p>
+<p>CO₂ Thick CO₂ Thin
+</p>
+<p>0
+</p>
+<p>2
+</p>
+<p>4
+</p>
+<p>6
+</p>
+<p>8
+</p>
+<p>10
+</p>
+<p>12
+</p>
+<p>14
+</p>
+<p>0 2 4 6 8 10
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p>/d
+f3
+</p>
+<p>[W
+/c
+</p>
+<p>m
+3
+]
+</p>
+<p>Pressure [atm]
+</p>
+<p>(a) H₂O Thick H₂O Thin
+CO₂ Thick CO₂ Thin
+</p>
+<p>Figure 8: (a) Warm flame H2O and CO2 integrated 
+</p>
+<p>radiance normalized by flame diameter cubed and (b) 
+</p>
+<p>warm flame H2O and CO2 radiance ratio, as pressure 
+increases from 4 atm to 10 atm. The flame temperature 
+</p>
+<p>was 1000 K, and calculations with and without 
+</p>
+<p>reabsorption of radiation are shown.   
+</p>
+<p>0
+</p>
+<p>0.1
+</p>
+<p>0.2
+</p>
+<p>0.3
+</p>
+<p>0.4
+</p>
+<p>0.5
+</p>
+<p>0.6
+</p>
+<p>0.7
+</p>
+<p>0.8
+</p>
+<p>0.9
+</p>
+<p>1
+</p>
+<p>0 2 4 6 8 10
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p> R
+at
+</p>
+<p>io
+</p>
+<p>Pressure [atm]
+</p>
+<p>(b) H₂O Thick H₂O Thin
+</p>
+<p>CO₂ Thick CO₂ Thin
+</p>
+<p>0
+</p>
+<p>1
+</p>
+<p>2
+</p>
+<p>3
+</p>
+<p>4
+</p>
+<p>5
+</p>
+<p>6
+</p>
+<p>7
+</p>
+<p>8
+</p>
+<p>0 2 4 6 8 10
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p>/d
+f3
+</p>
+<p>[W
+/c
+</p>
+<p>m
+3
+]
+</p>
+<p>Pressure [atm]
+</p>
+<p>(a) H₂O Thick
+</p>
+<p>H₂O Thin
+</p>
+<p>CO₂ Thick
+</p>
+<p>CO₂ Thin</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>9 
+</p>
+<p> 
+</p>
+<p>outwards. As pressure increases above 3 atm the H2O 1 
+</p>
+<p>radiance remains constant, and the CO2 radiance 2 
+</p>
+<p>decreases slightly when reabsorption is included. The 3 
+</p>
+<p>corresponding values for the optically thin cases 4 
+</p>
+<p>increase with increasing pressure, once again 5 
+</p>
+<p>demonstrating the strength of reabsorption in these 6 
+</p>
+<p>flames. 7 
+</p>
+<p>The radiance ratios for CO2 and H2O in the cool 8 
+</p>
+<p>flame are shown in Fig. 9b. In the optically thick 9 
+</p>
+<p>calculations H2O consistently contributes around 70% 10 
+</p>
+<p>of the total radiance, while CO2 contributes between 11 
+</p>
+<p>20% to 30%, with the contribution decreasing at 12 
+</p>
+<p>higher pressures. This contrasts with the hot flame, 13 
+</p>
+<p>where CO2 radiance dominates with lower pressures. 14 
+</p>
+<p>Since the cool flame starts after the warm/hot flame, 15 
+</p>
+<p>reabsorption is high from the beginning due to large 16 
+</p>
+<p>amounts of residual products. Additionally, CO2 17 
+</p>
+<p>radiance is low due to its low production rate.  18 
+</p>
+<p> 19 
+</p>
+<p>3.4 Experimental Comparison 20 
+</p>
+<p>Figure 10 compares the results obtained here with 21 
+</p>
+<p>the results from microgravity droplet combustion 22 
+</p>
+<p>experiments [16] for the hot, warm, and cool flames. 23 
+</p>
+<p>In both the computations and the experiments, the hot 24 
+</p>
+<p>flame points are taken at the point of peak hot flame 25 
+</p>
+<p>radiance. The total radiance, H2O radiance, and H2O 26 
+</p>
+<p>radiance ratio at this point are shown in Fig. 10a. For 27 
+</p>
+<p>the warm and cool flames, experimentally the data 28 
+</p>
+<p>was taken when the droplet diameter was 2.5 mm. 29 
+</p>
+<p>Choosing this point results in cool flame data for 30 
+</p>
+<p>pressures below 3 atm, and warm flame data for 31 
+</p>
+<p>pressures of 3 atm and above. There is not a point in 32 
+</p>
+<p>the calculations that directly correlates to a droplet 33 
+</p>
+<p>diameter of 2.5 mm, so the point 10 s after hot flame 34 
+</p>
+<p>extinction was chosen for comparison. This results in 35 
+</p>
+<p>cool flames for pressures below 3 atm and warm 36 
+</p>
+<p>flames for pressures of 4 atm and above. The total 37 
+</p>
+<p>radiance, H2O radiance, and H2O radiance ratio at 38 
+</p>
+<p>these points are shown in Fig. 10b.   39 
+</p>
+<p>For the hot flame, the total flame radiance shows 40 
+</p>
+<p>little dependence on pressure experimentally and is 41 
+</p>
+<p>roughly 25 W at all pressures. The numerical results 42 
+</p>
+<p>show a slight decrease with increasing pressure, from 43 
+</p>
+<p>26.5 W to 23.5 W, as pressure increases from 0.5 to 5 44 
+</p>
+<p>atm. The difference in these trends is likely caused by 45 
+</p>
+<p>the different boundary conditions for each 46 
+</p>
+<p>configuration. The mass flow rate here is fixed, while 47 
+</p>
+<p>in the experiments the burning rate increased slightly 48 
+</p>
+<p>with increasing pressure [16]. The H2O radiance 49 
+</p>
+<p>increases with increasing pressure in both the 50 
+</p>
+<p>experiments and simulations. The magnitude of the 51 
+</p>
+<p>H2O radiance is higher in the simulations compared to 52 
+</p>
+<p>the experiments, likely owing to the limitations of the 53 
+</p>
+<p>experimental hardware. The values from the 54 
+</p>
+<p>Figure 9: (a) Cool flame H2O and CO2 integrated 
+</p>
+<p>radiance normalized by flame diameter cubed and (b) 
+</p>
+<p>cool flame H2O and CO2 radiance ratio, as pressure 
+increases from 2 atm to 10 atm. The flame temperature 
+</p>
+<p>was 750 K, and calculations with and without 
+</p>
+<p>reabsorption of radiation are shown.   
+</p>
+<p>0
+</p>
+<p>0.1
+</p>
+<p>0.2
+</p>
+<p>0.3
+</p>
+<p>0.4
+</p>
+<p>0.5
+</p>
+<p>0.6
+</p>
+<p>0.7
+</p>
+<p>0.8
+</p>
+<p>0.9
+</p>
+<p>1
+</p>
+<p>0 2 4 6 8 10
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p> R
+at
+</p>
+<p>io
+</p>
+<p>Pressure [atm]
+</p>
+<p>(b) H₂O Thick H₂O Thin
+</p>
+<p>CO₂ Thick CO₂ Thin
+</p>
+<p>0
+</p>
+<p>1
+</p>
+<p>2
+</p>
+<p>3
+</p>
+<p>4
+</p>
+<p>5
+</p>
+<p>6
+</p>
+<p>0 2 4 6 8 10
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p>/d
+f3
+</p>
+<p>[W
+/c
+</p>
+<p>m
+3
+]
+</p>
+<p>Pressure [atm]
+</p>
+<p>(a) H₂O Thick
+</p>
+<p>H₂O Thin
+</p>
+<p>CO₂ Thick
+</p>
+<p>CO₂ Thin
+</p>
+<p>Figure 10: Experimental and numerical total radiance, 
+</p>
+<p>H2O radiance, and H2O radiance ratio for (a) the point 
+</p>
+<p>of peak hot flame radiance (experiments and 
+computations) and (b) the point where the droplet 
+</p>
+<p>diameter is 2.5 mm (experiments) and the point 10 s 
+</p>
+<p>after hot flame extinction (computations). 
+</p>
+<p>0
+</p>
+<p>0.1
+</p>
+<p>0.2
+</p>
+<p>0.3
+</p>
+<p>0.4
+</p>
+<p>0.5
+</p>
+<p>0.6
+</p>
+<p>0.7
+</p>
+<p>0.8
+</p>
+<p>0.9
+</p>
+<p>1
+</p>
+<p>0
+</p>
+<p>5
+</p>
+<p>10
+</p>
+<p>15
+</p>
+<p>20
+</p>
+<p>25
+</p>
+<p>30
+</p>
+<p>35
+</p>
+<p>0 1 2 3 4 5
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p> R
+at
+</p>
+<p>io
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p> [
+W
+</p>
+<p>]
+</p>
+<p>Pressure [atm]
+</p>
+<p>Total (Num) Total (exp)
+H₂O (Num) H₂O (exp)
+H₂O Ratio (Num) H₂O Ratio (exp)
+</p>
+<p>0
+</p>
+<p>0.1
+</p>
+<p>0.2
+</p>
+<p>0.3
+</p>
+<p>0.4
+</p>
+<p>0.5
+</p>
+<p>0.6
+</p>
+<p>0.7
+</p>
+<p>0.8
+</p>
+<p>0.9
+</p>
+<p>1
+</p>
+<p>0
+</p>
+<p>5
+</p>
+<p>10
+</p>
+<p>15
+</p>
+<p>20
+</p>
+<p>25
+</p>
+<p>30
+</p>
+<p>35
+</p>
+<p>0 1 2 3 4 5
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p> R
+at
+</p>
+<p>io
+</p>
+<p>R
+ad
+</p>
+<p>ia
+n
+ce
+</p>
+<p> [
+W
+</p>
+<p>]
+</p>
+<p>Pressure [atm]
+</p>
+<p>Total (Num) Total (exp)
+H₂O (Num) H₂O (exp)
+H₂O Ratio (Num) H₂O Ratio (exp)</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>10 
+</p>
+<p> 
+</p>
+<p>experiments are taken from a radiometer with a filter 1 
+</p>
+<p>that only allows radiation in the 5-7 µm range to pass 2 
+</p>
+<p>through, and the radiometer’s response is not flat in 3 
+</p>
+<p>this range [15]. Water vapor also emits radiation 4 
+</p>
+<p>outside of this range, so it is expected that the 5 
+</p>
+<p>measured magnitude would be less than the numerical 6 
+</p>
+<p>predictions. The H2O radiance ratio also increases 7 
+</p>
+<p>with increasing pressure in both the experiments and 8 
+</p>
+<p>simulations. The mechanism for this increased 9 
+</p>
+<p>contribution from H2O in the experiments is the same 10 
+</p>
+<p>as was previously discussed for the simulations. The 11 
+</p>
+<p>increasing pressure increases the molar 12 
+</p>
+<p>concentrations and therefore the absorption 13 
+</p>
+<p>coefficient, leading to larger amounts of CO2 14 
+</p>
+<p>reabsorption compared to H2O reabsorption.  15 
+</p>
+<p>For the cool and warm flames, the total radiance 16 
+</p>
+<p>increases with increasing pressure in both the 17 
+</p>
+<p>experiments and simulations. For the cool flames the 18 
+</p>
+<p>increase is more pronounced in the experiments, while 19 
+</p>
+<p>for the warm flames the increase is more pronounced 20 
+</p>
+<p>in the simulations. These trends are the same for the 21 
+</p>
+<p>H2O radiance. The H2O radiance ratio increases 22 
+</p>
+<p>slightly with pressure in both the experiments and 23 
+</p>
+<p>simulations and is in the same range for both. 24 
+</p>
+<p> 25 
+</p>
+<p>4. Conclusions 26 
+</p>
+<p>The effects that ambient pressure had on radiance 27 
+</p>
+<p>in simulations of microgravity burner-supported 28 
+</p>
+<p>spherical diffusion flames were presented and 29 
+</p>
+<p>compared to the results of microgravity droplet 30 
+</p>
+<p>combustion experiments. Hot, warm, and cool flames 31 
+</p>
+<p>were all considered. The main effect of increasing 32 
+</p>
+<p>pressure was an increase in the reabsorption of 33 
+</p>
+<p>radiation, particularly for CO2, due to increased 34 
+</p>
+<p>absorption coefficients. The main radiators 35 
+</p>
+<p>throughout all three combustion regimes were CO2 36 
+</p>
+<p>and H2O, with CO never constituting more than 15% 37 
+</p>
+<p>of the total radiance.  38 
+</p>
+<p>The contribution to total radiance shifted from CO2 39 
+</p>
+<p>dominated to H2O dominated as the flame burned and 40 
+</p>
+<p>as pressure increased in the hot flame. In the warm 41 
+</p>
+<p>and cool flames H2O continued to contribute the 42 
+</p>
+<p>majority of the radiance, and this contribution 43 
+</p>
+<p>increased with increasing pressure. These trends, 44 
+</p>
+<p>which were also observed experimentally, were not 45 
+</p>
+<p>present when optically thin calculations were 46 
+</p>
+<p>performed, i.e., when the radiation reabsorption term 47 
+</p>
+<p>was removed from the radiative transfer equation.  48 
+</p>
+<p>This shift in radiation contributions was 49 
+</p>
+<p>determined to be caused by the optically thick nature 50 
+</p>
+<p>of the system. As absorption coefficient increased due 51 
+</p>
+<p>to increased product concentrations, the CO2 52 
+</p>
+<p>absorption band centered at 4.3 µm became easily 53 
+</p>
+<p>saturated. This meant CO2 radiance saw much lower 54 
+</p>
+<p>increases as absorption coefficient increased 55 
+</p>
+<p>compared to H2O radiance. This result reinforces the 56 
+</p>
+<p>notion that optically thin radiation models are unable 57 
+</p>
+<p>to accurately capture the radiation behavior of high-58 
+</p>
+<p>pressure combustion systems. 59 
+</p>
+<p> 60 
+</p>
+<p>CrediT authorship contribution statement 61 
+</p>
+<p> KAW: Formal analysis, Methodology, Software, 62 
+</p>
+<p>Visualization, Writing – original draft, Writing – 63 
+</p>
+<p>review &amp; editing  64 
+</p>
+<p>DLD: Conceptualization, Investigation, Project 65 
+</p>
+<p>administration, Writing – review &amp; editing 66 
+</p>
+<p>VN: Writing – review and editing 67 
+</p>
+<p> 68 
+</p>
+<p>Declaration of competing interest 69 
+</p>
+<p>The authors declare that they have no known 70 
+</p>
+<p>competing financial interests or personal relationships 71 
+</p>
+<p>that could have appeared to influence the work 72 
+</p>
+<p>reported in this paper. 73 
+</p>
+<p> 74 
+</p>
+<p>Acknowledgments 75 
+</p>
+<p>The authors would like to acknowledge the funding 76 
+</p>
+<p>support of the NASA Postdoctoral Program and the 77 
+</p>
+<p>Biological and Physical Sciences Division of NASA’s 78 
+</p>
+<p>Science Mission Directorate, and to thank Tim Krause 79 
+</p>
+<p>for his efforts on experimental data collection and 80 
+</p>
+<p>analysis. 81 
+</p>
+<p> 82 
+</p>
+<p>References 83 
+</p>
+<p>[1] B.H. Chao, C.K. Law, J.S. T’ien, Structure and 84 
+</p>
+<p>extinction of diffusion flames with flame radiation, 85 
+</p>
+<p>Symp. (Int.) Combust. 23 (1991) 523–531. 86 
+</p>
+<p>[2] K. Mills, M. Matalon, Extinction of spherical 87 
+</p>
+<p>diffusion flames in the presence of radiant loss, 88 
+</p>
+<p>Symp. (Int.) Combust. 27 (1998) 2535–2541. 89 
+</p>
+<p>[3] V. Nayagam, D.L. Dietrich, M.C. Hicks, F.A. 90 
+</p>
+<p>Williams, Radiative extinction of large n-alkane 91 
+</p>
+<p>droplets in oxygen-inert mixtures in microgravity, 92 
+</p>
+<p>Combust. Flame 194 (2018) 107–114. 93 
+</p>
+<p>[4] V. Nayagam, D.L. Dietrich, F.A. Williams, 94 
+</p>
+<p>Radiative extinction of burner-supported spherical 95 
+</p>
+<p>diffusion flames: A scaling analysis, Combust. 96 
+</p>
+<p>Flame 205 (2019) 368–370. 97 
+</p>
+<p>[5] P.H. Irace, K.A. Waddell, D. Constales, P.B. 98 
+</p>
+<p>Sunderland, R.L. Axelbaum, Critical temperature 99 
+</p>
+<p>and reactant mass flux for radiative extinction of 100 
+</p>
+<p>ethylene microgravity spherical diffusion flames at 101 
+</p>
+<p>1 bar, Proc. Combust. Inst. 39 (2023) 1905–1913. 102 
+</p>
+<p>[6] K.V. Liu, J.R. Lloyd, K.T. Yang, An investigation 103 
+</p>
+<p>of a laminar diffusion flame adjacent to a vertical 104 
+</p>
+<p>flat plate burner, Int. J. Heat Mass Transf. 24 (1981) 105 
+</p>
+<p>1959–1970. 106 
+</p>
+<p>[7] R. Viskanta, M.P. Mengüç, Radiation heat transfer 107 
+</p>
+<p>in combustion systems, Prog. Energy Combust. Sci. 108 
+</p>
+<p>13 (1987) 97–160. 109 
+</p>
+<p>[8] A.J. Marchese, F.L. Dryer, The Effect of Non-110 
+</p>
+<p>Luminous Thermal Radiation in Microgravity 111 
+</p>
+<p>Droplet Combustion, Combust. Sci. Technol. 124 112 
+</p>
+<p>(1997) 371–402. 113 
+</p>
+<p>[9] H. Bedir, J.S. T’ien, H.S. Lee, Comparison of 114 
+</p>
+<p>different radiation treatments for a one-dimensional 115 
+</p>
+<p>diffusion flame, Combust. Theory Model. 1 (1997) 116 
+</p>
+<p>395–404. 117 
+</p>
+<p>[10] H. Bedir, J.S. Tien, A computational study of flame 118 
+</p>
+<p>radiation in PMMA diffusion flames including fuel 119 
+</p>
+<p>vapor participation, Symp. (Int.) Combust. 27 120 
+</p>
+<p>(1998) 2821–2828. 121 
+</p>
+<p>[11] Y. Ju, H. Guo, F. Liu, K. Maruta, Effects of the 122 
+</p>
+<p>Lewis number and radiative heat loss on the 123 </p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>11 
+</p>
+<p> 
+</p>
+<p>bifurcation and extinction of CH4 /O2 -N2 -He 1 
+</p>
+<p>flames, J. Fluid Mech. 379 (1999) 165–190. 2 
+</p>
+<p>[12] J.L. Rhatigan, H. Bedir, J.S. T’ien, Gas-phase 3 
+</p>
+<p>radiative effects on the burning and extinction of a 4 
+</p>
+<p>solid fuel, Combust. Flame 112 (1998) 231–241. 5 
+</p>
+<p>[13] F. Liu, J.-L. Consalvi, P.J. Coelho, F. Andre, M. 6 
+</p>
+<p>Gu, V. Solovjov, B.W. Webb, The impact of 7 
+</p>
+<p>radiative heat transfer in combustion processes and 8 
+</p>
+<p>its modeling – with a focus on turbulent flames, 9 
+</p>
+<p>Fuel 281 (2020) 118555. 10 
+</p>
+<p>[14] H. Chu, M. Gu, J.-L. Consalvi, F. Liu, H. Zhou, 11 
+</p>
+<p>Effects of total pressure on non-grey gas radiation 12 
+</p>
+<p>transfer in oxy-fuel combustion using the LBL, 13 
+</p>
+<p>SNB, SNBCK, WSGG, and FSCK methods, J. 14 
+</p>
+<p>Quant. Spectrosc. Radiat. Transf. 172 (2016) 24–15 
+</p>
+<p>35. 16 
+</p>
+<p>[15] D.L. Dietrich, R. Calabria, P. Massoli, V. 17 
+</p>
+<p>Nayagam, F.A. Williams, Experimental 18 
+</p>
+<p>Observations of the Low-Temperature Burning of 19 
+</p>
+<p>Decane/Hexanol Droplets in Microgravity, 20 
+</p>
+<p>Combust. Sci. Technol. 189 (2017) 520–554. 21 
+</p>
+<p>[16] D. Dietrich, T. Krause, V. Nayagam, T. Farouk, F. 22 
+</p>
+<p>Dryer, F. Williams, Low Temperature n-Dodecane 23 
+</p>
+<p>Droplet Combustion Experiments Aboard the 24 
+</p>
+<p>International Space Station, Microgravity Sci. 25 
+</p>
+<p>Technol. 36 (2024) 31. 26 
+</p>
+<p>[17] A. Atreya, S. Agrawal, K. Sacksteder, H. Baum, 27 
+</p>
+<p>Observations of methane and ethylene diffusion 28 
+</p>
+<p>flames stabilized around a blowing porous sphere 29 
+</p>
+<p>under microgravity conditions, 32nd Aerospace 30 
+</p>
+<p>Sciences Meeting and Exhibit (1994). 31 
+</p>
+<p>[18] S.D. Tse, D. Zhu, C.-J. Sung, Y. Ju, C.K. Law, 32 
+</p>
+<p>Microgravity burner-generated spherical diffusion 33 
+</p>
+<p>flames: experiment and computation, Combust. 34 
+</p>
+<p>Flame 125 (2001) 1265–1278. 35 
+</p>
+<p>[19] K.J. Santa, Z. Sun, B.H. Chao, P.B. Sunderland, 36 
+</p>
+<p>R.L. Axelbaum, D.L. Urban, D.P. Stocker, 37 
+</p>
+<p>Numerical and experimental observations of 38 
+</p>
+<p>spherical diffusion flames, Combust. Theory 39 
+</p>
+<p>Model. 11 (2007) 639–652. 40 
+</p>
+<p>[20] P.H. Irace, H.J. Lee, K. Waddell, L. Tan, D.P. 41 
+</p>
+<p>Stocker, P.B. Sunderland, R.L. Axelbaum, 42 
+</p>
+<p>Observations of long duration microgravity 43 
+</p>
+<p>spherical diffusion flames aboard the International 44 
+</p>
+<p>Space Station, Combust. Flame 229 (2021) 111373. 45 
+</p>
+<p>[21] V. Nayagam, D.L. Dietrich, P.V. Ferkul, M.C. 46 
+</p>
+<p>Hicks, F.A. Williams, Can cool flames support 47 
+</p>
+<p>quasi-steady alkane droplet burning?, Combust. 48 
+</p>
+<p>Flame 159 (2012) 3583–3588. 49 
+</p>
+<p>[22] O.R. Yehia, C.B. Reuter, Y. Ju, Low-temperature 50 
+</p>
+<p>multistage warm diffusion flames, Combust. Flame 51 
+</p>
+<p>195 (2018) 63–74. 52 
+</p>
+<p>[23] T.I. Farouk, D. Dietrich, F.L. Dryer, Three stage 53 
+</p>
+<p>cool flame droplet burning behavior of n-alkane 54 
+</p>
+<p>droplets at elevated pressure conditions: Hot, warm 55 
+</p>
+<p>and cool flame, Proc. Combust. Inst. 37 (2019) 56 
+</p>
+<p>3353–3361. 57 
+</p>
+<p>[24] E. Lin, C.B. Reuter, Y. Ju, Dynamics and burning 58 
+</p>
+<p>limits of near-limit hot, warm, and cool diffusion 59 
+</p>
+<p>flames of dimethyl ether at elevated pressures, Proc. 60 
+</p>
+<p>Combust. Inst. 37 (2019) 1791–1798. 61 
+</p>
+<p>[25] D.L. Dietrich, P.V. Ferkul, V.M. Bryg, M.V. 62 
+</p>
+<p>Nayagam, M.C. Hicks, F.A. Williams, F.L. Dryer, 63 
+</p>
+<p>B.D. Shaw, M.Y. Choi, C.T. Avedisian, Detailed 64 
+</p>
+<p>Results From the Flame Extinguishment 65 
+</p>
+<p>Experiment (FLEX) March 2009 to December 66 
+</p>
+<p>2011, NASA/TP-2015-216046, NASA Glenn 67 
+</p>
+<p>Research Center, Cleveland, OH, 2015. 68 
+</p>
+<p>[26] D.L. Dietrich, V. Nayagam, M.C. Hicks, P.V. 69 
+</p>
+<p>Ferkul, F.L. Dryer, T. Farouk, B.D. Shaw, H.K. 70 
+</p>
+<p>Suh, M.Y. Choi, Y.C. Liu, C.T. Avedisian, F.A. 71 
+</p>
+<p>Williams, Droplet Combustion Experiments Aboard 72 
+</p>
+<p>the International Space Station, Microgravity Sci. 73 
+</p>
+<p>Technol. 26 (2014) 65–76. 74 
+</p>
+<p>[27] S. Tang, M.K. Chernovsky, H.G. Im, A. Atreya, A 75 
+</p>
+<p>computational study of spherical diffusion flames in 76 
+</p>
+<p>microgravity with gas radiation Part I: Model 77 
+</p>
+<p>development and validation, Combust. Flame 157 78 
+</p>
+<p>(2010) 118–126. 79 
+</p>
+<p>[28] V.R. Lecoustre, Numerical Investigations of 80 
+</p>
+<p>Gaseous Spherical Diffusion Flames, PhD 81 
+</p>
+<p>Dissertation, University of Maryland, 2009. 82 
+</p>
+<p>[29] R.J. Kee, J.F. Grcar, M.D. Smooke, J.A. Miller, E. 83 
+</p>
+<p>Meeks, Premix: A FORTRAN Program for 84 
+</p>
+<p>Modeling Steady Laminar One-Dimensional 85 
+</p>
+<p>Premixed Flames, (1987). 86 
+</p>
+<p>[30] I.E. Gordon, L.S. Rothman, R.J. Hargreaves, R. 87 
+</p>
+<p>Hashemi, E.V. Karlovets, F.M. Skinner, E.K. 88 
+</p>
+<p>Conway, C. Hill, R.V. Kochanov, Y. Tan, P. 89 
+</p>
+<p>Wcisło, A.A. Finenko, K. Nelson, P.F. Bernath, M. 90 
+</p>
+<p>Birk, V. Boudon, A. Campargue, K.V. Chance, A. 91 
+</p>
+<p>Coustenis, B.J. Drouin, et al., The HITRAN2020 92 
+</p>
+<p>molecular spectroscopic database, J. Quant. 93 
+</p>
+<p>Spectrosc. Radiat. Transf. 277 (2022) 107949. 94 
+</p>
+<p>[31] J.C. Prince, F.A. Williams, Revised short 95 
+</p>
+<p>mechanism for the low-temperature ignition of n-96 
+</p>
+<p>heptane for a wider pressure range, Fuel 150 (2015) 97 
+</p>
+<p>730–731. 98 
+</p>
+<p>[32] K.A. Waddell, D.L. Dietrich, V. Nayagam, Pressure 99 
+</p>
+<p>effects in spherical microgravity hot, warm, and 100 
+</p>
+<p>cool diffusion flame transitions, 14th U.S. National 101 
+</p>
+<p>Combustion Meeting (2025), paper 2H05. 102 
+</p>
+<p> 103 </p>
+<p></p>
+</div>
+</body></html>

@@ -1,0 +1,669 @@
+TEMPERATURE AND RADIATIVE HEAT FLUX MEASUREMENTS
+IN MICROGRAVITY JET DIFFUSION FLAMES*
+JERRY C. KU
+Mechanical Engineering Department
+Wayne State University
+Detroit, MI 48202
+and
+Paul S. Greenberg
+Microgravity Combustion Branch
+NASA Lewis Research Center
+Cleveland, OH 44135
+
+Introduction
+The objective of this project is to provide detailed measurements and modeling analyses of local soot concentration, temperature
+and radiation heat flux distributions in laminar and turbnlent jet diffusion flames under normal (l-g) and reduced gravity (0-g)
+conditions. Results published to date by these co-PI's and their co-workers include:
+1. thermophoretic sampling and size and morphological analyses of soot aggregates in laminar flames under normal and
+reduced gravity conditions (ref. l);
+2. full-field absorption imaging for soot volume fraction maps in laminar (ref. 2) and turbulent flames under normal and
+reduced gravity conditions; details for the technique, its validation and comparisons to published point-by-point results can
+be found in Refs. 3 and 4, and a paper to appear in Applied Optics;
+3. an accurate solver module for detailed radiation heat transfer in nongray nonhomogeneous media (refs. 5 and 6);
+4. a complete model to include flame structure, soot formation and an energy equation to couple with radiation solver (ref. 7).
+In this paper, we will report flame temperature measurements using fine-wire thermocouples and a f_ll-field imaging
+absorption-emission techaJque. We will also report some spectral radiative flux measurements. Most of the results wig be
+from turbulent jet flames. Since the acquisition of final data started only two months ago in January 1997, we have only begun
+to sort through and analyze some of the data we obtained, while a lot more data will be collected and analyzed before the
+workshop in May.
+Temperature
+
+Measurements by Rapid-Insertion
+
+Fine-Wire Thermocouple_
+
+Despite their inu'usive nature, thermocouples have been used by many researchers to measure temperature in flames (refs. 811). Major complicating factors in thermocouple flame temperature measurements are long response time (few hundred
+milliseconds even for 50 micron bead size), soot deposition and correction for radiation heat loss. Nonetheless, due to its
+simplicity, it still is a very viable technique for microgravity combustion studies. As will be discussed later, thermocouples are
+needed for measuring temperatures in soot-lean regions and for local instantaneous temperature in turbulent flames, since lineof-sight pyrometry type of measurements are not applicable. There have been studies of time-resolved temperature
+measurements in turbulent flames using thermocouples (refs. 12 and 13).
+K-type thermocouple, which has a temperature range of 300 to 1750K, was used for this study. Wires of 25 micron diameter
+are spot-welded in-house to form a bead of the size of 50 micron or so. Rather than mounting and leaving thermocouples
+stationary in the flame, as has been done by most researchers, we decided to rapidly insert and retract them so flame
+perturbation and soot deposition are reduced to a minimum. The wires are thus attached to the same blade which has been used
+*Work funded under NASA Grant NAG3-1729.
+
+211
+
+for thermophoretic soot sampling, and the same pneumatic-actuating
+device was used. A piloted jet burner, with a fuel tube
+diameter of 0.508 mm and a pilot tube diameter of 1.283 mm, was used to produce all the turbulent flames in this study. The
+same fuel is used for the pilot at 1 (most cases) to 2% volumetric flow rate. After being recorded on an oscilloscope,
+thermocouple electrical signals are plotted and stored in a PC using the LabView package. A linear voltage-to-temperature
+relation is assumed for now, which can be easily modified.
+Figure 1 shows the resulting transient response when the thermocouple was inserted to measure temperature along the axis at a
+height of 150D (D = nozzle diameter) in a 10 cc/s turbulent acetylene flame. 5 consecutive runs were then made at the longest
+residence time of about 240 millisecond. Substafifial differences in these 5 temperature profiles are observed. However, this
+may be explained by the fact that these measurements were taken with a clean thermocouple, and factory contamination on the
+bead and the onset of soot deposition may be the reasons for the observed fluctuation.
+Subsequent measurements using the
+same thermocouple show very good consistency.
+To obtain an equilibrium temperature, a part of the profile was fitted to a transient response function of the from (ref. 14)
+
+_-r_-_,(-_o )
+
+-1-exp
+
+-
+
+(t-to)
+
+,
+
+(1)
+
+where T/is the equilibrium bead temperature, h is the convective heat transfer c(wAticient, to is an arbitrary reference starting
+time, and A, m and c are surface area, mass and specific heat, respectively, of the bead. In fitting T(t) data to the equation
+above, (hAme) is the parameter to be optimized, and temperature profiles over 150 to 300 ms were used. The results are also
+shown in Figure 1. Figure 2 shows the results at 100D heights. One point pretty clear from these plots is the fact that although
+profiles vary from run to run, sometimes may be substantial, but they pretty much stabilize toward a narrow range of
+equilibrium temperature.
+As mentioned earlier, measurements at 150D height were taken with a clean thermocouple, which
+may explain the inconsistency among the first 2 runs. The last 3 runs at 150D height and all 5 runs at 100D height are very
+consistent.
+Correction for radiation heat loss are significant for thermocouple measurements in high temperature environments, and can be
+easily accomplished by performing an energy balance between radiation and convection given as
+
+6o( -
+
+=
+
+-
+
+(2)
+
+where Tg is the gas temperature, _ is the emissivity and o- is the Stefan-Boltzmann constant It is not simple to estimate e and
+h. The emissivity e of the bead surface may vary between around 0.5, a value typical for oxidized metals (as for clean beads), to
+around 0.9, a value for carbon and graphite (as for soot-coated beads). A medium value of 6 = 0.7 is adopted here. To estimate
+h, we assume that the flame has the properties of air at 1400K, which has a conductivity of k = 9.1x10 "3W/InK, a kinematic
+viscosity of v= 2.13x10 4 m2/s and a Prandfl number ofPr = 0.703, and that the bead has a diameter ofd = 50 micron, h can
+then be calculated from (ref. 15)
+h=_[2+(O.4Rele/2+O.O6Re2/3)Pr°4].
+
+(3)
+
+Table 1 lists the values for those relevant parameters at 100D and 150D heights. The magnitude of temperature correction,
+153.6 and 135.5K, respectively, are very comparable with the reported range (ref. 12). However, the resulted gas temperatures
+of 1313.6 and 1250.5K at 100D and 150/9 height, respectively, are 325.4 and 282,5K lower than the imaging pyrometry results
+to be discussed later. The voltage-to-temperature conversion (assumed linear here) will be among the factors to be investigated.
+FuU-Field Temperature
+
+Measurements
+
+Usinq Emission/Absorption
+
+Ima,qinq Pyrometry
+
+Another temperature measurement technique that was investigated is the emission/absorption tomography applied by Hall and
+Bonczyk (ref. 16), originally as point-by-point measurements. Since the ability in obtaining instantaneous full-field property
+maps (rather than point-by-point) is a tremendous advantage in microgravity experiments, we simply expanded our absorption
+imaging technique (ref. 2-4) to include emission imaging. The basic concepts are quite simple. The absorption coefficient (_
+extinction coefficient) is first obtained from tomographic reconstruction of the line-of-sight absorbance. If the medium is
+optically-thin, the local emissive power (i.e., product of emissivity and Planck's function) can also be reconsmLOed similarly.
+By applying the KirchhoWs law which equates the spectral emissivity and spectral absorptivity, the local temperature can be
+deduced from the Planck's function obtained as the ratio of emission and absorption measurements.
+
+212
+
+The advantages of this technique include using the same setup for both absorption and emission measurements with 1 CCD
+camera only and eliminating the uncertainties involved in estimating the spectral emissivity, which is equal to the measured
+absorptivity. To switch the setup from absorption to emission mode, the laser is turned off and additional neutral density filters
+are added as necessary. The disadvantages of the technique are its limitation in applying to laminar flame only and its inability
+in providing reliable results in regions where soot volume fraction is relative low and hence can not be accurately determined
+(as discussed in ref. 16). The former is true of all optical techniques involving line-of-sight measurement, since it is practically
+impossible to reconstruct instantaneous property maps due to their high fluctuation nature. However, when enough images are
+taken and averaged, the technique can be used to provide a good estimate for turbulent mean temperature. For turbulent flames
+and soot-lean regions in the flame, thermocouple seems to be the natural choice for temperature measurements.
+The data analysis starts with the smoothing of line-of-sight absothance and emission maps, then the reconstruction of local soot
+volume fraction and emissive power maps and fi'om their ratio a temperature map is calculated, and finally a second smoothing
+on temperature profiles. The intent of this last step is to obtain reliable temperature data for soot-lean regions in the flame.
+However, based on limited attempts, the resulting overcome is not as satisfactory as expected.
+Figure 3 shows the resulting soot volume fraction and temperature profiles for a 3.85 cc/s laminar co-flow ethylene flame, and
+comparisons to data obtained by Santoro et al. (ref. 9). Generally, the agreements are good, keeping in mind that temperatures
+were measured using thermocouples in Santoro et al. The inability of the emission/absorption technique in providing reliable
+temperature data in soot-lean regions both between and outside the soot peaks is clearly seen. Figure 4 shows the results for a
+10 cc/s turbulent acetylene flame.
+Spectral Radiation and Laser-Induced
+
+Incandescence
+
+(LII) Measurement__
+
+Both spectral radiation and laser-induced incandescence measurements provided interesting 1-g and 0-g comparisons for lineof-sight spectral intensity and instantaneous soot volume fraction along the axis of turbulent jet flumes. The data are so recent
+that we can not analyze and include the results in this paper, but we will present them in May at the Workshop.
+Summary
+In summary, both thermocouple and emission/absorption imaging pyrometry technique provide reasonably satisfactory results
+for temperature measurement. The two techniques seem to compliment each other to cover most of the needs for temperature
+measurements in microgravity. Both spectral radiation and LII measurements are very significant addition to microgravity
+combustion diagnostics. Spectral radiation measurements providing critical wavelength-dependent radiation intensity data, and
+LII being the only technique capable of instantaneous turbulent soot volume fraction measurement, both are desperately needed
+for the understanding of physical fundamentals as well as model validations for microgravity jet diffusion flames.
+Acknowledqment
+The authors wish to acknowledge Karen Wetland of NASA/Lewis for sharing the spectral radiation data, Randy Vander Wal of
+NASA/Lewis for sharing the LII data, and William Yanis of NASA/Lewis for technical support.
+References
+
+1. Ku, J. C., Griffin, D. W., Greenberg, P. S., and Roma,
+Flame, 102, 216-218 (1995).
+
+J.,
+
+"Buoyancy-Induced
+
+Differences in Soot Morphology," Comb.
+
+2. Greenberg, P. S., and Ku, J. C., "Soot Volume Fraction Maps for Normal and Reduced Gravity Laminar Acetylene/Air
+Diffusion Flames," Comb. Flame, 108, 227-230 (1997).
+
+Jet
+
+3. Greenberg, P. S., "Laser Doppler Velocimetry and Full-Field Soot Volume Fraction Measurements in Microgravity," 247252, Proc. 3rd IntT Microgravity Comb. Workghop, Cleveland, Ohio, April 11-13 (1995).
+4. Weiland, K. S., "Qualitative and Quantitative Imaging in Micmgra_ty
+Microgravity Comb. Workshop, Cleveland, C)kio, April 11-13 (1995).
+
+Combustion,"
+
+291-196,
+
+Proc. 3rd IntT
+
+5. Hsu, P.-F., and Ku, J. C., "Radiative Heat Transfer in Finite Cylindrical Enclosures with Nonhomogeneous Participating
+Media," J. Thermophys. Heat Transfer, 8_,434-440 (1994).
+
+213
+
+6. Hsu, P.-F., and Ku, J. C., "Detailed Spectral Radiation Calculations for Nonhomogeneous
+Soot/Gas Mixtures Based on a
+Simulated Ethylene Jet Diffusion Flame," 372-386,
+Radiative
+Transfer - I, Proc. 1st Inffl Symp. Radiative Transfer
+[I_,
+Kusadasi, Turkey, Aug. 14-18, 1995], M. P. Menguc, ed. (1996).
+7. Ku, J. C, L. Tong, and Greenberg, P. S., "Measurements and Modeling of Soot Formation
+and Radiation
+Jet Diffusion Flames," HTD-Vol. 335, Proc. ASME Heat Transfer Division, Vol. 4, 261-270 (1996).
+8. Heitor, M. V., and Moreh-a,
+Combust. Sci., U19U, 259-278
+
+A. L. N.,
+(1993).
+
+"Thermocouples
+
+9. Santoro, R. J., Yeh, T. T., Horvath, J. J., and Semerjian,
+Diffusion Flames," Comb. Sci. Tech, 53.89-115
+(1987).
+10. Eisner, A. D., and Rosner,
+Gases Using Thermocouple
+
+and
+
+Sample
+
+Probes for Combustion
+
+H. G., "The Tmnslxm
+
+12. Cannon, S. M., "An Experimental
+S. Thesis, Mechanical Engineering
+
+Flames Emit Smoke?" Comb.
+
+M., "Thermocouple
+
+Time Constant
+
+Prog. Energy
+
+in Nonisothermal
+
+Sci. Tech.,
+
+and Numerical Study of an Elliptic Cross-Section,
+Department, Brigham Young University (1994).
+
+13. Strahle, W. C., and Muthulmslman_
+14. 1642-1644 (1976).
+
+Studies,"
+
+and Growth of Soot Particles
+
+D. E., "Experimental Studies of Soot Particle Thermophoresis
+Response Techniques," Comb. Flame, 61, 153-166 (1985).
+
+11. Kent, J. H., and Wagner, H. Gg., "Why Do Diffusion
+
+in Microgravity
+
+41.245-269
+
+Turbulent,
+
+Measurement
+
+Diffusion
+
+by Cross Power
+
+in Laminar
+
+Combustion
+
+(1984).
+Jet Flame,"
+
+M.
+
+Spectra," AIAA J.,
+
+14. Eckert, E. G., and Goldstein,
+
+R. J., Measurements
+
+in Heat Transfer, 2 ad ed., p. 15, Hemisphere
+
+15. Incropera, F. P.. and DeWitt,
+
+D. P., Fundamentals
+
+of Heat and Mass Transfer, 4 th ed., John Wiley & Sons (1996).
+
+16. Hall, R. J., and Bonczyk,
+31, 4590-4598
+(1990).
+
+P. A., "Sooting
+
+Flame Thermometry
+
+using Emission/Absorption
+
+17. Vander Wal, R. L., Dietrich, D. L., Zhou, Z., and Choi, M. Y., "Development
+Incandescence,"
+247-252, Proc. 3rd Int'l. Microgravity Comb. Workshop, Cleveland,
+
+Table I. Values for parameters related to thermocouple
+
+Height,
+
+x
+
+Nusselt
+
+150D
+
+u (m/s)*
+
+8.1
+
+5.9
+
+1.901
+
+1.385
+
+2.5590
+
+2.4736
+
+465.7
+
+450.2
+
+1160
+
+1115
+
+153.6
+
+135.5
+
+Tg (K)
+
+1313.6
+
+1250.5
+
+Tg" (K)
+
+1639 (+325.4 #)
+
+1533 (+282.5)
+
+Number, Nu = hd/k
+
+Convection
+T/(K),
+
+radiation heat loss correction.
+
+Number, Re = ud/v
+
+Reynolds
+
+Coef., h (W/mZK)
+
+from Fig. 2
+
+Correction,g - T/ (K )
+T
+Gas Temperature,
+From Pyrometry,
+
+* Values obtained from model predictions (ref. 7)
+# Difference between thermocouple
+and imaging pyrometry results.
+
+214
+
+Tomography,"
+
+Applied
+
+Optics,
+
+and Applications
+of Laser-Induced
+Ohio, April 11-13 (1995).
+
+100D
+
+Axial velocity,
+
+Pub. Co. (1976).
+
+,__ Aoo Jet
+,ono
+,0
+
+.I
+
+I°° _o050,__R,=2550
+I
+_
+
+IAY
+T
+
+-- _,:,-._ o- #,>
+
+..-:A-_
+_
+
+900
+
+......... ,....
+-I
+
+......
+
+TI=
+
+J
+
+---
+
+T/= I05931K
+
+r:: n21.55K
+(R,. #4)
+
+850
+
+(Run #3)
+
+T]= II09.53K (Run #5)
+i
+
+150
+
+i
+
+i
+
+200
+
+250
+
+Time
+
+1150
+
+(Run #2)
+
+--..
+
+If"
+
+Figure 1. Thermocouple
+
+981.43K
+
+300
+
+(msee)
+
+response m x = I50D and curve-fits to F-xl.(1) in a turbulent acetylene jet diffusion flame.
+
+Acetylene Jet l0 ee/s
+D = 0.508ram,Re = 2550
+(_r)= (100D,0)
+
+g
+
+1100
+
+E
+E
+
+Predicted
+
+Equilibrium
+
+Temperature
+
+F-,
+II60.97K
+
+(Run #l)
+
+--
+
+T t,=
+
+--.
+
+I O5O
+
+TI= n60.mx (Run#3)
+
+--.. T:= u6o.sm0_ #4)
+...... 7"/= n69.45K(Run#2)
+-- --- TI= I]55.94K (Run #5)
+I000
+
+i
+
+150
+
+i
+
+i
+
+200
+Time
+
+250
+
+300
+
+(msec)
+
+Figure 2. Thermocouple response at x = 100D and curve-fits to Eq. (1) in a turbulent acetylene jet diffusion flame.
+
+215
+
+x-=35nll
+
+--_
+
+':rm
+
+- _ TEI'I_
+©
+
+6
+
+2
+
+o
+8
+©
+
+14m
+
+x=3Ormn
+
+6
+
+E_
+
+F.,,
+2
+
+o
+8
+©
+
+14I)
+2rn
+
+6¸
+
+E_
+2
+
+o
+
+1400
+
+-/-\
+
+8
+©
+
+6
+
+! I
+z_>,
+
+_rn
+
+\
+
+-
+
+I
+
+18))
+
+2
+
+o
+
+14))
+
+1
+
+_
+
+J
+
+I
+
+8
+©
+
+_rn
+
+6
+
+\
+
+->
+
+18])
+
+.o
+
+E_
+
+I
+
+-6
+
+I
+
+i
+
+-4 -3 -2. -1
+
+I
+
+I
+
+i
+
+I
+
+i
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+F_am'_,.(r=)
+
+Fatl_d'.)
+
+Figure 3. Soot volume fraction and temperature
+profiles
+for a 3.85 cc/s laminar co-flow ethylene flame.
+
+Figure 4. Soot volume fraction and temperature
+for a 10 cc/s turbulent acetylene jet diffusion
+
+216
+
+profiles
+flame.
+

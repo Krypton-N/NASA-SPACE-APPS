@@ -1,0 +1,139 @@
+Effect of Longitudinal Oscillations on Downward Flame Spread over Thin Solid Fuels
+Vedha Nayagam and Kurt R. Sacksteder, NCSER/NASA Glenn Research Center, Cleveland, Ohio
+Results:
+
+Abstract:
+Downward flame spread rates over vertically vibrated thin fuel samples
+are measured in air at one atmospheric pressure under normal gravity.
+Unlike flame spread against forced‐convective flows, the present results
+show that with increasing vibration acceleration the flame spread rate
+increases before being blown off at high acceleration levels causing
+flame extinction. A simple scaling analysis seems to explain this
+phenomenon, which may have important implications to flammability
+studies including in microgravity environments.
+
+Based on the experimental results three different flame spread regimes can be 
+identified (Fig.2):
+a)  Natural convection dominated regime,
+b)  Vibration dominated thermally controlled regime, and
+c)  Vibration dominated chemically controlled regime.
+
+Streamwise length scale is the amplitude of vibration: 
+y, flame standoff distance
+
+vibration
+
+Understanding the mechanisms of opposed‐flow flame spread over solid
+fuels is of fundamental as well as practical interest in the area of fire
+safety. In the past the effects of buoyancy [2], forced flow velocities [1,3],
+and fuel thickness, among others, on flame spread rates against an
+opposing flow of oxidizer have been investigated both experimentally and
+theoretically. It has been observed that for thermally thin fuels the
+flame spread rate remains independent of the external flow velocity,
+naturally induced or forced, up to a certain value then begins to decrease
+with increasing flow speed eventually leading to flame extinction due to
+finite rate chemical kinetic effects.
+Here we study the effects of
+longitudinal oscillations of the fuel sample on flame spread rates.
+
+Experiments:
+Thin strips of ashless cellulose filter papers (Whatman #44) mounted on a
+metal sample holder are vibrated vertically at various frequencies and
+acceleration levels and ignited on top. The vibration frequencies varied in
+the range 0 to 65 Hz and the acceleration levels g/g0 in the range 1 to 32,
+where g0 is the earth normal gravitational acceleration. The RMS
+acceleration and frequencies are measured using an accelerometer. Video
+images of the vertical downward flame spread process are recorded and
+an average spread rate for a flame travel of 10 cm is measured and
+reported here.
+
+2.5 cm 
+
+fuel sample
+
+For thermally controlled regime a simplified energy balance at the
+leading edge of the fuel sample yields:
+
+x, forward conduction length
+
+U, Induced velocity
+
+Introduction:
+
+Scaling:
+
+gravity vector
+
+, fuel half thickness
+
+Figure 2.  Flame spread rate as a function of acceleration for various vibration 
+frequencies.
+Natural convection regime:
+For low acceleration levels (g/g0 < ~ 8) the flame spread rate is relatively
+independent of the acceleration or frequency values. In this regime the gas‐
+phase flow is still dominated by the buoyancy induced flow and the fuel surface
+oscillations do not alter the boundary layer substantially.
+Vibration dominated thermally controlled regime:
+As the vibration acceleration (g) increases beyond certain level the flame spread
+rate increases. For a fixed acceleration in this regime the spread rate slightly
+decreases with increasing frequency. Note that the characteristic velocity of the
+fuel plate is ~ g/ and unlike flame spread against an opposing forced flow the
+measured spread rate increases with increasing plate velocity (see, Fig. 3).
+Vibration dominated chemically controlled regime:
+When the fuel surface velocity (g/ becomes sufficiently high, finite‐rate
+chemical kinetic effects become important and the flame is eventually
+extinguished due to insufficient residence time for heat release. Figure 3 shows
+the present spread rates plotted as function of effective fuel surface velocity
+(g/) along with the forced flow results from [1, 3]. It is interesting note that
+extinction occurs around the same velocity range of 120 cm/s as in [3] where the
+same fuel was used. Hirano and Sato [1] used somewhat thicker samples. In this
+regime close to extinction it is difficult to ignite the sample, the flame spread
+become unsteady and unstable [1] and considerable scatter in the experimental
+data occurs.
+
+10 cm
+
+sample holder
+
+Normal length scale (Stokes thickness): 
+Spread rate then becomes: 
+Figure 4 shows Uf plotted against (g/2/3). As seen in Fig. 4 the
+correlation is improved in the thermally controlled regime, but close to
+extinction further analysis is necessary.
+
+Figure 4. Flame spread rate as a function of (g/2/3) for various vibration
+frequencies.
+
+Conclusions and future work:
+It is shown that the nature of the gas‐phase velocity profile has
+significant influence on the flame spread rate even for thermally thin
+fuels. Unlike forced or natural convective flow, the vibration induced
+flow leads to substantial increase in spread rate for a fixed ambient
+oxygen concentration. High speed photography of the leading edge of
+the flame is currently underway and analysis of the video images should
+provide further insight into the flame spread process. Dimensionless
+correlation of the spread rate against a suitably defined Damkohler
+number is also being considered.
+
+References:
+1. Hirano. T., and Sato, K., “Effects of radiation and convection on gas velocity and 
+temperature profiles of flames spreading over paper,” Proceedings of the 
+Combustion Institute, Vol. 15, 1975, pp. 233‐241.
+
+electro‐dynamic
+shaker
+
+2. Altenkirch, R.A., Eichorn, R., and Shang, P.C., “Buoyancy effects on flames 
+spreading down thermally thin fuels,” Combustion and Flame, Vol. 37, 1980,  
+pp.71‐83.
+
+Figure 1. Schematic illustration of the experimental setup and a 
+photograph of the fuel sample mounted on the shaker.
+Figure 4.  Flame spread rate as a function of velocity for various frequencies.
+
+3. Fernandez‐Pello, A.C., Ray, S.R., and Glassman, I., “Flame spread in an opposed 
+forced flow: The effect of ambient oxygen concentration, Proceedings of the 
+Combustion Institute, Vol. 18, 1981, pp. 579‐589.
+
+8th US National Combustion Meeting, May 19‐22, 2013, Salt Lake City, 
+

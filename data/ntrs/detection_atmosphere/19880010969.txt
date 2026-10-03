@@ -1,0 +1,6075 @@
+NASA CR-182114
+
+SPACECRAFT FIRE-SAFETY EXPERIMENTS
+FOR SPACE STATION
+TECHNOLOGY DEVELOPMENT MISSION
+188-2035 3
+y
+
+(BASA-CR-182114) SPACECRAFT PIRE-SAPEZY
+EXPBEIEETTS PCB SEACE S I A T I G l i : XLCElOLGGY
+P E V B L O E I E I T E l S L l C I F i n a l Ccatractor 3eport
+(Mile Labs,) 111 p
+CSCL 228
+
+Onclas
+63/18
+
+Wallace W. Young blood
+
+WYLE LABORATORIES
+Huntsville, Alabama 35807
+(Wyle Report No. 68300-1)
+
+April 1988
+
+Contract No. NAS3-25067
+
+Prepared for
+
+National Aeronautics and S p a c e Administration
+Lewis Research Center
+Cleveland, Ohio
+
+0134964
+
+NASA CR-1a21 14
+
+SPACECRAFT FIRE-SAFETY EXPERIMENTS
+FOR SPACE STATION
+TECHNOLOGY DEVELOPMENT MISSION
+
+Wallace W. Youngblood
+
+WYLE LABORATORIES
+Huntsville, Alabama 35807
+(Wyle Report No. 68300-1)
+
+April 1988
+
+Contract No. NAS3-25067
+
+Prepared for
+
+National Aeronautics and Space Administration
+Lewis Research Center
+Cleveland, Ohio
+
+FOREWORD
+This report was prepared by Wyle Laboratories for the National Aeronautics and Space
+Administration (NASA), Lewis Research Center, under Contract Number NAS3-25067.
+The NASA technical manager for this effort was Mr. Robert Friedman, Microgravity
+Science and Technology Branch, NASA Lewis Research Center, Cleveland, Ohio.
+
+ii
+
+THIS PAGE WAS INTENTIONALLY LEFT BLANK.
+
+iii
+
+TABLE OF CONTENTS
+Title
+-
+
+Section
+
+Page
+
+FOREWORD
+
+ii
+
+LIST OF FIGURES
+
+vii
+
+LIST OF TABLES
+
+ix
+
+LIST OF SYMBOLS
+
+X
+
+SUMMARY
+
+xii
+
+1.O
+
+INTRODUCTION
+
+1-1
+
+20
+.
+
+RELEVANCE OF SELECTED LOW-GRAVITY EXPERIMENTS TO
+SPACECRAFT FIRE SAFETY
+
+2-1
+
+Relationship of Selected Experiments to F i r e Safety Issues
+
+2-1
+
+21
+.
+
+211
+..
+212
+..
+213
+..
+214
+..
+22
+.
+
+Post-Fire Recovery of Electrical and Electronic
+Equipment in Low Gravity
+Extinguishment of Fires in Low Gravity
+Combustion and Flame Spread in Low Gravity
+Smoldering and Deep-seated Combustion in Low Gravity
+
+Justification for the Space Station Basing of Selected F i r e
+Safety Experiments
+
+2-1
+2-3
+2-4
+2-6
+
+2-7
+
+223
+..
+30
+.
+
+c
+
+2
+
+2-8
+2-9
+
+Smoldering Combustion Experiment Justification
+
+2-9
+
+CONCEPT DESIGNS OF SELECTED SPACECRAFT FIRE SAFETY
+EXPERIMENTS
+
+31
+.
+
+I
+1
+
+Combustion and Flame Spread Experiment Justification
+F ire/F ire Extinguishants Interaction Experiment
+Justification
+
+221
+..
+222
+..
+
+3-1
+
+Combustion and Flame Spread of Typical Spacecraft Materials
+
+3-1
+
+Overall Description of the Experiment
+Basic Apparatus Required for the Experiment
+Near-Term Combustion and Flame Spread Experiment
+Requirements
+Special Instrumentation and Diagnostic Measur em e n t
+Equipment for the Experiments
+
+3-1
+3-6
+
+311
+..
+312
+..
+313
+..
+314
+..
+
+iv
+
+3-15
+3-19
+
+PRECEDLNG PAGE BLANK NOT FILMED
+
+TABLE OF CONTENTS (Continued)
+
+Section
+
+32
+.
+
+Title
+Interaction of Extinguishants with Fires in Low Gravity
+
+321
+..
+322
+..
+323
+..
+324
+..
+325
+..
+33
+.
+
+Smoldering and/or Deep-seated Combustion in Low Gravity
+
+331
+..
+332
+..
+333
+..
+334
+..
+335
+..
+40
+.
+
+Overall Description of t h e Experiment
+Basic Apparatus Required for t h e Experiment
+N ear-Term F ire/Fire Ex tinguishants Interaction
+Experiment Requirements
+Post-Fire Recovery of Sensitive Electronic
+Components Experiment Requirements
+Special Instrumentation and Diagnostic Measurements
+Equipment for the Experiments
+
+Overall Description of the Experiment
+Smolder Materials of Interest and Their Properties
+Proposed Test Parameters
+Basic Apparatus Required for t h e Experiment
+Special Instrumentation and Diagnostic Measurement
+Equipment for the Experiments
+
+EXPERIMENT ACCOMMODATION REQUIREMENTS
+
+41
+.
+
+Spatial and Mass Estimates
+
+411
+..
+412
+..
+
+Page
+
+3-24
+3-24
+3-31
+3-36
+3-37
+
+3-44
+3-46
+3-46
+3-47
+360
+3-51
+
+354
+4-1
+4-1
+
+First Order Spatial Estimates
+First Order Mass Estimates
+
+4-1
+4-2
+
+42
+.
+
+Input Power and Heat Rejection Estimates
+
+4-2
+
+43
+.
+
+Consumables and Waste Disposal
+
+44
+
+431
+..
+432
+..
+
+Space Station-Supplied Consumables
+Waste Disposal
+
+4-6
+4-7
+
+44
+.
+
+Crew Requirements and Operational Time-Lines
+
+4-7
+
+45
+.
+
+Safety Issues
+
+4-1 0
+
+451
+..
+452
+..
+
+Fundamental Flight Experiment Hazard Requirements
+Special Safety Issues
+
+V
+
+4-1 3
+4-14
+
+3
+
+1,
+b
+
+TABLE OF CONTENTS (Continued)
+Title
+-
+
+Section
+5 .O
+
+EXP ERIMENT-RELATED TECHNICAL LIMIT ATIONS
+51
+.
+
+Non-Intrusive Combustion and Flowfield Diagnostics
+
+511
+..
+512
+..
+513
+..
+514
+..
+515
+..
+
+E
+
+Holography
+Use of Fiber Optics
+Laser Doppler Velocimetry
+Laser Induced Fluorescence
+Laser Ignition of Fuel Materials
+
+Page
+5 -1
+5 -1
+
+5 -2
+5 -2
+5 -3
+5 -3
+5 -3
+
+5.2
+
+I
+
+Disposal or Recycling of Combustion By-products
+
+5-4
+
+EXPERIMENT DEVELOPMENT PLANS
+
+6 -1
+
+6.1
+
+ii
+
+Overall Development Schedule (Phases A-D)
+
+6-1
+
+6.2
+
+I
+t
+
+5 -3
+
+53
+.
+60
+.
+
+Determination of Selected By-Products of Combustion
+
+Planning and Prototype Design, Construction and Testing
+(Phase B)
+
+6-3
+
+Detailed Design, Fabrication, Test, and Delivery of the
+Space Station-Based Experiment Apparatus (Phases C/D)
+
+65
+
+6.3
+7.0
+
+CONCLUDING REMARKS AND RECOMMENDATIONS
+
+7-1
+
+8.0
+
+REFERENCES
+
+8-1
+
+vi
+
+LIST OF FIGURES
+Title
+-
+
+Figure No.
+
+Page
+3 -2
+
+3.1-1
+
+Idealized Flame Spread Experiment in Combustion Tunnel
+
+3.1-2
+
+Concept of Combustion and Flame Spread Experiment Test Section 3-3
+
+3.1-3
+
+Research Combustion Tunnel
+
+3.1-4
+
+Space Station Accommodation of the Combustion and Flame
+Spread Experiment Typical Layout
+
+- Overall Configuration
+
+-
+
+- Combustion Tunnel
+
+3-7
+3 -9
+3-10
+
+3.1-5
+
+Removable Test Section
+
+3.1-6
+
+Concept for Cartridge Type Sample Loading-P ictorial
+
+3-12
+
+3.1-7
+
+Ground- and Airplane-Based Accommodations for the
+Combustion and Flame Spread Experiment
+
+3-17
+
+3.1-8
+
+Combustion-Tunnel Test Section with Bypass Loop
+
+3-18
+
+3.2-1
+
+Space Station Accommodation of Fire/Fire Extinguishants
+Interaction Experiment - Typical Layout
+
+3-26
+
+Extinguishment of Surface Burning Fuel: Quiescent Atmosphere, Directed Application of Extinguishant
+
+3-27
+
+Extinguishment of Surface Burning Fuel: Quiescent Atmosphere, Baffled (Diffused) Ex tinguishan t Application
+
+3-27
+
+Extinguishment of Surface Burning Fuel: Low Velocity
+Flow, Baffled (Diffused) Extinguishant Application
+
+3-28
+
+Extinguishment of Surface Burning Fuel: Low Velocity Flow,
+Baffled (Diffused) Extinguishant Application, Potential
+Ignition of Second Fuel Source
+
+3-28
+
+Extinguishment of Deep-seated Combustion: Quiescent
+Atmosphere, Directed Application of Extinguishant
+
+3-29
+
+Extinguishment of Deep-seated Combustion: Low Velocity
+Flow, Baffled (Diffused) Extinguishant Application
+
+3-29
+
+3.2-8
+
+Combustion Facility Internal Chamber Equipment
+
+3-32
+
+3.2-9
+
+Concept of Post-Fire Recovery of Sensitive Electronic
+Components Experiment
+
+3-41
+
+3.2-10
+
+Exposure (Settling) Chamber for Senstive Components
+
+3-42
+
+3.2-11
+
+Instrumentation and Diagnostic Measurements for the
+Fire/F ire Extinguishants Interaction Experiment
+
+3-45
+
+3.2-2
+3.2-3
+3.2-4
+3.2-5
+
+3.2-6
+3.2-7
+
+vii
+
+I
+
+a
+T
+b
+1
+i
+
+E
+i:
+
+LIST OF FIGURES (Continued)
+
+F igure No.
+
+Title
+Concept of Smoldering and/or Deep-seated Combustion
+Test Section
+
+3-48
+
+Schematic of Smolder Combustion Experiment in
+Combustion Facility
+
+3-49
+
+Instrumentation and Diagnostic Measurements for the
+S moldering and/or Deep-S eated Combustion Experiment
+
+3-57
+
+4 -1
+
+Power Profile for the Combustion Tunnel Facility
+
+45
+
+4 -2
+
+Operational Time-Line Required for the Smoldering
+Combustion Experiment (90 Day Logistics Period)
+
+4-12
+
+Preliminary Development Schedule for the Spacecraft
+Fire Safety Technology Development Mission
+
+6 -2
+
+3.3-1
+3.3-2
+
+3.3-3
+
+6 -1
+
+11
+1
+
+8
+I
+t
+i
+
+1
+
+c
+
+1
+I
+1
+
+Page
+
+viii
+
+1
+2 -1
+
+Selected Fire Safety Related Experiment Classes
+for Space Station Basing
+
+2 -2
+
+3.2-1
+
+Some Selected Studies of Extinguishants Applied
+Over Electronic Gear
+
+3-39
+
+8
+1
+J
+
+3.2-2
+
+Evaluation Parameters for Post-Fire Recovery of Sensitive
+Electronic Components Experiment
+
+3-43
+
+i
+
+3.3-1
+
+Candidate Smolder Materials
+
+4-3
+
+4-1
+
+Estimate of Experiment Facility Masses for Space
+Station Accommodation
+
+4-3
+
+4-2
+
+Estimate of Experiment Facility Input Power for
+Space Station Accommodation
+
+1
+
+4-4
+
+4 -3
+
+Estimate of Space StationSupplied Consumable Gases
+
+4-8
+
+J
+
+4 -4
+
+Estimate of Space Station Waste Disposal Mass
+Requirements
+
+4-9
+
+1
+
+4-5
+
+Estimate of Crew Manhour Requirements for the Space
+Station Based Experiments
+
+4-1 1
+
+I
+
+4 6
+
+Some Selected NASA STS Space Shuttle Safety Guidelines
+
+4-13
+
+6 -1
+
+Phase C/D Tasks for Fire-Safety Space Station Technology
+Development Mission
+
+6-6
+
+LIST OF TABLES
+
+Page
+
+Table No.
+
+II
+
+1
+
+1
+
+1
+4
+
+I
+I
+
+1
+1
+iX
+
+I
+
+LIST OF SYMBOLS
+(See Note 1)
+AFB
+AIAA
+CY
+DA CS
+E CLSS
+EDPE
+E MI
+EVA
+
+FES
+g
+HX
+
+IO c
+JANNAF
+
+JS C
+LDV
+
+LeRC
+LIF
+
+M-Z
+MSF C
+
+Air Force Base
+American Institute of Aeronautics and Astronautics
+Calendar Year
+Data Acquisition and Control System
+Environmental Con trol/Life Support System
+Electronic Data Processing Equipment
+Electromagnetic Interference
+Extravehicular Activity
+Fluids Experiment System
+Gravitational Acceleration
+Heat Exchanger
+Initial Operating Capability
+Joint Ar m y-N avy-N AS A-Air Force
+(Lyndon B.) Johnson Space Center
+Laser Doppler Velocimeter
+Lewis Research Center
+Laser Induced Fluorescence
+Mach-Z ehnder
+(George C.) Marshall Space Flight Center
+
+WPAFB
+
+National Aeronautics and Space Administration
+Near-Infrared
+Polym ethylm ethacrylate
+Polyviny1 Chloride
+Radio Frequency Interference
+Space Station
+Standard Temperature and Pressure
+Space Transportation System
+Thermocouple
+Technology Development Mission
+Waste Management System
+Wright Patterson Air Force Base
+
+NOTE 1:
+
+All other symbols in text have common engineering and scientific
+
+NASA
+NIR
+
+PMMA
+PVC
+RF I
+
+ss
+STP
+STS
+T/C
+TDM
+
+WMS
+
+usage.
+X
+
+1
+
+.
+I
+
+8
+
+s
+
+I
+I
+
+a
+
+1
+THIS PAGE WAS INTENTIONALLY LEFT BLANK.
+
+1
+I
+
+1
+
+1
+
+I
+
+I
+
+c
+
+1
+
+I
+xi
+
+I
+I
+
+1
+
+I
+
+SPACECRAFT FIRE4AFETY EXPERIMENTS FOR
+SPACE STATION TECHNOLOGY DEVELOPMENT MISSION
+
+SUMMARY
+
+R
+
+Definitions, overall descriptions, and preliminary apparatus and instrumentation
+requirements are presented for three spacecraft f ire-safety experiments appropriate
+for inclusion in a growth-version of the Space Station. The experiments are as follows:
+
+I
+
+1.
+
+Combustion and Flame Spread of Typical Spacecraft Materials in a LowVelocity Convective Flow in Low Gravity
+
+I
+
+2.
+
+Fire and Fire-Extinguishant Interactions w i t h Various Fire Scenarios in Low
+Gravity
+
+3.
+
+Smoldering and Deepaeated Combustion in Low Gravity.
+
+1
+
+I
+
+The experiments were selected from an assessment of recommendations for advanced
+technologies for prevention, detection, and control of fires in spacecraft. The
+experiments and their facilities are intended to constitute a portion of a Spacecraft
+Fire Safety Technology Development Mission (TDM). Basic requirements for the
+mission study are that the Space Station is essential for the accomplishment of the
+experimental objectives and that the technology being developed is appropriate for the
+growth version of the Space Station. The advantages of these three experiments are
+that, not only do they explore problems relevant to the Space Station operation and
+utilization, but also they constitute tests adaptable to two multiuse facilities installed
+in the Space Station laboratory module, the Combustion Tunnel Facility and t h e
+Combustion Facility. Three additional spacecraft fire-safety experiments, essential
+precursors to the TDM for near-term performance, are also described as follows:
+
+1.
+2.
+
+3.
+
+Near-Term Testing of Materials for Combustion and Flame Spread
+Near-Term Extinguishment of Fires in a Low-Gravity Test Bed
+Post-Fire Recovery of Sensitive Electrical and Electronic Equipment.
+
+For all the experiments, the study defines accommodations in terms of first-order
+space, mass, power, consumables, and crew-time estimates. The study also reviews
+the key problems to be addressed, namely experiment safety hazards, non-intrusive
+diagnostics development and waste-products disposal. A preliminary task and time
+schedule for design, development, and experiment fabrication is proposed.
+
+xii
+
+PRECEDING PAGE BLANK NOT FlLMED
+
+THIS PAGE WAS INTENTIONALLY LEFT BLANK.
+
+r
+
+i
+
+1
+
+1
+1
+xiii
+
+I
+
+1
+.
+0
+
+1
+I
+I
+I
+
+c
+
+I
+
+8
+b
+
+E
+I
+B
+I
+
+1
+
+t
+
+I
+I
+
+INTRODUCX'ION
+
+With the advent of the NASA Space Station, efforts are once again intensifying in all
+ar'eas of manned spaceflight safety. New materials and new structural-design
+concepts have been and continue to be developed and new fire-detection and
+suppression techniques continue to be assessed. While it is not suggested that the fire
+safety measures developed during the late 1960s and early 1970s are inappropriate, t h e
+number of new technologies in all relevant areas of research (materials, toxicology,
+medical health/physiology, fire detectionlsuppression, etc.) provide strong impetus to
+reassess many spacecraft fire safety design concepts.
+The Space Station shall provide a clearly unique set of problems and opportunities.
+The primary advantage of the Space Station to the research and technology development community is the investigator's opportunity to conduct long-term activities in
+the low-gravity environment of Earth orbit. Further, the ability to perform these
+activities with some crew (i.e., payload specialist) involvement is clearly attractive to
+many potential Space Station users. A s the interest in using the Space Station grows,
+t h e demand for lowering the cost of access will intensify. However, the demand for
+access must not diminish in any way t h e safety imperatives as regards the crew or the
+nation's capital investment in the Space Station. Thus, it is incumbent on the Space
+Station designers to continue the development of all safety-related technologies.
+Spacecraft fire safety technical concerns were placed in focus a t the Spacecraft Fire
+Safety Workshop sponsored by the NASA Lewis Research Center (Cleveland, Ohio) in
+August 1986 (Ref. 1). The technical concerns discussed a t the Workshop were
+organized under the following interrelated headings:
+
+o
+o
+o
+o
+o
+
+Ignition and Detection of Fires
+Extinguishment
+Toxicity and Human Effects
+Spacecraft Materials and Configurations
+Spacecraft Atmospheres.
+
+A number of specific technology issues and related recommendations were identified
+
+a t the Workshop for each of these topics. Summaries of the key issues relevant to
+areas of spacecraft fire safety have been discussed in a recent AIAA paper (Ref. 2). In
+
+1-1
+
+this paper, t h e authors reviewed the historical findings of low-gravity combustion
+experiments and demonstrated the relationship of these findings to spacecraft fire
+safety. It should be noted that most low-gravity, combustion science experiments
+conducted to date have utilized earth-based drop towers, aircraft flying Keplerian or
+ballistic flight paths, and the NASA Skylab in a limited, though important, test
+(Experiment M479, Ref. 3). Some of the low-gravity combustion findings resulting
+from experimentation in these various facilities may be tabulated as follows (from
+Ref. 2):
+1.
+
+Although the ignition energy required to initiate combustion of typical
+materials is generally unaffected by gravity, the total incident energy
+required for ignition may be reduced due to the absence of natural
+convection heat losses.
+
+2.
+
+In the absence of forced-convection flows, the burning rate and flame
+spread of most solid materials are reduced in low gravity.
+
+3.
+
+Low-gravity flames are generally cooler and sootier than comparable
+
+flames in normal gravity. Also, other flame "signature" aspects may be
+different (e.g., color, shape, fluctuations, etc.).
+4.
+
+Low-gravity flame spread may be enhanced by the forced convection
+imposed by spacecraft ventilating systems.
+
+5.
+
+The burning of some materials in low gravity may result in hot globules of
+t h e material scattering and drifting in all directions to adjacent surfaces.
+(Recent confirmation of this hazard was observed and reported by S. Olson
+and R. Sotos (Ref. 4) for the dispersion of particles from nylon Velcro).
+
+6.
+
+Although low-gravity flames may be cooler than comparable normalgravity flames, t h e radiation heat transfer to adjacent surfaces may be
+higher due to the concentration of high emissivity soot particles.
+
+Several low-gravity combustion research projects are currently in progress and/or are
+awaiting resumption of the STS Space Shuttle flights for manifesting. Some of these
+projects that are related to spacecraft fire safety were described by R. Friedman in a
+presentation a t the May 1987 J A N N A F Safety and Environmental Protection Subcommittee Meeting (Ref. 5). It was noted that two ground-based projects are to be
+conducted in the NASA Lewis Research Center drop towers and Learjet airplane. One
+project is to investigate low-gravity combustion in the presence of low-speed forced
+flow. The second project is concerned with the analysis and experimental investigation of smoldering (Le., nonflaming) combustion that may persist in some spacecraft
+materials such as foam cushions. In addition, three combustion science experiments
+1-2
+
+1
+
+I
+
+I
+
+have been described (Ref. 6) that are planned for eventual Space Shuttle flights.
+Although these experiments, covering solid-surface combustion, particle-cloud
+combustion, and droplet combustion, are directed towards fundamental combustion
+science, their application to the resolution of some fire safety technology issues is
+compelling.
+The purpose of the study presented in this report is to define and
+experiments that address t h e key issues of fire safety for the Space
+Six experiments are included. Three of these have near-term
+precursors for application to eventual Space S tation-based missions.
+
+develop specific
+Station (Ref. 7).
+significance as
+The other three
+
+constitute a Space Station Technology Development Mission in spacecraft fire safety.
+The concepts and designs for the TDM experiments include the provisions for multiuse
+facilities and estimates of accommodation requirements for the Space Station. The
+TD M experiments are intended for inclusion in a second-generation, or growth-version
+Space Station. The precursor experiments are intended for the initial Space Station or
+even t h e Shuttle.
+This report describes the conceptual designs and requirements for the six selected
+experiments, grouping the near-term and the TDM experiments together, where
+relevant. The results of the definition studies are applied to derive first-order
+estimates of experiment accommodations and development plans for the Space
+Station. Also included is a preliminary assessment of technical limitations and
+problems to be addressed in t h e eventual experiment developments.
+
+1 -3
+
+I
+
+a
+
+THIS PAGE WAS INTENTIONALLY LEFT BLANK.
+
+1-4
+
+2.0
+
+RELEVANCE OF SELECTED LOW-GRAVITY EXPERIMENTS TO SPACECRAFT
+
+FIRE SAFETY
+2
+.
+1
+
+Relationship of Selected Experiments to Fire Safety Issues
+
+A prioritized set of experiments has been identified that is deemed appropriate to the
+
+growth era of the Space Station (Le., post IOC) and that appears to demand the use of
+the Space Station for experiment basing. These experiment classes are listed in Table
+2-1. Three of these low-gravity experiments were selected for a Space Station TDM
+and are described and identified herein as follows:
+1.
+
+Fire Safety Aspects Related to the Combustion and Flame Spread of
+Typical Thicknesses of Candidate Spacecraft Materials ("Combustion and
+Flame Spread")
+
+2.
+
+Evaluation of the Safety and Effectiveness of Candidate Extinguishants in
+Low Gravity Fire Scenarios (Tire/F ire Ex tinguishan ts Interaction")
+
+3.
+
+Fire Safety Aspects Related to the Smoldering and/or Deep-seated
+Combustion of Selected Spacecraft Materials ('Smoldering Combustion").
+
+Some of the ground-based and near-term low-gravity precursor activities and
+experiments are described which may be necessary to support development of the
+Space Station-based TD M experiments. From an extensive list of potentially desirable
+near-term experiments (Le., those low-gravity experiments that could be performed in
+the 1990 to 1995 timeframe to benefit the Space Station IOC), the following set of
+three were selected, and they are also described herein:
+o
+
+o
+o
+
+Post-Fire Recovery of Electrical and Electronic Equipment in Low Gravity
+Extinguishment of Fires in Low Gravity
+Cornbustion and Flame Spread in Low Gravity.
+
+211
+..
+Post-Fire Recovery of Electrical and Electronic Equipment in Low Gravity.
+The interruption of spacecraft systems as a result of any fire scenario is unwanted
+and, in the case of many systems, may be critical to the safe continuation of the
+spacecraft mission and crew safety. Even a false alarm condition could potentially
+cause a critical system failure or interruption by, e.g., unwarranted release of
+extinguishant and/or shut-down or blockage of ventilation systems within the spacecraft (Le., interruption of the ECLSS).
+
+2 -1
+
+TABLE 2-1.
+
+SELECTED FIRE SAFETY RELATED EXPERIMENT
+CLASSES FOR SPACE STATION BASING
+
+EXPERIMENT CLASS
+
+FIRE SAFETY DISCIPLINE
+~
+
+1.
+
+Perform tests to obtain low-gravity, combustion and
+flame spread data relevant to solid materials and
+liquids.
+
+Materials and Configurations
+
+2.
+
+Perform tests to investigate smoldering combustion of
+selected materials in low gravity. This experiment class
+may include deep-seatedcombustion as well.
+
+Materials and Configurations
+
+Determine the chemical mechanisms of Halons and other
+
+Fire Extinguisment
+
+3.
+
+candidate extinguishants acting in the presence of
+
+low-gravity flames.
+4,
+
+Accumulate fire signature data from the above series of
+tests:
+
+Materials and Configurations,
+Fire Detection
+
+- flame spectral lines
+- particle sizeslconcentratlons
+- flame temperature and density profiles
+- combustion product species
+5.
+
+Test and evaluate the effectiveness of candidate extinguishants and/or inertants on smoldering and flaming combustion.
+
+Fire Extinguishment
+
+6.
+
+Perform research and verification tests of multiple signal
+(pattern recognition) fire detection systems in situ. This
+experiment class may also include any candidate fire
+detectors.
+
+Fire Detection
+
+7.
+
+Evaluate post-fire recovery of electrical and electronic
+components after application of extinguishants.
+
+Fire Extinguishment
+
+I
+
+2 -2
+
+P ost-fire restoration to operational status of sensitive electrical and electronic
+components and assemblies is of concern in any environment. The recovery to
+
+uninterrupted continuous operation of such equipment in space may be critical.
+Damage due to fire may terminate the operation of directly affected components and
+is not, therefore, the subject of this experiment. However, the recovery of all
+sensitive equipment that had been subjected to the application of an extinguishant in
+low gravity is of interest. The ways in which extinguishants and combustion byproducts can adversely affect sensitive equipment includes at least the following:
+a.
+
+Electrical shorting caused by condensed liquids and/or soot particles.
+
+b.
+
+Coating of components by acids produced in the fire/fire extinguishant
+interaction.
+
+There are immediate, near-term and long-term concerns relevant to the continued
+operation of sensitive equipment exposed to a fire scenario. The immediate failure of
+a component may be due to electrical shorting, arcing, cracking due to heat,
+obscuration of optical paths due to soot particles, etc. The near- and long-term
+concerns are more subtle, and eventual failure may be manifested in corrosion,
+breakdown of insulation coatings, etc.
+Clearly, the fire safety-related aspects of these concerns apply to any critical or
+essential equipment, whether ground-based or spacecraft-based. However, the criticality increases in spacecraft equipment, and the thirty-year-plus lifetime of the
+Space Station provides additional concern, especially regarding long-term corrosion
+
+and other forms of degradation.
+2.
+.2
+1
+
+Extinguishment of Fires in Lon GraviQ. Some of the fire safety issues
+
+regarding the use of candidate fire extinguishants in spacecraft environments were
+discussed in some detail by D . J. deRis at the Spacecraft Fire Safety Workshop
+r
+(Ref. 1). Dry powders and water-based foams were discounted (for general use) due to
+the clear problems related to cleaning the spacecraft internal environment after
+application of such extinguishants. Note, however, that in the current effort no
+extinguishant is being fully discounted. For example, the use of water-based foams
+may well be ideal for use in pre-EVA airlocks where the oxygen concentration may be
+30 percent or higher.
+
+2 -3
+
+Regarding Halon 1301 (Bromotrifluoromethane, CF3Br), D . deRis identified several
+r
+problems and uncertainties relevant to its use on spacecraft:
+
+o
+
+The long-term effects of Halon 1301 to human exposure in its original
+"neat" state are not fully known.
+
+o
+
+The products of combustion from fires being suppressed by the Halons can
+be highly toxic and are often corrosive.
+
+o
+
+Adequate removal of Halon 1301 from the spacecraft atmosphere is not
+currently possible.
+
+o
+
+The Halons are generally ineffective under high oxygen concentrations,
+such as in hyperbaric chambers, and are also relatively ineffective on some
+deep-seated and glowing combustion fire scenarios.
+
+The use of C 0 2 versus N2 as an atmosphere inertant and fire suppressant was
+discussed. Although manned spacecraft have an ability to remove COS from the
+environment, there are weight penalties in storing C 0 2 on the spacecraft, and there
+
+may be long-term physiological effects associated with its use. The use of water
+sprays or high pressure water misting systems was also discussed a t the Workshop.
+Water extinguishants minimize the formation of toxic compounds and can be
+extremely effective on smoldering and deep-seated combustion. In the application of
+nearly all candidate extinguishants, there are a variety of "modes" of use. These
+modes include flooding, manual operation of portable units, misting, directed sprays,
+etc.
+From t h e above comments and other background material, i t is clear that there is
+currently no consensus on what constitutes a fully appropriate extinguishant and/or
+extinguishment system for use on manned spacecraft. In the near-term, Halon 1301
+flooding and hand-held extinguishers will probably continue to be used; however, it is
+suggested that water sprays and other extinguishants be considered as well. Toxicity
+studies, especially those of long-term effects of candidate extinguishants are
+important, although they can be accomplished, a t least in part, on earth under
+normal-gravi ty conditions.
+2.
+.3
+1
+Combustion and Flame Spread in Low Gravity. A fundamental uncertainty in
+spacecraft fire safety lies in all aspects of the ignition and burning of solid (condensed
+
+phase) materials in low-gravity
+
+environments.
+2-4
+
+Basically, without a thorough
+
+understanding of the ignition and flame spread resulting from the combustion of
+typical thicknesses of spacecraft materials in low gravity, i t is difficult to conceive
+realistic fire scenarios and plan appropriate fire detection and suppression measures in
+the spacecraft.
+Only limited low-gravity experimental combustion and flame spread investigations
+have been performed on candidate materials having thicknesses typical of spacecraft
+
+end-use applications. In an effort to address this deficiency, the Combustion and
+Flame Spread Experiments described herein are designed to address the following
+technology issues:
+1)
+
+Scientific validation of flammability testing for materials screening under
+normal gravity for application to low gravity
+
+2)
+
+Identification of combustion by-products obtained in low gravity for use in
+human physiology and toxicology studies
+
+3)
+
+Determination of fire signature data for use in selecting and testing
+candidate fire detectors.
+
+With regard to the first technology issue, Le., screening of spacecraft materials for
+flammability, it is normally deemed conservative to accept materials that have passed
+a series of earth-based screening tests, including normal-gravity flammability tests
+(see Ref. 8) for application to low-gravity use. However, there is significant concern
+t h a t slow convective flows may enhance the spread of diffusion flames even in a lowgravity environment (Ref. 9). In the practical case of the habitable areas of manned
+spacecraft, there is often a slow, forced convective flow for ventilation and the
+
+continuous regeneration of the atmosphere.
+The second of the above technology issues, Le., that concerning the by-products of
+combustion in low-gravity, is of interest to several fire-safety technical disciplines.
+Appropriate design of the Space Station's Environmental Control and Life Support
+Subsystem (ECLSS) requires knowledge of the aerosols and particulate material that
+must be removed for crew safety. The possibility that combustion in low-gravity
+environments may produce different toxic compounds and/or different amounts of
+toxic compounds than observed in norrnal-gravity combustion cannot be discounted.
+The short- and long-term effects on human physiology due to exposure to these
+compounds are also of interest.
+
+Also, the toxic compounds produced when various
+
+candidate extinguishants interact with flames in low-gravity may be of concern.
+2 -5
+
+Fire detectors and fire detection systems should be selected based on a risk
+assessment of the potential fire hazards. The choice of the type($ of fire detectors
+for use on the Space Station and other advanced spacecraft continues to be an
+important challenge. Since fire signature data from potential fire hazards are
+extremely useful in choosing fire detectors/systems, maximum advantage of any
+combustion and flame spread experiment should be made. The fire signature data
+under consideration here include at least the following:
+o
+
+o
+o
+o
+
+Flame Characteristics (size, shape, temperature, color, etc.)
+Spectral Content of Flame
+Smoke Particle Sizes and Concentrations
+Selected Species Production.
+
+Finally, since there may be some effects on material flammability due to long-term
+aging, the combustion and flame spread experiment apparatus described herein could
+be used for accelerated aging evaluations.
+2.1.4
+
+Smoldering and D e e H e a t e d Combustion in Low Gravity. Smoldering is a mode
+
+of nonflaming combustion occurring in porous and permeable materials.
+I t is
+characterized by exothermic thermal degradation of t h e combustible material
+followed by combustion (often complete) of the gaseous degradation products, with
+little emission of visible radiation. It has been observed that a smolder combustion
+wave propagates through a permeable fuel just as an open flame would, but at a
+greatly reduced velocity and maximum temperature, Le., 700-1300K (800-18800F)for
+smoldering versus up to 1800K (27800F)or higher for flaming combustion (Ref. 10). In
+many respects, smoldering, or non-flaming combustion is similar to deep-seated
+combustion, and no distinction will be made between smoldering and deep-seated
+combustion in this report.
+Since some spacecraft materials and fire scenarios make smoldering combustion
+possible, it appears compelling to pursue this technology issue. Smoldering combustion
+could occur in such diverse material applications as the following:
+a)
+b)
+c)
+
+Permeable insulation in aircraft and spacecraft cabins
+Cushions that are filled with porous or permeable foams, fiber, cloth, etc.
+Waste bins containing any of the above or other porous materials.
+
+Further, any of the larger spacecraft such as the Space Shuttle/Spacelab, Space
+Station, etc. will have low- to medium-velocity forced air circulation systems that
+could enhance smoldering combustion wave propagation and, thus, increase the
+potential fire safety hazard. In any event, it may be shortsighted to assume that such
+a hazard can be totally avoided by ground-based testing and materials screening
+procedures. In fact, it isn't clear at the present what would constitute an adequate
+ground-based screening test for materials that may smolder in low gravity.
+The smolder combustion experiment described herein is intended to address the
+following scientific and fire safety technology issues:
+
+1)
+2)
+
+Identification of by-products from low-gravity smoldering combustion to
+compare their quantity and toxicity with those produced under normalgravity levels
+
+3)
+
+Determination of fire signatures to enhance the data base used for the
+selection and testing of candidate fire detectors and fire-signature
+generators
+
+4)
+
+2.2
+
+Scientific validation of smolder combustion testing for materials screening
+under normal-gravity levels for application to low gravity
+
+Evaluation of the effects of long-term aging on the propensity of a
+material to support smoldering combustion. (Some materials, such as
+cellulosics, are more easily ignited w i t h age.)
+
+Justification for the Space Station Basing of Selected Fire Safety Experiments
+
+The safety of any spacecraft, especially manned spacecraft, m u s t always be of t h e
+
+highest priority. However, the justification for any low-gravity combustion sciencerelated and/or fire safety-related experiment demands consideration of cost versus
+information returned. The cost of performing such experiments in ground-based drop
+towers, aircraft flying Keplerian ballistic trajectories, and even sub-orbital ballistic
+rockets will be modest compared to Space Shuttle- or Space Station-based experimentation. Thus, Space Station basing of any experiment may be unwarranted if the
+technology involved can be satisfied adequately by other less costly and/or more
+timely means. Competing technologies will place a major burden on the use of the
+Space Station's accommodations in all respects (experiment berthing, crew time,
+power, consumables, etc.).
+
+2 -7
+
+s
+The approach taken herein relevant to the justification for Space Station-basing of the
+selected experiments is that current knowledge m u s t demonstrate that the Space
+Station is essential for the accomplishment of the currently stated objectives.
+Basically, the need to conduct Space Station-based fire safety-related experiments
+stems from requirements for relatively long periods of low gravity (of the order of 30
+seconds to several minutes), readily controllable environments and other test parameters, experiment sizes that are not highly restrictive, and modest crew interaction.
+Justification for conducting comparable near-term, low-gravity experiments relevant
+to fire safety is clearly established if the Space Station-based experiments are
+justified.
+
+2.
+.1
+2
+Combustion and Flame Spread Experiment Justification. To date, nearly all
+low-gravity investigations of solid (condensed phase) material ignition and flame
+spread have been conducted in facilities capable of producing only a few seconds of
+burning time. For example, typical drop tower facilities produce experimental times
+of only 1-5 seconds and aircraft parabolic flights produce only slightly longer periods
+of low gravity (- 15-25 seconds). Thus, the materials investigated in such facilities
+are generally very thin so that t h e ignition and burning time is very short. Generally,
+ignition occurs in normal gravity with subsequent flame spread in low gravity, and
+steady-state burning conditions are seldom achieved.
+For a thorough understanding of t h e ignition, combustion and extinction of solid fuels
+in low gravity, experiment run times of the order of many seconds to a minute or more
+are needed. Thus, in order to test typical thicknesses of candidate spacecraft
+materials in low gravity such that ignition, flame spread, extinction, etc. can all be
+studied thoroughly, experiment run times are required that can only be met by basing
+the experiment on the Space Shuttle, a free-flyer package, or, ultimately, on the
+Space Station or a Station-tended facility.
+The evolution of a combustion and flame spread experiment, such as is being described
+herein, may be based on a limited number of Space Shuttle precursor tests. However,
+access to an experimental apparatus capable of providing the type of data desired may
+be very difficult, even on the Space Shuttle.
+In order to perform adequate
+investigations, the combustion and flame spread apparatus will require interaction by a
+crewmember. This interaction dictates basing the apparatus within a Spacelab
+2 -8
+
+I
+
+1
+
+I
+I
+
+m
+
+I
+
+a
+
+1
+1
+I
+I
+
+I
+1
+I
+
+I
+
+1
+I
+I
+
+module, further limiting payload accommodation. Thus, although Space Shuttle-based
+experimental investigations of combustion and flame spread on thermally thick solid
+fuels are feasible and desirable, the availability of flight opportunities and crewmember involvement is likely to be inadequate.
+Because of t h e limitations associated with Space Shuttle-based experiments, t h e
+Combustion and Flame Spread Experiment described herein is deemed highly appropriate for Space Station-basing. Experiment time and crewmember access to the
+apparatus should permit highly useful determinations of the following data:
+
+o
+o
+o
+o
+o
+o
+
+Energy required to initiate ignition
+Ignition transient time and flame spreading rates
+Extinction limits
+Burning rates (mass loss rates)
+Flame characteristics (e.g., size, shape, color, temperature, etc.)
+Types and amounts of combustion intermediates and soot particles (particulate size distribution, particulate concentrations, species, etc.).
+
+-
+
+2.2.2 Pireflire Extinguishants Interaction Experiment Justification. Nearly all lowgravity investigations relevant to the interaction of fires with fire extinguishants and
+various inertants have been conducted in ground-based drop towers and in aircraft
+flying ballistic trajectories. Thus, investigations to date have been limited to very
+brief periods of microgravity, on the order of seconds. These periods do not allow
+enough t i m e to ignite and establish combustion of the fuel and t h e subsequent studies
+of extinguishment. To study the effects of various extinguishants and their application
+to various combustion scenarios may take several seconds or minutes depending on the
+type of fuel and application. These potentially long run times can only be met by
+basing the experiment/facility on t h e Space Shuttle, a free-flyer or, ultimately, on the
+Space Station or a Space S tation-tended facility.
+2.2.3 Smoldering Combustion Experiment Justification. There is a continuing
+interest in performing near-term smoldering combustion research by use of multiple
+parabolic trajectories provided by, e.g., the NASA KC-135 aircraft, and there are
+plans for extending this effort to the Space Shuttle. Experiment process time, as well
+
+2-9
+
+as the low-gravity condition, is critically important to smolder combustion
+experiments. Smolder propagation velocities are typically of the order of 5 to 5 0
+cm/hr (2-20 in/hr) (Ref. 11). In low gravity, even in the presence of forced convection,
+propagation may be lower, implying negligible combustion-wave movement in t h e test
+facilities whose test time a t low-gravity is only a few seconds. Presently planned
+aircraft parabolic flight testing is justified, however, on the basis of early availability
+and t h e anticipation that much useful information may be obtained by flying such an
+experiment through a series of parabolic trajectories and subsequently correlating the
+measurements (smolder velocity and temperature) w i t h the recorded gravity vector.
+Aircraft basing of the smolder combustion experiment is further justified as an
+experimental precursor to an eventual Space Shuttle experiment to provide valuable
+information toward the final design and performance of the experiment.
+An extensive concept definition study (Ref. 10) relative to t h e Spacelab-basing of
+smoldering experiments was prepared by M. Summerfield and his associates a t the
+Princeton Combustion Research Laboratories. Recognizing the limitations of ground-
+
+based smoldering experiments, they designed a set of co-current and counter-current
+smolder experiments to b e conducted on boird Spacelab in a combustion chamber
+facility.
+The smoldering experiments under planning for aircraft parabolic flights and the Space
+Shuttle/Spacelab are appropriate precursors to any Space S tation-based studies of a
+similar nature. Space Station smoldering combustion experiments may be justified
+from the standpoint of fire safety, if the related technology issues are not adequately
+resolved by the planned precursor efforts.
+
+2-10
+
+3.0
+
+CONCEPT DESIGNS OF SELECTED SPACECRAFT FIRE SAFETY
+
+EXPERIMENTS
+An overall description of three spacecraft fire safety-related experiments is provided
+in this section. Taken together, these three low-gravity experiments constitute a
+proposed Space S tation-based Technology Development Mission (TD M): Spacecraft
+
+Fire Safety. Although the emphasis herein has been placed on the Space Station-based
+experiments, the concepts and descriptions of the three near-term low-gravity firesafety experiments are included within the discussions of the TDM experiments.
+I t should be noted that all of the experiments described herein (both near-term and
+
+Space Station-based) require the use of either of two generic experiment facilities,
+Le., the Combustion Tunnel Facility and the Combustion Facility. These experiment
+facilities are discussed in context with the appropriate fire safety-related
+exper i men t.
+s
+3.1
+
+Combustion and Flame Spread of Typical Spacecraft Materials
+
+Overall Description of the Experiment.. The purpose of this experiment is to
+investigate the details of a number of combustion and flame spread parameters in a
+low-gravity, low-convective-velocity flow environment. In terms of spacecraft fire
+safety, the desired output from experiments of this type should include the following
+
+3.1.1
+
+information and data:
+o
+o
+
+o
+o
+
+Flame shape, temperature and velocity field, color, spread rate, and
+extinction limits
+Mass loss rate of bulk fuel
+Production of toxic by-products
+Smoke (soot) particle size distribution and number density.
+
+The ability to measure all of these parameters simultaneously during any specific run
+time is highly desirable, but quite difficult. The types of special instrumentation and
+diagnostic measurement equipment required for this experiment will be described.
+Figures 3.1-1 and 3.1-2 are, respectively, representative of single- and double-sided
+combustion and flame spread taking place within the test section of a special
+combustion flow facility. The thermally-thick solid fuels of interest are shown
+mounted in such a flow facility capable of providing a uniform flow (a flat velocity
+
+3 -1
+
+/
+
+1111t It lllll
+3-3
+
+profile) a t velocities from -0.5 cm/sec (1.0 ft/min) up to -15 cm/sec (30 ft/min).
+The flow media could include those with compositions and pressures such as the
+following:
+o
+
+N2 with up to 30% O2 a t 70.3 kPa (10.2 psia)
+
+o
+
+N2 with up to 80% O2 a t 101.4 kPa (14.7 psia)
+
+0
+
+N2 with 11-12% O2 a t 202.8kPa (29.4 psia)
+
+o
+
+Other inertants with up to 80% O2 a t 101.4 kPa (14.7 psia)
+
+Note that the percentage range of oxygen in the oxidizer gas flow may be from close
+to 80% to the extinction limit for a particular set of test parameters (estimated a t no
+less than 7% for a pressure of two atmospheres). The actual percentages of oxygen
+allowable will be determined from safety-related calculations and ground-based tests.
+Solid fuel candidates will initially include those for which there is a significant amount
+
+of ground-based flame spread data. These materials include cast polymethylmethacrylate (P MMA) and, possibly, some wire insulations (e.g., Teflon and Kapton).
+The preferred configuration of the PMMA is that of a rectangular plate, while the
+Teflon and Kapton may be tested in the form of a wire insulation. I t should be noted
+that an additional test option is that of performing the flame spread experiments a t
+selected bulk fuel temperatures. Although not shown herein, this variation could be
+accomplished by embedding resistance wires in the bulk fuel. A steady and stable fuel
+temperature is desired before initiation of the combustion process. For example, the
+desired bulk fuel temperature range for PMMA is from approximately ambient (2OoC
+(68OF)) to 15OoC (300'F).
+For any given set of flow parameters (velocity, oxidizer gas mixture, and pressure),
+the solid fuel will be ignited, and the burning and flame spread will proceed in
+accordance with the established conditions. The most likely means of ignition will be
+a nichrome resistance heater element located either a t t h e leading or trailing edges of
+the fuel (as desired).
+Throughout the ignition and burning process, a number of measurements can be taken
+simultaneously.
+These measurements may consist of a combination of both
+non-intrusive diagnostics (laser-based optics, video cam era, etc.) and intrusive sensors
+3-4
+
+(thermocouples, mass spectrometer microprobe, etc.).
+A s t h e state of the art
+progresses, some-if not all-of t h e intrusive sensors may be replaced with noncontact, optical diagnostics.
+During the flame spread over the fuel specimen, the fuel would be held stationary w i t h
+respect to the instrumentation probes and optical paths. However, after the flame
+spread is complete, it is suggested that the burning fuel be made to move in the y- and
+z-directions (Le., longitudinal and lateral directions, respectively) in order to
+investigate a profile through t h e flame. The side view shown in Figure 3.1-2 indicates
+a minimum of two separate optical paths through the flame, each having also a 90
+degree observation angle. The purpose and function of these optical paths will be
+described more fully in the section on special instrumentation and diagnostic measurement equipment. Also shown in Figure 3.1-2 are schematic locations of several
+thermocouples and the mass spectrometer microprobe. All of these sensors, as well as
+the optical paths, would be fixed relative to the flow channel, and only t h e fuel moves
+relative to the sensors and optical paths. The flame spread may have to be restricted
+to one side of the fuel, as shown in Figure 3.1-1, to limit the heat release to practical
+values.
+The solid-fuel samples, sample exchange mechanism and all instrumentation are
+proposed to be a part of, or related to, a continuous flow facility referred to herein as
+t h e Combustion Tunnel Facility. This facility and its major components and peripheral
+apparatus are described in the next subsection. A completely different technique that
+could be used to simulate slow convective flow is to move the burning sample a t a
+steady velocity in a quiescent medium. However, this technique is not addressed in
+this report, since such a procedure does not produce the same flow conditions as that
+where the flow field is moving over a stationary sample, and since there are a number
+of practical problems as well (e.g., limited path length, location of diagnostic sensors,
+etc.).
+In terms of the desired measurements, the following fundamental techniques are
+
+suggested. A video camera recording, or alternatively a hologram recording, would be
+made through the large optical port. Also, the local velocity field would be measured
+by means of a laser Doppler velocimeter (LDV) via optical path number 1 along w i t h
+laser induced fluorescence (LIF) measurements of some combustion by-products (at
+
+least the OH radical). Temperature measurements would be obtained a t various
+locations in the flame by means of t h e thermocouples shown located adjacent to the
+solid fueL Optical path number 2 could be used for Rayleigh scattering to monitor the
+soot particle size distribution and number density. Finally, the mass spectrometer
+microprobe would be used to monitor a broader range of combustion by-products. If
+the LDV measurements and the particle seeding that may be necessary are deemed too
+
+complex, velocity measurements may be obtained by analyzing the particle tracks on a
+laser sheet. Further, if the LIF measurements cannot be justified, they would be
+deleted in favor of the mass spectrometer probe. These simpler diagnostic techniques
+may be justified for the initial tests.
+312
+..
+
+Basic Apparatus Required for the Experiment The major apparatus item
+
+required for the Combustion and Flame Spread Experiment is a facility referred to
+herein as the Combustion Tunnel Facility, which was conceived and designed by
+W. W. Youngblood and described in Reference 12. I t is suggested that such a facility
+could be used for a wide range of fire-safety technology investigations, as well as for
+its original intent of providing a low-gravity test bed for fundamental combustion and
+flame-spread studies. A schematic of the Combustion Tunnel is shown as Figure 3.1-3.
+The facility consists of the following major basic components:
+a)
+b)
+
+c)
+
+d)
+
+e)
+
+Removable test section
+Fuel sample introduction/retrieval subsystem
+Flow recirculation components
+Stagnation (settling) chamber
+- Fadmotor
+- Heat rejection coils
+Gas makeup and flow filter subsystem
+Flow rate measurement and control subsystem
+Interim purge/storage subsystem.
+
+-
+
+In addition to the fundamental Combustion Tunnel facility, the following items make
+
+up t h e remainder of the basic apparatus:
+f)
+
+g)
+h)
+
+Flow characterization subsystem
+Flame diagnostic instrumentation
+Data acquisition and control subsystem (DACS).
+
+3 4
+
+8
+I
+I
+
+8
+I
+#
+I
+I
+I
+
+m
+I
+I
+3
+8
+1
+B
+
+I
+I
+1
+
+t 't
+
+3-7
+
+?
+F
+ci
+W
+P
+
+1
+The complete Combustion Tunnel facility is shown in a proposed Space Station-based
+accommodation in Figure 3.1-4.
+Design concepts of the Combustion Tunnel
+components a) to e) are described briefly in the following paragraphs, and the
+additional subsystems f) and g) are described later. The details of the DACS, item h),
+are outside of t h e scope of this study.
+Removable T s Section. Figure 3.1-5 represents the combustion and flame spread
+et
+
+test section as adapted to t h e Combustion Tunnel, The engineering design of the test
+section should provide for relatively quick removal for periodic cleaning of the test
+section and repair or maintenance of the sample-exchange mechanism. Although no
+engineering detail is shown, the flanges a t each end of the test section could be of the
+quick-removal, ring clamp type.
+The overall dimensions of the test section are open to further review. The scale used
+in Figure 3.1-5 suggests an overall length of 1 0 2 cm (40 in) for t h e test section from
+flange-to-flange. This is for a test section whose reference cross-sectional dimension
+
+is 20 cm (8 in), either circular or square, as shown. The very short flow-path distance
+from t h e upstream inlet/flow conditioner to the sample position is suggested to
+provide a uniform and flat velocity profile and to provide open space downstream of
+the sample for the sample-exchange mechanism. The final determination of the flow
+channel length downstream of the test specimen will depend on the ability of the
+downstream flow conditioner to prevent flow turning disturbances from propagating
+upstream. In addition, t h e test section cross-sectional dimension may have to be
+increased for use with the thermally-thick solid fuels. However, a dimension greater
+than 25 cm (10 in) is impractical since it may make the entire Combustion Tunnel
+facility too large for Space Station basing.
+Fuel Sample Introduction/Retrieval Subsystem. A method m u s t be provided for
+
+introducing the solid fuel samples into the test section of the Combustion Tunnel, The
+concept design in Reference 1 2 presented three different methods for introducing
+thermally-thin sheet fuels (paper, plastic, etc.) into t h e test section. Clearly, the
+introduction of the more rigid, thermally-thick solid fuels poses new problems. For
+example, the preferred configuration for cast polymethylmethacrylate (PMMA) is that
+
+3 -8
+
+I
+I
+
+s
+
+I
+
+s
+
+I
+
+1
+1
+I
+
+I
+
+1
+
+I
+
+I
+I
+1
+I
+1
+I
+
+E
+n
+
+0
+
+I
+s
+
+A
+
+-Z
+E
+
+e
+.-
+
+EQ
+
+J
+
+z3
+I C
+
+3-10
+
+t
+
+I
+1
+
+of a rectangular plate whose suggested dimensions are as follows:
+
+o
+o
+
+Opposed-flow flame spread:
+3 cm (1.2 in) wide, 1 cm (0.4 in) thick, 10 cm ( . in) long
+39
+Concurrent-flow flame spread:
+5 cm (2.0 in) wide, 1 cm (0.4 in) thick, 15 cm (5.9 in) long.
+
+Figure 3.14, from Reference 12, illustrates one practical concept of automatic fuelsample insertion and retrieval for thick specimens, a cartridge type sample loading
+mechanism. In this design, fresh fuel samples are brought in from one side of the
+Cornbustion Tunnel through a narrow slot. They are caused to turn into the flow path
+where they are ignited when conditions are ready. The spent sample is removed from
+the tunnel through the same slot. This design has the advantage of requiring minimal
+scarring of the test section since insertion and retrieval takes place through one side
+of the wall only. The major disadvantages of this design are as follows: 1) the process
+of insertion and retrieval would interfere with any fixed sensors (e.g., thermocouples)
+located in the flow path; and 2) provision of a mechanism t o permit the streamwise
+(longitudinal)and lateral movement of the fuel sample would be difficult. Alternative
+methods of sample insertion and retrieval are being investigated. There may be some
+advantage to having each fuel sample instrumented with its own thermocouples and
+sample holder (sting).
+Design of the solid fuel insertion and retrieval subsystem is clearly challenging. The
+larger, longer-burning, thick fuel samples may preclude automatic or even semiautomatic change-out of fuel samples. The need for development of such mechanisms
+depends on the ultimate requirements in terms of number and types of fuel samples to
+be combusted and the trade-off of payload specialist time versus experiment automation.
+Flow Recirculation Components. One of the most demanding and restrictive constraints relevant to the Space Station-or Space Shuttle/Spacelab-basing of a combustion facility of any size is that of venting, or discharging, of the spent gases after a
+combustion process. In spacecraft-based experiments, neither venting nor compressing
+of the spent gases is permitted without severe restriction. The Combustion Tunnel
+facility described herein is conceptually designed to be of the fully recirculating type
+with only minimal venting and gas makeup allowed. The Reference 1 2 study
+
+3-11
+
+3-12
+
+0
+
+c
+
+a
+
+:
+f
+
+8
+
+Y
+
+1
+
+I
+I
+1
+I
+I
+I
+1
+1
+1
+1
+I
+
+1
+1
+I
+I
+I
+I
+I
+
+considered flow-through designs and rejected them due to the Space Station design
+constraints on venting to the Space environment or, alternativelr, on the basis of the
+excessive power required for real-time waste gas recompression i nd storage.
+
+A s shown in Figures 3.1-3 and 3.1-4, the major components of fhe flow recirculation
+system include the following:
+o
+
+o
+o
+o
+o
+
+Stagnation (settling) chamber
+Heat rejection coils
+Fadmotor subassembly
+Filter subsystem
+Gas make-up subsystem.
+
+Each of these components is common to nearly all recirculating flow facilities, and is
+described in some detail in Reference 12. However, some add tional comments are
+deemed appropriate here relative to t h e heat rejection coils, gt s makeup subsystem,
+and filter subsystem.
+The heat rejection requirements of the Combustion Tunnel facili ;y will be due largely
+to a combination of the heat released in the combustion pi ocess and the heat
+dissipated by t h e fadmotor subsystem. Most of the fadmotor ieat may be assumed
+to be absorbed by t h e tunnel flow media and must, therefore, be *emovedupstream of
+the tunnel test section. Preliminary estimates of the combustion ?recess heat releases
+are approximately 1.0-1.5 kW (34005100 Btu/hr). This amount ( f heat rejection will
+require use of an air-to-liquid heat/exchanger (see Figure 3.1-4). Detailed design may
+indicate the need to locate the major heat exchanger coils just domstrearn of the test
+section.
+During any combustion and flame spread experiment performe f in the Combustion
+Tunnel facility, the flow medium will be continuously changing. The percentage of
+oxygen will be decreasing and particulate matter (soot and smoke and the by-products
+of combustion will be increasing. The oxygen content of the jlow medium can be
+continuously monitored by, preferably, a dedicated oxygen ani lyzer or by a mass
+I
+
+spectrometer. A s the oxygen content is depleted, i t may be made up by various
+methods. Reference 12 described several methods of regulating the composition of
+t h e initial or makeup gas flow in the combustion tunnel.
+
+3-13
+
+Of these, one of the most
+
+accurate methods is through the use of a calibrated volume. The central element of
+this method consists of a precisely machined calibration chamber whose volume has
+been accurately determined. The calibration chamber is supplied by each gas (e.g.,
+oxygen) in turn, through a series of pressure regulators, solenoid valves and critical
+flow orifices. The pressures and temperatures in the calibration chamber and the
+Combustion Tunnel are continuously monitored, which permits precisely calibrated
+masses of each gas to be introduced into the Combustion Tunnel under microprocessor
+control. This procedure would be repeated for each additional gas component required
+to obtain the desired mixure. An advantage of this method is that precise quantities
+of makeup gases may be added to the mixture during and between experimental runs.
+It is recommended that the Combustion Tunnel flow medium be filtered during and
+between experimental runs. As a minimum, filters should be used to remove t h e
+largest soot and smoke particles. The next priority may be to remove the water vapor
+and other condensibles formed as combustion by-products. I t is possible that the
+removal of the condensible materials (by cooling coils and/or desiccants) may allow
+sufficient makeup of oxygen to extend t h e combustion and flame spread experiment
+run times to satisfactory values.
+A further refinement of the flow filter subsystem would be the addition of various
+
+process absorbants and rare earth catalysts to aid in the removal of the other major
+combustion by-products (e.g., CO, C02, and certain hydrocarbons). For example,
+cannisters containing LiOH are used to remove COS while noble metal catalysts are
+used in oxidation reactions to convert CO to C02. Many of the hydrocarbon products
+may be converted and removed from t h e flow medium in a similar oxidation reaction
+process. Unless converted and otherwise removed, t h e accumulation of these fuel
+vapors that have not been combusted could pose an explosive hazard within the
+Combustion Tunnel. The use of such elaborate gas purification and conversion systems
+for Combustion Tunnel operation and interim purging is identified as a technology
+development item (see Section 5.0).
+
+Flow Rate Measurement and Control System. The schematic of Figure 3.1-3 indicates
+two parallel flow-rate measurement techniques. Higher flow rates can be measured
+through a calibrated orifice-plate system. Very low flow rates can be measured
+through a calibrated laminar flow element (LFE) system. The LFE is capable of
+making very precise flow-rate measurements at the cost of a high pressure loss.
+3-14
+
+1
+I
+I
+1
+
+I
+
+s
+
+I
+I
+I
+1
+1
+
+I
+1
+
+I
+
+I
+
+1
+I
+
+I
+I
+
+I
+1
+
+U
+I
+
+8
+I
+
+Flow-rate measurements would furnish input signals to a microprocessor and the flow
+characterization subsystem. The subsystem would then control the fan motor speed
+for precise settings of the total gaseous mass flow and, consequently, the test section
+velocity.
+
+Interim PurgeBtorage Subsystem. An interim purge/storage subsystem shall be
+required for temporary and safe storage of spent gases from the Combustion Tunnel
+facility. The gases would be evacuated from the Combustion Tunnel facility and
+compressed slowly (Le., a t low power) into a pressure vessel. The purposes of the
+interim purge/storage subsystem are as follows:
+
+a)
+b)
+c)
+
+Temporarily store spent gases prior to delivery to the Space Station vent
+system
+Temporarily store the spent gases prior to subsequent clean-up and reuse
+Provide access to the Combustion Tunnel for cleaning, routine maintenance, etc.
+
+A s shown in Figure 3.1-3, this subsystem would consist of a compressor and storage
+cylinder placed in t h e lines between the Combustion Tunnel and t h e Space Station vent
+system. The size of the compressor and storage cylinder would be determined by the
+amount of Combustion Tunnel gas charge required to be accommodated between
+discharges to the Space Station waste gas handling system and the time allowed for
+the compression process (Le., dependent on the desired timeline for each experiment).
+313
+..
+
+Near-Term Combustion and Flame Spread Experiment Requirements. Section
+
+3.1.2 described the basic components required for a Space S tation-based Cornbustion
+
+Tunnel to be used in fundamental and fire safety-related flame spread experiments.
+Clearly, there must be a prerequisite of low-gravity combustion and flame spread
+experiments, new and on-going, to be conducted in the 1990-1995 time frame.
+It is recognized that several combustion and flame spread experiments are planned
+(and some recently completed) for ground-based and Space Shuttle operation. Some of
+these have already been cited in t h e INTRODUCTION.
+In addition to the on-going near-term experimentation, an aggressive comprehensive
+
+program is necessary to study flame spread systematically in a low-gravity, lowvelocity convective flow environment as a precursor to the 3pace S tation-based
+
+3-15
+
+experimentation.
+steps:
+Step 1.
+Step 2.
+
+Step 3.
+
+Such a comprehensive program would include the following major
+
+Design, construct and operate a ground-based, laboratory breadboard
+model of a Combustion Tunnel facility.
+Based on the knowledge gained from Step l., design and construct a
+Combustion Tunnel apparatus to be operated on an aircraft such as
+the NASA KC-135A.
+Develop a Spacelab-based Combustion Tunnel experiment package
+based on t h e experience of Step 2. and identify t h e unresolved fire
+safety-related technology issues.
+
+A ground-based, laboratory breadboard model of the Combustion Tunnel facility is
+
+shown in Figure 3.1-7.
+
+A s shown, this model is not optimized in terms of size or
+
+packaging; rather, the model is intended to be used to conduct a series of
+low-velocity, convective-flow flame spread studies under nor mal-gravity conditions.
+Facility design questions regarding flow control and measurement, diagnostic instrumentation, particulate filters, oxygen depletion and makeup, sample exchange, etc.
+can best be investigated with such a model.
+Note that the Combustion Tunnel laboratory breadboard illustrated in Figure 3.1-7
+may be modified as required to be installed on a suborbital aircraft such as the NASA
+KC-135A. The size of the KC-135A aircraft would easily accommodate the large
+laboratory Combustion Tunnel model, for multiple parametric testing.
+In general, t h e Combustion Tunnel described here for near-term combustion and flame
+spread experiments would be essentially identical-except for final size optimization
+and packaging-to that of the Space Station-based facility. However, the near-term
+experiment apparatus need not be as fully automated, and, therefore, no sample
+exchange mechanism is indicated.
+Figure 3.1-8 shows another version of the Combustion Tunnel test section for nearterm testing. The intent of this configuration is to permit removal of the test section
+during, e.g., KC-135A aircraft flights. Several test sections could be readied and
+exchanged during a single flight. An alternative would be to clean and reload a single
+test section with new fuel specimens during a flight. Note also the movable video
+camera shown adjacent to the test section. This mounting suggests manual operation
+of the camera during a flame spread process.
+3-16
+
+1
+I
+I
+1
+I
+1
+I
+1
+I
+1
+I
+I
+1
+I
+I
+1
+
+I
+
+1
+
+I
+
+t C
+
+3-17
+
+1
+
+I
+I
+
+I
+I
+1
+I
+I
+1
+1
+I
+I
+1
+I
+
+s
+1
+I
+
+I
+I
+
+3.
+.4
+1
+Special Instrumentation and Diagnostic Measurement Equipment for the Experiments. Desired Measurements. Some of the experimental information and data
+desired from the combustion and flame spread experiments was identified in earlier
+sections of this report. Again, the information and data sought include, but is not
+limited to, the following:
+
+-
+
+a)
+b)
+
+Energy required to initiate ignition
+Mass loss rates
+
+C)
+
+Ignition transient, flame spread and extinction limits
+Flame characteristics (size, shape, color, temperature and velocity
+field, e tc-1
+By-products of combustion.
+
+d)
+
+e)
+
+The basic requirements will be discussed, and some examples of intrusive and nonintrusive sensors and diagnostic measurement equipment will be presented. The reader
+is referred to two state-of-the-art papers that may be applicable in several repects to
+these combustion and flame spread experiments. K.C. Smyth, et aL (Ref. 131, describe
+a detailed experimental characterization of a diffusion flame (methane/air) using both
+optical (non-intrusive) and mass spectrometric (intrusive) diagnostics. The optical
+methods included the following: 1) laser Doppler velocimetry (LDV) for velocity
+profiles; 2) laser-induced fluorescence (LIF) for measuring relative concentrations of
+OH and the monitoring of the production of C2 by fluorescence; and 3) laser-induced
+scattering (Rayleigh).
+R.J. Santoro, et aL (Ref. 141,
+extinction/scattering technique for particle size measurement.
+
+describe a
+
+laser
+
+The reader i also referred to a study prepared by T. Georgekutty of Wyle Laboratories
+s
+and documented in NASA CR-179535 (Ref. 12). The study by Georgekutty describes a
+concept design for a laser-based diagnostics system for a Space Station combustion
+tunnel facility. Georgekutty's design suggests that the current state-of-the-art be
+improved upon by insisting that the diagnostics system be completely non-intrusive in
+character (Le., completely optical). Two levels of complexity were described, each
+level having its own merits,
+System I: Includes holography, classical optical techniques, Laser Doppler
+Velocimetry (LDV) and Laser Induced Fluorescence ( L E )
+System 1 : Includes holography, LDV and LIF.
+1
+
+3-19
+
+Both systems would acquire essentially the same basic data, but System I would be far
+inore complete and could provide certain parameters, e.g., flame propagation and
+temperature profiles, in real time. The classical optical system includes Schlieren,
+shadowgraph and Mach-Zehnder (M-Z) interferometric investigation capabilities which
+would provide rerl-time data on the Space Station. The Schlieren system provides the
+flame propagation information, and the M-Z interferometry provides the temperature
+profile measurements. Admittedly, t h i s system would be very complex, and its
+feasibility and application for use in a size and configuration suitable for the Space
+Station microgravity environments would need to be investigated in a ground-based
+"breadboard" system.
+In the System 1 concept design, the classical optical system is completely eliminated
+1
+reducing, of course, the capability for real-time measurement of flame propagation
+and temperature profiles. Note that both the classical optical system and holography
+can provide essentially the same basic data measurement. The advantage of proposing
+holography in both systems is in recognition of its ability to store information for later
+analysis in a ground-based laboratory and its established application to other microgravity experiments. Holography was used as a major portion of the data acquisition
+for the Fluid Experiment System (FES) on the Space Shuttle Spacelab-3 mission
+(Ref. 15).
+The level of sophistication of the System I diagnostic techniques introduced above may
+be considered to be entirely too complex for the combustion and flame spread
+experiments described herein. The System I1 diagnostics system (Le., holography, LDV
+and LIF) is less complex and may be more feasible. However, taken alone the System
+I1 diagnostic system may not produce all of the information and data required. Thus, it
+
+is recommended at this time that the simpler, more well-established, diagnostic
+techniques be used that include both non-intrusive (Le., video camera or laser
+holography) and intrusive (Le., thermocouples, mass spectrometer probes, etc.)
+measurement techniques.
+Measurement of Ignition energy. The energy required to initiate ignition on a solid
+
+fuel in low-velocity, low-gravity environmental conditions may be of interest.
+Although the exact amount of ignition energy is not important to flame spread and
+
+3-20
+
+1
+I
+I
+1
+I
+I
+I
+I
+1
+I
+I
+I
+1
+I
+I
+I
+I
+I
+I
+
+extinction limit experiments as long as the energy is large enough to initiate
+combustion, knowledge of the minimum ignition energy and its dependence on
+different ignition modes may be important from a fire safety point of view. The
+Combustion and Flame Spread Experiment suggested here will provide an opportunity
+to study low-gravity ignitability of a material.
+
+Mass Loss Rate Determination. Mass loss rate is of interest since each solid fuel
+material will exhibit its own production rate of combustion by-products. Laboratory
+methods for measuring burning mass loss rates have included those of the determination of the wedge angle formed across the thickness of the sample by the steadily
+spreading flame (Ref. 16) and the depletion of oxygen in the exhaust products
+(Ref. 17). Another method of determining burning mass loss rate may be that in which
+the solid fuel specimen mass is correlated directly with the frequency response of the
+sting support. This technology isn't new, but it may not have been applied to
+combustion experimentation. Finally, the fuel sample may be weighed (after removal
+from t h e test section) to obtain a global burning rate.
+The heat release could be excessive if the experiment run times are more than a f e w
+seconds and if the fuel samples are large. For this reason, flame spread may have to
+be limited to only one side of the fuel sample as shown in Figure 3.1-1.
+Ignition T a s e t and Flame Spread Both the ignition transient and flame spread are
+rnin
+of considerable interest in fire safety. Observations may be made by means of a video
+camera or by the use of laser holography. In terms of the levels of complexity, a video
+
+camera would be relatively straightforward and would allow real-time monitoring of
+the combustion process. Both the flame front and pyrolysis front can be readily
+photographed since laminar flames are most likely. The use of fine thermocouples
+mounted on the fuel surface will also yield significant information, since the
+thermocouple output will provide a continuous trace of temperature as the flame
+progresses. The use of a classical Schlieren optical system to provide real-time
+monitoring of the flame propagation represents a much higher level of complexity and
+may not be warranted.
+
+3-21
+
+The study of T. Georgekutty (Ref. 12) recommends the consideration of a holographic
+recording system. The subsequent reconstruction of the holographic recorded data
+would provide flow visualization and other information to aid in defining temperature
+and density profiles.
+
+Determination of Flame Characteristics. The initial chemical steps in the flame
+leading to the formation of larger molecules (and eventually to soot-particle inception)
+are of great interest to the combustion community. However, to date it has been
+determined that optical techniques alone are inadequate.
+Further, once the
+measurements are moved into the soot particle formation region, nearly all optical
+measurements are masked by the soot particles, except for extinction and scattering
+deter m ina t ions.
+With the current state-of-the-art of diffusion flame diagnostics, it isn't clear that
+fully non-intrusive optical systems can provide t h e needed information. Thus, the
+following discussion of measurements t o characterize the flame will incorporate both
+optical (non-intrusive) and conventional (intrusive) sensors.
+The determination of various flame parameter profiles (e.g., temperature and density)
+by non-intrusive means would require either a classical optical system (Mach-Zehnder
+Interferometry) for real-time observations, or a holographic recording system for later
+data analysis. These methods were described in some detail by T. Georgekutty
+(Ref. 12).
+A more direct, although intrusive, method is t o use extremely fine-wire thermocouples
+
+located at selected postions above the solid fuel. This technique was used successfully
+by K.C. Smyth, e t al. (Ref. 13) in a study of methane/air diffusion flames. Uncoated
+Pt/Pt-10% Rh thermocouple (T/C) wire of 125 p m diameter was stated as being used.
+The T wire supports were located just outside' of the high-temperature flame zone.
+!
+C
+A relatively common method for making velocity measurements in fluid streams is
+
+that of laser Doppler velocimetry (LDV). Again, the optical system required to make
+LDV measurements was described by T. Georgekutty in Reference 1 2 , and such
+measurements were taken by K. C. Smyth, et al. (Eef. 13) in a methane/air diffusion
+
+3-22
+
+I
+I
+I
+1
+I
+I
+I
+I
+
+I
+
+I
+1
+I
+1
+I
+1
+
+I
+
+I
+I
+I
+
+flame. Both the vertical and horizontal velocity components were obtained by means
+of a LDV system using a conventional argon ion laser (-1 W). Since the air and
+methane were relatively pure and clean, the flow was seeded by nominal l p m
+(4 X 10-j in) diameter aluminum oxide particles.
+
+The LDV technique measures
+velocity point-by-point, and, therefore, the use of LDV for determining the velocity
+profiles in a spreading flame may be extremely difficult. Basically, one must know the
+position of the velocity point relative to the flame. A simpler method might make use
+of the observation of particle tracks and a laser sheet to provide a more complete
+flame-field picture.
+Techniques for optical determination of species profiles are somewhat limited.
+K.C. Smyth, et aL (Ref. 13) used laser-induced fluorescence (LIF) to obtain profiles of
+OH and Cg. Since the stated purpose of the work by Smyth e t al. was to improve the
+understanding of the soot formation processes, specifically the early chemical steps
+which lead to the formation of larger molecules and eventually to particle inception
+(soot formation), the LIF measurements of OH and C2 were not considered adequate.
+Thus, a direct-sampling mass spectrometer was used to monitor a number of the
+intermediate species including methane, toluene, hydrogen, nitrogen, carbon dioxide,
+water vapor, etc. A quartz microprobe was used t o draw samples from the diffusion
+flame. The microprobe was stated to have an outside diameter of -6 m m (0.24 in)
+with a tapered tip orifice inside diameter of -140 p m (0.0055 in). I t was stated that
+this probe would clog with soot if it was moved beyond t h e soot inception line above
+the burner tip.
+The determination of species profiles through a spreading flame is compelling, but the
+current state-of-the-art suggests that such determinations are difficult at best. Thus,
+i t is recommended that near-term efforts be devoted to measurement and analysis of
+t h e combustion by-products well downstream of the soot inception region.
+By-Products of Combustion. Cf significant interest to spacecraft fire safety are the
+combustion by-products that may be observed at some distance away from the flame
+source.
+By-product measurements include the smoke and soot particle size
+
+distribution, particle concentration, density, and quantity and type of toxic gaseous
+compounds.
+
+3-23
+
+R.J. Santoro, e t al. (Ref. 14) presented the detailed results of a study to measure soot
+particles in ethene/air and ethane/air diffusion flames. A laser extinction/scattering
+
+technique was used to obtain the spatial distributions of particle volume fraction,
+mean particle size, and particle number concentration. This is not a new technology,
+but coupled w i t h the types of diagnostics reported by K.C. Smyth, e t al. (Ref. 13) a
+relatively complete characterization of a diffusion flame may be obtained.
+3
+.
+2
+
+Interaction of Extinguishants with Fires i Low Gravity
+n
+
+3.2.1 Overall Description of the Experiment. The purpose of this experiment is to
+investigate a variety of fire/fire extinguishant interaction parameters in a low-gravity
+environment. In addition, there is an interest in evaluating the immediate and longerterm effects on sensitive electronic components (e.g., printed circuit boards, switchgear, optical readers, etc.) that may result from the local exposure to extinguishants
+and combustion products. Even temporary interruption of such components could be
+c r i t i c a l to t h e S p a c e S t a t i o n mission. This investigation is discussed f u r t h e r in S e c t i o n
+
+3.2.3.
+The apparatus identified to meet this objective, the Space S tation-based Combustion
+Facility, has been conceptually designed as a versatile, general-purpose, reusable
+research facility, which will enable the experimenter to make optimum use of the
+extended low-gravity, shirt-sleeve environment of the Space Station. The Combustion
+Facility is intended to permit the experimenter to:
+1.
+
+Use suitably contained liquid, gaseous or solid fuels (Le., insulation, coatings,
+wire/cable covers, etc.)
+
+2.
+
+Specify and establish the composition and pressure level of the atmosphere in the
+Combustion Facility
+
+3.
+
+Study the effects of various extinguishing agents (Le., Halons, C02, H20,foams,
+etc.) on the fuels
+
+4.
+
+Study the effects on extinguishment by varying the geometry and means of
+application of extinguishing agents (Le., continuous stream, spray, mist, variable
+flow rate)
+
+5.
+
+Characterize the experiment with common types of instrumentation as well as
+selected specialized equipment
+
+6.
+
+Study the combustion and extinguishment process visually by direct observation
+and by video camera coverage to obtain time histories of pertinent experimental
+par am eters.
+
+3-24
+
+I
+I
+1
+1
+I
+I
+I
+I
+
+I
+
+I
+1
+1
+1
+I
+1
+I
+I
+I
+I
+
+I
+,I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+Figure 3.2-1 is a conceptual design of the Combustion Facility configured within a
+standard Space Station double and single rack. The facility will utilize standard Space
+Station mechanical and electrical interfaces.
+Typical Combustion Facility operations would include the insertion and subsequent
+positioning of the liquid, gaseous or solid fuel within the chamber. The positioning
+could be accomplished by use of a robot a r m within the chamber. The robot arm would
+be controlled by the Data Acquisition and Control Subsystem (DACS), exterior to the
+chamber, on the commands of the mission specialists. Once the desired geometry of
+the fuel has been attained, the access door is closed, and a microcomputer based
+within the DACS is used to establish the various experimental parameters specified:
+
+o
+
+Extinguishants
+Halon1301
+Water
+
+-
+
+-
+
+eo2
+
+Foam
+Etc.
+
+Desired Geometric Application of Extinguishants
+Stream
+Spray
+Mist
+Flow Rate and Particle Size
+
+o
+
+-
+
+o
+
+-
+
+Composition and Pressure Level of the Atmosphere Within the Chamber
+Inlet Gases/Composition
+N2
+O2
+Argon
+Etc.
+Working Pressure Up to 101.4 kPa (14.7 p i a )
+
+o
+
+-
+
+Chamber Flow RatelVelocity.
+
+For any given set of parameters specified, the fuel will be ignited, and the
+introduction of extinguishants will proceed in accordance with the specified
+conditions. It may be noted that the above list of parameters implies a large number
+of possible fire/fire extinguishants interaction scenarios. However, a practical number
+of experiments may be chosen from the most likely extinguishants, nozzles, and solid
+fuels. Some suggested scenarios are illustrated by Figure 3.2-2 through 3.2-7. These
+
+3-25
+
+3-26
+
+w
+
+0
+Gi
+
+-
+
+&
+
+E
+..
+
+2
+
+u
+
+d
+
+..
+
+<
+
+i
+i
+
+u
+
+P
+cc
+
+8
+
+I
+I
+
+I
+I
+
+I
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+1
+
+I
+
+Lcrl
+
+IGNITER LEADS
+
+REGION
+
+'
+
+CLAMING FUEL
+SPECIMEN
+
+L
+
+(PROCESS IN COMBUSTION CHAMBER)
+
+EXTINGUISMMENT
+SYSTEM
+
+I'
+
+I-
+
+w
+
+VIDEO CAMERA
+(OR HIGH SPEED
+MOTION CAMERA)
+
+10NITLR LEADS
+
+REGION
+
+'FLAMING
+FUEL
+SPECIMEN
+
+(PROCESS IN COMBUSTION CHAMBER)
+
+EXTINGUISHMENT
+SYSTEM
+
+I
+FIGURE
+
+I
+I
+
+VIDEO CAMERA
+(OR HIGH SPEED
+MOTION CAMERA)
+
+3.2-3.
+
+EXlINGUlSHANT OF
+
+SURFACE BURNING FUEL: QUIESCFNT ATMOSPHERE9
+BAFFLED 10IFFUSED1 FXTINGUISHANT APPLICATION
+
+3-27
+
+-
+
+VIDEO CAMERA
+(OR HIGH SPEED
+MOTION CAMERA)
+
+4
+
+f w ' REGION
+u t
+
+I
+EXTINGUISHMENT
+SYSTEM
+
+'
+
+f U M l N G fUEL
+SPECIMEN
+
+(PROCESS IN COMBUSTION
+
+Y'
+!
+
+CHAMBER)
+
+-
+
+WOE0 CAMERA
+
+(on maw s n e o
+
+MOTION C I U E R A )
+
+RUIC-REWON
+
+'
+
+CLAWNO FULL
+S?ECtUEN
+
+I
+EXTINOUISHUENT
+SYSTEY
+
+Y'
+!
+
+(PROCESS IN COMBUSTION CHAMBER)
+
+FIGURE
+
+3.2-5.
+
+INGUISHMENT OF SUR FACE BURN1
+NG FUEL: LOW V a O C l T Y FLOW. BAFFLED
+IDIFFUSED1 EXTINGUISHANT APPLICATION. POTENTIAL IGNITION OF SECONQ
+FUEL SOURCE
+~
+
+3-28
+
++9
+
+VIDEO CAMERA
+HIGH SPEED
+MOTION CAMERA)
+
+I-(OR
+t
+
+.IGNITER LEADS
+
+J
+
+\ SMOLDERING FUEL
+SPECIMEN
+(PROCESS IN COMBUSTION CMAMBER)
+
+EXTINGUISHMENT
+SYSTEM
+
+FIGURE
+
+3.2-6.
+
+BTINGUISHMWT OF W P - S E A T E D COMBUSTION: QUIESCFNT:
+ATMOSPHERE, DIRECTED APPLICATION OF EXTINGUISHAm
+I
+
+e WVTI OOH0M W SPEED
+- (ORI L CAMLRA
+CAMERA)
+U
+
+'
+!
+(PROCESS IN COMBUSTION CHAMBER)
+
+FIGURE
+
+3.2-7.
+
+FXTINGUISHMFNT OF DEEP-SEATED COMB USTION: LOW VEL0CITY FLOw3
+BAFFLED DIFFUSED) FXTINGUISHANT AP PLICATION
+
+3-29
+
+limited scenarios are tabulated as follows:
+
+Ex t inmishm en t Sc enar io
+
+Illustration
+
+o
+
+Surface burning fuel
+- quiescent atmosphere
+- direct application
+
+Figure 3.2-2
+
+o
+
+Surface burning fuel
+- quiescent atmosphere
+baffled application
+
+Figure 3.2-3
+
+o
+
+Surface burning fuel
+- low velocity flow
+- baffled application
+
+Figure 3.2-4
+
+o
+
+Surface burning fuel
+low velocity flow
+baffled application
+potential second fuel source
+
+Figure 3 . 2 5
+
+Deep-seated combustion
+quiescent atmosphere
+direct application
+
+Figure 3.2-6
+
+Deep-seated combustion
+low velocity flow
+baffled application.
+
+Figure 3.2-7
+
+-
+
+o
+
+-
+
+o
+
+-
+
+Throughout the ignition, burning and subsequent extinguishment, a number of measurements will be taken simultaneously. These measurements are proposed to consist of a
+combination of both non-intrusive diagnostics (laser-based optics, video cameras, etc.)
+and intrusive sensors. As the state of the art progresses, some - if not all - of the
+intrusive sensors may be replaced with non-contact, optical diagnostics.
+Once the fire has been extinguished, measurements and characterization of the
+atmosphere will continue, thus providing the necessary data for post-fire clean-up
+measurements. Post-fire clean-up will then begin. The chamber will be evacuated,
+purged with an inert gas, sprayed with a cleanser, purged with inert gas, and readied
+for another investigation.
+The following fundamental observations may be made regarding the desired
+measurements. A video camera, or alternatively a holograph, recording of the
+ignitidextinguishant process w l be obtained through any of the large optical quality
+il
+
+3-30
+
+ports on the chamber. The chamber internal temperature, pressure and oxygen
+concentration will be monitored with thermocouples, pressure transducers, and an
+oxygen analyzer, respectively. Laser-induced fluorescence (LIF) could be used to
+measure relative concentrations of OH and monitor the production of C2 by
+fluorescence. Laser-induced scattering (Rayleigh) could be used to monitor the
+particle sizes and number densities after extinguishment. However, the use of LIF and
+Rayleigh scattering may require considerable development prior to incorporation into
+this experiment.
+Basic ADparatus Required for the Experiment. A s mentioned previously, the
+
+3.2.2
+
+primary facility for the Fire/Fire Extinguishants Interaction Experiment, the Combustion Facility, is a chamber modeled after the "Zero-Gravity Combustion Facility"
+conceptually designed for Spacelab by R.L. DeWitt (Ref. 18).
+A s shown in Figures 3.2-1 and 3.2-8, the Combustion Facility will consist of the
+
+following major systems:
+1) Combustion Chamber
+2)
+
+3)
+4)
+5)
+
+6)
+
+7)
+
+Extinguishants System
+Spray Nozzles
+- Pumping System
+- Gas PurgeBtorage
+Fuel Handling Equipment
+- Ignition Attachment
+
+-
+
+Data Acquisition and Control System (DACS)
+Heat Exchanger
+Fan/Motor Assembly
+Combustion/Ex tinguishants Measurement Sys terns
+Video Recording/Holography Video
+
+-
+
+LDV
+LIF
+
+Rayleigh Scattering
+Oxygen Analyzer.
+
+A brief description of the above mentioned systems is provided in the sections that
+
+follow.
+
+3-31
+
+W
+
+3-32
+
+W
+
+4
+Y
+
+m
+W
+
+a
+
+I
+1
+
+The Combustion Chamber. The combustion chamber, as shown in Figure 3.2-8,
+
+will
+
+be a stainless steel cylinder approximately 0.62 meters (25 in.) in outside diameter by
+1.2 m (47 in.) long w i t h elliptical head ends. The overall height of the chamber will be
+approximately 1.5 m (59 in.), which is the maximum height available for experimental
+hardware in the rack. The internal volume of the chamber (exclusive of the elliptical
+heads) is approximately 0.4 m3 (14 ft3), although up to twice this volume would be
+more desirable, if it could be accommodated, to increase the facility's working volume
+and versatility.
+A minimum of four ports is suggested to be located on the sides of the cylindrical
+
+combustion chamber. These ports would have cover plates of opticalquality transparent material. Three ports could be aligned on one side of the chamber, with their
+vertical axes parallel to the vertical axis of the chamber. The upper and lower ports
+could be used for video camera coverage of combustion experiments taking place
+within the chamber. The middle port could be used, e.g., for a laser beam directed in
+the vicinity of an experiment located within the chamber. A fourth port would be
+located directly across the chamber from the middle port. This port would allow a
+photodetector to be mounted outside the chamber to observe the experiment being
+irradiated by the laser beam. Additional optical ports and/or mirrors may be
+incorporated into the design.
+The Combustion Facility will have an access door approximately 0.51 m (20 in.) wide
+and 1.02 m (40 in.) in height on the "front" of the combustion chamber. The access
+door would incorporate the three optical quality ports located on the front of the
+chamber. The door must be easily removable to allow access to the chamber interior
+and easily resealable to isolate the chamber and equipment during in-flight testing.
+Seals must be easily refurbished or replaceable during servicing or in-flight maintenance.
+Extinguishants and Purge System. The Combustion Facility extinguishment and gas
+handling system is comprised of the following:
+1)
+2)
+3)
+
+Spray Nozzles
+Pumping System
+Gas PurgelS torage.
+
+3-33
+
+Spray nozzles would be located around t h e interior of the chamber (Figure 3.2-8) and
+be controlled by the DACS. These nozzles shall be designed to may permit
+investigation of the effects on extinguishment by varying the geometry and mode of
+application of the extinguishing agent (i.e., the nozzles would be capable of producing
+a stream, spray, or mist). The nozzles could also possess the capacity to gimbal, thus
+altering the geometry of the agent application on the fire. The nozzles should be
+capable of spraying a variety of extinguishing agents such as Halon 1301 (CF3 Br),
+liquid water (H20),
+etc. The same nozzles could be used for safety extinguishment and
+for post-fire atmospheric clean-up. Extinguishment techniques through atmospheric
+control, such as nitrogen pressurization and vacuum-depressurization, may also be
+investigated in the chamber by deactivating the nozzles.
+The pumping system would be located exterior to the chamber and would be controlled
+by the DACS. The pumping system can provide the designated extinguishing agents to
+the spray nozzles at the specified rate and also provide the designated atmosphere in
+the chamber. The specific requirements for the pumping system are to be determined.
+An interim purge/storage system shall be required to safely store spent gases and
+residual extinguishants from the Combustion Facility. The gases would be evacuated
+from the combustion chamber and slowly compressed (Le., a t low power) into a
+pressure vessel. The purposes of the purge/storage system are as follows:
+1)
+
+2)
+
+Temporarily store spent gases prior to delivery to the Space Station Waste
+Management System (WMS)
+Temporarily store the spent gases prior to subsequent clean-up and reuse.
+
+The system would consist of a compressor and spherical storage container placed in
+the lines between the Combustion Facility chamber and the Space Station WMS. The
+size of the compressor and storage sphere would be determined by the amount of
+chamber gas charge required to be accommodated between discharges to the Space
+Station WMS and the time allowed for the compression process (Le., dependent on the
+specific experimental time-line).
+The Fuel Handling Equipment. Different types of fuels can be accommodated in the
+
+facility. The fuels may range from suitably contained liquids and gaseous or solid fuels
+(Le., coatings and insulations used on electronic instruments, components, etc.). Thus,
+
+3-34
+
+the configuration of the fuels may range from small sheets or cylinders to much larger
+and/or more complex shapes. To accommodate this wide range of fuels, the
+Combustion Facility may be equipped with a Robot Arm (Figure 3.2-8) to hold the fuel
+a t the specified orientation within the chamber. The Robot Arm would be controlled
+by the D A B , and the fuel would be held in the specified orientation required relative
+to the nozzles and/or the fan/motor assembly. The movement of the arm should allow
+complete access to any position or location within the chamber. The method of
+ignition used will be assumed to depend on the type and configuration of fueL For
+example, the Robot Arm could itself be equipped w i t h a special ignition attachment.
+This attachment would consist of a small nichrome wire which, when heated, would
+ignite the fueL However, i t should be noted that only in the cases of liquid and
+gaseous fuels will this special attachment be used. In many cases the experimenter
+may wish to design his own unique ignition system, locating it on or within the fuel
+itself. The ignition system will be controlled by the DACS.
+
+The Experiment Data Acquisition and Control System (DACS). The DACS will consist
+of a microprocessor-based, on-board computer-controlled system. The computer
+system will control and monitor the following systems and functions for the
+experiment:
+1)
+2)
+3)
+4)
+5)
+6)
+
+Gas PurgelS torage System
+Extinguishment System
+Atmospheric Control
+Robot Arm
+Spray Nozzle Geometry and Flow Rate
+Data Acquisition.
+
+The DACS will be a digital system, easily reconfigurable with both software changes
+and plug-in board replacements or additions. Further, the DACS can be a personal
+computer-compatible system, which will control, monitor, display and store the normal
+experim en t al/chamber functions.
+
+Facility H e a t Exchanger. The heat rejection requirements for the Combustion Facility
+result primarily from the heat released in the combustion process, the heat dissipated
+by the fadmotor assembly, and the DACS. Since the routine operation of the facility
+
+will not include any external recirculation of the combustion chamber atmosphere
+3-35
+
+during an experimental run, nearly all of the heat generated will be absorbed by the
+combustion chamber and its atmosphere. By restricting the amount of heat released
+during any experimental run, an experiment time-line may be established that would
+most likely permit passive heat rejection to the laboratory module.
+If higher heat release experiments are anticipated, an active cooling coil may be
+incorporated directly inside the combustion chamber itself. Also, heat dissipated by
+
+the low-power compressor and vacuum pump (Le., for the interim gas purgehtorage
+system) and the DACS can most likely be accommodated by the Space Station active
+convection loop.
+Facility Fan/Motor Assembly. A flow gefieration system, when required, must be
+designed that will have the following attributes:
+1)
+2)
+
+3)
+4)
+
+Full control by the DACS over a wide range of speeds
+Minimal input power
+Safe and reliable operation in high percentage oxygen gas mixtures and
+ex tinguishant agents
+Low noise and vibration.
+
+The most appropriate fanhotor assembly for this application appears to be of the
+vane axial type. The vane axial fanhotor system can produce a wide range of flow
+rates and is of compact design. The power input to the f a n h o t o r assembly is
+proportional to the total flow resistance (in terms of pressure drop) for any desired
+flow rate. However, the resistance produced within the chamber by the chamber's
+internal equipment (i.e. nozzles, inlet valves, etc.) is estimated to be minimal.
+3.
+.3 Near-Term Firenire Extinpluishants Interaction Experiment Requirements
+2
+Section 3.2.1 described a number of Space S tation-based fire/fire extinguishants
+interaction experiments that would require use of a ''Combustion Facility." This
+facility is an updated version of a similar combustion facility proposed for Spacelab
+(see Ref. 18). I t is recommended that the experiments and apparatus described in the
+preceding sections be developed through extensive ground-based laboratory testing and
+then prepared for selected testing on the NASA KC-135 aircraft. Although the periods
+of low gravity are limited (Le., 15-25 seconds), the experiment can be
+operated in such a manner that the fuel would be ignited and burning just prior to a
+
+3-36
+
+low-gravity portion of the flight. Extinguishment would than be initiated a few
+seconds into the low-gravity period. Based on the results of these ground-based and
+sub-orbital flight experiments, tests and experimental apparatus may be planned and
+designed for potential accommodation on the Spacelab and, ultimately, on the Space
+Station.
+The fire safety-related importance of these measurements stems from a fundamental
+lack of understanding of how effective various fire extinguishants and/or
+extinguishment systems are in low-gravity fire situations. Thus, rigorous testing and
+data gathering in an earth-based laboratory is recommended prior to any extensive
+low-gr avi ty exper i m en ta ti on.
+
+Post-Fire Recovery of Sensitive Electronic Components Experiment Require
+ments. A separate, but related, experiment is that whereby sensitive electrical and
+electronic components are exposed to post-fire by-products of combustion for the
+
+3.2.4
+
+-
+
+purpose of investigating their effect on the operation or integrity of the component.
+The post-fire recovery or uninterrupted operation of such equipment as
+microprocessors, optical readers, switchgear, etc. in space could be critical to the
+mission of the spacecraft. The concern of this experiment is not the direct failure of
+components due to excessive heat or burning and scorching; rather, the concern is that
+of the immediate and longer-term effects of the by-products of combustion, with and
+
+-
+
+without use of extinguishants, produced by a fire or combustion process adjacent to
+the sensitive components.
+There are a number of ways in which sensitive equipment may be adversely affected
+by exposure to extinguishants and/or the by-products of a fire/fire extinguishant
+interaction:
+
+a.
+
+Components (printed circuit boards, resistors, switches, etc.) may be
+shorted by condensates and/or soot particles
+
+b.
+
+Optical sensors or readers may be obscured
+
+c.
+
+Electrical coatings and exposed metals (e.g., connectors, switches, etc.)
+may degrade and/or corrode.
+
+3-37
+
+These concerns have been the subject of a number of ground-based investigations for
+several years. Some of these investigations are summarized in Table 3.2-1. Although
+the studies cited in Table 3.2-1 were devoted largely to the fire protection of sensitive
+and critical ground-based electronic data processing equipment (EDPE), the results are
+somewhat applicable to similar concerns for spacecraft. The most severe corrosion of
+electronic components was observed in one series of tests (Ref. 19) where the
+components were in the presence of burning PVC electrical wire insulation.
+References 19 and 20 also determined the amounts (in parts per million, ppm) of
+hydrogen flouride (HF) and hydrogen bromide (HBr) produced during fire/fire extinguishant tests where Halon 1301 was used to extinguish fires for a variety of
+controlled fuels (wood, excelsior, shreclded paper, punched cards, etc.). In general,
+these limited, ground-based tests indicated minimal to nil immediate adverse affects
+on electronic components in the presence of the combustion by-products when the fire
+w a s extinguished with Halon 1301.
+The justification for the performance of similar "post-fire recovery1vtests in low
+gravity has not been fully established. It is clear that there is a need to evaluate the
+immediate and longer-term affects of combustion by-products on sensitive spacecraft
+components, b u t t h e influence of low gravity is difficult to quantify. However, there
+are a t least two low-gravity effects which may make such investigations compelling.
+These two low-gravity fire/fire extinguishant interaction effects are the following:
+1
+.
+
+Low-gravity combustion in quiescent or very low velocity flows tends to
+result in lower flame temperatures and may produce sootier and more
+highly toxic and corrosive combustion by-products.
+
+2.
+
+Condensates (water combined with soot and other combustion by-products)
+may tend to "coatvv reside on a component's surface more in low gravity
+and
+than in normal gravity.
+
+If either of these effects is determined to be realistic, then a series of post-fire
+
+recovery tests on sensitive electronic components may be justified.
+
+However, it is
+
+suggested that extensive ground-based screening tests be performed to identify those
+fuels and extinguishants that produce the severest post-fire component degradation.
+Assuming that low-gravity post-fire recovery tests can be justified, it is proposed that
+such tests be performed in the Combustion Facility described in Section 322
+...
+
+3-38
+
+II
+
+r
+
+I-
+
+ni
+
+3-39
+
+1
+Further, it is suggested that these tests be considered to be conducted in the Spacelab
+as a near-term precursor to Space Station-basing. It is highly unlikely that the short
+periods of low gravity obtainable during aircraft parabolic flights would be in any way
+useful to these post-fire recovery experiments.
+Figure 3.2-9 illustrates one method for exposing a number of sensitive components
+during a combustion process. A candidate fuel (e.g., wiring insulation, urethanes,
+paper, etc.) is ignited in an oxidizing atmosphere, combined with a low-velocity flow
+inside the Combustion Facility chamber. The combustion by-products pass through a
+heat exchanger and then flow over a rack of various sensitive components (see Figure
+3.2-10). The velocity in the vicinity of the components would, ideally, be adjusted
+close to that typical of spacecraft avionics enclosures or experiment ftracks.ff Figure
+3.2-9 shows a number of measurement stations in the flow path of t h e combustion byproducts recirculating to the combustion chamber. Although not shown in the figures,
+an access door would permit the chamber to be loaded and unloaded. Also, electrical
+feed-throughs may be provided so that selected components could be activated and
+monitored for immediate effects resulting from the exposure of the component to the
+combustion by-products.
+The experimental information from each combustion process can be enhanced in a
+number of ways. As shown in Figure 3.2-9, one or more video cameras can record the
+ignition and combustion of the candidate fuel. A Rayleigh light extinction/scattering
+station could be included to monitor particle sizes and number densities. A filter
+station could be provided to both remove the larger soot particles and to permit their
+later analysis. Finally, a mass spectrometer probe could be provided to monitor
+selected species of the combustion by-products.
+After the combustion process (or processes) is complete, the exposed electronic
+components and other sensitive materials would be removed, inspected and tested
+immediately (if appropriate). The components would then be stored in appropriate
+containers to observe longer-term degradation effects. The evaluation tests can range
+from simple visual inspections to very precise electrical tests. Table 3.2-2 summarizes some of the evaluations that may be used.
+
+s
+
+I
+
+I
+
+I
+1
+I
+
+I
+
+I
+I
+
+1
+1
+J
+
+I
+I
+I
+
+I
+
+I
+3-40
+
+I
+
+E
+
+f,
+
+3-41
+
+3-42
+
+a
+
+li
+
+u
+
+c
+
+vi
+w
+3
+
+A
+
+w
+
+I
+1
+1
+
+TABLE 3.2-2. EVALUATION PARAMETERS FOR POST-FIRE
+RECOVERY OF S ENSlTlVE ELECTRONIC
+COMPONENTS EXPERIMENT
+EVALUATION
+
+CLASSES OF COMPONENTS
+All Specimens:
+
+1. Visual residue
+
+2. Corrosion, surface staining, change in color
+
+Printed Circuit Boards and
+Other Electronic Components:
+
+1. Corrosion, pitting
+
+2. Electrical shorts, loss of continuity
+
+3. Change in resistance, voltage or signal
+levels
+4. Change in contact resistance of connector
+
+Metal Foils and Wires:
+
+1. Corrosion, pitting
+2. Change in electrical resistance (of wires)
+
+Non-Metallic Coatings
+and Insulations:
+
+1. Change in dielectric strength
+
+2. Change in material hardness
+
+3. Cracking, splitting, crazing
+
+3-43
+
+m
+3.2.5 Special Instrumentation and Diagnostic Measurement Equipment for the
+Experiments. Two major types of data and other experimental information are
+
+required from each Fire/Fire Extinguishants Interaction Experiment:
+1) R a t e of extinguishment in relation t o the following specified parameters:
+- Quantity and type of extinguishant
+- Application of extinguishant (spray, mist, etc.)
+Chamber at m ospher e/com posi tion
+Chamber flow rate
+- Fuel geometry and fuel type
+
+-
+
+2)
+
+Combustion extinguishant by-products to determine toxicity.
+
+The rate of extinguishment of a fire may be determined from a video recording system
+positioned on one of the optical quality ports along the chamber door (see Figure
+This would provide a record of the ignition of the fuel, the application of the
+extinguishant t o t h e burning fuel, and the extinguishment process. A holographic video
+
+3.2-11).
+
+system may be substituted in place of t h e video recording system due the ability of the
+holographic system to store information for later analysis in a ground-based laboratory
+and its established application to other microgravity experiments. A holographic video
+system (see Ref. 15) was used as a major component of the Spacelab-3 Fluids
+Experiment System (FES).
+Determination of t h e by-products of the combustion and extinguishment process poses
+a much more difficult obstacle. Figure 3.2-11 illustrates a suggested diagnostic
+technique for obtaining several fire safety-related measurements in t h e vicinity of the
+fire/fire extinguishants interaction region.
+The scavenged gases leaving t h e
+combustion chamber would pass through a laser-based extinction/scattering chamber
+where the soot and smoke particles may be monitored by size and number density
+distribution according t o size. This diagnostic technique would be similar t o that
+reported by R.J. Santoro, et al. (Ref. 14). The soot and smoke particle laden gases
+would then pass into a filter chamber where the largest particles can be trapped for
+subsequent analysis. In addition, this system of filters or condensate plates could be
+cooled to remove a large fraction of the water vapor and other condensible gases from
+the combustion by-product flow stream. This system of filters would be removed a f t e r
+
+every combustion process for a particular material and extinguishant. The removed
+particles and condensate could be analyzed on the Space Station and/or stored for
+later analysis in a ground-based laboratory.
+
+1
+
+I
+
+1
+1
+1
+I
+
+I
+I
+I
+
+1
+I
+1
+I
+J
+1
+
+s
+
+I
+3-44
+
+I
+
+3-45
+
+W
+
+A quartz microprobe would b e inserted into t h e flow downstream from t h e filter
+
+chamber. This probe would feed a small mass spectrometer tuned for selected species.
+The common major species of Oz, NZ, Ha, C02, and H 2 0 may be readily measured.
+The mass spectrometer can scan for other, selected species. This use of a quadrupole
+or magnetic-sector mass spectrometer would require some development for Space
+Station-basing.
+The ground-based use of such an instrument in the study of
+methane/air diffusion flames has been described by K.C. Smyth, et a. (Ref. 13).
+l
+Finally, a number of small thermocouples are recommended t o be mounted in t h e near
+vicinity of t h e fuel sample. Thermocouples could also be embedded in the bulk fuel
+sample to monitor its temperature throughout the process.
+3.3
+
+Smoldering and/or Deep-seated Combustion in Low Gravity
+
+Overall Description of the Experiment. The purpose of this experiment is t o
+investigate a number of smoldering and/or deep-seated combustion parameters in
+
+3.
+.1
+3
+
+detail in a low-gravity environment. In terms of spacecraft fire safety, the desired
+output from such experiments should include t h e following information and d a t a as a
+minimum:
+o Smolder-wave propagation rate
+o
+Maximum smolder-wave temperature
+
+o
+o
+o
+
+o
+
+Forced convection velocity below which t h e smolder combustion may not b e
+sustained
+Identification of selected toxic by-products
+Smoke (soot) particle size distribution and number density
+Minimum forced convection velocity for transition to flaming combustion.
+
+The ability to measure most of the above smolder-combustion process quantities is
+reasonably straightforward, even in a Space S tation-based test facility. The exception
+is that relative to obtaining a complete description of t h e combustion by-products.
+These include the gaseous and liquid phases (especially the toxic by-products) and t h e
+particulate (soot and smoke) materials. A means €or determining selected values of
+these quantities is described. However, i t is noted that these measurements require a
+substantial amount of development.
+
+3-46
+
+1
+1
+1
+1
+I
+
+I
+
+I
+
+I
+I
+
+1
+
+I
+
+I
+
+3
+
+I
+
+s
+
+I
+
+I
+I
+
+1
+
+Figure 3.3-1, based on a conceptual design of M. Summerfield, et al. (Ref. 101,
+provides an illustration of a forced-convection smolder-combustion cannister in which
+candidate smolder materials would be contained for experimental processing. A
+number of these cannisters (up to eight) would be mounted in an enclosure (referred to
+It is
+herein as the Combustion Facility) as shown schematically in Figure 3.3-2.
+proposed to conduct the smolder-combustion process under forced convection
+conditions ranging from an oxidizer gas inlet flowrate that will just sustain smolder
+wave propagation to some limiting upper value yet to be established (-0.5 cm/s
+(0.2 in/$ or higher). The forced-convection smolder-combustion processes are planned
+to be performed with ignition initiated largely at the upstream end of the smolder
+materiaL Some smolder-combustion processes may be performed with ignition
+initiated a t the downstream end of the smolder material, if smoldering can be
+sustained.
+I t is not planned a t this time to attempt any smolder-combustion tests in the absence
+
+of forced convection. It is highly unlikely that smoldering can be sustained in the
+absence of both gravity and forced convection.
+
+332
+..
+Smolder Materials of Interest and Their Properties. A short list of the general
+categories of candidate smolder materials is shown in Table 3.3-1, derived from
+Reference 10, where these materials are described in more detail.
+TABLE 3.3-1.
+
+Material Class
+Cellulosics
+
+Polyurethanes
+Phenol Formaldehydes
+Polystyrenes or
+Polyethylenes
+Urea Formaldehyde
+
+CANDIDATE SMOLDER MATERIALS
+
+Configuration
+Various (cylindrical elements, shredded and
+fluffed paper, sawdust, porous fiberboard,
+etc.)
+Flexible or Rigid Foams (permeable)
+Rigid or Granulated Foams
+(May be unacceptable due to thermoplastic
+(Le., melting) action rather than forming a
+char)
+Rigid Foams (may produce highly toxic fumes).
+
+3-47
+
+1
+I
+I
+1
+1
+I
+1
+
+I
+I
+1
+I
+1
+I
+I
+I
+1
+
+I
+I
+1
+
+I
+I
+t
+
+U
+
+I
+
+3-49
+
+lb
+I
+
+I
+I
+
+7t
+r
+
+W
+
+I
+I
+I
+
+I
+I
+
+?i
+*
+
+t
+u
+)
+
+2
+c
+i
+5
+<
+LL
+
+z
+
+e
+t
+cn
+a
+
+:
+
+I
+
+8
+
+I
+I
+
+c;i
+
+x
+
+a
+(3
+
+a
+
+E:
+
+The fundamental physical properties of interest related to the smolder materials
+include those listed below:
+o
+Permeability
+o
+Chemical Composition
+o
+Porosity
+o
+Structure (flexible, open cell vs. granular)
+o
+Shape and Size
+o
+Confinement (i.e., packaging).
+
+In addition to the above physical and mechanical material properties of interest,
+several thermophysical properties for each candidate material must be considered.
+These include specific heat, thermal conductivity, heat of combustion, minimum
+ignition energy, minimum ignition temperature, and stoichiometric flame temperature.
+All of the above physical and thermophysical properties affect the smolder process to
+
+some degree. In addition, there are a number of test parameters that must be selected
+and/or monitored. These include the following:
+o
+02/N2 ratio of the oxidizing gas
+Gravitational level, or simulated g-level if used
+o
+Forced convection flow rate
+o
+Pressure level in test container
+o
+o
+Temperature of oxidizing gas
+Combustion configuration (co-current or counter-current).
+o
+Here co-current or counter-current combustion is defined as char proceeding in the
+direction of, or opposite to, the imposed forced velocity, respectively.
+Proposed Test Parameters. A s described in the preceding paragraphs, the
+smolder process for any of the candidate smolder materials is affected by the test
+parameters chosen as well as by the physical, thermophysical and mechanical
+properties of the material. M. Summerfield, e t al. (Ref. 10) performed an analysis
+relevant to the range of test parameters of interest for Spacelab-based
+experimentation &e., g-level, 0 2 / N 2 ratio of the oxidizing gas, flow rate of oxidizing
+
+3.3.3
+
+gas, pressure and temperature levels, etc.), which provided the test parameters For the
+
+3-50
+
+1
+1
+I
+
+I
+
+I
+1
+I
+I
+1
+I
+1
+I
+I
+
+I
+
+J
+I
+I
+
+I
+
+1
+
+8
+1
+I
+I
+I
+I
+I
+I
+I
+8
+I
+8
+8
+1
+I
+I
+R
+I
+1
+
+experiment proposed herein, with the following exception.
+
+The concept design of
+
+Reference 1 0 provided a means for varying the gravitational level (g-level) by rotating
+the smolder-material cannisters about a central axis in the Combustion Facility. This
+level of detail is beyond the scope of the current effort.
+The suggested oxidizer ratios range from O2/N2= 20%/80% to 40%/60%, with these
+values being the preferred test parameters. Inertants other than nitrogen may be
+tested (e.g., argon, helium, etc.) with, possibly, a re-evaluation of the oxidizer ratios.
+The velocities of the oxidizing gas flow imposed a t the face of the smolder material
+should range from values less than 0.1 cm/s (0.04 in/s) to 0.5 cm/s (0.2 in/s) or higher.
+If the inlet oxidizer gas flow is taken directly from the atmosphere of the Combustion
+Facility, then the pressure will be limited to the allowable pressure of the Combustion
+Facility (Le., approximately one atmosphere or 101.4 kPa). Higher pressures, if
+required, may be accommodated by routing the oxidizer gas flow directly to the
+combustion cannister via a pressure line.
+Some control over the temperature of the incoming oxidizer gas flow may be
+desirable. It is generally impractical to heat the entire atmosphere in the Combustion
+Facility to attain the desired effect. However, a resistance heater located in the inlet
+of the smolder cannister (see Figure 3.3-1) can probably provide all of the temperature
+control necessary.
+3.3.4
+
+Basic Apparatus Required for the Experiment The fundamental apparatus
+
+required for the Smolder-Combustion Experiment is a generic facility referred to
+herein as the Combustion Facility, which is the same facility concept as proposed for
+the FireEire Extinguishants Interaction Experiment, described in Section 3.2.
+A schematic of the use of the Combustion Facility, along with its supporting
+
+subsystems, was presented as Figure 3.3-2. This schematic indicates that the complete
+combustion facility experimental apparatus is comprised of the following major
+components and subsystems when used for the Smoldering-Combustion Experiment:
+a)
+Combustion Facility chamber (enclosure)
+b)
+
+Smolder-combustion cannisters
+
+c)
+
+Oxidizer gas introduction and makeup subsystem
+
+3-51
+
+d)
+
+e)
+f)
+
+g)
+
+Interim purgehtorage system
+Heat rejection subsystem
+Instrumentation and combustion diagnostic equipment
+Data acquisition and control subsystem (DACS).
+
+A brief description of items b), c), and e) follow. The Combustion Facility, items a)
+
+and d), would be identical to the facility described for the Fire/Fire Extinguishants
+Interaction Experiment in the preceding section. Details of the instrumentation, item
+f), are presented later. The details of the DACS, item g), are outside of the scope of
+this study.
+Smolder-Combastion Cannister. The smolder material is proposed to be contained in
+cannisters such as that shown in Figure 3.3-1.
+Only one smolder process would be
+conducted a t a time so that the inlet flow rate, outlet flow rate, and outlet gas
+composition can be adequately measured. The cannisters can be modified to
+accommodate different lengths and quantities of smolder material. One end of the
+cannister would be removable for loading and removal of t h e smolder sample,
+insulation, igniter, etc. In the design of Reference 10, the cannisters were to be
+constructed from thin-walled aluminum, and the porous material would be held within
+a heat loss barrier (e.g., foamed glass).
+It is planned that each cannister could be assembled essentially as shown in the
+configuration of Figure 3.3-1 in an earth-based laboratory, complete with temperature
+sensors, hot-wire anemometer, smolder material and igniter, etc. The cannisters
+would then be packed and transported to the Space Station by means of the Space
+Shuttle. After the combustion process for each group of cannisters is completed, the
+cannisters would be stored for subsequent transport back to earth for further analysis
+of the combustion residue.
+
+Oxidizer Gas Introduction and Makeup Subsystem. Figure 3.3-2 shows schematically
+the means for introduction of any required oxidizer gas from the Space Station supply.
+The actual operation of the facility would include a vacuum purge prior to introduction
+of the appropriate gases. After the appropriate pressure and mixture of gases has
+been obtained, the gas flow would be established with the '?gas purification system"
+shown.
+
+3-52
+
+1
+I
+I
+
+I
+I
+
+1
+1
+1
+1
+1
+
+I
+
+1
+I
+I
+I
+I
+1
+1
+
+I
+
+Although the gas flowrate through a smolder cannister would be very low (e.g., a
+volumetric flow of approximately 15 l/min (0.05 ft3/min) at a velocity of 05 cm/s
+.
+.
+(0.2 in/s)), some makeup may be required to keep the oxidizer gas ratio within some
+acceptable limits. The oxygen content of the flow media may be continuously
+monitored by a mass spectrometer or, preferably, by a dedicated oxygen analyzer.
+Several companies manufacture oxygen monitors that can be suitably modified for use
+in the Space Station. It is suggested that as the oxygen content is depleted, it may be
+restored by the calibrated volume method described in Section 3.1.2.
+It is recommended that the Combustion Facility flow medium passing through the
+smolder cannisters be filtered during and between experimental runs. As a minimum,
+filters should be used to remove the largest soot and smoke particles. The next
+priority may be to remove the water vapor and other condensibles formed as
+combustion by-products. It is possible that an adequate removal of the condensible
+materials (by cooling coils and/or desiccants) may permit adequate run times for the
+smolder-combustion experiments, especially if the oxygen depletion can be restored
+during the experiment.
+
+H e a t Rejection Subsystem. The amount of heat released during the smolder
+combustion process has not been determined for all possible test conditions. M.
+Summerfield, e t aL (Ref. 10) addressed this problem for the Spacelab-based
+accommodation of the Combustion Facility. For a specific polyurethane foam, they
+assumed a smolder heat release of approximately 1050 J/g. Thus, for an assumed
+consumption of 30g of material in a cannister, the total heat release per cannister
+would be approximately 31.5 k J (30 Btu). Even if this amount of heat were released in
+5 minutes (a very short smolder process), the heat release rate (Le., 6 Btu/min or 105
+watts) may be readily accommodated with either an air-to-air or a liquid-to-air heat
+exchanger.
+The interim purge/storage subsystem (vacuum pump and compressor) may be the single
+largest heat dissipating component in the Combustion Facility apparatus. This heat
+dissipation can be held to an acceptable value if the interim purgehtorage time is
+extended. It is suggested that a reasonable power usage for this subsystem would be
+300 watts, or approximately 17 Btu/min of heat rejection. This amount of heat
+rejection may be readily accommodated by an active cooling loop.
+
+3-53
+
+Special Instrumentation and Diagnostic Measurement Equipment
+Experiments. Desired Measurements. Smoldering-combustion processes
+readily permit any type of non-intrusive diagnostic investigation since
+essentially no visual flame to be monitored. An exception might be that
+
+for the
+do not
+there is
+where a
+laser-based optical system is used to measure the very low velocity of the inlet flow
+(e.g., by means of laser Doppler velocimetry (LDV))and/or to analyze the soot and
+smoke particles leaving the smolder cannister (e.g., by extinction/Rayleigh scattering
+techniques).
+
+3.3.5
+
+The desired measurements may be listed as follows:
+1.
+Temperature a t discrete points along the smolder material centerline
+2.
+
+3.
+4.
+
+5.
+
+6.
+
+7.
+8.
+
+Temperature a t a smaller number of discrete points off the smolder
+material centerline
+Temperature and flow rate of the oxidizer gas entering the smolder
+corn bustion cannister
+Pressure in the smolder cannister (upstream of smolder material) and in the
+Combustion Facility outside of smolder cannister
+Oxygen concentration a t both the inlet and outlet of the smolder cannister
+Ignition flux and smolder material temperature a t initiation of combustion
+Combustion by-products leaving the smolder cannister (both the gaseous
+by-products and the solid particles, e.g., soot and smoke)
+Species concentration of combustion by-products.
+
+Since the emphasis in these Space Station-based smolder experiments is fire safety,
+attention will be focused on the following determinations: 1) Environmental conditions
+of temperature and pressure in the smolder material and flow system; 2) Inlet velocity
+required to maintain smolder wave propagation; 3) Energy required to initiate
+combustion; and 4) Fire signature determinations (Le., soot and smoke particle density
+and size distribution, selected combustion by-products). The instrumentation and
+diagnostic measurement equipment required are discussed in the following paragraphs.
+Temperature and Pressure Measurements. Reference to the list of desired
+measurements presented above suggests that a number of temperature and pressure
+measurements are required during a smolder combustion process. The exact number of
+thermocouples to be embedded in the smolder material (Figure 3.3-1) must be
+3-54
+
+I
+I
+1
+1
+I
+
+I
+
+1
+1
+
+I
+1
+I
+
+I
+I
+I
+I
+1
+I
+I
+I
+
+heat fluxes required to initiate combustion. It was noted that the incident heat flux is
+a sensitive parameter, Le., if the flux exceeds the ignition threshold for a specific
+material (e.g., polyurethane foam) the material may melt (tar) rather than char as
+desired.
+M. Summerfield, e t al. proposed a simple parallel-grid Nichrome wire igniter element
+a t the upstream (or downstream) face of the smolder material (Figure 3.3-1). Further,
+
+it was suggested that the required heat flux for initiation of combustion be determined
+by ground-based experimentation for each candidat e material.
+Species Concentration of Smolder Combustion By-ProaUcts
+
+Clearly, it is highly
+
+desirable to obtain measurements of the concentrations of combustion by-products
+leaving the smolder cannister. This determination is difficult because the combustion
+by-products are composed of a number of gases, particulate material and condensed
+droplets. The fire safety technology issues demand that these measurement problems
+be resolved. Thus, although the current state-of-the-art does not allow a complete
+determination of the combustion products, it is recommended that effort be made to
+obtain as much data as is reasonable.
+The concept for monitoring the combustion by-products, as illustrated in Figure 3.3-3,
+involve the following procedure. The scavenged gases leaving the smolder cannister
+would pass through a laser-based extinction/scattering chamber where the soot and
+smoke particles may be monitored by size and number density distribution according to
+size. The soot and smoke particle-laden gases would then pass into a filter chamber
+where the largest particles may be trapped for subsequent analysis. In addition, this
+system of filters and/or condenser plates could be cooled to remove a large fraction of
+the water vapor and other condensible gases from the combustion by-product flow
+stream. This system of filters would be removed after every smolder combustion
+process for a particular material. The removed particles and condensate could be
+analyzed on the Space Station and/or stored for later analysis in a ground-based
+laboratory.
+Finally, a quartz microprobe would be inserted in the flow downstream from the filter
+chamber. This probe would feed a small mass spectrometer tuned for selected species.
+The common gas species of 02, HZ, C 0 2 , and H20 may be readily measured.
+NZ,
+
+3-56
+
+The
+
+1
+I
+1
+1
+
+I
+
+I
+1
+
+I
+I
+
+1
+I
+I
+I
+I
+I
+I
+I
+1
+I
+
+357
+
+mass spectrometer can scan for other, selected species. This use of either a
+quadrupole or a magnetic sector mass spectrometer would require some development
+for Space Station-basing.
+
+3-58
+
+I
+I
+I
+1
+1
+1
+I
+1
+1
+1
+I
+I
+1
+1
+I
+I
+I
+1
+I
+
+4.0
+
+EXPERIMENT ACCOMMODATION REQUIREMENTS
+
+This section provides an overview of the accommodation requirements for Space
+Station-basing of the three fire safety-related experiments described conceptually in
+Section 30 Earlier manifesting of the experiments on the Space Shuttle/Spacelab
+..
+would require similar accommodations, but such accommodations are not explicitly
+addressed. In either case, it is assumed that the experimental facilities would be
+accommodated within a pressurized laboratory module,
+In the following subsections, the fundamental accommodation requirements are
+described and include the following: 1) spatial and mass estimates, 2) power and heat
+
+rejection, 3) consumables and waste disposal, 4) crew requirements and operational
+timelines, and 5) safety issues. The requirements discussed focus largely on the two
+major, generic test facilities, Le., the Combustion Tunnel Facility and the Combustion
+Facility.
+4.1
+
+Spatial and Mass Estimates
+
+First-Order Spatial Estimates It is reasonable to limit the size of the
+Combustion Tunnel such that it may be accommodated within two Space Station
+double racks (Figure 3 1 3 .
+.-)
+For the purpose of this concept design effort, i t is
+assumed that the usable working volume in two double racks is 2100 x 1600 x 760 m m
+(83 x 63 x 30 in). Approximately three-fourths of the working space available within
+the two double racks would be devoted to the Combustion Tunnel and its subsystems.
+The remaining working volume would be available t o the DC controllers, data
+acquisition and control system (DA CS), microprocessor (computer) control and data
+storage, and the display monitor and operator console.
+
+4.1.1
+
+For the generic Combustion Facility used for the Fire/Fire Extinguishants Interaction
+Experiment and the Smoldering Combustion Experiment, a double and a single rack are
+necessary. The combustion chamber alone would have a volume in excess of a single
+Space Station rack when its flanges, support brackets, etc. are considered. The usable
+volume in a combination double rack and single rack is approximately 1580 x 1600 x
+760 mm (62 x 63 x 30 in).
+
+4 -1
+
+The Space Station-based spatial requirements of the two generic test facilities may be
+summarized as follows:
+Combustion Tunnel Facility: Two Standard Double Racks
+1)
+2)
+
+Combustion Facility:
+Combination.
+
+A
+
+Standard
+
+Double Rack
+
+and Single Rack
+
+Clearly, these spatial requirements have not been optimized. However, practical
+scaling considerations indicate that the spatial requirements of each facility are
+unlikely to be reduced more than a single rack.
+
+First Order Mass Estimates. Mass-budget estimates for the three Space
+.
+Station-based experiments described conceptually in Section 3 0 were obtained by
+summing the masses of each major component and subsystem. Obviously, the major
+masses are those components and subsystems of the two proposed generic test
+facilities, Le., the Combustion Tunnel Facility and the Combustion Facility. These
+first-order mass estimates are summarized in Table 4-1 for the three experiments
+described in Section 30 As expected, the larger, more elaborate Combustion and
+..
+Flame Spread Experiment in the Combustion Tunnel Facility is shown to have the
+highest mass (443 kg (976 Ibm)).
+
+4.1.2
+
+4.2
+
+Input Power and H e a t Rejection Estimates
+
+First-order input power estimates (Table 4-2) indicate relatively modest requirements
+for the three fire-safety related experiments. The total input power is a maximum
+demand, probably an overestimate since the individual demands do not all occur
+simultaneously. The single largest power consuming component for either of the two
+generic experiment facilities is noted to be the laser power suppy. At this stage of the
+experiment concept designs, the requirement for laser-based, non-intrusive optical
+diagnostics is the least established. Also, the input power summary of Table 4-2 does
+not include the short duration igniter power requirements. A single estimate is shown
+for the input power for both Combustion Facility experiments, although the
+Smoldering Combustion Experiment would require slightly less power since no use of
+the robot arm is needed.
+A typical power profile for the Combustion and Flame Spread Experiment (Figure 4-1)
+
+using the Combustion Tunnel Facility, shows that near-maximum power demand occurs
+
+4 -2
+
+1
+1
+I
+
+I
+
+I
+I
+I
+
+I
+I
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+4-3
+
+4
+d
+
+0
+
+0
+
+-
+
+0
+
+0
+
+' q ' 9 0 ' " " "
+
+4-4
+
+0
+
+I
+I
+I
+I
+I
+I
+I
+1
+1
+I
+1
+I
+
+I
+I
+I
+I
+I
+I
+I
+
+I
+I
+I
+
+T
+'I
+
+T
+
+P
+Y
+
+0
+
+4
+
+8
+
+I
+
+T
+
+c
+.
+
+"!"\
+
+.
+a
+
+1
+
+Hz
+
+I
+
+SllVMOlM 'tl3MOd
+
+Ln
+
+45
+
+i
+1
+
+i
+
+W
+
+a
+
+only during the 5 to 10 seconds of ignition. Power profiles for the other two
+experiments would have smaller peak power requirements.
+Heat rejection requirements for each experiment includes all of the power dissipation
+from the input power quantities listed in Table 4-2. In addition, heat rejection
+capability must be provided for the heat released during each experiment's combustion
+process. Although these values have not been precisely established, it is proposed to
+scale each fuel to limit the heat release rate to no more than 10
+.
+1.5 kW
+(57 - 85 Btu/min) over a 05 to 1.5-min period for the Combustion and Flame Spread
+.
+Experiment and the F ire/Fire Extinguishants Interaction Experiment. The heat release
+rate for the Smolder Combustion Experiment is estimated to be only approximately
+
+-
+
+0.10-0.15
+4.3
+
+4.
+.1
+3
+
+kW ( . - . Btu/min) over a 50 to 60 min period.
+5785
+
+Consumables and W a s t e Disposal
+Space Station4upplied Corrsumables.
+
+The major consumables required from
+
+the Space Station supply include gaseous oxygen and nitrogen for use in recharging the
+atmosphere within the two generic test facilities (Le., the Combustion Tunnel Facility
+and the Combustion Facility). Smaller quantities of other commonly used gases, such
+as helium and argon, may also be required as alternative inertants and/or for use in
+purging the facilities. Also, some cleaning solvents may be required to flush the
+combustion regions of the test facilities on a periodic.basis.
+A precise estimate of the quantities of Space Station-supplied gases required for each
+of the experiments described in Section 30 cannot be established until more definitive
+.
+test matrices and process run times are established. However, a first-order estimate
+may be made by assuming a number of experimental runs for each experiment per 90
+day logistics period and further assuming the number of experimental runs per
+recharge of the respective test facility free volume. For each test facility, the
+recharge environment is assumed to be as follows:
+Pressure:
+Temperature:
+Oxygen:
+Nitrogen:
+
+101.4 kPa (14.7 psia)
+22OC ('
+7F
+2)
+21.0 percent by volume
+79.0 percent by volume.
+
+4-6
+
+I
+I
+I
+
+I
+
+I
+I
+I
+I
+I
+I
+I
+I
+1
+I
+I
+I
+I
+I
+I
+
+I
+I
+1
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+The gaseous consumables summarized in Table 4-3 for each experiment appear
+relatively modest. During each discharge of the facility, the free volume would be
+evacuated and partially purged with an inert gas (e.g., nitrogen). If one assumes that
+an additional 50 percent of the total gas mass is required for purge, the total mass of
+gases (oxygen and nitrogen) for each experiment is as follows:
+
+F acility/Experiment
+
+Total Consumable Gases
+(02 ti N2)
+
+Combustion Tunnel Facility:
+o Combustion and Flame Spread
+Combustion Facility:
+o Fire/Fire Extinguishants
+Interaction
+o Smoldering Combustion
+
+10.5 kg (23.2 lbm)
+
+25.0 kg (55.2 lbm)
+12.2 kg (26.9 lbm)
+
+Waste DisposaL Disposal of the waste materials from the experiments is not
+expected to be demanding in terms of volume and weight. However, t h e waste
+materials are expected to be toxic and, in some cases, corrosive. The waste materials
+to be rejected will include filters used in the test facilities to remove the larger
+particulates, the spent combustion gases (and some condensates), and cleaning
+materials (solvents and cleaning pads) used to clean the facilities. No estimates have
+been made of the amount of condensates that may need to be disposed. However, the
+spent gases to be discharged will be assumed approximately equivalent to the amounts
+4.3.2
+
+of gases required for recharging the free volume of the test facilities plus 20 percent
+
+for the combustion gases. A summary of the waste disposal requirements are given in
+Table 4-4 for an assumed 90 day logistics period.
+4.4
+
+Crew Requirements and Operational Time-Lines
+
+The manhours required for operation of the Space Station-based fire safety-related
+experiments must be minimized due to the limited crew time available. I t is highly
+unlikely that a payload specialist can be fully dedicated to these experiments, since
+the crewmembers' time will be distributed among several experiments and other
+activities. This implies a need to automate the operation of any fire safety-related
+experiment to t h e greatest extent possible. However, a t this stage of the concept
+designs described herein, it is not possible to establish the degree to which each
+
+4 -7
+
+0
+v)
+(u
+
+0
+a
+,
+
+c
+
+I
+n
+
+c
+
+(3
+
+3
+
+Y
+
+E
+
+(3
+
+42
+0
+
+4-8
+
+I
+n
+N
+
+r=
+
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+
+n
+
+0
+
+E
+e
+Y
+
+B
+
+E
+
+c
+.aJ
+
+c
+
+(3
+
+8
+r-0
+
+experiment may be automated. This is especially true with regard to the loading and
+unloading of fuel specimens within either the Combustion Tunnel Facility or the
+Combustion Facility.
+In order to provide a preliminary estimate of crew manhours for each of the three
+Space Station-based experiments described herein, it was assumed that the loading and
+unloading of fuel specimens would be performed manually and that only the operation
+of the test apparatus would be automated under microprocessor control. Further, the
+number of experimental runs (Le., number of fuel specimens) to be accomplished
+during each 90-day logistics period was estimated, as shown in Table 4-3. From these
+assumptions and the assignment of nominal manhours for logistics, apparatus
+assembly/disassembly, specimen loading/unloading, process run operation/monitoring,
+and apparatus cleanup, Table 4-5 was prepared as a summary of all crew manhours
+required for each of the three Space Station-based experiments. The mean crew
+manhours required is, therefore, estimated as approximately 150 hours per 90-day
+mission. This translates to 12.5 hours of crew time per week, probably not an
+unreasonable amount of time.
+A typical time-line for crew operations is illustrated by Figure 4-2. The Smoldering
+Combustion Experiment was chosen for this illustration, since it is representative of
+
+the mean crew time required and contains the major operational elementals of all
+three Space Station-based experiments.
+Again, the crew manhour and operational time-line requirements illustrated by Table
+
+3
+I
+
+a
+
+1
+
+II
+1
+
+1
+d
+I
+
+a
+I
+
+1
+
+4-5 and Figure 4.2, respectively, are very approximate estimates at this stage of the
+
+I
+
+experiment definition and development effort. Much more definitive test matrices
+and experiment designs (including degree of automation) are required before these
+estimates may be refined.
+
+11
+
+4.5
+
+SafetyIssues
+
+There are a number of safety issues associated with the integration and operation of
+any of the Space Station-based fire safety-related experiments described herein.
+These issues may be conveniently separated into two groups; 1) those fundamental
+flight hazards associated with all flight hardware, and 2) those special safety issues
+relevant to these specific experiments.
+4-10
+
+I
+I
+3
+I
+1
+
+Q)
+
+x
+h
+
+v)
+
+n
+
+E
+a
+
+c
+
+0
+.=
+I
+
+r"
+
+0
+00
+
+F
+
+0
+
+cd
+*
+
+4
+
+4-Ll
+
+0
+(
+D
+
+4
+
+0
+
+.
+c
+
+9
+e
+l
+
+m
+F
+
+E
+a
+
+0
+
+E
+I
+
+0
+
+m
+r
+
+0
+
+r
+
+*
+
+(
+
+Y
+
+0
+
+..
+
+0
+
+o
+
+0
+
+Q
+
+D
+
+0
+
+m
+
+t
+
+0
+
+cSUilOH '3IyuI.i.
+
+0
+
+N
+
+0
+
+0
+
+d
+
+1-12
+
+I
+I
+
+I
+I
+
+:
+:
+I
+I
+I
+
+I
+I
+
+I
+
+:
+I
+I
+
+Fundamental Plight Experiment H z r Requirements. Each experiment
+aad
+apparatus must be designed, constructed, and tested for compliance with all applicable
+STS Space Shuttle and Space Station hazard requirements. A complete list of these
+requirements documents will be prepared and reviewed for compliance. An example of
+such a list of documents for the Space Shuttle safety guidelines is presented as Table
+4-6. Typical specific concerns of these guidelines include the following items:
+1) Breakage of glass lenses
+2)
+EMI/RFI
+3)
+Offgassing
+4) Stress corrosion
+5)
+Sealed containers
+6)
+Structural failures
+7)
+Touch temperatures
+8)
+Injury hazards due to sharp corners, etc.
+9)
+Flammable materials
+10)
+Electric shock
+F ire-igni tion sources.
+11)
+4.5.1
+
+TABLE 4-6
+SOME SELECTED NASA STS SPACE SHUTTLE SAFETY GUIDELINES
+
+o NHB 1700.7A
+
+Safety Policy and Requirements
+
+o
+
+STS Payload Ground Safety Handbook
+
+KHB 1700.7
+
+o JS C-1383 0 A
+
+Implementation Procedure for STS Payloads System
+Safety Requirements
+
+o JSC-11123
+
+Space Transportation System Payload Safety Guidelines
+Handbook
+
+o NHB 8060.1B
+
+Flammability, Odor, and Offgassing Requirements and
+Test Procedures for Materials in Environments that
+Support Combustion
+
+o
+
+Design Criteria for Controlling Stress Corrosion Cracking
+
+MSFC-SPEC-522
+
+o JSC 08962
+
+Compilation of V C M Data of Nonmetallic Materials
+
+4-13
+
+1
+Special Safety Issues. Each of the Space Station-based fire safety experiments
+is expected to pose special safety and hazard issues since some toxic and corrosive
+substances will be produced as by-products of the process of combustion and
+extinguishment. Also, the combustion process will normally take place at, or slightly
+above, the laboratory module atmospheric pressure. Finally, hazardous gases (e.g.,
+oxygen) will be transported to the experiment apparatus for purposes of atmosphere
+make-up and recharging.
+4.5.2
+
+A l l of these special safety and hazard issues will be addressed in detail during the
+
+experiment design phase. Some techniques and procedures that may be used to
+minimize the hazards are the following:
+All fuel samples will be conservatively tested in ground-based facilities to
+
+ensure that no explosive materials are used.
+The quantity of fuel placed in the experiment apparatus will be carefully
+restricted to minimize heat release and over-pressure during the combustion process.
+Introduction of oxygen into the experiment apparatus will be initiated only
+after an appropriate amount of the inert gas (e.g., nitrogen) has been
+admitted. This should minimize the time that a flammable mixture is
+contained within the experiment apparatus prior to initiation of the
+corn bust ion process.
+Redundant oxygen sensors and pressure gauges will be used to monitor the
+gaseous mixture within the experiment apparatus.
+Provision for emergency venting (to space vacuum) and/or nitrogen
+flooding will be provided in the event of a hazardous occurrence.
+Dedicated fire detectors and fire extinguishers shall be located within the
+experiment apparatus enclosure (Le., within the Space Station experiment
+racks).
+
+I
+1
+
+I
+
+I
+1
+I
+1
+1
+I
+1
+1
+
+I
+
+1
+
+1
+I
+
+I
+4-1 4
+
+I
+I
+
+5.0
+
+EXPERIMENT-RELATED TECHNICAL LIMlTATIONS
+
+During the preparation of the spacecraft fire safety-related experiment concepts
+described in Section 3 0 a number of experiment-related technical limitations was
+.,
+identified. These technical limitations include topics that are currently at, or
+somewhat beyond, the current state-of-the-art as well as topics that simply pose
+challenging design problems. Nearly all of the identified technical limitations relate
+directly, or indirectly to the need to automate the Space Station-based experiments to
+the greatest degree possible.
+The following paragraphs provide a brief discussion of the experiment-related technical limitations identified herein. These technical limitations include the following:
+1)
+
+2)
+3)
+5.1
+
+Non-Intrusive Combustion and Flowfield Diagnostics
+Determination of Selected By-products of Combustion
+Disposal or Recycling of Combustion By-Products.
+
+Non-Intnrsive Combustion and Flowfield Diagnostics
+
+The use of completely non-intrusive (e.g., laser-based optical) combustion and flowfield diagnostic techniques is compelling, but difficult a t present. The use of various
+combinations of intrusive (Le., probe) and laser-based optical diagnostic systems are
+described throughout Section 3.0. Since the Space Station-based experiments are some
+8-10 years in the future (1996-1998), it may be anticipated that non-intrusive
+diagnostic measurements will be far more applicable than a t the present time.
+The various laser diagnostic systems described conceptually throughout Section 3.0 can
+provide valuable measurements of many parameters of interest relevant to combustion
+science and fire-safety experiments. These diagnostic systems are possible in
+principle, but the techniques of data acquisition and analysis need to be developed
+further for the precise measurement of these parameters. Although these techniques
+are to be applied under microgravity conditions, i t is important to establish a groundbased breadboard laser diagnostics system to develop the experiments and the system
+hardware for Space Station research. The ground-based system can be used later for
+the analysis of data collected from the Space Station experiments.
+
+5 -1
+
+Areas identified for further technology development activities include the following:
+1)
+
+Holography: real-time analysis and temperature profile measurement
+
+2)
+
+Use of fiber optics to simplify the system
+
+3)
+
+Laser Doppler Velocimetry: low-velocity particle measurements, particle
+seeding, etc.
+
+4)
+
+Laser Induced Fluorescence:
+various combustion flames
+
+5)
+
+Use of laser for ignition of fuel materials.
+
+species concentration measurements of
+
+Each of these technology development areas is defined further in the following
+paragraphs.
+5.
+.1
+1
+
+. Holography does not measure temperature directly but provides
+
+Holography
+
+the refractive index distributions required. It is possible to deduce temperature
+profiles f r o m these distributions; however, a considerable effort is needed in t h e data
+acquisition and analysis of a complete data base.
+
+Use of Fiber Optics The use of fiber optics t o simplify and enhance
+diagnostics systems is very compelling. However, there are a number of limitations in
+t h e current technology of fiber optics which need to be studied. Some of the following
+difficulties arise when using fiber optics in holography:
+
+5.1.2
+
+1)
+
+Changes in the polarization state occur, which may lead to a reduction in
+fringe visibility (see Note 1).
+
+2)
+
+The power that can be satisfactorily transmitted by the fiber is limited.
+
+3)
+
+Thermally-induced phase shifts in the fibers blur the fringes during
+exposures.
+
+These difficulties may be resolved as the fiber optics technology continues to develop.
+If the applicability of fiber optics in the diagnostic system can be established, fiberoptics transmission would greatly simplify the system.
+
+Note 1: Single mode polarization-preserving fibers are available for NIR wavelengths.
+Special fibers for the visible regicn need to be developed. The use of
+polarization-preserving fibers requires proper alignment, together with good
+linear polarization of the source.
+
+5 -2
+
+c -a-
+
+II
+I
+I
+I
+I
+
+I
+
+I
+1
+1
+I
+1
+I
+I
+
+I
+
+1
+1
+I
+1
+I
+
+5.
+.3
+1
+Laser Doppler Velocimetry. Laser Doppler Velocimetry may be used for the
+measurement of particle and flame velocities. In principle, it is possible to measure
+
+velocities as low as micrometers per second, but in practice, this precision is very
+difficult to achieve. Further effort is needed to establish the lowest velocity that can
+be measured and the seeding mechanism required.
+
+Laser Induced Fluorescence. Laser Induced Fluorescence (LIF) is a very
+precise investigation technique for the measurement of species concentrations in
+flames. There are well established procedures for the measurement of OH species
+concentrations in ground-based laboratory studies of diffusion flames. For many of
+the other species of interest, further experimental research needs to be performed in
+order to establish a firm spectroscopic data base for the quantitative analysis of LIF
+data. This experimental research needs to be performed relative to flames produced
+by the various fuels and atmospheres that would be investigated on the Space Station.
+
+5.1.4
+
+5.1.5
+
+Laser I d t i o n
+
+Of
+
+Fuel Materials. An entirely non-diagnostics application of
+
+lasers is in the possible use of focused laser beams to ignite the fuel materials in the
+combustion chamber. A s a method of achieving point ignition, the technique appears
+to offer a number of considerable advantages: The energy release occurs in an
+exceedingly short time (of the order of nanoseconds), over a very small volume, and
+without the proximity of electrode surfaces.
+5.2
+
+Determination of Selected By-Products of Combustion
+
+In any of the spacecraft fire safety-related experiments described herein, it is highly
+
+desirable to be able to measure the quantity of selected species of the by-products of
+the experimental combustion process. Although the measurement of the combustion
+intermediates is important for a complete understanding of the cornbustion process,
+such measurements may be currently beyond the state-of-the-art. For spacecraft fire
+safety purposes, it is desirable to monitor selected species, especially those compounds
+which may be highly toxic. Also, the measurement of the combustion process smoke
+particle-size distribution and concentration by size is important in assessing the
+process signature. It is suggested that these measurements be accomplished by a
+combination of laser optics (extinction/scattering determinations of particle sizes and
+number density by size), mass spectrometer, and particulate filters. These techniques
+
+5 -3
+
+have been used extensively in ground-based laboratories, but such a system for
+automated use on the Space Station clearly requires development.
+5.3
+
+D k p s a l or Recycling of Combustion By-ProaUcts
+
+Disposal and/or recycling of the spent gases and other by-products of combustion
+(condensates, soot and smoke particles, etc.) from the Space Station experimental
+facilities may pose a significant technical challenge. Periodically, the gaseous
+environment within the Combustion Tunnel Facility and the Combustion Facility must
+be purged and reconstituted with the appropriate environment for subsequent tests.
+Even if a number of devices (e.g., smoke particle filters, condensate cold traps, etc.)
+are used within the experimental facility during a process run (experiment), the
+remaining gases will likely include some combustibles and toxic compounds. Thus,
+even with this real-time cleanup, disposal and/or recycling of the spent gases may
+require special attention.
+Catalytic converters may be used to complete the combustion process and, for
+example, convert CO to COP. However, some combustible gases will remain, along
+with spme toxic and corrosive compounds. A determination is required as to the
+quantity of such waste material that may be generated by the experiments. This type
+of determination is required before these waste materials may be delivered to the
+Space Station Waste Management System ( W M S ) for disposal. The fundamental
+question to be resolved is as follows: To what extent do the spent gases and other byproducts of combustion require filtering and other modification prior to delivery to the
+W MS?
+A related question is whether an interim purge/storage container is required. If so, a
+
+low-power compressor will be needed to evacuate and compress the spent gases from
+the experiment facilities. In any event, the questions regarding the use of particulate
+filters, condensate cold traps, catalytic converters, etc. must be resolved.
+
+5-4
+
+6.0
+
+EXPERIlKENT DEVELOPMENT PLANS
+
+Sections 30 through 5.0 of this report have presented discussions of the concept
+.
+designs, spacecraft accommodation requirements, and some of the technical problems
+identified to date for three specific Space Station-based, fire safety-related experiments and their experimental facilities. Also, three related near-term, precursor
+experiments were introduced that could be undertaken and accomplished during the
+1990-1995 calendar year period.
+This section provides a preliminary plan and schedule outlining the development of the
+identified Space Station-based experiments to the point of flight readiness for an early
+1996 CY manifest. The plan also allows for the development of the related precursor
+experiments, whether they be executed in ground-based facilities, on sub-orbital
+ballistic flights, or on the Space Shuttle/Spacelab. The development plans and
+schedules presented are generic in that they may apply to any or all of the
+experiments described in Section 3.0, proposed as part of a Technology Development
+Mission in spacecraft fire safety.
+
+61
+.
+
+Overall Development Schedule (Phases A-D)
+
+Figure 6-1 illustrates a suggested schedule for the overall development of the
+hardware, software, and flight qualification of a generic experiment in phases that
+basically parallel the development of the Space Station. For scheduling purposes, it is
+assumed that the first available Space Station flight opportunity would occur no
+earlier than calendar year (CY) 1996. Thus, the schedule represented by Figure 6-1 is
+based on development activities through the end of CY 1995.
+Phase A (Planning and Concept Design) is indicated as complete in Figure 6-1 for the
+experiments introduced in Section 30 However, only preliminary planning has been
+..
+performed and no detailed test matrices have been prepared at this time. Phase B of
+the development plan is defined as the effort required to perform detailed planning
+and prototype design, construction and testing. Most of the ground-based and suborbital flight precursor activities would be performed during the Phase B effort. In
+accordance with normal NASA practice, Phases C and D would consist of the design,
+construction, flight qualification, and integration of the experiment and experiment
+facility (Le., the Combustion Tunnel and/or Combustion Facility) into the Space
+Station.
+6 -1
+
+f++P'
+
+aaaa
+
+m
+
++
+
+3
+
+g
+9
+n
+
+c
+
+G
+m
+
+m
+.-
+
+E
+
+0
+
+c
+
+m
+
+?!
+
+3
+
+0
+n
+
+z
+
+n
+
+I
+a
+
+6 -2
+
+6.2
+
+Planning and Prototype Design, Construction and Testing (Phase B)
+
+The major tasks to be performed during the Phase B development effort are defined in
+the first column of Figure 6-1.
+Task B-1 would be devoted to the detailed planning and development of user
+requirements and test matrices for the use of each experiment facility. This task
+would include a resolution of the need for sub-orbital flight testing (e.g., based on the
+KC-135 aircraft) in addition to, or in lieu of, Space Shuttle/Spacelab-based testing.
+Task B-2 would be devoted to the analytical resolution of technology development
+issues (among which are those described in Section 5.0 of this report). The choice of
+appropriate diagnostic instrumentation would also be a part of the Task B-2 effort.
+Hardware design is identified as Task B-3. It is recommended that the bulk of this
+effort be devoted to an experimental breadboard (Le., prototype) that could be
+ultimately used in sub-orbital flight testing after ground-based checkout. I t should be
+recalled that the full objectives of any of the Spacecraft Fire Safety-related TDM
+experiments are not likely to be fully met in the relatively short periods of low gravity
+(e.g., 15-25 seconds) obtainable in sub-orbital aircraft flights. However, such flights
+would be valuable in apparatus development. Note that Figure 6-1 indicates that two
+design efforts should be conducted during Task B-3. The first design is that of the
+breadboard already mentioned, while the second design should be a preliminary design
+of an appropriate experimental apparatus for the Space Shuttle/Spacelab. The nature
+of the second prototype design depends on a resolution of whether Space
+ShuttIeBpacelab-basing of t h e experiment is appropriate, or feasible. There is no way
+to make this judgment at this time. If the experiment cannot be manifested for
+operation in Spacelab prior to a Space Station flight opportunity, then this second
+prototype design should be treated as a preliminary design of the Space S tation-based
+experir ent apparatus.
+n
+Tasks B-4 through B-7 are devoted to the fabrication, assembly and checkout, software
+development, and ground-based testing of the experiment breadboard. The importance
+of this activity cannot be over-emphasized. Among other determinations, this groundbased checkout and testing could provide an opportunity to evaluate the ability of each
+experimental apparatus to satisfy the following requirements for typical fuel samples,
+
+6-3
+
+oxidizer gas mixtures (02/N2ratios), flow rates, and other important test parameters
+for the proposed experiments:
+Combustion and Flame Spread:
+
+Provide a steady and adequately uniform velocity profile approaching the
+fuel sample
+Maintain an adequately constant oxidizer gas mixture over the desired run
+time (Le., 1-3+ minutes)
+Provide adequate heat removal (via active heat exchanger) of the heat
+released by combustion and the fadmotor
+Ensure appropriate operation of an automated or semi-automated fuel
+sample exchanger
+Evaluate the various diagnostic instrumentation to monitor the ignition,
+flame spread and extinction processes.
+F i r e D i r e Extinguishant Interactions
+
+1)
+
+Evaluate the analytical computations for scaling of fuel sizes, fuel ignition
+energy, extinguishant nozzle configuration, size, etc., and extinguishant
+flow rates
+
+2)
+
+Provide preliminary experimental determination of combustion heat
+release and fuel-burning times allowable prior to the initiation of extinguishant injection
+
+3)
+
+Provide experimental determination of Combustion Facility pressure-and
+temper atur e-rise values.
+
+Smoldering Combustion:
+
+1)
+
+Maintain an adequately constant oxidizer gas mixture and flow throughout
+the desired run time (Le., 5-10+ minutes)
+
+2)
+
+Provide a means for experimentally determining the minimum energy
+required to initiate smoldering
+
+3)
+
+Provide a means for evaluating the adequacy of diagnostic instrumentation
+
+4)
+
+Provide an opportunity to evaluate various smolder cannister designs and
+sizes.
+
+Task B-8 is devoted to the potential sub-orbital flight testing of the breadboard
+experiment apparatus. The need for such testing would be addressed during Task B-1
+6-4
+
+I
+1
+I
+I
+I
+I
+1
+I
+1
+I
+1
+1
+I
+I
+1
+1
+I
+
+I
+
+1
+
+and re-evaluated a t any time. I t is recommended that such flight testing be
+considered for at least the following reasons:
+1)
+
+Even limited sub-orbital flight testing would provide an opportunity to
+evaluate the complex apparatus in low gravity.
+
+2)
+
+Some near-term, fire safety-related data and information may be obtained
+from the operation of such experiments.
+
+Finally, Task B-9 is included in the schedule for the purpose of resolving any
+technology development issues remaining open from Task B-2. This task is shown in
+Figure 6-1 as overlapping the ground-based testing of the breadboard (Task B-7) and
+the potential sub-orbital flights (Task B-8). The intent of this scheduling is to provide
+an experimental apparatus (Le., the breadboard) that could be used for the resolution
+of the open technology issues. However, the actual schedule of Task B-9 may be
+adjusted as needed when experimental equipment is available.
+63
+.
+
+Detailed D s g , Fabrication, T s , and D l v r of the Space Station-Based
+ein
+et
+eiey
+Experiment Apparatus (Phases C/D)
+
+Table 6-1 is an expansion of the Figure 6-1 description for the major tasks required to
+design, fabricate, assemble, test, flight qualify, and otherwise prepare the experiment
+apparatus (including Combustion Tunnel and/or C.ombustion Facility) as a manned
+spacecraft flight item. The listing of tasks for both Phase C (Design of Flight Item)
+and Phase D (Fabrication and Test of Flight Item) illustrate the basic formal work
+breakdown structure (WBS)headings required. A detailed description of each of these
+tasks is not possible at this time, except in very general terms.
+It should be noted that the Phase C/D effort has been compressed into calendar years
+1993-1995.
+
+This was scheduled in this manner to provide the maximum amount of
+
+calendar time for the precursor activities required during the Phase B effort.
+However, if required, the Phase C/D effort can be initiated earlier by compressing the
+Phase B activity to an earlier completion date (e.g., end of CY 1991). This revision of
+the schedule may become desirable if manifesting becomes available for a Space
+Shuttle/Spacelab accommodation prior to any Space Station flight opportunity.
+
+PHASE C:
+
+DESIGN OF SPACE SHUlTLEEPACE STATION
+EXPERIMENT APPARATUS
+
+c-1:
+
+Special Studies
+
+c-2:
+
+Engineering Design
+
+c-3:
+
+Preparation of Engineering Drawings
+
+c-4:
+
+Configuration Management
+
+c-5:
+
+Preliminary Software Development
+
+C-6:
+
+Safety and Safety Compliance
+
+c-7:
+
+Quality Assurance
+
+C-8:
+
+Design Reviews
+
+c-9:
+
+Verification
+
+c-IO:
+
+Alert System Reporting
+
+PHASE D:
+
+FABRICATION, TEST AND DELIVERY (INCLUDING
+P R E- MlSSl0N SU PPORT)
+
+D-1:
+
+Special Studies
+
+D-2:
+
+Manufacture and Assembly
+
+D-3:
+
+Final Software Development
+
+D-4:
+
+Verification
+
+D-5:
+
+Acceptance Reviews and Technical Documentation
+
+D-6:
+
+Hardware Delivery
+
+D-7:
+
+Spare Parts Determination
+
+D-8:
+
+Quality Assurance
+
+D-9:
+
+Pre-Mission Support
+
+D-IO:
+
+Alert System
+
+D-11:
+
+Safety and Safety Compliance
+
+D-12:
+
+Configuration Management
+
+Reporting
+
+6-6
+
+1
+i
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+I
+
+I
+
+CONCLUDING REMARKS AND RECOMMENDATIONS
+
+7.0
+
+The three concept designs presented in this report for Space Station-based, firesafety-related experiments were selected for the purpose of addressing key issues of
+enhancing safety yet encouraging access to spacecraft, especially the long-durationmission NASA Space Station. The experiments and facilities described are intended to
+constitute a portion of a Spacecraft Fire Safety Technology Development Mission
+(TDM). Basic requirements for the mission study are that the Space Station is
+essential for the accomplishment of the experimental objectives and that the
+technology being developed is appropriate for the growth version of the Space Station.
+The Space Station-based experiments described in this report, along with their
+precursor analyses and experiments, were selected from a lengthy list of candidate
+experiments derived from a survey of important issues in spacecraft fire safety.
+Again, the three experiments selected from those meeting the Space Stationapplicability criteria are as follows:
+
+1
+.
+2.
+
+Fire and Fire-Extinguishant Interactions with Various Fire Scenarios in Low
+Gravity
+
+3.
+
+.
+
+Combustion and Flame Spread of Typical Spacecraft Materials in a LowVelocity Convective Flow in Low Gravity
+
+Smoldering and DeeplSeated Combustion in Low Gravity
+
+..
+
+The advantages of these three experiments for the growth-version Space Station are
+that, not only do they explore problems relevant to the Space Station operation and
+utilization, but also they constitute tests adaptable to multiuse facilities installed in
+the Space Station laboratory module.
+Thus, the TDM study will include the
+development of modularized versions of the two highly versatile experiment facilities
+described herein, namely the Combustion Tunnel Facility and the Combustion Facility.
+It is recognized that the proposed experiment concepts may be eight or more years
+away from operational realization. The experiments, however, represent the culmination of significant programs in preparation for the Space Station TDM. These
+programs cover, first, the derivation of models, analyses, and verification data in
+fields relevant to the proposed experiments, such as in microgravity combustion,
+extinguishment, and material assessment. Second, the programs include the conduct
+of precursor experiments in fire-safety-related technology and hardware development,
+7 -1
+
+using the available short-term, low-gravity ground facilities. Finally, based upon
+results of the precursor analyses and experiments, the programs result in the
+development of the detailed Space Station accommodations, instrumentation, test
+procedures, and test schedule priorities. Ideally, finalized development of the
+experiments and their precursors can yield hardware for inclusion of tests in the
+Shuttle or the Spacelab.
+Three general recommendations to be derived from this study of experiment concepts
+for spacecraft fire safety in the Space Station can summarize the challenge for the
+future as follows:
+
+1.
+
+The definition and implementation of ground-based research applicable to
+the fire-safety concerns raised in this report
+
+2.
+
+The continued follow-on design and development of the proposed experiments and their precursors for low-gravity ground and space evaluation
+
+3.
+
+The design and development of multipurpose experiment facilities for the
+growth Space Station, to include the two suggested combustion facilities.
+
+I
+1
+I
+1
+
+I
+
+I
+I
+1
+I
+
+I
+
+1
+I
+I
+I
+I
+
+I
+
+7 -2
+
+1
+1
+1
+
+8.0
+
+REFERENCES
+
+1. Spacecraft Fire Safety. NASA CP-2476, September 1987.
+2.
+
+Friedman, R.; and Sacksteder, K.R.:
+Science and Technology Issues in
+Spacecraft Fire Safety. AIAA Paper 87-0467, January 1987.
+
+3.
+
+Kimzey, JH: Skylab Experiment M479 Zero Gravity Flammability. Proceedings
+..
+of the Third Space Processing Symposium
+TM X-70252, June 1974, pp. 115-130.
+
+4.
+
+Olson, S.L.;
+
+and Sotos, R.G.:
+
+-
+
+Skylab Results, Vol. I, NASA
+
+Combustion of Velcro in Low Gravity.
+
+NASA
+
+TM-88970, March 1987.
+5.
+
+Friedman, R.:
+
+Fire Safety Concerns in Space Operations.
+
+NASA TM-89868,
+
+May 1987.
+6.
+
+Sacksteder, K.R.:
+Microgravity Combustion Science and Applications Program
+at the NASA Lewis Research Center. Space Operations: Problems, Issues, and
+
+Programs Related to Man in Space, D.S. Eggleston, ed.
+Chemical Propulsion Information Agency, 1985, pp. 265-286.
+7.
+
+CPIA-PUB-415,
+
+Youngblood, W.W.; and Seiser, K.M.: Experiments t o Ensure Space Station F i r e
+Safety A Challenge. AIAA Paper 88-0540, January 1988.
+
+-
+
+8.
+
+Flammability, Odor, and Offgassing Requirements and Test Procedures for
+Materials in Environments t h a t Support Combustion. NASA TM-84066, 1981
+(NASA N FIB-8 06 0.1 B).
+
+9.
+
+Foutch, D.W.; and T'ien, J.S.: Extinction of a Stagnation Point Diffusion Flame
+at Reduced Gravity. AIAA Journal, VoL 25, 1987, pp. 972-976.
+
+10.
+
+Summerfield, M.; Messina, N.A.; and Ingram, LS: Definition of Smoldering
+..
+Experiments for Spacelab. NASA CR-159528, January 1979.
+
+11.
+
+Ohlemiller, T.J.:
+
+Smoldering Combustion. NBSIR 85-3294, February 1986.
+8 -1
+
+-
+
+et al.: Equipment Concept Design and Development Plans for
+Microgravity Science and Application Research on Space Station.
+NASA
+C R -1 79 5 35, S ep tember 19 8 6.
+
+12.
+
+Uhran, M.L.,
+
+13.
+
+Smyth, K.C., et al.:
+Soot Inception in a Methane/Air Diffusion Flame as
+Characterized by Detailed Species Profiles. Combustion and Flame, V o L 6 2,
+1985, pp. 157-180.
+
+14.
+
+Santoro, R.J.; Semerjian, A.G.; and Dobbins, R.A.:
+
+Soot Particle Measurements
+
+in Diffusion Flames. Combustion and Flame, Vol. 51, 1983, pp. 203-218.
+15.
+
+Owen, R.B.; and Kroes, R.L.:
+
+Holography on the Spacelab 3 Mission. Opt. News,
+
+V o L 11, No. 7, July 1985, pp. 12-16.
+16.
+
+Sibulkin, M.; and Little, M.W.:
+
+Propagation and Extinction of Downward Burning
+
+Fires. Combustion and Flame, V o L 31, 1978, pp. 197-208.
+17.
+
+Huggett, C.:
+Estimation of R a t e of Heat Release by Means of Oxygen
+Consumption Measurements. Fire and Materials, V o L 4, 1980, pp. 61-65.
+
+18.
+
+Dewitt, R.L.:
+Preliminary Concept, Specifications, and Requirements for a
+Zero-Gravity Combustion Facility. NASA TM-78910, June 1978.
+
+19.
+
+Cholin, R.:
+
+How Deep is Deep? Use of Halon 1301 on Deep-seated Fires. Fire
+
+Journal, March 1972, pp. 19-23.
+20.
+
+Reichelt, E.F.:
+Report of Test Results: Halon 1301 vs. Water Sprinkler Fire
+Protection for Essential Electronics Equipment. Air Force Engineering Services
+Center, Report No. ESL-TR-82-28, July 1982.
+
+21.
+
+Doerr, R.L.; and Gross, T.H.:
+A Comparative Analysis of Fire Protection
+Systems for Essential Electronic Data Processing Equipment. Air Force Institute
+of Technology, Report No. AFIT-LSSR-31-80, June 1980.
+
+8 -2
+
+I
+I
+I
+I
+I
+I
+1
+I
+I
+I
+1
+I
+I
+I
+I
+
+I
+I
+
+I
+I
+
+THIS PAGE WAS INTENTIONALLY LEFT BLANK.
+
+Report Documentation Page
+
+NEA
+
+N U d WONulIcI uld
+
+SbVm Adnnntrmon
+
+1. Report No.
+
+CR 182114
+
+2. Government Accession No.
+
+3. Recipient's Catalog No.
+
+.
+
+I
+
+5. Report Date
+
+4. Title and Subtitle
+
+April 1988
+
+Spacecraft Fire Safety Experiments f o r Space Station
+Technology Development Mission
+
+6. Performing Organization Code
+
+8. Performing Organization Report No.
+
+7. Author(s)
+
+68300-1
+
+Wallace W. Youngblood
+
+__
+
+10. Work Unit No.
+
+480-52-25067
+~~
+
+9. Performing Organization Name and Address
+
+11. Contract or Grant No.
+
+Wyle Laboratories
+7800 Governors' Drive, West
+P.O. Box 1008
+Huntsville AL 35807-5101
+
+NAS 3-25067
+f Repo and
+
+13.
+
+E'& ! a c €0 r
+r
+
+eriod Covered
+
+lie por t
+
+Final
+
+12. Sponsoring Agency Name and Address
+
+National Aeronautics and Space Administration
+Lewis Research Center
+C1 eve1 and OH 44135-3191
+
+14. Sponsoring Agency Code
+
+15. Supp!ementary Notes
+
+Project Manager, RoGert Friedman, Space Experiments Division,
+
+NASA Lewis Research Center
+
+16. Abstract
+
+Three concept designs of low -gravity, fire-safety related experiments are presented,
+as selected for the purpose of addressing key issues of enhancing safety and yet encouraging
+access to long-duration, manned spacecraft such as the N A S A Space Station. The selected
+low -gravity experiments are the following: (1) An investigation of the fla me-spread rate
+and co m bustion-product evolution of the burning of typical thicknesses of spacecraft
+materials i n very low-speed flows; (2) an evaluation of the interaction o f fires and candidate
+extinguishants in various fire scenarios; and (3) an investigation of the persistence and
+propagation of smoldering and deep-seated co mbustion. Each experiment is expected to
+provide fundamental co m bustion-science data, as well as the fire-safety applications, and
+each requires the unique long-duration, low-gravity environ ment of the Space Station. Two
+generic test facilities, Le., the Combustion Tunnel Facility and the Combustion Facility, are
+proposed for Space Station acco m m odation to support the selected experiments. In addition,
+three near-term, fire-safety related experi m ents are described along w i t h other related
+precursor activities.
+
+18. Distribution Statement
+
+17 Key Words (Suggested by Author@))
+
+-
+
+Combust+on; Ftre detectton; Fire Suppressi n UnclassifPed
+Unlimited
+Mkrogravity Appl +cations; Space Station: I Subject Category 18
+Spacecraft Fire Safety; Smolderfng;
+Space Lahoratory
+
+i
+
+Unclassified
+
+i 23
+
+Security Classii (of this pzge)
+
+121
+
+I
+
+19 Security Classif ;of this repon)
+
+Unclassified
+
+1
+
+I
+NASA FORM 1626 OCT 86
+
+'For sale
+
+NO of
+
+pages
+
+116
+
+by the National Technical Information Service. Springfield. ?/irglnia 22161
+
+I
+
+22 Price'
+
+A06
+
+I
+
+iI
+
+I
+1
+I
+I
+I
+I
+I
+I
+1
+I
+1
+I
+I
+I
+I
+1
+I
+I
+I
+

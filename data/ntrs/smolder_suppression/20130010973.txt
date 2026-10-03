@@ -1,0 +1,755 @@
+Determination of Survivable Fires
+D. L. Dietrich∗ J. E. Niehaus, G. A. Ruﬀ, D. L. Urban
+,
+NASA John H. Glenn Research Center, Cleveland, Ohio, 44135, USA
+
+F. Takahashi, J. W. Easton, A. A. Abbott
+National Center for Space Exploration Research, Cleveland, Ohio, 44135, USA
+
+J. C. Graf
+NASA Lyndon B. Johnson Space Center, Houston, Texas, 77058, USA
+At NASA, there exists no standardized design or testing protocol for spacecraft ﬁre suppression systems
+(either handheld or total ﬂooding designs). An extinguisher’s eﬃcacy in safely suppressing any reasonable or
+conceivable ﬁre is the primary benchmark. That concept, however, leads to the question of what a reasonable
+or conceivable ﬁre is. While there exists the temptation to ‘over-size’ the ﬁre extinguisher, weight and volume
+considerations on spacecraft will always (justiﬁably) push for the minimum size extinguisher required. This
+paper attempts to address the question of extinguisher size by examining how large a ﬁre a crew member
+could successfully survive and extinguish in the conﬁnes of a spacecraft.
+The hazards to the crew and equipment during an accidental ﬁre include excessive pressure rise resulting
+in a catastrophic rupture of the vehicle skin, excessive temperatures that burn or incapacitate the crew (due
+to hyperthermia), carbon dioxide build-up or other accumulation of other combustion products (e.g. carbon
+monoxide). Estimates of these quantities are determined as a function of ﬁre size and mass of material
+burned. This then becomes the basis for determining the maximum size of a target ﬁre for future ﬁre extinguisher testing.
+
+I.
+
+Introduction and Background
+
+Future exploration missions call for extending a human presence into space beyond low Earth orbit where,
+in the event of an emergency, a rapid return to earth is not an option. An accidental ﬁre is an emergency
+situation that can easily have dire consequences if it is not detected and extinguished quickly and eﬀectively.
+Therefore, the crew must have the equipment, systems, and procedures to safely deal with any possible ﬁre
+and its after-eﬀects. The ﬁrst line of defense in a ﬁre safety strategy is ﬁre prevention through material
+selection and control. Experience in manned space ﬂight, however, indicates that this control may, but will
+not necessarily, ensure that ﬁres on spacecraft will not occur. Therefore, ﬁre detection and suppression
+systems are still requireda .
+Fortunately accidental ﬁres have been very rare on space vehicles. There are, however, open questions
+about the size of a potential ﬁre in spacecraft. For total ﬂooding agents involving an inert gas, it is a relatively
+simple exercise to compute the required mass of suppressant given the concentration needed to suppress a ﬁre
+irrespective of ﬁre size. Detailed Computation Fluid Dynamic (CFD) simulations of suppressant dispersal
+would provide an even better tool to design the suppressant system. In practice the dispersal of an inert gas
+suppressant to a concentration required to suppress a likely ﬁre would result in a vehicle over-pressure and
+an oxygen concentration too low for crew survival. Therefore, inert gas suppressants are not necessarily an
+optimal solution for a spacecraft suppression system.1–3
+Streaming or local application agents can safely and quickly extinguish many ﬁres. As a result, all NASA
+and most foreign manned spacecraft provide a hand-held extinguisher. The size of these extinguishers,
+∗ Aerospace
+
+Engineer, NASA John H. Glenn Research Center, Cleveland, Ohio 44135, AIAA Member.
+Soyuz capsules have no dedicated ﬁre suppression capability. This is a programmatic risk that U.S. vehicles have
+not accepted since the Mercury and Gemini programs.
+a Russian
+
+1 of 11
+American Institute of Aeronautics and Astronautics
+
+however, is typically based on terrestrial ﬁre standards and not the unique properties of microgravity ﬁres
+and hazards of the spacecraft environment. The temptation of the designers is to ‘over-size’ the extinguisher
+to compensate for any uncertainty in ﬁre size or severity. Severe weight and volume limitations, however,
+will always push back on the ‘over-size’ design idea. Recently, we introduced the concept of a ‘survivable ﬁre’
+to guide the design and qualiﬁcation of a hand-held ﬁre extinguisher for future spacecraft.4 In this paper we
+expand on this concept and discuss in detail the speciﬁc risks to the crew and introduce estimates to their
+severity.
+
+II.
+
+Crew and Vehicle Risks from Fire
+
+In order for a ﬁre to occur, all three elements of the ﬁre triangle must be present, fuel, oxygen and an
+ignition source. In a manned spacecraft, the ﬁrst two will invariably be present, even with very strict material
+controls. The ignition source can be a number of things, nearly all of which are the result of equipment
+malfunction. Assuming there is a release of energy suﬃcient to initiate a ﬁre, the chemical reaction between
+˙
+the fuel and oxygen will result in heat release QCOMB (t). The time dependence emphasizes the fact that,
+assuming suﬃcient fuel and oxygen, the ﬂame will grow with time after ignition. As the ﬁre burns, it
+consumes fuel and oxygen, produces carbon dioxide and water vapor and releases heat. The process presents
+some very real hazards to the crew.
+II.A.
+
+Carbon Dioxide Toxicity
+
+Carbon dioxide (CO2 ), a product of both ﬁre and human metabolism, is a threat to human health in high
+enough concentrations. The Spacecraft Maximum Allowable Concentration (SMAC)5 for carbon dioxide
+provides a guide for determining a limit. The level is currently a maximum of 2.0% for 1 hour and 1.3% for
+24 hours.
+A critical component of all spacecraft environmental systems is the scrubbing system for carbon dioxide. These systems are designed to remove the metabolically produced carbon dioxide from the spacecraft
+atmosphere. For reference, individual carbon dioxide production can vary from 0.5 to 4.0 l/min at ATP
+(atmospheric or room temperature and pressure conditions, 20 C and 1 atm, respectively) from rest to moderately strenuous exercise. In comparison, a birthday candle produces approximately 0.18 l/min of carbon
+dioxide at ATP conditions (burning in normal gravity). So while the spacecraft Environmental Control
+and Life Support Systems (ECLSS) can remove carbon dioxide, in the event of a ﬁre, the carbon dioxide
+production could exceed the removal capability of the ECLSS and it would accumulate to dangerous levels.
+˙
+If the heat release proﬁle of the ﬂame, QCOMB (t), is known or assumed, then the carbon dioxide accumulation rate ([nCO2 (t)]acc ) is simply
+˙
+[nCO2 (t)]acc =
+˙
+
+˙
+QCOMB (t) νCO2
+− [nCO2 (t)]ECLSS ,
+˙
+Qcomb MO2
+
+(1)
+
+where Qcomb is the heat generation per mass of oxygen consumed, MO2 is the molar mass of oxygen, νCO2
+is the stoichiometric coeﬃcient that represents the number of moles of carbon dioxide produced per mole
+of oxygen consumed and [nCO2 (t)]ECLSS is the rate of carbon dioxide removal by the vehicle ECLSS. For
+˙
+this study, we assume Qcomb = 13, 100 kJ/kgO2 typical for a wide range of fuels and a fuel with an average
+molecular composition of C6 H10 O5 .6, 7 The mole fraction of carbon dioxide is then simply the integrated
+t
+molar mass ( t=0 [nCO2 (t)]acc dt) normalized by the total molar mass of gas in the vehicle.
+˙
+II.B.
+
+Excessive Temperature
+
+A ﬁre in an open cabin releases a signiﬁcant amount of energy to the spacecraft cabin. The high temperatures
+from this energy release pose two signiﬁcant hazards to the crew and vehicle. The ﬁrst is the immediate
+hazard of heat ﬂux or high temperature gas from the ﬁre burning that either burns the crew or damages
+critical spacecraft life support systems. The burns could be external (skin) from the ﬂame radiant ﬂux or
+internal (lung and airways) from inhalation of high temperature gas. The second is the longer-term eﬀect of
+a high temperature environment that could severely injure the crew by creating a hyperthermic environment.
+
+2 of 11
+American Institute of Aeronautics and Astronautics
+
+II.B.1.
+
+Excessive Heat Flux
+
+An immediate hazard posed by any ﬁre is skin burns and damage to the lungs and airways from inhaling
+high temperature gas. The threat is obviously greater the closer the crew is to the ﬂame. For human-crewed
+spacecraft, this poses two unique threats. First, the small volume of a spacecraft greatly limits the distance
+the crew can be from the ﬁre. Second, in microgravity, the heat ﬂux and gas temperature will not have the
+strong directional dependence that a ﬂame in normal gravity has.
+˙
+Assuming the heat ﬂux from a ﬂame with size QCOMB (t) is present in the cabin, the heat ﬂux a distance
+rcrew from the ﬂame is
+qcrew (t) =
+˙
+
+˙
+η QCOMB (t)
+2
+2 π rcrew
+
+(2)
+
+In this expression, we assume that the ﬂame power is transferred into a hemisphere as if the ﬂame is against
+a solid insulating surface (with no heat loss). The term η is a factor between 0.0 and 1.0 that simply accounts
+for any heat transfer to a solid surface or directional component of the heat transfer. With a heat ﬂux given
+by Equation 2 above, it becomes a matter of understanding the magnitude of the threat to the crew.
+Stoll and Chianta8 provide data on the time to a second degree burn as a function of heat ﬂux to the
+skin. Second degree burns involve redness and blistering of the skin and depending on the severity can result
+in serious infections. They typically take several weeks to heal. A second degree burn over a large portion
+of a crew member’s body would represent very serious medical concern. We use this data as a guide for the
+maximum exposure time and consider that it would take the crew on the order of approximately 60 seconds
+to extinguish a ﬁre.
+Understanding the threat to the crew due to excessively high temperature inhaled air again assumes
+that the energy released by the ﬁre is distributed symmetrically around the ﬁre. If we assume that the
+ﬁre occupies a volume with a given radius (rFIRE ), then the steady-state radial distribution of temperature
+(Tg (r)) is
+Tg (r) =
+
+rFIRE
+r
+
+rCABIN − r
+rCABIN − rFIRE
+
+TFIRE +
+
+rCABIN
+r
+
+r − rCABIN
+rCABIN − rFIRE
+
+TCABIN ,
+
+(3)
+
+where rCABIN and TCABIN are the approximate radius and temperature of the spacecraft and TFIRE is the
+˙
+temperature of the ﬁre.9 The heat-release rate of the ﬁre (Q (t)) is
+(TFIRE − TCABIN ) rCABIN rFIRE
+˙
+Q (t) =
+4 π λg
+
+(4)
+
+where λg is the thermal conductivity of the gas, assumed to be air at one atm pressure and ambient
+temperature.
+Lva and co-workers10 performed a detailed analysis of tracheal burning from inhaled heated gas. Their
+analysis used a maximum inhaled gas of approximately 373 K as the base for the computation and predicted
+signiﬁcant damage immediately after exposure and more serious damage to deeper tissue after a longer
+exposure. We therefore consider this to be the temperature limit for short duration exposure.
+II.B.2.
+
+Hyperthermic Environment
+
+In the event of an accidental ﬁre, the heat release will cause a temperature rise in the cabin. The primary
+mechanism to dissipate the heat from the cabin gas is radiation and convection heat transfer to the vehicle
+(assumed to be at a constant temperature) and through the ECLSS systems. While the immediate concern
+in the event of a ﬁre is burn injuries to the crew and damage to the vehicle, there is also a risk to the crew
+in the long-term if the cabin temperature remains too high for too long. The cabin gas temperature as a
+function of time (Tg (t)) is simply
+d (nCABIN Tg )
+4
+4
+˙
+¯
+= QCOMB (t) − aP VFIRE σ Tf − Tw − hCABIN ACABIN Tg − Tw
+(5)
+dt
+where Cv,g is the average (constant volume) speciﬁc heat of the gas, nCABIN is the molar mass of gas in the
+˙
+cabin and QCOMB is the combustion heat-release rate. The second term on the right hand side of Equation 5
+is the radiative heat transfer between the ﬂame and the walls of the cabin. The expression includes radiative
+Cv,g
+
+3 of 11
+American Institute of Aeronautics and Astronautics
+
+transfer (σ is the Stefan-Boltzman constant) from combustion-produced carbon dioxide and water vapor
+through the Planck Mean Absorption Coeﬃcient (aP ), but neglects solid particulate heat transfer. The
+third term on the right hand side of Equation 5 is the convective heat transfer (with heat transfer coeﬃcient
+hCABIN ) between the cabin air and the walls of the cabin (with area ACABIN and volume VCABIN assumed to
+be at a constant temperature). For the sample calculations herein, we assume that the volume of the ﬁre
+(VFIRE ) is the volume of the cabin (VCABIN ).
+Hyperthermia results when the body’s compensatory mechanisms cannot dissipate the excess metabolic
+energy. It is a complex problem beyond the scope of the present analysis, but can occur at temperatures
+as low as 311 K. For the present analysis, however, we assume a properly hydrated, physically ﬁt crew and
+that hyperthermia will occur if the cabin gas temperature remains above 330 K for longer than 60 minutes.
+II.C.
+
+Vehicle Over-pressurization
+
+As a ﬂame burns in the sealed volume of a spacecraft, the temperature rise in the cabin as detailed in Section
+II.B.2 will result in a pressure rise. At some point, the cabin pressure will exceed the capabilities of the
+vehicle and the pressure relief system will vent gases from the cabin to space to maintain the structural
+integrity of the vehicle. If the pressure rise is too rapid and exceeds the pressure relief capability of the
+vehicle a catastrophic structural failure could occur.
+The pressure rise associated with the ﬁre is inconsequential to the health of the crew, the hazard is to the
+health of the spacecraft. While activating the pressure-relief system is not desired, it is certainly preferable to
+a rupture of the spacecraft structure. The pressure in the cabin (PCABIN ) is simply related to the temperature
+through the ideal gas law assuming the volume of the spacecraft is known.
+PCABIN =
+
+nCABIN Ru Tg
+VCABIN
+
+(6)
+
+where Ru is the universal gas constant. Gokoglu and co-workers11 performed a detailed analysis for a largescale ﬁre experiment proposed for an ISS re-supply vehicle (e.g. HTV, ATV, etc.) using this approach and
+achieved good agreement with experimental data (albeit in much smaller chambers).
+II.D.
+
+Oxygen Depletion
+
+Fire consumes oxygen and thus will compete with the crew for the available oxygen in the cabin. In the
+reduced gravity environment of space (or even the Moon or Mars), a ﬁre can burn to relatively low oxygen
+mole fractions before it will extinguish.1–3 The exact limit depends on the material burning and other
+environmental factors (e.g., air speed) but in general, the ﬂame will burn at oxygen concentrations that are
+unsuitable for human survival. Therefore, any consideration of a survivable ﬁre should include an analysis
+of the oxygen consumption. The molar depletion of oxygen is
+[nO2 (t)]acc =
+˙
+
+˙
+QCOMB (t) νO2
+,
+Qcomb MO2
+
+(7)
+
+where Qcomb is the heat generation per mass of oxygen consumed, MO2 is the molar mass of oxygen, νO2 = 1
+(the stoichiometric coeﬃcient for oxygen. The mole fraction of oxygen is then simply the integrated molar
+t
+mass (nO2 (t = 0) − t=0 [nCO2 (t)]acc dt) normalized by the total molar mass of gas in the vehicle.
+˙
+II.E.
+
+Atmospheric Contamination
+
+The primary products of combustion are carbon dioxide and water vapor. The analysis above assumes
+complete reaction and is a reasonable assumption for total heat release and carbon dioxide production. The
+high temperatures during combustion, however, also result in incomplete oxidation of the fuel (especially for
+under-ventilated ﬂames) and the production of gaseous products and particulates that can be dangerous to
+the crew. The most common of these pollutants is carbon monoxide. There are, however, a host of other
+products that are of concern. The threat to the crew can be immediate in the case of carbon monoxide or a
+longer-term concern to crew health (e.g., lung damage from smoke particulate).
+For this initial analysis, we only consider the production of carbon monoxide and carbon dioxide as other
+gaseous and particulate species require a detailed speciﬁcation of the burning material. Predicting carbon
+monoxide from a generic ’ﬁre’ without a speciﬁcation of the material and environment is diﬃcult. The best
+4 of 11
+American Institute of Aeronautics and Astronautics
+
+approach is to consider the chemical equilibrium12 of a mass of fuel (mf ) reacting with a speciﬁed mass or
+volume of oxygen. The analysis considers poly-methylmethacrylate (PMMA, [C5 H8 O2 ]n ) as the fuel with
+air as the oxidizer. The balanced chemical equation for methacrylate is
+C5 H8 O2 + 6 O2 → 5 CO2 + 4 H2 O,
+
+(8)
+
+which means the stoichiometric molar ratio of fuel to oxidizer is (1/6). The equivalence ratio (φ) is the
+ratio of the actual fuel to oxidizer ratio to the stoichiometric fuel to oxidizer ratio. For the reaction system
+considered, the fuel to air ratio (F/O) is
+(F/O) =
+
+(mf /Mf ) Mair
+0.21 VCABIN η ρair
+
+(9)
+
+where mf is the mass of PMMA, Mf and Mair are the molar masses of the fuel and air, respectively, ρair
+is the density of air and η is a factor between 0 and 1.0 that representing the fraction of cabin air that
+participates in the reaction.
+The results presented herein use -184.5 kJ/gmol for the heat of formation of the fuel.7 The chemical
+equilibrium calculation12 then produces estimates of the mixture temperature and mole fractions of carbon
+dioxide and carbon monoxide. The analysis then assumes that this burned mixture of gases mixes uniformly
+throughout the cabin to produce estimates of the gas temperature and carbon dioxide and carbon monoxide
+mole fractions.
+
+III.
+
+Results and Discussion
+
+The analysis in the previous section allows us to estimate the risks to the crew and vehicle from the various
+hazards imposed by an accidental ﬁre. The computations are strongly dependent on the size of the vehicle.
+For reference, we assume a sealed volume the approximate size of the Destiny module on the International
+Space Station (ISS). The assumed volume (approximate gas volume) and surface area (approximate internal
+surface area) are 65 m3 and 150 m2 , respectively.
+Equation 5 is a simple ﬁrst order ordinary diﬀerential equation easily solved after specifying the ﬁre power
+˙
+(QCOMB (t)). We assume a ﬁre that grows with a growth coeﬃcient13 of 0.0029 kW/s2 which is consistent with
+a slow growing ﬁre. The ﬁre grows for a preset period of time, remains at a constant power for a speciﬁed
+time and then reduces to 0 (an extinguished ﬁre) for another speciﬁed time period. Specifying the ﬁre power
+also then allows the computation of cabin pressure and oxygen and carbon dioxide mole fractions using the
+ideal gas law and Equations 1 and 7, respectively. Figure 1 shows the result of the computation for what we
+consider to be a large and small ﬁre that burn approximately 3 and 0.5 kg of material, respectively.
+Figure 1 shows the ﬁre power (an input to the model) and the average cabin pressure, temperature and
+carbon dioxide and oxygen mole fractions as a function of time. The cabin pressure and temperature increase
+as the ﬁre grows from time zero (zero ﬁre power). As the gas temperature increases, the heat transfer to
+the walls (by radiation and convection) begins to increase, eventually exceeding the power of the ﬁre. When
+this occurs the gas temperature and cabin pressure begin to decrease even if the ﬁre continues to grow. The
+mole fractions of oxygen and carbon dioxide continuously increase with time until the ﬁre is extinguished,
+at which time they remain constant.
+The computation predicts that each of the ﬁres will exceed the cabin pressure limitations. We assume
+that the pressure relief system on the vehicle would be suﬃcient to vent gas out of the vehicle to maintain
+structural integrity, although it would not be diﬃcult to verify that assumption given the speciﬁcations of
+the relief valve. If, however, the rate of pressure rise exceeds the capability of the pressure relief system, the
+ﬁre could compromise the spacecraft structure.
+The ambient gas temperature for the large ﬁre is disconcerting. The average (not peak) gas temperature
+exceeds limits for safe breathing even for a short time and would result in tracheal burning. In addition, the
+temperature could result in a hyperthermic condition for the crew, especially if their activity level were high
+(as would be expected in an emergency condition). The small ﬁre results in a temperature environment that
+would surely be uncomfortable, but not likely life threatening.
+The large ﬁre also results in an environment that has oxygen and carbon dioxide concentrations that
+are considered either dangerous or lethal. The computation, however, does not assume any carbon dioxide
+removal or oxygen replenishment from the ECLSS systems. Again, the analysis could be easily updated
+given the speciﬁcation of these systems.
+5 of 11
+American Institute of Aeronautics and Astronautics
+
+Fire Power ( kW )
+
+150
+
+Small Fire
+Total Fuel Consumed ~ 0.5 kg
+Temperature
+CO2 Mole Fraction
+O2 Mole Fraction
+Fire Power
+Pressure
+
+100
+
+1.6
+
+1.5
+
+1.4
+
+1.3
+
+1.2
+
+50
+
+Average Cabin Pressure ( atm )
+
+Large Fire
+Total Fuel Consumed ~ 3 kg
+Temperature
+CO2 Mole Fraction
+O2 Mole Fraction
+Fire Power
+Pressure
+
+1.1
+
+0
+
+1.0
+
+500
+0.20
+
+450
+0.15
+
+400
+0.10
+
+350
+0.05
+
+CO2 and O2 Mole Fractions
+
+Average Gas Temperature ( K )
+
+O2
+
+CO2
+
+300
+
+0.00
+0
+
+200
+
+400
+
+600
+
+800
+
+1000sec
+
+Time From Start of Fire ( sec )
+Figure 1. Predictions of average cabin gas temperature, pressure and oxygen and carbon dioxide mole fractions for an
+arbitrarily considered large and small ﬁre. The graph shows the ﬁre power proﬁle assumed in the computation.
+
+6 of 11
+American Institute of Aeronautics and Astronautics
+
+Figure 2 shows the ambient gas temperature as a function of distance away from the ﬂame using Equations
+3 and 4 for a range of ﬁre sizes. These results show the approximate spatial distribution of gas temperature
+whereas Figure 1 shows the volume-averaged gas temperatures. The results show that gas temperatures
+remain dangerously high at relatively large distances from the ﬂame even for relatively small ﬁres. These
+results may seem counterintuitive based on experience with terrestrial ﬁres. The important fact to remember,
+however, is that for a terrestrial ﬁre the gas temperature is very high above the ﬂame owing to the buoyant
+ﬂowb . The ﬂame energy is omnidirectional in microgravity. Figure 2 does not account for any air circulation
+which would lower the temperature. The actual temperature at any radial location would be between the
+cabin-averaged gas temperature in Figure 1 and the spatially-resolved temperature in Figure 2. The results
+in Figure 2 therefore likely overestimate the gas temperature the crew would be exposed to.
+0.55 kW
+1.10 kW
+1.64 kW
+2.20 kW
+3.30 kW
+4.40 kW
+5.50 kW
+23 kW
+35 kW
+
+1400
+
+Gas Temperature ( K )
+
+1200
+
+Increasing Fire Size
+
+1000
+
+800
+
+600
+
+400
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5m
+
+Radial Distance from Fire ( m )
+Figure 2. Gas temperature as a function of radial distance from the ﬁre for a number of ﬁre sizes. The analysis
+assumes a spherical ﬂame at 1500 K with the radius of the ﬁre determining the ﬁre size. The dashed line at 400 K is
+the approximate limit for breathing without tracheal burning.
+
+Figure 3 shows the maximum exposure time computed time using a heat ﬂux from Equation with η = 1
+and the heat exposure data of Stoll and Chianta8 for several radial distances from the ﬂame. The exposure
+data required extrapolation for times longer than 30 seconds. The maximum exposure time is the time it
+would take for the crew to receive second degree burns from the ﬁre. For reference, a reasonable distance
+to eﬀectively ﬁght a ﬁre using a conventional handheld ﬁre extinguisher would be approximately 2 m. This
+simpliﬁed analysis shows that the crew could eﬀectively ﬁght a 100 kW ﬁre for approximately 30 sec before
+receiving second degree burns. During this time, the ﬁre would be either diminished in size (in turn reducing
+the burn risk to the crew) or entirely extinguished.
+Finally, Figures 4 and 5 show the predicted cabin temperature and mole fractions of carbon monoxide
+and carbon dioxide, respectively, as a function of fuel mass. The chemical equilibrium computation assumes
+adiabatic combustion of the fuel mass with cabin air with the fraction cabin air participating in the combustion (η) varying between 0.01 and 0.3 to maintain the stoichiometry or unity equivalence ratio. The
+cabin temperature in Figure 4 is a bit higher than that in Figure 1 for the same fuel mass. This is because
+the chemical equilibrium neglects heat transfer, something that is explicitly included in the computation
+in Figure 1. The predicted temperatures, while higher than expected, again show the threat to the crew
+b You
+
+can hold your hand very close to the side of a candle ﬂame without discomfort. The authors do not recommend holding
+your hand that same distance above the ﬂame.
+
+7 of 11
+American Institute of Aeronautics and Astronautics
+
+Distance from Fire
+0.5 m
+1.0 m
+1.5 m
+2.0 m
+3.0 m
+4.0 m
+5.0 m
+
+160
+
+Maximum Exposure Time ( s )
+
+140
+120
+100
+
+Increasing Distance from Fire
+80
+60
+40
+20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Fire Size ( kW )
+Figure 3. Exposure time as a function of ﬁre size (kW ) for a number of radial distances from the ﬁre. The simpliﬁed
+analysis assumes the energy is distributed in a hemisphere around the ﬁre.
+
+posed by most ﬁres. The average temperatures for all but the smallest ﬁres exceed the inhaled gas limit of
+approximately 400 K.
+The predictions in Figure 5 for carbon dioxide are in good agreement with those in Figure 1 for the
+transient combustion analysis. This serves as a good check for the transient analysis. Again, for all but the
+smaller ﬁre sizes, the carbon dioxide mole fractions are high enough to warrant concern for the crew. The
+analysis again does not consider any carbon dioxide removal from the ECLSS systems.
+The predictions in Figure 5 show that for almost all ﬁre sizes considered, the carbon monoxide mole
+fraction is well above that which is considered safe for the crew. While it is expected that the crew will have
+emergency equipment to deal with carbon monoxide (i.e., a ﬁltering respirator), the results highlight the
+need for such equipment. If emergency equipment, such as a respirator, were not available, carbon monoxide
+toxicity would be the crew hazard that most limited ﬁre size. The results again neglect any removal of
+carbon monoxide by the ECLSS systems.
+As a point of reference, it is useful to consider the Solid Fuel Oxygen Generator (SFOG) ﬁre aboard
+the Russian Mir Orbiting Station. There exists, to the best of our knowledge, very little quantitative
+information about this ﬁre. Cabin pressure readings during the ﬁre are not available (at least to the authors).
+Assuming that the SFOG provided both the fuel (stainless steel) and oxidizer (oxygen), we can use the heat of
+combustion for stainless steel (8.16 kJ/g). The ﬁre power then requires the mass of stainless steel consumed
+and the time duration of the burn. The mass of material consumed is unknown. Examining the design we
+estimate (with very large error bars) approximately 0.15 kg of material consumed. Estimates of the total
+burn time also vary between 180 and 600 sec. If we assume a median value of 300 sec, the ﬁre power was
+approximately 4 kW , or much smaller than the small ﬁre in Figure 1. The value, however, could be much
+higher (although still likely smaller than the peak power of the small ﬁre in Figure 1) if a larger mass of
+metal was consumed. Also, for metal combustion it is not well known how much of the energy release goes
+into the gas phase and how much goes to raising the metal temperature (that eventually gets released to
+the gas phase, but over a MUCH longer time). Finally, given that the fuel was stainless steel and the SFOG
+provided oxygen, oxygen, carbon dioxide and carbon monoxide data is not all that relevant (and similarly
+unavailable).
+
+8 of 11
+American Institute of Aeronautics and Astronautics
+
+Average Gas Temperature ( K )
+
+700
+
+600
+
+500
+
+400
+
+300
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+Fuel Mass ( kg )
+Figure 4. Average cabin temperature as a function of fuel mass (burned) computed assuming chemical equilibrium.
+The analysis assumes adiabatic combustion so the gas temperatures are higher than the heat transfer analysis in Figure
+1.
+
+6x10
+
+-3
+
+-3
+
+50x10
+
+Carbon Monoxide
+Carbon Dioxide
+
+40
+
+4
+30
+3
+20
+2
+
+Carbon Dioxide Mole Fraction
+
+Carbon Monoxide Mole Fraction
+
+5
+
+10
+
+1
+
+0
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+Fuel Mass ( kg )
+Figure 5. Average carbon monoxide and carbon dioxide mole fractions as a function of fuel mass assuming chemical
+equilibrium. The dashed lines are the 1 hour SMAC limits for carbon monoxide (425 ppm and carbon dioxide (0.02
+mole fraction).
+
+9 of 11
+American Institute of Aeronautics and Astronautics
+
+IV.
+
+Conclusions
+
+This paper introduces the concept of a survivable ﬁre for the purpose of ﬁre extinguisher sizing and
+testing. The analysis considers the hazards to the crew from such things as over-pressure of the vehicle,
+excessive cabin temperatures and burns to the crew and exposure to toxic levels of combustion products and
+reduced oxygen. Simpliﬁed expressions are used to estimate these various quantities as a function of ﬁre size.
+A ﬁre is considered ‘survivable’ if the gas temperatures, pressures carbon dioxide, carbon monoxide and
+oxygen partial pressures and heat ﬂux in the vehicle remain below critical thresholds (except for oxygen
+where it must remain above the threshold). While these threshold levels are invariant with vehicle size,
+the time dependent quantities are strong functions of vehicle size; smaller vehicles having much smaller
+survivable ﬁre sizes.
+A sample analysis is conducted for a spacecraft the approximate size of the Destiny module on the ISS.
+The results show that ﬁres involving 3 kg of fuel produce a maximum power of approximately 200 kW . For
+ﬁres of this size, there are multiple threats to the crew. The gas temperatures would likely burn the throat
+and lungs on inhalation and the result in hyperthermia over a long duration. The crew would also likely be
+burned if they were any reasonable distance from the ﬁre. Finally, the oxygen, carbon dioxide and carbon
+monoxide mole fractions are all predicted to be nearly lethal.
+For smaller ﬁres that burn on the order of 0.5 kg of material (peak ﬁre powers between 50 and 100 kW )
+the ﬁre would create uncomfortable, but not lethal, environmental conditions. The exception to that would
+be carbon monoxide production which emphasizes the need for some kind of respirator in the event of a ﬁre.
+The analysis could and should be extended to include the mitigating eﬀects of the vehicle ECLSS systems.
+The pressure relief system will likely vent to maintain the vehicle pressure within safe limits. The crew
+could be on supplemental oxygen to mitigate the risk of hypoxic conditions. Further, carbon dioxide and
+carbon monoxide will eventually be removed from the cabin atmosphere to mitigate the dangers to the crew
+from toxic combustion by-products. Similarly, the vehicle heat rejection systems will eventually return the
+gas temperature to ambient values and protective gear could mitigate the hazards posed by exposure to
+excessive heat ﬂuxes and gas temperatures. All of these mitigations will increase the size of a survivable
+ﬁre, but require hardware and procedures to implement into the spacecraft. The analysis in this document
+allows design engineers to make rationale decisions regarding the safety hardware and procedures required
+for ﬁreﬁghting aboard a spacecraft. Finally, the analysis could also be extended to include other factors
+considered to be a risk to the crew.
+
+Acknowledgments
+The authors would like to acknowledge the assistance of P.V. Ferkul of the National Center for Space
+Exploration Research on ﬁre size estimates.
+
+References
+1 Dietrich, D. L., Ruﬀ, G. A., and Urban, D. L., “Fundamentals of Fire Suppression in Reduced Gravity Environments,”
+38th International Conference on Environmental Systems, No. 2008-01-2087, Society for Automotive Engineers, San Francisco,
+California, July 2008.
+2 Dietrich, D. L., Ruﬀ, G. A., Urban, D. L., Hicks, M. C., Stocker, D. P., Nayagam, V., and Takahashi, F., “Fire Suppression
+Technology in Human-Crewed Spacecraft - A Trade Study,” 37th International Conference on Environmental Systems, No.
+07ICES-112, Society for Automotive Engineers, Chicago, Illinois, July 2007.
+3 Dietrich, D. L., Ruﬀ, G. A., and Urban, D. L., “A Fire Suppression Analysis for the Altair Project,” 39th International
+Conference on Environmental Systems, No. 2009-01-2511, Society for Automotive Engineers, Savannah, Georgia, July 2009.
+4 Dietrich, D. L., Ruﬀ, G. A., Easton, J. W., Abbott, A. A., Graf, J. C., Gianettino, D. P., and Sager, C. L., “Towards the
+Development of a Speciﬁcation for a Portable Fine Water Mist Fire Extinguisher for Spacecraft Applications,” 41st International
+Conference on Environmental Systems, No. AIAA-2011-5050, American Institute of Aeronautics and Astronautics, Portland,
+Oregon, July 2011.
+5 National Research Council, “Spacecraft Maximum Allowable Concentrations for Selected Airborne Contaminants,” Tech.
+rep., National Research Council of the National Academies, Washington, DC, 2008.
+6 Huggett, C., “Estimation of Rate of Heat Release by Means of Oxygen Consumption Meausrements,” Fire and Materials,
+Vol. 4, No. 2, 1980, pp. 61 – 65.
+7 Walters, R. N., Hackett, S. M., and Lyon, R. E., “Heats of Combustion of High Temperatuyre Polymers,” Fire and
+Materials, Vol. 24, No. 5, May 2000, pp. 245 – 252.
+8 Stoll, A. M. and Chianta, M. A., “Method and Rating System for Evaluation of Thermal Protection,” Aerospace Medicine,
+Vol. 40, 1969, pp. 1232 – 1238.
+
+10 of 11
+American Institute of Aeronautics and Astronautics
+
+9 Ozisik,
+
+M. N., Heat Transfer - A Basic Approach, McGraw Hill Book Company, New York, New York, 1985.
+Y.-G., Liua, J., and Zhang, J., “Theoretical evaluation of burns to the human respiratory tract due to inhalation of
+hot gas in the early stage of ﬁres,” Burns, Vol. 32, No. 4, June 2006, pp. 436 – 446.
+11 Gokoglu, S. A., Niehaus, J. E., Olson, S. L., Dietrich, D. L., Ruﬀ, G. A., Ferkul, P. V., and Johnston, M. C., “Prevention
+of Over-Pressurization During Combustion in a Sealed Chamber,” 42nd International Conference on Environmental Systems,
+No. to appear, American Institute of Aeronautics and Astronautics, San Diego, California, July 2012.
+12 Gordon, S. and McBride, B. J., “Computer Program for Calculation of Complex Chemical Equilibrium Compositions
+and Applications. I. Analysis,” NASA Reference Publication 1311, NASA John H. Glenn Research Center, Cleveland, Ohio,
+1994.
+13 Custer, R. L. P. and Meacham, B. J., Introduction to Performance-Based Fire Safety, Society of Fire Protection Engineers
+and National Fire Protection Association, 1997.
+10 Lva,
+
+11 of 11
+American Institute of Aeronautics and Astronautics
+

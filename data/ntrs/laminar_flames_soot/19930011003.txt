@@ -1,0 +1,4517 @@
+SOOT
+
+FORMATION
+
+FLAMES
+
+UNDER
+
+AND
+
+RADIATION
+
+NORMAL
+
+AND
+
+IN TURBULENT
+REDUCED
+
+GRAVITY
+
+JET
+
+DIFFUSION
+
+CONDITIONS
+
+20192
+
+Jerry C. Ku, Li Tong, and Jun Sun
+Wayne State University
+Detroit, Michigan 48202
+Paul S. Greenberg
+NASA Lewis Research Center
+Cleveland, Ohio 44135
+Devon W. Griffin
+Sverdrup Technology, Inc.
+Brook Park, Ohio 44142
+
+Introduction
+Most practical
+combustion
+processes,
+as well as fires and explosions,
+exhibit
+some
+characteristics
+of turbulent
+diffusion
+flames. For hydrocarbon
+fuels, the presence
+of
+soot particles significantly
+increases
+the level of radiative
+heat transfer
+from flames.
+In some cases, flame radiation can reach up to 75% of the heat release by combustion
+(ref. 1). Laminar diffusion
+flame results (ref. 2) show that radiation
+becomes stronger
+under
+reduced gravity conditions.
+Therefore,
+detailed
+soot formation
+and radiation
+must be included
+in the flame structure
+analysis.
+A study
+of sooting
+turbulent
+diffusion
+flames under reduced-gravity
+conditions
+will not only provide
+necessary
+information
+for such practical issues as spacecraft
+fire safety, but also develop
+better
+understanding
+of fundamentals
+for diffusion
+combustion.
+Experimentally,
+full-field
+laser light transmission
+and thermophoretic
+soot particle
+sampling
+techniques
+will be used to measure
+flame soot particulate
+size and number
+density.
+Flame temperature
+will be measured
+using
+full-field
+two-color
+pyrometry
+and fine-gage
+thermocouples.
+These experiments
+are conducted
+in a drop tower.
+On modeling,
+the focus is on complete
+coupling
+of flame structure,
+soot formation,
+and radiation.
+The conserved
+scalar approach
+based
+on Favre-averaged
+governing
+equations,
+k-e-g turbulence
+model,
+and an assumed
+probability
+density
+function
+is
+used to predict flow field and gaseous
+species mole fractions
+profiles (refs. 3 and 4). A
+soot formation
+model
+developed
+by Syed et al. fiefs. 5 and 6) will be modified
+to
+predict
+soot particle
+volume
+fraction
+and number
+density.
+The energy
+equation
+is
+incorporated
+to provide
+a full coupling
+between
+flame structure
+and radiation.
+The
+radiative
+heat flux is calculated
+from the radiative
+transfer
+equation
+(RTE) for a
+finite axisymmetric
+cylindrical
+enclosure,
+which
+will be solved
+by the P_ spherical
+harmonics
+approximation
+(ref. 7).
+In this paper,
+
+a summary
+
+of the work
+
+to date and of future
+121
+
+plans
+
+is reported.
+
+Exverimental
+
+Results
+
+Experiments
+for
+
+are
+
+conducted
+
+using
+
+soot
+
+particle
+
+thermophoretic
+
+measurements.
+Details
+
+for
+
+Results
+The
+
+Thermocouple
+experiments
+
+were
+
+nozzle
+
+has
+
+tested.
+
+Micrographs
+
+shown
+
+in Fig.
+
+particles
+this has
+
+per
+been
+
+agrees
+
++10 nm
+
+range.
+
+argument
+the relative
+much
+
+well
+
+It is therefore
+are
+
+very
+
+the
+
+transfer
+
+The
+
+full-field
+
+Soot
+
+volume
+
+normal
+
+that
+
+case,
+rates
+
+more
+
+0-g. 0-g
+
+aggregate
+
+of Turbulent
+
+Following
+
+the
+
+Jet Diffusion
+
+conserved
+
+scalar
+
+a k-e-g
+
+governing
+
+turbulence
+equations
+
+model
+can
+
+are
+
+of primary
+is noted,
+
+and
+
+of the
+
+0-g.
+
+This
+
+falls
+
+in
+
+to support
+
+the
+
+whose
+dyna_cs
+is affected
+by
+the oxidation
+stage
+seems
+to be
+
+smoke
+growth,
+
+are
+
+population
+
+seems
+
+(i.e.,
+
+release
+
+soot
+
+particles).
+
+and
+
+oxidation
+
+coagulation,
+
+needed
+
+0-g
+
+for
+
+determining
+mean
+
+these
+
+experiment
+has been
+tested
+tall as 4.5 cm was
+measured
+with
+
+point-by-point
+
+that
+
+rate
+
+9).
+
+(ref.
+
+sizes
+
+radiation
+
+for a 1-g flame.
+instantaneously
+
+measurements.
+
+Flame
+
+approach,
+
+diffusion
+flame
+is modeled
+using
+conservation
+of mass,
+momentum,
+and
+
+are
+
+flames
+
+number
+
+95%
+
+under
+
+well
+
+agree
+
+procedure.
+
+1.5 cc/sec
+
+conditions
+
+particle
+
+camera.
+
+Modeling
+
+(or
+
+8).
+
+particles
+as a function
+of height
+from
+more
+than
+100 particles
+per
+
+primary
+
+as
+
+Results
+
+and
+
+diffusion
+
+size
+
+and
+
+significant
+
+planned.
+
+(ref.
+
+at 1.0 and
+
+propane-air
+
+may
+
+data
+
+transmission
+are
+
+setup
+
+and
+
+of nucleation,
+
+1-g and
+
+Larger
+
+light
+
+under
+
+larger
+
+so flames
+
+laser
+light
+transmission
+fraction
+for a section
+
+a CCD
+
+ethylene
+
+soot starts
+as liquid
+droplets,
+of surface
+tension.
+Under
+0-g,
+
+between
+
+is even
+
+are
+
+instrumented
+
+workshop
+
+our
+
+in aggregate
+
+distribution
+
+particles
+
+1.5 cc/sec
+
+in models.
+
+heat
+
+laser
+
+in this
+
+in 1.5 cc/sec
+
+difference
+
+the
+soot
+
+concluded
+
+different
+
+constants
+
+using
+
+with
+
+Incipient
+
+for
+
+and
+
+is now
+
+measurement
+
+to validate
+
+diameter
+of primary
+soot
+size distribution,
+deduced
+
+that incipient
+dominance
+
+weaker
+
+first
+
+rig
+
+between
+normal
+and reduced
+gravity
+for all fuel and flow rate combinations.
+
+the mean
+exit. The
+
+sample,
+
+The
+
+full-field
+paper
+
+Propane
+
+aggregates
+
+significant
+
+aggregate)
+observed
+
+Fig. 2 shows
+above
+nozzle
+
+of 1.7 mm.
+
+of soot
+
+1. The
+
+flames
+
+rig.
+
+pyrometry
+
+in another
+
+laminar
+
+a diameter
+
+and
+
+two-color
+
+reported
+
+for
+
+drop
+
+sampling
+and
+
+are
+
+collected
+
+a 2.2-second
+
+the
+
+structure
+
+Favre-averaged
+and mixture
+proposed
+
+be written
+
+of an
+
+axisymmetric
+
+boundary
+layer
+fraction
+described
+
+by
+
+Lockwood
+
+in a general
+
+form
+
+and
+as (refs.
+
+turbulent
+
+flow
+equations
+by Bitger
+(ref.
+
+Naguib
+
+(ref.
+
+11).
+
+for
+10),
+The
+
+12)
+
+s.
+where
+
+q = 1 (continuity),
+
+energy),
+(mass
+
+_: (turbulence
+weighted)
+
+conventional
+term)
+
+can
+
+mean
+
+flow
+
+a (axial
+dissipation),
+
+quantities
+
+are
+
+time-averaging.
+be found
+equation,
+
+velodty),
+
+in the
+
+(mixture
+
+or g (mixture
+defined
+Details
+
+references.
+
+neglecting
+
+f
+
+as
+for
+
+/_o'._
+
+Buoyancy
+
+buoyancy-turbulence
+122
+
+fraction),
+
+fraction
+
+_ = p'_]_,
+
+k (turbulence
+
+variance).
+
+whereas
+
+(effective
+effects
+
+(1)
+
+an
+
+only
+
+interactions.
+
+Favre-averaged
+overbar
+
+viscosity)
+will
+
+kinetic
+
+and
+
+represents
+S,
+
+be considered
+
+(source
+in the
+
+Assuming all instantaneous
+only,
+
+termed
+
+the state
+
+properties
+The
+
+can
+
+mixture
+
+be determined
+
+fraction
+
+flame
+and
+conserved
+
+and
+
+turbulent
+
+mixing
+
+the
+
+it is a good
+and
+
+relationships
+using
+
+nonluminous
+
+and
+
+luminous
+16), with
+
+flames.
+the state
+
+Modeliniz
+
+of Soot
+
+Compared
+particles
+
+for
+
+(ref.
+
+reaction
+
+chemistry
+
+in the
+(so it is a
+chemical
+
+is limited
+
+by
+
+at equilibrium)
+
+equilibrium
+
+a _fl-pdf.
+
+This
+
+has
+
+flames,
+
+(adiabatic
+
+been
+
+but
+
+found
+
+fails
+
+for
+
+laminar
+flamelet
+approach
+from laminar
+flame
+data,
+
+flame)
+
+accurate
+
+rich
+
+for
+
+regions
+
+of
+
+(refs.
+15 and
+may be used.
+
+Oxidation
+
+thermophoretic
+Magnussen
+
+fraction
+
+for
+
+that
+
+the
+
+the
+
+top
+
+the
+
+lower
+
+the
+
+used
+which
+state
+
+temperature
+
+from
+that
+
+the
+
+replaced
+an
+
+Kent
+
+and
+
+from
+
+by rate
+
+assumed
+Honnery
+
+accurately,
+
+derived
+
+by Moss
+
+volume
+diffusion
+
+fraction
+flame
+
+et al. (ref.
+(fv). The
+data. The
+
+their
+
+used.
+radial
+
+6) and
+model
+model
+
+Syed
+
+The
+
+volume
+
+is more
+
+model
+
+18)
+
+work
+but
+
+in
+not
+
+calculated
+4-
+
+for
+
+7"4.)//.].
+
+predicting
+
+19 and 20) applied
+Eq. (1) for soot
+soot volume
+fraction
+source
+term
+
+energy
+predicts
+We
+
+growth,
+
+equation
+peak
+adopt
+
+et al. (ref. 5), for soot
+
+agrees
+well
+with
+has been modified
+123
+
+accurate
+
+for nucleation,
+
+distributions.
+
+may
+They
+
+a
+
+(ref.
+
+dominates,
+
+of [-ec_(T
+
+laminar
+with
+
+Honnery
+
+dominates.
+
+An
+
+from
+
+fractions
+
+term
+
+mass
+
+of Eq. (1), with
+the
+model.
+Gore
+and
+
+and
+
+mixing
+
+approach
+
+on
+
+calculation
+
+Kent
+
+a radiation
+
+models
+
+(based
+
+fractions
+
+kinetics
+
+derived
+density.
+
+volume
+
+formation
+
+equation
+
+combustion
+
+soot
+
+et al. (refs.
+flames.
+The
+
+models
+number
+
+soot
+
+soot
+to
+
+effects.
+
+soot
+
+rate
+
+turbulent
+
+with
+
+model
+
+18) was
+
+not
+
+for
+where
+
+transfer
+
+surface-growth
+
+by radiation.
+
+chemical
+
+Kennedy
+diffusion
+
+equation
+
+(ref.
+but
+
+lost
+
+equation
+
+rate-equation
+
+average
+
+and
+
+equilibrium
+
+flame,
+
+where
+
+energy
+
+heat
+to model
+
+17) introduced
+
+for
+
+approach
+
+soot formation
+and oxidation.
+volume
+fraction
+in laminar
+
+with
+
+(ref.
+
+release
+
+of the
+
+an
+
+radiation
+
+extended
+
+density)
+
+relationships
+
+energy
+
+portion,
+
+strong
+
+been
+
+an energy
+equation
+in the form
+is calculated
+using
+a two-flux
+
+temperature
+
+portion
+
+inception
+
+It is believed
+
+number
+
+state-relationship
+
+oxidation
+
+has
+
+Hjertager
+
+on
+
+of chemical
+
+and
+
+above
+
+and
+
+(based
+
+and
+
+forces,
+
+outlined
+
+stages.
+They
+for radiation,
+
+data,
+
+fixed
+
+fairly
+
+fast
+
+(pdf).
+
+anywhere
+
+a block-tridiagonal
+code written
+by
+are then calculated
+based on the
+
+of luminous
+
+and
+
+4) constructed
+
+flame
+
+was
+
+14) and
+
+Formation
+
+nucleation
+
+concentration)
+source
+term
+
+found
+
+(i.e.
+
+thermodynamic
+
+accuracy,
+the
+constructed
+
+analysis
+
+oxidation.
+both
+
+Faeth
+
+function
+
+atoms
+
+are equal.
+
+For better
+relationships
+
+mixing,
+
+structure
+
+and
+
+fraction
+of scalar
+
+to gaseous
+specious,
+soot inception
+is a much
+slower
+reaction,
+and
+have very different
+diffusivities.
+In addition,
+soot particles
+are subjected
+
+turbulent
+The
+
+from
+regions
+
+density
+
+of fuel
+
+if the rate of chemical
+heat
+
+mixture
+variance
+
+with chemical
+reaction
+to be decoupled
+from
+
+kinetics
+
+and
+
+(ref.
+
+fuel-lean
+
+the
+and
+
+probability
+
+by Eq. (1) is solved
+using
+gaseous
+species
+concentrations
+
+STANJAN
+
+of
+
+mean
+
+fraction
+
+it is invariant
+fluid
+mechanics
+
+chemical
+
+constructed
+
+calculations
+
+mass
+
+approximation
+
+of all species
+
+represented
+13). Major
+
+assumed
+
+as the
+
+by
+
+functions
+
+Favre-averaged
+
+an
+
+from
+
+not
+
+are
+
+the
+
+is described
+
+diffusivities
+
+The system
+Chen (ref.
+state
+
+properties
+
+by virtue
+of its definition
+scalar).
+This allows
+the
+
+reactions,
+and
+
+scalar
+
+relationships,
+
+measured
+(reL 21)
+
+and
+
+similar
+soot
+
+oxidation
+to that
+
+volume
+
+fractions
+
+a two-equation
+
+in
+
+model,
+
+number
+
+density
+
+(N) and
+
+fiat (Wolfhard-Parker)
+to couple
+with reduced
+
+chemical
+from
+
+reaction
+
+mechanisms,
+
+a turbulent
+
+Since
+
+the
+
+reacting
+
+model
+
+jet in a cross-wind
+
+applies
+
+density
+and
+free-shear
+
+surfaced
+
+growth,
+
+the
+
+_ 4n_'_
+
+no tr
+
+transport
+
+and
+
+of soot
+it can
+equation
+
+oxidation,
+
+P,f,
+
+aN
+
+k P )
+
+heat
+
+are
+
+/
+
+particles
+
+be
+used
+
+terms
+
+_')
+
+-Cs_
+
+(2)
+
+number
+
+and
+
+, ¢ =_,
+
+p, is the mass
+
+(3)
+
+density of solid carbon
+
+mixture
+
+temperatures
+
+activation
+
+T,, and
+
+ot = C_,'ff 2T'12Xc exp(-
+
+fl =
+
+T r, and
+T,,/T)
+
+and
+
+effective
+
+viscosities
+
+are
+
+exp(_Tr/T
+
+o'_ are
+
+Flame
+
+Radiation
+
+Radiation
+given
+
+determined
+Heat
+
+is fully
+
+in the
+
+form
+
+interactions
+
+calculate
+
+the
+
+radiative
+
+than
+
+the
+
+particles,
+
+but
+
+The
+
+radiative
+
+transfer
+
+as for jet diffusion
+
+[_(
+
+flux
+
+accounted
+
+°3'Or
+
+equation
+flames
+
+form
+
+(7)
+from
+
+experimental
+
+if f < 0.064
+
+data.
+
+(fuel-lean).
+
+In
+The
+
+of
+
+= #_..t., pC_ kZ/e
+=
+
+flame
+
+data
+
+structure
+
+@=/Y
+
+neglected.
+
+heat
+
+(6)
+
+,
+
+and
+
+(8)
+
+Cz is the
+
+same
+
+as that
+
+for
+
+_.
+
+Calculation
+
+with
+
+uncoupled
+
+soot
+
+such
+
+Transfer
+
+are
+
+(4)
+
+) ,
+
+Xo, = 0.045Xo_
+
+experimental
+
+of Eq. (1) with
+
+radiation
+accurately
+
+from
+
+coupled
+
+X,, as
+
+,
+
+determined
+
+and
+
+in the
+IRe.,
+
+where
+
+are
+
+(fuel-rich),
+
+given
+
+fraction
+
+¢xp(-Tz/T),
+
+temperatures
+
+Eq. (7), X0_ = XoH if f -2_
+0.064
+
+mole
+
+of
+
+(5)
+
+Z = Cx T'nXo,
+coefficients
+
+fuel
+
+in terms
+
+T 'n ,
+
+y = Cr'ffTInXc
+
+wherein
+
+as
+
+;
+
+pno
+
+rate constants a, ]3,y, and X are modeled
+
+_,
+
+of
+
+incorporated
+representing
+
+in source
+
+, q = _
+
+kPnoY
+
+in terms
+
+easily
+models,
+
+(typically 1.8-2.0g/cm3). The
+density
+
+transfer
+
+-,1/3
+
+\213 ,"
+
+no = 6 x I0_ is Avogadro's
+
+radiation
+
+22).
+
+volume
+fraction,
+flow code. Rate
+
+coagulation,
+
+,-
+
+predicted
+
+(ref.
+
+Eq. (1) to describe
+
+S, = _ - _'_.2
+
+where
+
+successfully
+
+number
+turbulent
+
+Favre-averaged
+into the reacting
+nucleation,
+
+and
+
+(total
+
+Gore
+
+q,,,,
+one.
+
+for the
+
+analysis
+enthalpy)
+that
+
+coupled
+
+However,
+effects
+for
+
+the
+
+their
+
+work
+
+axisymmetric
+
+l(r'O'd_'z)
+
+124
+
+finite
+7)
+
+(l'oJ)lb[T(r'z)]
+
+q,.,,.
+
+a multi-ray
+analysis
+
+neglected
+
+of turbulence-radiation
+
+as (ref.
+
+an energy
+
+S, = -V.
+
+23), using
+
+can Be expressed
+
+rl -_+#-_z)+l]
+°3r
+
+and
+
+et al. (ref.
+
+showed
+
+(RTE)
+
+through
+
+equation
+
+Turbulencemethod
+predicts
+
+the
+
+to
+more
+
+scattering
+
+interactions.
+cylindrical
+
+enclosures
+
+by
+
+co f::f=
+
++T_'Jo
+Here,
+
+the subscript/3,
+
+subscript
+
+d,_,noting
+
+b for blackbody),
+
+Jo [(r,O,O,z)<9(O,
+
+spectral
+
+quantities
+
+/3 is the extinction
+
+albedo,
+_,r7, and/1 are direction
+cosines, and
+functions
+of position
+(r, z) for axisymmetric
+
+tp, O',O')sinO'd_"
+has been
+
+coefficient,
+
+(9)
+
+d_" .
+
+left off, [ is intensity
+co is the single
+
+• is the phase function.
+diffusion
+flames.
+
+Both/3
+
+(with
+
+scattering
+and
+
+oJ are
+
+Menguc
+and Viskanta
+(ref. 7) derived
+a solution
+using the P3 spherical
+harmonics
+approximation
+with the delta-Eddington
+approximation
+for the phase
+function.
+For
+soot agglomerates,
+the phase function
+can be better approximated
+by a third order
+Legendre
+polynomial
+series (ref. 9) given as
+3
+
+• (O,#, #')= I+ _a. P.(cos
+O',
+_),
+
+(I0)
+
+where
+_is the scattering
+angle and cos _= _'+
+r/r/'+_#',
+and coefficients
+a, are to be
+determined.
+Applying
+the spherical
+harmonics
+approximation,
+the model
+equations
+are obtained
+by employing
+the following
+integrations
+o2"["
+[Equation
+
+(9)]Y,"
+
+,tO
+
+for n = 0, 1, '.. N and m = -n, -n+l,
+The spherical
+replaced
+with
+
+harmonics
+multiples
+
+... n, with
+
+N being
+
+sin 0a0 _
+the order
+
+Y," (superscript
+* denotes
+of direction
+cosines.
+Define
+r2z ez
+[°(r'z) = J0 J0
+
+I
+
+( r ,O,¢,z)sinOdO
+
+I,: ,(r.z)- -Jo Jo (l_l/
+f2,[,
+where each of the direction
+moment
+is the total incident
+
+(11)
+
+the complex
+the moments
+
+where
+
+B's are functions
+
+be
+
+d_ '
+
+(12b)
+
+cosines 4, gj, and _ is _,r/, or/1 . Physically,
+the zeroth
+radiation,
+whereas
+the first moments
+are radiative
+heat
+
+lo(r.z)}
+
+results obtained
+from
+differential
+equations
+
+(4B3 + 7B_)F, +.I.(-16B3
+
+heat
+
+vector,
+
+which
+
+-- S(r,z).
+
+(13)
+
++14BI) + 7OB2,cz]Io-- =- _
+
+"r -_ + A_ ,
+2
+
+(14)
+
+of B, r, I_, I33, and la3, and
+
+These
+model
+equations,
+together
+for diffusely
+emitting
+and reflecting
+a solver called ELI.PACK
+(ref. 24).
+125
+
+flux
+
+Eq. (11) can be combined
+into four
+for lo, I1_, I3._, and I_3. The model
+
+of a, and a_, _"=/3ro, A_ is a function
+
+F is the derivative
+operator.
+boundary
+conditions
+derived
+are solved numerically
+using
+
+can
+as
+
+(lZa)
+
+gk)l(r'O'¢'z)sinOdO
+
+V. _,., =/3(1-oo){4trl_[T(r,z)]-
+
+[4B3(F,,, + F,,)+I
+
+conjugate)
+of intensity
+
+d_
+
+fluxes along the coordinate
+axis. The divergence
+of radiative
+appears
+in the energy equation,
+can then be calculated
+from
+
+After some manipulations,
+coupled
+elliptical
+partial
+equation
+for is given as
+
+of the PN approximation.
+
+with 16 Marshak's
+opaque
+boundary,
+
+To incorporate
+
+radiation
+
+are two
+
+major
+
+intensity
+
+such
+
+difficulties
+as Eq.
+
+parabolic.
+
+It seems
+
+which
+
+are
+
+we
+
+numerically
+
+(14)
+
+testing
+
+for
+
+now,
+
+approach
+
+Preliminary.
+tested
+
+in Kent
+
+(nozzle
+
+diameter
+
+was
+
+found
+
+flame
+
+and
+
+structure
+
+Honnery
+
+the
+
+for the
+
+represented
+
+these
+
+two
+
+spectral
+
+range.
+
+(ref.
+
+moment
+
+An
+
+systems
+
+modeling
+We
+
+of
+
+alternative,
+
+until
+
+the
+
+there
+
+by Eq. (1) are
+
+simultaneously.
+
+is on
+
+Viskanta
+
+mixture
+
+along the centerline
+adiabatic
+combustion
+
+and
+
+(ref.
+
+D = 3 mm,
+
+for
+
+and
+
+equations
+
+analysis,
+
+the
+
+spectral
+
+will
+
+results
+
+radiative
+
+first
+
+follow
+
+the
+
+25).
+
+arid Discussion
+
+the
+
+results
+
+between
+
+RTE over
+
+structure
+
+equations
+
+systems
+
+difficulty
+
+by Song
+
+flame
+
+is that
+
+whereas
+
+second
+
+the
+
+overall
+
+First
+
+both
+
+is to iterate
+
+used
+
+the
+
+overcome.
+to solve
+
+The
+
+integrating
+
+Results
+
+into
+
+are elliptical,
+
+converged.
+
+wide-band
+
+first
+
+to be
+
+impossible
+
+properties
+
+We
+
+calculations
+
+exit
+
+soot
+
+18) for
+
+velocity
+
+fractions.
+
+an
+
+predictions
+
+ethylene-air
+
+turbulent
+
+U0 = 52 m/sec,
+
+Fig.
+
+and radially
+calculation,
+
+formation/oxidation
+
+3 shows
+
+the
+
+diffusion
+
+Reo = 9615).
+
+comparison
+
+at x/x,=
+0.4, 0.7 (.x,_= 115D).
+and the solid curve
+from
+
+against
+
+Good
+
+for
+
+flame
+
+agreement
+
+the
+
+temperature
+
+The dashed
+a correction
+
+curve
+is from
+(ref. 21)
+
+tr, ;J'
+where
+and
+
+/',_ is the
+0.09
+
+adiabatic
+
+< b < 0.15.
+
+temperature,
+
+Even
+
+Eq.
+
+(15)
+
+This demonstrates
+the importance
+radiation
+heat
+transfer
+calculations.
+
+Fig.
+
+4 shows
+
+accurately.
+
+that
+The
+
+Fig. 5 shows
+the same
+rate
+
+the
+
+shows
+
+flame
+soot volume
+constants
+are needed
+is possible
+
+has
+
+which
+
+are
+
+there
+
+left
+
+been
+
+believed
+
+last
+
+are
+
+term
+the
+
+Fig.
+
+6 shows
+
+Referring
+
+being
+
+radiation.
+
+adiabatic
+that
+
+The
+
+combustion
+from
+
+all
+
+these
+
+Fig.
+
+the
+
+first
+
+for
+
+_ =/_
+
+first
+
+the
+
+are
+
+for
+
+an assumed
+of about
+126
+
+1-g.
+
+The
+
+the
+
+same
+
+The
+
+with
+
+rate
+
+0-g
+
+constants.
+
+and
+
+the
+
+have
+
+right
+
+exPerienced,
+
+enclosure
+of the
+those
+
+two
+
+using
+
+last
+
+term
+
+soot
+
+volume
+
+where
+
+terms
+
+is conduction
+
+magnitude,
+
+laminar
+
+_flame_ structure
+
+been
+
+cylindrical
+
+calculated
+
+uniform
+
+of temperature.
+
+agrees
+
+S, = -V.q,_,
+the
+
+fraction
+
+that
+
+calculation
+
+on
+
+volume
+
+the
+
+RTE
+
+of the
+
+term
+
+detailed
+
+as expected.
+
+which
+
+problems
+
+and
+
+edge.
+
+since
+different
+rate
+A reasonable
+predict!on
+
+determining
+
+terms
+
+three
+
+by
+
+outer
+and
+
+soot
+
+flame,
+
+0-g,
+
+of a forward
+
+calculation
+are
+
+for
+
+and
+
+contours,
+calculated
+using
+(ReD = 536, Re, = 7400).
+The
+
+unreasonable,
+flame
+data.
+
+in part
+
+(1) with
+the
+
+predicts
+
+0-g
+
+between
+
+results
+
+and
+
+wider
+
+temperature,
+
+tip
+
+equation
+
+is caused
+
+numerical
+
+by zero/3
+
+5 with
+
+terms
+
+needed
+
+process
+
+to Eq.
+terms,
+
+and
+
+adiabatic
+flame
+
+energy
+
+fraction
+conditions
+
+of oxidation
+
+Some
+
+caused
+
+edge
+
+is obviously
+from laminar
+
+are
+
+a iterative
+
+to be
+
+outer
+
+taller
+
+level
+
+completed.
+
+convection
+
+temperature
+
+It is clear
+
+the
+
+of
+
+not
+
+the
+
+a much
+
+measurements
+
+equation.
+
+the
+
+g
+
+0-g
+
+is no flame.
+
+energy
+
+the
+
+decreasing
+
+the
+
+model
+
+sootvolume
+of our test
+
+fraction
+contour
+as concluded
+
+implementation
+
+solvers
+
+from
+
+by
+
+results.
+
+The
+
+near
+and
+one
+
+maximum
+at the
+
+of including
+
+over-prediction
+
+contour
+
+is the
+
+over-predicts
+
+formation/oxidation
+
+the temperature
+coefficients,
+for
+
+temperature
+
+flame
+
+soot
+
+T,._
+
+still
+
+total
+
+in the
+
+terms
+
+on
+
+with
+
+the
+
+enthalpy
+
+is calculated
+fraction
+and
+
+the
+
+using
+of
+
+10 -8.
+
+radiation
+
+term
+
+depends
+strongly
+on
+detailed
+radiation
+calculation
+The
+
+modeling
+
+can
+
+and
+
+radiation
+
+(refs.
+
+12 and
+
+should
+
+be an
+
+important
+
+latter
+
+be
+
+location.
+This confirms
+the importance
+into the flame
+structure
+analysis.
+
+improved
+
+by accounting
+
+25),
+
+and
+
+factor
+
+for
+
+between
+
+interactions
+
+turbulence
+
+between
+
+1-g and
+
+between
+
+and
+0-g
+
+of incorporating
+
+turbulence
+
+buoyancy
+
+(ref.
+
+22).
+
+The
+
+conditions.
+
+AcknowledCments
+
+The
+
+authors
+
+for
+
+are indebted
+
+turbulent
+
+reacting
+
+for electron
+
+to J.-Y.
+
+Chen
+
+free-shear
+
+microscopy
+
+and
+
+of UC/Berkeley
+
+flows
+
+size
+
+and
+
+analysis
+
+John
+
+for providing
+
+Roma
+
+the
+
+of Baldwin
+
+solver
+
+Wallace
+
+code
+
+College
+
+works.
+
+References
+
+1. H. A. Becker
+and D.
+Instability
+of Acetylene
+2. R. B. Edelman,
+Diffusion
+Aerospace
+3.
+
+M.
+
+Flames
+
+Liang,
+"Soot Emission,
+Thermal
+Diffusion
+Flames,"
+Comb.
+Flame,
+
+Y.
+
+Bahadori,
+
+Under
+
+Sciences
+
+Meeting,
+
+S.-M. Jeng and G. M. Faeth,
+Buoyant
+Methane
+Diffusion
+
+4. J. P. Gore
+bulent
+
+and
+
+G. M.
+
+Ethylene/Air
+
+5. K. J. Syed,
+
+Faeth,
+
+6.
+
+C. D. Stewart,
+in Buoyant
+1990.
+
+J. B. Moss,
+
+Pressure,"
+
+7.
+
+Menguc,
+M. P.,
+Finite
+Cylindrical
+
+8.
+
+D. Griffin
+
+and
+
+Techniques,"
+9. J.
+
+C.
+
+Ku
+
+Simulated
+
+and
+
+K.-H.
+
+Soot
+
+Agglomerates,"
+
+Flames,"
+
+"Flow
+Comb.,
+
+"Optical
+
+413-423,
+
+Flames,"
+
+Prog.
+
+F. C. Lockwood
+and A. S. Naguib,,
+"The Prediction
+Properties
+of Free, Round-Jet
+Turbulent
+Diffusion
+24, 109-124,
+1975.
+
+12.
+
+G. M. Faeth,
+
+S.-M.
+
+Jeng,
+
+in Fire
+
+and
+
+and
+
+J. Gore,
+
+Combustion
+
+"Radiation
+Systems,
+127
+
+Thermal
+Comb.,
+
+Formation
+
+Axisymmetric,
+
+Combustion
+
+Vol.
+
+1986.
+
+(Int.)
+
+of Soot
+
+Cleveland,
+and
+
+11.
+
+and
+
+Symp.
+
+Transfer
+in
+108, 271-276.
+
+Transfer,
+
+Diffusion
+
+Formation
+
+in
+
+1988.
+
+Workshop,
+
+Diagnostics
+
+J. Heat
+
+26th
+
+of Tur-
+
+1521-1531,
+
+Modeling
+
+Microgravity
+
+Comb.
+
+"Laminar
+ALAA
+
+Properties
+
+Comb.,
+
+23rd
+
+field
+
+R. W. Bilger,
+87-109, 1976.
+
+Transfer
+
+Jet
+
+Soot
+
+10.
+
+Heat
+
+"Turbulent
+
+"Modeling
+
+"Selected
+
+Microgravity
+Shim,
+
+(Int.)
+
+R., 1986,
+"Radiative
+J. Heat Transfer,
+Vol.
+
+P. S. Greenberg,
+Int.
+
+Radiation
+
+Symp.
+
+Diffusion
+
+(Int.)
+
+Stocker,
+
+and Turbulent
+Properties
+Vol. 106, 721-727,
+1984.
+
+Spectral
+
+21st
+
+K. J. Syed,
+
+P. and
+
+AIAA-88-0645,
+
+1988.
+
+and
+
+J. B. Moss,
+
+22rid Symp.
+
+D.
+
+Concentrations
+J. Heat
+Transfer,
+
+Flames,"
+
+Turbulent
+
+and Viskanta,
+Enclosures,"
+
+2nd
+
+Nevada,
+
+"Structure
+
+and
+
+and
+
+Conditions,"
+
+"Species
+Flames,"
+
+and
+
+C. D. Stewart,
+
+at Elevated
+
+Reno,
+
+Diffusion
+
+Radiation
+1533-1541,
+
+S. L. Olson,
+
+Micro-Gravity
+
+Radiation,
+and Laminar
+Vol. 52, 247-256,
+I983.
+
+Radiative
+
+113, 953-958,
+Energy
+
+of the
+Flames,"
+
+from
+137-151,
+
+Diagnostics
+Ohio,
+
+Fires,"
+1985.
+
+1992.
+
+Properties
+
+of
+
+1991.
+
+Comb.
+
+Sci.,
+
+Vol.
+
+1,
+
+Fluctuations
+in the
+Comb.
+Flame,
+Vol.
+
+ASME
+
+HTD-Vol.
+
+45
+
+13. J.-Y. Chen, W. Kollmann, and R. W. Dibble, "Numerical Computation of
+Turbulent Free-Shear Flows Using a Block°Tridigonal Solver for a Staggered
+Grid System," 18th Annual Pittsburgh Conf. Modeling and Simulation, 1987.
+14. W. C. Reynolds, "The Element Potential Method for Chemical Equilibrium
+Analysis: Implementation in the Interactive Program STANJAN," Department
+of Mechanical Engineering, Stanford University, 1986.
+15. R. W. Bilger, "Reaction Rates in Diffusion Flames," Comb. Flame, Vol. 30, 277284, 1977
+.........
+...........
+16. S. K. Liew, N. C. Bray, and J. B. Moss, "A Flamelet Model of Turbulent NonPremixed Combustion," Comb. Sci. Tech., Vol. 27, 69-73, 198I.
+17. B. F. Magnussen and B. H. Hjertager, "On Mathematical Modeling of Turbulent
+Combustion with Special Emphasis on Soot Formation and Combustion," i6th
+Symp. (Int.) Comb, 719-729, 1976.
+_
+__
+18.
+
+J. H.
+
+Kent
+
+Flames,"
+19.
+
+and
+
+D. Honnery,
+
+Comb.
+
+Sci.
+
+I. M. Kennedy,
+Laminar
+
+W.
+
+Diffusion
+
+Tech.,
+
+"Soot
+Vol.
+
+Mixture
+
+54, 383-397,
+
+Kollmann,
+Flame,"
+
+and
+
+and
+
+J.-Y.
+
+Comb.
+
+Fraction
+
+in
+
+Turbulent
+
+"A Model
+
+for
+
+81, 73-85,
+
+1990.
+
+1987.
+
+Chen,
+
+Flame,
+
+Vol.
+
+20.
+
+21.
+
+K.M.
+
+Soot
+
+I. M. Kennedy,
+W. Kollmann,
+and J.-Y. Chen, _''Predictions
+Diffusion
+Flames,"
+AIAA
+Journal,
+Vo!. 29, 1452-1457,
+1991
+Leung,
+
+for Soot
+22.
+
+M.
+
+R. P. Lindstedt,
+
+Fairweather,
+
+J. P.
+
+Gore,
+
+Analysis
+
+Flames,"
+
+P.
+
+Jones,
+
+a Turbulent
+:.
+
+U.-S.
+
+Ip,
+
+and
+
+of Acetylene/Air
+
+24.
+
+J. R. Rice and
+Springer-Verlag,
+
+25.
+
+T.
+
+H.
+
+W. P. Jones,
+
+W.
+
+Transfer
+from
+45-63, 1992.
+23.
+
+and
+
+in Nonpremixed
+
+Formation
+
+Song
+
+Application
+
+R. F.
+New
+and
+
+R.
+
+and
+
+Y.
+
+R.
+
+Flames,"
+
+Viskanta,
+
+Comb.
+
+Jet
+
+Transfer,
+Elliptic
+
+"Interaction
+
+114,
+
+in Laminar
+
+Mechanism
+
+of
+
+and
+
+487-493,
+
+Vol.
+
+with
+1, 56-62,
+
+_I991.
+
+Radiative
+
+Flame,
+
+Using
+
+Radiation
+
+J. Thermophysics,
+
+128
+
+Structure
+Vol.
+
+in a
+
+87, 289-305,
+
+Comb.
+
+Problems
+.....
+of
+
+Soot
+
+"Predictions
+
+"Coupled
+
+J. Heat
+
+System,"
+
+Vol.
+
+in a Cross-Wind,"
+....
+
+Sivathanu,
+
+Formation
+
+Reaction
+
+Flame,
+
+P. Lindstedt,
+
+Boisvert,
+Solving
+York, 1985_
+
+to a Combustion
+
+of
+
+"A Simplified
+
+R.
+
+Reacting
+
+Diffusion
+
+Vol. 89,
+:_
+Radiation
+1992.
+
+ELLPACK,
+
+Turbulence:
+1987.
+
+(a)l-g flame, 40 mm
+
+(b) 0-g flame,
+Figure
+flames
+
+I, Micrographs
+of soot aggregates
+under (a) normal,
+and (b) reduced
+
+80 mm
+
+HAB
+
+HAB
+
+0.3
+
+1 _l.m
+
+in 1.5 cc/sec
+propane-air
+laminar
+diffusion
+gravity conditions.
+(1.7 mm nozzle
+dia.)
+
+129
+ORIGINAL
+
+PAG_
+
+OF POOR
+
+QUALITY
+
+IS
+
+• ,{
+
+eO
+IIIO
+_-g
+
+":
+
+: LO ¢_ml,(
+: 1._ ¢¢/le(
+: II@ln
+
+\
+io
+
+2o
+
+_
+
+,o
+
+so
+
+*_
+
+m
+
+,o
+
+s_-
+
+D
+
+-_o
+
+1)0
+............
+
+Figure
+
+2. Mean
+
+diameter
+
+of primary
+
+soot
+
+particles
+
+_
+
+*bovl
+
+in laminar
+
+_zz_*
+
+tO0
+
+I_0
+
+Exit (_".)
+
+diffusion
+
+flames.
+
+o
+
+o
+or
+
+"6o
+5
+
+o
+
+tO
+
+15
+
+2()
+
+25
+
+3O
+
+2_,
+
+30
+
+Rod;ol Oislance r/R
+
+.E o
+
+"E
+(.,3o
+
+---
+
+: odiob,
+
+comb.
+
+: correcteCI
+•
+
+: Kent
+
+&
+
+od;ob,
+
+comb.
+
+Honnery
+
+(1987)
+
+o
+
+o
+
+_'o
+
+- 2bo_
+
+;_So
+
+o
+
+Figure
+
+._
+
+measured
+
+3__parisonsof_pre_cFed=and
+......
+
+_ ......
+
+"
+
+r,;
+
+_
+
+_
+
+........
+.....
+
+.-
+
+_
+
+.L
+
+-__J
+
+C2 1
+
+o
+_
+
+"-_
+
+-'l._.
+
+_,/=m=1.4
+
+o ,_...._
+......
+
+......
+,
+
+-:
+•
+
+o
+o.o
+
+o o o
+_.o
+
+and
+
+measured
+
+"1) e, "".._"_'_'_
+
+Io.o
+turbulen'
+
+"-----
+
+_"_ .... _ ......................
+LY-[] .-;_% ..... .......
+
+^
+
+Rodid
+
+4. Predicted
+
+x/_,_=O.?
+_4/''=1"0
+
+•
+
+""
+
+--
+
+_=SfOnce
+
+.
+
+d"-,
+
+, o -
+
+_ ___-_
+
+CzH.-A6O=_m,,. U.=_2 m/'
+
+:_
+
+Figure
+
+_od;oI
+
+_
+
+r//_
+
+turbulent-flame_emperaf_res
+
+.... 6
+............. ...
+
+-o
+
+_o
+
+-- --"
+
+--
+
+_ mo
+
+................
+
+sO
+
+15.o
+Distonce
+
+flame
+
+20.0
+
+:_.o
+
+_o.o
+
+r/_
+
+soot volume
+
+fractions.
+
+O
+
+!- 9 Teml:erotwre
+
+_
+
+i0:0.58
+
+mm.U,wI5
+
+m/sl
+
+0.
+
+O-g
+
+Temperature
+
+_O
+
+ID:O.58
+
+mm.U,::t5
+
+m/sl
+
+0
+
+0
+0
+
+Q
+0
+
+g
+
+0
+0
+
+o
+
+0
+0
+
+o
+
+311I
+o
+
+o
+
+o
+q
+o
+-50.0
+
+-2S.0
+
+1-g
+
+o
+o
+
+50or
+
+0.0
+
+Volume
+
+25.0
+
+50.0
+
+-50.0
+
+F'roction k, aD [¢,xlOl]
+l
+
+-25.0
+
+O-g
+
+S00t
+
+0.0
+
+V0hJme
+
+Fraction
+
+25.0
+
+uaO
+
+50.0
+
+(f xTOl_
+
+oo
+o
+
+o
+
+o
+
+o
+o
+
+o
+
+d
+
+o.
+
+_
+o
+o
+
+oi_o_
+_'_.._ _
+
+o
+o
+
+o.
+
+o
+
+o.
+o
+
+oo.
+o
+
+o.
+o
+-50.0
+
+-25.0
+
+0.0
+
+2_.0
+
+50.0
+
+-50.0
+
+-25.0
+
+r/O
+Figure
+
+5. Normal-
+
+and
+
+reduced-gravity
+
+0.0
+
+25.0
+
+r/O
+ethylene-air
+131
+
+turbulent
+
+diffusion
+
+flames.
+
+50.0
+
+N
+
+C_H 4-Air
+0--0.58
+mm,
+
+U =15
+
+m/s
+
+x/D=70
+
+.......
+..............
+
+20.0
+
+10.0
+
+Radial
+
+term
+term
+term
+
+--.--
+
+0.0
+
+: Radi.
+: Cony.
+: Cony.
+: Cono.
+
+term
+
+50.0
+
+40.0
+
+30.0
+
+Distance
+
+1
+2
+
+r/D
+
+I-'3
+0
+
+CTH 4-Air
+D-0.58
+ram.
+x/D=140
+
+.......
+..............
+--.--
+
+0.0
+
+10.0
+
+20.0
+
+6. Estimated
+
+values
+
+of various
+
+Distance
+
+terms
+132
+
+in the
+
+m/s
+
+Rodi. term
+Cony, #erm
+Cony. term
+Cond. term
+
+30.0
+
+Radial
+Figure
+
+:
+:
+:
+:
+
+U_=15
+
+40.0
+
+1
+2
+
+50.0
+
+r/D
+energy
+
+equation
+
+with
+
+radiation•
+
+COMMENTS
+Question
+
+(J.P. Gore,
+
+Purdue
+
+University):
+
+(1) What is the magnitude
+of turbulence-radiation
+interactions, and what is the justification
+this effect in preference
+to scattering?
+Scattering
+is more important
+in optical diagnostics
+rather than in the thermal radiation
+term in energy equations.
+(2) The effects of joint probability
+important.
+Do you plan to model
+(3) Are
+
+the soot volume
+
+measurements?
+
+fraction
+
+distribution
+these?
+data
+
+from
+
+If so, how is the comparison
+
+(4) Chemical
+equilibrium
+calculations
+the modcl be improved
+in this aspcct?
+
+functions
+
+between
+
+Kent and Honnery
+with predictions
+
+arc not in agrccmcnt
+
+mixture
+
+(1987)
+
+fraction
+
+for neglecting
+in the visible
+
+and cnthalpy
+
+path-integrated
+
+are
+
+equivalent
+
+made?
+with mcasurcmcnts
+
+on the
+
+fuel-rich
+
+side.
+
+Should
+
+(5) In your verbal response you mentioned
+that there arc other uncertainties
+such as refractive
+indices of
+soot. However, work reported
+in the literature
+has shown that items (1), (2) and (4) above have avcrv
+strong (cvcn order of magnitude)
+i,dlucnce
+on radiation heat loss. In my opinion,
+these need to bc
+addrcsscd
+with priority.
+Answer: (1) There is no attempt
+at this point to model or csti,nate the magnitude
+of lUrbldcncc-radiation
+interaction,
+or to justify that it is negligible.
+Thc turbulence-radiation
+interaction
+is not included duc to its
+complexity and the lack of definitive
+information
+about its cffccts.
+On the other hand, Ihc scattering
+effccts
+have been shown to be significant
+(Rcf. 9) and can bc dealt with in our radiation
+heat transfer
+calculations.
+(2) Wc agree that the effects of joint pdf bctwcen mixture fraction and cnthalpy
+arc important
+includcd in the modcl.
+However,
+this will not bc our fl_cus, lnstcad, wc plan to h_llow works
+such as those by the commentator
+(Rcf. 23), and those dcvelopcd
+in the future.
+
+and should
+in existence,
+
+bc
+
+(3) Wc believe that soot volume fraction data in Kent & lflmncry
+(Rcf. 18) arc local vahtcs, instead t)f pathintegrated.
+The last sentence in the second par,_graph in Experimental
+Pr_ccdurc
+states Ih,d h_ri:c_nt,d
+Iravcrsing
+and Abel inversion were applied to extract local extinction d;ita.
+(4) Yes. Wc will improve
+paper.
+
+this aspect
+
+of the model
+
+by using the I_mfinar Ilamclct
+
+motlcl,
+
+as indic:ltcd
+
+in the
+
+(5) One may argue that soot refractive
+index data are fairly accurate in the visible w,wclcngths,
+cvcn though
+we are not perfectly convinced
+of that.
+However,
+it is fair to sav that data in the infrared
+arc highly
+questionable.
+Since there is no dircctly relatcd analysis on the effects of this uncertainty,
+wc plan to
+investigate
+this aspect more quantitatively.
+
+Question:
+(Ivan Catton, UCLA): In transport
+mean diameter.
+Your electron micrograplls
+the "mean diameter"
+represents.
+
+processes,
+one is usually intcrcslcd
+in number density and a
+show shapes as far from spherical,
+and onc has to wonder what
+
+Answer.: We consider soot particulates
+as aggregates
+of near-spherical
+primary particles.
+referred
+to in the question, are shapes of aggregates.
+The mean diameters,
+as referred
+mean diameters
+of the near-spherical
+r_
+particles.
+
+133
+
+The slmpes, as
+to in the paper, are
+
+i
+!
+i
+|
+
+!
+!
+
+!
+
+!
+!
+|
+!
+i
+|
+
+!
+!
+
+J
+|
+|
+
+!
+!
+|
+
+z
+
+i
+
+i
+

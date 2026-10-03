@@ -1,0 +1,193 @@
+MICROGRAVITY SUPERAGGLOMERATES PRODUCED BY SILANE
+AND ACETYLENE
+Matthew Bundy, George W. Mulholland, Samuel Manzello, Jiann Yang, John Henry Scott
+National Institute of Standards and Technology, Gaithersburg, MD, 20899
+Yudaya Sivathanu
+En’Urga, Inc., West Lafayette, IN 47906.
+Introduction
+The size of the agglomerates produced in the in the upper portion of a flame is important
+for a variety of applications. Soot particle size and density effect the amount of radiative heat
+transfer from a fire to its surroundings. Particle size determines the lifetime of smoke in a
+building or in the atmosphere, and exposure hazard for smoke inhaled and deposited in the lungs.
+The visibility through a smoke layer and dectectability of the smoke are also greatly affected by
+agglomerate size. Currently there is limited understanding of soot growth with an overall
+dimension of 10 µm and larger. In the case of polystyrene, smoke agglomerates in excess of 1
+mm have been observed “raining” out from large fires.
+Unlike hydrocarbon fuels, silane has the advantage that silica particles are the major
+combustion product resulting in a particle volume fraction a factor of ten greater than that for a
+carbonaceous smoke. There are two very desirable properties of silica aero-gels that are
+important for both space and earth based applications. The first important property is its
+inertness to most oxidizing and reducing atmospheres. Therefore, silica aero-gels make
+excellent fire ablatives and can be used in very demanding applications. The second important
+property is that silica aero-gels are expected to have very high porosity (greater than 0.999),
+making them lightweight and ideal for aerospace applications. The added benefit of the high
+porosity is that they can be used as extremely efficient filters for many earth based applications
+as well.
+Evidence of the formation of superagglomerates in a laminar acetylene/air diffusion
+flame was found by Sorensen et al. [1]. An interconnecting web of super-agglomerates was
+observed to span the width of the soot plume in the region just above the flame tip and described
+as a gel state. It was observed that this gel state immediately breaks up into agglomerates as
+larges as 100 µm due to buoyancy induced turbulence. Large soot agglomerates were observed
+in microgravity butane jet diffusion flames by Ito et al.[2]. Several other works to date have
+studied the effect of flame structure on soot volume fraction and agglomeration size in a
+microgravity environment.[3-4]. In microgravity the absence of buoyant convective flows
+increases the residence time in the flame and causes a broadening of the high temperature region
+in the flame. Both of these factors play a significant role in gas phase radiation and soot
+formation
+Experimental Hardware
+Experiments were performed using a combustion “drop rig” that was designed for use at
+NASA Glenn’s 2.2 second drop tower facility. The hardware consisted of a 25 L combustion
+chamber, an open tube burner, a gas flow control system, an electrical system and an imaging
+
+NASA/CP—2003-212376/REV1
+
+57
+
+system. The burner consisted of a 4.52 mm diameter stainless steel tube positioned along the
+centerline 15 cm above the base of the chamber. Two CCD video cameras were used to image
+the flame and soot plume. Illumination for imaging the agglomerates was provided using a
+microsecond Xenon flashlamp. A 0.25 mm diameter Kanthol hot-wire was used to ignite the
+flame. Pressure transducers were used to monitor the fuel bottle and combustion chamber
+pressure. Rotary solenoids were used to position the ignition wire and TEM sampling grid.
+Normal Gravity Experiments
+Acetylene and silane was burned in the standard NASA cylindrical combustion chamber.
+A digital camera with backlighting through a diffuser was used to photograph both the flame and
+smoke plume as illustrated in the lower portions of the Figure 1. The photographs show the
+
+a
+
+b
+
+d
+
+c
+
+e
+
+f
+
+Figure 1. Photograph of acetylene and silane flames in normal gravity.
+flame and plume for an acetylene fuel flow rate of 0.66 cm3/s, 2.10 cm3/s, and for a silane flow
+rate of 2.1 cm3/s (a, b and c respectively). The series of photographs (d, e, and f) in Fig. 2 were
+taken at a location about 9 cm from the burner exit with the digital camera and a Xenon flash
+lamp with a pulse duration of 1.3 µs and a pulse energy of 0.35 J to “freeze” the motion of the
+soot agglomerates. At the lower flow rate the soot appears as a relatively gray background while
+at the larger flow, individual 50 µm to 100 µm particles appear to be connected across much of
+the plume. Other noteworthy features are the increasing plume width with increasing fuel flow
+rate and the sharpness of the smoke boundary. For the silane flames, filaments were observed
+leaving the flame zone rather than superagglomerates such as for acetylene. A µs flash
+photograph of a filament 9 cm above the flame is shown in Fig. 1c.
+Fibrous particles were examined with a stereomicroscope (Fig 2a) and a field emission
+scanning electron microscope (Fig. 2b). The SEM micrograph shows evidence of partially fused
+spherule structures with diameters as small as 150 nm. We expected that the much larger
+particulate volume fraction for the silane flame would lead to a totally interconnected gel-like
+structure and were surprised to observe a fibrous material. It is likely that the combination of the
+higher flame temperature for silane combustion together with the lower melting point of SiO2
+particulate has resulted in the formation of the partially fused filaments. An interesting hollow
+cage-like structure, shown in Fig. 2c was produced when the fuel line was purged with a pulse of
+nitrogen at the end of the experiment. This suggests that varying the flame temperature by
+diluting the silane will likely be important in controlling the morphology of the silane particles.
+
+NASA/CP—2003-212376/REV1
+
+58
+
+a
+
+b
+
+c
+
+Figure. 2. Optical micrograph of silica fiber.
+Microgravity Acetylene Experiments
+Microgravity experiments were performed in a 2.2 second drop tower using acetylene at
+flow rates of 0.6 cc/s, 1.0 cc/s and 2.0 cc/s. Fig. 3 (a and b) shows images of the acetylene
+flames and soot plumes recorded during the microgravity experiments. The microgravity flame
+was three times as wide as the normal gravity flame.
+
+a
+
+b
+
+c
+
+Figure 3. Images of acetylene flame and the soot plume and a TEM photo.
+Although detailed measurements of the agglomerate size were not possible due to the low
+image resolution, approximate particle sizes were attained in the post flame region between 2.5
+cm and 5.5 cm above the burner. Microgravity superagglomerates as large as (1.2 ± 200) mm
+were observed in these experiments. Another noteworthy observation is apparent from
+inspection of the flame video in slow motion. It appears that superagglomerates can be seen
+escaping from the open flame tip annulus in the µG flames at acetylene flow rates of 0.6 cc/s and
+1.0 cc/s. This suggests that the large soot agglomerates are formed in the high temperature
+region of the flame. Detailed measurement of the primary particle size distribution was
+performed for soot sampled at three flame conditions at a location of 25 mm above the burner
+duct. At least 100 primary spheres were analyzed for each condition. The diameter of the
+primary particles for the 2.0 cc/s flame was measured to be (45.4 ± 10.2) nm in µ-g and (40.0 ±
+11.4) nm in 1-g. A digitized TEM micrographs for soot particles sampled above the 1.0 cc/s
+acetylene flame in microgravity is shown in Fig. 9. Inspection of this image clearly shows
+clusters formed from 2 different primary particle sizes measured to have diameters of (16.3 ± 5)
+nm and (43.0 ± 9) nm. This feature was found throughout the entire TEM grid with a slightly
+higher number of small particle clusters, however since only a single TEM grid was collected for
+this condition the nature and generality of this bimodal feature is uncertain.
+
+NASA/CP—2003-212376/REV1
+
+59
+
+Numerical Simulations
+Temperature and soot volume fraction contours for normal gravity and microgravity
+acetylene flames were calculated [8,9]. These results were consistent with the qualitative
+observations from the µG experiments. The calculations of the soot volume fraction and
+temperature field in the flame zone/plume together with the calculation of the particle position
+versus time provides the necessary input to estimate the agglomerate growth for the case of a 1
+cm3/s acetylene flow rate [10]. Our agglomeration simulations suggest than free molecular
+coagulation together with gelation are too slow to produce superagglomerates of size greater
+than 100 µm for 1-g experiments. The simulations predict a relatively modest enhancement in
+the agglomeration as the gel point is approached for the free molecular limit. For µ-g conditions,
+our simulation results predict a maximum agglomerate length of 35 µm based on fV=6.0×10-6
+and a length of 680 µm for fV=6.0×10-4. For the higher density it is seen that the agglomeration
+model predicts that agglomerates approaching the critical gel size would form in a flame at µ-g
+conditions.
+Conclusions
+1.
+2.
+3.
+4.
+
+For the first time in µ-g the emission of soot super-agglomerates from the luminous flame
+was visually demonstrated by simultaneously imaging the flame and soot plume.
+The burning of silane at 1-g results in novel structures including fibers and cage-like
+structures depending on the time/temperature history for the particles in the flame.
+The flame calculations show an increased residence time in µ-g which helps explain
+enhanced agglomerate growth.
+A soot agglomerate model based on Brownian motion can not account for the
+superagglomerates observed in acetylene flames at 1-g.
+
+Acknowledgements
+This work is funded by NASA Microgravity Combustion Program with Suleyman
+Gokoglu as technical monitor. Paul Greenburg, David Urban, and Eric Bauman from NASA
+Glenn provide significant support for the drop tower experiments. Jinyu Zhu designed the silane
+flow system, Anthony Hamins carried out silane flame calculations, and Marco Fernandez
+fabricated the Super Agglomerate Drop Tower facility.
+References
+[1]
+Sorensen, C.M., Hageman, W.B., Rush, T.J., Huang, H., Oh, C., Phys. Rev. Lett.,80:1782
+(1998).
+[2]
+Ito, H., Fujita, O., Ito, K., Combustion and Flame, 99:363 (1994).
+[3]
+Ku, J.C., Tong, L., Sun, J., Greenberg, P.S., Griffin, D.W., Proceedings of the Second
+International Microgravity Combustion Workshop, 121 (1992).
+[4]
+Koylu, U.O. and Faeth, G.M., Combustion and Flame, 89:140 (1992).
+[5]
+Sivathanu, Y.R. and Gore, J.P., Combustion and Flame, 97: 161 (1994).
+[6]
+Leung, K.M., Lindsted, and Jones, W.P., Combustion and Flame, 87:289 (1991).
+[7]
+Mulholland et al., Energy and Fuels, 2, 481-486 (1988).
+
+NASA/CP—2003-212376/REV1
+
+60
+

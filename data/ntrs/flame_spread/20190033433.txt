@@ -1,0 +1,363 @@
+Sub Topic: Fire
+2019 WSSCI Fall Technical Meeting
+Organized by the Western States Section of the Combustion Institute
+October 14–15, 2019
+Albuquerque, New Mexico
+
+Infrared Measurements of Forward Heat Conduction during
+Simulated Microgravity Flame Spread in the Narrow Channel
+Apparatus
+Michael Berry1, Dr. Fletcher Miller1*, Dr. Sandra Olson2, Dr. Indrek Wichman3
+1
+
+Department of Mechanical Engineering, San Diego State University, San Diego, CA 921821323, USA.
+2
+NASA Glenn Research Center at Lewis Field, Cleveland, OH 44135, USA.
+3
+Department of Mechanical Engineering, Energy and Automotive Research Laboratories,
+Michigan State University, East Lansing, MI 48824-1226, USA.
+*
+Corresponding Author Email: fmiller@sdsu.edu
+Abstract: An infrared (IR) camera provides a way of examining temperature trends associated
+with simulated microgravity flame spread in the Narrow Channel Apparatus (NCA). The IR
+camera measures the surface temperature of solid poly methyl methacrylate (PMMA) fuel. These
+tests examine the forward conduction of heat ahead of the flame front in the non-thermally thin
+fuel.
+The NCA is a combustion wind tunnel that simulates a microgravity flame spread environment by
+employing a narrow gap between the fuel and ceiling of the device, limiting the effects of
+buoyancy. Test conditions of a 5 mm gap, mean opposed flow velocity of 15 cm/s, and fuel
+thickness of 3 mm are used.
+PMMA is selected as the fuel due to repeatability of test results, ease of computational modeling,
+and known combustion mechanics. Using specific lens and bandpass filter combinations the
+PMMA can be imaged as effectively opaque. The spectral emissivity for PMMA was calculated
+and incorporated into the calibration of the camera.
+Surface temperatures from the IR camera are compared to results from thermocouples embedded
+in the surface of the fuel. The IR camera results show that nontrivial forward conduction occurs
+during tests, and therefore must be included in computational models of the process.
+Keywords: Simulated microgravity combustion, Infrared imaging, Narrow Channel Apparatus,
+PMMA Combustion, Solid Fuel Combustion
+
+1. Introduction
+Study of flame spread in microgravity environments is a vital and challenging component of
+spacecraft fire safety planning. True, long-duration microgravity combustion testing
+environments are effectively limited to the International Space Station’s Microgravity Sciences
+
+1
+
+Sub Topic: Fire
+Glovebox (MSG), or the Combustion Integrated Rack (CIR) 1. Both options have provided
+important data but are prohibitively expensive. Other test environments, such as drop towers or
+aircraft, are limited to thermally thin fuels due to the very short microgravity time available.
+Thus, an alternative ground-based approach to microgravity flame spread testing is needed. San
+Diego State’s Narrow Channel Apparatus (NCA) simulates a microgravity flame spread and
+spacecraft atmosphere environment. The NCA is a horizontal opposed flow combustion channel
+that can simulate a microgravity environment primarily through buoyancy suppression. This
+environment is achieved by limiting the gap between the fuel and window (see Figure 1),
+limiting flame elongation in the vertical direction. Buoyancy is one of the key differences
+between flame spread on Earth, with the full effects of gravity, and a microgravity environment.
+The flame spread in the NCA has been simulated with computational modeling for both onedimensional and two-dimensional solid-phase heat conduction cases of thermally thick
+polymethyl methacrylate (PMMA) [1]. The two-dimensional case has been modeled with Fire
+Dynamics Simulator coupled with Gpyro. The two-dimensional model shows similar flame
+spread behavior to actual testing in the NCA when compared to the one-dimensional case. It is,
+however, much more computationally expensive than the one-dimensional case. For this reason,
+measurements of forward conduction from testing in the NCA are needed to further justify the
+use of the two-dimensional model, as well as to verify that the computations are capturing the
+physics correctly.
+A schematic of flame spread in the NCA is shown in Figure 1. Key physical features include: the
+gap height, set to minimize buoyancy contributions and heat losses to the ceiling, the horizontal
+opposed flow configuration, and the thick PMMA sample itself. Processes of note are a heat flux
+from the flame to the sample surface, conduction into the sample surface (shown as 𝑞𝑞 𝑟𝑟𝑟𝑟𝑟𝑟 + 𝑞𝑞 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐
+and modeled as one-dimensional solid phase conduction), and forward heat conduction ahead of
+the flame (shown as 𝑞𝑞 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 and the pre-heat zone). While forward heat conduction represents a
+small portion of this schematic, this paper will present results that indicate a substantial preheating region.
+
+𝑞𝑞 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐
+
+Figure 1: Schematic of thermally thick PMMA burning in the NCA [2]
+1
+
+Previous tests were also conducted on the Space Shuttle, but that is no longer an option since the ending of that
+program.
+
+2
+
+Sub Topic: Fire
+This paper presents the results of forward heat conduction measurements from testing in the
+NCA using an Infrared (IR) camera. The camera was set up to measure the surface temperature
+of thermally thick PMMA considering the emissivity of the material and the transmission
+through the window of the NCA. Results from the IR camera were compared to a thermocouple
+embedded in the surface of the fuel.
+2. Experimental Apparatus and Methods
+The NCA consists of a horizontal 8.3 cm wide and 88 cm long channel. To limit the effects of
+buoyancy, the gap between the bottom of the channel and the quartz window in the lid of the
+channel is restricted to 5 mm. The channel is set up in an opposed flow configuration so that the
+direction of the flame propagation is opposite that of the flow. While the NCA can be run at
+varying oxygen concentrations and pressures, for these tests the conditions inside the channel
+matched atmospheric conditions with an oxygen concentration of 21% and a pressure of 101.3
+kPa. The flow inside the channel is controlled by Alicat mass flow controllers and operated by a
+MATLAB GUI. In this test the opposed flow velocity was set to 15 cm/s. Ignition of the sample
+was done by passing 6 amps of current through 27 AWG Kanthal wire for approximately 30
+seconds. The igniter wire was located near the downstream edge of the sample, approximately 1
+mm above the surface, and spanned the full width of the sample.
+
+Figure 2: Schematic of the NCA experimental test setup [1]
+The thickness of the PMMA used in testing was 3 mm. The samples are 5 cm wide and 12.5 cm
+long and top surface of the sample sits flush with the bottom of the channel during testing. Mica
+insulation is used on the sides and beneath the sample. The side mica insulation was 0.53 mm
+thick and bottom insulation 3.47 mm thick. A single type K thermocouple with a diameter of
+
+3
+
+Sub Topic: Fire
+0.003” was embedded in the top surface of the sample with the wire spanning the fuel width and
+normal to the direction of flame spread. The thermocouple wire was embedded by passing an
+electric current through the thermocouple wire causing it to heat up and melt a tiny groove in the
+sample surface. During the test, thermocouple data were logged by a Daqpro 5300 at 1 Hz.
+The IR camera used in this test was a FLIR SC6702. The camera’s spectral range is 1 to 5
+microns. IR images were recorded using FLIR’s ResearchIR software. The camera was
+calibrated using a blackbody furnace (Oriel 67032) with the fused quartz window (10 mm thick)
+of the NCA placed in front to mimic emissions from the fuel through the window during an
+actual test. The quartz is low OH material (GE 124) that has a high transmission in the near IR
+region of the spectrum. Calibration measurements were taken in increments of 10 degrees
+Celsius, with ranges as shown in Table 1.
+Initial tests used a 1 to 5 micron lens combined with a narrow bandpass filter centered at 3.4
+microns (FWHM 130 nm). The wavelength of 3.4 microns represents a strong
+absorption/emission band for PMMA and relatively low emission band for other combustion
+byproducts [3]. This approach cut out temperatures lower than 150 C ahead of the flame due to
+insufficient signal. In order to capture the lower temperatures, the lens was switched to a 3 to 5
+micron lens with no bandpass filter. Using this lens acts as a partial bandpass filter by cutting out
+emissions from 1 to 3 microns while letting in much more signal than the narrow bandpass filter.
+For the 3 to 5 micron lens the camera was set up to use the Dynamic Range Extension (DRX)
+feature that allows the camera to capture a wide range of temperatures in a single image by
+combining multiple calibrations [4]. By using the DRX, the camera can pick up the forward
+conduction ahead of the flame as well as the peak temperatures at the flame front while not
+saturating the camera.
+While effective at expanding the camera’s range, using the 3 to 5 micron lens with no bandpass
+filter had the side effect of having increasing signal contributions from the quartz window of the
+NCA, which heats up significantly during testing. To reduce this erroneous signal, an additional
+quartz disk (1/4” thick) was placed in front of the 3 to 5 micron lens during testing. This quartz
+disk was the same type of quartz used in the NCA and absorbed emissions from the hot window.
+Regardless of method applied, the lowest sample temperatures (between room temperature and ~
+50 C) are unable to be recorded due to signal loss from the window.
+
+Test
+Method
+Narrow
+Bandpass
+DRX, no filter
+DRX, no filter
+DRX, no filter
+DRX with Quartz
+DRX with Quartz
+DRX with Quartz
+
+Table 1: Calibration temperature ranges used in the testing.
+Integration Time
+Minimum
+Maximum
+(ms)
+Temperature (C)
+Temperature (C)
+2
+150
+430
+2
+0.5
+0.04064
+2
+0.5
+0.04064
+
+40
+100
+200
+60
+125
+250
+
+4
+
+150
+250
+525
+150
+250
+450
+
+Sub Topic: Fire
+
+An emissivity correction for temperatures recorded by the IR camera was implemented. By
+taking transmission data of PMMA of different thicknesses it is possible to numerically calculate
+the optical properties of PMMA, specifically n, the index of refraction, and k, the absorptive
+index [5,6]. These properties can be used to calculate a band emissivity for the spectral ranges of
+the lenses and bandpass filter. This band emissivity is applied to the camera calibrations to
+ensure accurate temperature readings.
+These parameters were found using Eq. (1) through Eq. (4). Equation (1) represents
+transmission, T. By measuring T on a per wavelength basis for at least two sample thicknesses, d,
+the unknown parameters n and k can be solved for. Equation (2) for reflectivity, 𝜌𝜌, and Eq. (3)
+for internal transmissivity, 𝜏𝜏, are plugged into Eq. (1). This yields two equations with three
+known values, the transmission T, sample thickness d, and wavelength 𝜆𝜆 , and two unknown
+values n, the index of refraction, and k, the absorptive index. Once n and k are solved for using
+Eq. (1) they be plugged back into Eq. (2) and Eq. (3) to find 𝜌𝜌 and 𝜏𝜏 for any material thickness.
+Finally, with all optical parameters known, Eq. (4) for the emissivity, E, can then solved for and
+applied to a given waveband. For the 3 to 5 micron lens E was calculated to be 0.903.
+𝑇𝑇𝜆𝜆,𝑑𝑑 =
+
+(1−𝜌𝜌)2 𝜏𝜏
+1−𝜌𝜌2 𝜏𝜏2
+
+𝜌𝜌 = (𝑛𝑛+1)2 +𝑘𝑘2
+(𝑛𝑛−1)2 +𝑘𝑘2
+
+𝜏𝜏 = 𝑒𝑒 −4𝜋𝜋𝜋𝜋𝜋𝜋/𝜆𝜆
+
+𝐸𝐸𝜆𝜆,𝑑𝑑 =
+
+(1−𝜌𝜌)(1−𝜏𝜏)
+1−𝜌𝜌𝜌𝜌
+
+(1)
+(2)
+(3)
+(4)
+
+While the equations are extremely straightforward to solve with known n and k values, they are
+extremely difficult to solve if they are unknown. The equations cannot easily be solved
+analytically, and this necessitates a numerical solution. Finding detailed transmission data for
+PMMA in the IR spectrum was also difficult. It was necessary to take multiple sources of
+PMMA transmission data often recorded using different methods. This resulted in getting
+physically impossible values for n and k (negative values, imaginary numbers, etc.) before
+compatible data was found.
+Finally, a CMOS digital camera (SV 5C10) was used to capture visible light images of the flame
+for flame spread tracking. Images were recorded using the Epix XCAP software and tracked
+using NASA’s Spotlight image tracking software to obtain the flame spread rate [7].
+3. Results and Discussion
+IR temperature measurements are shown from three test methods in Figure 7, one with the 1 to 5
+micron lens and narrow bandpass filter, one with the 3 to 5 micron lens and DRX enabled, and
+one with the 3 to 5 micron lens, DRX enabled, and quartz disk in front of the lens. The
+thermocouple data shown below is from the test with the narrow bandpass filter. Results from the
+IR images and thermocouple are plotted as temperature vs. distance to the flame front using
+
+5
+
+Sub Topic: Fire
+flame spread rates obtained from tracking, as shown in Table 2. For the thermocouple this is a
+fixed location on the sample surface. The thermocouple junction was roughly in the center of the
+sample. For the IR this represents the temperature values of a single pixel during the test. For
+consistency across tests, the location of the pixel was chosen to match the approximate location
+of the thermocouple junction.
+Table 2: Flame Spread Rates used to Calculate Distance to Flame Front
+Test
+Flame Spread Rate
+Method
+(microns/s)
+Narrow
+65.9
+Bandpass
+3-5 micron lens with DRX, no filter
+65.7
+3-5 micron lens with DRX and Quartz
+67.8
+
+Figure 3: An example of flame position vs. time tracking from a test of 3-5 micron lens with the
+DRX, no filter
+
+6
+
+Sub Topic: Fire
+
+Figure 4: IR image of the PMMA sample during a test with the DRX enabled. The crosshair
+represents the location where temperature was determined
+
+Figure 5: The equivalent visible light image of Figure 2
+
+7
+
+Sub Topic: Fire
+
+Figure 6: Location of the thermocouple embeded in the PMMA
+
+Figure 7: Comparisons of temperature measurement methods as the flame front approaches a
+specific location
+
+8
+
+Sub Topic: Fire
+Results from all methods of IR calibration and the thermocouple show significant heating of the
+sample surface well ahead of the flame front. While results from the bandpass filter are limited
+by the minimum calibration temperature of 150 C, there is still a noticeable preheating region
+approximately 5 mm ahead of the flame front. Using the DRX with no filter captured lower
+temperatures than using the narrow bandpass filter. However, the preheating temperatures ahead
+of the flame front and peak temperatures behind the flame front differ significantly from the
+other test methods and thermocouple results. This suggests that emissions from the window
+tainted the temperature readings. Finally, using the DRX with the quartz disk allowed for the
+same lower temperatures as to be recorded. The preheating temperature trends are similar to the
+thermocouple, while the peak temperatures trends are similar to the results obtained with the
+narrow bandpass filter.
+Results from the thermocouple likely represent the true sample surface temperature for much of
+the preheating region. However, the temperature recorded at the flame front by the thermocouple
+is 1095 C and is off scale in Figure 4. This is because as the flame front reaches the
+thermocouple, the sample material surrounding the thermocouple is removed. This leads to the
+thermocouple effectively reading a gas phase temperature.
+Results from the narrow bandpass filter, DRX with quartz disk, and the thermocouple all show
+similar results in the region approximately 2 mm ahead of the flame front where the temperature
+gradient is steepest. Each method is bound by physical limitations of the test setup, emissions
+and signal loss from the quartz window of the NCA for the IR measurements, and reading of gas
+phase temperatures for the thermocouple. However, when taken together they give a much more
+complete picture of forward conduction in the sample.
+4. Conclusions
+Data collected from the IR camera and thermocouples shows that significant forward heat
+conduction ahead of the flame front occurs on the surface during the tests. This was estimated
+using Fourier’s Law and a peak of 1.9 kW/m2 was found in the region 1 mm ahead of the flame.
+Addition of the quartz disk to the 3-5 micron lens with the DRX enabled significantly improved
+results in the preheating region. In progress work of cooling the quartz window of the NCA to
+further reduce emissions may bring the IR camera and thermocouple results further inline.
+Differences between the IR camera and thermocouple in the flame region can be attributed to the
+thermocouple reading the gas phase temperature.
+Ultimately, the measurements of forward heat conduction demonstrate the need to model all
+further tests of PMMA in the NCA as a two-dimensional problem. Conclusions cannot be drawn
+from the one-dimensional problem due to significant heating of the fuel ahead of the flame that is
+not considered when only the conduction normal to the surface is considered. Measurements of
+forward heat conduction can also be used as a benchmark to compare against and help refine the
+computational model.
+
+9
+
+Sub Topic: Fire
+5. Acknowledgements
+This research and fabrication of the NCA was funded by NASA under the grant NNX10AD96A.
+Thanks are due to the following former Combustion and Solar Energy Laboratory members.
+Nick Lage, for his work on the NCA project in computational modeling of PMMA and
+development of embedded thermocouple testing procedures. Kelsey Winter, for her work on the
+NCA project and guidance throughout.
+6. References
+[1]
+
+[2]
+[3]
+
+[4]
+[5]
+[6]
+
+[7]
+
+N. Lage, Two Dimensional Heat Transfer in Non-Thermally Thin Poly(Methyl
+Methacrylate) During Combustion in a Narrow Channel Apparatus, San Diego State
+University, 2018.
+G. Randall Bornand, Polymethylmethacrylate combustion in a narrow channel apparatus
+simulating a microgravity environment, San Diego State University, 2014.
+P. Beauchamp, Infrared Tables (short summary of common absorption frequencies)
+organic compounds, Spectrosc. Tables. 2620 (n.d.) 1–15.
+http://www.cpp.edu/~psbeauchamp/pdf/spec_ir_nmr_spectra _tables.pdf.
+FLIR, ResearchIR 4, 2016. file:///E:/ResearchIR Manual.pdf.
+J.R. Hallman, Ignition characteristics of plastics and rubber, University of Oklahoma.,
+1971.
+G. Beadie, M. Brindza, R.A. Flynn, A. Rosenberg, J.S. Shirk, Refractive index
+measurements of poly(methyl methacrylate) (PMMA) from 04–16 μm, Appl. Opt. 54
+(2015) F139. doi:10.1364/ao.54.00f139.
+R. Klimek, T. Wright, Spotlight – 8 Image Analysis Software, Glenn Research Center,
+NASA, 2006.
+
+10
+

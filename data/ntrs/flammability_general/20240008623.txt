@@ -1,0 +1,205 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="pdf:PDFVersion" content="1.6">
+<meta name="xmp:CreatorTool" content="Acrobat PDFMaker 20 for PowerPoint">
+<meta name="pdf:docinfo:title" content="Slide 1">
+<meta name="Company" content="uah">
+<meta name="pdf:hasXFA" content="false">
+<meta name="access_permission:modify_annotations" content="true">
+<meta name="access_permission:can_print_degraded" content="true">
+<meta name="dc:creator" content="Matthew Turner">
+<meta name="ContentTypeId" content="0x0101007E43121092B95741B4E22086325EE147">
+<meta name="dcterms:created" content="2024-07-11T11:42:05Z">
+<meta name="dcterms:modified" content="2024-07-11T11:42:17Z">
+<meta name="dc:format" content="application/pdf; version=1.6">
+<meta name="xmpMM:DocumentID" content="uuid:d9f03ec9-28cc-4a02-b8bf-6f44d41743ba">
+<meta name="pdf:docinfo:creator_tool" content="Acrobat PDFMaker 20 for PowerPoint">
+<meta name="access_permission:fill_in_form" content="true">
+<meta name="pdf:docinfo:modified" content="2024-07-11T11:42:17Z">
+<meta name="pdf:hasCollection" content="false">
+<meta name="pdf:encrypted" content="false">
+<meta name="dc:title" content="Slide 1">
+<meta name="xmp:CreateDate" content="2024-07-11T07:42:05Z">
+<meta name="pdf:hasMarkedContent" content="true">
+<meta name="Content-Type-Override" content="application/pdf">
+<meta name="Content-Type" content="application/pdf">
+<meta name="xmp:ModifyDate" content="2024-07-11T07:42:17Z">
+<meta name="pdf:docinfo:creator" content="Matthew Turner">
+<meta name="xmp:MetadataDate" content="2024-07-11T07:42:17Z">
+<meta name="dc:language" content="EN-US">
+<meta name="pdf:producer" content="Adobe PDF Library 20.5.172">
+<meta name="access_permission:extract_for_accessibility" content="true">
+<meta name="access_permission:assemble_document" content="true">
+<meta name="xmpTPg:NPages" content="1">
+<meta name="pdf:hasXMP" content="true">
+<meta name="access_permission:extract_content" content="true">
+<meta name="pdf:docinfo:custom:Company" content="uah">
+<meta name="access_permission:can_print" content="true">
+<meta name="pdf:docinfo:custom:ContentTypeId" content="0x0101007E43121092B95741B4E22086325EE147">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.DefaultParser">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.pdf.PDFParser">
+<meta name="access_permission:can_modify" content="true">
+<meta name="pdf:docinfo:producer" content="Adobe PDF Library 20.5.172">
+<meta name="pdf:docinfo:created" content="2024-07-11T11:42:05Z">
+<title>Slide 1</title>
+</head>
+<body><div class="page"><p></p>
+<p>Flammability of Materials on the Moon
+Jennifer Zayac1,2, Michael Johnston2, Gary Ruff 2 and Paul Ferkul2,3
+</p>
+<p>1Ohio Northern University, Ada, OH, 
+2National Aeronautics and Space Administration, Cleveland, Ohio,
+</p>
+<p>Universities Space Research Association, Cleveland, OH
+</p>
+<p>2024 Glenn Space Technology Symposium
+</p>
+<p>The spaceflight unit of Flammability of Materials on the Moon (FM2) 
+will add various features and upgrades to increase free internal 
+</p>
+<p>volume, hardened systems for space travel, and facilitate 
+communications to the lander, then Earth.
+</p>
+<p>Introduction
+</p>
+<p>•Onboard Gas Cylinders
+•Pressure/temperature sensors
+•Single trigger PLC controlled
+</p>
+<p>•Two Color Cameras
+•LED Illumination
+•Four Independent Ignitors
+</p>
+<p>Key Features
+</p>
+<p>This work was made possible by the funding provided by Biological and Physical Sciences (BPS and )Mars Campaign Office (MCO) as 
+well as the Staff at the Zero Gravity Research Facility staff and Dan Gotti for building the engineering unit. ZIN Technologies will build 
+the flight unit to fly on a Human Lander System (HLS).  Intern funding has been provided by the NASA Mars Campaign Office, NASA 
+Biological and Physical Sciences division, and the Ohio Space Grant Consortium.
+</p>
+<p>Acknowledgements
+</p>
+<p>The flame tip opens as the chamber loses oxygen and
+near extinction, allowing a greater amount of oxygen
+to flow through the middle, letting the flame burn a
+little longer.
+</p>
+<p>As the oxygen begins to deplete, the flame becomes smaller
+and turns blue just before extinction. Flame size, strength,
+propagation speed, and extinction oxygen can be recorded.
+</p>
+<p>Downward 21%, 14.4 psiUpward, 21% 14.4 psi
+</p>
+<p>Flammability of Materials on the Moon will be 
+sent to the Lunar surface on the SpaceX Human 
+Lander System demonstration flight. It will 
+provide the reference for how materials burn 
+under the effect of long term Lunar gravity to help 
+understand and mitigate the risk for future 
+surface exploration missions. The flight hardware 
+is currently being constructed by ZIN 
+Technologies. Future student work will consist of 
+Matlab analysis of Earth laboratory tests including 
+flame size, flame spread rate and distance, 
+oxygen concentration at extinction, and 
+atmosphere changes during and after each burn.
+</p>
+<p>Upward (1g)
+Left: 14.4 psi  
+Right:8.2 psi
+</p>
+<p>Fabric Fuel 1
+</p>
+<p>Fuel Rod 1
+</p>
+<p>Fabric Fuel 2
+</p>
+<p>Fuel Rod 2
+</p>
+<p>Flammability of Materials on 
+the Moon (FM2) Laboratory 
+</p>
+<p>Prototype
+</p>
+<p>Flammability of Materials on 
+the Moon (FM2) Solid Fuel 
+</p>
+<p>Module
+</p>
+<p>Lunar gravity has been found to increase the limits of flammability for some materials compared to Earth
+gravity, presenting a goldilocks zone of reduced convective heat loss, while generating enough buoyant
+flow to replenish fresh oxygen into the flame zone. Combined with the elevated oxygen concentrations
+of planned Space Exploration Atmospheres (Sea), a long duration fire experiment in Lunar gravity is
+important to help understand and mitigate the increased risk.
+</p>
+<p>Flammability of Materials on the Moon (FM2) is a robotic, self-contained, combustion chamber which will
+be sent to the surface of the Moon on a Commercial Lunar Payload Services (CLPS) lander mission CP-21.
+The environmental control system can replicate and conduct fire experiments automatically in the
+expected atmospheres, specifically 21% oxygen at 14.7 psia, and 34% oxygen at 8.2 psia, which are of
+immediate interest to the Human Lander System (HLS) and Lunar Rover.
+</p>
+<p>The laboratory prototype became operational this summer. There are four samples currently planned;
+two SIBAL fabrics (cotton/fiberglass blend) which will be burned in air and two acrylic rods which will be
+burned in Normoxic Space Exploration Atmospheres (SEA). One of each fuel will be burned upward and
+downward. SIBAL fabric has been found to only burn downward in air in lunar gravity (via Lunar gravity
+centrifuge and parabolic flight) where on Earth’s gravity it extinguishes immediately after ignition.
+</p>
+<p>SIBAL
+</p>
+<p>4 mm PMMA Rod
+</p>
+<p>Upward (1g), 34%,8.2 psi
+</p>
+<p>The upward flame images in 34% oxygen, 8.2 psi appear dimmer
+than the above 21% oxygen time series, because the camera gain
+adjusts to the extreme brightness of the soot, making the blue tip
+appear dim. The high heat experienced by the rod begins to curl it
+to the side.
+</p>
+<p>The 34% oxygen downward burning flame is very obviously
+hotter and brighter in this image series.
+</p>
+<p>The SIBAL fabric fuel on the left is seen to have extinguished. It was
+ignited at 14.4 psi in 21% oxygen, and the right at 8.2 psi in 34% oxygen.
+The 14.4 psi (and 1atm) case will persist in Lunar gravity as found in
+centrifuge and parabolic flight tests. A bright flame burns SIBAL fuel
+downwards in 34% oxygen at 8.2 psi
+</p>
+<p>This material burns upward in 21% oxygen
+at 14.4 psi (and 1 atm) (Left). A smaller,
+but stable flame persists is shown to
+persist 8.2 psi as well (Right).
+</p>
+<p>Centrifuge Testing
+</p>
+<p>Provides Increasing evidence 
+that materials have lower 
+oxygen limits of flammability in 
+Lunar gravity than in Earth 
+gravity according to the 5.18 
+second tests using the zero-
+gravity drop facility.
+</p>
+<p>Left: Polycarbonate sample in 
+30% oxygen in 1g, initial tests for 
+finding extinction limit Right: 
+Centrifuge drop rig and 
+hardware
+</p>
+<p>Downward (1g)
+Left: 14.4 at 21%  psi 
+Right:8.2 psi at 34%
+</p>
+<p>Downward (1g), 34%,8.2 psi
+</p>
+<p>Future Work
+</p>
+<p>•O2, CO2, CO, %RH Sensors
+</p>
+<p>•Self Contained System
+• 0-1 atm, 0-34% O2</p>
+<p></p>
+</div>
+<ul>	<li>Slide Number 1</li>
+</ul>
+</body></html>

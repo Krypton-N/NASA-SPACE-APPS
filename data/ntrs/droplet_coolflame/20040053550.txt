@@ -1,0 +1,151 @@
+PARTICLE EFFECTS ON THE EXTINCTION AND IGNITION
+OF FLAMES IN NORMAL- AND MICRO-GRAVITY
+M.G. ANDAC, F. N. EGOLFOPOULOS & C. S. CAMPBELL
+Department of Aerospace & Mechanical Engineering
+University of Southern California
+Los Angeles, California 90089-1453
+INTRODUCTION
+Reacting dusty flows have been studied to lesser extent than pure gas phase flows and
+sprays. Particles can significantly alter the ignition, burning and extinction characteristics of the
+gas phase due to the dynamic, thermal, and chemical couplings between the phases. The
+understanding of two-phase flows can be attained in stagnation flow configurations, which have
+been used to study spray combustion [e.g. 1] as well as reacting dusty flows [e.g. 2]. The
+thermal coupling between inert particles and a gas, as well as the effect of gravity, were studied in
+Ref. 3. It was also shown that the gravity can substantially affect parameters such as the particle
+velocity, number density, mass flux, and temperature.
+In Refs. 4 and 5, the effects of inert particles on the extinction of strained premixed and nonpremixed flames were studied both experimentally and numerically at 1-g and m-g. It was shown
+that large particles can cool flames more effectively than smaller particles. The effects of flame
+configuration and particle injection orientation were also addressed. It was shown that it was not
+possible to obtain a simple and still meaningful scaling that captured all the pertinent physics due
+to the complexity of the couplings between parameters. Also, the cooling by particles is more
+profound in the absence of gravity as gravity works to reduce the particle number density in the
+neighborhood of the flame.
+The efforts were recently shifted towards the understanding of the effects of combustible
+particles on extinction [6], the gas-phase ignition by hot particle injection [7], and the hot gas
+ignition of flames in the presence of particles that are not hot enough to ignite the gas phase by
+themselves.
+EXPERIMENTAL APPROACH
+The experimental configuration includes the use of two counter-flowing jets in 1-g and m-g.
+Particles are fed into the flow by using a particle seeder located in the bottom jet. However, the
+particle pickup is strongly affected by gravitational forces so that the seeder has to be calibrated
+separately at the lab for 1-g and on board KC-135 for m-g. Extinction studies were conducted
+numerically and experimentally with 50-mm combustible glassy-carbon particles. Premixed and
+non-premixed flame extinction experiments were conducted by varying the particle number
+density, the equivalence ratio, fuel type, flame configuration, and strain rate.
+In all studies, a single flame was established at conditions close to the extinction state, below
+the gas phase stagnation plane (GSP) by injecting the combustible mixture from the bottom
+burner with the particles against an air jet. The fuel flow rate was then decreased very slowly,
+until the flames were extinguished. The final composition was recorded as the extinction
+
+NASA/CP—2003-212376/REV1
+
+89
+
+equivalence ratio, fext, for the prevailing conditions. The strain rates were determined globally.
+Ignition studies were only performed numerically using 60 and 70-mm Al2O3 particles.
+NUMERICAL APPROACH
+The code was built around a quasi-one-dimensional set of equations for the gas phase similar
+to the one in [8], by incorporating terms that account for both the dynamic and thermal
+interactions between the phases. The equations for the particle phase were formulated for a
+single inert particle, as the number densities are small enough so that particles are unlikely to
+interact with each other. The code also includes a conservation equation describing the evolution
+of the particle number density [3]. The solutions are obtained by simultaneously integrating the
+entire system of equations. The kinetics was described by the GRI 3.0 mechanism [9]. The code
+is integrated with the CHEMKIN [10] and Transport [11] subroutine libraries.
+SUMMARY OF RECENT RESEARCH
+The calibration results for carbon particles are shown in Fig. 1 as the variation of injection
+particle number density, np.inj with the gas flow rate. It can be observed that for both 1-g and mg,
+and for both low and high feeder speeds, np increases up to a certain flow rate, where it exhibits a
+local maximum. Above this flow rate, the rate of increase of the amount of particles put in the
+flow per unit time is smaller than the rate of increase in gas volume flow rate. As might be
+expected, np also increases with the particle feeder speed. The higher the feeder speed, the higher
+the gas flow rate corresponding to the maximum np is reached. More particles are entrained in the
+flow in mg compared to 1-g at lower flow rates but the amount of particle delivery is the same at
+higher flow rates regardless of gravity.
+Figure 2a depicts the variation of experimentally determined fext with the global strain rate
+Kglb, in 1-g for CH4/air flames for injection number density of np,inj ª 0 and 400 part/cm3. In both
+cases fext increases with Kglb, which should be expected as stronger flames are extinguished at
+larger strain rates. The data reveals that the presence of reacting carbon particles augments the
+resistance to extinction as weaker flames can be sustained at the same Kglb. The results of Fig. 2a
+also reveal that for high Kglb’s the observed difference between the fext’s obtained with and
+without particles nearly disappears implying that the particles either do not ignite or even if they
+do, the ignition occurs well downstream of the gaseous flame so that the effect of the additional
+heat release has only a small effect on the flame.
+Figure 2b depicts similar results for C3H8/air flames. Similar to the CH4 flames, particles
+appear to resist extinction at the lower Kglb’s, but at higher strain rates, the two curves merge and
+cross each other. Thus, at high strain rates, the particles do not ignite and promote extinction in
+exactly the same manner as inert particles.
+Figure 3 depicts the opposite problem of ignition in the presence of inert particles. It shows
+the variation of the ignition temperature, Tign, with the injection particle number density, np,inj, for
+three cases, where 60-mm Al2O3 particles are injected at 300 K. In all cases, particles are injected
+with a 1/3 molar ratio CH4/N2 mixture against air. Then, the temperatures of the fuel-side, the
+air-side or both sides were increased until ignition is achieved.
+
+NASA/CP—2003-212376/REV1
+
+90
+
+It is seen that the addition of cold particles into the flowfield significantly affects the ignition
+temperature for all cases regardless of whether the particles are injected from the hot or cold jet.
+It is also apparent that much higher temperatures are required for ignition when the air is injected
+cold compared to other cases. This is solely due to the strong dependence of the ignition process
+on OH radical generation through the main chain branching reaction H+O2 Æ OH+O. This
+reaction favors high temperatures and, as the O2 is only available on the air-side, it will be
+strongly inhibited by cold air injection.
+Looking at the hot air cases, ignition temperatures are smaller if the fuel and particles are
+initially heated - as would be expected. At first glance it appears that the two curves are parallel,
+but actually, there is a much weaker effect for the hot-fuel/hot-air case. Note that the two curves
+are 100 K apart at np,inj = 10 part/cm3 and 200 K apart at np,inj = 1000 part/cm3. Figure 4 depicts
+the gas phase temperature profiles for np,inj = 10 and 1000 part/cm3 for the two cases right before
+ignition. For hot fuel, the cold particles cool the gas phase such that the temperatures around
+GSP are reduced dramatically. Similarly for the cold-fuel case, the location of the rapid
+temperature rise shifts towards the top burner, again due to the cooling by the particles.
+Figure 5 depicts the H radical mass fraction distributions that also serve as markers of the
+ignition kernels. The results reveal that when the number density is low, the flame tries to ignite
+very close to the GSP on the air-side, where strain rates are highest. However, the radical pool is
+larger in magnitude and volume for the case that the temperatures of both jets are increased. The
+cooling around the GSP shifts the location of the ignition kernels towards the top burner, i.e. to
+lower strain rate region, but more so for the case for which the temperatures of both jets are
+increased. Thus, ignition becomes easier for this case compared to the other as np,inj increases.
+Figure 6 depicts the variation of the maximum H mass fraction, YH,max, with np,inj for cases
+where premixed twin CH4/air flames are ignited by hot 70-mm Al2O3 particles for three values of
+the equivalence ratio. The H radical increases rapidly at the ignition point. It is seen that leaner
+mixtures ignite easier, as indicated by the lower values of np,inj and Tmax,ign found as f decreases.
+REFERENCES
+1. Chen, G. & Gomez, A., Proc. Combust. Inst. 24: 1531-1539 (1992).
+2. Gomez, A. & Rosner, D.E., Combust. Sci. Tech. 89: 335-362 (1993).
+3. Egolfopoulos, F.N. & Campbell, C.S., Combust. Flame 117: 206-226 (1999).
+4. Andac, M.G., Egolfopoulos, F.N., Campbell, C.S. & Lauvergne, R., Proc. Combust. Inst. 28:
+2921-2929 (2000).
+5. Andac, M.G., Egolfopoulos, F.N. & Campbell, C.S., Combust. Flame, 129:179-191 (2001).
+6. Andac, M.G., Egolfopoulos, F.N. & Campbell, C.S., Proc. Combust. Inst. 29, in press.
+7. F. N. Egolfopoulos, C.S. Campbell, and M.G. Andac, Proc. Combust. Inst. 29, in press.
+8. Bowman, C.T., Frenklach, M., Gardiner, W.R., and Smith, G. 1999 “The GRI 3.0 Chemical
+Kinetic Mechanism.” http://www.me.berkeley.edu/gri_mech/.
+9. Kee, R. J., Miller, J. A., Evans, G. H. & Dixon-Lewis, G., Proc. Combust. Inst. 22: 14791494 (1988).
+10. Kee, R. J., Warnatz, J. & Miller, J. A., Sandia Report SAND83-8209, 1983.
+11. Kee, R. J., Rupley, F. M. & Miller, J. A., Sandia Report SAND89-8009, 1989.
+ACKNOWLEDGMENTS
+This work is supported by NASA Grant NCC3-834 under the technical supervision of
+Dr. Ming-Shin Wu of the Glenn Research Center
+
+NASA/CP—2003-212376/REV1
+
+91
+
+Figure 1
+
+Figure 2
+
+Figure 3
+
+Figure 4
+
+Figure 5
+
+Figure 6
+
+NASA/CP—2003-212376/REV1
+
+92
+

@@ -1,0 +1,978 @@
+N96- 15560
+
+COMBUSTION
+
+OF INTERACTING
+DROPLET
+MICROGRAVITY
+ENVIRONMENT
+
+NASA
+
+Lewis
+
+Daniel L. Dietrich
+Research Center, Cleveland,
+
+Ohio
+
+ARRAYS
+
+IN A
+
+44135
+
+Introduction
+This research program
+involves
+the study of one and two dimensional
+arrays of droplets
+in a
+buoyant-free
+environment.
+The purpose
+of the work is to extend the database
+and theories
+that
+exist for single droplets into the regime where droplet interactions
+are important.
+The eventual goal
+being to use the results
+of this work as inputs to models
+on spray combustion
+where droplets
+seldom burn individually;
+instead the combustion
+history of a droplet is strongly influenced
+by the
+presence
+of the neighboring
+droplets.
+Throughout
+the course of the work, a number of related
+aspects of isolated
+droplet combustion
+have also been investigated.
+This paper will review our progress
+in microgravity
+droplet array
+combustion,
+advanced
+diagnostics
+(specifically
+LII) applied to isolated droplet
+combustion,
+and
+radiative
+extinction
+large droplet
+flames.
+A small-scale
+droplet
+combustion
+experiment
+being
+developed
+for the Space Shuttle will also be described.
+Droplet Array Combustion
+(with Kunihiro
+Research
+Institute,
+Sapporo,
+JAPAN)
+
+Kitano
+
+and Senji
+
+Honma,
+
+Hokkaido
+
+National
+
+Industrial
+
+Recently,
+Annamali
+and Ryan [1] have summarized
+the current status of droplet
+array, cloud and
+spray combustion.
+A number of simplified
+theories [2-8], and detailed numerical
+studies [9,10] of
+droplet
+vaporization/combustion
+where multiple
+droplet
+effects are present
+are now available.
+These theories all neglect the effect of buoyancy.
+Experimentally,
+most studies to date suffer the
+effects of buoyancy
+is; it becomes
+the dominant
+transport
+mechanism
+in the problem.
+Only the
+works of Law and co-workers
+[11,12] and more recently by Mikami et al. [13] were performed
+in
+an environment
+where buoyancy
+effects were small.
+Law and co-workers
+were limited to high
+oxygen
+index, low pressure
+ambient environments
+since there studies were conducted
+in normal
+gravity.
+Studies are now being conducted
+in normal and microgravity
+involving interacting
+droplet arrays
+in sealed chambers,
+where the ambient can be controlled.
+Droplets are typically
+suspended
+on 125
+lain optical fibers with small (~ 250 IJ.rn) beads on the end. A coiled hot-wire
+ignites the droplet,
+and then is removed
+immediately.
+Backlit images provide
+droplet diameter-time
+history and an
+orthhogonal
+view provides
+flame-diameter
+time history.
+Recently
+Mikami et al. [13] showed that
+droplet
+arrays burning
+in microgravity
+do not burn in accordance
+with the d-squared
+law. The
+burning rates discussed
+below nonetheless
+are obtained by a linear least squares fit of the data.
+Figure 1 shows results from a three-droplet
+array burning in air in microgravity.
+The fuel was nheptane
+with initial droplet sizes of approximately
+1.4 mm.
+Figure 1 a (left) shows the burning
+history of each droplet in the array for L/D -- 7.1, and Figure 1b (right) shows the burning history
+
+59
+
+of thecenterdropletof the arrayfor differentL/D's. Figure la showsthatthe centerdroplet in the
+arrayhadthe slowestbuming rate of the threedroplets. Figure lb showsthat a singlen-heptane
+droplet hasthe largestburningrate. The burning rate then continuouslydecreases the interas
+dropletseparation
+distance
+decreases.
+In normal gravity tests,a horizontal two-dropletarrayof n-decane
+burningin air at 1 atm shows
+just the oppositebehavior. The burning rate increases
+dueto droplet interactions. For instance,
+the burning rate of a singlen-decanedroplet is 1.0 mm2/s,but for a two droplet array with an
+initial, normalized(L/D) inter-separationdistanceof 4 the burning rate increasesslightly to 1.1
+mm2/s.
+In normal gravity, oxygen transport is enhancedby buoyant convection. In this case, the
+neighboring dropletsreducethe heat loss during burning, and the burning rate increases. In
+microgravity, thebuoyantheat loss is greatlyreducedbut so is the oxygen transportrate to the
+flame. In this case,the dropletsactually competewith eachother for oxygen. The burningrate,
+thus decreases.The center droplet, which is surroundedby other droplets receivesthe least
+amountof oxygen eventhoughthis droplet hasthe minimum heatloss. The burningrate of the
+centerdropletis thussmallerthanthe othertwo. Symmetrydictatesthatthe left andright droplets
+shouldhavetheidenticalbumingrates,asis verified by theexperimental ata.
+d
+Isolated
+
+Droplet
+
+Combustion
+
+(with
+
+R. Vander
+
+Wal, NYMA,
+
+Inc.)
+
+Traditionally,
+the diagnostics
+used on droplet combustion
+studies (especially
+in microgravity)
+have
+been limited to orthogonal
+views of the flame and droplet.
+While backlighting
+provides
+simple and
+accurate
+measurements
+of the droplet
+size (assuming
+proper adjustment
+of the light source and
+imaging system), simple pictures
+of the flame do not always provide
+accurate information.
+There
+are ambiguities
+regarding
+exactly
+what is being visualized,
+including
+the fact that a twodimensional
+image of a three dimensional
+object is formed.
+Also, with the increasing
+use of video
+cameras,
+experimental
+results show that the observed
+size of the flame can vary as a function
+of
+camera gain, with large errors if saturation
+occurs.
+Since there is a range of colors and intensities
+in a droplet flame, it is difficult to select a single gain which is appropriate
+for the entire flame.
+Studies in normal gravity have been conducted
+to try to gain an understanding
+of how the visible
+flame compares
+with different types of measurements.
+The most significant
+comparrison
+has been
+with Laser-Induced
+Incandescence
+(LII) which measures
+the absolute
+and relative
+soot volume
+fraction during droplet combustion.
+Simultaneous
+LII and natural flame, simultaneous
+LII and OH
+chemiluminescence,
+and simultaneous
+droplet
+size history,
+natural
+flame
+and radiometric
+measurements
+of the flame studies have all been conducted.
+Although
+not simultaneously,
+backlit
+droplet size histories, which are quite reproduceable,
+have been obtained
+for all of the fuels in the
+identical configurations
+to those above. An example of some of the data collected
+is given below.
+These studies were conducted
+in a sealed chamber
+in air at 1 atm. The droplets were suspended
+by
+fibers with diameters
+of 125, 230 and 500 lain with beads on the end with diameters
+of 250, 400,
+and 1000 l.tm respectively.
+The initial droplet sizes for the three fibers were 1.2, 1.5 and 3 mm,
+respectively.
+The ignition
+system
+for the smaller
+droplets
+was a length
+of 250 _m Kanthal
+(Aluminum
+alloy) wire heated
+with a current
+of approximately
+3 amps, that was removed
+immediately
+after ignition.
+The ignition
+system for the tests using the largest fiber and bead was a
+spark.
+The droplet dispense,
+deployment,
+and ignition
+systems were controlled
+by a portable
+computer
+which also provided
+a trigger pulse for the data acquisition
+system (LII). The fuels used
+in the tests were selected to show a wide range of sooting tendencies,
+heptane,
+decane (commonly
+used fuels), chloroheptane
+and chlorodecane.
+
+60
+
+A descriptionandcharacterizationof the two-dimensionalLII systemaredescribedelsewhere
+[1 4,15, also presented
+at this workshop].
+Both natural flame images and OH
+images were taken with a second gated, intensified
+camera synchronized
+with
+the largest droplet studies,
+the intensified
+array camera was used to capture
+droplet,
+but for all others, either black and white or color CCD cameras
+working-distance
+microscope
+were used.
+
+chemiluminescence
+the LII camera.
+For
+backlit views of the
+connected
+to a long
+
+Figure 2 shows representative
+burning histories for each of the fuels, along with the least squares
+fit burning
+rate constants.
+Also shown are the relative
+average
+soot volume
+fractions
+for the
+produced
+for the two fuels [completely
+described
+in 15,16].
+All of the tests were conducted
+in
+normal gravity with a 1 atm, air ambient.
+As the droplet hangs on the fiber, it is not spherical,
+but
+elongated.
+The equivalent
+droplet
+diameter
+plotted in Fig 2 was computed
+by three different
+methods,
+two from the volume and surface area equivalent
+diameter
+of an ellipsoid,
+and another
+from the projected
+area of the droplet.
+All methods
+produced
+equivalent
+droplet diameters
+and
+burning
+rate constants
+that were within a few percent of each other. Figure 3 shows both natural
+flame and LII images of n-decane
+and 1-chlorodecane.
+Figure 2 shows that the burning rate constants
+for the heptane
+and decane are nearly identical,
+as
+expected.
+The burning rate constants
+for the chloroheptane
+and chlorodecane
+are also nearly equal
+to each other and to the value obtained for heptane and decane (within 12 percent).
+As seen in the
+table of Figure 2, the relative soot production
+from the fuels, however,
+is dramatically
+different.
+The LII results
+show that, relative
+to heptane,
+decane has soot volume
+fractions
+twice that of
+heptane.
+The visible structure
+of the two flames, however, is nearly identical.
+Both are blue at the
+base or bottom and yellow near the top. The flame sizes (relative to the droplet) are also similar for
+the two fuels. The chlorinated
+fuels produce average soot volume fractions
+more than an order of
+magnitude
+larger than that of heptane.
+The structure
+of the flames is very different
+also. Both
+chlorinated
+fuels are open-tipped
+at the top, with significant
+soot escape.
+No soot was present at
+the bottom of the flame for the chlorinated
+fuels and the flame was blue there.
+The fact that the burning
+rates were identical
+but the soot production
+varied so much can be
+explained
+as follows.
+The vaporization
+of the droplet is controlled
+by the heat feedback
+to the
+droplet.
+In normal gravity,
+the soot production
+occurs downstream
+of the droplet
+and the heat
+produced
+here does not significantly
+the vaporization
+rate of the fuel. Instead,
+the vaporization
+is
+controlled
+by the flame close to the bottom of the droplet.
+Radiation
+
+Losses
+
+in Large
+
+Droplet
+
+Burning
+
+(with
+
+P. Struk,
+
+GSRP,
+
+and J.S. T'ien,
+
+CWRU)
+
+Radiative
+losses in droplet burning are usually neglected
+in theoretical
+and numerical
+treatments
+of
+.droplet burning.
+The limitingly
+small droplet diameter below which a spherical flame cannot exist
+is well documented
+and is a topic of a space flight microgravity
+investigation
+(DCE).
+A recent
+theoretical
+treatment
+by Chao et al. [17] shows that for a droplet burning with spherical
+symmetry,
+there will be a large
+droplet
+size above which a flame will not exist.
+The mechanism
+for the
+existance
+of this limit is radiative
+extinction.
+Some preliminary
+experimental
+evidence was obtained in the JAMIC facility for the burning of a
+large (3-4 mm) decane droplet.
+Immediately
+after ignition
+the flame was as expected,
+bright
+yellow, sooty and spherical
+(except for a small non-uniformity
+due to a small convective
+flow). As
+the burning
+progressed,
+the luminosity
+of the flame decreased,
+and by the end of the drop, the
+droplet had not yet burned to completion,
+and the flame was nearly invisible
+to the CCD camera.
+While
+the flame was barely
+visible
+by the end of the test, it also did not extinguish.
+In a
+subsequent
+test, a smaller
+(1-2 mm initial diameter)
+n-decane
+droplet
+burned to completion
+as
+expected,
+with a bright yellow, sooty, spherically
+symmetric
+flame.
+
+61
+
+Furthertestingandanalysisis requiredbeforeanyconclusionscanbe drawnfrom this preliminary
+data. This couldbe an indication,however,of increased
+radiativeheattransfercooling theflame
+such that less soot is produced. On the other hand, since thesewere the first tests in a new
+experimental
+apparatus,
+therecouldhavebeensomeexperimental roblemthatcaused unusual
+p
+this
+result.
+Theradiativeextinctionphenomena dropletsis mosteasilyobservedin reducedgravity, where
+for
+a dropletcanbumwith sphericalsymmetryandconvectivelosses
+areminimized. To further study
+this problem, steady-statedroplet combustion is simulated using a porous spherewhich is
+continuallyfed with liquid. The liquid flowrateis controlledby a computeroperated
+syringepump
+that allowsprecisecontrol of the flowrate. Initial work in normal gravity hasbeenconductedat
+reduced
+pressure
+ambients.The chamber
+wasthesameonedescribed theprevioussection.The
+in
+flowrateof thefuel wasadjusteduntil a steadywettedsurfacewasobservedon the poroussphere.
+Because
+thechamber assealed, heburningratedecreased
+w
+t
+slightly throughouttheflame lifetime
+as a resultof the continuouslydecreasing
+ambientoxygen concentration.An equivalentburning
+rate constantwascomputedas k -- [4Q/(nD)] where Q is the volumetric flowrate and D is the
+sphere
+diameter. The burningrate constantcalculatedthis way is consideredvalid only when a
+steadywettedsurfaceis observed.
+For n-decane
+fuel, anda 4 mmdiameterbronzesphere,steadyburning was achievedat 1/3 atm.
+The equivalentburningrate constantwasapproximately 1.2 mm2/s. This is higher than the 0.9
+mm2/sobserved 1.3mm initial diameterfiber-supporteddropletsburnedin the samefacility.
+for
+The differenceis probablydueto increased
+buoyancyeffects at the larger droplet sizeswith the
+poroussphere.Visibly, exceptfor the scalefactor, the flamesfrom the fiber supporteddroplets
+and the porousspherelooked nearly identical; the only difference being that the flame was
+quenched
+atthebasein thevicinity of thefuel supplytubein the caseof the poroussphere.
+The dropletdiameter
+canbechanged varyingthe sizeof theporoussphere.In reducedgravity,
+by
+smallchanges dropletdiametermaybe obtainedby changingthe thicknessof liquid film on the
+in
+surfaceof the sphere. An experimental
+apparatus
+is currently
+being built which will be flown in
+the NASA
+
+LeRC
+
+DC-9
+
+in the near future.
+
+Glovebox
+Experiment
+(with F.A. Williams,
+UCSD; F.L. Dryer,
+Vedha-Nayagam,
+Analex; J.B. Haggard,
+NASA LeRC)
+
+Princeton;
+
+B.D. Shaw,
+
+UCD;
+
+M.
+
+Currently
+manifested
+on STS-73, the Second United States Microgravity
+Laboratory
+(USML-2),
+is
+a small-scale
+droplet
+combustion
+experiment
+called the Fiber-Supported
+Droplet
+Combustion
+(FSDC) experiment.
+The FSDC is a multi-user
+facility that supports a wide range of experiments.
+Single droplets and droplet arrays will be suspended
+and burned on 80 and/or 150 lma Si-C fibers.
+The droplets are ignited by a coiled hot-hire that withdraws
+immediately
+after ignition.
+The unit is
+also capable of imparting
+a uniform,
+sub-buoyant
+forced flow (0 - 20 cm/s) on the droplet.
+The
+data is derived from a backlit microscope
+image of the droplet, and an orthogonal
+view (by either a
+black
+and white or color CCD camera)
+of the flame.
+Simultaneous
+3-axis
+acceleration
+measurements
+will also be made.
+This experiment,
+like all glovebox
+efforts,
+is very crew-intensive.
+The crew sets up the
+microscope
+and flame view cameras.
+The crew also manually
+dispenses
+a droplet from a modified
+syringe(s)
+onto the fiber and controls the ignition process.
+The current test matrix will include the
+combustion
+of droplets
+with 3 to 5 mm initial diameter,
+although
+smaller
+droplets
+can also be
+burned.
+Two pure fuels, heptane
+and methanol
+(in support
+of the Droplet
+Combustion
+Experiment)
+will be burned;
+heptane
+will also be studied
+with a forced flow.
+Fuel mixtures
+of
+methanol/dodecanol,
+methanol/water
+and heptane/hexadecane
+will be studied.
+Finally, several tests
+of a three-droplet
+array of pure methanol
+will be studied.
+
+62
+
+Future
+
+Work
+
+The porous
+sphere droplet experiment
+requires
+a long-duration
+reduced
+gravity environment
+to
+observe radiative
+extinction.
+The small (2.2 second) drop tower is not suitable for this experiment.
+The apparatus
+is currently
+being modified
+for use on the DC-9 to see if the aircraft g-levels
+and
+duration are sufficient.
+An existing experiment
+package will be modified
+to include a syringe pump
+and a porous sphere with the ignition system.
+The majority
+of the data will be a view showing the
+state of the porous
+sphere and an orthogonal
+view of the flame.
+The existing
+color schlieren
+system will be used in some tests also.
+The FSDC investigation
+will fly aboard the Space Shuttle Columbia
+in late September
+the major data is video, experimental
+results, with the exception
+of the acceleration
+available
+immediately.
+The planned
+test matrix includes
+30 test points,
+although
+available if extra crew time becomes available.
+
+1995. Since
+data, will be
+extra fuel is
+
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+
+14.
+15.
+16.
+
+17.
+
+Annamalai, K. and W. Ryan. ''interactive Processes in Gasificcation and Combustion. Part I: Liquid Drop
+Arrays and Clouds," Progress in Energy and Combustion Science 18, 1992, 221.
+Brzustowski, T.A., E.M. Twardus, S. Wojcicki and A. Sobiesiak. ''interaction of Two Burning Fuel Droplets
+of Arbitrary Size,"A/AA Journal
+17, No. 11, 1979, 1234.
+Labowsky, M. "A Formalism for Calculating the Evaporation Rates of Rapidly Evaporating Interacting
+Particles", Combustion Science and Technology
+18, 1978, 145.
+Labowsky, M. "Calculation of the Burning Rates of Interacting Fuel Droplets," Combustion Science and
+Technology
+22, 1980, 217.
+Marberry, M., A.K. Ray and K. Leung. 'rEflect of Multiple Particle Interactions on Burning Droplets,"
+Combustion and Flame 57, 1984, 237.
+Samson, R., D. Bedeaux and J.M. Deutch. "A Simple Model of Fuel Spray Burning II. Linear Droplet
+Streams," Combustion and Flame 31, 1978, 223.
+Umemura, A., S. Ogawa and O. Nobunori. "Analysis of the Interaction Between Two Burning Droplets",
+Combustion and Flame 41, 1981, 45.
+Umemura, A. "Interactive Droplet Vaporization and Combustion: Approach from Asymptotics," Progress in
+Energy and Combustion Science 20, 1994, 325.
+Raju, M.S. and W.A. Sirignano. "Unsteady Navier-Stokes Solution for Two Interacting, Vaporizing
+Droplets", A/AA-87-0300, A/AA 25th Aerospace Sciences Meeting, Reno, Neveda, 1987.
+Tal, Reuven and W.A. Sirignano. "Cylindrical Cell Model for the Hydrodynamics of Particle Assemblages at
+Intermediate Reynolds Numbers", American Institute of Chemical Engineers Journal 28, No. 2, 1982, 233.
+Miyasaka, K. and C.K. Law. '_2ombustion of Strongly Interacting Linear Droplet Arrays", Eighteenth
+Symposium (International) on Combustion / The Combustion Institute, 1981, 283.
+Xiong, T.Y., C.K. Law, C.K. and K. Miyasaka. "Interactive Vaporization and Combustion of Binary Droplet
+Systems", Twentieth Symposium (International) on Combustion / The Combustion Institute, 1984, 1781.
+Mikami, M., Kato, H., Sato, J. and Kono, M. ''Interactive Combustion of Two Droplets in Microgravity," to
+appear in the proceedings of the 25th Symposium (International) on Combustion / The Combustion Institute,
+1994.
+Vander Wal, R.L. and Weiland, K.I. 'Baser-Induced Incandescence: Development and Characterization
+Towards a Measurement of Soot Volume Fraction," Journal of Applied Physics B (to appear).
+Vander Wal, R.L. and Dietrich, D.L. '_.aser-Induced Incandescence Applied to Droplet Combustion," Applied
+Optics 34, 6, 1995, 1103.
+Vander Wal, R.L. and Dietrich, D.L. '_Relative Soot Volume Fractions in Droplet Combustion via LaserInduced Incandescence," Presented at the Fall Meeting of the Eastern States Section of the Combustion
+Institute, 1994.
+Chao, B.H., Law, C.K. and T'ien, J.S. "Structure and Extinction of Diffusion Hames with Flame Radiation,"
+Twenty-Third Symposium (International) on Combustion / The Combustion Institute 1990, 523.
+
+63
+
+I
+
+.
+08 .
+
+-
+
+OJ
+
+a
+
+n
+o
+0.4 -
+
+0.2
+
+0
+
+0
+
+%
+
+8
+
+A 0
+
+0.4 -
+
+0.6
+
+A
+
+-
+
+02
+.
+-
+
+t
+
+.
+
+L
+
+.
+
+*
+
+.
+
+*
+
+.
+
+'
+
+.
+
+'
+
+LID
+0
+
+2.9
+
+A 4.3
+
+Aa
+
+7.1
+A 10
+14.3
+m Single
+
+0
+
+C a
+
+A2
+0
+
+%A0
+
+*= A
+'
+rn
+
+-
+
+.
+
+.4
+
+Droplet size histories for a three droplet array of identically sized 1.4 mm initial
+diameter droplets of n-heptane droplets burning in a r
+i.
+
+Figure 1.
+
+E!
+w
+n
+A
+
+m
+A
+
+0
+0
+
+02
+.
+
+0.4
+
+06
+.
+
+08
+.
+
+1
+
+'
+
+n-Heptane
+*Decane
+1-Chloroheptane
+1-Chlorodecane
+
+(mm%)
+
+Soot Formation
+
+0.97
+1.oo
+0.89
+0.87
+
+1.o
+2.2 2 0.2
+13.0+ 1.5
+14.0+ 1.5
+
+2
+
+t I Do2 (s/
+mm2)
+
+Figure 2.
+
+Burning rate constants and relative m o u n t s of soot formation for four different
+fuels. The soot formation numbers are relative to heptane.
+
+Figure 3.
+
+Natural flame (a,c) and LII (b,d) pictures of n-decane (a,b) and chlorodecane (c,d).
+64
+

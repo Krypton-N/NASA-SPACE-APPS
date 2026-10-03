@@ -1,0 +1,563 @@
+NASA Contractor Report 182266
+
+Expert Systems Applied to
+Spacecraft Fire Safety
+(lAS1-CR-182266) E X P E R T SYSPEtS APOIJBD I O
+LFACECPABT F I B € S U E Z 1 P i n a l Beport
+
+N89-23501
+
+(Lational XLnst. of s t a n d a r d s elid Technology)
+13 P
+
+Richard L. Smith and Takashi Kashiwagi
+Center for Fire Research
+National Institute of Standards and Technology
+Gaithersburg, Maryland
+
+June 1989
+
+Prepared for
+Lewis Research Center
+Under Purchase Order C-32000-M
+
+National Aeronautics and
+Space Administration
+
+CSCL 228
+
+Unclad
+63/16
+
+0212663
+
+EXPERT SYSTEMS APPLIED TO SPACECRAFT F I R E SAFETY
+R i c h a r d L . S m i t h and Takashi K a s h i w a g i
+C e n t e r for F i r e Research
+N a t i o n a l I n s t i t u t e o f S t a n d a r d s and T e c h n o l o g y
+G a i t h e r s b u r g , M a r y l a n d 20899
+SUMMARY
+E x p e r t s y s t e m s a r e p r o b l e m - s o l v i n g programs t h a t combine a knowledge base
+The development o f an
+and a r e a s o n i n g mechanism t o s i m u l a t e a human " e x p e r t . "
+e x p e r t system t o manage f i r e s a f e t y i n s p a c e c r a f t , i n p a r t i c u l a r t h e NASA Space
+The
+S t a t i o n Freedom, i s d i f f i c u l t b u t c l e a r l y advantageous i n t h e l o n g - t e r m .
+r e p o r t d i s c u s s e s some needs i n l o w - g r a v i t y f l a m m a b i l i t y c h a r a c t e r i s t i c s , v e n t i l a t i n g - f l o w e f f e c t s , f i r e d e t e c t i o n , f i r e e x t i n g u i s h m e n t , and d e c i s i o n models,
+a l l n e c e s s a r y t o e s t a b l i s h the knowledge base f o r an e x p e r t system.
+INTRODUCTION
+T h i s r e p o r t i s a g e n e r a l d e s c r i p t i o n of e x p e r t - s y s t e m p r o g r a m s , t o
+d e s c r i b e t h e i r u n i q u e a p p l i c a t i o n i n m e e t i n g t h e needs o f f i r e s a f e t y i n spacec r a f t , i n p a r t i c u l a r t h e f u t u r e NASA Space S t a t i o n Freedom ( r e f s . 1 t o 3 ) .
+An e x p e r t s y s t e m i s a computer p r o g r a m t h a t s o l v e s r e a l - w o r l d p r o b l e m s
+whose s o l u t i o n would n o r m a l l y r e q u i r e a human e x p e r t ( r e f s . 4 t o 7 ) . Assume
+you a r e i n c o m m u n i c a t i o n w i t h a f i r e - s a f e t y e x p e r t b y t h e use o f a t e r m i n a l .
+You t y p e i n y o u r q u e s t i o n s t o h i m ; he i n r e t u r n may ask y o u q u e s t i o n s b e f o r e he
+g i v e s y o u h i s a d v i c e . The q u a l i t y o f h i s a d v i c e i s what makes h i m an e x p e r t .
+If y o u c a n n o t t e l l w h e t h e r you a r e c o m m u n i c a t i n g w i t h a human e x p e r t or w i t h a
+computer r u n n i n g an e x p e r t s y s t e m , t h e computer p r o g r a m q u a l i f i e s as an e x p e r t
+system. N o r m a l l y t h e domain o f d i s c o u r s e must be r e s t r i c t e d t o a p a r t i c u l a r
+f i e l d of expertise.
+T h i s r e p o r t e x p l a i n s e x p e r t s y s t e m s i n terms o f t h e i r f e a s i b i l i t y for
+d e v e l o p m e n t as autonomous i n t e l l i g e n c e for f i r e s a f e t y i n Freedom. A second
+s e c t i o n of t h e r e p o r t discusses t h e c u r r e n t problems i n f i r e p r e v e n t i o n , detect i o n , and c o n t r o l i n space, as a p r e l i m i n a r y assessment o f t h e p r e s e n c e and
+absence of e x p e r t knowledge i n t h e s e f i e l d s .
+I n g r o s s t e r m s , an e x p e r t system p r o g r a m c o n s i s t s o f two m a j o r components:
+a knowledge base and a r e a s o n i n g mechanism t h a t p r o c e s s e s t h i s knowledge t o
+p r o d u c e a d d i t i o n a l k n o w l e d g e . The knowledge base i s f a c t s such as t h e d e n s i t y
+of i r o n , t h e p i l o t i g n i t i o n l e v e l o f d r y wood, or t h e t e m p e r a t u r e o f a c i r c u i t
+b o a r d , w h i c h a r e communicated t o t h e knowledge base b y a s e n s o r o n t h e c i r c u i t
+b o a r d . The r e a s o n i n g mechanism can be t h o u g h t o f as c o n s i s t i n g of two D a r t s :
+t h e t y p e o f r e a s o n i n g , e i t h e r f o r w a r d or backward r e a s o n i n g , and t h e r u l e s t h a t
+t e l l what t h e f a c t s i m p l y . An example may make t h i s c l e a r . C o n s i d e r t h e
+s t a t e m e n t " I f t h e c h a i r i s c o m b u s t i b l e and i t has c o n t a c t w i t h a f l a m e f o r
+5 m i n u t e s , t h e n i t w i l l s t a r t t o b u r n . " T h i s i s what i s c a l l e d a r u l e . T h i s
+r u l e has two " i f " c o n d i t i o n s and one " t h e n " a c t i o n or c o n c l u s i o n i t e m . Thus,
+i f t h e p r o g r a m has t h i s r u l e as a f o r w a r d - r e a s o n i n g r u l e and t h e two ".if"
+cond i t i o n s a r e i n i t s knowledge base, i t w i l l add t o t h e knowledge base t h e a d d i t i o n a l f a c t t h a t the c h a i r w i l l s t a r t burning.
+
+One example o f an e x p e r t system i s M Y C I N ( r e f . 8 1 , w h i c h d i a g n o s e s and
+recommends t r e a t m e n t f o r i n f e c t i o u s d i s e a s e s . I n comparisons w i t h m e d i c a l
+e x p e r t s i n t h i s l i m i t e d domain o f i n f e c t i o u s d i s e a s e s , t h e p e r f o r m a n c e o f M Y C I N
+i s shown t o be as good as t h a t o f t h e human e x p e r t s . A n o t h e r well-known e x p e r t
+system i s DENDRAL ( r e f . 9 ) , w h i c h uses p r i m a r i l y mass s p e c t r o g r a p h i c and
+n u c l e a r m a g n e t i c r e s o n a n c e d a t a t o d e t e r m i n e t h e m o l e c u l a r s t r u c t u r e o f unknown
+compounds. DENDRAL's p e r f o r m a n c e i s s u p e r i o r t o most human e x p e r t s i n i t s
+domain. F i n a l l y , t h e e x p e r t s y s t e m t h a t i s p o s s i b l y t h e g r e a t e s t commercial
+success i s XCON (or R 1 as i t was o r i g i n a l l y c a l l e d ) ( r e f . 10). I t i s used b y
+D i g i t a l Equipment C o r p o r a t i o n t o c o n f i g u r e computer systems f o r i t s c u s t o m e r s .
+Because o f t h e l a r g e number o f p o s s i b l e c o m b i n a t i o n s o f computer components,
+t h e p r o b l e m o f g e t t i n g a l l t h e components, c a b l e s , e t c . t o g e t h e r t o assemble a
+w o r k i n g s y s t e m w i t h o u t m i s s i n g a p a r t or h a v i n g i t e m s l e f t o v e r i s v e r y comp l e x . XCON l o c a t e s a l l p a r t s i n a r e a s o n a b l e a r r a n g e m e n t and p l a n s a l l t h e
+c o n n e c t i o n s . I t a l s o v e r i f i e s t h a t t h e customer o r d e r i s c o r r e c t i n t h a t t h e r e
+a r e n o m i s s i n g n o r s u r p l u s p a r t s . I t has been i n c o n s t a n t use s i n c e 1980, and
+i t s p e r f o r m a n c e has been s i g n i f i c a n t l y s u p e r i o r t o t h a t o f human e x p e r t s .
+The m a i n r e a s o n t o d e v e l o p an e x p e r t s y s t e m i s t o make a v a i l a b l e t o a
+n o n e x p e r t t h e knowledge and e x p e r t i s e o f an e x p e r t or e x p e r t s i n t h e most
+e f f e c t i v e manner. E x p e r t systems have a number o f u n i q u e a d v a n t a g e s . A w e l l designed e x p e r t system w i l l g i v e t h e user t h e e f f e c t of having a c o n s u l t a n t on
+hand. The s i m u l a t e d c o n s u l t a n t w i l l be " b l i n d " i n t h a t i t c a n n o t make d i r e c t
+o b s e r v a t i o n s . However, i t w i l l have c e r t a i n advantages o v e r a human c o n s u l t a n t . I t w i l l a l w a y s o p e r a t e a t peak e f f i c i e n c y . I t w i l l n e v e r have an off
+d a y . I t w i l l be a v a i l a b l e 7 days a week, 52 weeks a y e a r . The p r o p o s e d e x p e r t
+system w i l l have e x p l a n a t i o n c a p a b i l i t i e s and i n f i n i t e p a t i e n c e . I t w i l l have
+t h e a b i l i t y t o e x p l a i n a l l i t s c o n c l u s i o n s and i n f e r e n c e s s t e p by s t e p , o v e r
+and o v e r a g a i n . Thus i t s r e a s o n i n g w i l l be f u l l y a c c e s s i b l e t o t h e p r o g r a m ' s
+u s e r . The e x p e r t system p e r f o r m a n c e can be made t o e q u a l or s u r p a s s t h e p e r formance o f most human e x p e r t s .
+E X P E R T SYSTEMS FOR SPACE S T A T I O N FREEDOM F I R E SAFETY
+
+F e a s i b i 1 it y
+The t y p e of e x p e r t s y s t e m b e s t s u i t e d f o r a space s t a t i o n w o u l d be an
+autonomous s y s t e m w i t h i n t e g r a t e d s e n s i n g , c o m p u t i n g and c o n t r o l l i n g f u n c t i o n s ,
+i n s t a l l e d w i t h i n t h e s t a t i o n ( r e f . 1 1 ) . The system would m o n i t o r s e n s o r s i n
+t h e s t a t i o n , t o be i n f o r m e d o f t h e c u r r e n t s t a t u s o f t h e s t a t i o n as i t r e l a t e d
+t o f i r e s a f e t y . I t would a l s o have t h e c a p a b i l i t y t o f i g h t t h e f i r e s or t o
+t a k e any a p p r o p r i a t e a c t i o n i n d e a l i n g w i t h a f i r e . The e x p e r t system w o u l d
+t h u s a c t as an a d v i s o r t o humans who a r e e i t h e r a b o a r d t h e s t a t i o n or a r e e l s e where, r e c o g n i z i n g p o t e n t i a l f i r e s i t u a t i o n s and t h e i r c o n t r o l . However, i n
+u n i n h a b i t e d space compartments, t h e system would o p e r a t e on i t s own.
+I n a d a p t i n g e x p e r t systems t o meet f i r e - s a f e t y needs i n t h e f u t u r e U . S .
+Space S t a t i o n Freedom, c l e a r l y one must d e a l w i t h some v e r y d i f f i c u l t p r o b l e m s .
+There a r e no human e x p e r t s r e c o g n i z e d as k n o w l e d g e a b l e i n l o w - g r a v i t y f i r e cond i t i o n s , a t l e a s t comparable t o t h o s e w i t h e x p e r t i s e i n b u i l d i n g - f i r e c o n t r o l s .
+The development o f a f i r e - s a f e t y e x p e r t system f o r Freedom w i l l be slow, costs
+w i l l be h i g h , and s c h e d u l i n g w i l l be a p r o b l e m . I n a d d i t i o n , t h e e x t r e m e l e v e l
+o f r e q u i r e d r e l i a b i l i t y w i l l be an impediment t o t h e development o f t h e system
+( r e f . 12).
+2
+
+N e v e r t h e l e s s , Freedom has some u n i q u e f e a t u r e s t h a t encourage t h e d e v e l o p ment o f an e x p e r t system. A s a o n e - o f - a - k i n d assembly, t h e p h y s i c a l d i m e n s i o n s
+o f t h e s t r u c t u r e and t h e m a t e r i a l s used w i l l be known. Because o f t h e w e l l d e f i n e d s t r u c t u r e , one can i n s t a l l s m a r t d e t e c t o r s and a f a s t e x t i n g u i s h i n g
+system i n t h e s t r u c t u r e . I n a d d i t i o n , t h e r e i s o n - g o i n g r e s e a r c h o n e x p e r t system t e c h n i q u e s t o p r o v i d e autonomous o p e r a t i o n and m a i n t e n a n c e f o r a t l e a s t
+one subsystem i n Freedom ( r e f . 1 1 ) . The development o f a f i r e - s a f e t y e x p e r t
+s y s t e m can b e n e f i t from t h i s r e s e a r c h i n t e r e s t and s u p p o r t , and t h e f i r e - s a f e t y
+e x p e r t s y s t e m may s h a r e e x i s t i n g computer hardware i n t h e space s t a t i o n .
+Development P l a n
+An e x p e r t s y s t e m i s n o r m a l l y d e v e l o p e d b y f i r s t u s i n g t h e e x p e r t i s e of
+o n l y one e x p e r t . T h i s f a c i l i t a t e s t h e e v a l u a t i o n o f t h e p e r f o r m a n c e o f t h e
+computer p r o g r a m and t h e c o l l e c t i o n of k n o w l e d g e . L a t e r , t h e e x p e r t i s e o f
+o t h e r e x p e r t s can be added t o t h e program.
+A s u g g e s t e d method t o d e v e l o p an e x p e r t s y s t e m f o r Freedom i s shown schem a t i c a l l y i n F i g . 1 . The f l o w c h a r t s t e p s a r e , i n b r i e f :
+( 1 ) Se e c t an e x p e r t who w i l l be used as t h e human e x p e r t f o r t h e deve
+ment o f t h e f i r s t e x p e r t s y s t e m p r o g r a m .
+
+OP-
+
+( 2 ) Se e c t a s m a l l c o n s u l t i n g g r o u p o f human e x p e r t s who w i l l e v a u a t e t h e
+p e r f o r m a n c e o f t h e i n i t i a l p r o g r a m and p r o v i d e a d d i t i o n a l e x p e r t i s e so t h a t t h e
+p r o g r a m can be i m p r o v e d .
+
+( 3 ) D e t e r m i n e t h e r e a s o n i n g m e t h o d o l o g y o f t h e o r i g i n a l e x p e r t and p r o d u c e
+an i n i t i a l e x p e r t s y s t e m .
+( 4 ) from t h e p r e v i o u s s t e p , i d e n t i f y s e r i o u s knowledge gaps t h a t s h o u l d be
+f i l l e d so t h e p r o g r a m can p e r f o r m up t o e x p e c t a t i o n s .
+
+( 5 ) Have a g r o u p of e x p e r t s r e v i e w t h e p r e v i o u s two i t e m s and d e v e l o p a
+consensus f o r a p r o t o t y p e program.
+( 6 ) C o n t i n u e development o f t h e p r o t o t y p e p r o g r a m u n t i l i t s p e r f o r m a n c e i s
+equal t o t h a t o f t h e i n i t i a l e x p e r t .
+( 7 ) Add t h e knowledge o f t h e g r o u p u n t i l t h e p r o g r a m c a n p e r f o r m b e t t e r
+t h a n any i n d i v i d u a l member o f t h e g r o u p .
+
+( 8 ) C o n t i n u e t h e development o f t h e w o r k i n g s y s t e m even a f t e r i t i s
+d e p l o y e d , b y m o d i f y i n g i t s knowledge base as new knowledge and o p e r a t i n g experience are acquired.
+F I R E S C I E N C E FOR THE SAFETY OF SPACE S T A T I O N FREEDOM
+
+General Overview
+The u n i q u e n a t u r e o f t h e f i r e - s a f e t y p r o b l e m i n Freedom i s d i s c u s s e d i n
+t h i s s e c t i o n . H e r e we s u g g e s t an i n i t i a l a n a l y s i s o f t h e f i r e p r o b l e m for
+
+3
+
+Freedom and t h e s t r a t e g y f o r d e a l i n g w i t h f i r e s i n t h e s t a t i o n . T h i s t y p e o f
+a n a l y s i s would s e r v e as t h e s t a r t i n g p o i n t f o r an e x p e r t system. I n t h e p r o c ess o f d e v e l o p i n g an e x p e r t system, t h i s a n a l y s i s would be expanded, r e f i n e d ,
+and m o d i f i e d .
+I n f o r m a t i o n o n f i r e b e h a v i o r i n t h e l o w - g r a v i t y e n v i r o n m e n t o f space i s
+v e r y l i m i t e d , b u t i t i s l o g i c a l t o assume t h a t t h i s b e h a v i o r i s s i g n i f i c a n t l y
+d i f f e r e n t from t h a t commonly o b s e r v e d i n normal g r a v i t y ( r e f . 3 ) . W h i l e t h i s
+l a c k o f b a s i c knowledge c o m p l i c a t e s t h e s t u d y o f s p a c e c r a f t f i r e s a f e t y , i n a
+sense, t h e f i r e - s a f e t y p r o b l e m i s w e l l d e f i n e d . A s a l r e a d y m e n t i o n e d , t h e f i r e
+model f o r Freedom d e a l s w i t h o n l y a f e w i n t e r n a l g e o m e t r i c c o n f i g u r a t i o n s comp a r e d t o t h e a l m o s t l i m i t l e s s numbers f o r b u i l d i n g c o n f i g u r a t i o n s . A n o t h e r
+i m p o r t a n t f e a t u r e i s t h a t c o n t e n t s and t h e i r l o c a t i o n a r e w e l l s p e c i f i e d f o r
+Freedom compared t o b u i l d i n g s . T h i s a l l o w s a d e t a i l e d , s c i e n t i f i c f i r e - s a f e t y
+s t u d y o f Freedom t o be f e a s i b l e . Also such a s t u d y i s d e s i r a b l e for t h e s a f e t y
+o f t h e c r e w ( n o p o s s i b l e immediate e v a c u a t i o n from t h e s t a t i o n ) and i s cost
+e f f e c t i v e due t o t h e e x t r e m e l y h i g h program costs o f Freedom.
+S i n c e t h e r e i s no p o s s i b i l i t y o f immediate escape o f t h e crew from F r e e dom, t h e p r o t e c t i o n o f c r e w members i s t h e e s s e n t i a l e l e m e n t o f f i r e s a f e t y i n
+t h e s p a c e c r a f t . The second n e c e s s i t y i s t h e p r e s e r v a t i o n o f t h e s p a c e c r a f t
+s t r u c t u r e i f a f i r e o c c u r s . W h i l e t h e s e two g o a l s a r e no d i f f e r e n t t h a n t h o s e
+o f f i r e s a f e t y f o r b u i l d i n g s i n a n o r m a l - g r a v i t y environment, s t r u c t u r a l prese r v a t i o n i s sometimes compromised i n b u i l d i n g s i n o r d e r t o c o n t r o l f i r e s . For
+t h i s r e a s o n , t h e e a r l y d e t e c t i o n o f f i r e and i t s subsequent r a p i d s u p p r e s s i o n
+s h o u l d be t h e k e y p o i n t s o f emphasis f o r t h e f i r e s a f e t y o f Freedom. The c r u c i a l r e q u i r e m e n t i s t o keep t h e f i r e as s m a l l as p o s s i b l e and t o e x t i n g u i s h i t
+as soon as p o s s i b l e . Suggested approaches t o s a t i s f y t h e s e r e q u i r e m e n t s a r e
+d i s c u s s e d i n t h e n e x t s e c t i o n . If, u n f o r t u n a t e l y , t h e f i r e c a n n o t be c o n t a i n e d
+i n an e a r l y s t a g e , a d r a s t i c measure t o s u p p r e s s t h e f i r e i s needed, and t h i s
+approach i s a l s o d i s c u s s e d b r i e f l y i n t h e n e x t s e c t i o n .
+E a r l y F i r e D e t e c t i o n i n Space
+V a r i o u s s c e n a r i o s may be p r o p o s e d f o r f i r e s i n i t i a t e d from d i f f e r e n t
+s o u r c e s i n Freedom. One such s c e n a r i o c o u l d be a f i r e i n i t i a t e d from p o l y m e r i c
+m a t e r i a l s or f l u i d s h e a t e d b y an a c c i d e n t a l l o c a l s u r g e i n e l e c t r i c power;
+a n o t h e r c o u l d be a f i r e i n i t i a t e d from an a c c i d e n t i n an o n b o a r d s c i e n t i f i c
+experiment.
+The e a r l y d e t e c t i o n o f a f i r e caused by an a c c i d e n t a l o v e r l o a d i n g , s h o r t
+c i r c u i t , or o v e r h e a t i n g o f an e l e c t r i c d e v i c e appears t o be more d i f f i c u l t i n
+a l o w - g r a v i t y e n v i r o n m e n t t h a n i n a n o r m a l - g r a v i t y e n v i r o n m e n t . The optimum
+locations of f i r e detectors are not r e a d i l y defined i n a low-gravity environment due t o t h e l a c k o f a buoyancy-induced upward f l o w . The f l o w m o t i o n i n
+t h e s p a c e c r a f t i s d e t e r m i n e d m a i n l y by a v e n t i l a t i o n flow ( f l o w speed o f a f e w
+c e n t i m e t e r s p e r second) i n s t e a d o f a buoyancy-induced f l o w . S i n c e t h e l o c a t i o n s and f l o w r a t e s o f v e n t s and t h e g e o m e t r i c a l c o n f i g u r a t i c n o f t h e i n s i d e
+o f Freedom w i l l be w e l l - s p e c i f i e d , c a l c u l a t i o n o f t h e t h r e e - d i m e n s i o n a l
+d e t a i l e d f l o w d i s t r i b u t i o n d r i v e n by t h e v e n t i l a t i o n i n s i d e t h e modules i s
+f e a s i b l e , u s i n g c o m m e r c i a l l y a v a i l a b l e e n g i n e e r i n g codes as a f i r s t s t e p
+( r e f . 13). B e s i d e s t h i s o v e r a l l flow c a l c u l a t i o n , a f l o w - p a t t e r n c a l c u l a t i o n
+i n s i d e v a r i o u s e l e c t r o n i c c a b i n e t s , each w i t h i t s own v e n t i l a t i o n , i s needed
+
+4
+
+to be able to predict flow patterns of early fire products. These flow patterns can be used to predict two important aspects of fire behavior. One is
+the spatial distribution of fire products in the spacecraft using data on the
+generation rates of these products; the other is the possible fire growth in an
+electric cabinet and also in the general space-station volumes using the information on material flammability characteristics. The optimum locations of
+detectors for early fire detection can be strategically identified from the
+flow patterns and potential high-risk fire areas. Furthermore, it should be
+possible to determine the location of fire from the observed pattern of activated detector locations. The complexity of these calculations and the need
+for real-time response dictate the storing of a library of precomputed and validated results.
+The selection of the type of detector sensors is crucial not only to
+detect fire as early as possible but also to avoid false alarms. The use of a
+combination of different types of sensitive detectors at various locations
+might provide useful data as an input to an alarm/no alarm algorithm (rules,
+decision). The algorithm would contain information from the calculated flow
+patterns both in the electronic cabinets and in the general spacecraft volumes
+and it could make a decision whether the detected "fire" is real or false based
+on the flow pattern applied to the location and type o f the activated detectors.
+The use of different types of detectors, spatially distributed detectors,
+and a decision algorithm is aimed at reducing false alarms as much as possible
+without sacrificing the capability of early fire detection. However, information on fire products is needed for the selection of detector sensors. For
+example, it is known that an ionization detector is more sensitive to small
+pm)
+particulates ( ~ 0 . 3 but a light-scattering detector i s more sensitive to
+large particles (>0.3pm). It is not clear what sizes of particulates are
+formed from a fire in a low-gravity environment. Smoldering, pyrolysis, and
+localized flaming are possible in the early phase of a fire. In a normalgravity environment, particulates generated from smoldering and pyrolysis tend
+to be condensed liquids and to be larger than those generated from flaming of
+the same material. An electrochemical CO detector and a flame-ionization
+detector can be used in combination with a particle-sensitive detector. If
+quantitative characterization of the generation o f the products from smoldering, pyrolysis, and small flames o f polymeric m a t e r i a l s appropriate for space-
+
+craft is made, the concentration and size distribution of particulates and also
+concentrations of CO and other gases can be calculated at various positions in
+the spacecraft by combining the material-products characteristics with the
+above flow calculation. The products from smoldering and pyrolysis may not be
+significantly affected by gravity, but those from small flames might be.
+Extensive studies are needed to obtain the relationship between the fire products in a low-gravity environment and those in a normal-gravity environment.
+The calculated concentration distribution in both electronic cabinets and in
+the general spacecraft volumes will provide detailed information for the selection of the strategic locations of detectors and also for threshold criteria
+of toxic hazards for the crew. This information can also be used for the
+determination of the best selection o f the crew's evacuation route and method
+(stay near the floor or float near the ceiling).
+
+5
+
+The screening of polymeric materials which are going to be used in Freedom can contribute significantly to the fire safety of Freedom. Although it
+is generally considered that polymeric materials are less flammable in a lowgravity environment than in a normal-gravity environment (there are limited
+experimental data, e.g., refs. 14 and 151, more studies are needed to obtain
+quantitative relationships between the two different gravity environments. As
+discussed above, knowledge of the characteristics of smoldering, pyrolysis,
+ignition, and flame spread of the polymeric materials is important in order to
+predict fire behavior. Thus, low-gravity flammability tests should be used not
+only for screening of the materials but also to measure quantities useful for
+predicting fire scenarios. The measured material-flammability characteristics
+should be stored in the algorithm for early fire detection and fire growth
+analysis, as described above. Products distribution (particulates, CO, C02,
+total hydrocarbons, acutely toxic gases such as HCN, HCL and acrolein) and
+their generation rates should be measured under smoldering, pyrolyzing, and
+small flaming modes.
+Fire Suppression in Space
+
+I
+
+After the detection of a fire, rapid suppression of the fire is essential.
+As discussed above, an early fire may be in one of the possible modes of smoldering, pyrolyzing, o r small flaming for polymeric materials (cables, insulation materials, papers and so on) o r fluids. The suppressant must suppress
+(extinguish) the three types of fire modes. The present Shuttle extinguishing
+agent, a halogenated hydrocarbon or halon (refs. 1 and 3 > , i s recognized as an
+excellent extinguisher for the flaming-fire mode, but it is less effective for
+the other two types. Furthermore, the use of halons raises questions of the
+toxic and corrosive nature of their reaction products in flames. A fine water
+spray is effective for the extinguishment of the flaming-fire mode, but its
+effectiveness for the other two modes in a low-gravity environment is questionable due to the low sticking efficiency of water droplets onto a smoldering o r
+pyrolyzing surface. Furthermore, the moisture concentration in the atmosphere
+could become higher with the use of water, which tends to increase corrosivity
+of metals by fire products, and cleaning of this excess water after the fire
+might be a problem.
+A promising concept for a fire suppressant for space is a fire-extinguishment foam generated with compressed nitrogen. The foam should have a good
+sticking nature on the surface in a low-gravity environment (however, apparently little is known about the performance of foams in low gravity), and also
+it is an effective extinguishing agent for all three fire modes. Furthermore,
+the total mass of liquid is so small that cleaning after the fire is relatively
+simple. The foam must have a very high dielectric constant to avoid any shorts
+in electronic devices. Many small cans of the foam extinguishers (like a shaving cream) can be strategically installed at potential fire-hazard areas for
+use as portable fire extinguishers or as fixed extinguishers to be actuated
+remotely to fill up the designated compartment. Information regarding the
+relationship between the amount of the foam and an extinguishable fire size
+would be needed to test the plausibility of this approach. Since fire behavior
+at low gravity is poorly understood, its suppression requires imaginative and
+thorough development.
+
+6
+
+D r a s t i c Measures
+I f t h e above f i r e - f i g h t i n g t a c t i c s f a i l and a f i r e becomes l a r g e enough t o
+t h r e a t e n t h e s a f e t y o f t h e crew or t h e i n t e g r i t y o f t h e s p a c e c r a f t , some d r a s t i c measure i s needed t o e x t i n g u i s h t h e f i r e as q u i c k l y as p o s s i b l e . The b e s t
+a w r o a c h a m e a r s t o be v e n t i n q t h e module t o t h e o u t s i d e vacuum o f space as
+d e s c r i b e d b e l o w . Here i t i s assumed t h a t t h e module i s c o m p a r t m e n t a l i z e d and
+can be vacuum t g h t . I t i s n o t n e c e s s a r y t o r e d u c e t h e p r e s s u r e t o vacuum l e v e l s b u t o n l y t o a low t o t a l p r e s s u r e s u f f i c i e n t t o e n s u r e t h a t t h e r e m a i n i n g
+oxygen q u a n t i t y ( p a r t i a l p r e s s u r e ) i n t h e e n v i r o n m e n t c a n n o t s u s t a i n any f i r e .
+W h i l e i n e r t - g a s p r e s s u r i z a t i o n has been i n v e s t i g a t e d f o r e x t i n g u i s h m e n t o f d i f f i c u l t f i r e s i n c o n f i n e d compartments i n submarines ( r e f . 161, v e n t i n g t o space
+i s much f a s t e r han i n e r t i n g and does n o t r e q u i r e a l a r g e q u a n t i t y of i n e r t gas
+s t o r a q e . Also, when v e n t i n g i s employed, t h e r e i s n o need t o p r o v i d e t h e e x t r a
+s t r u c t u r a l w e i g h t r e q u i r e d t o d e a l w i t h t h e p r o b l e m o f o v e r - p r e s s u r i z a t i o n of
+t h e s p a c e c r a f t s t r u c t u r e . Halons c o u l d be a l s o used for t h i s s t a g e o f a f i r e ,
+b u t t h e r e m i g h t be some s e r i o u s r e s e r v a t i o n s due t o p o s s i b l e t o x i c and corros i v e n a t u r e s o f h a l o n - f l a m e r e a c t e d compounds. A l t h o u g h v e n t i n g m i g h t i n c r e a s e
+or t r a n s f e r f i r e m o m e n t a r i l y a l o n g t h e flow t o t h e v e n t i n g o p e n i n g ( r e f . 3 1 ,
+t h e r a p i d d e c r e a s e i n p r e s s u r e i n t h e module s h o u l d suppress t h e f i r e q u i c k l y .
+Another advantage o f v e n t i n g i s t h e r a p i d d i l u t i o n o f harmful by-products i n
+t h e atmosphere; hence, h a l o n s or w a t e r may be used f o r c o n t r o l o f d i f f i c u l t
+f i r e s f o l l o w e d by v e n t i n g t o a v o i d t h e d e l e t e r i o u s e f f e c t s o f these e x t i n g u i s h a n t s o n t h e atmosphere. One d i s a d v a n t a g e o f v e n t i n g i s t h a t t h e v e n t e d p r o d u c t s may c o a t t h e o u t s i d e s u r f a c e o f windows o f t h e s p a c e c r a f t w i t h d e p o s i t s ;
+t h i s m i g h t h l n d e r c e r t a i n s c i e n t i f i c e x p e r i m e n t s . T h i s p r o b l e m has been e x p e r i e n c e d w i t h normal w a s t e - p r o d u c t v e n t i n g and m i c r o m e t e o r i t e e t c h i n g i n t h e
+S o v i e t s p a c e - s t a t i o n program ( r e f . 17). P o t e n t i a l s o l u t i o n s i n c l u d e r e t r a c t a b l e t r a n s p a r e n t c o v e r s . O b v i o u s l y , t h e consequences and b e n e f i t s of suppress i o n b y v e n t i n g t o vacuum needs a t h o r o u g h a n a l y s i s .
+
+A n o t h e r i m p o r t a n t d e c i s i o n i s under what c o n d i t i o n s d r a s t i c v e n t i n g i s t o
+be a p p l i e d . The d e c i s i o n s h o u l d be based on t h e s a f e t y o f t h e crew and t h e
+s t r u c t u r a l i n t e g r i t y o f t h e space s t a t i o n . CO c o n c e n t r a t i o n s , t e m p e r a t u r e s ,
+p r e s s u r e , and o t h e r p r o p e r t i e s t h a t r e l a t e t o t h e s a f e t y and t h e s t r u c t u r a l
+i n t e g r i t y s h o u l d be c o n s i d e r e d as i n d i c a t o r s t o c o n s t i t u t e a d e c i s i o n a l g o r i t h m
+r e g a r d i n g v e n t i n g . T h i s a l g o r i t h m s h o u l d i n c l u d e p o s s i b l e f i r e s c e n a r i o s and
+c a l c u l a t e d p o t e n t i a l f i r e - g r o w t h h i s t o r i e s based on f u e l l o a d i n g and m a t e r i a l
+f l a m m a b i l i t y c h a r a c t e r i s t i c s . The a p p r o a c h t o a l e t h a l CO c o n c e n t r a t i o n l e v e l
+or maximum t e m p e r a t u r e and p r e s s u r e l e v e l s s h o u l d be used as one c r i t e r i o n for
+t h e v e n t i n g d e c i s i o n i n t h e a l g o r i t h m . T h e r e f o r e , t h e a l g o r i t h m can be one
+l a r g e code t h a t i n c l u d e s t h e r e s u l t s o f f l o w - p a t t e r n c a l c u l a t i o n s i n e l e c t r o n i c
+c a b i n e t s and i n t h e g e n e r a l s p a c e c r a f t volumes, t h e d e c i s i o n a n a l y s i s on e a r l y
+f i r e d e t e c t i o n , t h e c o l l e c t i o n o f CO c o n c e n t r a t i o n s , t e m p e r a t u r e s and o t h e r
+p r o p e r t i e s , and f i n a l l y t h e d e c i s i o n a n a l y s i s on t h e a c t u a t i o n o f v e n t i n g .
+CONCLUDING REMARKS
+
+T h i s r e p o r t e x p l o r e s t h e c a p a b i l i t i e s o f e x p e r t - s y s t e m programs i n t h e i r
+a p p l i c a t i o n t o f i r e - s a f e t y management i n f u t u r e s p a c e c r a f t , a new r o l e f o r
+t h e s e programs. The c o n c e p t and development of e x p e r t systems a r e b r i e f l y
+d e s c r i b e d . The g o a l o f t h i s r e v i e w i s t h e assessment o f e x p e r t s y s t e m s for
+
+7
+
+autonomous and crew-assisted fire-safety management in the NASA Space Station
+Freedom, now under design.
+Although the development of an expert system for spacecraft fire safety
+can be very costly and time-consuming, this application has clear advantages in
+safety operations. What is lacking at present is an adequate knowledge base to
+simulate that of a human "expert." This report thus includes a discussion of
+fire-safety problems in spacecraft. From these findings, it is possible to
+identify some important elements of new knowledge or capabilities needed to
+establish an expert-system program for Freedom. These items are, in summary:
+1 . Determination of flammability characteristics of combustible materials
+in the low-gravity environment of Freedom
+2. Development and validation of the ventilating and exhaust-flow calcula-
+
+tions in electronic cabinets and in the general module volumes
+3 . Determination of the generation rate and characteristics o f fire prod-
+
+ucts from smoldering, pyrolysis, and small flaming of polymeric materials in a low-gravity environment
+4. Development of new detectors, such as a highly selective CO detector
+5. Development o f new fire extinguishers, such as foams, a n d determination
+
+of their properties and extinguishment characteristics
+6. Development of an algorithm or algorithms to make the decision as to a
+
+false alarm or a real fire from the collection of CO concentrations,
+temperatures, and other properties, and t o make the decision of the
+venting based on the stored possible fire-growth histories
+Like a person entering a new field or discipline, a program on its way to
+becoming an expert program will start as a novice. If it continues its development, it eventually becomes an expert. Just as an apprentice can help the
+journeyman, an apprentice expert system will be of significant value, and a
+journeyman expert system will be of even greater value. Thus we see the evolution of a series of expert systems that will be of great value in their domain
+of interest to Space Station Freedom. Each of these programs will improve the
+quality of the decision-making of the human expert that it aids.
+REFERENCES
+1 . Spacecraft Fire Safety.
+
+NASA CP-2476, 1987.
+
+2. Rodney, G . A . : Safety Considerations in the Design of Manned Spaceflight
+Hardware. IAF Paper 87-569, O c t . 1987.
+3. Friedman, R . ; and Sacksteder, K.R.:
+Soacecraft. NASA TM-100944, 1988.
+
+4. Smith, R . L . :
+
+Fire Behavior and Risk Analysis in
+
+HSKBUDJR: A Primitive Expert System for the Evaluation of
+the Fire Hazard of a Room. NBSIR-861'3319, Mar. 1986.
+
+8
+
+5 . Weiss, S . M . ; and K u l i k o w s k i , C . A . :
+A P r a c t i c a l Guide t o Designing Expert
+Systems. Rowman & L i t t l e f i e l d P u b l i s h e r s , Totowa, NJ, 1984.
+6. G o o d a l l , A . :
+The G u i d e t o E x p e r t Systems.
+M e d f o r d , NJ, 1985.
+
+Learned I n f o r m a t i o n , I n c . ,
+
+7 . W i n s t o n , P . H ; and P r e n d e r g a s t , K.A., e d s . :
+The A I B u s i n e s s :
+Uses o f A r t i f i c i a l I n t e l l i g e n c e . M I T P r e s s , 1984.
+
+Commercial
+
+8 . Buchanan, E.; and S h o r t l i f f e , E . : R u l e based E x p e r t System: The MYCIN
+E x p e r i m e n t s o f t h e S t a n f o r d H e u r i s t i c Programming P r o j e c t . Addison-Wesley
+P u b l . Co., Reading, MA, 1984.
+9 . L i n d s a y , R.K., e t a l . : A p p l i c a t i o n s o f A r t i f i c i a l I n t e l l i g e n c e f o r
+O r g a n i c C h e m i s t r y : The DENDRAL P r o j e c t . McGraw-Hill Book Co., 1980.
+
+10. Bachant, J . ; and McDermott, J . : R 1 R e v i s i t e d : Four Years i n t h e
+Trenches. A I Mag., v o l . 5 , n o 3, F a l l 1984, p p . 21-32.
+1 1 . Lum. H . ; and Heer, E . :
+P r o g r e s s Toward Autonomous, I n t e l l i g e n t Systems.
+I A F Paper 87-31, O c t . 1987.
+
+12, Heer, E . ; and Lum, H . :
+R a i s i n g t h e A I Q o f t h e Space S t a t i o n .
+A m . , v o l . 25, no. 1 , J a n . 1987, pp. 16-17.
+
+Aerosp
+
+Intermodule V e n t i l a t i o n Studies for the
+13. D a v i s , R . G . ; and R e u t e r , J . L . :
+Space S t a t i o n . SAE Paper 871428, J u l y 1987.
+14. A n d r a c c h i o , C . R . ; and Cochran, T . H . :
+Over S o l i d S u r f a c e s . NASA TN D-8228,
+
+G r a v i t y E f f e c t s o n Flame S p r e a d i n g
+1976.
+
+15. O l s o n , S . L . :
+The E f f e c t o f M i c r o g r a v i t y o n Flame Spread Over a T h i n
+F u e l . NASA TM-100195, 1987.
+Pressurization with Nitrogen
+16. Tatem, P . A . ; Gann, R . G . ; and C a r h a r t , H . W . :
+as an E x t i n g u i s h a n t f o r F i r e s i n C o n f i n e d Spaces. Combust. S c i . T e c h n o l . ,
+vol. 7 , no. 5 , 1973, p p . 213-218.
+17. F e o k t i s t o v , K . P . ; and Demchenko, E . K . :
+D e s c r i p t i o n , Photos o f Salyut-7
+S t a t i o n . USSR R e p o r t : Space, No. 20, JPRS 82970', J o i n t P u b l . Research
+S e r v i c e , A r l i n g t o n VA, F e b . 1983, p p . 8-16 ( t r a n s l a t i o n from Zemlya i
+V s e l e n n a i a , No. 6 , Nov.-Dec., 1982, pp. 1 1 - 1 6 > .
+
+9
+
+EVAL"
+
+FIGURE 1.
+
+- REPRESENTATION OF DEVELOPMENT OF AN EXPERT SYSTEM.
+
+10
+
+nv\sn
+
+Report Documentation Page
+
+National Aeronautics and
+Space Administration
+
+I 2. Government Accession No.
+
+1. Report No.
+
+I
+
+3. Recipient’s Catalog No.
+
+I
+
+5. Report Date
+
+4. Title and Subtitle
+
+Expert Systems Applied to Spacecraft Fire Safety
+
+June 1989
+6.- Performing Organization Code
+
+8. Performing Organization Report No.
+
+7. Author(s)
+
+Richard L. Smith and Takashi Kashiwagi
+
+None
+
+(E-4812)
+
+110. Work Unit No.
+
+674-03-03
+9. Performing Organization Name and Address
+11. Contract or Grant No.
+
+Center for Fire Research
+National Institute of Standards and Technology
+Gaithersburg, Maryland 20899
+
+C-32000-M
+13. Type of Report and Period Covered
+
+Contractor Report
+Final
+
+2. Sponsoring Agency Name and Address
+
+National Aeronautics and Space Administration
+Lewis Research Center
+Cleveland, Ohio 44135-3191
+
+14. Sponsoring Agency Code
+
+5. Supplementary Notes
+
+Project Manager, Robert Friedman, Space Experiments Division, NASA Lewis Research Center
+
+6. Abstract
+
+Expert systems are problem-solving programs that combine a knowledge base and a reasoning mechanism to
+simulate a human “expert.” The development of an expert system to manage fire safety in spacecraft, in
+particular the NASA Space Station Freedom, is difficult but clearly advantageous in the long-term. The report
+discusses some needs in low-gravity flammability characteristics, ventilating-flow effects, fire detection, fire
+extinguishment, and decision models, all necessary to establish the knowledge base for an expert system.
+
+18. Distribution Statement
+
+7. Key Words (Suggested by Author(s))
+
+Artificial intelligence; Expert systems; Fire detection;
+Fire extinguishers; Space Station Freedom; Spacecraft
+fire safety
+9. Security Classif. (of this report)
+
+Unclassified
+NASA FORM 1626 OCT B6
+
+Unclassified - Unlimited
+Subject Category 16
+
+20. Security Classif. (of this page)
+
+Unclassified
+
+I
+
+21. No oflp2ages
+
+*For sale by the National Technical Information Service, Springfield, Virginia 22161
+
+I
+
+22. Price’
+
+A03
+

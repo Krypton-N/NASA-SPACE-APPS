@@ -1,0 +1,1258 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50th International Conference on Environmental Systems ICES-2021-102 
+11-15 July 2021 
+
+Determining the Cause of Reduced Concurrent Flame Spread over 
+
+Thin Solid Fuels in Low Pressure and Low Gravity 
+
+Maria Thomsen1 , Luca Carmignani2 and Carlos Fernandez-Pello3 
+
+Dept. Mechanical Engineering, University of California Berkeley, CA 94720 
+
+Sonia Fereres4 
+
+Abengoa, Sevilla 41014, Spain 
+
+and 
+
+David L. Urban5 and Gary A. Ruff 6 
+
+NASA Glenn Research Center, Cleveland, OH 44135 
+
+The spread of flames over the surface of solid combustible materials is affected by the 
+
+environmental conditions. Variables such as flow velocity, oxygen concentration, ambient 
+
+pressure, partial gravity or microgravity, may change the material flammability and influence 
+
+the fire dynamics. This is an important fire safety issue for space exploration vehicles and 
+
+space habitats which will very likely have different environments than those currently used 
+
+on the International Space Station, such as reduced pressure and enriched oxygen 
+
+concentration (SEA). However, testing experimentally the materials to be used and qualified 
+
+for space exploration under these conditions is a difficult and expensive task. Here, numerical 
+
+modeling is used to understand the dominant physico-chemical processes on the concurrent 
+
+flame spread over thin fabrics under reduced ambient pressure (and in turn, buoyancy) and 
+
+variable gravitational conditions. The numerical model uses the Fire Dynamics Simulator 
+
+(FDS6) code with a single-step Arrhenius reaction rate for the solid phase decomposition. 
+
+Different models are tested for the gas phase combustion kinetics. The model results are 
+
+validated with experimental results obtained at similar reduced ambient pressure and flow 
+
+conditions at 1 g. It is shown that as ambient pressure is reduced the flame spread rate over a 
+
+thin fabric is also reduced, both experimentally and numerically. Numerical results are 
+
+compared to an analytical approach previously developed to explain the experimental trends. 
+
+Further interpretation of the model results provides information regarding the physics of the 
+
+process and how they are affected by the lower pressure environments and gravity conditions. 
+
+The results of this work provide guidance for potential on-earth testing for fire safety design 
+
+in spacecraft and space habitats. 
+
+I. Introduction 
+
+he flammability of solid combustible materials is typically characterized by their ignitability, flame spread rate, 
+
+heat release rate, and toxicity. Although the most effective fire safety strategy is to prevent ignition altogether, if 
+
+ignition occurs the fire must spread to present a risk. For this reason, flame spread is one of the fire processes utilized 
+
+                                                           
+1 Postdoctoral Researcher, Department of Mechanical Engineering, University of California Berkeley, Berkeley, CA, 
+
+94720, USA. 
+2 Postdoctoral researcher, Mechanical Engineering Dept., 60 Hesse Hall, Berkeley, CA, 94720 
+3 Professor of the Graduate Division, Department of Mechanical Engineering, University of California Berkeley, 
+
+Berkeley, CA, 94720, USA. 
+4 Senior Engineer, Aerospace & Defense Division, Abengoa Innovación, Energía Solar 1, 41014 Sevilla, Spain 
+5 Branch Chief, Low-Gravity Exploration Technology Branch, MS 77-5, 21000 Brookpark Road, Cleveland, OH 
+
+44135 
+6 Spacecraft Fire Safety Demonstration Project Manager, Exploration Systems Office, MS 162-7, 21000 Brookpark 
+
+Road, Cleveland, OH 44135 
+
+T 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+2 
+
+to determine the flammability of solid combustible materials [1,2]. A flame spreads over a solid fuel surface by first 
+
+preheating the virgin fuel to its pyrolysis, pyrolyzing it, and igniting the resulting flammable mixture of pyrolyzate 
+
+and oxygen. Thus, the flame propagates in a creeping fashion as a series of ignition steps where the flame acts both 
+
+as the source of heating and flammable gas ignition [1–3]. Thus, the spread of flames over the surface of a solid is a 
+
+complex phenomenon resulting from a number of processes occurring in both the solid phase (heat transfer, thermal 
+
+decomposition, gasification) and the gas phase (transport, mixing, combustion) which are very much affected by 
+
+external environmental conditions such as oxidizer flow velocity, pressure, oxygen concentration, buoyancy (gravity 
+
+level) or external heating. Thus, there is an interest in studying the effect of environmental conditions on flame spread.  
+
+Concurrent, or flow assisted, flame spread occurs when the spread of the flame and the gas flow are in the same 
+
+direction (upward spread in buoyant flow). Because the gas flow assists the transfer of heat from the flame to the solid 
+
+and consequently the spread of the flame, this mode of flame spread is generally fast and consequently hazardous. It 
+
+is for this reason that some material flammability tests use this mode of flame spread to characterize the fire hazard of 
+
+combustible materials. In this flame spread configuration, the solid preheating and pyrolysis rates are dominated by 
+
+convection and flame radiation, and the external flow velocity will therefore influence both the flame length and the 
+
+heat flux from the flame to the solid surface [4–8]. Since there are marked differences in the velocity distributions in 
+
+flame induced buoyant flows at different pressure [9] and gravity levels [10], it is expected that there will be also 
+
+notable differences in the spread of flames. The ambient pressure affects, through the density, the thickness of the 
+
+boundary layer, and consequently the position of the flame respect to the solid surface (Fig. 1). As the pressure is 
+
+reduced the boundary layer thickens, the flame moves away from the surface, and the heat transferred from the flame 
+
+to the solid surface is reduced. Consequently, the rate of flame spread is reduced, both because the reduced heat flux 
+
+on the surface and a reduction in the flame length [11]. Thus, the effect on the flame characteristics and the spread 
+
+rate, of reducing the ambient pressure is similar to that of reducing the flow velocity since it also increases the 
+
+boundary layer thickness and in turn the flame stand-off distance. This is relevant because in a high-altitude location 
+
+or in an aircraft for example, the ambient pressure will be lower than at sea level. In the case of a spacecraft such as 
+
+the International Space Station the cabin environment may be quite different, although the ambient pressure is 
+
+approximately that of standard Earth, it includes microgravity, low velocity flows induced by the spacecraft 
+
+ventilation. This low velocity flows encountered in a spacecraft are on the order of ~10–20 cm/s and cannot be easily 
+
+replicated on earth because the buoyant flow (~40 cm/s) dominates over the forced flow, making flammability testing 
+
+of materials in spacecraft conditions even harder. 
+
+ 
+
+ 
+Several studies have been conducted on the spread of flames over solid fuels under reduced pressure to observe 
+
+the effect of buoyancy on flame spread in reduced gravity [12–16], flame spread in a high-altitude location [17–19], 
+
+and limiting condition for flame spread [20,21]. However, there is still a need to systematically study and understand 
+
+the effect of pressure, and consequently buoyancy, on the spread of flame over different solid combustible materials. 
+
+In this regard, the development of numerical models that can facilitate the understanding of the processes involved 
+
+and guide experimental research on earth is a very important useful tool. Theoretical and numerical analyses that 
+
+ 
+Figure 1: Upward/Concurrent flame spread diagram. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+3 
+
+describe the flame spread behavior over solid fuels must handle the complexity of the entire process by coupling the 
+
+gas phase and solid phase reactions involved. Computational fluid dynamic models usually rely in representative 
+
+thermochemical and kinetic parameters, as well as material properties that are not readily available for most 
+
+engineering materials. Nevertheless, despite the restrictions and complications, numerical models are actively being 
+
+used to complement experimental work. Several models have been developed to simulate burning of thermally thin 
+
+[10,22–26] and thick solids [27–29]. Most of these previous works have used one-step global reactions for the gas 
+
+phase reactions while considering different models for the solid decomposition, ranging in complexity from one-step 
+
+thermal decomposition models [25,26,28–30] to some more complex pyrolysis models that include the formation of 
+
+char or other intermediate components [24,31–33].  
+
+The overall objective of this work is to determine the effect of ambient pressure, and consequently buoyancy, on 
+
+the upward/concurrent flame spread process over a thin cotton fabric in low velocity air flows through numerical 
+
+simulations. The material has been selected because it is common clothing material, and also it will be one of the 
+
+materials that will be tested in the microgravity experiments to be conducted during NASA's Spacecraft Fire 
+
+Experiment (Saffire), on board of the Orbital Corporation Cygnus spacecraft [14]. The range of ambient pressures and 
+
+reduced gravity levels has been selected to cover a wide range of environments and buoyantly induced gas flow 
+
+velocities. Based on previous analytical models [15,34], we hypothesize that transport processes are dominant in 
+
+determining the upward/concurrent flame spread rates on thin materials. The specific objective of the research 
+
+presented is to compare numerical simulations to previous analytical models, improving the current understanding of 
+
+the causes behind the decreasing flame spread rate under reduced buoyant flows (i.e. gravity and pressure). Through 
+
+different numerical simulations, this analysis will help elucidate the relative importance between hydrodynamics, heat 
+
+transport or chemical kinetics, and under what conditions certain processes will prevail over others. 
+
+II. Model Description 
+
+The numerical model is a two-dimensional simulation of the experiment done using the Fire Dynamics Simulator 
+
+(FDS) [35] version 6.7.0. The computational domain is 100 mm in the z-direction and 60 mm in the x-direction, as 
+
+shown in Fig. 2. A grid sensitivity analysis was carried for cells with sizes varying from 0.8 to 0.25 mm in both 
+
+directions. This grid dependence analysis was performed at the highest gravity (1g – earth gravity) and ambient 
+
+pressure (100 kPa) considered as part of this study, where the gas reaction and the buoyancy effects on the flow are 
+
+expected to be strongest. A cell size of 0.4 mm in the z-direction and the x-direction was chosen to be used for the 
+
+solid and the gas phase in all simulations, providing adequate results for the range of pressure analyzed (changes to a 
+
+smaller grid varied the predicted flame spread rate less than 2% from the one obtained at the selected grid value). This 
+
+cell size was obtained from uniformly dividing the total domain in 250 cells in the z-direction and 150 cells in the x-
+
+direction. Following the findings of Fereres et al. [28] that the level of grid refinement necessary for grid insensitivity 
+
+varies with ambient pressure, requiring larger grid sizes at lower ambient pressure, the same grid size was used for all 
+
+the conditions tested.  
+The +z and the x+ domain were established as an outlet with an “open” boundary condition. This “open” condition 
+
+is defined by FDS as a passive opening on the exterior boundary of the computational field that allows flow into or 
+
+out of the domain depending on the local pressure gradient [35]. An inlet boundary condition was defined on the -z of 
+
+the domain to give a constant forced flow of 20 cm/s, similar to the forced flow used in the experiments. The inlet 
+
+flow is a nitrogen/oxygen mixture with the oxygen concentration of normal air (21% by vol.) at a prescribed ambient 
+
+temperature (20 °C) and pressure; the ambient pressure is varied depending on the test being simulated. 
+
+The sample is modeled as a thin vertical solid located on the -x coordinate of the domain and represented by an 
+
+obstruction of 2 cell thick. The fuel used is cotton and the sample thickness is 0.3 mm (value considered for all heat 
+
+transfer calculations).  The model is set to burn the material in an upward configuration of flame spread so, during the 
+
+simulations, gravity is set in the -z direction and its value modified from terrestrial 9.81 m/s2 to microgravity. An 
+
+igniter is modeled as a solid block 1 cell thick by 3 cell long at a constant temperature of 2500 °C. The igniter is 
+
+positioned in direct contact with the solid fuel 3 mm downstream from the sample leading edge, aiming to replicate 
+
+the igniter wire woven in the cotton fabric during the experiments. Multiple devices are positioned on the sample 
+
+surface and further in the domain to facilitate tracking of temperature, heat flux, burning rate, and flow velocity.   
+
+The physical properties and kinetic parameters for cotton are based on reported data for cellulose, which is 
+
+representative of the primary composition of cotton. The thermo-physical property values for cotton are assumed 
+
+constant and as follows: k=0.0552 W/mK, ρ=417 kg/m3, and cp=1380 J/kgK [26]. The solid fuel emissivity was set to 
+
+ε = 0.9. The solid phase decomposition is modeled with a first order Arrhenius reaction. Although cotton is a charring 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+4 
+
+material, for a first approximation, the pyrolysis product is assumed to be 100% monomer with no residue yield. 
+
+Oxidative pyrolysis is not included.  
+
+ 
+
+For the gas phase kinetic reactions, two different 
+
+approaches are considered independently and 
+
+compared. Firstly, a single step, mixing-controlled 
+
+chemical reaction (mixture-fraction based combustion 
+
+model) to simulate infinitely fast kinetics, meaning that 
+
+the reaction rate is only limited by species 
+
+concentration. Secondly, a finite rate kinetic model 
+
+defined by a single-step second order Arrhenius 
+
+reaction using the following kinetic parameters [26]: 
+
+Asolid=1E10 1/s,  Esolid=125 kJ/mol, heat of 
+
+combustion=16.7 MJ/kg, Agas=2.61E13 cm
+3/mol/s, and 
+
+Egas=113 kJ/mol. In both cases, the products (CO2, H2O) 
+
+are lumped into a single species to reduce 
+
+computational time. 
+
+In the work presented here the hydrodynamic 
+
+problem is calculated through the DNS mode, which 
+
+calculates the heat (convection) & mass (diffusion) 
+
+transfer directly, not through semi-empirical 
+
+correlations and two  kinetic models where used: 
+
+infinitely fast chemistry and finite rate chemistry, to 
+
+evaluate situations when chemistry may be slower or comparable to transport processes (i.e. low pressure). Radiation 
+
+heat transfer is included in the model by using the FDS radiation solver which solves the radiation transport equation 
+
+(RTE) considering a gray gas model for the radiation absorption coefficient. 
+
+Simulations are initiated by setting up the igniter to 2500 °C and allowing it to locally heat the sample for the 
+
+corresponding ignition time. This ignition time is varied linearly with pressure following the experiments (between 3 
+
+and 10 s for ambient pressured ranging from 100 to 30 kPa, respectively). However, the ignition time had  
+
+After this time, the igniter is turned off, a diffusion flame is formed, and its subsequent propagation over the entire 
+
+solid surface is observed. The simulations run over 20 s of experiment, more than enough time for the flame to 
+
+propagate over the entire length of the sample, even at the lower ambient pressures and different gravity levels 
+
+considered. 
+
+III. Results 
+
+A. Pyrolysis Front and Spread Rate Calculations 
+ 
+
+These numerical results are compared to experiments from Ref. [34]. The primary data collected during the 
+
+experiments were the evolution of the pyrolysis front and burnout front positions (Fig. 3) over time for the different 
+
+ambient pressures tested. Representative frames with the flame spreading over the cotton sample during a test are 
+
+shown in Fig. 3 (left and center). Figure 3 (left) shows a frame with a strobe light on showing the pyrolysis front as a 
+
+reference. Experimentally, the position of the pyrolysis front was defined as the point where the fabric is first visibly 
+
+blackened as it propagates over the material. Figure 3 (center) presents a frame with the light off and shows the flame 
+
+burnout front as well some cotton residue smoldering after the passing of the flame. Experimentally, the burnout front 
+
+position was defined as the upstream edge of the flame, which coincides with where the flame begins receding. During 
+
+each test, after ignition is achieved, the flame spreads uniformly along the surface of the sample. Usually, after the 
+
+ignition of the sample, as the flame spreads over the fabric it consumes most of the cotton, leaving behind some 
+
+smoldering cotton residue (bottom of Fig. 3 (center)) that eventually burns out most of the fabric. As ambient pressure 
+
+was reduced, ignition of the sample was more difficult, and, in occasions, part of the cotton fabric would be left 
+
+unburnt.  
+In the FDS simulations, the pyrolysis front position is determined by tracking the solid surface temperature 
+
+corresponding to the solid material’s pyrolysis temperature which is selected as  (𝑇𝑝 = 350°𝐶 [36]). Flame burnout 
+
+front is determined in the FDS simulations similarly as in the experiments, by tracking the position of the flame when 
+
+ 
+Figure 2: Schematic illustration of model domain. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+5 
+
+it starts receding from the surface. Here the receding position is verified by Heat Release Rate (HRR) measurements 
+
+and solid surface temperature measurements. The evolution of the pyrolysis front as a function of time is commonly 
+
+used to determine flame spread rate. From the tracking of the position of the pyrolysis front, an average flame spread 
+
+rate can be determined as a function of relevant ambient parameters (gravity level, pressure, forced flow velocity, 
+
+etc.). Because of the acceleratory characteristics of the upward flame spread, an averaged spread rate over the last 
+
+portion of the sample (e.g. last 50% of the sample surface) is presented to minimize transient effects.  
+ 
+
+ 
+
+B. Effect of Reduced Ambient Pressure  
+ 
+
+Figure 4 shows a series of snapshots for both the simulation results and the experiments. Figure 4 (top and middle) 
+
+row shows the heat released rate (HRR) per unit volume, which is proportional to the reaction rate, for cases with 
+
+different kinetic models in air at different ambient pressure. Each image also includes the corresponding time stamp 
+
+at which the snapshot was taken. As mentioned before, all simulations presented here are generated using the DNS 
+
+mode. There are some clear differences in between the flames generated with infinitely fast chemistry and with finite 
+
+rate chemistry. In the first case, when infinitely fast chemistry is assumed, it is expected that combustion will happen 
+
+as soon as the flammable mixture is formed and, thus, the reaction is controlled only by the transport and mixing 
+
+process of the fuel and oxidizer. In the second case, when a finite rate chemistry is considered, the model relies on the 
+
+reaction rate following an Arrhenius reaction calculated from the kinetic parameters previously defined. From the 
+
+results shown in Fig. 4 (top and middle) it is seen that chemistry is not expected to play a role at high pressures (~100 
+
+kPa) since the flame propagation and burning process is mainly controlled by heat and mass transport, thus little 
+
+differences between the two cases are observed. However, as pressure is reduced from 100 kPa to 30 kPa, the chemistry 
+
+starts to play an increasingly important role showing a lower HRR for both cases considered. Furthermore, with the 
+
+kinetic parameters considered, the finite rate chemistry model leads to blow-off after the flame gets away from the 
+
+igniter at 50 kPa, and eventually no-propagation at 30 kPa. However, the experiments performed at 30 kPa still showed 
+
+flame propagation, which indicates the kinetics are not well representing the case at very low pressures. 
+
+Figure 4 (bottom) shows snapshots of experiments performed at similar conditions of ambient pressure. Flames 
+
+spread visibly slower as pressure is reduced. Interestingly, it is seen that experimentally as the ambient pressure is 
+
+reduced the flame characteristics are also affected, becoming less turbulent and with its intensity reduced. As pressure 
+
+is reduced, visible flame height is also affected, becoming shorter at lower pressures. 
+
+Further analysis of the model results shown in Fig. 4 suggests that as pressure decreases, the HRR level (related 
+
+to flame intensity) throughout the flame is also decreased. This is true for both fast and finite rate chemistry, although 
+
+it is much clearer in the finite rate chemistry case (middle row). On the other hand, the distance from the flame to the 
+
+solid surface does not seem visibly affected by the decrease in ambient pressure, regardless of the kinetic model, if far 
+
+away from extinction conditions. These results seem to indicate that, in the FDS simulations, the reduction in flame 
+
+spread rate with decreasing ambient pressure can be mainly attributed to a decrease in HRR. The decrease in HRR 
+
+ 
+Figure 3: Schematics showing representative measurements for the experiments (left and middle side) and 
+
+the FDS simulations (right side). 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+6 
+
+would reduce the heat flux that the flame transfers to the solid surface, establishing a reduced heat transfer feed-back 
+
+loop until extinction conditions appear.  
+
+ 
+
+ 
+ Figure 5 shows a comparison of the progress of the pyrolysis front and burnout front positions for three different 
+
+ambient pressures for both the FDS simulation results with infinitely fast chemistry and the experimental data. It is 
+
+seen that, in spite of the simplifications included in the model, the simulations are able to qualitatively reproduce the 
+
+overall behavior observed during the experiments: at lower ambient pressures the  time evolution of the pyrolysis front 
+
+and burnout front positions over the sample length  is slower, i.e. the flame spread rate is reduced. It is also seen that 
+
+the average total burn time for the experiments is larger than the one obtained for the simulations at all ambient 
+
+pressures tested. In the simulations, the reaction is initiated immediately as the igniter object is at a very high 
+
+temperature from the beginning, whereas experimentally, the flame spread process takes longer to start due to the 
+
+effect of the heating up of the igniter and the sample at the different pressure conditions. These differences observed 
+
+suggest that the ignition process might not be entirely captured, causing larger differences at the beginning of the 
+
+spread. 
+
+ 
+Figure 4: Comparison of FDS simulation results for heat release rate (HRR) of a spreading flame under 
+
+different ambient pressures and gas phase chemistry with experimental snapshots. Top row corresponds to 
+
+scenarios using infinitely fast chemical reactions, middle row shows cases using finite rate chemistry for the gas 
+
+phase, and bottom row shows experimental snapshots. All cases correspond to an external 20 cm/s forced flow, normal 
+
+gravity 9.81 m/s2 and 21% O2 concentration. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+7 
+
+ 
+ The pyrolysis front data from Figure 5 (a) is used to determine the flame spread rates. Figure 6 shows average 
+
+flame spread rate obtained as a function of ambient pressure for both the experiments and the FDS simulations. 
+
+Because of the size of the samples, and the accelerative characteristics of the flame, an averaged spread rate over the 
+
+last 50% of the sample is presented so that the data are closer to the steady state value and transient effects are 
+
+minimized, as explained in section A. Experimental and numerical flame spread rates decrease with ambient pressure, 
+
+although only the results obtained with DNS and infinitely fast kinetics seem to agree well in terms of order of 
+
+magnitude. From the results, it is seen that the simulations performed using finite rate chemistry underpredict the 
+
+experimental spread rates at the higher pressures, while not even allowing flame spread at the lower pressure 
+
+environments. This underprediction of the experimental data is likely associated with the selection of the chemical 
+
+parameters chosen for the model and the differences that could exist between cellulose and the cotton fabric. It should 
+
+be noted that under this condition only partial burning of the sample near the igniter region was observed in the FDS 
+
+simulations done at 50 kPa, and the flame would eventually blow off about 11 mm away from the igniter, thus no 
+
+spread rate was determined for that condition due to the very short propagation length.  
+Looking to decrease the effect of ambient pressure on the simplified global one step Arrhenius reaction rate, in 
+
+Ref. [37] different approaches were taken, looking into changes of the pre-exponential factor and the activation energy 
+
+values as well as changes in the reaction order. As part of the sensitivity analysis performed in Ref. [37] the authors 
+
+found that a decrease in the activation energy (Egas) of about 4% increased the flame spread rate in about 0.8%, while 
+
+an increase in the pre-exponential factor (Agas) of about 50% only increased the flame spread rate in less than 1.4% 
+
+affecting in both cases very little the flame spread rate observed. Additional results presented also in Ref. [37] showed 
+
+that decreasing the order from 2 to 1 described the experimental results very well. This indicates that different 
+
+pathways are able to reach the same experimental behavior: either using infinitely fast chemistry or with an appropriate 
+
+(reduced) reaction order. The implications are varied. If conditions are far from extinction, it can be assumed that 
+
+kinetic effects are non-dominant and can be neglected in a first order analysis. As hypothesized, transport processes 
+
+determine the spread rates. Thus, the rest of the study will focus on infinitely fast chemistry for simplicity. This 
+
+assumption will not hold near extinction conditions.  
+
+As the flame spreads over the solid surface there are multiple complex mechanisms that involve the interaction 
+
+between the solid phase (heat transfer, thermal decomposition, gasification) and the gas phase (transport, mixing, 
+
+chemical kinetics) [1–3]. Depending of the conditions, some of these mechanisms can be more or less relevant for the 
+
+general process. The following results are only presented for simulations using DNS with infinitely fast gas phase 
+
+kinetics, because they show good agreement with the experimental results. 
+
+ 
+
+ 
+Figure 5:  Comparison of the time evolution of the (a) pyrolysis front position and (b) burnout front position of 
+
+FDS simulations with infinitely fast chemistry and experimental data. The shaded area in the experimental 
+
+data represents the variability of the experiments. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+8 
+
+In the past, reduced pressure environments 
+
+have been proposed as an opportunity to 
+
+replicate the low buoyancy environment 
+
+encountered in partial or reduced gravity 
+
+[13,15,38]. The reasoning behind this relies in 
+
+the similarities between the flames observed 
+
+under both conditions in terms of flame 
+
+appearance/luminosity and reduced spread 
+
+rate. Figure 7 shows the average flame spread 
+
+rate results obtained from the simulations at 
+
+different ambient pressures and at different 
+
+gravity levels. In both cases, when ambient 
+
+pressure or gravity level are reduced, flame 
+
+spread rate is decreased. This agrees with the 
+
+experiments at 1 g at a range of sub 
+
+atmospheric pressures (as shown in Fig. 7) and 
+
+with  Saffire experiments for microgravity 
+
+[39]. Saffire experiments correspond to Sibal, a 
+
+cotton-fiberglass composite material, and not 
+
+pure cotton as the experiments and model 
+
+presented here. Therefore, one can expect a 
+
+reduced flame spread rate in the Saffire 
+
+experiments compared to cotton. From the 
+
+figure, it is seen that as ambient pressure is 
+
+reduced, the flame spread rate over the solid 
+
+approaches that obtained at standard ambient 
+
+pressure (100 kPa) in reduced gravity. A 
+
+reduction in ambient pressure to 33 kPa results 
+
+in similar flame spread rates as those observed 
+
+in microgravity. These results indicate that 
+
+concurrent flame spread in low pressure and 
+
+normal gravity, may have similar 
+
+characteristics as those in reduced gravity. It 
+
+should be kept in mind however, that the total 
+
+pressure reduction necessary to see these 
+
+similarities will vary depending of the material 
+
+characteristics as well as other environmental 
+
+conditions.  
+
+ Another important parameter for concurrent 
+
+flame spread is the pyrolysis length because it 
+
+can be directly related to the flame size/height 
+
+and the portion of the material that is burning 
+
+as the flame spreads. Furthermore, the 
+
+pyrolysis length can be correlated to the heat that is transferred from the flame to the solid. Experimentally, this 
+
+pyrolysis length is obtained by subtracting the burnout front position from the pyrolysis front position. In the 
+
+simulation results, the pyrolysis length is determined similarly, by subtracting the burnout front position from the 
+
+pyrolysis front position. Because of the accelerative characteristic of the spread process, the pyrolysis length is 
+
+obtained toward the end of the test when it is closest to steady state. Figure 8 shows simultaneously pyrolysis length 
+
+measurements for both the experiments and the simulation results. The experiments and the FDS simulations show a 
+
+similar trend, with the pyrolysis length decreasing with decreasing ambient pressure and gravity level. It is also 
+
+interesting to see that the pyrolysis length seems to be more sensitive to changes in gravity than to ambient pressure. 
+
+From these results it can be inferred that, despite the pyrolysis front spreading at similar rates between reduced gravity 
+
+and reduced pressure conditions, the burnout front seems to spread significantly slower in reduced pressure 
+
+environment that in reduced gravity conditions. In other words, the area affected by the flame preheating and 
+
+pyrolyzing the solid surface is more sensitive to reductions in gravity. As a result, even though the flame spread rate 
+
+ 
+Figure 6: Comparison of simulated flame spread rates with 
+
+experiments. Average flame spread rate measurements obtained 
+
+from the FDS simulations as a function of ambient pressure for 
+
+different kinetic models. 
+
+ 
+Figure 7: Average flame spread rate measurements and 
+
+simulations as a function of ambient pressure on cotton fabric. 
+
+Simulations at 1 g for a range of pressures and at 100 kPa and 0g are 
+
+included. Microgravity experiments obtained during the Saffire II test 
+
+[39] for another cotton-based fabric (Sibal) are included in here for 
+
+reference. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+9 
+
+is comparable between these conditions (see Fig. 7), bigger differences arise when looking into the pyrolysis length 
+
+or flame height measurements. 
+
+ 
+
+ 
+
+C. Effect of reduced ambient gravity 
+ 
+
+The results of Fig. 7 agree with the hypothesis that suggest that reduced pressure can be used to replicate the flame 
+
+spread behavior observed at reduced gravity level. Continuing with this analysis, different gravity levels are also 
+
+simulated using FDS to explore the similarities and differences between reduced pressure and gravity. Fig. 9 shows 
+
+the average flame spread rate obtained from the FDS simulations at normal ambient pressure, i.e. 100 kPa, for different 
+
+gravity levels. As a comparison, the experimental data obtained in 1g at different ambient pressures and that of Saffire 
+
+in microgravity are also included. It is seen that as the gravity level is reduced the flame spread rate follows a linear 
+
+trend, similar to what was observed when reducing ambient pressure (experimentally and through the simulations). It 
+
+is also seen that flame spread rates obtained at different gravity levels could be comparable to those obtained at 
+
+different ambient pressures. In such a case, flame spread rates under lunar gravity (0.17g) could be replicated by a 
+
+reduction in ambient pressure to 46 kPa, and flame spread rate in a martian gravity (0.38g) would be similar to that 
+
+encountered at 54 kPa. 
+
+ 
+
+ 
+Figure 8: Pyrolysis length measurements and simulations as a function of ambient pressure. Simulations at 1 g 
+
+for a range of pressures and at 100 kPa and 0g are included. Microgravity experiments obtained during Saffire II test 
+
+[39] for another cotton-based fabric (Sibal) are included in here for reference. 
+
+ 
+Figure 9: Average flame spread rate measurements as a function of gravity level. Microgravity experiments 
+
+obtained during Saffire II test [39] for another cotton based fabric (Sibal) are included in here for reference. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+10 
+
+It is broadly accepted that flame spread reduces at lower pressures. However, the explanations behind this 
+
+observation may be challenged. As presented in Ref. [15,34] at the lower pressures the flame spread rate is expected 
+
+to be reduced because of a thickening in both the hydrodynamic and thermal boundary layers, moving the flame further 
+
+away from the solid surface and consequently reducing the convective heating from the flame to the solid. Figure 10 
+
+corroborates this explanation when reduced buoyancy is due to a reduced gravity level, as seen from a) 100 kPa 1 g 
+
+(left) to e) 100 kPa ug (right), where the boundary layer thickness at mid-sample (50 mm high) increases approximately 
+
+40%. However, analysis of Fig. 4 top row indicates that as pressure is reduced, the boundary layer thickness is not 
+
+greatly affected. In fact, the FDS simulations results presented in Fig. 4 suggest that the reason for a decreased flame 
+
+spread rate at low pressures may be related to a lower HRR rather than to a change in the thermal boundary layer 
+
+geometry or flame stand-off distance. This is further explained considering that FDS determines the HRR by summing 
+
+the species mass production rates times the respective heats of formation as: 
+
+ 
+
+�̇�′′′ = − ∑�̇�𝛼
+′′′∆ℎ𝑓,𝛼
+
+0
+
+𝛼
+
+ (1) 
+
+ 
+
+or more generally as 
+
+ 
+
+�̇�′′′ = 𝜌 ∑(�̃�𝛼(𝛿𝑡) − �̃�𝛼
+0)∆ℎ𝑓,𝛼
+
+0
+
+𝛼
+
+ (2) 
+
+ 
+
+where �̇�′′′ is the HRR per unit volume, �̇�𝛼
+′′′ is the mass production time of 𝛼, ∆ℎ𝑓,𝛼
+
+0  is the heat of formation of specie 
+
+𝛼, �̃�𝛼(𝛿𝑡) is the cell mean mass fraction at the end of the time step 𝛿𝑡, �̃�𝛼
+0 is the initial cell mean mass fraction of 
+
+species 𝛼, and 𝜌 is the gas phase density. Eq. (2) shows a clear dependence on density, which in turn is dependent on 
+ambient pressure following the equation of state (𝑃 = 𝜌𝑇𝑅/𝑊), explaining then the reduction of HRR with ambient 
+pressure. The variations in the HRR with ambient pressure are of importance because they can explain the reduction 
+
+in the flame spread rates obtained with minimal change of the boundary layer thickness. These results may indicate 
+
+another aspect in which reduced buoyant flows (gravity and pressure) may differ and caution should be exercised 
+
+when extrapolating results from one to the other condition. This is also highlighted by the greater differences seen in 
+
+the pyrolysis length shown in Fig. 8, where cotton modeling results or experiments for Sibal (Saffire -II) for 
+
+microgravity appear significantly lower than any low pressure case tested or simulated at 1 g.  
+ 
+
+ 
+ To gather more insight into the heat transfer in these two similar reduced buoyancy situations, the convective and 
+
+radiative heat flux on the solid surface are shown in Fig. 11. The data presented in Fig. 11 shows the evolution over 
+
+time of heat flux measurements from devices positioned 50 mm from the bottom edge of the sample. Notice the initial 
+
+ 
+Figure 10: FDS simulation results showing heat release rate (HRR) of a spreading flame under different gravity 
+
+levels. Time stamps show the instant the flame front reaches 33 mm. Oxygen concentration is 21%, external forced 
+
+flow velocity is 20 cm/s. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+11 
+
+noise registered by the devices initially when the igniter is on and the flame is stabilizing over the surface. Also, at 
+
+each of the conditions a different peak measurement is recorded when the upstream leading edge of the flame (burnout 
+
+front) passes over the device. From the figure it is seen that at FDS confirms that, for concurrent flame spread, the 
+
+process is mainly controlled by convective heating of the surface as the flame spreads over it. In all cases, whether its 
+
+reduced pressure (top row) or gravity level (bottom row) the convective heat flux is an order of magnitude larger than 
+
+the radiative heat flux. It is seen that as the pressure (top row) and gravity level (bottom row) are reduced 
+
+independently, the convective heat flux to the solid surface is also reduced, particularly during the initial preheating 
+
+of the material, causing a slower heating of the solid surface and a slower propagation rate. Furthermore, it is also 
+
+seen that particularly at as pressure or gravity are reduced, radiative heat transfer effects become more significant in 
+
+magnitude when compared to convective effects. An interesting difference shown by the heat flux profiles at low 
+
+pressure and at low gravity is that, despite having similar average flame spread rates, the conditions at low pressure 
+
+in 1g and 100 kPa in low gravity exhibit very different profiles, particularly at the end of the spread. This is related to 
+
+fact that in FDS the burnout front seems to spread significantly slower in reduced pressure environment that in reduced 
+
+gravity conditions. 
+
+ 
+
+IV. Conclusion 
+
+The concurrent flame spread rate over a thin cotton fabric has been studied under reduced ambient pressure and 
+
+gravity levels using numerical simulations performed with FDS to better understand the effect of this environmental 
+
+variable on the flame spread process.  
+
+  
+
+ 
+Figure 11: FDS simulation results for HRR by convection (left) and radiation (right) at different pressures (top) 
+
+and different gravity levels (bottom). All correspond to devices positioned 50 mm from the bottom boundary. 
+
+Vertical peaks correspond to the flame burnout front passing by this location. 
+
+ 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+12 
+
+The results show that as pressure is reduced, the flame spread rate over the cotton fabric is also reduced, as observed 
+
+with other fuels. FDS simulations show that at higher ambient pressures the chemistry does not play a significant role 
+
+and the process is mainly controlled by convective heat transfer mechanisms. The simulation results suggest that 
+
+reducing the pressure decreases the HRR from the flame to the solid surface due to a reduction in convective heat flux 
+
+at low pressures. However, the flame stand-off distance seems relatively insensitive to ambient pressure. As ambient 
+
+pressure is further reduced, the resolution of the chemistry model can become a key factor in the definition of the 
+
+spread rate and controlling extinction. Decoupling chemical effects from heat transfer effects shows that the chemical 
+
+kinetic parameters selected are particularly important at lower ambient pressure environments where, if a detailed 
+
+finite rate model is used, no propagation is observed.  
+
+Furthermore, the analysis of the FDS simulation results suggest that as gravity levels are reduced, flame spread 
+
+rates also decrease but the explanation behind this observation seems different. As gravity levels are lowered, the 
+
+convective heat flux on the sample surface is reduced (as with lower pressure). This reduction in convective heat flux 
+
+is accompanied by a visible enlargement of the boundary layer thickness, leading to a much lower flame spread rate 
+
+as a result of the superposition of both effects. This agrees with previous analytical studies, that predicted a reduced 
+
+buoyant flow would have these effects but highlights the differences between reducing gravity or ambient pressure.  
+
+Acknowledgments 
+
+This research is supported by NASA Grant NNX12AN67A. The authors would like to thank Saul Pacheco, Grace 
+
+Mendoza, Runbiao Wei, Ryan So, Mina Fanaian, and Madison Hales for their contributions conducting the 
+
+experiments. 
+
+References 
+
+[1] F.A. Williams, Mechanisms of fire spread, Symp. Combust. 16 (1976) 1281–1294. doi:10.1016/S0082-0784(77)80415-3. 
+
+[2] J.G. Quintiere, Fundamentals of Fire Phenomena, Wiley, 2006. 
+
+[3] C. Fernandez-Pello, The solid phase, in: G. Cox (Ed.), Combust. Fundam. Fire, Academic Press Limited, 1994: pp. 31–
+
+100. 
+
+[4] G.H. Markstein, J.N. de Ris, Upward fire spread over textiles, Symp. Combust. 14 (1973) 1085–1097. 
+
+[5] M. Sibulkin, J. Kim, The dependence of flame propagation on surface heat transfer II. upward burning, Combust. Sci. 
+
+Technol. 17 (1977) 39–49. doi:10.1080/00102209708946811. 
+
+[6] A.C. Fernandez-Pello, Flame spread in a forward forced flow, Combust. Flame. 36 (1979) 63–78. doi:10.1016/0010-
+
+2180(79)90046-4. 
+
+[7] H.T. Loh, C. Fernandez-Pello, A study of the controlling mechanisms of flow assisted flame spread, Twent. Symp. 
+
+Combust. Combust. Inst. (1984) 1575–1582. 
+
+[8] H.T. Loh, A.C. Fernandez-Pello, Flow Assisted Flame Spread over Thermally Thin Fuels, Fire Saf. Sci. 1 (1986) 65–74. 
+
+http://www.iafss.org/publications/fss/1/65. 
+
+[9] C.K. Law, S.H. Chung, N. Srinivasan, Gas-phase quasi-steadiness and fuel vapor accumulation effects in droplet burning, 
+
+Combust. Flame. 38 (1980) 173–198. doi:10.1016/0010-2180(80)90049-8. 
+
+[10] C. Li, Y.T.T. Liao, J.S. T’Ien, D.L. Urban, P. Ferkul, S. Olson, G.A. Ruff, J. Easton, Transient flame growth and spread 
+
+processes over a large solid fabric in concurrent low-speed flows in microgravity - Model versus experiment, Proc. 
+
+Combust. Inst. 37 (2019) 4163–4171. doi:10.1016/j.proci.2018.05.168. 
+
+[11] A.C. Fernandez-Pello, A theoretical model for the upward laminar spread of flames over vertical fuel surfaces, Combust. 
+
+Flame. 31 (1978) 135–148. doi:10.1016/0010-2180(78)90124-4. 
+
+[12] P. V. Ferkul, J.S. T’ien, A model of low-speed concurrent flow flame spread over a thin fuel, Combust. Sci. Technol. 99 
+
+(1994) 345–370. doi:10.1080/00102209408935440. 
+
+[13] J. Kleinhenz, I.I. Feier, S.Y. Hsu, J.S. T’ien, P. V. Ferkul, K.R. Sacksteder, Pressure modeling of upward flame spread 
+
+and burning rates over solids in partial gravity, Combust. Flame. 154 (2008) 637–643. 
+
+doi:10.1016/j.combustflame.2008.05.023. 
+
+[14] G. Jomaas, J.L. Torero, C. Eigenbrod, J. Niehaus, S.L. Olson, P. V Ferkul, G. Legros, A.C. Fernandez-Pello, A.J. Cowlard, 
+
+S. Rouvreau, N. Smirnov, O. Fujita, J.S. T’ien, G.A. Ruff, D.L. Urban, Fire safety in space – beyond flammability testing 
+
+of small samples, Acta Astronaut. 109 (2015) 208–216. doi:10.1016/j.actaastro.2014.11.025. 
+
+[15] M. Thomsen, C. Fernandez-pello, D.L. Urban, G.A. Ruff, S.L. Olson, On simulating concurrent flame spread in reduced 
+
+gravity by reducing ambient pressure, Proc. Combust. Inst. 37 (2019) 3793–3800. 
+
+[16] Y. Nakamura, N. Yoshimura, T. Matsumura, H. Ito, O. Fujita, Flame Spread over Polymer-Insulated Wire in Sub-
+
+Atmospheric Pressure : Similarity to Microgravity Phenomena, Prog. Scale Model. (2008) 17–27. doi:10.1007/978-1-
+
+4020-8682-3_2. 
+
+[17] Y. Zhang, X. Huang, Q. Wang, J. Ji, J. Sun, Y. Yin, Experimental study on the characteristics of horizontal flame spread 
+
+over XPS surface on plateau, J. Hazard. Mater. 189 (2011) 34–39. doi:10.1016/j.jhazmat.2011.01.101. 
+
+
+
+ 
+
+International Conference on Environmental Systems 
+ 
+
+ 
+
+13 
+
+[18] J. Gong, L. Yang, X. Zhou, Z. Deng, G. Lei, W. Wang, Effects of low atmospheric pressure on combustion characteristics 
+
+of polyethylene and polymethyl methacrylate, J. Fire Sci. 30 (2012) 224–239. doi:10.1177/0734904111431863. 
+
+[19] J. Gong, X. Zhou, Z. Deng, L. Yang, Influences of low atmospheric pressure on downward flame spread over thick PMMA 
+
+slabs at different altitudes, Int. J. Heat Mass Transf. 61 (2013) 191–200. doi:10.1016/j.ijheatmasstransfer.2013.01.066. 
+
+[20] A.F. Osorio, C. Fernandez-Pello, D.L. Urban, G.A. Ruff, Limiting conditions for flame spread in fire resistant fabrics, 
+
+Proc. Combust. Inst. 34 (2013) 2691–2697. doi:10.1016/j.proci.2012.07.053. 
+
+[21] M. Thomsen, D.C. Murphy, C. Fernandez-Pello, D.L. Urban, G.A. Ruff, Flame spread limits (LOC) of fire resistant 
+
+fabrics, Fire Saf. J. 91 (2017) 259–265. doi:10.1016/j.firesaf.2017.03.072. 
+
+[22] C. Lautenberger, G. Rein, C. Fernandez-Pello, The application of a genetic algorithm to estimate material properties for 
+
+fire modeling from bench-scale fire test data, Fire Saf. J. 41 (2006) 204–214. doi:10.1016/j.firesaf.2005.12.004. 
+
+[23] A. Kumar, H.Y. Shih, J.S. T’ien, A comparison of extinction limits and spreading rates in opposed and concurrent 
+
+spreading flames over thin solids, Combust. Flame. 132 (2003) 667–677. doi:10.1016/S0010-2180(02)00516-3. 
+
+[24] C. Li, Y.T.T. Liao, Numerical investigation of flame splitting phenomenon in upward flame spread over solids with a two-
+
+stage pyrolysis model, Combust. Sci. Technol. 190 (2018) 2082–2096. doi:10.1080/00102202.2018.1489380. 
+
+[25] X. Zhao, J.S. T’ien, A three-dimensional transient model for flame growth and extinction in concurrent flows, Combust. 
+
+Flame. 162 (2015) 1829–1839. doi:10.1016/j.combustflame.2014.12.003. 
+
+[26] Y.T.T. Liao, J.S. T’ien, A numerical simulation of transient ignition and ignition limit of a composite solid by a localised 
+
+radiant source, Combust. Theory Model. 17 (2013) 1096–1124. doi:10.1080/13647830.2013.831486. 
+
+[27] C. Lautenberger, S. Mcallister, D. Rich, C. Fernandez-pello, Effect of Environmental Variables on Flame Spread Rates in 
+
+Microgravity, 45th Int. Conf. Environ. Syst. (2007) 1–11. doi:10.2514/6.2007-383. 
+
+[28] S. Fereres, C. Lautenberger, A.C. Fernandez-Pello, D.L. Urban, G.A. Ruff, Understanding ambient pressure effects on 
+
+piloted ignition through numerical modeling, Combust. Flame. 159 (2012) 3544–3553. 
+
+doi:10.1016/j.combustflame.2012.08.006. 
+
+[29] J.W. Kwon, N.A. Dembsey, C.W. Lautenberger, Evaluation of FDS V.4: Upward flame spread, Fire Technol. 43 (2007) 
+
+255–284. doi:10.1007/s10694-007-0020-x. 
+
+[30] H.Y. Shih, J.S. T’ien, A three-dimensional model of steady flame spread over a thin solid in low-speed concurrent flows, 
+
+Combust. Theory Model. 7 (2003) 677–704. doi:10.1088/1364-7830/7/4/005. 
+
+[31] T. Kashiwagi, K.B. McGrattan, S.L. Olson, O. Fujita, M. Kikuchi, K. Ito, Effects of Slow Wind on Localized Radiative 
+
+Ignition and Transition To Flame Spread in Microgravity, Symp. Combust. 26 (1996) 1345–1352. 
+
+doi:http://dx.doi.org/10.1016/S0082-0784(96)80353-5. 
+
+[32] C.W. Lautenberger, Y.Y. Zhou, A.C. Fernandez-Pello, Numerical modeling of convective effects on piloted ignition of 
+
+composite materials, Combust. Sci. Technol. 177 (2005) 1231–1252. doi:10.1080/00102200590927058. 
+
+[33] G. Rein, C. Lautenberger, A.C. Fernandez-Pello, J.L. Torero, D.L. Urban, Application of genetic algorithms and 
+
+thermogravimetry to determine the kinetics of polyurethane foam in smoldering combustion, Combust. Flame. 146 (2006) 
+
+95–108. doi:10.1016/j.combustflame.2006.04.013. 
+
+[34] M. Thomsen, C. Fernandez-pello, G.A. Ruff, D.L. Urban, Upward-Concurrent Flame Spread over a Thin Cotton Fabric : 
+
+The Effect of Ambient Pressure, Proc. Nineth Int. Semin. Fire Explos. Hazards. (2019). 
+
+[35] K. McGrattan, S. Hostikka, R. McDermott, J. Floyd, C. Weinschenk, K. Overholt, Fire Dynamics Simulator (Sixth 
+
+Edition) User’s Guide, Gaithersburg, MD, 2016. doi:10.6028/NIST.SP.1019. 
+
+[36] L. Cabrales, N. Abidi, On the thermal degradation of cellulose in cotton fibers, J. Therm. Anal. Calorim. 102 (2010) 485–
+
+491. doi:10.1007/s10973-010-0911-9. 
+
+[37] M. Thomsen, S. Fereres, C. Fernandez-pello, D.L. Urban, G.A. Ruff, Understanding the Role of Low Pressure on Upward 
+
+Flame Spread over Thin Cotton, in: West. States Sect. Combust. Inst. - Fall Meet., 2019: pp. 1–18. 
+
+[38] S.L. Olson, S.A. Gokoglu, D.L. Urban, G.A. Ruff, P. V. Ferkul, Upward flame spread in large enclosures: Flame growth 
+
+and pressure rise, Proc. Combust. Inst. 35 (2015) 2623–2630. doi:10.1016/j.proci.2014.05.069. 
+
+[39] D.L. Urban, P. Ferkul, S. Olson, G.A. Ruff, J.S. T’ien, Y.T. Liao, A.C. Fernandez-Pello, J.L. Torero, G. Legros, C. 
+
+Eigenbrod, N. Smirnov, O. Fujita, S. Rouvreau, B. Toth, G. Jomaas, Flame Spread : Effects of Microgravity and Scale, 
+
+Combust. Flame. 199 (2019) 168–182. doi:10.1016/j.combustflame.2018.10.012. 
+
+ 
+
+ 
+
+

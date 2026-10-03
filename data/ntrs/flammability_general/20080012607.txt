@@ -1,0 +1,551 @@
+EFFECT OF PRESSURE ON PILOTED IGNITION DELAY OF
+PMMA
+Sara McAllistera‡, Janice Laia, Sarah Scotta, Amelia Ramirez-Correaa, Carlos Fernandez-Pelloa, David
+Urbanb, and Gary Ruffb
+a
+
+Department of Mechanical Engineering; University of California, Berkeley; Berkeley, CA 94720, USA.
+b
+NASA John H Glenn Research Center, Cleveland, OH 44256
+
+ABSTRACT
+In order to reduce the risk of decompression sickness associated with spacewalks, NASA is
+considering designing the next generation of exploration vehicles and habitats with a different cabin
+environment than used previously. The proposed environment uses a total cabin pressure of 52.7 to 58.6
+kPa with an oxygen concentration of 30 to 34% by volume and was chosen with material flammability
+in mind. Because materials may burn differently under these conditions and there is little information
+on how this new environment affects the flammability of the materials onboard, it is important to
+conduct material flammability experiments at the intended exploration atmosphere. One method to
+evaluate material flammability is by its ease of ignition. To this end, piloted ignition delay tests were
+conducted in the Forced Ignition and Spread Test (FIST) apparatus subject to this new environment. In
+these tests, polymethylmethacylate (PMMA) was exposed to a range of oxidizer flow velocities and
+externally applied heat fluxes. The ultimate goal is to determine the individual effect of pressure and the
+combined effect of pressure and oxygen concentration on the ignition delay. Tests were conducted for a
+baseline case of normal pressure and oxygen concentration, low pressure (58.6 kPa) with normal oxygen
+(21%). Future work will focus on low pressure with 32% oxygen concentration (space exploration
+atmosphere - SEA) conditions. It was found that reducing the pressure while keeping the oxygen
+concentration at 21% reduced the ignition time by 17% on average. It was also noted that the critical
+heat flux for ignition decreases in low-pressure conditions. Because tests conducted in standard
+atmospheric conditions will underpredict the flammability of materials intended for use on spacecraft,
+fire safety onboard at exploration atmospheres may be compromised.
+INTRODUCTION
+The possibility of an accidental fire onboard space vehicles and facilities has been a concern for
+many years [1-3]. Because these vehicles and facilities are built with a 20-year life expectancy and have
+flammable materials and sources of ignition onboard, the possibility of fire must be considered. The
+enclosed nature of space facilities, their limited egress, their dependence on electrical equipment with
+limited system redundancy, and the sensitivity of this equipment to soot and chlorinated products means
+that a fire does not have to be large to have serious consequences. Consequently, understanding material
+‡
+
+Corresponding author:
+60A Hesse Hall, Mailstop 1740
+University of California at Berkeley
+Berkeley, CA 94720-1740
+Telephone: 510-643-5282
+Fax: 510-642-1850
+Email: smcallister@me.berkeley.edu
+
+1
+
+flammability in the environments expected in space facilities is of utmost importance. Flammability of
+solid materials is typically characterized by four parameters: ignition delay or ease of ignition, flame
+spread rate, heat release rate, and toxicity [4]. The last three parameters are only important if the solid
+has already ignited, so this work will focus on the ignition delay or ease of ignition.
+Significant effort has already been applied to understanding ignition delay in microgravity
+conditions, both theoretically and experimentally [5-9]. The conclusion drawn from each of the above
+studies is that in the low velocity flows commonly encountered in space-based facilities piloted ignition
+delay times are shorter than those in the buoyancy-induced flows of normal gravity. Additionally, the
+critical heat flux (CHF) for ignition in microgravity could be as little as half of the value determined in
+normal gravity.
+The bulk of this previous work has been done using standard atmospheric conditions - 101kPa with
+21% oxygen by volume. However, NASA is designing the next generation of vehicles to operate with a
+different cabin environment to reduce the risk of decompression sickness and the pre-breath time
+required for extra-vehicular activities (EVA) [10]. The proposed space exploration atmosphere (SEA)
+uses a total cabin pressure of 52.7 to 58.6 kPa with an oxygen concentration of 30 to 34% by volume. It
+is well known that an increase in oxygen concentration can decrease the ignition delay time [11-13], but
+the influence of pressure is not well explored. The effect of pressure on the autoignition of polymers has
+been examined by several researchers, including Kishore and Sankaralingam [14], Hermance [15],
+Attwood and Allen [16], and Alvares [17], but the mechanisms of autoignition are different from those
+of piloted ignition. Cook et al [18] examined the role of pressure on piloted ignition. In this early work,
+the piloted ignition delay time and the ignition temperature of filter paper was measured for pressures
+ranging from atmospheric to 920kPa (9 atm). The temperature of the igniter, which was in contact with
+the filter paper, was reported as the ignition temperature of the paper. Interestingly, the temperature of
+the igniter at ignition was shown to decrease as the pressure increased, but the ignition delay time
+showed a slight increase with pressure.
+The objective of the present study is to determine the effect of lowering the atmospheric pressure on
+the ignition delay time of solid materials. To this end, ignition delay tests were performed using the
+Forced-flow Ignition and Spread Test (FIST) apparatus subject to (i) atmospheric pressure (101kPa) and
+oxygen concentration (21%), and (ii) a representative pressure expected in space exploration
+atmospheres (SEA) (58 kPa) and atmospheric oxygen concentration (21%). Future work will focus on
+the combination of low pressure and high oxygen concentration, particularly the atmosphere expected in
+SEA (58kPa and 32% O2).
+DESCRIPTION OF EXPERIMENTS
+All tests were performed in the Forced-flow Ignition and flame Spread Test (FIST) apparatus
+developed at UC Berkeley under NASA sponsorship. A simplified schematic of the FIST tunnel is
+shown below in Fig. 1. The tunnel is 39.2 cm long in the streamwise direction, 14.9 cm wide, and 8.0
+cm high. A fan at the downstream end of the tunnel induced a forced flow of 40, 70, or 100 cm/s. An
+infrared radiant heater was used to preheat the samples and was arranged to produce a nearly constant
+heat flux over the length of the sample. Tests were performed with heat fluxes of 8 to 14 kW/m2.
+Ignition was induced with a 3-mm diameter coiled Kanthal wire mounted 10 mm downstream of the
+sample. The igniter was kept above 1000°C in all tests to minimize the gas-phase induction time.
+The FIST flow tunnel is mounted horizontally in a containment chamber (shown in Fig. 2) that allows
+tests to be performed at a range of ambient pressures. The chamber pressure was monitored using a
+pressure transducer and was set to either atmospheric pressure or the reduced pressure planned for
+exploration (58.6 kPa). To make sure the chamber didn’t heat excessively during the course of a test,
+
+2
+
+the ambient gas temperature inside the chamber was monitored with a thermocouple placed near the
+inlet of the tunnel.
+
+Aluminum
+IR heaters
+
+u∞
+
+Oxidizer
+Flow
+Igniter
+Phlogophite mica
+
+Fuel
+sample holder
+
+Figure 1. Simplified schematic of the FIST tunnel.
+The material tested was commercially available black PMMA (Type G, Atoglas). The samples used
+were 30 mm by 30 mm with a thickness of 10 mm and were mounted so that they were flush with the
+surface of the tunnel. One K-type thermocouple was mounted on the top and bottom surfaces of the
+sample. Although care was taken to ensure that the thermocouple bead is embedded flush with the
+sample surface, the measured temperature should only be viewed as an approximation to the actual
+surface temperature due to movement of the thermocouple resulting from surface density changes. The
+ignition delay time was measured as the time it took the sample to ignite after the external heat flux was
+activated. Ignition was recorded manually based on observation but was verified by the surface
+temperature traces. All tests were repeated three times to provide an estimate of the experimental error.
+
+Figure 2. Photograph of the FIST tunnel in the containment chamber.
+
+3
+
+RESULTS
+The ignition delay time as a function of externally applied heat flux is shown in Fig. 3 for various
+oxidizer flow velocities under 58.6kPa and 21% O2. The results are presented assuming thermally thick
+heating behavior following [19], and as discussed below. It is acknowledged that some of the ignition
+times are long enough that the thermal wave penetrates the entire thickness resulting in thermally
+intermediate behavior, but the linearity of the data suggests that the thermally thick assumption is
+reasonable. From the figure, it is clear that several trends seen in atmospheric conditions [11] are also
+seen at low pressure. The ignition delay time decreases when the externally applied heat flux increases
+and the flow velocity decreases. In both cases the fuel sample heats up more quickly and reaches the
+pyrolysis temperature sooner, decreasing the overall time required for ignition to occur.
+
+6
+
+tig-1/2 *100 (sec-1/2)
+
+5.5
+5
+4.5
+4
+3.5
+v = 40 cm/s
+v = 70 cm/s
+v = 100 cm/s
+
+3
+2.5
+2
+7
+
+9
+
+11
+
+13
+
+15
+
+External Heat Flux (kW/m2)
+Figure 3. Ignition delay time as a function of externally applied heat flux for several oxidizer flow
+velocities under 58.6 kPa and 21% O2
+Figure 4 compares the ignition delay time as a function of externally applied heat fluxes for the
+difference environments tested. In all plots, the piloted ignition time is shorter at low pressures. The
+ignition delay time decreases on average by 17% when the pressure is reduced compared to standard
+atmospheric conditions. If the data is extrapolated to infinitely long ignition times (when the inverse of
+the square root of the ignition time is equal to zero), the critical heat flux for ignition can be
+approximately determined [13]. From Fig. 4, it is inferred that the critical heat flux decreases when the
+pressure is reduced. It is important to note that the thermally thick assumption does not hold for the long
+delay times near the critical heat flux. The heating behavior more closely follows that of a thermally
+thin solid, thus the critical heat flux values determined by extending the straight-line trend based on the
+thermally thick assumption will be lower than the actual values, but the relation between them will stay
+the same.
+
+4
+
+6
+5.5
+
+tig-1/2 *100 (sec-1/2)
+
+5
+4.5
+4
+3.5
+3
+
+101.3kPa, 21% O2
+58.6kPa, 21% O2
+
+2.5
+2
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+2
+
+External Heat Flux (kW/m )
+
+(a)
+6
+
+6
+5.5
+
+tig-1/2 *100 (sec-1/2)
+
+)
+
+-1/2
+
+*100 (sec
+
+-1/2
+
+tig
+
+5
+
+101.3kPa, 21% O2
+58.6kPa, 21% O2
+
+5.5
+
+101.3kPa, 21% O2
+58.6kPa, 21% O2
+
+4.5
+4
+3.5
+3
+
+5
+4.5
+4
+3.5
+3
+
+2.5
+
+2.5
+
+2
+
+2
+
+9
+
+11
+
+13
+
+15
+2
+
+External Heat Flux (kW/m )
+
+(b)
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+External Heat Flux (kW/m2)
+
+(c)
+
+Figure 4. Ignition delay time as a function of externally applied heat flux for an oxidizer flow velocity
+of (a) 40 cm/s, (b) 70 cm/s, and (c) 100 cm/s.
+
+DISCUSSION
+The ignition of a solid can be viewed as a series of three events [19, 20]. In the first, the solid must
+be heated to a high enough temperature for pyrolysis to occur. Once the pyrolysis gases are produced,
+they must mix with oxidizer to form a combustible mixture. A gas phase induction process must then
+occur for thermal runaway to ignition. This three-step process results in three characteristic times that,
+
+5
+
+when combined, equal the total ignition delay time: a pyrolysis or solid heating time, a mixing time, and
+an induction or chemistry time. In piloted ignition, the igniter is typically very hot (>1000°C),
+essentially removing the chemistry time as a factor [19], particularly under elevated oxygen conditions.
+Even when pure diffusion across the boundary layer is assumed to be the mixing mechanism, this
+characteristic time is still only on the order of a few seconds [19]. By comparison, the solid heating time
+is typically on the order of minutes, so most analytical models for solid ignition assume that the ignition
+time is equal to the solid heating time [13, 19, 20].
+Though the analysis seems straightforward, there is still some debate about the criterion to use for
+ignition. There are two main possibilities: that the solid must be heated to the ignition temperature or
+that the solid must be heated so that it generates the critical pyrolysis mass flux rate. If a surface
+temperature at ignition is assumed as the ignition criterion, an analytical expression for the ignition
+delay time can be easily generated using a relation for the solid heating time, such as the one by [19].
+Following the thermally thick assumption, if the solid is treated as a semi-infinite solid, an order-of−1
+
+magnitude estimate of the time to ignition can be calculated as t ig
+
+2
+
+′
+′
+∝ q e′ − heff (Tig − T∞ ) , where q e′ is the
+
+externally applied heat flux and heff is the effective heat transfer coefficient that includes convection and
+radiation losses. It is this relation that justifies presenting the data in terms of the ignition time to the
+negative one-half power, as in Figs. 3 and 4. However, the surface temperature at ignition is an
+empirical quantity that cannot be determined from material properties for different environmental
+conditions. The latter criterion, the critical pyrolysis mass flux rate, is a more physically correct
+criterion [21] and will therefore be the basis of our further discussion.
+Piloted solid ignition occurs when sufficient pyrolysis gasses are produced so that the mixture at the
+igniter is at the lean flammability limit. Once the mixture near the igniter has ignited, a premixed flame
+may propagate back towards the solid. In order to initiate sustained burning, enough pyrolysis gases
+must be generated at the surface so that the temperature of the approaching flame is great enough that
+the heat losses to the solid do not extinguish the flame. If this is the case, a diffusion flame will become
+anchored at the surface. In other words, there is a critical mass flow rate of pyrolysis gases from the
+solid in order for sustained burning to occur [21, 22, 23].
+
+350
+
+300
+
+300
+
+250
+
+250
+
+T-Ti (C)
+
+400
+
+350
+
+T-Ti (C)
+
+400
+
+200
+150
+100
+
+101.3kPa, 21% O2
+58.6kPa, 21% O2
+
+50
+
+200
+150
+100
+
+101.3kPa, 21% O2
+58.6kPa, 21% O2
+
+50
+
+0
+
+0
+
+200
+
+400
+time (sec)
+
+(a)
+
+600
+
+800
+
+0
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+time (sec)
+
+(b)
+
+Figure 5. Surface temperature relative to the initial temperature (Ti,ave ~ 30°C) as a function of time for a
+heat flux of 14 kw/m2 and an oxidizer flow velocity of (a) 100 cm/s and (b) 40 cm/s.
+
+6
+
+The above arguments can be used to explain the decrease in piloted ignition time as the pressure is
+decreased. Reducing the pressure affects all three stages of the ignition process. However, as argued
+above, the solid heating time is significantly larger than the mixing and chemistry time, so the effect of
+pressure on the heating time is dominant. Pressure affects the heating time through the critical mass flux.
+Though the oxidizer flow velocity is the same, the oxidizer mass flow rate decreases when pressure, and
+consequently the density, is reduced. Because the lean flammability limit generally is not a function of
+pressure [24], a lower fuel mass flow rate is required to reach the lean flammability limit, indicating that
+the critical mass flux rate from the solid should decrease. The temperature at which the critical mass
+flux is generated would be lower and therefore attained sooner, reducing the ignition time. This is
+confirmed in Fig. 5 where it is shown that ignition occurs at a lower surface temperature when the
+pressure is reduced.
+Pressure also affects the heating time through the convection heat loss. For mixed forced and natural
+convection over a flat plate, the convective heat transfer coefficient can be represented as
+1
+1
+Gr
+h ∝ Re 2 Pr 3 4 1 + 2 Pr 3
+(1)
+Re
+where Re is the Reynolds number, Pr is the Prandtl number, and Gr is the Grashof number. For
+1
+
+1
+
+relatively high velocity flows, Eqn. 1 reduces to h ∝ Re 2 Pr 3 . The Prandtl number is not a function of
+pressure but the Reynolds number is directly proportional to pressure through the density term. In the
+limit of pure natural convection, the relation for mixed convection heat transfer coefficient becomes
+1
+
+1
+
+h ∝ Gr 4 Pr 4 . If the oxidizer is assumed to be an ideal gas, the Grashof number is proportional to the
+pressure squared. No matter what form of convective heat transfer, the heat transfer coefficient is found
+to be proportional to the square root of the pressure. Thus, when the pressure is decreased, the heat
+transfer coefficient decreases resulting in less convective heat loss from the solid. With less heat loss
+from the solid, the temperature at which the critical mass flux rate occurs should be attained sooner (see
+the relation for ignition time above), resulting in a shorter ignition time. By comparing Figs 5a and 5b, it
+is apparent that this effect is more influential at higher flow velocities where the effect of heat loss from
+the solid is higher. For low velocity flows, the convection heat loss from the solid is minimal, so the
+reduction in ignition time at low pressure is influenced more by the reduction in the critical mass loss at
+ignition than by the decrease in convective heat losses.
+The effect of pressure on the mixing time only further shortens the ignition time due to the inverse
+dependence of the diffusivity on pressure. At even lower pressures than that tested in this work, the
+chemistry time will eventually increase to the point where it becomes dominant. In order to determine
+this limit, further testing is needed, but it is clear that this is not the case for the conditions tested.
+
+CONCLUDING REMARKS
+The variation of the ignition delay of PMMA was assessed at low-pressure conditions using the
+FIST apparatus. For piloted ignition in the pressures tested, the ignition delay time was seen to decrease
+as the pressure decreases because of the reduction in convective heat losses from the solid and critical
+mass flux. It is expected that in the intended space exploration atmosphere (58.6kPa and 32% O2), the
+ignition delay time will to decrease even further due to the effect of oxygen concentration on the
+pyrolysis rate. If the trends noted by other researchers apply, the ignition delay time in microgravity,
+low-flow conditions can be even shorter, resulting in an increase in ignition hazard onboard.
+Additionally, the critical heat flux for ignition was also shown to decrease in low pressure environments,
+adding to the hazard.
+
+7
+
+It is probable that if the pressure is reduced further, there exists a critical pressure below which the
+ignition delay time will increase again and the solid will eventually fail to ignite due to chemical kinetic
+effects. Similarly if the oxygen concentration is reduced below that of air the ignition delay will
+increase and eventually ignition will not occur [11]. Further experiments are needed to completely
+explore the effect of pressure on piloted ignition and to determine this critical pressure.
+
+ACKNOWLEDGEMENTS
+This work was supported by NASA grant NNC-05GA02G. The authors would like to thank Chris
+Lautenberger for his insightful discussions and input.
+
+REFERENCES
+1. Palmer, H., “Closing Remarks,” International Microgravity Combustion Workshop, NASA, Jan.
+1987.
+2. Faeth, G., “Closing Remarks,” Space Station Freedom Modular Combustion Facility Assessment
+Workshop, NASA, May 1989.
+3. Friedman, R., “Risk and Issues in Fire Safety on the Space Station,” NASA TM 106403, 1994.
+4. Lautenberger, C., Torero, J., and Fernandez-Pello, C., “Understanding Materials Flammability,”
+Flammability Testing of Materials used in Construction, Transport, and Mining. Ed Vivek B Apte, CRC,
+2006.
+5. Zhou, Y.Y., Walther, D.C., Fernandez-Pello, A.C., Torero, J.L., and Ross, H.D. “Theoretical
+Prediction of Piloted Ignition of Polymeric Fuels in Microgravity at Low Velocity Flows,”
+Microgravity Science and Technology, v 14, n 1, 2003, p 44-50.
+6. Lautenberger, C., Zhou, Y.Y., and Fernandez-Pello, A.C. “Numerical modeling of convective
+effects on piloted ignition of composite materials,” Combustion Science and Technology, v 177, n 5-6,
+May/June, 2005, p 1231-1252.
+7. Nakamura, Y., Yamashita, H., Takeno, T., and Kushida, G. “Effects of Gravity and Ambient
+Oxygen on a Gas-Phase Ignition Over a Heated Solid Fuel,” Combustion and Flame, 120: 34-48 (2000).
+8. Rolson, M., Olenick, S., Zhou, Y., Walther, D., Torero, J., Fernandez-Pello, C., and Ross, H.,
+“Microgravity Ignition Delay of Solid Fuels in Low-Velocity Flows,” AIAA Journal, v 39, n 12,
+December, 2001, p 2336-2342.
+9. Olson, S. L., Kashiwagi, T., Fujita, O., Kikuchi, M., and Ito, K., “Experimental Observations of
+Spot Radiative Ignition and Subsequent Three-Dimensional Flame Spread over Thin Cellulose Fuels,”
+Combust. Flame 125:852 (2001).
+10. Lange, K., A. Perka, B. Duffield, and F. Jeng. Bounding the Spacecraft Design Space for Future
+Exploration Missions, NASA/CR-2005-213689, NASA Johnson Spaceflight Center, Houston, Texas,
+June 2005.
+11. Cordova, J.L., Walther, D.C., Torero, J.L., and Fernandez-Pello, A.C. “Oxidizer Flow Effects
+on the Flammability of Solid Combustibles,” Combustion Science and Technology, 164:1, 253-278
+(2001).
+12. Atreya, A., Abu-Zaid, M. “Effect of Environmental Variables on Piloted Ignition,” Fire Safety
+Science Proceedings of the Third International Symposium; Eds. G. Cox. Sangfroid, Elsevier Applied
+Science, London, 1991, p 177.
+13. Babrauskas V., Ignition Handbook, Fire Science Publishers, Issaquah, WA, 2003.
+
+8
+
+14. Kishore, K. and Sankaralingam, S. “Effect of Pressure on Polymer Ignition,” J. Fire Sciences
+4:94-99 (1986).
+15. Hermance, C.E. “Ignition of Polymeric Materials Stimulated by Rapid External Heating,”
+Flammability Characteristics of Polymeric Materials, Polymer Conference Series, College of
+Engineering, Univ. Utah, Salt Lake City (1971).
+16. Attwood, H.C., and Allen, G.R. “On the Spontaneous Ignition Temperature of Organic
+Materials in Oxygen,” ARC-CP-1172, Royal Aircraft Establishment, Farnborough, UK, 1971.
+17. Alvares, N.J. “The Effect of Pressure on Ignition by Thermal Radiation (WSCI 66-27),”
+Western States Section, The Combustion Institute, 1966 Spring Meeting.
+18. Cook, G.A., Meierer, R.E., and Shields, B.M. “Screening of Flame-Resistant Materials and
+Comparison with Helium and Nitrogen for use in Diving Atmospheres,” First Annual Summary Report
+on Combustion Safety in Diving Atmospheres, Contract No. N00014-66-co149, Office of Naval
+Research, Washington, D.C., U.S. Navy, 1967.
+19. Quintiere, J. G. Fundamentals of Fire Phenomena, John Wiley & Sons, Ltd., 2006.
+20. Fernandez-Pello, A.C., “The Solid Phase,” Combustion Fundamentals of Fire, ed. G. Cox,
+Academic Press, San Diego, 1995.
+21. Rich, D., Lautenberger, C., Torero, J.L., Quintiere, J.G., and Fernandez-Pello, C. “Mass Flux of
+Combustible Solids at Piloted Ignition,” Proceedings of the Combustion Institute, Volume 31, Issue 2,
+January 2007, Pages 2653-2660.
+22. Rasbash, DJ; Drysdale, DD; Deepak, D, “Critical heat and mass transfer at pilot ignition and
+extinction of a material,” Fire Safety Journal, 10:1:1-10 (1986).
+23. Quintiere, J.G., and Rangwala, A.S. “A Theory for Flame Extinction Based on Flame
+Temperature,” Fire and Materials 2004; 28:387–402.
+24. Zabetakis, M.G., “Flammability Characteristics of Combustible Gases and Vapors (Bulletin
+627),” Bureau of Mines, Pittsburgh (1965).
+
+9
+

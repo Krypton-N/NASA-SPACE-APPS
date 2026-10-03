@@ -1,0 +1,1315 @@
+THE
+
+COOL
+
+FLAMES
+Howard
+
+University
+Department
+
+EXPERIMENT
+
+Pearlman
+
+of Southern
+
+_
+California
+
+of Aerospace
+and Mechanical
+Los Angeles,
+CA 90089
+howard.pearlman
+
+Richard
+
+Chapek,
+NASA
+
+@grc.nasa.gov
+
+Donna
+
+GRC,
+
+Neville,
+
+Cleveland,
+
+Ming-Shin
+NCMR,
+
+Z/N Technologies,
+
+William
+
+Sheredy
+
+OH 44135
+Wu
+
+Cleveland,
+Robert
+
+Engineering
+
+OH
+
+44135
+
+Tornabene
+Brook
+
+Park,
+
+OH
+
+44142
+
+INTRODUCTION
+A space-based
+
+experiment
+
+is currently
+
+under development
+
+to study
+
+diffusion-controlled,
+
+gas-
+
+phase, low temperature
+oxidation
+reactions,
+cool flames and auto-ignition
+in an unstirred,
+static
+reactor.
+At Earth's gravity (lg), natural convection
+due to self-heating
+during the course of slow
+reaction
+thus
+
+dominates
+
+species
+Natural
+
+except
+
+for select
+
+On Earth,
+
+transport
+
+concentration
+
+rates.
+
+(i.e., small
+
+diffusive
+
+profiles
+
+convection
+
+natural
+
+via
+
+highly
+
+spatio-temporai
+
+the Arrhenius
+
+is important
+
+low pressure,
+
+Rayleigh
+
+and produces
+
+temperature
+
+in all terrestrial
+dilute
+
+(small
+
+variations
+
+cool
+
+dependence
+
+flame
+
+temperature
+
+in the thermal
+
+and
+
+excess)
+
+of the
+
+reaction
+
+auto-ignition
+studies
+
+and
+
+studies,
+
+in small
+
+vessels
+
+number).
+convection
+
+occurs
+
+when
+
+the Rayleigh
+
+number
+
+(Ra)
+
+exceeds
+
+a critical
+
+value
+
+of
+
+approximately
+600 (Tyler,
+values of the Ra, associated
+
+1966; Fine, et. al., 1970; Barnard
+with cool flames and auto-ignitions,
+
+regime
+natural
+
+convection
+and conduction
+heat transport
+are imp0rt/mt.
+When
+it alters the temperature,
+hydrodynamic,
+and species Concenixation
+
+where both natural
+convection
+occurs,
+
+fields, thus generating
+be modeled
+analytically
+recently
+that
+
+by Kagan
+
+explosion
+
+natural
+strong
+
+convection.
+to generate
+
+(Griffiths
+
+a multi-dimensional
+field that is extremely
+difficult,
+(Griffiths,
+et. al., 1971; Melvin,
+1969). This point
+
+and co-workers
+
+limits
+
+can shift
+Moreover,
+a spatially
+
+et. al., 1974)."
+
+(Kagan,
+
+depending
+
+Thus,
+
+natural
+uniform
+
+et. al.,
+
+convection
+temperature
+
+an unstirred,
+
+in a mechanically,
+
+well-stirred
+
+Interestingly,
+
+however,
+
+ignition
+
+transfer
+
+and
+
+thermokinetic
+
+correlation
+
+thermal
+models
+
+of the form:
+
+(Yang,
+
+1997; Volpert,
+
+on the characteristic
+
+that gefierated
+
+1940)
+
+if not impossible,
+to
+has been emphasized
+
+et. al., 2000)
+length
+
+in unstirred
+distribution
+
+nonisothermal
+
+scale
+
+who have
+
+associated
+
+reactors
+is never
+throughout
+the
+
+reaction
+
+on Earth
+
+does
+
+system,
+theories
+1969)
+
+q = h(S/V)(T
+
+(Semenov,
+
+- T w) where
+
+313
+
+shown
+with
+
+the
+
+"sufficiently
+reacting
+gas
+not reduce
+
+to
+
+-
+
+neglect
+
+Corresponding Author
+
+NASA/CP--2001-210826
+
+and Harwood,
+1974).
+Typical
+range from 104-105 (or larger), a
+
+natural
+
+1958;
+
+Frank-Kamenetskii,-1939,
+
+convection
+
+and
+
+assume
+
+q is the heat loss per unit volume,
+
+a heat
+h is
+
+the heat transfercoefficient, S/V is the surfaceto volume ratio, and (T - Tw )is the spatially
+averagedtemperatureexcess. This Newtonian form has beenvalidated in spatially-uniform,
+well-stirredreactors, rovidedthe effective heattransfercoefficientassociated
+p
+with the unsteady
+process properlyevaluated(Griffiths, et.al.,1974;Gray,et.al., 1974): Unfortunately,it is not a
+is
+valid assumption for spatially-nonuniform temperature distributions induced by natural
+convection in unstirred reactors. "This is why the analysisof such a systemis so difficult
+(Griffiths, et. al., 1974)."
+Historically, the complexitiesassociatedwith natural convectionwere perhapsrecognizedas
+early as 1938(Frank-Kamenetskii,1939)when thermalignition theory was first developed. In
+the 1955 text Diffusion
+and Heat
+Exchange
+in Chemical
+Kinetics,
+FrankKamenetskii
+recognized
+that "the purely conductive
+theory can be applied
+small dimensions
+of the vessel when the influence
+of natural
+This
+
+was
+
+reiterated
+
+by Tyler
+
+in 1974.
+
+Harwood
+
+Specifically,
+
+conductive.
+
+While
+
+in 1966
+
+this may
+
+they
+
+(Tyler,
+state:
+
+be valid
+
+1966)
+
+and
+
+further
+
+"It is generally
+
+for certain
+
+at sufficiently
+low pressure
+and
+convection
+can be disregarded."
+emphasized
+
+assumed
+
+low pressure
+
+by Barnard
+
+that heat
+
+slow
+
+losses
+
+combustion
+
+regimes,
+
+unlikely
+to be true for the cool flame and ignition
+regimes
+(Barnard
+and Harwood,
+While this statement
+is _e
+for terrestrial
+experiments,
+the purely
+conductive
+heat
+assumption
+
+is valid at microgravity
+
+Specifically,
+associated
+
+buoyant
+with
+
+studied
+
+(Pearlman,
+
+require
+numerical
+baseline
+
+models
+
+Laboratory
+the space
+furnace.
+monitored.
+
+1999,
+
+2000).
+
+that assume
+
+suppressed
+
+oxidation
+
+(1 g) and KC-135
+
+aircraft
+
+the
+
+of the hardware
+
+and
+
+canbe
+
+is simPler,
+
+doesnot
+
+the
+
+coefficient,
+
+and is a testbed
+
+transport.
+
+AND
+
+are actively
+
+are discussed
+
+for analytic
+
+_tg experiments
+
+of natural
+
+AUTO-IGNITION
+
+experiments
+
+system
+
+In addition,
+
+of the effects
+
+structure
+
+auto-ignitions
+
+convection,
+
+convection
+
+and
+
+@
+
+will provide
+on Earth.
+
+STUDIES
+being
+
+flight. These tests are performed
+in a spherical,
+quartz
+The vessel
+is flled
+with a fuel-oxidizef-prem_xture
+Details
+
+reaction-diffusion
+
+flames
+
+natural
+
+our understanding
+FLAME
+
+cool
+
+transfer
+
+heat
+
+pure diffusive
+
+COOL
+
+at t.tg and
+
+reactions,
+
+Without
+
+of the effective
+
+data that will improve
+
+GROUND-BASED
+
+are
+
+temperature
+
+determination
+
+it is
+
+1974)."
+tr/msport
+
+(_g).
+
+complexities
+
+low
+
+and
+
+are purely
+
+in the references
+
+conducted
+
+in preparation
+
+for
+
+reactor,
+housed in a preheated
+and the ensuing
+reaction
+is
+10 and 11.
+E
+
+-
+
+e
+
+CooI Flames
+Representative
+cool flame images obtained
+in the lab and aboard the KC-135 aircraft are shown
+in figures
+la and lb. Note that the cool flame at l.tg starts in the center of the spherical
+reactor
+and propagates
+
+radially
+
+outward.
+
+(a)
+Fig. 1: Sequential
+
+cool flames
+10era
+
+NASA/CP--2001-210826
+
+(b)
+images
+
+i.d. spherical
+
+obtained
+quartz
+
+using
+reactor
+
+a 50v%n-C4Hlo-50v%O2
+in the (a)
+
+314
+
+premixture
+
+lg and (b) KC-135
+
+at 310°C
+
+Bg aircraft.
+
+and 3.2psia
+
+in a
+
+transport
+
+times
+
+at I.tg (diffusion
+
+diffusion
+
+species
+
+coefficient)
+
+times~L2/tx
+compared
+
+and L2/D,
+
+where
+
+to lg (buoyant
+
+a is the mixture
+
+_.a
+
+_4
+
+i J,
+
+(a)
+Fig.4:
+
+Two-Stage
+
+Ignition
+
+thermal
+
+diffusivity
+
+and D is
+
+rise time~(gL)la).
+
+1,,
+
+(b)
+
+in 50v%n-C4H1o-50v%O2
+
+mixture,
+
+P_=4.9psia,
+
+T=310°C,
+
+Vessel
+
+i.d.=10.2cm,
+
+(a) lg, Time between sequential frames is 1/105, (b) gg; Time between sequential flames is 1/30s.
+Single-stage
+structure,
+
+ignition
+evolution,
+
+at gg has also been
+and stability
+
+observed.
+
+Future
+
+and map the ignition
+
+effort
+
+diagrams
+
+aims to quantify
+for different
+
+the flame
+
+hydrocarbons.
+
+ACKNOWLEDGMENTS
+Special
+NASA
+
+thanks to Professor
+under NCC3-871.
+
+John
+
+GrifflthS
+
+for helpful
+
+discussions.
+
+This
+
+work
+
+is supported
+
+by
+
+REFERENCES
+1.
+
+Barnard,
+
+J.A. and Harwood,
+
+2.
+3.
+4.
+
+Fine, D.H., Gray,
+Frank-Kamenetskii,
+Frank-Kamenetskii,
+
+P. and MacKinven,
+R. (1970) Royal Society of London
+D.A. (1939) Zh. Fiz. Khim. 13 738.
+D.A.
+Diffusion
+and Heat Exchange
+in Chemical
+
+University
+
+1955.
+
+Press,
+
+5.
+
+Gray, P., Griffiths,
+9 103-113.
+
+6.
+
+Griffiths,
+
+7.
+
+Griffiths,
+
+8.
+9.
+
+Kagan,
+Melvin,
+
+B.A. (1974)
+
+Combustion
+
+J.F., and Moul e, R.J. (1974)
+_
+.....
+
+J.F., Gray,
+
+B.F.,
+
+and P. Gray
+
+J.F., Gray,
+
+P., and Kishore,
+
+H. (1999) Combustion
+H. The 3 _ International
+
+Press,
+
+New
+
+York,
+
+B.J. (1966)
+
+K. (1974)
+
+Combustion
+
+and Flame
+
+and Flame
+Seminar
+
+CTM
+
+121 (1-2) 390-3.
+on Fire and Explosion
+Kinetics
+
+223-240.
+
+Kinetics,
+
+Princeton
+
+of the Chemical
+
+(Int.)
+
+G. (1997)
+
+A316
+
+on Comb.,
+
+Society
+
+239-248.
+
+22 197-207.
+1 97-111.
+
+Hazards
+
+and Reactivity,
+
+Vol.
+
+of Substances,
+1, Pergamon
+
+1958.
+Combustion
+
+C.H. and Gray,
+
+NASA/CP--2001-210826
+
+Symposia
+
+13 _ Symposium
+
+and Flame
+
+10 90-91.
+
+14. Volpert,
+V., Barillon,
+C., Dumont,
+T., Genieys,
+Conf. hosted by the Univ. of Central Lancashire,
+15. Yang,
+
+22 35-42.
+
+(197I)
+
+Lake Windermere,
+UK, April 10-14, 2000.
+12. Semenov,
+N. N. Some Problems
+of Chemical
+13. Tyler,
+
+Faraday
+
+L, Beresycki,
+H., Joulin, G. and Sivashinsky,
+A. (1969) Combustion
+and Flame 13 438-9.
+
+10. Peadman,
+11. Pearlman,
+
+and Flame
+
+B.F. (1969)
+
+Journal
+
+S., and Massot,
+M, The Fire and Explosion
+Windermere,
+UK, August 10-14, 2000.
+
+of Physical
+
+316
+
+Chemistry
+
+73 (10) 3395-3406.
+
+Multiple
+Multiple
+
+cool
+
+flames
+
+only one cool flame
+time.
+
+has been
+
+To determine
+
+thermal
+argon
+
+if the
+
+relaxation,
+to vary
+
+are also observed
+observed
+absence
+
+an equimolar
+
+the thermal
+
+Cool Flames
+
+at lg for a select
+in the butane-oxygen
+
+of multiple
+
+mixture
+
+diffusivity
+
+range
+
+cool
+
+system
+
+flames
+
+of n-C4H10-O2
+
+of the mixture
+
+of test parameters.
+
+To date,
+
+at I.tg, within
+
+however,
+
+the available
+
+23s test
+
+at t.tg is due
+
+test time
+
+for
+
+diluted
+
+with
+
+equal
+
+volumes
+
+of helium
+
+or
+
+thus,
+
+adjust
+
+the thermal
+
+was
+
+to insufficient
+
+(o_ae._x~4(_._),
+
+relaxation
+
+time (tth~L2/(_).
+The pressure
+are
+
+shown
+
+histories
+in figures
+
+associated
+2a and
+
+with the reaction
+
+2b, respectively.
+
+in the (a) Ar and the (b) He - diluted
+
+The
+
+first
+
+pressure
+
+pressure peaks in the He-diluted
+trace correspond
+to cool flames,
+many as five sequential
+cool flames have been observed
+at _tg!
+i
+
+peak
+
+mixtures
+
+in the At-diluted
+
+as verified
+...........
+
+trace
+
+with the video
+
+at _tg
+and all
+
+record.
+
+As
+
+g
+
+_5
+
+s
+
+i"
+
+l.
+
+4
+
+IS
+
+S
+s
+
+ID
+
+_5
+
+u_
+
+w
+
+(a)
+Fig. 2: Pressure traces at _tg for=a 25% n-C4H_¢25%O z mix_
+diluted with (a) 50%At,
+(b) 50%He in an aged 10.2cm i.d. spherical vessel, T,_]=310_C,
+Pt_t_--4.95psia.
+
+=
+
+Interestingly,
+the magnitude
+of the pressure excursions
+associated
+with successive
+cool flames in the Hediluted mixture
+at [tg do not vary monotonically.
+As one might also expect, the intensity
+(integrated
+spectral
+flames
+
+emission)
+
+also
+
+in a He-diluted
+
+varies.
+
+This
+
+mixture
+
+is shown
+
+in figure
+
+3, which
+
+corresponds
+
+to four
+
+successive
+
+cool
+
+at _tg.
+
+_1-10s
+
+_=
+
+2.1s
+
+r_ 2.7s
+1:4= 7.4s
+
+Fig.3:
+
+Mul6pl_
+
+cool flames at _g; xi (i=1,2,.3, 4) are the induction times; premixture: 25% n-C4H_0-25%O2-50%He
+in an aged 10.2era i.d. spherical vessel, T_,,]=31&C,
+Pt_t_=4.2psia.
+
+Multi-Stage
+Multi-stage
+
+ignition,
+
+_tg. Representative
+two-stage
+shown
+
+ignition
+in figure
+
+one (or more)
+side-view
+are shown
+
+cool flames
+
+images,
+in figures
+
+I, both the cool
+
+flame
+
+Ignition
+followed
+
+depicting
+
+by a hot ignition,
+
+the development
+
+and progression
+
+4a and 4b, at 1g and I.tg, respectively.
+and hot flame
+
+associated
+
+has also observed
+Similar
+
+with the two-stage
+
+at 1g and
+
+of a representative
+to the cool flames
+process
+
+originate
+
+near the top of the vessel at lg and near the center at _tg. Note that the second induction
+period (the time
+between
+the cool flame and the hot flame) is also shorter at _tg than at l g, perhaps
+due to the shorter
+
+NASAJCP_2001-210826
+
+315
+

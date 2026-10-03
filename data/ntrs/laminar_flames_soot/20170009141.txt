@@ -1,0 +1,230 @@
+Sub Topic: Fire
+10th U. S. National Combustion Meeting
+Organized by the Eastern States Section of the Combustion Institute
+April 23-26, 2017
+College Park, Maryland
+
+Emulation of condensed fuel flames using a Burning Rate
+Emulator (BRE) in microgravity
+A. Markan1, J. G. Quintiere1, P. B. Sunderland1, J. L. de Ris2, D. P. Stocker3
+1
+
+Fire Protection Engineering, University of Maryland, College Park, MD
+2
+retired, FM Global, Norwood, MA
+3
+NASA Glenn Research Center, Cleveland, OH
+*
+Corresponding Author Email: akshit.markan@gmail.com
+
+Abstract: The Burning Rate Emulator (BRE) is a gaseous fuel burner developed to emulate the
+burning of condensed phase fuels. The current study details several tests at the NASA Glenn 5-s
+drop facility to test the BRE technique in microgravity conditions. The tests are conducted for two
+burner diameters, 25 mm and 50 mm respectively, with methane and ethylene as the fuels. The
+ambient pressure, oxygen content and fuel flow rate are additional parameters.
+The microgravity results exhibit a nominally hemispherical flame with decelerating growth and
+quasi-steady heat flux after about 5 seconds. The BRE burner was evaluated with a transient analysis
+to assess the extent of steady-state achieved. The burning rate and flame height recorded at the end
+of the drop are correlated using two steady-state purely diffusive models. A higher burning rate for
+the bigger burner as compared to theory indicates the significance of gas radiation. The effect of the
+ambient pressure and oxygen concentration on the heat of gasification are also examined.
+Keywords: condensed fuel flames, Burning Rate Emulator, microgravity
+
+1. Introduction
+It is theorized that a condensed fuel flame having four characteristic properties: heat of
+combustion, surface temperature, smoke point and heat of gasification, can be modeled by a
+circular gas burner known as the Burning Rate Emulator (BRE) [1]. This concept has been
+previously demonstrated in normal gravity [2]. The present study verifies the BRE technique in a
+microgravity environment by performing drop tests at the NASA Glenn 5-s Zero Gravity Facility.
+Two burners, with diameters 25 mm and 50 mm respectively, are tested. The burner is installed in
+a quiescent chamber which undergoes free fall at the facility. The measurements during the test
+include heat flux from the flame to the burner surface, the heat flux sensor temperature, and the
+temperature of the perforated outlet plate at its center and the offset radius 𝑅 ∗ . The fuel mass flow
+rate is measured and the flame height is determined by analyzing the image data.
+The aforementioned key fuel properties are determined to emulate the burning of different
+condensed fuels. The heat of combustion and the smoke point are attained from literature [3-5].
+The other properties, viz., the surface temperature and the heat of gasification are obtained from
+the experimental measurements. The measured temperature of the outlet plate gives the surface
+temperature. The determination of the heat of gasification is crucial to this study. For the steady
+
+1
+
+Sub Topic: Fire
+burning of a condensed fuel, the heat of gasification L is given by the ratio of the net heat flux and
+the burning rate.
+Methane, ethylene, and nitrogen-diluted ethylene are the three gaseous fuels studied during these
+tests. Pressure, oxygen content in the combustion chamber, and fuel flow rate are varied to
+ascertain their effect on the nature of the flame. A typical test for the 25 mm burner is shown Figure
+1. Here, the sequence of images shows the flame growth during the 5s duration. The flames are
+ignited in normal gravity just before the drop begins. The flames during the drop transform from
+a 1-g diffusion flame to a microgravity hemispherical flame. The graph in Figure 1 shows the
+transient behavior of the heat flux signal and the flame height. The heat flux signal falls quickly
+as the drop starts and appears to reach quasi-steady state by the end of the drop. In contrast, the
+flame height rises slowly and doesn’t appear to reach steady state after 5 seconds. Hence, the
+assumption that quasi-steady state has been achieved by the end of the drop is applied only to the
+heat flux data and not to the flame height.
+
+Figure 1: A typical drop test for the 25 mm burner
+2. Transient Analysis
+To establish the extent of steady state achieved during the 5-s drop, the results are compared to a
+simple transient analysis. The model considers a heated sphere at temperature 𝑇 𝑠 immersed in a
+cool environment with ambient temperature 𝑇∞ . The sphere has a radius 𝑅 and the environment
+has a specific heat 𝑐 𝑝 , density 𝜌 and thermal conductivity 𝑘. There is no flow through the sphere
+and it loses heat to the surroundings only through conduction. The solution for the unsteady
+temperature 𝑇 and surface heat flux 𝑞̇ ′′
+𝑠𝑢𝑟𝑓𝑎𝑐𝑒 is available in literature [6] and is given below.
+𝑇 = 𝑇∞ +
+𝑞̇ ′′
+𝑠𝑢𝑟𝑓𝑎𝑐𝑒 =
+
+𝑅(𝑇 𝑠 − 𝑇∞ )
+𝑟− 𝑅
+𝑒𝑟𝑓𝑐 (
+)
+𝑟
+2√ 𝑘𝑡/𝜌𝑐 𝑝
+
+(1)
+
+𝑘(𝑇 𝑠 − 𝑇∞ ) 𝑘(𝑇 𝑠 − 𝑇∞ )
++
+𝑅
+√ 𝜋𝑘𝑡/𝜌𝑐 𝑝
+
+(2)
+
+2
+
+Sub Topic: Fire
+The above problem could be compared to a flame on a burner surface with the surface of the burner
+at temperature 𝑇 𝑠 and the ambient temperature at 𝑇∞ . To get an estimate of the flame height, a
+𝑇−𝑇
+reasonable assumption is made that the thin flame sheet is at a dimensionless temperature ( 𝑇 −𝑇∞ )
+𝑠
+
+∞
+
+of 0.2. The flame height and heat flux can be calculated for the same test shown in Figure 1 so that
+they could be easily compared. Figure 2 shows the comparison of flame height and heat flux with
+the experimental readings. It is evident from the figures that the heat flux approaches quasi-steady
+state at the end of 5 seconds whereas the flame height is far from steady state. For the particular
+case shown in Figure 2a, the flame height reaches only about 37% of steady state after 5 seconds.
+Hence, to get a better idea about flame behavior in microgravity, longer duration tests need to be
+conducted aboard the International Space Station.
+
+Figure 2a (left): Flame height vs. time for a typical 25 mm burner test,
+Figure 2b (right): Surface heat flux vs time for a typical 25 mm burner test
+3. Theory
+Two models are suggested to correlate the results of the drop experiments. The first model
+compares the BRE tests to the burning of a stagnant layer of liquid pool [7,8]. The model is onedimensional and steady in nature. The heat transfer at the liquid-gas interface is only due to
+diffusion from the flame and the flow is assumed to be laminar. The other model [9] analyzes
+quasi-steady burning of small particles with shapes ranging from a needle to a circular disc. This
+model is two-dimensional and works with ellipsoidal coordinates to condense the problem into a
+one-dimensional solution. The objective of these models is to obtain expressions for the burning
+rate and flame height to verify the experimental results. According to both models, the burning
+rate of the fuel is identically expressed as:
+𝑚′′ = (
+̇
+
+8𝑘
+) ln(1 + 𝐵)
+𝜋𝑐 𝑝 𝐷
+
+(3)
+
+The flame height is derived using the one-dimensional model and is given as:
+𝑦𝑓
+𝜋 ln[(1 + 𝐵)/(𝑌 𝑂2,∞ /(𝑟𝑌 𝐹,𝑜 ) + 1)]
+𝐵
+≡( )
+[
+]
+𝐷
+8
+𝑙𝑛(1 + 𝐵)
+ln(1 + 𝐵)
+
+3
+
+(4)
+
+Sub Topic: Fire
+4. Correlation of Results
+It is hypothesized that the BRE burner could emulate the burning of any condensed phase fuel.
+This can be visualized by examining the mass burning rate as a function of heat of gasification as
+shown in Figure 3. The burning rate decreases with heat of gasification but the burning perseveres
+even at high values of the heat of gasification 𝐿. Figure 3 also shows that the BRE burner could
+emulate fuels with heat of gasification in the range of 0.4 – 4 kJ/g which corresponds to a number
+of solid and liquid fuels [7].
+
+Figure 3: Microgravity burning rate as a function of the derived heat of gasification
+The steady state theory discussed in the previous section is utilized to predict the burning rate and
+flame height for the BRE experiments. Eqs. (3) and (4) give the dimensionless mass flux and flame
+height respectively. These are compared to the experimental results in Figures 4 and 5b. The
+dimensionless burning rate in Figure 4 follows two distinct curves corresponding to the two burner
+diameters. This different trend for the two burners may be due to a possible higher rate of gas
+phase radiation relative to total heat release for the bigger burner. The steady state theory assumes
+negligible radiation which might be the reason for over-prediction.
+
+Figure 4: Comparison of theoretical and experimental dimensionless burning rate (left)
+4
+
+Sub Topic: Fire
+To further inspect the influence of radiation, it is interesting to look at the net heat flux as a function
+of flame height for the two burners. Figure 5a demonstrates that the heat flux is higher for the 50
+mm burner at the same flame height. It can be suspected that the greater gas volume for the 50 mm
+burner radiates at a higher rate which increases the net heat flux. This reinforces the claim of higher
+radiation for the 50 mm burner.
+Figure 5b shows that the predicted flame height is lower than the experimental reading. However,
+according to the transient analysis and experimental data, steady state is not achieved during these
+tests. Preliminary analysis using the 2D combustion model yielded positive results for the flame
+height. Hence, we need to look at the 2D model to predict the flame height.
+
+Figure 5a: Net het flux as a function of flame height for 25 mm and 50 mm burners (left)
+Figure 5b: Comparison of theoretical and experimental dimensionless flame height (right)
+Effect of ambient pressure and oxygen content
+The analysis in the previous subsection could not fully capture the effect of changes in ambient
+pressure and the oxygen content in air. The pressure of the ambient air is varied in the current
+study from 0.5 – 1.0 atm whereas the oxygen mole fraction in air ranges from 0.21 – 0.30. To
+comprehend the effect of parameters such as pressure and oxygen content, the tests with similar
+mass flow rates are inspected for the same burner and fuel. Two sets of tests with 30% oxygen
+content are chosen to study the influence of ambient pressure on heat of gasification as can be seen
+in Figure 6a. The heat of gasification follows an upward trend with an increase in ambient pressure.
+Figure 6b correspondingly shows the effect of oxygen mole fraction on heat of gasification. The
+two sets of tests selected for this analysis have the same mass flow rate and 1 atm pressure. The
+heat of gasification shows a monotonic rise with the oxygen content. The theoretical models
+employed for the present work show a dependence of results on the oxygen mole fraction.
+However, there is no dependence on ambient pressure.
+
+5
+
+Sub Topic: Fire
+
+Figure 6a: Effect of ambient pressure on heat of gasification
+Figure 6b: Effect of oxygen mole fraction on heat of gasification
+5. Conclusions
+Tests were conducted at the NASA 5-s Zero Gravity Facility using the BRE burners. A simplistic
+transient model was applied which demonstrated that the experimental flame height is not steady
+whereas the surface heat flux could be assumed to approach quasi-steady state. The 1D purely
+diffusive model gives reasonable results. However, for analysis of flame height, it is necessary to
+look at the 2D combustion model. It appears that the ratio of radiation loss to total heat release
+becomes significant as the burner diameter increases. Hence, there is also a need for an inclusive
+model which considers the effect of radiation.
+6. Acknowledgements
+This research was funded by NASA’s International Space Station Research Program.
+7. References
+[1] Y. Zhang, M. Kim, H. Guo, P.B. Sunderland, J.G. Quintiere, J. de Ris, D. Stocker, Combustion and
+Flame, 162 (2015) 3449-3455.
+[2] Y. Zhang, M. Kim, P.B. Sunderland, J.G. Quintiere, J. de Ris, Experimental Thermal and Fluid
+Science, 73 (2016) 87-93.
+[3] D.B. Splading, Convective Mass Transfer, McGraw-Hill Book Co., New York, 1963. pp. 23, 42.
+[4] L. Li, P.B. Sunderland, Combust. Sci. Technol. 184 (2012) 829–841.
+[5] K. Akita, Yumoto, Proc. Combust. Inst. 10 (1965) 943–948.
+[6] H. S. Carslaw and J. C. Jaeger, Conduction of Heat in Solids, Oxford University Press, 2nd ed, London,
+1959, p. 215.
+[7] J.G. Quintiere, Fundamentals of Fire Phenomena, John Wiley & Sons Ltd., Chichester, U.K., 2006.
+[8] M. Zarzecki, J.G. Quintiere, R.E. Lyon, T. Rossmann, F.J. Diez, Combust. Flame 160 (2013) 15191530.
+[9] H. Baum and A. Atreya, Fire Safety Science 11, 2014.
+
+6
+

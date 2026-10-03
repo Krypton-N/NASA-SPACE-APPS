@@ -1,0 +1,3807 @@
+NASA/TMp2000-210337
+
+Progress
+
+AIAA-2000-5251
+
+in Fire Detection
+
+Technology
+
+for Future
+
+Robert Friedman
+and David L. Urban
+Glenn Research Center, Cleveland,
+Ohio
+
+September
+
+2000
+
+and
+
+Space
+
+Suppression
+Missions
+
+The NASA STI Program
+
+Since its founding,
+NASA has been dedicated
+the advancement
+of aeronautics
+and space
+science. The NASA Scientific and Technical
+Information
+(STI) Program
+in helping NASA maintain
+
+Office...
+
+CONFERENCE
+
+to
+
+Office plays a key part
+this important
+role.
+
+SPECIAL
+technical,
+
+Collected
+
+PUBLICATION.
+Scientific,
+or historical information
+from
+
+NASA programs,
+projects, and missions,
+often concerned with subjects having
+
+NASA STI Program Office provides access to the
+NASA STI Database,
+the largest collection of
+aeronautical
+and space science ST[ in the world.
+The Program Office is also NASA's institutional
+mechanism
+for disseminating
+the results of its
+research and development
+activities. These results
+are published
+by NASA in the NASA STI Report
+Series, which includes the following report types:
+TECHNICAL
+PUBLICATION.
+Reports of
+completed
+research or a major significant
+phase of research that present the results of
+NASA programs
+and include extensive data
+or theoretical analysis. Includes compilations
+of significant
+scientific and technical data and
+information
+deemed to be of continuing
+reference value. NASA's counterpart
+of peerreviewed formal professional
+papers but
+has less stringent limitations
+on manuscript
+length and extent of graphic presentations.
+
+PUBLICATION.
+
+papers from scientific and technical
+conferences,
+symposia, seminars, or other
+meetings sponsored
+or cosponsored
+by
+NASA.
+
+The NASA STI Program Office is operated by
+Langley Research Center, the Lead Center for
+NASA's scientific and technical information.
+The
+
+•
+
+in Profile
+
+substantial
+
+public
+
+TECHNICAL
+
+interest.
+
+TRANSLATION.
+
+English-
+
+language
+translations
+of foreign
+and technical material pertinent
+mission.
+
+scientific
+to NASA's
+
+Specialized
+services that complement
+the STI
+Program Office's diverse offerings include
+creating custom thesauri, building customized
+data bases, organizing
+and publishing
+research
+results..,
+even providing
+videos.
+For more information
+Program
+
+about
+
+the NASA STI
+
+Office, see the following:
+
+TECHNICAL
+
+extensive
+
+CONTRACTOR
+
+analysis.
+REPORT.
+
+•
+
+Fax your question to the NASA Access
+Help Desk at (301) 621-0134
+Telephone the NASA Access Help Desk at
+(301) 621-0390
+
+Scientific
+
+and technical findings that are preliminary
+or
+of specialized
+interest, e.g., quick release
+reports, working papers, and bibliographies
+that contain minimal annotation.
+Does not
+contain
+
+E-mail your question
+help@sti.nasa.gov
+
+•
+
+MEMORANDUM.
+
+Access the NASA STI Program
+at http://www.sti.nasa.gov
+
+•
+•
+
+•
+
+Scientific
+
+technical findings by NASA-sponsored
+contractors
+and grantees.
+
+Home
+
+via the Internet
+
+Page
+
+to
+
+and
+Write to:
+NASA Access Help Desk
+NASA Center for AeroSpace
+7121 Standard Drive
+Hanover,
+
+MD 21076
+
+Information
+
+NA SA / TM--2000-210337
+
+AIAA-2000-5251
+
+Progress in Fire Detection
+and Suppression
+Technology
+for Future Space Missions
+Robert
+
+Friedman
+
+Glenn
+
+Research
+
+Prepared
+Space
+
+Conference
+
+Cleveland,
+
+and
+
+by the American
+
+Beach,
+
+National
+
+Center,
+
+L. Urban
+Ohio
+
+for the
+2000
+
+sponsored
+Long
+
+ancl David
+
+California,
+
+Aeronautics
+
+Space
+
+Administration
+
+Glenn
+
+Research
+
+September
+
+Center
+
+2000
+
+Exposition
+Institute
+
+September
+
+and
+
+of Aeronautics
+19-21,
+
+2000
+
+and
+
+Astronautics
+
+This report is a formal draft or working
+paper, intended
+to solicit comments
+and
+ideas from a technical
+peer group.
+
+This report contains
+preliminary
+findings,
+subject to revision
+as
+analysis
+proceeds.
+
+Available
+NASA Center
+7121 Standard
+
+for Aerospace
+Drive
+
+from
+National
+
+Information
+
+Technical
+
+Information
+
+Sen-ice
+
+5285 Port Royal
+
+Hanover,
+MD 21076
+Price Code: A03
+
+Springfield,
+Price
+
+Available
+
+electronically
+
+at http://gltrs.grc.nasa.gov/GLTRS
+
+Road
+
+VA 22100
+Code: A03
+
+PROGRESS
+IN FIRE DETECTION
+AND SUPPRESSION
+TECHNOLOGY
+FOR FUTURE
+SPACE MISSIONS
+R. Friedman*
+National
+
+and D.L. Urban*
+
+Microgravity
+Science Division
+Aeronautics
+and Space Administration
+Glenn Research Center
+Cleveland, Ohio 44135-3191
+
+Abstract
+
+which
+were removed
+for practical
+reasons
+in the
+restructuring of the ISS.3 The inclusion of Russian modules
+in the new structure
+also introduces
+non-conforming
+designs and technology for fire detection and suppression
+(fig. 1). The Russian fire-protection
+provisions are by no
+means inferior to those of the other ISS partners, yet the
+lack of commonality among fire protection can be a threat
+
+Fire intervention
+technology
+(detection
+and
+suppression) is a critical part of the strategy of spacecraft
+fire safety. The paper reviews the status, trends, and issues
+in fire intervention,
+particularly
+the technology
+applied
+to the protection of the International
+Space Station and
+future missions
+beyond
+Earth orbit. An important
+contribution
+to improvements
+in spacecraft fire safety is
+the understanding
+of the behavior of fires in the nonconvective (microgravity)
+environment
+of Earth-orbiting
+and planetary-transit
+spacecraft.
+A key finding is the
+strong
+influence
+of ventilation
+flow
+on flame
+characteristics,
+flammability limits, and flame suppression
+in microgravity.
+Knowledge of these flow effects will aid
+the development
+of effective processes for fire response
+and technology for fire suppression.
+
+to safety. 4
+This paper is a review of advances in the science and
+technology
+of fire detection, response,
+and suppression
+for spacecraft, based upon the open literature, including
+relevant findings from microgravity combustion analyses
+and experiments.
+Spacecraft
+General
+
+Background
+
+Strategy
+
+The basic approach to minimize fire hazards is through
+prevention,
+which implies the elimination
+of one of the
+three fire-causing
+factors of fuel, oxygen, and ignition
+
+In_r0duction
+The major approach to fire protection in current and
+advanced human-crew
+spacecraft is through prevention.
+Thus, fire safety relies strongly on the selection of materials
+proven to be fire-resistant
+through analysis and testing?
+The complete strategy of fire protection,
+however, also
+includes
+technology
+for the detection,
+response,
+and
+suppression of fires, even if the probability of the occurrence
+of a spreading fire in spacecraft is extremely small. 2
+Improvements
+in the current fire-safety technology
+may likely be necessary for the International
+Space Station
+(ISS) and future human-crew
+missions beyond low-Earth
+orbit. Severe limitations on mass and power and the need
+for monitoring over long periods of continuous spacecraft
+operation are two of the obvious challenges to fire safety
+in future missions. The original
+space-station
+design
+concepts
+included
+a "racetrack"
+configuration
+for
+altemative escape paths, multiple-sensor
+detector systems,
+and fixed, remotely operated suppression
+systems, all of
+
+energy. Prevention is never absolute, however. Thus, the
+overall strategy of fire safety must include fire detection
+and suppression.
+Spacecraft fire-safety practices are, to a certain extent,
+modeled on accepted standards for transportation systems,
+particularly those for aircraft. Aircraft and spacecraft have
+similar safety issues, i.e., confined space, hostile outside
+environment,
+and restricted
+mass, volume, and power
+availability
+for fire-intervention
+systems. Spacecraft,
+of
+course, have unique safety challenges in the high value of
+individual
+missions and the very limited experience
+for
+establishing
+predictive risk assessments.
+Above all, the
+non-convective
+(microgravity)
+environment
+in orbiting
+and planetary-transit
+spacecraft strongly influences fire
+characteristics
+and the operation of technology to respond
+to fires. -_
+Fire Characteristics
+in Low
+Microgravity
+is an
+operations and a challenge
+environment
+enabling the
+
+*AerospaceEngineer, Senior Member AIAA.
+tChicf, Microgravity Combustion Sciencc Branch.
+
+NASA/TM--2000-210337
+
+Fire-Safety
+
+1
+
+Gravity
+impediment
+to spacecraft
+to safety, but it does offer an
+study of basic and applied
+
+L._- U.S. Lab
+Loca!ion of
+_'_"
+\ _._._h_._-'_
+R
+i nse merit
+' ;=
+' _ '_
+
+_'_
+__
+"_-;_
+__'_-'_
+%:_ .':-_: :L>.._<"_:_.:_-_c:::_c.".t
+><
+
+_
+
+-_X
+.. _
+
+_
+
+\\
+
+_'-_--
+
+"\.
+.]'_'. _
+",,. _oae z
+
+Japanese Experiment
+Module (JEM)
+
+r---::
+_-'.'..-'_._"_--'.:<:
+::. .>
+"-;
+
+ESA Co umbus
+
+t. _ _"/.(:::>!.-.::.:.>.
+
+Orb,ta, Fac,hty (COl =)
+
+_.- ...--_,:...-:
+._->
+
+Figure 1.--Current
+
+.
+.-.-............
+,.....
+
+Fire Detection
+
+Technology
+
+Status of Fire Detection in Human-Crew
+Spacecraft
+Sensing by the crew is no doubt the most reliable
+means of early warning of incipient fires in spacecraft;
+and, in the first human-crew U.S. space missions (Mercury,
+Gemini, and Apollo), this was the only way to detect fires.7
+The complex and sometimes
+inaccessible
+volumes of
+current and advanced human-crew
+spacecraft require the
+addition of automated detection. 8 These detectors respond
+to fire "signatures",
+i.e., the environmental
+changes that
+are characteristic
+of fire precursors.
+Typical signatures
+are temperature
+rise, combustion
+gases, light and other
+radiation,
+particulates
+(smoke),
+pressure
+rise, and
+acoustic waves.
+In current spacecraft, automated early warning
+events is achieved
+through
+smoke detectors,
+
+microgravity combustion
+have contributed greatly to the
+current understanding
+of the important characteristics
+of
+fires in low gravity. Key features of low-gravity fires relevant
+to fire-safety
+technology
+are summarized
+in Table 2.
+Flammability
+and flame-spread
+rate in microgravity
+are
+particularly sensitive to atmospheric flow. Flames propagate
+
+of fire
+using
+
+principles
+of light scattering
+or ionization-current
+interruption. The Shuttle has nine detectors of the aspirating
+ionization type. The U.S., European, Japanese, and Italian
+segments of the International
+Space Station (ISS) will
+have one or more detector units in each module that sense
+
+poorly in truly quiescent conditions, but they are enhanced
+vigorously by low-rate atmospheric flows (velocities up to
+about 20 cm/s). Ventilation is not the only source of flame-
+
+smoke through photoelectric
+light-beam obscuration and
+scattering (fig. 2). The ISS smoke detector is installed
+in some locations as spot types, or area monitors, and in
+other locations within airflow ducts as aspirating types, or
+duct monitors.
+
+stimulating flow. Some burning plastic materials may induce
+flow to continue combustion through the action of boiling
+ejection. 6
+
+NASA/TM--2000-210337
+
+,
+
+International Space Station Design at Assemble Complete.
+
+combustion
+processes.
+Microgravity
+research permits
+simplified representation
+and scaling, greatly increasing
+the range of fundamental
+fire data, including
+those
+applicable to conventional
+ground environments.
+There is now a growing body of information
+from
+research on combustion
+in non-buoyant
+(microgravity)
+environments.
+Table 1 lists several projects conducted on
+the U.S. Space Transportation
+System (STS) Shuttle, its
+payload-bay
+laboratories,
+or Mir, which have furnished
+information
+of potential value to spacecraft fire-safety
+technology.
+These projects
+offer observations
+and
+measurements
+of flammability,
+flame spread, and smoke
+characteristics
+from burning sheet and slab materials in
+microgravity
+environments.
+The data obtained
+from scientific
+research
+on
+
+and vapor-jet
+
+,
+
+2
+
+Table
+Project
+
+l.--Selected
+
+experimental
+
+projects
+
+conducted
+
+in space flight, with results
+Description
+
+relevant
+
+to spacecraft
+
+fire safety.
+Date
+
+Solid-Surface Comb. Exper.
+(SSCE)
+
+Burning of thin-paper and thick-PMMA fuels in quiescent environments to determine
+effects of oxygen concentration and total pressure on flame spread
+
+1990 1998
+
+Radiative Ign, and Transition to
+Spread Investigation (RITSI)
+
+Burning of thin paper with central ignition and low-rate forced flow to determine
+effects of air flow on unconstrained 2- and 3-dimensional flame spread
+
+1996
+
+Diffusive and Pad. Transport in
+Fires (DARTFire)
+
+Burning of thick fuels under opposed flow and external heat flux to determine effects
+of flow and preheat on flame spread
+
+1996 1997
+
+Mir Experimental Verification of
+Material Flammability in Space
+
+Burning of cylindrical plastic fuels under concurrent flow to determine flame
+characteristics and limiting flows for flame spread
+
+1998
+
+Forced Flow Flame Spread Test
+(FFFT)
+
+Burning of flat and cylindrical cellulose and polyethylene fuels under concurrent flow
+and external heat flux to determine effects on flame length and spread rate
+
+1996
+
+Microgravity
+(MSG)
+
+Burning of bulk foamed plastics under flow to determine smolder rate and combustionproduct evolution
+
+1995 1996
+
+Forced-Flow Ign. and FlameSpread Test (FIST)
+
+Evaluation of new method to measure ignition delay and flame spread in micrograviD
+with flow and external heat flux
+
+In prep.
+
+Comparative Soot Diagnostics
+(CSD)
+
+Evaluation of STS and ISS smoke-detector responses to pyrolysis, smoldering, and
+flaming fires in representative fuel samples
+
+1996
+
+Property
+
+Table 2.--Key
+Trend
+
+Smoldering Comb.
+
+features
+
+of fires in low gravity
+
+Promoted
+
+Ignition
+
+or microgravitl¢.
+Remarks
+
+*Thermally stressed components
+
+can overheat rapidly
+
+•
+
+*Particulate spills form flammable aerosols that persist for long periods of
+time
+.Burning plastics eject hot material randomly & violently
+Altered
+
+Flame Appearance
+
+*In quiescent environments,
+
+flames are often symmetrical in shape and
+
+nearly invisible
+*Under low rates of imposed air flow, flames intensify and become bright
+and sooty
+*Flames propagate slowly or extinguish, due to the accumulation
+
+Flammability and Flame-Spread
+Rate:--+Quiescent Conditions
+
+Reduced or
+
+Flammability and Flame-Spread
+Rate:--->Low-Flow Conditions
+
+Increased, in some
+cases to match or
+exceed normalgravity levels
+
+Detection "Signatures"
+
+Altered
+
+extinguished
+
+of
+
+combustion products
+*Low-rate vemilating
+
+flows stimulate low-gravity fires and greatly extend
+
+their flammability range and flame-spread rates
+,,Freely propagating flames tend to spread toward the "wind," or into the
+oxygen source
+*Flames are often cooler and less radiant
+*Average size and range of soot-particle
+*Combustion-product
+
+sizes are greater
+
+nature and quantities are altered
+
+=
+
+While
+kg
+the
+
+the
+
+ISS
+
+is equivalent
+ISS
+
+unit
+
+has
+
+requirement
+parts.
+
+designed
+
+has
+
+but
+
+The
+
+Module
+
+assembled,
+are
+
+Mir
+
+design
+
+will
+designs
+
+to the
+
+not
+
+that
+types
+
+NASA/TM--2000-210337
+
+and
+
+in orbit
+
+to those
+the
+
+photoelectric
+conform
+
+in the
+
+other
+
+on
+
+next
+
+the
+
+detectors,
+
+in principle
+ISS
+
+compared
+
+the
+
+sensing
+
+quiescent
+
+and yellow,
+
+Shuttle.
+to be
+
+Figure
+derived
+gravity,
+
+3
+
+tt The
+
+as functions
+
+map
+
+fires.
+
+due to soot
+
+shows
+
+on
+the
+
+of oxygen
+
+in
+
+gravity
+
+fire
+
+strongly
+
+Flames
+
+in near-
+
+are often
+
+pale blue
+
+increased
+
+in the form
+
+and
+
+signatures
+
+differences
+
+in normal
+
+atmospheric
+
+the flames
+
+measurements
+
+flames
+
+in
+
+segments.
+
+° Under
+
+presumably
+
+of fire
+
+environments
+
+concentrations,
+
+3 is an example
+from
+
+to those
+of incipient
+
+invisibleY
+
+rates or oxygen
+
+Appearance"
+
+features
+These
+
+or low-oxygen
+
+and almost
+
+1998,
+
+not
+
+microgravity.
+
+influence
+
+which
+but
+
+in
+
+"Flame
+
+cover
+
+characteristics
+
+and
+
+labeled
+
+'Signatures"
+
+observed
+
+of
+
+were
+
+are similar
+
+element
+
+in Micro_avity
+2, the rows
+
+"Detection
+
+Functional
+
+which
+
+Detection
+In Table
+
+power
+
+of the ISS,
+The
+
+Fire
+
+1.5
+
+type,
+
+a lack
+
+November
+
+detectors,
+
+(Zve-da),
+
+of
+
+modules
+
+are unique.
+
+identical
+
+have
+
+lower
+
+Segment
+
+placed
+
+smoke
+
+in principle
+
+a much
+
+of the balance
+
+(Zarya),
+
+mass
+
+ionization
+
+to 9 W),
+
+systems
+
+ten ionization
+
+Service
+
+of
+
+Russian
+
+independently
+
+Block
+
+Shuttle
+
+compared
+
+9 The
+
+fire-response
+
+Cargo
+
+detector
+
+of the
+
+advantages
+
+(1.48
+
+moving
+
+their
+
+photoelectric
+
+to that
+
+become
+
+and smoke
+
+flow
+brighter
+
+evolution.
+
+of a flammability
+
+burning
+zones
+
+PMMA
+
+of blue
+
+concentration
+
+and
+
+map
+in low
+yellow
+
+and flow
+
+rate.
+
+Table 3.--Selected Examples of Responses of STS and ISS
+Smoke Detectors in Microgravity, from Comparative
+Soot Dia_nostics,,Experiment.
+
+Laser
+sensors, in
+electronics
+
+Time to Respond to an
+Arbitrary" Set Poin_ sec
+STS Detector
+ISS Detector
+
+Fuel
+Candle
+Paper
+Silicone Rubber
+PTFE Wire
+
+Flaming
+Flaming
+Smoldering
+Pyrolyzing
+
+40
+54
+40
+39
+
+56
+20
+20
+30
+
+Polvimide
+
+housing
+
+Condition
+
+P_,rol_zin_
+
+25
+
+14
+
+Wire
+
+Mockup
+of air duct
+the
+
+same
+
+chamber
+
+as the
+
+smoke
+
+generators),
+
+smoke
+
+Beam
+--- path
+
+particulates
+are collected
+on thermophoretic
+grids
+later analysis, and total smoke density is measured
+
+-; Reflecting
+
+laser-light extinction.
+In the far field (i.e., in a separate
+chamber connected
+by a pumped
+hose line), smokedetector response is determined for a Shuttle (STS) detector
+and a prototype ISS detector in parallel.
+In general, the ionization
+detector
+is sensitive to
+relatively small particles, and it is well suited for detecting
+a flaming fire. The photoelectric
+detector is sensitive to
+relatively large particles, and it is well suited for detecting
+smoldering fires. In microgravity,
+smoke particles tend to
+agglomerate
+due to the lack of buoyant motion, to form
+larger entities.
+This suggests that the ISS detector will
+respond faster than the STS detector in microgravity.
+Table 3 is a summary of selected data on response times
+for each detector to reach an arbitrary fraction of full scale
+for the smoldering and fire events in the CSD project. The
+measurements
+show that, despite changes in the nature of
+the smoke signatures
+in microgravity,
+both detectors
+have adequate, if not entirely optimal, response
+to the
+model signatures.
+These comparisons
+are qualitative
+because the signal of the ISS detector, a prototype,
+is
+
+Figure 2.reModel of prototype photoelectric smoke
+detector installed on the U.S., European, Japanese,
+and Italian operational segments on the International Space Station.
+45
+
+o_ 35
+
+ue flame _:
+
+o
+:>
+
+Yellow/blue flame
+
+\
+
+O
+e-
+
+O
+o
+
+¢_25
+__0_o
+o
+
+15
+0
+
+_
+
+I
+5
+
+\
+
+I
+10
+
+o
+
+I
+15
+
+o
+
+I
+20
+
+amplified
+to match
+future flight model.
+
+1
+25
+
+Imposed flow velocity, cm/s
+
+the assumed
+
+characteristics
+
+of the
+
+False Alarms
+
+Figure 3.--Map of blue diffusion-controlled flames
+and blue/yellow convection zones for thick PMMA
+sheets burning in low gravity.
+
+A recognized
+problem in fire-detection
+systems is
+that of false alarms, which can cause needless interruptions,
+waste of suppressant in automatic systems, and erosion of
+the confidence
+in the detection
+system. Cleary and
+Grosshandler I_report that, in aircraft cargo compartments,
+false alarms are 100 times more frequent than true fire
+events. The Shuttle experience has been more favorable.
+Less than 20 false alarms or detector failures have been
+
+Experimental
+verification
+of smoke detection
+in
+microgravity
+was the objective of a Shuttle-based
+project,
+Comparative
+Smoke Diagnostics
+(CSD).
+This study
+examined the particulate
+emissions from typical, wellestablished pyrolysis or fire events in microgravity. 12The
+sources include a burning candle and four overheated
+
+recorded in the 20 years of Shuttle operations. 14 In the
+same period, only five potential fire-causing incidents of
+component overheating or electrical short circuits occurred.
+In no case was the incipient-fire
+signature strong enough
+to cause a smoke detector to actuate, and the crew was able
+
+materials, namely, paper (flaming in some tests), silicone
+rubber,
+polytetrafluoroethylene-insulated
+wires, and
+polyimide-insulated
+wires. In the near field (i.e., within
+
+NASA/TM--2000-210337
+
+for
+by
+
+to recognize
+
+4
+
+and correct the problemJ
+
+5
+
+8.5 cm/s
+
+4.0 cm/s
+
+2.0 cm/s
+
+1.0 cm/s
+
+Figure 4.---Changes
+shown.
+
+in flame appearance
+
+over polyethylene
+
+Fire Detection by Atmospheric
+Sampling
+Data on the rate of buildup of atmospheric signatures,
+particularly
+carbon monoxide
+concentrations,
+can also
+provide early warning as a possible confirmation
+of the
+smoke detection. It is likely, due to changes in flame-zone
+temperatures
+in microgravity,
+that the composition
+and
+quantity of gaseous combustion products will differ from
+those in normal gravity. Early studies on smoldering
+indicated a greatly increased quantity of light-gas evolution
+in microgravity;
+but this finding appears to be strongly
+dependent on the experiment
+scale and conditions, and it
+was not observed in later tests. 16
+
+on
+
+Fire Response
+Upon a verified fire alarm, the automated or manual
+crew response is to isolate the affected zone, removing
+power and local or general air circulation. It is assumed
+that, without forced ventilation flow, the microgravity
+fire
+will not propagate.
+In most fire situations, research results verify that
+quiescent flames do self-extinguish.
+This behaviorimplies
+that a minimum atmospheric flow rate is necessary in low
+gravity to maintain fire propagation
+(and conversely
+to
+assure extinction). Values of the limiting forced flow for
+flame spread have been measured by Ivanov 2' for some
+common
+plastics
+burning
+in strip and cylindrical
+configurations.
+Interesting
+results on the effects of
+concurrent
+flow-rate change on flame appearance
+are
+illustrated in fig. 4. At the highest velocity of 8.5 cm/s, the
+flame over the polyethylene rod is bright and nearly white.
+At 4.0 cm/s, only the trailing (left) edge of the flame is
+bright and yellow. At 2.0 cm/s, a crescent of bright orange
+
+from Flame Radiation
+designs of the space station also included
+sensors in the end cones for overall
+
+NASA/TM--2000-210337
+
+air velocities
+
+development continues in the European Space Agency
+flame detectors for supplemental
+fire detection. -'°
+
+single-gas sampling is multiple-gas sensing. For example,
+combined CO/CO 2 detectors are shown in ground tests to
+discriminate
+among non-flaming fires, flaming fires, and
+non-fire events._ 8
+
+The original
+flame-radiation
+
+for concurrent
+
+monitoring of the open spaces of the modules. '9 The need
+to conserve mass and electric power eliminated
+these
+detectors
+from the ISS designs,
+but technology
+
+Continuous
+atmospheric sampling, to be used on the
+ISS primarily for air-quality monitoring,_ 7 has the promise
+of early warning of the buildup of carbon monoxide
+concentrations
+as a confirming indication of a fire event.
+More effective for interpretation
+of fire signatures than
+
+Fire Detection
+
+rod in micmgravity,
+
+5
+
+trails the otherwise
+
+pale blue flame. At 1.0 cm/s, the entire
+
+nozzles suitable for streaming discharge into open spaces
+or insertion through cover ports for flooding discharge
+within racks. The Shuttle also has a fixed, remotely
+
+flame is pale violet and nearly invisible (the image is
+enhanced
+in the black-and-white
+reproduction).
+The
+
+operated Halon 1301 system, for use during critical periods,
+such as reentry, when the mobility of the crew is limited.
+The non-Russian
+segments of the ISS have portable
+fire extinguishers
+charged
+with carbon
+dioxide.
+No
+centralized, fixed system is planned)The
+Russian segment
+of the ISS has water-foam
+extinguishers,
+based on
+technology already in service in other Russian spacecraft.
+
+fimiting flow velocity for flame propagation for this fuel
+is 0.5 cm/s. Upon complete cessation of air flow, flames
+are suppressed in 5 to 20 seconds.
+Note that limiting flows for relatively flammable
+materials are very low. Self-induced flows may be sufficient
+to continue combustion. 6 An interesting case is that of a
+candle. In a series of experiments on Mir, U.S. investigators
+found that a candle would continue to burn in a quiescent
+environment
+for several minutes. -'2 Thus, removal of air
+flow upon fire detection is a necessary response,
+not always sufficient for control of the incipient
+Fire Suppression
+
+Fire Suppression in Microgravitv
+A key concern is that of the minimum quantity of
+extinguishant
+(or the resulting
+minimum
+oxygen
+concentration)
+needed
+to ensure
+suppression.
+The
+understanding
+of the process
+of fire suppression
+in
+microgravity--particularly
+with regard to the practical
+technology for fire extinguishment--is
+very limited.
+The minimum requirements
+for carbon dioxide as a
+flame suppressant in spacecraft are based on the resulting
+oxygen
+concentration
+in the flame zone. The ISS
+suppression system is designed to release sufficient carbon
+dioxide (50 percent minimum)
+to reduce the ambient
+oxygen in an affected compartment
+to half its original
+concentration
+within 60 seconds. 4 On the other hand, the
+National Fire Protection
+Association
+standard NFPA 12
+
+but it is
+fire.
+
+Technology
+
+Status of Fire Suppression
+in Human-Cr.ew
+Spacecraft
+Fire suppression
+may rarely be needed in space
+operations, but it must be made available for the security
+of the crew and the mission
+integrity.
+Human-crew
+spacecraft have always been equipped with some means
+of fire extinguishment.
+7 In the Mercury
+and Gemini
+spacecraft, a water gun used for food reconstitution
+was
+designated for the secondary purpose of an emergency fire
+extinguisher.
+'-3 Dedicated
+fire extinguishers
+became
+available in the next generation of space missions. The
+Apollo spacecraft,
+for example, had extinguishers
+that
+generated a stable water-gas mixture propelled by inert
+Freon and nitrogen gases.
+The Shuttle and its payload-bay
+laboratories
+have
+extinguishers
+charged
+with gaseous
+Halon
+1301
+(bromotrifluoromethane).
+s Portable fire extinguishers have
+
+permits a minimum concentration
+of 34 percent carbon
+dioxide
+for flooding applications.
+Table 4 shows the
+resulting
+oxygen concentrations
+upon carbon dioxide
+flooding according to the NASA and NFPA requirements
+and compares them to extinguishment
+test results. Three
+cases of initial atmospheric
+oxygen concentrations--21
+percent (air), 24 percent (the ISS maximum
+tolerance),
+
+Table 4.--Exam_ales of Atmospheric Oxygen Reduction Necessar_ for Fire Extinguishment.
+21%
+24%
+30%
+Initial atmospheric O21concentration
+{air)
+(tolerance
+fimit)
+(prebreathing)
+Final O,. concentration,
+
+vol %, attained
+
+after
+
+dilution
+
+by CO-_
+
+discharge, based on
+NASA requirements
+of 50% CO_,
+NFPA 12 requirements of 34% CO_,
+
+10.5
+13.9
+
+Polyurethane
+Nylon Velcro
+Minimum
+
+18 - 20
+
+22.5 - 24
+
+18-
+
+18-20
+
+19.5-21
+
+experiments,
+
+foam strip
+
+O., concentration,
+
+15
+20
+
+19 - 20
+
+Minimum
+Oz concentration,
+vol %, from ground
+needed for extinguishment
+of the following
+fuels
+
+12
+16
+
+vol %, from experiments
+
+flammability
+limits of tissue-paper
+fuels, in the following
+Normal gravity, downward
+spread b
+
+on
+cases _
+16.5
+
+Microgravity,
+Microgravit2,',
+Microgravity,
+
+quiescent
+opposed flow ¢
+concurrent
+flow ¢
+
+21
+15
+13
+
+Partial
+
+{0.15 to 0.4 [[)b
+
+15
+
+qnitial
+
+_ravit),
+
+atmospheric
+
+O,_ concentration
+
+_Natural buoyant flow present
+¢Imposed flow in microgravity
+
+NASA/TM--2000-210337
+
+immaterial
+
+19
+
+for these measurements.
+
+in normal and partial gravity.
+always less than 8 cm/s.
+
+6
+
+and
+30percent ISSprebreathing
+(the
+atmosphere to
+prior
+There are no plans to remove Halon 1301 from the
+anextravehicular
+activity)--and sets fexperimental Shuttle supply, but NASA has been actively engaged for
+two o
+dataareshown.
+Thefirst setof datais fromnormal- the past ten years in a program to phase out Halon in
+gravityqualifyingests theISSsystem.
+t
+for
+Minimum ground and launch facilities through improved installation,
+oxygenoncentrations
+c
+forfiresuppressiongiven
+are
+for leak prevention, and maintenance. 3°
+afoam aVelcro
+and
+material.The
+24 second ofdata
+set
+is
+forflammability (minimum
+limits
+oxygenoncentrationsSuppression of Oxygen-Generator
+c
+Fires
+forflamepropagation)tissue-paper
+of
+fuelsin normal
+An event on Mir in February
+1997 involved a fire
+gravity,
+partial
+gravity, microgravity,
+and
+withand
+without from a failed chemical oxygen generator. '-_ The fire
+imposed 25-_-7
+flows.
+fortunately caused little damage and no injuries, but it was
+Thedatain Table arenotstrictlycomparable, difficult to control. Module and atmospheric cleanup
+4
+because differences
+of
+among
+thetestsin thefuels, occupied the attention of the crew for several days.
+gravitational and
+control, mechanism suppression.Chemical oxygen generators are not currently planned for
+offlame
+Some
+interesting
+observationsbemade,
+can
+nevertheless.use in the ISS U.S. On-Orbit Segment, but they are backup
+First,
+thequalifying show the
+tests that NASA NFPA oxygen sources in the Russian Segment. Ground
+and
+requirements
+arebothadequate
+forreducing
+theoxygen investigations of ignited generators, induced by cassette
+concentration the
+below experimental
+flammability
+limits, contamination or steel-shell failure, show that wateralthough NFPA
+the
+requirement
+ismarginal
+applied
+tothe based foam, the agent used in the Mir incident, is the most
+30percent-initial-oxygen Second,
+case.
+thetests
+with effective extinguishing agent, somewhat superior to water
+flammableaperuelsshowthatthe stricter ASA alone. The foam must be applied directly to the surface of
+p
+f
+N
+requirementsnecessary
+are
+tocontrol
+inscenarios
+offires the generating cassette. Carbon dioxide is completely
+underforced-flow buoyancy-aided
+or
+microgravity ineffective; in fact, it is shown to enhance the fire. 31
+conditions. results
+The
+emphasize
+the
+strong
+fire-enhancing
+action f lowflowsinmicrogravity.
+o
+Other Agents for Spacecraft Fire Suppression
+The extinguishing
+action of carbon dioxide can be
+through thermal effects--reduction
+of the temperature
+of the fuel surface and the flame zone--in
+addition to
+
+For small, inhabited
+volumes in spacecraft,
+for
+example the ISS airlock, carbon dioxide discharge can be
+hazardous,
+exceeding toxic limits. An alternative to both
+Halon and carbon dioxide is nitrogen.
+Nitrogen is inert,
+available,
+and non-toxic,
+but it is less efficient
+as a
+suppression
+agent than carbon dioxide. 8
+Water-based
+mists and foams to replace gaseous
+agents in spacecraft have advocates. 32These mixed-phase
+suppressants
+(noted above in connection
+with oxygengenerator fires) can be very effective, providing suppression
+through flame coofing as well as oxygen dilution. The ISS
+Russian Segment will retain the Mir-type aqueous-foam
+suppression
+systems. 33 The performance
+of mixed-phase
+foams for fire suppression
+in low gravity has been
+investigated
+in airplane
+tests, m Although
+the foam
+penetration is different in low gravity compared to normal
+gravity, the foam does stick to surfaces, and it successfully
+suppresses fires by oxygen exclusion. Non-gaseous agents,
+however, have an obvious disadvantage in the difficulty of
+their removal from the atmosphere
+and surfaces after fire
+control, and their inadvertent
+discharge
+can seriously
+disrupt space station activities.
+
+oxygen
+dilution.
+Pitts,
+et al. 28 estimated
+the
+extinguishing
+concentration
+of carbon dioxide
+as a
+thermal
+agent by calculating
+the flame-temperature
+reduction for a model methane/air
+diffusion flame. The
+addition of about 22-vo1% carbon dioxide is sufficient
+to reduce the flame temperature
+to an assumed minimum
+to quench the flame reaction.
+Nevertheless,
+for solidmaterial fires, the conservative
+approach,
+verified by
+experiment,
+is to consider
+only oxygen
+dilution
+in
+defining
+the minimum
+agent quantity for guaranteed
+suppression.
+Halon Pha,eout and Replacement
+The manufacture
+and new uses of Halon
+
+1301, the
+
+Shuttle
+agent,
+is now prohibited
+by international
+protocol, since it is a stratospheric
+ozone-layer
+depleter.
+Halon 1301 is a chemical
+agent, i.e., one that inhibits
+combustion
+by chemical
+reactions
+to remove
+freeradical intermediates
+in the reaction zone. While many
+Halon replacements
+have great promise
+in terms of
+environmental
+acceptance,
+low cost, low toxicity,
+among
+other
+qualities,
+they rarely
+approach
+the
+extinguishing
+efficiency
+of Halon 1301. For example,
+HFC-227ea,
+heptafluoropropane,
+a highly regarded
+Halon replacement,
+requires about twice the discharge
+quantity as Halon 1301, based on reference
+tests. 29
+
+NASA/TM--2000-210337
+
+Pressure Reduction and Venting for F_tinguishment
+The ISS has the option of abandoning
+a module,
+closing its hatches, and venting the module, as a means of
+controlling
+a difficult or inaccessible
+fire. A vent/relief
+valve is designed
+to reduce the pressure
+in the U.S.
+Laboratory
+Module,
+in response
+to two emergency
+
+7
+
+scenarios.suppress
+To
+
+a fire, depressurization
+is to reach
+a limit of 6.9 kPa in 10 min. To remove a hazardous
+
+Agency airplane tests demonstrated
+that, in low gravity,
+paper fuels are not completely consumed as flame passes;
+
+atmosphere, depressurization
+is to reach a limit of 2.8 kPa
+in 24 hr. These performance
+goals can be attained, at least
+as demonstrated
+by flow and heat-transfer
+modeling? 4
+
+hence,
+reignition
+after apparent
+suppression
+is a
+possibility. 36.37
+Considerable
+cleanup will be required after all fire
+events, minor or major. Atmospheric
+revitalization
+to
+remove even trace quantities of fire and extinguishment
+contamination
+may tax the environmental
+controls and
+
+Studies in low gravity have investigated
+the effects of
+the rate of depressurization
+and the final pressure on fire
+suppression.
+These tests determined
+the low-pressure
+flame characteristics
+of a PMMA cylinder ignited along
+
+require the use of portable air-breathing
+equipment
+for
+lengthy periods of time. Even after nominal conditions are
+restored, the subtle toxic and corrosive aftereffects of the
+
+its axis with atmospheric
+crossflow? 5 Figure 5 presents a
+combination
+of experimental
+data and analytical results,
+showing
+the depressurization
+boundary
+for flame
+suppression.
+Note that the low-gravity
+suppression
+becomes more difficult with increasing fuel temperature.
+The effect of flow is variable. Extinction is most difficult
+
+fire on equipment,
+systems,
+and payloads
+recognized and appropriately
+controlled.
+
+These low-gravity
+experiments
+and models suggest
+that, if a fire is to be controlled by depressurization,
+the
+pressure in the affected module should be decreased
+rapidly, inducing a high velocity and limiting the flamezone heating. Slow depressurization
+can drive the final
+pressure to lower limits and make suppression
+difficult.
+
+Proposed techniques for payload fire detection and
+response include parameter monitoring (use of continuous
+data recording for interpretation
+as fire signatures) and
+automated
+cooling-air
+shutoff. A specific example of
+proposed fire protection for an ISS payload is that of the
+
+Po_t-fire Actions
+Determining
+that a fire is completely extinguished
+in
+a spacecraft fire scenario is by no means straightforward.
+Since burned material remains hot in the non-convective
+environment,
+embers may reignite if prematurely
+exposed
+to fresh air. Both the U.S. Solid Surface Combustion
+(SSCE)
+
+space-flight
+
+and European
+
+Seat
+track
+rails
+
+Space
+
+graphite/epoxy
+composite construction
+
+\
+
+Forced-flow
+
+_
+700
+
+velocity, cm/s
+V
+0
+_
+
+600
+
+8
+10
+2O
+
+Secondary
+structure
+
+500
+E
+400
+
+O
+
+300
+
+Non-flammable
+I
+I
+0
+10
+20
+
+I
+30
+
+I
+40
+
+I
+50
+
+l
+60
+
+it
+
+Utility interface
+panel (recessed) j
+
+Extinction pressure, kPa
+Figure 5.inFlame extinction boundaries for depressurization of PMMA cylindrical fuel at different forced
+flow velocities in low gravity. Data for 10 cm/s are
+experimental; others are calculated.
+NASA/TM--2000-210337
+
+be
+
+Fire Safety For Payloads
+A serious concern in fire safety on the ISS and in
+laboratory modules carried on the STS, is in the protection
+of payloads, particularly those contained in racks (fig. 6).
+Payloads
+may include furnaces, energetic experiments,
+and sensitive biological systems, all potential sources of
+fire threats.
+
+around 10 cm/s, and the boundary rises to higher pressures
+(less depressurization
+needed) for greater or lesser flow
+velocities.
+
+Experiment
+
+must
+
+Figure 6.--Sketch of standard rack unit for systems
+or payloads on the International Space Station.
+
+8
+
+design
+fortheCombustion
+Integrated (CIR). The
+Rack
+38
+
+refuge,
+available
+for directing
+remote
+fire-control
+operations (including venting and repressurization).
+For the habitat phases, the crew and systems are
+exposed to a local gravitational acceleration that is greater
+than microgravity
+but less than that of the Earth (normal
+gravity). For Mars, this "partial gravity" level is 3.72 m/s 2,
+
+CIR will serve as a common facility to provide the majority
+of chamber, diagnostics, flow, control, and power functions
+for customized combustion-experiment
+packages (fig. 7).
+The CIR fire protection is through a standard ISS smoke
+detector mounted within the internal cooling-air flow path
+and a rack door port, identical to the Shuttle design, for
+insertion of the portable fire extinguisher
+nozzle. The
+CIR will also have a local indication for the smoke alarm
+and automated
+an alarm.
+
+and manual
+
+Missions
+
+power
+
+Beyond
+
+shutoff
+
+or 0.380 that of normal gravity. For the Moon, the
+gravitational
+level is 1.62 m/s 2, or 0.165 that of normal
+gravity.
+
+in the event of
+Fire Safety in Partial Gravity
+The current understanding
+of the effect of partial
+gravity on fire behavior is based on analyses and limited
+experiments.
+Parabolic airplane trajectories
+can create a
+short-time period of accelerations
+ranging from 0.01 to
+0.6 g. Results of tests on the burning of thin-paper fuels
+were used to construct a flammability
+map of the limitingoxygen concentrations
+that support
+flame spread as
+functions of gravitational
+level. 27
+The unusual finding of these studies is that the fuels
+exhibit a maximum in their flammability
+behavior in the
+partial-gravity
+range. That is, the flammability
+range
+increases to a maximum
+between normal-gravity
+and
+
+Earth Orbit
+
+Fire-Safe_y Needs
+Missions
+beyond Earth orbit (Martian and Lunar
+expeditions,
+as examples) can be considered in terms of
+two phases, the travel or transit phase, and the surfacebase or habitat phases. For the transit phase, practical
+travel to the Moon or Mars must assume flight, for the
+most part, that is unpowered and without artificial gravity.
+Thus, the environment
+in the transit phases of these
+journeys is microgravity,
+identical to the environment
+of
+Earth-orbiting
+spacecraft. Fire protection on these missions
+will be a significant safety concern, more critical than for
+orbiting stations. Stores of suppressant
+and atmospheric
+diluents are more' limited, long missions imply more
+accumulated
+wastes and possible
+relaxation
+of crew
+vigilance,
+and
+consultation
+and
+emergency
+communications
+with Earth controllers may be of poor
+quality and delayed.
+A favorable
+provision
+for fire
+
+microgravity levels. (A typical value is included in Table 4.)
+The flame-spread
+rate also attains a maximum
+in this
+gravity range. Results from these tests at selected fuel and
+test conditions indicate that the partial-gravity
+fire maxima
+occur roughly over the range bracketing
+the levels of
+concern for missions beyond Earth orbit, namely, 0.15 to
+0.4 of normal gravity. The influence of partial gravity on
+flammability
+and flame-spread
+rates is believed to be
+caused by generation of optimum buoyant flow velocities
+at these low but finite convective
+environments.
+This
+
+protection is the proposed isolation chamber for shielding
+against solar-particle
+events, 39 which can be a secure
+
+Replaceable
+filter --,
+
+/
+
+,-- Air Thermal
+Control Unit (ATCU)
+---_, Cool air flow
+-_'_ Warm air flow
+
+Seals
+Optics bench
+(internal air flow)---"
+
+,_-
+
+7,,
+I
+
+q__i
+
+,,j
+
+Seals--:_i
+
+",,/'
+\LBench-mounted
+avionics and
+diagnostics
+(air cooled)
+
+input/output/='--7"-_
+package
+/
+(air cooled) -_
+
+Figure 7._Sketch of combustion integrated rack cooling-air flow
+patterns and smoke-detector installation.
+NASA/TM--2000-210337
+
+9
+
+phenomenon
+iscomparable
+totheenhancement
+of flame
+spread by low-velocity
+
+5.
+
+forced flows in microgravity.
+6.
+
+Other Fire-Safety
+Concerns
+A reduced-pressure,
+enriched-oxygen
+atmosphere
+is
+being considered for both the transit and habitat phases of
+missions beyond low-Earth orbits in order to minimize the
+mass of nitrogen or other diluents carried. 4° As noted,
+
+7.
+
+higher oxygen concentrations
+affect fire prevention by
+decreasing
+the number of fire-resistant
+materials
+and
+increasing the flammability
+of the waivered exceptions,
+and they affect fire control by stimulating
+low-gravity
+combustion. In the habitat phase, the influences of Martian
+
+8.
+
+dust on surfaces or entering the atmosphere on flammability
+and smoke detection are presently unknown.
+
+9.
+
+Conclusions
+
+10.
+
+This paper is a review of the advances in the science
+and technology of fire detection, response, and suppression
+for spacecraft,
+based on information
+from the current
+literature. It must be noted that the established requirements
+
+I1.
+
+and operations
+in spacecraft
+have been effective
+in
+maintaining
+fire safety, as tested by experience
+in the
+Space Transportation
+System. Nevertheless,
+there is need
+for improvement.
+Current standards (verified by normalgravity testing only, to a great extent) may be far from
+optimal approaches,
+in terms of efficiency
+and safety
+margins. Future human-crew missions in the International
+Space Station
+and beyond Earth orbit may demand
+innovations in fire protection to meet new possibilities of
+fire scenarios
+in unusual, complex,
+and long-duration
+
+12.
+
+13.
+
+operations. In extraterrestrial
+habitats, studies show that
+fire behavior in reduced gravity cannot be quantified by
+linear interpolation
+between findings in microgravity
+and
+normal gravity. Thus, spacecraft fire safety will continue
+to depend strongly on the contributions
+combustion research.
+
+1.
+
+2.
+
+3.
+
+4.
+
+14.
+
+from microgravity15.
+
+References
+Friedman, R., Jackson, B., and Olson, S., "Testing and
+Selection of Fire -Resistant Materials for Spacecraft Use,"
+NASA/TM--2000-209773,
+March 2000.
+Friedman,
+R., "Fire Safety in the Low-Gravity
+Spacecraft Environment,"
+SAE Tech. Paper 199901-1937, July 1999.
+Williams,
+D.E.,
+"International
+Space
+Station
+Environmental Control and Life Support System Phase
+Two Design Overview," SAE Tech. Paper 961470,
+July 1996.
+Wieland, P.O., "Living Together in Space: The Design
+and Operation
+of the Life Support Systems on
+the International
+Space
+Station.
+Volume
+1,"
+NASA,rIwI--1998-206956/VOL1,
+Jan. 1998.
+
+NASA/TM--2000-210337
+
+16.
+
+17.
+
+18.
+
+19.
+
+10
+
+Friedman, R., and Urban, D.L., "Contributions
+of
+Microgravity Test Results to the Design of Spacecraft
+Fire-Safety Systems," AIAA Paper 93-1152, Feb. I993.
+Olson, S.L., and T'ien, J.S., "Near-Surface Vapour Bubble
+Layers
+in Buoyant
+Low Stretch
+Burning
+of
+Polymethylmethacrylate."
+Fire and Mater., Vol. 23,
+No. 6, Nov.-Dec. 1999, pp. 227-237.
+Diamant, B.L., and Humphries, W.R., "Past and Present
+Environmental Control andLife Support Systems on Manned
+Spacecraft," SAE Tech. Paper 901210, July 1990.
+Martin, C.E., and DaLee, R.C., "Spacecraft Fire Detection
+and Suppression (FDS) Systems: An Overview and
+Recommendations for Future Flights," SAE Tech. Paper
+932166, July 1993.
+Carrasquillo, R.L., Reuter, J.L., and Philistine, C.L.,
+"Summary of Resources for the International Space Station
+Environmental Control and Life Support System," SAE
+Tech. Paper 972332, July 1997.
+Rygh, K., "Fire Safety Research in Microgravity: How to
+Detect Smoke and Flames You Cannot See," Fire Technot.,
+Vol. 31, No. 2, May 1995, pp, 175-185.
+Vietoris, T., Joulain, P., and Torero, J.L., "Flow
+Considerations on the Stability of Laminar Diffusion
+Flame in Micro-Gravity," The Comb. Inst., U.S. Secs., I st
+Mtg., Paper, March 1999 (NASA STI 19990117211).
+Urban, D.L., Griffin, D.W., and Gard, M.Y., "Comparative
+Soot Diagnostics: 1 Year Report," Third United States
+Microgravity Payload: One Year Report, edited by
+P. A. Curreri,
+D. McCauley,
+and C. Walker,
+NASA/CP---1998-207891,
+Nov. 1998, pp. 119-134.
+Cleary, T., and Grosshandler, W., Survey of Fire Detection
+Technologies
+and System Evaluation/Certification
+Methodologies and Their Suitability for Aircraft Cargo
+Compartments,"
+Natl. Inst. Stds. Technol., Report
+NISTIR 6356,, July 1999 (NASA STI 19990084061).
+Winkler,
+H.E., Cerna, N.F., Rotter,
+H.A., Jr.,
+Ouellette, F.A., Hoy, D.M., and Brasseaux, H.J., Jr.,
+"Shuttle Orbiter Environmental Control and Life Support
+System Flight Experience," SAE Tech Paper 961334,
+July 1996.
+Friedman, R., "Fire Safety Practices and Needs in Human
+Crew Spacecraft," Jour. AppL Fire Sci., Vol. 2, No. 3,
+1992-1993, pp. 243-259.
+Walther, D.C., Fernandez-Pello, A.C., and Urban, D.L.,
+"Space Shuttle
+Based Microgravity
+Smoldering
+Combustion Experiments," Comb. and Flame, Vol. 116,
+No. 3, Feb. 1999, pp. 398--414.
+Limero, T., Reese, E., Peters, R., and James, J.T., "A
+Second Generation
+Volatile Organic Analyzer for
+the International
+Space Station," SAE Tech. Paper
+1999-01-2059, July 1999.
+Milke, J.A., "Monitoring
+Multiple Aspects of Fire
+Signatures for Discriminating
+Fire Detection," Fire
+TechnoL, Vol. 35, No. 3, Aug. 1999, pp. 195-209.
+Fuhs, S., Hu, R., and McClure, G., "Development of the
+Flame Detector for Space Station Freedom," SAE Tech.
+Paper 932106, July 1993.
+
+20.
+
+Herber,
+
+N.,
+
+Mfiller,
+
+Development
+
+Status
+
+Environmental
+21.
+
+R., and
+
+Lucas,
+
+J., "Design
+
+of the Columbus
+
+Control
+
+and
+
+Orbital
+
+Life
+
+30.
+
+and
+
+Past,
+
+Facility
+
+Support
+
+SIS
+
+D.R.
+
+et al., "Candle
+
+Atmospheres,"
+
+Comb.
+
+Sci.
+
+Flames
+
+31.
+
+Vol.
+
+156, 2000,
+32.
+
+pp. 1-24.
+23.
+
+Friedman,
+
+R., and Dietrich,
+
+Human-Crew
+
+D.L.,
+
+"Fire Suppression
+
+in
+
+Jour. Appl.
+
+Sircar, S., and Dees, J.,"Evaluation
+for Space Station Freedom,"
+
+25.
+
+Sands
+1992.
+
+Olson,
+
+S.L., Ferkul,
+
+Flame
+
+Spread
+
+Test
+
+Fire Sci., Vol.
+
+26.
+
+Speed
+
+Concurrent
+
+Results
+
+Diffusion
+
+28.
+
+Flame
+
+Combustion,
+
+Fire
+
+Tower
+
+Pizzarello,
+
+J.A.,
+
+141-143
+
+of Extinguishing
+
+White
+
+Fire Safety,"
+
+Methods
+
+(COGs),"
+Sands
+
+NASA
+
+Test
+
+Facility,
+
+Aug. 1999.
+T.,"Expert
+Systems
+Jour.
+
+Appl.
+
+Applied
+
+Fire Sci., Vol. 1,
+
+Extinguishing
+NISTIR
+
+and
+
+Symposium
+
+Sci.
+37.
+
+L.G.,
+
+38.
+
+Natl.
+
+Inst.
+
+1999 (NASA
+
+Preliminary
+
+Zurawski,
+
+39.
+
+Stds.
+
+C., and Slonski,
+
+Meltzer,
+S.J.,
+
+J.S., Piccirilli,
+
+"Forestall
+Eng.
+
+prog.,
+
+Fires
+
+during
+
+Safer)'
+
+Jour.,
+
+40.
+
+V.,
+with
+
+S., Burr),,
+
+Experimental
+
+M.K.,
+
+Thin
+
+Vol.
+
+Solids
+
+100, Jan.
+
+in
+
+1995,
+
+P.E., and Fardell,
+Investigation
+
+Columbus
+
+S.,
+"The
+
+of
+
+Parabolic
+
+P.J.,
+Fire
+Fire
+
+and J. Flidh,
+
+Issue 01, Sept. 1992.
+
+2000-0425,
+
+Integrated
+
+Rack,"
+
+Jan. 2000.
+
+Almlie, J.C., Ungar, E.K., and Smith, F.D., "TransHab
+Radiation
+Shield Water Tank: A Solar Storm Shelter
+
+Zubrin,
+Interplan.
+
+11
+
+Over
+
+R.L., "The FCF Combustion
+
+Paper
+
+on ISS or a Mars Interplanetary
+Paper
+
+1999-01-1936,
+
+R.M., and Weaver,
+
+Near-Term
+
+Vol. 95,
+
+Bhattacharjee,
+
+Phase One, Edited by K. Rygh,
+
+for Personnel
+
+STI
+
+R.A.,
+
+and Flame,
+
+in Micro-Gravity,"
+
+SAE Tech.
+L.D.,
+
+Fire
+
+Spreading
+
+pp. 71-84.
+Shipp, M.P., Andrews,
+
+AIAA
+
+of Super-Effective
+
+Oct.
+
+Valve,"
+
+Cylinders
+
+K., and Wolverton,
+
+Comb.
+
+COL-TN-ESA--003,
+
+1994,
+
+and Blevins,
+
+the Vent/Relief
+
+PMMA
+
+P.A., Altenkirch,
+
+of Flames
+
+Experiment
+
+M.L.,
+
+of
+
+L., Sacksteder,
+
+Behavior
+
+(blternational)
+
+Agents,"
+
+Ramachandra,
+
+"A
+
+Gravity
+
+Pittsburgh,
+
+Using
+
+in Low-Gravity."
+
+Microgravity,"
+
+Inst.,
+
+6414,
+
+Extinction
+
+Behavior
+
+Downward
+
+in Partial
+
+Depressurization
+
+the International
+
+SAE Tech. Paper 1999--01-2194,
+July 1999.
+Goldmeer, J.S., T'ien, J.S., and Urban, D.L., "Combustion
+
+Tang,
+
+Experimental
+Micrograv.
+
+and Extinction
+
+Advanced
+Technology,"
+Chem.
+No. 8, Aug. 1999, pp. 35-42.
+
+NASA/TM--2000-210337
+
+pp.
+
+Vol. 32, Feb. 1999, pp. 61-88.
+
+1988,
+P.V.,
+
+"Buoyant
+
+and Identification
+
+Harry,
+
+Center,
+
+Depressurization
+
+1994, pp. 187-195.
+
+J.S.,
+
+Combustion
+
+Technol.,
+Report
+20000000307).
+Senecal,
+
+Ferkul,
+
+with Theory,"
+
+Twenty-F_fth
+
+"Characterization
+
+29.
+
+Flow--Drop
+
+Spread
+
+Whitaker,
+
+Clark-Ingram,
+
+1999,
+
+Generators
+
+Report WSTF-IR-99-0119,
+Smith, R.L., and Kashiwagi,
+
+and
+on
+
+Over a Thin Solid in Low-
+
+pp. 1685-1692.
+Pitts, W.M., Yang, J.C., Huber,
+Thermal
+
+35.
+
+"Near-Limit
+
+Pittsburgh,
+
+K.R.,
+
+K.R. and T'ien,
+
+Acceleration,"
+on
+
+Inst.,
+
+Vol. VII, No. 3, June
+
+Sacksteder,
+
+J.S.,
+
+(International)
+
+Spreading
+
+and Comparison
+
+Technol.,
+
+April
+
+Oxygen
+
+Space
+
+Module
+
+a Thin Solid Fuel in Microgravity,"
+
+Sacksteder,
+
+J.S., "Flame
+
+M.
+
+34.
+
+Space Center,
+
+36.
+
+pp. 1213-1222.
+Grayson,
+G.,
+
+and
+
+A.F.
+
+Space Station," SAE Tech. Paper 972334, July 1997.
+Barker, R.S., Alalusi, T.R., and Horstman,
+R.H., "Lab
+
+TR-650-001,
+
+and T'ien
+
+Combustion
+
+T'ien,
+
+27.
+
+P.V.,
+
+Report
+
+Symposium
+
+Combustion,
+
+Em,ironmental
+
+by
+
+No. 2, 1990-1991,
+pp. 103-113.
+McKinnie, J.M.: "Fire Response Aboard
+
+1,
+
+of Fire Extinguishants
+
+NASA Johnson
+
+Facility,
+
+Over
+
+Twenty-Second
+
+to Use of Halon:
+
+33.
+
+Spacecraft,"
+
+White
+March
+
+Caruso,
+
+C.K., "Determination
+
+Chemical
+
+to Spacecraft
+
+No. 3, 1991, pp. 243-258.
+24.
+
+S.V.
+
+edited
+
+Dunlap,
+Johnson
+
+in Non-Buoyant
+
+Technol.,
+
+Conference,
+
+Cross,
+
+Related
+Aerospace
+
+STI 19990075660).
+
+for
+
+D.L.,
+
+Issues
+Third
+
+(NASA
+
+1999.
+
+Dietrich,
+
+"NASA
+Future,"
+
+NASA/CP--1999-209258,
+
+and
+
+Melikhov,
+A.S., "Experimental
+Verification
+of Material
+Flammability
+in Space,"
+NASA/CR--1999-209405,
+22.
+
+M.M.,
+
+Present,
+
+Technology
+
+and
+
+Equipment,"
+SAE Tech. Paper 981663, July 1998.
+Ivanov,
+A.V., Balashov,
+Ye. V., Andreeva,
+T.V.,
+
+Nov.
+
+Collins,
+
+Human
+
+D.B.,
+
+Exploration
+
+Mission,"
+
+July 1999.
+"Practical
+of Mars,"
+
+Soc., Vol. 48, 1995, pp. 287-300.
+
+Methods
+Jour.
+
+for
+
+British
+
+REPORT
+Public
+rapoding
+burden
+gathering
+and maintaining
+collection
+of information,
+Davis
+
+Highway,
+
+Suite
+
+DOCUMENTATION
+
+PAGE
+
+for
+
+this collection
+of information
+is estimated
+to average
+1 hour
+the data
+needed,
+and completing
+and reviewing
+the collection
+including
+suggestions
+for reducing
+this burden,
+to Washington
+
+1204,
+
+Arlington,
+
+VA
+
+22202-4302,
+
+and
+
+1. AGENCY USE ONLY (Leave blank)
+
+to
+
+the
+
+Office
+
+of
+
+per response,
+of information.
+Headquarters
+
+Management
+
+and
+
+including
+Send
+Services,
+
+Budget,
+
+2. REPORT DATE
+September
+
+Form Approved
+OMB No. 0704-0188
+the time
+comments
+Directorate
+
+Paperwork
+
+for reviewing
+instructions,
+searching
+existing
+data sources,
+regarding
+this burden
+estimate
+or any
+other
+aspect
+of this
+for Information
+Operations
+and
+Reports,
+t215
+Jefferson
+
+Reduction
+
+Project
+
+3. REPORTTYPE
+2000
+
+Future
+
+in Fire Detection
+Space
+
+and
+
+Suppression
+
+Washington,
+
+DC
+
+20503.
+
+Technical
+Memorandum
+5. FUNDING NUMBERS
+
+4. TITLE AND SUBTITLE
+Progress
+
+(0704-0188),
+
+AND DATES COVERED
+
+Technology
+
+for
+
+Missions
+WU-101-52-00-00
+
+6. AUTHOR(S)
+Robert
+
+Friedman
+
+and David
+
+L. Urban
+
+8. PERFORMING ORGANIZATION
+REPORT NUMBER
+
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)
+National
+John
+
+Aeronautics
+
+H. Glenn
+
+Cleveland,
+
+and Space
+
+Research
+
+Ohio
+
+Administration
+
+Center
+
+at Lewis
+
+Field
+
+E-12382
+
+44135-3191
+
+9. SPONSORING/MONITORING
+
+AGENCY NAME(S) AND ADDRESS(ES)
+
+10.
+
+SPONSORING/MONITORING
+AGENCY
+
+National
+
+Aeronautics
+
+Washington,
+
+DC
+
+and Space
+20546-
+
+REPORT
+
+NUMBER
+
+Administration
+NASA
+
+0001
+
+TM--2000-210337
+
+AIAA-2000-5251
+11. SUPPLEMENTARY NOTES
+Prepared
+
+forthe
+
+Astronautics,
+
+Space
+Long
+
+2000Con_rence
+
+Beach,
+
+and Exposition
+
+California,
+
+sponsored
+
+Septemberl9-21,2000.
+
+bythe
+
+American
+
+Responsible
+
+Institute
+
+person,
+
+Robert
+
+ofAeronauticsand
+Friedman,
+
+organization
+
+code
+
+6711,(216)433-5697.
+
+12a. DISTRIBUTION/AVAILABILITY
+
+12b. DISTRIBUTION CODE
+
+STATEMENT
+
+Unclassified-Unlimited
+Subject
+
+Category:
+
+This pubfication
+
+18
+
+is available
+
+Distribution:
+from the NASA Center for AeroSpace
+
+Nonstandard
+
+Information,
+
+(301) 621--0390.
+
+is a critical
+
+part
+
+particularly
+
+the technology
+
+13. ABSTRACT (Maximum 200 words)
+
+Fire
+
+intervention
+
+reviews
+
+International
+craft
+
+technology
+
+the status,
+Space
+
+fire safety
+
+orbiting
+
+Station
+
+(detection
+and issues
+
+limits,
+processes
+
+and suppression)
+in fire intervention,
+
+and future
+
+is the understanding
+
+and planetary-transit
+
+flammability
+effective
+
+trends,
+
+missions
+
+spacecraft.
+
+and flame
+
+Earth
+
+of fires
+
+A key finding
+
+suppression
+
+for fire response
+
+beyond
+
+of the behavior
+
+An important
+
+in the non-convective
+
+is the strong
+
+in microgravity.
+
+and technology
+
+orbit.
+
+of the strategy
+
+influence
+
+Knowledge
+
+of spacecraft
+
+applied
+contribution
+
+of ventilation
+flow
+
+aid the
+
+paper
+
+in spaceof Earth-
+
+characteristics,
+development
+
+of
+
+for fire suppression.
+
+15. NUMBER OF PAGES
+
+14. SUBJECT TERMS
+Extinguishing;
+
+on flame
+
+will
+
+The
+
+of the
+
+environment
+flow
+
+effects
+
+safety.
+
+to improvements
+
+(microgravity)
+
+of these
+
+fire
+
+to the protection
+
+Fire
+
+extinguishing;
+
+Fire
+
+safety;
+
+Fires;
+
+Reduced
+
+gravity;
+
+Smoke
+
+detectors
+
+1?
+16. PRICE CODE
+
+A03
+17. SECURITY CLASSIFICATION
+OF REPORT
+Unclassified
+NSN 7540-01-280-5500
+
+18. SECURITY CLASSIFICATION
+OF THIS PAGE
+Unclassified
+
+19. SECURITY CLASSIFICATION
+OF ABSTRACT
+
+20. LIMITATION OF ABSTRACT
+
+Unclassified
+Standard Form 298 (Rev. 2-89)
+Proscribed by ANSI Std. Z39-18
+298-102
+

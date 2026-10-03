@@ -1,0 +1,1799 @@
+NASA Contractor Report 182185
+
+I
+
+An Experimental Study of Opposed
+Flow Diffusion Flame Extinction
+Over a Thin Fuel in Microgravity
+(EASA-CB-182185)
+A M B X P B E I I E 6 3 b L STUDY OF
+CEEOSBD PLOW D I € P P S I O I PLAlE € l I I I C T I O P OVBB
+d 4HXII PURL I O I I C l i C X B A V I T Y + t . l . ! t h e s i s .
+F i n a l Report (Case Western Beserve Unir.)
+17 F
+C S C L 21B G3/25
+
+Paul V. Ferkul
+Case Western Reserve University
+Cleveland, Ohio
+
+February 1989
+
+Prepared for
+Lewis Research Center
+Under Grant NGT-50088
+
+National Aeronautics and
+Space Administration
+
+1189-236
+38
+
+Unclas
+0206420
+
+AN EXPERIMENTAL STUDY OF OPPOSED FLOW DIFFUSION FLAME
+EXTINCTION OVER A THIN FUEL IN MICROGRAVITY
+Paul V .Ferkul*
+Department of Mechanical and Aerospace Engineering
+Case Western Reserve University
+Cleveland, Ohio 44106
+
+Summary
+An experiment was conducted to examine the flame spread
+and flame extinction characteristics of a thin fuel burning in
+a low-speed forced convective environment in microgravity .
+The flame spread rate was observed to decrease both with
+decreasing ambient oxygen concentration as well as decreasing
+free stream velocity. A new mode of flame extinction was
+observed, caused by either of two means: keeping the free
+stream velocity constant and decreasing the oxygen concentration, or keeping the oxygen concentration constant and
+decreasing the free stream velocity. This extinction is called
+quenching extinction. By combining this data together with
+a previous microgravity quiescent flame study and normalgravity blowoff extinction data, a flammability map was
+constructed with molar percentage oxygen and characteristic
+relative velocity as coordinates. The Damkohler number is not
+sufficient to predict flame spread and extinction in the near
+quench limit region.
+
+Introduction
+In the field of combustion, blowoff extinction has been
+widely studied. Blowoff occurs when the flow of reactants
+through the flame zone becomes so rapid that the chemical
+processes required for combustion are unable to keep pace.
+The reaction rate drops, and extinction soon follows. In terms
+of a nondimensional quantity, the ratio of characteristic flow
+time to chemical time becomes too small (the flow time is the
+amount of time spent by the oxidizer in the flame tip region
+and is inversely proportional to flow velocity). This ratio is
+called the Damkohler number.
+The motivation for this work comes from that of T’ien
+(ref. 1) who presents a model of a stagnation point diffusion
+flame established over a solid fuel. The model includes radiative heat loss from the fuel surface. The governing equations
+are solved numerically, and the blowoff extinction phenomenon is observed as the velocity of the oxidizer becomes too
+large. However, of greater significance is the observation of
+mother extinction limit, evident as the flow velocity becomes
+small. T’ien attributes this limit to flame temperature reduction
+as the rate of heat loss becomes significant compared with the
+*NASA Resident Research Associate.
+
+rate of combustion heat release. Based on Arrhenius kinetics,
+the rate of chemical reaction is proportional to exp( -EIRT),
+where E is the activation energy, R the gas constant, and T
+the flame temperature. Thus, a significant reduction in flame
+temperature causes the chemical reaction rate to drop
+appreciably, thereby leading to extinction. The goal of this
+work was to observe this extinction (called quenching
+extinction) albeit in a different geometry.
+Actually, the first work suggesting the importance of
+radiation in diffusion flame extinction was performed by Bonne
+(ref. 2). He concluded that radiative losses from the flame
+decreased the flame temperature substantially, thereby leading
+to extinction.
+In order to observe quenching extinction, the flame requires
+a sufficiently slow flow of oxidizer into the flame zone.
+Unfortunately for this experiment, the normal gravitational
+environment of Earth induces natural convective flows leading
+to oxidizer velocities which are too large. For this reason, a
+microgravity environment was simulated by using the Zero
+Gravity Facility at the NASA Lewis Research Center. The
+entire experiment was dropped in vacuo down a 500-ft shaft
+and fell unrestricted for 5.18 sec. From the reference frame
+of the experiment, gravity no longer manifests itself and
+buoyancy forces are virtually eliminated.
+An earlier experimental attempt to observe quenching
+extinction is described by Foutch (ref. 3), who used a hydrocarbon fuel (nonadecane) that is a solid at room temperature.
+The fuel was melted into a noncombustible fiber-frax sheet
+and allowed to solidify. The resulting fuel slab (1 mm thick)
+was ignited in a microgravity environment and moved into a
+prescribed oxidizer atmosphere to generate the flow velocity.
+Foutch was unable to observe extinction and concluded that
+the fuel was too thick to allow the flame to reach steady state
+in the 5.18 sec of microgravity time.
+Recently Olson (ref. 4) conducted quiescent flame spread
+tests in microgravity on thin (0.0076-cm) paper samples
+(99 percent cellulose, 1 percent polyamide resin). The
+samples, measured at 3 by 15 cm, were ignited on a short side,
+and the flame was allowed to propagate. The flame propagation
+velocity VFwas measured. She found that a flame propagated
+in an oxygen-nitrogen environment of 21 mole % oxygen
+(which is almost identical to air), but a flame could not be
+established at 20.5 mole % oxygen. The low flow velocity
+recorded (0.54 cm/sec, simply VF since from the flame’s
+point of view the flow approaches at this velocity) is
+
+1
+
+substantially less than the velocity required to achieve blowoff
+in the same atmosphere of 21 mole % oxygen; this indicates
+that a quenching extinction was observed.
+A recent theoretical analysis by Chen (ref. 5) examines the
+extinction characteristics of a flame established over the leading
+edge of a thin fuel plate in slow, forced convective flows in
+a microgravity environment. Chen observed quenching
+extinction as the oxidizer velocity became small, and he too
+attributed it to flame temperature reduction. As a result, the
+rate of radiant heat loss from the fuel surface outweighed the
+rate of combustion heat release.
+Studying flames in microgravity provides basic scientific
+insight. With buoyancy greatly reduced, the effect of various
+flows (which in normal gravity may be masked by natural
+convection) can be more quantitatively studied. Furthermore,
+a comparison of flames in normal gravity and microgravity
+can be made, thus aiding the field of spacecraft fire safety.
+
+Symbols
+d
+
+distance normal to plate, mm
+
+E
+
+activation energy
+universal gas constant
+Re Reynolds number
+T flame temperature
+
+R
+
+time, sec
+tl convective time scale, sec
+rz viscous time scale, sec
+u free stream velocity, cm/sec
+V,, characteristic relative velocity, cm/sec
+V, flame spread rate, cm/sec
+distance from leading edge, cm
+x
+v kinematic viscosity
+
+A specially designed deceleration container filled with
+polystyrene beads stops the rapidly falling experiment
+gradually enough to prevent damage.
+This experiment took place inside a combustion chamber
+(fig. 1) which can be filled with any desired oxidizer
+environment. The chamber is cylindrical in shape and has an
+internal volume of 113 liters. The experiment had to fit within
+the lower 25.4 cm of the vessel to allow its proper opening
+and closing. The camera port that was used is on the top;
+although farthest away from the experiment, it permits full
+visibility and allows truer perspective. The combustion
+chamber was mounted inside the drop package, the vehicle
+that contained the entire experiment.
+
+Apparatus
+The apparatus used in this experiment is shown in figure 2.
+It is the apparatus used by Foutch (ref. 3), with a few
+modifications.
+Fuel.-As already mentioned, Foutch’s fuel proved to be
+too thick. The flames were unable to reach steady state because
+much of the limited drop time went to bringing the fuel up
+to temperature.
+To solve this problem, a much thinner fuel was needed. Thin
+cellulose sheets (laboratory wipes, 99 percent cellulose,
+1 percent polyamide resin) having a half-thickness of 0.0038
+
+t
+
+1.91-c~-THlCK BY
+7.62-CM-DIAM
+QUARTZ DISK-,
+\
+
+INSTRUMENTATION AND
+ELECTRICAL
+PORT 7,
+\
+
+r
+
+5.08-CM-DIAM
+
+,’ VIEWING PORT
+
+SPHERICAL RADIUS
+
+,
+
+Experiment Description
+Microgravity Environment
+In order to achieve a microgravity environment, the Zero
+Gravity Facility at the NASA Lewis Research Center was
+utilized. This unique facility centers around a deep shaft dug
+into the Earth. The shaft houses a long cylindrical steel tube
+6.1 m in diameter. When an experiment is dropped and
+allowed to fall freely down this tube, gravitational forces
+virtually disappear relative to its reference frame. However,
+in order to permit true free fall, aerodynamic drag must be
+eliminated. This is accomplished by evacuating the tube to 0.01
+torr (1.3 x l o p 5 atm). Any residual air drag will produce
+accelerations of less than 1 X
+g. The microgravity time
+attained, which is limited by the depth of the tube, is 5.18 sec.
+2
+
+I
+
+,-O-RING SEAL
+
+5.08-CM-OIAM
+VIEWING PORT
+
+7.62-CM-DIAM
+
+/
+
+I_
+
+39.62 CM D I M
+
+4
+
+TATION AND
+ELECTRICAL
+PORTS
+
+Figure 1 .-Cross-sectional schematic of combustion chamber.
+
+ORIQINAL PAGE I
+S
+
+OF POOR QUALITY
+!
+
+IGNITER
+HOLDER
+BLOCK
+
+-SUPPORT
+
+l2
+
+____-
+
+---Figure 2.-Experimental
+
+I
+TO DRIVE
+MECHANISM
+
+I-
+
+(-87-117YR
+
+I
+
+I
+
+I
+
+I
+
+ARM
+
+t
+
+1.2
+
+t
+
+I
+
+T H I N METAL STRIPS
+
+I
+
+apparatus
+
+cm and an area density, based on the half-thickness, of
+1.00 x l o p 3 g/cm2 were chosen. This is the fuel first used
+by Olson (ref. 4); it was selected because she had good success
+with it and because a comparison with her work was desired.
+Furthermore, the same fuel width (3 cm) was used.
+Generation of oxidizer velocity.-Instead of attempting to
+force the oxidizer past the paper fuel at a low speed, the fuel
+was moved at a constant speed through the oxidizer with a
+dc motor. The motor can produce speeds from 0 to 50 cm/sec,
+but 6 . 3 cm/sec covers the entire allowable distance in the
+5.18 sec of microgravity time; thus a speed much higher than
+6 . 3 cm/sec sacrifices valuable drop time. For example, if the
+sample were moved at 12 cm/sec, the fuel would reach the
+end of its allowable travel length at 2.7 sec into the drop.
+However, the ignition transient takes approximately 2 sec to
+fade, thereby leaving about 0.7 sec to obtain data. Although
+this may be sufficient time to obtain flame shape data, it is
+unlikely that the flame can reach extinction in such a short
+time. This time constraint was verified experimentally.
+The leading edge of the sample was stiffened with a small
+
+piece of thin metal tape, which was creased and applied to
+both sides of the fuel so that the crease became the leading
+edge. This was done in order to prevent any flow disturbance
+downstream caused by the flimsy paper.
+The sides of the paper were bounded by thin metal strips
+which held it in place (see fig. 3). A flame was established
+on the back of the sample to create the opposed flow mode
+of flame spread.
+Flow field development.-The Reynolds number Re, based
+on the distance of the flame from the leading edge of the fuel
+sample and the sample velocity, varied from 30 to 450. Since
+the condition Re > > 1 was not strictly met, a true Blasius
+boundary layer was not established. There is no simple
+analytical description of the flow field for this range of
+Reynolds numbers.
+There were two additional complications. One was that the
+flow field was initially transient. The paper fuel was
+
+I
+
+.
+.
+
+I
+
+I
+
+I
+
+-ol
+
+(b)
+
+(a) Edge view.
+(b) Front view.
+
+Figure 3.-Schematic
+in centimeters.)
+
+of fuel sample with fixed igniter. (All dimensions are
+
+accelerated rapidly from rest, so the flow field took time to
+develop. Ideally, the sample would be moved long enough to
+allow the flow field to develop; then the experiment would
+be dropped and the fuel ignited. However, because of the
+limitations imposed by the size of the combustion chamber,
+this approach was not possible.
+
+The flow field development is commonly called impulsive
+motion of a semi-infinite flat plate. To estimate the time it takes
+for the flow to reach steady state, two important time scales
+are introduced (ref. 6). Let t be the time measured from the
+instant the plate is accelerated, u the plate velocity, x the
+distance of the flame from the leading edge, d an arbitrary
+distance normal to the plate, and v the kinematic viscosity of
+the fluid; then rl and t2 are defined as follows: t l = n/u and
+t2 = d 2 / v . Here, rl is a measure of the time required for a
+point at a distance x downstream of the leading edge to sense
+the convective influence of the leading edge, and t 2 is a
+measure of the time required for the vorticity, generated at
+the surface of the plate when it is accelerated, to diffuse to
+a distance d from the plate. Clearly, if t / t l and t / t 2 are large,
+the flow has reached steady state. Because of the limitations
+of the chamber size and drop time, the largest value of r is
+5.18 sec, which occurs at the end of the drop.
+3
+
+The value used for d was the flame standoff distance,
+because the leading edge region of the flame is most important
+in controlling flame spread and stabilization. As presented
+later, values of d ranged from 1.2 to 3.7 mm. The values of
+r, varied from 1 to 6 sec, and r2, from 0.1 to 1 sec. Therefore,
+it is important to note that in some cases the time for the flow
+field to reach steady state was of the same order as the time
+of the experiment.
+The second complication was that as the flame spread along
+the paper it was subjected to a changing velocity profile, even
+if the flow field had reached steady state. As distance from
+the leading edge decreased, the boundary layer thickness
+decreased. This was not a great problem since most of the
+flames spread quite slowly. To obtain an estimation of this
+effect, a Blasius boundary layer profile was assumed. In the
+worst case, the boundary layer thickness decreased 40 percent,
+though it usually changed by less than 10 percent.
+The changing boundary layer thickness may have an effect
+on the flame if it is allowed to propagate far enough, but for
+the small flow velocities produced in this experiment, this
+effect needs to be better quantified. Of course, for large free
+stream velocities the flame may eventually be blown off as
+it spreads upstream into a thinner and thinner boundary layer
+with correspondingly higher and higher velocities occurring
+in the flame zone.
+Figure 4 summarizes these effects. As explained in the
+section Results, the flames themselves do not appear to be
+greatly influenced by these complications.
+
+Igniter.-The ignition characteristics were chosen to
+duplicate those in reference 4. A 0.0254-cm-diam Nichrome V
+wire was bent back and forth over the fuel as shown in figures
+2 and 3. The igniter was positioned so that adjacent turns of
+the wire were on opposite sides of the paper. The wire typically
+had a resistance of 3 D and received power for 0.3 sec as a
+28 V potential was applied. As determined in reference 4, this
+power input is enough to cause ignition yet minimizes the heat
+input to the system.
+At first, the igniter was attached to the moving assembly
+(fuel and holder) to provide ignition after the sample was
+brought up to speed (fig. 3). However, the flames spread so
+slowly that they remained in the vicinity of the igniter, which
+acted as a heat sink, throughout the drop time. This problem
+was solved by using an igniter (fig. 5) which first moved with
+the fuel and ignited it and then slowly retracted out of the way.
+(No attempt was made to examine the effect of the retraction
+on the flow field.) To accommodate the new design, the fuel
+length was shortened from 10 to 7 cm. The shorter length
+sufficed since the flames spread so slowly.
+
+'- SUPPORT ARM
+
+i\l
+
++ T O DRIVE MECHANISM
+
+r'
+
+-0.3
+
+CM
+
+LOTAT ION
+
+[----I
+L
+
+IGNITER
+HOLDER
+
+FUEL
+\
+
+VISCOUS OR "BOUNDARY LAYER" REGION
+
+IGNITER
+
+\
+
+\
+
+THIN METAL STRIPS
+
+--->
+STIFF
+LEADING
+EDGE -*
+
+*
+
+\
+
+I(C)
+
+(a) Fuel plate attains an instantaneous velocity u at time t = 0.
+(b) Velocity u ( y ) at fixed x-location on plate as a function of time. Time
+increases from left to right.
+(c) Velocity u ( y ) as a function of distance along plate.
+Figure 4.-Flow
+4
+
+field.
+
+tb)
+
+(a) Edge view.
+(b) Front view.
+Figure 5.--Schematic of fuel sample with moving igniter. (Other dimensions
+are as shown in fig. 3.)
+
+Procedure
+The fuel sample, with the stiffened leading edge, was
+mounted in the fuel holder. The apparatus was then placed
+in the combustion chamber, which was sealed and evacuated.
+The sample was left in a vacuum for at least 12 hr to remove
+moisture. After the chamber was filled with the desired (dry)
+oxidizer environment, the drop package was suspended at the
+top of the drop tube. Upon release the experiment began (time,
+t = 0). Within the test chamber the sample started to move
+at the chosen velocity, and the igniter received power. At
+t = 0.3 sec the ignition power was shut off. At t = 1 sec the
+igniter began to retract. Data were obtained from a Teledyne
+high-speed motion picture camera mounted on the top of the
+combustion chamber. In order to observe the dim blue flames,
+the most sensitive film which does not offgas (16-mm Kodak
+ektachrome high-speed video news SO25 1,400ASA) was used.
+The f-number was 1.6, the shutter angle 160", and the filming
+rate 24 frameshec.
+At t = 5.18 sec the drop package impacted the deceleration
+cart, and the experiment ended. The drop package was pulled
+up, and the film was retrieved. To further enhance the flame
+imaging, the film was force-processed at + 2 f-stops.
+Data were recorded with a film motion analyzer. A frame
+of the film was projected on a digitized screen with the frame
+number displayed. A cursor with a cross-hair sight, indicating
+the horizontal and vertical coordinates of the point in the cross
+hairs, was placed on the screen. At the press of a button, these
+data were fed directly into a computer data file for processing.
+
+Results
+
+0
+
++
+A
+U
+
+QUIESCENT FLAME SPREAD (REF. 4 )
+LOW-SPEED FORCED CONVECTION
+FLAME EXTINCTION
+SPREAD RATE TOO SMALL TO BE MEASURED
+
+e0.87
+
+eo.40
+
+e.5
+03
+
+e0.64
+
+Flame Dimensions
+The key flame dimensions extracted from the photographic
+record are shown in figure 7. A summary of the measurements
+from the experiments is shown in table I. The flame lengths
+and widths decrease both with decreasing oxygen concentration
+as well as free stream velocity (i.e., fuel speed). However,
+the standoff distance does not follow this simple trend. The
+flame standoff distance first increases as extinction is
+
+Flame Spread Rates
+
+1
+
+I
+
+The test parameters are presented in figure 6, which gives
+the measured flame spread rates as a function of oxygen mole
+fraction and characteristic relative velocity (including a point
+from ref. 4). All of these data are from microgravity tests,
+so the characteristic relative velocity includes only the vector
+sum of the fuel and flame spread velocities without any buoyant
+flow components. The symbols indicate the test condition for
+a given experiment. Four flame extinctions were observed
+within the 5.18 sec of microgravity time.
+Next to each symbol appears the flame spread rate for that
+test condition. Spread rates of two flames were too small to
+be measured (<0.05 cm/sec). The spread rates of these two
+flames were undeterminable and are marked with a U.
+In the absence of buoyant flows, spread rates increased
+uniformly with oxygen concentration and free stream velocity.
+In contrast, investigations of normal-gravity flames spreading
+over thermally thin fuels (ref. 7) indicate that for a given
+oxygen concentration the spread rates are either unchanged
+or decrease as free stream velocity increases, especially as the
+blowoff limit is approached.
+
+W I ITH
+
+I
+
+4-
+
+DOUBLE STANDOFF
+
+I
+
+*
+
+LENGTH
+
+Figure 7.-Measured
+
+dimensions
+
+5
+
+TABLE I.-FLAME
+
+DIMENSIONS
+
+Oxygen
+content
+mole %
+'
+
+Fuel
+speed,
+cmlsec
+
+Spread
+rate,
+cmlsec
+
+Double
+standoff
+distance,a
+mm
+
+Length,a
+cm
+
+Width,a
+cm
+
+21
+
+6.06
+6.75
+3.92
+1.70
+
+0.87
+
+3.5
+2.9
+
+.40
+.35
+
+2.4
+5.0
+b7.5
+b6.8
+
+2.2
+2.0
+1.9
+1.6
+
+6.36
+3.30
+1.31
+.81
+
+.36
+.27
+.21
+
+6.0
+b6.5
+6.0
+
+18
+18
+
+18
+17
+17
+
+17
+17
+16
+
+64
+
+___
+
+C1.8
+1.4
+
+___
+
+1.3
+
+1.7
+c1.4
+
+c1.5
+
+_--
+
+1.6
+1.5
+c.9
+.9
+
+1.9
+
+2.5
+'1.7
+
+Extinction
+observed
+
+( W ) "
+
+C1.1
+1.1
+
+___
+
+___
+
+5.96
+5.66
+4.29
+
+.I9
+
+5.9
+
+2.2
+
+15
+15
+
+(dl
+(4
+
+5.0
+c5.5
+
+1.5
+C1.1
+
+1.7
+1.3
+c1.2
+
+1.3
+1.1
+
+14
+14
+
+6.08
+4.19
+
+___
+___
+
+___
+___
+
+___
+___
+
+___
+___
+
+___
+___
+
+.9
+
+aApproxirnalely conslanl unless otherwise noled.
+bSlightly increasing.
+CSlightly decreasing.
+dUnrneasurably small.
+
+approached (decreasing velocity andlor oxygen percentage),
+but then decreases slightly close to the limit. As indicated in
+table I, some of the dimensions were slightly increasing or
+decreasing at the end of the 5.18 sec of test time, but in all
+cases the dimension recorded is the one that occurs just prior
+to the end of the experiment.
+A representative sample of the data is given in figures 8 to
+12. Fuel location, flame location relative to the fuel, double
+standoff distance, flame length, and flame width, all as a
+function of time, are shown for the data point having
+17 mole % oxygen and a characteristic relative velocity of
+1.52 cm/sec. The fuel location and flame location data yield
+the fuel velocity and flame spread rate, respectively.
+
+1.2
+
+L
+
+.6
+
+0
+V
+
+5
+LL
+J
+
+I
+1
+
+0
+
+2
+
+4
+
+3
+
+TIME,
+
+5
+
+6
+
+SEC
+
+Figure 9.-Flame location as a function of time for oxygen concentration =
+17 mole % and &h = 1.52 cm/sec.
+1.c
+
+8
+
+.a
+
+I
+
+r
+
+6
+
+W
+L
+V
+
+u
+
+5
+
+2
+n
+
+L
+
+0
+5
+
+B
+5
+
+4
+
+5
+W
+J
+
+8
+.4
+
+v)
+
+a
+LL
+
+W
+J
+
+2
+
+g
+
+m
+
+I
+0
+
+1
+
+2
+
+I
+
+I
+
+4
+
+5
+
+6
+
+.2
+
+I
+
+I
+
+3
+
+TIME,
+
+0
+
+I
+
+I
+
+I
+
+I
+
+I
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+TIME.
+
+SEC
+
+Figure 8.-Fuel location as a function of time for oxygen concentration
+17 mole % and V,, = 1.52 cm/sec.
+
+6
+
+.6
+
+=
+
+SEC
+
+Figure IO.-Double standoff distance as a function of time for oxygen
+concentration = 17 mole % and & = 1.52 cm/sec.
+,
+
+‘r
+
+c
+
+, 3
+U
+
+0
+
+O
+
+I0
+
+1
+
+2
+
+4
+
+3
+
+TIME.
+
+5
+
+6
+
+SEC
+
+Figure 12.-Flame width as a function of time for oxygen concentration =
+17 mole % and I , = 1.52 cm/sec.
+$
+
+The effect of ignition for this particular test condition can
+be seen in figures 9 to 12. During ignition, the flame was quite
+strong and yellow, thereby indicating that it was hot enough
+to induce soot formation. Figure 9 shows the flame spreads
+more quickly initially, as indicated by the steeper slope of the
+data points. In figure 10 the standoff distance initially increased
+as the strong, ignition-influenced flame began to weaken and
+move farther from the fuel surface. In figures 11 and 12, the
+flame length and width peak at some ignition-induced
+maximum value and then decrease and level out. These four
+figures suggest that ignition effects fade about 2 sec into the
+test. The error analysis appears in the appendix.
+
+Flame Photographs
+A visual comparison of flames spreading in microgravity
+is shown in figures 13 and 14. Two views of each flame are
+shown. The bottom photo shows an edge view of the fuel
+sample with the relative free stream velocity blowing from
+right to left. This view provides the maximum optical depth
+for viewing the two-dimensional flame. The top photo shows
+
+the flame as it appears looking down on the fuel sample (front
+view), which appears as a plane rectangle. This view is used
+mainly to check that the flame is two-dimensional, however
+some flames are so weak that they are not visible in this view.
+As mentioned in the description of the apparatus, two
+different fuel lengths, 7 and 10 cm, were used. Only half a
+flame is presented in the bottom photos of the longer fuel
+samples because the support arm of the fuel sample holder
+obscured part of the other half (see fig. 3). Note also that for
+the longer fuel sample, the igniter was stationary relative to
+the sample and can still be seen glowing dim red downstream
+of the flame. This was the primary reason for modifying the
+apparatus to allow for a retractable igniter. Because the flames
+spread so slowly, the igniter remained close to the flames,
+acted as a heat sink, and could quench weak flames. The tests
+using the longer samples were not repeated once the retractable
+igniter was devised because the flames involved were far
+enough from the extinction limit to be relatively unaffected
+by the presence of the igniter wire.
+Some general observations can be made from the collected
+flame photos. For a fixed oxygen percentage the flames
+become stronger (judged by flame brightness) as the free steam
+velocity is increased, and for a fixed free steam velocity the
+flames become stronger as the oxygen percentage is increased.
+Since the flame dimensions and appearance tend to stabilize,
+the development of the boundary layer on the sample does not
+seem to significantly influence the flames throughout the test.
+The photos also show that all the flames except one (Le.,
+21 mole % oxygen, 6.93 cm/sec in fig. 14) appear to be sootfree, judged by the absence of yellow in the flame color. Some
+of the flames are very dim blue, with the front view not visible
+at all. Although temperature measurements were not made,
+the flame colors can be a qualitative indicator. In general, the
+flames became dimmer as the oxygen percentage or free steam
+velocity was decreased. A dimmer flame suggests a lower
+flame temperature.
+
+Flame Extinctions
+Figure 15 presents the flames observed just before extinction
+for the three conditions when extinction occurred. Immediately
+following ignition, these flames reached their peak intensity
+and then waned throughout the test. After becoming quite
+small, portions of the flame went out, and the fuel sample in
+these regions began to smolder. This is evident as small red
+spots in both views of two of the flames. After the flame went
+out completely, the remaining smoldering began to diminish
+and disappear. The time it took for the flame to go out,
+measured from the start of the drop, was at least 4 sec.
+One of the photos does not demonstrate this characteristic
+smoldering. In this case, the photo is one that was taken prior
+to the initiation of smoldering in order to capture the flame,
+since this particular flame became too dim to view prior to
+extinction. In other words, the flame shown weakened to the
+point of not being visible; then, about 1 sec later, visible
+7
+
+ORIGINAL PAGC
+COLOR PHOTOGRAPH
+
+(a)
+(b)
+(c)
+(d)
+(e)
+
+Oxygen
+Oxygen
+Oxygen
+Oxygen
+Oxygen
+
+concentration = 18 mole %
+concentration = 18 mole %
+concentration = 17 mole %
+concentration = 17 mole %
+concentration = 16 mole %
+
+and
+and
+and
+and
+and
+
+bh= 7.39 cm/sec.
+bh= 4.32 cm/sec.
+
+bh= 6.72 cm/sec.
+bh= 3.57 cm/sec.
+= 6.15 cm/sec.
+
+Figure 13.-Flames on IO-cm fuel samples in microgravity at various oxygen concentrations and characteristic relative velocities.
+
+8
+
+ORIGINAL PAGE
+COLOR PHOTOGRAPH
+
+I
+
+(e)
+
+(a)
+(b)
+(c)
+(d)
+(e)
+
+Oxygen concentration = 21 mole
+Oxygen concentration = 18 mole
+Oxygen concentration = 17 mole
+Oxygen concentration = 15 mole
+Oxygen concentration = 15 mole
+
+% and
+% and
+% and
+% and
+% and
+
+u
+1 cn
+
+ch= 6.93 cm/sec.
+
+ch= 2.05 cm/sec.
+
+b = 1.52 cm/sec.
+h
+c =
+h
+
+5.66 cm/sec.
+
+= 4.28 cmlsec.
+
+Figure 14.-Flames on 7-cm fuel samples in microgravity at various oxygen concentrations and characteristic relative velocities
+
+9
+
+ORIGINAL PAGE
+GOLOR PHOTOGRAPH
+
+tC)
+
+U
+
+1 CM
+
+(a) Oxygen concentration = 14 mole % and
+(b) Oxygen concentration = 14 mole % and
+(c) Oxygen concentration = 17 mole % and
+Figure 15.-Three
+
+yh = 6.08 cm/sec.
+
+ch
+
+=
+
+4.19 cm/sec.
+cmlsec.
+
+y,, = 0.81
+
+microgravity flames prior to extinction.
+
+smoldering appeared. The smoldering then weakened and
+disappeared, thereby indicating that combustion had indeed
+ceased.
+Flame Spread In Air
+
+Figure 16 presents three flames spreading in air at different
+characteristic relative velocities. Figure 16 parts (a) and (c),
+taken from reference 4, are photos of a microgravity quiescent
+flame and a normal-gravity downwardly propagating flame,
+respectively. Figure 16(b) is a microgravity flame in a slowspeed forced convection environment. The characteristic
+relative velocities for the three flames in figure 16 are 0.54,
+6.93, and 89.1 cm/sec for (a) to (c), respectively. For the case
+of the flame spreading in normal gravity, the magnitude of
+the buoyant velocity induced in the flame zone was estimated
+and used as the characteristic relative velocity. The magnitude
+
+tb)
+
+of the flow velocity had a very dramatic influence on the flame.
+Figure 16(a) shows a flame that exists at the lowest allowable
+oxygen mole fraction for microgravity quiescent flame spread,
+which is thus a limiting point. This limit is hereafter termed
+the quench limit. The flame was quite dim and was stabilized
+2.5 mm from the fuel surface. Generating a mild free stream
+velocity (fig. 16) was enough to strengthen the flame and even
+seemed to induce some soot formation. This flame standoff
+distance was 1.2 mm from the fuel surface. The normal-gravity
+flame (fig. 16(c)) was very sooty, with a standoff distance less
+than the 0.36-mm fuel holder half-thickness.
+Figure 17 presents flame spread rates on a thin fuel in air
+over a wide range of forced flow velocities. The plot includes
+the spread rates taken from the three flames shown in figure
+16 as well as elevated-gravity data from Altenkirch (ref. 8).
+The spread rates of the elevated-gravity flames are corrected
+by using the flame spread formula derived by DeRis (ref. 9),
+which states that the flame spread rate should be inversely
+proportional to the area density of the fuel bed. The
+characteristic relative velocity shown covers the entire
+flammable range of the thin fuel in air, from the microgravity
+quiescent flame spread quench limit to the high-gravity blowoff
+limit. The shape of the curve indicates that the flame spread
+rate does not change monotonically with increasing
+characteristic relative velocity.
+Figure 18 is a similar plot, but instead of elevated-gravity
+natural convection data, it includes normal-gravity, high-speed,
+horizontal, convective-flame-spread data from reference 7. The
+shape of the curve resembles the one in figure 17 if the points
+within the dotted lines at the top of the curve are removed. The
+rationale for doing this is that the low flow velocities indicated
+in this range may be an unrealistically low measure of the
+characteristic relative velocity; this is a reasonable assumption
+since natural convection, which is not considered, induces an
+additional flow that adds to the imposed flow.
+
+tC)
+
+loC
+
+(a) Microgravity quiescent environment, yh = 0.54 cm/sec (ref. 4).
+(b) Microgravity forced convection environment, b h = 6.93 cm/sec.
+(c) Normal-gravity natural convection environment, V,, = 89.1 cmlsec. (ref. 4).
+Figure 16.-Direct photograph of three spreading flames in air.
+
+10
+
+RATIO OF GRAVITY LEVELS. G/Ge
+
++
+W
+
+s
+
+n
+W
+4
+
+E
+v)
+
+.8
+
+!
+
+U
+
+.*
+
+i
+
+0
+
+QUIESCENT FLAME SPREAD (REF. 4)
+LOW-SPEED FORCED CONVECTION
+NORMAL GRAVITY FLAME SPREAD
+
+a
+0
+
+l
+
+PAPER TAPE DATA CORRECTED TO SINGLE
+THICKNESS FUEL AREA DENSITY (REF. 8 )
+INDEX CARD DATA CORRECTED TO SINGLE
+THICKNESS FUEL AREA DENSITY (REF. 8 )
+NO DATA AVAILABLE
+
+V
+
+---
+
+I
+BLOWOFF
+LIMIT
+
+S O L I D SYMBOLS DENOTE MICROGRAVITY DATA
+OPEN SYMBOLS DENOTE ELEVATED GRAVITY DATA
+(COMPILED I N REF. 4)
+
+20
+
+0
+
+40
+60
+80
+CHARACTERISTIC RELATIVE VELOCITY, Vch,
+
+100
+CWSEC
+
+120
+
+140
+
+Figure 17.-Effect of flow on flame spread rate over a thin fuel in air.
+
+1.2
+
+-
+
+I
+
+I
+
+I
+
+I
+
+P
+1.1 -
+
+1
+
+I
+
+'I
+
+I
+
+1 .o
+
+2
+>
+'
+
+.9
+
+I
+W
+-
+
+s
+n
+4
+CT
+W
+
+.8
+
+v)
+n
+.
+
+?
+LL
+
+.7
+
+.6
+
+VELOCITIES MAY BE IMPORTANT,
+THOUGH THEY ARE NOT CONSIDERED
+I N REFERENCE 7
+
+e-
+
+I
+Y
+U
+
+r REGION WHERE NATURAL CONVECTIVE
+
+I
+
+0
+
+I
+
+/
+
+i
+
+p
+'
+0
+
+0
+0
+---
+
+QUIESCENT FLAME SPREAD (REF. 4)
+LOW-SPEED FORCED CONVECTION
+HIGH-SPEED FORCED CONVECTION (REF. 7)
+NO DATA AVAILABLE
+S O L I D SYMBOLS DENOTE MICROGRAVITY DATA
+OPEN SYMBOLS DENOTE NORMAL-GRAVITY DATA
+
+t
+
+QUENCH I NG
+LIMIT
+
+.5
+
+I
+
+I
+BLOWOFF
+LIMIT
+
+Figure 18.-Effect of flow on flame spread rate over a thin fuel in air.
+
+11
+
+3(
+
+0
+
+QUIESCENT F L A m SPREAD (REF. 4)
+LOW-SPEED FORCED CONVECTION
+FLAAE EXTINCTION
+HIGH-SPEED FORCED CONVECTION (FROM
+REF. 7 COMPILED I N REF. 4)
+NO DATA AVAILABLE
+
+A
+0
+
+---
+
+25
+
+SOLID SYMBOLS DENOTE MICROGRAVITY DATA
+OPEN SYMBOLS DENOTE NORMAL-GRAVITY DATA
+
+W
+
+w
+
+n’
+r
+
+E!
++
+4
+
+E
+
+r
+W
+
+20
+
+U
+
+QUENCHING
+BRANCH
+
+z
+
+0
+U
+
+z
+W
+W
+>
+
+:
+:
+15
+
+A A
+
+10
+
+I
+
+I
+
+I111111
+
+I
+
+I
+
+I
+
+I
+
+NO FLAME
+
+Illll
+
+1
+
+I
+
+1
+
+I
+
+IIIII
+
+I
+
+I
+
+1
+10
+100
+CHARACTERISTIC RELATIVE VELOCITY, Vch, CM/SEC
+
+Figure 19.-Extinction
+
+1000
+
+boundary for flame spread over a thin cellulose fuel
+
+Flammability Map
+Figure 19 represents the flammability boundary of a thin
+cellulose %el with characteristic relative velocity and molar
+percentage oxygen as coordinates. It includes the microgravity
+quiescent flame-spread data from reference 4 and the highspeed forced convection data from reference 7. The blowoff
+and quenching extinction limits are indicated. A total of five
+quenching extinctions, three from this work and two from
+reference 4, define the quenching branch. The plot shows that
+there is a low molar percentage oxygen limit at around 15
+percent. The shape of the curve resembles that predicted by
+T’ien (ref. 1).
+
+Concluding Remarks
+A diffusion flame established on a thin fuel in a low-speed
+forced flow in microgravity was studied. The data obtained
+were combined with that of previous experiments in microgravity, normal gravity, and elevated gravity to provide
+information on flame spread on a thin fuel over a wide range
+of flow conditions.
+
+Existence of Quench Limit
+For most opposed flow diffusion flames burning in the
+normal gravitational environment of Earth, the flow velocities
+induced by buoyancy are quite large. The Damkohler number
+
+12
+
+I IIIILl
+
+(ratio of flow time to chemical reaction time) is sufficient to
+predict the flame spread and extinction characteristics of these
+flames (refs. 10 and 11). For a given oxidizer environment,
+blowoff occurs when the flow velocity becomes excessive, or
+equivalently, when the Damkohler number decreases
+sufficiently. The flame goes out because the gas residence time
+becomes too small. Thus, the chemical reactions are unable
+to keep pace with the rapid flow of oxidizer.
+A low-speed quench limit (as previously reported by Olson
+(ref. 4)) was observed. This mode of extinction is quite different
+from that encountered in blowoff. In the quenching region the
+flow speed is quite low, so the gas residence time is large; thus,
+the Damkohler number is large. As determined by T’ien
+(ref. l), extinction is caused by flame temperature reduction
+due to heat loss. This heat loss must be accounted for to predict
+both quenching extinction and flame spread characteristics in
+the quench limit region. Thus, in addition to the Damkohler
+number, a heat loss parameter should be considered.
+
+Extinction Boundary
+By placing the blowoff and quench extinction boundaries
+on one plot, a flammability map of a thin cellulosic fuel over
+a wide range of flow conditions and environments was
+obtained. The flammable region narrows with decreasing
+oxygen percentage until the blowoff and quench branches
+merge at some limiting value. Below this oxygen percentage,
+the fuel will not burn at any flow speed.
+
+As indicated earlier, for two test conditions (marked with
+a U in fig. 6 ) the spread rates were undeterminable. This
+suggests that either the flames were in transition to extinction
+at the end of the microgravity test time, or that the flames were
+indeed stabilized at some very small spread rate. Because of
+this uncertainty, these two points were not used in constructing
+the extinction boundary.
+It is significant that, for a given ambient oxygen concentration, a flame can be established in microgravity but not in
+normal gravity. The reason is that the buoyancy-induced
+velocities in normal gravity may lead to blowoff extinction,
+so by eliminating gravity and imposing a flow slower than that
+induced by buoyancy, a range of conditions is created that
+enables the flame to exist.
+
+Recommendations
+The effect of various parameters in the region near the
+quench limit need to be better quantified. Primarily, an
+
+accurate method of determining heat loss from the flame is
+important. This will aid in predicting flame spread and
+extinction characteristics. Also needed are flame temperature
+measurements and a determination of the effect of velocity
+profile on the flame spread process.
+
+Acknowledgments
+This work would not have been possible without the help
+of a NASA Graduate Student Researchers Grant
+(NGT-50088), for which I am very grateful. I would like to
+thank Raymond Sotos of NASA Lewis Research Center for
+helping in the design of the apparatus and fabricating it.
+
+Appendix-Experimental Error
+The measured quantities were position, time, and pressure.
+From these, all relevant data were extracted.
+The measurement of the position of a given point has already
+been outlined in the discussion of the apparatus. The accuracy
+of the measurement depends on the sharpness of the image.
+For example, the boundary of a dim, diffuse flame is more
+difficult to determine than the edge of a well-lit solid object.
+To determine position error, repeated measurements of a
+very dim point on the flame were made. The error was taken
+to be half of the spread between the largest and smallest value
+recorded. This error was *0.05 cm. Since all length
+measurements are merely the difference between two position
+readings, the overall uncertainty is *O.l cm.
+Time was measured with the framing rate of the camera,
+which was always set at 24 framedsec. To verify the framing
+rate, the total number of frames for the 5.18-sec drop time
+were counted. There were 124 frames for the given framing
+rate. Time was used to compute the speed of the flame relative
+to the fuel (flame spread rate) and the speed of the fuel into
+the quiescent environment.
+To estimate the error in the velocity measurements, a least
+squares linear fit of the position as a function of time data was
+
+14
+
+obtained. The slope of the line yielded the magnitude of the
+velocity, and the error was taken to be twice the standard
+deviation of the curve fit. The errors encountered ranged from
+0.06 to 0.2 cm/sec for the fuel velocity and from 0.08 to
+0.15 cm/sec for the flame spread rates.
+A linear fit of the position as a function of time data was
+justified for the fuel speed since the drive motor was designed
+to produce a constant speed. The flame spread rate, however,
+was not necessarily constant, especially for flames near the
+extinction limit. The flame spread rates tended to vary slightly
+about some mean value. This was also observed by Olson
+(ref. 4). Thus the reported spread rate is actually the average
+value.
+The oxygen mole fraction was determined by using the fact
+that the partial pressure of a perfect gaseous component equals
+the product of its mole fraction and the total pressure. The
+evacuated combustion vessel was first filled to the required
+partial pressure of oxygen and then filled to 1 atm pressure
+with nitrogen. The uncertainty in the mole fraction depends
+on the accuracy of the pressure gage, which is *0.01 psi.
+This translates into an uncertainty of *O.l percent for the
+range of molar oxygen percentages required in this experiment.
+
+References
+1. T’ien, J.S.: Diffusion Flame Extinction at Small Stretch Rates: The
+Mechanism of Radiative Loss. Combust. Flame, vol. 65, no. 1,
+July 1986, pp. 31-34.
+2. Bonne, U.: Radiative Extinguishment of Diffusion Flames at Zero Gravity.
+Combust. Flame, vol. 16, no. 2, Apr. 1971, pp. 147-159.
+3. Foutch, D.: Size and Shape of Solid Fuel Diffusion Flames in Very Low
+Speed Flows. Master of Science Thesis, Case Western Reserve
+University, NASA CR-179576, 1986.
+4. Olson S.L.: The Effect of Microgravity on Flame Spread over a Thin
+Fuel. Master of Science Thesis, Case Western Reserve University,
+NASA TM-100195, 1987.
+5 . Chen, C.H.: Diffusion Flame Extinction in Slow Convective Flow under
+Microgravity Environment. NASA TM-88799, 1986.
+6 . Rosenhead, L., ed.:Laminar Boundary Layers. Oxford University Press,
+1963, pp. 360-362.
+
+7. Fernandez-Pello, A.C.; Ray, S.R.; and Glassman, I.: Flame Spread in
+an Opposed Forced Flow: The Effect of Ambient Oxygen Concentration.
+18th Symposium (International) on Combustion, The Combustion
+Institute, 1981, pp. 579-589.
+8. Altenkirch, R.A.; Eichorn R.; and Shang, P.C.: Buoyancy Effects on
+Flames Spreading Down Thermally Thin Fuels. Combust. Flame,
+vol. 37, no. 1, Jan. 1980, pp. 77-83.
+9. DeRis, J.N.: Spread of a Laminar Diffusion Flame. 12th Symposium
+(International) on Combustion, The Combustion Institute, 1969,
+pp.241-252.
+10. Fernandez-Pello, A.C.; and Hirano, T.: Controlling Mechanisms of Flame
+Spread. Combust. Sci. Technol., vol. 32, nos. 1-4, 1983, pp. 1-31.
+11. Fernandez-Pello, A.C.: Flame Spread Modeling. Combust. Sci. Technol.,
+vol. 39, 1984, pp. 119-134.
+
+15
+
+~~
+
+Report Documentation Page
+
+National Aeronautics and
+
+2. Government Accession No.
+
+1. Report No.
+
+TRecipient's Catalog No.
+
+NASA CR- 182185
+5. Report Date
+
+February 1989
+6. Performing Organization Code
+
+8. Performing Organization Report No.
+
+7. Author@)
+
+None
+
+Paul V. Ferkul
+
+(E-4440)
+
+10. Work Unit No.
+
+674-22-05
+9. Performing Organization Name and Address
+
+11. Contract or Grant No.
+
+Case Western Reserve University
+Department of Mechanical and Aerospace Engineering
+Cleveland, Ohio 44106
+
+NGT-50088
+13. Type of Report and Period Covered
+
+Contractor Report
+Final
+
+12. Sponsoring Agency Name and Address
+
+National Aeronautics and Space Administration
+Lewis Research Center
+Cleveland, Ohio 44135-3191
+
+14. Sponsoring Agency Code
+
+15. Supplementary Notes
+
+Project Manager, Sandra L. Olson, Space Experiments Division, NASA Lewis Research Center. Paul V. Ferkul,
+NASA Resident Research Associate. This report was a thesis submitted in partial fulfillment of the requirements
+for the degree of Master of Science to the Department of Mechanical and Aerospace Engineering, Case Western
+Reserve University, in August 1988.
+16. Abstract
+
+An experiment was conducted to examine the flame spread and flame extinction characteristics of a thin fuel
+burning in a low-speed forced convective environment in microgravity. The flame spread rate was observed to
+decrease both with decreasing ambient oxygen concentration as well as decreasing free stream velocity. A new
+mode of flame extinction was observed, caused by either of two means: keeping the free stream velocity constant
+and decreasing the oxygen concentration, or keeping the oxygen concentration constant and decreasing the free
+stream velocity. This extinction is called quenching extinction. By combining this data together with a previous
+microgravity quiescent flame study and normal-gravity blowoff extinction data, a flammability map was constructed
+with molar percentage oxygen and characteristic relative velocity as coordinates. The Damkohler number is not
+sufficient to predict flame spread and extinction in the near quench limit region.
+
+17. Key Words (Suggested by Author(s))
+
+18. Distribution Statement
+
+Unclassified - Unlimited
+Subject Category 25
+
+Combustion
+Microgravity
+Flame spread
+Extinction
+19. Security Classif. (of this report)
+
+Unclassified
+
+20. Security Classif. (of this page)
+
+Unclassified
+
+21. No of pages
+
+16
+
+~
+
+&SA FORM 1626 OCT 86
+
+*For sale by the National Technical Information Service, Springfield, Virginia 22161
+
+22. Price'
+
+A03
+

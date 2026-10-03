@@ -1,0 +1,1331 @@
+N93-22643
+SPACE
+
+STATION
+
+FREEDOM
+
+COMBUSTION
+
+RESEARCH
+
+Presented
+by G.M. Faeth
+Department
+of Aerospace
+Engineering
+The University
+of Michigan
+ABSTRACT
+Extended
+operations
+in microgravity,
+on board spacecraft
+like Space Station Freedom,
+provide both
+unusual opportunities
+and unusual challenges
+for combustion
+science. On the one hand, eliminating
+the intrusion of buoyancy
+provides a valuable new perspective
+for fundamental
+studies of combustion phenomena.
+On the other hand, however,
+the absence of buoyancy creates new hazards of fires
+and explosions
+that must be understood
+to assure safe manned space activities. These considerations
+- and the relevance
+of combustion
+science
+to problems
+of pollutants,
+energy utilization,
+waste
+incineration,
+strong
+
+power
+
+motivation
+
+and propulsion
+for microgravity
+
+systems,
+
+and fire and explosion
+
+combustion
+
+hazards,
+
+among
+
+others
+
+- provide
+
+research.
+
+The intrusion of buoyancy
+is a greater impediment
+to fundamental
+combustion
+studies than to most
+other areas of science. Combustion
+intrinsically
+heats gases with the resulting
+buoyant
+motion at
+normal gravity either preventing
+or vastly
+most evident for fundamental
+laboratory
+
+complicating
+experiments;
+
+measurements.
+few practical
+
+Perversely,
+combustion
+
+this limitation
+is
+phenomena
+are
+
+significantly
+affected by buoyancy.
+Thus, we have never observed the most fundamental
+combustion
+phenomena
+- laminar premixed and diffusion flames, heterogeneous
+flames of particles and surfaces,
+low-speed
+turbulent
+flames, etc. - without substantial
+buoyant disturbances.
+This precludes
+rational
+merging of theory, where buoyancy
+is of little interest, and experiments,
+that always are contaminated by buoyancy,
+which is the traditional
+path for developing
+most areas of science. The current
+microgravity
+combustion
+program
+seeks to rectify this deficiency
+using both ground-based
+and
+space-based
+facilities, with experiments
+involving space-based
+facilities including: laminar premixed
+flames, soot processes
+in laminar jet diffusion flames, structure of laminar and turbulent jet diffusion
+flames, solid surface combustion,
+one-dimensional
+smoldering,
+ignition and flame spread of liquids,
+drop combustion,
+
+and quenching
+
+of panicle-air
+
+flames.
+
+Unfortunately,
+the same features that make microgravity
+attractive
+for fundamental
+combustion
+experiments,
+introduce
+new fire and explosion
+hazards
+that have no counterpart
+on earth. For
+example,
+microgravity
+can cause broader
+flammability
+limits, novel regimes
+of flame spread,
+enhanced
+effects of flame radiation,
+slower fire detector response,
+and enhanced
+combustion
+upon
+injecting
+fire extinguishing
+agents,
+among
+others.
+On the other hand, spacecraft
+provide
+an
+opportunity
+to use "fire-safe"
+atmospheres
+due to their controlled
+environment.
+Investigation
+of
+these problems
+is just beginning,
+with specific fire safety experiments
+supplementing
+the spacebased fundamental
+experiments
+listed earlier; thus, much remains to be done to develop an adequate
+technology
+base for fire and explosion
+safety considerations
+for spacecraft.
+
+,163
+
+Space
+
+Station
+Freedom
+Utilization
+Conference
+Marshall
+Space Flight Center
+Huntsville,
+Alabama;
+August
+1992
+
+SPACE STATION FREEDOM
+COMBUSTION RESEARCH
+G. M. Faeth
+Department
+of Aerospace
+Engineering
+The University
+of Michigan
+Ann Arbor, Michigan
+
+INTRODUCTION
+
+PRECED|NG PAGE BLANK NOT FILMED
+
+465
+
+RELEVANCE OF COMBUSTION
+SEVERAL
+CONCERNS
+RESEARCH:
+O
+
+MOTIVATE
+
+Combustion-generated
+problem.
+New combustion
+utilization.
+Municipal
+and
+replace landfills
+
+FUNDAMENTAL
+
+pollutants
+
+technologies
+
+are
+
+hazardous
+waste
+and storage.
+
+Fire and explosion
+hazards
+injuries,
+and loss of life and
+
+SCIENCE
+
+are
+
+re-emerging
+
+needed
+
+OPPORTUNITIES
+
+fire
+
+The
+implications
+important
+as the
+diagnostics.
+
+OF SPACECRAFT
+TO COMBUSTION
+
+to
+
+excessive
+
+for
+
+advanced
+
+hazards
+
+OFFERS
+SCIENCE:
+
+of microgravity
+experimentation
+development
+of computers
+and
+
+Increased
+activity
+in space
+implies
+new
+hazards beyond our earth-bound
+technology
+
+466
+
+needed
+
+of
+
+explosion
+
+energy
+
+in
+
+AND CHALLENGES
+
+THE MICROGRAVITY
+ENVIRONMENT
+OPPORTUNITIES
+AND CHALLENGES
+
+O
+
+and
+
+is
+
+a source
+on earth.
+
+New
+combustion
+technologies
+are
+needed
+aircraft
+and spacecraft
+propulsion
+systems.
+Current
+understanding
+of
+spacecraft
+is very limited.
+
+as a major
+
+for effective
+
+incineration
+
+remain
+property
+
+COMBUSTION
+
+fire and
+base.
+
+BOTH
+
+are
+as
+optical
+
+explosion
+
+COMBUSTION
+
+SCIENCE
+
+OPPORTUNITIES
+
+BUOYANCY
+LIMITATIONS
+OF MOTIONLESS
+FLAMES
+BUOYANCY
+IS AN INTRUSION
+ARE BUOYANT:
+O
+
+BECAUSE
+
+FEW
+
+PRACTICAL
+
+FLAMES
+
+Buoyant/molecular
+transport is given by the
+
+Gr = ApgL3/(pv2)
+For flames,
+Ap/p ~ 1,
+Grashof number:
+while Gr << 1 for
+negligible
+buoyancy.
+
+/
+|_ (__
+
+At atmospheric
+pressure,
+this implies:
+L < Order (100 I_m)
+EXPERIMENTS
+ON SUCH SCALES
+CAN
+EXISTING, OR ANTICIPATED,
+COMBUSTION
+
+NOT BE RESOLVED
+INSTRUMENTATION.
+
+BY
+
+467
+
+BUOYANCY LIMITATIONS
+OF PROPAGATING FLAMES
+THE CRITERION
+PROPAGATING
+•
+
+FOR NEGLIGIBLE
+FLAMES:
+
+BUOYANCY
+
+EFFECTS
+
+Buoyant/propagation
+convection
+is given by the Richardson
+number:
+Re = ,_pgL/(p
+
+DIFFERS
+
+FOR
+
+REACTANTS
+
+I]
+
+u2)
+
+e
+
+For flames,
+Ap/p ~ 1, L > 10 mm
+while Ri << 1 for negligible
+buoyancy
+
+Q
+
+This
+
+implies:
+
+u > Order
+
+(1 m/s).
+
+THIS IS COMPARABLE
+TO MAXIMUM
+BURNING
+VELOCITIES
+PRECLUDES
+STUDIES NEAR FLAMMABILITY
+LIMITS.
+
+FLAMMABILITY
+
+BUT
+
+LIMITS
+
+BUOYANCY
+HAS
+THWARTED
+ATTEMPTS
+TO
+UNDERSTAND
+FLAMMABILITY
+LIMITS
+-AN
+IMPORTANT
+FUNDAMENTAL
+PROPERTY OF FLAMES:
+Lean
+
+Flammability
+
+Limits
+
+(% Fuel in Air)a
+Config.
+
+A
+
+Methane
+5.85
+5.25
+5.25
+
+aFrom
+
+I
+
+Downward
+Upward
+Microgravity
+
+et al.
+
+9)
+
+Upward
+buoyancy
+
+Q
+
+Lean limits generally
+are lower
+gravity
+for hydrocarbons,
+except
+
+468
+
+Propane
+
+Strehlow
+
+propagation
+exhibits
+obvious
+affects
+all flame orientations.
+
+2.20
+2.15
+2.06
+(1986)
+
+instabilities
+
+in microgravity
+for methane.
+
+than
+
+but
+
+normal
+
+FLAME SPREAD ALONG SOLID SURFACES
+FLAME SPREAD ALONG SURFACES
+AMBIENT OXYGEN CONCENTRATION
+THE SURFACE:
+=
+
+,
+
+I
+
+I
+
+,
+
+IS AFFECTED
+BY BUOYANCY,
+AND OPPOSING
+FLOW ALONG
+
+Jo
+
+AIR
+
+t4
+
+10
+
+!°,
+
+_:_
+
+_MAL
+
+(;IAVn"VO
+
+06
+
+=_
+0
+
+M_(_=
+
+__ _
+
+OLr" seem"
+
+CHAIIACTERISTIC
+
+ItELATI_,'[
+
+4 _0
+
+_t'_O
+
+COP_'EC _1_1
+
+_,'t'LOCITT,EMSEC
+{'I'IAR_('TFRP;TI("
+
+Microgravity
+reached
+that
+Spread
+in this
+
+conditions
+allow
+a low
+is inaccessible
+at normal
+
+rates
+are highest
+and
+low velocity
+regime.
+
+R_t_,TP,
+
+T
+
+VELOCITY.
+
+velocity
+gravity.
+
+flammability
+
+BUOYANCY
+BUOYANCY
+
+LIMITATIONS
+
+PREVENTS
+
+STUDY
+
+OF CONVECTING
+
+OF LOW REYNOLDS
+
+regime
+
+limits
+
+NOTABLY,
+THE LOW VELOCITY
+REGIME
+IS TYPICAL
+VENTILATION
+CONDITIONS
+ON SPACECRAFT.
+
+CM._EC
+
+to
+
+are
+
+OF
+
+be
+
+lowest
+
+NORMAL
+
+FLAMES
+
+NUMBER
+
+FLAMES:
+
+The characteristic
+Reynolds
+number of a forced flame is:
+Re = Lu/v
+•
+
+= (Gr/Ri) 1/2
+
+For L ca. 10 mm,
+
+Gr = Order
+
+(10 3 ) while Ri < Order
+for negligible
+buoyancy.
+This
+
+l°
+
+implies-
+
+Re > Order
+
+(10 "1 )
+
+(10 2 )
+
+THUS, THE STOKES FLOW REGIME (Re < 1) IS NOT
+WHILE THE LARGE Re LIMITS SPATIAL RESOLUTION
+TRANSITION
+TO TURBULENCE.
+
+ACCESSIBLE,
+AND CAUSES
+
+469
+
+CONVECTIVE
+
+DROP COMBUSTION
+
+BUOYANCY
+HAS PREVENTED
+RESOLUTION
+CONVECTION
+ON DROP
+BURNING
+RATES
+HETEROGENEOUS
+FLAME:
+
+O
+
+Exact theories
+are limited
+to low Reynolds
+numbers.
+
+O
+
+OF EFFECTS
+OF
+-AN IMPORTANT
+
+-%;:':
+
+,
+
+Buoyancy
+prevents
+reachIng low Reynolds
+numbers
+for experimentation.
+• Jo
+
+O
+
+_
+
+.i _
+
+"
+
+l,
+
+• i
+
+Deformation
+and internal
+circulation
+intrude
+at
+accessible
+Reynolds
+numbers.
+
+,40
+
+THUS, CONTROVERSIES
+ABOUT CONVECTIVE
+EFFECTS CONTINUE;
+ONLY EXPERIMENTS
+IN MICROGRAVITY
+CAN RESOLVE THIS ISSUE.
+
+TURBULENT COMBUSTION
+TURBULENT
+COMBUSTION
+IS THE
+PROBLEM OF COMBUSTION SCIENCE:
+
+O
+
+Numerical
+
+simulations
+
+FOREMOST
+
+UNRESOLVED
+
+are
+
+limited to low Reynolds
+number conditions.
+rn
+
+•
+
+f II_rT
+
+ITTTt
+
+f_
+
+nTTInTI¢II!
+
+Buoyancy
+immediately
+accelerates
+combusting
+flows to high Reynolds
+numbers.
+Computer
+development
+rates
+imply
+50-100
+years
+before
+feasible
+experiments
+can be
+simulated.
+u_uln[
+
+zuu_ .JJi.
+
+i
+
+EXPERIMENTS
+IN MICROGRAVITY
+CAN ACCOMPLISH
+THE MERGER
+MUCH SOONER AND OFFER VALUABLE INSIGHTS OF THEIR OWN.
+
+COMBUSTION SCIENCE CHALLENGES
+
+PERSPECTIVES
+"FIRE
+
+ON SPACECRAFT
+
+IS ONE OF THE MOST
+
+FEARED
+
+HAZARDS
+
+"...STRICT
+LIMITATIONS
+ON ACCEPTABLE
+STRINGENT
+HIGH-SAFETY-FACTOR
+OPERATING
+CAN RESTRAIN
+USEFUL ACTIVITIES
+IN SPACE
+"PRESENT
+ADEQUATE,
+BEHAVIOR
+CONCEPTS,
+SAFETY."
+
+SPACECRAFT
+
+FIRE-SAFETY
+
+FIRE SAFETY
+IN SPACECRAFT."
+MATERIALS,
+PROCEDURES
+MISSIONS."
+PROCEDURES
+
+AND
+ALL
+
+ARE
+
+TO THE EXTENT OF THE LIMITED KNOWLEDGE
+OF FIRE
+IN THE MILIEU
+OF SPACE
+... FUTURE
+SPACECRAFT
+HOWEVER,
+
+WILL
+
+MAKE
+
+R. Friedman
+NASA/LeRC,
+
+MORE
+
+DEMANDS
+
+ON
+
+FIRE
+
+and K. R. Sacksteder
+1988
+
+471
+
+EFFECTS
+FIRE HAZARDS
+IN
+BOUND EXPERIENCE:
+
+OF MICROGRAVITY
+MICROGRAVITY
+
+ON FLAMES
+
+DIFFER
+
+•
+
+Flammability
+limits and flame
+and can be less conservative.
+
+spread
+
+Q
+
+Flame volumes
+are much larger,
+and
+dominant,
+if forced flows are absent.
+
+•
+
+Limited
+space
+properties
+are
+
+•
+
+The response
+of fire detectors
+is slower,
+fire extinguishing
+agents is modified.
+
+•
+
+Aerosols
+counterpart
+
+FROM
+
+rates
+
+flame
+
+are
+
+not
+
+EARTH-
+
+the
+
+radiation
+
+enhances
+problems
+of smoldering
+not understood
+in microgravity.
+
+do
+not
+settle,
+on earth, and
+
+OUR
+
+and
+
+is more
+
+fires
+
+the
+
+yielding
+conditions
+greater
+fire hazards.
+
+same,
+
+whose
+
+effect
+
+having
+
+of
+
+no
+
+SPACE STATION FREEDOM
+FLOW LOOP FACILITY
+THIS FACILITY
+IS DESIGNED
+FOR
+VARIABLE FORCED VELOCITIES:
+
+CONTROL.
+OAIA
+
+01SPIKY.
+
+SYSIERS
+
+FLAMMABILITY
+
+AND
+
+VIC(O
+
+_
+
+]
+
+OF'TICAL
+
+CA/_gA
+
+STUDIES
+
+AND
+
+BENCH
+
+PL_G_
+IEAT
+STORAI_
+[XCHARGER
+A_D
+
+R[PI0VAm[
+
+,_ECTION
+
+-_
+
++
+
+_ _
+
+r_4P_C[
+_1_[
+
+472
+
+STATION
+RACKS
+
+PIJ_
+
+WITH
+
+FIRE-SAFE
+
+ATMOSPHERES
+
+•
+
+Atmospheres
+that suppoTt
+and are used successfully
+
+life but not combustion
+for underwater
+systems.
+
+Q
+
+Thus, fire hazards
+would
+be left behind
+on earth
+approach
+could be developed
+for spacecraft.
+
+if the
+
+•
+
+This
+is not
+complications
+factors.
+
+to
+system
+and human
+
+feasible
+-near
+term
+and uncertainties
+of flame
+
+-due
+properties
+
+are
+
+The implications
+of fire-safe
+and inerting
+atmospheres
+enormous;
+defining
+them should
+have high priority.
+
+known,
+
+same
+
+are
+
+SUMMARY
+
+473
+
+CURRENT MICROGRAVITY COMBUSTION
+FLIGHT PROGRAM a
+
+Title
+
+Solid
+
+Surface
+
+Investigator
+
+Combustion
+
+Miss.
+
+on the
+
+Space
+
+U.
+
+UC-San
+Diego
+CNES
+McGill U.
+
+A. G6kalp
+J.H.S. Lee
+
+glove-box
+facility
+on USML-2
+also has been
+spread,
+smoldering
+and liquid
+combustion.
+
+State
+
+UC-Berkeley
+U/Michigan
+SAIC
+Princeton
+U.
+NASA/LeRC
+
+P.D. Ronney
+H. D. Ross
+F.A. Williams
+
+Liquid Pool Flames
+Combustion
+of Pure Fuel Drops
+Combustion
+of Blended
+Drops
+Dust-Air
+Mixture
+Flames
+
+bFIown
+
+Affiliation
+
+R.A.
+AItenklrch
+A.C,
+Fernandez-Peilo
+G.M. Faeth
+M.Y. Bahadori
+
+b
+
+One-Dimensional
+Smoldering
+Soot Processes
+In Jet Flames
+Laminar
+& Turbulent
+Jet Flames
+Laminar
+Flames:
+Limits
+
+aThe
+flame
+
+SCIENCE
+
+used
+
+for
+
+preliminary
+
+tests
+
+of
+
+Shuttle.
+
+SUMMARY
+Gravity
+has
+impeded
+combustion
+more than
+microgravity
+
+should
+
+yield
+
+fundamental
+most
+areas
+major
+
+of
+
+understanding
+science;
+access
+
+breakthroughs.
+
+Flames
+in microgravity
+are very different
+from
+our
+bound
+experience;
+rational
+safety
+considerations
+spacecraft
+require an improved
+technology
+base.
+Fire-safe
+hazards
+research
+
+474
+
+of
+to
+
+atmospheres
+could
+permanently
+from
+future
+spacecraft;
+this
+problem
+merits high priority.
+
+earthfor
+
+eliminate
+fire
+interdisciplinary
+

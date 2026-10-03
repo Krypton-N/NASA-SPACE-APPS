@@ -1,0 +1,415 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="pdf:PDFVersion" content="1.7">
+<meta name="xmp:CreatorTool" content="Microsoft® PowerPoint® for Microsoft 365">
+<meta name="pdf:hasXFA" content="false">
+<meta name="access_permission:modify_annotations" content="true">
+<meta name="access_permission:can_print_degraded" content="true">
+<meta name="dc:creator" content="Saidel, Noah B. (GRC-MSI0)[Intern]">
+<meta name="dcterms:created" content="2025-11-19T19:07:08Z">
+<meta name="dcterms:modified" content="2025-11-19T19:07:08Z">
+<meta name="dc:format" content="application/pdf; version=1.7">
+<meta name="xmpMM:DocumentID" content="uuid:80F6E805-4109-40E3-9CA2-ACF583AE714A">
+<meta name="pdf:docinfo:creator_tool" content="Microsoft® PowerPoint® for Microsoft 365">
+<meta name="access_permission:fill_in_form" content="true">
+<meta name="pdf:docinfo:modified" content="2025-11-19T19:07:08Z">
+<meta name="pdf:hasCollection" content="false">
+<meta name="pdf:encrypted" content="false">
+<meta name="xmp:CreateDate" content="2025-11-19T14:07:08Z">
+<meta name="pdf:hasMarkedContent" content="true">
+<meta name="Content-Type-Override" content="application/pdf">
+<meta name="Content-Type" content="application/pdf">
+<meta name="xmp:ModifyDate" content="2025-11-19T14:07:08Z">
+<meta name="pdf:docinfo:creator" content="Saidel, Noah B. (GRC-MSI0)[Intern]">
+<meta name="dc:language" content="en">
+<meta name="pdf:producer" content="Microsoft® PowerPoint® for Microsoft 365">
+<meta name="access_permission:extract_for_accessibility" content="true">
+<meta name="access_permission:assemble_document" content="true">
+<meta name="xmpTPg:NPages" content="16">
+<meta name="pdf:hasXMP" content="true">
+<meta name="access_permission:extract_content" content="true">
+<meta name="access_permission:can_print" content="true">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.DefaultParser">
+<meta name="X-TIKA:Parsed-By" content="org.apache.tika.parser.pdf.PDFParser">
+<meta name="access_permission:can_modify" content="true">
+<meta name="pdf:docinfo:producer" content="Microsoft® PowerPoint® for Microsoft 365">
+<meta name="pdf:docinfo:created" content="2025-11-19T19:07:08Z">
+<title></title>
+</head>
+<body><div class="page"><p></p>
+<p>National Aeronautics and Space Administration 
+</p>
+<p>www.nasa.gov
+</p>
+<p>Assessing 
+</p>
+<p>Spontaneous 
+</p>
+<p>Capillarity Driven 
+</p>
+<p>Droplet Auto 
+</p>
+<p>Ejection in 
+</p>
+<p>Microgravity 
+</p>
+<p>Environments
+</p>
+<p>Noah Saidel
+</p>
+<p>The Ohio State University, Columbus, Ohio, 43210
+</p>
+<p>Tyler Hatch, Nancy Hall
+</p>
+<p>NASA Glenn Research Center, Cleveland, Ohio, 44135</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>2
+</p>
+<p>Objective
+</p>
+<p>Previous student design challenge
+Goal: Build a device to passively eject droplets out of a tube 
+in microgravity using household fluids
+Past Results: Little to no success in being able to recreate 
+spontaneous capillarity driven droplet auto ejection
+</p>
+<p>Example of spontaneous capillarity driven droplet auto ejection using 0.65cS PDMS
+(Wollman 2012)
+</p>
+<p>My Goals:
+1. Recreate the auto ejection experiment
+2. Build a testing apparatus that could be used to support 
+</p>
+<p>CFC
+3. Predict if auto ejection will occur based on fluidic 
+</p>
+<p>properties and tube’s geometry</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>4
+</p>
+<p>Background
+</p>
+<p>Robert Siegel 
+• Created the world’s first drop tower in 1957 to investigate 
+</p>
+<p>heat transfer in microgravity
+• Published “Transient Capillary Rise in Reduced and Zero-
+</p>
+<p>Gravity Fields” (Siegel 1961)
+• Concluded that Spontaneous Capillarity-Driven Droplet 
+</p>
+<p>Ejection is impossible
+</p>
+<p>Spontaneous Capillarity-Driven Droplet Ejection - YouTube
+</p>
+<p>Siegel with microgravity equipment.
+Bob Siegel uses a 9-foot drop tower to study fluid boiling in microgravity (4/29/1960).</p>
+<p></p>
+<div class="annotation"><a href="https://www.youtube.com/watch?v=JXKM6D9rPis">https://www.youtube.com/watch?v=JXKM6D9rPis</a></div>
+<div class="annotation"><a href="https://www.youtube.com/watch?v=JXKM6D9rPis">https://www.youtube.com/watch?v=JXKM6D9rPis</a></div>
+<div class="annotation"><a href="https://www.youtube.com/watch?v=JXKM6D9rPis">https://www.youtube.com/watch?v=JXKM6D9rPis</a></div>
+<div class="annotation"><a href="https://www.youtube.com/watch?v=JXKM6D9rPis">https://www.youtube.com/watch?v=JXKM6D9rPis</a></div>
+<div class="annotation"><a href="https://www.youtube.com/watch?v=JXKM6D9rPis">https://www.youtube.com/watch?v=JXKM6D9rPis</a></div>
+</div>
+<div class="page"><p></p>
+<p>5
+</p>
+<p>Background
+</p>
+<p>By altering the tube’s end, Auto Ejection is possible
+</p>
+<p>Modeling and Predicting Auto Ejection
+</p>
+<p>Inertia from the capillary rise of the fluid must overcome the 
+surface tension
+</p>
+<p>Experiment conducted in the Drop Tower at Portland State University.
+</p>
+<p>Left: Experiment of Droplet Ejection in 1g. Right: Experiment of droplet Ejection aboard ISS.
+</p>
+<p>L: Total Length
+Lt: Length of Tube
+Ln: Length of Nozzle
+W (t): Velocity in Tube
+Rt: Radius of Tube
+Rn: Radius of Nozzle
+L0: Submerged Length
+Θ: Contact Angle
+ℓ (t): Penetration Length
+</p>
+<p>Modified Weber number
+</p>
+<p>ρ: Fluid Density
+Wt1: Velocity of Fluid Entering Nozzle
+σ: Fluid Surface Tension
+α = Rn/Rt
+</p>
+<p>Kn: Model Loss Coefficient of Nozzle
+</p>
+<p>We = 
+Weber number
+</p>
+<p>Compares the inertial force to the 
+surface tension force in a fluid flow</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>6
+</p>
+<p>Background
+</p>
+<p>ρ: Fluid Density
+Wt1: Velocity of Fluid Entering Nozzle
+σ: Fluid Surface Tension
+α = Rn/Rt
+</p>
+<p>Kn: Model Loss Coefficient of Nozzle
+</p>
+<p>Condition Necessary for 
+Auto-Ejection to occur
+</p>
+<p>ν: Kinematic Viscosity of Fluid
+</p>
+<p>Modeling Capillary Rise
+</p>
+<p>Wt1: Velocity of Fluid Entering Nozzle???
+</p>
+<p>Latest model for capillary rise in a circular tube in microgravity 
+(Stange et al. 2003)
+</p>
+<p>Simplified
+</p>
+<p>Approximated
+</p>
+<p>ℓ: Penetration Length
+R: Tube Radius
+σ: Fluid Surface Tension
+Θd: Dynamic Contact Angle
+𝔻: Time Scale Shift Constant
+μ: Dynamic Viscosity
+t: Time</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>7
+</p>
+<p>Background
+</p>
+<p>Table of different glass tubes tested in Portland University’s drop tower (Wollman 2012)
+</p>
+<p>Results of experiments with 0.65cS PDMS 
+(Wollman 2012)
+</p>
+<p>Drop Tower Results from 
+Portland University</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>8
+</p>
+<p>My work
+</p>
+<p>Verifying my code works with Portland’s Results</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>9
+</p>
+<p>My Work
+</p>
+<p>Predicting Droplet Ejection</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>10
+</p>
+<p>My work
+</p>
+<p>Imported Geometry from MATLAB to SolidWorks 
+</p>
+<p>Resin Printed using Form labs printer and sanded and polished
+</p>
+<p>Final Result
+</p>
+<p>Creating the Tubes</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>11
+</p>
+<p>My Work
+</p>
+<p>Designed Testing Apparatus in SolidWorks
+</p>
+<p>Machined the Apparatus out of Aluminum
+</p>
+<p>Finished Product
+</p>
+<p>Creating the Testing Apparatus</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>12
+</p>
+<p>My Work
+</p>
+<p>Finding Fluid Properties of 
+Testing Fluid (Mineral Oil)
+</p>
+<p>Viscosity Surface TensionDensity
+</p>
+<p>Kinematic Viscosity = 25.346 cSt Density = 836 Kg/m3 Surface Tension = 41.54 mN/m</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>13
+</p>
+<p>My Work
+</p>
+<p>2.2s Drop Tower Results
+Water Mineral Oil
+</p>
+<p>Mineral Oil Mineral Oil
+</p>
+<p>239.2059 216.8244304.7451 10.485264.757323.6238
+</p>
+<p>64.7573
+</p>
+<p>301.19816.10450.7925301.1981
+</p>
+<p>23.6238</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>14
+</p>
+<p>My Work
+</p>
+<p>2.2s Drop Tower Results
+</p>
+<p>24963
+</p>
+<p>Kinematic Viscosity = 0.9878 cSt, Density = 995 Kg/m3, Surface Tension = 32.97 mN/m
+</p>
+<p>Water with 5.5mL of dish soap
+</p>
+<p>244.085 226.694</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>15
+</p>
+<p>Final Thoughts
+</p>
+<p>TakeawaysFindings
+• Capillary rise with water is very hard 
+</p>
+<p>to achieve due to poor wetting.
+</p>
+<p>• Capillary rise with mineral oil is much 
+</p>
+<p>easier but more viscous.
+</p>
+<p>• Auto ejection was possible with water 
+</p>
+<p>with dish soap because of its low 
+</p>
+<p>viscosity and good wetting.
+</p>
+<p>• Model prediction were off because of 
+</p>
+<p>some major assumptions to allow for 
+</p>
+<p>a simpler model.
+</p>
+<p>– Assumed perfect wetting
+</p>
+<p>– Neglected entrance region loss
+</p>
+<p>• Many of the tubes didn’t have short 
+</p>
+<p>enough nozzles for the mineral oil 
+</p>
+<p>and explains tube 36.
+</p>
+<p>• Auto ejection is repeatable and 
+</p>
+<p>predictable under the right conditions.
+</p>
+<p>• Auto ejection is helpful for 
+</p>
+<p>understanding fluid dynamics in 
+</p>
+<p>microgravity environments.
+</p>
+<p>• Can be used as a student design 
+</p>
+<p>challenge for STEM educational 
+</p>
+<p>experiments.
+</p>
+<p>• Alternative passive droplet delivery 
+</p>
+<p>system that could be used for 
+</p>
+<p>different microgravity experiments.
+</p>
+<p>– Combustion 
+</p>
+<p>– Drop formation 
+</p>
+<p>– Jet breakup
+</p>
+<p>– Drop impact</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>16
+</p>
+<p>Acknowledgments
+</p>
+<p>• I would like to give a big thank you to my past mentors, Nancy Hall and Tyler Hatch for supporting 
+</p>
+<p>me throughout the summer.
+</p>
+<p>• I would also like to acknowledge Dan Gedeon for helping me design and machine the testing 
+</p>
+<p>apparatus.
+</p>
+<p>• I want to thank the technicians and Jay Owens for helping me with my drops.
+</p>
+<p>• Lastly, I want to thank any other NASA personal that helped me with finding equipment, creating 
+</p>
+<p>the nozzles, and answering all the questions I had.</p>
+<p></p>
+</div>
+<div class="page"><p></p>
+<p>17
+</p>
+<p>National Aeronautics and Space AdministrationNational Aeronautics and Space Administration
+</p>
+<p>Thank You!</p>
+<p></p>
+</div>
+<ul>	<li>Slide 1: Assessing Spontaneous Capillarity Driven Droplet Auto Ejection in Microgravity Environments</li>
+	<li>Slide 2: Objective</li>
+	<li>Slide 4: Background</li>
+	<li>Slide 5: Background</li>
+	<li>Slide 6: Background</li>
+	<li>Slide 7: Background</li>
+	<li>Slide 8: My work</li>
+	<li>Slide 9: My Work</li>
+	<li>Slide 10: My work</li>
+	<li>Slide 11: My Work</li>
+	<li>Slide 12: My Work</li>
+	<li>Slide 13: My Work</li>
+	<li>Slide 14: My Work</li>
+	<li>Slide 15: Final Thoughts</li>
+	<li>Slide 16: Acknowledgments</li>
+	<li>Slide 17: Thank You!</li>
+</ul>
+</body></html>

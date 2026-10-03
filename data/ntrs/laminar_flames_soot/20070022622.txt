@@ -1,0 +1,881 @@
+NASA/TM—2007-214683
+
+Flame Radiation, Structure, and Scalar
+Properties in Microgravity Laminar Fires
+Douglas Feikema
+Glenn Research Center, Cleveland, Ohio
+Jongmook Lim and Yudaya Sivathanu
+En’Urga, Inc., West Lafayette, Indiana
+
+June 2007
+
+AIAA–2007–0734
+
+NASA STI Program . . . in Profile
+
+Since its founding, NASA has been dedicated to the
+advancement of aeronautics and space science. The
+NASA Scientific and Technical Information (STI)
+program plays a key part in helping NASA maintain
+this important role.
+
+•
+
+•
+
+•
+
+TECHNICAL PUBLICATION. Reports of
+completed research or a major significant phase
+of research that present the results of NASA
+programs and include extensive data or theoretical
+analysis. Includes compilations of significant
+scientific and technical data and information
+deemed to be of continuing reference value.
+NASA counterpart of peer-reviewed formal
+professional papers but has less stringent
+limitations on manuscript length and extent of
+graphic presentations.
+TECHNICAL MEMORANDUM. Scientific
+and technical findings that are preliminary or
+of specialized interest, e.g., quick release
+reports, working papers, and bibliographies that
+contain minimal annotation. Does not contain
+extensive analysis.
+CONTRACTOR REPORT. Scientific and
+technical findings by NASA-sponsored
+contractors and grantees.
+
+CONFERENCE PUBLICATION. Collected
+papers from scientific and technical
+conferences, symposia, seminars, or other
+meetings sponsored or cosponsored by NASA.
+
+•
+The NASA STI Program operates under the auspices
+of the Agency Chief Information Officer. It collects,
+organizes, provides for archiving, and disseminates
+NASA’s STI. The NASA STI program provides access
+to the NASA Aeronautics and Space Database and its
+public interface, the NASA Technical Reports Server,
+thus providing one of the largest collections of
+aeronautical and space science STI in the world.
+Results are published in both non-NASA channels and
+by NASA in the NASA STI Report Series, which
+includes the following report types:
+
+•
+
+SPECIAL PUBLICATION. Scientific,
+technical, or historical information from
+NASA programs, projects, and missions, often
+concerned with subjects having substantial
+public interest.
+
+•
+
+TECHNICAL TRANSLATION. Englishlanguage translations of foreign scientific and
+technical material pertinent to NASA’s mission.
+
+Specialized services also include creating custom
+thesauri, building customized databases, organizing
+and publishing research results.
+For more information about the NASA STI
+program, see the following:
+•
+
+Access the NASA STI program home page at
+http://www.sti.nasa.gov
+
+•
+
+E-mail your question via the Internet to
+help@sti.nasa.gov
+
+•
+
+Fax your question to the NASA STI Help Desk
+at 301–621–0134
+
+•
+
+Telephone the NASA STI Help Desk at
+301–621–0390
+
+•
+
+Write to:
+NASA Center for AeroSpace Information (CASI)
+7115 Standard Drive
+Hanover, MD 21076–1320
+
+NASA/TM—2007-214683
+
+Flame Radiation, Structure, and Scalar
+Properties in Microgravity Laminar Fires
+Douglas Feikema
+Glenn Research Center, Cleveland, Ohio
+Jongmook Lim and Yudaya Sivathanu
+En’Urga, Inc., West Lafayette, Indiana
+
+Prepared for the
+45th Aerospace Sciences Meeting and Exhibit
+sponsored by the American Institute of Aeronautics and Astronautics
+Reno, Nevada, January 8–11, 2007
+
+National Aeronautics and
+Space Administration
+Glenn Research Center
+Cleveland, Ohio 44135
+
+June 2007
+
+AIAA–2007–0734
+
+Acknowledgments
+
+This work is supported by NASA under contract no. NAS3–01085 by the Microgravity Combustion Program, from 2000
+to 2004. The authors also acknowledge the support of Jason Taylor and Brian Clark who completed the drop tests
+and data reduction. The drop tower support personnel are also gratefully acknowledged.
+
+This report is a formal draft or working
+paper, intended to solicit comments and
+ideas from a technical peer group.
+
+This report contains preliminary findings,
+subject to revision as analysis proceeds.
+
+Trade names and trademarks are used in this report for identification
+only. Their usage does not constitute an official endorsement,
+either expressed or implied, by the National Aeronautics and
+Space Administration.
+
+Level of Review: This material has been technically reviewed by technical management.
+
+Available from
+NASA Center for Aerospace Information
+7115 Standard Drive
+Hanover, MD 21076–1320
+
+National Technical Information Service
+5285 Port Royal Road
+Springfield, VA 22161
+
+Available electronically at http://gltrs.grc.nasa.gov
+
+Flame Radiation, Structure, and Scalar Properties
+in Microgravity Laminar Fires
+Douglas Feikema
+National Aeronautics and Space Administration
+Glenn Research Center
+Cleveland, Ohio 44135
+Jongmook Lim and Yudaya Sivathanu
+En’Urga, Inc.
+West Lafayette, Indiana 47906
+Results from microgravity combustion experiments conducted in the Zero Gravity Research Facility
+(ZGF) 5.18 second drop facility are reported. The results quantify flame radiation, structure, and scalar
+properties during the early phase of a microgravity fire. Emission mid-infrared spectroscopy
+measurements have been completed to quantitatively determine the flame temperature, water and carbon
+dioxide vapor concentrations, radiative emissive power, and soot concentrations in microgravity laminar
+methane/air, ethylene/nitrogen/air and ethylene/air jet flames. The measured peak mole fractions for
+water vapor and carbon dioxide are found to be in agreement with state relationship predictions for
+hydrocarbon/air combustion. The ethylene/air laminar flame conditions are similar to previously reported
+results including those from the flight project, Laminar Soot Processes (LSP). Soot concentrations and
+gas temperatures are in reasonable agreement with similar results available in the literature. However,
+soot concentrations and flame structure dramatically change in long-duration microgravity laminar
+diffusion flames as demonstrated in this report.
+
+1. Introduction
+The present study of microgravity laminar diffusion flames was motivated by a requirement for
+improved understanding of fires in manned spacecraft. NASA’s fire safety approach for manned
+spacecraft has been based primarily upon controlling the flammability of materials onboard and
+eliminating ignition sources (refs. 1 to 3). To develop effective fire protection systems, the behavior of
+fires in various environments encountered in space exploration must be properly understood. Fire
+behavior and suppression processes in the space exploration missions are strongly influenced by lowgravity environments in flight and on the planetary surfaces. Thus, fire safety technology must be tailored
+to respond to the unusual fire characteristics in low-gravity environments (ref. 1). The nonbuoyant
+microgravity environment causes substantial changes in flame structure and consequently changes the
+properties of the produced smoke and/or soot. In particular, the increased residence time in the high
+temperature zone where the smoke and/or soot is formed, increases the probability that the particulate will
+become larger and agglomerated. Among the many technical issues to be answered, this report addresses
+the issue of flame structure in a simple laminar fire including chemical composition and soot production.
+Thermal radiation from soot contributes to the growth and spread of unwanted fires on Earth, and sootcontaining plumes emitted from these flames inhibit fire-fighting efforts on Earth. No less problematic are
+the carbon monoxide and unburned hydrocarbon emissions that intrinsically are associated with soot;
+carbon monoxide emissions are the main cause of fatalities in unwanted fires on Earth. In quiescent
+microgravity (µg) environments, fires or diffusion flames are relatively weak because of the lack of
+buoyantly driven convective flow and the slower resulting diffusional transport. The flame on a thick
+sheet or rod tends to self-extinguish under quiescent conditions (refs. 4 to 6). However, there is normally
+a constant air circulation, typically 20 cm/s, inside the crew cabin which makes the microgravity flame
+stronger since oxygen is transported to the fire by forced convection. The flame spread rate in
+microgravity generally increases when the oxidizer flow velocity increases.
+
+NASA/TM—2007-214683
+
+1
+
+Laminar hydrocarbon diffusion flames under microgravity conditions have shown distinct characteristics
+relative to normal-gravity flames. Flames are up to two times longer and up to four times larger in diameter,
+and are often more sooting in microgravity. These characteristics arise from the result of a significant reduction
+in buoyant convective forces which makes diffusion a dominant mechanism of transport. As a result, increased
+residence time, enhanced soot formation, radiative cooling due to larger flame size, and the possible onset of a
+chemical kinetics limitation on heat release processes are observed (ref. 7).
+
+2. Specific Objectives
+The objectives of this study are to examine scalar, radiative, and chemical properties of a wellcharacterized laminar fire (ref. 9) in short duration microgravity. The detailed results help quantify the
+structure of a nonbuoyant laminar fire which is significant since
+fire safety technology must be tailored to respond to the unusual fire characteristics in low-gravity
+environments (ref. 8). In addition, methane/air and ethylene/nitrogen/air laminar jet flame case studies are
+reported for comparison and validation.
+
+3. Experimental Methods and Instrumentation
+The experiment consisted of a general purpose drop rig which was configured with a gas feed system
+and a laminar jet flame burning inside a chamber similar to the LSP flame (ref. 9). The experiment
+package was dropped in the Zero Gravity Facility (ZGF) 5.18 second drop facility. The flame conditions
+are presented in table I for a jet exit diameter of 1.65 mm. Seven test cases are discussed and presented in
+this report for nearly identical flame conditions. A scanning mid-IR spectrometer, Spectraline Model No.
+ES100 (En’Urga Inc., West Lafayette, IN) (refs. 10 and 11), was used to obtain spectrally resolved
+radiation measurements which enabled quantitative determination of gas temperature, CO2 and H2O
+concentrations, and soot volume fraction. Other instrumentation included a radiometer (i.e., thermopile
+TABLE I.—SUMMARY OF TEST CONDITIONS FOR MICROGRAVITY LAMINAR JET FLAMES
+Test number in Zero Gravity Research Facility
+Conditions
+X–12–5
+X–12–6
+X–12–18
+X–12–19
+X–12–16
+X–12–17
+X–7–5
+50% C2H4
+C2H4
+CH4
+CH4
+50% C2H4
+C2H4
+C2H4
+Fuel type
+50% N2
+
+50% N2
+
+100
+100
+100
+100
+100
+100
+100
+Test pressure, kPa
+300
+300
+300
+300
+300
+300
+300
+Test temperature, K
+1075
+1075
+935
+935
+935
+935
+935
+Average burner exit
+velocity, mm/s
+21
+21
+21
+21
+21
+21
+20.6
+Initial chamber
+oxygen
+concentration, vol%
+45
+45
+32
+32
+56
+55
+48
+Luminous flame
+length, mm
+32
+32
+14
+14
+25
+25
+26
+Maximum luminous
+flame width, mm
+1.49
+1.49
+2.3
+2.3
+2.3
+2.3
+2.3
+Fuel flow rate, mg/s
+5.08
+5.08
+5.08
+5.08
+5.08
+5.08
+5.08
+Test duration, s
+84
+84
+68
+68
+120
+120
+120
+Characteristic flame
+residence time, ms
+86
+86
+117
+117
+170
+170
+170
+Fuel exit Reynolds
+number
+Purpose of test
+Spectrometer Spectrometer Spectrometer Spectrometer Spectrometer Spectrometer Thermocouple
+scan at
+scan at
+scan at
+scan at
+scan at
+scan at
+at
+x/da = 13.6
+x/d = 17.6
+x/d = 17.6
+x/d = 12.0
+x/d = 13.6
+x/d = 17.6
+x/d =12.0
+a
+Here x is the axial distance measured from the fuel tube exit and d is the fuel tube exit diameter, 1.65 mm.
+
+NASA/TM—2007-214683
+
+2
+
+detector), R-type thermocouple rake, top and side views from the video camera sampling at 30 Hz, and
+flow and pressure transducers. The flames are ignited in microgravity with a retractable hot-wire igniter
+approximately 0.1 s after the package is released. By igniting in microgravity, buoyant flow is eliminated
+enabling the flame to evolve in a quiescent environment.
+Figure 1 shows a color side view and black and white top view of the methane/air flame after 5 s into
+the drop. The flame is “blue” without a glowing “yellow” soot continuum radiation region. The flame
+becomes less visible as microgravity duration increases, and after 2 s achieves near constant flame length
+and shape. The flame has an open tip end as seen in figure 1(b) and is nearly symmetric with a maximum
+visible flame length of 45 mm. Figure 2 shows a color side view and black and white top view of the
+diluted 50 percent ethylene/50 percent nitrogen/air flame after 5 s into the drop. The flame is “blue” with
+glowing “yellow” soot continuum radiation region. The flame has a closed tip end as seen in figure 2(b)
+and is nearly symmetric. Figure 3 shows a color side view and black and white top view of an ethylene/air
+flame after 5 s into the drop. The flame is “blue” with glowing “yellow” soot continuum radiation region.
+The flame has an open tip end as seen in figure 3(b) and is nearly symmetric.
+The flame length measurements shown in figure 4(a) have been taken from the side view color video
+camera for the diluted ethylene/nitrogen/air flame shown in figure 2(a). Initially, the flame is short at
+ignition and grows to attain a flame length of 32 mm on centerline after 5.0 s. In normal gravity under
+buoyant conditions the same flame is 38 mm in length (ref. 9). The flame length measurements shown in
+figure 4(b) have been taken from the side view color video camera for the ethylene/air flame shown in
+figure 3(a). Initially, the flame is short at ignition and grows to attain a flame length of 55 mm on
+centerline after 5.0 s, which is very similar to results obtained on the KC–135 parabolic aircraft. In normal
+gravity under buoyant conditions, the same flame is 38 mm in length (ref. 9). Under longer duration
+microgravity conditions (i.e., 170 s) the same flame increases in length to approximately 62 mm in length
+and reduces in width from 25 mm to 14 mm (ref. 9). Even after 5.0 s the flame is still not at steady state.
+
+NASA/TM—2007-214683
+
+3
+
+NASA/TM—2007-214683
+
+4
+
+A spectrally broadband radiometer (thermopile) detector (ultraviolet to far infrared) was positioned
+inside the chamber approximately 20 cm above the nozzle and to the side of the flame. The radiometer
+signal, Is, is recorded during the drop and is proportional to the total flame radiation, which is roughly the
+surface area of the flame
+
+Is ≈
+
+cos 2 (θ / 2)
+r2
+
+(1)
+
+where r is the distance between the radiation source and the detector (20 cm), and θ is the angle between
+the line of sight and the central axis of the detector. For the cases considered in the this study, θ is small
+and cos2(θ/2) ~ 1. The results are shown in figure 5 for a laminar methane/air jet flame in drop X–12–6.
+The initial peak is the result of ignition and excess fuel gas being burned off; however, after 0.75 s this
+transient is complete, and the flame begins a steady increase in both flame length and radiative output.
+After 2 s the flame radiative output has achieved a near constant value but appears to be increasing
+slowly. The flame length, shape, and size also remain nearly constant after 2 s. Some technical difficulties
+prevented a full radiometer signal capture on drop X–12–6 after 4.5 s. Figure 6(a) shows flame radiation
+data for drops X–12–18 and X–12–19 for a laminar jet diffusion flame diluted 50 percent ethylene and
+50 percent nitrogen in air. The initial peak is the result of ignition and excess fuel gas being burned off. In
+less than 0.5 s this transient is complete, and the flame begins a steady increase in both flame length and
+radiative output. Both the flame length and the radiative output of the flame are increasing at the
+completion of the 5.18 second drop. Very similar results were obtained for an ethylene/air laminar jet
+diffusion flame shown in figure 6(b) for drops X–12–16 and X–12–17. Again an ignition transient is
+observed which disappears in less than 0.5 s, and then the radiative output and the flame length increase
+throughout the duration of the drop. For the flames considered during the initial phase of the fire, the
+flame radiation output correlates with the flame size and shape. Throughout longer microgravity duration,
+other factors begin to affect flame radiation in addition to flame size and surface area or shape.
+
+NASA/TM—2007-214683
+
+5
+
+NASA/TM—2007-214683
+
+6
+
+A scanning mid-IR spectrometer (refs. 10 and 11) was positioned on the drop rig to measure radial
+profiles of path-integrated intensities at 160 wavelengths from 1.3 to 4.8 µm horizontally through the
+flame in figures 1 to 3 at two heights above the burner exit, at 22.5 and 29 mm or x/d = 13.6 and 17.6,
+respectively. The spectrometer was fixed outside of the chamber, and the flame was viewed through a
+sapphire window. The spectrometer is calibrated against a black body radiation source, thus quantitative
+intensity measurements can be obtained. Radiation in the 1.3 to 3.3 μm band has contributions from both
+H2O and CO2. Radiation in the 4.3 to 4.9 μm band has contributions only from CO2. Continuum radiation
+is also present from the radiating soot and is most evident in the 1.3 to 3.3 μm band.
+
+4. Results and Discussion
+As shown in table I, three different fuels were used in order to observe global differences in flame
+structure such as flame shape, luminous flame length, flame color(s), and total flame emissive power. In
+addition, local properties have been measured and estimated from path integrated intensity measurements
+using a mid-IR spectrometer. Local flame properties have been determined using a method know as fan
+beam emission tomography (FBET) (ref. 10) from the path integrated intensities including soot volume
+fraction, radiative emissive power, carbon dioxide and water vapor concentrations, and gas temperature.
+The characteristic residence times shown in table I are calculated based upon the luminous flame length
+and the average streamwise velocity or the average fuel exit velocity divided by 2.
+τ char =
+
+2L
+u0
+
+(2)
+
+The characteristic residence time for these flames range from 68 ms to 120 ms and are significantly
+larger than in practical, normal gravity fires where τchar is typically less than 10 ms.
+
+4.1 Methane/Air Laminar Diffusion Flames in Microgravity
+In normal gravity a laminar methane/air jet diffusion flame appears mostly “blue” to the human eye
+with a slight amount of “yellow” continuum radiation from soot particles. In microgravity the flame
+appears only blue after 2 s and is dimmer in the visible wavelengths of light than in normal gravity with
+no visible soot radiation as shown in figure 1.
+Figure 7(a) is the “raw” spectrometer data and shows a contour plot of the scanned measured path
+integrated intensities as a function of wavelength and radial position at x/d = 17.6. The path integrated
+intensities shown in figure 7(a) have been averaged over 2.2 s from 2.8 s to 5.0 s during the drop. As seen
+in figure 5 the flame radiation is nearly steady during this time period of the drop. Figure 7(b) is one slice
+or one path integrated intensity spectrally resolved from figure 7(a) at a radial position of r = 11.2 mm.
+The peak at 4.3 µm arises from CO2 emission from vibrational and rotational modes of the molecule. The
+peak at 2.7 µm appears from H2O and CO2 emissions also from both rotational and vibrational modes of
+the molecule. It is noteworthy that only discrete gas band radiation is observed in figure 7(b) without the
+presence of continuum soot radiation.
+A deconvolution algorithm and computer code (refs. 10 and 11) were developed which transforms the
+path integrated intensities into spatially resolved radial profiles of gas temperature, carbon dioxide and
+water vapor profiles, and soot volume fraction in an axisymmetric, nonhomogeneous flame like those
+shown in figures 1 to 3. The FBET method makes use of the RADCAL flame radiation database and
+mathematical model (ref. 12).
+
+NASA/TM—2007-214683
+
+7
+
+Figure 8 shows the radial profiles of flame temperature at x/d = 13.6 and 17.6 for the methane/air
+flame shown in figure 1. The peak flame temperatures decrease from 1675 K at x/d = 13.6 to 1500 K at
+x/d = 17.6. For comparison to methane/air laminar diffusion flames in normal gravity, the peak flame
+temperatures have been measured with FBET and a radiation corrected thermocouple to be ~2100 K,
+which is significantly hotter than in microgravity but consistent with other measurements and predictions
+(ref. 10). The microgravity flames are cooler than in normal gravity due to significantly higher fraction of
+the heat release being lost as radiative heat loss (ref. 9). The principal reason for this phenomenon can be
+explained by noting that microgravity flames considered here have a long residence time. Fluid particles
+of fuel exiting the fuel tube reside within the hot flame zone for a relatively long period of time and
+thereby lose more heat from radiation, cooling the local gas and/or flame temperature than do short
+residence time flames. Shown in figure 9, at x/d = 13.6 and 17.6, respectively, are the radial profiles of
+gas concentration obtained for the methane/air laminar jet diffusion flame in microgravity. At x/d = 13.6
+in figure 9(a), the peak values of CO2 and H2O are located at a radial position of approximately 5 mm,
+which is theoretically the stoichiometric contour and the location of maximum heat release. Here the peak
+mole fractions are measured to be X H 2 O = 0.08 and X CO 2 = 0.165 . Some comparable data exists in the
+literature to provide an evaluation. In a normal gravity methane/air diffusion flame, Norton et al. (ref. 13)
+
+NASA/TM—2007-214683
+
+8
+
+measured and computed peak values of CO2 and H2O mole fractions to be 0.08 and 0.165 with an
+experimental uncertainty of ±20 percent. Sivathanu and Faeth (ref. 14) obtained peak values of CO2 and
+H2O to be 0.075 and 0.172, respectively, for methane/air diffusion flames in normal gravity, based on
+generalized state relationships for hydrocarbon flames. Very good agreement is observed, and an
+important observation can be made that the state relationship for major species is valid during the early
+combustion phase for methane/air combustion. The adiabatic flame temperature for methane/air
+combustion is 2140 K, assuming the composition is at the state relationship.
+
+4.2 Ethylene/Nitrogen/Air Laminar Diffusion Flames in Microgravity
+In normal and microgravity, a laminar 50 percent ethylene and 50 percent nitrogen in air jet diffusion
+flame appears mostly “yellow” at visible wavelengths due to continuum radiation from soot particles with
+a slight amount of “blue” radiation outside the soot layer. The stoichiometric contour for this flame lies
+approximately at the boundary where the luminous yellow radiation ends and the blue radiation appears.
+The flame is closed-tipped indicating sufficient oxidizer entrainment is present to consume the fuel in an
+overventilated configuration. In comparison with pure ethylene fuel, the nitrogen dilution has a dramatic
+effect on reducing the flame length and size.
+Figure 10(a) shows the spectrometer data and a contour plot of the scanned measured path integrated
+intensities as a function of wavelength and radial position at x/d = 17.6. The path integrated intensities
+have been averaged over 2.2 s from 2.8 s to 5.0 s during the drop. Figure 4(a) shows the flame radiation is
+continually increasing during the drop. Figure 10(b) is one line of sight or one path integrated intensity
+spectrally resolved from figure 10(a) at a radial position of r = 11.2 mm. The peak at 4.3 µm arises from
+CO2 emission, and the peak at 2.7 µm appears from H2O emission. It is noteworthy that in contrast to the
+methane/air case shown in figure 7(b), a broadband presence of continuum soot radiation appears in
+addition to the discrete gas band radiation.
+A radial profile of flame temperature at x/d = 17.6 for the ethylene/nitrogen/air flame is shown in
+figure 11(a). The peak flame temperature is 1675 K at x/d = 17.6 near the centerline of the flame at
+r = 0.5 mm. The adiabatic flame temperature is 2390 K for this case indicating significant flame enthalpy
+losses.
+
+NASA/TM—2007-214683
+
+9
+
+TABLE II.—SUMMARY OF STATE RELATIONSHIP MOLE FRACTIONS FOR
+50 PERCENT ETHYLENE AND 50 PERCENT NITROGEN/AIR FLAME
+INITIALLY AT STANDARD TEMPERATURE AND PRESSURE
+AND AT STOICHIOMETRIC CONDITIONS, fS =0.05507
+[From ref. 14.]
+φ
+X CO
+X N2
+XO2
+X CO 2
+X H 2O
+XH2
+
+1.0
+
+0.73557
+
+0.01990
+
+0.09707
+
+0.02294
+
+0.11529
+
+0.00922
+
+The radial profiles for the mole fractions of water vapor and carbon dioxide at x/d = 17.6 are given in
+figure 11(b). The peak values for X H 2 O and X CO 2 are 0.12 and 0.13, respectively. The state relationship
+predictions for this flame are given in table II and compared for X H 2 O and X CO 2 are 0.113 and 0.0955,
+respectively, which is within reasonable agreement. Differences in the measured and predicted values can
+be explained by the fact that the measurements were made near the end of the closed-tip flame where
+
+NASA/TM—2007-214683
+
+10
+
+interactions from the closed tip are encountered. The peak values of mole fraction for water vapor and
+carbon dioxide are located at approximately the same radial location at r = 8 mm where the stoichiometric
+mixture fraction is located. Also, it should be noted that the luminous flame zone extends to r = 7 mm as
+indicated in table I. The blue glow outside the luminous flame boundary at r = 8 mm can be seen in
+figure 2(a), which is the location of the peak carbon dioxide and water vapor production in the flame.
+Figure 12 presents the soot volume fraction radial profile for drop X–12–18 obtained in an
+ethylene/nitrogen/air flame at x/d = 17.6. The stoichiometric composition is positioned at a radius
+of 8 mm where the soot production ends. The soot measured from r = 0 to 6 mm arises since the
+measurement is made near the closed tip of the flame (i.e., x = 29 mm) and is being transported from
+upstream locations and produced as well since figure 2(b) clearly shows combustion occurring at the end
+of the flame tip. The luminous flame ends at x = 32 mm so this measurement was made within the closedtip end of the flame.
+
+4.3 Ethylene/Air Laminar Diffusion Flames in Microgravity
+In normal and microgravity, a laminar 50 percent ethylene and 50 percent nitrogen in air jet diffusion
+flame appears mostly “yellow” at visible wavelengths due to continuum radiation from soot particles with
+a slight amount of “blue” radiation outside the soot layer. The flame is open tipped indicating insufficient
+oxidizer is present to consume the fuel in an underventilated configuration.
+Figure 13(a) shows a contour plot of the scanned measured path integrated intensities as a function of
+wavelength and radial position at x/d = 13.6. These path integrated intensities shown in figure 10(a) have
+been averaged over 2.2 s from 2.8 s to 5.0 s during the drop. As seen in figure 6(b), the total flame
+radiation is nearly steady during this time period of the drop. Figure 13(b) is one line of sight or one path
+integrated intensity spectrally resolved from figure 10(a) at a radial position of r = 11.2 mm. The peak at
+4.3 µm arises from CO2 emission, and the peak at 2.7 µm appears from H2O and CO2 emission. In
+contrast to the methane/air case shown in figure 7(b) and similar to figure 10(b), a broadband presence of
+continuum soot radiation appears in addition to the discrete gas band radiation.
+A deconvolution algorithm has been developed using an iterative approach to transform the measured
+path integrated intensities into radial profiles of gas temperature, soot concentration, and both H2O and
+CO2 concentration profiles (refs. 10 and 11). The domain is divided into 128 concentric gas layers, and
+the flame is understood to be symmetric, which is a reasonable assumption, as seen in figures 1 to 3. The
+path integrated intensities have been averaged over 2.2 s from 2.8 to 5 s. After approximately 8 iterations
+the gas temperature is obtained and is shown in figure 14(a) at x/d = 13.6 and in figure 14(b) at x/d = 17.6.
+
+NASA/TM—2007-214683
+
+11
+
+The peak temperature is approximately 1725 K at a radial position of 12.5 mm and x/d = 13.6 and 1675 K
+at x/d = 17.6 and agrees with the results from the LSP experiment (ref. 9). They report a peak temperature
+of approximately 1850 K at x = 20 mm and 1725 K at x = 30 mm. The luminous flame boundary at
+x = 22.5 mm is taken from the color video (fig. 3(a)) to lie at approximately 12.5 mm. For comparison, a
+normal gravity laminar ethylene/air coflow flame was measured with FBET and thermocouples and is
+shown in figure 15. The peak flame temperature is about 2050 K at x = 15 mm, and the reaction zone is
+much narrower than in figure 14. The theoretical adiabatic flame temperature for ethylene/air is 2475 K.
+A three-channel thermocouple (TC) rake, type R platinum/rhodium alloys, with a wire diameter of
+75 μm and a bead diameter of approximately 110 μm was implemented. The thermocouple rake was
+positioned at a height of 20 mm above the burner and at radial locations of r = 5, 10 and 15 mm. Figure
+16 shows the uncorrected temperature readings. The flame is disturbed somewhat by the invasive probes
+and has a luminous flame length of 51 mm rather than 55 to 56 mm without the probes. The results show
+that the flame does broaden as microgravity duration increases and the readings at r = 5 and 15 mm are
+nearly equal after 5 s in agreement with figure 6(a). In addition the thermocouple reading at r = 10 mm is
+higher than at 5 or 15 mm indicating that peak temperature lies between 5 and 15 mm.
+
+NASA/TM—2007-214683
+
+12
+
+Figure 17 shows radial profiles of both H2O and CO2 mole fraction at x/d = 13.6 and 17.6,
+respectively. The peak value of mole fraction for H2O is approximately 0.10, and for CO2 the peak value
+is approximately 0.09. Both H2O and CO2 concentrations at x = 15 mm were measured in the same
+normal gravity ethylene/air flame as described in figure 15, and the result is shown in figure 18. Again,
+the peak value of mole fraction for H2O is approximately 0.10, and for CO2 the peak value is
+approximately 0.09—very similar to the microgravity flames. It is also observed that the flame reaction
+zone is narrower in normal gravity than in nonbuoyant conditions. Generalized state relationship
+predictions of major gas species concentrations (ref. 14) in an ethylene/air diffusion flame are shown in
+table III. The measurements are within 20 percent of this value.
+
+NASA/TM—2007-214683
+
+13
+
+TABLE III.—SUMMARY OF STATE RELATIONSHIP MOLE FRACTIONS FOR
+ETHYLENE/AIR FLAME INITIALLY AT STANDARD TEMPERATURE AND
+PRESSURE AND AT STOICHIOMETRIC CONDITIONS, fs=0.06366
+[From ref. 14.]
+φ
+X N2
+XO2
+X CO 2
+X CO
+X H 2O
+XH2
+1.0
+
+0.7187
+
+0.0212
+
+0.1033
+
+0.0244
+
+0.1227
+
+0.0098
+
+The radial profiles of soot volume fraction have been determined from the continuum radiation
+present in the path integrated intensities and are shown in figure 19 at x/d = 13.6 and 17.6. The peak value
+is about 0.8 ppm at 8 to 10 mm radial position. The soot peak lies on the fuel-rich side of the flame and in
+the preheat region. The soot is being produced on the fuel rich side of the flame between a fuel
+equivalence ratio of 3.0 and 1.0 with a peak value at 1.6±0.3 according to Gore and Faeth (1986) (ref. 15).
+This value of 0.8 ppm is much lower that measurements reported previously in microgravity flames. For
+validation and comparison, the soot volume fraction was measured in a normal gravity sooting
+ethylene/air flame in a Santoro-type coflow laminar burner (ref. 16) with a fuel flow rate of 3.85 cm3/s.
+
+NASA/TM—2007-214683
+
+14
+
+As shown in figure 20, at x = 15 mm the peak soot volume fraction was measured to be 3 ppm at a 4 mm
+radius. The soot layer is much narrower (i.e., 2 mm) as compared with the 5 s drop test which is 5 mm
+thick. Also, soot measurements were made in a long duration microgravity ethylene/air flame or LSP
+experiment (ref. 9). The peak soot concentrations in the LSP experiment were approximately 5 ppm at
+x = 20 mm and 8 to 12 ppm at x = 30 mm with microgravity duration times of 90 s and 170 s. The width
+of the soot layer in the LSP experiment was about 2 mm at x = 20 and 30 mm.
+
+5. Conclusions
+The following conclusions can be obtained from the study
+1. A fan beam emission tomography (FBET) system to obtain spectral radiation intensities at several
+wavelengths and at several view angles from laminar flames was successfully implemented in
+microgravity.
+
+NASA/TM—2007-214683
+
+15
+
+2. The laminar microgravity ethylene/air jet flame has a broader reaction zone, has a longer luminous
+flame length, and is cooler than a similar normal gravity flame. This is in agreement with Bahadori
+et al. (ref. 7).
+3. The soot layer in microgravity after 5 s duration is 5 mm which is thicker than in normal gravity
+(i.e., 2 mm). For longer microgravity duration (i.e., 170 s) the flame shape changes to be longer
+and narrower, and the soot layer reduces to about 2 mm thickness.
+4. The peak mole fractions for H2O and for CO2 estimated using FBET are in agreement with the
+values derived from generalized state relationships for methane/air, ethylene/nitrogen/air, and
+ethylene/air diffusion flames.
+
+References
+1. Freidman, R.: Fire Safety in Extraterrestrial Environments. NASA/TM⎯1998-207417, 1998.
+2. Freidman, R.: Fire Safety in the Low-Gravity Spacecraft Environment. NASA/TM⎯1999-209285,
+1999.
+3. Freidman, R.; and Ross, H.D.: Combustion Technology and Fire Safety for Human-Crew Space
+Missions. Microgravity Combustion: Fire in Free Fall. H.D. Ross, ed., Academic Press, San Diego,
+CA, 2001, pp. 525−562.
+4. Olson, S.L.: Fuel Thickness Effects on Flame Spread and Extinction Limits in Low Gravity as
+Compared to Normal Gravity. Eastern Section/The Combustion Institute Meeting, 1991.
+5. Egorov, S.D. et al.: Fire Safety Experiments on “Mir” Orbital Station. NASA CP−10174, 1995,
+pp. 195−199.
+6. Ivanov, A.V. et al.: Experimental Verification of Material Flammability in Space. NASA/CR⎯1999209405, 1999.
+7. Bahadori, M.Y. et al.: Effects of Buoyancy on Laminar, Transitional, and Turbulent Gas Jet Diffusion
+Flames. Modern Developments in Energy, Combustion and Spectroscopy, ch. 4, F.A. Williams et al.,
+eds., Pergamon Press, 1993, pp. 49−66.
+8. Ruff, G.A.; Urban, D.L.; and King, M.K.: Fire Prevention, Detection, and Suppression Research
+Supporting Manned Space Exploration: One Year Later. AIAA−2006−0347, 2006.
+9. Urban, D.L. et al.: Structure and Soot Properties of Nonbuoyant Ethylene/Air Laminar Jet Diffusion
+Flames. AIAA J., vol. 36, no. 8, 1998, pp. 1346−1360.
+10. Lim, J.; Sivathanu, Y.; and Feikema, D.A.: Fan Bean Emission Tomography. AIAA–2006–0437,
+Aerospace Sciences Meeting, Reno, NV, 2006.
+11. Lim, J.; Sivathanu, Y.; and Gore, J.: Estimating Scalars From Spectral Radiation Measurements in a
+Homogeneous Gas Layer. Comb. Flame, vol. 137, 2004, pp. 222−229.
+12. Grosshandler, W.L.: Radiative Heat Transfer in Nonhomogeneous Gases: A Simplified Approach.
+Int. J. Heat Mass Transfer, vol. 23, 1980, pp. 1447−1459.
+13. Norton, T.S. et al.: Comparison of Experimental and Computer Species Concentrations and
+Temperature Profiles in Laminar Two-Dimensional Methane/Air Diffusion Flames. Combust. Sci.
+Technol., vol. 53, 1993, pp. 1−34.
+14. Sivathanu, Y.; and Faeth, G.M.: Generalized State Relationships for Scalar Properties in
+Nonpremixed Hydrocarbon/Air Flames. Comb. Flame, vol. 82, 1990, pp. 211−230.
+15. Gore, J.; and Faeth, G.M.: Structure and Spectral Radiation Properties of Turbulent Ethylene/Air
+Diffusion Flames. Twenty-First International Symposium on Combustion, 1986, pp. 1521−1531.
+16. Santoro, R.J. et al.: The Transport and Growth of Soot Particles in Laminar Diffusion Flames.
+Combust. Sci. Technol, vol. 53, 1987, pp. 89−115.
+17. Santoro, R.J.; Semerjian, H.G.; and Dobbins, R.A.: Soot Particle Measurements in Diffusion Flames.
+Comb. Flame, vol. 51, 1983, pp. 203−218.
+
+NASA/TM—2007-214683
+
+16
+
+Form Approved
+OMB No. 0704-0188
+
+REPORT DOCUMENTATION PAGE
+
+The public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the
+data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this
+burden, to Department of Defense, Washington Headquarters Services, Directorate for Information Operations and Reports (0704-0188), 1215 Jefferson Davis Highway, Suite 1204, Arlington, VA 22202-4302.
+Respondents should be aware that notwithstanding any other provision of law, no person shall be subject to any penalty for failing to comply with a collection of information if it does not display a currently valid OMB
+control number.
+PLEASE DO NOT RETURN YOUR FORM TO THE ABOVE ADDRESS.
+
+1. REPORT DATE (DD-MM-YYYY)
+
+01-06-2007
+
+3. DATES COVERED (From - To)
+
+2. REPORT TYPE
+
+Technical Memorandum
+
+4. TITLE AND SUBTITLE
+
+5a. CONTRACT NUMBER
+
+Flame Radiation, Structure, and Scalar Properties in Microgravity Laminar Fires
+
+NAS3-01085
+
+5b. GRANT NUMBER
+5c. PROGRAM ELEMENT NUMBER
+6. AUTHOR(S)
+
+5d. PROJECT NUMBER
+
+Feikema, Douglas; Lim, Jongmook; Sivathanu, Yudaya
+
+5e. TASK NUMBER
+5f. WORK UNIT NUMBER
+
+WBS 732759.03.01.02.21
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)
+
+8. PERFORMING ORGANIZATION
+REPORT NUMBER
+
+National Aeronautics and Space Administration
+John H. Glenn Research Center at Lewis Field
+Cleveland, Ohio 44135-3191
+
+E-15833
+
+9. SPONSORING/MONITORING AGENCY NAME(S) AND ADDRESS(ES)
+
+10. SPONSORING/MONITORS
+ACRONYM(S)
+
+National Aeronautics and Space Administration
+Washington, DC 20546-0001
+
+NASA
+
+11. SPONSORING/MONITORING
+REPORT NUMBER
+
+NASA/TM-2007-214683; AIAA-20070734
+12. DISTRIBUTION/AVAILABILITY STATEMENT
+
+Unclassified-Unlimited
+Subject Categories: 31, 34, 25, 74, and 35
+Available electronically at http://gltrs.grc.nasa.gov
+
+This publication is available from the NASA Center for AeroSpace Information, 301-621-0390
+13. SUPPLEMENTARY NOTES
+
+14. ABSTRACT
+
+Results from microgravity combustion experiments conducted in the Zero Gravity Research Facility (ZGF) 5.18 second drop facility are
+reported. The results quantify flame radiation, structure, and scalar properties during the early phase of a microgravity fire. Emission midinfrared spectroscopy measurements have been completed to quantitatively determine the flame temperature, water and carbon dioxide
+vapor concentrations, radiative emissive power, and soot concentrations in microgravity laminar methane/air, ethylene/nitrogen/air and
+ethylene/air jet flames. The measured peak mole fractions for water vapor and carbon dioxide are found to be in agreement with state
+relationship predictions for hydrocarbon/air combustion. The ethylene/air laminar flame conditions are similar to previously reported results
+including those from the flight project, Laminar Soot Processes (LSP). Soot concentrations and gas temperatures are in reasonable
+agreement with similar results available in the literature. However, soot concentrations and flame structure dramatically change in longduration microgravity laminar diffusion flames as demonstrated in this report.
+15. SUBJECT TERMS
+
+Mid-IR spectroscopy; Flames; Combustion; Concentration and temperature measurements; Optical instrumentation
+16. SECURITY CLASSIFICATION OF:
+a. REPORT
+
+U
+
+b. ABSTRACT
+
+U
+
+17. LIMITATION OF
+ABSTRACT
+c. THIS
+PAGE
+
+U
+
+18. NUMBER
+OF
+PAGES
+
+22
+
+19a. NAME OF RESPONSIBLE PERSON
+
+Douglas Feikema
+
+19b. TELEPHONE NUMBER (include area code)
+
+216-433-5707
+
+Standard Form 298 (Rev. 8-98)
+Prescribed by ANSI Std. Z39-18
+

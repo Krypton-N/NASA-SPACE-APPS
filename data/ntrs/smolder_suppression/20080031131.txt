@@ -1,0 +1,559 @@
+A History of Spacecraft Environmental Control and Life Support
+Systems
+K. Daues/NASA Johnson Space Center
+January 6, 2006
+
+A spacecraft’s Environmental Control and Life Support (ECLS) system enables and
+maintains a habitable and sustaining environment for its crew. A typical ECLS system
+provides for atmosphere consumables and revitalization, environmental monitoring,
+pressure, temperature and humidity control, heat rejection (including equipment cooling),
+food and water supply and management, waste management, and fire detection and
+suppression. The following is a summary of ECLS systems used in United States (US)
+and Russian human spacecraft.
+
+Atmosphere Revitalization
+For Mercury, Gemini, the Apollo Command Module (CM), and the Apollo Lunar
+Module (LM), the carbon dioxide (CO2) removal system was primary comprised of
+lithium hydroxide (LiOH) canisters operating in parallel. Airflow was through only one
+canister. After the first canister became spent, airflow was diverted through the next
+parallel canister, and the spent canister is replaced. The number of canisters manifested
+varied with crew size and mission duration for each spacecraft. Atmospheric trace
+contaminants were controlled by activated charcoal located in the LiOH canisters
+upstream of the LiOH and filters removed airborne particulates. Cabin fans provided for
+ventilation. Mercury carried a carbon monoxide (CO) sensor, while Gemini and Apollo
+did not.
+For Skylab, a two-canister molecular sieve was used for CO2 and humidity removal.
+Each canister was regenerative, containing Zeolite 5A for CO2 removal and Zeolite 13X
+for water removal. The CO2 was vacuum desorbed to space. Skylab trace contaminant
+gases are removed by an activated charcoal canister located in the molecular sieve unit.
+Filters removed airborne particulates. Venting of atmosphere between missions helped
+avoid long term contaminant buildup. A system using Draeger tubes monitored the
+buildup of CO and other trace contaminants of major concern.
+For the Orbiter, CO2 removal is similar (LiOH), but the number of canisters carried
+depends on crew and mission requirements. Airflow is through two canisters
+simultaneously. The Orbiter’s LiOH replacement schedule depends on size of crew. For
+extended missions, an amine-based Regenerable CO2 Removal System (RCRS) was used
+to remove CO2 and some moisture. Orbiter trace contaminant gases are removed by
+activated charcoal downstream of the temperature and humidity control heat exchanger.
+CO is converted to CO2 by an ambient temperature catalytic oxidizer (ATCO). Filters
+remove airborne particulates. Ammonia is absorbed by the condensate in the condensing
+heat exchanger.
+
+History of Spacecraft ECLS Systems/K. Daues
+
+1 of 13
+
+For Spacelab, CO2 removal was performed with eight LiOH canisters on each mission.
+An activated charcoal canister for trace contaminant control was located in the transfer
+tunnel between Spacelab and the Orbiter. Spacelab-generated CO was converted to CO2
+by an ambient temperature catalytic oxidizer (ATCO). Filters remove airborne
+particulates. Cabin fans provided for ventilation. Air vents (over/under pressure)
+provided relief valves.
+The International Space Station (ISS) US Segment utilizes a four-bed molecular sieve for
+CO2 and humidity removal. This includes two regenerative desiccant beds to remove
+water and two regenerative Zeolite 5A molecular sieve beds to remove CO2. CO2 is heat
+and vacuum desorbed to space currently, but could be supplied to a Sabatier reactor if one
+becomes manifested on the ISS in the future. A Sabatier reactor would be used for CO2
+reduction (planned as a test article). It would then convert CO2 and hydrogen (H2) to
+methane (CH4) and water (H2O). The Sabatier would also require a CO2 compressor. A
+Solid Polymer Electrolyte (SPE) device is provided for oxygen generation. [Note: A
+Static Feed Water Electrolysis (SFWE) using a potassium hydroxide (KOH) electrolyte
+was also considered.] Activated charcoal with a high temperature catalytic oxidizer is
+used for trace contaminant control. Filters remove airborne particulates. A Major
+Constituent Analyzer (MCA) in the ISS Laboratory Module (part of Atmospheric
+Revitalization Rack) monitors N2, O2, H2, CH4, H20 and CO2 throughout US Segment.
+A second MCA will be in Node 3. Cabin fans, intermodule ventilation fans, and portable
+local area ventilation fans support ISS ventilation. Air vents (over/under pressure)
+provide relief valves.
+
+For Vostok, Voskhod, Soyuz and Salyut, CO2 was removed through reaction with KOH
+in the oxygen regenerator (forming potassium carbonate and water). Soyuz additionally
+utilized LiOH beds to absorb about 20% of the CO2. Non-regenerative chemical
+cartridges of potassium super oxide (KO2) were used for gas recovery. KO2 was reacted
+with water to produce O2 and KOH. Atmospheric trace contaminants were controlled by
+activated charcoal and filters. Salyut additionally used a high efficiency fiberglass filter
+and catalytic chemical absorbents. Contaminants were also removed through reaction
+with constituents in the oxygen regenerator. For monitoring a gas analyzer determined
+the percent composition of oxygen and carbon dioxide in cabin atmosphere. Cabin fans
+provided for ventilation. For Salyut, cosmonauts could control air flow rate between 0.1
+and 0.8 m/sec.
+For Mir, CO2 removal was performed using a Vozdukh four-bed molecular sieve
+comprised of two regenerative silica gel desiccant beds and two regenerative CO2
+removal molecular sieve beds containing an adsorbent similar to Zeolite 5A. Lithium
+Chloride (LiCl) or LiOH canisters were used as backup. Mir performed some CO2
+reduction for experimental purposes, but most of the collected CO2 was vacuum
+desorbed overboard. Water electrolysis (12 cells in explosion proof containers) using a
+KOH electrolyte was used for O2 generation. Electrolysis water was from recovered
+urine supplemented by onboard stores. A Solid Fuel Oxygen Generator (SFOG) system,
+provided as backup, used Sodium Chlorate (NAClO3) cartridges ignited by a high
+
+History of Spacecraft ECLS Systems/K. Daues
+
+2 of 13
+
+temperature charge. Filters and regenerable charcoal beds and catalytic oxidizers
+removed CO, ammonia and methane. Charcoal beds were regenerated by vacuum for 6
+hours once every 10 days and impurities were vented. Mir used a gas analyzer that
+determined the percentage of O2 and CO2 in the atmosphere. Sensors also monitored
+H2, O2 and CO. These sensors had a 1-year life. For ventilation, fans pulled air through
+ducts to exchange gas between modules.
+The ISS Russian Segment’s CO2 removal system is similar to Mir but its controller was
+upgraded from Mir to automatically adjust the CO2 removal rate. CO2 is vented
+overboard. O2 generation, trace contaminant control and ventilation systems are similar
+to Mir. A Russian Service Module Gas Analyzer (SMGA) is used to monitor major
+constituents (O2, N2, CO2, and H2O) in the Functional Cargo Block (FGB) and Service
+module (SM) modules. H2 is also monitored in the Logistic Single Module (LSM).
+
+Atmosphere Composition
+The atmosphere composition and cabin pressures for US and Russian spacecraft are listed
+in Table 1.
+Table 1. US and Russian Human Spacecraft Cabin Pressures and Atmosphere
+Composition
+Spacecraft
+Mercury
+
+Composition
+100% O2 at 5 psia (34.5 kPa)
+
+Gemini
+
+100% O2 at 5 psia (34.5 kPa)
+
+Apollo CM
+
+100% O2 at 5 psia (34.5 kPa)
+60% O2, 40% N2 - during launch
+
+Apollo LM
+
+100% O2 at 5 psia (34.5 kPa)
+
+Skylab
+
+Mixed O2/N2 at 5 psia (34.5 kPa) total pressure
+72% O2, 28% N2 by volume
+
+Orbiter
+
+Mixed O2/N2 at 14.7 psia (101 kPa) total pressure
+21.7% O2, 78.3% N2
+Maintained at 10.2 psia prior to EVA
+
+Spacelab
+
+Mixed O2/N2 at 14.7 psia (101 kPa) total pressure
+21.7% O2, 78.3% N2
+
+ISS US Segment
+
+Mixed O2/N2 at 14.7 psia (101 kPa) total pressure
+21.5% O2, 78.5% N2 volume
+
+Vostok
+
+Sea-level atmosphere; O2/N2 mixture at 14.7 psi (101 kPa)
+
+History of Spacecraft ECLS Systems/K. Daues
+
+3 of 13
+
+Voskhod
+
+Sea-level atmosphere; O2/N2 mixture at 14.7 psi (101 kPa)
+
+Soyuz
+
+Sea-level atmosphere; O2/N2 mixture at a total pressure
+between 13.7 and 16.4 psi (94.4 and 113 kPa), with partial
+pressure O2 (ppO2) between 2.7 and 3.9 psi (10.5 and 15.2
+kPa)
+
+Salyut
+
+Sea-level atmosphere; O2/N2 mixture at a total pressure
+between 13.5 and 16 psi (93.1 and 110 kPa), with ppO2
+between 3.0 and 3.8 psi (20.5 and 25.9 kPa)
+
+Mir
+
+Sea-level atmosphere; up to 78% N2, 21-40% O2, with
+maximum ppO2 of 6.8 psi (46.9 kPa)
+
+Russian ISS Segment
+
+Similar to Mir
+
+Life Support Gas Storage
+For Mercury, oxygen (O2) was stored as a gas at 7500 psi (51.7 MPa) in two 1.8 kgcapacity tanks. The tanks were made of 4340 carbon steel with electroless nickel plating.
+One tank was the primary supply, the other was for backup.
+For Gemini, O2 was stored as a supercritical cryogenic fluid at 850 psi (5.86 MPa) in one
+spherical tank. There was a separate tank to supply the fuel cells. Two secondary
+cylindrical 5000 psi O2 bottles were provided. For emergencies there was also one small
+O2 bottle attached under each ejectable seat.
+For Apollo CM, O2 was stored as a supercritical cryogenic fluid at 900 psi (6.20 MPa)
+and 180°C in two 145 kg capacity spherical Inconel Dewar tanks. The tanks were
+common for the life support and power systems. The tanks were discarded during
+reentry, when O2 was supplied from a 1.7 kg capacity surge tank. For Apollo LM, 21.8
+kg of O2 was stored as a gas at 2700 psi (18.6 MPa) in the descent stage. In the ascent
+stage O2 was stored as a supercritical cryogenic fluid at 850 psi (5.86 MPa) in two
+Inconel bottles.
+For Skylab, O2 and N2 were stored as gases at 3000 psi (20.7 MPa) in six bottles each,
+for a total of 2779 kg of O2 and 741 kg of N2.
+For the Orbiter, O2 and N2 are stored as gases at 3000 psi (20.68 MPa) in four to eight
+spherical tanks. Metabolic O2 is supplied by the Power Reactant Storage and
+Distribution System that uses supercritical cryogenic storage tanks.
+For Spacelab, N2 was stored as a gas at 3000 psi (20.68 MPa) in a spherical tank. The
+N2 was for leakage makeup and scientific airlock operation. The O2 source was a 100
+psi (689 kPa) line from the Orbiter.
+
+History of Spacecraft ECLS Systems/K. Daues
+
+4 of 13
+
+For the ISS US Segment, there is high pressure storage of O2 (1000 psia) and N2 (3000
+psia).
+For Vostok, Voskhod, Soyuz and Salyut, the oxygen supply was stored chemically. For
+Vostok, Voskhod, emergency tanks of high pressure oxygen and air were also provided
+for suit ventilation and cosmonaut breathing. Cosmonaut's suit could be pressurized if
+the cabin depressurized. For Soyuz, aside from the chemical oxygen regenerators, there
+was no additional gas storage. There was complete reliance on the cabin hermetic seal to
+prevent leakage and depressurization. For Salyut, additional cylinders of compressed air
+provided for leakage makeup. There was no nitrogen storage.
+For Mir, backup oxygen was stored chemically as a perchlorate compound. N2 was
+stored as a high pressure gas. Twenty-two liters of air was stored in pressure vessels for
+atmospheric makeup. The ISS Russian Segment gas storage is similar to Mir and
+includes O2 from water electrolysis and pressurized gas in Progress vehicles.
+
+Humidity/Temperature Control and Heat Rejection
+For Mercury and Gemini, separate suit and cabin condensing heat exchangers were used.
+In Mercury, a mechanically-activated sponge water separator removed water from the
+condensing heat exchangers. The pilot regulated suit and cabin temperature by manually
+adjusting water flow rate through the suit and cabin heat exchanger with a needle valve.
+In Gemini, wicks removed water from the condensing heat exchanger by capillary action.
+Manual throttling of the O2/coolant flow rate in suit loop controlled temperature. Gemini
+had redundant cabin cooling loops with a coolant fluid reservoir, a low-level coolant
+sensing device, 2 identical positive displacement pumps for each of 2 redundant coolant
+lines, and 2 regenerative heat exchangers. Equipment was cooled by cold plates and air
+cooling. Cabin gas was absorb heat generated by the equipment and was cooled when it
+passed through the cabin condensing heat exchanger.
+For Mercury, condensate was rejected to a water boiler for heat rejection and no space
+radiators were utilized. Gemini had a heat transport loop with Monsanto's MCS-198
+(silicon ester) as the coolant for its primary method for heat rejection. External radiators
+were utilized.
+For the Apollo CM, the suit condensing heat exchanger was primary method for cabin
+temperature and humidity control. Wicks removed water from the condensing heat
+exchanger by capillary action. Apollo CM equipment was cooled similarly to Mercury
+and Gemini. The Apollo LM used a water sublimator to space vacuum for water coolant
+loops to provide crew and avionics cooling. Water circulated through the pressure
+garment assembly to cool astronaut. The Apollo LM had high-emmitance coatings over
+large portions of the cabin interior to distribute heat more uniformly.
+The Apollo CM used a water/glycol flow system that transferred heat to radiators located
+on the service module surface and a water boiler for the evaporation of water to the space
+
+History of Spacecraft ECLS Systems/K. Daues
+
+5 of 13
+
+vacuum with a back pressure valve for temperature control. The Apollo LM used
+multilayer insulation blankets and external thermal control coatings to isolate structure
+and components from the space environment and to minimize the average temperature
+change. Tanks radiated part of the heat stored in them to the structure and part to the
+components to compensate for heat loss through the insulation blanket.
+Skylab’s active thermal control system was located in the airlock module. A combination
+of air duct heaters and wall heaters were located in other Skylab areas for heating. Four
+condensing heat exchangers were provided, two operating at all times. Coolanol 15 was
+the coolant for Skylab. Skylab equipment was cooled similarly to Mercury, Gemini and
+Apollo. Skylab had radiators mounted on the Multiple Docking Adapter and on the
+forward Airlock Module.
+The Orbiter uses a centralized cabin liquid/air condensing heat exchanger utilizing water
+as coolant. The air bypass ratio around condensing heat exchanger is adjusted to control
+temperature. Condensate is removed by a slurper bar and centrifugal separator. Spacelab
+and ISS US Segment systems are similar to the Orbiter design, but packaged for physical
+constraints and mission requirements. On ISS it is part of the Common Cabin Air
+Assembly in each major module where air and water heat exchangers cool and
+dehumidify the internal atmosphere. On ISS condensate is stored in a tank.
+For equipment cooling, the Orbiter, Spacelab and the ISS US Segment use air cooling,
+cold plates, and air/liquid equipment-dedicated heat exchangers. The Orbiter’s avionics
+air loop is separate from the cabin loop, except in aft flight deck. Spacelab control valves
+were set manually before flight and avionics air cooling was available via suction air in
+each Spacelab rack. The return suction was balanced prior to each flight per cooling and
+fire detection requirements. In Spacelab, thermal capacitors (using phase change
+material) were available for coldplate mounted equipment. ISS US Segment air flow is
+controlled automatically. High heat generators are attached to custom-built cold plates.
+Cold water circulated by a 17,000-rpm impeller the size of a quarter, courses through
+these heat-exchangers to cool the equipment.
+The Orbiter’s Freon Coolant Loop provides for the transfer and transport of heat loads to
+ground support equipment, cooling radiators, ammonia boiler, and space vacuum flash
+evaporative heat sinks. The Freon 21 system takes the heat load of the Spacelab
+equipment, three fuel cells, mid-body and aft Orbiter avionics, and adds heat to
+Aerosurface control hydraulics (on-orbit). The Space Shuttle Main Engines (SSME)
+thrust vector and aerosurface control hydraulics are cooled via water spray boilers during
+launch and ascent. A Flash Evaporator System provides total heat rejection for vehicle
+during ascent (above 120,000 ft) and reentry (down to 100,000 ft), and supplementary
+heat rejection during orbital operations. Ammonia boilers on the Freon 21 loop are used
+below 100,000 ft during reentry for cooling prior to ground support equipment
+connection. Water Spray Boiler (WSB) system provides a heat sink for heat loads
+generated by operation of the Orbiter hydraulic subsystem and auxiliary power unit
+(APU) lubricating oil system. Radiators (2 deployable, 2 fixed - 12x15 ft) interface with
+the Freon 21 loop for on-orbit cooling. Two redundant Spacelab water loops interfaced
+
+History of Spacecraft ECLS Systems/K. Daues
+
+6 of 13
+
+with Orbiter Freon 21 loop; the water loop also takes the cabin and avionics loads to the
+Freon 21 Orbiter loop via air/water heat exchangers. The Spacelab Pallet coolant loop
+(when used) was a Freon 114 loop and interfaced with the Orbiter Freon 21 loop.
+ISS US Segment waste heat is removed through cold plates and heat exchangers, both
+cooled by a circulating water loop. Waste heat is exchanged a second time to another
+loop containing ammonia. The heated ammonia circulates through aluminum external
+radiators releasing the heat as infrared radiation and cooling as it flows.
+Vostok used a liquid-air condensing heat exchanger. Condensate was trapped by porous
+wicks between the heat exchanger tubes. Temperature was adjusted by automatic
+regulation of the air flow rate through heat exchanger. The cosmonaut could set
+temperature and humidity. The temperature range was between 12 (54° F) and 25°C
+(77°F), and relative humidity was between 30% and 70%. Humidity was controlled
+primarily by a dehumidifier containing a silica gel drying agent impregnated with lithium
+chloride and activated carbon. The dehumidifier operated cyclically. Air inlet to
+dehumidifier opened after humidity rose above 70%. The air inlet automatically closed
+when humidity reached 35% ± 5%. The Voskhod and Sozuz designs are similar. The
+Soyuz liquid coolant is a water/glycol mixture and humidity was controlled primarily by
+the condensing heat exchanger. Condensate is trapped by porous wicks between the heat
+exchanger tubes. The primary role of the chemical water absorbents became control of
+the oxygen production rate of the O2 regenerator.
+Salyut used a liquid-air condensing heat exchanger. Temperature could be set by
+cosmonaut between 15 (59°F), and 25°C (77°F). The coolant was an antifreeze-type
+fireproof liquid. Porous wicks trapped moisture between tubes of the heat exchanger.
+Condensate was collected in a moisture trap and periodically pumped out manually by
+the cosmonauts. The active thermal control system in the Kvant Module had only one
+thermal loop, designed to be connected to either of the Mir core's two active thermal
+control loops if need be. Salyut utilized external radiators.
+Mir used a liquid-air condensing heat exchanger. Two internal thermal control loops (a
+cooling loop and a heating loop) were charged with "Temp" coolant (an alcohol [or
+ethylene glycol] and water mixture). A redundant piping system was included with each
+loop. Loop temperature was controlled automatically. Mir has no large-surface areas
+thermal radiators with a fluid interface. Humidity control was maintained by adding 1.2
+liters of water/crewperson/day to the atmosphere. The ISS Russian Segment temperature
+and humidity control system is similar to Mir’s. Mir avionics were cooled by heat
+exchangers and by air pulled from the cabin. Each method provided about 50% of the
+cooling. A condensator, with freon as the working fluid, removed moisture that
+condensed on the equipment.
+
+Water Management
+For Mercury, Gemini, the Apollo Command Module (CM), and the Apollo Lunar
+Module (LM), Skylab, and the Orbiter, potable water was stored and not processed for
+
+History of Spacecraft ECLS Systems/K. Daues
+
+7 of 13
+
+reuse. Mercury, Gemini waste water was vented to space. The Apollo CM stored
+condensate water and vented the excess, or sent excess to the evaporator for additional
+cooling. The Apollo LM stored waste water as no overboard dumping of wastes on lunar
+surface was allowed. Skylab stored waste water in tanks and vented waste when the
+tanks were full. The Orbiter also stores waste water in a tank and vents waste water when
+the tank is full. The ISS US Segment potable and hygiene water is recycled utilizing a
+multifiltration and ion exchange sorbent beds, and catalytic oxidation. The ISS US
+Segment can also process urine for water reclamation using vapor compression
+distillation.
+For Mercury, water quality depended on the quality of the public water system in Cocoa
+Beach, Florida. Bacteria control depended on the residual disinfectant (chlorine) in the
+public supply. For microbial control chlorine added to the water before launch for
+Gemini and the Apollo CM. For the Apollo CM chlorine at a concentration of 0.5
+mg/liter was maintained by adding (via syringe injection) 22 ml of sodium hypochlorite
+solution every 24 hours. For the Apollo LM, iodine added before launch and there was
+no on-orbit biocide addition. A pre-flight analysis was performed to predict when the
+iodine concentration would fall below 0.5 mg/liter during each mission. When this
+predicted time was reached during the mission a bacteria filter was added upstream of the
+water dispenser. For Skylab, the iodine level was maintained between 0.5 and 6.0
+mg/liter by periodic injection of a 30 g/l potassium iodide solution. The Orbiter adds
+iodine from microbial check valves (MCV). MCV passively adjusts iodine concentration
+between 2 and 6 mg/l. The ISS US Segment also adds iodine from microbial check
+valves and heat sterilization at 120°C for 10 minutes is planned as part of the water
+processing cycle.
+No on-orbit monitoring of water quality was used on US spacecraft, except for the use of
+an iodine sampler on Skylab where water were samples fixed with a linear starch reagent
+and compared to photographic standards. And the ISS US Segment uses an on-line
+conductivity and free-gas monitor for the water processor. Off-line monitoring of total
+organic carbon and microbial count can be performed by the Crew Health Care System.
+For Mercury, one tank, filled before launch, with a flexible bladder was used for water
+storage. Squeezing an air bulb pressurized the bladder to deliver water.
+For Gemini, one 7.3 liter tank containing a bladder pressurized with oxygen was used to
+deliver water. The tank was filled before launch. When tank became empty it was
+refilled from reserves in the service module, which separated from the main spacecraft
+before reentry.
+For the Apollo CM, fuel cell byproduct was the principle source of potable water.
+Byproduct water was routed to the potable tank or sent to the waste tank if the potable
+tank was full. A silver palladium separator removed dissolved and free hydrogen. The
+potable water tank used a bladder pressurized by oxygen to deliver water. The Apollo
+LM, used three (four on Apollo 15, 16, 17 LMs) potable tanks for storage, each with a
+
+History of Spacecraft ECLS Systems/K. Daues
+
+8 of 13
+
+bladder pressurized by nitrogen to deliver water. The tanks were filled before launch.
+The potable water was also used to cool spacecraft and extravehicular mobility units.
+Skylab used ten cylindrical 600 lb. capacity stainless steel tanks fitted with pressurized
+steel bellows to deliver the water. It also had one 26 lb. capacity portable tank. The
+tanks were filled before launch. The Orbiter has four 168 lb. capacity stainless steel
+tanks fitted with metal bellows pressurized by nitrogen. Drinking water is from the fuel
+cell byproduct. The ISS US Segment uses a metal bellows tank design with supply and
+delivery pumps. Water is supplied to the distribution bus.
+For Vostok, Voskhod, and Soyuz, potable water was stored and not processed for reuse.
+On Salyut 6 and 7, potable water was recovered from condensate. Waste water was
+pumped into storage columns containing ion exchange resins and activated charcoal, and
+then sent through filters containing fragmented dolomite, artificial silicates, and salt.
+Minerals were then added, including calcium, magnesium, bicarbonate, chloride, and
+sulfate. Mir had three water purification systems. Condensate was recovered by the
+same process used on Salyut 6, 7. Hygiene/kitchen water was recovered (for hygiene use
+only) by a system of filters (containing fragmented dolomite, artificial silicates and salts),
+activated charcoal and ion exchange resins. Minerals (calcium, magnesium, bicarbonate,
+chloride and sulfate) were then added. This Mir system could recover 21 liters of water
+at one time. Electrolysis water was recovered from urine by vapor-diffusion distillation.
+This Mir system could generate 5.4 liters/day. The ISS Russian Segment water
+processing system was similar to Mir. The only water quality monitoring provided on
+Russian spacecraft was measurements taken by water analyzers include pH and salinity
+on Mir and a conductivity monitor on the ISS Russian Segment.
+Vostok, Voskhod, and Soyuz had similar water storage and distribution systems. Water
+was held in a container made of two layers of elastic polyethylene film. The container
+was hermetically sealed inside a metal cylinder. Low pressure created by the
+crewperson's mouth was enough to induce water flow from the polyethylene container.
+Each crewperson was allotted 2.2 l/day of water. Salyut used the Rodnik ("spring")
+system to filter water supplied from tanks with a total volume of over 400 liters. Mir
+system was similar to the Salyut design and had tanks that used pressurized bladders to
+deliver water. The ISS Russian Segment system was similar to Mir.
+For microbial control, Vostok, Voskhod, and Soyuz used a silver preparation added to the
+water, which was boiled before launch. On Salyut, Mir and the ISS Russian Segment
+water was heated and ionic silver was introduced electrolytically to achieve a
+concentration of 0.2 mg/l.
+
+Food
+For the first suborbital flights in the Mercury Program no food was provided. During
+John Glenn’s was the first US astronaut to eat food in space. He was supplied with
+applesauce in a tube. Later bite-sized cubes of a high calorie mixture of protein, highmelting-point fat, sugar, and fruit or nuts were added on Mercury missions.
+
+History of Spacecraft ECLS Systems/K. Daues
+
+9 of 13
+
+During Gemini crews were provided with food for 2500 kcal per person. This consisted
+of concentrated foods, bite-sized cubes and food squeezed from tubes.
+The food
+packaging had high water vapor and O2 barrier properties.
+The Apollo CM food system was initially like Gemini, then dehydrated food, food in
+retort pouches, canned products, and irradiated food were added with increased variety
+and improved quality. Apollo astronauts used utensils for the first time in space. The
+Apollo LM provided food bars.
+Skylab was the first US spacecraft to have freezers, refrigerators and food warmers.
+Crews had a varied diet chosen from 72 foods with a 6-day cycle menu. Most food was
+packaged in aluminum cans to maintain 2-year shelf life. Supplies included some frozen
+and thermostablized items, high-caloric-density bars, ice cream, and specialties such as
+filet mignon and lobster.
+The Orbiter’s food system includes a galley with a rehydration station and a convection
+oven. A single package design of food and beverage was introduced as well as
+commercial-off-the-shelf food items. There are over 150 orbiter food and beverage
+options. Examples include fruits, salad spread, pudding, cookies, sweet/sour beef, rice
+pilaf, asparagus, scrambled eggs, beef patty, and tortillas.
+On joint NASA/Russian Mir missions half the food was provided by the US and half by
+Russia. The food was similar to Orbiter food but with a 9-month shelf life (routinely
+extended). Russian food packaging included cans, metal tubes, and plastic overwrapped
+in foil. Mir had two food heaters and rehydration equipment and Orbiter brought a
+potable suitcase food warmer. The Orbiter and Progress vehicles resupplied Mir food
+stores and brought fresh fruit, vegetables and snacks.
+On the ISS frozen foods (e.g., entrees, vegetables, baked goods, grains, and desserts),
+refrigerated foods (e.g., fruit, vegetables, and dairy items), ambient foods (e.g.,
+thermostabilized, irradiated, aseptic-fill, shelf-stable natural form food, and rehydratable
+beverages) and commercial-off-the-shelf food are provided. ISS has a convection oven
+for heating foods. There is a 30-day pre-selected menu plus added food for in-flight
+changes. The packing system for the daily menu food is based on single-service,
+disposable containers to eliminate the need for a dishwasher. The Orbiter and Progress
+vehicles resupply ISS food stores and bring fresh fruit, vegetables and snacks.
+
+Waste Management
+On Mercury an in-suit urine collection bag stored urine until the end of the mission.
+There were no provisions for fecal handling. Note that there were no provisions for urine
+handling on first Mercury mission. On Gemini, feces were collected in bags and stored.
+Bags had to be taped to buttocks to use. Urine was collected using the urine transfer
+system, which consisted of a rubber cuff connected to a flexible bag. The urine could be
+directed to the boiler tank to assist with spacecraft heat rejection.
+
+History of Spacecraft ECLS Systems/K. Daues
+
+10 of 13
+
+For the Apollo CM and LM, feces were collected in bags and stored. Bags had to be
+taped to buttocks to use. The bag was kneaded to mix a liquid bactericide with the feces.
+Urine was voided directly overboard through a urine receptacle assembly or collected
+using the urine transfer system, which consisted of a rubber cuff connected to a flexible
+bag. For Apollo 15-17, urine was collected and stored, then vented daily. The primary
+difference between CM and LM waste management systems was that no overboard
+dumping of urine was allowed on lunar surface for the LM system.
+On Skylab, feces were collected in gas permeable bags attached under a form-fitting seat,
+then vacuum dried and stored. Urine was collected using individual receivers, tubing,
+and disposable collection bags.
+The Orbiter utilizes a commode/urinal system. Feces are collected in the commode
+storage container, where they are vacuum-dried, and held. Urine is sent to a waste water
+tank which is vented when full.
+The ISS US Segment also utilizes a commode/urinal system. Feces are collected in a bag
+and compacted in a cylindrical canister for storage and disposal (in a Progress resupply
+module). A urine processor is part of the waste and hygiene compartment planned for
+Node 3, and will be capable of automatic transfer or of accepting urine via a portable
+water container to allow transfer from the Russian Segment.
+For Vostok, Voskhod, and Soyuz, urine and feces were entrained in an air stream and
+collected. Design of the urine/feces receiving unit permitted simultaneous collection of
+urine and feces even when clothed in a space suit. On Salyut feces were collected in
+hermetically sealed metal or plastic containers, which were ejected to space about once a
+week. The urine collector, separate from the main commode, was a cup-and-tube device
+with a disposable plastic insert and filter. Mir and the ISS Russian Segment used a
+commode for urine and feces collection. Urine was sent to the recovery processor after
+passing through an air/liquid separator. Concentrated urine was stored in a tank until
+disposal. Waste from food and water went to a waste collection unit. Solid wastes were
+disposed by Progress vehicle reentry.
+
+Fire Detection and Suppression
+Detection: Mercury, Gemini and Apollo depended on crew senses for fire or smoke
+detection. Skylab used ultraviolet detectors. The Orbiter and Spacelab use ionization
+smoke sensors. The ISS US Segment uses photoelectric smoke detectors mounted in
+ventilation ducting, payload racks, and in the cabin. Also, for payloads and situations
+where a smoke detector cannot be used, Data Parameter Monitoring is used that relies on
+temperature (or other) sensors with software monitoring for out-of-limits indication of a
+fire event. On Salyut CO2 detectors doubled as smoke detectors. Mir had optical
+sensors and the ISS Russian Segment uses improved optical sensors.
+
+History of Spacecraft ECLS Systems/K. Daues
+
+11 of 13
+
+Suppression: Mercury could use water from the food rehydration gun and had the
+capability to depressurize the cabin by manually opening cabin outflow valve. Gemini’s
+system was similar to the Mercury design and a maximum of three cabin
+depressurizations could be accommodated by the on-board oxygen supply. The Apollo
+and Skylab systems could use water from the food rehydration gun and a portable
+aqueous gel (hydroxy-methyl cellulose) extinguisher, which could expel 0.06 m3 of foam
+in 30 seconds. They also had the capability to depressurize the crew cabin. The Orbiter
+and Spacelab uses Halon 1301 as a fire suppressant. The Orbiter has three remote Halon
+bottles, one per avionics bay, and three portable Halon bottles, two located on the
+middeck and one on the flight deck. Spacelab had a Halon bottle with distribution lines
+located in each equipment rack and two portable Halon extinguishers. The Orbiter and
+Spacelab also have the capability to depressurize the crew cabin. The ISS US Segment
+uses CO2 has the fire suppressant, has portable CO2 extinguishers and can depressurize
+the cabin. Mir and the ISS Russian segment use portable extinguishers and the crew can
+open valves to extinguish fires in inaccessible areas.
+
+SOURCES:
+1) P.O. Wieland, NASA/TM-2005-214007, Designing for Human Presence in Space: An
+Introduction to Environmental Control and Life Support Systems (ECLSS), Appendix I,
+Update – Historical ECLSS for U.S. and US.S.R./Russian Space Habitats (July 2005)
+2) Helen W. Lane and Dale A. Schoeller, Nutrition in Spaceflight and Weightlessness
+Models (2000)
+3) NASA Facts, Space Food, FS-2002-10-079-JSC (October 2002)
+
+History of Spacecraft ECLS Systems/K. Daues
+
+12 of 13
+
+History of Spacecraft ECLS Systems/K. Daues
+
+13 of 13
+

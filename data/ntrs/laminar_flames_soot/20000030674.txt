@@ -1,0 +1,1858 @@
+report is a preprint of an article submitted to a journal for
+publication Because of changes that may be made before formal
+publication, this preprint is made available *jth the understanding
+that it will not be cited or reproduced without the permission ot the
+
+I 4 6 ft '11)£^> 50
+'
+
+This
+
+7 X
+
+author.
+
+Shapes of Nonbuoyant Round Luminous Hydrocarbon/Air
+Laminar Jet Diffusion Flames
+K.-C. LIN, G. M. FAETH*
+The University of Michigan. Ann Arbor, Michigan 48109
+
+P. B. SUNDERLAND, D. L. URBAN, and Z.-G. YUAN
+NASA Lewis Research Center, Cleveland, Ohio 44135
+The shapes (luminous flame boundaries) of round luminous nonbuoyant soot-containing hydrocarbon/air
+laminar jet diffusion flames at microgravity were found from color video images obtained on orbit in the Space
+Shuttle Columbia. Test conditions included ethylene- and propane-fueled flames burning in still air at an
+ambient temperature of 300 K, ambient pressures of 35-130 kPa, initial jet diameters of 1.6 and 2.7 mm, and
+jet exit Reynolds numbers of 45-170. Present test times were 100-200 s and yielded steady axisymmetric flames
+that were close to the laminar smoke point (including flames both emitting and not emitting soot) with luminous
+flame lengths of 15-63 mm. The present soot-containing flames had larger luminous flame lengths than earlier
+ground-based observations having similar burner configurations: 40% larger than the luminous flame lengths of
+soot-containing low gravity flames observed using an aircraft (K.C-135) facility due to reduced effects of
+accelerative disturbances and unsteadiness; roughly twice as large as the luminous flame lengths of sootcontaining normal gravity flames due to the absence of effects of buoyant mixing and roughly twice as large as
+the luminous flame lengths of soot-free low gravity flames observed using drop tower facilities due to the
+presence of soot luminosity and possible reduced effects of unsteadiness. Simplified expressions to estimate the
+luminous flame boundaries of round nonbuoyant laminar jet diffusion flames were obtained from the classical
+analysis of Spalding (1979); this approach provided successful correlations of flame shapes for both soot-free
+and soot-containing flames, except when the soot-containing flames were in the opened-tip configuration that
+is reached at fuel flow rates near and greater than the laminar smoke point fuel flow rate. © 1998 by The
+Combustion Institute
+
+NOMENCLATURE
+
+Cf
+d
+D
+L0
+Lf
+
+empirical flame length parameter
+jet exit diameter
+
+mass diffusivity
+distance from jet exit to virtual
+origin
+distance from jet exit to luminous
+flame tip
+
+in
+p
+Re
+r
+Sc
+fch
+
+w
+W
+
+MAX
+W//2
+Zsl
+2
+
+burner mass flow rate
+pressure
+jet Reynolds number, 4 rh/(irdii)
+radial distance
+Schmidt number, vID
+characteristic residence time, 2L ( /u 0
+mean burner exit velocity, 4
+luminous flame diameter
+maximum luminous flame diameter
+luminous flame diameter at £ = 1/2.
+stoichiometric mixture fraction
+streamwise distance
+
+'Corresponding author. E-mail: gmfaethfg'Umich.edu
+COMBUSTION AND FLAME 116:415-431 (1999)
+© 1998 by The Combustion Institute
+Published by Elsevier Science Inc.
+
+£
+
+normalized streamwise distance, Eq.
+6
+
+/A
+
+dynamic viscosity
+
+v
+
+kinematic viscosity
+
+p
+
+density
+
+Subscripts
+o
+
+burner exit condition
+
+INTRODUCTION
+
+Observations of nonbuoyant laminar diffusion
+flames are described which were obtained at
+microgravity on board the orbiting Space Shuttle Columbia. Laminar diffusion flames are of
+interest because they provide model flame systems that are far more tractable for theoretical
+and experimental studies than more practical
+turbulent diffusion flames. Laminar diffusion
+flames also merit study because understanding
+their transport and chemical reaction processes
+is a necessary precursor to understanding these
+processes in turbulent diffusion flames. In addi0010-2]80/99/$19.00
+Pll S0010-2180(98)00100-X
+
+416
+
+tion, many aspects of laminar diffusion flames
+have direct relevance to turbulent diffusion
+flames by application of the laminar flamelet
+concept of turbulent diffusion flames [1]. The
+present study specifically considered the shapes
+(the luminous flame boundaries) of laminar
+diffusion flames, which is a flame property that
+has attracted numerous investigations since the
+classical study of Burke and Schumann [2]. This
+interest follows because simple nonintrusive
+measurements yield flame shapes, which can be
+used to evaluate theories of laminar flame processes and predictions of laminar flame structure. A concern about measurements of the
+shapes of laminar diffusion flames at normal
+gravity, however, involves the intrusion of disturbances due to buoyancy because they are not
+relevant to practical diffusion flames, which
+generally are not buoyant due to their large
+velocities. These buoyant disturbances also tend
+to obscure important properties of the nonbuoyant flames that are of the greatest interest
+[3]. Thus, the present investigation sought measurements of the shapes of classical steady
+nonbuoyant round laminar jet diffusion flames
+by exploiting the long-term microgravity environment of an orbiting space shuttle. The objectives of this paper are to document these
+measurements and to develop a summary of the
+results, convenient for use by others, based on
+simplified analysis of nonbuoyant laminar jet
+diffusion flames.
+Past measurements of the shapes of nonbuoyant laminar jet diffusion flames have been carried out using either drop towers to provide
+microgravity environments [4-13] or aircraft
+facilities [14] to provide low-gravity environments. The earliest work along these lines was a
+series of studies of hydrocarbon-fueled laminar
+jet diffusion flames using a 2.2 s free-fall (drop)
+tower due to Cochran and co-workers [4-6].
+They ignited the flames before putting the experiment package into free-fall and observed an
+immediate reduction of the luminous flame
+length when the flame was exposed to the low
+gravity environment. The subsequent transient
+development of the flame shape, combined with
+the relatively short duration of the microgravity
+environment, raised concerns about the results
+due to potential effects of unsteady flame development. Another problem with measure-
+
+K.-C. LIN ET AL.
+ments of the shapes of hydrocarbon-fueled
+flames is that the luminosity of these flames is
+mainly caused by glowing soot particles, particularly along the flame axis where luminous
+flame lengths are normally measured. Thus, the
+relationship between luminous flame dimensions and the location of the flame sheet (where
+the local mixture fraction is stoichiometric) is an
+issue because the latter generally is associated
+with predictions of laminar flame shapes. Past
+measurements of the flame structure and soot
+properties of weakly buoyant and buoyant
+round laminar jet diffusion flames burning in
+still or slowly moving air provide some information about luminous and stoichiometric flame
+lengths [15-18]. These observations indicate
+that ratios of luminous- to stoichiometric-flame
+lengths are in the range 0.9-1.8, with these
+ratios increasing as the laminar smoke point
+flame length is approached [15-18]. This behavior comes about because soot oxidation begins
+at slightly fuel-rich conditions and can continue
+in the fuel-lean region for a time before either
+the soot is consumed (non-soot-emitting
+flames), or the soot oxidation reactions are
+quenched (soot-emitting flames), with luminous
+flame lengths varying accordingly [15].
+Studies following the work of Cochran and
+coworkers [4-6] due to Bahadori and coworkers [7-12] sought to resolve potential effects of
+transient flame development and soot luminosity on measurements of the shape of nonbuoyant round laminar jet diffusion flames using
+both 2.2 s and 5.2 s drop towers. In order to
+minimize problems of transient behavior, they
+ignited the flames shortly after the experimental
+package was released and observed nearly
+steady flame shapes near the end of free fall.
+Nevertheless, temperature fields and radiation
+emissions of the flames were still changing at
+the end of the 5.2s free-fall periods for the flame
+conditions that they considered, implying that
+transient effects had still not fully relaxed during the available microgravity test time.
+Sunderland et al. [14] considered the luminous flame lengths of nonbuoyant soot-containing round laminar jet diffusion flames as part of
+a study of the laminar smoke point properties of
+nonbuoyant laminar diffusion flames. These experiments were carried out in a KC-135 aircraft
+facility that provided roughly 20 s at low gravity
+
+NONBUOYANT LAMINAR JET DIFFUSION FLAMES
+by flying parabolic trajectories. It was hoped
+that these long low-gravity test times would
+minimize effects of transient flame development
+on observed flame shapes. These flames all
+approached laminar smoke point conditions
+and should be representative of long luminous
+flame lengths discussed earlier. Unfortunately,
+the KC-135 aircraft facility provided a rather
+disturbed low-gravity environment (with significant g-jitter) with the accompanying unsteady
+effects influencing both flame shapes and laminar smoke point properties [14].
+In spite of potential effects of unsteadiness
+for the ground-based studies of nonbuoyant
+laminanyet diffusion flames, however, Cochran
+and co-workers [4-6], Bahadori and co-workers
+[7-12], and Sunderland et al. [14] all observed a
+linear correlation between luminous flame
+lengths and fuel flow rates, independent of jet
+exit diameter, for each fuel burning in air. This
+behavior also is typical of the luminous flame
+lengths of buoyant round laminar jet diffusion
+flames [19]. Thus, to the extent that this linear
+relationship is retained for truly steady and
+nonbuoyant laminar jet diffusion flames, it offers an important characteristic useful for testing flame shape predictions.
+Most recently, Sunderland et al. [13] sought
+to avoid problems of both unsteadiness and soot
+luminosity by measuring the shape of soot-free
+laminar jet diffusion flames using a 2.2 s drop
+tower facility. Ambient pressures, jet exit diameters and fuel flow rates were controlled to
+provide soot-free (blue) laminar jet diffusion
+flames having relatively small characteristic
+flame residence times so that unsteady effects
+were potentially minimized. These results for
+soot-free flames exhibit generally shorter flame
+lengths than corresponding soot-containing
+flames but the limited flame development period
+at microgravity still introduces uncertainties in the
+flame shape measurements due to potential effects of transient flame development.
+The shapes of laminar jet diffusion flames
+also have attracted significant theoretical attention. Measured flame lengths for both soot-free
+and soot-containing flames have been used to
+develop empirical models and to evaluate theoretical predictions for a range of buoyant
+conditions. The most well-known empirical
+model for laminar diffusion flames is the linear
+
+417
+
+correlation between the luminous flame length
+and the corresponding fuel flow rate [19] that
+was mentioned earlier. Several laminar diffusion flame models of varying complexity also
+have been proposed [20-26] that successfully
+predict the linear correlation between stoichiometric flame lengths and the fuel flow rates (or
+equivalently between the stoichiometric flame
+length normalized by the jet exit diameter and
+the jet exit Reynolds number). Among these,
+the analysis of Spalding [22] (which is described
+in some detail by Kuo [23]) offers a potentially
+simple and robust method for estimating the
+shapes of steady nonbuoyant round laminar jet
+diffusion flames. Nevertheless, modifications of
+this approach to deal with soot-containing
+flames (as opposed to soot-free flames), the
+capabilities of this approach to estimate (or
+correlate) all flame shape properties (as opposed to simply luminous flame lengths), and
+the performance of this approach for truly
+steady and nonbuoyant round laminar jet diffusion flames, are all issues that need to be
+addressed.
+Based on the previous discussion of the literature, several aspects of the shape of nonbuoyant round laminar jet diffusion flames need to
+be resolved, as follows: to what extent have past
+observations using ground-based microgravity
+facilities been affected by transient development or disturbances of the flames, to what
+extent have differences between stoichiometric
+conditions and the limits of visible luminosity
+from soot affected estimates of flame shapes,
+and to what extent can flame shape data be
+predicted (correlated) by simplified analysis?
+These issues were addressed during the present
+investigation based on observations of nonbuoyant round laminar jet diffusion flames at longduration microgravity conditions on board the
+orbiting Space Shuttle Columbia, and by evaluation of simplified analysis of flame structure
+using these observations, with the following
+specific objectives:
+1. Measure the shapes (luminous flame boundaries), and associated properties such as luminous flame lengths and diameters, for
+various fuel types, jet exit diameters, jet exit
+flow rates (Reynolds numbers), and ambient
+pressures.
+
+418
+
+2. Compare the present measurements with
+earlier ground-based observations having
+similar burner conditions in order to help
+quantify effects of transient flame development, flow disturbances (g-jitter), soot luminosity, and buoyancy on flame shape properties.
+3. Exploit the measurements in order to evaluate the simple flame shape analysis of Spalding [22] and develop this approach to provide convenient correlations of flame shape
+measurements for use by others.
+Present observations were limited to soot-containing ethylene- and propane-fueled flames
+burning in still dry air, at conditions near the
+laminar smoke point.
+The following description of the study begins
+with consideration of experimental methods,
+test conditions, and theoretical methods. Results are then discussed, considering luminous
+flame lengths, luminous flame diameters, and
+luminous flame shapes, in turn. Major conclusions are summarized at the end of the article.
+EXPERIMENTAL METHODS
+Experimental methods will be only briefly described; see Urban et al. [27] for more details.
+The laminar jet diffusion flames were stabilized
+at the exit of round fuel nozzles located along
+the axis of a windowed cylindrical chamber. The
+chamber had a diameter of 400 mm, a maximum
+length of 740 mm, an internal volume of 0.082
+m3, and was operated at pressures of 35-130
+kPa. The chamber was filled with oxygen/nitrogen mixtures to provide the nominal composition of dry air (21 ± 1% oxygen by volume). The
+pressure, temperature, and composition of the
+gas surrounding the test flames all varied
+slightly over the flame burning periods due to
+the limited amount of air within the closed
+chamber. The greatest change involved the
+composition of gas within the chamber but even
+this was controlled so that the maximum oxygen
+consumption never exceeded 2% by volume
+during any flame test. These conditions were
+maintained by venting the chamber to space and
+adding fresh dry air (as needed) prior to each
+test.
+Two fuel nozzles, consisting of constant diam-
+
+K.-C. LIN ET AL.
+eter cylindrical stainless steel tubes having inside diameters of 1.6 and 2.7 mm, wall thicknesses of 0.28 mm, and lengths of 148 mm from
+the inlet plenum, were used. The inlets of these
+nozzles had flow straighteners while the overall
+length-to-diameter ratios of the passages were
+greater than 55:1, which was sufficient to yield
+fully developed laminar pipe flow at the nozzle
+exit for the present test conditions (112 ^ Re0
+s 46). The test fuels were stored in cylinders
+and were delivered to the nozzles through solenoid valves and a mass flow rate controller and
+sensor. The flames were ignited by a hot wire
+coil that was retracted from the nozzle exit once
+ignition was successful.
+Several measurements were made to monitor
+flame operation as follows: fuel flow rate with
+an accuracy of 0.8%, fuel temperature at the
+nozzle inlet with an accuracy of ±1.5 K, chamber pressure with an accuracy of 1.2%, and
+chamber gas temperature (far from flames) with
+an accuracy of ± 1 K. These measurements were
+recorded at a rate of approximately 1 Hz.
+Flame shapes (luminous flame boundaries)
+were measured from images obtained using a
+standard color CCD video camera (Hitachi,
+Model KP-C553). The camera had a 125 X 164
+mm field of view and a depth of field of 25 mm
+centered on the flame axis. The spatial resolution of the recorded images was better than 0.3
+mm. It was not possible to adjust image brightness on orbit; therefore, it was necessary to
+select camera settings so that the flames having
+the smallest levels of luminosity (found from
+ground-based tests at microgravity using a freefall facility) could still be observed. This implied
+that the flame images were generally overexposed although they still provided sharp images
+of luminous flame boundaries. Flame images
+were recorded at a rate of 30 images/s. The
+flames were unusually symmetric; nevertheless,
+the shapes reported here represent average
+positions for the two sides.
+TEST CONDITIONS
+The test conditions of the present flames are
+summarized in Table 1. A total of 21 flames
+were observed, yielding the following ranges of
+test properties: ethylene- and propane-fueled
+
+NONBUOYANT LAMINAR JET DIFFUSION FLAMES
+
+419
+
+TABLE 1
+
+Summary of Test Conditions
+Test"
+
+P
+(kPa)
+
+u
+
+(mg/s)
+
+01E*
+03E'
+DIE
+02E
+03E
+04E
+ME
+15E
+16E
+17E
+
+flames, d = \ .6 mm, Zs, = 0.0636:
+1.84
+100
+1.84
+50
+0.71
+100
+0.76
+50
+1.29
+50
+0.91
+65
+0.67
+80
+0.61
+100
+0.74
+65
+1.34
+35
+
+05E
+06E
+07E
+08E
+
+Ames, d = 2.7 mm, ZSI
+65
+80
+100
+50
+
+= 0.0636:
+1.14
+1.16
+1.08
+1.38
+
+a
+
+'ch
+
+(mm/s)
+
+(ms)
+
+(mm)
+
+(mm)
+
+49.3
+63.0
+20.6
+17.7
+36.5
+26.5
+18.0
+14.7
+19.0
+34.0
+
+13.7
+14.2
+12.6
+13.1
+13.8
+13.1
+12.9
+11.5
+13.4
+14.7
+
+820
+1630
+320
+670
+1140
+620
+370
+270
+510
+1690
+
+138
+138
+54
+57
+97
+68
+50
+46
+56
+100
+
+121
+77
+130
+53
+64
+86
+97
+109
+75
+40
+
+270
+230
+170
+430
+
+51
+51
+48
+62
+
+215
+269
+302
+173
+
+29.1
+30.3
+25.5
+37.3
+
+21.4
+20.9
+19.6
+21.4
+
+170
+1020
+
+73
+172
+116
+83
+99
+78
+67
+
+277
+120
+144
+218
+177
+164
+191
+
+23.3
+61.4
+38.1
+27.1
+32.4
+23.9
+19.0
+
+17.4
+18.8
+17.4
+16.6
+17.2
+16.9
+16.1
+
+C3Hg/air flames, d = 1.6 mm, 2S1 = 0.0602:
+
+09P
+10P
+IIP
+12P
+13P
+18P
+19P
+
+130
+50
+65
+100
+80
+80
+100
+
+0.78
+1.82
+1.22
+0.88
+1.04
+0.82
+0.71
+
+530
+250
+370
+290
+200
+
+° 01E* and 03E* were carried out on flight STS-83, all other tests were carried out on flight STS-94. Only tests 01E*, 03E*,
+and 01E involved soot-emitting flames in the period when flame shape observations were made.
+* Mean velocity based on fuel density at jet exit (nominal pressure and 300 K).
+c
+Mean Reynolds number based on fuel viscosities at jet exit (300 K), i.e., 10.6 mg/(sm) for ethylene and 8.4 mg/(sm) for
+propane.
+
+flames in burning dry air, ambient temperatures
+and pressures of 300 K and 35-130 kPa, jet exit
+diameters of 1.6 and 2.7 mm, jet exit velocities
+of 170-1630 mm/s, jet exit Reynolds numbers of
+46-172, characteristic residence times (defined
+as 2L1/u0) of 40-302 ms, and luminous flame
+lengths of 15-63 mm.
+For convenience, the test numbers have the
+suffixes E and P to denote ethylene- and propane-fueled flames, respectively. Asterisks are
+used to denote the two tests completed during
+flight STS-83. It should be noted that the characteristic residence times of the present flames
+are large (40-302 ms) compared to most practical applications where characteristic residence
+times are typically less than 10 ms. As mentioned earlier, present flames were generally
+relatively close to laminar smoke point conditions with test flames 01E*, 03E*, and OlE
+
+actually emitting soot in the period when flame
+shape observations were made. The remaining
+flames all contained soot but were not emitting
+soot.
+THEORETICAL METHODS
+
+The goal of the analysis was to develop a
+convenient method to help interpret and correlate the present flame shape measurements. A
+set of easily used equations was sought, along
+with recommendations for selecting the thermochemical and transport properties appearing in
+these equations, as opposed to more complete
+methods that would require numerical solutions
+on a computer. Thus, the basis for this approach
+was the simplified analysis of nonbuoyant round
+laminar jet diffusion flames due to Spalding
+
+420
+
+[22]. The following description of the analysis is
+brief and concentrates on the present application of the approach; see Spalding [22] and Kuo
+[23] for more details.
+The major assumptions of the flame shape
+analysis of Spalding [22] are as follows: (1)
+attention is limited to steady, axisymmetric laminar jet diffusion flames burning at constant
+pressure in still environments; (2) effects of
+buoyancy and associated changes of potential
+energy are negligible; (3) the Mach number of
+the flow is small so that effects of viscous
+dissipation and changes of kinetic energy can be
+ignored; (4) the flame has a large aspect ratio so
+that diffusion of mass (species), momentum,
+and energy in the streamwise direction is small;
+(5) for the same reasons, the solution of the
+governing equations can be approximated by
+far-field conditions where the details of initial
+conditions at the jet exit can be replaced by jet
+invariants for the conservation of mass (elements), momentum, and energy in the integral
+sense; (6) all chemical reactions occur in a thin
+flame sheet with fast chemistry so that fuel and
+oxidant are never simultaneously present at
+finite concentrations; (7) the diffusivities of
+mass (of all species), momentum and energy are
+all equal; (8) all thermophysical and transport
+properties are constant throughout the flame;
+and (9) effects of radiation are small. The first
+three assumptions are justified as conditions of
+the present experiments. The fourth and fifth
+assumptions are justified for at least the portion
+of the present measurements that have large
+aspect ratios (e.g., present measurements summarized in Table 1 involve flame aspect ratios,
+2LfAvMAX, in the range 2-9, and burner aspect
+ratios, Lfld, roughly four times larger). The
+sixth assumption prescribing a thin diffusion
+flame sheet has a long history of effective
+application to find the shape of laminar diffusion flames, extending back to the classical work
+of Burke and Schumann [2]. The remaining
+assumptions, however, are not satisfied by laminar jet diffusion flames and were only adopted
+here so that a simple formula for flame shapes
+could be found, and due to past success of
+similar approximations for analysis of the
+shapes of laminar diffusion flames [20-24].
+Solution of the governing equations using the
+present assumptions, after associating the loca-
+
+K.-C. LIN ET AL.
+tion of the luminous flame boundary with the
+location of the thin flame sheet where the
+stoichiometric mixture fraction is reached,
+yields the following expression for the luminous
+flame length [22, 23]:
+
+L f /d =
+
+(1)
+The value of Zst in Eq. 1 can be found simply as
+the mass fraction of burner exit fluid (fuel in the
+present case) in a stoichiometric mixture of
+burner-exit fluid and ambient fluid (air in the
+present case); these values are summarized in
+Table 1 for the present test conditions. The
+variation of Zst is not large for combustion of
+hydrocarbon/air mixtures; thus, while the variation of Zst is small for present experiments, the
+values considered are relevant to many practical
+applications. The corresponding expression for
+the flame shape, yielding the flame diameter as
+a function of streamwise distance, is as follows:
+U/2
+wZJd = 3 1/2 (z/L f )[(L f /z) 1/2 - 1]
+
+(2)
+
+Differentiating Eq. 2, and setting the result
+equal to zero, provides expressions for the maximum flame diameter and the streamwise distance where this maximum diameter is reached,
+as follows:
+
+Jd = 9/16 at z/L t =9/l6.
+
+(3)
+
+Correlation of the measurements was sought
+by selecting conditions to find mean transport
+properties and introducing some empirical parameters to match measurements and predictions. First of all, the equal diffusivity approximation was relaxed by introducing the Schmidt
+number into Eq. 1 because the flame sheet is
+mainly affected by mass transport properties
+represented by the Schmidt number. Transport
+properties affect Eqs. 1-3 through the Schmidt
+number and the viscosity used to compute the
+Reynolds number. It was found that a reasonable correlation of luminous flame lengths
+could be obtained by approximating these properties by the properties of air at the average of
+the adiabatic flame temperature and the ambient temperature. This selection seems reasonable because air-like gases dominate the composition of the present flames. The properties
+needed to find the Schmidt number and the
+mean gas viscosity were taken from Braun et al.
+
+NONBUOYANT LAMINAR JET DIFFUSION FLAMES
+[28]. The range of the flame shape correlations
+was extended to flames having small aspect
+ratios by introducing a virtual origin at a distance L0 from the jet exit, which is a conventional step for properties like luminous flame
+lengths. The flame length expression was then
+fine-tuned by introducing an empirical coefficient, Cf, as discussed later. With these changes,
+Eq. 1 for the luminous flame length becomes:
+(Lt - L0)/d = (3Cf/32)ReSc/Zst,
+
+(4)
+
+while Eq. 2 for the luminous flame diameter
+becomes
+\l/2
+
+(5)
+
+where
+£=(z-L0)/(Lf-L0).
+
+(6)
+
+Thus, the flame radius properties are only indirectly affected by assumed transport properties,
+through the computation of the flame length of
+Eq. 4.
+RESULTS AND DISCUSSION
+Flame Appearance
+Ignition conditions were established during
+ground-based tests at microgravity using a freefall facility and involved fuel flow rates greater
+than the values used during the present flame
+tests. Thus, after ignition was confirmed, fuel
+flow rates were reduced to conditions near but
+generally smaller than the laminar smoke point
+fuel flow rates. Exceptions to this practice where
+tests 01E*, 03E*, and 01E, that were soot
+emitting.
+After the fuel flow rate was set, an additional
+5-10 s was required for disturbances to decay
+away. The flames were then observed during an
+80-180 s quasi-steady burning period where
+flame shapes and colors changed slowly due to
+the modest variations of oxygen concentrations,
+pressures and temperatures of the gas within
+the test chamber, see Urban et al. [27] for
+typical records of chamber gas properties as a
+function of time during the experiments. Video
+records used for the present flame shape measurements were obtained near the start of the
+quasi-burning period; therefore, the test condi-
+
+421
+
+tions correspond to the nominal conditions
+summarized in Table 1 within experimental
+uncertainties.
+Typical of many past observations of sootcontaining nonbuoyant laminar jet diffusion
+flames [8-14], present flame shapes could be
+grouped into closed-tip and opened-tip configurations, which were observed for fuel flow
+rates smaller and larger than the laminar smoke
+point fuel flow rates, respectively. In fact, the
+tip-opening phenomenon provided a convenient
+indicator of laminar smoke points for present
+test conditions because the associated dramatic
+change of the shape of the flame tip invariably
+corresponded to the first observations of soot
+emissions.
+Some typical video records of the present
+closed-tip laminar nonbuoyant jet diffusion
+flames are illustrated in Fig. 1. The test numbers, corresponding to the test numbers of
+Table 1, are marked below each image. The
+flames illustrated include both ethylene- and
+propane-fueled flames for jet exit diameters of
+1.6 mm. The jet exits, which are visible only in
+the images of tests 02E, 03E, 16E, and 17E, are
+on the same side of each image as the test
+number. As noted earlier, fixed camera settings
+imply that images of some strongly-luminous
+flames are overexposed. Thus, while the images
+provide a general indication of regions of the
+flames that have different colors, they do not
+provide an accurate representation of actual
+flame colors. In spite of this limitation, however,
+luminous flame shapes and corresponding flame
+shape parameters (e.g., luminous flame lengths
+and diameters) can still be identified from the
+video images. In addition to the brightly luminous region caused by the presence of glowing
+soot velocities, blue luminosity can be seen near
+the jet exit and just beyond the edge of the
+brightly luminous region, particularly near the
+base of the flame. The blue region was never
+resolved clearly, however, and was not visible at
+all near the flame tip due to the presence of the
+brightly luminous region. Finally, as the laminar
+smoke point fuel flow rate was approached, the
+flames tended to become blunt as a precursor to
+the tip-opening phenomena; thus, the images of
+tests 02E, 16E, and 18P are typical of blunt
+closed-tip flames.
+The present measurements of flame shapes
+
+422
+
+were based on the boundary of the brightly
+luminous region caused by visible radiation
+from soot because this was the most obvious
+indication of luminous flame shape. The stoichiometric flame sheet (the flame sheet based on
+the location of the stoichiometric mixture fraction) also is of great interest but this condition
+could not be resolved, as already discussed.
+Thus, the relationship between the luminous
+flame boundaries and the position of the stoichiometric flame sheet is important for interpreting the present measurements. Soot concentration and temperature records suggest that
+the present luminous flame boundaries lie just
+inside the stoichiometric flame sheet along the
+sides of the flame, not too near the flame tip;
+see Urban et al. [27] for some typical examples.
+The same evidence suggests that the present
+luminous flame boundaries extend beyond the
+stoichiometric flame sheet in the streamwise
+direction near the flame tip, due to soot burnout
+in the lean portions of the flames because
+present test conditions were close to laminar
+smoke points. Unfortunately, the extent of the
+streamwise overlap cannot be quantified directly because local mixture fractions are not
+known for the present flames. As discussed
+earlier, past measurements in laminar jet diffusion flames suggest that the luminous flame
+length might be as much as twice the flame
+length based on the location of the stoichiometric conditions along the axis for conditions near
+the laminar smoke point [15-18]. Thus, in order
+to help quantify differences between luminous
+and stoichiometric flame lengths, the flame
+lengths of both soot-containing and soot-free
+nonbuoyant laminar jet diffusion flames for
+similar burner and buoyancy conditions will be
+compared in the following.
+Some typical video records of opened-tip
+nonbuoyant laminar jet diffusion flames are
+illustrated in Fig. 2. The identification of test
+conditions and the location of the burner exit
+are the same as Fig. 1. The flames illustrated
+include ethylene-fueled flames for a jet exit
+diameter of 2.7 mm and propane-fueled flames
+for a jet exit diameter of 1.6 mm. The dramatic
+difference between the shape of the tips of
+closed- and opened-tipped flames is clearly evident by comparing the flame images of Figs. 1
+and 2. Measurements of the structure of
+
+K.-C. LIN ET AL.
+opened-tipped flames show that soot is mainly
+confined to an annular region, and that little
+soot is present along the flame axis [27]. Thus,
+soot luminosity from the annular-soot containing region, combined with small levels of soot
+luminosity along the axis, is responsible for the
+blunt or even cusp-like luminous shape of the
+tip of these flames when viewed from the side as
+projections. The flames illustrated in Fig. 2 have
+fuel flow rates slightly smaller than the laminar
+smoke point fuel flow rates. Video images of
+opened-tip flames that are emitting soot, tests
+01E* and 03E*, appear in Urban et al. [27];
+however, they are qualitatively similar to the
+opened-tip flames illustrated in Fig. 2.
+Flame Lengths
+The luminous flame length of laminar jet diffusion flames is a widely reported property that is
+used to both characterize flame shapes and to
+summarize soot emission properties (as laminar
+smoke point flame lengths). The luminous
+flame lengths reported here are the streamwise
+distances between the burner exit and the farthest downstream plane normal to the flame
+axis that contacts a luminous region of the flame
+[either along the axis for closed-tip (non-sootemitting or nonsooting) flames or at the annular
+soot layer for opened-tip (nonsooting and sootemitting or sooting) flames]. It is well known
+that L{/d can be correlated as a linear function
+of the jet exit Reynolds numbers, Re, for buoyant laminar jet diffusion flames for a given fuel
+and ambient environment, however, each fuel
+has its own individual correlation curve [19-24].
+Thus, the performance of similar correlations
+will be considered for the present nonbuoyant
+laminar jet diffusion flames, based on the simple
+classical theory of Spalding [22] as discussed
+earlier, seeking a general correlation capable of
+treating various fuels, burner diameters, and
+ambient environments (pressures, temperatures, oxygen concentrations, etc.).
+Measured and predicted luminous flame
+lengths of the present nonbuoyant laminar jet
+diffusion flames are illustrated in Fig. 3. These
+results are presented as suggested by the modified Spalding [22] analysis, Eq. 4, with (L( L a )/d plotted as a function of ReSclZM. Measured luminous flame lengths are shown for all
+
+NONBUOYANT LAMINAR JET DIFFUSION FLAMES
+
+423
+
+Fig. 1. Video images of typical closed-tip luminous hydrocarbon/air laminar jet diffusion flames (Tests 02E, 03E, 16E, 17E,
+and 18P).
+
+Fig. 2. Video images of typical opcncd-tip luminous hydrocarbon/air laminar jet diffusion flames (Tests 05E. 06E, ORE IIP.
+and 12P).
+
+424
+
+K.-C. LIN ET AL.
+
+so
+.
+
+FUEL SYMBOL SOOTING
+C2H4
+• ,n
+(TYP.)\,
+
+40
+Sc = 0.76
+L,,/d = -3.2
+•O 30
+CORRELATION
+
+3
+
+NONSOOTING
+J20
+
+f'V
+
+'
+THEORY
+
+10
+
+100
+
+200
+
+300
+
+400
+
+500
+
+Re Sc / Zst
+
+Fig. 3. Measured and predicted luminous flame lengths o(
+nonbuoyant hydrocarbon/air laminar jet diffusion flames as
+a function of ReSclZ^, measurements from present spacebased experiments.
+
+the test conditions summarized in Table 1, with
+non-sooting and sooting flames denoted by
+closed and open symbols, respectively. The values of Zst used for the ethylene-fueled and
+propane-fueled flames are summarized in Table
+1; other properties were taken from Braun et al.
+[28]. Values of Sc were based on the properties
+of air at the mean temperature of the flames;
+these values do not vary significantly over the
+present test range so that a mean value of Sc =
+0.76 was adopted for all the predictions. The
+value of /n used to find the Re in Eq. 4 was also
+based on the properties of air at the mean flame
+temperature. A virtual origin at LJd = —3.2
+
+was selected so that the fit of present data
+passed through the origin of the plot. This type
+of initial flame displacement seems quite reasonable because the flames generally attached
+somewhat below the jet exit; see Figs. 1 and 2.
+Furthermore, this empirical displacement of the
+origin should hold for other flames at similar
+conditions. In addition, this displacement of the
+virtual origin, LJd = -3.2, is relatively small
+compared to the present normalized flame
+lengths (L/d in the range 9-39), which is typical
+of conventional use of virtual origins to extend
+large aspect ratio correlations to modest aspect
+ratio conditions. Finally, plots of Eq. 4 for the Cf
+= 1.00 (denoted theory) and a best-fit correlation for the present data for Cf = 1.13 (denoted
+correlation) are also shown on the figures for
+. comparison with present measurements. For
+convenience, values of the virtual origin and Cf
+for all the flame length correlations considered
+here are summarized in Table 2.
+The unprecedented steadiness of the present
+nonbuoyant laminar jet diffusion flames at microgravity minimized measurement uncertainties and yielded the remarkably unscattered
+correlation of luminous flame lengths illustrated
+in Fig. 3. The results for closed-tip and openedtip flames are illustrated but there is little to
+choose between the two because tip opening
+does not modify luminous flame lengths significantly. This is somewhat surprising because the
+end of luminosity in soot-emitting flames is
+caused by soot particles cooling below a level
+where they can be observed rather than by soot
+burnout which is the case for the other flames.
+Nevertheless, these different mechanisms for
+
+TABLE 2
+Summary of Flame Length Correlations
+Flame system
+Space-based, soot-containing
+and nonbuoyant
+KC-135, soot-containing and
+nonbuoyant
+1-g, soot-containing and
+buoyant
+Drop tower, soot-free and
+nonbuoyant
+
+Source
+Present study
+Sunderland et al. [14]"
+Urban et al. [26]
+Sunderland et al. [13]
+
+LJd
+
+Cf
+
+-3.2
+
+1.13
+
+0.4
+-1.0
+
+2.7
+
+0.80
+0.57
+0.56
+
+" Previously unpublished measurements obtained during the course of the cited study.
+''The slope of the flame length correlations in Figs. 3 and 4 can be found by multiplying the C, by 3/32, following Eq. 4.
+
+NONBUOYANT LAMINAR JET DIFFUSION FLAMES
+1UU
+
+CORRELATION OF
+•BLUE FLAME DATA^y
+80 . CORRELATION
+OF KC-135 DATA A
+CORRELATION /
+60 - OF SPACE
+'
+•o
+\DATA
+/ f
+
+X*
+
+.
+
+•
+'^^CORRELATION
+OF 1-g DATA
+
+J
+
+Jr
+
+/
+
+•
+
+40
+
+'
+.
+
+20
+
+BLUE FLAME DATA
+FUEL
+SYMBOL CH4
+•
+C2H6
+C3H8
+A
+
+/'"
+
+M*
+
+0 f
+
+i
+C1*
+
+i
+
+400
+
+i
+
+i
+
+1
+
+1
+
+800
+1200
+ReSc/Z s t
+
+i
+
+i
+
+1600
+
+i
+
+20
+
+Fig. 4. Luminous flame lengths of hydrocarbon/air laminar
+jet diffusion flames as a function of fle5c/Zsl; correlation of
+measurements of soot-free (blue) flames from Sunderland
+et al. [13], correlation of measurements of KC-135 flames
+obtained during the study reported by Sunderland et al. [14],
+measurements (symbols) and correlation of 1-g flames
+reported by Urban et al. [26] and correlation of measurements of the present space-based flames. Note that the
+various correlations are terminated at the upper end of their
+corresponding data range.
+
+ending flame luminosity do not have a large
+effect, with the luminous flame length correlations of the nonsooting and sooting flames being
+essentially the same; therefore, both sets of data
+are included in the present correlation according to Eq. 4.
+The present selections of mean transport
+properties in Eq. 4 yield results that are in
+surprisingly good agreement with the measurements. In particular, the best fit value of Cf is
+only 13% larger than unity. This behavior is
+somewhat fortuitous, however, because the luminous flame length corresponds to the end of
+the soot-containing region at near laminar
+smoke point conditions, which generally is
+downstream from the position of the stoichiometric flame sheet, as discussed earlier.
+Several additional experimental determinations of luminous flame lengths are plotted
+along with the present measurements in Fig. 4
+in order to gain insight about effects of unsteadiness, buoyancy, and soot luminosity on
+luminous flame lengths. In order.to provide a
+unified basis for comparison, all these results
+
+425
+
+are based on experiments with laminar jet diffusion flames in still air having burner exit and
+test chamber configurations similar to the
+present space-based experiments and are plotted according to the Spalding [22] analysis. The
+resulting best fit values of LJd and Cf for each
+of these sets of data are summarized in Table 2.
+All the measurements illustrated in Fig. 4 correlated quite nicely according to Eq. 4, and have
+relatively small virtual origins as summarized in
+Table 2. On the other hand, flame lengths differ
+considerably for the various test conditions with
+present space-based flames clearly longer than
+the rest: this behavior is quantified by the values
+of Cf summarized in Table 2. Reasons for this
+behavior are discussed next.
+The results closest to the present measurements in Fig. 4 are based on a correlation of
+earlier measurements of luminous flame lengths
+of nonbuoyant soot-containing flames for test
+conditions similar to the present measurements
+except carried out at low gravity using the
+KC-135 aircraft facility [14]. These low-gravity
+tests were completed to assist the development
+of the present space-based microgravity experiments so that burner properties were the same
+and laminar smoke point conditions were approached. Finally, available times at low gravity
+were relatively long, roughly 20 s, to minimize
+potential effects of unsteadiness. Thus, these
+test conditions provided reasonably close simulations of the present space-based microgravity
+experiments. Nevertheless, the best-fit correlations of the two sets of measurements indicate
+that the space-based flames are consistently
+longer, by roughly 40%, than the flames observed using the KC-135 facility. These differences are attributed to well-known effects of
+disturbances of the gravitational field when using aircraft facilities (g-jitter) with enhanced
+mixing due to these disturbances tending to
+reduce luminous flame lengths.
+The results next closest to the present measurements in Fig. 4 are based on a correlation of
+earlier measurements of luminous flame lengths
+of buoyant soot-containing flames for test conditions similar to the present experiments except carried out at normal gravity [26]. These
+tests were completed to assist development of
+the present space-based experiments so that
+burner properties were the same and laminar
+
+K.-C. LIN ET AL.
+
+426
+
+smoke point conditions were approached. Similar to other observations of buoyant soot-containing laminar jet diffusion flames [19], these
+flames provide the linear correlation between
+luminous flame lengths and fuel flow rates
+mentioned earlier. Nevertheless, the present
+space-based flames are roughly twice as long as
+the buoyant flames, due to the absence of
+enhanced mixing caused by convection effects
+resulting from buoyant motion.
+The last series of luminous flame lengths
+illustrated in Fig. 4 are due to Sunderland et al.
+[13] and yield a laminar flame length correlation
+very similar to the results for buoyant flames but
+for very different reasons. The luminous flame
+length measurements of Sunderland et al. [13]
+involved nonbuoyant soot-free (blue) methane-,
+ethane-, and propane-fueled round laminar jet
+diffusion flames burning in still air at microgravity using a 2.2 s drop tower facility. The burner
+properties were similar to the present spacebased experiments. As noted earlier, burner
+diameters, fuel flow rates and ambient pressures
+were manipulated in order to eliminate the
+presence of soot so that blue flames were observed whose location could be associated with
+the position of the stoichiometric flame sheet.
+These same tactics also reduced characteristic
+flame residence times to minimize effects of
+transient flame development. The luminous
+flame lengths of Sunderland et al. [13] exhibit
+somewhat greater scatter than the present
+space-based laminar flame lengths (see Fig. 3)
+when correlated according to Eq. 4; this behavior is probably due to ignition disturbances and
+flame development effects caused by the limited
+available test time at microgravity. Nevertheless, a reasonably good correlation between
+predictions and measurements is achieved.
+(Note that Sunderland et al. [13] also compare
+their luminous flame lengths to predictions
+from Burke and Schumann [2], Roper [21] and
+Klajn and Oppenheim [24].). The luminous
+flame lengths of the present space-based flames,
+however, are roughly twice as long as the nonbuoyant soot-free flames; this difference is felt
+to be mainly due to the different locations of the
+luminous flame length and the stoichiometric
+flame sheet as the laminar smoke point is
+approached, as discussed earlier. Notably, Sunderland and co-workers [15, 16] find similar
+
+differences between these two locations along
+the axis of their weakly-buoyant flames as the
+laminar smoke point is approached for similar
+fuels, which tends to support this conclusion.
+Flame Diameters
+The normalized maximum flame diameter,
+wMAXZst/d, is simply a constant value, 0.563,
+according to Eq. 3. This implies that maximum
+flame diameters for nonbuoyant laminar jet
+diffusion flames burning in still air are only
+functions of the jet exit diameter and the stoichiometry, and are remarkably independent of
+parameters associated with fuel flow rates and
+transport properties, such as Re and Sc. Another parameter of interest is the flame diameter at the mid-point of the flame, £ = 1/2. This
+parameter can be readily found from Eq. 5, as
+follows:
+wl/2ZJd = 0.557 at
+
+f = 1/2.
+
+(7)
+
+Thus, WMAX and w l / 2 are essentially the same,
+mainly because the streamwise locations of
+these positions are not very different. Thus,
+flame diameter results will be presented in the
+following as WMAX in order to avoid cluttering
+the plots.
+As noted earlier, the blue stoichiometric
+boundaries could not be identified for the
+present test flames due to the adjustment limitations of the color video camera. Thus, the
+maximum luminous flame diameter was found
+from the luminous boundaries of the sootcontaining region, similar to the present luminous flame lengths. Measurements of radial
+temperature distributions in the vicinity of the
+maximum flame diameter (see Urban et al. [27]
+for some typical examples) suggest that the
+stoichiometric flame sheet was just outside
+these boundaries.
+Measured and predicted normalized maximum flame diameters, wMAXZst/d, are plotted
+as a function of normalized luminous flame
+lengths in Fig. 5. Present measurements for
+both ethylene- and propane-fueled flames are
+shown. The predicted correlation of Eq. 3, along
+with the best-fit values of the measurements for
+the ethylene- and propane-fueled flames are
+also shown on the plot.
+
+NONBUOYANT LAMINAR JET DIFFUSION FLAMES
+U.B
+
+CORRELATION
+NONSOC
+( TYP.)
+FOR C3H8~\
+0.6
+
+\
+
+".
+_---
+
+•**
+.
+
+9
+•D
+
+•^0.4
+
+'
+
+/ /
+/
+
+. CORRELATION /
+FOR C2H4
+
+/
+
+l_ SOOTING
+(TYP.)
+
+THEORY—'
+0.2 •
+
+•
+^
+()
+
+FUEL SYMBOL Zst
+C2H4
+m,a
+0.064
+C3Hg
+•
+0.060
+,
+
+,
+10
+
+.
+
+,
+20
+
+,
+
+-
+
+-
+
+,
+
+40
+
+effective predictions of flame widths from Eq. 2,
+it becomes clear that the larger jet exit diameter
+is mainly responsible for the larger flame diameters, and smaller flame aspect ratios, for the
+luminous flame boundaries of Tests 05E, 06E,
+and 08E illustrated in Fig. 2 (see Table 1).
+Finally, the effectiveness of the predictions of
+Eq. 3 are somewhat startling because the results
+cannot be fitted to the measurements by appropriately selecting a condition to estimate mean
+transport properties in the same manner as the
+luminous flame length correlation.
+Flame Shapes
+
+1
+
+30
+
+427
+
+5
+
+(L f L 0 )/d
+Fig. 5. Measured and predicted luminous flame diameters
+of nonbuoyant hydrocarbon/air laminar jet diffusion flames;
+measurements from present space-based experiments.
+
+The experimental results illustrated in Fig. 5
+are in remarkably good agreement with the
+predictions. There is a slight tendency for WMAX
+to increase with increasing luminous flame
+lengths but present flames are relatively long,
+(L{ - L0)ld > 10, and maximum flame diameters are essentially independent of flame
+length, agreeing with the trend predicted by the
+theory. The measured normalized maximum
+luminous flame diameters are slightly scattered
+about the prediction, with the best fit values of
+0.518 and 0.647 for the ethylene- and propanefueled flames, respectively, compared with the
+theoretical prediction of 0.563. The locations of
+the normalized maximum flame diameters for
+closed-tip flames also correspond reasonably
+well to estimates from Eq. 3, i.e., they are
+observed at roughly the mid-point of the flame;
+see Test 03E illustrated in Fig. 1. The maximum
+flame diameters for the blunt-tipped and
+opened-tip flames are observed beyond the midpoint toward the tip of the flames, see the
+flames illustrated in Fig. 2. This may help explain why the average values of wMAXZst/d for
+the present propane-fueled flames is larger than
+the value of this parameter for the ethylenefueled flames, because most of the propanefueled flames have the opened-tip configuration; see Fig. 2. Thus, based on the rather
+
+Present predicted and measured luminous
+flame shapes are compared in the following as a
+final step in the evaluation of the effectiveness
+of Eq. 4 due to Spalding [22] for correlating
+luminous flame shape data. This comparison is
+illustrated in Fig. 6 for some typical closed-tip
+flames, with the radial position of the luminous
+flame boundary plotted directly as a function of
+streamwise distance. The predictions shown in
+the figure were computed as described in connection with Figs. 3-5, using the best fit values
+of Cf and LJd given in Table 2. The agreement
+between measurements and predictions is seen
+to be excellent for Tests 03E and 16E in spite of
+the complexity of the flame processes that define the location of the luminous flame boundaries and the simplicity of the Spalding [22]
+theory. The comparison between measurements
+and predictions is not quite as good for Test 18P
+in the region near the flame tip, however,
+because this is a relatively blunt closed-tip flame
+as discussed in connection with Fig. 5.
+Measured and predicted luminous flame
+boundaries for opened-tip ethylene- and propane-fueled flames are plotted in Figs. 7 and 8,
+respectively. It is evident that the flame length
+predictions remain reasonably good for these
+opened-tip flames but the shapes of the tips of
+the flames are not predicted very well. Such
+behavior is certainly not surprising because the
+theory does not consider processes of flame
+extinction along the axis and the formation of
+an annular soot layer. Nevertheless, the fortuitous qualitative agreement between measurements and predictions should still be helpful for
+estimating the flame-containing region of non-
+
+428
+
+K.-C. LIN ET AL.
+
+40ro3E,50kPa
+
+40 r
+
+16E,
+
+30
+
+65 kPa
+
+40 r-18P, 80 kPa
+
+30 -
+
+MEASURED
+LUMINOUS
+BOUNDARY
+(TYP.)
+
+30
+
+20
+
+"E
+10
+
+10
+
+I
+
+/\THEORY
+/
+(TYP.)
+
+-10
+
+-10
+
+0
+
+0
+
+10
+
+10
+r (mm)
+
+r (mm)
+
+buoyant laminar jet diffusion flames when imaging systems are designed for nonintrusive
+measurements of flame properties, if this finding proves to be robust for reasonable ranges of
+test conditions.
+Measured and predicted luminous flame
+shapes for the present nonbuoyant laminar jet
+40 f 05E. 65 kPa
+
+diffusion flames are plotted according to the
+normalized variables of Eq. 4 in Figs. 9 and 10
+for selected closed-tip and opened-tip flames,
+respectively. Predictions shown on these plots
+were obtained as described in connection with
+Figs. 3 and 5. As expected from the results
+discussed thus far, the agreement between mea40 r 08E, 50 kPa
+
+40 r 06E, 80 kPa
+
+30
+
+MEASURED
+LUMINOUS
+BOUNDARY
+(TYP.)
+30
+
+20
+
+20
+
+THEORY
+'(TYP.)
+30
+
+20
+
+E
+E
+
+E
+
+E
+
+10
+
+10
+
+10
+
+NOZZLE
+(TYP.)
+
+-10
+
+-10
+0
+
+10
+r (mm)
+
+Fig. 6. Measured and predicted
+luminous flame shapes for typical closed-tip nonbuoyant hydrocarbon/air laminar jet diffusion flames;
+measurements
+from present space-based experiments (Tests 03E, 16E, and
+18P).
+
+-10
+0
+
+10
+r (mm)
+
+0
+
+10
+r (mm)
+
+Fig. 1. Measured and predicted
+luminous flame shapes for typical opened-tip nonbuoyant
+ethylene/air laminar jet diffusion flames; measurements
+from present space-based experiments (Tests 05E, 06E, and
+08E).
+
+NONBUOYANT LAMINAR JET DIFFUSION FLAMES
+40
+
+40 r 12P, 100kPa
+
+40 r up, 65 kPa
+
+30
+
+20
+
+30
+
+20
+
+E
+E
+
+E
+E
+
+E
+
+10
+
+10
+
+10
+
+- 13P, 80kPa
+
+MEASURED
+LUMINOUS
+BOUNDARY
+(TYP.)
+3°
+
+20
+
+THEORY
+(TYP.)
+
+429
+
+NOZZLE
+"(TYP.)
+
+-10
+
+-10
+10
+
+0
+r (mm)
+
+-10
+10
+
+0
+
+surements and predictions is excellent for the
+closed-tip flames in Fig. 9, except for the blunttipped flames that are seen as the laminar
+smoke point fuel flow rate is approached. The
+opened-tip luminous flame shapes are not predicted as well, with significant discrepancies
+
+10
+
+0
+r (mm)
+
+r (mm)
+
+Fig. 8. Measured and predicted
+luminous flame shapes for typical opened-tip nonbuoyant
+propane/air laminar jet diffusion flames; measurements
+from present space-based experiments (Tests IIP, 12P, and
+13P).
+
+observed between measurements and predictions as the flame tip is approached. In addition,
+the tendency for opened-tip flames to be broadest near the flame tip, as opposed to the midpoint as indicated by theory, is evident. Nevertheless, the qualitative agreement between
+
+TEST SYM. TEST SYM.
+05E
+•
+10P
+06E
+•
+11P
+08E
+••
+12P
+09P
+<
+13P
+
+0
+
+Fig. 9. Measured and predicted normalized luminous flame
+shapes for closed-tip nonbuoyant hydrocarbon/air laminar
+jet diffusion flames; measurements from present spacebased experiments.
+
+0.2
+
+0.4
+
+0.6
+
+Fig. 10. Measured and predicted normalized luminous
+flame shapes for opened-tip nonbuoyant hydrocarbon/air
+laminar jet diffusion flames; measurements from present
+space-based experiments.
+
+430
+
+measurements and predictions, even for
+opened-tip flames, is quite good considering the
+simplicity of the model.
+CONCLUSIONS
+The luminous flame shapes of steady, nonbuoyant, round laminar jet diffusion flames were
+studied at microgravity during long-term tests
+carried out in an orbiting space shuttle. Test
+conditions involved ethylene- and propane-fueled flames burning in still air at ambient temperatures of 300 K, ambient pressures of 35-130
+kPa, initial jet diameters of 1.6 and 2.7 mm, and
+jet exit Reynolds numbers of 45-170 to yield
+luminous flame lengths of 15-63 mm. These
+test conditions involved soot-containing luminous flames near laminar smoke point conditions, and included both nonsooting and sooting
+flames. The new measurements were used to
+evaluate predictions of luminous flame shapes
+based on the simple classical theory of nonbuoyant laminar jet diffusion flames due to Spalding
+[22]. The major conclusions of the study are as
+follows:
+1. The present soot-containing luminous flames
+had larger luminous flame lengths than earlier ground-based observations: 40% larger
+than the luminous flame lengths of sootcontaining nonbuoyant flames observed using an aircraft (KC-135) facility due to reduced effects of gravitational disturbances
+(g-jitter), roughly twice as large as the luminous flame lengths of soot-containing buoyant flames at normal gravity due to the
+absence of effects of buoyant mixing, and
+roughly twice as large as the luminous flame
+lengths of soot-free nonbuoyant flames observed by Sunderland et al. [13] using drop
+tower facilities due to the presence of soot
+luminosity and possible reduced effects of
+unsteadiness.
+2. Similar to earlier observations of soot-containing nonbuoyant laminar jet diffusion
+flames [7-12, 14], present luminous flame
+shapes could be grouped into closed-tip and
+opened-tip configurations, which were observed for fuel flow rates smaller and larger
+than the laminar smoke point fuel flow rate,
+respectively. Blunt-tipped flames were also
+
+K.-C. LIN ET AL.
+observed as fuel flow rates approached the
+tip-opening condition.
+3. The simplified theoretical analysis of nonbuoyant laminar jet diffusion flames due to
+Spalding [22] yielded excellent correlations
+of the luminous flame shapes of closed-tip
+soot-containing and soot-free flames upon
+adjusting an empirical flame length parameter to account for the fact that flame luminosity ends at the location of soot consumption and at the location of the stoichiometric
+flame sheet along the axis of soot-containing
+and soot-free flames, respectively. Nevertheless, the slopes of the flame length correlations in Fig. 4 differed by roughly a factor of
+2 for nonbuoyant soot-free (blue) and sootcontaining (near the laminar smoke point
+limit) flames. This difference is consistent,
+however, with the ratios between luminous
+flame lengths and stoichiometric lengths for
+soot-containing flames reported previously
+[15-18].,
+4. Remarkably, the simplified theoretical analysis of nonbuoyant laminar jet diffusion
+flames due to Spalding [22] fortuitously still
+yields reasonably good predictions of luminous flame shapes for soot-containing nonbuoyant opened-tip flames as well as for
+conventional buoyant flames, after appropriate selections of empirical flame length parameters. Thus, taken together, the simple
+formulation of Eq. 4 exhibits encouraging
+potential to correlate the luminous flame
+boundaries of laminar jet diffusion flames
+that should be useful for designing imaging
+systems for nonintrusive measurements of
+flame properties.
+5. Based on the present correlations of luminous flame boundaries for nonbuoyant laminar jet diffusion flames, luminous flame
+lengths increase linearly with fuel flow rate
+but are relatively independent of jet exit
+diameter and pressure, while maximum luminous flame diameters increase linearly with
+jet exit diameter but are relatively independent of fuel flow rate and pressure. Both
+dimensions, however, are proportional to the
+stoichiometric mixture fraction, although this
+parameter was not varied sufficiently during
+the present experiments to test predictions of
+this trend.
+
+NONBUOYANT LAMINAR JET DIFFUSION FLAMES
+The correlation of Eq. 4 from Spalding [22]
+should be used with caution outside the present
+test range. Additional experiments are needed
+to evaluate this expression during long-term
+space-based tests at microgravity, emphasizing
+evaluation of effects of approach to the laminar
+smoke point and the relationship between the
+locations of the luminous flame boundaries due
+to the presence of soot and the location of the
+stoichiometric flame sheet.
+This research was supported by NASA grant
+nos. NAG3-1245 and NAG3-2048 under the overall technical management of Howard B. Ross of
+the NASA Lewis Research Center. The authors
+would l^ce to acknowledge the contributions ofR.
+Hager, A. Over, R. Chucksa, and their associates
+at NASA LeRC to the development and operation
+of the test apparatus; to G. T. Linteris, J. E. Voss,
+and R. Crouch of the NASA Johnson Space
+Center who carried out the assembly of the test
+apparatus and the execution of the experiments on
+orbit; and to Z. Dai of The University of Michigan
+who helped with the collection of the data.
+REFERENCES
+1. Bilger, R. W., Prog. Energy Combust. Sci. 1:87 (1976).
+2. Burke, S. P., and Schumann, T. E. W., Ind. Eng. Chem.
+20:998 (1928).
+3. Law, C. K., and Faeth, G. M., Prog. Energy Combust.
+Sci. 20:65 (1994).
+4. Cochran, T. H., and Masica, W. J., Thirteenth Symposium (International) on Combustion, The Combustion
+Institute, Pittsburgh, 1970, p. 821.
+5. Haggard, J. B., Jr., and Cochran, T. H., Combust. Sci
+Tech. 5:291 (1972).
+6. Edelman, R. B., Fortune, O. F., Weilerstein, G.,
+Cochran, T. H., and Haggard, J. B., Jr., Fourteenth
+Symposium (International) on Combustion, The Combustion Institute, Pittsburgh, 1972, p. 399.
+7. Edelman, R. B., and Bahadori, M. Y., Ada Astronautica 13:681 (1986).
+8. Bahadori, M. Y., Edelman, R. B., Stocker, D. P., and
+Olson, S. L., AlAA J. 28:236 (1990).
+
+431
+
+9. Bahadori, M. Y., Stocker, D. P., and Edelman, R. B.,
+AIAA Paper No. 90-0691, 1990.
+10. Bahadori, M. Y., Edelman, R. B., Sotos, R. G., and
+Stocker, D. P., AIAA Paper No. 91-0719, 1991.
+11. Bahadori, M. Y., Edelman, R. B., Stocker, D. P., Sotos,
+R. G., and Vaughan, D. F., AIAA Paper No. 92-0243,
+1992.
+12. Bahadori, M. Y., Stocker, D. P., Vaughan, D. F., Zhou,
+L., and Edelman, R. B., in Modem Developments in
+Energy, Combustion and Spectroscopy (F. A. Williams
+et al., eds.), Pergamon, New York, 1993, Chapt. 4.
+13. Sunderland, P. B., Mendelson, B. J., Yuan, Z.-G., and
+Urban, D. L., Combust. Flame 116:376-386 (1998).
+14. Sunderland, P. B., Mortazavi, S., Faeth, G. M., and
+Urban, D. L., Combust. Flame 96:97 (1994).
+15. Sundertand, P. B., Koylii, 0. O., and Faeth, G. M.,
+Combust. Flame 100:310 (1995).
+16. Sunderland, P. B., Ph.D. thesis, The University of
+Michigan, Ann Arbor, Michigan, 1995.
+17. Mitchell, R. E., Sarofim, A. F., and Clomburg, L. A.,
+Combust Flame 37:227 (1980).
+18. Saito, K., Williams, F. A., and Gordon, A. S., Combust.
+Sci. Tech. 47:117(1986).
+19. Schug, K. P., Manheimer-Timnat, Y., Yaccarino, P.,
+and Glassman, I., Combust. Sci. Tech. 22:235 (1980).
+20. Jost, W., Explosion and Combustion Processes in Cases,
+McGraw-Hill, New York, 1946.
+21. Roper, F. G., Combust. Flame 29:219 (1977).
+22. Spalding, D. B., Combustion and Mass Transfer, Pergamon, New York, 1979, p. 185.
+23. Kuo, K. K., Principles of Combustion, John Wiley &
+Sons, New York, 1986, p. 360.
+24. Klajn, M., and Oppenheim, A. K., Nineteenth Symposium (International) on Combustion, The Combustion
+Institute, Pittsburgh, 1982, p. 223.
+25. Li, S. C., Gordon, A. S., and Williams, F. A., Combust.
+Sci. Tech. 104:75 (1995).
+26. Ban, H., Venkatesh, S., and Saito, K., /. Heat Trans.
+116:954 (1994).
+27. Urban, D. L., Yuang, Z.-G., Sunderland, P. B., Linteris, G. T., Voss, J. E., Lin, K.-C, Dai, Z., Sun, K., and
+Faeth, G. M.,AIAA J. 36:1346 (1998).
+28. Braun, W. G., Danner, R. P., and Daubert, T. E.,
+Technical Data Book—Petroleum Refining, 3rd ed.,
+American Petroleum Institute, Washington, 1976,
+Chapters 11 and 13.
+
+Received 6 May 1998; revised 22 June 1998; accepted 25 June
+1998.
+

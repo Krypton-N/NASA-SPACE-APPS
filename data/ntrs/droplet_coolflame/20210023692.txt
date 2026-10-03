@@ -1,0 +1,464 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PowerPoint Presentation
+
+
+V. Nayagam1, D.L. Dietrich2, T. Krause3, R. E. Padilla3, M.C. Hicks2, U. Hegde1
+M. Colket3, and F. A. Williams4
+
+1Case Western Reserve University, Cleveland, OH 44106, USA
+2NASA Glenn Research Center, Cleveland, OH 44135, USA
+3Universities Space Research Association, NASA GRC, Cleveland, OH 44135, USA
+4University of California, San Diego, La Jolla, CA 92093, USA
+
+Two-Stage Autoignition of Isolated n-Dodecane Droplets in Varying Ambient 
+Oxygen Concentrations in Microgravity
+
+November 3rd-6th, 2021
+
+
+
+Understanding the mechanisms involved during 
+autoignition of liquid fuels is of importance in many 
+practical combustion devices, as well as in fire safety.
+
+Normal alkane fuel droplets undergo two-stage 
+ignition under certain conditions (Tanabe et. al), with 
+the first stage controlled by low-temperature 
+chemistry, while the second controlled by 
+intermediate and high temperature reactions.
+
+Our earlier study investigated droplet autoignition in 
+air at varying ambient pressures and temperatures 
+under normal gravity (Nayagam et. al 2020)
+
+This study explores the variations in autoignition 
+delay times for varying ambient oxygen levels for n-
+dodecane droplets in microgravity.
+
+Experimental conditions ( 3atm, 650 K) chosen to get 
+good separation between 1st and 2nd induction times
+
+Motivation and Background
+
+N-alkane oxidation
+chemical kinetic pathways
+
+Westbrook (2009)
+
+RH (fuel)
+
+R
+
+RO2
+
+QOOH
+
+O2QOOH
+
+KET
+
++ O2
+
++ O2
+
+Low-T branching
+
+alkenes + R’
+
+Intermediate-T
+
+
+
+• Combustion chamber rated up to 100 bar and 1000 K
+• Droplet view - high speed shadowgraph: 3000 fps
+• Flame view - color camera: 300 fps
+• Thermocouples
+
+Experiments
+
+Top view
+
+• Chamber is pressurized and preheated first
+• Droplet is dispensed in the bottom chamber and 
+
+inserted into the oven during free fall.
+
+
+
+Experimental Conditions and Results
+
+Fuel: N-dodecane, P= 3 atm, Toven = 650 K 
+
+Test # XO2 D0 (mm) τ1 (s) τt (s) τ2 (s) Vcf (mm/s)
+Z021 0.18 1.20 1.580 2.010 0.43 49
+Z022 0.14 1.26 1.620 2.230 0.61 38
+Z023 0.12 1.17 1.850 2.770 0.92 39
+Z025 0.11 1.19 1.480 2.480 1.00 28
+Z026 0.21 1.17 1.410 1.680 0.27 56
+Z027 0.14 1.23 1.520 2.210 0.69 40
+Z033 0.16 1.17 1.460 1.950 0.49 43
+Z034 0.10 1.26 1.590 3.180 1.59 18
+Z035 0.10 1.24 1.605 2.809 1.20 19
+Z054 0.12 1.19 1.720 2.570 0.85 35
+Z055 0.13 1.23 1.569 2.366 0.80 36
+Z056 0.15 1.27 1.750 2.350 0.60 41
+Z057 0.17 1.24 1.550 2.030 0.48 44
+Z058 0.19 1.38 1.720 2.100 0.38 53
+Z059 0.20 1.24 1.550 1.860 0.31 57
+
+τ1 – first induction time (time between droplet entrance to the oven to the first observation of a cool flame)
+τt– total induction time (entrance into oven to first observation of a hot flame)
+τ2 = τt –τ1 Second induction time
+Vcf – Initial cool flame speed (with respect to lab coordinates)
+
+0.10 ≤ XO2  ≤ 0.21
+
+
+
+Induction Times
+
+
+
+• Droplet autoignition involves evaporation of the fuel, 
+followed my mixing with ambient oxygen, and then 
+chemically controlled ignition
+
+τ𝑑𝑑 = τ𝑝𝑝𝑝𝑝𝑝+τ𝑐𝑐𝑝𝑐𝑐𝑐𝑐
+• Physical time remains essentially a constant for these 
+
+experiments, since pressure and temperature are fixed 
+and physical properties of O2 and N2 are very similar. 
+
+• Chemically controlled first induction time (e.g., in a PSR) 
+is not sensitive to equivalence ratio. Controlled by KET 
+decomposition reaction.
+
+• Therefore the first induction time for the droplet, τ𝑑𝑑𝑑
+remains essentially a fixed irrespective of the ambient 
+O2 mole fraction.
+
+• For comparison – case where TO varies with P at 3 atm 
+from our earlier results at 1g (Rose et al. 2021)
+
+Induction Times: First induction time for droplets
+
+N-dodecane, P= 3 atm, To = 650 K
+
+1g
+
+
+
+o Hot flame ignition takes place in the wake of the cool 
+flame, where preheated, and partially oxidized products 
+exist.
+
+o The 2nd droplet induction time, 𝜏𝜏𝑑𝑑2, depends entirely on 
+the kinetics (Schnaubelt, Mastorakos, etc.)
+
+o Fit shows: 𝜏𝜏𝑑𝑑2 ~ XO2
+-2.6
+
+o Also, the heat release during first induction decreases as 
+O2 decreases (Tcf is lower) and that leads a longer 2nd
+induction time. (depends on the equivalence ratio too!)
+
+Induction Times: Second induction time for droplets
+
+N-dodecane, P= 3 atm, To = 650 K
+
+1g
+
+o For comparison – case where TO varies with P at 3 atm from 
+our earlier results at 1g (Rose et al. 2021)
+
+o 2nd induction time depends both on XO2 and temperature
+
+
+
+Perfectly Stirred Reactor (PSR) Comparisons
+
+o The physical time and the chemical time effects can be 
+distinguished by comparing against PSR induction times with 
+detailed chemistry calculations for the corresponding 
+conditions
+
+o Since we don’t know the equivalence ratio of the mixture 
+surrounding the droplet, we vary it as a parameter for PSR 
+calculations
+
+o Agrees with the idea that cool flame ignition starts in 
+the fuel lean conditions
+
+
+
+Perfectly Stirred Reactor (PSR) Comparisons: Normalized to XO2 =0.21
+
+o When the physical effects are scaled out by normalizing 
+w.r.t 21% O2case, PSR calculations predict first induction 
+time well. 
+
+o The second induction time seems to show the effective 
+equivalence ratio changes with oxygen concentration
+
+
+
+Dynamics of Two-stage Ignition
+
+
+
+Cool-Flame Autoignition Dynamics
+
+Run:Z026 
+Fuel: N-dodecane, P= 3 atm, Toven = 650 K, Air(21% O2)4419
+
+4420 4421 4422 4423 4424 4425 4426
+
+4427
+
+4428 4430 4431 4432 4433 4434
+
+3593 3613 36533633 3673 3693
+
+3713 3733 3753 3793 3873 3953
+
+Initial flame acceleration toward the droplet, slight pause, then surrounds the droplet
+2D projection of a 3D process
+
+∆t = 6.7 ms
+
+
+
+Hot-Flame Autoignition Dynamics
+
+Run:Z026 
+Fuel: N-dodecane, P= 3 atm, Toven = 650 K, Air(21% O2)
+
+4419 4420 4421 4422 4423 4424 4425 4426
+
+4427 4428 4429 4430 4431 4432 4433 4434
+
+Much faster than cool flame
+
+∆t = 0.3 ms
+
+
+
+Cool Flame Ignition and Propagation
+
+• Interpretation of cool flame propagation in this spherical geometry is complicated
+• Cool flame initiation occurs at a narrow region on the flammable spherical surface surrounding the droplet and it 
+
+propagates both radially inward toward fuel rich conditions as well as along the flammable surface.
+• The shadowgraph is a 2D projection of this complex flame-front evolution and depends on the flame origin 
+
+location and the camera view angle
+
+Front propagation (lean to rich mixture)
+
+propagation 
+(along the curved flammable surface)
+
+time
+time
+
+fuel
+
+oxygen
+
+
+
+Cool Flame Ignition and Propagation
+
+• Fuel: N-dodecane, P= 3 atm, Toven = 650 K
+
+• Cool flame location is tracked as function of time from 
+inception until it reaches the droplet surface
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+-1.5
+
+-1
+
+-0.5
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+3
+
+1.8 1.9 2 2.1
+
+X f
+(m
+
+m
+)
+
+TIme (s)
+
+Location, Xf
+Intensity
+
+
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+0.05 0.1 0.15 0.2 0.25
+
+SL
+ (m
+
+m
+/s
+
+)
+
+XO2
+
+SL-Experiments
+
+SL - theory
+
+A Theoretical model with simplified 6-step mechanism
+yields an expression for CF spread velocity
+
+Cool Flame Propagation Speed*
+
+𝑆𝑆𝐿𝐿 =
+𝑇𝑇𝑓𝑓
+
+𝑇𝑇𝑎𝑎(𝑇𝑇𝑓𝑓 − 𝑇𝑇𝑢𝑢)
+ρ𝑓𝑓
+ρ𝑓𝑓
+
+2𝐿𝐿𝐾𝐾𝐷𝐷𝑓𝑓 𝐴𝐴 𝑐𝑐
+−(𝑇𝑇𝑎𝑎𝑇𝑇𝑓𝑓
+
+)
+
+V. Nayagam, F.A. Williams, D.L. Dietrich, Combustion Theory and Modelling (2021-accpted)
+
+N-dodecane, P= 3 atm, To = 650 K
+
+
+
+Concluding Remarks
+
+o N-dodecane droplet autoignition characteristics were experimentally investigated for 
+the first time in a microgravity environment. 
+
+o First and second induction times, as well as initial cool flame propagation speed were 
+obtained as a function of ambient oxygen concentration in an O2/N2 environment at 
+fixed pressure (3 atm) and temperature (650 k).
+
+o First induction time is insensitive to oxygen variations, while the second induction 
+time varies as XO2
+
+-2.6, for the range studied. 
+
+o Homogeneous mixture calculations can be used to correlate the first induction time, 
+but the second induction time depends on the effective equivalence ratio that seems 
+to vary with the ambient oxygen concentration.
+
+o A simplified theory seems to correlate the cool flame propagation speed, when the 
+cool flame temperature is specified (from homogeneous calculations)
+
+
+	Slide Number 1
+	Slide Number 2
+	Slide Number 3
+	Slide Number 4
+	Slide Number 5
+	Slide Number 6
+	Slide Number 7
+	Slide Number 8
+	Slide Number 9
+	Slide Number 10
+	Slide Number 11
+	Slide Number 12
+	Slide Number 13
+	Slide Number 14
+	Slide Number 15
+	Slide Number 16
+

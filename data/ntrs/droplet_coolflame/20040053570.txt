@@ -1,0 +1,283 @@
+Recent Advances in Science Support for Isolated Droplet Combustion
+Experiments
+F. L. Dryer, A. Kazakov, B.D. Urban and K. Kroenlein
+Mechanical and Aerospace Engineering, Princeton University, Princeton, NJ 08544-5263
+INTRODUCTION
+In a joint program involving Prof. F.A. Williams of the University of California, San Diego
+and Dr. V. Nayagam of the National Center for Microgravity Research, the combustion
+characteristics of isolated liquid fuel droplets of n-heptane, n-decane, methanol, methanol-water,
+ethanol and ethanol-water having initial diameters between about 1 mm and 6 mm continues to
+be investigated. The objectives of the work are to improve fundamental knowledge of droplet
+combustion dynamics for pure fuels and fuel-water mixtures through microgravity experiments
+and theoretical analyses. The Princeton contributions support the engineering design, data
+analysis, and data interpretation requirements for the study of initially single component,
+spherically symmetric, isolated droplet combustion studies through experiments and numerical
+modeling. UCSD contributions are described in a companion communication in this conference.
+The Princeton effort also addresses the analyses of Fiber Supported Droplet Combustion (FSDC)
+experiments conducted with the above fuels and collaborative work with others who are
+investigating droplet combustion in the presence of steady convection. A thorough interpretation
+of droplet burning behavior for n-heptane and n-decane over a relatively wide range of
+conditions also involves the influences of sooting on the combustion behavior, and this particular
+aspect on isolated burning of droplets is under consideration in a collaborative program
+underway with Drexel University (M.Y. Choi and collaborators). This collaboration is addressed
+in another communication at this conference.
+The one-dimensional, time-dependent, numerical modeling approach that we have continued
+to evolve for analyzing isolated, quiescent droplet combustion data has been further applied to
+investigate several facets of isolated droplet burning of simple alcohols, n-heptane, and n-decane.
+Some of the new results are described below.
+LIQUID DENSITY EFFECTS ON ETHANOL DROPLET COMBUSTION
+In a recent paper, we quantitatively evaluated the effects of thermal expansion and solution
+density variations on liquid drop diameter over the burning history of ethanol and ethanol water
+droplets [1]. We treated the liquid mass and thermal transport via “effective” empirical transport
+corrections (as we previously have done), and additionally considered a radial convective liquid
+flow velocity component in the governing equations to assess the importance of variations in the
+local liquid-phase density.
+We found that the effects of liquid phase density changes are primarily confined to the initial
+droplet heat-up period where an increase in droplet diameter due to thermal expansion results in
+large negative contributions to the observed rate of droplet diameter change. After the initial
+heat-up period is over, the contribution becomes much less important than that from the actual
+liquid gasification rate, becoming mildly competitive again near the condition of extinction. At
+extinction, the gasification rate ceases while an increase in liquid water content and subsequent
+cooling both result in droplet contraction. The observed difference in drop diameters between
+cases with and without consideration of liquid density changes is within about 6 %.
+
+NASA/CP—2003-212376/REV1
+
+149
+
+Since the effects associated with liquid density changes are confined to a very short initial
+period in the overall droplet gasification history, they can be essentially compensated for by
+shifting the gasification rate curve. In other words, when plotted against the “extent of burning”
+2
+coordinate, 1 − (d d 0 ) , the gasification rate curves match within about 2 % during most of the
+burning history. The integrated total water mass fraction histories in the liquid phase agree well
+within the uncertainty with which this parameter can be determined experimentally.
+
+The analyses show that the liquid phase density terms in the governing equations do not
+affect significantly the model results for ethanol droplet combustion. By ignoring these terms,
+the numerical stiffness of the computations can be significantly reduced. Once robust droplet
+burning is established, there is very little “memory” of the initial transient heat-up period (as
+long as the applied ignition energy does not overdrive the process) in the subsequent
+computational predictions. All microgravity droplet combustion experiments involve some
+asymmetry initially, due to ignition. However, these results support the assumption that
+experimental burning histories can still be compared with uni-dimensional model results by
+matching the parts of the curves subsequent to the initial heat up period. Nearly all investigators
+that have performed microgravity experiments in droptowers and on space platforms have
+employed this assumption. It should be stressed that results may be different for pure droplet
+vaporization, but certainly the terms in question can be neglected in the analysis of microgravity
+experiments in which relative gas phase and droplet velocities are small and one is interested in
+burning rate, flame structure and extinction in the robust phases of burning.
+TWO-STAGE IGNITION OF n-HEPTANE DROPLETS
+Several microgravity studies on the thermal ignition behavior of n-heptane droplets have
+appeared, one of the more recent being that of Schnaubelt et al.[2]. Data typically have been
+generated by exposing a droplet that was initially at room temperature to a high ambient
+temperature within a surrounding “oven”. Two-stage type ignition processes have been
+observed, with complex kinetics suggested as the principal source of the behavior. With the
+exception of the above work, numerical modeling of the experiments has not utilized reaction
+mechanisms that included low-temperature, intermediate-temperature, and high-temperature
+kinetics in significant detail. We used our numerical
+model with the kinetics of Peters et al. [3] to
+investigate the two-stage ignition character of an nheptane droplet immersed in a hot oxidizing
+environment.
+1.2
+
+600K
+650K
+700K
+750K
+800K
+850K
+900K
+950K
+
+2
+
+Regression Rate [mm /s]
+
+1
+
+Figure 1 depicts the calculated thermal ignition
+and gasification rate as functions of time for a 0.7mm
+n-heptane droplet instantaneously immersed in air
+with different far-field gas temperatures from 600950 K. At far-field temperatures higher than 950 K, a
+short period of droplet heating and gasification leads
+to flaming ignition and the establishment of a high
+temperature diffusion flame surrounding the droplet.
+The gasification rate of the droplet increases very
+rapidly due to heat conducted to the droplet surface.
+The vapor formed diffuses away from the surface into
+
+NASA/CP—2003-212376/REV1
+
+150
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+1.2
+
+1.4
+
+1.6
+
+Time [s]
+
+Figure 1 Thermal ignition and combustion of a 0.7 mm
+diameter n-heptane droplet in atmospheric pressure air
+at different far field (ambient) temperatures.
+
+the surrounding hot gases and begins to react with oxygen, producing localized heating of the
+mixture. The localized chemical heat release leads to the occurrence of a flaming ignition. Little
+local heat release is needed to drive the local region into explosively fast, chain branched (high
+temperature) kinetic behavior within the fuel vapor surrounding the droplet (where oxygen is
+also present). The exact region where this occurs is a complex function of temperature, local
+equivalence ratio and time. The region of ignition leads to propagation of reaction through the
+remaining stratified pre-mixed layer of fuel species and oxidizer and a sharp increase in
+gasification rate due to the accompanying rapid heat release. This transitions into the typical
+diffusive flame structure observed to be surrounding a burning droplet. Subsequently, a burning
+rate above 0.8 mm2/s is achieved. This burning rate is consistent with the combustion of the
+same size n-heptane droplet and far-field temperature, but established by the ignition processes
+used to emulate spark ignition (as in our previous calculations).
+For lower far-field ambient temperatures in air, the period of gasification prior to
+establishing a high temperature diffusion flame structure becomes longer. The droplet is
+consumed initially with a slower increase in gasification rate with time. As chemical heat release
+builds in the gas phase from the vaporized n-heptane diffusing into the surrounding hot oxidizer,
+the regression rate increases due to increases in the local gas temperatures nears the drop surface.
+This characteristic persists at ambient temperatures between 950 K down to ones approaching
+800 K. Note that the 800 K case shows an abrupt change in the gasification rate at about 0.35
+seconds, a short time span over which the gasification rate increases very little with time,
+followed by a period in which the gasification rate again increases rapidly to that found for
+established diffusive burning. This behavior occurs because the portion of the fuel-vapor/air
+mixture with conditions that lie in the intermediate and high temperature kinetic regimes at
+higher ambient far field temperatures now partially lie within a temperature range characteristic
+of negative temperature coefficient (NTC) behavior and the chemical heat release rate available
+to modify the temperature profile is reduced. Sufficient heat release eventually exists to drive the
+region to temperatures characteristic of the high temperature regime (explosively fast chemistry),
+and the remaining system is driven to flaming ignition and a diffusion flame structure the same
+as that achieved for initially higher far field temperatures.
+The same droplet in ambient air at temperatures from 800 K to approaching 600 K behave
+differently that those with either higher or lower far field temperature conditions. As the far field
+temperature drops, the characteristic period of the plateau region increases and the heat release
+that can occur is lessened to an extent that overall, none of the reacting environment can be
+driven into explosively fast chemical kinetic behavior before the droplet has been entirely
+consumed. As regions are driven to conditions within the parameter space characterized by NTC
+kinetic behavior, the destruction of n-heptane in those regions and heat release rate become very
+slow. Some the vaporized fuel in these regions is not consumed over the lifetime of the drop,
+even though it is mixed with oxidizer. Thus, although the droplet gasifies completely, a
+substantial fraction of the n-heptane vapor formed escapes to the ambient.
+Interestingly, when the far-field temperature is reduced below 650K to 600 K, the slowing
+of the gasification rate disappears, and the system is driven to explosively fast kinetic behavior
+and the same diffusive flame structure found for the high temperature far field conditions again.
+In these cases, large regions of the reaction layer surrounding the droplet are at conditions
+characteristic of low temperature oxidation kinetics, and the accompanying heat release is so
+
+NASA/CP—2003-212376/REV1
+
+151
+
+rapid and large that conditions are driven through those
+characterizing NTC behavior and to explosively fast
+kinetic behavior.
+
+1.2
+600K
+650K
+700K
+750K
+800K
+850K
+900K
+950K
+
+1
+
+2
+
+Regression Rate [mm /s]
+
+A similar parametric study is shown in Fig. 2 for a
+larger 1.4 mm diameter n-heptane droplet over the same
+range of initial conditions. The size of the droplet
+affects the period of droplet heating, its gasification rate
+during the initial phases of gasification, the thickness of
+the layer of fuel-vapor/oxidizer/intermediate reaction
+species surrounding the drop, and its volume relative to
+the mass of liquid. In addition the time scale of
+relevance (gasification time of the drop) also changes.
+As a result the coupling with low, NTC, intermediate,
+and high temperature reaction kinetics lead to a Figure 2 Thermal ignition and combustion of a 1.4
+n-heptane droplet in
+different ignition and burning behavior. Now, no mm diameter at different far fieldatmospheric
+(ambient)
+pressure air
+conditions are evidenced that eventually reach flaming temperatures.
+combustion conditions. However, it is clear from
+inspection of these curves that, between 700 and 800K, there remains a period over which some
+of the regions surrounding the droplet exhibit NTC kinetic behavior, slowing the rate of
+gasification by reducing the rate of gas phase chemical heat addition.
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Time [s]
+
+Further calculations are presently underway using a minimized mechanism [4] derived from
+the large detailed n-heptane oxidation mechanism published by Curran et al. [5].
+REFERENCES
+1. A. Kazakov, J.D. Conley and F.L. Dryer, "Detailed Modeling of an Isolated Ethanol Droplet
+Combustion under Microgravity Conditions", Combust. Flame, (2003). In Press
+
+2. S. Schnaubelt, O. Mariui, T. Coordes, C. Eigenbrod, and H.J. Rath, Proc. Comb. Ins., 28, 953
+(2000).
+3. N. Peters, G. Paczko, K. Seiser, and R. Seshadri, Combust Flame, 38, 159 (2002).
+4. J. Conley, A. Kazakov, and F.L. Dryer, “Experimental and Numerical Observations on nheptane oxidation: Mechanism Comparisons and Minimization”, presented at the Joint
+Spring Sectional Meeting of the Combustion Institute, Chicago, IL, March 2003.
+5. H. J. Curran, P. Gaffuri, W. J. Pitz, and C.K. Westbrook, Combust. Flame, 114, 149 (1998).
+ACKNOWLEDGEMENTS
+The authors to wish to thank Dr. Vedha Nayagam, project scientist, for helpful comments and
+suggestions. This work was supported by NASA under COOP Grant NCC3-735. We gratefully
+acknowledge discussions with Prof. F.A. Williams and ongoing collaborations with Drs. D.
+Dietrich and B. Shaw.
+
+NASA/CP—2003-212376/REV1
+
+152
+

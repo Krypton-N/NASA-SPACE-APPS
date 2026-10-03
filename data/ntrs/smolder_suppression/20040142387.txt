@@ -1,0 +1,432 @@
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+Fire Prevention, Detection, and Suppression
+
+863
+
+Research Plan for
+Fire Signatures and Detection
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Marriott Downtown at Key Center
+Cleveland, Ohio USA
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Detection, and Suppression
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+Fire Prevention,
+Sub-Element Products
+
+3. Advanced fire detection system for gaseous and
+particulate pre-fire and fire signatures
+
+864
+
+a.
+b.
+c.
+d.
+e.
+
+Quantification of pre-fire pyrolysis products in microgravity
+Suite of gas and particulate sensors
+Reduced gravity evaluation of candidate detector technologies
+Reduced gravity verification of advanced fire detection system
+Validated database of fire and pre-fire signatures in low and
+partial gravity
+
+4. Verified models of fire precursor transport in low and
+partial gravity
+a. Development of LES models for large-scale transport in reduced
+gravity
+b. Validated CFD simulations of transport of fire precursors
+c. Evaluation of the effect of scale on transport and reduced gravity
+fires
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+FPDS Organizing Questions
+
+Fire Signatures and Detection
+1. What is the background particulate and chemical species loading in
+a spacecraft and how does it vary with time?
+2. What are the appropriate pre-fire and fire signatures for fire
+detection in low and partial gravity?
+
+865
+
+3. Is there a normal gravity analog to quantify low and partial gravity
+fire signatures?
+4. What type or suite of sensors minimize the time to alarm and yet
+eliminate nuisance alarms?
+5. Where should fire detectors be placed to minimize the time for a
+detection system to alarm?
+6. How much warning time will the crew get with a particular fire
+detection system?
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+Signatures, Sensors,
+and Simulations
+
+• Quantification of fire and pre-fire signatures
+• Development and characterization of sensors
+
+866
+
+–
+–
+–
+–
+
+Electronic nose
+MEMS gas sensors
+Particulate sensors
+IR absorption spectrometer
+
+• Simulations tools to determine the transport of
+smoke, fire precursors, and contaminants
+– Where sensors should be located
+– Time to alarm
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+Quantification of Fire
+and Pre-Fire Signatures
+
+Effect of microgravity on size distribution of pre-fire and
+fire particulates
+Effect of microgravity on combustion products and
+concentrations
+
+867
+
+– Flames are often cooler and less radiant
+– Average size and range of soot particle sizes are greater
+– Combustion-product nature and quantities are altered
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+SMOKE
+
+Characterization of Smoke from Microgravity Fires for
+Improved Spacecraft Fire Detection
+PI: Urban, NASA-GRC; co-I: Mulholland, Cleary, and Yang, NIST; Yuan,
+NCMR
+
+868
+
+• Experiment to be conducted in the Microgravity Science
+Glovebox
+– quantify the size distribution of liquid smokes from silicon rubber,
+cotton, Teflon, and DBT
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+Quantification of Fire
+and Pre-Fire Signatures
+
+Background particulate loading
+
+869
+
+• Dust and Aerosol
+measurement Feasibility Test
+(DAFT)
+• Risk mitigation experiment for
+Smoke to evaluate the
+performance of the TSI P-Trak
+in microgravity
+– Commercially available
+condensation nuclei counter
+in microgravity
+– Manifested for Progress
+Flight 16P (Nov 2004)
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+DAFT Hardware
+
+P-Trak, Alcohol Wick (w/Container)
+and Batteries
+
+870
+
+DustTrak and Batteries
+
+Note: Engineering
+hardware shown without
+flight labels and Velcro.
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+Additional Benefits of DAFT
+
+• During DAFT experiment operations, measurements of
+the ISS cabin atmosphere will be taken with the P-Trak
+and DustTrak instruments
+•
+
+871
+
+•
+•
+•
+
+P-Trak measures particle counts per
+unit volume
+DustTrak measures particle mass
+concentration per unit volume
+Currently lacking air quality
+measurements aboard the ISS
+DAFT will operate in front of
+EXPRESS Rack 5 but can acquire
+samples at various locations within
+ISS as requested by ECLSS
+personnel
+DAFT-3 in front of EXPRESS Rack
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+Quantification of Fire
+and Pre-Fire Signatures
+
+Quantification of Fire Signatures for Practical
+Spacecraft Materials
+Dr. Randy Vander Wal, National Center for Microgravity Research
+
+872
+
+– measure the time history of various fire signatures of typical
+spacecraft materials in 1-g at varying heating rates,
+temperatures, convective velocities, and oxygen concentrations,
+– conduct tests in the Zero-Gravity Facility at NASA John H. Glenn
+Research Center to investigate the manner that a microgravity
+environment alters the fire signature,
+– compare 0-g and 1-g time histories and determine if 0-g data
+exhibits the same dependence on the test parameters as
+experienced in 1-g
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+Development and
+characterization of sensors
+
+Concurrent development of candidate technologies
+• Electronic nose
+– JPL: Advanced Environmental Monitoring and Control
+– KSC: 2002 NRA (HRI)
+
+873
+
+Advanced Fire Detection Using Machine Olfaction
+B. Linnell, ASRC Aerospace
+
+• MEMS gas and particulate sensors
+– GRC: Jointly funded with the Aviation Safety Program
+Development of a MEMS Spacecraft Fire Detector
+G. Hunter and P. Greenberg, GRC
+
+• IR absorption spectrometer
+– JPL: Space Physics
+– Southwest Sciences, Inc. (SBIR)
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+Development and
+characterization of sensors
+
+874
+
+• Evaluate prototype detectors as part of the fire
+signature quantification effort
+– Requires a secondary measurement capability and
+procedure
+– Normal-gravity and ground-based micro-g testing as
+appropriate
+• Evaluate suite of species and particulate sensors
+– Conceptually similar to testing on the NIST Fire
+Emulator/Detector Evaluator
+• Reduced gravity verification of advanced fire
+detection system
+– Hardware and software
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+Simulation of the Transport of
+Smoke and Fire Precursors
+
+02 NRA (Human Research Initiative)
+– Fire Suppression and Safety in Reduced Gravity
+PI: K. Kailasanath, NRL
+
+875
+
+– Engineering Tool for Fire System Safety Placement
+PI: R. Roby, Combustion Science and Engineering
+– Large-Scale Fire Dynamics in Spacecraft in Reduced Gravity
+PI: G. Linteris, NIST
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+FPDS Organizing Questions
+
+Fire Signatures and Detection
+1. What is the background particulate and chemical species loading in
+a spacecraft and how does it vary with time?
+2. What are the appropriate pre-fire and fire signatures for fire
+detection in low and partial gravity?
+
+876
+
+3. Is there a normal gravity analog to quantify low and partial gravity
+fire signatures?
+4. What type or suite of sensors minimize the time to alarm and yet
+eliminate nuisance alarms?
+5. Where should fire detectors be placed to minimize the time for a
+detection system to alarm?
+6. How much warning time will the crew get with a particular fire
+detection system?
+
+NASA/CP—2004-213205/VOL1
+
+Strategic Research to Enable NASA’s Exploration Missions
+June 22 - 23, 2004
+Cleveland, OH
+
+National Aeronautics and
+Space Administration
+John H. Glenn Research Center
+
+Questions
+
+• Are the questions relevant and posed correctly?
+• What should be added?
+– Expand Smoke experiment to other materials
+
+877
+
+• Further examine overheating electrical components and
+circuit boards
+• Evaluate other fire signatures (radiation, temperature, ...)
+• Are the research and technology development efforts
+appropriate?
+
+– End-to-end MEMS fire detector for evaluation of low-g
+fire signatures
+• Incorporate capability into MSG Smoke+ experiment
+
+• Are there technologies and/or research groups that
+should be included?
+

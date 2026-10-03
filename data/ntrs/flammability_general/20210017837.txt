@@ -1,0 +1,559 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PowerPoint Presentation
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021
+
+Determining the Cause of Reduced 
+Concurrent Flame Spread over Thin Solid 
+
+Fuels in Low Pressure and Low Gravity
+Maria Thomsena,b, Sonia Fereresc, Luca Carmignanib, Carlos Fernandez-
+
+Pellob, David Urband, Gary Ruffd
+
+aFaculty of Engineering and Sciences, Universidad Adolfo Ibáñez, Santiago, Chile
+
+bDepartment of Mechanical Engineering, University of California, Berkeley, CA
+
+cAbengoa, Sevilla, Spain
+
+cNASA Glenn Research Center, Cleveland, OH
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 2
+
+• NASA’s interest for future space exploration vehicles (low pressure, 
+
+increased oxygen, low velocity flows, micro-or reduced gravity)
+
+• Testing in real fire scenarios is not always feasible so numerical 
+
+simulations provide useful information to guide experimental 
+
+research
+
+Introduction|
+
+How do normoxic environments affect spread rate?
+
+Motivation
+
+• Based on previous analysis we hypothesize that transport 
+
+processes are dominant in determining the upward spread rates.
+
+𝑂2/𝑁2
+
+𝐹𝑙𝑎𝑚𝑒
+𝑠𝑝𝑟𝑒𝑎𝑑
+
+𝑈∞
+
+ሶ𝑞𝑓,𝑟
+′′
+
+ሶ𝑞𝑠,𝑟
+′′
+
+𝐺𝑟𝑎𝑣𝑖𝑡𝑦
+
+ℎ𝑒𝑎𝑡𝑖𝑛𝑔
+𝑙𝑒𝑛𝑔𝑡ℎ
+
+𝑃𝑦𝑟𝑜𝑙𝑦𝑠𝑖𝑠
+𝑙𝑒𝑛𝑔𝑡ℎ
+
+ሶ𝑞𝑓,𝑐
+′′
+
+Low 
+P
+
+𝑃𝑦𝑟𝑜𝑙𝑦𝑠𝑖𝑠
+𝑓𝑟𝑜𝑛𝑡
+
+𝐹𝑙𝑎𝑚𝑒 𝑏𝑢𝑟𝑛𝑜𝑢𝑡
+
+𝐹𝑙𝑎𝑚𝑒 𝑡𝑖𝑝
+
+𝑇ℎ𝑖𝑛 𝑠𝑜𝑙𝑖𝑑
+𝑠𝑎𝑚𝑝𝑙𝑒
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 3
+
+Cotton fabric
+
+Fabric characteristics:
+
+• Cellulosic structure 
+
+• Thin solid: 0.6 mm thick
+
+• Linear braided weave pattern
+
+• Area density: 21.8 mg/cm2
+
+• Wrinkles and tears when burning
+
+• Used as part of astronaut clothing
+
+ExperimentsIntroduction|
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 4
+
+Cotton fabric experiments
+
+ExperimentsIntroduction|
+
+Tested cotton samples 150 mm long, 0.6 mm thick 
+
+to determine spread rate:
+
+• Concurrent/upward configuration
+
+– Constant forced flow 20 cm/s
+
+– Variable ambient pressure
+
+– Variable oxygen concentration
+
+• Igniter wire sewn in samples
+
+• Visual camera recording
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 5
+
+Experiments
+
+(a) 100 kPa (b) 70 kPa (c) 50 kPa (d) 30 kPa
+
+Pyrolysis 
+
+front
+
+Igniter
+
+Flame spread rates are determined by tracking 
+
+the leading edge of the pyrolysis front 
+
+position over time
+
+Flame 
+Spread 
+
+direction
+
+flame spread rate is reduced at 
+
+lower ambient pressures in a 
+
+forced flow of 20 cm/s
+
+A
+v
+
+e
+ra
+
+g
+e
+ f
+
+la
+m
+
+e
+ s
+
+p
+re
+
+a
+d
+
+ r
+a
+te
+
+ (
+m
+
+m
+/s
+
+)
+
+Pressure (kPa)
+
+1g -Experiments
+
+Introduction|
+
+air
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 6
+
+Experiments
+
+Air vs. Normoxic Environments
+
+Air
+
+Normoxic (↑O2)
+O2 Partial 
+Pressure 
+
+(kPa)
+
+Ambient 
+Pressure 
+
+(kPa)
+
+O2
+Concentration 
+
+(% vol.)
+
+21 100 21
+
+21 90 23
+
+21 80 26
+
+21 70 30
+
+21 60 35
+
+Normoxic condition:
+Environment that uses a combination of ambient pressure 
+and O2 concentration that results in a partial pressure of 
+O2 equal to that of standard atmosphere at sea level
+
+Introduction|
+
+Spread rate increases under normoxic
+
+conditions, even if total pressure is reduced
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 7
+
+• Simulate upward flame spread using FDS
+
+• Study the combined effect on the upward spread and burning of a cotton 
+
+fabric of 
+
+• Reduced ambient pressure 
+
+• Increased oxygen concentration
+
+• Compare model results with the experimental data
+
+• Extrapolate if possible to reduced gravity levels
+
+Objectives
+
+Introduction|
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 8
+
+Fire Dynamic Simulator (FDS)
+
+Fire Dynamics Simulator (FDS) version 6.7.0, code developed by NIST, is used to 
+
+model flame spread :
+
+• The model can be run in LES and DNS mode to solve the hydrodynamic model
+
+• Gas phase:
+
+o Mixing-controlled chemical reactions
+
+o Finite rate reactions using an Arrhenius model
+
+• Solid phase decomposition:
+
+o one-step global Arrhenius reaction rate 𝑟𝑠 = 𝐴𝑠
+𝜌𝑠,𝑖
+𝜌𝑠 0
+
+𝑁𝑠
+
+exp −
+𝐸𝑎𝑠
+𝑅𝑇𝑠
+
+𝑑𝐹𝑢𝑒𝑙
+
+𝑑𝑡
+= 𝐴𝑔 𝐹𝑢𝑒𝑙
+
+𝑁𝐹 𝑂2
+𝑁𝑂2 𝑒𝑥𝑝 −
+
+𝐸𝑎𝑔
+𝑅𝑇
+
+Numerical model|
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 9
+
+Domain and boundary conditions
+
+Obstacle 0.3 mm by 1 mm 
+
+Constant temperature: 2500°C
+
+Induces a flow velocity of 
+
+0.2 m/s 
+
+𝑡𝑖𝑔𝑛𝑖𝑡𝑖𝑜𝑛 = 3 − 10 𝑠
+
+• Computational domain simulates half of the 
+
+experimental duct (symmetric)
+
+• 2D Domain is 100 mm x 60 mm
+
+• Grid size x=0.4 mm
+
+z= 0.4 mm
+
+• Cotton half thickness: 0.3 mm
+
+• Burning on one side
+
+Numerical model|
+
+z
+
+x
+
+Igniter
+
+Cotton 
+sample
+
+100 mm
+
+60 mm
+
+Inlet ‘VENT’
+
+‘OPEN’ Outlet 
+
+‘INERT’ 
+solid wall
+
+Gravity
+
+Flame 
+Spread 
+
+direction
+
+Backing
+‘INSULATED’
+
+FDS 
+device
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 10
+
+Results|
+
+Flame spread rate as a function of pressure
+
+Spread rates are obtained by tracking the evolution of the pyrolysis front over time.
+
+Pyrolysis front 𝑇𝑝 = 350°𝐶
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 11
+
+Results|
+
+Heat Flux as a function of pressure and gravity
+
+• FDS shows upward flame spread is 
+
+mainly controlled by convective 
+
+heating of the surface
+
+• In all cases, the convective heat flux 
+
+is an order of magnitude above the 
+
+radiative heat flux. 
+
+• As the pressure/g is reduced the 
+
+convective heat flux to the solid 
+
+surface is also reduced+ radiative 
+
+heat transfer effects increasingly 
+
+important
+
+Pressure
+
+Gravity
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 12
+
+Results|
+
+Flame spread rate as a function of pressure and gravity
+
+air
+air
+
+* Saffire II experiments correspond to Sibal (cotton-fiberglass composite)
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 13
+
+Results|
+
+Variations with oxygen concentration
+• Constant total ambient pressure (70 kPa): oxygen concentration is increased from 21% to 30%, flame spread 
+
+increases in both experiments & FDS
+• However, FDS increase is significantly lower than expected
+
+Increased O2 Increased O2
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 14
+
+Results|
+
+Flame spread rate in normoxic conditions
+• FDS doesn’t capture the results in the normoxic
+
+conditions: variations in the oxygen concentration are 
+not affecting the spread rate as expected
+
+• Variations in oxygen increase the flame temperatures, 
+but lower influence than measured
+
+• Further work needs to be done to understand how 
+oxygen concentration affects the pyrolysis of the 
+material 
+• Tested with artificially high HComb → strange 
+
+physics 
+• Tested smaller grid  → prohibitive simulation time
+
+Experiments 
+& model 
+discrepancy
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 15
+
+Summary|
+
+• 2-D computer model of concurrent flame spread on cotton using FDS 6.7 is presented.
+
+• The chemistry model and parameters used (mixing controlled vs. finite rate) plays a significant 
+role in the spread rate results, leading to blow-off extinction if the appropriate parameters are 
+not selected
+
+• Numerical simulations verify that concurrent spread is mainly controlled by convective heat 
+transfer. Nevertheless, as pressure or gravity are reduced radiative processes become more 
+important when compared to convective effects.
+
+• Increasing the oxygen concentration increases spread rates, but model underpredicts 
+normoxic experimental results.
+
+• Burning of solid fuels is a very complex and difficult process to predict. Further work needs to 
+be done
+
+
+
+50th International Conference on Environmental Systems (ICES)- 11-15 July 2021 16
+
+Acknowledgements|
+
+The research done at the University of California Berkeley was supported by 
+
+NASA Grant NNX12AN67A. 
+
+Thank you!
+
+

@@ -1,0 +1,1201 @@
+EFFECTS
+
+OF
+
+FUEL
+
+MICROGRAVITY
+
+Bogdan
+
+PREHEAT
+
+ON
+
+LAMINAR
+
+SOOT
+
+FORMATION
+
+DIFFUSION
+
+FLAMES
+
+IN
+1
+
+Konsur,
+CONSTANTINE
+M. MEGARIDIS
+Department
+of Mechanical
+Engineering
+University
+of Illinois at Chicago
+Chicago, Illinois
+and
+DeVon W. Griffin
+Microgravity Combustion Branch
+NASA
+Lewis Research Center
+Cleveland,Ohio
+
+Introduction
+Nonbuoyant
+flames offer themselves as an attractive
+and promising platform to gain a better understanding
+of soot
+mechanisms
+[1]. The effects of buoyancy
+can be eliminated
+temporarily
+in drop towers which sustain brief intervals
+of reduced gravity
+-typically
+lower than 10-3g - extending
+up to several seconds at a time.
+Microgravity
+facilities
+have been employed
+[2, 3] to show that nonbuoyant
+flames are longer, wider and sootier than their normal-gravity
+counterparts.
+Sunderland
+et al. [4] recently verified the existence
+of smoke point in laminar nonbuoyant
+flames.
+As reported
+in [3] and [4], microgravity
+flames operating above their smoke point displayed a blunt tip and much broader sootcontaining regimes in comparison
+to their buoyant counterparts.
+Mortazavi et al. [5] established
+that residence times
+in microgravity
+laminar jet diffusion flames with Re=O(100)
+tend to be proportional
+to burner diameter and inversely
+proportional
+to burner exit velocity.
+This offers the capability
+to alter residence times in nonbuoyant
+laminar jet
+diffusion flames when varying the burner exit diameters and velocities [1].
+Megaridis et al. [6] presented a quantitative
+definition
+of the soot-field
+structure
+within laminar
+microgravity
+jet
+diffusion flames which operated
+well above their smoke point. The experimental
+methodology
+involved a full-field
+laser-light extinction
+technique
+[7] and jet diffusion flames of nitrogen-diluted
+(50% vol.) acetylene
+fuel burning in
+quiescent air at atmospheric
+pressure. The work was conducted at the 2.2s drop tower of the NASA Lewis Research
+Center (NASA-LeRC).
+Parallel work on 1-g flames was also presented in [6] to facilitate
+comparisons
+on the effect
+of gravity on the soot fields.
+As reported in [6], the soot spatial distributions
+in 0-g flames did not change in a
+detectable manner after ls within a typical 2.2s experiment.
+During that period, the soot field was shown to sustain a
+pronounced
+annular
+structure throughout
+the luminous nonbuoyant-flame
+zone. The maximum
+soot volume fraction
+measured at 0-g was nearly
+of nonbuoyant
+flames [1].
+
+a factor of two higher
+
+Greenberg and Ku [8] presented a similar
+nitrogen-diluted
+acetylene
+fuel. Furthermore,
+
+than that
+
+at l-g,
+
+thus
+
+confirming
+
+the enhanced
+
+sooting
+
+tendency
+
+study and reported trends that matched
+those of [6] for the 50% (vol.)
+they examined
+pure acetylene flames and reported similar trends with
+
+respect to the influence of gravity on maximum
+soot volume fractions and flame cross-section-averaged
+soot loadings.
+Both studies [6, 8] clearly demonstrated
+the improved spatial resolution
+of microgravity
+flames compared to their
+normal-gravity
+counterparts.
+The current study evaluates
+the influence of moderate fuel preheat on soot formation
+within 0-g laminar
+gas jet
+diffusion flames. While fuel temperature
+variations have little influence on residence times in l-g, they have a much
+more significant effect in 0-g [1]. The primary objective of this program is to quantify this effect and its consequences
+on sooting by comparing
+soot volume fraction distributions
+under preheated and unpreheated-fuel
+conditions.
+Furthermore,
+the current work aims at expanding
+the limited soot database available for nonbuoyant
+flames. Soot fields
+in such flames can be used to perform additional tests of recently developed soot sub-models
+which have the potential
+to become powerful predicting
+tools in combustion
+design.
+Experimental Setup and Conditions
+The laminar gas jetdiffusion
+flames studied herein were operated at atmospheric pressureand were based on a
+1 Work funded under NASA Grant NGT3-52300
+
+229
+
+1.6mm
+
+inner
+
+diameter
+
+stainless-steel
+
+burner
+
+which was positioned
+
+vertically
+
+in the experimental
+
+mixture consisted
+of 50% (volume)
+C_H2 - 50% N2 and was issued into quiescent
+chamber with dimensions
+30cm x 21cm x 43em. The base fuel flow rate of 2.2 mg/s
+
+apparatus.
+
+The fuel
+
+air contained
+in a rectangular
+was selected because it defined
+
+flame sizes which provided
+adequate resolution
+of the soot fields both in 1-g and 0-g [6]; the flame luminosity
+lengths
+were between
+25ram and 30ram. The mass flow rate of 2.2 mg/s corresponds
+to a volume flow rate of 2 cma/s at
+room temperature.
+A second set of experiments
+was conducted at a lower fuel flow rate of 1.6 mg/s. Two fuel preheat
+levels were studied for the base mass flow rate of 2.2 rag/s; 1200C and 1600C. These preheat levels correspond
+to
+an increase in adiabatic
+flame temperature
+by 7K and 10K, respectively,
+compared
+to the unpreheated-fuel
+case.
+Therefore,
+the effect of the current fuel preheat levels on fuel pyrolysis rates - and thus on soot inception
+rates should be negligible.
+Table I lists four burner exit conditions
+for the flames studied in this work. Two conditions
+(I
+and II) involved unpreheated
+fuel, while the other two (III and IV) featured fuel preheat temperatures
+of 1200C and
+1000C, respectively.
+All burner exit flow conditions
+listed in Table I produced
+non-flickering
+flames in normal gravity
+as well as within the short time period available for measurements
+in the drop tower. All 1-g flames corresponding
+to the conditions listed in Table I emitted no soot from their closed conical tip, while their nonbuoyant
+counterparts
+released soot from their open tip. The smoke point of the diluted unpreheated
+acetylene
+fuel at 0-g was determined
+to be in the range from 0.77 - 1.1 mg/s (0.7 to 1 cma/s at room temperature).
+The experimental
+rig is the same one used in [6]. Each microgravity
+experiment
+lasts for 2.2 seconds, during which
+data are collected
+continuously.
+Diagnostic
+instrumentation
+includes laser-light
+extinction
+for determination
+of soot
+volume fraction distributions
+and direct imaging of the flame. The flame luminosity
+throughout
+each drop test is
+recorded and can be subsequently
+analyzed
+to determine luminous flame dimensions.
+Experiments
+are fully automated
+and are controlled
+via an onboard computer.
+Fuel preheat is achieved
+by thermocouple
+sensors,
+temperature
+controllers and heating tapes wrapped around the fuel feed lines. The rig design allows operation
+in either unpreheated
+or preheated mode by activating
+appropriate
+elements of the experimental
+setup.
+Soot volume fraction distributions
+within the flames were determined
+via a full-field laser-light extinction
+technique [7]. The instrumentation
+for these
+measurements
+has been described in detail in [6]. From each horizontal
+intensity profile (Z = constant),
+the radial
+distribution
+of soot volume fraction is determined using a three-point
+Abel deconvolution
+algorithm
+[9], and Rayleigh
+scattering
+
+theory
+
+Results and
+Detailed
+
+with
+
+Discussion
+observations
+
+a specific
+
+value of the refractive
+
+of luminous
+
+zone
+
+development
+
+index
+
+of soot
+
+after
+
+(1.57 - 0.56i).
+
+ignition
+
+in 0-g showed
+
+the
+
+initial
+
+transients
+
+to be
+
+complete
+before the half-way temporal
+point of a drop experiment
+(_ls).
+Figures la, b, c present
+the luminous
+images of Flames II, III and IV, respectively,
+as captured from the side after the brief initial transients
+in 0-g. The
+soot-emitting
+character
+of all 0-g flames examined
+in this work made the determination
+of a visible height impossible;
+notice the gradual darkening of flame tip with height in Fig. 1. The vertical scale in Fig. la corresponds
+to a length
+of 25ram. It is clear that fuel preheat has a .visible effect on the structure of the soot field; see differences
+of shapes
+in Fig. 1. More specifically,
+the base and the tip of Flames III and IV (Fig. lb, c; preheated
+fuel) are considerably
+narrower than those of Flame II (base flame seen in Fig. la; unpreheated
+fuel).
+Soot fields in 0-g laminar jet diffusion flames anchored on the same burner (1.6mm diameter, Reynolds of the order
+of 100) were analyzed in [6] as a function of time to evaluate their transient post-ignition
+character.
+Figure 2 displays
+two instantaneous
+shadow-like
+images of the soot field as viewed by the CCD camera of the extinction
+setup during
+a drop experiment
+at 0.Ss and 1.2s after the release of the package.
+Fuel ignition occurred 0.3s after the onset of
+microgravity.
+The flame conditions
+corresponding
+to these images are those of Case II in Table I. The burner mouth
+is located directly below the middle of the bottom edge of each image seen in Fig. 2. The apparent differences of the
+soot shadow at the upper half of the images of Fig. 2 confirm the changing character of the soot field after ignition in
+0-g (0.3s). As reported in [6], the establishment
+of the soot field in these flames is completed
+within one second after
+the onset of microgravity.
+This was also verified in the current study for all flame conditions
+listed in Table I.
+A series of images similar to those depicted in Fig. 2 were utilized to produce radial distributions
+of soot volume
+fraction (fv) at distinct axial stations above the burner tip of each flame. The specific heights examined
+in this work
+are Z -10mm,
+15mm, 20ram and 25ram. The spatial soot distribution
+at each height Z was obtained by averaging
+the respective distributions
+acquired in two to three drop experiments
+which were conducted
+using identical operating
+conditions.
+Figure 3 displays the radial variations of f_ throughout
+the four microgravity
+flames (I to IV; see Table I).
+Each frame in this figure corresponds
+to a fixed height Z (10ram, 15mm, 20ram and 25ram). Figure 3 shows clearly
+- as also reported in [6] - that the soot distributions
+maintain a noticeable
+annular
+structure throughout
+the entire
+luminous flame zone. Even though the soot volume fraction is always higher on the annulus,
+the soot concentrations
+in the vicinity of the flame axis become significantly
+higher when the fuel is preheated
+(compare curves II and III or
+IV at Z-25mm,
+for example).
+
+230
+
+The radial distributions
+in Fig. 3 also show that the lower exit momentum
+of the fuel jet in Flame I causes a
+widening of the soot field compared to the rest of the flames. This trend is maintained
+at all heights and emphasizes
+the importance
+of jet momentum
+in flame structure
+in 0-g. As the fuel exit velocity increases from Flame I to IV,
+the soot annulus
+moves closer to the flame axis. It is also seen in Fig. 3 that the radial location of the soot annulus
+is nearly the same for the two flames with preheated fuel (III and IV).
+Figure 4 compares the streamwise
+variation of (a) maximum and (b) on-axis soot volume fraction at each height
+Z for all 0-g flames. As the radial distributions
+in Fig. 3 indicate, the maximum
+values of fr at a fixed height always
+correspond
+to the soot annulus
+in the 0-g flames examined
+in this work.
+Figure 4a also includes the values of f_
+on the soot annulus
+of a flame identical to Flame II as reported in Ref. [6], and shows good repeatability
+of the
+measurements.
+Figure 4a shows that the overall maximum
+value of f_ is ,,,14ppm and is achieved near Z--20mm
+of
+Flame II (unpreheated
+fuel).
+In all preheated-fuel
+flames the soot volume fractions peak at Z:15mm
+and decline
+thereafter.
+Some important
+conclusions
+can be inferred from the curves of Fig. 4 when taking into account residence
+time considerations.
+Estimates
+of flow residence
+times were produced for the base case flame (II) using the soot
+cloud as a flow tracer during a typical drop experiment,
+and taking advantage
+of the transient
+character
+of the
+extinction
+field after ignition in 0-g (see Fig. 2). The flow residence time through the luminous zone of Flame II was
+approximately
+0.3s. A similar procedure for the lower flow rate (1.6mg/s)
+produced a residence time of about 0.4s in
+Flame I. These residence times scale approximately
+with inverse flow rate, in agreement
+with the analysis of Mortazavi
+et al. [5]. The above simplified measurements
+also confirm that in 0-g laminar jet diffusion flames with Re-O(100)
+residence times are inversely proportional
+to burner exit velocity for a fixed burner size [5]. The fuel exit velocities
+listed in Table I agree with the estimate
+that Flame I features a residence time that is by ,,,33% longer compared to
+Flame II. The gradually increasing fuel exit velocities from Flame II to IV (see Table I) cause reductions
+in residence
+times by 25% and ,_32% in Flames III and IV, with respect to Flame II. It is established
+that longer residence times
+have a soot enhancing effect, while lower fuel flow rates have a comparative
+soot-inhibiting
+influence.
+The values of
+maximum
+f_ shown in Fig. 4a for Flames I and III or IV are very similar near the upper end of these flames. It
+appears that the soot-reducing
+effect of the lower flow rate of Flame I is neutralized
+by the soot-enhancing
+influence
+of the longer residence time in this flame compared to Flames III or IV. Thus, the two competing
+effects result in
+ultimate values of fr I,naz that are nearly identical in Flames I, III and IV. On the other hand, the combined effect
+of these two factors in Flame II results in soot volume fractions that are consistently
+higher than those in all other
+flames (see Fig. 4a). An exception
+to this trend is seen at Z --10mm, where the preheated-fuel
+flames display slightly
+higher soot concentrations.
+Finally, the soot volume fractions along the flame axes, as plotted in Fig. 4b, clearly
+show that soot concentrations
+in the core of the flame are promoted by fuel preheat.
+The significant
+scatter of the
+data plotted in Fig. 4b is attributed
+to the increased error in the tomographic
+inversion procedure towards the flame
+centeriine [9]. However, the overall trends shown in this figure are believed to be accurate.
+The strong soot-enhancing
+influence of fuel preheat on the flame centerline cannot be attributed
+to increased fuel pyrolysis rates, as the current
+fuel preheat levels correspond
+to an increase in adiabatic
+flame temperature
+of less than 10K. Neither this trend
+can be attributed
+to a residence
+time effect, because Flames III and IV feature shorter residence
+times compared
+to Flame II. Consequently,
+the higher soot volume fractions at the centerline of the preheated
+flames are probably
+caused by more efficient particle transport from the soot annulus to the axis of these flames. It is acknowledged
+that
+in Flames III and IV the soot particles need to traverse shorter distances to approach the centerline
+(Fig. 3), but they
+have less time available to achieve this because of the reduced residence times in these flames.
+The soot transport
+characteristics
+in a gaseous medium depend on local gas velocities and temperatures,
+temperature
+gradients along the
+cross-stream
+coordinate
+which, in turn, affect thermophoretic
+forces towards the cooler inner regions of the flame [10],
+air entrainment
+rates, or a combination
+of all or some of the above. Unfortunately,
+neither velocity nor temperature
+measurements
+are available
+in the 0-g flames examined
+herein, thus allowing
+no definitive
+statement
+regarding the
+origin of the higher soot concentrations
+on the centerline of the preheated-fuel
+flames.
+Figure 5 depicts schematically
+the relative positioning
+of a typical soot aggregate with respect to the flame sheet
+and the burner centerline in 1-g and 0-g. In both cases, the thermophoretic
+velocity VT carries the particles away from
+the high-temperature
+flame sheet and towards the symmetry
+axis. A simple estimate
+revealed that thermophoretic
+velocities in 0-g are significantly
+weaker than those encountered
+in 1-g (primarily due to lower temperature
+gradients
+present in 0-g [11]). The radial gas velocity Vr in the vicinity of the soot particles is also drawn in Fig. 5, and shows
+that strong air entrainment
+in 1-g amplifies the already strong effect of thermophoresis
+in pushing the soot towards the
+flame centerline.
+In 0-g, the expanding/decelerating
+jet flow pushes the particles
+away from the axis, thus opposing
+the weaker thermophoretic
+force, and, in turn, preventing the soot aggregates
+from reaching the centerline.
+It is noted
+that the longer residence
+times in 0-g would tend to facilitate
+transport
+of soot to the flame centerline.
+However,
+the soot particles on the annular
+region in 0-g need to traverse nearly twice as big a radial distance
+to reach the
+centerline compared to their 1-g counterparts
+[6]. In that respect, the larger radial extent of the 0-g flames inhibits
+
+231
+
+soot
+
+transport
+
+to the centerline.
+
+C_onclusions
+An experimental
+investigation
+has been presented to quantify the influence of moderate fuel preheat (up to 160oC)
+on soot formation
+within 0-g laminar gas jet diffusion flames. The work was performed at the 2.2s drop tower of the
+NASA Lewis Research Center.
+The experimental
+methodology
+implemented
+jet diffusion flames of nitrogen-diluted
+acetylene
+technique
+
+fuel burning in quiescent
+air at atmospheric
+capable of determining
+transient soot spatial
+
+pressure.
+The study utilized a full-field laser-light
+extinction
+distributions
+in laminar axisymmetric
+flames. The 50% (vol.)
+
+C2H_/N2
+examined
+
+fuel mixture was injected through a 1.6mm-diameter
+burner with a Reynolds number O(100).
+All 0-g flames
+released soot from their blunt tip. Moderate fuel preheat in the 0-g laminar jet diffusion flames was found
+
+to reduce soot loadings on the annular region but caused an increase in soot volume fractious on the centerline.
+In
+addition, fuel preheat reduced the spatial extent of the soot field in 0-g. Another effect of fuel preheat on soot fields
+was the shift of the peak soot volume fraction to lower heights (or likewise earlier residence times).
+This shift suggests
+that the soot growth stage is shortened
+in 0-g when elevated fuel temperatures
+are used in conjunction
+with a fixed
+fuel mass flow rate. Finally, a tentative
+explanation
+was sought for the sustained
+annular
+structure
+of the 0-g soot
+fields. Estimates
+of the soot thermophoretic
+velocities in the flames revealed that the component
+of this quantity
+along the radial coordinate
+is significantly
+weaker in 0-g than in 1-g. In addition,
+the larger radial extent of the 0-g
+flames delayed soot transport
+to the centerline.
+These two factors appear to dominate
+in shaping the pronounced
+annular
+character
+of the soot field in 0-g.
+
+References
+[1] Law, C. K. and Faeth, G. M. Prog. Energy Comb. Sci.20, 65 (1994).
+[2] Edelman,
+
+R. B., and Bahadori,
+
+[3] Bahadori,
+
+M. Y., Edelman,
+
+[4] Sunderland,
+
+M. Y., Acta
+
+S., Sunderland,
+
+13:681 (1986).
+
+R. B., Stock.er, D. P., and Olson,
+
+P. B., Mortazavi,
+
+[5] Mortazavi,
+
+Astronantica
+
+S., Faeth,
+
+S. L., AIAA
+
+G. M., and Urban,
+
+P. B., Jurng,
+
+J., K_ylii,
+
+D. L., Combust.
+
+U. O., and Faeth,
+
+[6] Megaridis,
+C. M., Konsur, B., and Griffin, D. W., Twenty-Sixth
+The Combustion
+Institute,
+Pittsburgh,
+1996, in press.
+[7] Greenberg,
+
+P. S., and Ku, J. C., "Soot
+
+[8] Greenberg,
+
+P. S., and Ku, J. C., Combust.
+
+[9] Dasch,
+
+C. J., Applied
+
+[10] Santoro,
+
+Optics
+
+31:1146
+
+R. J., Yeh, T. T., Horvath,
+
+Imaging,"
+Flame
+
+Applied
+108:227
+
+Flame
+
+G. M., AIAA
+
+Symposium
+
+Optics,
+
+J. 28:236
+
+accepted,
+
+(1990).
+96:97 (1994).
+Paper
+
+(International)
+
+93-0708
+
+(1993).
+
+on Combustion,
+
+(1997).
+
+(1997).
+
+(1992).
+J. J., and Semerjian,
+
+H. G., Combnst.
+
+Sci.
+
+and Tech.
+
+53:89 (1987).
+
+[11] Bahadori, M. Y., Stocker, D. P., Vaughan, D. F., Zhou, L., and Edelman,
+R. B., in Modern Developments
+Energy, Combustion
+and Spectroscopy
+(F. A. Williams,
+A. K. Oppenheim,
+D. B. Olfe, and M. Lapp, Eds.),
+Pergamon Press, 1993, p. 49.
+
+Table
+Case
+
+Fuel Exit Temp.
+
+I
+II*
+III
+IV
+
+(oC)
+23
+23
+120
+160
+
+I: Flame
+
+Conditions
+
+Fuel F.lowrate Fuel Flowrate
+(mg/s)
+1.6
+2.2
+2.2
+2.2
+
+(cm3/s)
+1.5
+2
+2.7
+2.9
+
+* Base case
+
+232
+
+Exit Velocity
+(cm/s)
+74.6
+99.5
+132.1
+145.5
+
+Exit Reynolds
+96
+128
+105
+98
+
+in
+
+Fig.
+
+1: Luminous
+preheated
+
+flame images in 0-g: a) unpreheated
+fuel, b) fuel preheated
+to 160°C. The vertical scale drawn in (a) corresponds to a length
+
+to 120°C,
+of 25mm.
+
+and c) fuel
+
+Fig. 2: Instantaneous
+shadow-like images of the soot field as viewed by the CCD camera of the extinction
+setup during a drop experiment
+at 0.5s and 1.2s after the onset of microgravity.
+Illumination
+is
+provided by the expanded laser beam. The burner mouth is located directly below the middle of
+the bottom edge of each image.
+
+Z = 10 m m
+A
+
+Flame
+II
+__.____ Flame
+Flame
+Flame
+
+Z = 15 mm
+
+I
+
+Flame II
+Flame
+
+III
+I
+IV
+
+Flame
+
+,4]
+
+1II
+iVl
+
+l 1t
+:1
+-6
+
+-4
+
+2
+
+-2
+r
+
+4
+
+6
+
+.6
+
+ram)
+
+-4
+
+-2
+
+0
+r
+
+Fig. 3: Radial distributions
+of soot volume fraction at Z=10mm
+microgravity
+flames examined (I to IV; see Table I).
+
+233
+
+2
+
+4
+
+(ram)
+
+and 15mm above the burner
+
+tip of the four
+
+---e---
+
+Flame
+
+]
+
+--4--
+
+Z=2Omm
+
+Flame
+
+]I
+
+Flame
+
+Ill
+
+Flame
+
+_,
+
+.4
+
+iT
+
+Flame
+Flame
+Flame
+
+Ill
+[
+IV
+
+12-
+
+10-
+
+10
+
+i
+-6
+
+Flame
+
+iv
+
+14
+
+14
+
+12
+
+'
+
++
+IS
+
+S_
+
+16
+_>
+
+Z = 25 mm
+
+2
+
+-2
+r
+
+4
+
+6
+
+.
+
+-6
+
+-4
+
+-2
+
+(ram)
+
+0
+r
+
+Fig. 3 (continued): Radial distributions of soot volume fraction at Z=20mm
+of the four microgravity
+flames examined (I to IV; see Table I).
+
+111
+
+2
+
+4
+
+(ram)
+
+and 25mm above the burner tip
+
+15
+14
+
+(a)
+
+0
+
+(b)
+
+•
+
+•
+
+13
+
+O
+
+12
+
+•
+•
+
+•v
+
+•
+
+E
+
+a-
+
+E
+
+7-
+
+o
+
+|
+
+•
+•
+•
+
+Flame
+
+2-
+
+•
+
+Ref.
+
+54-
+
+x
+
+g6
+
+Flame !
+Flame II
+Flame I]1
+
+3-
+
+_
+
+Flame
+Flame
+Flame i
+Flame
+
+4
+
+z_
+
+IV
+
+•
+
+•
+
+[S]
+
+10-
+
+n
+10
+
+1
+
+t
+
+F
+
+15
+
+20
+
+25
+
+30
+
+Z
+
+I
+
+0
+35
+
+5
+
+10
+
+(mm)
+
+u
+
+_
+
+n
+
+20
+
+25
+
+30
+
+Z
+
+Fig. 4: Comparison
+of the streamwise variation of (a) maximum
+each height Z for all O-g flames.
+
+35
+
+(ram)
+
+and (b) on-axis
+
+1 -g
+Flame
+
+_
+15
+
+soot volume
+
+fraction
+
+at
+
+O-g
+
+Sheet
+
+Flame
+
+Sheet
+
+VT
+
+_V
+
+r
+
+Fig. 5: Schematic illustrating the action of gas convective
+in typical 1-g and 0-g gas jet diffusion flames.
+
+234
+
+(v,) and soot thermophoretic
+
+(vr) radial velocities
+

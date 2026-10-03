@@ -1,0 +1,963 @@
+Advanced Exploration Systems Program
+
+Large-Scale Spacecraft Fire Safety Experiments
+in ISS Resupply Vehicles.
+Gary A. Ruff and David L. Urban
+NASA John H. Glenn Research Center
+
+Cleveland, OH
+
+Nov 7, 2013
+
+29th American Society for Gravitational and Space Research
+Orlando, Florida, USA, November 3 – 8, 2013
+
+International Topical Team
+i
+
+Carlos Fernandez-Pello, UC Berkeley, Berkeley, CA, USA
+
+i
+
+James S. T’ien , Case Western Reserve University, Cleveland, OH, USA
+
+i
+
+Jose L. Torero, University of Queensland, Brisbane, Australia
+
+i
+
+Guillaume Legros, Université Pierre et Marie Curie, Paris, France
+
+i
+
+Christian Eigenbrod, University of Bremen (ZARM), Bremen, Germany
+
+i
+
+Nickolay Smirnov, Moscow Lomonosov State University, Moscow, Russia
+
+i
+
+Osamu Fujita, Hokkaido University, Sapporo, Japan
+
+i
+
+Adam J. Cowlard, University of Edinburgh, Edinburgh, UK
+
+i
+
+Sebastien Rouvreau, Belisama R&D, Toulouse, France
+
+i
+
+Olivier Minster and Balazs Toth, ESA ESTEC, Noordwijk, Netherlands
+
+i
+
+Grunde Jomaas, Technical University of Denmark, Kgs. Lyngby, Denmark
+
+2
+
+GRC Science Team Members
+i
+
+Paul Ferkul
+
+i
+
+Sandra Olson
+
+i
+
+John Easton
+
+i
+
+Justin Niehaus
+
+i
+
+Daniel Dietrich
+
+i
+
+Suleyman Gokoglu
+
+3
+
+Outline
+i Overview of the Spacecraft Fire Safety Demonstration Project
+i Science and Technology Demonstration Objectives
+
+x Details of Sample Selection
+i Supporting Ground-based Research
+
+4
+
+Spacecraft Fire Safety Demonstration
+Requirements and Goals
+i
+
+Level 1 Requirements
+x The project shall conduct an experiment on an International Space Station resupply
+vehicle after it leaves the ISS and before it re-enters the Earth’s atmosphere.
+x The experiment performed on this vehicle shall meet a critical need for developing
+rational spacecraft fire safety strategy on future exploration vehicles.
+
+i
+
+Project Goals
+x Conduct a spacecraft fire safety experiment on three flights of Orbital Science’s
+Cygnus vehicle that investigates large-scale flame spread and material flammability
+limits in long duration low-gravity.
+
+
+Orb-5: February 2015 probable slip to December 2015
+
+
+
+Orb-6: September 2015 probable slip to June 2016
+
+
+
+Orb-7: February 2016 probable slip to October 2016
+
+x Complete the major experiment development work no later than September 30, 2014.
+i
+
+Needs:
+i Quantify the development and growth of a realistic fire for exploration vehicles
+i Determine low-g flammability limits for spacecraft materials
+
+5
+
+Saffire Overview
+Objectives:
+i Saffire-I: Assess flame spread of large-scale microgravity fire
+i Saffire-II:
+
+Verify oxygen flammability limits in low gravity
+
+i Saffire-III:
+
+Similar to Saffire–I at different air flow
+
+Data:
+i Flame size, position, and spread rate (video)
+i Flame intensity (radiometer)
+i Flame stand-off distance (t/c)
+i Flame/plume temperature (t/c)
+i O2, CO2 concentrations
+
+• Data obtained from the experiment will be used to validate modeling of
+spacecraft fire response scenarios
+
+• Evaluate NASA’s normal-gravity material flammability screening test for
+low-gravity conditions.
+
+6
+
+Experiment Layout
+Fans
+
+Power
+Management
+
+Sample card
+(flame spread
+sample shown)
+
+Cameras
+
+Flow Duct
+
+Avionics Bay
+USB Hub
+
+Flow
+straightener
+
+Signal
+conditioning card
+
+Air flow
+
+. Dimensions are approximately
+53- by 90- by 133-cm
+7
+
+Operations Concept
+
+8
+
+Saffire-I, II, & III Schedule & Milestones
+Milestone
+
+Date
+
+PTR-1
+
+6/19/13
+
+FSDP Submit
+
+7/3/13
+
+ISS Flight Safety Phase I/II
+Review
+
+8/20/13
+
+Saffire Simulator to Orbital
+
+11/2013
+
+PTR-2
+
+12/4/13
+
+System AI&T Start
+
+12/12/13
+
+Ground Safety Phase I/II
+Review
+
+12/12/13
+
+Verification and
+Environmental Test Start
+
+3/19/14
+
+Ground Safety Phase III
+Review
+
+8/21/14
+
+ISS Phase III Review
+
+9/24/14
+
+SAR
+
+10/17/14
+
+Saffire-I Ship to WFF
+
+10/24/14
+
+9
+
+Spacecraft Fire Safety Demonstration
+Research Objectives
+i Two major stakeholders in sample selection
+
+x Scientific community
+
+
+Address both the “no ignition” and “no flame spread” criteria involved in passing
+standard material flammability testing
+
+
+
+Materials can pass NASA-STD-6001 Test 1 because ignition energy is not
+sufficient to start the flame spread process
+
+x NASA Materials and Processes
+
+
+If a material passes NASA Test 1 on the ground, will it pass the test in
+microgravity? (i.e. is the ground test the worst case scenario)
+
+¾ The long-term relevance to spacecraft fire safety applications
+
+depends on the careful and well-informed selection of the sample
+materials
+x Relevance requires:
+
+
+
+Scalability
+Amenable to modeling
+
+10
+
+Sample Selection Constraints
+x Dimensions and energy release
+
+
+1 or 2 flame spread (large) samples (0.5 m x 1.0 m)
+
+
+
+9 or 18 material flammability samples (5 cm x 30 cm)
+
+
+
+Thickness can be a maximum of 10mm
+
+
+
+Total energy released can be a maximum of 54 grams of fuel (cellulose
+equivalent)
+
+x Data Acquisition
+
+
+Thermocouples (6 total shared by all 9 samples)
+
+
+
+Radiometer (two sides)
+
+
+
+Camera (front view)
+
+
+
+Maximum run time of 6 minutes
+
+x Flow
+
+
+Flow rate range is 10-30 cm/s
+
+
+
+Concurrent or opposed
+
+x Ignition power and system
+x Long-term sample storage
+11
+
+Saffire-I & 3
+
+Large-Scale
+Flame Spread Test
+• Upward flame spread test on a
+
+fabric sample
+x Solid Inflammability Boundary
+at Low Speed (SIBAL)
+
+
+Cotton on a fiberglass substrate
+
+
+
+75% cotton by weight (18.05
+mg/cm2)
+
+x 0.4 m x 0.94 m
+x Saffire-I: 20 cm/s air flow
+x Saffire-III: 30 cm/s air flow
+Normal gravity test conducted in the
+VF-13 facility at NASA GRC.
+12
+
+Material Flammability Samples
+• NASA-STD-6001 describes the test methods used to qualify materials for use in
+space vehicles.
+• The primary test to assess material flammability is Test 1: Upward Flame
+Propagation
+• Materials “pass” this test if the flame self-extinguishes before it propagates 15 cm
+¾ Maximum oxygen concentration (MOC) is defined as the highest O2 at which
+material passes Test 1
+
+Test 1 Apparatus
+13
+
+Low-g Maximum Oxygen Concentration
+• Flammability limits determined by this test are strongly influenced by natural
+convection
+•
+•
+
+Normal gravity flames induce a natural convective flow that transports oxygen to the
+flame but also removes heat
+Forced convection in low-g transports oxygen to the flame but rate of heat removal is
+reduced
+
+% Oxygen
+
+0g quiescent limit
+
+Flammable
+
+Fundamental limit
+
+Not Flammable
+
+1-g buoyant air
+speed
+(~ 30 cm/s)
+
+Air-flow Speed
+Ferkul, P.V. and Olson, S.L., “Zero-gravity Centrifuge Used for the Evaluation of material Flammability in Lunar-Gravity,” AIAA
+2010-6260, 40th International Conference on Environmental Systems, Barcelona, Spain, July 11-15, 2010.
+
+14
+
+Sample Selection Goals
+i Build data sets on scalability of low-g
+
+Burning and Suppression
+of Solids (BASS)
+2cm and 1cm Flat Samples
+• SIBAL- cotton-fiberglass
+fabric
+• Nomex- flame resistant
+material related to nylon
+• Ultem - thermoplastic
+resins
+used in medical and
+chemical instrumentation
+
+fires
+x Materials that have been tested in low-g
+at different length scales
+i Amenable to modeling
+
+x Large, vehicle scale fire modeling
+
+
+Impact on vehicle
+
+
+
+Real-time modeling of fire response
+
+x Details of low-g flame spread
+
+Three-dimensional, time
+dependent upward flame
+spread in buoyant flows
+
+i Conclusive low-g flammability limit
+
+(Maximum Oxygen Concentration)
+data
+x Flammability limit sample materials must
+cross the flammability limit in 21% O2
+‒
+
+Requires approaches to alter flammability
+including: material thickness, heat loss (metal
+backing/matrix), radiative feedback (surface
+variation (grooves), inert (non-flammable) coatings
+15
+
+Candidate Samples
+i
+
+Nomex (HT90-40, Combo)
+
+i
+
+Mylar
+
+i
+
+Ultem
+
+i
+
+SIBAL cloth
+x Solid Inflammability Boundary at
+Low Speed (SIBAL)
+
+
+
+i
+
+Cotton on a fiberglass substrate
+75% cotton by weight (18.05 mg/cm2)
+
+Silicone (2-3 thicknesses, concurrent/
+
+PMMA-samples shaped at University of
+Bremen with grooves parallel or
+perpendicular to the flame propagation
+direction
+
+opposed spread)
+i PMMA
+
+x Straight, tapered, or structured
+
+i
+
+Cellulose (with backing/metal matrix)
+
+i
+
+Fire-resistant coating
+
+i
+
+Wires
+
+16
+
+MOC and ULOI of Potential Saffire Samples
+MOC
+
+ULOI
+
+23
+
+23.6
+
+25
+
+27.5
+
+Zytel 42 from 93-27463
+
+24.1
+
+24.5
+
+Nomex HT 90-40, L/N 7254
+
+24
+
+24.8
+
+Nylon Tricot ST11N791-01
+
+23
+
+24.3
+
+TCU Bottom, P/N SKD38114488-01
+
+21
+
+22.8
+
+Nomex Webbing P/N 9981
+
+22
+
+23.4
+
+L-200 Minicel Foam
+
+20
+
+21.7
+
+TA-301 Polyimide foam
+
+25
+
+27.3
+
+Ultem 1000 Film, P/N DLI1648
+
+21
+
+22.1
+
+PEEK Victrex Film, 10-mil
+
+21.1
+
+22
+
+Kapton HN Film
+
+26
+
+27.2
+
+SSP-M823 Silicone membrane, 0.004"
+
+17
+
+17.5
+
+SSP-M823 Silicone membrane, 0.010"
+
+18
+
+19.7
+
+SSP-M823 Silicone membrane, 0.014"
+
+19
+
+21
+
+SSP-M823 Silicone membrane, 0.024"
+
+20
+
+22.8
+
+SSP-M823 Silicone membrane, 0.040"
+
+22
+
+23.4
+
+Composites and Laminates
+
+Epoxy/Glass laminate NEMA G-11, H-23842
+Rigid Plastics
+P1700
+
+polysulfone
+
+Fabrics
+
+Foams
+
+Films
+
+Selected Samples
+i
+
+Nomex (HT90-40) with PMMA promoter ( 1 sample)
+
+i
+
+SIBAL cloth (2 samples at the same flow rates as Saffire 1 & 3)
+
+i
+
+Silicone (3 thicknesses for concurrent spread and 1 thickness for
+opposed spread)
+
+i PMMA 10 mm thick
+x
+
+Flat sample
+
+x
+
+Structured sample
+
+Top view of PMMA sample -edges have
+different radii
+18
+
+PMMA / Nomex
+i Example with 4 inch
+
+SIBAL cloth promoter
+i 8 inch Nomex
+
+After Igniter is off
+After Test
+
+Flame Out
+
+Downward Silicone
+
+i Average ~ 5 minutes to
+
+burn 30 cm
+i 0.014” thick Silicone will
+
+burn downward but not
+upward
+
+.01’’ down burn
+
+Flight 2 Sample Selection
+1
+
+2
+
+3
+
+Flam limit 2
+Silicone
+
+Saffire-2-S6
+
+Flam limit 3
+Silicone
+
+Saffire-2-S7
+
+PMMA
+2 sided burning
+
+Saffire-2-S8
+
+9
+
+Flam limit 1
+Silicone
+
+Saffire-2-S5
+
+8
+
+SIBAL
+
+Saffire-2-S4
+
+7
+
+Silicone down
+
+Saffire-2-S3
+
+6
+
+SIBAL
+
+Saffire-2-S2
+
+5
+
+Material
+
+Saffire-2-S1
+
+4
+
+Sample #
+
+Transition 1: PMMA
+to NOMEX
+PMMA
+2 sided burning
+
+Saffire-2-S9
+
+Pmma
+
+Silicon
+
+Sibal
+
+Silicone
+opposed
+
+Nomex
+
+Sample
+Thickness
+N/A
+
+Flow (cm/s)
+20
+
+Igniter
+Position
+Bottom
+
+0.36 mm
+(0.014”)
+Silicone
+N/A
+
+20
+
+Top
+
+30
+
+Bottom
+
+0.25 mm
+(0.010”)
+Silicone
+0.36 mm
+(0.014”)
+Silicone
+0.61 mm
+(0.024”)
+Silicone
+10 mm with
+tapered edge
+for ignition
+N/A
+
+20
+
+Bottom
+
+20
+
+Bottom
+
+20
+
+Bottom
+
+20
+
+Bottom
+
+20
+
+Bottom
+
+30
+
+Bottom
+
+10 mm with
+tapered edge
+for ignition
+
+Ground-based Supporting Research
+i
+
+The outcomes of this experiment are multiplied by tasks performed by
+contributing team members (and the funding from other organizations)
+x Sample Selection
+
+
+Structured materials:
+x Nickolay Smirnov, Moscow Lomonosov State University, Moscow, Russia
+x Christian Eigenbrod, University of Bremen (ZARM), Bremen, Germany
+
+
+
+Wires: Osamu Fujita, Hokkaido University, Sapporo, Japan
+
+
+
+Coated materials: James S. T’ien , Case Western Reserve University, Cleveland, OH, USA
+
+
+
+Nomex: Carlos Fernandez-Pello, UC Berkeley, Berkeley, CA, USA
+
+PG
+Region
+3
+
+0
+
+2.5
+
+2.0
+
+2.25
+
+Guanylurea Phosphate (GUP) (g) in 25
+mL water (samples are 2 cm x 18 cm)
+
+PG
+Region
+2
+
+G
+Region
+1
+
+Ignition map of overloaded wire. Region 1: Ignition limit
+in 1-g. Region 2: Ignition limit in short-term µg tests.
+Region 3: Ignition limit in long-term µg tests. Region 4:
+Ignition but no sustained flame.
+
+22
+
+Ground-based Supporting Research
+(continued)
+i
+
+The outcomes of this experiment are multiplied by tasks performed by
+contributing team members (and the funding from other organizations)
+x Modeling
+
+
+Low-g Fire Dynamics
+
+
+
+Real-time fire response:
+
+
+
+x James S. T’ien , Case Western Reserve University, Cleveland, OH, USA
+x Jose L. Torero, University of Queensland, Brisbane, Australia
+x Adam J. Cowlard, University of Edinburgh, Edinburgh, UK
+
+Vehicle-scale fire scenario modeling
+x Sebastien Rouvreau, Belisama R&D, Toulouse, France
+x Dan Dietrich, NASA GRC, Cleveland, OH
+x Suleyman Gokoglu, NASA GRC, Cleveland, OH
+
+Schematic for a concurrent spread over the flat
+surface of a solid combustible
+
+: Fluent model calculation of velocity
+magnitude in ATV configuration after 1
+minute of heat release.
+
+Three-dimensional, time
+dependent upward flame
+spread in buoyant flows
+
+23
+
+Ground-based Supporting Research
+(continued)
+i
+
+The outcomes of this experiment are multiplied by tasks performed by
+contributing team members (and the funding from other organizations)
+x Diagnostics
+
+
+Fuel Characteristics: Adam J. Cowlard, University of Edinburgh, Edinburgh, UK
+x Flame Propagation Apparatus: Heat release rate of materials to support detailed
+modeling of fire response
+
+
+
+Soot Volume Fraction in Low-g: Guillaume Legros, Université Pierre et Marie
+Curie, Paris, France
+x Laser extinction technique to measure soot volume fraction in large-scale normal- and
+low-g flames
+
+24
+
+Summary
+•
+
+The Saffire experiment (Spacecraft Fire Safety Demonstration Project)
+is in development to address knowledge gaps in low-g material
+flammability
+
+•
+
+Sample were selected to meet stakeholder requirements and to ensure
+the long-term impact of the project on the spacecraft fire safety
+protocol.
+
+•
+
+Samples will address both flame spread and material flammability
+understanding.
+
+•
+
+Recent studies and analyses have confirmed the fire safety needs for
+long-term exploration missions. Spacecraft fire safety technologies
+have been identified as enabling for some exploration missions,
+enhancing for others
+•
+
+•
+
+The Saffire experiments address several of these but lack fire detection,
+suppression, and post-fire cleanup
+
+An end-to-end demonstration of a fire detection, suppression, and
+clean-up scenario would verify hardware and the ability to properly size
+fire response hardware
+25
+

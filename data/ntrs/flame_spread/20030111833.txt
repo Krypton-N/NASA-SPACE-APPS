@@ -1,0 +1,1645 @@
+Manuscript for submission to Combustion Science and Technology
+
+Sounding Rocket Microgravity Experiments Elucidating Diffusive and Radiative
+Transport Effects on Flame Spread over Thermally-Thick Solids
+S.L. Olson, NASA Glenn Research Center*
+U. Hegde, National Center for Microgravity Research
+S. Bhattacharjee, San Diego State University
+J.L. Deering, Washington State University
+L. Tang, Washington State University
+R.A. Altenkirch,New Jersey Institute of Technology
+
+Short Title:
+Microgravity Flame Spread over Thick Solids
+
+Keywords: microgravity, flame spread, thick solid, radiation, opposed flow
+
+* corresponding author
+Dr. Sandra L. Olson
+mail stop 77-5; 21000 Brookpark Rd.
+NASA Glenn Research Center
+Cleveland, OH 44 135 USA
+fax (216) 977-7065 phone (216) 433-2859 email sandra.olson@grc.nasa.gov
+
+This report is a preprint of an article submitted to
+a journal for publication. Because of changes that
+may be made before formal publication, this
+preprint is made available with the understanding
+that it will not be cited or reproduced without the
+permission of the author.
+
+I
+
+Sounding Rocket Microgravity Experiments Elucidating Diffusive and Radiative
+Transport Effects on Flame Spread over Thermally-Thick Solids
+S.L. Olson, NASA Glenn Research Center"
+U. Hegde, National Center for Microgravity Research
+S. Bhattacharjee, San Diego State University
+J.L. Deering, Washington State University
+L. Tang, Washington State University
+R.A. Altenkirch, Mississippi State University
+
+Abstract
+A series of 6-minute microgravity combustion experiments of opposed flow flame spread
+over thermally-thick PMMA has been conducted to extend data previously reported at high
+opposed flows to almost two decades lower in flow. The effect of flow velocity on flame
+spread shows a square root power law dependence rather than the linear dependence predicted by
+thermal theory. The experiments demonstrate that opposed flow flame spread is viable to very
+low velocities and more robust than expected from the numerical model, which predicts that at
+4
+very low velocities ( c d s ) , flame spread rates fall off more rapidly as flow is reduced. It is
+hypothesized that the enhanced flame spread observed in the experiments may be due to threedimensional hydrodynamic effects, which are not included in the zero-gravity, two-dimensional
+hydrodynamic model. The effect of external irradiation was found to be more complex than the
+model predicted over the 0-2 W/cm2 range. In the experiments, the flame compensated for the
+increased irradiation by stabilizing farther from the surface. A surface energy balance reveals
+that the imposed flux was at least partially offset by a reduced conductive flux from the
+increased standoff distance, so that the effect on flame spread was weaker than anticipated.
+
+2
+
+Introduction
+With few exceptions, research on microgravity flame spread over solid materials has been
+focused on thermally-thin fuels due to constraints on test time or allowable heat release rates
+(T’ien et al., 2001). This paper provides a detailed analysis of the results of a series of sounding
+rocket microgravity combustion experiments of flame spread over thermally-thick PMMA
+varying very low velocity opposed flow and external radiant heat flux that have previously only
+been described briefly (Olson et al, 1997; Altenkirch et al., 1999).
+One of the few experiments on thermally thick fuels was performed during a Space
+Shuttle flight inside a sealed chamber (Altenkirch et al., 1998). In this microgravity experiment,
+a thermally-thick PMMA sample was burned in a quiescent atmosphere of 50% 0, and 50% N, at
+1 atm pressure. The analysis showed that as the spreading flame consumed oxygen, the diffusion
+
+length increased more rapidly than the rate of flame spread, and the rate of oxygen transport to
+the flame decreased. The flame slowed and then shrank back in size. After 9 minutes of
+burning, the flame self-extinguished when it could not release sufficient chemical energy to
+overcome the ongoing radiative loss.
+Other microgravity experiments of flame spread over thermally thick fuels have been
+conducted in sounding rockets. In the experiments of Tarifa (1999), they varied the flow rate
+during each experiment. Ignition took place in a quiescent 40% O,, 1 atm environment, and after
+ignition there was no apparent flame visible to the imaging systems. However, when the flow
+was initiated at a velocity of only 0.8 c d s , a flame suddenly appeared on the imaging systems,
+revealing that there was an “invisible” flame during the quiescent period that become bright
+enough to see with the imaging camera.
+
+3
+
+Other sounding rocket experimenters (Vietoris et al, 2000) burned PMMA in 40% 0,
+while step changing the flow velocities from 15 c d s to 10 c d s to 5 c d s flow within one test.
+While flame spread was observed at the higher flow rates, the flame stopped spreading at 5 c d s
+and continued to burn in depth for the rest of the test. Conclusions were that the reductions in net
+heat flux to the surface reductions with flow caused the flame to slow and eventually stop.
+The objectives of the sounding rocket experiment reported herein (a.k.a. DARTFire "Diffusive and Radiative Transport in Fires", shown launching in Fig. 1 and schematically in Fig.
+2) are to quantitatively determine the effect of low velocity flow, oxidizer concentration, and
+external radiant heat flux on flame spread over thermally-thick samples. The low velocity flow
+variable is important because thin fuel work showed (Olson et al., 1988) that even very weak
+ventilation has a dramatic effect on material flammability and flame spread rate. Oxygen
+concentration also significantly affects flame spread and flammability. Microgravity flames are
+weak due to diminished oxygen flow (compared to flames on Earth), and thus more sensitive to
+heat loss. A variable external radiant flux, envisioned to allow the net heat loss to be varied, is
+implemented in this experiment for the first time in microgravity.
+
+ExDeriment
+Two mirror image flow tunnels provide 1-10 cm/s flow through each 10 cm x 10 cm
+cross section x 15 cm long tunnel. Black PMMA samples, 20 mm long x 20 mm thick x 6.35
+
+mm wide, are mounted in the floor of the duct 4 cm from the inlet flow straighteners and
+insulated from the aluminum floor using -0.7 rnm thick fiberfrax insulation, as shown in Fig. 3,
+which shows a burned sample with instrumentation and igniter wires. The bulk flow speed is
+controlled by setting the pressure upstream of a critical flow orifice. The gases flow through the
+test section, and the velocity profile across the duct was measured with a hot wire at 5 , 10, 15 and
+
+4
+
+I
+
+*
+
+20 c d s to verify uniform smooth flow. Pressure in the duct was maintained at 1 atmosphere.
+The exhaust gas was vented to the vacuum of space through two opposing jets at the center of
+gravity of the rocket.
+A near-infrared laser diode (812 nm) and associated custom lenses are mounted in the
+ceiling of one of the two ducts to provide a uniform external radiant flux of up to 2 W/cm2 onto
+the sample surface. The irradiation over the sample is uniform to within 5%. The oval beam
+covered the entire sample surface and some adjacent sample holder. The controlled external
+radiant flux allows the surface energy balance to be adjusted to compensate for radiant loss from
+the surface and gaseous species. The walls of the tunnels have windows for ultraviolet-visible
+and infrared imaging of the flame. The diode wavelength was selected so that it did not interfere
+with these imaging devices.
+
+The laser diode flux is assumed not to penetrate in-depth for the
+
+black PMMA sample; rather it is assumed to be absorbed only at the surface. To estimate the
+absorptivity of the sample, the spot radiometer (described below) data were compared with the
+surface thermocouple data from flight 4A, which had 1 W/cm2 flux only (no ignition). The
+absorptivity was calculated to be 0.8 using Kirchoff's law.
+Other diagnostics include a surface-viewing spot radiometer (spectral wavelength range
+of 8-14 pm, well outside the laser diode wavelength) which has a 6 mm diameter field of view
+that images an area on the surface. The radiometer was calibrated with a black body, and
+provides effective black body temperatures of the imaged area. A total of 3 gas-phase type R
+
+0.025 mm diameter and 5 solid-phase type K 0.076 mm diameter thermocouples record flame
+temperatures (uncorrected, corrections estimated to be e 50K), near-surface pyrolysis
+temperatures, and in-depth temperatures from each sample during the experiment.
+
+5
+
+I
+
+-
+
+An intensified array video camera with a resolution of O. 1 mm and 5 frames per second is
+used to image the chemiluminescence of OH* radical species in the flame from an edge view.
+This type of camera has increased low-light sensitivity over film (for equal exposure time) and
+therefore can enable direct visualization of selected radical species by incorporating appropriate
+filters. The chemiluminescence of OH* in the reaction zone is imaged through 20 nm
+bandwidth OH* filters centered at 3 10 nm. The camera utilizes peak mode to avoid saturation
+of the bright flames against the dark background, and optimizes exposure time for each image
+independently.
+Two experiments are conducted simultaneously during the -6 minute microgravity
+experiment. The automatic sequencing starts the flow, and once the flow is established
+throughout the flow system, the two igniters ignite the samples simultaneously. In one of the two
+ducts, the laser diode irradiation starts at the same time as the igniter. The igniters turn off after 5
+
+s, and the laser turns off at a prescribed time (depending on test conditions) and then on again at
+a later time in order to evaluate the effect of a heat flux change on flame spread.
+
+Experimental Results
+The sounding rocket test matrix is shown in Table 1. The matrix is built around the
+base case 1B of 1 cm/s flow at 50% 0, with no external radiative flux. During Test lA, the
+sample ignited, but the flame extinguished when the igniter was turned off. During test 4A the
+sample failed to ignite. Spread rates for each test are given in the last column, as discussed
+below.
+An OH* radical chemiluminescent image is as shown in Figure 4. The dark notches in
+the flame are shadows of thermocouple posts. There were 3 posts, at 7 mm, 10 mm, and 15mm.
+Flame spread rates were measured using the OH* filtered images, which provided the most
+
+6
+
+sensitive measure of the location of the chemiluminescent reaction zone not obscured by soot
+radiation. Some vapor jetting was observed later in the burns due to bubble rupture at the surface
+of the PMMA. Small bubbles can be seen marring the surface of the burned sample in Fig. 3. The
+luminous vapor jet typically only lasted -0.2 seconds.
+
+Flow Effects on Spread rates
+Unlike the quiescent experiment (Altenkirch et al., 1998), steady flame spread
+rates were observed at all three opposed flow velocities tested at 50% 0,, as shown in Figure 5.
+While the 1 c d s test shows small changes in spread rate around the mean, it is considered steady
+with the regression R2=0.996. The other regressions were R2= 0.998, only slightly better. The
+flame propagates the full length of the sample, unlike the quiescent case which did not in at least
+one instance with a longer sample, but did in two with shorter samples. All quiescent cases
+showed decelerating spread with time, whereas with flow the spread is very linear.
+Figure 6 shows the spread rates obtained for the no flux 50% and 70% 0, tests as a
+function of flow for the DARTFire experiments (circles), as well as higher flow experiments at
+
+50% 0, obtained on earth (Fernandez-Pello et al., 198l), and computations using a 2-D NavierStokes hydrodynamics model with chemical reaction and a 3D radiation model (Deering, 1998).
+Flame spread rates show a power-law dependence on flow (solid lines), where the approximate
+exponent on the flow is 0.5 for the 50% 0, data, whereas the thermal theory of flame spread over
+thick fuels (de Ris, 1969) predicts a linear dependence on flow. The square root dependence
+may be related to the velocity gradient in the boundary layer (Wichman, 1983).
+It is interesting that this power-law dependence holds down to the 1 c d s imposed flow
+studied in these tests. The unsteady, two-dimensional numerical model calculations (Deering,
+1998) agree with the experimental data at higher flow rates, but predict a more rapid decline in
+7
+
+I -
+
+I spread rate than the power-law at velocities smaller than 5 c d s (dashed line). Under quiescent
+microgravity conditions, a similar sample extinguished after 9 minutes without full flame
+propagation (Altenkirch et al., 1998). Thus flame viability and spread over thermally-thick fuels
+is sensitive to very low velocity flows, as was found to be the case for thermally-thin fuels (Olson
+et al, 1988), and plastic rods (Ivanov et al., 1999).
+
+Flow Effects on Flame TemDeratures
+Measured flame temperatures 1 mm above the fuel surface generally increased with
+increasing flow, as shown in Figure 7. There is only a slight change in peak temperature between
+
+1 c d s and 5 c d s , but temperatures rise more significantly by 10 c d s flow. In contrast, the
+model (Deering, 1998) predicts a large increase in temperature between 1 c d s and 5 c d s , and
+less increase between 5 c d s and 10 c d s . At 1 c d s , the experimental temperatures are much
+hotter than computed temperatures (>500K hotter), as shown in the inset to Figure 7. This trend
+is consistent with the lower spread rates predicted at flows less than 5 c d s whereas above 5
+c d s , spread rates compare well. The predicted temperatures show a power law dependence with
+flow, whereas the experimental temperatures plateau at low velocity flow. Three dimensional
+oxygen diffusion effects may be very important at the low velocities, where boundary layer
+theory may not be applicable (Re, ~ 3 0 ) .
+One interesting aspect of Figure 7 is that once the leading edge of the flame is past, the
+temperatures all plateau out to the same temperature beneath the flame. Thus the flow appears to
+influence primarily the leading edge region of the flame while the trailing diffusion flame is less
+affected. Because of the higher temperatures at the leading edge at the higher flow rates, the heat
+flux at the leading edge increases with increasing flow, resulting in increasing flame spread as
+shown in Figure 6 above.
+
+8
+
+External Radiant Flux Effects on Spread Rate
+The near-infrared laser diode had unanticipated effects on flame spread, as shown in
+Figure 8, in which position of the flame versus time for each of the three flux cases studied is
+shown. The range of laser flux levels was selected in this experiment to offset the estimated
+surface radiative loss at 1 W/cm2, and offset the estimated surface plus flame radiative loss in the
+2W/cm2case. The flow selected to study laser effects was 1 c d s , clearly in the diffusive
+transport flow range (Olson et al., 1988).
+As listed in Table 1, there was little change in spread rate from the no flux case to the 1
+W/cm2 flux case, until the laser was deactivated. At deactivation, the flame slowed to well below
+the no flux case, which indicates that the flame was weakened considerably by the sudden
+removal of the imposed heat flux. Only at 2W/cm2did the laser actually enhance the flame
+spread rate. At that flux level, the spread rate was enhanced while the laser was activated, and
+transitioned to the base case no-flux spread rate when the laser was deactivated.
+Figure 9 presents the spread rates as a function of external flux level for the sounding
+rocket data, similar data obtained aboard parabolic aircraft (Olson and Hegde, 1994) at 10-2g
+(-5-10 cm/s buoyant flow), and numerical model predictions (Deering, 1998). At low flux
+levels ( I 1 W/cm2), the experiments at both 1 c d s and at the higher buoyant flow on the
+parabolic aircraft show that the laser does not enhance flame spread as strongly as was expected
+from the numerical model predictions.
+The primary visible effect of the laser is a change in flame standoff distance, as shown
+in Figure 10. Standoff distance was measured by taking the minimum distance between the
+
+leading edge of the flame and the initial surface location using the OH* images.
+
+9
+
+1 I
+I
+
+For the no flux case (Fig. loa), the flame standoff reaches a steady value of about 0.6
+
+I
+
+mm. It takes 40 seconds to reach this value, but then it is steady within the error of the
+measurement (k 0.1 mm) for the rest of the spread. For the 1W/cm2 case (Fig. lob), the flame
+I
+
+standoff distance is just under 0.9 mm during irradiation, a 50% increase in flame standoff
+distance. The flame surprisingly moves out to about 1.05 mm after the laser shuts off. It stays
+there for about 20 seconds before beginning to move back in. The standoff distance approaches
+the 0.6 mm of the no flux case when the laser turns back on. The flame moves out again after a
+lag of about 10 seconds. The lag in response attributed to the inertia of the solid phase, as will be
+shown with the radiometer data.
+For the 2 W/cm2 case (Fig. lOc), the flame standoff distance also varied with flux. The
+flame standoff distance rises rapidly to about 0.95 mm (only slightly farther out than the 1 W/cm2
+case), during the laser on. When the laser shuts off, the standoff distance falls back down to 0.6
+
+mm and stabilizes there while the laser is off. Spread is over before the laser activates again, but
+when the laser turns on again, standoff distance rises back up.
+The flame standoff distance is directly proportional to the conductive heat feadback from
+the flame to the surface. The flame responds to the laser by adjusting the standoff distance,
+which reduces or even eliminates the heat flux gain by the laser. Thus the effect of an external
+heat flux on these flames is not a straightforward augmentation.
+
+External Radiant Flux Effects on Flame TemDeratures
+The measured gas-phase temperatures at 1 mm above the fuel surface during flame
+passage for different radiant flux levels are shown in Figure 11. The peak temperatures decrease
+with increasing flux, as shown in the insert to Fig. 11, consistent with the flame standoff distance
+trends discussed above. In addition, the plateau temperatures remain lower at higher flux during
+10
+
+I
+
+I
+
+-
+
+and for an extended time after the flux is deactivated (off). This indicates that the effect of the
+laser persists long after the laser is deactivated. The timescales for this effect are consistent
+with solid-phase timescales, which indicate, not-unexpectedly, that preheating the fuel enhances
+flame spread.
+
+Radiant Heat Flux Effects on Radiant Loss
+The laser flux only slightly affects the effective black body fuel surface temperature read
+by the radiometers, as shown in Figure 12. The radiometer is filtered to transmit only 8-14 ym,
+while the laser is at 8 10 nm - well outside the radiometer band, so changes in signal are not due
+to direct reflection of the laser diode. The temperature drops very gradually when the laser is
+
+turned off, which is indicative of the slow coupled gas-solid phase response to the change. The
+temperature rises quickly when the laser is re-activated, but decays again gradually as the flame
+increases its standoff distance. Only the 2 W/cm2 case has a fairly constant temperature beneath
+the flame. The change in black body temperature is quite small - less than 0.1 W/cm2, as is
+shown in the inset to Fig. 12, so surface heat loss per unit area beneath the flame can be
+considered to be approximately constant. Very late in the test, the differences in loss are directly
+attributable to changes in flame length (where the flame no longer covers the radiometer), as
+discussed in the next section.
+
+Flame Length Variations with Flow and Flux
+Flame lengths were measured using the OH* filtered intensified images. The
+positions of the leading edge (shown previously to determine spread rates) and trailing edge
+were measured as a function of time, and the difference is plotted below as flame length as a
+function of time.
+
+As shown in Figure 13, the faster flame spread at higher opposed flow results in a more
+11
+
+I
+
+.
+
+rapid increase to a maximum flame length at the completion of flame spread. At that point, the
+flame is covering most of the 20 mm long fuel surface. As steady burning (Emmons-type flame)
+continues, the overall visible flame length decreases with time in a nearly linear fashion
+regardless of flow velocity until the visible flame is quite small ( 2-3 mm in length). The flame
+does not self extinguish in the time allowed in the test (- 6 minutes). In a quiescent environment
+(Altenkirch et al, 1998), a similar fuel sample did not propagate fully, and self-extinguished in
+just under 9 minutes. The sample regression below the floor of the duct (reductions in effective
+opposed flow) and corresponding increasing heat losses to the side walls of the sample holder
+are believed to be the cause of the flame shrinkage with time, and may result in flame extinction
+of the Emmons-type flame later on.
+The flame length for the flux tests is shown in Figure 14. Early in the tests, the flame
+growth is driven by the flame spread rate. When the laser turns off, the ffames slow their growth
+rates and then increase them again when the laser turns on as was reflected earlier in the flame
+spread rates. The effect of imposed flux on flame length is most obvious after maximum flame
+spread. The laser allows the flame to shrink less rapidly than the no flux case because it is
+providing heat flux to the surface that helps offset the increasing side-wall losses to the holder.
+
+Mass Loss. Repression. and Burninp Rate Trends
+Mass loss was measured by weighing the sample before and after the flight, with the data
+given in Table 2. The sample was also inspected after the flight to determine the regression
+profile for each test. The centerline regression profiles are plotted in Figures 15 and 16 as a
+function of flow and flux. The dimple at
+
+- 10 mm is due to a large sub-surface thermocouple.
+
+The centerline had the most significant regression, with less regression toward the side walls.
+As shown in Figure 15, the higher the opposed flow rate, the deeper the regression depth
+
+12
+
+for the stabilized flame. The leading edge of the stable flame is the anchoring point, so the heat
+flux in this region is highest and the regression is deepest here. Because standoff distances are
+less than 1 mm, the fuel regression moves the flame beneath the floor of the test section after
+approximately one minute of burning beneath the leading edge. In the trailing flame region, the
+depth shows a similar trend, but the regression depth is much shallower due to the reduced heat
+flux from the trailing flame.
+While the imposed flux did not result in higher regression depths, as shown in Figure 16,
+it did result in a broader region of regression, especially in the 2 W/cm2 case, in agreement with
+
+the measured longer flame lengths in that case.
+Maximum burning rates are estimated in Table 2 from the maximum regression depths,
+the fuel density, and the total burn time. These estimates, which attempt to capture the local
+average burning rate at the stabilization point (leading edge) of the flame, are plotted in Figure
+17. The maximum burning rate is most sensitive to the opposed flow velocity where a linear
+dependence on maximum burning rate with flow is found. The laser, on the other hand, has very
+little effect on the maximum burning rate. This is due to the flame standoff increase with
+increasing flux, which reduces the conductive flux from the flame. The maximum burning rate
+thus does not change significantly with laser flux.
+The maximum burning rate estimated in this way provides a much better correlation than
+an average burning rate based on the total mass loss, sample area and total burn time. This is
+because the flame did not cover the entire sample for the entire time, and heat losses to the walls
+are significant, so burning rates across the sample surface are not uniform even when flame
+coverage is complete.
+
+13
+
+Net Heat Flux Analvsis
+To interpret the unexpected flame response to external heat flux, it is important to take
+into consideration the energy balance at the fuel surface. The net heat flux to the surface during
+flame spread was estimated for each 1 c d s test using Equation 1, which includes conduction
+from the flame to the surface, absorbed external radiative flux from the laser diode, and radiative
+loss from the surface. It does not include radiative feedback from the flame to the surface.
+
+Net Heat Flux =
+
+dT
+k-I,, g
+dY
+
+t aq'Iext ECT(T,~ Tm4) Eqn(1)
+-
+
+This net heat flux then goes into heating up and vaporizing the fuel as the flame spreads,
+as well as being conductively lost to the sample holder and in-depth fuel. The conduction from
+the gas to the surface is calculated using 1 mm gas phase thermocouple data from Figure 11 and
+assuming that the gas-phase is elliptic at the leading edge so that dx and dy can be interchanged.
+The surface radiative loss is calculated using the radiometer black body temperature data (so ~ = l
+in Eqn (1)). The net heat flux, calculated using Eqn (l), is shown in Table 3. Estimated data for
+the laser OFF portion of the two flux tests are also included.
+The last two columns of Table 3 compare net heat flux to flame spread rate. These values
+are plotted in Figure 18. While the data are sparse due to the limited number of tests, there is a
+clear trend of increasing spread rate with increasing net heat flux. The flame response to the
+laser off condition is shown with the arrows, moving from a higher spread rate-net flux condition
+to a lower set in each case. The 1 W/cm2case after the laser is turned off approaches the quench
+limit (Altenkirch et al., 1998) when it moves slightly further from the surface and decreases its
+
+14
+
+conductive heat transfer as well. The stronger flux flame responded smoothly back to the base
+no flux condition at the cutoff in laser flux. This indicates that near-limit flames are much more
+sensitive to sudden changes in surface energy balance, and have a more difficult time adjusting to
+the changes.
+Another way to look at the surface heat flux terms is in ratios. Plotted in the inset to
+Figure 18 is a ratio of surface radiative loss to the combined gas-phase conductive flux plus
+external radiant flux. As these relative heat loss becomes greater, the flame spread rate slows
+down. Eventually, the flame will quench. Additional losses, such as conductive losses to the
+fuel bed and holder can be comparable to the surface radiative losses (Olson and T’ien, 2000), so
+the total relative losses can exceed 80% at extinction.
+We can compare the importance of the 3 terms in the net flux equation (1). As shown in
+Figure 19, the surface loss is nearly constant, and cancels a portion of the gas-phase conduction.
+The laser flux contributes to the net flux, but because the flame responds to the laser by moving
+away from the surface, the net heat flux is considerably Iess than a simple arithmetic addition of
+the no flux conduction and the laser flux. Thus the predominant factor in flame spread rate
+reduction is the reduction in heat flux to the surface (conductive and external radiative flux)
+(Vietoris et al., 2000, Olson and T’ien, 2000) rather than the heat losses themselves, which
+remain nearly constant.
+
+Discussion
+The importance of three dimensional effects on flame spread should be considered in the
+comparison of the experiment with the numerical predictions. While the model does incorporate
+3D radiation, the model hydrodynamics are two-dimensional. As found for thermally-thin fuels
+(Me11 and Kashiwagi, 1998) the effect of oxygen side diffusion into the flame zone is equivalent
+15
+
+to increasing the flow speed for the 2D case, which makes the flame stronger. Thus it is not
+surprising that at very low speed flows, on the order of diffusive velocities, that the 2D model
+under-predicts the flame spread rate for this inherently 3D experiment.
+The experiment is inherently three dimensional, as evidenced in the solid phase by the
+regression history of each sample, and as evidenced in the gas phase by parabolic aircraft
+experiments conducted to determine the sample size for the flight experiment. Figure 20 a) and
+b) shows a sequence of images taken from an aircraft test with a 2 cm wide sample and the 0.635
+cm wide sample that DARTFire used. While the 0.635 cm sample show a convex flame front,
+the wider sample had a concave flame front throughout the trajectory, with the edges of the
+sample showing enhanced flame spread relative to the center of the fuel. This result was
+consistent throughout the width effect test series with two different insulation materials and
+various widths - the non-uniformity got progressively worse as the sample was widened from
+0.635 cm to 2 cm. The non-uniform flame front may be due to near-limit phenomena or
+instabilities similar to those reported by Prasad et a1.(2002) or Zik (1998) . Because DARTFire
+was focused on thermally-thick flame spread and not flame front instabilities, we chose the 0.635
+cm wide sample for consistency with the previous tests (Altenkirch, 1998), and to eliminate the
+non-uniformity in the flame front as it spread.
+Another possible contributing factor to consider to explain the increased spread rates at
+low velocity flow is residual gravity during the test. Even a very slight body force due to spin or
+drag on the rocket over those predicted from the model may be sufficient to generate a weak
+buoyant flow. The recorded residual gravity level during the experiment was less than the
+accelerometer detection threshhold of 4x104g. As shown in Fig.21, just prior to a late
+extinguishment in the first launch , the deceleration upon reentry felt by the flame increased to
+16
+
+7x10” g before discernable effects on the flame were observed. Thus, residual gravity is
+negligible in these experiments.
+One of the more interesting phenomena found in these experiments is the unexpected
+behavior of flames to low flux levels. “Low” is relative, because 1 W/cm2is above the
+minimum flux needed to radiatively ignite black PMMA (Quintiere, 1981). The DARTFire
+sample has significantly more heat loss to the surroundings because of its small sample size, and
+DARTFire test 4A demonstrated that the sample’s surface temperature under an imposed flux of
+1 W/cm2reached a plateau at approximately the glass temperature of PMMA (105OC), which is
+much lower than required for ignition. Because of the large heat losses to the holder, the base
+case of 1 c d s is fairly close to the extinction limit. A larger sample would have significantly
+less heat loss per unit area, and would likely respond more like the 2 W/cm2 case - i.e. it would
+transition more smoothly between conditions.
+The transition from the irradiated flame to the non-irradiated flame for the 1 W/cm2 case
+started by the flame weakening significantly, and only gradually recovering toward the nonirradiated base case. This suggests that flames in microgravity, especially in the very low
+velocity diffusive flow regime, are very sensitive to changes in environment, especially when the
+change weakens the flame. While the two end states might both be viable independently, the
+path the transition takes toward the weaker state may not connect the two and instead may lead to
+extinction. This is a topic of significant interest and additional research would help further
+elucidate the complex interactions between diffusion and radiation.
+Lastly, based on the DARTFire data, we can rank the sensitivity of microgravity flame
+spread over thermally thick fuels to flow, flux, and oxygen concentration. A tenfold increase in
+flow results in 125% increase in spread rate, a twofold increase in flux results in 50% increase in
+17
+
+spread rate, and a 50% increase in ambient oxygen concentration results in 100% increase in
+spread rate. Clearly, flame spread rate is most sensitive to oxygen concentration. This suggests
+that spacecraft should limit the operational oxygen concentrations to as low a value as possible,
+because any increase dramatically increases the fire hazard of materials. Also, it is unIikely that
+perfect quiescence is feasible in an inhabited, powered space vehicle where air flows are typically
+higher than 5 cm/s due to crew motions, ventilation, and cooling systems, so the quiescent
+extinction condition may not be realized in practice. These all have implications for spacecraft
+and extraterrestrial fire safety.
+
+Conclusions
+The DARTFire sounding rocket experiment series provides a wealth of new information
+on opposed flow flame spread over thermally-thick solids under differing low velocity opposed
+flows and external radiant flux levels.
+The effect of flow velocity on flame spread over the 1-10 c d s range extends data
+previously reported at high opposed flows almost two decades lower in flow. Steadily
+propagating flames in opposed flow are found down to 1 cm/s flow, even though previous
+experiments showed that quiescent conditions do not support steady flame spread. This
+I
+
+demonstrates that even a flow on the order of diffusive velocities (0' to 2 cm/s) is sufficient to
+sustain combustion where in a perfectly quiescent environment, the flame would not be viable.'
+The flame spread rate showed a surprising insensitivity to imposed flux levels that
+roughly compensates for the surface radiative loss (1 W/cm2).The flame standoff distance
+increased with an imposed flux, and the conductive feedback from the flame was reduced,
+apparently compensating for the imposed radiative flux. At 2 W/cm2,however, despite an even
+larger standoff distance, the flame spread rate increased. This non-linear trend with imposed
+
+18
+
+radiation was not predicted by the detailed numerical models developed by the investigator
+team. However, estimates of the net heat flux to the surface do correlate with spread rate, which
+indicates that the net flux (conduction plus imposed radiation minus surface radiative loss) to the
+surface is what drives the flame spread rate.
+Flame length did not remain steady during the tests, and the flames shrank to very small
+size later in the tests. The trailing edge motion was very sensitive to heat losses, as demonstrated
+by the longer flames with the added heat flux from the laser diode. While extinction was not
+observed, the regression of the sample caused the flame to weaken as it sank below the floor of
+the flow duct, where the effective flow velocity decreased and heat losses to the sample walls
+increased.
+Flame spread rate is more sensitive to oxygen concentration than flow or external radiant
+flux. This has spacecraft and extraterrestrial fire safety implications; it suggests that spacecraft
+should limit the operational oxygen concentrations to as low a value as possible, because any
+increase dramatically increases the fire hazard of materials.
+
+Acknowledgments: This work was funded under NASA Cooperative Agreement NCC3-22 1.
+
+The experimental hardware was developed and tested by the DARTFire project team (Jeff Jones,
+Project Manager), and launched with the support of Wallops Island and White Sands Missile
+Range personnel. Special thanks to the NASA Glenn Graphics Visualization Lab, who processed
+the image data.
+
+19
+
+References
+
+Altenkirch,R.A.,Tang,L.,Sacksteder,K.,Bhattacharjee,S.,and
+Delichastios,M.A.; ( 1998), Proc.
+Combust. Instit., 27, pp. 2515-2524.
+Altenkirch, R. A., Olson, S.L., Deering, J.L., Tang, L., Bhattacharjee, S., and Hedge, U., (1999)
+proceedings of the Fifh International Microgravity Combustion Workshop, Cleveland, OH, May
+18-20.
+Deering, J.L., MS Thesis, Washington State University, Dec. 1998.
+de Ris,J.N.,Proc. Comb. Inst., V.12, pp.241-252, 1969.
+Fernandez-Pello, A.C., Ray, S., and Glassman, I.; (1981) Proc. Combust. Instit., 18, pp. 579-589.
+
+Ivanov,A.V.,Balashov,Ye.V,Andreeva,T.V,and
+Melikhov, A.S.; (1999), NASA CR- 1999209405.
+Mell, W.E. and Kashiwagi, T.; (1998) Proc. Combust. Instit. 27, pp. 2635-2641.
+Olson, S.L., Ferkul, P.V., and T’ien, J.S.; (1988), The Proc. Combust. Instit., V.22, pp. 12131222.
+Olson, S.L., and Hegde, U., (1994) Eastern States Section Fall Technical Meeting, the
+Combustion Institute, Clearwater Beach, FL.
+Olson, S.L., Altenkirch, R. A., Bhattacharjee, S., Tang, L., Hegde, U., (1997) proceedings of the
+Fourth International Microgravity Combustion Workshop, Cleveland, OH.
+Olson, S.L., and T’ien, J.S.; (2000) “Buoyant Low Stretch Diffusion Flames Beneath Cylindrical
+PMMA Samples, Combustion and Flame, 121, pp. 439-452.
+Prasad, K., Olson, S.L., Nakamura, Y., Fujita, O., Nishizawa, K., Ito, K., and Kashiwagi, T.;
+(2003), Proc. Combust. Instit., 29, to appear.
+Quintiere,J.G., (1981), Fire and Materials 5: 2, pp. 52-60.
+Tarifa, (1999), 5” Microgravity Combustion Workshop, NASNCP-1999-208917, pp. 39-42.
+T’ien, J.S., Shih, H-Y., Jiang, C-B., Ross, H.D., Miller, F.J., Fernandez-Pello, A.C., Torero, J.L.,
+and Walther, D.; (2001) Chapter 5 of Microgravity Combustion: Fire in Free Fall, Ross,
+H.D., (Ed). Academic Press.
+Vietoris, T., Ellzey, J.L., Joulain, P., Mehta, S., and Torero, J.L., (2000), Proc.Combust. .Instit.,
+28, pp. 2883-2889.
+Wichman, I.S., (1983) Combustion and Flame 50, pp. 287-304.
+Zik, O., and Moses, E., (1998), Proc. Combust., Instit, 27, pp.2815-2820.
+
+20
+
+Figure Captions
+
+Figure 1: DARTFire launch of two stage sounding rocket. Experiment section is insulated in
+white foam box, which strips away during launch.
+
+Figure 2: Schematic of Research Section of Sounding Rocket for DARTFire. The research
+section is 2.44 m long, 0.43 m in diameter, and weighs 209 kg. The flow supply system
+comprises the first third of the rocket, while the experimental flow tunnels and diagnostics
+(cameras, radiometers, laser) are located in the middle third of the rocket. The remaining third
+houses the electronics and video storage devices. The samples are positioned near the center of
+gravity of the rocket.
+
+Figure 3: Burned sample showing instrumentation and igniter wires. Maximum regression is -2
+mm. Surface igniter embedded near one end of the sample vaporizes the fuel, and the loop
+igniter at the downstream end of the sample ignites the fuel vapors. Sample is embedded in
+aluminum holder, insulated with fiberfrax insulation around its perimeter. Gas phase
+thermocouples are at 1,3, and 2 mm above the sample. Three surface (bare beads) and one
+subsurface thermocouple (cylindrical bump) are embedded in the solid. Outer side posts are to
+block glowing thermocouple wires from camera views.
+
+Figure 4: OH* chemi-luminescent intensified image of flame spreading over black PMMA
+sample from an edge view image. Flame spread is downward, with dark posts blocking parts of
+the flame. Vertical scale minor ticks are 0.5 mm apart; horizontal scale ticks are 1 mm apart. A
+vapor jet is shown normal to the tail region of the flame.
+
+Figure 5: Position of the leading edge of the flame measured from the OH* images as a function
+of time for tests three opposed flow velocities at 50% 0,. The gaps in the data near 7, 10, and 15
+mm are when the flame is propagating behind a thermocouple post. The linear regressions (lines)
+shown resulted in spread rates of 0.20 d s , 0.32 m d s , and 0.45 mm/s for 1,5,and 10 c d s flow.
+
+Figure 6: Comparison of flame spread results from DARTFire tests with higher flow data
+(Fernandez-Pello et al., 198 1) and numerical model predictions (Deering, 1998). Flame spread
+rates show a power-law dependence on flow (solid line), where the approximate exponent on the
+flow is 0.5 even down to the unsteady case for the 50% 0, data. The unsteady, two, dimensional
+numerical model calculations agree with the experimental data at higher flow rates, but predict a
+more rapid decline in spread rate than the power-law at velocities smaller than 5 cm/s (dashed
+line).
+
+21
+
+Figure 7: Gas-phase temperatures measured during flame passage at 1 mm above the fuel surface
+at three flow conditions for 50% 0,. There is only a slight change in peak temperature between 1
+cm/s and 5 cm/s, but temperatures rise more significantly by 10 cm/s flow. Once the leading edge
+of the flame is past, the temperatures all plateau out to the same temperature beneath the flame.
+The inset shows maximum flame temperature as a function of flow compared with theoretical
+predictions.
+
+Figure 8: Position of the leading edge of the flame from the OH* image as a function of time for
+the three flux levels tested at 50% 0,. Spread rates for each portion of the test are given in Table
+1.
+
+Figure 9: Spread rate as a function of external flux level for the 1 cm/s sounding rocket
+data(blue), similar data obtained aboard parabolic aircraft (Olson and Hegde)(green) at lO-’g (-510 cm/s buoyant flow), and numerical model predictions(Deering, 1998)(red). At low flux levels
+(I 1 W/cm2), the experiments at both 1 cm/s and at the higher buoyant flow on the aircraft show
+that the laser does not enhance flame spread as strongly as was expected from the numerical
+model predictions.
+
+Figure 10: Flame standoff distance measured as a function of time, shown with the laser power
+data on the right axis: a) no flux; b) 1 W/cm2; c) 2 W/cm2 .
+
+Figure 11: Gas-phase temperatures measured during flame passage at 1 mm above the fuel
+surface at three external radiant flux conditions for 50% 0,. The peak temperatures decrease with
+increasing flux, consistent with the flame standoff distance trends. Plateau temperatures beneath
+the flame show a similar trend.
+Figure 12: Effective black body temperature of surface emissions as a function of time, based on
+the radiometer data. The total radiant loss is only slightly affected by the laser after leading edge
+passage, as shown by the off and on indicators. The slight jump in surface radiative heat loss
+when the laser is re-activated is shown in the inset. The no flame case shows the surface
+temperature reaches a constant value of less than 100°C for lW/cm2 imposed.
+
+Figure 13: Effect of Flow on Flame Length. After steady spread, the flame stabilizes over the
+PMMA sample. However, a steady reduction in length with time is noted. While the leading
+edge gradually moves back a few mm from the upstream end of the sample, the primary reason
+the flame length shrinks is because the trailing edge of the flame shortens.
+
+22
+
+I
+
+I
+
+.
+
+Figure 14: The effect of laser flux on flame length. Notice the higher flux cases result in a
+considerably longer flame after full spread has been achieved. The stronger the laser, the larger
+the difference in flame length. The trailing edge of the flame does not shrink as quickly when the
+laser is on, indicating the trailing edge motion is very sensitive to heat losses.
+
+Figure 15: Centerline regression profiles as a function of flow. Note scale difference in x and y
+scales.
+Figure 16: Centerline regression profiles as a function of flux. Note scale differences between x
+and y scales.
+
+Figure 17: Maximum burning rate as a function of either flow or flux.
+
+Figure 18: Flame spread rate dependence on net heat flux to the surface, based on values in Table
+3. Inset shows spread rate compared with relative heat loss.
+
+Figure 19: Cumulative bar chart showing each term in Eqn (1).
+
+Figure 20: The experiment is inherently three dimensional, as evidenced by these sequences of
+images from parabolic aircraft experiments conducted to determine the sample size for the flight
+experiment.
+a) The first sequence of 4 images is for a 2 cm wide sample with well-insulated edges. The
+images are taken at 5 second intervals, and show flame spread is clearly enhanced along the edges,
+whereas the center portion of the flame lags behind.
+b) For the second sequence, the DARTFire sample is tested - a 0.635 cm wide sample with a
+narrow strip of fiberfrax insulation.3. The sample is sufficiently narrow, and heat losses are high
+so that a bullet-shaped flame front forms.
+
+Figure 21: Near-surface thermocouple reading under the flame during reentry of the sounding
+rocket, just prior to venting extinction. The R M S acceleration rises from a noise level of 4x104 g
+to over 7 ~ 1 0 - before the near-surface thermocouple shows a rise from its stable level of 500°C.
+~g
+
+-
+
+23
+
+PCU
+UVNisible camera
+
+-.
+
+x
+,
+.
+
+OACS
+Heater power SUPPlY
+Laser power supply
+
+Figure 2
+
+Figure 3
+
+20
+
+E 18
+E
+
+a-
+
+m 16
+
+U
+a
+,
+
+m c
+.- 14
+W
+
+(u
+
+a
+,
+a
+,
+5
+
++
+0
+
+12
+
+10
+
+c
+
+0
+.c
+.m
+0
+a
+
+8
+6
+4
+
+0
+
+20
+
+40
+
+60
+
+Time, seconds from ignition
+Figure 5
+
+80
+
+I .
+
+10
+
+I
+
+I
+
+I
+
+I
+
+I
+
+100
+
+I000
+
+1
+
+0.1
+
+0.1
+
+1
+
+10
+
+Opposing Flow Velocity, cm/s
+Figure 6
+
+1800
+
+0
+0
+
+1600
+
+a,
+-
+
+E"
+m
+
+I4O0
+
+cn
+
+0
+0
+
+1200
+
+n
+
+m
+
+E
+E 1000
+7
+
+2
+
+2
+!i
+
+800
+
+Q)
+
+CL
+
+5
+
+I
+
+600
+
+0
+
+#
+
+m
+
+6
+
+400
+
+* Experimed
+
+ih
+
+s
+
+200
+
+lorn
+0
+
+4
+
+2
+
+8
+
+8
+
+10
+
+12
+
+Flow, c d s
+
+0 '
+
+I
+
+I
+
+I
+
+I
+
+-2
+
+0
+
+2
+
+4
+
+Position relative to leading edge, mm
+Figure 7
+
+6
+
+I22
+20
+
+18
+16
+14
+12
+10
+8
+6
+
+4
+2
+
+0
+
+20
+
+40
+
+60
+
+Time, seconds from ignition
+
+Figure 8
+
+80
+
+100
+
+0.7
+0.6
+cn
+
+s,
+
+E 0.5
+E
+a>-
+
+E
+cr
+
+0.4
+
+U
+
+m
+2?
+C A 0.3
+
+cfl
+a>
+
+- 0.2
+
+1
+
+LL
+
+0.1 -//
+
+--
+
+Model: After Laser OF1
+
+!
+
+I
+
+I
+
+0
+
+0.0
+
+1
+
+2
+
+Laser Flux, Wkm2
+Figure 9
+
+I
+
+.
+
+1.3
+
+5
+
+No laser flux
+
+1.2
+
+10
+
+0
+
+20
+
+30
+
+50
+
+40
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Time, seconds
+1.3
+
+I
+
+I
+
+I
+
+1.1
+
+1.o
+
+s
+
+0.9
+
+x'
+
+0.0
+
+l $
+
+0.7
+
+I
+
+m
+1
+
+0.6
+
+0.5
+0.4
+0.3
+
+0
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+Time, seconds
+
+Figure 10
+
+70
+
+80
+
+90
+
+100
+
+1600
+
+1400
+
+1200
+
+1000
+
+800
+
+$? 1800
+600
+
+400
+
+E
+
+E’ 1000
+
+200
+
+.x
+
+9 800
+
+Laser FIUX, W/cm*
+1
+
+0
+
+2
+
+0
+-2
+
+0
+
+2
+
+4
+
+Position relative to leading edge, mm
+
+Figure! 11
+
+6
+
+8
+
+400
+
+n2
+
+300
+
+g
+- 0.08 -
+
+Y
+
+8
+E
+
+5
+
+200
+
+0.06
+
+-
+
+0.04
+
+-
+
+C
+
+I
+-
+
+a
+!
+
+m 0.02
+S
+m
+
+s
+
+0 0.00
+
+100
+
+0
+
+71
+
+0
+
+20
+
+2
+
+1
+
+1
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+40
+
+60
+
+80
+
+100
+
+120
+
+I 40
+
+Relative Time, seconds
+Figure 12
+
+20
+
+15
+
+10
+
+5
+
+0
+
+50
+
+100
+
+150
+
+200
+
+Time from ignition, seconds
+Figure 13
+
+250
+
+300
+
+20
+
+15
+
+10
+
+5
+
+0
+
+100
+
+200
+
+Time from ignition, seconds
+Figure 14
+
+30 0
+
+I
+
+I
+
+I
+
+0
+
+-3
+
+I
+I
+
+5
+
+10
+
+15
+
+I
+
+L..---.
+
+Distance from igniter end, mm
+
+Figure 15
+
+0
+
+-1
+
+-2
+0
+
+5
+
+10
+
+Distance from igniter end, mm
+
+Figure 16
+
+15
+
+20
+
+1e-3
+
+9e-4
+m
+N
+
+E
+
+v
+---.
+m
+
+Be-4
+Te-4
+6e-4
+
+5e-4
+
+P
+0
+
+0
+0
+2
+
+4
+
+6
+
+Flow data
+Flux Data
+8
+
+Flow or Flux, cmk or Wkm2
+Figure 17
+
+10
+
+0 .46
+
+15
+
+020
+
+OD
+
+2
+
+0.1
+
+02
+
+03
+
+0.4
+
+OS
+
+3
+
+Net Heat Flux to the Surface, Wkm’
+Figure 18
+
+4
+
+I
+
+.
+
+i
+
+I
+
+N
+
+c 4
+L
+
+0
+
+\
+
+I
+
+EZZZJ surfac e radiative loss
+ESSSl gas-phase c o n d u c t i o n
+
+absorbed laserflux
+
+3
+Q) 3
+-
+
+-1
+Imposed flux, W/c m*
+Figure 19
+
+I
+
+50% 0 2
+
+I
+
+------.
+
+I - - - - -
+
+I.
+
+Figure 20a
+
+Figure 20 b
+
+600
+580
+560
+540
+
+0.01
+
+1
+
+m
+C
+J
+
+-
+
+i
+
+1
+
+d.$.A
+
+0
+.E
+a
+,
+-
+
+I
+
+a
+,
+c:
+0
+
+m
+
+U
+Y
+
+520
+0.001
+500
+
+480
+460
+345
+
+350
+
+355
+
+360
+
+Time from ignition, seconds
+
+Figure 21
+
+365
+
+370
+
+?!i
+
+Table 1
+DARTFire Test Matrix
+Flight Tunnel
+1A
+
+Measured spread
+rate, c d s
+
+Molar Oxygen
+Concentration, %
+
+35
+
+Extinguished
+~~
+
+1B
+(baseline)
+
+50
+
+1
+
+2A
+
+50
+
+1
+
+Io
+I
+
+l*
+
+5
+
+3A
+
+50
+
+1
+
+3B
+
+50
+
+10
+
+4A
+~
+
+50
+
+50
+
+1
+
+4B
+I70
+selected to offset surface radiativ :loss
+selected to -offset surface+ gas-phase radiative loss
+
+-
+
+0.020
+
+0.019 on
+0.010 off
+0.032
+
+I
+
++2
+
+2B
+
+~
+
+10
+
+0.033 on
+0.020 off
+
+0.045
+No Ignition
+0.040
+
++
+
+Table 2
+Burning Rate 1 ata
+Test No.
+
+Flow
+cm/s
+
+Flux,
+Total mass
+W/cm2 Lost, g
+
+Deepest
+regression,
+mm, r a
+mx
+
+max. burning rate%,
+g/cm2s
+
+0.162
+
+-1.90
+
+0.121
+
+-1.90
+
+0.190
+
+-2.23
+
+7 . 2 9 1O4
+~
+
+0.179
+
+-1.84
+
+6 . 0 2 lo4
+~
+
+3b
+10
+0.196
+-2.84
+% maximum burning rate = p r,, /total bum tj ie
+
+9.28~10~
+
+Table 3
+Flame
+spread rate,
+cds
+
+0.020
+0.019
+0.010
+0.033
+0.020
+0.040
+

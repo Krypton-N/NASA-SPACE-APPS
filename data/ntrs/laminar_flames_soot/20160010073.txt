@@ -1,0 +1,271 @@
+A Burning Rate Emulator
+(BRE) for Study in
+Microgravity
+1Dept.
+
+A. Markan, P.B. Sunderland, J.G. Quintiere*1, J. DeRis2, D.P. Stocker3
+of Fire Protection Engineering, University of Maryland, College Park, MD 20742, USA
+2retired, FM Global, Norwood, MA 02062, USA
+3NASA Glenn Research Center, Cleveland, OH 44135, USA
+
+Acknowledgements to
+F. Takahashi4, P.V. Ferkul5
+4Case Western Reserve University, Cleveland, OH 44106, USA
+5Universities Space Research Assoc, NASA Glenn Research Center, Cleveland, OH 44135, USA
+NASA GRC Award NNX10AD98G
+
+Objective & proof of concept
+
+20	  mm
+
+100	  mm
+
+100	  mm
+
+200	  mm
+
+  Seek to emulate the steady burning conditions of
+condensed fuels by using a gas burner.
+
+Methanol	  Pool
+
+ASGSR 2015 Alexandria, VA
+
+BRE
+
+Heptane
+
+BRE
+
+PMMA
+
+BRE
+
+POM	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	   BRE
+
+11/13/15
+
+Method
+  Hypotheses: Burner matches properties
+1  heat of gasification by flow rate and heat flux
+measurements
+2  heat of combustion by a mixture of gaseous fuel
+and diluent
+3  surface re-radiation by temperature measurement
+4  smoke point by fuel - diluent mixture.
+ASGSR 2015 Alexandria, VA
+
+11/13/15
+
+Tests: NASA 5.18 s
+  About 53 tests Varying:
+ 
+
+Diameter: 25, 50 mm
+
+ 
+
+Fuel: CH4, C2H4 w & wo N2
+
+ 
+
+Flow rate 3.5 to 12.7 g/m2s
+
+ 
+
+Pressure 0.5 to 1 atm
+
+ 
+
+Oxygen 21 to 30%
+
+  Fix heat of combustion
+  & smoke point
+  Obtain L and Ts
+ASGSR 2015 Alexandria, VA
+
+11/13/15
+
+Typical Results 25 mm
+Ignition 0.5s
+Before 0 g
+-­‐0.5s
+
+	  	  	  	  	  0.5s	  
+start	  
+
+1.5s
+
+2.5s
+
+	  3.5s
+
+	  	  4.5s
+
+	  	  	  	  5.5s	  
+end
+
+Steady at End?
+ASGSR 2015 Alexandria, VA
+
+11/13/15
+
+Test 92 - C2H4 - 50 mm - 30% O2 - 0.7 atm –
+compared to C2H4 - 25 mm - 30% O2 - 0.7 atm
+  25 mm heat flux ~ 3 kW/m2; 50 mm ~ 7 kW/m2
+35
+50
+
+25
+
+45
+40
+
+20
+
+HF @ r = 16.5
+mm
+
+15
+
+HF @ r = 0 mm
+
+10
+5
+
+For 25 mm
+
+0
+0
+
+5
+
+10
+
+Time (s)
+
+15
+
+Flame Height (mm)
+
+Net Heat Flux (kW/m2)
+
+30
+
+35
+30
+25
+20
+
+For 25 mm
+
+15
+10
+5
+0
+0
+
+1
+
+2
+
+3
+4
+Time (s)
+
+5
+
+6
+
+7
+
+  Think radiation from gases is increasing with diameter
+ASGSR 2015 Alexandria, VA
+
+11/13/15
+
+Analysis
+  BRE gives surface temperature and net heat flux
+  Compute heat of gasification
+
+!
+! ′′
+m′′L = qnet
+
+  Obtain “steady burning”?
+  Diffusive theory
+  Heat flux
+  “Height”
+
+Yox,∞ Δhc,ox
+⎛ 8⎞
+!
+q′′Dc p / kL = ⎜ ⎟ ln(1+
+)
+L
+⎝π ⎠
+
+y f ⎛ π ⎞ B ln ⎡(1 + B) / (Yox,∞ / (YF,o Δhc / Δhox ) +1)⎤
+⎣
+⎦
+≡⎜ ⎟
+2
+D ⎝ 8⎠
+⎡ ln (1 + B )⎤
+⎣
+⎦
+ASGSR 2015 Alexandria, VA
+
+11/13/15
+
+2-D theory H. Baum
+
+Same as 1-D for flat ellipse
+But analytic solution for
+ellipsoidal flame!
+ASGSR 2015 Alexandria, VA
+
+11/13/15
+
+Dimensionless Heat Flux
+
+Dimensionless Flame Height
+
+Mass Flux vs L
+
+Radiation for 50 mm
+
+Conclusions
+  BRE gives efficient results in microgravity
+  “Drop” tests show possible trend toward steady state
+  A steady model correlates results over changes in fuel, pressure,
+oxygen, and flow rate
+  Burning and heat flux depend on L, heat of gasification and D,
+diameter
+  Flame size depends linear on D, and on L and fuel mass fraction in
+the BRE flow
+  Both also depend on oxygen concentration, but not apparently on
+pressure (Pressure effects flame height, but not in theory)
+ASGSR 2015 Alexandria, VA
+
+11/13/15
+
+Ignition/Extinction in 1g
+  PhD student from U of Lund
+
+ASGSR 2015 Alexandria, VA
+
+11/13/15
+
+Future
+  Explore Baum 2-D solution ( & extinction)
+  Compute gas radiation
+  Add radiation (analytic and numerical)
+  Explore 1-g BRE
+  Calibrate NASA BRE burners
+  Attempting new PhD student by NASA student grant
+
+ASGSR 2015 Alexandria, VA
+
+11/13/15
+

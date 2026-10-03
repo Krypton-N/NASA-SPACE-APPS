@@ -1,0 +1,348 @@
+Title of Grant / Cooperative Agreement:
+
+Material Ignition and Suppression in Space Exploration Atmospheres
+
+Type of Report:
+
+Summary of Research
+
+Name of Principal Investigator:
+
+Carlos Fernandez-Pello
+
+Period Covered by Report:
+
+1/1/10 - 5/31/13
+
+Name and Address of recipient’s institution:
+
+Regents of the University of California, c/o Sponsored Projects Office, Berkeley, CA 94704
+
+NASA Grant / Cooperative Agreement Number:
+
+NNX10AE01G
+
+Reference 14 CFR § 1260.28 Patent Rights (abbreviated below)
+The Recipient shall include a list of any Subject Inventions required to be disclosed during the preceding year in the performance
+report, technical report, or renewal proposal. A complete list (or a negative statement) for the entire award period shall be included in
+the summary of research.
+Subject inventions include any new process, machine, manufacture, or composition of matter, including software, and improvements to,
+or new applications of, existing processes, machines, manufactures, and compositions of matter, including software.
+Have any Subject Inventions / New Technology Items resulted
+from work performed under this Grant / Cooperative Agreement?
+
+No
+
+Yes
+
+If yes a complete listing should be provided here:
+Details can be provided in the body of the Summary of Research
+report.
+
+Reference 14 CFR § 1260.27 Equipment and Other Property (abbreviated below)
+A Final Inventory Report of Federally Owned Property, including equipment where title was taken by the Government, will be submitted
+by the Recipient no later than 60 days after the expiration date of the grant. Negative responses for Final Inventory Reports are
+required.
+Is there any Federally Owned Property, either Government
+Furnished or Grantee Acquired, in the custody of the Recipient?
+
+No
+
+Yes
+
+If yes please attach a complete listing including information as set
+forth at § 1260.134(f)(1).
+
+Attach the Summary of Research text behind this cover sheet.
+Reference 14 CFR § 1260.22 Technical publications and reports (December 2003)
+Reports shall be in the English language, informal in nature, and ordinarily not exceed three pages (not counting bibliographies,
+abstracts, and lists of other media).
+A Summary of Research (or Educational Activity Report in the case of Education Grants) is due within 90 days after the expiration date
+of the grant, regardless of whether or not support is continued under another grant. This report shall be a comprehensive summary of
+significant accomplishments during the duration of the grant.
+
+NASA GRANT NNX10AE01G
+Material Ignition and Suppression Test (MIST) in Space Exploration
+Atmospheres
+Summary of Research
+Principal Investigator:
+
+Professor Carlos Fernandez-Pello
+Department of Mechanical Engineering
+University of California
+Berkeley, CA 94720-1740
+
+NASA Technical Officer:
+
+Dr. David Urban and Dr. Justin Niehaus
+
+Period of Performance:
+
+January 1st, 2010– May 31st, 2013
+
+Abstract
+The Material Ignition and Suppression Test (MIST) project has had the objective of
+evaluating the ease of ignition and the fire suppression of materials used in spacecraft under
+environmental condition expected in a spacecraft. For this purpose, an experimental and
+theoretical research program is being conducted on the effect of space exploration atmospheres
+(SEA) on the piloted ignition of representative combustible materials, and on their fire
+suppression characteristics. The experimental apparatus and test methodology is derived from the
+Forced Ignition and Flame Spread Test (FIST), a well-developed bench scale test designed to
+extract material properties relevant to prediction of material flammability. In the FIST test,
+materials are exposed to an external radiant flux and the ignition delay and critical mass flux at
+ignition are determined as a function of the type of material and environmental conditions.
+In the original MIST design, a small-scale cylindrical flow duct with fuel samples
+attached to its inside wall was heated by a cylindrical heater located at the central axis of the
+cylinder. However, as the project evolved it was decided by NASA that it would be better to
+produce an experimental design that could accommodate other experiments with different
+experimental concepts. Based on those instructions and input from the requirements of other
+researchers that may share the hardware in an ISS/CIR experiment, a cylindrical design based on
+placing the sample at the center of an optically transparent tube with heaters equally spaced
+along the exterior of the cylinder was developed. Piloted ignition is attained by a hot wire igniter
+downstream of the fuel sample. Environment variables that can be studied via this experimental
+apparatus include: external radiant flux, oxidizer oxygen concentration, flow velocity, ambient
+pressure, and gravity level (if flown in the ISS/CIR). This constitutes the current experimental
+design, which maintains fairly good consistency with Dr Tien’s and Dr Olson’s project
+approaches. A further goal of the project has been to develop a combined solid/gas phase
+numerical model based on the MIST test methodology to predict the flammability behavior of
+practical materials in spacecraft.
+
+1
+
+The Summary of Research report describes the work undertaken in the design of the
+MIST project as well as initial computational and experimental results. MIST has developed an
+usable experimental apparatus for evaluation of an optimum configuration of sample, heater and
+igniter placement to fall within the power supply and heat dissipation requirements of the NASA
+ISS/CIR. Using this experimental apparatus, preliminary time to ignition and mass loss at
+ignition data have been collected as a means of establishing a baseline, for eventual use in
+conjunction with space flight data. In a parallel effort a numerical model of the piloted ignition
+of a 2-D sample of PMMA has been developed and prediction of ignition delay has been
+obtained as a function of several ambient variables.
+
+Experimental Task
+The current iteration of the experimental apparatus is shown in Figure 1. It is built around
+a vertically oriented cylindrical sample. Below the sample are a flow chamber, which allows for
+controlled flows of air with a prescribed oxidizer (balance nitrogen) concentration between 14
+and 30 percent at velocities between 10 and 100cm/sec, as well as a flow homogenizer, as per
+ASTM D2863 í . Equispaced around the sample are three infrared halogen lamps capable of
+irradiating the sample with upwards of 40 kW/m^2 of incident flux. Above the sample, and
+crossing the boundary layer of the flow is a hot-wire igniter which acts as the source of piloted
+ignition for the samples. The samples are suspended from the bottom of a milligram accuracy
+load cell to allow for measurement of the bulk mass loss of the samples as they pyrolyze under
+the influence of the external radiant flux or while burning.
+The apparatus was built to be similar in most respects to the ASTM D2863 - 12 1
+standard, and thus the inlet to the test section is filled with borosilicate beads which act to
+homogenize the flow and produce a uniform flow into the test section. The test section itself is a
+254 mm piece of quartz tubing with an outer diameter of 75 mm and an inner diameter of 70
+mm. The samples are centered in the test section radially as well as along the lit length of the
+heaters. The quartz infrared halogen lamp heaters have a lit length of 127 mm and a total length
+of 220 mm that are enclosed in parabolic reflectors. The three heaters are radially equispaced
+around the test section at 120 degree intervals, thus irradiating the fuel sample with an
+approximately uniform heat flux of upwards of 40 kW/m^2. Ignition is induced with an
+electrically heated Kanthal wire coil that acts as a pilot and is located 25 mm downstream from
+the trailing edge of the fuel sample. The coil is placed so that it covers the fuel vapor
+concentration boundary layer thus eliminating the pilot location, in the axial direction, as a
+parameter of the problem.
+Surface temperature of the samples is measured with 0.127 mm wire thickness type K
+thermocouples placed halfway along the length of the test specimen. Although care is taken to
+ensure that the thermocouple bead is embedded flush with the sample surface, the measured
+temperatures presented throughout should only be viewed as an approximation of the actual
+surface temperature due to movement of the thermocouple resulting from surface density
+1
+
+ASTM D 2863 – 12: “Standard Test Method for Measuring the Minimum Oxygen
+Concentration to Support Candle-Like Combustion of Plastics (Oxygen Index)”
+2
+
+changes and the growth of pyrolyzate bubbles. The load cell from which the samples are
+suspended has 0.1 mg resolution. It is positioned above the flow duct, and the specimens are
+hung, via an auto-centering cup and cone apparatus in the test section to record continuous mass
+loss data during experiments. Black cast Poly(methyl-methacrylate) (PMMA)type-G samples,
+approximately 154 mm in length and 12.7 mm in diameter were used for these experiments.
+
+Figure 1: A photograph of the current experimental apparatus
+
+A potential issue of the current MIST experimental design is the dependence of the
+radiant flux distribution over the sample surface on the number of radiant heaters located around
+the cylindrical fuel sample. It was determined that differences in surface temperature between
+samples irradiated by three or four heaters equispaced around the sample was small, which
+justified the use of three heaters in the experimental design. Simulated surface temperature at an
+arbitrary point on a samples surface as a function of time for 3 heaters and 4 heaters can be seen
+in Figure 4. The theoretical results confirm the experimental measurements. Thus it was
+concluded to finalize the design of the experiment using three radiant heaters as shown in Figure
+2. Figures 2 and 3 show the angular variation in heat flux at the surface of a cylindrical sample as
+a function of power for three and four heaters spaced at 120 and 90° respectively.
+
+3
+
+Figure 2: The angular variation in heat flux [kW/m^2] reaching a circular surface given three heaters and
+120° heater placement for four different incident power levels
+
+Figure 3: The angular variation in heat flux [kW/m^2] reaching a circular surface given four heaters and 90°
+heater placement for four different incident power levels
+
+4
+
+Figure 4: A comparison of simulated surface temperature at an arbitrary point on a sample’s surface as a
+function of time for 3 heaters and 4 heaters given the highest level of power output and no convective cooling.
+
+The construction of the above-described experimental apparatus was finalized and
+experiments on ignition delay and mass loss at ignition were initiated. Two types of ignition
+experiments have been conducted with the MIST apparatus. The first set is to determine whether
+polymer samples, specifically cast PMMA samples, can be re-used so that several ignition tests
+can be conducted with the same sample. During the tests consideration is given to whether
+thermal degradation of the samples affects their properties in a significant manner between
+ignitions, and whether ignition delay in particular is affected. Thus far this investigation has been
+conducted with piloted ignition of samples similar to those mentioned previously. An example of
+the experimental results is shown in Figure 5. It is seen that the mass loss before ignition as well
+as the time to ignition are statistically different between ignition of virgin samples and re-ignition
+of the same samples after cooling.
+
+5
+
+Figure 5: A representative set of re-ignition tests for cast PMMA samples with between 9-11 kW/m^2
+incident radiant flux from 3 heaters at 120° spacing with no external flow and ambient atmospheric
+conditions.
+
+The second set of experiments is aimed at providing ignition delay and mass loss at
+ignition as a function of the environmental variables. An example unprocessed surface
+temperature and mass loss data with time is given in Figure 6. The figure presents two sets of
+data for samples irradiated with ~30 kW/m^2 of incident heat flux under ambient atmospheric
+conditions. Data such as this can be used to obtain ignition delay and critical mass flux at
+ignition as a function of the problem parameters. As can be seen in Figure 7, the data seems to
+indicate an exponential decay in time to ignition with rising heat flux as well as a minimum time
+to ignition for the given geometrical constraints of the experiment. This was expected given the
+previous work with the FIST apparatus. Additionally, Figure 8 indicates that across a broad
+range of incident heat fluxes, at ambient atmospheric conditions, that there is an apparently
+constant mass loss at ignition.
+
+6
+
+Figure 6: A representative set of ignition tests for cast PMMA samples with between ~30 kW/m^2 incident
+radiant flux from 3 heaters at 120° spacing with no external flow and ambient atmospheric conditions.
+
+Figure 7: Time to ignition versus incident heat flux for the cast PMMA samples. Each point represents one
+sample (or test). This data exhibits the expected exponential decay in time to ignition versus incident heat flux
+as well as indications as to the critical heat flux for ignition and minimum time to ignition.
+
+7
+
+Figure 8: Mass loss at ignition (dm/dt) versus incident heat flux for the cast PMMA samples. As above, each
+point represents one sample (or test). This data indicates that over a range of heat fluxes that there does not
+seem to be an appreciable difference in the mass loss at ignition.
+
+Modeling Task
+Modeling is being carried out in conjunction with the above experimental work to
+simulate the MIST experiments. One version of the current model currently in use was
+developed to simulate a 2-D solid fuel slab using the Fire Dynamics Simulator (FDS) [2] version
+6R3 in its Direct Numerical Simulation (DNS) mode. A second considers the geometry of the
+current experiment using a long axisymmetric fuel rod in a duct similar to that in the current
+iteration of the experiment. The model simultaneously considers the processes in the solid and in
+the gas phases. The solid phase decomposition is modeled with a single step global Arrhenius
+reaction rate. Oxidative pyrolysis is not considered and the in-depth formed pyrolyzate is
+assumed to flow unrestricted through the solid combustible. The gas phase kinetics are modeled
+with a single-step second order Arrhenius reaction rate. Although the current model may
+simulate well the cylindrical experiments, it may be necessary to confirm this and implement any
+necessary modification.
+The ignition process simulation results provide a sequential view of the different events
+leading to the piloted ignition of PMMA. First looking at some graphical results from the
+simulated flat slab, Figures 9-11 show snapshots of the numerical results for the heat release rate,
+gas phase temperature and fuel mass fraction at four representative instants during a simulation
+for a horizontally placed PMMA sample. The ambient pressure is 100 kPa, the oxygen
+concentration is 21%, the air flow velocity is 0.4 m/s and the external radiant heat flux is 16
+kW/m2. The complete computational domain is not shown for clarity of presentation. Figure
+9shows the heat release rate (HRR) per unit volume, which is proportional to the reaction rate.
+
+8
+
+The HRR plots show how a gas phase reaction appears first at the pilot location (Fig.9.a), 545
+seconds after the external heat flux is activated. At this point the gas phase temperature near the
+sample surface is relatively low compared to the PMMA pyrolysis temperature (Fig.10.a), and
+the fuel mass fraction is limited to a thin layer next to the fuel surface (Fig.11.a). The fuel air
+mixture near the pilot is just above the flammability limit for PMMA. With time the rate of fuel
+pyrolysis grows (Fig.11.b) and so does the reaction rate region around the pilot (Fig.9.b). At
+774.1 seconds the reaction rate ‘jumps’ upstream onto the solid surface (Fig.9.c) in the form of a
+premixed flame propagating through a premixed mixture, consuming most of the fuel except in a
+very narrow layer (quenching layer) near the solid surface. During this propagation process a
+kind of triple flame is generated. Finally at 788.6 seconds the premixed flame propagates across
+the whole solid surface and a diffusion flame established over the solid surface (Fig.10.d). The
+gas phase temperature (Fig.9.d) and the fuel mass fraction (Fig.11.d) are typical of a diffusion
+flame. Note that buoyancy plays an important role once the flame is established over the PMMA
+surface because the forced flow velocity is low (0.4 m/s).
+
+Figure 9: Heat release rate results.
+
+Figure 10. Gas phase temperature results
+
+9
+
+Figure 11. Fuel mass fraction results
+
+Simulations for normal and zero gravity conditions are compared in Figs. 12-13. Figure
+12 shows the gas phase temperature at sequential times around the ignition event for 1-g (top)
+and 0-g (bottom) conditions. The ambient pressure is 100 kPa, the oxygen concentration is 21%,
+the air flow velocity is 0.4 m/s and the external radiant heat flux is 16 kW/m2. From Figs. 12a to
+12c it is seen that buoyancy plays an important role through the Rayleigh-Taylor instability at
+normal gravity, particularlyonce the flame is established over the PMMA surface. However, the
+Rayleigh-Taylor instability disappears for zero gravity conditions (Fig. 12 d, e and f) and the
+flame shows a distinct round, more uniform shape. Furthermore, ignition occurs significantly
+earlier at 0-g than at 1-g conditions (596 s compared to 774 s).
+Figure 13 shows the heat release rate per unit volume for 1-g (top) and 0-g (bottom)
+conditions. The HRR snapshots show how the gas phase reaction at the pilot (Fig. 13.a for 1-g,
+Fig.13.d for 0-g) eventually “jumps” upstream onto the solid surface (Fig.11.b for 1-g, Fig.11.e
+for 0-g) in the form of a premixed flame propagating through a premixed mixture, consuming
+most of the fuel except in a very narrow layer (quenching layer) near the solid surface. During
+this propagation process a type of triple flame is generated (Fig.13.b for 1-g, Fig.13.e for 0-g). At
+a certain point the premixed flame propagates across the whole solid surface and a diffusion
+flame is established over the solid surface (Fig.13.c for 1-g, Fig.13.f for 0-g). A distinct feature
+was observed in the microgravity flame: the reaction was quenched multiple times, jumping from
+the pilot location onto the surface and back, until it anchored on the solid surface and propagated
+uniformly towards the leading edge.
+
+10
+
+Figure 12. Comparison of gas phase temperature around ignition. Ambient pressure is 100 kPa, air flow
+velocity 0.4 m/s and q”=16 kW/m2. Top row (a-c) corresponds to 1-g, bottom row (d-f) to 0-g.
+
+Figure 13. Comparison of heat release rate (HRR) around ignition. Ambient pressure is 100 kPa, air flow
+velocity 0.4 m/s and q”=16 kW/m2. Top row (a-c) corresponds to 1-g, bottom row (d-f) to 0-g.
+
+Finally, looking at the model of the cylindrical rod samples, as presented in Figures 14
+and 15, one can begin to determine the effects that differing heat fluxes have on the cylindrical
+samples. In Figure 14, the burning rate as a function of time is shown for the same heat flux
+
+11
+
+range examined experimentally. In comparing this data to the experimental results shown in
+Figure 8, it can be seen that there is good agreement in the data in the intermediate range of heat
+fluxes investigated, while the current model seems to over-predict the burning rate at high heat
+fluxes, and under-predict it for low heat fluxes.
+
+Figure 14. Comparison of calculated burning rates [kg/sec.] as a function of incident heat flux. Ambient
+pressure is 1 atm, air flow velocity 0.02 m/s.
+
+Similarly, in Figure 15, one can use the computed heat release rate of from the model to
+determine ignition delay time. These can also be compared to the experimental time to ignition
+data presented in Figure 7. The current model seems to under predict ignition delay time, and in
+many cases by a significant amount. This is potentially due to how the incident heat flux
+boundary condition was imposed as a uniform flux and in it’s current incarnation does not
+account for edge effects due to the finite length of the heater. Another possible concern may be
+the asymmetry implied by the model, which may not be accounting for the thinner boundary
+layer of the rod, thus over predicting the convective losses, leading to the sample to heat faster.
+Generally though, both the flat slab and cylindrical rod models are moving towards becoming
+useful predictive tools for the study of ignition and flame spread phenomena.
+
+12
+
+Figure 15. Comparison of calculated heat release rates [kW] as a function of incident heat flux. Ambient
+pressure is 1 atm, air flow velocity 0.02 m/s.
+
+Publications during this grant period
+S. Fereres, C. Lautenberger, C. Fernandez-Pello, D. Urban, and G. Ruff, “Understanding Pressure effects
+on Piloted Ignition Through Numerical Modeling ” Combustion and Flame, 159, 12, 3544-3553 (2012).
+S. Fereres, C. Fernandez-Pello, D. Urban and G. Ruff, “Identifying the Roles of Microgravity and
+Reduced Pressure on the Ease of Ignition of Solid Combustibles” 42nd International Conference on
+Environmental Systems (ICES), AIAA, San Diego, CA, July 16-18 (2012).
+
+13
+

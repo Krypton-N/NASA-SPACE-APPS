@@ -1,0 +1,549 @@
+Paper # 114LF-0437
+
+Topic: Laminar Flames
+
+9th U.S. National Combustion Meeting
+Organized by the Central States Section of the Combustion Institute
+May 17–20, 2015
+Cincinnati, Ohio
+
+A Numerical and Experimental Study of Coﬂow Laminar
+Diffusion Flames: Effects of Gravity and Inlet Velocity
+S. Cao1
+
+B.A.V. Bennett1
+B. Ma2
+F. Takahashi4
+M.B. Long1
+
+D. Giassi1
+D.P. Stocker3
+M.D. Smooke1,∗
+
+1
+
+Department of Mechanical Engineering & Materials Science,
+Yale University, P.O. Box 208284, New Haven, Connecticut 06520–8284 USA
+2
+
+GE Global Research Center,
+1 Research Circle, Niskayuna, NY 12309, USA
+3
+
+4
+
+∗
+
+NASA Glenn Research Center,
+Cleveland, Ohio 44135 USA
+
+Department of Mechanical & Aerospace Engineering,
+Case Western Reserve University,
+Cleveland, Ohio 44106 USA
+
+Corresponding Author Email: mitchell.smooke@yale.edu
+
+Abstract: In this work, the inﬂuence of gravity, fuel dilution, and inlet velocity on the structure, stabilization, and sooting behavior of laminar coﬂow methane-air diffusion ﬂames was investigated both
+computationally and experimentally. A series of ﬂames measured in the Structure and Liftoff in Combustion Experiment (SLICE) was assessed numerically under microgravity and normal gravity conditions with the fuel stream CH4 mole fraction ranging from 0.4 to 1.0. Computationally, the MC-Smooth
+vorticity-velocity formulation of the governing equations was employed to describe the reactive gaseous
+mixture; the soot evolution process was considered as a classical aerosol dynamics problem and was
+represented by the sectional aerosol equations. Since each ﬂame is axisymmetric, a two-dimensional
+computational domain was employed, where the grid on the axisymmetric domain was a nonuniform
+tensor product mesh. The governing equations and boundary conditions were discretized on the mesh
+by a nine-point ﬁnite difference stencil, with the convective terms approximated by a monotonic upwind scheme and all other derivatives approximated by centered differences. The resulting set of fully
+coupled, strongly nonlinear equations was solved simultaneously using a damped, modiﬁed Newton’s
+method and a nested Bi-CGSTAB linear algebra solver. Experimentally, the ﬂame shape, size, lift-off
+height, and soot temperature were determined by ﬂame emission images recorded by a digital camera,
+and the soot volume fraction was quantiﬁed through an absolute light calibration using a thermocouple.
+For a broad spectrum of ﬂames in microgravity and normal gravity, the computed and measured ﬂame
+quantities (e.g., temperature proﬁle, ﬂame shape, lift-off height, and soot volume fraction) were ﬁrst
+compared to assess the accuracy of the numerical model. After its validity was established, the inﬂuence of gravity, fuel dilution, and inlet velocity on the structure, stabilization, and sooting tendency of
+laminar coﬂow methane-air diffusion ﬂames was explored further by examining quantities derived from
+the computational results.
+Keywords: laminar diffusion ﬂame, gravity, fuel dilution, ﬂame structure
+
+1
+
+9th U.S. Combustion Meeting – Paper # 114LF-0437
+
+1
+
+Topic: Laminar Flames
+
+Introduction
+
+In 2011, over 70% of electricity in U.S. was generated from the burning of fossil fuels, so a better
+understanding of combustion is of great importance [1]. Microgravity provides an ideal yet rigorous environment to study ﬂame structure and examine computational models, because the structure
+of a microgravity ﬂame is dramatically different from its normal gravity counterpart, and microgravity ﬂames have larger scales and longer residence times, which makes it possible to study a
+wider range of ﬂame conditions than under normal gravity. As a result, a signiﬁcant amount of
+research has been conducted under microgravity conditions (e.g., [2–7]) to study the effects of
+various physical parameters on ﬂames. In this study, previous computational and experimental
+investigations of coﬂow laminar diffusion ﬂames (e.g., [2, 3, 8, 9]) were extended to explore further the inﬂuences of gravity, fuel dilution, and inlet velocity on the structure and stabilization of
+laminar coﬂow methane/air diffusion ﬂames.
+2
+
+Burner conﬁguration
+
+The burner consists of a central jet, from which the fuel mixture issues, and a surrounding coaxial
+square duct, from which the coﬂow air ﬂows. The inner jet’s inner radius is rI = 0.162 cm and
+its wall thickness is wJET = 0.028 cm. The square duct’s width is 7.62 cm. Details of the burner
+construction and operation are provided in [8]. Thirty 70% CH4 ﬂames have been studied at three
+inlet fuel velocities (vF = 23 cm/s, 46 cm/s, and 81 cm/s) and ﬁve coﬂow velocities (peak coﬂow
+velocity vO,max approximately equals to 18, 39, 48, 54, and 71 cm/s) under both microgravity (µg)
+and normal gravity (1 g). Since each ﬂame is surrounded by an air coﬂow and takes at most 4%
+of the cross-sectional area of the burner, the square duct is approximated as a coaxial tube with
+an identical cross-sectional area (radius rO = 4.288 cm); see Fig. 1 (left). The velocity proﬁle
+of the fuel stream is parabolic, with the average Reynolds number in the fuel jet ranging from
+21 to 76. Due to hardware imperfections, the ﬂow ﬁeld of the coﬂow air is not perfectly ﬂat and
+has a bump near the inner tube; see Fig. 1 (right). To capture this nonideality, the measured inlet
+velocity distribution has been ﬁtted by a hyperbolic tangent function [8, 9]. Since temperature
+measurements near the fuel tube exit are unavailable, the inlet temperature is set to 298 K.
+3
+
+Computational approach
+
+The numerical framework is similar to those in the authors’ previous works (see, for example, [10–
+13]) with the MC-Smooth vorticity-velocity formulation [14] employed. Speciﬁcally, the gaseous
+mixture is assumed to be Newtonian, and the diffusion of each species is approximated as Fickian.
+The ﬂow’s small Mach number implies that pressure P can be approximated as being independent
+of location in the ﬂame, and mixture density ρ can be directly obtained from the ideal gas law.
+To evaluate the divergence of the net radiative ﬂux, the model includes an optically thin radiation
+submodel [15–17] with three radiating species (H2 O, CO, and CO2 ). The gas-phase chemistry
+employed in this research is the GRI 3.0 mechanism [18] with all nitrogen-containing species
+(except N2 ) removed, leaving 35 species and 217 reactions. All thermodynamic, chemical, and
+transport properties are evaluated by the CHEMKIN [19, 20] and TRANSPORT [21, 22] subroutine
+libraries, parts of which were optimized for greater speed [23].
+
+2
+
+9th U.S. Combustion Meeting – Paper # 114LF-0437
+
+Topic: Laminar Flames
+
+Inlet coflow velocity vz,0 (cm/s)
+
+80
+vO,max = 71 cm/s
+60
+vO,max = 54 cm/s
+vO,max = 48 cm/s
+40
+
+vO,max = 39 cm/s
+
+20
+
+vO,max = 18 cm/s
+
+0
+0
+
+1
+
+2
+r (cm)
+
+3
+
+4
+
+Figure 1: Left: Schematic of the burner used in the simulations. Right: Measured (symbols) and ﬁtted (line) velocity
+proﬁles of the coﬂow air.
+
+Since each ﬂame is axisymmetric, a two-dimensional computational domain is employed, extending radially to r = 4.288 cm and axially to z = 12.2 cm. Except for the speciﬁc values of
+velocities, temperatures, and concentrations at the inlet, the boundary conditions are similar to
+those in [11, 24] and are outlined here brieﬂy. At the bottom boundary (inlet), vr , vz , T , and Yn
+(n = 1, ..., Nspecies ) are speciﬁed to values mentioned previously in Section 2, and the deﬁnition
+of ω is applied. At the top boundary (outlet), the deﬁnition of ω is applied, and axial gradients
+of all other variables vanish. Along the axis of symmetry (z-axis), vr and ω vanish; ∂vz /∂r,
+∂T /∂r, and ∂Yn /∂r (n = 1, ..., Nspecies ) are set to zero. The boundary conditions on vz , T , and
+Yn are discretized as discussed in [11], in order to avoid convergence difﬁculties and/or discretization inaccuracies. At the outer radial boundary, vr , vz , and ∂Yn /∂r (n = 1, ..., Nspecies ) vanish,
+T = 298 K, and the deﬁnition of ω is applied.
+The grid on the axisymmetric domain is a nonuniform tensor product mesh containing 129 points
+in the r direction and 202 points in the z direction. The grid points are clustered towards the burner
+surface and the centerline in order to capture the sharp gradients in these regions. The governing
+equations and boundary conditions were then discretized on this tensor product grid via standard
+nine-point ﬁnite difference stencils, which are second-order accurate in the regions of the grid that
+are equispaced and are between ﬁrst- and second-order accurate elsewhere. The resulting set of
+fully coupled, highly nonlinear equations is then solved simultaneously at all grid points using a
+damped modiﬁed Newton’s method [25, 26] with a nested Bi-CGSTAB linear algebra solver [27].
+To aid in convergence of Newton’s method, pseudo-transient continuation is performed until the
+adaptively chosen pseudo-time step exceeds a cut-off value, after which the steady-state equations
+are ﬁnally solved to a Newton tolerance of 10−4 . All calculations were performed on workstations
+with 3.0-GHz Intel Xeon E5472 processors, and the typical memory usage for a computation on
+the 129 × 202 grid is around 2.2 GB of RAM.
+
+3
+
+9th U.S. Combustion Meeting – Paper # 114LF-0437
+
+Topic: Laminar Flames
+
+70% CH4	
+
+23 cm/s	
+
+
+70% CH4	
+
+45 cm/s	
+
+
+70% CH4	
+
+81 cm/s	
+
+
+0 g	
+ 1 g	
+
+
+0 g	
+ 1 g	
+
+
+0 g	
+ 1 g	
+
+
+Max.	
+
+
+Min.	
+
+
+Figure 2: Typical results of computed and measured luminous ﬂame shapes illustrating effects of inlet fuel velocity.
+Color contours are measured luminous ﬂame images, and white isopleths are computed luminous ﬂame boundaries
+deﬁned by contours of 1% of the maximum CH concentration. Flame parameters are shown at the top of each plot.
+
+4
+
+Experimental approach
+
+A digital single lens reﬂex camera was used for ﬂame shape measurement and was fully characterized as a ratio pyrometer for soot temperature measurement. The spectral responses of the
+red, green, and blue channels have been measured following the approach detailed in [28, 29]. A
+calculated lookup table that correlates color ratio and soot temperature is used to determine the
+axisymmetric soot temperature distribution. Further details can be found in [8].
+5
+
+Preliminary results and discussion
+
+The numerical model has been validated for buoyant and nonbuoyant coﬂow laminar diffusion
+ﬂames in previous research [8, 9]. In this work, additional validation was conducted by comparing
+the computed and measured luminous ﬂame shapes of a series of CH4 -air coﬂow laminar diffusion
+ﬂames in both µ g and 1 g. Figure 2 shows a comparison between computed and measured luminous ﬂame shapes at identical fuel dilution level to demonstrate the effects of inlet velocity and
+gravity on ﬂame geometry. This direct comparison was enabled by the previous observation [2]
+4
+
+8
+
+Topic: Laminar Flames
+
+Flame radius rf (cm)	
+
+Flame radius rf (cm)
+Flame radius rf (cm)
+Flame radius rf (cm)
+Flame radius rf (cm)
+Flame radius rf (cm)
+
+f
+
+~	
+
+
+Modified flame Modified flame Modified flame length Lf (cm)
+Modified flame length Lf (cm) length Lf (cm)
+Modified flame length Lf (cm)
+Modiﬁed ﬂame length L (cm)	
+ length Lf (cm)
+
+9th U.S. Combustion Meeting – Paper # 114LF-0437
+
+(e)	
+
+
+6
+4
+2
+0
+
+(d)	
+
+
+6
+4
+2
+0
+
+(c)	
+
+
+6
+4
+2
+0
+
+(b)	
+
+
+6
+4
+2
+0
+
+(a)	
+
+
+6
+4
+2
+0
+0
+
+0.8
+
+(e)	
+
+
+0.6
+0.4
+0.2
+0.0
+
+(d)	
+
+
+0.6
+0.4
+0.2
+0.0
+
+(c)	
+
+
+0.6
+0.4
+0.2
+0.0
+
+(b)	
+
+
+0.6
+0.4
+0.2
+0.0
+
+(a)	
+
+
+0.6
+0.4
+0.2
+0.0
+0
+
+20
+40
+60
+80
+100
+Fuel stream velocity vF (cm/s)
+Inlet fuel velocity vF (cm/s)	
+
+
+20
+40
+60
+80
+100
+Fuel stream velocity vF (cm/s)
+Inlet fuel velocity vF (cm/s)	
+
+
+Figure 3: Left: Effect of inlet fuel velocity and inlet coﬂow velocity on modiﬁed ﬂame length. Right: Effect of inlet
+fuel velocity and inlet coﬂow velocity on ﬂame radii. In both plots, closed symbols denote measurements, and solid
+lines with open symbols denote predictions; squares denote results at 1 g, and diamonds denote results at µ g. Plots
+(a), (b), (c), (d), and (e) correspond to data with peak coﬂow velocity set to 18, 39, 48, 54, and 71 cm/s.
+
+that excellent structural agreement exists between computed CH and measured CH∗ in CH4 -air
+diffusion ﬂames for ﬂame shape and lift-off height in both µ g and 1 g. Since the ﬂames studied
+in our work range from lifted, non-sooting ﬂames to attached, sooting ﬂames, we deﬁned the computed luminous ﬂame boundary as the contour of 1% of the maximum CH concentration to ensure
+data consistency. Regardless of the presence of soot, there is generally good agreement between
+computed and measured ﬂame shapes: the computed luminous ﬂame boundaries are located very
+close to the measured ones, and they capture the tendency that the ﬂames become longer and wider
+as buoyancy is eliminated or fuel concentration is increased.
+Figure 3 shows the effects of inlet fuel velocity, inlet coﬂow velocity, and gravity on the modiﬁed
+ﬂame length (obtained by subtracting the lift-off height from the ﬂame length) and ﬂame radius
+of coﬂow laminar methane-air diffusion ﬂames. From Fig. 3, we can see that in most ﬂames, the
+agreement between computations and experiments is very good. In addition, we can also ﬁnd that
+5
+
+9th U.S. Combustion Meeting – Paper # 114LF-0437
+
+0.8
+
+(a)	
+
+
+(b)	
+
+
+0.6
+Flame radius rfr (cm)	
+
+Flame radius f (cm)
+
+6
+
+~	
+
+
+Flame length Lf (cm)
+Modiﬁed ﬂame length Lf (cm)	
+
+
+8
+
+Topic: Laminar Flames
+
+4
+
+2
+
+0
+
+0.4
+
+0.2
+
+0.0
+0.0
+
+0.2
+
+0.4
+0.6
+Gravity g
+Gravity g	
+
+
+0.8
+
+1.0
+
+0.0
+
+0.2
+
+0.4
+0.6
+Gravity g
+Gravity g	
+
+
+0.8
+
+1.0
+
+Figure 4: Effects of gravitational acceleration on (a) modiﬁed ﬂame length and (b) ﬂame radius of 70% CH4 ﬂames.
+In both plots, closed symbols denote measurements, solid lines with open symbols denote predictions. Results with
+inlet fuel velocities equal to 23 cm/s, 45 cm/s, and 81 cm/s are denoted by squares, diamonds, and circles.
+
+for a ﬁxed coﬂow velocity, increasing the fuel velocity will effectively increase the length and
+the radius of the ﬂame. On the other hand, increasing the coﬂow velocity will reduce both the
+modiﬁed ﬂame length and the ﬂame radius. Furthermore, it can be seen from Fig. 3 that changing
+gravity also has a signiﬁcant impact on laminar diffusion ﬂames. Speciﬁcally, when gravitational
+acceleration is eliminated, the ﬂame becomes longer and wider, and the actual difference (i.e., on
+an absolute basis) between µ g ﬂame and 1 g ﬂame will increase when the inlet fuel velocity is
+increased or the inlet coﬂow velocity is reduced.
+Finally, we will take a closer look at the effects of gravity on ﬂame structure. In Fig. 4, we
+have employed a total of ﬁve gravitational acceleration levels, 0 g, 0.02 g (typical value of the gjitter on aircraft ﬂying parabolic trajectories), 0.17 g (gravitational acceleration on Moon), 0.38 g
+(gravitational acceleration on Mars), and 1.0 g (gravitational acceleration on earth). From the
+results in Fig. 4, we see that the effects of gravity on ﬂame structure are highly nonlinear, and
+the ﬂame shape changes much faster near 0 g than near 1 g. In addition, we also see that this
+nonlinearity increases with increasing inlet fuel velocity, and this effect is particularly obvious in
+the ﬂame radii results. This result is not surprising because the buoyant acceleration is countered
+by buoyant entrainment such that gravity tends to have a limited effect on the ﬂame height. In
+contrast, buoyant entrainment tends to narrow these ﬂames.
+Further numerical investigations are in progress. In particular, the effect of fuel stream dilution
+(e.g., 40% CH4 and 100% CH4 ) will be explored at a series of coﬂow velocities by comparison
+with corresponding experimental measurements. After that, the sooting behavior of these ﬂames
+will also be examined.
+
+6
+
+9th U.S. Combustion Meeting – Paper # 114LF-0437
+
+6
+
+Topic: Laminar Flames
+
+Acknowledgments
+
+The authors would like to acknowledge support for this work from the U.S. Department of Energy
+Ofﬁce of Basic Energy Sciences under Award Number DE-FG02-88ER13966 (Dr. Mark Pederson, contract monitor); the National Science Foundation CBET-0828802 (Dr. Phil Westmoreland,
+contract monitor); NASA NNX11AP43A (Mr. Dennis P. Stocker, contract monitor); the U.S. Air
+Force Ofﬁce of Scientiﬁc Research AFOSR FA9550-12-1-0157 (Dr. Chiping Li and Dr. Fariba
+Fahroo, contract monitors); and the Strategic Environmental Research and Development Program
+and the Air Force Research Laboratory under agreement number FA8650-10-2-2934.
+References
+[1] U.S. Energy Information Administration (2011). Electricity Explained — Basics.
+[2] K.T. Walsh, J. Fielding, M.D. Smooke, M.B. Long, A. Li˜ an, Proc. Combust. Inst. 30 (2005) 357–365.
+n´
+[3] K.T. Walsh, J. Fielding, M.D. Smooke, M.B. Long, Proc. Combust. Inst. 28 (2000) 1973–1979.
+¨
+[4] M.R.J. Charest, C.P.T. Groth, O.L. G¨ lder, Combust. Flame 158 (10) (2011) 1933–1945.
+u
+[5] I. Glassman, Proc. Combust. Inst. 27 (1998) 1589–1596.
+¨
+[6] M.R.J. Charest, C.P.T. Groth, O.L. G¨ lder, Combust. Flame 158 (5) (2011) 860–875.
+u
+[7] S.K. Aggarwal, Prog. Energy Combust. Sci. 35 (6) (2009) 528–570.
+[8] B. Ma, S. Cao, D. Giassi, D.P. Stocker, F. Takahashi, B.A.V. Bennett, M.D. Smooke, M.B. Long, Proc. Combust.
+Inst. 35 (2015) 839–846.
+[9] S. Cao, B. Ma, B.A.V. Bennett, D. Giassi, D.P. Stocker, F. Takahashi, M.B. Long, M.D. Smooke, Proc. Combust.
+Inst. 35 (2015) 897–903.
+[10] B.A.V. Bennett, C.S. McEnally, L.D. Pfefferle, M.D. Smooke, Combust. Flame, 123 (4) (2000) 522–546.
+[11] B.A.V. Bennett, M.D. Smooke, Combust. Theory Model. 2 (1998) 221–258.
+[12] M.D. Smooke, R.J. Hall, M.B. Colket, J. Fielding, M.B. Long, C.S. McEnally, L.D. Pfefferle, Combust. Theory
+Model. 8 (3) (2004) 593–606.
+[13] M.D. Smooke, M.B. Long, B.C. Connelly, M.B. Colket, R.J. Hall, Combust. Flame 143 (4) (2005) 613–628.
+[14] S. Cao, B.A.V. Bennett, M.D. Smooke, Combust. Theory Model. submitted.
+[15] D.K. Edwards, Adv. Heat Transfer 12 (1976) 115–193.
+[16] R.J. Hall, J. Quant. Spectrosc. Radiat. Transfer 49 (5) (1993) 517–523.
+[17] R.J. Hall, J. Quant. Spectrosc. Radiat. Transfer 51 (4) (1994) 635–644.
+[18] G.P. Smith, D.M. Golden, M. Frenklach, N.W. Moriarty, B. Eiteneer, M. Golderberg, C.T. Bowman,
+R.K. Hanson, S. Song, W.C. Gardiner, Jr., V.V. Lissianski, Z. Qin, GRI-Mech 3.0, 1999; available at
+<http://www.me.berkeley.edu/gri mech>.
+[19] R.J. Kee, J.A. Miller, T.H. Jefferson, Chemkin: A general-purpose, problem-independent, transportable, Fortran
+chemical kinetics code package, Report No. SAND80-8003, Sandia National Laboratories, 1980.
+[20] R.J. Kee, F.M. Rupley, J.A. Miller, The Chemkin thermodynamic database, Report No. SAND87-8215, Sandia
+National Laboratories, 1987.
+[21] R.J. Kee, J. Warnatz, J.A. Miller, A Fortran computer code package for the evaluation of gas-phase viscosities,
+conductivities, and diffusion coefﬁcients, Report No. SAND83-8209, Sandia National Laboratories, 1983.
+
+7
+
+9th U.S. Combustion Meeting – Paper # 114LF-0437
+
+Topic: Laminar Flames
+
+[22] R.J. Kee, G. Dixon-Lewis, J. Warnatz, M.E. Coltrin, J.A. Miller, A Fortran computer package for the evaluation
+of gas-phase, multicomponent transport properties, Report No. SAND86-8246, Sandia National Laboratories,
+1986.
+[23] V. Giovangigli, N. Darabiha, in: C.-M. Brauner, C. Schmidt-Lain´ (Eds.), Mathematical Modeling in Combuse
+tion and Related Topics, Nijhoff, Dordrecht, 1988, pp. 491–503.
+[24] B.A.V. Bennett, Z. Cheng, R.W. Pitz, M.D. Smooke, Combust. Theory Model. 12 (3) (2008) 497–527.
+[25] P. Deuﬂhard, Numerische Mathematik 22 (4) (1974) 289–315.
+[26] M.D. Smooke, J. Optim. Theory Appl. 39 (4) (1983) 489–511.
+[27] H.A. van der Vorst, SIAM J. Sci. Stat. Comput. 13 (2) (1992) 631–644.
+[28] P.B. Kuhn, B. Ma, B.C. Connelly, M.D. Smooke, M.B. Long, Proc. Combust. Inst. 33 (2011) 743–750.
+[29] B. Ma, G. Wang, G. Magnotti, R.S. Barlow, M.B. Long, Combust. Flame, 161 (4) (2014) 908–916.
+
+Product references are for clarity and do not indicate an endorsement on the part of NASA or the
+federal government.
+
+8
+

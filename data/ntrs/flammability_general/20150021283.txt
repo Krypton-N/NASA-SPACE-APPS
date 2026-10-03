@@ -1,0 +1,587 @@
+Modeling and Analysis
+of Realistic Fire
+Scenarios in Spacecraft
+J.E. Brooker, D.L. Dietrich, S.A.
+Gokoglu, D.L. Urban and G.A. Ruff
+NASA John H. Glenn Research Center
+45th International Conference on
+Environmental Systems, 12 – 16 July
+2015, Bellevue, Washington
+
+Introduction
+ Fire is a significant hazard to both crew and vehicle on
+
+exploration missions
+ On long-duration missions abandoning the vehicle and a rapid
+
+return to earth are not possible
+ Fire requires fuel, oxidizer and an ignition source
+
+ All three present by necessity on manned spacecraft
+ Large-scale fires are very complex:
+
+ Turbulent, chemically reacting flow
+ Complex chemical kinetics involving large hydrocarbon molecules, solid
+and gas phases and chlorinated or fluorinated species
+
+45th International Conference on Environmental Systems
+
+2
+
+Uniqueness of Microgravity
+ Flame characteristics and
+
+flammability limits change
+ Low-speed, sub-buoyant flows
+ Normal gravity testing not
+necessarily worst-case
+ Particulate size and transport
+
+changes
+ Terrestrial standards for detection
+not necessarily applicable
+ Small, sealed, confined volume
+
+with limited egress
+ Terrestrial large-scale fire models and experiments are of limited
+
+utility
+
+
+Upcoming Saffire experiments are largest to date in microgravity
+
+ Must rely on numerical models validated and calibrated against
+
+the very limited experimental data
+45th International Conference on Environmental Systems
+
+3
+
+Overall FPDS Approach
+Develop a comprehensive modeling
+capability
+1.
+
+Large Eddy Simulation (LES) CFD
+models:
+
+Microgravity
+
+ Builds off of efforts to model ISS fire
+detection
+ Detailed treatment of flow inside the
+vehicle
+ Computationally intensive for realistic
+spacecraft configurations involving
+chemically reacting flows
+
+Pressure
+
+Lumped Capacity Models (LCM):
+
+ Not as detailed as LES, but more
+amenable to parametric studies
+
+3
+
+MPCV Volume = 18.4 m
+Valve Open at 30.0 sec
+2
+Valve Open at 60.0 sec MPCV Surface Area = 23.5 m
+2
+Valve Open at 120.0 sec Fire Growth Coefficient = 0.0586 kW/sec
+Fire Growth Time = 30.0 sec
+No CPE valve open
+Fire Constant Time = 130.0 sec
+Fire Decay Time = 15.0 sec
+Total Fuel Consumed = 0.501 kg
+450
+
+Average Cabin Temperature ( K )
+
+ Builds off of efforts to estimate
+survivable fires for spacecraft
+
+Temperature
+
+1.6
+
+Cabin Pressure ( atm )
+
+2.
+
+Normal Gravity
+
+400
+
+1.4
+
+350
+1.2
+
+300
+1.0
+
+45th International Conference on Environmental Systems
+
+0
+
+50
+
+100
+150
+200
+Time after fire start ( sec )
+
+250
+
+300sec
+
+4
+
+Lumped Capacity Models (LCM)
+ Treat the spacecraft volume as a single ‘zone’
+
+ Can be extended to multiple zones
+ Assume each zone has a uniform temperature and species
+
+concentration
+ Solve for energy and species conservation in each zone with a
+
+prescribed fire
+
+ Creates a system of ODEs quickly solved by a range of open-
+
+source and commercial solvers
+45th International Conference on Environmental Systems
+
+5
+
+Base Case Comparison
+ Empty, sealed
+
+ Prescribed heat
+
+input
+
+6000
+Fire Output ( W )
+
+cubic volume 3 m
+on a side
+
+7000
+
+1. Adiabatic wall
+
+3000
+2000
+
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300sec
+
+Time ( sec )
+
+2. Isothermal wall
+
+45th International Conference on Environmental Systems
+
+4000
+
+1000
+
+ All energy
+transferred to gas
+ Heat transfer to the
+wall
+
+5000
+
+•
+•
+•
+•
+
+t2 growth first 34 s ( = 5.1 x 10-3 kW/s2)
+Constant fire for next 126 s
+Linear decay to 0 for 10 s
+Approximates expected profile from Saffire I
+
+6
+
+Base Case – Adiabatic Walls
+340
+1.12
+
+Pressure ( atm )
+
+1.08
+320
+1.06
+310
+1.04
+
+Average Gas Temperature ( K )
+
+330
+
+1.10
+
+300
+LCM
+
+1.02
+
+FDS
+
+Pressure
+Temperature
+1.00
+
+290
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300sec
+
+Time ( sec )
+
+45th International Conference on Environmental Systems
+
+7
+
+Base Case – Isothermal Wall
+320
+1.07
+315
+
+1.06
+
+Pressure ( atm )
+
+310
+
+1.04
+305
+1.03
+300
+1.02
+LCM
+
+1.01
+
+Average Gas Temperature ( K )
+
+1.05
+
+295
+
+FDS
+
+Pressure
+Temperature
+
+1.00
+
+290
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+Time ( sec )
+
+45th International Conference on Environmental Systems
+
+8
+
+Detailed Computation - Saffire
+ Saffire experiment will be conducted in Orbital Cygnus
+
+Pressurized Cargo Module after de-mating from ISS (still in LEO)
+ Use FDS to simulate the flow and heat transfer in the PCM while
+
+the large fuel sample is burned in Saffire
+Initial Conditions Simulation Conditions
+
+FDS Parameters
+
+20 C
+
+Isothermal Shell 20 C
+
+Radiative Frac = 0
+
+1.0 atm
+
+Adiabatic Solid Objects
+
+Suppression OFF
+
+Air (0.21/0.79)
+
+Heat Release at 30 s
+
+Radiation OFF
+
+Fuel Mass = 0.0541 kg
+
+Stratification OFF
+
+Saff. Flow = 0.104 m3/s
+
+Gravity OFF
+
+ECLSS = 0.0524 m3/s
+Gas Vol. = 10.6 m3
+ Observe flow and heat transfer in realistic Saffire/PCM
+
+configuration
+45th International Conference on Environmental Systems
+
+9
+
+FDS Configuration - Saffire
+
+Disposal Cargo
+(FWD-PORT standoff)
+BC: adiabatic surface
+Saffire Experiment
+(cargo pallet not shown)
+
+CAD Cargo Pallet
+(FWD Bay 1)
+BC: adiabatic surface
+
+CAD Shell
+(partial shown)
+
+−Y (PORT)
++Z (FWD)
+
+Environmental Control and Life
+Support System (ECLSS)
+BC: adiabatic surface
+
+O (NADIR)
+−Z (AFT)
++Y (STBD)
+
+X (ZENITH)
+
+45th International Conference on Environmental Systems
+
+10
+
+FDS Saffire Computation Results
+1.05
+
+Pressure
+Average Temperature
+Avionics Inlet Temperature
+ECLSS Inlet Temperature
+
+330
+
+1.03
+
+320
+
+1.02
+
+310
+
+Gas Temperature ( K )
+
+Pressure ( atm )
+
+1.04
+
+1.01
+300
+
+1.00
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+Time ( sec )
+
+45th International Conference on Environmental Systems
+
+11
+
+MPCV Hatch Re-Design Study
+ MPCV considered hatch
+
+re-design to save weight
+ Needed to understand
+
+how accidental fire
+(launchpad) would
+impact crew/vehicle
+ Assess the efficacy of
+
+the Cabin Pressure
+Equalization Valve (CPE)
+ Perform parametric
+
+studies for different fire
+scenarios, CPE
+actuation, vehicle
+interiors.
+45th International Conference on Environmental Systems
+
+12
+
+MPCV Parametric Study
+Pressure
+
+Temperature
+Valve Open at 30.0 sec
+Valve Open at 60.0 sec
+Valve Open at 120.0 sec
+No CPE valve open
+450
+
+3
+
+1.6
+
+MPCV Volume = 18.4 m
+
+2
+
+Fire Growth Coefficient = 0.0586 kW/sec
+Fire Growth Time = 30.0 sec
+Fire Constant Time = 130.0 sec
+Fire Decay Time = 15.0 sec
+Total Fuel Consumed = 0.501 kg
+
+2
+
+1.4
+
+Average Cabin Temperature ( K )
+
+Cabin Pressure ( atm )
+
+MPCV Surface Area = 23.5 m
+
+400
+
+350
+1.2
+
+300
+1.0
+
+0
+
+50
+
+100
+
+150
+Time after fire start ( sec )
+
+45th International Conference on Environmental Systems
+
+200
+
+250
+
+300sec
+
+13
+
+Discussion
+ FDS can perform high-fidelity simulations of flows inside
+
+spacecraft with fires/heat release.
+ Can show localized results for combustion product accumulation, oxygen
+depletion, etc.
+ Simulations can take days for long simulation times and/or complex
+geometries for a single configuration (vehicle interior and flow condition)
+ LCM more amenable to large-scale parametric studies
+
+ Can easily run hundreds of simulations over wide-ranging conditions such
+as vehicle volumes, fire sizes, relief valve sizes, etc.
+ Lack the localized fidelity present in LES
+ Use FDS to calibrate or tune the parameters in the LCM for better
+
+fidelity
+ Currently both models use a prescribed fire. Eventually need
+
+models to make a-priori predictions of fire based on vehicle
+interior contents
+ Models can be extended to include ECLSS scrubbing and flows
+45th International Conference on Environmental Systems
+
+14
+
+Conclusions
+ FPDS pursuing two model approaches to fire in spacecraft
+
+ CFD simulations using FDS build on efforts to model fire detection in ISS.
+ LCM models treat spacecraft as a single volume and build off of efforts to
+define and predict a survivable fire in a spacecraft
+ The complexity of real fires necessitate this approach
+
+ CFD provides detailed predictions in realistic geometries but requires large
+computational time – not amenable to parametric studies
+ LCM models suited for parametric studies and engineering evaluation of
+evolving spacecraft designs
+ Demonstrated compatibility of model approaches in simple
+
+configuration and capability of both models
+ Used FDS to simulate flows inside of Orbital Cygnus during Saffire
+ Used LCM to assist in the evaluation of hatch re-design in the MPCV
+ FPDS will continue to develop both model approaches
+
+ Incorporate detection into both models
+ Develop the capability to make a priori predictions of fire
+45th International Conference on Environmental Systems
+
+15
+

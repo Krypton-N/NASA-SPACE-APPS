@@ -1,0 +1,284 @@
+SUPPRESSION AND STRUCTURE OF LOW STRAIN RATE
+NONPREMIXED FLAMES
+Anthony Hamins, Matthew Bundy, Woe Chul Park1, Ki Yong Lee2 & Jennifer Logue
+National Institute of Standards and Technology
+Gaithersburg, Maryland 20899-8663
+The agent concentration required to achieve suppression of low strain rate nonpremixed
+flames is an important fire safety consideration. In a microgravity environment such as a space
+platform, unwanted fires will likely occur in near quiescent conditions where strain rates are very
+low. Diffusion flames typically become more robust as the strain rate is decreased. When
+designing a fire suppression system for worst-case conditions, low strain rates should be
+considered
+The first comprehensive extinction measurements of very low strain non-premixed
+flames in microgravity were reported by Maruta et al. [1]. The extinction of methane-air flames
+with N2 added to the fuel stream was investigated using the JAMIC 10 s drop tower. The
+minimum methane concentration required to sustain combustion was measured to decrease as the
+strain rate decreased until a critical value was observed. As the global strain rate was further
+reduced, the required methane concentration increased. This behavior was denoted as a "turning
+point" and was attributed to the enhanced importance of radiative losses at low strain rates. In
+terms of fire safety, a critical agent concentration assuring suppression under all flow conditions
+represents a fundamental limit for nonpremixed flames.
+The objective of this study is to investigate the impact of radiative emission, flame strain,
+agent addition, and buoyancy on the structure and extinction of low strain rate nonpremixed
+flames through measurements and comparison with flame simulations. The suppression
+effectiveness of a suppressant (N2) added to the fuel stream of low strain rate methane-air
+diffusion flames was measured. Flame temperature measurements were attained in the high
+temperature region of the flame (T > 1200 K) by measurement of thin filament emission
+intensity. The time varying temperature was measured and simulated as the flame made the
+transition from normal to microgravity conditions and as the flame extinguished.
+EXPERIMENTAL METHOD
+Flame suppression and the temperature field in low-strain diluted methane/air nonpremixed flames were measured in microgravity using a counterflow flame configuration.
+Experiments were performed at the NASA Glenn research facility using the 2.2 s drop. A 15 mm
+diameter stainless steel counterflow burner was enclosed in a 25 L cylindrical chamber. The duct
+separation distance was 15 mm. The burner ducts were designed to have minimal dead volume
+as glass beads and a series of fine mesh steel screens were used to impose a near plug-flow
+velocity profile at the burner exit.
+To control each of the reactant gas flows, a fast response time (~10 ms) pressure
+controller was used in series with a critical flow orifice. The total system response time was
+equal to the flow control response time plus the residence flow time from the mixing tee to the
+flame zone, estimated as 0.0665 s to 0.6397 s for strain rates of 50 s-1 and 7 s-1, respectively. The
+Permanent addresses: 1. Dept of Safety Engineering, Pukyong National University, Pusan,
+Republic of Korea 608-739; 2. School of Mechanical Engineering, Andong National University,
+Andong, Republic of Korea 760-749.
+
+NASA/CP—2003-212376/REV1
+
+273
+
+flow of dry air and methane were calibrated using a dry cell primary flow meter. A 0.25 mm
+diameter, 7 cm long coiled resistance igniter wire (Pt + 30% Rh) positioned between the fuel and
+oxidizer ducts was used to ignite the flame. A rotary brushless torque actuator was used to
+control the position of the ignition wire.
+Extinction measurements were performed by incrementally increasing the agent flow,
+while maintaining a constant global strain rate (ag), accomplished by simultaneously reducing the
+air or fuel flow. The value of ag in the axisymmetric counterflow configuration is defined as:
+ag = (-2VO/L)·(1 + [(VF /VO)·(ρF/ρO)1/2])
+(1)
+where V and ρ denote the velocity and density of the reactant streams at the boundaries, L is the
+duct separation distance, and the subscripts O and F represent the oxidizer and fuel streams,
+respectively. The standard uncertainty in agent extinction concentration was 2 % based on repeat
+measurements.
+Measurement of the visible emission intensity from a 13 µm SiC filament placed along
+the burner centerline allowed the determination of flame temperatures for T>1200 K. Radiation
+emitted by the filament was recorded using a digital CCD camera with a close-up lens. Spatial
+resolution of the image was 0.07 mm/pixel. The camera exposure was adjusted to prevent image
+saturatation (over-exposure) at the maximum flame temperature. The intensity measurements
+were calibrated using Oppdff [3]. The uncertainty is 50 K based on repeat measurements.
+NUMERICAL METHODOLOGY
+Two flame codes were utilized. The structure and extinction of methane-air flames with
+N2 addition were investigated using a one-dimensional numerical simulation that employs
+detailed models of molecular transport and chemistry, but ignores buoyancy [2,3]. A term for
+the radiative heat loss rate was added to the energy equation in the one-dimensional flame code.
+Radiative losses were modeled with a narrowband spectral model [4]. A transient twodimensional (axisymmetric) solution to the Navier-Stokes equations including buoyancy using
+either a mixture fraction approach or one-step chemistry based on the NIST Fire Dynamic
+Simulator (FDS) was developed [5]. The effects of global strain rate and buoyancy were
+investigated and results were compared to the one-dimensional Oppdif flame code at 0-g.
+RESULTS AND DISCUSSION
+Figure 1 shows extinction measurements performed for stain rates of 7 s-1 through 50 s-1,
+confirming the “turning point” behavior observed previously by Maruta and coworkers [1] and
+confirming the viability of these 2 s duration extinction measurements. The maximum nitrogen
+volume fraction in the fuel stream, Ca,ext, needed for extinction was found to be 0.855 ± 0.016 at
+a strain rate of 15 s-1, consistent with the results of Maruta. These values are different from
+analogous measurements performed in normal gravity [6], implying that the local oxidizer-side
+strain rate differs in normal and microgravity for small ag. On-going Particle Imaging
+Velocimetry (PIV) measurements are quantifying these differences.
+Figure 2 compares a photograph of a 12 s-1 near-extinction methane/air diffusion flame in
+normal gravity (fuel = 20% CH4 + 80 % N2) with the FDS simulation. The flame curvature in 1g
+is captured by the simulation. Figure 3 compares drop measurements to FDS simulations of the
+position of the maximum flame temperature as a function of time after microgravity occurs for
+constant flow conditions, ag=20 1/s and the fuel = 82 % N2 + 18 % CH4. There is general
+agreement between the model and the measurements within measurement uncertainty. Figure 4
+shows agreement between the simulated (Oppdif and FDS) and measured (filament and
+
+NASA/CP—2003-212376/REV1
+
+274
+
+thermocouple) temperature profiles in normal and microgravity. Figure 5 shows consistent trends
+between the calculated (Oppdif) and measured peak flame temperatures in near-extinction
+methane/air diffusion flames in microgravity. As the strain rate decreases, the peak flame
+temperature decreases until low peak temperatures are observed (< 1400 K), rather unusual for a
+flamelet.
+REFERENCES
+1.
+
+Maruta, K., Yoshida, M., Guo, H., Ju, Y., & Niioka, T, Combust. Flame, 112:181 (1998).
+
+2.
+
+Bowman, C. T., Hanson, R. K., Davidson, D. F., Gardiner, Jr., W. C., Lissianski, V.,
+Smith, G. P., Golden, D. M., Frenklach, M., & Goldenberg, M., “GRI-MECH 2.11”,
+URL: http://www.me.berkeley.edu/gri-mech/, 1995.
+
+3.
+
+Lutz, A., Kee, R. J., Grcar, J., & Rupley, F. M., “A Fortran Program Computing Opposed
+Flow Diffusion Flames”, SAND96-8243, Sandia National Labs, Livermore (1997).
+
+4.
+
+Grosshandler, W.L., RADCAL: NIST Technical Note 1402, National Institute of
+Standards and Technology, Gaithersburg, Maryland, 1993.
+
+5.
+
+McGrattan, K. B., Baum, H. R., Rehm, R. G., Hamins, A., Forney, G. P., Floyd, J. E., and
+Hostikka, S., “Fire Dynamics Simulator Technical Reference Guide,” National Institute
+of Standards and Technology, Gaithersburg, MD (2001).
+
+6.
+
+Bundy, M., Hamins, A., & Lee, K.Y., Combust. Flame, to appear (2003).
+
+ACKNOWLEDGEMENTS
+This research was partially supported by the NASA Microgravity Research Division through
+Contract No. C–32066–T with Dr. Sandra L. Olson serving as Technical Monitor. The authors
+are grateful to Professor I.K. Puri for helpful discussions.
+
+N2 Mole Fraction Ca,ext
+
+0.90
+
+0-g, Maruta; Ref. [1]
+0-g, current study
+1-g, Bundy; Ref. [6]
+
+0.85
+0.80
+0.75
+0.70
+0
+
+20
+
+40
+60
+80
+Global Strain Rate, ag (1/s)
+
+100
+
+Figure 1. Critical mole fraction of N2 in the fuel stream required to extinguish
+a methane/air diffusion flame in normal and microgravity. The results of
+Maruta et al. [1] are also shown. Flammable region is below the data points.
+
+NASA/CP—2003-212376/REV1
+
+275
+
+Position of Peak Temperature (m) .
+
+measurement
+FDS simulation
+
+0.009
+0.006
+0.003
+0
+-0.5
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+Time from Release to Microgravity (s)
+
+Figure 2. Photograph and simulation of a
+12 s-1 diluted methane/air diffusion flame in
+normal gravity. (Fuel =20%CH4 + 80 % N2)
+
+Figure 3. The measured and calculated
+(FDS) position of the peak flame
+temperature as a function of time after
+microgravity occurs. ag=20 s-1, 18% CH4
+
+1700
+microgravity data
+Poly. (Opdiff)
+
+.
+1900
+
+Temperature (K)
+
+1700
+1500
+1300
+1100
+
+Maximum Temperature (K)
+
+G=1 Thermocouple
+G=1 (FDS)
+G=0 (FDS)
+Oppdif
+G=0 filament
+G=0 filament
+G=1 filament
+
+900
+700
+500
+300
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1600
+
+1500
+
+1400
+
+1300
+
+1
+
+0
+
+Non-Dimensional Distance from Fuel Duct
+
+40
+
+60
+
+80
+
+100
+
+Global Strain Rate (1/s)
+
+Figure 4. Comparison of the calculated (FDS
+and Oppdif) and measured (SiC filament
+intensity and thermocouple) flame temperatures
+in diluted methane/air diffusion flames in normal
+and microgravity with ag=20 s-1 and the fuel
+composed of ~20 % CH4 + 80 % N2.
+
+NASA/CP—2003-212376/REV1
+
+20
+
+276
+
+Figure 5. Comparison of the calculated (Oppdif)
+and measured peak flame temperature in nearextinction methane/air diffusion flames in
+microgravity. Conditions were extremely near
+extinction, such that the agent concentration was
+> 99.4 % of that required for extinction,
+corresponding to the conditions shown in Fig. 1.
+

@@ -1,0 +1,1069 @@
+STRUCTURE
+
+AND EARLY
+OF LAMINAR
+
+SOOT OXIDATION
+PROPERTIES
+DIFFUSION
+FLAMES
+
+A. M. EI-Leathy,
+F. Xu and G. M. Faeth
+Department
+of Aerospace
+Engineering
+The University
+of Michigan
+Ann Arbor, Michigan
+INTRODUCTION
+Soot is an important
+unsolved
+problem
+of combustion
+science
+because
+it is present
+in
+most
+hydrocarbon-fueled
+flames
+and current
+understanding
+of the reactive
+and physical
+properties
+of soot in flame environments
+is limited.
+This lack of understanding
+affects progress
+toward developing
+reliable predictions
+of flame radiation properties,
+reliable predictions
+of flame
+pollutant
+emission
+properties
+and reliable methods
+of computational
+combustion,
+among others.
+Motivated
+by these
+observations,
+the present
+investigation
+extended
+past studies
+of soot
+formation
+in this laboratory
+(refs. 1-12), to consider
+soot oxidation
+in laminar
+diffusion
+flames
+using similar methods,
+see ref. 13 for a detailed description
+of the study.
+Early work showed
+that 02 was responsible
+for soot oxidation
+in high temperature
+O2rich environments
+(refs. 14-18).
+Subsequent
+work in high temperature
+flame environments
+having
+small 02 concentrations
+(refs. 19 and 20), however,
+showed
+that soot oxidation
+rates
+substantially
+exceeded
+estimates
+based
+on the classical
+02 oxidation
+rates of Nagle
+and
+Strickland-Constable
+(ref. 14) and suggests
+that radicals
+such as O and OH might be strong
+contributors
+to soot oxidation
+for such conditions.
+Neoh et al. (refs. 20 and 21) subsequently
+made observations
+in premixed
+flames,
+supported
+by later work (refs. 22-25), that showed that
+OH was responsible
+for soot oxidation
+at these conditions
+with a very reasonable
+collision
+efficiency
+of 0.13. Subsequent
+studies in diffusion
+flames, however,
+were not in agreement
+with
+the premixed
+flame studies: they agreed that OH played a dominant
+role in soot oxidation
+in
+flames,
+but found collision
+efficiencies
+that varied with flame conditions
+and were not in good
+agreement
+with each other (refs. 26-30) or with Neoh et al. (refs. 20 and 21). One explanation
+for these discrepancies
+is that optical scattering
+and extinction
+properties
+were used to infer soot
+structure
+properties
+for the studies
+of refs. 26-30 that have not been very successful
+for
+representing
+the optical properties
+of soot, see refs. 2-4 and references
+cited therein.
+Whatever
+the source of the problem,
+however,
+these differences
+among observations
+of soot oxidation
+in
+premixed
+and diffusion
+flames
+clearly
+must be resolved.
+Motivated
+by these findings,
+the
+present
+study undertook
+measurements
+of soot and flame properties
+within the soot oxidation
+region of some typical laminar
+diffusion
+flames and exploited
+the new measurements
+to identify
+soot oxidation
+mechanisms
+for these conditions.
+Present considerations
+were limited to the early
+stages of soot oxidation
+(carbon
+consumption
+less than 70%) where reactions
+at the surface of
+primary
+soot particles
+dominate
+the process,
+rather than the later stages when particle
+porosity
+and internal particle oxidation
+become important
+as discussed
+by Neoh et al. (ref. 22).
+EXPERIMENTAL
+
+METHODS
+
+Measurements
+were obtained
+along the axes of nonpremixed
+laminar
+flames involving
+acetylene,
+ethylene,
+propylene
+and propane as the fuels burning in coflowing
+air at atmospheric
+pressure.
+The burner
+was directed
+vertically
+upward,
+to yield flames having
+luminous
+flame
+lengths
+of roughly
+100 mm.
+The following
+measurements
+were made: soot volume fractions
+using deconvoluted
+laser extinction,
+flow temperatures
+using deconvoluted
+multiline
+emission,
+soot structure
+using thermophoretic
+sampling
+and TEM analysis,
+concentrations
+of major gas
+species using sampling
+and gas chromatography,
+concentrations
+of some radical species (H, OH
+and O) using the deconvoluted
+Li/LiOH
+atomic absorption
+technique
+and streamwise
+velocities
+using laser velocimetry.
+
+NASA/CP--2001-210826
+
+169
+
+RESULTS
+
+AND
+
+DISCUSSION
+
+Soot and Flame
+Structure.
+All Soot particles
+were the same as observed
+during earlier
+work in both laminar
+premixed
+and diffusion
+flames (refs. 1-12).
+They consisted
+of roughly
+spherical
+primary particles
+that were nearly monodisperse
+at each flame condition
+and collected
+into mass fractal aggregates
+having
+large variations
+of the number
+of primary
+particles
+per
+aggregate.
+_
+Present observations
+of flame structure
+were similar to earlier observations
+in laminar jet
+diffusion
+flames (refs. 2,3,11,12);
+a typical example
+is illustrated
+in Fig. 1. Flow velocities,
+u,
+increase
+with distance due to effects of buoyancy
+yielding an0nlinear
+variation
+of residence
+time
+with distance.
+Effects of radiant heat loss are substantial,
+yielding relatively
+flat temperature,
+T,
+distributions
+with maximum
+values well below adiabatic
+flame temperatures.
+Primary
+soot
+diameters,
+dp, reach a maximum
+early in the soot formation
+region due to Combined
+effects of
+soot nucleation,
+growth
+and oxidation.
+The original
+fuel disappears
+due to effects
+of
+decomposition,
+oxidation
+and soot formation
+(the last being relatively
+minor).
+Robust fuel-like
+species,
+however,
+persist throughout
+the soot formation
+region, e.g., C2H2, C2H4, CI-I4 and H2.
+Concentrations
+of radicals,
+e.g., H, OH and O, increase
+as the flame s_e-et isalSpi:6ached.
+Unlike
+premixed
+flames where radical concentrations
+are nearly in thermodynamic
+equilibrium
+(ref. i0),
+however,
+radicals
+exhibit
+superequilibrium
+ratios generally
+in excess
+of 10 in the present
+diffusion
+flames.
+_: :
+_ :
+_. v:
+.
+Soot
+
+Surface
+
+Oxidation
+
+Rates.
+
+Measured
+
+soot surface
+
+oxidation
+
+for effects of soot growth using the expression
+based on the Colket and Hall
+growth
+mechanism.
+No condition
+was considered,
+however,
+where
+the
+growth was more than half the gross soot oxidation
+rate. Similar toN6oh
+et
+present soot oxidation
+rates (corrected
+for soot growth)
+were converted
+into
+(or reaction
+probabilities)
+based on kinetic theory estimates
+of the collision
+species with the surface of primary
+soot particles,
+see refs. 13, 21 and 22 for
+of computations
+of collision
+efficiencies.
+
+rates
+
+were
+
+corrected
+
+(ref. 31) soot surface
+correction
+for soot
+al,:(refs. 2 i -and 22),
+collision
+efficiencies
+rates of a given gas
+detailed
+descriptions
+
+Collision
+efficiencies
+for soot oxidation
+were found for 02, CO2, H20, O and OH, see ref.
+13 for all these results; present results will be limited to collision
+efficiencies
+as a function
+of
+height for 02, CO2 and OH as examples.
+The collision
+efficiencies
+of 02 illustrated
+in Fig, 2
+include
+the range of values measured
+by Neoh et al. (refs. 21 and 22) in premixed
+flames,
+the
+values found from the present experiments
+in diffusion
+flames,
+and values estimated
+from the
+predictions
+of Nagle
+and Strickland-Constable
+(ref. 14) for the conditions
+where
+present
+observations
+were made in diffusion
+flames.
+The Nagle and Strickland-Constable
+approach
+is
+known to be effective
+when soot oxidation
+is dominated
+by 02 (i.e., when radical concentrations
+are small) and there are significant
+concentrations
+of 02 along the pi'esent soot paths, see Fig, 1.
+Thus, the fact that Nagle and Strickland-Constable
+estimates
+of the 02 collision
+efficiencies
+are
+10-100 times smaller
+than present measurements
+strongly
+suggests
+that some other species
+is
+mainly responsible
+for soot oxidation
+in the present flames.
+The large scatter (nearly a range of
+100) of the collision
+efficiencies
+for the flames illustrated
+in Fig. 2 also support the conclusion
+that 02 is not the main oxidizing
+species of soot for the present flame environments.
+_....
+:
+The collision
+efficiencies
+of CO2 for soot oxidation
+are plotted in Fig. 3. Results shown
+on the figure include the range of values observed
+by Neoh et al. (ref. 21) in premixed
+flames,
+and values from the present investigation
+in diffusion
+flames both considering
+_d
+ignoring
+the
+contribution
+of 02 (estimated
+using the correlation
+of ref. 14).
+Clearly,
+allowing
+for direct
+oxidation
+by 02 has little effect on the collision
+efficiencies
+estimated
+in Fig. 3. In addition,
+the
+overall scatter of the CO2 collision
+efficiencies
+approaches
+1000 for the range of test conditions
+considered
+in Fig. 3. Taken together, these findings do not support CO2 as a major contributor
+to
+soot oxidation
+in flames,
+either
+alone or in parallel
+with soot oxidation
+by 02.
+Similar
+considerations
+yielded the same finding for the collision
+efficiencies
+of H20 and O.
+Finally,
+the collision
+efficiencies
+of OH for soot oxidation
+are plotted in Fig. 4 in the
+same manner
+as the results
+for CO2 in Fig. 3. Direct
+oxidation
+of soot by 02 is not very
+
+NASAJCPw2001-210826
+
+170
+
+m
+
+important
+for the present flames, as before.
+On the other hand, the combined
+results in premixed
+and diffusion
+flames exhibit
+rather small levels of scatter (roughly
+a factor of 3). Thus, the
+results
+in premixed
+and diffusion
+flames
+are in remarkably
+good agreement,
+e.g., the present
+mean OH collision
+efficiency
+in diffusion
+flames of 0.10 (with a standard
+deviation
+of 0.07) is
+not statistically
+different
+from the value of 0.13 measured
+by Neoh et al. (ref. 21) in premixed
+flames.
+These findings are helpful but the final stage of oxidation
+in diffusion
+flames (for carbon
+consumption
+larger than 70%), where primary
+particle
+porosity
+and internal
+particle oxidation
+become factors, must still be resolved.
+_
+ACKNOWLEDGMENTS
+This
+research
+was
+sponsored
+by
+management
+of Z. G. Yuan of the National
+Research
+Center, Cleveland,
+Ohio.
+
+NASA
+Center
+
+Grant
+NAG3-1878
+under
+for Microgravity
+Research,
+
+the technical
+NASA
+Glenn
+
+REFERENCES
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+
+Sunderland,
+P.B., et al., Combust.
+Flame
+96:97 (1994).
+Sunderland,
+P.B., K0ylU, l_l.0, and Faeth, G.M., Combust. Flame 100:310
+(1995).
+Sunderland,
+P.B. and Faeth, G.M., Combust.
+Flame 105:132
+(1996).
+Lin, K.-C., Sunderland,
+P.B. and Faeth, G.M., Combust.
+Flame 104:369
+(1996).
+Urban, D.L. et al., A/AA J. 36:1346 (1998).
+Lin, K.-C. et al., Combust.
+Flame 116:415
+(1999).
+Lin, K.-C. and Faeth, G.M., MAA J. 37:759 (1999).
+Xu, F., Sunderland,
+P.B. and Faeth, G.M., Combust.
+Flame 108:1471
+(1997).
+Xu, F., Lin, K.-C. and Faeth, G.M., Combust.
+Flame 115:195 (1998).
+Xu, F. and Faeth, G.M., Combust.
+Flame 121:640
+(2000).
+Xu, F. and Faeth, G.M., Combust.
+Flame, in press.
+EI-Leathy,
+A.M., Xu, F. and Faeth, G.M., Combust.
+Flame, in preparation.
+Xu, F., E1-Leathy,
+A.M. and Faeth, G.M., Combust.
+Flame, submitted.
+Nagle, J. and Strickland-Constable,
+R.F., Proc. Fifth Carbon Conf. 1:154 (1962).
+Rosner, D.E. and Allendorf,
+H.D., A/AA J. 6:658 (1968).
+Wright, F.J., Proc. Combust.
+Inst. 15:1449 (1974).
+Radcliffe,
+S.W. and Appleton,
+J.P., Combust.
+Sci. Tech. 4:171 (1971).
+Park, C. and Appleton,
+J.P., Combust.
+Flame 20:369 (1973).
+Fenimore,
+C.P. and Jones, C.W., J. Phys. Chem. 71:593 (1967).
+Mulcahy,
+M.F.R. and Young, B.C., Carbon 13:115 (1975).
+Neoh, K.G., Howard,
+J.B. and Sarofim,
+A.F., Particulate
+Carbon (D.C. Siegla and B.W.
+Smith, ed.), Plenum Press, New York, 1980, p. 261.
+Neoh, K.G., Howard,
+J.B. and Sarofim,
+A.F., Proc. Combust.
+Inst. 20:951 (1984).
+Wicke, B.C., Wong, C. and Grady, K.A., Combust, Flame 66:37 (1986).
+Wicke, B.C. and Grady, K.A., Combust,
+Flame
+69:185 (1987).
+Roth, P., Brandt, O. and yon Gersum, S., Proc. Combust. Inst. 23:1485 (1990).
+Garo, A., Lahaye, J. and Prado, G., Proc. Combust. Inst. 21:1023 (1986).
+Garo, A., Prado, G. and Lahaye, J., Combust.
+Flame 79:226 (1990).
+Puri, R., Santoro, R.J. and Smyth, K.C., Combust.
+Flame 97:125 (1994).
+Puri, R., Santoro, R.J. and Smyth, K.C., Combust.
+Flame 102:226 (1995).
+Hardiquert,
+M. et al., Combust.
+Flame 111:338 (1997).
+Colket, M.B. and Hall, R.J., Soot Formation
+in Combustion
+(H. Bockhorn,
+ed.), SpringerVerlag, Berlin, 1994, p. 442.
+
+NASA/CP--2001-210826
+
+171
+
+ELAPSED
+TIME (ms)
+50 6065 70 75
+80
+85
+
+0
+
+90
+
+2000
+
+_1.o_ ,,_
+
+1''°
+
+I
+:!:
+0
+100"_-¢
+
+:
+
+Q 10 -2F-
+
+¢
+
+¢
+
+¢
+
+_
+
+¢
+
+¢
+
+¢
+
+¢
+
+_
+
+¢
+
+*N2
+
+_CO
+
+--
+
+_-_
+
+10 0
+
+"1
+
+r_
+
+_
+
+RANGE
+
+OF NEOH
+
+ET AL
+
+(ti)80)
+
+IN PREMIX]_
+
+FLAMES
+
+10"2 [/_/,_/*//////*/J'////'//,'_]¢"//_////_-_-__
+
+o lO_2
+= lO _
++
+
+o._
+
+0
+
+10
+
+20
+
+_
+30
+
+HEIGHT
+
+-,1
+40
+
+ABOVE
+
+50
+
+60
+
+BURNER
+
+70
+
+°° 1°_
+
+E + !
+
+10 -s
+40
+
+80
+
+Fig. l. Measured
+soot and flame properties
+along the axis of an acetylene/air
+laminar jet
+diffusion
+flame at atmospheric
+pressure.
+10 2
+
+I
+
+,
+
+,
+
+I
+
+,
+
+SYMBOL
+
+OXIDATION
+
+8OUD
+OPEN
+
+PRESENTMEABUREMENT
+NAGLE ANO STRICIKLAND-
+
+1 01
+
+,
+
+MECHANISM
+
+i
+01FFUSION
+
+CONSTABLE
+CORRELATION
+jI_NGE OF NEOH ET AL
+
+I
+
+IN PREMtXED
+
+60
+ABOVE
+
+70
+
+"
+80
+
+BURNER
+
+90
+
+(mm)
+
+_
+
+Fig. 3. Collision
+efficiencies
+assuming
+burnout
+due to attack by CO2. Found
+refs. 13 and 21.
+
+I
+
+101
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+soot
+from
+
+I
+
+I
+
+! m,.'=:;, om.,TIo..,m....m., =m+,mo_,i=,._m
+
+FLAMES
+
+_.C;rl-I
+2 FLAMES
+_) HYDROCARBON
+
+(1980)
+
+50
+HEIGHT
+
+(ram)
+
++
+
+8OUD
+
+FLAMES
+
+OH ALONE
+
+_C;_l=
+
+RANGE OF NEOH
+_.1+_
+
+FLAME8
+
+ET AL
+
+(tg00)
+
+IN PRE_
+FLAMES
+O HYDROCARBON
+FLAMES
+
+m
+
+10 -1
+10 0
+
+=
+3
+
+10.1
+10 0
+(_
+
+©
+10"2
+
+r
+
+-!..
+
+8
+
+10-2
+
+]
+10-3
+
+I
+40
+
+I
+50
+HEIGHT
+
+I
+
+=
+60
+ABOVE
+
+'
+
+'
+70
+
+BURNER
+
+I
+
+I
+80
+
+I
+
+I
+
+90
+
+50
+
+(mm)
+
+....
+
+Fig. 2. Collision
+efficiencies
+assuming soot
+burnout due to attack by 02. Found from refs.
+13, 14 and 21.
+
+NASA/CP--2001-210826
+
+I
+
+I
+
+60
+
+HEIGHTA-BOVE
+
+I
+
+I
+
+70
+BURNER
+
+I
+
+I
+
+80
+
+9O
+
+(mm)
+
+Fig. 4. Collision
+efficiencies
+assuming
+burnout
+due to attack by OH. Found
+refs. 13 and 21.
+
+172
+
+I
+
+soot
+from
+

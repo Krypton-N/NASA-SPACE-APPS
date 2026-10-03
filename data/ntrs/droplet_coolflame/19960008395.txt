@@ -1,0 +1,1336 @@
+N96- 15561
+The
+
+Effects
+
+of Detailed
+
+Microgravity
+
+Chemistry
+Droplet
+
+and
+
+Transport
+
+on
+
+Combustion
+
+.4,. J. MARCIIESE, J. C. LEE, T. J. HELD, and 1:. L DRYER
+Department
+ofMa:han/c.a/and cros/aw.e n_g
+A
+E
+PrOu:aon
+U,,imsity, _
+tel Oa,S4_2_
+
+AbstractA brief overview of recent advances in the theoretical study of miczogravity
+droplet
+combus_on
+is presented.
+Much of this work has centered on the development
+and uali-_tion of
+sphero-symmetrictransient umerical models which consider detailed gas phase chemistry
+n
+and
+transport as well as energy and/or
+species transport within a regressing condensed
+phase.
+Numerical results for microgravity combustion
+and vaporization of methanol, methanol/water,
+heptane, and heptane/hexadecane
+droplets am stmmuuiz_
+along with refinements
+in chemical kinetics and the development of a new two-dimensional
+axi-syrrm'mtric modeL
+1. INTRODUCTION
+In recent years, a joint program with F. A. Williams
+at the University
+of California
+San Diego has been in
+progress to study microgravity droplet combustion.
+This
+program ix.dudes microgravity droplet ex_
+and
+theoreticM studies using asymptotic and numerical nmthods. At UCSD asymptotic methods have been used to
+investigate the flame structure and extinction of n-hep.
+tane [1,2] and methanol droplets [3]. Meanwhile,
+theoretical efforts in this laboratory have centered on the
+development
+of tzansient nunmri_
+n'axieLs.
+These
+models consider detailed gas phase e.hemistxy and transport,
+condensed
+phase transport, condensed
+phase surface regression, and, where applicable, condensed phase
+surface chemistry.
+Much of the work has utilized a transient, spherically
+symmetric, moving finite element approach originally developed by Cho, eta/.
+[4,5]. This
+modeling approach has been used to successfully
+simulate the microgravity
+combustion
+and/or vaporization of
+methanol droplets [6], methanol/water
+droplets [7,8], n-.
+heptane droplets [9], n-heptane/n-hexadecane
+droplets
+[10], and carbon particles[11,12].
+These studies have led
+to new and exciting discoveries in fields which are generally considered
+mature.
+The results which will be briefly summarized
+in this
+paper repeatedly underscore the effects of detailed coupling between gas phase chemistry, gas phase transport,
+liquid phase transport,
+and phase equilibrium. For instance, the methanol and methanol/water
+results show
+that the droplet extinction diameter depends not only on
+the gas phase chemical and transport rates but on the rate
+of liquid mass transport as well
+Moreover,
+even during
+"quasi-steady" combustion
+when the observed burning
+rate
+isessentially constant, closer
+a
+examinationof the gas
+phase chemical heatrelease
+reveals continuouslyvarya
+ing flame structure.
+This result
+suggests shift n thegas
+a
+i
+phase kinetic routes as the diffusional residence time dewith decreasing droplet diameter.
+Finally, new
+regimes of droplet combustion
+and carbon pea'tide oxidation have been predicted
+wherein traditional quasisteady assumptions
+are no longer valid.
+
+65
+
+These discoveries have prompted
+continued numerical and experimental
+research efforts. A spectrel dement
+approach is being utilized to develop a 2-D axi-symm_ric model which wRl be initially applied to the study of
+microgravity
+droplet combustion
+in the presence
+of
+forced convection[13]. Also, a new n-alkane reaction
+mech_sm
+has been developed
+which contains significantly more detail than the semi-empirical
+mechanisms
+used in the n.alkane studies mentioned above [14]. Finally, continued
+ground-based
+2.2 second drop tower
+and 5 second Zero GravityFacility _
+are being
+conducted in conjunction
+with the numerical modeling
+describedin thispaper [15]. Ultimately,
+thisresearch
+effortis focused on development and analysisof the
+slmce-based IX_ and FSDC expedmen_
+which are
+scheduled
+to fly aboard
+upcoming
+shuttle flights. The
+IXZE and FSDC will be used to study the microgravity
+combustion
+of isolated, pure n-heptane droplets and hl)er
+supported, bi-componant dropletsof several fuels including methanol/water
+and heptane/hexadecano.
+2. THE EFFECT OF TRANSIENT
+THE IGNITION O1:DROPL_'PS
+
+VAPORIZATION
+
+ON
+
+In order to minimize the disturbance by an ignition
+source on a droplet
+deployed in microgravity,
+a substantial effort has been made in the past to understand
+the interactions between the ignition source (a spark, for instance) and the droplet [16]. However, little was understood about theinstantaneous
+evolution the gas phase
+of
+surrounding a "droplet
+afterdeployment intothe microgravity envirormmnt.
+Accordingly,
+in 1993 a numerical
+study was performed
+by Marchese
+and Dryer [17] to
+determine whether it was possible to achieve pure gas
+phase ignition in the region surrounding
+a droplet, or if it
+was always necessary to supply additional energy to the
+droplet surface to raise the droplet surface temperatm_
+thereby incrmsing
+the mass fraction of fuel in the gas
+phase.
+The factthatmethanol and n-heptane have flash
+temperatures
+of 11.5 "C and -4 °C respectively would
+suggest the possibility of achievingpure gas phase igni-
+
+tionin
+
+the region surrounding
+such droplets deployed in
+air at 25 °C. However,
+experiments
+have shown that,
+under
+the same
+experimental
+conditions,
+methanol
+dropletsaremuch more difficult to ignite than n-heptane
+droplets [15]. The modeling results have indicated that,
+although, methanol
+has a flash temperature of 11.5 "C, it
+would be extremely difficult to achieve pure gas phase
+ignition of a methanol
+droplet in the 1 mm size range
+deployed in air. As the definition of the flash temperature would
+suggest,
+initially a 25 "C droplet
+is surrounded by a thin layer of fuel/air
+mixture which is
+within the flammability
+limits of methanol/air.
+The
+modeling results show that for short time periods after
+deployment
+the mere divergence of the flow field results
+in a finite
+gas phase locationwherein the gas mixture
+falls
+below itsleanflammabilitylimit Due to the stoichiometry of the methanol/air system,thislocation
+isat
+most one radiusfrom the dropletsurface.Moreover, as
+the dropletvaporizes, hehigh latent
+t
+heatof vaporization
+of methanol causes the surfacetemperature to rapidly
+drop. The gas phase locationof the lean flammability
+limit
+thus moves closer thedropletsurface.
+to
+Afteronly
+severalseconds, the droplet surface temperature falls
+below the flashtemperatureat which time theentire
+gas
+phase surrounding the dropletisoutsidethe leanflammability
+limit.
+Figure 1 shows the gas phase locationof the lean
+flammabilitylimit
+for25 *C droplets methanol and nof
+heptane instantaneously mmersed in atmospheric presi
+sure airat 25 °C. These results
+suggestthatonly a precisely
+timed and located
+ignition ourcewould be ableto
+s
+achieve pure gas phase ignitionfor the methanol/air
+system. An ignition
+source locatedoutsidethe locusof
+flammable mixture would require an ignitionenergy
+much greaterthan the minimum
+gas phase ignition
+energy as additional nergy would have to be suppliedto
+e
+raise
+thedroplet
+surface
+temperature.
+
+does so to a much lower extent since the latent heat of
+vaporization
+of n-heptane is roughly 1/4 that of methanoL These results suggest that, since the gas phase surrounding
+an n-heptane
+droplet remains flammable at
+distances 3 radiifrom the dropletsurface, pure gas
+of
+phase ignition should exist for the n-heptane/air
+system.
+Thus, the overall energy necessary to ignite n-heptane
+an
+dropletshould be dose to the minimum gas phase ignitionenergy of n-heptane.
+3. COMBUSTION
+
+OF MEII/ANOL
+
+AND _OL
+
+/WATI/R DROPLETS
+The time-dependent,
+spherically
+symmetric combustion of bi-component
+liquid droplets of methanol
+and
+water has been simulated
+by Marchese
+and Dryer [7,8]
+using the finite element chemically
+reacting flow model
+mentioned
+above. The computations
+utilize the detailed
+multi-component
+molecular
+transport approach of Coffee
+and Hiermel [18] and the comprehensive
+methanol
+oxidation mechanism
+of Held, et ,,I. [19] (89 forward chemical reactionsnd 21 species) to solvethe gas phase energy
+a
+and species equations.
+In addition, a semi-empiricallyformulated
+binary vapor-liquid
+equilibrium
+relation
+is
+used to describe the phase change at the droplet surface.
+The conservation
+equations of energy and species are aLso
+solved withinthe droplet
+interior.
+The numerical
+results for initially pure methanol
+dropletsreproduce
+experimental
+observations
+wherein
+flame-generated
+water dissolves into the dropletduring
+combustion.
+The results in_cate that the extent of water
+absorption
+and its effect on both the quasi-steady burning
+rateand flame extinction
+phenomena are stronglydependent on theliquid
+mass Pedet number (defined the
+as
+ratio theregression rateof the dropletsurfaceto theefof
+fective mass transport
+rate of water within the liquid
+droplet).
+0.750
+
+,'_.'" :.-:_..---_.
+0.500
+
+!3
+
+_
+.....
+
+/,/.
+0.375
+
+,
+
+1
+
+2
+
+4
+
+0.0
+
+I
+
+0
+
+6
+
+0.5
+
+Pe
+
+40
+O.
+
+1.0
+
+!"
+i'
+
+::
+
+1.5
+
+2.0
+
+Tane [s]
+
+Time Is]
+
+H_re
+2. Instantaneous burning rate for 1000 micron initial
+diameter Fwe methanol droplets in air at 1 atm.
+
+_gu:e
+L Gas phase location of lean flammalnlity
+limit in
+radii from the droplet surface for 1 ms droplets dispensed in
+an.
+
+Figure 2 shows the instantaneousburning rateobtained from calculations
+in which the effective liquid
+phase mass diffusivity is parametrically
+varied resulting
+in various average liquid mass Pealer numbers.
+This
+
+The results for n-heptane show precisely why it is
+less difficult ignite
+to
+n-heptane droplets"
+than methanol
+droplets.
+Firstly, the stoichiometry
+of the n-heptane/air
+system results in a lean limit locus which is much farther
+from the droplet surface than the methanol/air
+system.
+Furflaermore,
+while the vaporization
+of an n-heptane
+droplet
+does cause its surface temperature
+to drop, it
+
+figure shows that increased lijc_d mass transport
+results
+in increased deviation from d -law behavior
+(i.e. gasification rate is not constant).
+Furthermore,
+as shown in
+
+66
+
+Fig.3,increased
+mass t_ns1_)rt
+promotes &-op|etextiz_tio_
+Fig. 3 suggests two extinction diameter limits. For
+Pe I m>>1, the extinction
+diameter approaches that value
+w1_ch would be observed if water were insoluble
+in
+methanol.
+For Pe/,m<<l,
+the extinction
+diameter
+proaches that value which would be observed if the m_
+transport ateof water intothedroplet
+r
+were infinitely
+fast
+with respectto thesurface
+regression ote.
+r
+
+circulation, but may also have increased the rate at which
+flame-generated
+water arrived at the droplet surface.
+The nume_cal results suggest a series of drop tower
+droplet combustion
+experiments
+using mehanol/water
+mixtures. The outcome of these experiments,
+which are
+presently underway
+[15], will indicate the magnitude of
+theliquid mass transport ratepresent in these and the future DCE space-experiments
+which will utilize
+similar
+deployment techniques.
+4. COMBUSTION
+OF HEPTANE
+HEXADECANE
+DROPLEI_
+
+o
+
+$
+_
+
+10
+15
+20
+M_ Pcdet Num_
+
+HEPTANF4
+
+The results of the previoussection provide valuable
+insight into much of the phenomena
+governing
+multicomponent liquiddroplet
+combustion although only one
+of the liquid components
+is a fuel. Moreover,
+the results
+suggestthat, while the liquid phase effects of diffusional
+resistance and volatility differeatisl
+might be studied
+analytically with infinitely
+fast, simplified
+or
+gas phase
+chemistry, fullunderstandingof ignition,uasi-steady
+a
+q
+burning, and extinctionrequires accurate gas phase
+chemicalkinetics.
+
+,
+0
+
+AND
+
+25
+
+Figure 3. V,r/,t/o./71
+_xt/nct/o. d/n.wt_ w/th I/qu/d mass
+Pedet number for 1000 micron methanol droplfts in I atm air.
+
+la a subsequent tudyby Marcheseand Dryer [10],
+s
+binary
+mixtures n-heptane C7H16)and n-haxadecane
+of
+(
+
+From experimentally
+measured and cormhaed transport data the average liquid
+mass Peeler
+number forthe
+combustion of methanol/water mixtures in air can be
+showntobe
+>20. Therefore,Fig"3 suggeststhatifthe
+interiorf the liquiddroplet
+o
+were trulyspherically
+symmetricand circulation-free,
+theeffectf water dissolution
+o
+on quasi-steady
+combustion and flame extinctionould
+w
+be minimal. However, considerableater uptake during
+w
+methanol dxopletcombustion has been measured independently by Choi, et al. [20], and Lee, ¢ta/. [21].
+Numerical modeling which simulates the conditions of the
+above exits
+sugoc_=st hat the liquid ma_ Peclet
+t
+number present in these experiments
+was approximately
+I0. This decreased
+Peeler number suggests the presence
+of circulation
+within theliquid
+dropletwhich may be attnbuted to several sources,includingthe deployment
+techniqueand/or thermo_pillaryeffects.
+Indeed,in a
+similarexperimental cordiguration, inter, eta/.,[22]
+W
+detectedthepresenceof internal roplet
+d
+circulation
+using
+laser induced florescence.
+Methanol/water
+mixtures of 0-50% initial water
+content have also been modeled.
+These results show that
+for low liquid nmss Pealer number, the water content at
+extin_on is insensitive tothe initial
+water content.
+Conv_sely, for high liquidmass Pecletnumber, the water
+contentat extinction arieddirectlyith theinitial
+v
+w
+water
+content. Consequently, the extinction
+diameter is a
+weaker functionof initial
+water contentin the former
+situation
+than inthelatter.
+
+(C16H34) have been modeled to extend the previous
+numerical results systems in which both liquidcomto
+ponents are fuels.These fuelswere chosen due to the
+existence experhmentaldata [24,25], available
+of
+an
+semiempiricalchemicalkinetic
+mechanism forn-heptane [26],
+and thesubstantial
+volatility
+differential
+between the two
+components.
+The gas phase chemical kinetics
+are modeled using
+the semi-empirical
+approach of Wamatz [26]. This approach had been utilized generate a 32-species, 96-step
+to
+n-heptane mechanism
+which accurately predicted
+laminar pre-mixed
+flame propagation. More recently, this
+mechanism has formed the basis for numerical studies on
+
+The low Pedet number results
+agreewith suspended
+dropletresults Choi [23]which showed thata final
+of
+water contentof 80-85% was relatively
+insensitive the
+to
+trutud water contenL This result is not surprising since
+natural convection
+present in these experiments
+would
+not ordy have resulted in substantial
+internal
+droplet
+
+ratherthan the expected mixture of _scission
+products,
+C2H4, C2I-_ C3H6, C4H8, CH3, and C5H10. A similar
+approach is also applied to model the gas phase nhexadecane chemistry.
+Hydrogen abstraction
+from nhexadecane,
+
+67
+
+steady counter
+flow diffusion
+flames [27] and steady
+spherically symmetric
+diffusion flames [28]. The Warnatz model for n-heptane
+oxidation assumes that the
+predominant mute of n-heptane
+consumption
+is abstraction of a hydrogen atom by O, OH, and H, thereby
+forming a generic
+n-heptylmdicah
+/4
+C, HI6 +IO
+
+//2
+t-'-'_C,
+
+HIs+tOH
+
+1
+
+lOHJ
+The principal
+empiricism in the Warnatz model is the
+description of the n-heptyl radical decomposition
+into the
+unlikely products of methyl radicals and propene in fixed
+ratio,
+
+eTHos----,3
+c_
+
+G6H_
+
+followed
+
+between
+spectively. the_quid and underscores processes.
+This effect gas phase the intimate
+L00
+
++ fill ____C16//33+ I.Oiil,
+O
+
+by the decomposition
+
+of n-hexedecyl
+
+into fixed
+
+_'| 0.75
+
+c,_%3 _
+c-2/3 propene,
++
+of methyl radicals and _-_s6,
+
+proportions
+
+_=
+,.oo
+
+have been added
+
+to the original
+
+96-step
+
+_
+
+mechanism.
+
+"
+
+._'_
+
+0.s0t
+
+--'gg"/"__'_
+
+1
+
+ti
+
+_ 0.23 1
+
+| o.
+_'
+
+oo.ooI
+'_----__
+
+0.50
+
+--
+
+_./
+
+0.0
+
+_i]
+
+o.6
+
+o.9
+t_.©bl
+
+,
+
+,
+
+,
+
+,
+
+.
+
+i
+
+0_C1
+
+0.3
+
+coupling
+
+03
+
+0.6
+
+0.9
+
+1.2
+
+o.o
+
+7-L5
+
+LS
+
+initial diameter 25% hezadec.ane droplets in 23% 1000 m/o'on
+Pigttre S. lnstantanan_
+gas/fic.af-/on rate, for O2/'/7% N2
+
+1.2
+
+1.5
+
+l.g
+
+DROPLET COMBUSTION
+MODELING
+In thestudies
+summarized inSection 3, the gas-phase
+chemistryismodeled using the comprehensive (89 step,
+21 species)
+gas-phase chemical kineticmechanism of
+Held and Dryer [19]. The results show the effects of
+complex chemistry which would not have been observed
+ff the gas phase were modeled
+using single-step
+activation energy asymptotics.
+For instance, the results suggest
+that, rather than merely increasing leakagethrough a thin
+reaction zone, thereduction in diffnsional residence time
+with droplet diameterresults a gas-phaseflame strucin
+ture that continuouslyevolved throughout the droplet
+lifetime
+Figure 6 shows the local gas-phase
+chemical
+energy releasesurrounding a 1500-micron droplet deployed in a microgravity
+environment
+of 50% He/50%
+0 2, at 0.5atmospheres at threetimes during the droplet
+lifethne. The continuous variation in flame structure,
+as
+
+Figure 4. Instantaneous gasificafion rate, for 1000 micron
+initial diameter heptan_ hexadecane droplets in 23% 02/97%
+N 2 at 0.I64 arm (Pel,_lO).
+Figure 4 is a plot of the instantaneous
+gasification
+rate for I mm heptane/hexadecane
+droplets in an oxidizing environment
+of 23% 02/77% N 2 at 0.164 arm.
+As
+Fig. 4 sugges_
+the pure n..heptane
+droplet closely exhibits classical d -law droplet combustion
+behavior as the
+gasification
+rate is constant
+over the majority of the
+droplet lifetime
+For mixtures of n-heptane/n-hexadecane,the gasification ratevaries
+continuouslyduring the
+dropletlifetime.
+The gasification
+ratesof the 25% and
+50% hexadecane droplets
+reflecthreedistincteriodsof
+t
+p
+quasi-steady
+combustion. The firsteriod constitutes
+p
+the
+preferentialasification heptane, which is the more
+g
+of
+volatile
+component.
+The second period begins when the
+heptane
+is depleted from the droplet surface.
+Once this
+occurs, the droplet heats up toward the boiling point of
+hexadecane
+resulting in a decrease in gasification rate.
+During the final period, the gasification rate increases as
+the liquid phase species gasify at fixed ratio due to the
+high liquid mass Pedet number.
+As in the methanol/water
+studies, the results are
+found to vary depending on the value of the liquid mass
+Pealer number. Figure 5 shows results of computations
+performed to determine the effect of increased
+liquid
+mass transport.
+In these computations
+an effective liquid
+mass diffusivity is parametrically
+varied over an order of
+magnitude
+such that the averageliquid
+mass Pedet number variedfrom I to I0. Thisfiguresuggeststhat the net
+observable effect of increased liquid mass transport is to
+delay the onset of the secondary
+droplet heating period.
+Once again, these results suggestthat isolated droplet
+experiments
+using these fuels might be utilized to deterthe effective Peclet number present in the experiments.
+Finally, the numerical
+model predicts
+droplet
+extraction
+diameters of 187, 225, and 312 microns
+for
+average hquid mass Pealer numbers
+of 10, 5, and 1, re-
+
+indicated
+by the changing
+energy releasepattern, suggests a shift the gas phase kinetic
+in
+routes with diffusional
+residence
+time. Thisresult
+isconsistentith recent
+w
+microgravity n-heptane droplet studies of Jackson
+1.0
+
+|
+
+I
+
+IA_
+
+t'°'l°"¢l
+
+......
+
+•
+
+!_ o.o
+
+I
+0
+
+i
+
+2
+
+4
+
+6
+
+8
+
+#r,
+I:i_
+6. Gas-phase heat release profde surrounding a 1500
+micron methanol dropk't at 0.25, 0.50, and 1.00 seconds after
+
+ignitio_ 6o% %/so% He, _ o.5o atra)
+and Avedesian
+sity decreased
+
+68
+
+[29] which
+significantly
+
+showed that sooting proper,
+with droplet size. It was sug-
+
+gested
+that
+
+actions among 37 species, an increase of 145 reactions,
+but only 5 sI_cies.
+To support
+the development
+of this medmnism,
+a
+series of n-heptane
+oxidation and pyrolysis
+experimm_
+have been performed using a variable pressure flow reactor. The calculated and measured species profiles for a
+rich oxidationcase shown in Fig. 7. The agreement is
+excellent, both in terms of overall reaction rate and intermediate distribution.
+Similar calculations
+using the full
+Warnatz mechanism yieldcharacteristic
+reaction times on
+the order of 300 see., compared
+to the 0.5 second time
+scale of the experiments.
+
+the decreasing diffusional residence time with
+decreasing initial droplet diameter results in less time for
+production of soot precursors
+on the fuel side of the diffusion flame. Such arguments are complicated, howev_,
+by an additional time scale associated
+with thermophoretic soot collection.
+The n-heptane
+oxidation mechanism
+of Warn_
+which has been used in the audies presented
+above in
+Section 4 lacks sufficient detail to capture some of the
+intmx_sting transient phenomena observed in the methanol/water studies. In addition to possfble flame structu_
+variations, the model is not well-equipped
+to handle
+droplet ignition. As mentioned previously,
+the Wamatz
+mechanism
+postulates
+only one consumption
+route for
+the fuel-abstraction
+by H, O or OH, followed by thermal
+decomposition
+of the resulting heptyl radical (C,/Hls) to
+propene and the methyl radical (CH3).
+Since, initially,
+only fuel, oxygen, and inert exist in the gas phase, the
+only initial
+source of radicals in this medmnism
+is via
+oxygen dissociation.
+Indeed, droplet ignition is not obtained for any initial conditions when the reaction:
+
+1150
+
+1100
+
+S
+
+02 +M---._O+O+M
+is suppressed.
+Four difficulties are perceived with regard to the use
+of the Warnatz mechanism
+in diffusion-flame
+modeling
+in general,and specifically time-dependent
+in
+droplet
+calculations.
+First,s mentioned above,the absence of a
+a
+thermal decomposition route for the n-heptane presents
+difficulties in the study of ignition phenomena.
+Second,
+the treatment
+of the n-heptyl radical as a single spies,
+rather
+than a mixture of isomers,resultsna non-realistic
+i
+distribution of olefinic intermediate
+species. The mechanism overemphasizes
+the importance of propane reactions, rather than those of the expected
+mixture of
+8eta-scission
+products which are, in fact, observed in
+n-heptane/air
+diffusion flame structun_
+[30] and flow
+reactors [31]. Third, the C1-C, 3 submochanism
+is in need
+of updating
+with current
+reaction paths and rate constants. The propene
+submochanism,
+in particular, lacks
+any abstraction
+routes, which are likely to be an important reaction path under combustion
+conditions.
+Finally,
+the kinetics are insufficient
+for eventual grafting of additional reactions to describe sooting effects.
+A recent experiments1
+and modeling effort by Held,
+ctal.
+[14] has been directed toward providing
+a more
+detailed treatment of the decomposition
+of both the parent fuel, n-heptane,
+and the four isomeric haptyl radicals,
+while still retaining a relatively simplified
+view of the
+overall kinetics. Because each species added to a
+nism adds another
+differential equation to be solved in
+the kinetic system, while a new reaction only adds another term to an existing equation, model may be exa
+tended by additional
+reactions without signifitamt computational
+penalty.
+A major goal of the model development is the increase in site-specific detail, while mainraining a relatively
+small number of species. Also, the
+C1-C 3 mechanism
+has been updated to a detailed kinetic
+mechanism
+developed
+in previous
+and ongoing work
+[19,32]. The final reaction mechanism consists of 241 re-
+
+69
+
+.........
+_ I,e_7,°o
+or/
+0.0
+
+c_..
+
+. _._oo.%_=____.
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+"l'u_(_)
+
+ng=e 7. M_surd (s-_bozs) and caL._t_ (tines)
+and te',.perat,,re .-hq,ta.e
+prqfaes
+for
+_id,,tio..
+6. TWO-DIMENSIONAL
+
+MODEL
+
+D_P_
+
+The success of the spherically
+symmetric modeling
+has prompted,
+the development
+of a transient, axi-symmetric, 2-D droplet combustion
+model [13]. The modal
+has been developed
+mathematically
+by applying
+an asymptotic expansion
+on the square of the roach number,
+thereby suppressing
+all acoustic waves. In this formulalion, the themmdtemical
+system (species and energy
+equations)
+and hydrodynamic
+system (momentum
+and
+mass conservation
+equations)
+aredecoupled intime. The
+governing equations are spatially iscretized
+d
+using the
+spectral lement method. Time integrationsperformed
+e
+i
+using a fifth-order,
+fully implicit
+backward
+difference
+method with a gener_
+sparse Jacobian algorithm.
+To
+date, the diffusion problem has been tested using a dif-
+
+fusionoperator
+based
+
+on the mixture fraction formulation of Kee, et al. [33].
+The thermochemia_/solver
+is
+currently
+being coupled with the momentum
+solverto
+analyzethe2-D,axi-symmetric
+convectionsituation.
+
+[14] Held, T. J., Marchese, A. J., and Dryer, 1:. L, Central
+
+Stat_/Western Stab/can
+
+7.CONCLUSIONS
+Recent studies
+using sophisticatedransient
+t
+numericalmodels which considerdetailed
+chemistryand transport have led to new and exciting discoveries
+in the field
+of dropletcombustion. Refinement of _cel
+kinetic,
+equilibriutrn, transportsub-models continuesalong
+and
+with the development of a new 2-]3axi-symme_c droplet
+combustion n'zxlel.
+
+s_d
+
+Transportation
+AL65460.
+
+_ _
+
+U.S. D_.nt
+
+of r ner_, Of_
+
+of
+
+[17] Marchese, A. J., and Dryer, 1:.L, Easta'n States
+Sect/anal _g
+of the C.ombust/on Inst/tute., Princeton,
+October, 1993.
+[18] Coffee, T. P., and Heimerl, J. M., Combustion and
+
+I_,
+
+Fla_, 43:273 0981).
+
+86:253 0992).
+[22] Winter, 1VL, nd Melton, L. A., Applied Optics,
+a
+29(31):4574 0990).
+[23] Choi, M. Y., Ph.D. Thesis, Dept. of M.A.E., Princeton
+Univ.,Princeton, NJ (1992).
+
+of
+
+Technologies through Grant No. DE-F604-90-
+
+[24]Yang, J. C., and Avedesian,
+C. T., Twenty-_
+Symposium (International) on Combustion,
+The Combustion
+Institute, Pittsburgh, 1988, p. 2037.
+[25] Niioka, T., and Sato, J., Twenty-First Sympos/um
+(International) on Combustion, The Combustion
+Institute,
+
+REI:ERENCES
+[1]Card,J.M., and Williams, A.,Comb. Sc/. nd Taok,
+F.
+a
+
+84:91
+(1992).
+
+Pittsburgh, 1986, p. 625.
+[26] Warnatz, J., Tu_-ntieth
+Symposium (International) on
+Combustion, The Combustion
+Institute, Pittsburgh, 1984,
+
+[2]Card,J.M., and Williams,F.A.,Combust/onand Flame,
+93:375(1993).
+[3]Zhang, B.L, Card, J.
+M., and Williams, A.,
+I:.
+Combustion and Flame, to be submitted,
+(19950 .
+[4] Cho, S. Y., Yetter, R. A., and Dryer, F. L., ]ournal of
+Computational Physics, 102:160 0992).
+[5] Cho, S. Y., Yetter, R. A., and Dryer, F. L, Math/.
+Coraput. Modelling, 14:790 (1990).
+[6] Cho, S. Y., Choi, M. Y., and Dryer, F. L, Twenty-third
+Symposium (International) on Combustion, The Combustion
+Institute, Pittsburgh, 1990, p.1611.
+
+p. 845.
+[27] Bui-Pham, M. and
+T_,
+79:.293 (1991).
+
+Sheshadri,
+
+K., Comb. 5c/. and
+
+[28] Jackson- G. S., and Avedesian, C. T.,
+States Me_qing of the Combustion Institute,
+1993.
+[29] Jackson, G. S., and Avedesian- C. T.,
+Sciences Meeting and Exhibit, Reno, _
+1993.
+
+[7] Marchese, A. J., and Dryer, 1:.L, Eust_ States
+Sectional Meeting of tbx Combustion Institute, Clearwater,
+FL, December, 1994.
+[8] Marchase, A. J., and Dryer, F. L., Combustion and
+F/ame, Submitted.
+[9] _,
+
+M_/ng
+
+[19] Held, T.J., Ph.D. Thesis, Dept. of M.A.E, Princeton
+Univ., Princeton, NJ (1993).
+[20]
+Choi, M. Y.,Cho, S.Y.,Stein, S.,
+Y.
+and Dryer,F.L,
+Fall Eastern States Meeting of the Combustion Institute,
+Orlando,H..,992).
+0
+[21] .Lee, A. and Law, C.K., Combust. $c/. and Ta:h.,
+
+Acknowledgments
+- The authorsgraL.fully dmowledge
+a
+NASA [¢nais for supply of ccperinmntal f_aities and scL,ntifi:
+collaborations through Grant No. NAG3-1231.
+The authors
+further wish to acknowledge thought-prmToking discussions
+with Dr. iVLVedlta.Nayagam and Professor Fro.man A. Waliams whose asymptotic da_plet combustion studies amtinue
+to add much in physical insight to these ar_s.
+Exy_mental
+flow reactor studies and the contr_lmtions of Dr. Tim Held
+
+_e
+
+Nation_ _
+
+the Combust/on Institute, San Antonio, TX, 1995.
+[lb'] l_,
+A. J., Vedha-Nayagam, M., and Dryer, F.
+L, Work in progress, 1995.
+[16] Shaw, ]3. D., Dryer, 1:. L., Williams, 1:. A.,and Cat,
+N.,Combust/on and Hame, 74:233 (1988).
+
+Fall Eastern
+Princeton- 1"0,
+31st Aerospece
+(AIAA-93-0130)
+
+[30] Kent, J. I-I. and Williams, F. JL, Fifteenth Symposium
+(International) on Combustion, The Combustion Institute,
+Pittsburgh,
+
+1974, p. 315.
+
+[31] Kennedy, S, Brezimky, Y,. and Dryer, 1:., 19_,
+
+A. J., Choi, M. Y., and Dryer, F. L, MAE
+
+Eastern States SectionalMee6ng
+
+Report No 1999, August 1994.
+[10] Marchese, A. J., and Dryer, F. L, C.entrd
+States/Western States/'M,'_icon National Sectional Meeting of
+the Combustion Institute, San Antonio, TX, 1995.
+[11] Lee, J. C., Yetter, R. A., and Dryer, F.L, Com/n_t/on
+and Flame, In press.
+[12] Lee, J. C., Yetter, R. A., and Dryer, F. L, Combustion
+and Flame, Submitted.
+[13]Lee, J. C-, Work in progress, 1995.
+
+of the Combustion
+
+Institute,
+
+Philadelphia, PA, 1985.
+[32] Held, T.J.,
+Dryer, 1:. , Brezinsky, K., ritz, j.,
+L
+w.
+and
+Westbrook, C K, Eastern Star's Sectional Meeting of the
+Combustion Institute, 1988.
+
+[33] IC_, R. J., wamatz, L, and Miller, I. _., Sana/a
+m--_rt, s_209,
+(1_3).
+
+70
+

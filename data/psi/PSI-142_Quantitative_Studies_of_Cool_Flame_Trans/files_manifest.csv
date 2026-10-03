@@ -1,0 +1,4 @@
+category,file,bytes,restricted,downloaded,local_path,s3_key
+Investigation Metadata Files,PSI-142_metadata_PSI-164_Quantitative Studies.zip,12158,False,True,Investigation Metadata Files\PSI-142_metadata_PSI-164_Quantitative Studies.zip,psi-data/PSI-142/metadata/PSI-142_metadata_PSI-164_Quantitative Studies.zip
+Analyzed Data/Modeling Data,PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx,735232,False,True,Analyzed Data\Modeling Data\PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx,psi-data/PSI-142/Analyzed Data/PSI-142_Analyzed Data_PSI data summary Princeton with links.xlsx
+Experimental table,PSI-142_Experimental table_Data Summary Table.csv,727,False,True,Experimental table\PSI-142_Experimental table_Data Summary Table.csv,psi-data/PSI-142/Experimental table/PSI-142_Experimental table_Data Summary Table.csv

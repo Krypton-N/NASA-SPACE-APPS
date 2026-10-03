@@ -1,0 +1,1441 @@
+N96- 15584
+
+IGNITION AND SUBSEQUENT TRANSITION TO FLAME
+SPREAD IN A MICROGRAVITY
+ENVIRONMENT
+
+Takashi
+
+Kashiwagi,
+Building
+
+National
+
+Kevin
+
+McGrattan
+
+and Howard
+
+and Fire Research
+
+Institute
+
+of Standards
+
+Gaithersburg,
+
+Baum
+
+Laboratory
+and Technology
+
+Maryland
+
+20899
+
+Introduction
+The
+
+fire safety
+
+strategy
+
+in a spacecraft
+
+is (1) to detect
+
+any fire as early
+
+as possible,
+
+any fire as small as possible, and (3) to extinguish any fire as quickly as possible.
+that a material
+which undergoes a momentary, localized ignition might be tolerable
+which permits
+
+a transition
+
+to flame spread
+
+it is important
+to understand
+what parameters
+significantly
+
+would significantly
+
+increase
+
+(2) to keep
+
+This suggests
+but a material
+
+the fire hazard.
+
+Therefore,
+
+how the transition from localized ignition to flame spread occurs and
+affect the transition.
+The fundamental
+processes involved in ignition
+
+and flame spread have been extensively
+studied, but they have been studied separately.
+Some of
+the steady state flame models start from ignition to reach a steady state, but since the objective
+of such a calculation
+is to obtain the steady state flame spread rate, the calculation
+through the
+transition
+
+process
+
+We have
+
+studied
+
+is made without
+the transition
+
+paper in a microgravity
+
+high accuracy
+
+from a small
+
+environment
+
+to save computational
+
+localized
+
+ignition
+
+[2]. The configuration
+
+time.
+
+at the center
+
+of a thermally
+
+thin
+
+for that study was axJsymmetric,
+
+but
+
+more general
+versions of the numerical scheme have been developed
+by including the effects of a
+slow, external
+flow in both two and three dimensions.
+By exploiting
+the non-buoyant
+nature of
+the flow, it is possible to achieve
+order of 10 centimeters.
+Because
+of multiple
+determines
+
+resolution of fractions of millimeters
+the calculations are time dependent,
+
+for 3D flow domains on the
+we can study the evolution
+
+flame fronts originating from a localized ignition source. The interaction of these fronts
+whether or not they will eventually achieve steady state spread.
+Most flame spread
+
+studies in microgravity
+consider two-dimensional
+flame spread initiated by ignition at one end of a
+sample strip with or against a slow external flow [4]. In this configuration
+there is only one flame
+front. A more realistic scenario involves separate, oppositely
+directed fronts in two dimensions,
+or
+a continuous,
+Results
+
+radially
+
+directed
+
+front in three dimensions.
+
+and discussion
+
+We present
+the ambient
+
+here some results of both the two and three
+oxygen concentration
+for the simulations
+
+parameters
+
+were
+
+fine-tune
+
+the
+
+chosen
+
+parameters
+
+to roughly
+
+match
+
+to agree with
+
+the
+
+the
+
+dimensional
+is nominally
+
+experiments
+
+data
+
+exactly
+
+2O7
+
+codes.
+30%.
+
+of Olson;
+but
+
+rather
+
+Unless otherwise noted,
+The gas phase reaction
+
+it is not
+to assess
+
+our
+
+intention
+
+qualitative
+
+to
+
+trends.
+
+The spatial
+resolution
+forboth the 2D and 3D codes isthe same; grid cells
+forthe finite
+difference
+scheme are i mm in lengthin the directions arallelo the surfaceand about 0.25 mm in the normal
+p
+t
+direction, xpanding to about I mm fartheraway. The increasedresolution the normal direction
+e
+in
+isintended to capture large gradientsat the surface.For thisgrid resolution,
+the 2D calculations
+requirelessthan an hour of CPU time on a typicalworkstation,while the 3D calculations equire
+r
+severaltens of hours. Increasingthe resolution the 2D simulationsdid not effectthe results
+in
+appreciably,
+thus the resolution
+was chosen to match the 3D casesforconsistency.Obviously,most
+of the parameter studieswere conducted with the 2D code, reservingthe 3D code forexamination
+of special
+geometric effects.
+The
+
+effect
+
+of a slow external
+
+flow on the transition
+
+period
+
+in the middle in order to generate
+two flames at the
+imposed
+along the length of the strip. Fig. 1 displays
+
+is considered
+
+first.
+
+A strip
+
+is ignited
+
+same time.
+An external
+wind of 2 cm/s is
+the evolution
+of the two flames during the
+
+transition
+period.
+The wind blows from left to right. The upwind flame (left) successfully
+makes
+the transition to flame spread and propagates
+into the wind at about 1.5 cm/s.
+The downstream
+flame,
+
+however,
+
+does not
+
+survive
+
+the
+
+transition,
+
+as it lifts off from
+
+the
+
+surface
+
+and
+
+a clear
+
+flame
+
+front does not appear. Not only does the upwind flame survive, but it is about twice as strong as
+a flame spreading
+in the absence of wind as measured
+by the peak gas phase reaction
+rate.
+The
+quiescent
+The
+cm/s
+
+flame propagates
+
+experiments
+while
+
+at about
+
+of Olson
+
+the quiescent
+
+1.2 cm/s.
+
+[5] for this
+counterpart
+
+configuration
+spreads
+
+show
+
+at about
+
+the
+
+flame
+
+1.8 cm/s.
+
+propagating
+
+at about
+
+downstream
+
+The
+
+flame
+
+1.95
+
+in these
+
+experiments
+is reportedly
+much weaker, much sootier, and in the short test time likely to extinguish.
+The dependence
+of the upstream
+flame spread rate on flow velocity has been attributed
+to oxidizer
+transport
+effects [5], or radiative
+loss effects [1]. Both of these theories is supported
+by the numerical
+simulations.
+The experiments
+and numerical simulations
+both show a strengthening
+of the upstream
+flame due to increased
+oxidizer transport
+in the presence
+of a slow external
+wind. Also, reduced
+radiative
+
+loss from the sample
+
+surface
+
+in front of the flame leads to faster
+
+flame
+
+spread.
+
+It is difficult
+
+to judge which is the more important
+effect due to the uncertainty
+about the gas phase
+which for this model is described
+by a one step global reaction
+of fuel and oxygen.
+The weakness
+
+and
+
+extinction
+
+of the
+
+downstream
+
+flame
+
+of the sample
+
+of available
+oxygen.
+Clearly in the two flame case, the upwind
+of the oxygen needed to survive the transition.
+To show this,
+performed
+
+using
+
+the
+
+same
+
+sample
+
+strip
+
+as before,
+
+except
+
+strip
+
+seems
+
+kinetics,
+
+to be due to lack
+
+flame robs the downstream
+:flame
+a few single flame simulations
+are
+
+that
+
+no fuel is present
+
+upwind
+
+of the
+
+ignition point. For an imposed wind of 2 cm/s, where no upwind flame is present,
+the downstream
+flame is weak, but unlike before it survives the transition
+period.
+Fig. 2 displays the computed
+oxygen mass fraction contours,
+along with the gas phase reaction zones, of three other single flames
+under different wind speeds.
+The case of no wind
+fixed coordinates
+the flame encounters
+a flow equal
+represents
+
+a concurrent
+
+case is neither
+
+flow, because
+
+concurrent
+
+nor
+
+the wind
+
+opposed
+
+because
+
+speed
+the
+
+flame spread rate (at least before the flame dies out).
+1 cm/s case extinguishes
+-- the oxygen concentration
+cases
+
+and
+
+the oxygen
+
+is unable
+
+to reach
+
+the
+
+represents
+an opposed
+flow, because
+in flame
+to its spread rate. The case of a 5 cm/s wind
+
+reaction
+
+is faster
+wind
+
+and T'ien
+
+[3], the overall
+
+zone in sufficient
+
+flame length
+
+2O8
+
+the
+
+spread
+
+rate.
+
+The
+
+1 cm/s
+
+the
+
+same
+
+speed
+
+as the
+
+is about
+
+It is clear from the oxygen contours why the
+gradients
+are the least steep among the three
+
+combustion.
+The flame exposed to a 5 cm/s external wind
+transport
+of oxygen due to the wind, and by the preheating
+As seen by Ferkul
+
+than
+
+speed
+
+concentration
+
+is strengthened
+of the sample,
+increases
+
+with
+
+to maintain
+
+by increased
+convective
+again due to the wind.
+
+increasing
+
+wind
+
+speed.
+
+Olsonreports an
+
+experiment
+
+in 30% oxygen
+
+(Ref.
+
+[5]) in which
+
+a wind is directed
+
+in the
+
+same
+
+direction as the flame spread, and the wind speed is slightly slower than the flame speed (characteristic relative velocity is 0.1 cm/s). She notes that the flame is very sooty, and propagates
+more
+slowly than the opposed flow counterparts.
+The numerical simulation
+in which the flame is neither
+concurrent
+
+nor opposed
+
+phase reaction
+It has been
+
+shows this flame dying out,
+
+but again this is due to the choice
+
+of the gas
+
+parameters.
+
+pointed
+
+out by Bhattacharjee
+
+et al. [1] that for low speed
+
+flame spread
+
+heat
+
+loss in front
+
+of the flame has a significant impact on the steady state spread rate. This effect is also seen in the
+transition period between ignition and flame spread. If the distribution
+of the radiative ignition
+source
+
+is spread out, it takes longer for ignition
+
+generates
+
+a larger flame and increases
+
+is greater preheating
+of varying the initial
+triggered
+However,
+
+to occur, and the accumulation
+
+the heat feedback
+
+In effect there
+
+of the sample in front of the developing flame front. Fig. 3 shows the effect
+flux profile, while fixing the total energy delivered to the sample. Ignition is
+
+most rapidly by a sharp radiative flux distribution
+with
+for a wider distribution
+with lower peak flux (5 W/cm2),
+
+in front of the flame causes
+
+it to propagate
+
+an increase
+
+in flame speed
+
+a high peak flux (20 W/cm2).
+the preheating
+of the sample
+
+at a higher rate of speed
+
+Also, its overall width is wider than that of the flame ignited
+a pilot wire). Bhattacharjee
+et al. note that more preheating
+flame causes
+
+of fuel vapors then
+
+rate during the transition.
+
+and a widening
+
+during the transition
+
+period.
+
+with a sharp radiant flux profile (or
+of the sample surface in front of the
+
+of the overall flame.
+
+Next, we examine some calculations of the transition to flame spread in three dimensions.
+Fig. 4
+shows the evolution of a flame ignited at the center with an axially symmetric
+radiative flux in the
+presence
+
+of a 2 cm/s
+
+wind.
+
+The umbrella-shaped
+
+flame
+
+appears
+
+initially
+
+hot gases. Then it changes to a horseshoe-shaped
+flame propagating
+is extinguished,
+as was seen in the 2D simulations.
+This simulation
+slow wind on the transition.
+
+Fig. 5 shows a 3D simulation
+of a quasi-2D experiment, that of the ignition
+a 2 cm/s wind blowing along the length (which has been discussed above).
+the simulation
+
+(3 seconds)
+
+the centerline
+
+flame profile was similar
+
+due to the expansion
+
+of
+
+upwind. The downwind part
+clearly shows the effects of a
+
+of a 5 cm wide strip with
+For the short duration of
+
+to the 2D counterpart.
+
+However,
+
+the downstream
+flame at the edge of the strip is stronger
+than the upstream flame and propagates
+more rapidly due to the increased supply of oxygen there. Fig. 6 displays the flow vectors for this
+simulation
+nature
+
+near the sample
+
+surface.
+
+of the flow field cannot
+
+Note the higher velocities
+
+be ignored.
+
+Indeed,
+
+near the edge.
+
+it has been observed
+
+and the 3D simulations
+of the strip ignition that the downstream
+out before the 3D counterpart
+(measured
+at the strip centerline).
+the lateral
+
+transport
+
+of oxygen,
+
+both convective
+
+and diffusive,
+
+The three dimensional
+
+when comparing
+
+the 2D
+
+flame in the 2D simulation dies
+This difference
+is mainly due to
+
+which occurs
+
+over a few seconds.
+
+Conclusion
+It has been seen in the experiments
+that a slow external wind strengthens
+the upstream,
+while
+weakening the downstream flame. The numerical simulations
+agree qualitatively,
+and a close examination
+
+of gas phase fuel and oxygen
+
+concentrations
+
+near the flame fronts offer explanations
+
+as to
+
+the cause of the strengthening/weakening.
+It has been observed in the two simultaneous
+flame configuration that the downstream
+flame which are viable on their own cannot survive the transition
+when an upstream
+
+flame is present
+
+to rob the oxygen.
+
+2O9
+
+For low speed flame spread, heat losses from the sample have a great effect on the flame spread.
+This has also been seen in the transition process when radiative sources of various widths have been
+used to heat the samples.
+Wider sources generate
+more preheating
+in front of the flame, and the
+flame spreads
+
+more rapidly
+
+of how ignition
+
+during
+
+the transition.
+
+Ultimately,
+
+the flame spread rate is independent
+
+is achieved.
+
+We are presently
+conducting
+studies of the transition to flame spread in three dimensional
+configurations. In addition to providing us with a useful tool to consider problems that were considered
+intractable
+
+before, the 3D runs also point out the limitations
+
+use relatively narrow sample strips.
+at the Japan Microgravity
+Center
+compared
+
+with the calculated
+
+of 2D simulations
+
+of experiments
+
+which
+
+Experiments
+are presently underway in a 10 second drop tower
+and some of the experimental
+results will be presented
+and
+
+results
+
+at the meeting.
+
+Acknowledgments
+We would
+
+like to thank
+
+Sandra
+
+Olson
+
+of the Lewis Research
+
+Center for her support
+
+and advice.
+
+References
+[1] Bhattacharjee,
+S. and Altenkirch,
+R.A., "The Effect of Surface Radiation
+on Flame Spread
+a Quiescent
+Microgravity,
+Environment,"
+Combust.
+Flame, Vol. 84, 1991, pp. 160-169.
+
+in
+
+[2] Nakabe,
+K., McGrattan,
+K.B., Kashiwagi,
+T., Baum, H.R., Yamashita,
+H., and Kushida,
+G., "Ignition
+and Transition
+to Flame Spread Over a Thermally
+Thin Cellulosic Sheet in a
+Idicrogravity
+
+Environment",
+
+Combust.
+
+Flame,
+
+Vol. 98, 1994, pp. 361-374.
+
+[3] Ferkul, P.V. and T'ien, J.S., "A Model of Low-Speed Concurrent
+Thin Fuel," Comb. Sci. Tech., Vol. 99, 1994, pp. 345-370.
+[4] Olson,
+
+S.L., Ferkul,
+
+Microgravity,"
+Institute,
+[5] Olson,
+Opposed
+
+P.V.,
+
+and T'ien,
+
+Twenty-Second
+
+Pittsburgh,
+
+"Near-Limit
+(International)
+
+Flame
+
+Spread
+
+Flame
+
+Spread
+
+Over
+
+a Thin
+
+on Combustion,
+
+Over
+
+a
+
+Fuel in
+
+The Combustion
+
+1988, pp. 1213-1222.
+
+S.L., "Mechanisms
+Flow Effects,"
+
+J.S.,
+
+Symposium
+
+Flow
+
+of Microgravity
+Comb.
+
+Sci.
+
+Tech.,
+
+Flame
+
+Spread
+
+Over
+
+a Thin Solid Fuel:
+
+Vol. 76, 1991, pp. 233-249.
+
+210
+
+Oxygen
+
+and
+
+4
+
+3
+
+0.5
+
+0 cm/s
+
+S
+
+3
+
+WIND
+
+-25 .............
+........
+
+.-20""
+
+2
+si
+
+o_.------_
+
+.25 ....
+-,20 --..
+
+".
+
+"--.
+
+.25
+
+•
+
+-15"
+
+o .....
+
+.10.....
+
+"'-.".•
+
+",,
+
+1
+
+0
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+0
+
+4
+
+/
+
+/
+
+i
+
+0
+
+2
+
+s
+
+4
+
+5
+
+4
+
+5
+
+4
+1.0
+
+1 cm/s
+
+S
+
+3
+o _
+
+2
+
+.25"
+
+. - -.25 .....
+
+.
+
+....
+
+-----.
+
+.--'"
+
+\
+
+,,=s ._'o
+
+:!
+t
+i
+
+....
+
+-'3
+
+-2
+
+-1
+
+0
+
+.25--..
+
+.25
+,
+
+1
+
+0
+-4
+
+WIND
+
+1
+
+2
+
+3
+
+0
+
+4
+
+4
+
+o
+
+1
+
+""" .......
+
+2
+
+"
+
+3
+
+6
+
+3,
+
+1.5
+
+5 cm/s
+
+S
+
+3
+
+....
+
+WIND
+
+.25 ......
+
+_25
+
+.-'"
+
+2.
+
+.°25 _
+
+.---20" ....
+
+2
+.'"
+
+1
+
+.-'"
+
+_ ...........
+
+.05 .....
+
+I.=
+
+,,,,; -__:..
+ill
+
+0
+-4
+
+-3
+
+-2
+
+-1
+
+0
+
+Figure 1: Transition
+
+1
+
+2
+
+3
+
+0
+
+4
+
+period for a flame in
+
+2
+
+Sf_i
+
+•
+
+s
+
+4 ?UPSTR M
+
+6
+
+ferent wind speeds 3 s from ignition.
+
+2O
+E
+
+.-
+
+l
+
+u
+
+15
+z
+0
+
+1 "_
+o
+
+F--_I
+
+s
+
+Dashed lines indicate oxygen
+
+concentration, solid lines indicate the gas
+phase reaction rate.
+6
+
+&
+
+,_
+
+Figure 2: Three single flames with three dif-
+
+the presence of a 2 cm/s wind blowing from
+left to right.
+
+1
+
+0
+
+I
+
+....
+....
+
+_
+
+i./i
+I
+
+10
+Q3
+n,,
+t-t/3
+
+-2
+
+5
+x
+_J
+LI_6
+
+....
+
+0
+
+'
+
+.5
+
+•
+
+'
+
+,
+
+'
+
+z
+
+1 .0
+
+....
+
+,
+
+....
+
+1.5
+TIME
+
+Figure 3: Flame front trajectories
+
+.,
+
+2.0
+
+,
+
+,
+
+,
+
+i
+
+,-_.
+
+2.5
+
+,
+
+3.0
+
+0
+-3
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+x (cm)
+
+(s)
+
+(left) for various radiative source distributions
+
+have the same integrated heat flux. The oxygen concentration
+
+211
+
+(right), all of which
+
+is 30%; there is no external wind.
+
+4
+'
+
+a
+
+Figure 4: Flame spread with an imposed 2
+cmk wind (left to right) over a sheet, half of
+which i shown. Shown are flames 1 , 2 and
+s
+3 s past ignition.
+
+Figure 5: Flame spread with an imposed 2
+cmls wind (left to right) over a 5 c m wide
+strip, half of which is shown. Shown are
+flames 1,2 and 3 s past ignition.
+
+6
+
+E 3
+n
+5 2
+1
+
+0
+
+- 6 -5 - 4 -3 - 2 - 1 0
+1 2 3
+STRIP CENTERLINE (cm)
+
+4
+
+5
+
+6
+
+Figure 6: Flow vectors near the surface for flame spread over a 5 cm wide strip 1.0
+s after ignition. Half of the strip is shown here. It is assumed that the flow on each
+side of t h e strip centerline is symmetric.
+
+212
+

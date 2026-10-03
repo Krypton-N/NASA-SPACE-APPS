@@ -1,0 +1,977 @@
+45th International Conference on Environmental Systems
+12-16 July 2015, Bellevue, Washington
+
+ICES-2015-[293]
+
+Buoyant Effects on the Flammability of Silicone Samples
+Planned for the Spacecraft Fire Experiment (Saffire)
+Justin E. Niehaus,1 Paul V. Ferkul,2 Suleyman A. Gokoglu,3 and Gary A. Ruff 4
+NASA Glenn Research Center, Cleveland, OH, 44135
+
+Flammability experiments on silicone samples were conducted in anticipation of the
+Spacecraft Fire Experiment (Saffire). The sample geometry was chosen to match the NASA
+6001 Test 1 specification, namely 5 cm wide by 30 cm tall. Four thicknesses of silicone (0.25,
+0.36, 0.61 and 1.00 mm) were examined. Tests included traditional upward buoyant flame
+spread using Test 1 procedures, downward opposed-flow flame spread, horizontal and angled
+flame spread, and forced-flow upward and downward flame spread. In addition to these
+configurations, upward and downward tests were conducted in a chamber with varying
+oxygen concentrations. In the upward buoyant flame spread tests, the flame generally did not
+burn the entire sample. As thickness was increased, the flame spread distance decreased
+before flame extinguishment. For the thickest sample, ignition could not be achieved. In the
+downward tests, the two thinnest samples permitted the flame to burn the entire sample, but
+the spread rate was lower compared to the corresponding upward values. The other two
+thicknesses could not be ignited in the downward configuration. The increased flammability
+for downward spreading flames relative to upward ones is uncommon. The two thinnest
+samples also burned completely in the horizontal configuration, as well as at angles up to 75
+degrees from the horizontal. Upward tests in air with an added forced flow were more
+flammable. The upward and downward flammability behavior was compared in atmospheres
+of varying oxygen concentration to determine a maximum oxygen concentration for each
+configuration. Complementary analyses using EDS, TGA, and SEM techniques suggest the
+importance of the silica layer deposited downstream onto the unburned sample surface.
+
+Nomenclature
+Cp,s
+Cp,SiO2
+EDS
+MOC
+PMMA
+ρs
+ρSiO2
+𝑞̇ ”
+Saffire
+SIBAL
+τ
+Tign
+T∞
+δs
+δSiO2
+TGA
+SEM
+ULOI
+
+1
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+Specific heat of silicone, J/kg-K
+Specific heat of silicon dioxide, J/kg-K
+Energy dispersive X-ray spectroscopy
+Maximum Oxygen Concentration
+Polymethyl methacrylate
+Density of silicone, kg/m3
+Density of silicon dioxide, kg/m3
+Critical heat flux needed to ignite sample, W/m2
+Spacecraft Fire Experiment
+Custom fuel fabric made of cotton-fiberglass blend
+Burn time, s
+Ignition temperature, K
+Ambient temperature, K
+Thickness of silicone
+Thickness of silicon dioxide
+Thermogravimetric Analysis
+Scanning Electron Microscopy
+Upward Limiting Oxygen Index
+
+Research Engineer, 21000 Brookpark Rd., MS 77-5, Cleveland, OH 44135
+Staff Scientist, USRA, 21000 Brookpark Rd., MS 110-3, Cleveland, OH 44135
+3
+Senior Scientist, 21000 Brookpark Rd., MS 77-5, Cleveland, OH 44135
+4
+Spacecraft Fire Safety Demonstration Project Manager, 21000 Brookpark Rd., MS 77-5, Cleveland, OH 44135
+2
+
+I. Introduction
+
+T
+
+HE Spacecraft Fire Experiment
+(Saffire) will be used to study
+microgravity flame spread with larger
+fuel samples than have been burned to
+date.1,2,3 Saffire is funded by the
+Advanced
+Exploration
+Systems
+Program, and was initiated to develop
+spacecraft fire safety technology. The
+experimental data will also be used to
+verify complex numerical models of
+microgravity combustion events.
+The Saffire experiments will be
+performed on three sequential flights of
+Orbital Science’s Cygnus resupply
+vehicle after it deberths from the ISS. All
+three Saffire flight units have a sample
+card installed in the middle of a large
+flow duct. Saffire I and III will have a 40cm-wide by 94-cm-long sample of
+SIBAL fuel (75% cotton and 25%
+fiberglass blend) burned at two different
+flow speeds, and Saffire II will have nine
+samples that are 5-cm wide by 30-cm
+long. Figure 1 shows a schematic of the
+flight payload for Saffire II and Figure 2
+shows details of the samples.
+The Saffire-II samples were chosen
+to match the size specified in the NASA
+6001 Test 1 flammability test standard.4
+This is a “worst case” upward
+flammability test, and the material is
+said to fail if more than 15 cm is
+consumed. One main objective of the
+Saffire-II experiment is to ascertain if
+the flammability limits determined in 1g using NASA-STD-6001 Test 1 are the
+same as those in low-gravity.
+Four of the samples on Saffire II will
+be silicone. Silicone was chosen because
+its flammability limit is close to the
+expected test atmosphere (air; 21% O2,
+1 atm), and different thicknesses were
+available to enable producing a variety
+of burn lengths in upward 1-g testing.
+Downward flame spread tests in 1-g
+were conducted to determine if upward
+flame spread of silicone represents the
+worst case flammability scenario. The
+objective of this paper is to describe the
+results of the upward and downward
+flame spread tests in 1-g. The results
+
+Figure 1. Saffire-II flight unit. Shows schematically the direction of flow
+from bottom to top, sample card, flow duct, and avionics bay.
+
+Figure 2. Schematic of the Saffire-II flight sample card. Nine 5–
+cm-wide x 30-cm-long samples (left). Picture of sample card (right).
+2
+International Conference on Environmental Systems
+
+obtained from several other burning configurations are also presented
+Thickness
+MOC
+ULOI
+to help interpret the results of the upward and downward burning tests.
+Previous research has shown that burning samples at various
+1.00 mm
+22
+23.4
+angles of inclination ranging from 0 degrees (horizontal) to 90 degrees
+0.61 mm
+20
+22.8
+(vertical) impacts the flame spread and can help understand
+0.36 mm
+19
+21
+differences between upward and downward flammability. Kashiwagi
+and Newman burned thin cellulose at various angles and concluded
+0.25 mm
+18
+19.7
+that the flame spread rate of the bottom flame had little dependence on
+0.10 mm
+17
+17.5
+the angle of inclination.5 Huang and Gollner showed how burning
+6
+Table I. The minimum oxygen conPMMA at various angles affected turbulent transition. When the
+centration and upward limiting oxygen
+bottom flame became unstable, the flame spread rate increased
+index in percent mole (balanced with
+significantly. Quintiere reported findings on angled burns over thin
+nitrogen) for five thicknesses of silicone
+fuels.7 He concluded that upward (90 degrees) is the fastest spreading
+fuel, as studied by Hirsch et al.11 The
+configuration and that for angled configurations, upward spread on the
+chemical igniter provides approximately
+bottom is generally faster than upward spread on the top. Gollner
+3000 J for a duration of 25 ± 5 s.
+found faster spread rates at angles slightly less than vertical for thick
+fuels.8
+A forced convective flow also impacts material flammability and was studied in this work. Loh conducted
+experiments on thin-fuel samples with concurrent flow up to 4 m/s.9 He determined that at low flow speeds (< 1 m/s),
+the flame spread rate increased with flow speed, and that the flame length decreased. At higher flow speeds, the flame
+spread rate was independent of flow speed. Chao performed flame spread studies over thick PMMA samples in
+concurrent flow up to 2 m/s.10 It was determined that the flame spread rate increased with flow speed and oxygen
+concentration.
+One of the measures of flammability used by NASA is the Maximum Oxygen Concentration (MOC). The MOC
+is the maximum percent oxygen by mole for which all of the six samples self-extinguish before spreading 15 cm, i.e.,
+pass Test 1. The ULOI is the Upward Limiting Oxygen Index for which 50% of the repeat samples pass and 50% fail
+Test 1. Hirsch et al. determined the MOC
+for silicone samples as shown in Table I
+using the standard Test 1 chemical
+igniter.11 Furthermore, they demonstrated
+that using a particular hot-wire igniter
+instead of the chemical igniter did not result
+in a significant difference in oxygen
+concentration flammability thresholds.
+Therefore we chose to use a hot-wire
+igniter, matching the power and duration
+reported by Hirsch et al.
+
+II. Test Facilities
+Normal-gravity upward (concurrent
+flow), downward (opposed flow), angled,
+and horizontal flame spread tests were
+performed. For some tests, upward forced
+air flow was added.
+Most of the samples were burned in the
+material flammability test chamber at
+NASA Glenn Research Center as shown
+schematically in Figure 3. The chamber
+contained
+an
+unsealed
+enclosure
+approximately one cubic meter in volume.
+The top of the chamber was connected to
+
+Figure 3. Material flammability test chamber. Shows camera
+pointed at window, power box with time delay relay, sample card
+and aluminum frame through view of the door, and connected to
+room ventilation.
+3
+
+International Conference on Environmental Systems
+
+an exhaust hood to dispose of any products of combustion.
+The images were recorded using a PanasonicTM Super
+Dynamic II video camera.
+A hot-wire igniter (29 AWG KanthalTM) was used for all
+tests, and a power source with a time delay relay set the
+igniter duration and current. The igniter had a cold resistance
+of 0.2215 ohm/cm, and the current for ignition was 3.8 amps.
+The igniter was powered for 8 s and the total energy release
+Figure 4. (a) Kanthal igniter. 0.2215 ohm/cm
+was 740 J. For comparison, the heat of combustion of the
+cold resistance, 3.8 amps Kanthal igniter in
+0.36-mm-thick silicone sample in the vicinity of the igniter
+was approximately 3 kJ. The igniter wire was 26 cm long and
+position to burn 0.61-mm-thick silicone sample.
+it was interweaved around the edge of the sample using a
+sinusoidal pattern as shown in Figure 4.
+Forced air flow (if desired) was provided by five 7.5-cm-diameter fans placed beneath the sample as demonstrated
+in Figure 5. The flow was straightened by a 1.5-cm-thick honeycomb mesh. The fans provided up to 2 m/s forced
+flow.
+For tests requiring other than room air conditions, a combustion chamber was used.12 Within this 20-cm-diameter
+chamber, an upward “trickle” flow of gas at 2 cm/s was established. This slow flow was intended to provide oxygen
+replenishment while being well below the buoyant flow speed generated by the flame. The gas for the chamber and
+trickle flow was provided by pressurized precision-mixture bottles. All tests were at atmospheric pressure. The test
+chamber had two windows enabling a side and front view. The samples were 5 cm wide but could only be up to 10
+cm in length. While this was shorter than the 30-cm length specified by NASA 6001 Test 1, the 10-cm samples were
+adequate for the purposes of this work.
+
+Figure 5. Forced-flow configuration. a) Front view of sample card placed on top of fans. b) Side view showing
+the fan bank at the bottom, the 1.5-cm-thick honeycomb flow straightener, and the sample card above.
+In addition to flammability tests, Energy Dispersive X-ray Spectroscopy (EDS), Thermogravimetric Analysis
+(TGA), and Scanning Electron Microscopy (SEM) were performed on selected samples after they were burned. When
+burning the silicone, a solid particulate was formed that often deposited downstream onto the unburned sample. EDS
+was used to determine the composition of the deposit, TGA provided estimates of the pyrolysis temperature of the
+fuel, and SEM measured the thickness and structure of the deposit.
+
+III. Results
+Five different sets of flammability tests in room air were performed on silicone of different thicknesses: upward,
+downward, angled, upward with forced flow, and downward with forced flow. In addition, a limited series of upward
+
+
+
+Mention of trade names or commercial products is for descriptive purposes only and does not constitute endorsement
+or recommendation for use by the U.S. Government.
+4
+International Conference on Environmental Systems
+
+and downward tests were performed at different
+oxygen concentrations. An attempt was made to
+ignite each sample with the hot wire, and the burn
+length was measured. The burn length was
+defined as the linear distance from the base of the
+sample where the igniter was positioned to the
+farthest point of sample consumption. For some
+cases, the average spread rate, defined as the burn
+length divided by the burn time, is reported. The
+burn time is defined as the time from ignition to
+when the flame has stopped spreading. In some
+instances, flamelets can still be visible near the
+base of the sample, but are not consuming new
+material downstream. The burn time does not
+include this interval.
+Figure 6 shows sample flames for different
+spread configurations. The top left image shows
+upward spread, top right shows downward,
+bottom left shows the angled upward
+configuration, and bottom right shows upward
+with forced flow. Note that the flame for the
+upward buoyant-flow case (a) is longer
+compared to the forced-flow upward case (d), but
+the forced-flow upward flame is brighter and
+wider.
+For the upward tests, the six 0.25-mm-thick
+samples burned an average of 27.5 cm. Half of
+the samples burned the entire 30 cm and half selfextinguished.
+When
+self-extinguishment
+occurred, the flame tip began to shrink and the
+flame spread slowed until the flame disappeared.
+All six samples burned more than 15 cm. The
+next thicker sample, 0.36 mm, burned an average
+of 14.8 cm, but one of the six samples did burn
+longer than 15 cm. For this reason, these results
+would have failed Test 1. The 0.61-mm-thick
+sample burned an average of 7.6 cm, with all six
+samples burning less than 15 cm. None of the
+1.00-mm-thick samples ignited in ambient air.
+Figure 7 shows the differences in burn structure
+and particulate deposition for three thicknesses
+Figure 6. Flame spread images. a) Buoyant-flow upward
+of silicone that were burned upward.
+flame spread. b) Buoyant-flow downward flame spread. c) 75The downward tests produced slower average
+degree angle buoyant-flow upward flame spread. d)
+flame spread rates compared to the upward tests.
+Concurrent 2 m/s forced-flow upward flame spread.
+The average spread rate was 2.90 mm/s upward
+vs. 0.56 mm/s downward for the 0.36-mm
+thickness and 5.22 mm/s upward vs. 1.01 mm/s downward for the 0.25-mm thickness. All the downward tests that
+ignited burned the full 30 cm. The 0.61-mm- and 1.00-mm-thick silicone samples did not ignite in the downward
+configuration.
+Burn tests with sample inclinations of 60, 75 and 80 degrees were investigated. At 60 and 75 degrees, the 0.36mm-thick sample did not self-extinguish, but at 80 degrees it did. The 0.61-mm-thick sample self-extinguished for all
+three angles.
+Tests with upward forced flow were also conducted for upward and downward flame spread. Each thickness was
+tested at the maximum flow of 2 m/s. For the 0.25-, 0.36-, and 0.61-mm thicknesses, the entire sample burned upward
+for all three trials. The 1.00-mm-thick sample still would not ignite. A test was conducted in the upward configuration
+with the 0.36-mm thickness where the test was started with flow, and once the sample burned a length of 10 cm, the
+5
+International Conference on Environmental Systems
+
+flow was shut off. The sample burned another 7.5 cm before self-extinguishing. For the downward spreading of 0.25and 0.36-mm thicknesses, the samples would not ignite with the flow on. When ignited with the flow off, the samples
+were blown out almost immediately when the flow was turned on. Test results for all tests conducted in room air are
+summarized in Table II.
+
+Figure 7. Post-burn images of silicone samples of various thicknesses showing burn-out pattern and particulate
+deposition: a) 0.25 mm, b) 0.36 mm, and c) 0.61 mm.
+Sample
+Burn
+Burn
+Burn
+thickness
+Length
+Time
+Velocity
+Test Name
+(mm)
+(cm)
+(s)
+(mm/s)
+Upward
+0.25
+27.51
+52.67
+5.22
+Upward
+0.36
+14.81
+51.05
+2.90
+Upward
+0.61
+7.62
+60.83
+1.25
+Upward
+1.00
+0.00
+0.00
+0.00
+Downward
+0.25
+30.00
+295.68
+1.01
+Downward
+0.36
+30.00
+539.45
+0.56
+Downward
+0.61
+0.00
+0.00
+0.00
+Downward
+1.00
+0.00
+0.00
+0.00
+Horizontal
+0.25
+30.00
+287.34
+1.04
+Horizontal
+0.36
+30.00
+530.87
+0.57
+Horizontal
+0.63
+0.00
+0.00
+0.00
+60 degree upward
+0.36
+30.00
+141.89
+2.11
+60 degree upward
+0.61
+9.53
+93.23
+1.02
+75 degree upward
+0.36
+30.00
+103.67
+2.89
+75 degree upward
+0.61
+9.86
+83.10
+1.19
+80 degree upward
+0.36
+15.80
+54.29
+2.91
+80 degree upward
+0.61
+9.43
+72.94
+1.29
+Upward forced flow
+0.36
+30.00
+88.55
+3.39
+Upward forced flow
+0.61
+30.00
+198.93
+1.51
+Table II. Flammability results for 1-g tests in air. Results are an average of 6 tests
+per case.
+6
+International Conference on Environmental Systems
+
+Burn length (cm)
+
+Burn length (cm)
+
+Figure 8 shows the
+30
+average burn length of six
+tests for each thickness for the
+25
+upward, downward, and
+upward forced-flow cases. In
+Downward
+the downward configuration
+20
+and upward with forced flow
+cases, if the sample could be
+15
+Upward
+ignited then it burned the
+entire length. The 0.61-mm10
+thick sample failed to ignite
+downward, and the 1-mmUpward with 2m/s
+5
+thick sample failed to ignite
+Forced Flow
+both upward and downward.
+The average upward burn
+0
+lengths for the 0.25-mm,
+0
+0.5
+1
+1.5
+0.36-mm, and 0.61-mm
+Sample thickness (mm)
+samples are plotted. The
+Figure 8. Burn length of downward, upward, and upward forced-flow tests.
+uncertainty bars on the burn
+Each sample was 30 cm in height. The 1.00-mm-thick sample failed to ignite in
+length represent the standard
+the upward and downward configuration. The downward and forced-flow cases,
+deviation of the six tests.
+if ignited, burned the entire sample.
+Testing with various
+oxygen concentrations with
+nitrogen
+balance
+was
+performed in a sealed combustion chamber and the results are shown in Figure 9. The test chamber can only hold a 5by 10-cm sample. This was suitable for determining the limiting oxygen index for downward burns. Upward tests
+were conducted as well, and self-extinguishment was observed; however, a longer sample is needed for complete
+comparison with the previous
+testing done in room air.
+0.25mm up
+For upward spread, ignition
+was first observed at 18% O2 for
+10
+the 0.25-mm thickness. At 19%
+0.36mm up
+O2, the 0.25-mm thickness
+8
+consistently burned the entire 10
+0.63mm up
+cm, a full one percent below the
+oxygen required to even ignite
+6
+1.00mm up
+this thickness in the downward
+configuration. For the 0.36-mm
+4
+thickness, both upward and
+0.25mm down
+downward ignition is achieved
+at 20% O2, but self0.36mm down
+2
+extinguishment is observed in
+the upward configuration. For
+0.63mm down
+samples of 0.36 mm and thicker
+0
+and at a given O2 level, self17
+19
+21
+23
+25
+27
+extinguishment is observed in
+1.00mm down
+O2% mole balanced by nitrogen
+the upward configuration while
+the downward burns the fuel
+Figure 9. Burn length for upward and downward flame spread in
+completely. Based on the tests
+atmospheres of varied oxygen concentration. Vertical dashed lines represent
+in ambient air (~21% O2), it is
+the minimum O2 level a thickness needs to ignite in the downward configuration.
+expected
+that
+selfFor all downward samples, once ignited, the sample burned all 10 cm. Markers
+extinguishment of the 0.25-mmrepresent the average of three tests. Solid lines are drawn for clarity.
+thick samples would have
+occurred at 20% O2 for the
+7
+International Conference on Environmental Systems
+
+Upward Burn Length (cm)
+Chamber
+0.25
+0.36
+0.61
+1.00
+% O2
+mm
+mm
+mm
+mm
+0
+0
+0
+0
+17
+6.35
+0
+0
+0
+18
+10.16
+0
+0
+0
+19
+10.16
+8.89
+0
+0
+20
+10.16
+10.16
+7.62
+0
+21
+10.16
+10.16
+5.72
+0
+22
+10.16
+10.16
+7.62
+6.35
+23
+10.16
+10.16
+9.84
+10.16
+24
+10.16
+10.16
+10.16
+10.16
+25
+10.16
+10.16
+10.16
+8.89
+26
+Table III. Upward burn lengths for four fuel
+thicknesses. Each entry is an average of 3 tests.
+
+Downward Burn Length (cm)
+Chamber
+0.25
+0.36
+0.61
+1.00
+% O2
+mm
+mm
+mm
+mm
+0
+0
+0
+0
+17
+0
+0
+0
+0
+18
+0
+0
+0
+0
+19
+10.16 10.16
+0
+0
+20
+10.16 10.16
+0
+0
+21
+10.16 10.16
+0
+0
+22
+10.16 10.16
+10.16
+0
+23
+10.16 10.16
+10.16
+0
+24
+10.16 10.16
+10.16
+0
+25
+10.16 10.16
+10.16
+10.16
+26
+Table IV. Downward burn lengths for four fuel
+thicknesses. Each entry is an average of 3 tests.
+
+upward burns if the sample were longer. Plans to extend the chamber to enable burning full 30-cm-long samples are
+underway. Tables III and IV summarize the upward and downward tests respectively in the sealed chamber.
+EDS was performed on the solid particulate deposited onto a 0.36-mm sample. Only two elements, silicone and
+oxygen were detected. Using stoichiometery, it was inferred that the solid deposit is silica (SiO2). TGA was performed
+on one of the 0.61-mm-thick samples after it was burned. Figure 10 shows the different areas that were tested including
+two areas damaged by the flame (2.5 cm and 7.5 cm from the leading edge of the sample) which had a silica layer
+formed on the surface, an undamaged area (13 cm from the leading edge) that had a deposited silica layer, and a remote
+area (30 cm from the leading edge) that essentially consisted of the original silicone with no silica deposition.
+Figure 11 shows the results from the four areas. Noticeable mass loss for all four samples started at around 400°C.
+Different levels of mass loss are shown, reflecting the different levels of damage from the flame. The original fuel and
+undamaged silica covered samples have identical traces, likely because the silicone was undamaged in both cases. The
+100
+95
+90
+
+% Mass Loss
+
+85
+
+Lower Damaged
+
+80
+Higher Damaged
+
+75
+70
+65
+
+Undamaged
+Silica Covered
+
+60
+
+Original Fuel
+
+55
+50
+0
+
+200
+
+400
+
+600
+
+800
+
+Temperature (˚C)
+Figure 10. Sample of burned,
+originally 0.61-mm-thick
+silicone. Pieces at given
+distances away from the leading
+edge circled in red were cut out
+and analyzed using TGA.
+
+Figure 11. A small sample of originally 0.61-mm-thick silicone was
+submitted for TGA, per Figure 10. The sample at 13 cm away from the
+leading edge which is unburnt but covered with silica has the same profile as
+the fresh silicone sample at 30 cm away.
+
+International Conference on Environmental Systems
+
+8
+
+more the sample was pyrolyzed by the flame, the less percent mass loss resulted in the TGA because there was less
+fuel for the TGA to vaporize.
+An area of the originally 0.36-mm-thick silicone was analyzed after an upward burn using SEM. Figure 12 shows
+
+Figure 12. SEM images. (a) SiO2 layers formed on both sides of the originally 0.36-mm-thick silicone sample
+after an upward burn, 50 times magnification. (b) SiO2 layer 286 µm thick was formed over the silicone sample,
+300 times magnification.
+50x and 300x magnifications. At the point where self-extinguishment occurred, the deposited layer of silica measured
+to be 286 µm thick on the top half of the sample. The unburned fuel measuring 0.36 mm thick is visible in the middle
+of Figure 12a showing that the original silicone buried and sandwiched between the silica layers on both sides is
+undamaged.
+
+IV. Discussion
+Most of the results from the ground-based flammability testing of silicone were as expected. The one phenomenon
+that was unexpected was the self-extinguishment of the silicone in the upward configuration for the thinnest two
+samples while the corresponding cases in the downward configuration burned the entire sample. When burning in the
+upward configuration, silica formed in the gas phase deposits onto the unburnt downstream silicone sample, providing
+an insulating thermal barrier and inhibiting the silicone from pyrolyzing. The silica deposit layer may also be providing
+a diffusional barrier for the fuel vapors to reach the surface by creating a tortuous path through the deposit thickness.
+The deposit layer may be formed by a combination of vapor and particulate silica arriving on the silicone sample
+surface. In the downward configuration, the silica is carried up by buoyancy, and does not deposit on the unburnt
+silicone. Maradey et al. saw similar flammability results by burning polyurethane foam in the upward and downward
+configuration.13 They hypothesized that the char from the foam caused self-extinguishment in the upward
+configuration. The results of the angled tests as well as the uward forced flow cases support this hypothesis. When at
+a 75-degree angle or lower, the silica is carried up with the buoyant flow, away from the unburnt silicone surface on
+one side of the sample. When buoyant flow is aided by forced flow, the higher air flow rate convects vapor-phase
+silica away and hence reduces the downstream deposition rate on the fresh silicone surface.
+Work has been published that shows the effect of silica on flammability. Buch et al. have deposited uniform layers
+on silicone samples to show how the layers slow the pyrolysis rate.14 Romenesko and Buch own a patent for using a
+siloxane polymer powder with silica filler to reduce the flammability of organic resins.15 Solid coatings have been
+developed for the purpose of creating a protective residue upon burning. Kim and Davis developed a multi-walled
+carbon nanotube layer-by-layer coating that reduced heat release rate and burn time of polyurethane foam.16
+Figure 12 shows a silica layer of 286 µm at the point of self-extinguishment on top of the originally 0.36-mmthick silicone. This deposit layer is thicker than the half-thickness of the original silicone sample. While crystalline
+silica has a larger density than silicone (2600 kg/m3 vs. 960 kg/m3), the silica layer is not perfectly crystalline (as
+would be expected from the molecular vapor deposition of silica alone) but rather has a porous structure resulting
+from the co-deposition of both silica vapor and various sizes and shapes of the silica particles. The deposit layer has
+a lower density, and also a lower thermal conductivity than pure silica. Below, we show that the thermal effect alone
+(i.e., ignoring the mass transfer barrier effect) is sufficient to explain the observed self-extinguishment of upward tests.
+Equation 1, which is based on a well-established thin-fuel flame spread model17, represents the critical heat flux needed
+9
+International Conference on Environmental Systems
+
+to raise the thermal inertia of the fuel and a deposit silica layer to the ignition temperature, which in this case is the
+pyrolysis temperature.
+Figure 13 shows the critical heat flux calculated from Eq. (1) in order to continue the upward flame spread of a
+silicone sample with a particular thickness as a function of added silica layer thickness. Symmetry of the deposit silica
+is assumed by using the half thickness of silicone in the calculation. Table V lists the physical properties used in Eq.
+
+̇
+𝑞′′ =
+
+𝛿
+[(𝜌 𝑠 𝑐 𝑝,𝑆 2𝑠 ) + (𝜌 𝑆𝑖𝑂2 𝑐 𝑝,𝑆𝑖𝑂2 𝛿 𝑆𝑖𝑂2 )](𝑇𝑖𝑔𝑛 − 𝑇∞ )
+𝜏
+
+(1)
+
+(1). The burn time of 55 seconds is the average burn time of the 0.25-mm, 0.36-mm, and 0.61-mm upward samples.
+The ignition temperature of 673 K was determined from the approximate start of mass loss from the TGA results.
+As expected, the more silica deposited, the more heat flux is needed for upward flame spread. The black line
+represents the calculated minimum heat flux for a 0.36-mm-thick silicone sample with a 286-µm-thick silica deposit,
+since this is the point where the flame is known to self-extinguish. This line is quite consistent with other known data
+970
+
+Cp,s (J/kg-K)
+
+1050
+
+ρsiO2 (kg/m3)
+
+2600
+
+Cp,siO2 (J/kg-K)
+
+1591
+
+Tign (K)
+
+673
+
+Too (K)
+
+293
+
+55
+τ (s)
+Table V. Model properties
+used in Eq. (1).
+
+35
+
+Critical heat flux (kW/m2)
+
+ρs (kg/m3)
+
+30
+25
+20
+
+Silicone sample
+thickness
+.25mm
+
+15
+
+0.36mm
+
+10
+
+.61mm
+
+5
+
+1mm
+
+points for the flame spread of
+0
+fresh silicone samples with no
+0
+100
+200
+300
+silica deposit. For example, the 1Silica deposit thickness (µm)
+mm-thick silicone sample with no
+silica deposit falls above the line
+Figure 13. The critical heat flux needed to raise the thermal inertia of
+and is known to not ignite, while
+half the thickness of a particular silicone sample plus silica deposit vs.
+the other three thicknesses of
+the overlaying silica deposit thickness.
+silicone samples with zero silica
+deposit fall below the line and will
+sustain flame spread. It is seen that upward flame spread is not possible above a certain total thickness of silicone
+sample and overlaying silica deposit including cases with no silica deposit.
+Besides the thermal insulating effect, the deposit layer could be acting as an inhibiter by other mechanisms, as
+briefly mentioned above. For example, as a physical barrier to mass transfer, it may be hindering fuel vapors (formed
+after pyrolysis) from reaching the flame and thus facilitating extinguishment of the upward burn cases. The silica layer
+may also have an effect on the flame stabilization zone. T’ien et al. have tested upward and downward burning of
+polyurethane foam.18 In their work, a region is identified where the upward MOC is higher than the downward MOC,
+and it is suggested that the char produced affects the flame stabilization zone.
+
+V. Summary and Conclusions
+Silicone samples were tested for 1-g flammability characteristics in preparation for Saffire flight II. Burning the
+samples of increasing thickness in an upward configuration yielded inversely proportional burn lengths, as expected.
+The 0.25-mm- and 0.36-mm-thick samples had a greater burn length in the downward configuration than their
+corresponding upward cases. The reason for the increased flammability in the downward direction compared to
+upward is attributed to the deposition of a silica layer onto the fresh fuel in the upward case. It has been shown that
+this layer acts as a thermal barrier, which prohibits the fuel from reaching the pyrolysis temperature fast enough to
+sustain flame spread. Burning the 0.36-mm-thick sample in the horizontal configuration, and at a 60-degree and 75degree angle from the horizontal prevented the silicone from self-extinguishing, likely due to the silica generated by
+10
+International Conference on Environmental Systems
+
+the flame being entrained up and away from the fuel sample, preventing deposition. In all atmospheres tested, if the
+silicone could be ignited in the downward configuration then it would burn the entire length of the sample.
+When a forced upward flow of air (2 m/s) was imposed, all thicknesses that were ignited burned to completion in
+the upward configuration but were extinguished in the downward configuration. Upward burning tests were done with
+fan flow at the start, and then the flow was shut off. The samples self-extinguished soon after. This is further evidence
+that the deposition of silica is inhibiting flame spread since the higher air flow rate convects vapor-phase silica away
+and hence reduces the deposition rate on downstream fresh silicone surface. The impact of the silica layer on the flame
+spread characteristics of silicone that is reported in this study will be critical in interpreting the data that will be
+obtained in the Saffire-II flight test.
+
+Acknowledgments
+This work is funded by NASA’s Advanced Exploration Systems Program in support of the Spacecraft Fire Safety
+Demonstration Project. The authors would like to thank David Urban for his guidance in this research, and Sandra
+Olson for use of her sealed chamber test apparatus.
+
+References
+[1] Jomaas, G., Torero, J. T., Eigenbrod, C., Niehaus, J., Olson, S. L., Ferkul, P. V., Legros, G., Fernandez-Pello, C.,
+Cowlard, A. J., Rouvreau, S., Smirnov, N., Fujita, O., T’ien, J. S., Ruff, G. A., and Urban, D. L., “Fire Safety in
+Space – Beyond Flammability Testing of Small Sample,” Acta Astronautica, 109:208-216, 2015.
+[2] Gokoglu, S. A., Niehaus, J. E., Olson, S. L., Dietrich, D. L., Ruff, G. A., Ferkul, P. V., and Johnston, M. C.,
+“Prevention of Over-Pressurization During Combustion in a Sealed Chamber,” AIAA 2012-3511, 42nd International
+Conference on Environmental Systems, San Diego, CA, 2012 (NASA/TM 2012-217712).
+[3] Urban, D. L., Ruff, G. A., Minster, O., Fernandez-Pello, C., T`ien, J., Torero, J., Legros, G., Eigenbrod, C.,
+Smirnov, N., Fujita, O., Cowlard, A., Rouvreau, A., and Jomass, G., “Development of Large-Scale Spacecraft Fire
+Safety Experiments,” AIAA 2013-3410, 43rd International Conference on Environmental Systems, Vail, CO, 2013.
+[4] Flammability, Odor, Offgassing, and Compatibility Requirements and Test Procedures for Materials in
+Environments that Support Combustion, NASA STD 6001, Test 1, Upward Flame Propagation, August 26, 2011
+(formerly NHB 8060.1C).
+[5] Kashiwagi, T. and Newman, D.L., “Flame Spread Over an Inclined Thin Fuel Surface,” Combustion and Flame,
+26:163 – 177, 1976.
+[6] Huang, X. and Gollner, M. J., “Correlations for Evaluation of Flame Spread over an Inclined Fuel Surface,” Fire
+Safety Science Proceedings of the 11th International Symposium, 2014.
+[7] Quintiere, J. G., “The Effects of Angular Orientation on Flame Spread Over Thin Materials,” Fire Safety
+Journal, 36(3):291-312, 2001.
+[8] Gollner, M. J., “Studies on Upward Flame Spread,” PhD thesis, University of California San Diego, 2012.
+[9] Loh, H, “Concurrent Flow Flame Spread Study,” National Institute of Standards and Technology, NIST-GCR92-603, 1992.
+[10] Chao, Y. H., and Fernandez-Pello, A. C., “Flame Spread in a Vitiated Concurrent Flow,” Heat Transfer in Fire
+and Combustion Systems, 199:135-142, 1992.
+[11] Hirsch, D.B., Juarez, A., Peyton, G.J., Harper, S.A., and Olson, S. L., “Selected Parametric Effects on Materials
+and Flammability Limits,” AIAA 2011-5067, 41st International Conference on Environmental Systems, July 2011.
+[12] Olson, S., Ruff, G., and Miller, F., “Microgravity Flame Spread in Exploration Atmospheres: Pressure, Oxygen,
+and Velocity Effects on Opposed and Concurrent Flame Spread,” SAE Int. J. Aerosp. 1(1):239-246, 2009,
+doi:10.4271/2008-01-2055.
+[13] Maradey, J.F., T’ien, J.S., and Prahl, J.M., “The Upward and Downward Flame Propagation Limits of Rigid
+Polyurethane Foams,” CWRU Report FTAS/TR-77-131, Case Western Reserve University, Cleveland, Ohio. 1977.
+[14] Buch, R., Shields, J., Kashiwagi, T., Cleary, T., and Steckler, K., “The Influence of Surface Silica on the
+Pyrolysis of Silicones,” NIST Annual Conference on Fire Research: Book of Abstracts, November 1998.
+[15] Romenesko, David J., and Robert R. Buch, “Blending with Siloxane Polymer Powder Containing Silica Filler
+and Optional Alkoxysilane Adhesion Promoter: Reduced Smoke and Carbon Monoxide on Burning,” Dow Corning
+Corporation, assignee, Patent US5508323 A. 16 Apr. 1996.
+[16] Kim, Y. S., and Davis, R., “Multi-Walled Carbon Nanotube Layer-by-Layer Coatings with a Trilayer Structure
+to Reduce Foam Flammability,” Thin Solid Films, 550:184-189, 2014.
+[17] G. H. Markstein, J. de Ris, “Upward Fire Spread Over Textiles,” Proc. Combust. Inst. 14: 1085 – 1097, 1973.
+[18] T’ien, J. S., and Endo, M., “Material Flammability: A Combustion Science Perspective,” Procedia
+Engineering, 62:120-129, 2013.
+11
+International Conference on Environmental Systems
+

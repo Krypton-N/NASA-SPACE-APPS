@@ -1,0 +1,28 @@
+# Entornos y dependencias (se regeneran)
+.venv/
+node_modules/
+app/dist/
+__pycache__/
+*.pyc
+
+# Archivos sueltos
+*.zip
+*.part
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs de descarga
+data/**/_*.log
+
+# NTRS: se suben el catálogo y el texto completo (.txt, sirve para RAG); los PDF no (818 MB).
+# Se recuperan con: python scripts/download_ntrs.py
+data/ntrs/**/*.pdf
+
+# PSI: se suben metadatos, manifiestos y tablas experimentales; no los datos crudos (4.2 GB).
+# Se recuperan con: python scripts/download_psi.py
+/data/psi/*/*
+!/data/psi/*/investigation.json
+!/data/psi/*/files_manifest.csv
+!/data/psi/*/Experimental table/

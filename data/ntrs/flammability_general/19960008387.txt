@@ -1,0 +1,1413 @@
+N96- 15553
+Solid Surface Combustion
+Experiment
+Flame Spread in a Quiescent, Microgravity
+Environment
+Implications
+of Spread Rate and Flame Structure
+Matthew
+
+Bundy,
+
+Jeff West, Peter C. Thomas, and Subrata
+Bhattacharjee
+Department
+of Mechanical
+Engineering
+San Diego State University,
+San Diego, CA 92182-0191
+
+Lin Tang and Robert A. Altenkirch
+Department
+of Mechanical
+Engineering
+NSF Engineering
+Research Center for Computational
+Mississippi
+
+State University,
+
+Mississippi
+and
+Kurt Sacksteder
+
+NASA
+
+Lewis Research
+
+Cleveland,
+
+and
+Field Simulation
+
+State, MS 39762
+
+Center
+
+OH 44135
+
+Introduction:
+A unique environment
+in which flame spreading,
+a phenomenon
+of fundamental,
+scientific interest, has
+importance
+to fire safety is that of spacecraft in which the gravitational
+acceleration
+is low compared
+with
+that of the Earth, i.e., microgravity.
+Experiments
+aboard eight Space Shuttle missions
+between
+October 1990
+and February 1995 were conducted
+using the Solid Surface Combustion
+Experiment
+(SSCE) payload
+apparatus
+in an effort to determine
+the mechanisms
+of gas-phase
+flame spread over solid fuel surfaces in the
+absence of any buoyancy
+induced
+or externally
+imposed
+oxidizer flow. The overall SSCE effort began in
+December
+of 1984.
+
+The SSCE apparatus
+0 2 / N 2 mixture
+
+consists
+
+of a sealed
+
+at a prescribed
+
+container,
+
+pressure.
+
+approximately
+
+0.039
+
+Five of the experiments
+
+used
+
+m 3, that
+
+is filled
+
+a thin cellulosic
+
+with
+
+a specified
+
+fuel,
+
+ashless
+
+filter
+
+paper, 3 cm wide by 10 cm long, 0.00825 cm half-thickness,
+ignited in five different
+ambient
+conditions.
+Three of the experiments,
+the most recent, used thick polymethylmethacrylate
+(PMMA)
+samples 0.635 cm
+wide by 2 cm long, 0.32 cm half-thickness.
+Three experiments,
+STS 41, 40 and 43, were designed
+to evaluate
+the effect of ambient
+pressure on flame spread over the thin cellulosic
+fuel while flights
+STS 50 and 47 were
+at the same pressure
+as two of the earlier flights but at a lower oxygen concentration
+in order to evaluate the
+effect of ambient
+oxygen level on the flame spread process at microgravity.
+For the PMMA flights, two
+experiments,
+STS 54 and 63, were at the same pressure but different oxygen concentrations
+while STS 64 was
+at the same oxygen
+concentration
+as STS 63 but at a higher pressure.
+Two orthogonal
+views of the experiments
+were recorded
+on 16 mm cine-cameras
+operating
+at 24 frames/s.
+In addition
+to filmed images of the side view of the flames and surface view of the burning
+samples, solidand gas-phase
+temperatures
+were recorded using thermocouples.
+The experiment
+is battery powered
+and
+follows
+an automated
+sequence
+upon activation by the Shuttle Crew.
+In this study we separate
+the SSCE data into two groups according
+to the fuel type: i) thin cellulose,
+and ii) thick
+PMMA. The experimental
+spread rates are compared with prediction
+from a number of models
+in an effort to
+uncover
+the important
+physics that characterize
+microgravity
+flame spread. Both steady and unsteady
+solutions
+are employed
+to explore the flame evolution,
+especially
+for thick fuels. Finally, the flame structure in downward
+spread is compared
+with the microgravity
+flame structure
+and modeling
+results to delineate
+the difference
+between
+the two configurations
+and the influence
+of normal gravity.
+Mathematical
+
+Model:
+
+The mathematical
+model employed
+has been reported before [1], so only
+conservation
+equations
+can be expressed
+in a generic format as follows:
+
+o(p,)
+Ot
+
+a rr
+Ox
+
+oay
+
+af..
+
+a brief description
+
+is presented
+
+.,,,
+
+(I)
+
+=-_x _, _'c?x + oay
+J
+[X_' Oy J + s_' "
+11
+
+here. The
+
+where
+
+the terms are explained
+
+in Table 1. The ignition source term applies
+
+1. The Planck mean absorption
+accounts
+
+for reabsorption
+
+coefficient,
+
+of radiation
+
+only to the shaded
+
+ap.GB, calculated from the method
+
+despite
+
+the apparent
+
+ignition
+
+of Global Energy
+
+thin optical limit of the radiation
+
+zone of Fig.
+
+Balance
+
+[2],
+
+source term.
+
+In addition to the conservation equations, the equations of state for density, viscosity and thermal conductivity in
+the gas phase, a pyrolysis formula based on negligible surface regression and constant solid density for the thick
+fuel, and variable density and first-order kinetics for the thin fuel are used to complete the formulation.
+
+"-
+
+[- v,: ,., ; '',:":=,p,=oxpt-Cj,
+
+exp
+m'hi<a-tTa.p[3.615dth:
+The boundary
+
+conditions
+
+Ah ° =25.9,
+
+16.74
+
+cg =1.183,
+
+are depicted
+
+MJ/kgr_l;
+
+_,: =0.035,
+
+X, =0.086
+
+G = 1.465,
+
+0.12 W/In.K;
+
+Bp = 2.282
+parameters
+
+p, =1190,
+
+x 109, 7.8 x 1016 sl;
+are: Yo.- = 0.53;
+
+volume
+
+W/m.K;/x
+
+518.7
+
+Ta. p = 15.6,
+
+P. = 1 atin;
+
+x,_ x - x_n = 200 mm; Number
+
+1.58x10
+
+used for thick and thin fuels are: s = 1.92, 1.185;
+ll m 3/kg-s;
+
+r = 0.675x
+
+1.256 kJ / kg-K;
+
+Ah_ = 0.941,
+°
+
+kg/In3;
+30.0
+
+<2>
+
+Zl:,)
+
+in Fig. 1. The properties
+
+B c =5.928x109,
+
+1.465 kJ/kg-K;
+
+M** = 30 kg / kmol;
+
++4.605G(T-T**)]
+
+10 -3 N.s/rn2;
+
+_:= 3.2,
+
+14.04
+T,
+
+0.368
+0.083
+
+kK;
+
+T. + T,,d = 1958
+2
+
+K;
+
+MJ / kg_l;
+ram;
+
+kK. The boundary
+
+Vg=0 or 1 an/s;
+
+Ta. c =10.7,
+
+conditions
+
+Y_,x = 100 mm;
+
+and typical numerical
+
+Y_n = 3.2 mm;
+
+of grid points 37x90; the time step ranges from 0.01 s to 0.25 s. The ignition
+
+(AVis,) is 1.6 x 1.6 X 6.3inin
+
+3 in each phase.
+
+Results and Discussion:
+1. Thin Fuel:
+1.1 Spread Rate: The experimental
+quiescent
+
+environments,
+
+Superposed
+computational
+
+produces
+
+at three different ambient
+
+on this figure is the prediction
+
+pressures
+
+over the thin cellulosic fuel in five different
+and two oxygen levels, are plotted in Fig. 2.
+
+from the de Ris theory
+
+[3], V f,&Ri , the prediction
+s
+
+model similar to that of Frey and T'ien [4], Vf.,,on_,aa, and, the prediction
+
+The non-radiative
+experiments,
+
+flame spread rates, Vf.,_,,
+
+models over-predict
+
+an increase in V/
+
+the best agreement
+
+from a radiative model [5].
+
+Vf by almost a factor of 2 to 3. Moreover, the dear trend seen in the
+
+with P**, is completely
+
+(within
+
+from a non-radiative
+
+missed by these models. The model with radiation
+
+10%) with experiment.
+
+The near-perfect agreement between the de Ris formula and the non-radiative model needs some explanation. The
+spread rate is computed using a succession of models in which the major assumptions in the de Ris theory - zero
+hang-distance (#2), Oseen flow (#3), constant gas density (#4), no wall blowing (#5), infinite-rate chemistry (#6),
+constant vaporization temperature (#7), constant solid density (#8), constant gas conductivity (#9), and no
+radiation (#10-#13) - are removed one by one, and the resulting spread rates are plotted in Fig. 3 for two ambient
+pressures and two Vg's. On the very left of the abscissa is the prediction
+extreme right are the
+mathematical models
+de Ris theory have a
+as the de Ris formula
+
+from the de Ris formula (#1), and on the
+
+data (#14) from the SSCE and literature [6] with the intermediate
+points being the various
+with increasing complexity. It is clear from this figure that many of the assumptions in the
+canceling affect, and that is why the non-radiative model (#9) produces the same spread rate
+(#1).
+
+Results from four different radiative models (#10: surface re-radiation only; #11: gas radiation only; #12: surface
+and gas radiation loss; #13: surface and gas radiation with radiation feedback from gas to solid) are also shown in
+12
+
+Fig. 3. With the inclusion
+behavior
+
+of
+
+Vf
+
+with
+
+decrease
+
+of any sort of radiative
+
+P.
+
+as the ambient
+
+is qualitatively
+pressure
+
+mechanism,
+
+reproduced.
+
+is reduced
+
+or
+
+V!
+
+shows
+
+It is also evident
+
+a significant
+that
+
+decrease,
+
+the radiative
+
+and the observed
+
+effects
+
+on spread
+
+rate
+
+Vg is increased.
+
+1.2 Flame Structure:
+Photographs
+showing
+the side view of the flame at two different pressures
+are shown in Figs.
+4(a) and 4(b) (see color appendix).
+Temperature
+recorded by a thermocouple
+embedded
+in the solid and a gasphase thermocouple
+7 mm above the surface are superposed
+on these photos after converting
+time into distance
+assuming
+the flame to be steady.
+At higher pressure, the presence
+of bright soot near the leading edge makes it
+impossible
+for the photograph
+to capture the entire flame image. At 1.0 atm, the flame length seems to correspond
+to the distance between
+the two peaks shown by the gas-phase
+thermocouple.
+If this is also true at 1.5 atm, the
+flame size must increase with the ambient
+pressure, a conclusion
+predicted
+from the model with radiation
+[5].
+Another feature
+that is immediately
+noticeable
+in Fig. 4 is the presence
+of a large, 10 mm long hang-distance
+[7],
+the distance
+between
+the flame leading edge and the pyrolysis
+front, with the latter location identified
+by the
+surface temperature
+reaching
+a plateau following
+the preheat
+downward
+spreading
+flame at 1-g shown in Fig. 5. The flame
+
+g because
+
+the diffusion
+
+length,
+
+Lg = ,o(V° + Vf/"
+
+region. Contrast these flame pictures with that of a
+size as well as the hang-distance
+is much smaller at 1-
+
+is only about
+
+0.158 cm (Vg = 20
+
+cm / s) as opposed
+
+to 11.1 cm in
+
+/
+
+the quiescent,
+
+microgravity
+
+The dependence
+explained
+from
+qualitatively
+2. Thick
+
+environment.
+
+of vaporization
+the correlation
+
+explained
+
+temperature
+on pressure
+developed
+by Bhattacharjee
+
+by the smaller
+
+residence
+
+and the velocity scale in Figs. 4 and 5 can be qualitatively
+et al. [8]. The presence
+of soot in Figs. 4(b) and 5 can be
+L
+Ires =/.
+F-_. _, at higher
+P.. or Vg.
+
+time,
+
+Fuel:
+
+2.1 Ignition
+Transient
+for Thick Fuel: For thick PMMA, the ignition transient is more prominent
+than in the case
+of the thin cellulosic
+fuel; it can be divided into the following
+sequence
+of events: i) preheating,
+ii) premixing,
+iii)
+ignition, iv) premixed
+flame propagation,
+and v) reverse flame propagation.
+The premixed
+flame propagation
+is
+captured
+
+by the unsteady
+
+y = 1 mm,
+stops
+
+shows
+
+at x=6 mm,
+
+spreading
+
+flame
+
+duration
+
+with
+
+supported
+
+an initial spike
+and then
+arrives.
+
+The gas-phase
+at around
+
+retreates
+
+a decrease
+
+Flame
+
+in the x-direction.
+at high
+
+Computed
+
+propagation
+
+phase
+
+spike
+
+After the ignition
+and experimental
+
+of x. The steady
+
+transient
+Vf,
+
+for different
+
+conditions
+
+flame
+
+starts rising
+
+is over,
+
+the flame,
+
+against
+
+a zero value
+
+at x = 10mm,
+
+the thermocouple,
+
+as the stabiliTed
+
+found
+
+as in the case of thin fuels.
+traces
+
+fixed
+
+approaches
+again
+
+computationally
+
+thermocouple
+
+plotted
+
+code also predicts
+
+ambient
+
+has been
+
+absent
+
+in the gas-phase
+
+experiments,
+the spread rate decreases with x; however,
+the short length of fuel over which the spread occurred.
+The time of extinction
+
+data, with the thermocouple
+
+t=5 s (see Fig. 6) as the premixed
+
+in Eig . and can be completely
+
+Spread:
+
+values
+
+thermocouple
+
+back to x=3 mm. The temperature
+
+The premixed
+
+by the lack of the initial
+
+2.2 Unsteady
+
+results
+
+model.
+
+to last for a shorter
+The latter conclusion
+
+still very
+
+small
+
+x in Fig. 7, decrease
+
+in size, starts spreading
+smoothly,
+
+and extinction
+
+for Vf as does the de Ris formula.
+
+self extinguishment
+
+is
+
+of Fig. 4.
+
+was not observed,
+
+in Fig. 7 can be explained
+
+perhaps
+
+if the diffusion
+
+In the
+because
+
+of
+
+time scale,
+
+L2
+ta/H = m,
+
+a,
+
+is obtained
+
+50%, 2 atm flame
+level,
+higher
+
+; however,
+
+from
+
+lasts almost
+because
+
+a fixed
+
+imposed
+
+twice
+
+as long
+
+of the higher
+
+length.
+
+As pressure
+
+is doubled,
+
+as the 50%, 1 atm flame.
+
+0 2 level at t=0, it takes
+
+0 2 level.
+
+13
+
+longer
+
+so is ta/H, which
+
+The time scale is almost
+for the near-limit
+
+may explain
+independent
+
+condition
+
+why the
+of 0 2
+
+to be reached
+
+at
+
+Conclusions:
+Experimental
+results
+fromthe
+
+SSCE and computational
+results from steady and unsteady
+modeling
+are presented.
+It is established
+that for thin cellulosic
+fuel the flame spread phenomenon
+is fairly steady after the initial ignition
+transients
+are over. The flame size and the hang distance are much larger in microgravity
+than in downward
+flame
+propagation.
+The fundamental
+mechanism
+behind the striking differences
+between
+the 0-g and 1-g flame seems to
+be the enhancement
+of radiation
+heat transfer
+in the quiescent,
+microgravity
+environment
+because
+of the large
+residence
+time. For thick fuels, a premixed
+flame propagation
+during ignition
+has been captured
+by the unsteady
+model as weU as the experiments.
+The models
+also indicate that the flame spreads with a decreasing
+spread rate
+and finally may extinguish
+even at high oxygen
+levels.
+Acknowledgments:
+
+This work
+
+was
+
+supported
+
+by NASA
+
+through
+
+Contract
+
+NAS3-23901.
+
+References:
+1. Bullard, D.B., Tang, L, Altenkirch,
+R.A., and Bhattacharjee
+S., Finite-Rate Chemistry in Unsteady Flame Spread Over
+Solid Fuels in Microgravity,
+Adv. Space Research, Vol. 13, No. 7, pp.(7)171-(7)184,
+(1993).
+2. Bhattacharjee,
+S., and Altenkirch,
+R.A., Radiation- Controlled, Opposed-Flow
+Flame Spread in a Microgravity
+Environment,
+Twenty-Third
+Syrup. (Int.) on Comb., The Comb. Inst., Pittsburgh,
+pp. 1627-1633,
+(1990).
+3. de Ris, J.N., Spread of a Laminar Diffusion Flame, Twelfth Symp. (Int.) on Comb., The Comb. Inst., Pittsburgh,
+PA,
+p. 241, (1969).
+4. Frey, A.E., and T'ien, J.S., A Theory of Flame Spread over a Solid Fuel Including Finite-Rate Chemical Kinetics,
+Combustion
+and Flame, Vol. 36, pp. 263-289, (1979)•
+5. Bhattacharjee,
+S., Alterddrch,
+R.A., and Sacksteder,
+K., The Effect of Ambient Pressure on Flame Spread Over Thin
+Cellulosic Fuels in a Quiescent,
+Microgravify
+Environment,
+Journal
+of Heat Transfer, To Appear,
+(1995).
+6. Fernandez-PeUo,
+A.C., Ray, S.R., and Glassman,
+I., Flame Spread in an Opposed Forced Flow: The Effect of Ambient
+Oxygen Concentration,
+Eighteenth
+Symp. (Int.) on Comb., The Comb. Inst., Pittsburgh,
+PA, p. 579, (1981).
+7. Bhattachazjee,
+S., West, J., and Dockter, S.,A Simplified Theory for de Ris Flame over Thin and Thick Fuels,
+Combustion
+and Flame, Accepted,
+(1995).
+8. Bhattacharjee,
+S., Bhaskaran,
+K.K., and Altenkirch,
+R.A., Effects of Pyrolysis Kinetics
+Modeling, Combustion
+Science and Technology,
+Vol. 100, pp. 163-183, (1994).
+
+Equation
+Mass
+
+0
+1
+
+on Opposed
+
+Flow Flame-spread
+
+• ,,s
+
+F_
+0
+
+x-morn•
+
+u
+
+#
+
+y-morn,
+
+v
+
+12
+
+(Xm_, Ym_)
+
+o
+_P
+3x
+_P
+Boundary Layer
+
+Species:Yr ! '_"cp
+/
+Fuel
+
+-Bc ., yo OXpi)
+
+Species:Yo _ / cp
+Oxygen
+
+s_"
+
+=o
+°_x
+
+_.....
+Zone
+
+_ /_'_"
+
+-'_
+
+_
+
+Z Oy,_
+
+rnyi _-_
+
+=
+
+= J/\
+
+Spedes- y_ X lcp
+Nitrogen
+Energy:
+GasPhase
+
+T
+
+"o.,tt.._
+A / Cp Ah_se
+
+• t_.
+qi,,,-4al,._,(T4-
+
+Cp
+• tp,
+
+T_ _, / cp
+qij....._n
+SolidC,
+Phase
+Table 1. Description of the generic terms of Eq. (1).
+Energy:
+
+4
+r=)
+
+(,.
+
+--
+
+L,
+aT
+i
+Fig. .Computational
+I
+domainand_ bounda_ conditions.
+Intheimerfacial
+species
+cor_anuity
+equationJff=
+rh"for and J_ = 0 forothers.
+fuel,
+""
+TM'
+
+14
+
+1e+O 1
+m
+
+le_-01
+
+-_
+
+50% 0 z (Empty
+
+I ' i
+t ,
+
+-I
+
+Syml_ls)
+
+1
+Q
+
+------_
+
+f i
+
+iI
+
+_JIl_/Lf_le-,,41
+
+l_ltlt
+
+I
+
+!
+
+'
+
+o.g..:5_..
+
+E
+E
+
+E
+E
+
+I I¸
+
+;
+I
+
+t
+
+r f
+
+J
+
+Pllplr
+
+=P
+..'._ _-4 .....
+_-'.
+_.:. !
+
+•
+
+1e*O0
+
+_
+
+'. _'-_.--_-.0--¢
+
+_---_o-_---?1,
+
+1
+
+,
+
+1e+O0
+
+35% 02 (Filled
+
+;
+! i i J%".. ,
+* _, o=,_ :
+t
+i".: ....
+
+Syml=ols)
+"
+
+le-01
+
+V==O cnvs; P=I.0
+
+--_
+
+v=o=_= P=.t_
+=,,,',
+I
+
+"
+
+--4O
+
+1.5
+
+2.0
+
+Pressure,
+
+2
+
+3
+
+S
+
+" .._
+
+I
+
+J!ll
+
+6
+
+aim
+
+atml
+
+C_'11/_; '=I. atml
+F
+
+"
+
+le-01
+1.0
+
+Fig. 2. V/
+
+I
+
+7
+
+8
+
+Model
+
+9
+
+10 11
+
+12
+
+13 14
+
+#
+
+Fig. 3. Model sweep for spread rate. On the left is the
+de Ris model and on the right are data from the Space
+Shuttle experiments
+and literature [6] with
+
+vs. P® at two different 0 2 levels. Data
+
+from Space Shuttle experiments, predictions of the de
+Ris formula, and models with and without radiation.
+
+intermediate
+de Ris theory
+
+models
+removing
+one by one.
+
+the assumptions
+
+in the
+
+0.4
+
+1500
+
+t
+
++
+
+50%02
+
+' 1 arm
+
+Theory,
+
+50%02,
+
+2 arm
+
+Theory,
+
+1200
+
+Theory,
+
+0
+
+0.3"
+
+70%02,
+
+t
+
+E
+E
+
+v
+900
+
+•
+
+0.2
+
+1 atn_
+
+STS-64,50%0
+
+2arm
+2"
+
+i-1
+
+>
+oO°° o...., oo.O °. o..°.........
+o
+°."
+
+6OO
+
+300
+
+°.....
+
+• t_ti:nal/yml
+20
+
+°.....
+
+0.1
+
+I_l_,
+40
+
+60
+time,
+
+80
+
+1O0
+
+0.0
+120
+
+5
+
+of a premixed
+
+flame
+
+15
+
+20
+
+25
+
+x, ms
+
+Fig. 6. Temperature
+recorded by a thermocouple 1 mm
+away from the surface in flame spread over PMMA.
+The initial temperature spikes in the Shuttle data
+(solid line) and the unsteady theory indicate the
+propagation
+transient.
+
+10
+
+s
+
+during
+
+the
+
+Fig.
+
+7. Unsteady
+
+three
+
+different
+
+extinguishment.
+
+ignition
+
+15
+
+computations
+ambient
+
+conditions
+
+of
+
+V!
+
+over
+
+showing
+
+PMMA
+eventual
+
+for
+
+Solid Surface
+Combustion Experiment
+

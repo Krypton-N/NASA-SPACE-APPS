@@ -1,0 +1,66 @@
+/* Tokens de diseño. La app se compromete con un solo tema oscuro: el fondo es el espacio. */
+:root {
+  color-scheme: dark;
+
+  /* superficies */
+  --space: #03050b;
+  --panel: rgba(12, 17, 31, 0.62);
+  --panel-2: rgba(19, 26, 45, 0.74);
+  --panel-solid: #0d1322;
+  --line: rgba(150, 172, 235, 0.13);
+  --line-2: rgba(150, 172, 235, 0.26);
+
+  /* tinta */
+  --ink: #edf2ff;
+  --ink-2: #b1bddb;
+  --muted: #7a87a6;
+
+  /* acento: azul de llama en microgravedad */
+  --accent: #8fa9ff;
+  --accent-strong: #6f8cff;
+  --accent-soft: rgba(111, 140, 255, 0.14);
+  --accent-ink: #060913;
+
+  /* gradiente de llama: del hollín caliente al azul de difusión (solo en el título principal) */
+  --flame-a: #ffd48a;
+  --flame-b: #ff8a3d;
+  --flame-c: #8fa9ff;
+
+  /* series de datos (paleta validada para superficie oscura) */
+  --s-meth: #3987e5;
+  --s-hept: #d95926;
+
+  /* rampa secuencial azul para magnitud (de fondo a máximo) */
+  --seq-1: #104281;
+  --seq-2: #184f95;
+  --seq-3: #256abf;
+  --seq-4: #3987e5;
+  --seq-5: #6da7ec;
+  --seq-6: #b7d3f6;
+
+  /* estados: siempre con icono + texto */
+  --good: #0ca30c;
+  --warn: #fab219;
+  --crit: #d03b3b;
+  --good-ink: #72e072;
+  --warn-ink: #ffcc55;
+  --crit-ink: #ff8e8e;
+  --good-bg: rgba(12, 163, 12, 0.14);
+  --warn-bg: rgba(250, 178, 25, 0.13);
+  --crit-bg: rgba(208, 59, 59, 0.16);
+
+  /* forma */
+  --r-lg: 18px;
+  --r-md: 12px;
+  --r-sm: 8px;
+  --glass: saturate(135%) blur(18px);
+  --shadow: 0 1px 0 rgba(255, 255, 255, 0.04) inset, 0 20px 50px -24px rgba(0, 0, 0, 0.8);
+
+  /* tipografía */
+  --f-display: "Unbounded", "Segoe UI", system-ui, sans-serif;
+  --f-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --maxw: 1240px;
+}

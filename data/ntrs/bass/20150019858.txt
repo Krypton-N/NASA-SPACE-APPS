@@ -1,0 +1,814 @@
+45th International Conference on Environmental Systems
+12-16 July 2015, Bellevue, Washington
+
+ICES-2015-196
+
+Results from on-board CSA-CP and CDM Sensor Readings
+during the Burning and Suppression of Solids – II (BASS-II)
+Experiment in the Microgravity Science Glovebox (MSG)
+Sandra L. Olson1
+NASA Glenn Research Center, Cleveland, OH 44135
+Paul V. Ferkul2
+USRA, Cleveland, OH 44135
+Subrata Bhattacharjee3 and Fletcher J. Miller4
+San Diego State Univ., San Diego, CA, 92182
+Carlos Fernandez-Pello5 and Shmuel Link6,
+Univ. California – Berkeley, Berkeley, CA, 94720
+James S. T’ien7
+Case Western Reserve Univ., Cleveland, OH, 44106
+and
+Indrek Wichman
+Michigan State Univ., E. Lansing, MI 48824
+
+For the first time on ISS, BASS-II utilized MSG working volume dilution with gaseous
+nitrogen (N2). We developed a perfectly stirred reactor model to determine the N 2 flow time
+and flow rate to obtain the desired reduced oxygen concentration in the working volume for
+each test. We calibrated the model with CSA-CP oxygen readings offset using the Mass
+Constituents Analyzer reading of the ISS ambient atmosphere data for that day. This
+worked out extremely well for operations, and added a new vital variable, ambient oxygen
+level, to our test matrices. The main variables tested in BASS-II were ambient oxygen
+concentration, ventilation flow velocity, and fuel type, thickness, and geometry.
+
+BASS-II also utilized the on-board CSA-CP for oxygen and carbon monoxide readings,
+and the CDM for carbon dioxide readings before and after each test. Readings from these
+sensors allow us to evaluate the completeness of the combustion. The oxygen and carbon
+dioxide readings before and after each test were analyzed and compared very well to
+stoichiometric ratios for a one step gas-phase reaction. The CO versus CO2 followed a linear
+trend for some datasets, but not for all the different geometries of fuel and flow tested. We
+calculated the heat release rates during each test from the oxygen consumption and burn
+times, using the constant 13.1 kJ of heat released per gram of oxygen consumed. The results
+showed that the majority of the tests had heat release rates well below 100 Watts. Lastly,
+the global equivalence ratio for the tests is estimated to be fuel rich: 1.3 on average using
+mass loss and oxygen consumption data.
+
+1
+
+Dr., Combustion Physics and Reacting Systems Branch, m.s. 77-5
+Dr., Universities Space Research Association, m.s. 110-3
+3
+Professor, Mechanical Engineering, 5500 Campanile Drive
+4
+Associate Professor, Mechanical Engineering, 5500 Campanile Drive
+5
+Professor, Mechanical Engineering, 6105A Etcheverry Hall, m.s. 1740
+6
+Graduate Student, Mechanical Engineering, 60A Hesse Hall
+7
+Professor, Mechanical and Aerospace Engineering, Glennan 418
+2
+
+Nomenclature
+BASS-II
+Cin
+Co
+Cout
+C(t)
+CDM
+CSA-CP
+CSTR
+HRR
+GMT
+ISS
+LPM
+MCA
+MMA
+MSG
+PMMA
+SMAC
+V
+r
+t
+Φglobal
+τ
+
+= Burning and Suppression of Solids – II experiment in the MSG aboard ISS [1, 2]
+= concentration of oxygen entering work volume, = 0 (pure nitrogen)
+= initial concentration of oxygen in the work volume
+= concentration of oxygen exiting the work volume, = c(t), a CSTR property
+= concentration of oxygen in the work volume as a function of time
+= Carbon Dioxide Monitor, sensor aboard ISS (CO2) [3]
+= Compound Specific Analyzer-Combustion Products, sensor aboard ISS (O2, CO, others) [4, 5]
+= Continuously Stirred Tank Reactor
+= Heat Release Rate, Watts
+= Greenwich Mean Time, standard time on ISS
+= International Space Station
+= Liters Per Minute
+= Major Constituents Analyzer, a mass spectrometer based system that measures the
+major atmospheric constituents on ISS, calibrated O2 reference [6, 7]
+= methylmethacrylate, monomer of PMMA released during material pyrolysis
+= Microgravity Science Glovebox, a facility aboard ISS [8]
+= polymethylmethacrylate, (acrylic)
+= Spacecraft Maximum Allowable Concentration
+= volume of MSG working volume, 0.25 m3
+= flow rate of gaseous N2, 0.0005 m3/min maximum, adjustable
+= time, minutes
+= global equivalence ratio, (Eq.(3)
+= residence time of the working volume, = V/r, minimum of 500 minutes
+
+I. Introduction
+
+T
+
+HE Microgravity Science Glovebox
+(MSG) in the Destiny Lab of the
+International Space Station (ISS) provides a
+contained atmosphere in which we can
+conduct fire safety experiments [8]. The
+MSG has a set of filter banks that capture
+particulates and convert the CO (carbon
+monoxide) to CO2 (carbon dioxide) using an
+ambient temperature catalyst. The Burning
+and Suppression –II (BASS-II) hardware is
+shown inside the MSG working volume in
+Figure 1. The BASS-II hardware consists of
+a flow duct, still camera, video camera, video
+and power boxes, external control box and
+associated plumbing and mounting systems.
+The black anodized 7.6 cm x 7.6 cm x 17 cm
+rectangular flow duct with rounded corners
+was originally built to perform gas jet
+diffusion flame studies [9], and was adapted
+to accommodate solid samples for the BASS
+experiments.
+
+Figure 1. Microgravity Science Glovebox Facility (MSG)
+working volume aboard the International Space Station (ISS) ,
+with the Suppression of Solids – II (BASS-II) experiment
+hardware installed. The working volume of the MSG was diluted
+using ISS nitrogen gas. The CSA-CP (O2 and CO) and CDM (CO2)
+sensors were used to obtain before and after burn gas
+concentrations.
+
+The flow was blown through the duct using a small variable speed fan. In addition, up to two additional flow
+restrictors could be used at the fan inlet to increase the pressure drop and thus reduce the flow through the duct to
+the desired value for the test point. With no restrictors, the maximum flow velocity was ~55 cm/s, and with two
+restrictors this was reduced to ~35 cm/s. The flow then passed through a honeycomb flow straightener and an inlet
+screen to reduce swirl. An omnidirectional spherical air velocity transducer (TSI™8 # 8475) was positioned
+between the honeycomb and the screen, and was used to measure the steady-state flow through the duct. The air
+velocity transducer probe had a response time of approximately one minute.
+2
+International Conference on Environmental Systems
+
+The test section was 17 cm long. Inside the test section was a nozzle for nitrogen flow, a moveable scale, and an
+Oriel™8 #71768 thermopile detector with a CaFl windows (spectral range of 0.13 to 11 microns) in the downstream
+top back corner of the duct. The test section of the duct had two orthogonal windows; the top one was replaced for
+BASS to provide a mounting rail system for the solid samples. The top window was used by a Nikon™ 8 D300 12.3
+megapixel digital color still camera with a 60 mm lens that provided 4320 x 2968 pixel images. The duct exit
+contained a perforated copper plate followed by a brass screen to provide heat rejection and a cold surface for soot
+deposition. The flow turned ninety degrees to exit the duct, which facilitated mixing of the hot combustion gases
+with the cool ambient air.
+The front window opened to provide access to the test section for sample and igniter change out. The front window
+also had interlocks for the igniter and nitrogen flow in the lower downstream corner. A Panasonic color video
+camera WV-CP654 (760 x 480 pixel array) with a turning mirror looked in the front window. The video camera had
+a built-in digital overlay that displayed the nitrogen flow rate (cm3/min), fan voltage (10xV), air velocity transducer
+reading (cm/s), and the radiometer signal. The fan voltage was calibrated with the air velocity transducer at the end
+of every operations day. The radiometer signal was not calibrated, but provided a measure of the flame dynamics
+and steadiness. The external control box had controls for the fan voltage, nitrogen flow rate, enable switches for the
+igniter and nitrogen flow, and a radiometer gain level setting.
+A number of sample geometries were used for BASS-II: Cast PMMA (polymethylmethacrylate) samples were
+shaped as rods of various diameters (6.35 to 12.7 mm), thin to thick slabs (0.125 to 5 mm), or a section of a 4 cm
+diameter sphere. In addition, flat cotton-fiberglass fabric samples were also burned. These samples could generally
+be mounted so that they could be burned in either the opposed or concurrent flow direction. The flat samples were 1
+cm or 2 cm wide. The samples were manually ignited with a Kanthal™8 A-1 29 gauge hot-wire igniter with a
+nominal hot wire resistance of 0.8 to 1 ohms, powered by 3.5-3.8 amps when the astronaut manually pulled the
+deployment lever to move the igniter into position. Samples were burned within the duct and the combustion
+products exited the duct and mixed with the gas in the work volume. Example flame images are shown in Figure 2.
+Many samples are still on orbit, but 34
+samples were returned and evaluated for
+mass loss.
+To evaluate the levels of combustion
+products produced during microgravity
+fires, BASS-II requested the use of the onboard sensors to measure the O2 (oxygen)
+depletion and the completeness of
+combustion (CO, CO2) for microgravity
+combustion
+tests
+under
+spacecraft
+ventilation flow rates to provide scientific
+data on the stoichiometry of the diffusion
+flame reactions and heat release rates. The
+request was approved, and the data reported
+here is the first extensive data on the
+stoichiometry and toxicity of combustion
+products in microgravity.
+The O2, CO2, and CO measurements
+required two portable, battery powered
+instruments in the working volume during
+testing: CDM (Carbon Dioxide Monitor),
+and
+CSA-CP
+(Compound
+Specific
+Analyzer-Combustion Products) [3-5]. The
+oxygen sensor (CSA-CP) is not recalibrated
+8
+
+Figure 2. Flame geometries tested in BASS-II. Sample images
+from the different geometries, from top left to bottom right: opposed
+thin slab, spherical section, opposed rod higher flow, flat fabric
+sample at higher flow, opposed thick slab, concurrent rod, opposed
+rod at low flow with open tip (similar to concurrent rod), flat fabric
+sample at low flow). The forced flow is up in all images.
+
+Mention of trade names or commercial products is for descriptive purposes only and does not constitute
+endorsement or recommendation for use by the U.S. Government.
+3
+International Conference on Environmental Systems
+
+on orbit, so we also used the Major Constituents Analyzer (MCA) [6-7] data to determine the oxygen sensor offset
+on a daily basis. The resolution of the oxygen sensor in the CSA-CP was 0.1% O2. Oxygen concentrations in the
+MSG working volume were varied during the testing from ambient ISS oxygen levels (~ 21% O 2) down to ~ 14%
+O2 for very near-limit flames. The CO sensor in the CSA-CP is zero calibrated every 60 days, with a range of 01000 ppm and a resolution of 1 ppm. The CO2 sensor was within its calibration window, and had a range of 0-5%
+and a resolution of 0.1% by volume of CO2. The sensor data provided initial and final conditions for repeated tests
+in a sealed working volume, and allowed us to determine when the working volume needed to be purged. The O2
+decreased during each burn and the CO and CO2 increased accordingly.
+Many of the BASS-II tests also required a diluted atmosphere, which typically took one to three hours to achieve
+by dilution of the MSG working volume using ISS nitrogen (from the hose connecting BASS-II duct to back wall of
+MSG in Figure 1). The nitrogen was regulated with a small (< 0.5 liters per minute (LPM)) MKS™8 179A mass
+flow meter and entered the flow duct through a small nozzle just downstream of the fan. The fan in the flow duct
+was turned to maximum (>100 LPM) during the nitrogen flow to mix and blow the gas into the working volume and
+circulate it continuously throughout the hours-long dilution.
+
+II. Validation of MSG Dilution - Continuously Stirred Tank Reactor (CSTR) Model
+To utilize the capabilities of MSG to reduce the oxygen in the working volume in a controlled manner, we
+developed a dilution model based on a Continuously Stirred Tank Reactor (CSTR) model. In this model, the mixing
+in the working volume (via the BASS-II duct fan) is assumed to be ‘instantaneous’, so that the outflow ‘leak’
+concentration from the MSG work volume to the ISS cabin is the perfectly mixed instantaneous concentration. This
+perfect mixing approximation is valid as long as the residence time (V/r) is 5-10 times as long as the mixing time,
+which is easily the case for the 100 LPM flow rate during dilution (250 liters/100 LPM ~ 2.5 min mixing time). For
+the MSG volume and N2 flow rates, the working volume residence time is V/r=500+ minutes, and the mixing time is
+certainly shorter than 50 minutes, so the assumption is valid. The model assumes the work volume is at constant
+pressure and temperature, and constant volume. Thus the leak rate out of the work volume is equal to the rate of N2
+supplied (r).
+The model is based on a mole balance on O2 as follows:
+The control volume is the working volume, with an input of nitrogen and a leak rate of well-mixed gas.
+Boundary and conditions:
+Cin = 0 (pure N2),
+Cout = c(t) (CSTR property),
+C(0) = Co
+
+The rate equation is given by
+
+dc
+V  r (cin  cout )  rcout  rc
+dt
+
+Eq.(1)
+
+Integrating and applying initial conditions:
+
+c(t )  Co exp(
+
+r
+t)
+V
+
+Eq.(2)
+
+4
+International Conference on Environmental Systems
+
+This model was used for subsequent
+BASS-II operations to determine the
+nitrogen flow rate and flow time to achieve
+the desired test oxygen concentration based
+upon the initial oxygen concentration and
+operational crew time constraints. It worked
+very well, and post-dilution CSA-CP
+readings agreed extremely well with the
+model predictions over a range of dilution
+rates, as shown in Figure 4. The out of
+calibration CSA-CP readings were then
+corrected for the offset from the MCA
+readings for that day to provide a calibrated
+oxygen reading for each test.
+
+MSG Working Volume Oxygen % by volume
+
+Oxygen Concentration in the MSG work volume,
+% by volume
+
+Astronaut Chris Cassidy conducted a
+calibration test on the morning of GMT
+22
+Model using CSA-CP initial O2
+(Greenwich Mean Time) 2013-095 in the
+MSG using a CSA-CP sensor taking
+Model using MCA initial O2
+21
+oxygen readings of the MSG working
+CSA-CP readings
+volume at intervals during the dilution.
+MCA -offset
+During dilution, the BASS duct fan was
+20
+turned to maximum, and the working
+volume air circulation was deactivated.
+19
+To validate the model, we used the
+following values in the model based
+18
+upon the test conditions:
+MSG working volume [8] = 0.255 m3
+BASS-II hardware = ~0.005 m3
+17
+Net volume V ~ 0.25 m3
+N2 flow rate in = 493 cm3/min
+16
+(0.000493 m3/min)
+0
+20
+40
+60
+80
+100
+120
+Initial O2 concentration c(0) = Co
+Time, minutes
+CSA-CP sensor C(0)=20.9% O2
+Figure 3. Model verification of the CSTR modeling the MSG
+ISS MCA = 21.48 % O2 [10]
+dilution using the CSA-CP sensor oxygen readings. Sensor data
+taken at intervals during the dilution show how the measurements
+Figure 3 shows the calibration data
+agree with the model curve(Eq.5). Data symbols are sized to ± 0.1%
+compared to the model predictions for
+O2, the resolution of the sensor. Raw CSA-CP data and corrected
+both the CSA-CP readings and corrected
+data for the MCA offset are shown with the model predictions using
+for the offset from the MCA. The model
+the initial reading as the starting value.
+agrees very well with CSA-CP readings
+directly and corrected for the offset to provide a calibrated oxygen level with time. The curvature is minimal due to
+the slow rate of nitrogen flow into the large
+21
+volume.
+Fast dilution
+20
+
+Slow dilution
+Avg dilution
+
+19
+
+CSA-CP sensor readings
+
+18
+
+17
+16
+15
+14
+13
+
+III. Combustion Products
+Sensor readings were taken before and
+after each BASS-II test. The sensor data is
+used to measure the O2 depletion and the
+completeness of combustion (CO, CO2) for
+each microgravity combustion test under
+spacecraft ventilation flow rates.
+The oxygen depletion data is compared
+to the CO2 production for each BASS-II test
+that used PMMA as the fuel.
+
+0
+
+60
+
+120
+
+180
+240
+Time, minutes
+
+300
+
+360
+
+420
+
+Figure 4. Dilution model compared to fast, slow and average
+dilution rates during BASS-II operations.
+Data from three
+BASS-II tests and CSTR model (Eq.2) results that show the range of
+dilution times and oxygen levels obtained. The control of both flow
+rate and dilution time allowed us to work around the crew’s schedule
+while still obtaining the desired working volume oxygen
+concentration for the test.
+
+5
+International Conference on Environmental Systems
+
+BASS-II PMMA data
+C5H8O2 + 6 O2 > 5 CO2 +4 H2O
+The PMMA stoichiometric equation is:
+Eq.(3)
+
+Other than unburned fuel (primarily
+MMA (methylmethacrylate) vapor), which
+does contain some oxygen as shown in Eq.
+6, the only other potential species with
+oxygen is carbon monoxide, which was also
+measured, as shown in Figure 6. The
+concurrent rods produced on average 550
+ppm of CO for every 1% of CO2. The
+opposed rods had a very non-linear
+response, which may be indicative of a flow
+effect.
+The longer the burn, the more CO2 was
+formed, and the nominal test procedure for
+most samples was to turn the flow down in
+increments. At very low velocities, the tail
+region of the opposed flow flames opened
+up, which presumably allowed incomplete
+combustion products to escape the flame
+zone.
+Interestingly, the concurrent
+procedure was very similar, but the
+concurrent flame always had an open tail,
+allowing incomplete combustion products to
+exit throughout the burn.
+The opposed
+thick slabs fall somewhere in between,
+producing on average 370 ppm of CO for
+every 1% of CO2.
+The one outlier point from Figure 5 at
+2.8% CO2 is not included on Figure 6 since
+the CO sensor was over-ranged for this test
+(> 1000 ppm), so we have no quantitative
+value for CO for this test. During this test,
+the long burn of the relatively strong flame
+caused some overheat damage to the
+downstream lower corner of the front
+window in the area where a leak was
+occurring. The leak was repaired and
+operations proceeded without further
+incident.
+
+O2 Change during test, % by volume
+
+The data, taken over a wide range of initial
+oxygen concentrations, forced opposed or
+concurrent flow velocities, and using
+various sample geometries, is compared
+with this stoichiometric ratio (6O2 : 5 CO2)
+in Figure 5. As shown, the data agrees very
+well with stoichiometric ratios, indicating
+that despite the varied test conditions, the
+vast majority of the oxygen consumed did
+indeed go into carbon dioxide.
+
+-0.5
+-1.0
+-1.5
+-2.0
+-2.5
+Opposed rods
+Concurrent rods
+Opposed thin slabs
+Opposed thick slabs
+Spherical section, stagnation
+Stoichiometric ratio (-6/5)=-1.2
+
+-3.0
+-3.5
+-4.0
+0.0
+
+0.5
+
+1.0
+1.5
+2.0
+2.5
+CO2 change during test, % by volume
+
+3.0
+
+Figure 5. Oxygen depletion and Carbon Dioxide production
+during BASS-II tests with PMMA fuel. The data from different
+geometries, flows, and initial oxygen concentrations all agree with
+the expected stoichiometric trend (shown by the dashed line).
+
+BASS-II PMMA data
+C5H8O2 + 6 O2 > 5 CO2 +4 H2O
+
+600
+
+Opposed rods
+Concurrent rods
+Opposed thin slabs
+Opposed thick slabs
+Spherical section, stagnation
+
+500
+CO change during test, PPM
+
+C5H8O2 + 6 O2 > 5 CO2 + 4 H2O
+
+0.0
+
+400
+
+300
+
+200
+
+100
+
+0
+0.00
+
+0.50
+1.00
+1.50
+CO2 change during test, % by volume
+
+2.00
+
+Figure 6. Carbon monoxide generated compared to Carbon
+Dioxide generated in each test. The CO generated appears to be
+clustered by geometric and flow configurations. The concurrent rod
+geometry produced the most CO per CO2, and the opposed rods
+showed a very non-linear trend of CO versus CO2 production. Thick
+opposed flow slabs fell in between the two.
+
+6
+International Conference on Environmental Systems
+
+BASS-II PMMA data
+C5H8O2 + 6 O2 > 5 CO2 +4 H2O
+
+Although the absolute values of CO are
+very high in the 250 liter MSG working
+volume, the MSG contained and converted
+the CO to CO2 during the post-test work
+volume purge. Since the ISS is quite large,
+the combustion products from a fire of the
+scale of a BASS-II test would quickly be
+diluted, so that even within just the US Lab
+(106 m3 pressurized volume), the CO levels
+in the lab would only be 1.5 ppm, well
+below SMAC (Spacecraft Maximum
+Allowable Concentration) values for even
+long term exposure (10 ppm), let alone the 1
+hour SMAC of 55 ppm [11].
+
+0.12
+CO/CO2 ratio of gas produced during test
+
+Of interest to the combustion community
+is the ratio of CO to CO2, a measure of
+completeness of combustion, which is
+plotted in Figure 7 as a function of the initial
+oxygen concentration in the working
+volume. For efficiently burned flue gasses
+(boilers, furnaces, etc.), this ratio is on the
+order of 0.002. As can be seen most of our
+data is an order of magnitude above that.
+This indicates that microgravity flames are
+not very efficient.
+
+Opposed rods
+Concurrent rods
+Opposed thin slabs
+Opposed thick slabs
+Spherical section, stagnation
+
+0.10
+
+0.08
+
+0.06
+
+0.04
+
+0.02
+
+0.00
+13.0
+
+15.0
+17.0
+19.0
+Initial O2 for test, % by volume
+
+21.0
+
+23.0
+
+Watts
+
+Figure 7. CO / CO2 ratio as a function of the initial oxygen
+concentration for each test. There is some clustering apparent in
+the data, which shows that lower oxygen concentrations produce
+higher levels of CO per CO2 for concurrent rods, especially when
+compared to the opposed rods which shows the opposite trend. The
+opposed slab data has a similar trend to the concurrent rod data,
+Lastly, the heat release rates (HRR) from althought the scatter is large.
+BASS-II Heat Release Rates
+these small microgravity fires can be
+110
+Opposed rods
+estimated
+using
+Huggett’s
+oxygen
+Concurrent rods
+consumption calorimetry [12] and the burn
+100
+Opposed thick slab
+time for each test. Using his constant of
+90
+Spherical section, stagnation
+13.1 kJ/g O2, we estimate the heat release
+rate to be typically well below 100 W, as
+80
+shown in Figure 8. There is a trend of
+70
+increasing HRR with increasing ambient
+oxygen concentration, and the scatter is
+60
+attributed to the different duct flows
+50
+between and even within the tests.
+40
+
+The one long opposed thick slab test that
+caused the lower downstream corner of the
+front window damage released close to
+100W. A prior relatively brief concurrent
+rod test that released almost 110 W did not
+cause any damage.
+
+30
+20
+10
+0
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+O2 initial concentration, % by volume
+
+IV. Global Equivalence Ratio
+To date, 34 burned BASS-II samples
+have been returned to Earth for post-flight
+analysis. Eight of those samples had been
+used for multiple tests, and were altered on
+
+Figure 8. Heat release rate during each test using oxygen
+consumption calorimetry. The data from Figure 5 is converted to
+Watts using the burn time and Huggett’s constant, plotted against
+initial O2, showing the heat release rate generally increases with
+increasing ambient oxygen concentration. The magnitude of the heat
+release rate is modest for these small flames.
+
+7
+International Conference on Environmental Systems
+
+orbit by having their burned fuel cut
+off and/or their built-in igniter leads
+removed. As a result, the pre and
+post-flight weights for these modified
+samples cannot be used to determine
+the mass loss due to combustion.
+Also, seven additional samples had
+burns that were so short that no
+oxygen consumption was measured,
+and so are not usable for the global
+equivalence ratio estimates.
+For the remaining 19 samples,
+mass loss is compared to oxygen
+consumption, as shown in Figure 9.
+
+There are clear trends observed
+for O2 consumption and CO2
+generation relative to measured fuel
+mass loss.
+Given the previous
+stoichiometric relation between O2
+and CO2, it is not surprising that the
+two trends mirror each other. The CO
+data is more scattered, but CO
+generation generally increases with
+increasing fuel mass loss.
+
+Figure 9: Oxygen consumed, Carbon Dioxide and Carbon Monoxide
+generated per gram of fuel mass loss for two different fuels tested
+(cellulose and pmma).
+
+We can evaluate the fuel/oxygen ratio based upon these test results.
+expressed for either cellulose or PMMA fuel stoichiometry as
+
+The global equivalence ratio can be
+
+Eq.(3)
+
+Using the ideal gas law, the free volume of MSG of V=250,000 cc, ideal gas constant R=82.05 cc-atm/gmol K,
+P= 1 atm, and T=300 K, the gmol of O2 consumed is calculated as
+Eq.(4)
+
+The gmol of fuel consumed is simply
+Eq.(5)
+Using the observed slope of 0.4582 O2% by vol / g fuel, and the molecular weight for pmma of 100 g/gmol for the
+majority of the data, we can use the above equations to solve for the effective equivalence ratio for the tests: Φglobal
+= 1.3, which is fuel rich. So in general, the flames were under-ventilated and did not burn all of the vaporized fuel.
+Some fuel ended up as soot, some as CO, and some as unburned hydrocarbons.
+
+8
+International Conference on Environmental Systems
+
+V. Conclusions
+As part of the BASS-II experiment, we conducted a number of tests with different geometries, flow velocities,
+and initial oxygen concentrations. The last variable was enabled by the use of gaseous nitrogen to dilute the
+working volume. To adequately characterize this dilution, we developed a CSTR model and verified it against
+sensor readings.
+Sensor data from the tests showed that the oxygen was burning nearly stoichiometrically to CO2, and that CO
+levels appear to be a function of geometry and, in some cases, the flow velocity/geometry combination.
+The
+CO/CO2 ratios for these fires are an order of magnitude higher than for efficient flue gases, indicating that these
+flames are not efficient. The heat release was estimated for the tests using oxygen consumption calorimetry. This
+showed that most of the tests released well below 100 Watts. In the one long test that released close to 100W, we
+did sustain some damage to the downstream corner of the front window, due to a leak that directed the heat from this
+energetic flame to that location during the prolonged burn. Using the mass loss data and oxygen consumption data,
+the global equivalence ratio for the tests is estimated to be 1.3 on average, which indicates the flames were burning
+fuel rich under the low velocity forced flow conditions.
+
+VI. Acknowledgments
+This work was funded by the ISS Research Project Office. We want to acknowledge the invaluable assistance of
+all the astronauts who ran BASS and BASS-II. This work couldn’t have been done without the intense efforts of the
+BASS operations team (Jay Owens, Chuck Bunnell, Tibor Lorik, and Carol Reynolds). We also want to
+acknowledge the ground support teams at GRC, JSC, and MSFC that supported the BASS-II operations.
+
+VII. References
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+11
+12
+
+Olson, S. L., Ferkul, P. V., Bhattacharjee, S., Miller, F. J., Fernandez-Pello, A. C., and T’ien, J. S.; “Burning and
+Suppression of Solids – II Fire Safety Investigation for the Microgravity Science Glovebox”, presented at the 29th annual
+meeting of the American Society for Gravitational and Space Research (ASGSR) and the 5th International Symposium on
+Physical Sciences in Space (ISPS), Orlando, FL, Nov. 3-8, 2013.
+http://www.nasa.gov/mission_pages/station/research/experiments/1262.html;
+http://www.nasa.gov/mission_pages/station/research/experiments/735.html
+Limero, T., Beck, S., and James, J., "Evaluation of a Portable Carbon Dioxide Monitor for Use Aboard the International
+Space Station," SAE Technical Paper 2000-01-2433, 2000, doi:10.4271/2000-01-2433.
+Limero, T., Beck, S., and James, J., "Development and Performance of the Oxygen Sensor in the CSA-CP Aboard the
+International Space Station," SAE Technical Paper 2004-01-2337, 2004, doi:10.4271/2004-01-2337.
+Limero, T., Beck, S. W., & James, J. T. (2002). The Portable Monitor for Measuring Combustion Products Aboard the
+International Space Station (No. 2002-01-2298). SAE Technical Paper.
+Steiner, G., McHard, R., Reysa, R., and Granaham, J.; “Accuracy Assessment of the Major Constituent Analyzer”, 20052893, SAE Technical paper, 2005.
+Reysa, R., Granahan, J., Steiner, G., Ransom, E., & Williams, D. E. (2004); “International Space Station (ISS) Major
+Constituent Analyzer (MCA) On-Orbit Performance” (No. 2004-01-2546). SAE Technical Paper.
+Reggie A. Spivey, William A Sheredy, and Ginger Flores; "An Overview of The Microgravity Science Glovebox (MSG)
+Facility, and the Gravity-Dependent Phenomena Research Performed in the MSG on the International Space Station (ISS)",
+46th AIAA Aerospace Sciences Meeting and Exhibit, 7 - 10 January 2008, Reno, Nevada, AIAA-2008-812.
+Dotson, K. T., Sunderland, P. B., Yuan, Z. G., & Urban, D. L. (2011). Laminar smoke points of coflowing flames in
+microgravity. Fire Safety Journal, 46(8), 550-555.
+Mass Constituents data from ISS, data available online at https://mod2.jsc.nasa.gov/di/di52/constituentmonitor/
+JSC 20584; “Spacecraft Maximum Allowable Concentrations for Airborne Contaminants”, 1999.
+Huggett, C. Estimation of Rate of Heat Release by Means of Oxygen Consumption Measurements, Fire Mater. 4, 61-65
+(1980).
+
+9
+International Conference on Environmental Systems
+

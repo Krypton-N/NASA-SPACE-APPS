@@ -1,0 +1,5867 @@
+NASA-CR-205336
+
+HTD-Vol.
+
+335,
+
+Proceedings
+
+of the ASME
+
+Heat
+
+Transfer
+
+Division
+Volume
+
+ASME
+
+4
+
+1996
+
+MEASUREMENTS AND MODELING OF SOOT FORMATION AND RADIATION
+IN MICROGRAVITY JET DIFFUSION FLAMES
+
+Jerry C. Ku*
+Mechanical
+
+Li Tong #
+
+Engineering
+
+Department
+
+Mechanical Engineering Department
+Wayne State University
+
+Wayne State University
+
+/_.
+
+Paul S. Greenberg
+Microgravity
+
+Combustion
+
+NASA Lewis Research
+
+ABSTRACT
+
+NOMENCLATURE
+
+This is a computational
+and radiative
+(I-g)
+
+maps
+
+technique
+
+are
+
+in jet diffusion
+(0-g)
+
+at NASA
+flame
+
+radiation
+
+transfer calculations.
+
+with a k-e-g
+conserved
+
+structure
+
+turbulence
+
+scalar
+
+model
+
+species
+
+mole
+
+describe
+
+soot volume
+
+and
+
+terms
+
+effects
+
+An
+
+couple
+flame
+smacture
+and
+neglecting
+turbulence-radiation
+finite cylindrical
+
+enclosure
+
+The spectral
+
+absorption
+
+the Rayleigh
+
+solution
+
+models
+
+3-pdf
+
+transport
+
+are used
+
+density
+
+by one-step
+energy
+
+is used for radiative
+
+f
+
+g
+
+compared
+
+to results
+
+mean
+
+absorption
+
+coefficient
+
+for the type of flames
+Moss,
+
+Syed,
+
+physically
+
+soot volume
+
+seems
+
+published
+
+data for a normal
+
+data for l-g
+flames.
+
+fraction
+
+integration,
+
+reasonably
+
+The soot formation
+
+sound
+
+Predicted
+jet flames.
+
+true spectral
+
+can provide
+
+studied.
+
+and Stewart
+
+data and more
+
+from
+
+turbulent
+
+l
+
+a length
+
+m( )
+
+exponent
+
+and
+to
+
+to produce
+and temperature
+
+soot particle
+
+number
+
+Avogadro's
+
+number,
+
+r
+
+source
+
+T
+
+density,
+
+soot
+
+and 0-g
+
+volume
+
+laminar
+
+jet
+
+co-flow
+fraction
+flames
+
+laminar
+
+and N= N/(pno)
+
+from the flame axis
+
+equilibrium
+
+term for property
+(adiabatic)
+
+_ in Eq. (l)
+flame temperature
+
+Teq.m_ maximum equilibrium
+(adiabatic)
+7"_
+surroundings
+temperature
+
+by
+
+7"( )
+
+activation
+
+temperature
+
+coagulation
+
+agree well with
+
+results
+
+flames
+
+flame temperature
+
+in rate equations
+
+(;'9, or oxidation
+
+turbulent
+
+axial and radial gas velocity component,
+radial direction thermophoretic
+velocity
+
+x
+
+jet
+
+* Corresponding
+
+axial distance
+
+Engineer,
+
+number
+Caterpillar
+
+fl
+
+Co.. Aurora, IL 60507.
+
+261
+IV-1
+
+(o0,
+
+gas species mole fraction
+
+author.
+
+Design
+
+for nucleation
+
+(.Z)
+
+u, v
+vt
+
+and turbulent
+
+also agree with our
+
+as well as l-g
+
+(o:)
+
+n o = 6 x 1026
+
+X
+
+Predicted
+
+gravity
+
+for nucleation
+
+flame temperature
+
+Teq
+
+predictions
+
+radial distance
+
+S¢
+
+soot particle
+
+# Presently
+
+in rate equations
+
+(7)
+
+P1u
+partial pressure of unburned fuel
+qr, _lr radiative heat flux and radiative beat flux vector, respectively
+
+from
+
+model by Khan et al.
+results
+
+on the mole fraction
+
+no
+
+better fits to experimental
+
+than the simpler
+
+energy
+
+N, N
+
+a Drude-
+
+proposed
+
+kinedc
+
+scale in the heat sink model
+
+or coagulation
+
+the Rosseland
+
+model
+
+and f_,= Pd"JP
+
+total enthalpy
+
+calculations.
+
+accurate
+
+fraction,
+
+off
+
+k
+
+Lorcntz model.
+The exponential-wide-band
+model is used to calculate
+the spectral absorption coefficient
+for t120 and CO v It is shown that,
+when
+
+variance
+
+H
+
+through
+iterations.
+YIX solution
+for a.
+
+index data from
+
+volume
+
+by Khan et al., Eq. (9), EI =
+
+fraction
+
+to
+
+is included
+
+is calculated
+
+gas rmxture
+
+with
+
+ram equations
+
+equation
+
+activation energy in the model
+40000 caVmole
+
+f_, 2;,, soot particle
+
+to predict
+are used
+
+heat transfer
+
+refractive
+
+detaLled
+
+distributions,
+
+for soot aggregates
+
+using complex
+
+have
+
+layer equations
+
+equations
+
+(79, or
+
+kg/Nms
+E.r
+
+the How field, and a
+
+radiation
+analyses
+interactions.
+The
+
+coefficient
+
+oxidation (.Z)
+rate constant in the model by Khan et al., Eq. (9), CA = 16.8
+
+rig
+
+tower
+
+we
+
+with
+
+boundary
+
+number
+
+drop
+
+modeling,
+
+to predict
+
+modeled
+
+included.
+
+drop
+
+2.2-second
+
+formation
+
+Scalar
+
+Ck
+
+absorption
+
+On
+
+with an assumed
+
+fraction
+
+and oxidation
+
+thermopboretic
+
+Center,
+
+are used
+
+fraction.
+
+imaging
+seLf-contained
+
+in the
+
+soot
+
+constant in the model for modified equilibrium
+temperature
+rate constant for nucleation
+(c_,b'), growth (3), coagulation
+
+volume
+
+Favre-averaged
+
+approach
+
+gaseous
+formation
+
+and
+
+soot
+
+b
+CC)
+
+gravity
+
+A compact,
+
+Research
+
+coupled
+
+normal
+
+Instantaneous
+
+experiments
+
+Lewis
+
+under
+
+a full-field
+
+by the authors.
+
+for microgravity
+
+facility
+
+using
+
+study for soot formation
+
+flames
+
+conditions.
+
+measured
+
+developed
+
+is used
+
+and experimental
+
+heat transfer
+
+and microgravity
+
+fraction
+
+Branch
+Center
+
+from the nozzle exit
+
+nucleation
+
+rate, in the particle
+
+density
+
+soot particle
+
+respectively
+for soot panicles
+
+surface growth
+
+rate
+
+transport
+
+equation
+
+for
+
+7
+6
+
+soot particle
+
+g
+
+coagulation
+
+emissivity
+
+rate
+
+soot particle nucleation
+volume fraction
+
+transport
+
+equation
+
+for
+
+models,
+
+with
+
+energy
+
+models
+
+some
+
+Both
+
+in soot formation.
+
+are calculated
+
+mixture
+
+dissipation
+
+formation
+
+compared.
+mechanisms
+
+of soot/gas
+
+turbulent
+
+soot
+
+rate, in the particle
+
+improvements,
+
+using the YIX solution
+
+which is a numerical
+
+solution
+
+one-step
+
+will
+
+reactions
+
+Radiative
+
+be tested
+
+to describe
+
+and
+
+various
+
+heat flux and its divergence
+
+(Tan et al., 1990; Hsu et al., 1993),
+
+for the integral
+
+times.
+
+Results
+
+P
+
+based on these means are compared against results from detailed
+integration.
+The flame structure
+solver and the radiation heat
+
+spectral
+transfer
+
+P,
+
+mass density
+mass density
+
+(7
+
+Stefan-Boltzmann
+a general
+
+of gas mixture
+of soot particles
+constant,
+
+variable
+
+representing
+
+focal fuel/air
+equivalence
+
+cp
+
+(7 = 5.670 x 10 -s W/m2K
+
+4
+
+solver
+
+a.m coupled
+
+iteratively
+
+I, ,_, .f, k, e, g, J_v, N, or H
+
+are inwoduced
+
+to reduce
+
+through
+
+an energy
+
+until a set convergence
+
+Predicted
+
+ratio
+
+properties,
+
+of the radiative
+
+transfer
+
+the Planck means,
+
+Total radiative
+
+formulation
+
+soot particle oxidation rate
+la,M.# effective viscosity in Eq. (1)
+
+X
+
+equation.
+
+use
+
+compared
+
+soot volume
+
+to published
+
+such as the Rosseland
+computational
+
+equation,
+
+solved
+
+is achieved.
+
+fraction
+
+and flame
+
+data for 1-g co-flow
+
+for 1-g and 0-g jet laminar
+
+and they are
+
+and
+
+and turbulent
+
+temperature
+
+laminar
+
+results
+
+flames,
+
+are
+
+as well as
+
+flames.
+
+INTRODUCTION
+The subject
+
+of soot formation
+
+gravity jet diffusion
+
+flames
+
+of fundamental
+
+transport
+
+fmdings
+
+to spacecraft
+
+relevant
+
+processes
+
+heat loads of combustors
+longer
+
+flame
+
+induced
+
+convective
+
+studying
+
+(l-g)
+
+time
+
+flow,
+
+diffusion
+
+gravity
+diffusion
+
+Our objective
+
+local
+
+microgravityjet
+
+diffusion
+of our
+
+it is believed
+
+flames
+
+are similar
+concept
+
+1986; Sivathanu
+
+normal
+
+as wrinkled
+
+where
+
+1990b).
+
+of
+
+fluxes
+
+normal
+
+processes
+
+laminar
+
+soot
+
+subjects.
+particles
+
+formation
+
+have much
+
+and oxidation
+detailed
+
+and radiation
+
+Soot inception
+
+However,
+
+is much
+
+Faeth
+
+with
+
+interactions.
+
+i_
+
+_diagonal
+from
+
+and
+
+smaller
+
+di.ffusivities,
+
+heat transfer
+
+known
+
+solutions
+
+accurate
+radiation
+
+models for soot and gas radiative
+interactions.
+
+for nonhomogeneous
+
+properties
+
+with a k-e-g
+
+scalar approach
+gaseous
+
+species
+
+turbulence
+
+with an assumed
+concentration
+
+that of a scalar property,
+
+model
+
+profiles.
+
+including
+
+models.
+
+in treating
+
+yet computationally
+media,
+
+Soot
+
+thermophoretic
+
+form
+
+transport
+effects.
+
+(1)
+
+in those
+
+Eq.
+
+using
+
+chemical
+
+approaches
+
+Buoyancy
+
+accordingly.
+
+(1) is solved
+
+using
+
+State relationships
+STANJAN
+
+reactions
+
+the
+
+block-
+
+consu'ucted
+
+(Reynolds,
+
+from flow
+
+(Bilger,
+
+e
+
+viscosity),
+
+buoyancy-turbulence
+
+Eq. (1) is simplified
+
+by
+
+et al. (1987).
+
+calculations
+
+references.
+
+neglecting
+
+energy),
+
+1986)
+
+calculations.
+
+1977; Rogg,
+
+1993)
+
+are
+
+More
+will be
+
+OF SOOT FORMATION
+
+Both describe
+
+AND OXIDATION
+
+sets of soot formation
+
+the transport
+
+of soot particles
+
+source
+
+flames, a radial
+is added.
+The
+
+''' , ¢,=:v= ::
+Si =nol/3(y-_;)_Z2/3N'l'+6,
+
+O=£---P'f"
+
+'
+
+(3)
+
+P
+
+as
+
+Two
+
+(2)
+
+P no
+
+for
+
+is described
+
+as that of a scalar
+
+terms are
+
+for flame
+governing
+
+function)
+
+and oxidation
+
+two-equation
+model (Moss et al., 1988; Syed et al.,1990) is based on
+number density (N) and volume
+fraction (f_), and the two respective
+
+as well as
+
+and for turbulence-
+
+density
+
+flames,
+
+k 0emetic
+
+property using Eq. (1). For soot transport
+in laminar
+thermophoretic
+velocity term, v t = -.054(v/T)(d_/o_r),
+
+for flow field and a conserved
+
+fl-pdf (probability
+
+and Naguib,
+
+in a general
+
+for P-ef/,¢, (effective
+
+are given
+
+represented
+
+to decouple
+
+fraction),
+
+Details
+
+flow only,
+
+We have considered two
+
+soot
+
+coagulation,
+
+The difficulties
+
+equilibrium
+
+MODELING
+
+difficult
+
+reactions,
+
+and their growth,
+
+and nongray
+
+(Lockwood
+
+can be written
+
+and
+
+density
+
+becomes
+
+are inherently
+
+Our approach is to use simple, yet established,
+models
+structure, which include Favre-averaged
+boundary-layer-type
+equations
+
+For laminar
+
+accurate laminar flamelet
+considered in the future.
+
+as the
+
+and Samuelson,
+
+than gas-phase
+
+are to Find accurate,
+
+efficient,
+
+model
+
+equations
+
+off).
+
+in mean
+
+code of Chen
+
+introduced
+
+turbulent
+
+this similarity
+
+heat transfer
+slower
+
+have not been well understood.
+
+radiation
+
+and assumptions
+
+effect is considered
+
+gravity
+
+in laminar
+
+flames,
+
+1977;
+
+turbulence
+
+.f (mixture
+
+or g (variance
+
+S# (source)
+
+widefor soot
+
+heat
+
+@ = I, ;; (velocity),
+
+(dissipation),
+
+somewhat
+conditional or invalid for soot and radiation properties
+(Gore
+and Faeth, 1986; Sivathanu and Faeth, 1990a; Sivathanu et al., 1990).
+Both
+
+and a k-e-g
+
+1976; Jeng
+
+probability
+
+, ,
+
+Most
+
+some
+
+and modeling
+
+well known,
+
+1976,
+
+(Bilger,
+
+on
+
+measurements.
+
+radiative
+
+that gas-phase
+
+approach
+
+about
+
+1993).
+
+with
+
+understandings
+
+(Bilger,
+
+and Faeth,
+
+(pdf)
+
+scalar
+
+1984) with an assumed
+
+1975) are used. All governing
+as (Faeth et al., 1985)
+
+The system
+
+and relatively
+
+approximated
+
+flamelet
+
+A conserved
+
+flames is modeled using the
+of mass, momentum,
+and
+
+measurements
+
+and Edelman,
+
+and
+
+fraction.
+
+1984; Gore and Faeth,
+
+function
+
+for
+
+our understanding
+
+measurements
+
+fundamental
+
+flames,
+usually
+
+as
+
+flames.
+
+turbulent
+laminar
+
+between
+
+and gas species
+
+temperature,
+
+diffusion
+flames
+
+such
+
+Faeth,
+
+buoyancy-
+
+an ideal environment
+
+measurements,
+
+mixture
+
+The
+
+of data have been published
+
+temperature
+
+flame
+
+of effects
+
+and between
+
+(Bahadori
+
+photographic
+
+is to provide
+
+and radiant
+
+systems.
+
+Comparisons
+
+results,
+
+amount
+
+flames
+
+far-field
+
+fraction,
+
+In terms
+
+(0-g)
+
+FLAME STRUCTURE
+
+The structure of turbulent jet diffusion
+Favre-averaged
+equations
+for conservation
+
+for providing
+
+propulsion
+
+will be used to improve
+
+data are from
+
+also
+
+the dominance
+
+fundamentals.
+
+diffusion
+
+angle radiometry,
+
+but
+
+and soot emissions
+
+microgravity
+
+Considerable
+
+microgravityjet
+
+volume
+
+make
+
+flame
+
+flames.
+
+of these
+
+and
+
+MODELING OF JET DIFFUSION
+
+in micro-
+
+both as a result of eliminating
+
+and microgravity
+
+and model predictions,
+
+revolved
+
+fire safety
+
+and diffusion,
+
+heat transfer
+
+not only for the understanding
+
+used in air-breathing
+
+residence
+
+thermophoresis
+
+and radiation
+
+is important
+
+where
+
+existing
+
+density
+
+262
+IV-2
+
+no = 6 x 1026 is Avogadro's
+of soot.
+
+Soot
+
+oxidation
+
+number
+models
+
+and p_ = 1.8 g/cm 3 zs mass
+of Leung
+
+et al.
+
+(1991)
+
+and
+
+Fais-weather
+and OH.
+
+et al. (1992)
+
+are modified
+
+Rate-equations
+
+(o:), growth
+
+to include
+
+of Arrhenlus
+
+(/3), coagulation
+
+oxidation
+
+type are used
+
+(7) and oxidation
+
+by both
+
+to model
+
+(Z).
+
+These
+
+02
+
+geometries,
+
+nucleation
+
+Although
+
+rate equations
+
+discrete
+
+be very accurate
+
+= C=p2X_
+
+_"_-fexp(-Tct/T),
+
+(4)
+
+y = CrpX_c'
+
+and suitable
+
+from
+
+that under
+
+T is flame
+
+temperature,
+
+density,
+
+of rate constants
+
+X c is fuel mole
+(Ca,
+
+Tx), and exponents
+
+fraction,
+
+Another
+
+(rn w mr)
+
+model
+
+only, developed
+soot formation
+
+can be adjusted
+
+and experimental
+
+is a one-equation
+
+media following
+
+temperatures,
+
+enclosures
+
+as T= Te_t[l-b(Teq/Te_l.nu_)
+
+based
+
+fit
+
+on volume
+
+the work of Menguc
+differential
+
+optically
+
+These
+
+two solvers,
+
+incompatible.
+
+energy.
+
+The
+
+soot
+
+the model
+that
+
+oxidation
+
+by
+
+Moss
+
+et
+
+al.,
+
+mechanisms
+as coagulation
+which
+under constant volume fraction.
+
+from
+
+since
+
+of Lee et al. (1962)
+
+it seems
+
+it does
+
+causes
+
+The solver
+
+Although
+
+it plays
+
+in detailed
+
+role,
+
+analyses
+
+is
+
+radiation
+
+and accuracy
+
+of various
+
+1992),
+
+the coupling
+
+include
+
+number
+
+radiation
+
+is an integral
+
+the
+
+methods
+
+for integrating
+
+approach
+
+criterion.
+
+The iteration
+
+starts
+
+based
+
+The resulting
+
+accuracy
+
+of
+
+spectral
+fluxes
+
+radiative
+
+and other
+
+flame
+
+properties,
+quantities
+
+such
+
+and temperature.
+
+This process
+
+a flow
+
+<0.002).
+
+I shows
+
+interactions,
+will be included
+
+Shim,
+
+diffusion
+
+flames.
+
+solving
+
+the
+
+reducing
+
+the order
+
+YIX comes
+
+integral
+
+that
+
+significantly
+
+The
+
+Hsu
+
+and
+
+is used
+
+YIX method
+
+Ku
+
+1991)
+
+as the
+
+Vervisch's
+
+(Tong
+
+particles
+
+is a numerical
+
+efficient
+
+of the multiple
+
+distance-angular
+
+directions.
+
+integration
+reducing
+
+of integration
+
+One important
+
+points
+computational
+
+can
+
+attribute
+
+pre-calculated
+
+time.
+
+For
+
+temperature
+
+with the flame structure
+to calculate
+
+unul a convergence
+
+two subsequent
+chart
+
+solver
+
+concentrations,
+iterations
+
+for the computational
+
+at present
+
+properties,
+from
+
+the refractive
+
+are shown
+
+to be significant
+
+by
+
+in the future.
+
+index
+
+model.
+
+coefficient
+
+solution
+
+calculated
+
+dispersion
+to reduce
+
+the absorption
+
+the Rayleigb
+
+(Ku
+
+and
+
+Habib
+
+and
+
+from
+Scattering
+
+computational
+
+from soot
+
+tttne, but will be
+
+fluxes
+
+and
+
+increment
+
+and
+
+then
+
+the total (i.e., over _e spectral
+
+is to first calculate
+calculate
+
+the
+
+them
+
+This
+
+is
+the
+we
+
+(@) and the Rosseland
+
+given as (Siegel
+
+and Howell,
+
+integrals.
+
+for each
+
+inefficient because of the iterations required between
+and radiation solver. To focus on the iterations,
+
+to test the Planck
+
+coefficients
+
+way to evaluate
+
+flux divergence
+
+(a_) mean
+
+absorption
+
+1992)
+
+by
+
+The name
+
+points
+
+be
+
+choose
+
+for
+
+integrals.
+
+of the pattern
+
+radiative
+
+Drude-Lorentz
+
+is neglected
+
+computationally
+flame structure
+
+for Finite
+
+equation
+
+using
+
+(1988)
+
+which
+
+is calculated
+
+gases. The most accurate
+
+calculations
+approach
+
+transfer
+
+and the
+
+included in the future. The exponential-wide-band
+model of Edwards
+(1976) is used to calculate the absorption coefficient
+for C02 and HzO
+
+the spectral
+
+(1994)
+
+for radiation
+
+of the radiative
+
+from the shape
+
+these
+
+by
+
+formulation
+
+two, and four angular
+is
+
+derived
+enclosures
+
+spectral
+
+aggregate
+
+spectral
+
+solution
+
+and used
+
+is repeated
+
+Figure
+
+We chose the recently developed
+Y-IX method (Tan et al., 1990;
+Hsu et al., 1993) for calculating
+the radiative
+heat flux qr and its
+cylindrical
+
+transport,
+
+velocities,
+
+between
+
+range)
+
+A
+
+equation.
+
+are numerically
+
+procedure.
+For flames calculated here, it typically takes less than 10
+iterations to reach the convergence
+(Tong, 1995: Ku et al., 1995b). The
+
+structure
+
+and
+
+over
+
+through
+
+back into the structure
+
+the two latest runs)
+
+(AT/T
+
+has been
+
+methods
+
+and
+
+transfer
+
+S# = -eo'(T 'a - 7_,)/t
+
+V. _r is substituted
+
+(by averaging
+
+for soot
+
+solution
+
+on
+
+is accomplished
+
+range.
+
+from
+
+soot
+
+phenomenon
+
+on the temperature
+
+density
+
+transfer
+
+of radiation
+
+solvers,
+
+axisymmetric
+
+structure,
+
+an iterative
+
+density,
+
+by )rv/-f-T.
+
+due to such difficulties
+
+demands
+
+Skocypec,
+
+divergence.
+
+for the radiative
+
+We chose
+
+to update
+
+HEAT TRANSFER
+
+an important
+
+combustion
+
+solver
+
+over all distances
+
+since
+
+solver.
+
+less physically
+
+not
+
+decreasing
+
+flames.
+
+of Eq. (1) type.
+is inherently
+not
+
+To evaluate
+
+and
+
+for
+
+such as in diffusion
+
+on the temperature,
+
+for flame
+
+turbulence-radiation
+
+FOR FLAME RADIATION
+
+computational
+
+but
+
+to the flame structure
+
+a solution
+
+Gore et al. (1992),
+
+neglected
+
+(1986),
+unstable
+
+velocities, gas and soot concentrations,
+density, and flame temperature.
+The resulting temperature
+is used for calculating
+V. _: from the YIX
+
+to Eq. (9), with cp"_(p/ps) replaced
+
+by Khan et al. is simpler,
+
+and
+
+numerically
+
+and solid angles.
+
+P
+
+model
+
+(Kent
+
+parabolic,
+
+fraction
+
+1974). This model characterizes
+equation, and the corresponding
+
+_ ul )
+
+"_-T2)/g.
+
+energy equation solves parabolic differential
+equations
+The solver for radiative transfer, YIX or otherwise,
+
+where
+Ck is the rate constant,
+Pfu denotes
+the partial pressure
+of
+unburned
+fuel, _ is the local fuel/air equivalence
+ratio, and E_ is the
+
+than
+
+thin regions
+
+both depending
+
+solver using an initial guess
+
+which is similar
+
+et
+
+and Viskanta
+
+equations
+
+solver is coupled
+
+the latter is calculated
+
+Tv
+
+a optimal
+
+to produce
+
+(Ta,
+
+involving
+
+given as S# =-ecr(T
+
+as the convergence
+
+Lp,)
+
+41 (Leung
+
+the energy equation. For diffusion flames, the energy equation takes the
+same form as Eq. (1), with # = H (total enthalpy) and St = -V. _r, and
+
+any combinations
+
+temperatures
+
+partial
+
+The radiation
+
+p
+
+data.
+
+model,
+
+by Khan et al. (1971;
+by an Arrbeulus-type
+
+S_=
+
+SOLUTION
+
+to
+
+and Ku,
+
+geneous
+
+source term is
+
+sound
+
+(Hsu
+
+Honnery,
+1987) has each been tested and found inaccm_te.
+We also
+derived a spherical harmonics
+(Pu) approximate
+solution for nonhomo-
+
+and XOH and Xo2 are mole
+
+Numerically,
+
+CO_C r, C,_ Cx), activation
+
+model predictions
+
+Although
+
+media
+
+al., 1991), or a heat sink term
+
+(8)
+
+x IT),
+
+T_,, T r. Tx are activation
+
+for OH and 02, respectively.
+
+adopted,
+
+quadratures.
+has proven
+
+(7)
+
+Z = Cx (Xott + Xq )-,/Texp(-T
+
+activation
+
+for angular
+
+the YIX method
+
+for nonbomogeneons
+
+equilibrium
+
+found the resulting
+
+between
+
+used
+
+(6)
+
+_exp(-TrlT),
+6 = C6 ct,
+
+fractions
+
+are
+
+(s)
+
+/3-- cp4Y,
+
+is mixture
+
+sets
+
+quite intensive,
+
+1994; Hsu and Ku 1995). Simplified models such as a fixed percentage
+of local heat loss from equilibrium
+everywhere,
+a temperature
+modified
+
+are given as
+
+where
+
+ordinate
+
+computationaLly
+
+ae(T'P)=
+
+_
+
+aR(T'P)=
+
+[fo
+
+;i ax (i,T,P)ea+(i,T)dX.
+
+for three,
+
+of this method
+and
+
+stored,
+
+multi-dimensional
+
+263
+IV-3
+
+I
+az(_T.P)
+
+cge_(i,T)dl]
+Oct(T)
+
+J -I"
+
+(10)
+
+÷
+I srA
+
+}
+
+Sn = -ca( T_ - T_-)It
+
+V. qr
+
+i
+I Rame
+A.
+
+Structure
+
+a(_¢)
+
+& Soot Model
+
+Conserved
+
+C. State
+
+AND
+
+Scalar
+
+approach
+
+Spectral
+
+B. Solve
+
+_,H and Sit =-7-[/,.
+
+Relationships
+
+Figure
+
+RESULTS
+
+A.
+
++r_r(ryv¢)=r'_(rP,#.,_r)+S,;
+10
+.
+]a
+
+¢ =1,_. ?,k,,,g,]_,
+B.
+
+YIX Solution
+
+spectral
+
+first
+
+procedures
+
+of solving flame
+
+compared
+
+well.
+
+thus
+
+coefficient.
+property
+
+on
+
+tried
+
+Moss
+
+et al. or
+
+flame
+
+temperature
+
+a 3.85
+
+cc/s
+
+The
+
+that
+
+by
+
+constants
+
+in Moss'
+
+C_ = 16.8
+
+both
+
+models
+
+reveal
+
+that
+
+yield
+Kban's
+
+over-predictcenterlme
+Moss'
+
+model
+
+for
+
+model
+
+kg/Nms,
+
+seem
+
+involving:
+dv
+
+ff q, _
+
+(boundary
+
+and radiation
+
+fit
+
+(medium);
+
+surfaces).
+
+through
+
+to
+
+all subsequent
+
+Es
+
+iteration.
+
+fraction
+
+et al.;
+
+1.
+
+For
+
+= 40000
+data,
+to
+
+data
+
+1983,
+
+Khan's
+
+other
+
+temperature
+
+Figure
+
+flow
+
+for
+
+for
+
+and
+
+model,
+
+we
+
+We
+
+therefore
+
+4(a)
+
+also
+
+tend
+
+shows
+
+and
+
+cc/s
+
+model
+
+adjusted
+Even
+
+chose
+
+same
+
+that
+
+that
+
+264
+IV-4
+
+also
+
+parameters
+
+and
+
+temperatures
+for possibly
+
+2
+
+for
+
+lists
+
+for
+
+(T a,
+
+since
+
+(Tong,
+
+Tx)
+
+fits, we
+our
+1995).
+
+1-g
+
+values
+
+and
+
+O-
+
+of
+
+rate
+
+fraction
+
+5 through
+
+C x) to find
+Tr
+
+from
+
+dimensions
+
+volume
+
+in Figures.
+C6
+
+fining
+
+one
+
+but at different
+
+burner
+
+soot
+
+our
+
+volume
+
+by
+
+data,
+
+burner
+
+1 lists
+
+better
+
+works,
+
+of
+
+base
+
+soot
+
+model
+
+Ku (1996b)
+
+Table
+
+Cr
+
+We
+
+and
+
+groups
+
+as shown
+
+influential
+
+only.
+
+Moss'
+
+fit
+
+(C a, C o
+
+in the original
+
+data
+
+two
+
+and
+
+flames.
+
+activation
+
+are less
+
+1991)
+
+Table
+
+be adjusted
+
+as those
+
+et al.,
+
+et al..
+
+fuel
+
+flames.
+
+and data,
+
+work
+
+(Moss
+
+of
+
+a reasonable
+
+constants
+
+gas
+
+the
+
+Kennedy
+
+used
+
+Greenberg
+
+these
+
+predictions
+
+though
+
+values
+these
+
+for
+produce
+
+all rate
+
+(rn a, mr) can
+
+from
+
+for
+
+modeling
+
+temperature,
+
+the same
+
+acetylene
+
+except
+
+than
+
+for
+
+1990;
+
+generality
+
+with
+
+values,
+
+in less
+
+predictions
+
+that,
+
+fraction
+
+We
+
+accurate
+
+on soot
+
+et al.,
+
+velocity,
+
+data.
+
+1987)
+
+jet
+
+conditions
+which
+
+fit.
+to
+
+the
+
+the other
+
+laminar
+
+flow
+
+We
+
+calculations
+and
+
+rates,
+
+between
+
+Although
+
+examined
+
+out
+
+works
+
+volume
+
+gas
+
+to experimental
+
+constants
+
+rate
+
+soot
+
+all available
+
+et al., (1983,
+
+g 2,30
+
+1987).
+good,
+
+Values
+
+cal/mole.
+
+Santoro
+
+predicted
+
+are reasonably
+sound.
+
+distributions.
+
+calculations.
+
+fitting
+
+then
+
+other
+
+more
+adiabatic
+
+smoothly
+
+accurate
+
+be pointed
+
+Kennedy
+
+against
+
+on
+
+fairly
+
+a
+
+than
+
+converges
+
+yield
+
+It should
+
+provide
+
+profiles
+
+temperature
+
+models
+
+1990;
+
+comparisons
+
+We
+
+the
+
+1995).
+
+et al.,
+
+predictions
+
+by
+
+that
+
+does
+
+temperature
+
+et al. (1992),
+
+Syed
+
+comparisons
+fraction
+data.
+
+radiative
+
+experimental
+
+experimental
+sensitive
+
+by
+
+against
+
+in Table
+and
+
+made
+
+model
+
+(Santoro
+
+agreements
+
+1988;
+
+study.
+
+formation
+
+(Tong,
+
+transfer
+
+in
+
+Both
+
+by Fairweather
+
+mean
+
+of
+
+iterations.
+
+velocity
+
+a
+
+radiative
+trend
+
+shows
+
+quite
+
+agree
+
+accuracy
+
+4(c)
+
+at a
+
+the
+
+Rosseland
+
+further
+
+soot
+
+to be physically
+
+is overly
+
+volume
+
+the
+
+accurate'
+
+flame
+
+are listed
+
+similar
+
+the
+
+that
+
+of
+and
+
+flux
+
+coefficient
+
+the
+
+10
+
+2 shows
+
+integration
+
+on
+
+Figure
+
+concentrations
+
+Figure
+
+inclusion
+
+magnitude
+
+a wue
+
+coefficients
+
+3 shows
+
+on
+
+that
+
+fraction
+
+4. The
+
+rn_ = 3,
+
+model
+
+and
+
+is more
+
+ethylene
+
+gas
+
+absorption
+
+requires
+
+whether
+
+in Figure
+
+that the models
+
+noted
+
+for soot,
+
+volume
+
+laminar
+
+axe shown
+
+be
+
+et al.
+
+and soot
+
+indicating
+
+used
+
+mean
+
+identify
+Khan
+
+and
+
+Figure
+
+from
+
+mean
+
+flame.
+
+calculations
+
+those
+
+to
+
+co-flow
+
+results
+
+means.
+
+it should
+
+especiaLly
+
+next
+
+particle
+
+spectral
+
+both
+
+results
+
+from
+
+diffusion
+
+all subsequent
+
+However,
+
+those
+
+and
+
+the Rosseland
+
+base
+
+values,
+
+We
+
+against
+
+transfer
+
+mixture
+
+against
+
+based
+
+We
+
+heat
+
+ethylene
+
+the soot/gas
+
+condition
+
+divergence
+
+gtm)
+
+a turbulent
+
+of
+
+specified
+
+radiation
+
+temperature
+
+for
+
+comparison
+
+the
+
+(1 to 20
+
+pre-calculated
+
+distributions
+
+eq's.
+_a'V,_frV._
+
+T,'_,
+
+structure
+
+coeff.
+
+DISCUSSl0N
+
+integration
+
+using
+
+absorption
+
+the integral
+
+e, T,', q,, ff
+
+- STANJAN
+
+the
+We
+
+& mean
+
+_¢,a,s,_,T',V.Elr,_.f
+
++ p-pelf
+
+1. A flow chart for computational
+
+for the RTE
+
+and
+chose
+
+experience
+
+10.
+
+a reasonable
+exponents
+to use
+
+the
+
+indicates
+
+lo
+
+4-95
+Abs. coeff, soot & gases
+Rossland mean abs. coeff.
+Planck mean abs. coeff.
+
+10
+
+...............
+
+2
+
+,..........
+
+425
+
+355
+
+....."'""'"'_
+
+"'.
+
+_
+
+"'"'""''..
+
+285
+
+d
+
+"0
+
+'.
+
+::
+
+I0'
+C.)
+
+5
+
+215 7
+
+lO
+°
+
+:
+
+'i
+
+/
+
+145
+
+i
+
+I
+
+i
+
+I
+
+I
+
+i
+
+I0'
+WAVELENGTH
+
+I
+
+3"10'
+
+6
+
+I
+
+16
+
+I
+
+21
+
+I
+
+26
+
+31
+
+micron
+
+Figure2. Absorptioncoefficients soot/gasesmixture at 1400K,with
+for
+0.1 molefraction for C02 andH:O, anda sootvolumefraction of 10"6.
+
+(a) Flame Temperature
+
+i
+
+11
+
+Figure3. The flux divergence contours for a simulatedethylenejet flame
+(O = 0.58 ram, Q = 3.96 cm3/sec,
+and Re = 536).
+
+(b) Soot VolumeFraction
+
+(c) Convergence of Temperature
+
+Figure4. Comparisonsofpredictionsto data,andthe convergence temperature
+on
+over iterations, for a 3.85cc/s laminar ethyleneco-flowflame.
+
+265
+IV-5
+
+Table 1 Burner Dimension and Flow Conditions for Rames in This Study
+Fuel
+
+D/set
+(ram)
+
+D=r
+(ram;
+
+Q_et
+(cc/s)
+
+v f=et
+(cm/s) ReoJ''t
+
+Cx only, while keeping
+
+11.i
+
+101.6
+
+2.30
+
+2.38
+
+16.3
+
+713.3
+
+8.90
+
+Ethylene
+
+(6"2/-/4)
+
+11.1
+
+101.6
+
+3.85
+
+3.98
+
+27.2
+
+713.3
+
+8.90
+
+11.1
+
+101.6
+
+4.90
+
+5.06
+
+34.7
+
+1068.3
+
+13.3
+
+Ethylene
+
+(C2H 2
+
+1.65
+
+Acetylene(C2H2',
+
+NA
+
+2.30
+
+107.7
+
+179.4
+
+NA
+
+NA
+
+36757
+
+5200
+
+]11725
+
+NA
+
+shown
+
+NA
+
+10.0
+
+4933.8
+
+2550
+
+NA
+
+9 and i0.
+
+with only minor
+
+flames.
+However,
+further adjustments
+setting m a = mr= 4, yield better fits, as
+
+Notice
+
+that the fits to 1-g and 0-g flame
+
+adjustments
+
+Based on the facts that the model
+
+can produce
+
+fraction
+
+distribution
+
+1. The overall
+
+NA
+
+are identified
+
+will cause an overall increase
+sensitivity to Crthan to C a.
+
+Table 2 Values of Soot Formation Rate Constants for Flames in This Study
+
+3. Coagulation
+Cax 10 7
+
+C/3x 10 -`= Crx 1016
+
+C8
+
+Czx
+
+10 -2
+
+2.30 cc/s C2H 4 (l-g)
+
+0.7
+
+1.0
+
+0.62
+
+144
+
+2.0
+
+1.0
+
+0.62
+
+144
+
+of volume
+
+3.0
+
+1.0
+
+0.62
+
+144
+
+1.4
+
+_.30 cc/s C2H (l-g)
+2
+
+5.8
+
+1.0
+
+0.62
+
+144
+
+3.62
+
+2.30 cc/s C2H 2 (0-gl
+
+2.7
+
+1.0
+
+0.62
+
+144
+
+2.17
+
+2.30 cc/s Cell 2 (1-gl
+
+320.0
+
+1.0
+
+39.7
+
+144
+
+2.41
+
+4. An increase
+
+1.0
+
+39.7
+
+144
+
+effects
+
+fraction
+
+m the flame,
+inward
+
+at higher locations
+
+10.0 cc/s C2H 2 (l-g)
+Note:
+
+SI units.
+19680 K.
+
+0.2275
+
+In all cases,
+
+1013
+
+5040
+
+1.3 x 103 2.0 x 1013
+To== 46100
+
+Unless specified
+
+K, Tr=
+
+otherwise,
+
+5040
+
+against
+
+2.16
+
+fuel-rich
+
+fraction
+
+the 4.90 cc/s ethylene
+
+0,002
+
+the published
+
+12 shows
+
+predicted
+
+to
+
+the
+
+on
+
+an increase
+
+in
+
+region.
+We compared
+
+term,
+
+against
+
+volume
+
+excessive
+
+fraction maps
+our
+
+1-g data.
+
+and 0-g
+
+Again,
+
+shape
+
+the
+
+of volume
+
+we only made
+for both flames,
+
+required
+
+interactions
+
+(1987)
+
+for l-g
+
+even though
+ra_e coefficients
+time
+
+and the
+
+and Honnery's
+
+level and overall
+
+computational
+
+1 I, the discrepancy
+
+Kent
+
+against
+
+the correct
+
+in turbulence-radiation
+
+11 shows
+
+one using the YIX solver
+
+and a comparison
+
+was able to predict
+
+and
+
+and radiative
+
+may be caused by the missing
+
+modeling
+properties.
+turbulence-
+
+radiation effects.
+In Figure 12, we can modify the oxidation
+constant
+(C z) to get a better fit. The burner dimension
+and flow conditions
+and
+rate coefficients
+noticeable
+flames
+
+for these
+
+differences
+
+are consistent
+
+flames
+
+such
+
+as the wide-band
+
+(1987). Their derivation
+
+of rate constants may be required going
+3.85 cc/s) to smoking flames (4.90 cc/s).
+
+1992;
+
+turbulence-radiation
+
+and
+
+Janika
+
+enthalpy,
+
+When
+applied the models
+to 1-g and 0-g laminar jet acetylene
+flames, we first tried to fit the data by adjusting the rate constants C a and
+
+radiation
+
+IV-6
+
+of evaluating
+
+used
+
+1987))
+
+and mixture
+
+effects,. Turbulence-buoyancy
+
+could
+fraction
+
+by Song
+A joint
+
+total radiative
+and Viskanta
+to include
+
+pdf (Gore
+
+be developed
+for modeling
+
+interactions
+
+for 0-g flames.
+
+The
+
+and laminar
+
+la-ansfer equation
+
+is also worth noting.
+
+and Kollmann,
+
+temperature,
+
+model
+
+1 and 2.
+
+turbulent
+
+values.
+
+means
+
+of a "mean" radiative
+
+effects
+
+al., 1992) will be examined
+
+266
+
+accurate
+
+in Tables
+
+between
+
+with Moss' published
+
+We plan to adopt more
+quantities,
+
+are listed
+
+in rate coefficients
+
+rate constant.
+The fact that the fit looks better for 2.30 cc/s flame (Figure
+6) than for 4.90 cc/s flame (Figure 5) suggests that further adjustments
+(2.30
+
+peak locations
+
+Figure
+
+Figure
+
+In Figure
+
+and 0-g 2.30
+
+in fuel flow rate.
+Ca,, the nucleation
+
+non-smoking
+
+fraction
+
+in
+
+locations
+
+flame.
+
+predictions,
+
+fraction
+and temperature
+distributions,
+limited adjustments
+and used the same
+
+and 2.30 cc/s respectively,
+we included a dashed curve for predictions
+using the same rate constants as those for 3.85 cc/s. This shows that
+
+from
+
+an increase
+
+at higher
+
+for a 1-g ethylene
+
+sink
+
+uncertainties
+
+in Co
+
+(1987)
+
+the simple
+
+flames,
+
+but
+
+data of Kent and Honnery
+
+using
+
+acetylene
+
+cc/s acetylene flames are smoking (i. e., releasing soot particles from the
+flame tip), while others are non-smoking.
+In Figures 5 and 6, for 4.90
+
+Moss'
+model is not sensitive
+enough to changes
+However,
+this can be easily improved by adjusting
+
+exit,
+
+An increase
+
+our data for a 1-g acetylene
+
+and against
+
+model
+
+1.
+
+and both l-g
+
+cause
+
+region
+
+around the centerline
+
+of two model
+
+due
+
+the figures,
+
+mr) will
+
+we tested the model on turbulent jet flames.
+
+data.
+
+Numerically,
+we feel the fits can be improved, but we would like to
+examine the aspect of improving the models themselves first. As can be
+seen from
+
+negligible
+
+side, as if the soot yield were dependent
+
+other
+
+0.002
+
+12600 K., and T z =
+
+rnc_= mr=
+
+(ma,
+
+around the centerline
+
+comparisons
+1.3x 103 2.0x
+
+have
+
+in the flame.
+
+and will shift the soot volume
+
+(toward
+
+soot volume
+
+flame,
+0.2275
+
+with higher
+
+near the burner
+
+an intermediate species rather than the parent fuel).
+5. An increase in thermophoretic
+velocity v_ will cause
+
+[rncz= m_,= 4]
+0.61 lpm C2H 4 (1-g
+
+diswibution
+
+fraction,
+
+(Cz) rate constants
+
+disWibutions
+
+in both exponents
+
+soot volume
+
+Finally,
+230.4
+
+fraction
+
+fraction
+
+in Cx will cause a decrease around the edge, and an increase
+will cause a decrease around the center region of the flame.
+
+[_a = _7 = 4]
+2.30 cc/s C2H 2 (0-g',
+
+accurate
+
+(C a. Cp, C r, C,5, Cx).
+growth (Cr) rate constant
+
+in soot volume
+
+(CB) and oxidation
+
+on volume
+
+have significant
+
+1.4
+
+L90 cc/s CzH 4 (l-g)
+
+effects
+
+1.4
+
+3.85 cc./s C2H 4 (l-g)
+
+reasonably
+
+as follows.
+
+shape and peak locations
+
+are fairly independent
+of all rate constants
+2. An increase in nucleation (C_ or surface
+
+Flames
+
+are
+
+to Ca and Cz.
+
+fits to data for flames of different types, flow rates, fuels, and 1-g/0-g
+conditions,
+we feel that Moss'
+model is physically
+sound.
+Some
+patterns about the effects of each model coefficient on the soot volume
+
+NA
+
+0.508
+
+in Figures
+
+obtained
+
+NA
+
+3.0
+
+(C2H4)
+
+m Figures
+
+between jet flames and co-flow
+on model coefficients,
+including
+
+(C2H4)
+
+Acetylene
+
+are shown
+
+v=,.
+(cm/s
+
+Q=r
+(cc/s)
+
+Ethylene
+
+Ethylene (C2H4)
+
+rn a = m r = 1. The results
+
+7 and 8. The fits are obviously not as good as those for co-flow ethylene
+flames, and perhaps expectedly so due to the fundamental
+differences
+
+et al.,
+
+to correlate
+turbulence-
+
+(e. g., Fair'weather
+
+et
+
+Q.
+
+Figure
+ethylene
+
+5. Comparisons
+co-flow
+
+flame.
+
+of predictions
+Dashed
+
+curves
+
+Figure7. Comparisons predictions datafor a 1-g 2.30cc/slaminar
+of
+to
+
+to data for a 4.90 cc/s lam{nar
+are based on rate constants
+
+for
+
+acetylene
+
+jet flame.
+
+Ira= = m_,=
+
+!]
+
+3.85 cc/s flame.
+
+Figure 6. Comparisons
+co-flow
+
+flame.
+
+Dashed
+
+of predictions
+curves
+
+to data for a 2.30 cc/s laminar ethylene
+
+are based on rate constants
+
+Figure 8. Comparisons
+
+for 3.B5 cc/s
+
+of predictions
+
+acetylene
+
+flame.
+
+267
+IV-7
+
+jet flame.
+
+to data for a O-g 2.30 cc/s laminar
+[m= = m_,=
+
+I]
+
+20.
+
+13
+_6
+
+6" ¢,o'
+
+Figure 9. Comparisons of predictions to data for a 1-g 2.30 cc/s laminar
+ace_lene
+
+Figure 10. Comparisons
+
+iet flame. [m a = mr= 4]
+
+of predictions
+
+to data for a 0-<32.30 cc/s laminar
+
+acetytene jet flame. Ira= = mr= 4]
+
+.,.,.
+o
+
+F3gure11. Comparisons of predictions to data for a 1-g 0.61 Ipm turbulent ethylene jet diffusion flame.
+
+268
+IV-8
+
+10 cc/s _cetylene
+
+I0, c¢/s Acetylene --
+
+Prqd;ct;on_
+
+°
+
+Soot vok,me r,'a=t;on
+uop If ,,0'} [0=o .._08,'_i
+90
+
+|
+
+,
+
+T
+
+..E
+
+!.
+_"
+
+,ol
+
+T
+"
+
+801
+
+0
+
+N
+
+6o-
+
+40
+
+2O
+
+2s
+
+-6
+
+o
+RQdlol 01stance [mrn]
+
+s
+
+0
+-Ig
+
+-$
+
+0
+
+Radicl O_stonce[mm]
+
+Figure
+
+ACKNOWLEDGMENTS
+
+/?
+
+12. Comparisons
+
+"1"he authors
+
+of predictions
+
+are indebted
+
+to data for a 1-g 10.0 cc/s turbulent
+
+to J.-Y.
+
+Chen
+
+of
+
+for providing
+
+the turbulent
+
+flame
+
+structure
+
+Gore,
+
+.l.P.,
+
+Structure
+
+code.
+
+and
+
+Transfer,
+
+UC,q3erkeley
+
+114,
+
+Imaging,"
+Bahadon,
+
+M.
+
+Y.,
+
+on Gas Jet Dif_sion
+BLlger,
+
+R.
+
+BL]ger,
+
+1993,
+
+"Effects
+
+of Buoyancy
+
+"Turbulent
+
+Jet
+
+Maps
+
+Diffusion
+
+Flames,"
+
+1977,
+
+"Reac_.on
+
+Rates
+
+in Dif_sion
+
+Flames,"
+
+Comb.
+
+Soot
+
+Solver
+
+W.,
+
+of Turbulent
+
+for
+
+Modeling
+
+Kol[mann.
+
+and Dibble,
+
+Free-She_
+
+a Staggered
+
+Grid
+
+Flows
+
+System,"
+
+18tb
+
+R. W.,
+Using
+
+1987,
+
+"Numerical
+
+a B]ock-Tddigonal
+
+Annual
+
+Pittsburgh
+
+Cord.
+
+Edwards,
+
+D. K.,
+
+Heat
+
+Transfer.
+
+Academic
+
+Press,
+
+Faeth,
+Fires,"
+
+G.
+
+Cross-Wind,"
+
+S.-M.,
+45
+
+and
+
+M.,
+
+L
+
+P..
+
+Properties
+
+(Lnt'i)
+
+and
+
+.l.P.
+
+Ha,,'nett,
+
+Simulated
+
+Eds.,
+
+Radiative
+
+Comb.,
+
+Heat
+
+Gore,
+
+J.,
+
+Transfer
+
+1985,
+
+in
+
+Fire
+
+"Radiation
+and
+
+from
+
+the
+
+Combustion
+
+YIX
+
+Samuelson,
+Prog.
+
+Flame,
+and
+
+W.
+
+Transfer
+
+G.
+
+Energy
+P.,
+from
+
+S.,
+Comb.
+
+and
+
+1986,
+Sci.,
+
+Lindstedt,
+
+a Turbulent
+
+"Fast-Reaction
+
+R.
+Reacting
+
+P.,
+
+in
+
+Turbulent
+
+89, 45-63.
+
+Faeth,
+
+of Turbulent
+
+G.
+
+M.,
+
+17th
+
+Jeng,
+a
+
+Transfer,
+1986,
+
+Ethylene/Air
+
+"Structure
+Diffusion
+
+and
+
+Spectral
+
+Flames,"
+
+21st
+
+for
+
+1521-1531.
+
+Soot
+
+73-85.
+
+269
+IV-9
+
+Jet
+
+in
+
+and
+
+J.
+
+C.,
+
+Volume
+
+Fraction
+
+1988,
+
+Acetylene
+
+"On
+
+.let Diffusion
+
+and
+
+Index
+
+of
+
+261-274.
+
+Heat
+
+Transfer
+
+Participating
+
+"Detailed
+
+in FLrute
+Media."
+
+Turkey
+
+J
+
+(Aug.
+
+W,
+
+G.
+
+Ln Buoyant
+
+on
+
+a
+
+Symp.
+
+on
+
+Transfer
+
+"Radiative
+
+Scattering
+
+by
+
+and
+
+Non-Gray
+
+7,457-495.
+
+1978, "A
+
+Reactions
+Comb,
+
+Int'l
+
+14-18).
+
+L R., 1993
+
+Transfer,
+
+Radiation
+Based
+
+ICHMT
+
+Nor, homogeneous,
+Heat
+
+Spectral
+
+Mixtures
+
+Flames,"
+
+Howell,
+
+Faeth,
+
+the Refractive
+59.
+
+"Radiative
+
+1995,
+
+Diffusion
+
+(Int'l)
+
+and
+
+"Soot
+
+Soot/Gas
+
+KoLlmann,
+
+Syrup.
+
+1996b,
+
+8, 434-440.
+
+of Chemical
+
+S.-M.,
+
+106,
+
+Heat
+
+Fraction
+
+Laminar
+
+1994,
+
+Kusadasi,
+Z.,
+
+Properties
+
+Kennedy,
+
+J.
+
+Volume
+
+Nonhomogeneous
+
+Ku,
+
+Tan,
+
+Treatment
+
+1992,
+Jet
+
+"Coupled
+
+"Soot
+
+Sci. Tech.,
+
+Nonhomogeneous
+
+L,
+
+Flames,"
+
+P.,
+
+L C.,
+
+J. Thermophys.
+
+for the
+
+12, 305-372.
+
+I992,
+Flames,"
+
+1996a`
+
+C.,
+
+Comb.
+
+Transfer,
+
+Method
+
+Medium."
+
+R.,
+
+Flame.
+
+with
+
+Transfer,
+
+P.-F.,
+
+C.,
+
+J.
+
+Vervisch,
+
+Ku,
+
+Ethylene
+
+Hsu,
+
+and
+Heat
+
+Jones,
+
+Radiative
+Comb.
+
+Gore,
+
+Jr.
+
+Advances
+
+Janicka,
+
+M.,
+
+FaL,-weather,
+of
+
+IrvLne,
+
+Radiation,"
+
+115-193.
+
+Combustion,"
+
+"Predictions
+
+Radiation
+
+Jeng,
+
+F.
+
+Gas Band
+
+I.
+
+G.
+
+Nonpremixed
+
+T.
+
+York.
+
+HTD-Vo[.
+
+137-15
+
+Faeth,
+
+12,
+
+New
+M.,
+
+ASME
+
+Systems,
+
+Vol.
+
+"Molecular
+
+Y.
+
+Acetylene/Air
+
+Gravity
+
+and
+
+for
+
+L
+
+Ku,
+
+Heat
+
+P.-F.,
+
+Calculations
+
+1975,
+
+and
+
+and
+
+and
+
+Hsu,
+
+and Simulation.
+
+and
+
+Enclosures
+
+Thermophys.
+
+Sivatha_u,
+
+Optics.
+
+Reduced
+
+Temperature,"
+
+P.-F.,
+
+Cylindrical
+
+flame.
+
+of
+
+Ku,
+
+to Comb.
+
+Z. G.,
+
+at Flame
+
+and
+
+S.,
+
+and
+
+submitted
+
+Hsu,
+
+L-Y.,
+
+and
+
+Analysis
+
+to Applied
+
+P.
+
+for Normal
+
+Habib,
+
+U.-S.,
+
+P. S.,
+
+submitted
+
+Flames,"
+
+Prog.
+
+1, 8"/-109.
+
+jet diffusion
+
+487-493.
+
+Greenberg,
+
+CR-191109.
+
+30,277-284.
+
+Computation
+
+Syrup.
+
+P,. B.,
+
+NASA
+
+1976,
+
+Sci.,
+
+R. W.,
+
+Chen,
+
+in
+
+and Edel.man,
+flames,"
+
+W.,
+
+Comb.
+
+Flame,
+
+Ip,
+Radiation
+
+Greenberg,
+
+REFERENCES
+
+Energy
+
+acetylene
+
+Two-Variables
+
+in Turbulent
+
+Formalism
+
+Hz-Air
+
+Diffusion
+
+421-430.
+M.,
+
+1984,
+
+Methane
+
+"Species
+Diffusion
+
+Concentrations
+Flames,"
+
+and
+L
+
+Heat
+
+721-727.
+I. M..
+
+Formation
+
+Kollmann,
+in a Laminar
+
+W.,
+
+and
+
+Diffusion
+
+Cben,
+
+J.-Y.,
+
+Flame,"
+
+1990,
+Comb.
+
+"A
+
+Model
+
+Flame,
+
+8.1,
+
+Kennedy,
+"Predictions
+
+I.
+
+M.,
+
+of Soot
+
+Kollmann,
+
+W.,
+
+and
+
+in Lamina.,- Diffusion
+
+Chen,
+
+Flames,"
+
+J.-Y.,
+
+AIAA
+
+1991,
+
+Sivathanu,
+
+Journal, 29,
+
+1452-1457.
+Kent, J. H., and Honnery, D., 1987 "Soot and Mixture
+Turbulent Diffusion Flames," Comb. Sci. Tech., 54, 383-397.
+Khan,
+Control
+205.
+
+I. M., Greeves,
+
+in Transport
+
+G., and Prober't,
+
+Engines,"
+
+D. M.,
+
+Institution
+
+Fraction
+
+in
+"Soot
+
+1971, "Air Pollution
+
+of Mechanical
+
+Engineers,
+
+Khan.
+
+I. M., and Greeves,
+and Combustion
+
+Heat Transfer
+
+Diffusion
+
+G., 1974, "A Method
+
+of Soot in Diesel
+
+in Flames,
+
+N. H. A/'gan
+
+for Calculating
+
+Engines,"
+
+Chapter
+
+and L M. Beer,
+
+Eds..
+
+the
+
+Transfer,
+
+25 in
+
+"Buoyancy-Induced
+
+D. W., Gmenberg,
+
+Differences
+
+P. S., and Roma,
+
+in Soot
+
+Morphology,"
+
+Scripta
+
+Ku,
+
+and
+
+Properties
+
+Shim,
+
+K.-H.,
+
+of Simulated
+
+1991,
+
+"Optical
+
+and
+
+L.,
+
+and Greenberg,
+
+P.
+
+Microgravitv
+
+Lee, K. B., Thring,
+Combustion
+145.
+Leung,
+
+K. M.,
+Reaction
+
+Comb.
+
+Tong,
+
+Radiative
+
+Fluctuations
+
+Flame,
+
+1962,
+
+Flame,"
+
+R. P.,
+
+"On the Rate of
+
+Comb.
+
+and Jones,
+
+for Soot
+
+Flame, 6, 137-
+
+W.
+
+Formation
+
+A. S., 1975,
+
+P.,
+
+1991,
+
+"A
+
+in Nonpremixed
+
+"The Prediction
+
+of Free, Round-Jet
+
+Turbulent
+
+of the
+
+Diffusion
+
+24, 109-124.
+
+Fimte Cylindrical
+J. B., Stewart,
+
+R.,
+
+1986,
+
+"Radiative
+
+Enclosures,"
+
+J. Heat
+
+C. D., and Syed,
+
+of Soot Formation
+
+at Elevated
+
+Transfer
+Transfer,
+
+K. J., 1988,
+
+Pressure,"
+
+22nd
+
+in
+108,
+
+"Flow
+
+field
+
+Syrup.
+
+(hat'l)
+
+413-423.
+
+Reynolds,
+Chemical
+Program
+
+Lindstedt,
+Mechanism
+
+M. P., and Viskanta,
+
+Axisymmetric,
+271-276.
+Moss,
+
+Sooting
+
+F. C., and Naguib,
+
+Comb.
+
+Modeling
+
+W.
+
+C.,
+
+1986,
+
+Equilibrium
+STANJAN,'*
+
+University.
+Rogg,
+
+B.,
+
+Flamelet
+
+"The
+
+Analysis:
+Department
+
+1993 "RUN-1DL:
+
+Computer
+
+Applications
+
+Code,"
+
+in Combustion
+
+Springer-Verlag,
+
+Element
+
+Potential
+
+Implementation
+of Mechanical
+The
+
+Systems,
+
+for
+
+the
+
+Interactive
+
+Engineering,
+
+Stanford
+
+Cambridge
+
+Reduced
+
+Method
+
+in
+
+Universal
+
+Kinetic
+
+C. N. Peters
+
+Laminar
+
+Mechanisms
+
+for
+
+and B. Rogg,
+
+Eds.,
+
+Berlin-Heidelberg.
+
+Santoro, R. J., Semerjian, H. C., and Dobbins,
+R. A., 1983 "Soot
+Particle Measurements
+in Diffusion Flames,"
+Comb. Flame, 51, 203218.
+Santoro,
+
+R, J., Yeh,
+
+T. T., Horvath,
+
+J. J., and Semerjian,
+
+1987, "The Transport
+and Growth
+of Soot
+Particles
+Diffusion Flames," Comb. Sci. Tech., 53, 89-115.
+Siegel,
+
+R.,
+
+and Howell,
+
+J. R.,
+
+1992
+
+Thermal
+
+Transfer. 3rd ed., Hemisphere,
+Washington,
+DC.
+Sivathanu,
+Y. R., and Faeth, G. M., 1990a,
+Volume
+Turbulent
+
+Heat Transfer
+
+Faction
+Diffusion
+
+Correlations
+Flames,"
+
+in the Fuel
+Comb.
+
+Flame,
+
+Rich
+
+in
+
+H. C.,
+Laminar
+
+Radiation
+
+Heat
+
+"Temperature/Soot
+Region
+
+of
+
+Buoyant
+
+81, 150-165.
+
+270
+IV-10
+
+of Radiation
+
+J. Thermophys.
+
+with
+Heat
+
+"A
+
+Detailed
+Flames
+
+Heat
+
+Dissertation,
+Transfer
+
+"Modeling
+
+Turbulent
+
+Soot
+
+Diffusion
+
+1533-1541.
+"New
+
+Numerical
+
+Method
+
+Participating
+
+for
+
+Media,"
+
+J.
+
+4_,419-424.
+
+in Jet Diffusion
+Ph.D.
+
+J. B., 1990,
+
+Buoyant
+
+in Nonhomogeneous
+
+Heat Transfer,
+L, 1995,
+
+Comb.,
+
+in
+
+Modeling
+under
+Wayne
+
+of
+
+Normal
+
+Soot
+
+Formation
+
+and Reduced
+
+and
+
+Gravity
+
+State University.
+
+R. D., 1992, "Summary
+Solutions
+
+l_eveloDmefltS
+in Radiative Heat Transfer,
+ASME HTD-Vol.
+203,235-264.
+
+375-380.
+
+M. W., and Beer, J. M.,
+
+in the Properties
+
+Menguc,
+
+Workshop,
+
+1543-1550.
+
+System,"
+
+J. R., 1990,
+
+Tong, T. W., and Skocypec,
+
+"Detailed
+
+Flame, 87,289-305.
+
+Lockwood,
+
+Comb.,
+
+Combustion
+
+of Soot in a Laminar
+
+Stmplified
+
+Z., and Howell,
+
+Radiation
+
+Modeling Analysis
+for Soot Formation
+and Radiation
+in Microgravity
+Gas Jet Diffusion Flames," NASA Conference
+Publication
+10174. Third
+International
+
+Radiation
+
+1995b,
+
+S.,
+
+State
+
+Hydrocarbon/air
+
+"Interaction
+
+C. D., and Moss,
+
+Thermal
+
+23rd Syrup. (Int'l)
+
+Conditions,"
+
+J. C., Tong,
+
+"Generalized
+
+and Faeth, G. M., 1990,
+of Luminous
+Turbulent
+
+Comb.,
+
+R., 1987,
+
+to a Combustion
+
+J. Heat Transfer,
+
+113,953-958.
+Ku,
+
+and
+
+Radiation
+
+Flame,
+
+Diagnostics
+
+Soot Agglomerates,"
+
+1990b,
+
+Vol. 1, 56-62.
+
+Thermophys.
+
+J. C.,
+
+Radiative
+
+M.,
+
+M. E.,
+Statistics
+
+23rd Syrup. (Int'l)
+
+Application
+
+Tan,
+
+102, 216-218.
+
+Flames,"
+
+Flames,"
+
+Formation
+
+J., 1995a,
+
+Comb.
+
+G.
+
+Kounalakis,
+Radiation
+
+Syed, K. J., Stewart,
+Flames,"
+
+Ku, J. C., Griffin,
+
+Faeth,
+
+Song, T. H., and Viskanta,
+
+p.
+
+Book Co.
+
+Flames,"
+
+Sivathanu,
+Y. R.,
+and Continuum
+
+Turbulence:
+
+Formation
+
+Y. R.. and
+
+Relationships
+for Scalar Properties
+in Nonpremixed
+Flames," Comb. Flame, 82, 211-230.
+
+for
+
+a
+
+on Comparison
+Specified
+
+S. T. Thynell
+
+of
+
+Problem,"
+et al., Eds.,
+
