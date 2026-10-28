@@ -32,8 +32,9 @@ export function createRouter({ tabs, views, initial }) {
   addEventListener("resize", movePill);
   document.fonts?.ready.then(movePill);
 
-  function go(id, { scroll = true } = {}) {
-    if (!views[id] || id === current) return;
+  function go(id, { scroll = true, sub = null } = {}) {
+    if (!views[id]) return;
+    if (id === current) return sub && views[id].route?.(sub);
     hideTip();
     if (current) views[current].leave?.();
     const prev = current;
@@ -48,20 +49,26 @@ export function createRouter({ tabs, views, initial }) {
     history.replaceState(null, "", `#${id}`);
     try { localStorage.setItem("fif-tab", id); } catch { /* sin almacenamiento */ }
     if (scroll && prev) scrollTo({ top: 0, behavior: "smooth" });
-    views[id].enter?.();
+    views[id].enter?.(sub);
   }
 
+  // '#experimentos/PSI-69%3A20CAL08' -> pestaña 'experimentos' y sub-ruta 'PSI-69:20CAL08'
+  const parse = () => {
+    const [id, ...rest] = location.hash.slice(1).split("/");
+    return { id, sub: rest.length ? decodeURIComponent(rest.join("/")) : null };
+  };
+
   addEventListener("hashchange", () => {
-    const id = location.hash.slice(1);
-    if (views[id]) go(id);
+    const { id, sub } = parse();
+    if (views[id]) go(id, { sub });
   });
 
   let start = initial;
   try { start = localStorage.getItem("fif-tab") || start; } catch { /* sin almacenamiento */ }
-  const hash = location.hash.slice(1);
+  const { id: hash, sub } = parse();
   if (views[hash]) start = hash;
   if (!views[start]) start = initial;
-  go(start, { scroll: false });
+  go(start, { scroll: false, sub: start === hash ? sub : null });
 
-  return { go };
+  return { go: (id, sub) => go(id, { sub }) };
 }

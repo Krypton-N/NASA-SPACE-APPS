@@ -1,7 +1,7 @@
 import { html } from "../core/dom.js";
 import { PRESETS } from "../model/flame.js";
 
-const SLIDERS = [
+export const SLIDERS = [
   { key: "o2", label: "Oxígeno (fracción molar)", min: 0.1, max: 0.4, step: 0.01, dec: 2 },
   { key: "P", label: "Presión (atm)", min: 0.5, max: 3.0, step: 0.05, dec: 2 },
   { key: "co2", label: "CO₂ (fracción molar)", min: 0, max: 0.7, step: 0.01, dec: 2 },

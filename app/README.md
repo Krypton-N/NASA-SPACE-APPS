@@ -43,15 +43,41 @@ app/
     ├── model/
     │   ├── knn.js             vecinos más cercanos + cobertura / extrapolación
     │   ├── flame.js           escenario, ley d², fases de la llama, escenarios predefinidos
+    │   ├── lab.js             textos del laboratorio 3D: entornos, instrumentos, puntos de interés
     │   └── findings.js        hallazgos calculados en vivo desde FLEX
     ├── charts/                dispersión, extinción, mapa de cobertura, ley d²
     ├── render/
     │   ├── flame2d.js         llama en canvas (simulador y ventanilla de la portada)
-    │   └── flame3d.js         escena three.js (se descarga solo al abrir la pestaña 3D)
+    │   ├── flame3d.js         laboratorio three.js: llama, secuencia del ensayo, cámara, instrumentos
+    │   └── lab/               chamber.js (cámara CIR + MDCA) · environments.js (un entorno por
+    │                          escenario) · textures.js (texturas en canvas) · kit.js (piezas básicas)
     ├── background/space.js    fondo espacial interactivo
     ├── ui/                    panel de controles, chips, selector de gravedad
     └── views/                 una vista por pestaña
 ```
+
+## Laboratorio 3D
+
+La pestaña "Llama 3D" recrea el hardware de FLEX descrito en `data/psi/PSI-69_FLEX/Presentations`:
+cámara de combustión con ocho ventanas, inserto MDCA, agujas de despliegue, ignitores de hilo
+caliente y paquetes HiBMS / LLUV / iluminación. Todo es geometría y texturas procedurales (sin
+modelos ni imágenes externas); es una recreación ilustrativa, no CAD.
+
+- **Entorno por escenario** (`PRESETS[].id` en `flame.js` → `LOOK` y `buildEnv` en `environments.js`):
+  `iss` módulo Destiny con el CIR · `explore` hábitat en órbita lunar · `co2` alarma de incendio con
+  extintor · `lowo2` vehículo en la torre de caída de NASA Glenn. Con condiciones personalizadas se
+  conserva el último entorno.
+- **Tres escalas** con la misma cámara orbital: gota, cámara y laboratorio (rueda o botones).
+- **Vistas de cámara**: además de la vista libre, el punto de vista fijo de cada instrumento
+  (`rig.cams` en `chamber.js`): cámara a color del MDCA (4:3), HiBMS a contraluz y LLUV (OH*), con
+  marco, barra de escala y zoom digital. Las tres se repiten en miniatura sobre el mismo lienzo.
+- **Pantalla completa**: el botón «Condiciones» mete el panel de controles y la barra de herramientas
+  dentro del escenario; si el navegador no concede pantalla completa se usa un modo maximizado.
+- **Secuencia**: despliegue → ignición → llama caliente → llama fría → final, con pausa y barra de avance.
+- **Lectura** "Explicado" / "Científico": cambia narración, telemetría y tarjetas de los puntos de interés.
+
+Para añadir un entorno: un preset con `id` en `flame.js`, su ficha en `ENVS` (`model/lab.js`), su
+entrada en `LOOK` y su constructor en `environments.js`.
 
 ## Decisiones de rendimiento
 

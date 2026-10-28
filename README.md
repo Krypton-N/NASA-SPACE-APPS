@@ -17,7 +17,14 @@ data/
   taskbook/      NASA Task Book: 138 proyectos de Combustion Science (descripción, avances, bibliografía)
   standards/     NASA-STD-6001B (Change 3, 2025), JSC-29353B, paper sobre el Test 1
   mechanisms/    Mecanismos cinéticos para Cantera: gri30.yaml (GRI-Mech 3.0) y sandiego20161214.yaml
+  clean/         Tablas de PSI limpias y unificadas (las genera scripts/clean_psi.py; no editar a mano)
+                 droplets / gas_flames / solids / aerosols / sessions .csv → una fila por ensayo o día
+                 experiments_all.csv → columnas comunes + enlaces a PSI y DOI
+                 campaigns.csv, publications.csv → ficha de cada investigación y sus papers
+                 data_dictionary.md → unidades y significado de cada columna y de cada qc_flag
+                 qc_report.md → qué se encontró al limpiar, por campaña
 scripts/         Descargadores (se pueden re-ejecutar; no vuelven a bajar lo que ya existe)
+                 clean_psi.py + cleaning/ → limpieza (un adaptador por familia física)
 app/             App web del dashboard (Vite). Ver app/README.md
                  Levantar: cd app && npm install && npm run dev → http://localhost:5173
                  Datos: scripts/build_dashboard_data.py → app/public/data/dashboard.json
@@ -60,7 +67,28 @@ GUIA_PRESENTACION.md   Guion para presentar el prototipo al equipo
 .venv/Scripts/python scripts/download_psi.py --doc-mb 40 --raw-mb 2
 .venv/Scripts/python scripts/download_taskbook.py
 .venv/Scripts/python scripts/recover_psi_from_zips.py
+.venv/Scripts/python scripts/clean_psi.py
 ```
+
+### Limpieza (`scripts/clean_psi.py`)
+
+Lee las 20 tablas experimentales de PSI y escribe `data/clean/`. Reglas:
+
+- **Nada se corrige en silencio.** Cada valor interpretado, completado o sospechoso deja una marca
+  `columna:motivo` en `qc_flags` (p. ej. `thickness_mm:decimal_faltante` para el `037 mm` de SAFFIRE-II).
+  Las filas no se borran: `excluded = true` solo para copias exactas.
+- **Trazabilidad.** Cada fila trae `source_file` y `source_line` de la tabla original de PSI.
+- **Unidades comunes.** Presión en atm, fracciones molares de 0 a 1, longitudes en mm/cm, temperaturas en K,
+  fechas ISO. Cuando la tabla no da el año, la fecha queda vacía en lugar de inventarse.
+- **Tres familias de combustión** con columnas propias: gotas (FLEX, CFI), llamas de gas
+  (ACME Flame Design, ACME CFI-G, SPICE) y sólidos (SAFFIRE I–III, BASS, BASS-II). Aparte quedan los
+  aerosoles (SAME, SAME-R, DAFT) y las bitácoras por día (ACME BRE/CLD/E-FIELD/s-Flame, SLICE), que no
+  describen ensayos individuales.
+- El script se detiene si aparece una columna o una marca que no esté en `scripts/cleaning/schema.py`,
+  para que `data_dictionary.md` nunca quede desactualizado.
+
+Para agregar una tabla nueva (p. ej. los datasets oficiales del reto): escribir su adaptador en
+`scripts/cleaning/<familia>.py`, sumarlo al `build()` de esa familia y documentar sus columnas en `schema.py`.
 
 Cantera (prueba rápida de que todo funciona):
 

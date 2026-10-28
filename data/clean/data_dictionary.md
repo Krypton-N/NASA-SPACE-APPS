@@ -1,0 +1,329 @@
+# Diccionario de datos — data/clean
+
+Generado por `scripts/clean_psi.py`. Unidades SI o de uso común en combustión; fracciones molares entre 0 y 1.
+
+## droplets.csv
+
+| Columna | Unidad | Descripción |
+|---|---|---|
+| `uid` | — | Identificador único: `accession:test_id` (con `#n` si la tabla original repite el id). |
+| `accession` | — | Investigación de NASA PSI (p. ej. PSI-69). |
+| `campaign` | — | Nombre corto del experimento (FLEX, ACME CFI-G, BASS-II...). |
+| `family` | — | Familia física: droplet, gas_flame, solid, aerosol o session. |
+| `test_id` | — | Identificador del ensayo tal como viene en la tabla (normalizado sin espacios). |
+| `date` | ISO 8601 | Fecha del ensayo. Vacía cuando la tabla no da el año (no se inventa). |
+| `test_number` | — | Número consecutivo del ensayo en la campaña. |
+| `time_gmt` | HH:MM:SS | Hora GMT del ensayo o de la ignición. |
+| `fuel` | — | Combustible normalizado (methanol, n-heptane, ethylene...). Mezclas con '+'. |
+| `pressure_atm` | atm | Presión de la cámara (FLEX venía en mmHg, CFI-G en bar). |
+| `x_o2` | fracción molar | O2 del lado oxidante (ambiente, o chorro en llamas inversas). Al inicio del ensayo. |
+| `x_n2` | fracción molar | N2 en el ambiente. |
+| `x_co2` | fracción molar | CO2 en el ambiente. |
+| `x_he` | fracción molar | He en el ambiente. |
+| `diluent` | — | Inertes presentes en el ambiente (N2, CO2, He). |
+| `d0_mm` | mm | Diámetro inicial de la gota. |
+| `d_ext_mm` | mm | Diámetro de la gota al extinguirse la llama visible. |
+| `burning_rate_mm2_s` | mm²/s | Constante de combustión K de la ley d² (en la tabla original decía 'mm'). |
+| `burn_time_s` | s | Tiempo de combustión. |
+| `end_mode` | — | Cómo terminó: extinction, disruption, completion, self_extinction o flow_termination. |
+| `extinguished` | bool | La llama se extinguió por sí sola (no por corte de flujo ni por consumir el combustible). |
+| `ignited` | bool | Hubo ignición. Vacío si la tabla no lo dice. |
+| `time_local` | — | Hora local tal como viene (CFI). |
+| `fuel_blend` | — | Proporción de la mezcla líquida (CFI: n-dodecano/iso-dodecano). |
+| `fiber_supported` | bool | Gota sostenida en fibra (CFI). |
+| `n_flags` | — | Número de marcas de calidad de la fila. |
+| `qc_flags` | — | Marcas de calidad `columna:motivo` separadas por `; ` (ver tabla de motivos). |
+| `excluded` | bool | true si la fila no debe usarse para entrenar (p. ej. copia duplicada). |
+| `exclude_reason` | — | Motivo de la exclusión. |
+| `source_file` | — | Tabla original de PSI de donde sale la fila. |
+| `source_line` | — | Línea del CSV original (la línea 1 es el encabezado). |
+
+## gas_flames.csv
+
+| Columna | Unidad | Descripción |
+|---|---|---|
+| `uid` | — | Identificador único: `accession:test_id` (con `#n` si la tabla original repite el id). |
+| `accession` | — | Investigación de NASA PSI (p. ej. PSI-69). |
+| `campaign` | — | Nombre corto del experimento (FLEX, ACME CFI-G, BASS-II...). |
+| `family` | — | Familia física: droplet, gas_flame, solid, aerosol o session. |
+| `test_id` | — | Identificador del ensayo tal como viene en la tabla (normalizado sin espacios). |
+| `date` | ISO 8601 | Fecha del ensayo. Vacía cuando la tabla no da el año (no se inventa). |
+| `flame_type` | — | normal (combustible en el chorro), inverse (oxidante en el chorro) o coflow (SPICE). |
+| `ramped` | bool | El flujo se varió en rampa durante el ensayo: no hay un valor único. |
+| `test_day` | — | Día de operación dentro de la campaña ACME. |
+| `fuel` | — | Combustible normalizado (methanol, n-heptane, ethylene...). Mezclas con '+'. |
+| `x_fuel` | fracción molar | Combustible del lado combustible (chorro en normales, cámara en inversas). |
+| `fuel_rate_mg_s` | mg/s | Flujo másico de combustible. |
+| `x_o2` | fracción molar | O2 del lado oxidante (ambiente, o chorro en llamas inversas). Al inicio del ensayo. |
+| `x_o2_final` | fracción molar | O2 al final del ensayo (se consume durante la prueba). |
+| `n2_rate_mg_s` | mg/s | Flujo másico de N2 de dilución. |
+| `total_rate_mg_s` | mg/s | Flujo másico total del quemador. |
+| `pressure_atm` | atm | Presión de la cámara (FLEX venía en mmHg, CFI-G en bar). |
+| `z_st` | — | Fracción de mezcla estequiométrica. |
+| `t_ad_K` | K | Temperatura adiabática de llama calculada por el equipo de ACME. |
+| `o2_rate_mg_s` | mg/s | Flujo másico de O2 (llamas inversas). |
+| `x_fuel_final` | fracción molar | Combustible en la cámara al final (llamas inversas). |
+| `fuel_raw` | — | Texto original del combustible. |
+| `tfp` | bool | Se usó la sonda TFP en el ensayo (según la tabla de CFI-G). |
+| `cool_flame` | bool | Se observó llama fría (CFI-G normales). |
+| `peak_burner_T_K` | K | Temperatura máxima del quemador. |
+| `ignition` | — | Resultado de ignición original: yes, no o flash (destello que no se sostiene). |
+| `ignited` | bool | Hubo ignición. Vacío si la tabla no lo dice. |
+| `burn_time_s` | s | Tiempo de combustión. |
+| `end_mode` | — | Cómo terminó: extinction, disruption, completion, self_extinction o flow_termination. |
+| `extinguished` | bool | La llama se extinguió por sí sola (no por corte de flujo ni por consumir el combustible). |
+| `comments` | — | Comentarios originales del ensayo. |
+| `flame_color` | — | Color reportado de la llama (yellow, blue, yellow-blue...). |
+| `day_of_year` | día | Día del año GMT según la tabla. |
+| `time_gmt` | HH:MM:SS | Hora GMT del ensayo o de la ignición. |
+| `duration_s` | s | Duración del ensayo (apagado − ignición en SPICE; duración declarada en SAME-R). |
+| `nozzle_mm` | mm | Diámetro de la boquilla (SPICE). |
+| `fuel_rate_sccm` | sccm | Flujo volumétrico estándar de combustible (SPICE). |
+| `air_velocity_cm_s` | cm/s | Velocidad del aire de coflujo (SPICE). |
+| `hc_fuel_rate_mg_s` | mg/s | Flujo de hidrocarburo de SPICE cuando difiere del flujo total. |
+| `n_flags` | — | Número de marcas de calidad de la fila. |
+| `qc_flags` | — | Marcas de calidad `columna:motivo` separadas por `; ` (ver tabla de motivos). |
+| `excluded` | bool | true si la fila no debe usarse para entrenar (p. ej. copia duplicada). |
+| `exclude_reason` | — | Motivo de la exclusión. |
+| `source_file` | — | Tabla original de PSI de donde sale la fila. |
+| `source_line` | — | Línea del CSV original (la línea 1 es el encabezado). |
+
+## solids.csv
+
+| Columna | Unidad | Descripción |
+|---|---|---|
+| `uid` | — | Identificador único: `accession:test_id` (con `#n` si la tabla original repite el id). |
+| `accession` | — | Investigación de NASA PSI (p. ej. PSI-69). |
+| `campaign` | — | Nombre corto del experimento (FLEX, ACME CFI-G, BASS-II...). |
+| `family` | — | Familia física: droplet, gas_flame, solid, aerosol o session. |
+| `test_id` | — | Identificador del ensayo tal como viene en la tabla (normalizado sin espacios). |
+| `date` | ISO 8601 | Fecha del ensayo. Vacía cuando la tabla no da el año (no se inventa). |
+| `material_raw` | — | Descripción original de la muestra. |
+| `material` | — | Material normalizado (PMMA, SIBAL, Nomex, silicone, paraffin wax...). |
+| `geometry` | — | Geometría: film, slab, rod, sphere, spherical_section, candle o fabric. |
+| `thickness_mm` | mm | Espesor de la muestra. |
+| `width_cm` | cm | Ancho de la muestra. |
+| `diameter_mm` | mm | Diámetro de esferas y barras. |
+| `rod_color` | — | PMMA transparente (clear) o negro (black). |
+| `sides_burning` | — | Caras de la placa que arden (1 o 2). |
+| `ignition_note` | — | Notas de ignición (wake = ignición por la estela, moved igniter...). |
+| `flow_direction` | — | concurrent (a favor de la llama) u opposed (en contra). |
+| `thickness_raw` | — | Espesor original (SAFFIRE), por si la interpretación es dudosa. |
+| `length_cm` | cm | Largo de la muestra. |
+| `flow_cm_s` | cm/s | Velocidad del flujo de aire sobre la muestra (al inicio, si cambió durante el ensayo). |
+| `x_o2` | fracción molar | O2 del lado oxidante (ambiente, o chorro en llamas inversas). Al inicio del ensayo. |
+| `ignition_power_W` | W | Potencia del ignitor. |
+| `ignition_time_s` | s | Tiempo de encendido del ignitor. |
+| `burn_time_s` | s | Tiempo de combustión. |
+| `ug_burn_length_cm` | cm | Longitud quemada en microgravedad. |
+| `ug_spread_rate_mm_s` | mm/s | Velocidad de propagación en microgravedad (la tabla la llama 'Spread Length'). |
+| `g1_burn_length_cm` | cm | Longitud quemada en la prueba equivalente en tierra (1 g). |
+| `g1_spread_rate_mm_s` | mm/s | Velocidad de propagación en 1 g. |
+| `g1_spread_mode` | — | steady o acceleratory (la llama se acelera y no tiene velocidad única). |
+| `ignited` | bool | Hubo ignición. Vacío si la tabla no lo dice. |
+| `video_ids` | — | Identificadores de las cámaras / videos del ensayo (SAFFIRE). |
+| `planned_test` | — | Número de ensayo planeado (BASS; el real es test_id). |
+| `sample_id` | — | Identificador de la muestra física. |
+| `day_of_year` | día | Día del año GMT según la tabla. |
+| `pi` | — | Investigador principal del ensayo (BASS-II). |
+| `flow_restrictor` | — | Posición del restrictor de flujo (BASS-II). |
+| `flow_history_raw` | — | Bitácora original de flujo de aire (BASS-II), texto libre. |
+| `fan_history_raw` | — | Bitácora original del ventilador (BASS-II), texto libre. |
+| `flow_min_cm_s` | cm/s | Mínima velocidad de flujo registrada en el ensayo (BASS-II). |
+| `flow_max_cm_s` | cm/s | Máxima velocidad de flujo registrada en el ensayo (BASS-II). |
+| `extinguished` | bool | La llama se extinguió por sí sola (no por corte de flujo ni por consumir el combustible). |
+| `blowoff` | bool | La llama fue arrastrada por el flujo (BASS-II). |
+| `x_o2_final` | fracción molar | O2 al final del ensayo (se consume durante la prueba). |
+| `co2_initial_pct` | % vol | CO2 al inicio (BASS-II). |
+| `co2_final_pct` | % vol | CO2 al final (BASS-II). |
+| `co_initial_ppm` | ppm | CO al inicio (BASS-II). |
+| `co_final_ppm` | ppm | CO al final (BASS-II). |
+| `frames_shot` | — | Cuadros de video capturados. |
+| `n_flags` | — | Número de marcas de calidad de la fila. |
+| `qc_flags` | — | Marcas de calidad `columna:motivo` separadas por `; ` (ver tabla de motivos). |
+| `excluded` | bool | true si la fila no debe usarse para entrenar (p. ej. copia duplicada). |
+| `exclude_reason` | — | Motivo de la exclusión. |
+| `source_file` | — | Tabla original de PSI de donde sale la fila. |
+| `source_line` | — | Línea del CSV original (la línea 1 es el encabezado). |
+
+## aerosols.csv
+
+| Columna | Unidad | Descripción |
+|---|---|---|
+| `uid` | — | Identificador único: `accession:test_id` (con `#n` si la tabla original repite el id). |
+| `accession` | — | Investigación de NASA PSI (p. ej. PSI-69). |
+| `campaign` | — | Nombre corto del experimento (FLEX, ACME CFI-G, BASS-II...). |
+| `family` | — | Familia física: droplet, gas_flame, solid, aerosol o session. |
+| `test_id` | — | Identificador del ensayo tal como viene en la tabla (normalizado sin espacios). |
+| `date` | ISO 8601 | Fecha del ensayo. Vacía cuando la tabla no da el año (no se inventa). |
+| `material` | — | Material normalizado (PMMA, SIBAL, Nomex, silicone, paraffin wax...). |
+| `description` | — | Descripción del ensayo o del equipo. |
+| `flow_cm_s` | cm/s | Velocidad del flujo de aire sobre la muestra (al inicio, si cambió durante el ensayo). |
+| `weight_loss_mg_min` | mg/min | Tasa de pérdida de masa de la muestra calentada (SAME). |
+| `aging_s` | s | Tiempo de envejecimiento del humo (neto en SAME-R). |
+| `date_raw` | — | Fecha original cuando no se pudo completar (p. ej. '21-Jul' sin año). |
+| `rt_r0` | — | Razón Rt/R0 de la medición de SAME-R. |
+| `duration_s` | s | Duración del ensayo (apagado − ignición en SPICE; duración declarada en SAME-R). |
+| `primary_aging_s` | s | Tiempo de envejecimiento primario (SAME-R). |
+| `primary_mixing_s` | s | Tiempo de mezcla primaria (SAME-R). |
+| `n_flags` | — | Número de marcas de calidad de la fila. |
+| `qc_flags` | — | Marcas de calidad `columna:motivo` separadas por `; ` (ver tabla de motivos). |
+| `excluded` | bool | true si la fila no debe usarse para entrenar (p. ej. copia duplicada). |
+| `exclude_reason` | — | Motivo de la exclusión. |
+| `source_file` | — | Tabla original de PSI de donde sale la fila. |
+| `source_line` | — | Línea del CSV original (la línea 1 es el encabezado). |
+
+## sessions.csv
+
+| Columna | Unidad | Descripción |
+|---|---|---|
+| `uid` | — | Identificador único: `accession:test_id` (con `#n` si la tabla original repite el id). |
+| `accession` | — | Investigación de NASA PSI (p. ej. PSI-69). |
+| `campaign` | — | Nombre corto del experimento (FLEX, ACME CFI-G, BASS-II...). |
+| `family` | — | Familia física: droplet, gas_flame, solid, aerosol o session. |
+| `test_id` | — | Identificador del ensayo tal como viene en la tabla (normalizado sin espacios). |
+| `date` | ISO 8601 | Fecha del ensayo. Vacía cuando la tabla no da el año (no se inventa). |
+| `burner_mm` | mm | Tamaño del quemador (ACME BRE). |
+| `fuel_bottle` | — | Botella de combustible usada (texto corregido). |
+| `fuel` | — | Combustible normalizado (methanol, n-heptane, ethylene...). Mezclas con '+'. |
+| `x_fuel_bottle` | fracción molar | Fracción de combustible en la botella. |
+| `fuel_diluent` | — | Inerte con el que se diluyó el combustible de la botella. |
+| `x_o2_values` | fracción molar | Concentraciones de O2 probadas ese día, separadas por ';'. |
+| `flames_ignited` | — | Número de llamas encendidas ese día. |
+| `test_type` | — | Serie de pruebas a la que pertenece el día. |
+| `fuel_mfc` | — | Rango del controlador de flujo de combustible (ACME CLD). |
+| `n2_mfc` | — | Rango del controlador de flujo de N2 (ACME CLD). |
+| `x_fuel_values` | fracción molar | Concentraciones de combustible probadas ese día, separadas por ';'. |
+| `mesh_polarity` | — | Polaridad de la malla de alto voltaje (ACME E-FIELD). |
+| `atmosphere` | — | Atmósfera de la cámara (ACME s-Flame). |
+| `ambient_diluent` | — | Inerte del ambiente (N2 o He). |
+| `notes` | — | Notas del día de prueba. |
+| `n_flags` | — | Número de marcas de calidad de la fila. |
+| `qc_flags` | — | Marcas de calidad `columna:motivo` separadas por `; ` (ver tabla de motivos). |
+| `excluded` | bool | true si la fila no debe usarse para entrenar (p. ej. copia duplicada). |
+| `exclude_reason` | — | Motivo de la exclusión. |
+| `source_file` | — | Tabla original de PSI de donde sale la fila. |
+| `source_line` | — | Línea del CSV original (la línea 1 es el encabezado). |
+
+## experiments_all.csv
+
+| Columna | Unidad | Descripción |
+|---|---|---|
+| `uid` | — | Identificador único: `accession:test_id` (con `#n` si la tabla original repite el id). |
+| `accession` | — | Investigación de NASA PSI (p. ej. PSI-69). |
+| `campaign` | — | Nombre corto del experimento (FLEX, ACME CFI-G, BASS-II...). |
+| `family` | — | Familia física: droplet, gas_flame, solid, aerosol o session. |
+| `test_id` | — | Identificador del ensayo tal como viene en la tabla (normalizado sin espacios). |
+| `date` | ISO 8601 | Fecha del ensayo. Vacía cuando la tabla no da el año (no se inventa). |
+| `fuel_or_material` | — | Combustible (gotas, gases) o material (sólidos, aerosoles). |
+| `pressure_atm` | atm | Presión de la cámara (FLEX venía en mmHg, CFI-G en bar). |
+| `x_o2` | fracción molar | O2 del lado oxidante (ambiente, o chorro en llamas inversas). Al inicio del ensayo. |
+| `flow_cm_s` | cm/s | Velocidad del flujo de aire sobre la muestra (al inicio, si cambió durante el ensayo). |
+| `ignited` | bool | Hubo ignición. Vacío si la tabla no lo dice. |
+| `extinguished` | bool | La llama se extinguió por sí sola (no por corte de flujo ni por consumir el combustible). |
+| `end_mode` | — | Cómo terminó: extinction, disruption, completion, self_extinction o flow_termination. |
+| `burn_time_s` | s | Tiempo de combustión. |
+| `n_flags` | — | Número de marcas de calidad de la fila. |
+| `qc_flags` | — | Marcas de calidad `columna:motivo` separadas por `; ` (ver tabla de motivos). |
+| `excluded` | bool | true si la fila no debe usarse para entrenar (p. ej. copia duplicada). |
+| `psi_url` | URL | Página de la investigación en NASA PSI (datos crudos, videos, documentos). |
+| `doi_url` | URL | Enlace al DOI. |
+
+## campaigns.csv
+
+| Columna | Unidad | Descripción |
+|---|---|---|
+| `accession` | — | Investigación de NASA PSI (p. ej. PSI-69). |
+| `campaign` | — | Nombre corto del experimento (FLEX, ACME CFI-G, BASS-II...). |
+| `title` | — | Título de la investigación o de la publicación. |
+| `family` | — | Familia física: droplet, gas_flame, solid, aerosol o session. |
+| `table_kind` | — | ensayos, condiciones (sin resultados), bitacora, matriz_de_diseno, indice_de_figuras o sin_tabla. |
+| `n_rows` | — | Filas limpias de la campaña. |
+| `n_flagged` | — | Filas con al menos una marca de calidad. |
+| `n_excluded` | — | Filas excluidas. |
+| `sub_area` | — | Subárea de investigación según PSI. |
+| `mission` | — | Misión o plataforma (según PSI). |
+| `start` | ISO 8601 | Inicio de la investigación. |
+| `end` | ISO 8601 | Fin de la investigación. |
+| `doi` | — | DOI. |
+| `doi_url` | URL | Enlace al DOI. |
+| `psi_url` | URL | Página de la investigación en NASA PSI (datos crudos, videos, documentos). |
+| `ntrs_topic` | — | Carpeta de data/ntrs con los papers relacionados. |
+| `n_publications` | — | Publicaciones listadas por PSI. |
+| `table_notes` | — | Notas que venían dentro de la tabla experimental. |
+
+## publications.csv
+
+| Columna | Unidad | Descripción |
+|---|---|---|
+| `accession` | — | Investigación de NASA PSI (p. ej. PSI-69). |
+| `title` | — | Título de la investigación o de la publicación. |
+| `authors` | — | Autores de la publicación. |
+| `doi` | — | DOI. |
+| `doi_url` | URL | Enlace al DOI. |
+| `ntrs_id` | — | Id de NTRS si la publicación está en data/ntrs/catalog.csv. |
+| `ntrs_url` | URL | Enlace a la publicación en NTRS. |
+| `origin` | — | De dónde sale la publicación: investigation.json o la tabla experimental (PSI-142). |
+
+## skipped_rows.csv
+
+| Columna | Unidad | Descripción |
+|---|---|---|
+| `accession` | — | Investigación de NASA PSI (p. ej. PSI-69). |
+| `source_file` | — | Tabla original de PSI de donde sale la fila. |
+| `source_line` | — | Línea del CSV original (la línea 1 es el encabezado). |
+| `reason` | — | Por qué se descartó la fila. |
+| `raw` | — | Contenido original de la fila descartada. |
+
+## Marcas de calidad (`qc_flags`)
+
+Formato `columna:motivo`, separadas por `; `. Una marca no invalida la fila: avisa que el valor se interpretó, se completó o es sospechoso. `excluded = true` sí indica que la fila no debe usarse para entrenar.
+
+| Motivo | Significado |
+|---|---|
+| `aprox` | El valor venía como aproximado ('~ 21.5'). |
+| `cota` | El valor venía como cota ('<1'); se guarda el límite. |
+| `rango_promediado` | Venía un rango ('21.5 - 21.7'); se guarda el promedio. |
+| `varios_valores` | La celda tenía varios valores; se guarda el primero. |
+| `decimal_faltante` | Excel perdió el punto decimal ('037' -> 0.37). |
+| `separador_corregido` | Hora escrita con puntos ('14.34.57'). |
+| `sin_segundos` | Hora sin segundos ('1744' -> 17:44:00). |
+| `cruza_medianoche` | El apagado fue después de medianoche; se sumó un día. |
+| `completa` | 'Complete': se usó el largo total de la muestra. |
+| `insignificante` | 'Insignificant': se registró como 0. |
+| `inferido` | El material no se declaraba; se dedujo de la geometría (PMMA en BASS/BASS-II). |
+| `inferida_del_espesor` | Geometría deducida del espesor (>= 1 mm placa, < 1 mm película). |
+| `relleno_desde_fila_anterior` | Celda vacía de una tabla con celdas combinadas; se tomó la fila anterior. |
+| `largo_y_ancho_invertidos` | Largo y ancho venían intercambiados; se corrigieron. |
+| `tomado_de_hc_rate` | Faltaba el flujo total; se tomó el de hidrocarburo. |
+| `autorrelleno_excel` | Excel incrementó la fórmula al arrastrar (N2 -> N3, CH4 -> CH7); se restauró. |
+| `formato_porcentaje_excel` | Excel guardó 34 como '3400%'; se corrigió. |
+| `rampa` | El valor variaba en rampa ('RAMPED'); no hay valor único. |
+| `condiciones_en_otra_fila` | La fila dice 'mismas condiciones que 1-4'; no se copiaron. |
+| `perdida_de_senal` | Pérdida de señal con la ISS (LOS): no hay hora. |
+| `o2_bajo_sin_valor` | La tabla dice 'LOW O2' en lugar de un valor. |
+| `fuera_de_escala_del_sensor` | Sensor saturado ('OR', 'over'). |
+| `error_excel` | La celda tenía un error de Excel ('#DIV/0!'). |
+| `no_numerico` | Texto donde se esperaba un número. |
+| `hora_ilegible` | Hora con formato no reconocido. |
+| `fecha_ilegible` | Fecha con formato no reconocido. |
+| `diluyente_no_especificado` | Combustible diluido ('75% Propylene') sin decir con qué. |
+| `sin_numero_de_ensayo` | La fila no tiene número de ensayo; el id usa la línea. |
+| `fuera_de_rango` | Fuera del rango físicamente posible (ver validate.py). |
+| `atipico` | Atípico robusto dentro de su campaña (|x − mediana| > 6 · MAD). |
+| `id_duplicado` | El mismo test_id aparece más de una vez en la campaña. |
+| `bloque_duplicado_en_tabla` | El mismo día aparecía dos veces; se ignoró la copia. |
+| `fracciones_no_suman_1` | O2 + N2 + CO2 + He se aleja de 1 en más de 0.02. |
+| `cero` | Valor 0 imposible (presión); se dejó vacío. |
+| `negativo` | Lectura negativa del sensor (offset). |
+| `mayor_que_d0` | El diámetro de extinción es mayor o igual que el inicial. |
+| `falta_con_extincion` | El ensayo terminó en extinción pero no trae diámetro de extinción. |
+| `falta_con_ignicion` | Hubo ignición pero no se dice cómo terminó. |
+| `sin_ignicion_pero_con_tiempo` | Dice que no encendió pero reporta tiempo de combustión > 5 s. |
+| `apagado_antes_de_ignicion` | La hora de apagado es anterior a la de ignición; duración vacía. |
+| `c_y_k_no_coinciden` | La temperatura en °C y en K no corresponden entre sí. |
+| `no_coincide_con_dia_gmt` | La fecha no corresponde al día GMT de la misma fila. |
+| `no_coincide_con_test_day` | La fecha no corresponde al código YYDDD del día de prueba. |
+| `posible_lectura_del_ventilador` | Flujo > 25 cm/s en BASS-II: probablemente es la lectura del ventilador. |
+| `caida_de_o2_inverosimil` | El O2 baja más de 3 puntos en un ensayo; probable error de captura. |
+| `inconsistente_entre_campanas` | El mismo material tiene espesores 5x distintos entre campañas. |

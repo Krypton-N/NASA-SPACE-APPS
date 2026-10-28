@@ -1,8 +1,8 @@
 """Genera el JSON con los datos reales que consume la app web (app/).
 
 Uso: .venv/Scripts/python scripts/build_dashboard_data.py
-Entrada: data/psi, data/ntrs/catalog.csv, data/taskbook/taskbook_combustion.csv
-Salida:  app/public/data/dashboard.json
+Entrada: data/psi, data/ntrs/catalog.csv, data/taskbook/taskbook_combustion.csv, data/clean (clean_psi.py)
+Salida:  app/public/data/dashboard.json, app/public/data/experiments.json
 """
 import csv, glob, json, os, re
 
@@ -95,8 +95,60 @@ def saffire():
     return rows
 
 
+CLEAN = os.path.join(BASE, "data", "clean")
+FAMILY_TABLES = ["droplets", "gas_flames", "solids", "aerosols", "sessions"]
+# Columnas que ya están en la ficha de la campaña o que la vista no usa.
+DROP_COLS = {"campaign", "family", "n_flags", "exclude_reason"}
+
+
+def _jsonable(v):
+    if v is None or (isinstance(v, float) and np.isnan(v)):
+        return None
+    if isinstance(v, (np.bool_, bool)):
+        return bool(v)
+    if isinstance(v, (np.integer,)):
+        return int(v)
+    if isinstance(v, (float, np.floating)):
+        v = float(f"{float(v):.4g}")
+        return int(v) if v.is_integer() and abs(v) < 1e9 else v
+    return v
+
+
+def experiments():
+    """Ensayos limpios (data/clean, ver scripts/clean_psi.py) para la vista de detalle de la app.
+    Cada fila guarda solo sus columnas con dato; qc_flags pasa a lista."""
+    from cleaning.schema import COLUMNS, FLAG_REASONS
+
+    rows, files = [], []
+    for name in FAMILY_TABLES:
+        df = pd.read_csv(os.path.join(CLEAN, f"{name}.csv"), dtype={"test_id": str, "sample_id": str})
+        for rec in df.to_dict("records"):
+            out = {k: _jsonable(v) for k, v in rec.items() if k not in DROP_COLS}
+            out = {k: v for k, v in out.items() if v is not None and v != ""}
+            out["family"] = rec["family"]
+            out["qc_flags"] = rec["qc_flags"].split("; ") if isinstance(rec["qc_flags"], str) else []
+            # la ruta de la tabla original se repite en cada fila: va a una lista aparte y aquí queda su índice
+            if out["source_file"] not in files:
+                files.append(out["source_file"])
+            out["source_file"] = files.index(out["source_file"])
+            rows.append(out)
+    camp = pd.read_csv(os.path.join(CLEAN, "campaigns.csv"))
+    campaigns = [{k: _jsonable(v) for k, v in c.items()} for c in camp.to_dict("records") if c["n_rows"] > 0]
+    pubs = {}
+    for p in pd.read_csv(os.path.join(CLEAN, "publications.csv")).to_dict("records"):
+        url = p["ntrs_url"] if isinstance(p["ntrs_url"], str) else p["doi_url"]
+        pubs.setdefault(p["accession"], []).append({"t": p["title"], "a": _jsonable(p["authors"]),
+                                                    "url": _jsonable(url), "ntrs": isinstance(p["ntrs_url"], str)})
+    return {"rows": rows, "files": files, "campaigns": campaigns, "pubs": pubs,
+            "cols": {k: list(v) for k, v in COLUMNS.items()}, "flags": FLAG_REASONS}
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
+    exp = experiments()
+    js_exp = json.dumps(exp, ensure_ascii=False, separators=(",", ":"))
+    open(os.path.join(OUT, "experiments.json"), "w", encoding="utf-8").write(js_exp)
+    print(f"experimentos={len(exp['rows'])} campañas={len(exp['campaigns'])} -> {len(js_exp)/1024:.0f} KB")
     data = {"flex": flex_table(), "curves": droplet_curves(), "inventory": inventory(),
             "library": library(), "saffire": saffire(),
             "totals": {"ntrs": 277, "taskbook": 138, "psi": 24}}

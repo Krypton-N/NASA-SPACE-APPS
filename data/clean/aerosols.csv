@@ -1,0 +1,120 @@
+uid,accession,campaign,family,test_id,date,material,description,flow_cm_s,weight_loss_mg_min,aging_s,date_raw,rt_r0,duration_s,primary_aging_s,primary_mixing_s,n_flags,qc_flags,excluded,exclude_reason,source_file,source_line
+PSI-102:1,PSI-102,SAME,aerosol,1,,Teflon,,5.0,2.0,60.0,,,,,,0,,False,,data/psi/PSI-102_SAME/Experimental table/PSI-102_Experimental table_SAME.csv,2
+PSI-102:2,PSI-102,SAME,aerosol,2,,Teflon,,5.0,1.0,60.0,,,,,,0,,False,,data/psi/PSI-102_SAME/Experimental table/PSI-102_Experimental table_SAME.csv,3
+PSI-102:3,PSI-102,SAME,aerosol,3,,Teflon,,5.0,2.0,1200.0,,,,,,0,,False,,data/psi/PSI-102_SAME/Experimental table/PSI-102_Experimental table_SAME.csv,4
+PSI-102:4,PSI-102,SAME,aerosol,4,,Teflon,,10.0,2.0,60.0,,,,,,0,,False,,data/psi/PSI-102_SAME/Experimental table/PSI-102_Experimental table_SAME.csv,5
+PSI-102:5,PSI-102,SAME,aerosol,5,,Kapton,same conditions as 1-4,,,,,,,,,1,flow_cm_s:condiciones_en_otra_fila,False,,data/psi/PSI-102_SAME/Experimental table/PSI-102_Experimental table_SAME.csv,6
+PSI-102:6,PSI-102,SAME,aerosol,6,,Silicone Rubber,same conditions as 1-4,,,,,,,,,1,flow_cm_s:condiciones_en_otra_fila,False,,data/psi/PSI-102_SAME/Experimental table/PSI-102_Experimental table_SAME.csv,7
+PSI-102:7,PSI-102,SAME,aerosol,7,,Lampwick,same conditions as 1-4,,,,,,,,,1,flow_cm_s:condiciones_en_otra_fila,False,,data/psi/PSI-102_SAME/Experimental table/PSI-102_Experimental table_SAME.csv,8
+PSI-102:8,PSI-102,SAME,aerosol,8,,Dibutyl Phthalate,same conditions as 1-4,,,,,,,,,1,flow_cm_s:condiciones_en_otra_fila,False,,data/psi/PSI-102_SAME/Experimental table/PSI-102_Experimental table_SAME.csv,9
+PSI-101:51,PSI-101,SAME-R,aerosol,51,,Kapton,B.L. new formula,8.1,,38.0,21-Jul,1.38,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,2
+PSI-101:51a,PSI-101,SAME-R,aerosol,51a,,Kapton,B.L. new formula,8.1,,261.0,22-Jul,1.38,60.0,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,3
+PSI-101:61,PSI-101,SAME-R,aerosol,61,,Kapton,Baseline Aging,8.1,,38.0,2-Aug,1.38,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,4
+PSI-101:61a,PSI-101,SAME-R,aerosol,61a,,Kapton,aged,8.1,,807.0,2-Aug,1.38,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,5
+PSI-101:62,PSI-101,SAME-R,aerosol,62,,Kapton,High Temp aging,8.1,,39.0,2-Aug,1.48,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,6
+PSI-101:62a,PSI-101,SAME-R,aerosol,62a,,Kapton,aged,8.1,,808.0,2-Aug,1.48,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,7
+PSI-101:70,PSI-101,SAME-R,aerosol,70,,Kapton,High temp aged STS det,8.1,,747.0,24-Aug,1.48,60.0,720.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,8
+PSI-101:73,PSI-101,SAME-R,aerosol,73,,Kapton,Baseline Aging,8.1,,33.0,26-Aug,1.38,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,9
+PSI-101:73a,PSI-101,SAME-R,aerosol,73a,,Kapton,aged,8.1,,560.0,26-Aug,1.38,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,10
+PSI-101:75,PSI-101,SAME-R,aerosol,75,,Kapton,Mid Temp aging (no Ptrak),8.1,,32.0,26-Aug,1.43,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,11
+PSI-101:75a,PSI-101,SAME-R,aerosol,75a,,Kapton,aged,8.1,,563.0,26-Aug,1.43,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,12
+PSI-101:77,PSI-101,SAME-R,aerosol,77,,Kapton,High Temp aging,8.1,,31.0,26-Aug,1.48,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,13
+PSI-101:77a,PSI-101,SAME-R,aerosol,77a,,Kapton,aged,8.1,,559.0,26-Aug,1.48,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,14
+PSI-101:85,PSI-101,SAME-R,aerosol,85,,Kapton,Mid Temp aging run. Repeat 75,8.1,,33.0,30-Aug,1.43,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,15
+PSI-101:85a,PSI-101,SAME-R,aerosol,85a,,Kapton,aged,8.1,,563.0,30-Aug,1.43,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,16
+PSI-101:90,PSI-101,SAME-R,aerosol,90,,Kapton,Mid Temp aging reburn 85,8.1,,38.0,30-Aug,1.43,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,17
+PSI-101:90a,PSI-101,SAME-R,aerosol,90a,,Kapton,aged,8.1,,569.0,30-Aug,1.43,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,18
+PSI-101:92,PSI-101,SAME-R,aerosol,92,,Kapton,Baseline STS det,8.1,,35.0,7-Sep,1.38,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,19
+PSI-101:93,PSI-101,SAME-R,aerosol,93,,Kapton,Mid Temp aging run 75 repeat,8.1,,36.0,7-Sep,1.43,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,20
+PSI-101:93a,PSI-101,SAME-R,aerosol,93a,,Kapton,aged,8.1,,568.0,7-Sep,1.43,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,21
+PSI-101:94,PSI-101,SAME-R,aerosol,94,,Kapton,Mid Temp aging run mid high,8.1,,42.0,7-Sep,1.45,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,22
+PSI-101:94a,PSI-101,SAME-R,aerosol,94a,,Kapton,aged,8.1,,567.0,7-Sep,1.45,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,23
+PSI-101:101,PSI-101,SAME-R,aerosol,101,,Kapton,No flow run w/ aging,0.0,,29.0,8-Sep,1.48,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,24
+PSI-101:101a,PSI-101,SAME-R,aerosol,101a,,Kapton,aged,0.0,,561.0,8-Sep,1.48,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,25
+PSI-101:102,PSI-101,SAME-R,aerosol,102,,Kapton,No flow run w/ aging,0.0,,28.0,8-Sep,1.48,120.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,26
+PSI-101:102a,PSI-101,SAME-R,aerosol,102a,,Kapton,aged,0.0,,563.0,8-Sep,1.48,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,27
+PSI-101:108,PSI-101,SAME-R,aerosol,108,,Kapton,Low flow run w/aging,1.0,,30.0,9-Sep,1.48,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,28
+PSI-101:108a,PSI-101,SAME-R,aerosol,108a,,Kapton,aged,1.0,,560.0,9-Sep,1.48,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,29
+PSI-101:114,PSI-101,SAME-R,aerosol,114,,Kapton,low flow run w STS no Ptrak,2.0,,28.0,9-Sep,1.43,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,30
+PSI-101:48,PSI-101,SAME-R,aerosol,48,,Silicone,Low Temp,8.0,,62.0,16-Jul,1.304,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,31
+PSI-101:53,PSI-101,SAME-R,aerosol,53,,Silicone,HighTemp,8.1,,52.0,22-Jul,1.35,60.0,1.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,32
+PSI-101:59,PSI-101,SAME-R,aerosol,59,,Silicone,baseline aged,8.1,,24.0,30-Jul,1.327,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,33
+PSI-101:59a,PSI-101,SAME-R,aerosol,59a,,Silicone,aged,8.1,,856.0,30-Jul,1.327,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,34
+PSI-101:60,PSI-101,SAME-R,aerosol,60,,Silicone,Htemp ageing,8.1,,49.0,30-Jul,1.35,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,35
+PSI-101:60a,PSI-101,SAME-R,aerosol,60a,,Silicone,aged,8.1,,856.0,30-Jul,1.35,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,36
+PSI-101:65,PSI-101,SAME-R,aerosol,65,,Silicone,Baseline long aging,8.1,,50.0,23-Aug,1.327,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,37
+PSI-101:65a,PSI-101,SAME-R,aerosol,65a,,Silicone,aged,8.1,,1923.0,23-Aug,1.327,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,38
+PSI-101:66,PSI-101,SAME-R,aerosol,66,,Silicone,High T aging,8.1,,42.0,23-Aug,1.36,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,39
+PSI-101:66a,PSI-101,SAME-R,aerosol,66a,,Silicone,aged,8.1,,837.0,23-Aug,1.36,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,40
+PSI-101:67,PSI-101,SAME-R,aerosol,67,,Silicone,High temp aged,8.1,,751.0,24-Aug,1.35,60.0,720.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,41
+PSI-101:72,PSI-101,SAME-R,aerosol,72,,Silicone,Baseline STS det,8.1,,42.0,25-Aug,1.327,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,42
+PSI-101:86,PSI-101,SAME-R,aerosol,86,,Silicone,Mid temp aging,8.1,,50.0,30-Aug,1.345,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,43
+PSI-101:86a,PSI-101,SAME-R,aerosol,86a,,Silicone,aged,8.1,,628.0,30-Aug,1.345,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,44
+PSI-101:91,PSI-101,SAME-R,aerosol,91,,Silicone,Baseline STS det,8.1,,46.0,7-Sep,1.327,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,45
+PSI-101:99,PSI-101,SAME-R,aerosol,99,,Silicone,No flow run w/aging,0.0,,48.0,8-Sep,1.35,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,46
+PSI-101:99a,PSI-101,SAME-R,aerosol,99a,,Silicone,aged,0.0,,627.0,8-Sep,1.35,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,47
+PSI-101:103,PSI-101,SAME-R,aerosol,103,,Silicone,low flow run w/ aging,1.0,,48.0,9-Sep,1.35,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,48
+PSI-101:103a,PSI-101,SAME-R,aerosol,103a,,Silicone,aged,1.0,,619.0,9-Sep,1.35,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,49
+PSI-101:104,PSI-101,SAME-R,aerosol,104,,Silicone,No flow run w/ aging,0.0,,51.0,9-Sep,1.35,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,50
+PSI-101:104a,PSI-101,SAME-R,aerosol,104a,,Silicone,aged,0.0,,636.0,9-Sep,1.35,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,51
+PSI-101:109,PSI-101,SAME-R,aerosol,109,,Silicone,low flow run w STS,2.0,,28.0,9-Sep,1.35,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,52
+PSI-101:49,PSI-101,SAME-R,aerosol,49,,Lampwick,B.L. High RT/R0,8.0,,51.0,19-Jul,1.251,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,53
+PSI-101:54,PSI-101,SAME-R,aerosol,54,,Lampwick,Baseline,8.1,,57.0,29-Jul,1.245,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,54
+PSI-101:55,PSI-101,SAME-R,aerosol,55,,Lampwick,High RT/R0 test aging,8.1,,47.0,29-Jul,1.245,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,55
+PSI-101:55a,PSI-101,SAME-R,aerosol,55a,,Lampwick,aged,8.1,,218.0,29-Jul,1.245,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,56
+PSI-101:57,PSI-101,SAME-R,aerosol,57,,Lampwick,High RT/R0 reburn sample,8.1,,,29-Jul,1.253,60.0,11.0,8.0,1,test_id:id_duplicado,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,57
+PSI-101:68,PSI-101,SAME-R,aerosol,68,,Lampwick,High temp aged STS det,8.1,,747.0,24-Aug,1.28,60.0,720.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,58
+PSI-101:78,PSI-101,SAME-R,aerosol,78,,Lampwick,Baseline aging,8.1,,37.0,26-Aug,1.245,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,59
+PSI-101:78a,PSI-101,SAME-R,aerosol,78a,,Lampwick,aged,8.1,,581.0,26-Aug,1.245,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,60
+PSI-101:80,PSI-101,SAME-R,aerosol,80,,Lampwick,High temp aging,8.1,,40.0,26-Aug,1.28,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,61
+PSI-101:80a,PSI-101,SAME-R,aerosol,80a,,Lampwick,aged,8.1,,580.0,26-Aug,1.28,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,62
+PSI-101:82,PSI-101,SAME-R,aerosol,82,,Lampwick,Mid temp aging,8.1,,39.0,26-Aug,1.265,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,63
+PSI-101:82a,PSI-101,SAME-R,aerosol,82a,,Lampwick,aged,8.1,,579.0,27-Aug,1.265,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,64
+PSI-101:88,PSI-101,SAME-R,aerosol,88,,Lampwick,Baseline STS det,8.1,,,30-Aug,1.245,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,65
+PSI-101:96,PSI-101,SAME-R,aerosol,96,,Lampwick,No flow run w/aging,0.0,,34.0,7-Sep,1.245,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,66
+PSI-101:96a,PSI-101,SAME-R,aerosol,96a,,Lampwick,aged,0.0,,582.0,7-Sep,1.245,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,67
+PSI-101:98,PSI-101,SAME-R,aerosol,98,,Lampwick,No flow run w/aging,0.0,,37.0,8-Sep,1.28,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,68
+PSI-101:98a,PSI-101,SAME-R,aerosol,98a,,Lampwick,aged,0.0,,585.0,8-Sep,1.28,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,69
+PSI-101:106,PSI-101,SAME-R,aerosol,106,,Lampwick,No flow run w/aging,0.0,,30.0,9-Sep,1.28,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,70
+PSI-101:106a,PSI-101,SAME-R,aerosol,106a,,Lampwick,aged,0.0,,558.0,9-Sep,1.28,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,71
+PSI-101:110,PSI-101,SAME-R,aerosol,110,,Lampwick,low flow run w/STS,2.0,,21.0,9-Sep,1.28,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,72
+PSI-101:50,PSI-101,SAME-R,aerosol,50,,Teflon,B.L. High RT/R0,8.1,,33.0,20-Jul,1.452,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,73
+PSI-101:56,PSI-101,SAME-R,aerosol,56,,Teflon,Baseline,8.1,,41.0,29-Jul,1.445,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,74
+PSI-101:57#2,PSI-101,SAME-R,aerosol,57,,Teflon,High RT/R0 reburn sample,8.1,,,29-Jul,1.253,60.0,11.0,8.0,1,test_id:id_duplicado,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,75
+PSI-101:58,PSI-101,SAME-R,aerosol,58,,Teflon,Baseline aging,8.1,,34.0,30-Jul,1.445,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,76
+PSI-101:58a,PSI-101,SAME-R,aerosol,58a,,Teflon,aged,8.1,,805.0,30-Jul,1.445,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,77
+PSI-101:69,PSI-101,SAME-R,aerosol,69,,Teflon,High temp aged STS det,8.1,,745.0,24-Aug,1.45,60.0,720.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,78
+PSI-101:79,PSI-101,SAME-R,aerosol,79,,Teflon,Baseline aging,8.1,,33.0,26-Aug,1.445,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,79
+PSI-101:79a,PSI-101,SAME-R,aerosol,79a,,Teflon,aged,8.1,,560.0,26-Aug,1.445,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,80
+PSI-101:81,PSI-101,SAME-R,aerosol,81,,Teflon,High temp aging,8.1,,30.0,26-Aug,1.45,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,81
+PSI-101:81a,PSI-101,SAME-R,aerosol,81a,,Teflon,aged,8.1,,559.0,27-Aug,1.45,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,82
+PSI-101:83,PSI-101,SAME-R,aerosol,83,,Teflon,Mid temp aging,8.1,,30.0,26-Aug,1.448,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,83
+PSI-101:83a,PSI-101,SAME-R,aerosol,83a,,Teflon,aged,8.1,,557.0,27-Aug,1.448,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,84
+PSI-101:89,PSI-101,SAME-R,aerosol,89,,Teflon,Baseline STS det,8.1,,31.0,30-Aug,1.445,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,85
+PSI-101:100,PSI-101,SAME-R,aerosol,100,,Teflon,No flow run w/ aging,0.0,,29.0,8-Sep,1.45,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,86
+PSI-101:100a,PSI-101,SAME-R,aerosol,100a,,Teflon,aged,0.0,,560.0,8-Sep,1.45,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,87
+PSI-101:105,PSI-101,SAME-R,aerosol,105,,Teflon,No flow run w/ aging,0.0,,24.0,9-Sep,1.45,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,88
+PSI-101:105a,PSI-101,SAME-R,aerosol,105a,,Teflon,aged,0.0,,559.0,9-Sep,1.45,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,89
+PSI-101:111,PSI-101,SAME-R,aerosol,111,,Teflon,low flow run w/ STS,2.0,,43.0,9-Sep,1.45,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,90
+PSI-101:52,PSI-101,SAME-R,aerosol,52,,Pyrell,Baseline,8.1,,,22-Jul,1.22,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,91
+PSI-101:63,PSI-101,SAME-R,aerosol,63,,Pyrell,Baseline Aging,8.1,,56.0,23-Aug,1.22,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,92
+PSI-101:63a,PSI-101,SAME-R,aerosol,63a,,Pyrell,aged,8.1,,840.0,23-Aug,1.22,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,93
+PSI-101:64,PSI-101,SAME-R,aerosol,64,,Pyrell,High Temp aging,8.1,,47.0,23-Aug,1.23,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,94
+PSI-101:64a,PSI-101,SAME-R,aerosol,64a,,Pyrell,aged,8.1,,842.0,23-Aug,1.23,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,95
+PSI-101:71,PSI-101,SAME-R,aerosol,71,,Pyrell,High temp aged STS det,8.1,,750.0,24-Aug,1.23,60.0,720.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,96
+PSI-101:74,PSI-101,SAME-R,aerosol,74,,Pyrell,Baseline Aging,8.1,,48.0,26-Aug,1.22,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,97
+PSI-101:74a,PSI-101,SAME-R,aerosol,74a,,Pyrell,aged,8.1,,623.0,26-Aug,1.22,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,98
+PSI-101:76,PSI-101,SAME-R,aerosol,76,,Pyrell,High Temp aging,8.1,,51.0,26-Aug,1.23,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,99
+PSI-101:76a,PSI-101,SAME-R,aerosol,76a,,Pyrell,aged,8.1,,625.0,26-Aug,1.23,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,100
+PSI-101:84,PSI-101,SAME-R,aerosol,84,,Pyrell,Mid Temp aging retry,8.1,,53.0,30-Aug,1.225,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,101
+PSI-101:84a,PSI-101,SAME-R,aerosol,84a,,Pyrell,aged,8.1,,632.0,30-Aug,1.225,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,102
+PSI-101:87,PSI-101,SAME-R,aerosol,87,,Pyrell,Baseline STS det,8.1,,45.0,30-Aug,1.22,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,103
+PSI-101:95,PSI-101,SAME-R,aerosol,95,,Pyrell,No flow run w/ aging,0.0,,38.0,7-Sep,1.22,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,104
+PSI-101:95a,PSI-101,SAME-R,aerosol,95a,,Pyrell,aged,0.0,,,7-Sep,1.22,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,105
+PSI-101:97,PSI-101,SAME-R,aerosol,97,,Pyrell,No flow run w/aging,0.0,,48.0,8-Sep,1.23,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,106
+PSI-101:97a,PSI-101,SAME-R,aerosol,97a,,Pyrell,aged,0.0,,624.0,8-Sep,1.23,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,107
+PSI-101:107,PSI-101,SAME-R,aerosol,107,,Pyrell,Low flow run w/aging,1.0,,32.0,9-Sep,1.23,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,108
+PSI-101:107a,PSI-101,SAME-R,aerosol,107a,,Pyrell,aged,1.0,,559.0,9-Sep,1.23,,,,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,109
+PSI-101:113,PSI-101,SAME-R,aerosol,113,,Pyrell,low flow run w STS,2.0,,31.0,9-Sep,1.23,60.0,11.0,8.0,0,,False,,data/psi/PSI-101_SAME-R/Experimental table/PSI-101_Experimental table_SAME-R.csv,110
+PSI-47:D1,PSI-47,DAFT,aerosol,D1,2005-02-23,Arizona Road Dust,Contained the modified P-Trak with Alcohol Wick and batteries. Sampled air near Express rack 4,,,,,,,,,0,,False,,data/psi/PSI-47_DAFT_-_DAFT-2/Experimental table/PSI-47_Experimental table_DAFT.csv,2
+PSI-47:D2,PSI-47,DAFT,aerosol,D2,2005-03-04,Arizona Road Dust,Contained DustTrak and batteries. Sampled separated Velcro and the air near Port rack 6 and in Node 1,,,,,,,,,0,,False,,data/psi/PSI-47_DAFT_-_DAFT-2/Experimental table/PSI-47_Experimental table_DAFT.csv,3

@@ -11,6 +11,7 @@ import { conditions, gravity, scenario, initScenario } from "./state.js";
 import { createControls } from "./ui/controls.js";
 import { mountPanorama } from "./views/panorama.js";
 import { mountExplorer } from "./views/explorer.js";
+import { mountExperiments } from "./views/experiments.js";
 import { mountSimulator } from "./views/simulator.js";
 import { mountFlame3D } from "./views/flame3dView.js";
 import { mountEvidence } from "./views/evidence.js";
@@ -19,6 +20,7 @@ import { mountPipeline } from "./views/pipeline.js";
 const TABS = [
   { id: "panorama", label: "Panorama" },
   { id: "explorador", label: "Explorador" },
+  { id: "experimentos", label: "Experimentos" },
   { id: "simulador", label: "Simulador" },
   { id: "llama3d", label: "Llama 3D" },
   { id: "evidencia", label: "Evidencia" },
@@ -50,6 +52,7 @@ async function boot() {
   const views = {
     panorama: mountPanorama($("#view-panorama"), data, { go }),
     explorador: mountExplorer($("#view-explorador"), data),
+    experimentos: mountExperiments($("#view-experimentos"), data, { go, gravity }),
     simulador: mountSimulator($("#view-simulador"), data, shared),
     llama3d: mountFlame3D($("#view-llama3d"), data, shared),
     evidencia: mountEvidence($("#view-evidencia"), data),

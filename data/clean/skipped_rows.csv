@@ -1,0 +1,6 @@
+accession,source_file,source_line,reason,raw
+PSI-98,data/psi/PSI-98_SAFFIRE-I/Experimental table/PSI-98_Experimental table_SAFFIRE-1.csv,4,visualizacion_de_flujo_pre_ensayo,F1C1/F1C2 | Pre-test flow visulation data for sample 1
+PSI-98,data/psi/PSI-98_SAFFIRE-I/Experimental table/PSI-98_Experimental table_SAFFIRE-1.csv,5,visualizacion_de_flujo_pre_ensayo,F2C1/F2C2 | Pre-test flow visulation data for sample 2
+PSI-99,data/psi/PSI-99_SAFFIRE-II/Experimental table/PSI-99_Experimental table_SAFFIRE-2.csv,11,visualizacion_de_flujo_pre_ensayo,F1C1/F1C2 | Pre-test flow visulation data for sample 2-1
+PSI-99,data/psi/PSI-99_SAFFIRE-II/Experimental table/PSI-99_Experimental table_SAFFIRE-2.csv,12,visualizacion_de_flujo_pre_ensayo,F2C1/F2C2 | Pre-test flow visulation data for sample 2-2
+PSI-26,data/psi/PSI-26_BASS/Experimental table/PSI-26_Experimental table_BASS.csv,67,no_es_ensayo,8/3/2012 | 216 | SOOT Cleaning
