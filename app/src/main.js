@@ -15,6 +15,7 @@ import { mountSimulator } from "./views/simulator.js";
 import { mountFlame3D } from "./views/flame3dView.js";
 import { mountEvidence } from "./views/evidence.js";
 import { mountPipeline } from "./views/pipeline.js";
+import { mountRag } from "./views/rag.js";
 
 const TABS = [
   { id: "panorama", label: "Panorama" },
@@ -23,6 +24,7 @@ const TABS = [
   { id: "llama3d", label: "Llama 3D" },
   { id: "evidencia", label: "Evidencia" },
   { id: "pipeline", label: "Pipeline IA" },
+  { id: "rag", label: "Asistente RAG" },
 ];
 
 const HACKATHON = new Date("2026-11-14T09:00:00-06:00");
@@ -54,6 +56,7 @@ async function boot() {
     llama3d: mountFlame3D($("#view-llama3d"), data, shared),
     evidencia: mountEvidence($("#view-evidencia"), data),
     pipeline: mountPipeline($("#view-pipeline")),
+    rag: mountRag($("#view-rag"), data, shared),
   };
   router = createRouter({ tabs: TABS, views, initial: "panorama" });
   $(".brand").addEventListener("click", (e) => { e.preventDefault(); go("panorama"); });
