@@ -153,7 +153,7 @@ export function mountExperiments(root, base, { go, gravity }) {
       const a = item.getBoundingClientRect(), b = box.getBoundingClientRect();
       box.scrollTop += a.top - b.top - box.clientHeight / 2 + a.height / 2;
     }
-    history.replaceState(null, "", `#experimentos/${encodeURIComponent(uid)}`);
+    history.replaceState(null, "", `#datos/ensayos/${encodeURIComponent(uid)}`);
     paintDetail(r);
     if (scroll && matchMedia("(max-width: 900px)").matches) q("#ex-detail").scrollIntoView({ behavior: "smooth", block: "start" });
   }
@@ -283,7 +283,7 @@ export function mountExperiments(root, base, { go, gravity }) {
     q("#ex-sim")?.addEventListener("click", () => {
       gravity.set({ g: 0 });
       conditions.set(sim.q);
-      go("llama3d");
+      go("simulador", "3d");
     });
     q("#ex-dl").addEventListener("click", () => {
       const out = { ...r, source_file: db.files[r.source_file], campaign: camp };

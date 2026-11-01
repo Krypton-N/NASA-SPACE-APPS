@@ -22,7 +22,7 @@ export function mountEvidence(root, data) {
     <div class="section-head">
       <div class="eyebrow">Corpus para extracción y RAG</div>
       <h2>Biblioteca de evidencia</h2>
-      <p class="lede">Todos los documentos descargados, buscables por título y tema. En la versión final, cada dato extraído por IA apuntará a su documento y a la cita textual de donde salió.</p>
+      <p class="lede">Todos los documentos descargados, buscables por título y tema. Los 277 reportes de NTRS son los que consulta el asistente de arriba para responder.</p>
     </div>
     <input class="search" id="q" type="search" placeholder="Buscar: cool flame, Saffire, smoke, flame spread, PMMA…" aria-label="Buscar en la biblioteca">
     <div class="stage-bar"><div class="chips" id="f-src"></div><span class="dim small" id="lib-count"></span></div>

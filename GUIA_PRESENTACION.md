@@ -19,7 +19,7 @@ npm run dev      # abre http://localhost:5173
 ```
 
 - Deja la app abierta en la pestaña **Panorama** y con la ventana a pantalla completa (F11).
-- Abre una vez la pestaña **Llama 3D** antes de la reunión para que three.js quede en caché.
+- Abre una vez **Simulador → Laboratorio 3D** antes de la reunión para que three.js quede en caché.
 - Si comparten pantalla por videollamada, el fondo animado puede verse entrecortado en el stream:
   no pasa nada, en local va fluido.
 - Plan B si algo falla: `npm run build` y luego `npm run preview` (http://localhost:4173).
@@ -61,10 +61,10 @@ Recorre las 4 tarjetas:
 
 ---
 
-## 3. Explorador (3 min) — dónde hay datos y dónde no
+## 3. Datos (3 min) — dónde hay datos y dónde no
 
 **Muestra:** la dispersión. Pasa el cursor por dos o tres puntos para que vean que cada punto es un
-ensayo real con sus condiciones.
+ensayo real con sus condiciones. Da clic en uno para abrir su ficha en **Ensayo por ensayo**.
 
 - Activa el filtro **Con CO₂** y luego **Con He** para que vean cómo cambia el patrón.
 - **Mapa de cobertura** ("¿Dónde hay datos y dónde no?"): el punto clave de la sesión.
@@ -91,9 +91,9 @@ concepto, no para decisiones reales.
 
 ---
 
-## 5. Llama 3D (1–2 min) — el gancho visual
+## 5. Laboratorio 3D (1–2 min) — el gancho visual
 
-- Arrastra para rotar. Cambia a heptano con 30 % O₂ para ver la capa de hollín.
+- En **Simulador**, cambia a **Laboratorio 3D**. Arrastra para rotar. Cambia a heptano con 30 % O₂ para ver la capa de hollín.
 - Elige **Heptano** y baja el oxígeno a **0.16**: la llama visible se apaga pronto y queda un halo
   tenue, la llama fría que FLEX descubrió en órbita.
 
@@ -102,10 +102,10 @@ concepto, no para decisiones reales.
 
 ---
 
-## 6. Evidencia y Pipeline IA (2 min)
+## 6. Asistente y Cómo funciona (2 min)
 
-- **Evidencia**: busca "cool flame" o "Saffire" para mostrar que el corpus ya está bajado y es buscable.
-- **Pipeline IA**: explica dónde entra Jev (clasificar y verificar con confianza) y dónde no
+- **Asistente**: si el servidor RAG está corriendo (`python scripts/rag_api_server.py`), haz una de las preguntas sugeridas. Abajo, en la biblioteca, busca "cool flame" o "Saffire" para mostrar que el corpus ya está bajado y es buscable.
+- **Cómo funciona**: explica dónde entra Jev (clasificar y verificar con confianza) y dónde no
   (no predice el fuego, no extrae números). Menciona que hay que pedir acceso anticipado ya.
 
 ---

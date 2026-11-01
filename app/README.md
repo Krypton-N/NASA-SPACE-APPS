@@ -53,12 +53,12 @@ app/
     │                          escenario) · textures.js (texturas en canvas) · kit.js (piezas básicas)
     ├── background/space.js    fondo espacial interactivo
     ├── ui/                    panel de controles, chips, selector de gravedad
-    └── views/                 una vista por pestaña
+    └── views/                 una vista por sección; parts.js junta varias en una pestaña
 ```
 
 ## Laboratorio 3D
 
-La pestaña "Llama 3D" recrea el hardware de FLEX descrito en `data/psi/PSI-69_FLEX/Presentations`:
+El "Laboratorio 3D" (pestaña Simulador) recrea el hardware de FLEX descrito en `data/psi/PSI-69_FLEX/Presentations`:
 cámara de combustión con ocho ventanas, inserto MDCA, agujas de despliegue, ignitores de hilo
 caliente y paquetes HiBMS / LLUV / iluminación. Todo es geometría y texturas procedurales (sin
 modelos ni imágenes externas); es una recreación ilustrativa, no CAD.
@@ -82,7 +82,7 @@ entrada en `LOOK` y su constructor en `environments.js`.
 ## Decisiones de rendimiento
 
 - Cada vista tiene `enter()` / `leave()`: las animaciones solo corren en la pestaña visible.
-- three.js vive en su propio archivo (~740 KB) y se descarga la primera vez que se abre "Llama 3D";
+- three.js vive en su propio archivo (~740 KB) y se descarga la primera vez que se abre el Laboratorio 3D;
   al salir se libera el contexto WebGL.
 - El fondo se dibuja a 30 fps y se pausa con la pestaña del navegador oculta. Si el equipo no lo
   sostiene, la app cambia sola a un modo ligero sin desenfoque de vidrio.

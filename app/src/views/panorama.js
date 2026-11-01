@@ -24,7 +24,7 @@ export function mountPanorama(root, data, { go }) {
         <h1>Cómo arde el fuego <span class="flame">sin gravedad</span></h1>
         <p class="lede">Tres décadas de experimentos de combustión en la Estación Espacial, reunidos, medidos y explicados. Cada cifra sale de una tabla o un documento de NASA y enlaza a su fuente, para decidir con evidencia cómo proteger a una tripulación de un incendio.</p>
         <div class="hero-cta">
-          <button type="button" class="btn primary" data-go="explorador">Explorar los ensayos</button>
+          <button type="button" class="btn primary" data-go="datos">Explorar los ensayos</button>
           <button type="button" class="btn" data-go="simulador">Probar el simulador</button>
         </div>
         <div class="hero-meta">

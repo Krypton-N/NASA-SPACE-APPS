@@ -17,17 +17,24 @@ import { mountFlame3D } from "./views/flame3dView.js";
 import { mountEvidence } from "./views/evidence.js";
 import { mountPipeline } from "./views/pipeline.js";
 import { mountRag } from "./views/rag.js";
+import { mountParts, mountStack } from "./views/parts.js";
 
 const TABS = [
   { id: "panorama", label: "Panorama" },
-  { id: "explorador", label: "Explorador" },
-  { id: "experimentos", label: "Experimentos" },
+  { id: "datos", label: "Datos" },
   { id: "simulador", label: "Simulador" },
-  { id: "llama3d", label: "Llama 3D" },
-  { id: "evidencia", label: "Evidencia" },
-  { id: "pipeline", label: "Pipeline IA" },
-  { id: "rag", label: "Asistente RAG" },
+  { id: "asistente", label: "Asistente" },
+  { id: "pipeline", label: "Cómo funciona" },
 ];
+
+// las pestañas de antes siguen abriendo su contenido desde enlaces o lo guardado en el navegador
+const ALIASES = {
+  explorador: "datos/graficas",
+  experimentos: "datos/ensayos",
+  llama3d: "simulador/3d",
+  evidencia: "asistente",
+  rag: "asistente",
+};
 
 const HACKATHON = new Date("2026-11-14T09:00:00-06:00");
 
@@ -50,18 +57,24 @@ async function boot() {
   const shared = { controls, scenario, gravity };
 
   let router;
-  const go = (id) => router.go(id);
+  const go = (id, sub) => router.go(id, sub);
   const views = {
     panorama: mountPanorama($("#view-panorama"), data, { go }),
-    explorador: mountExplorer($("#view-explorador"), data),
-    experimentos: mountExperiments($("#view-experimentos"), data, { go, gravity }),
-    simulador: mountSimulator($("#view-simulador"), data, shared),
-    llama3d: mountFlame3D($("#view-llama3d"), data, shared),
-    evidencia: mountEvidence($("#view-evidencia"), data),
+    datos: mountParts($("#view-datos"), "datos", [
+      { id: "graficas", label: "Gráficas de FLEX", mount: (el) => mountExplorer(el, data, { open: (uid) => go("datos", `ensayos/${uid}`) }) },
+      { id: "ensayos", label: "Ensayo por ensayo", mount: (el) => mountExperiments(el, data, { go, gravity }) },
+    ], { label: "Vista de los datos" }),
+    simulador: mountParts($("#view-simulador"), "simulador", [
+      { id: "2d", label: "Gráficas 2D", mount: (el) => mountSimulator(el, data, shared) },
+      { id: "3d", label: "Laboratorio 3D", mount: (el) => mountFlame3D(el, data, shared) },
+    ], { label: "Vista del simulador" }),
+    asistente: mountStack($("#view-asistente"), [
+      (el) => mountRag(el, data, shared),
+      (el) => mountEvidence(el, data),
+    ]),
     pipeline: mountPipeline($("#view-pipeline")),
-    rag: mountRag($("#view-rag"), data, shared),
   };
-  router = createRouter({ tabs: TABS, views, initial: "panorama" });
+  router = createRouter({ tabs: TABS, views, initial: "panorama", aliases: ALIASES });
   $(".brand").addEventListener("click", (e) => { e.preventDefault(); go("panorama"); });
 }
 

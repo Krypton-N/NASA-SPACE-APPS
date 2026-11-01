@@ -5,7 +5,7 @@ import { hideTip } from "./tooltip.js";
  * Pestañas con ciclo de vida: cada vista puede declarar enter() y leave()
  * para arrancar o liberar recursos (animaciones, WebGL) solo mientras está visible.
  */
-export function createRouter({ tabs, views, initial }) {
+export function createRouter({ tabs, views, initial, aliases = {} }) {
   const nav = $("#tabs");
   const pill = $(".tab-pill", nav);
   let current = null;
@@ -52,10 +52,17 @@ export function createRouter({ tabs, views, initial }) {
     views[id].enter?.(sub);
   }
 
-  // '#experimentos/PSI-69%3A20CAL08' -> pestaña 'experimentos' y sub-ruta 'PSI-69:20CAL08'
+  // 'llama3d' con alias 'simulador/3d' -> pestaña 'simulador' y sub-ruta '3d'
+  const resolve = (id, sub) => {
+    if (!aliases[id]) return { id, sub };
+    const [to, ...pre] = aliases[id].split("/");
+    return { id: to, sub: [...pre, sub].filter(Boolean).join("/") || null };
+  };
+
+  // '#datos/ensayos/PSI-69%3A20CAL08' -> pestaña 'datos' y sub-ruta 'ensayos/PSI-69:20CAL08'
   const parse = () => {
     const [id, ...rest] = location.hash.slice(1).split("/");
-    return { id, sub: rest.length ? decodeURIComponent(rest.join("/")) : null };
+    return resolve(id, rest.length ? decodeURIComponent(rest.join("/")) : null);
   };
 
   addEventListener("hashchange", () => {
@@ -63,12 +70,12 @@ export function createRouter({ tabs, views, initial }) {
     if (views[id]) go(id, { sub });
   });
 
-  let start = initial;
-  try { start = localStorage.getItem("fif-tab") || start; } catch { /* sin almacenamiento */ }
-  const { id: hash, sub } = parse();
-  if (views[hash]) start = hash;
-  if (!views[start]) start = initial;
-  go(start, { scroll: false, sub: start === hash ? sub : null });
+  let start = { id: initial, sub: null };
+  try { start = resolve(localStorage.getItem("fif-tab") || initial, null); } catch { /* sin almacenamiento */ }
+  const hash = parse();
+  if (views[hash.id]) start = hash;
+  if (!views[start.id]) start = { id: initial, sub: null };
+  go(start.id, { scroll: false, sub: start.sub });
 
   return { go: (id, sub) => go(id, { sub }) };
 }

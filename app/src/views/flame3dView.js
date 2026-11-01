@@ -35,7 +35,7 @@ export function mountFlame3D(root, data, { controls, scenario, gravity }) {
     <div class="section-head">
       <div class="eyebrow">Laboratorio virtual · parametrizado por el modelo</div>
       <h2>Entra al laboratorio donde arde la gota</h2>
-      <p class="lede">La misma predicción del simulador, dentro de una recreación de la cámara de combustión de FLEX: agujas que despliegan la gota, ignitores de hilo caliente y las cámaras científicas reales. Cada escenario cambia la atmósfera y también el lugar.</p>
+      <p class="lede">La misma predicción de las gráficas 2D, dentro de una recreación de la cámara de combustión de FLEX: agujas que despliegan la gota, ignitores de hilo caliente y las cámaras científicas reales. Cada escenario cambia la atmósfera y también el lugar.</p>
     </div>
     <div class="lab-scenes" id="v3-scenes" role="group" aria-label="Escenarios"></div>
     <div class="grid-sim">
@@ -346,7 +346,7 @@ export function mountFlame3D(root, data, { controls, scenario, gravity }) {
   q("#v3-drawer-x").addEventListener("click", () => q("#v3-cond").click());
   const maximize = (on) => {
     stage.classList.toggle("lab-max", on);
-    if (on) root.classList.remove("enter"); // la animación de entrada dejaría el escenario anclado a la vista
+    if (on) root.closest(".view")?.classList.remove("enter"); // la animación de entrada dejaría el escenario anclado a la vista
     dock();
   };
   function leaveImmersive() {

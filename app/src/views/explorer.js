@@ -4,7 +4,7 @@ import { drawScatter, legendHTML } from "../charts/scatter.js";
 import { drawExtinction } from "../charts/extinction.js";
 import { drawCoverage } from "../charts/coverage.js";
 
-export function mountExplorer(root, data) {
+export function mountExplorer(root, data, { open }) {
   const flex = data.flex;
   const f = { fuel: new Set(["Methanol", "Heptane"]), co2: "all", he: "all" };
   const pass = (r) =>
@@ -16,7 +16,7 @@ export function mountExplorer(root, data) {
     <div class="section-head">
       <div class="eyebrow">FLEX · Flame Extinguishment Experiment · ISS 2009–2011</div>
       <h2>Tasa de quemado contra oxígeno</h2>
-      <p class="lede">Cada punto es una gota de combustible encendida en la Estación Espacial. La tasa de quemado K mide qué tan rápido se consume la gota (ley d²: d² = d₀² − K·t). El relleno indica cómo terminó el ensayo.</p>
+      <p class="lede">Cada punto es una gota de combustible encendida en la Estación Espacial. La tasa de quemado K mide qué tan rápido se consume la gota (ley d²: d² = d₀² − K·t). El relleno indica cómo terminó el ensayo y un clic abre su ficha completa.</p>
     </div>
     <div class="panel stack">
       <div class="filters">
@@ -57,8 +57,8 @@ export function mountExplorer(root, data) {
   const draw = () => {
     const rows = flex.filter(pass);
     const pts = rows.filter((r) => r.K != null && r.o2 != null);
-    drawScatter(q("#scatter"), pts);
-    q("#scatter-count").textContent = `${pts.length} ensayos mostrados de ${flex.length}. Pasa el cursor sobre un punto para ver sus condiciones.`;
+    drawScatter(q("#scatter"), pts, (r) => open(`PSI-69:${r.id}`));
+    q("#scatter-count").textContent = `${pts.length} ensayos mostrados de ${flex.length}. Pasa el cursor sobre un punto para ver sus condiciones; haz clic para abrir su ficha.`;
     drawExtinction(q("#bars"), rows, ["Methanol", "Heptane"].filter((x) => f.fuel.has(x)));
     const seq = drawCoverage(q("#coverage"), rows);
     q("#cov-legend").innerHTML =

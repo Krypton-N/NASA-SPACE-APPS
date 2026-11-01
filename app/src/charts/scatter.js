@@ -25,7 +25,7 @@ export function legendHTML(withShapes = true) {
 }
 
 /** Tasa de quemado K contra fracción de O₂: color = combustible, relleno = cómo terminó. */
-export function drawScatter(svg, rows) {
+export function drawScatter(svg, rows, onPick) {
   svg.innerHTML = "";
   const W = 820;
   const H = 420;
@@ -52,9 +52,13 @@ export function drawScatter(svg, rows) {
     const cy = y(r.K);
     const mk = marker(g, cx, cy, 4.5, cssVar(FUEL[r.fuel].color), r.end, surface);
     const hit = el("circle", { cx, cy, r: 9, fill: "transparent" }, g);
+    if (onPick) {
+      hit.style.cursor = "pointer";
+      hit.addEventListener("click", () => onPick(r));
+    }
     bindTip(
       hit,
-      () => `<b>FLEX #${r.n}</b> · ${FUEL[r.fuel].es}<br>O₂ ${fmt(r.o2)} · ${fmt(r.P)} atm<br>CO₂ ${fmt(r.co2)} · He ${fmt(r.he)}<br>d₀ ${fmt(r.d0)} mm · K ${fmt(r.K)} mm²/s<br>${END[r.end] || r.end}${r.dext ? ` a ${fmt(r.dext)} mm` : ""}`,
+      () => `<b>FLEX #${r.n}</b> · ${FUEL[r.fuel].es}<br>O₂ ${fmt(r.o2)} · ${fmt(r.P)} atm<br>CO₂ ${fmt(r.co2)} · He ${fmt(r.he)}<br>d₀ ${fmt(r.d0)} mm · K ${fmt(r.K)} mm²/s<br>${END[r.end] || r.end}${r.dext ? ` a ${fmt(r.dext)} mm` : ""}${onPick ? `<br><span class="dim">clic para ver el ensayo</span>` : ""}`,
       { on: () => mk.setAttribute("transform", `translate(${cx} ${cy}) scale(1.45) translate(${-cx} ${-cy})`), off: () => mk.removeAttribute("transform") },
     );
   });
