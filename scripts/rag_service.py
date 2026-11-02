@@ -3,20 +3,23 @@
 Conecta:
 1. Base Vectorial Local con IVF (Indexación sobre catálogo NTRS usando 'amazon.titan-embed-text-v1')
 2. Cubo OLAP SQLite ('data/olap_experimentos.db') cruzado mediante la llave foránea 'titulo_paper'
-3. LLM: 'google.gemma-3-12b-it' en AWS Bedrock (vía Converse API)
+3. Catálogo Multi-FM de Amazon Bedrock (30+ modelos: Claude, Nova, Llama, DeepSeek, Gemma, Mistral, Qwen, Nemotron, etc.)
+   invocados nativamente mediante la API Converse de AWS Bedrock.
 
 Devuelve:
-- Respuesta técnica y rigurosa generada por Gemma 3
+- Respuesta técnica y rigurosa generada por el Foundation Model seleccionado
 - Por cada documento recuperado:
   * El pedazo de información / chunk textual de donde se obtuvo la respuesta (con similitud IVF)
   * Los experimentos reales y mediciones cuantitativas del Cubo OLAP asociadas a ese paper
   * Resumen macro de las métricas (total ensayos, P en PSI, O2 %, tasas, temp pico, autoextinción)
+- Métricas del Foundation Model: tiempo de respuesta, tokens de entrada/salida y estado de inferencia.
 """
 import json
 import os
 import re
 import sqlite3
 import sys
+import time
 import boto3
 import numpy as np
 
@@ -25,18 +28,25 @@ if BASE_DIR not in sys.path:
     sys.path.insert(0, BASE_DIR)
 
 from scripts.build_vector_db_ivf import IVFVectorIndex, get_titan_embedding, get_bedrock_client, EMBED_MODEL_ID
+from scripts.bedrock_models import (
+    BEDROCK_MODELS,
+    DEFAULT_MODEL_ID,
+    FALLBACK_MODEL_ID,
+    get_model,
+    get_catalog_summary,
+)
+
 DATA_DIR = os.path.join(BASE_DIR, "data")
 DB_PATH = os.path.join(DATA_DIR, "olap_experimentos.db")
 VDB_JSON = os.path.join(DATA_DIR, "vector_db_ivf.json")
 VDB_NPY = os.path.join(DATA_DIR, "vector_db_vectors.npy")
-
-GEMMA_MODEL_ID = "google.gemma-3-12b-it"
 
 
 class FreefallRAGService:
     def __init__(self):
         self.client = get_bedrock_client()
         self.ivf_index = None
+        self.default_model_id = DEFAULT_MODEL_ID
         self._load_index()
 
     def _load_index(self):
@@ -200,8 +210,13 @@ class FreefallRAGService:
 
         return {"experiments": experiments, "summary": summary}
 
-    def ask(self, user_question, n_probe=3, top_k=3):
-        """Flujo completo RAG: Vector Search IVF + Foreign Key OLAP + Gemma 3 12B."""
+    def ask(self, user_question, model_id=None, n_probe=3, top_k=3, temperature=None, max_tokens=None, top_p=None):
+        """Flujo completo RAG con Foundation Models de AWS Bedrock.
+        
+        1. Vector Search IVF (Embeddings Titan)
+        2. Foreign Key en vivo a Cubo OLAP de experimentos
+        3. Síntesis analítica con el FM seleccionado de AWS Bedrock (vía Converse API)
+        """
         if not self.ivf_index:
             self._load_index()
             if not self.ivf_index:
@@ -209,19 +224,30 @@ class FreefallRAGService:
                     "answer": "La base vectorial IVF aún se está construyendo. Por favor espera a que termine de indexar.",
                     "primary_paper": None,
                     "all_retrieved_papers": [],
-                    "ivf_stats": None
+                    "ivf_stats": None,
+                    "model_used": None,
                 }
 
         # 1. Generar embedding de la pregunta con Amazon Titan
         q_vec = get_titan_embedding(self.client, user_question)
         if q_vec is None:
-            return {"answer": "Error al conectar con Amazon Titan para generar el embedding.", "primary_paper": None, "all_retrieved_papers": []}
+            return {
+                "answer": "Error al conectar con Amazon Titan para generar el embedding.",
+                "primary_paper": None,
+                "all_retrieved_papers": [],
+                "model_used": None,
+            }
 
         # 2. Búsqueda vectorial con índice IVF
         ivf_res = self.ivf_index.query(q_vec, n_probe=n_probe, top_k=top_k)
         retrieved_raw = ivf_res["results"]
         if not retrieved_raw:
-            return {"answer": "No se encontraron documentos relevantes en el catálogo.", "primary_paper": None, "all_retrieved_papers": []}
+            return {
+                "answer": "No se encontraron documentos relevantes en el catálogo.",
+                "primary_paper": None,
+                "all_retrieved_papers": [],
+                "model_used": None,
+            }
 
         # 3. Cruzar cada paper recuperado con el Cubo OLAP mediante 'titulo_paper'
         enriched_papers = []
@@ -236,14 +262,14 @@ class FreefallRAGService:
                 "url": p["url"],
                 "score": round(p["score"], 4),
                 "cluster_id": p["cluster_id"],
-                "chunk_text": p["snippet"],  # El pedazo de información que sacó el embedding
+                "chunk_text": p["snippet"],
                 "experiments": olap_data["experiments"],
                 "summary": olap_data["summary"]
             })
 
         top_doc = enriched_papers[0]
 
-        # 4. Construir contexto integrado (Literatura + Cubo OLAP) para Gemma
+        # 4. Construir contexto integrado (Literatura + Cubo OLAP) para el Foundation Model
         context_docs = ""
         for i, p in enumerate(enriched_papers, 1):
             context_docs += f"\n--- DOCUMENTO NTRS {i} ---\n"
@@ -262,7 +288,7 @@ class FreefallRAGService:
             "Responde a la consulta citando el documento recuperado y contrastando con los experimentos reales y mediciones del Cubo OLAP. "
             "Explica los mecanismos físicos fundamentales (llama esférica, convección forzada vs natural, extinción) y "
             "menciona claramente los números cuantitativos del Cubo OLAP (presión en PSI, oxígeno %, temperatura y tasa de quemado). "
-            "Responde en español de forma analítica, técnica y concisa."
+            "Responde en español de forma analítica, técnica, rigurosa y bien formateada."
         )
 
         user_content = (
@@ -270,17 +296,66 @@ class FreefallRAGService:
             f"CONSULTA DEL USUARIO:\n{user_question}"
         )
 
-        # 5. Llamada a Google Gemma 3 12B IT en AWS Bedrock
+        # 5. Configurar e invocar el Foundation Model en AWS Bedrock
+        chosen_id = model_id or self.default_model_id
+        model_meta = get_model(chosen_id)
+        if not model_meta:
+            # Fallback a modelo conocido si el ID es inválido
+            model_meta = get_model(self.default_model_id) or get_model(FALLBACK_MODEL_ID)
+            chosen_id = model_meta["id"]
+
+        inf_config = {
+            "maxTokens": max_tokens or model_meta.get("default_tokens", 1500),
+            "temperature": temperature if temperature is not None else model_meta.get("default_temp", 0.2),
+        }
+        # En AWS Bedrock, modelos de Anthropic no admiten temperature y topP simultáneamente
+        if "claude" not in chosen_id.lower() and top_p is not None:
+            inf_config["topP"] = top_p
+
+        t0 = time.time()
+        was_fallback = False
+        fallback_msg = None
+        input_tokens = 0
+        output_tokens = 0
+        answer_text = ""
+
         try:
             resp = self.client.converse(
-                modelId=GEMMA_MODEL_ID,
+                modelId=chosen_id,
                 system=[{"text": system_prompt}],
                 messages=[{"role": "user", "content": [{"text": user_content}]}],
-                inferenceConfig={"maxTokens": 1024, "temperature": 0.2, "topP": 0.9}
+                inferenceConfig=inf_config
             )
             answer_text = resp["output"]["message"]["content"][0]["text"]
+            metrics = resp.get("usage", {})
+            input_tokens = metrics.get("inputTokens", 0)
+            output_tokens = metrics.get("outputTokens", 0)
         except Exception as e:
-            answer_text = f"Error al invocar Gemma 3 en AWS Bedrock: {e}"
+            err_msg = str(e)
+            print(f"Aviso: Invocación de {chosen_id} falló ({err_msg[:90]}). Intentando fallback...")
+            
+            # Intento de fallback automático a Gemma 3 12B IT o Nova Lite
+            fallback_target = FALLBACK_MODEL_ID if chosen_id != FALLBACK_MODEL_ID else "us.amazon.nova-lite-v1:0"
+            try:
+                fb_meta = get_model(fallback_target)
+                fb_resp = self.client.converse(
+                    modelId=fallback_target,
+                    system=[{"text": system_prompt}],
+                    messages=[{"role": "user", "content": [{"text": user_content}]}],
+                    inferenceConfig={"maxTokens": 1200, "temperature": 0.2}
+                )
+                answer_text = fb_resp["output"]["message"]["content"][0]["text"]
+                was_fallback = True
+                fallback_msg = f"Nota: Modelo '{model_meta['name']}' requirió fallback automático a '{fb_meta['name']}' debido a: {err_msg.split('(')[0]}"
+                chosen_id = fallback_target
+                model_meta = fb_meta
+                metrics = fb_resp.get("usage", {})
+                input_tokens = metrics.get("inputTokens", 0)
+                output_tokens = metrics.get("outputTokens", 0)
+            except Exception as fb_err:
+                answer_text = f"Error al invocar Foundation Model en AWS Bedrock: {err_msg}\nFallback también falló: {fb_err}"
+
+        elapsed_ms = int((time.time() - t0) * 1000)
 
         return {
             "answer": answer_text,
@@ -292,19 +367,31 @@ class FreefallRAGService:
                 "candidates_scanned": ivf_res["candidates_scanned"],
                 "total_documents": ivf_res["total_documents"],
                 "top_similarity_score": top_doc["score"]
+            },
+            "model_used": {
+                "id": chosen_id,
+                "name": model_meta["name"],
+                "provider": model_meta["provider"],
+                "provider_id": model_meta.get("provider_id", "bedrock"),
+                "family": model_meta.get("family", "LLM"),
+                "latency_ms": elapsed_ms,
+                "input_tokens": input_tokens,
+                "output_tokens": output_tokens,
+                "was_fallback": was_fallback,
+                "fallback_msg": fallback_msg,
             }
         }
 
 
 if __name__ == "__main__":
     service = FreefallRAGService()
-    test_q = "¿Qué observó el experimento Saffire en microgravedad con SIBAL?"
-    print(f"\nPregunta: {test_q}")
-    res = service.ask(test_q)
-    print("\nRespuesta Gemma 3:")
-    print(res["answer"])
-    print("\nTop Document:")
-    print(res["primary_paper"]["titulo_paper"])
-    print(f"Total ensayos en Cubo OLAP: {len(res['primary_paper']['experiments'])}")
-    if res['primary_paper']['experiments']:
-        print("Primer ensayo:", res['primary_paper']['experiments'][0])
+    test_models = ["us.anthropic.claude-sonnet-4-6", "us.deepseek.r1-v1:0", "us.amazon.nova-pro-v1:0"]
+    test_q = "¿Por qué el silicón se autoextinguió en Saffire-II?"
+    
+    for m in test_models:
+        print(f"\n=======================================================")
+        print(f"Probando FM: {m}")
+        res = service.ask(test_q, model_id=m)
+        print(f"Modelo ejecutado: {res['model_used']['name']} ({res['model_used']['latency_ms']} ms)")
+        print("Respuesta (primeros 200 caracteres):")
+        print(res["answer"][:200] + "...")
